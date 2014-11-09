@@ -66,5 +66,10 @@ def section_name_to_index(section_name):
 
 
 def get_holding_result(held_line):
-    return 0
+    yes_index       = held_line.find('yes')
+    affirm_index    = held_line.find('affirm')
+    no_index        = held_line.find('no')
     
+    yes_index = yes_index if yes_index <= affirm_index else affirm_index
+    
+    return 0 if yes_index <= no_index else -1
