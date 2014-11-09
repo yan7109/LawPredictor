@@ -1,0 +1,24 @@
+Citation
+468 U.S. 737, 104 S. Ct. 3315, 82 L. Ed. 2d 556, 1984 U.S.
+
+Brief Fact Summary
+Parents of black public school children brought suit against the Internal Revenue Service (”IRS”), alleging that insufficient denial of tax-exempt status to racially discriminatory private schools interferes with their children’s ability to receive an education in public schools.
+
+Synopsis of Rule of Law
+Article III standing requires that a plaintiff allege a harm directly traceable to specific action on the part of the defendant.
+
+Facts
+Parents of black public school children sued the IRS, alleging that by not denying tax-exempt status to racially discriminatory private schools, the IRS was harming their children in two ways. First, the IRS conduct was in fact giving federal financial aid to racially segregated institutions. Second, the conduct encourages the operation and expansion of such schools and this interferes with desegregation of the public schools.
+
+Issue
+Does the harm alleged by the respondents fulfill the constitutional requirement of standing?
+
+Held
+No. Reversed and remanded.
+
+Dissent
+Justice John Paul Stevens (J. Stevens), dissenting, postulates that removing tax-exempt status from the private schools, will make the schools more expensive to operate, causing them to be less cost competitive or requiring them to change their admissions policies to remain open.
+
+Discussion
+While the dissent’s argument has theoretical soundness – removing tax-exempt status will cause an immediate increase in cost – the majority points out that this does not guarantee integration. For example, Private donors could still make up the difference in lost funding.
+

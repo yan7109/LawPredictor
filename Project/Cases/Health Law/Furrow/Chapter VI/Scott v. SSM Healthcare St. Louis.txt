@@ -1,0 +1,21 @@
+Citation
+Mo. Ct. App., 70 S.W.3d 560 (2002)
+
+Brief Fact Summary
+Matthew Scott (Plaintiff) suffered serious injuries from a sinus infection that spread into his brain.  He and his mother brought suit against the hospital (Defendant), the emergency room doctor (Defendant), and the radiologist (Defendant).
+
+Synopsis of Rule of Law
+Although a doctor does retain independent medical judgment, the court is not precluded from finding that an employer-employee or principal-agent relationship exists between the hospital and physician.
+
+Facts
+Matthew Scott (Plaintiff) suffered serious injuries resulting from a sinus infection that spread into his brain.  However, first he was involved in a car accident and was taken to the hospital (Defendant) where he was treated for minor injuries and released to his father.  Plaintiff returned to the emergency room two days later complaining of a severe headache.  Dr. Doumit (Defendant) ordered a CT scan of his head.  Dr. Richard Koch (Defendant), a radiologist and partner at Radiologic Imaging Consultants (RIC), read the CT film and determined the scan was normal.  Plaintiff was diagnosed with a mild concussion and sent home.  When Plaintiff's headache continued the next day, his parents called the hospital (Defendant) three times and informed Doumit (Defendant) that Plaintiff was nauseous, lethargic, and vomiting.  Doumit (Defendant) told them these were signs of a minor concussion and that if Plaintiff did not improve within a few days, they should bring him back.  The next day, Plaintiff collapsed, losing all use of the right side of his body.  A spinal tap and CT scan were performed, revealing an infection at the top of his brain.  Many different surgeries were performed on Plaintiff, and he was in a coma for several weeks.  Plaintiff did recover to a degree, but he had serious permanent injuries including a significant degree of paralysis on the right side of his body.  He and his mother (Plaintiff) brought suit against the hospital (Defendant), Doumit (Defendant) and Koch (Defendant).
+
+Issue
+Although a doctor does retain independent medical judgment, does that preclude a court from finding that an employer-employee or principal-agent relationship exists between the hospital and physician?
+
+Held
+[Judge not stated in casebook excerpt.]  No.  Although a doctor does retain independent medical judgment, the court is not precluded from finding that an employer-employee or principal-agent relationship exists between the hospital and physician.  First, a jury question is presented when the evidence is sufficiently conflicting that reasonable minds may not agree as to whether agency existed.  Doumit (Defendant) was on staff, so there is not dispute that he was an agent of the hospital (Defendant).  However, Koch (Defendant) worked for RIC, which was a partnership and signatory to a contract with the hospital (Defendant).  The hospital (Defendant) did not make payment to Koch (Defendant) nor assign his hours or bill for his services.  However, with regard to Koch (Defendant), the hospital (Defendant), among other things, set the medical standards, established qualifications, set prices, set liability insurance requirements, maintained a right to terminate, and provided office space.  And the fact that the hospital (Defendant) does not have the right to stand over Koch's (Defendant) shoulder and dictate how he should treat patients does not change the fact that a factual issue exists regarding the existence of an agency relationship.  Affirmed.
+
+Discussion
+Because the relationship between physician and hospital is complicated, questions regarding the doctor's status with respect to her relationship to a hospital are often left to a jury. Doctors need to be autonomous to do their work, and so have much more independence than employees in other industries.  Therefore, the fact that they are "agents" of the hospital may not be obvious.
+

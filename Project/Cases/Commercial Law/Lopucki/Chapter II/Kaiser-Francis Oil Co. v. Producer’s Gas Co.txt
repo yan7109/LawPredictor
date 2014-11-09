@@ -1,0 +1,21 @@
+Citation
+870 F.2d 563; 1989 U.S. App. 2738; 8 U.C.C. Rep. Serv. 2d (Callaghan) 1048; 105 Oil & Gas Rep.
+
+Brief Fact Summary
+Kaiser-Francis Oil Co. (Plaintiff) sought to enforce the provisions of two similar gas purchase contracts against Producer’s Gas Co. (Defendant). Defendant appeals from judgment of the district court granting summary judgment of the issue of liability in favor of the Plaintiff.
+
+Synopsis of Rule of Law
+A force majeure event does not include a decline in demand or an inability to sell gas at or above the contract price.
+
+Facts
+In a contract between Plaintiff and Defendant, Defendant was required to pay for certain quantities from wells in which Plaintiff had an interest. When the resale price of gas decreased, the Defendant did not pay the Plaintiff because he was paying the Plaintiff’s co-owners at reduced prices. Defendant also declined to pay Plaintiff for the small amount of gas taken. The district court granted summary judgment on the issue of liability in favor of Plaintiff. The parties then stipulated to the appropriate damages, interest, and attorney’s fees. Defendant argues on appeal that the force majeure provision in the contract extends to a partial lack of demand caused by market forces; the gas to be supplied by Plaintiff failed to meet the quality specification of the contract; Defendant was not purchasing gas from Plaintiff but rather from Plaintiff’s co-owner; and any take-or-pay payments required under the contract violate ceiling prices set by the Natural Gas Policy Act.
+
+Issue
+Whether the Defendant is liable under the contract?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+A take-or-pay provision states that a seller shall sell and deliver and buyer shall purchase and receive from seller for available but not taken quantity. Force majeure includes acts of god, strikes, lockouts, industrial disputes, civil disturbances, arrests, wars, riots, fires, explosions, breaker or accident to machinery, freezing of wells, inability to obtain interests in realty, making of repairs, and partial or entire failure of gas supply or demand over which neither seller nor buyer have control or any other cause.
+

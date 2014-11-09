@@ -1,0 +1,21 @@
+Citation
+2000 WL 1469313
+
+Brief Fact Summary
+Plaintiff entered into a consumer credit transaction with the defendant.  The defendant moved to dismiss several counts of the Amended Complaint.
+
+Synopsis of Rule of Law
+A “home improvement installment contract” is exempt from certain fees, costs, and commissions under the HIFA and the term does not apply when “the loan is a contract for or obtained directly by the retail buyer from the lending institution, person or corporation.”  Secondly, the Holder Rule preserves the consumer’s legal claims and defenses.
+
+Facts
+The defendant, Old Kent Mortgage (the “defendant”), filed a motion to dismiss several counts of the Amended Complaint. According to the complaint, the plaintiff contacted Quality Builders concerning some home improvements. Quality Builders promised to obtain financing for the cost of the home improvements which cost $14,900.00.  Quality Builders contacted Accelerated Mortgage who in turn, contacted the defendant to arrange financing.  Rather than obtaining the original amount of $14,900.00, the plaintiff entered into a consumer credit transaction giving Old Kent a mortgage on her home in the amount of $36,000.00.  The mortgage consolidated several debts and included various fees and origination costs.
+
+Issue
+Is the loan considered a “home improvement installment contract” so that certain fees, costs, and commissions that accompanied the loan violate the Home Improvement Finance Act (HIFA)?
+
+Held
+Yes.  The court found that the loan was a “home improvement installment contract” so the inclusion of certain fees, costs, and commissions was violative of the HIFA.  The defendant contended that the loan was not a “home improvement installment contract” because it was a direct loan between the retail buyer and the lender and HIFA provides an exception for direct loans.  The court determined that the loan was not a direct loan because “Quality Builders contacted Accelerated Mortgage who contacted Old Kent to arrange for financing.”  Accelerated Mortgage identified themselves as an independent contractor who distributed loan products and Accelerated Mortgage received compensation from Old Kent for its services.  Therefore, the court found that the loan was not a direct loan between the plaintiff and the defendant.
+
+Discussion
+The Notice of Preservation of Claims and Defenses states:  “Any holder of this consumer credit contract is subject to all claims and defenses which the debtor could assert against the seller of goods or services obtained pursuant hereto or with the proceeds hereof.  Recovery hereunder by the debtor shall not exceed amounts paid by the debtor hereunder.”
+

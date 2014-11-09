@@ -1,0 +1,27 @@
+Citation
+521 U.S. 811 (1997)
+
+Brief Fact Summary
+Four senators (P) and two congressmen (P) voted against the Line Item Veto Act of 1996. Later they filed a suit against the Act on the grounds that it violated the constitution.
+
+Synopsis of Rule of Law
+Congress members do not the right in law to bring an action against a bill alleging its being unconstitutional if their votes in respect of the bill have been accepted as effective, whether for or against.
+
+Facts
+The Line Item Veto Act of 1996 made provision for the possible cancellation of certain items of expenditure in any bill or joint resolution, by presidential veto, after the president had signed them into law. Once both houses of Congress received a special message from the President notifying them of the cancellation with specific reference to the canceled item, his action would take effect. This could be undone only by a two-thirds majority of each House re-enacting the Act over the president’s veto or by passing a disapproval bill signed by the president. The act also made provision for any member of Congress to challenge the constitutionality of the Act by law. Following this, four senators (P) and two congressmen (P) brought a suit challenging the Act as unconstitutional. The district court gave summary judgment against the Act as unconstitutionally handing over the power of the executive to the president, and also violating the Presentment Clause. It justified the members’ standing in challenging the validity of the Act since their voting rights had been severely infringed upon by the Act. The Supreme Court reviewed the case.
+
+Issue
+Do Congress members whose votes for or against a bill have been recognized with full effect have legal standing to file suit against the constitutionality of the bill?
+
+Held
+(Rehnquist, C.J.) No. Members of Congress whose votes for or against a bill have been accepted have no standing to challenge its constitutionality in court. For a federal court to have jurisdiction over a dispute, there must be an injury cognizable under law and a genuine dispute. The Supreme Court had previously declared that legislators had standing to claim an injury to the legislature as an institution, in the case of Coleman v. Miller, 307 U.S. 433 (1939), that case had to do with the invalidation of their voting power. In this case, the congressmen were allowed to exercise full voting rights but lost in the voting. It is the dilution of the voting power of the legislation as an abstract possibility which is the issue here, in contrast to Coleman where the members had truly lost their voting power. This abstract risk does not amount to a real personal injury and so the members (P) have no standing in the case as suitors. They could still repeal the Act. Another option is for a member who suffers an injury under law as a consequence of the operation of the Act to file a case against it as being unconstitutional. The suit was vacated and remanded with instructions to the lower court to dismiss the complaint
+
+Dissent
+(Stevens, J.) Under the Act, all Congress members can no longer vote against the altered statute that is left after the president has exercised his authority to cancel certain items of expenditure in it. This right is one guaranteed under the Constitution, showing that the members in this case do have standing to sue. The knowledge that the president has the authority to cancel any measure which they have exerted their voting rights as legislators to vote into law acts as a constant deterrent to such an exercise, infringing upon their lawmaking rights.
+
+Concurrence
+(Souter, J.) In this case, the issues can be decided by applying the general principles of separation-of-powers which act as the foundation for the standing requirements. The intervention of the judiciary in this dispute would only result in its being made party to a struggle for power within the House. A better way to challenge this Act would be for a private party to bring a suit, which would provide a genuine opportunity to give decision as to the right allocation of power between the executive and legislature.
+
+Discussion
+The Supreme Court ignored the fact that the Act itself gives the members right to challenge its constitutionality in court. The majority view was that the members (P) had not suffered any true injury and so had no standing to sue. However, Justice Stevens raised the valid point that they had in fact suffered a drastic alteration and restriction of their voting rights. Justice Souter is undoubtedly right in indicating that the Act will be challenged on constitutional grounds by a private party soon.
+

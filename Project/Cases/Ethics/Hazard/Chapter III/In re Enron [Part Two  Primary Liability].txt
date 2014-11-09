@@ -1,0 +1,21 @@
+Citation
+235 F. Supp. 2d 549,2002 U.S. Dist.
+
+Brief Fact Summary
+In this stage of the Enron opinion, the 10th Circuit narrows down the “substantial participation or intricate involvement” test in an attempt to determine which parties should be held as primary violators and which should be classified merely as secondary actors.
+
+Synopsis of Rule of Law
+The 10th Circuit’s “substantial participation or intricate involvement” test may allow secondary parties to be held liable as primary violators in securities actions if they knowingly assisted in a misrepresentation with the appropriate scienter.
+
+Facts
+Refer to Part One of this opinion for the complete factual background.
+
+Issue
+How can the 10th Circuit’s “substantial participation or intricate involvement” test be used to differentiate between a primary violator and aiding and abetting?
+
+Held
+The 10th Circuit adopts the SEC’s scienter test, in which secondary actors may be liable as primary violators if they act with the proper scienter in preparing false or misleading documents-even if the misconduct was initiated by another party.
+
+Discussion
+Under this definition of the 10th Circuit’s test, lawyers could be held as primary violators in securities cases if they knowingly assisted in “any manipulative or deceptive contrivance.”
+

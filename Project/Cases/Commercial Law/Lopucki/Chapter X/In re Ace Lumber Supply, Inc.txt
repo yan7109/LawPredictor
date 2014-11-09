@@ -1,0 +1,21 @@
+Citation
+105 B.R. 964, 1989 Bankr. 1710,10 U.C.C. Rep. Serv. 2d (Callaghan) 989
+
+Brief Fact Summary
+Minot Builder’s Supply, (Plaintiff), moves for relief from the automatic stay under 362 of the Bankruptcy Code. The trustee objects claiming Plaintiff is not a secured creditor.
+
+Synopsis of Rule of Law
+A writing establishes a security agreement when the language in the writing objectively indicates that the parties may have intended to create a security in the collateral and the parties actually intended to create a security interest.
+
+Facts
+Ace Lumber Supply, Inc. purchased products from Plaintiff during the operation of its supply business. By April of 1988 there was an outstanding debt of $160,000. The parties had a series of conversations that culminated in an oral agreement that the delinquent account and current purchases would be secured by Ace Lumber Supply’s inventory, account’s receivable, and equipment. The only writing to evidence that agreement was a U.C.C.-1 financing statement signed by representatives of both parties and filed. The trustee contends that the financing statement does not satisfy the writing requirements of UC.C. Section:9-203(b).
+
+Issue
+Whether a U.C.C.-1 financing statement alone is sufficient under U.C.C. Section:9-203(b)(3)(A) to create a security interest in the Debtor’s assets.
+
+Held
+No. A U.C.C.-1 financing statement alone is insufficient under U.C.C. Section:9-203(b)(3)(A) to create a security interest in the Debtor’s assets
+
+Discussion
+There is simply no language in the financing statement evincing intent to create a security agreement. There are no other writings between the parties that would objectively indicate that the parties intended to create a security interest. Therefore Plaintiff is not a secured creditor.
+

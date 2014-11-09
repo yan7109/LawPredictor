@@ -1,0 +1,24 @@
+Citation
+514 U.S. 549, 115 S. Ct. 1624, 131 L. Ed. 2d 626, 1995 U.S.
+
+Brief Fact Summary
+The Defendant, Lopez (Defendant), a high school senior, was indicted under the federal Gun-Free School Zones Act of 1990 (the Act). The Act prohibited knowing possession of a firearm at a place the individual has reasonable cause to believe is a school zone.
+
+Synopsis of Rule of Law
+Mere possession of a firearm does not have enough of a connection to interstate commerce to support prohibition under the commerce power.
+
+Facts
+Defendant was arrested under Texas state law for bringing a .38 caliber handgun to school. The next day, state charges were dropped, and Defendant was indicted under the Act. Defendant challenged the law as an unconstitutional exercise of the commerce power.
+
+Issue
+May Congress prohibit mere possession of a firearm in a designated space under the Commerce Clause?
+
+Held
+No. Appeals court ruling affirmed.
+
+Dissent
+Justice John Paul Stevens (J. Stevens) argues that the vital importance of education to commerce among the states and with foreign nations justifies the use of the commerce power to secure the educational environment.
+
+Discussion
+United States v. Lopez is a radical departure from the Commerce Clause cases from 1937 until 1995. Notably, the majority attempts to reincorporate the Commerce Clause jurisprudence from the early 20th century with the following cases, as Souter, dissenting, bemoans. In his concurrence, Kennedy hints at another hidden fear: if the Commerce Clause jurisprudence is being redefined, what does this say about the modern civil rights cases (which were all decided under the Commerce Clause)?
+

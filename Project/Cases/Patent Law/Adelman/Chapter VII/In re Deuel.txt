@@ -1,0 +1,21 @@
+Citation
+51 F.3d 1552 (Fed. Cir. 1995)
+
+Brief Fact Summary
+Deuel's discovery of the sequences of similar tissue growing proteins in human and bovine cells was determined obvious by the Patent Board.
+
+Synopsis of Rule of Law
+A prima facie case of obviousness regarding a chemical entity that is structurally new requires that the teachings of a prior art suggest the claimed compounds to a person of ordinary skill in the art.
+
+Facts
+Deuel's invention related to a protein called heparin-binding growth factor (HBGF), which facilitated the repair of damaged tissue.  Deuel used bovine uterine and human placental cells and isolated and determined the DNA sequences and growth factor sequences of HBGF in both.  On these sequences, his patent claims were rejected due to obviousness.  The patent examiner and the Board cited two prior references, Bohlen and Maniatis.  Bohlen confirmed that a similar protein, heparin-binding brain mitogen (HBBM) was exactly the same in bovine and human brain tissues, but taught that this was brain-specific.  Bohlen did not provide any teachings regarding DNA coding of HBBMs.  Maniatis provided a way of gene cloning used by Deuel.  Deuel appealed the rejection.
+
+Issue
+Does a prima facie case of obviousness regarding a chemical entity that is structurally new require that the teachings of a prior art suggest the claimed compounds to a person of ordinary skill in the art?
+
+Held
+(Lourie, J.)  Yes.  A prima facie case of obviousness regarding a chemical entity that is structurally new does require that the teachings of a prior art suggest the claimed compounds to a person of ordinary skill in the art.  In this case, the prior art did not reveal any complementary DNA molecules that were relevant, let alone any close relatives.  It is speculation and impermissible hindsight for the Board to assume one might have been motivated to try to do what Deuel did.  Bohlen claimed the proteins to be brain specific, which actually taught against Deuel.  In Maniatis, the existence of a general method of isolating DNA is irrelevant to the question of whether the specific molecules would have been obvious.  Reversed.
+
+Discussion
+Judge Lourie wrote the opinions for both In re Dillon, 919 F.2d 688 (Fed. Cir. 1990), and In re Deuel.  The confusion in determining the exact standards after both opinions reveals less about Lourie's judgment and more about the difficulty involving patents in the biotechnology field.  In Europe, the patenting of genes is very controversial, but Japan has demonstrated more openness to the idea.  Some critics have stated that patenting complementary DNA sequence codes created from an obvious manipulation should not be eligible for patent, but, instead a "reasonable expectation of success" hurdle should be crossed.   In other words, if the prior art indicates that it is reasonably likely that one could achieve success in this manipulation, then it is prima facie obvious.  See Varma and Abraham, "DNA is Different: Legal Obviousness and the Balance Between Biotech Inventors and the Market," 9 Harv. J.L. & Tech. 53 (1996).
+

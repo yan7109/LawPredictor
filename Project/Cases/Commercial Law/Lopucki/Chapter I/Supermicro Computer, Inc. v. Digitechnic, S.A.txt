@@ -1,0 +1,21 @@
+Citation
+145 F. Supp. 2d 1147, 2001 U.S. Dist. 7620
+
+Brief Fact Summary
+Digitechnic, S.A., (Defendant) filed suit in France claiming that the computer parts that Supermicro Computer, Inc., (Plaintiff), sold Defendant were defective. Plaintiff denies these allegations and relies on terms in the contract that disclaim warranties and limit its liability. Plaintiff has filed suit in this court seeking declaratory judgment on these points.
+
+Synopsis of Rule of Law
+Under CISG if a buyer is not aware of any disclaimers, the disclaimers might not be valid.
+
+Facts
+Defendant made fourteen purchases of computer parts from Plaintiff via phone or email. Plaintiff included a sales invoice and user manual with each shipment that included terms disclaiming warranties and limiting Plaintiff’s liability. When some of the computer parts caught fire, Defendant demanded $200,400 for replacement parts and roughly $6,000,000 in various consequentials. Plaintiff refused claiming the terms of the contract limited Defendant’s remedy to repair and replacement only. Defendant filed suit in France. After over one year of continuing litigation in France, Plaintiff filed this action in North Dakota seeking a declaration that the parts were not defective but failed due to Defendant’s misuse and regardless, Defendant’s only remedy would be repair and replacement.
+
+Issue
+Whether a warranty disclaimer in a purchase order is valid under CISG.
+
+Held
+Given that this issue of law is unsettled, this factor weighs against the court in exercising its discretion to hear the matter in favor of the French Court that already has the issue before it.
+
+Discussion
+Plaintiff argues that Article 35 of CISG permits warranty disclaimers such as this one. In fact, Article 35 deals with seller’s obligation to deliver conforming goods. It does not deal with disclaimers. If anything the disclaimer might be invalid because CISG requires a mirror image approach to contract negotiations that allows the court to inquire into the subjective intent of the parties.
+

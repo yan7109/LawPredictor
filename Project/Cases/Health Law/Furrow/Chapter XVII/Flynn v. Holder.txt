@@ -1,0 +1,21 @@
+Citation
+684 F. 3d 852 (9th Cir. 2012)
+
+Brief Fact Summary
+A suit was brought against Attorney General "Holder" (Government) (Defendant) by Flynn, parent of a sick child, other parents of sick children, a doctor and a medical school professor, an expert in the field of bone marrow transplantation, and a non-profit organization (Plaintiffs), claiming the ban on compensation for human organs in the National Organ Transplant Act was unconstitutional as applied to bone marrow transplants.
+
+Synopsis of Rule of Law
+The compensation of bone marrow donors, conducted through newer, less invasive procedures, is not a violation of the National Organ Transplant Act.
+
+Facts
+The Plaintiffs are parents of sick children who have diseases such as leukemia and a rare type of anemia, which can be fatal without bone marrow transplants.  They, along with a doctor and professor, claim that one out of five patients die because no matching bone marrow donor can be found, and many other patients have complications when scarcity of matching donors compels the use of imperfectly matched donors.  Another Plaintiff, a non-profit organization, wants to operate a program incentivizing bone marrow donations.  The corporation would like to offer $3,000 awards in the form of scholarships, housing allowances, or gifts to charities selected by donors.  The initial donors are to be minority and mixed race donors of bone marrow cells, who are likely to have the rarest marrow cell type.  The Plaintiffs claim that the program cannot be launched because the National Organ Transplant Act (NOTA) criminalizes payment of compensation for organs, and classifies bone marrow as an organ.
+
+Issue
+Is the compensation of bone marrow donors, conducted through newer, less invasive procedures, a violation of the National Organ Transplant Act?
+
+Held
+(Kleinfeld, J.)  No.  The compensation of bone marrow donors, conducted through newer, less invasive procedures, is not a violation of the National Organ Transplant Act (NOTA).  Under NOTA, it is a felony "to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation."  And it defines the term "human organ" to include "bone marrow."  Therefore, the statute specifically prohibits compensating bone marrow donors.  According to the Government (Defendant), Congress took the view that "human body parts should not be viewed as commodities," and had several policy reasons for disallowing compensation to donors, which suffice to serve as a rational basis for the prohibition.  The Defendant argues that since it is much harder to find a match for patients who need bone marrow transplants than for patients who need blood transfusions, it could trigger exploitive market forces if bone marrow could be bought.  The Defendant also claims that peripheral blood stem cell apheresis is a greater health risk for the donor than a blood donation, because of the side effects of the medicine used to increase stem cell secretion.
+
+Discussion
+This case raises a sad statistic, that bone marrow donors are available, but may not be motivated to donate.  Instead, Plaintiffs suggested establishing a program, not unlike the payment for blood donations, to make bone marrow donations increase by offering compensation.  The logic of NOTA to forbid payment for organs was not in dispute, but the application on bone marrow donations specifically through a newer and less invasive procedure was struck down by the court.
+

@@ -1,0 +1,27 @@
+Citation
+544 U.S. 550 (2005)
+
+Brief Fact Summary
+A fee required by the government for government advertising under the Department of Agriculture (D) was contested by the Livestock Marketing Association (P) on the ground that all cattle producers did not agree with the advertised message, and so the fee violated their right to free speech.
+
+Synopsis of Rule of Law
+A federal law which requires private funding of advertising even if the payers do not agree with the message is not in violation of the First Amendment in all cases.
+
+Facts
+A fee was imposed on all cattle producers to pay for generic beef advertisements sponsored by the government on behalf of the whole beef industry, under the Beef Promotion and Research  Act (1985). The Livestock Marketing Association (P) sued the Department of Agriculture (D) in federal district court on the grounds that requiring a government fee for advertising when it included a message with which all cattle producers did not agree was a violation of free speech. The district court ruled in favor of the Association and the Eighth Court of Appeals affirmed the decision that the advertising was forced and did not confirm government speech.
+
+Issue
+Is a federal statute which compels private parties to pay for advertising  a message they do not agree with in violation of the First Amendment in all cases?
+
+Held
+(Scalia, J.) No. A federal law which compels private funding of a message by the government even when the parties funding it do not agree with the message is not inevitably a violation of the First Amendment. The content of the speech in this case was completely decided by the government, and so the advertising is government speech. The cattle producers therefore funded government speech by their contributions to the fund. This is acceptable under the First Amendment while compelling others to fund private speech raises the issue of violation of free speech.
+
+Dissent
+(Kennedy, J.) The advertisements here cannot be interpreted as government speech.
+
+Concurrence
+Thomas, J.) Any regulation which makes funding of advertising mandatory needs to be under strict scrutiny but this needs to be modified if the speech is the government’s own speech.
+
+Discussion
+The Court was asked to give judgment on a federal program with the object of marketing, for the third time in eight years, engendering a doubt as to the rightness of the prior decisions. The present decision in which advertising was considered in the light of government speech may help to remove certain of these programs out of the reach of  the First Amendment.
+

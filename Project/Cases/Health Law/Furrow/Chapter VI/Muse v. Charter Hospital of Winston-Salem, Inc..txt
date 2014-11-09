@@ -1,0 +1,21 @@
+Citation
+N.C. Ct. App., 117 N.C. App. 468, 452 S.E.2d 589 (1995)
+
+Brief Fact Summary
+Against his doctor's wishes, Muse was discharged from Charter Hospital of Winston-Salem, Inc. (Defendant), because his insurance had expired.
+
+Synopsis of Rule of Law
+Hospitals have a duty to not make policies or practices that require patients to be discharged against the medical judgment of a doctor because the patients insurance has expired.
+
+Facts
+Joe Muse was a sixteen-year-old having suicidal thoughts and impulses when he was hospitalized in June 1986 for treatment related to his depression.  His insurance coverage was due to expire on July 12, 1986.  As that date approached, Dr. Barnhill, Joe's doctor, decided that a blood test was needed in order to determine a correct drug dosage.  The blood test was scheduled for July 13.  Barnhill requested that Charter Hospital of Winston-Salem, Inc. (Defendant) allow Joe to stay for a few more days and Joe's parents, the Muses (Plaintiffs), agreed to pay for the extra days.  Joe was discharged on July 14 even though his blood results had not yet come back.  Afterwards, Joe committed suicide on July 31.  The Plaintiffs filed suit against Defendant charging negligence for the policy of discharging patients when their insurance expired in spite of the medical judgment of the patient's doctors.  The Plaintiffs were awarded by the jury $1 million in compensatory and $2 million in punitive damages.  Defendant appealed, arguing that hospitals could not be liable for an action of this type.
+
+Issue
+Do hospitals have a duty to not make policies or practices that require patients to be discharged against the medical judgment of a doctor because the patients insurance has expired?
+
+Held
+(Lewis, J.)  Yes.  Hospitals have a duty to not make policies or practices that require patients to be discharged, against the medical judgment of a doctor, because the patient's insurance has expired.  It is known that hospitals have a duty of care to their patients and must obey a doctor's instruction.  Hospitals are also required to make a reasonable effort to monitor and oversee the treatment prescribed.  Therefore, it is clear that hospitals also have the duty not to discharge patients for insurance reasons if it interferes with the medical judgment of the patient's doctor.  In this case, the evidence at trial showed that Defendant had a policy of discharging patients when their insurance expired.  The record also shows that Dr. Barnhill made it known to Defendant that he did not believe Joe should be discharged.  The compensatory damages are affirmed.  The punitive damages are reversed for other reasons.  No error in part, reversed in part, and remanded.
+
+Discussion
+The court also ruled that the jury was correct in finding that the conduct of Defendant was willful and recklessly indifferent.  This case goes beyond other decisions in defining the duty of a hospital.  The decision seems based on the notion that health care mandates different types of duties because it is a different type of service.
+

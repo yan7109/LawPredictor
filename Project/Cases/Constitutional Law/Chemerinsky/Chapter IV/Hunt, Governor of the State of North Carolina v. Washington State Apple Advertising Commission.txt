@@ -1,0 +1,21 @@
+Citation
+432 U.S. 333, 97 S. Ct. 2434, 53 L. Ed. 2d 383, 1977 U.S.
+
+Brief Fact Summary
+A North Carolina law was challenged by the Plaintiff, the Washington State Apple Advertising Commission (Plaintiff), on the ground that it had a discriminatory impact, which caused it to violate the Commerce Clause of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+A facially neutral state law is unconstitutional and violates the Commerce Clause if it has a discriminatory effect on interstate commerce.
+
+Facts
+The Defendant, North Carolina (Defendant), enacted a statute requiring all closed apple containers to bear “no grade other than an applicable U.S. grade,” which is set by the United States Department of Agriculture (USDA). The State of Washington (a huge apple-producing state) had a different grading system, which was superior to the quality set by the USDA. The Plaintiff challenged the statutes’ constitutionality contending it burdened interstate commerce by altering Washington apples when they got to North Carolina. North Carolina defended their statute asserting they were trying to prevent apple fraud. A district court agreed with the Plaintiff.
+
+Issue
+Can a facially neutral state law be unconstitutional and in violation of the Commerce Clause if it has a discriminatory effect on interstate commerce?
+
+Held
+Yes, if a state law has a discriminatory impact, even if it is neutral on its face, it violates the Commerce Clause.
+
+Discussion
+The statute raises the cost of selling apples in North Carolina, except for North Carolina apple growers. The Washington system is expensive and the industry is competitive, more so than North Carolina’s. By prohibiting Washington apples from marketing apple’s under their state’s grades, it has a leveling affect, which is unfairly economically advantageous to local apple growers in North Carolina. Because the Washington grade is known for being superior, the Supreme Court of the United States (Supreme Court) contends that North Carolina evened the playing field unfairly and in violation of the Commerce Clause.
+

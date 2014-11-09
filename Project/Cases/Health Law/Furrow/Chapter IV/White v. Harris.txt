@@ -1,0 +1,21 @@
+Citation
+Vt. Sup. Ct., 190 Vt. 647, 36 A.3d 203, 2011 Vt. 115 (2011)
+
+Brief Fact Summary
+As part of a telepsychiatry research study, Plaintiffs' minor daughter was treated for a short time by a psychiatrist working for Fletcher Allen Health Care, Inc. (Defendant).  Following the end of the study, no further treatment or follow-up services were provided.  The Plaintiff's daughter committed suicide, and Plaintiffs alleged the doctor (Defendant) breached his duty of care.
+
+Synopsis of Rule of Law
+A doctor cannot limit his duty of care by contract.
+
+Facts
+After their fourteen-year-old daughter committed suicide, Plaintiff's sued Fletcher Allen Health Care, Inc. (Defendant) whose psychiatrist was briefly involved with the case of the decedent through a telepsychiatry research study.  As part of the study, Plaintiffs and decedent completed pre-assessment documentation, participated in a ninety-minute videoconference session with the psychiatrist, and completed a questionnaire regarding their reaction to using telemedicine.  The psychiatrist later completed a consultation evaluation that described decedent and the history of her present illness.  The doctor also gave his diagnostic impression of decedent in the evaluation and presented recommendations for her initial treatment plan.  Specifically, the evaluation stated that, in accordance with the telepsychiatry research protocol, no follow-up services would be provided and no medication prescriptions would be directly provided by the doctor.  The report also explained that the recommended plan of treatment to possibly be implemented was to be considered by decedent's treatment team, including her primary care physician.  After the psychiatrist sent his evaluation, he had no further contact with Plaintiffs, decedent, or any member of her treatment team.  Following her suicide, Plaintiffs sued alleging that the treatment of decedent by Defendant, among eight doctors and medical care providers, "fell below the standard of care required of reasonably skillful, careful, and prudent professionals," and that she soon died as a result.  Defendant moved for summary judgment asserting that its doctor had no duty to decedent when she committed suicide because a doctor-patient relationship had not been established.  On the other hand, Defendant argued that any such relationship was formally terminated in writing after their one-time interaction.  The trial court agreed that no duty existed at the time of decedent's death and granted summary judgment.  Plaintiffs appealed.
+
+Issue
+Can a doctor limit his duty of care by contract?
+
+Held
+(Reiber, C.J.)  No.  A doctor cannot limit his duty of care by contact.  Plaintiffs argue that the court erred in finding that no duty was owed to the decedent by the doctor.  They maintain that the doctor had a duty to practice reasonable care to protect decedent from the danger she posed to herself, and that the doctor did not effectively terminate the doctor-patient relationship before decedent's death.  This court is in agreement that a duty to the provided service applies.  The doctor had a duty of due care in his professional contact with decedent, which was not eliminated by the procedure followed to end their professional relationship.
+
+Discussion
+In a true test regarding the proper expectations of both the treating doctor and the patient (or patient's parents), the court found that the doctor could not simply limit his duty of care by contract.  The multi-part test affirmed by the court shows that there are more professional responsibilities that cannot be fulfilled simply by agreement.  This is not to confuse the issue of the standard or quality of care, but rather if a doctor can conclusively withdraw from a patent without maintaining some measure of concern for the patient's well-being.  Here, the threshold issue was resolved.  The doctor did not effectively end the doctor-patient relationship and may still be liable for the consequences of poor care.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.783 F.2d 716, 40 FEP Cases 244 (7th Cir. 1986)
+
+Brief Fact Summary
+Plaintiffs, prospective class action representatives, sued Defendant in federal court based on sex discrimination. Plaintiffs’ complaint contained general allegations of intentional wage discrimination as well as more specific allegations of disparate wage discrimination. Defendant moved to dismiss the complaint pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure on the grounds that the specific allegations did not state a claim upon which relief could be granted, which the Court granted.
+
+Synopsis of Rule of Law
+If a complaint’s allegations are ambiguous and one reading states a possible claim, the claim cannot be dismissed under Rule 12(b)(6) of the Federal Rules of Civil Procedure. The defendant can only move for the court to order the plaintiff to allege a more definite statement of the claim.
+
+Facts
+Plaintiffs, prospective representatives of a class of female nurses employed by the State of Illinois, sued the State of Illinois, Defendant, for violation of 42 U.S.C. Section: 2000e, Title VII of the Civil Rights Act of 1964 (Title VII) and the equal protection clause of the Fourteenth Amendment to the U.S. Constitution, alleging sex discrimination. The complaint stated that Defendant failed to pay male and female employees equally. The District Court dismissed the complaint because failure to pay employees in accordance with comparable worth alone does not violate federal anti-discrimination laws. Plaintiff appealed.
+
+Issue
+If it is possible to read Plaintiffs’ complaint to allege that Defendant paid female employees less than their male counterparts with the intent to discriminate against women based on sex, can the claim be dismissed notwithstanding the fact that a common reading of the complaint’s allegations would not support a valid claim?
+
+Held
+No. Reversed and remanded.  Although the examples of discrimination alleged in the complaint only illustrate that females were paid less than males, which is not an act sufficient to constitute actionable discrimination, this was only an illustration and not the entire claim.  The complaint alleges that Defendant intentionally and willfully discriminated based on sex in payment of wages, which is enough to state a claim.  The complaint does not fail because it contains futile allegations or facts that would not state a claim standing alone.  Defendant can move to for a more definite statement of the complaint but cannot move to dismiss if the complaint does contain a possible claim.
+
+Discussion
+The case demonstrates that even if a lengthy complaint contains specific allegations that do not state a claim that would entitle the plaintiff to relief, the complaint cannot be dismissed pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure if there are other allegations that could be read to state a claim. If there is one possible reading of the allegations of the complaint to support a claim for relief, the complaint cannot be dismissed. It should also be noted that the defendant’s remedy is to move for a more definite statement of the claim.
+

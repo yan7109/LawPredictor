@@ -1,0 +1,21 @@
+Citation
+1995 U.S. Dist. 15180
+
+Brief Fact Summary
+The Federal Deposit Insurance Corporation, (FDIC), as a receiver for Citytrust Bank, brought suit against Lenox Hill Radiology Associates for default on a loan and Toshiba as a guarantor of that loan. Lenox Hill Radiology Associates settled with FDIC in exchange for a mutual release in which FDIC specifically reserved its right to pursue Toshiba and Diasonics as guarantors of the loan. Toshiba filed a motion for summary judgment.
+
+Synopsis of Rule of Law
+When a creditor clearly reserves his rights against a surety, the debtor is notified that the release is no more than a covenant not to sue; the debt remains alive, the surety is not discharged, and the surety’s rights to reimbursement and subrogation are unimpaired.
+
+Facts
+Lenox Hill Radiology Associates owed $5.5 million to Citytrust Bank. Diasonics guaranteed the loan (and Toshiba later assumed the guaranty) to the extent of $725,000. The FDIC sued Lenox Hill Radiology Associates and Toshiba as receiver for Citytrust. FDIC settled with Lenox Hill Radiology Associates in an amount less than the principal in return for a mutual release that specifically reserved the FDIC’s rights to pursue both Diasonics and Toshiba on the guaranty. FDIC assigned that right to Corporate Buying Service, (Plaintiff). Toshiba filed a motion for summary judgment claiming that the mutual release discharged its obligation on the guaranty or in the alternative, Toshiba was subrogated to the rights of the FDIC and Citytrust against Lenox Hill Radiology Associates.
+
+Issue
+Whether, the guarantor retains its right to subrogation as against the principal debtor when a creditor releases a principal debtor but reserves its rights against a guarantor.
+
+Held
+Yes. Fundamental fairness and principles of equity require that the guarantors be reimbursed for any amount they pay on behalf of the principal.
+
+Discussion
+Plaintiff expressly reserved the right to pursue the guarantors on their guaranty despite its settlement with Lenox Hill Radiology Associates. This reservation preserved Toshiba and/or Diasonics’ right to subrogation and reimbursement. Any other conclusion would be contrary to the fundamental principles underlying subrogation.
+

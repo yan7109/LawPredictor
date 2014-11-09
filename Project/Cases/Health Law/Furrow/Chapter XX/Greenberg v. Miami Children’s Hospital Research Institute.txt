@@ -1,0 +1,21 @@
+Citation
+264 F. Supp. 2d 1064 (S.D. Fla. 2003)
+
+Brief Fact Summary
+Greenberg (Plaintiff) brought suit against Miami Children's Hospital Research Institute (MCHRI) (Defendant), and others, alleging multiple claims of conversion and misappropriation by Defendant for patenting the research results obtained through donated tissue samples.
+
+Synopsis of Rule of Law
+Property rights are not retained in body tissue and genetic matter if they were donated voluntarily to research.
+
+Facts
+Greenberg (Plaintiff) and the Chicago Charter Chapter of the National Tay-Sachs and Allied Diseases Association, Inc.  (NNTSAD) contacted Dr. Matalon, a research physician affiliated with the University of Chicago, to get his assistance with treatment of Canavan's disease.  Canavan's disease is a genetically inherited fatal progressive brain degenerative disorder afflicting children of eastern and central European Jewish decent.  Most of the afflicted children do not live past the age of ten.
+
+Issue
+Are property rights are not retained in body tissue and genetic matter if they were donated voluntarily to research?
+
+Held
+(Moreno, J.)  No.  Property rights are not retained in body tissue and genetic matter if they were donated voluntarily to research.  Using results from medical research is not conversion because the tissue donors lose their property interest in the tissue after the donation, regardless if the receiving party uses information gathered from that tissue and sells it as a commodity on the open marketplace.  Florida's law on genetic testing, Fla. Stat. § 760.40, does not help the plaintiffs with their claims, because while this statute gives people ownership rights in the results of the research if they contributed the genetic material for the research, the only remedies the statute provides lie in lack of disclosure or of informed consent.  In this case, the parties gave their tissues knowingly to promote the accomplished result.  The conversion theory was properly dismissed.  However, to support a claim for unjust enrichment, Plaintiff must plead and prove: (1) that plaintiff conferred a benefit upon the defendant; (2) that the defendant accepted and retained the benefit voluntarily; and (3) that under the circumstances it would be unjust or inequitable for the defendant to retain the benefit without paying for it.  While Defendant has invested in the research, so have the Plaintiff, the family donors, and the NTSAD.  The facts show a continuing research collaboration and MCHRI (Defendant) cannot seek refuge in U.S. Patent Law from denying their relationship and the benefits gained.  Claim dismissed.
+
+Discussion
+The court "split the baby."  Courts have traditionally been reluctant to extend property rights to donated tissues for fear of chilling research and development of new medical treatment.  The classic case on this issue is Moore v. Regents of the University of California, 51 Cal. 3d 120 (1990).  Moore shows just how far courts have been willing to go to block causes of action against researchers.  The doctor involved in Moore deceived the patient as to why he was taking tissue samples and never informed him he was conducting research.  Moore was not a willing or informed participant in the medical research, nevertheless the court still dismissed his claims.  The Florida court recognized the significant financial gain the Defendants were now receiving from royalties and recognized that the Defendants could not have been so enriched except for the donation of tissue, funds, and private familial pedigree information from the Plaintiffs.  Consequently, the court allows the unjust enrichment theory to proceed, while giving the defendants the property rights to the results of the research.
+

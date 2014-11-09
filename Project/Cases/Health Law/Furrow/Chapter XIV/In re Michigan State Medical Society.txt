@@ -1,0 +1,21 @@
+Citation
+Fed. Trade Commn., 101 F.T.C. 191 (1983)
+
+Brief Fact Summary
+Doctors, acting through Michigan State Medical Society (Defendant), a professional association, conspired to influence policies regarding insurance reimbursement.
+
+Synopsis of Rule of Law
+If doctors, in direct competition, conspire to use coercive ways to influence third-party reimbursement policies, such behavior will amount to an improper restraint of trade.
+
+Facts
+The Michigan State Medical Society (the Society) (Defendant) was made up of doctors practicing in Michigan, most in direct competition with each other.  Defendant, frustrated with reimbursement policies of Blue Cross and Blue Shield, solicited letters of withdrawal from all of its members.  The letters were then used to intimidate Blue Cross and Blue Shield, which eventually backed down from its position in a dispute.  An administrative law judge found the behavior of the Defendant to be an unlawful conspiracy in restraint of trade.  Defendant appealed to the Federal Trade Commission.
+
+Issue
+If doctors, in direct competition, conspire to use coercive ways to influence third-party reimbursement policies, does such behavior amount to an improper restraint of trade?
+
+Held
+(Clanton, Commr.)  Yes.  If doctors, in direct competition, conspire to use coercive ways to influence third-party reimbursement policies, such behavior will amount to an improper restraint of trade.  A concerted refusal to deal may be characterized as an unlawful boycott where the target is a supplier of the combining parties participating in the boycott.  Here, Blue Cross and Blue Shield reimbursed the doctors in the Society (Defendant).  Whether Defendant successfully manipulated the third-party insurers is not a relevant issue. The very fact that doctors in direct competition with each other conspired to restrain trade is enough to find an unlawful restraint of trade in this case.
+
+Discussion
+Price fixing is usually analyzed as a per se violation.  However, in this case, it is unclear whether the boycott was as effort to fix prices.  The Defendant argued that its goal was to negotiate reimbursement policies, not to set the reimbursement level.  While anticompetitive behavior often appears to have a price-fixing component, it is frequently difficult to prove the intent.
+

@@ -1,0 +1,21 @@
+Citation
+941 F.2d 588, 1991 U.S. App. 20025
+
+Brief Fact Summary
+Market Street Associates Limited Partnership (Plaintiff), lessee, brought an action against Dale Frey (Defendant), lessor, alleging breach of lease. Plaintiff appealed from a judgment of the district court granting summary judgment for the Defendant.
+
+Synopsis of Rule of Law
+There is a duty of good faith implied in every contract, which states that there is an implied undertaking by the parties not to take advantage in way that could not have been contemplated at the time of drafting the contract and which was not resolved by the parties.
+
+Facts
+In 1968, J.C. Penney Company (Penney) entered into a sale contract and leaseback arrangement with General Electric Pension Trust (Defendant) in order to finance Penney’s growth. The arrangement provided that Penney was to sell properties to the Defendant, which the trust then leased back to Penney for a term of 25 years. Paragraph 25 of the lease entitled lessee to request that lessor (pension trust) to finance the costs and expenses of construction of additional improvements provided the amount of the costs and expenses is at least $250,000.00. Upon receiving the request the lessor agrees to give it reasonable consideration and provides that they shall negotiate in good faith. Paragraph 34 also states that if negotiations shall fail the lessee shall be entitled to repurchase the property at a price roughly equal to the price at which Penney sold it to the Defendant plus 6% a year for each year since the original purchase. One of the leases was a shopping center, which in 1987
+
+Issue
+Whether the Plaintiff violated the implied duty of good faith under the lease agreement?
+
+Held
+A question of whether the Plaintiff violated the implied duty of good faith exists. Judgment reversed and remanded.
+
+Discussion
+This case also had a jurisdictional issue; the suit was filed in a Wisconsin state court and removed to federal district court. Defendants were required to file a petition for removal to federal court. In this petition, there was a mistake as to the citizenship that counts in the case of a limited partnership, and it stated that the partnership was a resident of Wisconsin. However, the citizenship of all of the partners of the limited partnership needs to be taken into account. Affidavits proved that none of the Defendants were residents of Wisconsin. The court decided that there was complete diversity of citizenship, although not all of the limited partners are from Wisconsin, none of them are citizens of the same state as the Plaintiff.
+

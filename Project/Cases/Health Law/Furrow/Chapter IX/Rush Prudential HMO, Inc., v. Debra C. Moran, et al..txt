@@ -1,0 +1,24 @@
+Citation
+536 U.S. 355 (2002)
+
+Brief Fact Summary
+On remand from federal court, a state court ordered Rush Prudential HMO, Inc. (Rush) (Defendant) to comply with a state statute that provides for its beneficiary, Debra C. Moran (Plaintiff), a right to independent medical review.  Rush (Defendant) continued to deny Plaintiff's claim and the court of appeals reversed.
+
+Synopsis of Rule of Law
+A state HMO statute that provides a right to independent medical review of particular denials of benefits is not preempted by the Employment Retirement Income Security Act of 1974 (ERISA).
+
+Facts
+Debra C. Moran (Plaintiff) is a beneficiary of an employee welfare benefit plan provided by Rush Prudential HMO, Inc. (Rush) (Defendant) and sponsored by her husband's employer.  In 1996, Plaintiff began to experience pain and numbness in her right shoulder.  Her primary care physician, Dr. LaMarre, administered conservative treatments without success.  In October 1997, Dr. LaMarre recommended that Defendant approve surgery by Dr. Terzis, an unaffiliated specialist who had developed an unconventional treatment for the condition Plaintiff suffered with.  Defendant denied the request, in spite of Dr. LaMarre's assurances that this was the best treatment for Plaintiff.  Defendant suggested that Plaintiff have standard surgery performed by a Rush-affiliated doctor.  In January 1998, (Plaintiff) made a written demand for an independent medical review of her claim.  Defendant did not provide an independent review, and Plaintiff filed a state court action demanding compliance with a state HMO Act providing a right to independent medical review of certain denials of benefits.  Defendant removed the claim to federal court, arguing that a cause of action was completely preempted under ERISA.  Plaintiff had the surgery by Dr. Terzis while her suit was pending, at her own expense, and submitted a claim to Defendant for reimbursement of $94,841.27.  Defendant began a new inquiry to determine coverage.  The federal court remanded the case to a state court, which enforced the state statute.  The doctor chosen for the independent review found the treatment was medically necessary, but Defendant continued to deny Plaintiff's claim for coverage.  The Seventh Circuit Court of Appeals reversed.
+
+Issue
+Is a state HMO statute that provides a right to independent medical review of particular denials of benefits preempted by the Employment Retirement Income Security Act of 1974 (ERISA)?
+
+Held
+(Souter, J.)  No.    A state HMO statute that provides a right to independent medical review of particular denials of benefits is not preempted by the Employment Retirement Income Security Act of 1974 (ERISA).  The ERISA statute preempts state laws related to employee benefit plans.  The Plaintiff is a beneficiary of an employee benefit plan.  However, the ERISA statute has a savings clause stating that it is not meant to relieve any person from any law of any state which regulates insurance, banking, or securities.  Defendant's argument that HMOs are not insurers does not measure up.  HMOs have taken over much of the business that was previously performed by traditional indemnity insurers, and they are almost universally regulated as insurers under state law.  In this case, the HMO Act in question is directed toward the insurance industry and is therefore saved from preemption by ERISA.
+
+Dissent
+(Thomas, J.)  Section 502, the civil enforcement provision of ERISA, provides the exclusive procedure for benefit claims ERISA oversees.  State laws creating more corrective schemes are completely preempted by the broad language of section 514(a) providing that ERISA "Shall supersede any and all State Laws insofar as they … relate to any employee benefit plan."  Today the Court breaks from precedent, and from congressional intent, so that Plaintiff may exercise an additional state statutory remedy provided by section 4-10 of the Illinois HMO Act allowing her benefit claim to be determined by a procedure similar to an arbitration.  An independent HMO benefit review provision may sound appealing, but it undermines the ability of the HMO to control the costs of health care, and the ability of employers to provide basic coverage to all of its employees.
+
+Discussion
+As drafted, the ERISA statute leaves much doubt as to its interpretation and countless issues for the courts to determine.
+

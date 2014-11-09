@@ -1,0 +1,21 @@
+Citation
+500 U.S. 614, 111 S. Ct. 2077, 114 L. Ed. 2d 660, 1991 U.S.
+
+Brief Fact Summary
+The Appellant, Edmonson (Appellant), was injured at a construction site and brought suit against his employer, the Appellee, Leesville Concrete Co. (Appellee), in Federal District Court. During voir dire, the Appellee used two of its three preemptory challenges to excuse black persons. The trial proceeded with 11 whites and 1 black. They found Appellant to be contributorily negligent and awarded him $18,000 in damages.
+
+Synopsis of Rule of Law
+Exercising peremptory challenges in a civil dispute is a form of state action by a private actor.
+
+Facts
+Appellant was a construction worker who was injured on the job while working for Appellee. Appellant is suing Appellee for negligence, claiming that an employee allowed a truck to pin him against construction equipment. During voir dire, the Appellee used 2 of 3 peremptory challenges to excuse black persons from the jury. Appellant requests an explanation for the excuses that is not race-based. But, the United States District Court for the Western District of Louisiana denied the request because this was a civil trial.
+
+Issue
+May a private litigant in a civil case use preemptory challenges to exclude jurors based on race?
+
+Held
+No.
+
+Discussion
+The majority applies the two-part test as described in Lugar to extend the holding in Batson v. Kentucky (1986) to civil litigation. Clearly, peremptory challenges were created exclusively for courtroom use and are, therefore, state action. But, here, the Supreme Court of the United States (Supreme Court) provides three attributes that determine whether conduct is governmental in nature: (1) extent to which the actor relies on governmental assistance; (2) whether the actor is performing a traditional governmental function, and (3) whether the injury caused is aggravated by the incident.
+

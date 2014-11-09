@@ -1,0 +1,24 @@
+Brief Fact Summary
+The owners of adult entertainment business sued against enforcement of a rule that more than one adult entertainment business was prohibited in the same building, on the ground of the First Amendment.
+
+Synopsis of Rule of Law
+A city ordinance that makes more than one adult entertainment business in the same premises illegal does not violate the First Amendment.
+
+Facts
+The Los Angeles Municipal Code has a provision that prohibits running more than one adult entertainment business in the same building. In this case, two adult entertainment establishments operated an adult bookstore and adult video arcade each in the same building. One of them was Alameda Books, Inc. The businesses sued the City in federal district court, seeking an injunction and declaratory judgment as to the unconstitutionality of the ordinance on the ground of violation of the First Amendment. The court delivered summary judgment in favor of  Alameda Books (P), which was affirmed in the federal court of appeals. Los Angeles (D) appealed.
+
+Issue
+Is a city ordinance that prevents more than one adult entertainment business from operating out of the same premises unconstitutional with regard to the First Amendment?
+
+Held
+(O’Connor, J.) No. A municipal statute which prohibits more than one adult entertainment business from operating in the same building does not violate the First Amendment. A city has the authority to establish what concentration of adult businesses in a locality will be conducive to a reduction in the crime rate, and whether they should be restricted as to one or more buildings. The record of the statute under consideration shows that the City had made a wide-ranging study of such businesses and found that higher presence of such establishments lead to higher rates of criminal prostitution, assault and robbery, thefts and like criminal activities in the neighborhood. The object of the ordinance was to prevent high crime concentration by systematic dispersion of these businesses which were strongly associated with them. This was to be achieved by not only widely scattering the distinct buildings housing such establishments but by prohibiting the concentration of more than one such business in a single building. The ordinance is restricted in that it does not seek to outlaw the activities of such businesses but only to require a minimum distance between two such operations. The law also does not address the content of the activity but only its real effects on the locality. In this the government is entitled to use any evidence, provided the material commends itself as reasonably relevant to the issue, to prove a connection between some form of speech and a substantial government interest to be served. The existence of such a connection has been proved in this caseby the Los Angeles government, resulting in the statute in dispute. In this case, the concern that the city authorities will make use of these laws to prevent unwanted speech is minimal. The verdict is reversed and the case remanded.
+
+Dissent
+(Souter, J.) The government has the freedom to try different methods of achieving its substantial interest but it cannot refuse to fulfill the responsibility to show that the restriction imposed by the law envisaged is only as much as is essential to reach the objective, as will be examined under the standard of intermediate scrutiny ( scrutiny as to the narrowness of the law in proportion to its desired goal)
+
+Concurrence
+(Scalia, J.) The constitution protects the rights of any community to act according to its desire in regulating or even abolishing all businesses which deal with procurement of adult sex.
+
+Discussion
+The Court makes it clear in this case that the First Amendment allows zoning as considered as a restriction of speech if the action leads to a substantial reduction of undesirable secondary effects at the cost of an insignificant reduction in freedom of speech. A zoning ordinance causes dispersal rather than closure of businesses which cause public harm, so that speech is not restricted to the extent that damaging effects on the outer world are
+

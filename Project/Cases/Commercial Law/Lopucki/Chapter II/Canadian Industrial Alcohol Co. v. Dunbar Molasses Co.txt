@@ -1,0 +1,21 @@
+Citation
+258 N.Y. 194,  179 N.E. 383, 1932 N.Y. 1170,  80 A.L.R. 1173
+
+Brief Fact Summary
+Canadian Industrial Alcohol Co. (Plaintiff) sued Dunbar Molasses Co. (Defendant) for breach of an executory contract of purchase and sale. Defendant appeals from a judgment for the Plaintiff.
+
+Synopsis of Rule of Law
+Failure of a seller’s supplies does not amount to impossibility.
+
+Facts
+Plaintiff contracted with the Defendant to purchase approximately 1,500,000 wine gallons of molasses. Defendant’s supplier decided not to produce a sufficient amount of molasses and did not deliver to the Plaintiff the full amount of molasses, which were provided for in the contract. Plaintiff brought this action to recover damages. Defendant contends that the duty to deliver was conditioned upon the production by the National Sugar Refinery of molasses sufficient in quantity to fulfill Plaintiff’s order.
+
+Issue
+Whether the continuance of special circumstances appears from the terms of the contract to have been an assumption in the minds of the contracting parties conditioning their belief in a continued obligation?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+This case demonstrates impossibility due to failure of third persons. When a middleman contracts to supply goods that he will be getting from a third party and the third party cannot supply the goods, the middleman may not use the impossibility defense if the seller is unwilling rather than unable to contract to sell the items to the seller.
+

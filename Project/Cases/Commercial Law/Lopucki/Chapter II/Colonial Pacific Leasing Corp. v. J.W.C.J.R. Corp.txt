@@ -1,0 +1,21 @@
+Citation
+1999 UT App 091, 977 P.2d 541
+
+Brief Fact Summary
+J.W.C.J.R. Corp., (Defendant), appeals a trial court ruling in favor of Colonial Pacific Leasing Corp. (Plaintiff) that Defendant breached a lease agreement by failing to pay the required lease payments.
+
+Synopsis of Rule of Law
+Whether a buyer has had a reasonable opportunity to inspect goods and thus whether  those goods have been accepted is a factual determination.
+
+Facts
+Defendant signed a finance lease agreement with Plaintiff for the purchase of computer equipment. Prior to the arrival of the eqipment Plaintiff had Defendant sign an “acceptance and acknowledgment form” including a statement acknowledging the equipment had been received and was satisfactory. After the arrival of the equipment Plaintiff elicited a statement from Defendant that the equipment was working properly. The same day the system crashed. Defendant contacted Plaintiff twice stating that the equipment did not work. Defendant claims Plaintiff agreed to cancel the contract. Defendant ceased further payments. Plaintiff sought to recover payments two years later. After Defendant refused, Plaintiff filed suit.
+
+Issue
+Whether the failure to make adequate factual findings can be viewed as harmless error.
+
+Held
+No. The failure to make adequate factual findings can not be viewed as harmless error and therefore the case is remanded to the trial court to make the necessary findings of fact.
+
+Discussion
+Taking possession of goods, making lease payments, and/or signing a form of acceptance before the receipt of goods is not dispositive as to the issue of whether a buyer has had a reasonable opportunity to inspect and whether an acceptance has occurred. A factual determination as to whether Defendant had a reasonable opportunity to inspect the goods must be made before the question of whether Defendant properly rejected the goods can be answered. In addition, the issue of whether Plaintiff consented to end the lease agreement is a question of fact. Lastly, the failure to make the missing findings can is not harmless error. Therefore the case is remanded to trial court to make these factual findings.
+

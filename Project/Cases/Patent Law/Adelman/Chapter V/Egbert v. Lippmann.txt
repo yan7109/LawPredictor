@@ -1,0 +1,24 @@
+Citation
+104 U.S. (14 Otto) 333 (1881)
+
+Brief Fact Summary
+Lippmann (Defendant) fought a patent infringement charge by asserting that Barnes, the original patentee, had allowed the corset steels he had invented to be "in public use" long before he patented them.
+
+Synopsis of Rule of Law
+If an inventor gives or sells a device to another with no limitation or restriction, or injunction or secrecy, and it is used, that use is public and places the invention "in public use."
+
+Facts
+Barnes invented improved corset steels between January and May of 1855, according to the testimony given by the executrix of his estate, Egbert (Plaintiff) in an action she brought against Defendant for patent infringement.  Plaintiff stated that she and a friend, Mrs. Cugier, had complained in Barnes's presence about how their corset steels would break.  He then said he could make a pair that would not break.  When they met again, he presented to Plaintiff a pair of corset steels he had made, and she wore them for quite some time.  She added that he presented another pair to her in 1858 and that when the corsets she had put them in wore out, she ripped the corset steels out and put them in new corsets several times.  Sturgis testified that Barnes told him about the invention in 1863, that he went to Barnes's home to see them, and that Barnes had his wife remove her corset and use a pair of scissors to remove the steels so he could explain to Sturgis how they were made and used.  Defendant argued that this evidence confirmed that the steels were "in public use" long before a patent application was made which ultimately voided the issued patent.  Plaintiff appealed the circuit court's decision in favor of the Defendant.
+
+Issue
+If an inventor gives or sells a device to another with no limitation or restriction, or injunction or secrecy, has the inventor placed the invention "in public use?
+
+Held
+(Woods, J.)  Yes.  If an inventor gives or sells a device to another with no limitation or restriction, or injunction or secrecy, the inventor has placed the invention "in public use."  Whether the use of an invention is private or public does not depend on how many people know of the use.  Also, it is not necessary that more than one of the patented articles be publicly used to be a public use of an invention.  Some inventions, like the one at issue here, by their very nature, are able to be used when they cannot be seen or observed by the public eye.  Even so, if the inventor allows it to be used without any restriction of any kind, the use is a public one.  According to these principles, the evidence in this case showed there was a public use of the invention.  Affirmed.
+
+Dissent
+(Miller, J.)  With an article of this nature it may well be imagined that an inventor's warning not to expose one's use of the steel spring to public observation would have been a piece of irony.  However, failure to issue it should not defeat a patent that otherwise has merit.
+
+Discussion
+Exposure to public view is not and never has been the test of a public-use bar.  It is important to recognize that the idea of a public use can be found even if the invention is not observable by the public as consequences today could not be imagined when this case was decided.  Now it is frequently applied to technological advancements in sophisticated machinery, etc., since the insides are seldom seen by anyone.
+

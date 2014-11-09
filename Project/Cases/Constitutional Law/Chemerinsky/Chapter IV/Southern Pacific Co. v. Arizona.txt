@@ -1,0 +1,21 @@
+Citation
+325 U.S. 761, 65 S. Ct. 1515, 89 L. Ed. 1915, 1945 U.S.
+
+Brief Fact Summary
+The Plaintiff, the state of Arizona (Plaintiff), created a law limiting the number of railroad cars per trains as a safety measure. The Defendant, the Southern Pacific Co. (Defendant) asserted that the law violated the United States Constitution’s (Constitution) Commerce Clause.
+
+Synopsis of Rule of Law
+In deciding whether a state law – created for its safety measures – violates the Constitution’s Commerce Clause, the Supreme Court of the United States (Supreme Court) will balance the benefit of the law against the burden it imposes on interstate commerce.
+
+Facts
+The Arizona Train Limit Law of 1912 (the Law), prohibited the operations of trains of more than 14 passengers or 70 freight cars and authorized he state to recover a money penalty for each violation. The trial court found for the Defendant and the state supreme court reversed. The state supreme court believed that the statute was enacted within the state’s police power and that it bore a reasonable relation to the health, safety and well-being of the states people. This finding was irrespective of the statute’s effect on interstate commerce.
+
+Issue
+Are the benefits of a state law safety measure limiting the length of trains outweighed by burdens on interstate commerce?
+
+Held
+Yes, a state law that puts a significant burden on interstate commerce, yet provides no real improvement in safety, will be found to violate the Constitution’s Commerce Clause. The Supreme Court determined that the usage of trains with greater than 14 passenger cars and more than 70 freight cars is standard practice on many United States railroads. If train length was to be regulation, national uniformity in regulation, such as only Congress can impose, is “practically indispensable to the operation off an efficient and economic national railway system.” The Supreme Court also determined that the Law imposed a serious burden on interstate commerce. Also, the Law does not provide any actual safety benefits and in actuality makes train operation more dangerous. The Supreme Court also distinguishes this case from South Carolina v. Barnwell, 303 U.S. 177 (1978), which dealt with the regulation of the highways.
+
+Discussion
+The Supreme Court must determine the nature and extent of the burden which the state regulation of interstate trains, adopted as a safety measure, imposes on interstate commerce. The Supreme Court also must determine whether the relative weights of the state and national interests involved are such as to make inapplicable the rule that the free flow of interstate commerce and its freedom from local restraints in matters requiring uniformity of regulation are interests safeguarded by the Constitution’s Commerce Clause from state interference. If the length of trains were to be regulated, it should be done by Congress and not individual states. Arizona’s law greatly burdens the Defendant because they have to haul over 30% more trains through Arizona than other unregulated states.
+

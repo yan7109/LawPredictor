@@ -1,0 +1,24 @@
+Citation
+301 U.S. 1, 57 S. Ct. 615, 81 L. Ed. 893, 1937 U.S.
+
+Brief Fact Summary
+The National Labor Relations Board (”N.L.R.B.”) brought suit against the Defendant, Jones & Laughlin (Defendant), for engaging in unfair labor practices, specifically, the discharge of certain employees based on union affiliation.
+
+Synopsis of Rule of Law
+Congress’ power to regulate commerce is plenary, in the sense that intrastate activities that affect interstate commerce are within the purview of the commerce power.
+
+Facts
+Defendant was the fourth largest producer of Steel in the United States. It was a conglomerate owning ore, coal, and limestone properties, railways and steam barges, refineries, and warehouses. Its operations spread across several states. The suit brought by the N.L.R.B. proceeds under the National Labor Relations Act of 1935 (Act), alleging that Defendant discriminated against union members with regard to hire and tenure and was coercing and interfering with its own employees’ ability to self-organize.
+
+Issue
+May Congress regulate the practices under which goods involved in interstate commerce are produced?
+
+Held
+Yes. Reversed and remanded.
+
+Dissent
+Justice James McReynolds (J. McReynolds), dissenting, argued that stare decisis required that pure manufacture be outside the powers of Congress to regulate interstate commerce.
+
+Discussion
+This case is the first in long line of cases representing an expanding commerce power for the United States Congress that continues into the 1990s. According to the majority, almost any activity that affects interstate commerce is open to Congressional regulation.
+

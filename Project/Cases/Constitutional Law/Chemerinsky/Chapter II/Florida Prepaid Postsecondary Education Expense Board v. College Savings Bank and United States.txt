@@ -1,0 +1,24 @@
+Citation
+527 U.S. 627, 119 S. Ct. 2199, 144 L. Ed. 2d 575, 1999 U.S.
+
+Brief Fact Summary
+The Respondent, College Savings Bank (Respondent), brought suit against a Florida state agency, alleging infringement of a patent it holds, under the Patent and Plant Variety Protection Remedy Clarification Act (Patent Remedy Act).
+
+Synopsis of Rule of Law
+Congress may not abrogate state sovereign immunity in patent infringement cases under Section: 5 of the Fourteenth Amendment of the United States Constitution (Constitution).
+
+Facts
+Respondent sued a Florida state agency for infringing its finance methodology, for which it had obtained patent protection. The Petitioner, Florida Prepaid Postsecondary Education Expense Board (Petitioner), alleges that it is protected from suit by state sovereign immunity. Petitioner argues that Congress cannot abrogate its immunity in the Patent Remedy Act, even acting through Section: 5 of the Fourteenth Amendment of the Constitution.
+
+Issue
+May Congress abrogate state sovereign immunity in the Patent Remedy Act through Section: 5 of the Fourteenth Amendment of the Constitution?
+
+Held
+No. Ruling reversed and remanded.
+
+Dissent
+Justice John Paul Stevens (J. Stevens) notes that the Constitution gives Congress the power to regulate patents, making state law remedies inappropriate. He also notes that the Supreme Court had never before required Congress to find a pattern of deprivation of a specific right before it passes an act.
+
+Discussion
+The majority argument is rather disingenuous. Note that the Supreme Court uses “States just don’t infringe patents,” as an argument in a patent infringement suit against a state. It is not clear how often a behavior must be noted before Congressional action under Section: 5 of the Fourteenth Amendment of the Constitution, becomes congruent and proportional, but the Supreme Court argues that it has not yet occurred in the realm of patent infringement.
+

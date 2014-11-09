@@ -1,0 +1,24 @@
+Citation
+132 S. Ct. 1204 (2012)
+
+Brief Fact Summary
+The California Legislature passed three statutes changing the state's Medicaid plan by reducing payments to Medicaid providers and beneficiaries (Plaintiff).  The Medicaid providers and beneficiaries (Plaintiff) sued California's Director of State Health Care Services (Defendant) arguing the state law was preempted by federal enactments under the Supremacy Clause.
+
+Synopsis of Rule of Law
+Once a federal agency has approved state statutes, Medicaid recipients and providers cannot maintain a cause of action under the Supremacy Clause by declaring that federal law preempts a state law reducing reimbursement rates without seeking review under the Administrative Procedure Act (APA) because of the issue of ripeness.
+
+Facts
+Medicaid is a cooperative federal-state program providing medical care to needy people.  To qualify for federal funds, states must submit their Medicaid Plan (Centers for Medicare & Medicaid Services) that details to a federal agency the nature and scope of the state's Medicaid program.  A state is also required to submit any amendments to the plan that it may occasionally make.  And a state must receive the agency's approval of the plan and any amendments.  The agency reviews the state's plan and amendments to determine whether they comply with the statutory and regulatory requirements governing the Medicaid program.
+
+Issue
+Once a federal agency has approved state statutes, can Medicaid recipients and providers maintain a cause of action under the Supremacy Clause by declaring that federal law preempts a state law reducing reimbursement rates without seeking review under the Administrative Procedure Act (APA) because of the issue of ripeness?
+
+Held
+(Breyer, J.)  No.  Once a federal agency has approved state statutes, Medicaid recipients and providers cannot maintain a cause of action under the Supremacy Clause by declaring that federal law preempts a state law reducing reimbursement rates without seeking review under the Administrative Procedure Act (APA) because of the issue of ripeness.
+
+Dissent
+(Roberts, C.J.)  The federal rule is that Medicaid reimbursement rates must meet certain criteria, but private parties do not have a statutory right to sue to enforce those requirements in court.  The Medicaid providers and beneficiaries (Plaintiff) sought to overcome that challenge by arguing that they could proceed against the State (Defendant) directly under the Constitution's Supremacy Clause, even if they could not do so under the Medicaid Act.
+
+Discussion
+In a peculiar twist, this 5-4 decision whose majority opinion was written by Justice Breyer, vacated and remanded the consolidated cases on the basis of the issue of ripeness.  This is not to be confused with the issue of mootness, which all of the parties agree has not occurred simply because of the federal agency's determination that a State's rate reductions are proper.  Chief Justice Roberts' dissent got right to the main point which is whether or not the federal Medicaid legislation permits a private right of action, which he argues it does not.
+

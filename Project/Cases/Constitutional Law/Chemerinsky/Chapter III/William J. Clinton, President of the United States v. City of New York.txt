@@ -1,0 +1,24 @@
+Citation
+524 U.S. 417, 118 S. Ct. 2091, 41 L. Ed. 2d 393, 1998 U.S.
+
+Brief Fact Summary
+The Defendant, the President of the United States, William Clinton (Defendant) used his newly acquired Line Item Veto Power to cancel two items of congressional spending. The Plaintiffs the City of New York and various others (Plaintiffs) and the intended recipients of the vetoed spending sued.
+
+Synopsis of Rule of Law
+The Line Item Veto Power is unconstitutional.
+
+Facts
+The Line Item Veto Act of 1996 (the Act) gave the President of the United States (the President) the power to veto (cancel) provisions of certain spending and taxing bills after they had been signed into law. The Act sets out procedures the President must follow, including a procedure where the President must notify Congress of the cancellation and Congress can veto the President’s cancellation with a majority vote. The Defendant used the Line Item Veto power to cancel an item of spending that would benefit only New York and also to cancel a tax break to farmers’ cooperatives. It is undisputed that the Defendant complied with the Act, that Congress properly enacted the Act and that the spending and taxing issues in this case fall within the Act.
+
+Issue
+May Congress grant the President the authority to cancel parts of legislation after they have been enacted as law?
+
+Held
+No, the Line Item Veto is unconstitutional because the “repeal of statutes, no less than enactment, must conform with Article I” [INS v. Chadha (1983).]
+
+Dissent
+Justice Stephen Breyer (J. Breyer) wrote the opinion and feels the majority is flawed because it assumes that the Defendant has been granted the authority to “repeal” or “amend” laws. Congress did not attempt to give the President the true power to “veto” portions of already enacted laws. The Defendant simply followed the Act as handed down by Congress.
+
+Discussion
+The President’s role in lawmaking is limited to initiating, influencing and vetoing legislation. The President’s Line Item Veto power differs from that of a constitutional veto. The constitutional veto takes place before the bill becomes law, whereas the statutory Line Item Veto takes place after the bill becomes law. Therefore, it is a repeal rather than a veto. Historically, it has been established that a President must approve an entire bill or veto it in toto. Here constitutional silence on the President’s power to repeal or amend duly enacted statutes is equivalent to an express prohibition.
+

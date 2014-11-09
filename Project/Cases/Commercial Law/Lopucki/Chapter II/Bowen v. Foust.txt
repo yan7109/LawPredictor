@@ -1,0 +1,21 @@
+Citation
+925 S.W.2d 211, 1996 Mo. App. 776,29 U.C.C. Rep. Serv. 2d (Callaghan) 825
+
+Brief Fact Summary
+Mary and Joe A. Brown, (Appellees) sued Bob Foust, (Appellant), for breach of contract that was made when Appellees accepted Appellant’s bid to sell and install heating and cooling equipment in Appellees’ home. Appellant appeals the trial court ruling in favor of Appellees.
+
+Synopsis of Rule of Law
+The U.C.C. does not allow a seller to cure a nonconforming tender or delivery by making repairs or correcting substandard installation of equipment which even if flawless would not conform to the contract.
+
+Facts
+Appellees solicited bids on the purchase and installation of heating and cooling equipment for their home. The purpose was to upgrade and work with their existing system. Appellees accepted Appellant’s bid. After installation, the equipment did not work properly if at all. Appellees allowed Appellant to make several repairs and repaired their own equipment which Appellant claimed might be responsible for the dysfunction. An inspection of the equipment by a third party revealed that the units were incompatible with Appellees existing system, a problem exacerbated by substandard workmanship, and failed to conform to contract specifications.  Appellees refused to allow Appellant to repair the system and sued for breach of contract.
+
+Issue
+Whether Appellant was denied a reasonable opportunity to correct the defects under the U.C.C.
+
+Held
+No. Defendant was not denied a reasonable opportunity to correct the defects because the only way to do so would be to replace the equipment with conforming equipment which Appellant never notified Appellees he intended to do.
+
+Discussion
+Because the equipment installed by Appellant would not have upgraded Appellees heating and cooling system to the intended level even had it performed satisfactorily, as the trial court reasonably found, the nonconformity by defendant substantially impaired its value to Appellees. Therefore even if Appellant had the right to cure, the only acceptable cure would have been to replace the units he installed with equipment conforming to the contract. Yet, Appellant never notifed Appellees that he intended to do so.
+

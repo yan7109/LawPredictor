@@ -1,0 +1,21 @@
+Citation
+336 U.S. 525, 69 S. Ct. 657, 93 L. Ed. 865, 1949 U.S.
+
+Brief Fact Summary
+The Defendant, DuMond the Commissioner of Agriculture and Markets of New York (Defendant) denied the Plaintiff, H.P. Hood & Sons, Inc. (Plaintiff), a Boston milk distributor, a license to build a new milk facility. The Plaintiff challenged the denial based on the dormant commerce clause.
+
+Synopsis of Rule of Law
+States may not enact laws that burden the exportation of local products in order to protect and advance local economic interests.
+
+Facts
+The Plaintiff was a Boston distributor of milk who received milk from three New York plants. The Plaintiff wanted to build a fourth plant in New York, but the Defendant would not allow it and denied the Plaintiff a license for the new plant on the grounds that the issuance of the license would tend to destroy competition in a market already adequately served. Moreover, the Defendant stated that the creation of the fourth plant would draw milk supplies away from other existing processing plants and would tend to deprive the local market of an adequate supply of milk. The Plaintiff challenged using the Dormant Commerce Clause.
+
+Issue
+May a state deny a license for a new plant to acquire and ship milk in interstate commerce on the grounds that such limitations on interstate business will protect and advance local economic interests?
+
+Held
+No, New York’s embargo was invalidated based upon the dormant commerce clause. Restrictions, which have the purpose and effect of curtailing the volume of interstate commerce to aid local economic interests will not be sustained.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) held that a state may not enact laws that burden the exportation of local products in order to protect and advance local economic interests. A state may not promote its own economic advantages by the curtailment or burdening of interstate commerce. The Supreme Court in Baldwin v. G.A.F. Seeling Inc stated “Our system fostered by the Commerce Clause, is that every farmer and every craftsperson shall be encouraged to produce by the certainty of free access to every market in the nation, that no home embargoes will withhold exports and no other state will, by customs duties or regulations, exclude them. Such was the vision of the founders; such has been the doctrine of this court which has given it reality.”
+

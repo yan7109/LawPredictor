@@ -1,0 +1,24 @@
+Citation
+478 U.S. 109, 106 S. Ct. 2797, 92 L. Ed. 2d 85, 1986 U.S.
+
+Brief Fact Summary
+The Supreme Court of the United States sustained Indiana’s 1981 state apportionment plan despite the claim that the apportionment diluted Democratic votes.
+
+Synopsis of Rule of Law
+Political gerrymandering cases are properly justiciable under the Equal Protection Clause. However, a threshold showing of discriminatory vote dilution is required for a prima facie case of an equal protection violation. Thus, a group’s electoral power is not unconstitutionally diminished by the simple fact that an apportionment scheme makes it harder to win elections, and a failure of proportional representation alone does not constitute impermissible discrimination under equal protection.
+
+Facts
+The Republican-controlled state legislature adopted Indiana’s 1981 state apportionment plan which provided for state senate and house districts of substantially equal population. The Democrats claimed that the plan diluted their votes by using a mix of single and multimembered districts and gerrymandering district lines. The District Court held that the political gerrymandering claim is justiciable and that the challengers had proved an equal protection violation. Further, the District Court held that because any apportionment scheme that purposely prevents proportional representation is unconstitutional, Democratic voters need only show that their proportionate voting influence has been adversely affected.
+
+Issue
+Whether the political gerrymandering claim is justiciable.
+
+Held
+Yes. Justice White held for the Court that the political question doctrine did not bar the Court from reaching its merits.
+
+Dissent
+Since the essence of a gerrymandering claim is that the members of a political party have been denied their right to “fair and effective” representation, the claim cannot be tested solely by reference to “one person, one vote.” Rather, a number of other relevant factors must be considered.
+
+Discussion
+This case relaxed the Court’s unwillingness to consider purely political gerrymandering as constituting a possible equal protection violation.
+

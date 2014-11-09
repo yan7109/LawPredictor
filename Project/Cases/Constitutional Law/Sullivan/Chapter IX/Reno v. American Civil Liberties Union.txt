@@ -1,0 +1,21 @@
+Citation
+521 U.S. 844,117 S. Ct. 2329,138 L. Ed. 2d 874,1997 U.S.
+
+Brief Fact Summary
+Two provisions of the Communications Decency Act of 1996 (CDA) that criminalized providing obscene materials to minors by on the internet were held unconstitutional by the Supreme Court of the United States (Supreme Court).
+
+Synopsis of Rule of Law
+Where a content-based blanket restriction on speech is overly broad by prohibiting protected speech as well as unprotected speech, such restriction is unconstitutional.
+
+Facts
+At issue is the constitutionality of two statutory provisions enacted to protect minors from “indecent” and “patently offensive” communications on the Internet. The District Court made extensive findings of fact about the Internet and the CDA. It held that the statute abridges the “freedom of speech” protected by the First Amendment of the United States Constitution (Constitution).
+
+Issue
+Whether the two CDA statutory provisions at issue are constitutional?
+
+Held
+No. Judgment of the District Court affirmed. Under the CDA, neither parents’ consent nor their participation would avoid application of the statute. The CDA fails to provide any definition of “indecent” and omits any requirement that the “patently offensive material” lack serious literary, artistic, political or scientific value. Further, the CDA’s broad categorical prohibitions are not limited to particular times and are not dependent on any evaluation by an agency familiar with the unique characteristics of the Internet. CDA applies to the entire universe of the cyberspace. Thus, the CDA is a content-based blanket restriction on speech, as such, cannot be properly analyzed as a form of time, place and manner restriction. The CDA lacks the precision that the First Amendment of the Constitution requires when a statute regulates the content of speech. In order to deny minors access to potentially harmful speech, the statute suppresses a large amount of speech that adults have a
+
+Discussion
+This case brings the First Amendment of the Constitution into the Internet age while prohibiting speech regulations that are overbroad despite their seemingly benevolent goals.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.505 U.S. 88, 112 S. Ct. 2374, 120 L. Ed. 2d 73, 15 OSHC 1673 (1992)
+
+Brief Fact Summary
+Illinois and Congress both had legislation that regulated safety and health for people working with hazardous waste material.
+
+Synopsis of Rule of Law
+Preemption may be either expressed or implied. Express preemption exists when Congress either explicitly states in the statute’s language or preemption is implicitly contained in its structure and purpose. Implied preemption exists when there is field preemption (when the scheme of federal regulation is so pervasive as to make reasonable the inference that Congress left no room for the states to supplement it) and conflict preemption where compliance with both federal and state regulations is physically impossible or where the state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.
+
+Facts
+The statues that were the subject of this case were the 1988 Hazardous Waste Crane and Hoisting Equipment Operators Licensing Act and the Hazardous Waste Laborers Licensing Act of Illinois versus the federal Occupational Safety and Health Act of 1970 promulgated by the Occupational Safety and Health Administration (OSHA).
+
+Issue
+Were the state licensing acts preempted by the OSH Act to the extent they established occupational safety and health standards for training those who worked with hazardous wastes?
+
+Held
+Justice O’Conner opinion. Yes.
+
+Dissent
+Justices Souter, Blackmun, Stevens and Thomas dissenting.
+
+Discussion
+Congress could draft legislation so that their intent is crystal clear and the court does not have to embark on a balancing test. Federal regulation may present preemption problems in regards to whether or not state law regulates interstate commerce.
+

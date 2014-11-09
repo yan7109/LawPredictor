@@ -1,0 +1,21 @@
+Citation
+153 F.2d 516 (2d Cir. 1946)
+
+Brief Fact Summary
+Metallizing (Plaintiff) had utilized their patented process commercially over a year prior to filing.
+
+Synopsis of Rule of Law
+Commercial use of an invention constitutes a "public use" under § 102(b) of the Patent Act, even if done in secret.
+
+Facts
+Plaintiff assigned a patent to Meduna concerning a new metalizing process.  Metallizing is a process of replenishing worn metal parts of a machine by adding "spray metal" to the parts.  The application for the patent was filed on August 6, 1942, but the Patent Law required that the invention not be in "public use" prior to a year before this date.  Before August 6, 1941, Meduna had used the process for commercial gain, but it was kept as a closely guarded secret.  When Kenyon (Defendant) later used the process, Plaintiff sued for infringement.  Defendant claimed Plaintiff lost all patent rights with its earlier public use.  The lower court ruled in favor of Plaintiff and Defendant appealed.
+
+Issue
+Does commercial use of an invention constitute a "public use" under § 102(b) of the Patent Act, even if done in secret?
+
+Held
+(Hand, J.)  Yes.  Commercial use of an invention constitutes a "public use" under § 102(b) of the Patent Act, even if done in secret.  The lower court followed precedent correctly, however, this precedent confused two separate doctrines: (1) the effect an inventor's commercial use has upon patent rights for a machine or process; and (2) the effect that the prior use of others has upon patent rights.  Regarding the first doctrine, an inventor cannot commercially use his invention longer than the time required by statute to file for an application.  No matter how little the public learned of the invention or process, the inventor loses his patent rights once it is utilized commercially.  He must choose either secrecy or a legal monopoly.  Judgment reversed, complaint dismissed.
+
+Discussion
+The Metallizing opinion is somewhat difficult, as Justice Hand was forced to distort his definitions of common words so that "public" meant "secret" when modifying "use."  If Hand had reached the opposite conclusion, an inventor could use his discovery commercially while keeping it secret for as long as possible. If someone else "discovered" the invention, the original inventor could then apply for a patent and receive protection.  Therefore, he could continue exclusive use of the invention for much longer than the number of years limited by Congress on accounts for the "Progress of Science and the Useful Arts."
+

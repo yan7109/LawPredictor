@@ -1,0 +1,21 @@
+Citation
+965 F.2d 893 (10th Circ. 1992)
+
+Brief Fact Summary
+O’Conner (Plaintiff) argued that Roy Foulke and R.F. Lafferty & Co., Inc. (Defendant) inappropriately invested funds from her account which resulted in damages.
+
+Synopsis of Rule of Law
+A plaintiff must prove that the broker suggested or bought unsuitable securities for the investor and that the broker operatedwithan objective to defraud the investor or with careless disdain for his intentions, for the plaintiff to retain an action for unsuitability founded on fraud by conduct.
+
+Facts
+O’Conner deposited $200,000 into an account with Foulke and R.F. Lafferty & Co, Inc., granted them total control over the funds and informed them of her lack of investing experience and that she relied upon income produced from this account to finance the cost of living. Foulke and Lafferty made investments that procured no income, causing O’Conner to file suit, claiming the funds were unsuitably invested, for a judgment of $329,000 in actual damages plus a reasonable rate of return. O’Conner also claimed Foulke and Lafferty violated the Securities and Exchange Act of 1934, alleging negligence, fraud, intention of emotional distress and violations of state securities statutes. Lafferty’s motion as to summary judgment on the § 10(b) claim and the fraud claim was approved. O’Conner was awarded $30,000 after the state law claims were submitted to an arbitrator, with the court approving the arbitrator’s award. O’Conner appealed.
+
+Issue
+For a plaintiff to retain an action for unsuitabilityfounded on fraud by conduct must they prove that the broker operated with resolve to defraud the investor or acted with a careless disdain for his purposes?
+
+Held
+(Brorby, J.) Yes. For a plaintiff to retain an action for unsuitability founded on fraud by conduct they must prove that the broker took control of the investor’s account,  that the broker suggested or bought inappropriate securities without regard to the investors goals and operated with resolve to defraud the investor or acted with a careless disdain for his purposes. Fraud by conduct is similar to that of a churning claim in how it violates Rule 10b-5. Unnecessary trading on an account by a broker regardless of the investors goals is referred to as churning. Churning involves quantity of securities bought and unsuitability involves quality. Here, carelessness refers to actions by a broker that signify failure to utilize the proper standard of care and that the broker is, or should have been, aware that this misrepresentation would deceive the buyer or seller of securities. As a result of all recently mentioned, O’Conner failed to prove the scienter obligation needed to establish defraud or carelessness. Due to O’Conner effectively managing the account for so many years, his actions fail to meet the degree of recklessness needed to retain a § 10b-5 claim. Affirmed.
+
+Discussion
+The Second Circuit’s unsuitabilitypolicy was implemented by this court with the addition of the necessity of control. Under this test, commendations of unsuitable securities and scienter arefactors to be proven. Instead of the plaintiff having to prove the broker failed to state, or altered, substantial fact, they must simply display that the broker was aware that he had reason to believe the securities were substandard, as far as investor objectives go, but continued promoting using them, the plaintiff canretain a cause of action for unsuitability.
+

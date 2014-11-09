@@ -1,0 +1,21 @@
+Citation
+383 U.S. 519 (1966)
+
+Brief Fact Summary
+John Deere (Defendant) defended an infringement action on grounds of obviousness.
+
+Synopsis of Rule of Law
+A case-by-case analysis of the scope and content of the prior art, the differences between the prior art and the claims at issue, as well as the level of ordinary skill in the applicable art, are required to determine the non-obviousness of a claimed invention as to a prior art.
+
+Facts
+Graham (Plaintiff) filed suit against Defendant claiming patent infringement on a device which consisted of old mechanical elements that absorbed shock from plow shanks as they plowed through rocky soil.  In a prior case, The Fifth Circuit held that a patent was valid, ruling that a combination was eligible for patent when it produced an "old result in a cheaper and otherwise more advantageous way."  The Eighth Circuit said the patent was invalid in the present case as there was no new result or combination.  Plaintiff petitioned for certiorari, and the Supreme Court granted the request in order to resolve the conflict.
+
+Issue
+Is a case-by-case analysis required of the scope and content of the prior art, the differences between the prior art and the claims at issue, as well as the level of ordinary skill in the applicable art to determine the non-obviousness of a claimed invention as to prior art?
+
+Held
+(Clark, J.)  Yes.  A case-by-case analysis of the scope and content of the prior art, the differences between the prior art and the claims at issue, as well as the level of ordinary skill in the applicable art are required to determine the non-obviousness of a claimed invention as to a prior art.  The statutory non-obviousness requirement was added by the Patent Act of 1952.  However, this was just a codification of the judicial precedent set forth in Hotchkiss v. Greenwood, 11 How. 248 (1851).  Although the term "non-obviousness" is used instead of "invention," in § 103 of the Act, the general level of improvement and originality needed in order to sustain a patent did not change.  In order to determine whether an invention is eligible for patent or is only an obvious improvement to a prior art requires a case-by-case analysis of the criteria listed above.  Commercial success, long-felt but unsolved needs, and the failure of others are secondary considerations that may also be relevant in considering the obviousness of an invention.  Regarding the patent at issue in these cases, the differences between the patented invention and prior art would have been obvious to one reasonably skilled in the art.  The patent is therefore invalid.  Affirmed.
+
+Discussion
+Dissatisfaction with the Supreme Court's increasingly strict standard of "invention" led to the writing of the 1952 Patent Act.  There was also much criticism regarding the application of the test which led to different judicial decisions with subjective and inconsistent determinations.  Congress omitted the word "invention" in the Act on purpose so that no past requirements would be referred to.  Instead, Congress codified the hundreds of different ways the case law doctrine had been read into a single statutory form.  However, judicial interpretation of this Act was still open to question, as shown in the above decision.
+

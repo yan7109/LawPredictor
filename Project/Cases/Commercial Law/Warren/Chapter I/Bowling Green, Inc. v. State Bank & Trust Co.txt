@@ -1,0 +1,21 @@
+Citation
+425 F.2d 81, 1970 U.S. App. 9379, 7 U.C.C. Rep. Serv. (Callaghan) 635
+
+Brief Fact Summary
+Plaintiff gave a manufacturer of bowling alley equipment a check out of a small business loan for the purchase of some bowling machines.  The check was deposited in the defendant bank and the money was credited against an overdraft and applied to debts owed by the manufacturer.  Plaintiff never received the equipment and the defendant remains in possession of the money.
+
+Synopsis of Rule of Law
+Mass. Gen. Laws Ann. ch. 106, Section: 3-307(3), states: “After it is shown that a defense exists a person claiming the rights of a holder in due course has the burden of establishing that he or some person under whom he claims is in all respects a holder in due course.”
+
+Facts
+Plaintiff, Bowling Green (the “plaintiff”), negotiated a check for $15,306 to Bowl-Mor, Inc. for the purchase of candlepin setting machines.  Plaintiff acquired the money through a Small Business Administration loan.  The check represented the first installment on a conditional sales contract for the purchase of the machines.  A representative of Bowl-Mor deposited the check in defendant, State Bank & Trust (the “defendant”).  The defendant immediately credited $5,024.85 of the check against an overdraft in Bowl-Mor’s account.   When the defendant later learned that Bowl-Mor filed for reorganization under Chapter X of the Bankruptcy Act, the defendant applied the remaining money against debts that Bowl-Mor owed the Bank.  Shortly thereafter, Bowl-Mor was adjudicated a bankrupt.  Plaintiff never received the machine for which it contracted and plaintiff’s part payment remains with the defendant.  The district court found that the defendant was a holder in due course and therefo
+
+Issue
+Was the district court correct in rejecting plaintiff’s view of the evidence, concluding instead that the defendant was a holder in due course and therefore entitled to take the check free of all personal defenses?
+
+Held
+Yes, the defendant was found to be a holder in due course and therefore entitled to take the check free of all defenses. First, the plaintiff argued that the defendant was not a holder of the check because of Bowl-Mor failed to provide its own indorsement. However, UCC Section: 3-201(a) states that a transfer of an instrument vests in the transferee all the right of the transferor.  The court found that the evidence indicated that Bowl-Mor was a holder of the check and that Bowl-Mor transferred the check to the defendant, therefore, the defendant is a holder.  The official comment of 3-201 states that, “one who is not the holder must first establish the transaction by which he acquired the instrument before enforcing it.”  The court found that the defendant met this burden.  Additionally, article 4 provides that a lack of an indorsement shall not affect the bank’s status as agent for collections, and Section: 4-205(1) authorizes the collecting bank to supply the missing indorsements as a mat
+
+Discussion
+“The bank secured its loan to Bowl-Mor by a security interest in Bowl-Mor’s installment sale contracts (defined as chattel paper by Section: 9-105(1)(b)).  Its security interest applied not only to the chattel paper but also to any proceeds of the chattel paper. Section:9-306.  Bowling Green’s check to Bowl-Mor, since it was in payment of the first installment of its sales contract, was proceeds.  Under Section: 9-306 and Section: 9-203 the bank automatically obtained a security interest in this check as soon as Bowl-Mor obtained “rights” in the check, which in this case was when Bowl-Mor received the che
+

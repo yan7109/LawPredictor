@@ -1,0 +1,21 @@
+Citation
+319 N.J. Super. 662, 726 A.2d 316, 1999 N.J. Super. 107, 38 U.C.C. Rep. Serv. 2d (Callaghan) 21
+
+Brief Fact Summary
+C.I.C. Corp., (Petitioner), appeals from a judgment entered upon a jury verdict awarding it damages of one dollar on its contract claim against Ragtime, Inc., and Donald Tabatneck, (Respondents).
+
+Synopsis of Rule of Law
+The mere fact that an injured party can make arrangements for the disposition of the goods or services that he was to supply under a contract does not necessarily mean that by doing so he will avoid loss. If he would have entered into both transactions but for the breach, he has “lost volume” as a result of the breach. In that case the second transaction is not a “substitute” for the original one. Then the remedies are based on the net profit that he has lost as a result of the broken contract.
+
+Facts
+Petitioner leased several coin-operated machines to Respondents. As part of the deal, Petitioner loaned Respondents $3,500 by way of an advance on their portion of future revenues at ten percent interest. Within a month, Respondents repaid the loan and the machines were removed. At trial Respondents argued that Petitioner was required to mitigate damages and failed to do so. Petitioner argued that it was not required to mitigate damages. No jury instruction was given on mitigation, however, the court did advise the jury that in fixing damages it could consider what Petitioner did or should have done to “mitigate or lessen damages.”
+
+Issue
+Whether Petitioner was required to mitigate damages.
+
+Held
+No. Petitioner was not required to mitigate damages.
+
+Discussion
+The plaintiff had a warehouse full of a variety of coin operated machines and could have placed as many as it could have found customers for. Even if it eventually placed the machines removed from Respondents’ premises with another customer, it still would have lost the benefit of its bargain with Respondents. In that case, Petitioner would have made two deals, not just the second. The judge’s charge, to the extent it referred to mitigation and failed to explain the lost-volume rule, clearly misled and misinformed the jury.
+

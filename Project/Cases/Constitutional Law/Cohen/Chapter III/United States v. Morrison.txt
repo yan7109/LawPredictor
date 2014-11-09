@@ -1,0 +1,24 @@
+Citation
+22 Ill.529 U.S. 598, 120 S. Ct. 1740, 146 L. Ed. 2d 658, 82 FEP Cases 1313 (2000)
+
+Brief Fact Summary
+A woman was raped at Virginia Tech and sued under 42 U.S.C.S. 13981.
+
+Synopsis of Rule of Law
+Congress did not have authority under the Commerce Clause or Section: 5 of the Fourteenth Amendment to enact 42 U.S.C.S. 13981.
+
+Facts
+A woman was raped by three men when she was a student at Virginia Tech. She sued and claimed that this attack violated 42 U.S.C.S. 13981, which provided a federal civil remedy for the victims of gender-motivated violence.
+
+Issue
+Did Congress have authority to enact 42 U.S.C.S. 13981 under either its Commerce Clause power or Section: 5 of the Fourteenth Amendment?
+
+Held
+No, Congress did not have the authority to enact 42 U.S.C.S. 13981 under either the Commerce Clause or Section: 5 of the Fourteenth Amendment. Although Plaintiff argued that Congress’ commerce power was a valid justification for the enactment of 42 U.S.C.S. 13981, the Court held that gender-motivated violence was not an economic activity. Secondly, no jurisdictional element establishes that the federal cause of action in this statute furthers regulation of interstate commerce. Third, regulation of violent crime is an example of a state police power, and is more strongly considered a local issue than a national one. The Fourteenth Amendment argument is also rejected because Congressional power in this context is limited to a state’s action, not private conduct of an individual.
+
+Dissent
+Congress did have the power enact 42 U.S.C.S. 13981 because, viewed in the aggregate, gender motivated violence could have a harmful effect on interstate commerce. Thus, the statute was rationally related to the objective of decreasing gender motivated violence throughout the country, and thereby, reducing its negative effect on commerce.
+
+Discussion
+This case departs from the reasoning used in earlier cases, which allowed Congress to stretch its Commerce Clause power to issues affecting, even in the aggregate, interstate commerce. In this case, Congress’ action was viewed as an interference with the police power of the states, as the issue of gender motivated violence is local in nature.
+

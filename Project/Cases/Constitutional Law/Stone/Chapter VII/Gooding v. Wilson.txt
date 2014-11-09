@@ -1,0 +1,24 @@
+Citation
+405 U.S. 518, 92 S. Ct. 1103, 31 L. Ed. 2d 408, 1972 U.S. 72.
+
+Brief Fact Summary
+During an anti-war demonstration the Appellee, Wilson (Appellee), was convicted under a Georgia criminal statute for saying to police officers, inter alia, “You son of a bitch, I’ll choke you to death”. The constitutionality of the statute under which the Appellee was convicted was brought into question.
+
+Synopsis of Rule of Law
+A statute prohibiting the utterance of certain words must be carefully drawn or be authoritatively construed to punish only unprotected speech and not be susceptible of application to protected expression.
+
+Facts
+A Georgia criminal statute (the “Statute”) prohibited any person to address another person, without provocation, with opprobrious or abusive language tending to cause a breach of the peace. During an anti-war demonstration, after police attempted to forcefully remove him from the doorway of a building, the Appellee yelled to the officers “You son of a bitch, I’ll choke you to death”; “White son of a bitch, I’ll kill you”; and “You son of a bitch . . . I’ll cut you all to pieces.” The Appellee was thereafter convicted under the Statute. The constitutionality of the Statute was brought into question.
+
+Issue
+Was the Statute prohibiting “opprobrious” or “abusive” language tending to cause as breach of the peace unconstitutional on its face?
+
+Held
+Yes. The lower court is affirmed.
+
+Dissent
+Chief Justice Warren Burger (J. Burger) stated it is remarkable that the Supreme Court of the United States (Supreme Court) could find laws unconstitutional because of the way State courts have applied the laws in a few isolated cases. Moreover, if the overbreadth doctrine serves any legitimate purpose, it is to allow courts to invalidate statutes that demonstrate that they sweep too broadly, prohibiting constitutionally protected speech. The doctrine was not intended, however, to extend to laws that may, in some imagined unlikely context, apply to speech that the laws were not designed to prohibit.<br />	Justice Harry Blackmun (J. Blackmun) Given the Supreme Court’s decision here, the State’s only option if it wishes to prohibit the language the Supreme Court says it may, is to enact a statute reading exactly as the one at issue read, but adding language that the words in the statute mean only what the Supreme Court says they may mean and nothing more.<br />
+
+Discussion
+This case shows how the overbreadth doctrine is applied by the courts. In applying the doctrine, a court will consider the potential applications (or “reach”) of a law to a set of facts. If the law would apply to or forbid not only language the government could constitutionally forbid, but also language the government cannot forbid, then the law is overbroad and therefore unconstitutional.
+

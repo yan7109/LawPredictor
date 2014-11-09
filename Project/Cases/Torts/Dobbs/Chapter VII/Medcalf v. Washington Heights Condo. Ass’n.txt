@@ -1,0 +1,21 @@
+Citation
+57 Conn. App. 12; 747 A.2d 532 (2000).
+
+Brief Fact Summary
+Washington Height Condominium Association and a management company (Defendants) appealed a judgment for plaintiff, by the Superior Court in the Judicial District of Stamford-Norwalk (Connecticut), on grounds that the court should have entered judgment for Defendants on Plaintiff’s negligence claim as a matter of law.
+
+Synopsis of Rule of Law
+The term proximate cause, includes both cause in fact and foreseeability components. The harm that occurred to plaintiff must be of the “same general nature as the foreseeable risk created by the defendant’s negligence.” This means that:
+
+Facts
+Plaintiff became the victim of a violent assault as she waited in the lobby of Defendants’ apartment building. Her hosts struggled to admit her by using an electronic buzzer that did not work, while Plaintiff was assaulted. The jury indicated in interrogatories that the verdict for Plaintiff was based entirely on a finding that Defendants were negligent in failing to maintain the building telephone security intercom communication system to protect Plaintiff and others. The court held that the trial court should have entered judgment for Defendants as a matter of law, because Plaintiff failed to establish an essential element of negligence, proximate cause. The intervening criminal act of the assailant was not within the scope of risk created by Defendants’ lack of maintenance, because the primary reason buildings have buzzer systems is to protect residents, not guests.
+
+Issue
+Did the trial court err in ruling in favor of the Plaintiff?
+
+Held
+Yes. In fact, the Appellate Court of Connecticut reversed and remanded because as a matter of law a jury could not reasonably have found that failure to fix an intercom was the proximate cause of an assault on Plaintiff and resultant injury, so there could be no finding of negligence.
+
+Discussion
+The second component of a negligence action is proximate cause. Proximate cause establishes a reasonable connection between an act or omission of a defendant and the harm suffered by a plaintiff.
+

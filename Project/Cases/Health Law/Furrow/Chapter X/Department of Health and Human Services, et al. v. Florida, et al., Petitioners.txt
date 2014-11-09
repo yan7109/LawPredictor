@@ -1,0 +1,21 @@
+Citation
+132 S. Ct. 2566 (2012)
+
+Brief Fact Summary
+A challenge to the constitutionality of the Affordable Care Act attacking the imposition of expanded Medicaid coverage.
+
+Synopsis of Rule of Law
+Expanding Medicaid coverage under the Affordable Care Act requires States to increase eligibility and health benefit coverage, which goes beyond the authority of Congress under the Spending Clause.
+
+Facts
+[The procedural history is based on a series of federal lawsuits by the State of Florida and others (States) (Plaintiff) against the United States Department of Health and Human Services (Federal Government) (Defendant) challenging the constitutionality of the Affordable Care Act, specifically the expansion of Medicaid coverage which required that all States (Plaintiff) increase eligibility to all persons under the age of 65 with incomes below 133 percent of the federal poverty line, and to provide a new "essential health care benefits" package to all new applicants.
+
+Issue
+Does expanding Medicaid coverage under the Affordable Care Act that requires States to increase eligibility and health benefit coverage go beyond the authority of Congress under the Spending Clause?
+
+Held
+(Roberts, C.J.)  Yes.  Expanding Medicaid coverage under the Affordable Care Act requires States to increase eligibility and health benefit coverage, which goes beyond the authority of Congress under the Spending Clause.  Under Medicaid, the ACA clearly increases state obligations dramatically.  Under the current Medicaid program, States (Plaintiff) are required to cover only certain distinct categories of needy individuals—pregnant women, children, needy families, the blind, the elderly, and the disabled.  There is no mandatory coverage for most adults without children, and the States (Plaintiff) do not typically offer it.  Also, the States (Plaintiff) have considerable flexibility regarding the coverage levels for parents of needy families.  States (Plaintiff) on average cover only unemployed parents who earn less than 37 percent of the federal poverty level, and only employed parents who make less than 63 percent of the poverty line.
+
+Discussion
+The majority agreed with the States' (Plaintiff) argument that the Medicaid expansion went beyond Congress's authority under the Spending Clause.  It was improper for Congress to use coercion to adopt the changes it wanted by threatening to withhold all of a State's Medicaid grants unless the States (Plaintiff) accept the new expanded funding and comply with the conditions that come with it.  They argued this was a violation of the basic anti-commandeering principle that the Federal Government (Defendant) may not compel the States (Plaintiff) to enact or administer a federal regulatory program.  The impact of this portion of the Court's decision was politically controversial and cumbersome because it allows States (Plaintiff) to opt out of the goal of "universal" health care coverage.
+

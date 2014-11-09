@@ -1,0 +1,24 @@
+Citation
+418 U.S. 323, 94 S. Ct. 2997, 41 L. Ed. 2d 789, 1974 U.S. 88.
+
+Brief Fact Summary
+In 1968, a Chicago policeman named Nuccio shot and killed a youth named Nelson. The state prosecuted Nuccio and obtained a conviction for murder. The Nelson family retained the Petitioner, Gertz (Petitioner), to represent them in civil litigation against Nuccio.
+
+Synopsis of Rule of Law
+A private defamation plaintiff who establishes liability under a less demanding standard than that stated by [New York Times v. Sullivan] may recover only such damages as are sufficient to compensate him for actual injury.
+
+Facts
+In 1969, the Respondent, Robert Welch, Inc. (Respondent), publisher of American Opinion, a monthly outlet for the views of the John Birch Society, ran an article in which it accused the Petitioner of being the architect of a “frame-up” of Nuccio. The article stated that the Petitioner had a criminal record and a long history of communist affiliation. The Petitioner filed the instant case for libel and, after trial, the jury returned a verdict in his favor in the amount of $50,000. The trial court, nevertheless, entered Judgment N.O.V., concluding that the New York Times v. Sullivan standard applied to any discussion of a “public issue.” The Court of Appeals affirmed.
+
+Issue
+Whether a newspaper or broadcaster that publishes defamatory falsehoods about an individual who is neither a public official nor a public figure may claim a constitutional privilege against liability for the injury inflicted by those statements?
+
+Held
+The New York Times rule defines the level of constitutional protection appropriate to the context of defamation of a public person. However, the state interest in compensating injury to the reputation of private individuals requires that a different rule should apply with respect to them. The New York Times standard is inapplicable to this case and the trial court erred in entering judgment for the Respondent. Because the jury was allowed to impose liability without fault and was permitted to presume damages without proof of injury, a new trial is necessary.
+
+Dissent
+Dissenting opinions were offered by Justices William Douglas (J. Douglas), William Brennan (J. Brennan) and Byron White (J. White) .
+
+Discussion
+The majority based its decision upon the distinction between a public official, subject to the New York Times decision and a private individual. The majority found that private individuals require a greater level of protection because they are more vulnerable to injury. However, while private individuals deserve more protection, because the standard for recovery is less than was established in New York Times, there may only be recovery for damages that are sufficient to compensate him for actual injuries. This standard was fashioned by the Supreme Court in this case in order to prevent juries from ad hoc punishment of unpopular opinion rather than compensating private individuals for actual injury sustained.
+

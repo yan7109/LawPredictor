@@ -1,0 +1,21 @@
+Citation
+Privy Council, 1961.
+
+Brief Fact Summary
+The defendants negligently caused oil to spill into the Port of Sydney and do minimal damage to the plaintiff’s wharf. The oil subsequently caused a fire when molten metal dropped into the water and ignited cotton waste floating in the port.
+
+Synopsis of Rule of Law
+The natural consequences rule is overruled and reasonable foreseeability test is adopted.
+
+Facts
+The Plaintiff, Morts Dock & Engineering Co., Ltd. (Plaintiff), operated a dock in the Port of Sydney. The Defendants were the owners of the vessel Wagon Mound (Defendants). Wagon Mound was moored 600 feet from the Plaintiff’s wharf when, due the Defendant’s negligence, she discharged furnace oil into the bay causing minor injury to the Plaintiff’s property. However, the oil was ignited when molten metal dropped from the wharf and came into contact with cotton waste floating on the water’s surface. The fire seriously damaged the wharf and two ships docked there.
+
+Issue
+Whether the fire that destroyed the Plaintiff’s wharf was a foreseeable consequence of the Defendant’s negligence.
+
+Held
+The injury to Plaintiff’s property, though a direct result of the defendant’s negligence, was an unforeseeable consequence and liability does not attach.
+
+Discussion
+The natural consequences rule leads to instances where a negligent party is liable for both the direct trivial foreseeable damage and all unforeseeable and grave consequences too. This takes the law beyond the principle that a man should be liable for the probable consequences of his actions. The prior rule has led to much confusion and inconsistent results in the law. In some cases, the negligent actor is held responsible for results that might be natural or probable and are therefore deemed to be foreseeable to the reasonable man, when they are in fact not foreseeable. The Defendant is liable for the fire if the injury by fire is a foreseeable consequence of their negligence.
+

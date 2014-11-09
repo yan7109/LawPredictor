@@ -1,0 +1,24 @@
+Citation
+505 U.S. 144, 112 S. Ct. 2408, 120 L. Ed. 2d 120, 1992 U.S.
+
+Brief Fact Summary
+A federal statute required states to either provide for radioactive waste disposal or take title to waste made within the state’s borders. New York claims the statute is an impermissible violation of state sovereignty.
+
+Synopsis of Rule of Law
+Congress does not have the power to force states to implement regulations.
+
+Facts
+Congress enacted the Low-Level Radioactive Waste Policy Amendments Act of 1985 (the Act). The Act attempted to force states to arrange for the disposal of radioactive waste. The three parts of the Act were: (1) a monetary incentive to encourage states to open their own waste sites; (2) an access incentive, where states without waste sites could be denied access to waste sites in other states; and (3) a take title incentive, where a state that did not arrange for disposal of its waste would be required to take ownership of the waste. Under the take title provision, states would be liable for damages incurred by the waste owner or as a result of failure to have their own waste disposal site. New York claimed the Act violated the Tenth Amendment of the United States Constitution (Constitution), by invading the sovereignty of the state. New York appealed to the Supreme Court of the United States (Supreme Court).
+
+Issue
+Does Congress have the authority to force a state to adopt a federal regulatory program?
+
+Held
+No. Judgment affirmed in part and reversed in part.
+
+Dissent
+Congress is not forcing its will on the states by the regulation of radioactive waste. Instead, through the statute, Congress has ratified a compromise between many states to solve the waste disposal problem. Without this statute, another state would be forced to accept New York’s radioactive waste.
+
+Discussion
+The majority strictly adheres to the separation of power between state and federal government. Elected officials must be held accountable for the regulations they order.
+

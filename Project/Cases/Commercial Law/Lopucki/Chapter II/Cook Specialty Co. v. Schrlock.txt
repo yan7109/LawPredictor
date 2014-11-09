@@ -1,0 +1,21 @@
+Citation
+772 F. Supp. 1532, 1991 U.S. Dist. 13712, 16 U.C.C. Rep. Serv. 2d (Callaghan) 360
+
+Brief Fact Summary
+Cook Specialty Co., (Plaintiff), contracted to buy a machine from Schrlock, (Defendant), in the amount of $28,000. The machine was destroyed in transit to Plaintiff’s place of business.  Plaintiff brought suit to recover its damages from the loss that were unsatisfied by the carrier’s insurance and moves for summary judgment.
+
+Synopsis of Rule of Law
+A contract is improper under U.C.C. Section:2-504 if the seller agrees to an inadequate valuation of the shipment and thereby extinguishes the buyer’s opportunity to recover from the carrier.
+
+Facts
+Plaintiff contracted to purchase a machine, Dries & Krump Hydraulic Press Brake, from Defendant for $28,000. A term of the contract provided F.O.B. Defendant’s warehouse. A carrier was used to deliver the machine to Plaintiff. Defendant obtained a certificate of insurance from the carrier with a face amount of $100,000 and showing a $2,500 deductible. The carrier failed to properly secure the machine and it fell from the truck. Plaintiff recovered $5,000 from the carrier and brought this suit for the remainder.
+
+Issue
+Whether the contract Defendant made for delivery of the machine was not reasonable because Defendant failed to ensure that the carrier had sufficient insurance coverage to compensate Plaintiff for a loss in transit.
+
+Held
+No. Defendant’s conduct was reasonable because Defendant obtained a certificate of insurance and did nothing to impair plaintiff’s right to recover for any loss from the carrier.
+
+Discussion
+“F.O.B., place of shipment” means that the seller must at that place, ship the goods in the manner provided by U.C.C. Section: 2-504 and bear the expense and risk of putting them into the possession of the carrier. The risk of loss shifts to the buyer when the seller duly delivers the goods to the carrier. The goods are duly delivered when they are put in possession of a carrier and the seller makes such a contract for their transportation as may be reasonable having regard to the nature of the goods and other circumstances of the case.
+

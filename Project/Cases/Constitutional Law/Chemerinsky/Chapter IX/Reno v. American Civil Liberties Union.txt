@@ -1,0 +1,21 @@
+Citation
+521 U.S. 844, 117 S. Ct. 2329, 138 L. Ed. 2d 874, 1997 U.S.
+
+Brief Fact Summary
+The federal government regulated sexually explicit material on the Internet by prohibiting it unless the website could obtain the user’s age verification.
+
+Synopsis of Rule of Law
+A regulation may not burden adult speech in order to protect minors if there is a less restrictive alternative available to achieve the goal.
+
+Facts
+Sexually explicit material abounds on the Internet. However, it is unusual for a computer user to stumble upon these sites by accident. Often the sites require a link to a related site that the user must engage. A child must have some level of computer expertise in order to engage the sites. Of course, parental controls are available to limit a child’s exposure to such sites by limiting access to particular sites. The most effective means of banning children from sex sites would be through a form of age verification. Often this is accomplished through the use of a major credit card to pay for the use.
+
+Issue
+Is the regulation of the Internet for indecent material constitutional?
+
+Held
+No. The regulation is a content-based restriction that is vaguely written. By restricting access to minors, this regulation suppresses a large amount of speech that adults have a right to receive. The regulation as written prohibits individuals from posting indecent material on their own computers and ignores the fact that some material may have real value as communication.
+
+Discussion
+The regulation is vague because it does not provide a clear definition of indecent and patently offensive expressions on the Internet. It is not clear that both indecent and obscene materials are being outlawed or that one is meant over the other.
+

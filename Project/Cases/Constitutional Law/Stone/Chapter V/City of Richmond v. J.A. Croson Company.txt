@@ -1,0 +1,24 @@
+Citation
+488 U.S. 469, 109 S. Ct. 706,102 L. Ed. 2d 854, 1989 U.S. 579.
+
+Brief Fact Summary
+Richmond, Virginia created a set-aside program which required that a percentage of subcontracts for construction projects be reserved for minorities.
+
+Synopsis of Rule of Law
+Affirmative action programs can only be maintained by a showing that the programs aim is to eliminate effects of past discrimination.
+
+Facts
+In1983, the Richmond City Council, in the state of Virginia, adopted the minority Business Utilization Plan (the Plan), which required government supported construction contractors to set-aside 30% of its subcontracts to one or more Minority Business Enterprises (MBEs). MBEs were defined as “[a] business at least fifty-one (51) percent of which is owned and controlled . . . by minority group members.” Under the Plan, “minority group members” were defined as “[c]itizens of the United States who are Black, Spanish-speaking, Orientals, Indians, Eskimos, or Aleuts.” The purpose of the Plan was to “promot[e] wider participation by minority business enterprises in the construction of public projects.” The Appellant, J.A. Croson Company (Appellant), challenged the Plan on the grounds that it violated the United States Constitution (Constitution) because there had been no specific finding that the Plan’s purpose was supported by past discriminatory practices in the construction indust
+
+Issue
+Whether a state may enact an affirmative action plan without support that the “race-based measure ameliorates the effects of past discrimination on the opportunities enjoyed by members of minority groups in our society . . . .”
+
+Held
+Justice Sandra Day O’Connor (J. O’Connor). No. Without a showing that a race-based initiative was created to remedy past racial discrimination and that it supports a compelling governmental interest, the race-based initiative is unconstitutional and cannot withstand strict-scrutiny. The judgment is affirmed.
+
+Dissent
+Justice Thurgood Marshall (J. Marshall). Richmond’s Plan would be declared constitutional under the intermediate level of scrutiny. The Supreme Court should have applied the intermediate level rather than the strict scrutiny standard. Preventing initiatives, such as the set-aside program, for lack of a showing of past discrimination in the area only perpetuates racial discrimination because it suggests that racial discrimination no longer exists.
+
+Discussion
+Regardless of its application to racial minorities or to other racial groups, race-based classifications require the highest level of scrutiny in all cases.
+

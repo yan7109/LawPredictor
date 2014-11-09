@@ -1,0 +1,21 @@
+Citation
+908 F. Supp. 249, 1995 U.S. Dist. 19123, 30 U.C.C. Rep. Serv. 2d (Callaghan) 477
+
+Brief Fact Summary
+State Street Bank & Trust Company, (Plaintiff), brought suit against Chester L. and Connie M. Strawser, (Defendants), after they defaulted on payments pursuant to a mortgage and Adjustable Rate Note. Plaintiff asserts that it is a holder in due course and therefore entitled to enforce the Adjustable Rate Note free from all defenses.
+
+Synopsis of Rule of Law
+A person has “notice” of a fact when: (1) he has actual knowledge of it; (2) he has received a notice or notification of it; or (3) based on all the facts and circumstances known to him at the time in question, he has reason to know that it exists.
+
+Facts
+Defendants executed an Adjustable Rate Note, (Note) in favor of Homestead Savings Association (Homestead) as security for a loan in the amount of $350,000. The Note was secured by a mortgage on Defendants’ property. The terms of the note allow the Note Holder to demand payment in full upon default by Defendants. The Note and mortgage were assigned to Plaintiff. When Defendants defaulted, Plaintiff demanded payment in full. Plaintiff brought suit for breach of contract. Defendants claim that Plaintiff is not a holder in due course because it had notice of a potential defense under 7 P.S. Section:311(e) in the form of a letter sent to Homestead by Defendants’ attorney.
+
+Issue
+Whether Plaintiff had notice of a potential defense under 7 P.S. Section:311(e).
+
+Held
+No. Plaintiff had no notice of the potential defense under 7 P.S. Section:311(e).
+
+Discussion
+Even if 7 P.S. 311(e) was violated; Plaintiff was a holder in due course and entitled to enforce the note. Further, there is nothing in the record that establishes that Defendants had reason to know of the potential violation of the 7 P.S. Section:311(e). No evidence even established that Defendant had actual knowledge of Plaintiff’s letter to Homestead or its content
+

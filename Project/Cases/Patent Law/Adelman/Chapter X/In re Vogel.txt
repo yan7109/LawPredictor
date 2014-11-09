@@ -1,0 +1,21 @@
+Citation
+504 422 F.2d 438, 164 U.S.P.Q. 619 (C.C.P.A. 1970)
+
+Brief Fact Summary
+The Patent Office Board of Appeals found that Vogel's meat and beef processing claims double patented his earlier pork patent.
+
+Synopsis of Rule of Law
+Analysis of double patenting requires determining if the same invention is being claimed twice, and if the claim is an obvious variation of the invention disclosed previously.
+
+Facts
+Three of the claims were rejected in the patent Vogel filed on January 16, 1964.  Claims 7 and 10 were directed at a process of packaging meat generally.  The third, Claim 11, was directed at a similar process specifically for beef.  Vogel had already filed for a patent that was issued on March 10, 1964, which claimed a similar process directed at pork.  Vogel's claims were rejected as double patenting by the Board due to his pork patent and because of a reference patent, Ellies.  Vogel's claims listed the same oxygen permeability in his packaging as the use of meat packaging material taught by Ellies.  In the pork claim, Vogel did not reference the oxygen permeability of the packaging material, but the rejected claims referred to the use of the Ellies material in its process.  Vogel appealed.
+
+Issue
+Does analysis of double patenting require determining if the same invention is being claimed twice, and if the claim is an obvious variation of the invention disclosed previously?
+
+Held
+(Lane, J.)  Yes.  Analysis of double patenting requires determining if the same invention is being claimed twice, and if the claim is an obvious variation of the invention disclosed previously.  In the first test, same invention means identical subject matter.  A good, objective test for this is whether one of the claims could literally be infringed without literally infringing the other.  If it could, the claims are not to the same invention.  The patent claims are to pork, but the application's claims are to meat and beef.  Beef is not pork.  Many processes could infringe the meat claims that would not infringe the pork claims.  The second question is: Does any claim in the application define only an obvious variation of an invention disclosed and claimed in the patent?  In the beef claim, it is not an obvious variation because there is no evidence that the spoliation characteristics of the two meats are similar.  However, the meat claims are obvious variations.  "Meat" reads literally on pork, and the only difference in the claims is that the material mentions oxygen permeability ratios.  These can be found in the prior art of Ellies.  Claims 7 and 10 affirmed; Claim 11 reversed.
+
+Discussion
+Straight double patenting is supported by 35 U.S.C. § 101, as analyzed in the first step of Vogel.  Obviousness-type double patenting, as referred to in the second step of Vogel, is a judicially created doctrine with a public policy rationale.  The purpose is to make patent term extensions illegal even though there is no clear basis in the statutes.  It permits the public to practice variations of the invention that are obvious after the patent has expired.  However, applicants may file terminal disclaimers that clarify the patent's reach, but do not extend the date of the patent.  The Vogel court suggested this action for Vogel's rejected claims.
+

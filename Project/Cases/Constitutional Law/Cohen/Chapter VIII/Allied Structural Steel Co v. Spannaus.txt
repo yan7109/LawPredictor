@@ -1,0 +1,24 @@
+Citation
+22 Ill.438 U.S. 234, 98 S. Ct. 2716, 57 L. Ed. 2d 727, 1 EBC 1477 (1978)
+
+Brief Fact Summary
+Minnesota passed pension reform legislation, which increased the obligation that Allied Structural Steel Co. had to their employees.
+
+Synopsis of Rule of Law
+In determining whether a contract may be modified the Court will consider the severity of the impairment and the importance of the public interest to be served. The Court found that Minnesota’s police power was limited and invalidated the state pension reform legislation.
+
+Facts
+In 1974, Minnesota enacted the Private Pension Benefits Protection Act (Act) that required employers to cover pensions for employees who had worked at least ten years for them. A provision specified that periods of employment prior to the effective date of the Act were to be included in the ten-year employment criterion. Allied Structural Steel had a private plan with their employees. When they closed their offices in August 1974, nine of the discharged employees did not have any vested pension rights under the company’s plan but had worked for the company for ten years or more and qualified as pension obliges of the company under the Minnesota law. They were charged $185,000.00 under the provisions of the Act. The company claimed it was unconstitutional because it impaired the contractual obligations to its employees under their pension agreement.
+
+Issue
+Does the Contract Clause limit the power of a state to abridge existing contractual relationships even in the exercise of its police power?
+
+Held
+Yes.
+
+Dissent
+Justices Brennan, White, and Marshall dissenting.
+
+Discussion
+A state built a stadium and was required by the bondholders to use the first $2.00 of the admission charge to repay the debt for the first six years. Two years later the legislature passed a bill requiring the stadium to admit all senior citizens for 50 cents. The challenge to this law would be the Contract Clause. The severity of the obligation versus the general benefit is compared. Here, the stadium builders will be in severe debt to their bondholders and in breach of their contract. The benefits to the general public are only for people over 65.
+

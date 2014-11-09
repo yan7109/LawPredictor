@@ -1,0 +1,24 @@
+Citation
+438 U.S. 265, 98 S. Ct. 2733, 57 L. Ed. 2d 750, 1978 U.S.
+
+Brief Fact Summary
+The Respondent, Bakke (Respondent), a white applicant to the University of California, Davis Medical School, sued the University, alleging his denial of admission on racial grounds was a violation of the Equal Protection Clause of the Fourteenth Amendment of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+Although race may be a factor in determining admission to public educational institutions, it may not be a sole determining factor.
+
+Facts
+The University of California, Davis Medical School reserved 16 spots out of the 100 in any given class for “disadvantaged minorities.” The Respondent, when compared to students admitted under the special admissions program, had more favorable objective indicia of performance, while his race was the only distinguishing characteristic. The Respondent sued, alleging that the special admissions program denied him equal protection of laws under the Fourteenth Amendment of the Constitution.
+
+Issue
+Is the special admissions program of the University of California constitutional?<br />	Can race be considered as a factor in the admissions process?
+
+Held
+The special admissions program is unconstitutional, but race may be considered as a factor in the admissions process.
+
+Dissent
+Justices William Brennan (J. Brennan), Byron White (J. Brennan), Thurgood Marshall (J. Marshall), and Harry Blackmun (J. Blackmun) dissent, believing the special admissions program to be constitutional. In particular, the Justices argue that the racial classification in the present case is remedial, serves an important government objective and also substantially related to that objective and thus insulated from the Fourteenth Amendment’s general prohibition of such classifications.<br />	J. Marshall writes separately in support of J. Brennan, J. White, J. Marshall, and J. Blackmun.<br />	Justice John Paul Stevens (J. Stevens) dissents, citing that Title VI of the Civil Rights Act of 1964 prohibits the denial of any individual on the basis of race from participation in any program receiving federal funding. J. Stevens argues that prohibiting white students from participation in the special admissions program is a direct violation of Title VI.<br />Concurrence.<br />	J. Brennan, J. White, J. Marshall, and J. Blackmun concur so much as the Supreme Court’s opinion allows race to be considered as a factor in the admissions process. However, the Justices believe that in this particular example, race should be allowed as a single determining factor.<br />	J. Stevens concurs to the extent that the special admissions program is impermissible. However, J. Stevens holds that the constitutional issue is not reached, because the federal statutory ground (Title VI) prohibits the activity directly.<br />
+
+Discussion
+J. Powell’s basic problem with the special admissions program is this: there are 84 places open for white applicants and 100 positions open for minority applicants. This differential treatment solely on racial grounds is unconstitutional, according to J. Powell. It is important to note that in Bakke, the Court did not technically hold the special admissions program unconstitutional. J. Stevens and the three other Justices joining his opinion do not reach the constitutional issue because of the federal statute.
+

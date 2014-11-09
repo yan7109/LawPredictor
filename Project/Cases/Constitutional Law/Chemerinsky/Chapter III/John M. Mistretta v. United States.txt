@@ -1,0 +1,24 @@
+Citation
+488 U.S. 361, 109 S. Ct. 647, 02 L. Ed. 2d 714, 1989 U.S.
+
+Brief Fact Summary
+Congress enacted a determinate sentencing scheme for federal crimes and created the United States Sentencing Commission (the Commission) to devise guidelines that judges were obligated to use in sentencing.
+
+Synopsis of Rule of Law
+Congress is not forbidden from delegating its legislative power to another person or entity if lays down an “intelligible principle” to which the person or entity is directed to conform.
+
+Facts
+Congress enacted legislation entitled the Sentencing Reform Act (the Act) to revise the failing sentencing process. The Act rejected rehabilitation in favor of deterrence, rehabilitation and retribution and created the Commission to create sentencing guidelines. They sentencing guidelines were made binding on judges with limited discretion. The Defendant, Mistretta (Defendant) was sentencing according to the guidelines to 18 months in jail and a $1,000 fine for selling cocaine. The Defendant argued that the establishment of the guidelines violated the separation-of-powers principle. The district court upheld the guidelines and before the Court of Appeals could rule, the Supreme Court granted review.
+
+Issue
+May Congress delegate legislative authority to an independent judicial agency?
+
+Held
+Yes, the federal sentencing policy guidelines are constitutional.
+
+Dissent
+Justice Antonin Scalia (J. Scalia) thought that these alleged “guidelines” really have the force and effect of law because the judges have to follow them or else they will be reversed.
+
+Discussion
+Congress has the power to fix the sentences for crimes, and the scope of judicial sentencing discretion is subject to congressional control.
+

@@ -1,0 +1,24 @@
+Citation
+D.C. Ct. App., 573 A.2d 1235 (1990)
+
+Brief Fact Summary
+A court ordered that A.C. (Defendant), pregnant and dying, undergo a Caesarian section to save the life of the baby.
+
+Synopsis of Rule of Law
+A court may not order a woman to undergo a Caesarian section to save the life of the baby.
+
+Facts
+A.C. (Defendant), a chronic cancer patient, became pregnant.  She entered a hospital complaining of pain at twenty-five weeks.  The results of testing revealed an inoperable tumor, and she was diagnosed as terminal.  Based on discussions with doctors, she agreed to undergo a Caesarian section (C-section) at twenty-eight weeks.  However, her condition got worse quickly, and by twenty-six weeks she was slipping in and out of consciousness.  Medical personnel thought the only way to save the baby was to perform a C-section immediately.  However, because she was mostly unconscious and not lucid when she was conscious, they were unable to obtain Defendant's consent.  A court hearing was quickly convened to determine the next step.  The court engaged in a balancing test between the state's interest in the fetus, the interests of the fetus, and the Defendant's interests.  The court ordered the C-section; unfortunately, the baby died, as well as Defendant two days later.  The district court of appeals reviewed the case.
+
+Issue
+May a court order a woman to undergo a Caesarian section to save the life of the baby?
+
+Held
+(Terry, J.)  No.  A court may not order a woman to undergo a Caesarian section to save the life of the baby.  It is a well-grounded common-law rule than a person is not under a duty to take steps to save another person's life.  For example, a person cannot be compelled to donate blood or an organ to save another person's life.  This rule applies with the same force in the context of a dying woman and her fetus: the woman cannot be compelled to undergo a procedure to save the life of the fetus.  Consent is required.  If the woman is no longer competent, a court may hold an inquiry regarding whether she would have consented if she were competent.  However, the scope of inquiry can only cover consent; the interests of neither the fetus nor the state may be considered, except possibly in extraordinary circumstances.  The court erred when it considered those interests.  Reversed.
+
+Dissent
+(Belson, J.)  The interests of the state and fetus are entitled to more weight than the court in this case gives them.  In some cases, they may outweigh the mother's interests.
+
+Discussion
+In the case of a person unable to give consent, it may be that the person had appointed a representative while competent.  If not, a court must try to determine what that person would have wanted.  This requires an examination of all circumstances that might be relevant, such as her value system and statements she may have made.  This inquiry is referred to as "substituted judgment."
+

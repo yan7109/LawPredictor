@@ -1,0 +1,24 @@
+Citation
+431 U.S. 1, 97 S. Ct. 1505, 52 L. Ed. 2d 92, 1977 U.S.
+
+Brief Fact Summary
+The Respondent, the state of New Jersey (Respondent), originally passed a law prohibiting the use of toll revenue to pay for railroad passenger service upgrades and maintenance. However, during the energy crisis of the 1970’s, it passed a subsequent law allowing the tolls to pay for upgrades.
+
+Synopsis of Rule of Law
+Government interference with government contracts is subject to greater scrutiny than when the interference concerns a contract between private parties. A state cannot refuse to meet its contractual obligations to private creditors simply because it would prefer to spend the money for the greater good of the community.
+
+Facts
+New York and New Jersey formed a Port Authority (Authority). Bonds were sold to support the independent authority and bridge and tunnel tolls were pledged to protect the bondholders. In 1960, the Authority took over a financially troubled, privately owned commuter train. In 1962 New York and New Jersey entered a contractual arrangement not to finance railroad deficits with revenue pledged to make bond payments. However, in the 1970’s, both New York and New Jersey passed laws, which repealed the original legislation and allowed the toll revenue to be used to upgrade and maintain the railroad system. The Petitioner argued that this changed the state’s contractual obligation to repay the bonds. The Petitioners, the United States Trust Company of New York and various bondholders (Petitioners), brought suit alleging that the repeal of the original legislation violated the Contract Clause in that it impaired their rights to payment on the bonds.
+
+Issue
+Does the repeal of the earlier legislation impair the obligation of New Jersey to the bondholders?
+
+Held
+Yes. The Contract Clause does not prevent a state from enacting legislation, which may affect existing contracts so long as reasonable conditions and public interests justify its enactment. The situation is different when it comes to the state impairing its own contracts. In that case, the nature of the contract must be scrutinized. Only where the state’s promise is not purely financial, may the state impair its own debts. Here, the reservation of tolls was purely financial. States cannot impair their debts merely because they would prefer to spend their money in a different manner. This repeal was not a necessary or reasonable means of achieving the goal of encouraging citizens to use the transit system instead of automobiles. A less drastic alternative was available to achieve the state’s goal.
+
+Dissent
+The Contract Clause should not be used to preserve a property right of third parties who contract with the government, nor should it be used to overrule sound legislative decision-making.
+
+Discussion
+States are free to change and repeal laws. However, special scrutiny exists when the changes might affect the state’s own contractual obligations. The majority focuses on the self-interest the state may have when changing statutes that impact their financial responsibilities to private parties.
+

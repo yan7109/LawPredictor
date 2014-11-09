@@ -1,0 +1,24 @@
+Citation
+260 U.S. 393, 43 S. Ct. 158, 67 L. Ed. 322 (1922)
+
+Brief Fact Summary
+The Supreme Court of the United States struck down a prohibition against mining coal when a private contract had expressly reserved such a right.
+
+Synopsis of Rule of Law
+While property may be regulated by the government to a certain extent, if regulation goes too far, it will be recognized as a taking.
+
+Facts
+This case is based on a bill of equity to prevent the Defendant, the Pennsylvania Coal Company, from mining under the Plaintiff’s, Mahon’s, property in such a way as to remove the supports and cause subsidence of the surface and of the house. The Plaintiff asserts that despite a deed executed by the Defendant which conveys the surface to the Plaintiffs, but reserves within the Defendant, the right to mine the subsurface, the Defendant’s rights to mine were taken away by the Pennsylvania Kohler Act of 1921 (”Kohler Act”). This law forbids the mining of coal in such a way as to cause the subsidence of any structure used for human habitation. Plaintiff sues to prevent such mining and the lower courts hold in favor of the Plaintiff.
+
+Issue
+Whether the police power can be stretched so far as to enact a law that results in a surface land owner acquiring greater rights than they bought.
+
+Held
+No. Judgment of the lower courts reversed. Here, the regulation by means of the passage of the Kohler Act, went too far and thus acted as a taking. So far as private persons have seen fit to take the risk of acquiring only surface rights, the Court cannot see that the fact that Plaintiff’s risk has become a danger warrants the giving to Plaintiff of greater rights than Plaintiff bought. Therefore, the Kohler Act is an excessive use of the state’s police power.
+
+Dissent
+The restriction here is merely the prohibition of noxious use and the property remains in the possession of its rightful owner. The purpose of a restriction does not cease to be public because incidentally some private persons may gratuitously receive special benefits. Furthermore, this restriction is an appropriate means to a public end.
+
+Discussion
+The majority acknowledges that property may be regulated by the state, but if the state goes too far with the regulation (as here), such regulation becomes a taking and unconstitutional.
+

@@ -1,0 +1,21 @@
+Citation
+Neb. Sup. Ct., 282 Neb. 260, 806 N.W.2d 118 (2011)
+
+Brief Fact Summary
+Robert Murray (Robert) (Plaintiff), individually and as special administrator of the estate of his wife, Mary K. Murray (Mary) (Plaintiff), brought suit against the Nebraska Medical Center, the Board of Regents of the University of Nebraska, UNMC Physicians (UNMC) (Defendant) and others claiming Mary's (Plaintiff) death was caused by their negligent failure to administer an expensive drug until the patient's insurer approved the drug or another source of payment could be obtained.
+
+Synopsis of Rule of Law
+Under the customary standard of care, an expert medical witness may offer an opinion that a doctor should consider the health risks to a patient who may not be able to pay for ongoing treatment.
+
+Facts
+Robert Murray (Robert) (Plaintiff), individually and as special administrator of the estate of his wife, Mary K. Murray (Mary) (Plaintiff), brought suit against the Nebraska Medical Center, the Board of Regents of the University of Nebraska, UNMC Physicians (UNMC) (Defendant) and others claiming Mary's (Plaintiff) death was caused by their negligent failure to treat her pulmonary arterial hypertension with the administration of Flolan therapy.  Pulmonary arterial hypertension is a chronic medical condition where blood vessels in the lungs constrict causing pressure on the heart that leads to heart failure.  Flolan is a vasodilator that relaxes blood vessels and prevents blood clotting.  Flolan is short acting and very expensive, so patients on Flolan treatment need a constant supply of the drug, because if it stops being administered, pulmonary blood pressure rebounds and can be life threatening.  Because Flolan is a chronic treatment, patients who start Flolan basically need to stay on it for the rest of their lives.  It must be administered 24 hours a day and costs approximately $100,000.00 per year.
+
+Issue
+Under the customary standard of care, may an expert medical witness offer an opinion that a doctor should consider the health risks to a patient who may not be able to pay for ongoing treatment?
+
+Held
+(Gerrard, J.)  Yes.  Under the customary standard of care, an expert medical witness may offer an opinion that a doctor should consider the health risks to a patient who may not be able to pay for ongoing treatment.  This case involves a failure to provide medical treatment.  The treatment at issue is an extremely expensive drug that must be administered indefinitely.  If the administration is interrupted, serious and even deadly symptoms can occur.  In this case, the doctors treating the patient were wary of those health risks and decided not to administer the drug until it was approved by the patient's insurer or another payment source could be obtained.  Regrettably, however, the patient died before either occurred.  The question the appeal presented is whether in such circumstances, an expert medical witness is allowed to present his opinion that under the customary standard of care, a physician should consider the risk to a patient's health if the patient may not be able to pay for ongoing treatment.  Testimony such as this is admissible and the order of the district court granting a new trial is therefore reversed.
+
+Discussion
+The holding of the court in the Murray case is troubling in that an expert medical witness is permitted to testify that the financial situation of a patient is part of the evaluation of the standard of care.  Some would consider this a distinction with no meaning because of the general wealthblind approach to treating all patients in similar circumstances the same.  The Defendant's doctor's concern to stop and consider her ability to pay is not consistent with the testimony that regardless of the Plaintiff's insurance coverage, payment for the necessary and possibly life-saving drug would have been found.  Perhaps the real focus was indicated by the court, that the decision to allow expert testimony should have been made and the ultimate verdict of the jury was not to be disturbed.
+

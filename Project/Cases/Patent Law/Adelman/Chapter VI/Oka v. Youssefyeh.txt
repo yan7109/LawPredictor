@@ -1,0 +1,21 @@
+Citation
+849 F.2d 581 (Fed. Cir. 1988)
+
+Brief Fact Summary
+The same compound was invented by two parties; the first to file was Oka (Plaintiff), but Youssefyeh (Defendant) filed interference and claimed he invented it prior to Plaintiff's filing.
+
+Synopsis of Rule of Law
+Proof of conception and knowing the means of carrying out the conception and the exact date of conception is required of the junior party.
+
+Facts
+The patent concerned a class of compounds with a complex composition.  However, two of the more typical subspecies of the class contained either a 2-indanyl group or a 5-indanyl group.  On February 27, 1980, Defendant had the idea for a 2-indanyl class of compounds and on October 10, 1980 he had a method of making other compounds.  During the last week of October 1980, Defendant's partner, co-applicant Suh, told an assistant to use the October 10 method to prepare a species of 5-indanyl class of compounds.  In December 1980, the assistant did so and on January 9, 1981, Defendant reduced the invention to practice.  Plaintiff filed his application for the compounds on October 31, 1980.
+
+Issue
+Does proof of conception require that the junior party knew of the method for carrying out the conception and the exact date of the conception?
+
+Held
+(Markey, C.J.)  Yes.  Conception requires proof that the junior party knew of the method for carrying out the conception and proof of the exact date of conception.  Defendant, as the junior filing party, bears the burden of proving he had conception and reduced it to practice before Plaintiff's filing date.  Conception requires both the idea of the structure of the chemical compound and possession of an operative method of making the compound.  Therefore, on February 27, 1980, Defendant lacked conception when he had the 2-indanyl idea because he must show he had a way of doing so.  Defendant had the ultimate means at his disposal on October 10, but he had not recognized that it could be used to create this class of compounds.  It was not until the last week of October 1980 that he was given instructions for this method.  Also, Defendant lacked the idea of a 5-indanyl compound at that time and therefore, he did not have conception of either species until the last week of October.  If a party merely states a period of time when setting a date of conception, he has not set a date for his activities earlier than the last day of the period.  Therefore, Defendant established a conception date at October 31, 1980.  Plaintiff's filing date was October 31, 1980, and as senior party, Plaintiff earns priority in a tie.  Judgment reversed.
+
+Discussion
+Deciding which of several parties with identical priority patent dates should receive the patent is not unique to first-to-invent systems.  Although it appears unlikely, a first-to-file regime could face the same problem when multiple inventors file on the same day for the same invention.  This is addressed by the Japanese Patent Act which requires that the parties resolve the dispute or none of them will be granted with a patent.
+

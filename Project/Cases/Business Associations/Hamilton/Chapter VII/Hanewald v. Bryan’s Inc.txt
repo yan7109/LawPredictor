@@ -1,0 +1,21 @@
+Citation
+N.D. Sup. Ct., 429 N.W.2d 414 (1988)
+
+Brief Fact Summary
+Bryan’s Ince. (D) went out of business without paying off a debt on the lease to the store. Hanewald (P) filed suit against the corporation and family members, holding them personally liable for having shareholder status.
+
+Synopsis of Rule of Law
+Shareholders are liable to corporate creditors for unpaid debts in their stock.
+
+Facts
+The Bryans (D) operated a general retail clothing store called Bryan’s Inc. (D). They did not pay the corporation for stock that was issued. Bryan’s Inc. (D) bought inventory and assets from Hanewald’s (P) for cash and a corporate promissory note. A lease was also signed for Hanewald’s (P) store. When Bryans (D) closed, it paid off the other creditors, but avoided Hanewald (P) by sending a notice of rescission to side-step the lease. Hanewald (P) therefore sued the Bryans (D) for personal liability and also sued their corporation. The trial court ruled against the corporation, but did not find the Bryans (D) personally liable. Hanewald (P) filed an appeal.
+
+Issue
+Are Shareholders liable to corporate creditors for unpaid debts in their stock?
+
+Held
+(Meschke, J.) Yes. Shareholders are liable to corporate creditors for unpaid debts in their stock. Corporations that issue stock as payment commit fraud upon creditors who take the stock in good faith. Here, since a loan was repaid by the corporation to the shareholders before closing, the loan cannot be counted a capital contribution. The Bryans (D) were obligated to pay for shares issued to them by their corporation. Bryan’s Inc. (D) did not receive any payment for its stock issued to the Bryans (D) individually. The court finds that the trial court erred in not finding the Bryans (D) personally liable. Affirmed in part, reversed in part, and remanded.
+
+Discussion
+Failure to pay for their corporate share made the Bryans (D) personally liable. The application of this ruling can be found under Statute 25 of the Model Business Corporation Act (MBCA). Article XII, Statute 9 was also applied, stating that no corporation shall issue stocks except as some form of restitution. The purpose of these rules is to protect the public and everyone dealing with corporations.
+

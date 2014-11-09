@@ -1,0 +1,24 @@
+Citation
+524 U.S. 156, 118 S. Ct. 1925, 141 L. Ed. 2d 174, 1998 U.S.
+
+Brief Fact Summary
+The Petitioner, Phillips (Petitioner), argues that the interest on Interest on Lawyers Trust Accounts (IOLTA) is the property of the attorney’s clients and that the Respondent, Washington Legal Foundation (Respondent), use of the interest to fund other legal services is a “taking.”
+
+Synopsis of Rule of Law
+Interest gained on deposit accounts belongs to the owner of the principal even if the interest provides no economic gain or value for the owner.
+
+Facts
+In the early 1980’s, the federal government changed banking regulations to allow banks to pay interest on demand deposit accounts to non-profit entities. In 1984 the Texas legislature took advantage of this federal legislation by establishing IOLTA programs. These programs use the interest from all IOLTA’s to fund the delivery of legal services to low income persons.
+
+Issue
+Is the interest earned from client funds in IOLTA’s “private property” for the purposes of the Takings Clause?
+
+Held
+Yes. It is a well-established property principle that “interest follows principal.” Therefore, while the interest income may have no economically recognizable value to its owner, possession, control and disposition are nonetheless valuable rights that inhere in property. Whether this amounted to a taking was remanded to a lower court.
+
+Dissent
+The IOLTA interest would not exist or accrue without the existence of the legal aid programs. Therefore, it is improper to characterize the interest as the property of the attorneys’ clients.
+
+Discussion
+The majority bundles interest with the principle in declaring it a property right. However, it conveniently refuses to address the issue of whether the confiscation of this private property is a taking.
+

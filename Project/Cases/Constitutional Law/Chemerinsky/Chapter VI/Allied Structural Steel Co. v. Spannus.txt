@@ -1,0 +1,24 @@
+Citation
+438 U.S. 234, 98 S. Ct. 2716, 57 L. Ed. 2d 727, 1978 U.S.
+
+Brief Fact Summary
+The Appellant, Allied Structural Steel Co. (Appellant), administered its own pension plan for its employees. In 1974, Minnesota passed the Private Pension Benefits Protection Act (the Act) that would penalize large employers who did not have enough funds to cover the pension of all employees who had worked for a company for at least 10 years. That same year the Appellant closed its office in the state and was fined accordingly.
+
+Synopsis of Rule of Law
+In order for the contract clause to remain viable, if must be understood to impose certain limits upon the power of states to interfere with existing contractual relationship, even though the state is exercising its otherwise legitimate police power.
+
+Facts
+The Appellant funded a pension plan for all employees. At age 65 each employee was entitled to receive a pension equal to 1% of their average monthly salary, multiplied the number of years of service. The pension right became vested, in that employment termination could not affect the right to receive the money. But, the company was free to terminate the pension plan at any time for any reason.
+
+Issue
+Does Minnesota’s Act violate the Contract Clause?
+
+Held
+Yes. The Act substantially altered the employer’s obligation to the employees by retroactively modifying the funding of the pension plan. This resulted in a severe, permanent and immediate change in the contractual relationship. The Supreme Court of the United States observed that the Act nullified express terms of the company’s contractual obligations and imposed a completely unexpected liability in potentially disabling amount. Furthermore, the law was not designed to remedy a generalized economic or social problem.
+
+Dissent
+Justice William Brennan (J. Brennan) argued that the Act was designed to prevent corporations from obtaining a windfall by closing shops early and eliminating pension contributions. Also, J. Brennan observed that the burden on companies is small. The companies expected to contribute to the funds and the Act just ensures that all qualified employees actually have an interest available to them.
+
+Discussion
+The majority relies on the analysis of Home Building & Loan Assn. v. Blaisdell, 290 U.S. 398 (1934), to support its conclusion here. The state must provide a significant justification for interfering with the contracts of individuals. Here, there was no emergency or crisis that warranted such an interference with the pension funds of companies.
+

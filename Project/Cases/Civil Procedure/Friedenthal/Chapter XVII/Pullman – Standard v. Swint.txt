@@ -1,0 +1,24 @@
+Citation
+22 Ill.456 U.S. 273, 102 S. Ct. 1781, 72 L. Ed. 2d 66, 28 FEP Cases 1073 (1982)
+
+Brief Fact Summary
+The Respondents, Swint and others (Respondents), sued the Petitioners, Pullman – Standard and a Union (Petitioners), for alleged violation of Title VII of the Civil Rights Act of 1964 (the Act). The District Court held that there was no discriminatory intent to support violations and the Court of Appeals reversed the holding that there were.
+
+Synopsis of Rule of Law
+An appellate court may only set aside a district court’s findings of fact where they are clearly erroneous. The appellate court may not substitute its own judgment, rather it must remand to the lower court to fix its mistake.
+
+Facts
+The Respondents were black employees of the Petitioner Pullman – Standard and brought suit against them and the Petitioner Union, asserting that the seniority system violated the Act. The District Court found that the differences in terms, conditions, or privileges of employment resulting from the seniority system were not the result of an intent to discriminate because of race or color. It held that the system satisfied Section: 703(h) of the Act. The Court of Appeals reversed citing differences in the terms, conditions, and standards of employment for black and white workers at the Petitioner Pullman-Standard resulted from an intent to discriminate.
+
+Issue
+Whether a Court of Appeals is bound by the “clearly erroneous” rule of Federal Rules of Civil Procedure (FRCP) 52(a) in reviewing a District Court’s findings of fact, arrived at after a lengthy trial, as to the motivation of the parties who negotiated a seniority system.<br />Whether the court below applied the wrong legal criteria in determining the genuineness of the seniority system.
+
+Held
+Discriminatory intent under Section: 703(h) of the Act is a factual matter subject to the “clearly erroneous” standard of FRCP Rule 52. It follows that when a district court’s finding on such an ultimate fact is set aside for an error in law, the court of appeals is not relieved of the usual requirements of remanding for further proceedings to the tribunal charged with the task of fact-finding in the first instance. The Supreme Court of the United States (Supreme Court) concluded that the Court of Appeals erred in the course of its review and accordingly reversed its judgment and remanded the matter for further proceedings.
+
+Dissent
+Justices Thurgood Marshall (J. Marshall) and Justice Harry Blackmun (J. Blackmun) asserted that the Court of Appeals correctly determined that the record presented in District Court compelled a finding of discriminatory intent. They failed to see how the Court of Appeals erred in carrying out its appellate function.
+
+Discussion
+The Court of Appeals made an independent determination of discriminatory purpose, the ultimate fact in this case and this was error under FRCP Rule 52. FRCP Rule 52 requires that findings of fact be set aside only if clearly erroneous. It does not apply to conclusions of law. For a violation of the Act, there must be a finding of actual intent to discriminate on racial grounds on the part of those who negotiated or maintained the system. The finding is a pure question of fact to be made by the trial court. Discriminatory intent meant actual motive, therefore, was not a legal presumption to be drawn from a factual showing of something less than actual motive. Thus, a court of appeals may only reverse a district court’s finding on discriminatory intent if it concludes the finding was clearly erroneous.<br />When an appellate court finds that a district court has failed to make a finding because of an erroneous view of the law, the usual rule is that there should be a remand for further proceedings to permit the trial court to make the missing findings. The Court of Appeals, after finding the District Court failed to consider relevant evidence and indicating that the District Court might have come to a different conclusion had it considered that evidence, failed to remand for further proceedings. Instead the Court of Appeals made its own determinations and finding
+

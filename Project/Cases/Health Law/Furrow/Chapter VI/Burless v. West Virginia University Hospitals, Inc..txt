@@ -1,0 +1,21 @@
+Citation
+W. Va. Sup. Ct., 215 W. Va. 765, 601 S.E.2d 85 (2004)
+
+Brief Fact Summary
+Two women brought lawsuits against West Virginia University Hospital, claiming they were injured as a result of negligent treatment received at the hospital.  The trial court did not allow the women to present evidence to support their claims that the doctors who treated them appeared to be hospital employees, when they were actually independent contractors.
+
+Synopsis of Rule of Law
+A hospital may be found vicariously liable for the negligence a doctor working at the hospital is charged with, even when the doctor is working as an independent contractor.
+
+Facts
+In July 1998, Jaclyn Burless (Plaintiff) learned she was pregnant.  In November 1998, Plaintiff went to West Virginia University Hospital (WVUH) for an ultrasound.  Burless (Plaintiff) signed a consent form at that time that stated the faculty physicians and resident physicians in the hospital providing treatment are not employees of the hospital.  When Burless (Plaintiff) delivered at WVUH in late February 1999, there were complications and her daughter, Alexis Price, had seizures and suffered a stroke.  Burless (Plaintiff) claimed that the doctors and the hospital were negligent by failing to monitor her labor and delivery, and that the negligence caused her daughter severe and permanent mental, neurological, and psychological injuries.  Her lawsuit said WVUH was vicariously liable based upon a theory of apparent agency between WVUH and the doctors who provided the alleged negligent care.
+
+Issue
+May a hospital be found vicariously liable for the negligence a doctor working at the hospital is charged with, even when the doctor is working as an independent contractor?
+
+Held
+(Davis, J.)  Yes.  A hospital may be found vicariously liable for the negligence a doctor working at the hospital is charged with, even when he is working as an independent contractor.  There is no evidence that the doctors actually worked for the hospital, and WVUH (Defendant) cannot therefore be found liable under the doctrine of respondeat superior, but it can be held liable under a theory of apparent agency.  Under West Virginia Law, whether or not there are any contractual arrangements with independent contractors, a hospital is liable to the injured patient for acts of malpractice that occurred in its emergency room, so long as the required proximate cause and damages are present.  That same rule should apply outside of the emergency room.  The public's confidence in the modern hospital's portrayal of itself as a full service health care provider appears to be at the foundation of the national trend toward adopting a rule of apparent agency to find hospitals liable, in some circumstances, for the negligence of doctors providing services inside the hospital.  Also, WVUH (Defendant) did not unequivocally inform Pritt (Plaintiff) and Burless (Plaintiff) that the physicians treating them were not employees of WVUH.  The disclaimer language indicating that faculty doctors and resident doctors who provide treatment in the hospital are independent contractors was not enough to support WVUH's (Defendant) request for a grant of summary judgment in their favor.  Reversed.
+
+Discussion
+In accordance with the tests for respondeat superior, evidence of control must be present in order to show that a doctor is an employee of a hospital.  Courts turn to apparent agency tests in cases where there might be vicarious liability for the negligence of independent contractors.
+

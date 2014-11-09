@@ -1,0 +1,24 @@
+Citation
+22 Ill.465 U.S. 89, 104 S. Ct. 900, 79 L. Ed. 2d 67 (1984)
+
+Brief Fact Summary
+The Respondents, Halderman and others (Respondents), filed suit against the Petitioners, the Pennhust State School and Hospital and its officials (Petitioners), charging conditions at the hospital violate class member’s rights. The Petitioners argued before the Supreme Court of the United States (Supreme Court) that the Eleventh Amendment of the United States Constitution (Constitution) prohibited the District Court from ordering state official to conform their conduct to state law.
+
+Synopsis of Rule of Law
+A federal court’s grant of relief against state officials on the basis of state law, whether, prospective or retroactive directly interferes with the principles of federalism that underlie the Eleventh Amendment of the Constitution.
+
+Facts
+This case is before the Supreme Court for a second time to determine whether a federal court can grant relief against state officials based on state law. The case concerns the condition of care at Petitioners’ institution for the mentally retarded. The Respondents’ amended complaint charged that the Petitioners violated class member’s rights under (i) the Eighth and Fourteenth Amendments of the Constitution, (ii) Section:504 of the Rehabilitation Act of 1973, (iii) the Developmentally Disabled Assistance and Bill of Rights Act and (iv) the Pennsylvania Mental Health and Mental Retardation Act of 1966. The Court of Appeals for the Third Circuit decided that the Respondents had a right to rehabilitation in the least restrictive environment, based solely on the bill of rights provision in the Developmentally Disabled Assistance and Bill of Rights Act. The Supreme Court of the United States (Supreme Court) reversed the judgment of the Court of Appeals finding that the Developmentally Dis
+
+Issue
+Whether a federal court has jurisdiction to award injunctive relief against state officials on the basis of state law?
+
+Held
+Federal Courts lack jurisdiction to enjoin Petitioners’ actions on the basis of state law. Reversed and remanded.
+
+Dissent
+The majority decision goes against established precedence by the Supreme Court, stating a federal court can award injunctive relief on the basis of state law. This new pronouncement will require federal courts to decide federal constitutional questions despite the availability of state-law grounds for decision.
+
+Discussion
+The Eleventh Amendment of the Constitution prohibits a state from being sued in federal courts by her own citizens, as well as by citizens of another state. The Eleventh Amendment bars a suit against state officials when the state is a real, substantial party in interest. An exception to the rule against suing state officials is when the suit is challenging the constitutionality of state official’s actions. When bringing suit in a federal court for a state official’s actions based on violation of federal law, a court can impose an injunction that governs the official’s future conduct, but may not award retroactive monetary relief. It is not the jurisdiction of federal courts to award relief against a state official based on state law.
+

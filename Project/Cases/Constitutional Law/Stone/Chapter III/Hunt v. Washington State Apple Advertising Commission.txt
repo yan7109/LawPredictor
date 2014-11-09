@@ -1,0 +1,21 @@
+Citation
+432 U.S. 333, 97 S. Ct. 2434, 53 L. Ed. 2d 383, 1977 U.S. 123.
+
+Brief Fact Summary
+North Carolina adopted a statute requiring all containers of apples shipped into the state display “no grade other than the applicable U.S. grade or standard.” Washington state apple growers challenged the statute as an unreasonable burden on interstate commerce.
+
+Synopsis of Rule of Law
+In the absence of conflicting legislation by Congress, where a state law governing a matter of local concern comes into conflict with the Commerce Clause’s overriding requirement of a national “common market,” the Court is confronted with the task of bringing about an accommodation of the competing national and local interests.
+
+Facts
+North Carolina adopted a statute requiring all containers of apples shipped into the state display “no grade other than the applicable U.S. grade or standard.” The statute applied to apples shipped from all States, even those whose standards surpassed the USDA’s, such as Washington State’s. Washington state apple growers, who could only comply with the North Carolina statute by drastically altering their packaging methods, challenged the statute as an unreasonable burden on interstate commerce. North Carolina defended the statute, arguing that it constituted a valid exercise of its police powers to protect its citizenry from fraud and deception.
+
+Issue
+Did the North Carolina statute violate the Commerce Clause by unreasonably burdening interstate commerce?
+
+Held
+Yes.
+
+Discussion
+This case presents an example of a statute, neutral on its face, that the Supreme Court invalidated, because the Supreme Court was able to infer discriminatory intent from the statute’s discriminatory effect. As such, this case also draws into question how far courts should go in inferring discriminatory intent from neutral laws that have the effect of distinguishing between in-state and out-of-state interests.
+

@@ -1,0 +1,21 @@
+Citation
+970 F.2d 834 (Fed. Cir. 1992)
+
+Brief Fact Summary
+Faytex (Defendant) sold innersoles identical to the ones covered in Atlantic's (Plaintiff) patent, but created a different process.
+
+Synopsis of Rule of Law
+In product-by-process claims, infringement is limited by the process terms when a product is made by the claimed process only.
+
+Facts
+Plaintiff's patent for a shock absorbing shoe innersole contained both a process and product-by-process claim.  Defendant distributed innersoles made by Surge and Sorbothane, two different manufacturers.  There is no dispute that infringement occurred when Surge used the patented process.  Sorbothane, however, used a process that was different, and the district court did not feel the process claim was violated.  Plaintiff argued that the product violated the patent claim because it was identical.  The district court found that the Defendant did not violate Plaintiff's patent in the selling of the soles made by Sorbothane, and Plaintiff appealed.  Defendant cross-appealed from the award of profit damages for the sale of innersoles made by Surge and Sorbothane.
+
+Issue
+In product-by-process claims, is infringement limited by the process terms when a product is made by the claimed process only?
+
+Held
+(Rader, J.)  Yes.  In product-by-process claims, infringement is limited by the process terms when a product is made by the claimed process only.  The Supreme Court has stated in a line of cases that the focus should be on whether the accused product was made by the claimed process when there is an infringement inquiry into product claims with process limitations.  It is not an infringement on a claim to a product by a specific process when the same product is made from a different process.  Although stated as the exception to the rule, the Patent and Trademark Office and the Court of Customs Patent Appeals does recognize product-by-process claims, and therefore limit claims to products created by the process.  The finding that Defendant did not infringe in selling shoes made by Sorbothane is affirmed.  Vacated in part, affirmed in part, and remanded.
+
+Discussion
+In some circumstances, a product can only be defined by the process making it.  Other times, an inventor claims a new product by both its structure and by the process making it.  In these cases, the product-by-process claim specifies a product defined only by several process steps.  In Scripps Clinic & Research Fdn. V. Genentech, Inc., 927 F.2d 1565 (1991), the Federal Circuit seemed to state that all ways of making a product are covered even though the product-by-process claim states only one way of making the product.  In other words, the product is covered as well.  Scripps appears to be in direct contrast to the later Atlantic Thermoplastics.  Notably, the court in Scripps failed to address the precedent by the Supreme Court that the court in Atlantic covered at length.
+

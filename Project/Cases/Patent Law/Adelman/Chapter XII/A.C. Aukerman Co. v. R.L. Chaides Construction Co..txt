@@ -1,0 +1,21 @@
+Citation
+960 F.2d 1020 (Fed. Cir. 1992)
+
+Brief Fact Summary
+Chaides (Defendant) had actual notice of Aukerman's (Plaintiff) patents and potential infringement claims.  It refused to license the slip-form molds that potentially infringed Plaintiff's patents.  Following several years of communication attempts and license offers, Plaintiff filed an infringement suit.
+
+Synopsis of Rule of Law
+Principles of laches and equitable estoppel are legitimate defenses to patent infringement suits.
+
+Facts
+A.C. Aukerman Company (Plaintiff) is the assignee of two patents relating to forming concrete highway barriers.  Plaintiff entered into an agreement as part of a litigation settlement with Gomaco Corporation.  Gomaco became a licensee and notified Plaintiff of purchasers of the adjustable slip-form molds it sold to form the barriers.  R.L. Chaides Construction Co. (Defendant) purchased a slip-form and Gomaco notified Plaintiff.  Plaintiff then sent a letter to Defendant informing it that use of the slip-form may raise an infringement question.  The parties continued communications and Plaintiff eventually informed Defendant that it would waive past infringement if Defendant would agree to license the form from Plaintiff.  Defendant rejected the offer and communication between the parties stopped for approximately eight years.  Defendant then developed a second slip-form mold which Plaintiff claimed was an infringement.  After more ineffective attempts at communication and a licensing offer, Plaintiff filed suit against Defendant for patent infringement.  The district court granted Defendant's summary judgment.
+
+Issue
+Are principles of laches and equitable estoppel legitimate equitable defenses to patent infringement suits?
+
+Held
+(Nies, C.J.)  Yes.  Principles of laches and equitable estoppel are legitimate defenses to patent infringement suits.  Laches is cognizable under 35 U.S.C. § 282 as an equitable defense to a claim for patent infringement and may prevent the patentee's claim for damages.  Laches has two elements: (1) the patentee's delay in bringing suit was unreasonable and inexcusable; and (2) the alleged infringer suffered material prejudice because of the delay.  A presumption of laches comes up if the patentee knew or should have known about the alleged infringement.  The presumption has the effect of shifting the burden of going forward with the evidence, not the burden of persuasion.  Equitable estoppel is also within the jurisdiction of the court under 35 U.S.C. § 282 as an equitable defense.  Equitable estoppel has three elements: (1) the patentee through misleading conduct led the alleged infringer to reasonably infer that the patentee did not intend to enforce the patent; (2) the alleged infringer relied upon the conduct of the patentee; and (3) because of its reliance, the alleged infringer would be materially prejudiced if the patentee may proceed with its claim.  Reversed.
+
+Discussion
+There has been a noticeable increase in the use of equitable defenses based on the conduct of the patentee.  Though a patent is presumed to be valid, presumption can be shifted by the types of equitable defenses explained in the case.  This basically means the patentee must come to court with clean hands for judicial relief to be granted.
+

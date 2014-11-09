@@ -1,0 +1,21 @@
+Citation
+N.C. Sup. Ct., 327 N.C. 46, 393 S.Ed.2d 833 (1990)
+
+Brief Fact Summary
+The State Board of Medicine (Plaintiff) charged Dr. George Albert Guess (Defendant), a licensed medical doctor, for administering homeopathic treatments.   The Plaintiff found the statute prohibited these practices and ultimately stayed the revocation of Defendant's license if he discontinued these activities.  Defendant appealed the Plaintiff's decision.
+
+Synopsis of Rule of Law
+Actual harm to a patient is not required to be shown in order to revoke the privilege to practice medicine.
+
+Facts
+Dr. George Albert Guess (D) was a licensed physician who practiced family medicine and regularly treated his patients using homeopathic medical practices.  Behind homeopathy is the theory that large doses of a certain drug given to a healthy person will produce certain conditions which, when they are a spontaneous symptom of a disease, are relieved by small doses of the same drug.  The State Board of Medicine (Plaintiff) charged Defendant on the basis that homeopathy was not an acceptable and prevailing system of medical practice and was therefore prohibited by statute.  Defendant argued that homeopathy is a recognized system of practice in three or more other states and many foreign countries as well.  No evidence was shown that Defendant's homeopathic treatment harmed even one patient, and there was anecdotal evidence that several patients experienced relief from Defendant's homeopathic remedies when they had been unable to experience relief from allopathic medicine.  Plaintiff stayed the revocation of Defendant's license to practice medicine on the condition that he not practice homeopathy, which Defendant appealed to the relevant trial court which reversed and vacated the decision of the Plaintiff.  Upon appeal by the Plaintiff, the intermediate appellate court rejected the reasoning of the trial court but affirmed the Plaintiff's decision, which was then subject to another appeal.
+
+Issue
+Is actual harm to a patient required to be shown in order to revoke the privilege to practice medicine?
+
+Held
+(Mitchell, J.)  No.  Actual harm to a patient is not required to be shown in order to revoke the privilege to practice medicine.  The statute central to this case's resolution provides in relevant part: (a) The Board shall have the power to deny, annul, suspend or revoke a license . . . issued by the Board to any person who has been found by the Board to have committed any of the following acts or conduct, or for any of the following reasons: . . . (6) Unprofessional conduct, including, but not limited to, any departure from, or the failure to conform to, the standards of acceptable and prevailing medical practice, or the ethics of the medical profession, regardless of whether or not a patient is injured thereby . . . .
+
+Discussion
+The state medical board's decision to offer licensing and regulate its practice is a reasonable exercise of state power.  The trial court's focus was misplaced as the statute did not require a finding on whether or not any of Defendant's patients suffered an actual harm.  The Defendant was not likely to win a battle regarding the controversy over the effectiveness of homeopathic treatments while continuing to engage in the practice.  Indeed, further appeals were unsuccessful.
+

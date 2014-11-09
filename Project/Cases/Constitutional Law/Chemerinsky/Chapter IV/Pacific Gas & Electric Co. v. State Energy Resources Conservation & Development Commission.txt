@@ -1,0 +1,21 @@
+Citation
+461 U.S. 190, 103 S. Ct. 1713, 75 L. Ed. 2d 752, 1983 U.S.
+
+Brief Fact Summary
+Federal law that governed the regulation of safety aspects concerning nuclear power plants, did not preempt state law, which effectively placed a moratorium on construction of nuclear power plants within the state.
+
+Synopsis of Rule of Law
+State law is preempted if it stands as an obstacle to the accomplishment of the full purposes and objectives of Congress. However, the Supreme Court of the United States (Supreme Court) will not interfere where there is a permissible and good basis for the state law.
+
+Facts
+California adopted a law that imposed a moratorium on the certification of nuclear energy plant, until it demonstrated technology or a means of disposal for high-level nuclear waste. The Plaintiff, Pacific Gas & Electric Co. (Plaintiff) sued the Defendant, California’s State Energy Resources Conservation & Development Commission (Defendant) and asserted that state law was preempted by the Federal Atomic Energy Act of 1954 (the Act), and was therefore invalid under the Supremacy Clause of the United States Constitution (Constitution).
+
+Issue
+Will a state law be preempted if it stands as an obstacle to the accomplishment of the full purposes and objectives of Congress?
+
+Held
+Yes, a state law placing a moratorium on construction of nuclear power plants does not impede federal law’s objectives of developing nuclear energy.
+
+Discussion
+The Plaintiff contends that the moratorium provision of California’s law is preempted by the Act on three grounds. First, it regulates nuclear plant construction allegedly predicated on safety concerns and thus falls within a field controlled by the federal government. Second, it conflicts with decisions concerning nuclear waste disposal made by Congress. Third, it frustrates the goal of developing nuclear technology as a source of energy. As to the first ground, Congress intended the federal government to have authority to regulate safety with nuclear technology, but that the states retain their traditional responsibility in the field of regulating electrical utilities for determining questions of need, cost and other state concerns. The California state law is not preempted on this ground because it is based on safety and not economics. As to the second ground, the state law does not conflict with federal rulings and regulations, which are aimed at ensuring they are saf
+

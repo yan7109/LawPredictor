@@ -1,0 +1,21 @@
+Citation
+Neb. Sup. Ct., 245 Neb. 808, 515 N.W.2d 645 (1994)
+
+Brief Fact Summary
+Katskee (Plaintiff) was genetically predisposed to cancer and Blue Cross/Blue Shield of Nebraska (Defendant) would not cover a surgery to remove organs from her.
+
+Synopsis of Rule of Law
+An insurance policy that is ambiguous will be interpreted in favor of the insured.
+
+Facts
+Katskee (Plaintiff) was referred to another doctor by her gynecologist to have a consultation regarding Plaintiff's family history of breast and ovarian cancer.  Plaintiff did not have cancer at that time, but the doctor found her to be in an extremely high risk category.  Plaintiff scheduled a hysterectomy and other procedures and she filed a claim with Blue Cross/Blue Shield of Nebraska (Defendant) to cover.  Defendant rejected claims to pay for the surgery.  The coverage in Plaintiff's policy provided for "medically necessary" treatments for an illness.  Plaintiff went ahead with the surgery and afterwards filed suit against Defendant for breach of contract.
+
+Issue
+Will an insurance policy that is ambiguous be interpreted in favor of the insured?
+
+Held
+(White, J.)  Yes.  An insurance policy that is ambiguous will be interpreted in favor of the insured.  An insurance policy is interpreted like any other contract.  In this case, the question is regarding what exactly defines an illness as stated in the policy.  Plaintiff's cancer specialist holds the position that women from families with prevalent cancer history are more than 50 percent more likely to develop breast or ovarian cancer.  There is only a one percent risk of the same cancers for the general population.  Though the surgery was intended to prevent a possible future cancer, due to the weight of the odds against her, Plaintiff's genetic condition is properly defined as an illness.  Reversed and remanded.
+
+Discussion
+Conditions that precede illnesses will be caught more frequently as improvements are made in the sensitivity and technology used in medical diagnoses.  Insurers will have to question how remote a risk will activate coverage.  In particular, genetic advances will discover an ever growing list of risk factors for cancers and other diseases.
+

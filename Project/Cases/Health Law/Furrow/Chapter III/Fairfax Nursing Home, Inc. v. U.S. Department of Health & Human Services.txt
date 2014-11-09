@@ -1,0 +1,21 @@
+Citation
+300 F.3d 835 (7th Cir. 2002), cert. denied, 537 U.S. 1111 (2003)
+
+Brief Fact Summary
+Fairfax Nursing Home, Inc. (Defendant) appeals the decision by the Center for Medicare and Medicaid Services (CMS) to assess a civil monetary penalty (CMP) because Medicare regulations were not complied with regarding the care of residents who are dependent on respirators.
+
+Synopsis of Rule of Law
+When imposing the highest civil monetary penalty for violating Medicare regulations, the correct legal standard is the noncompliance of a provider regarding one or more requirements for participation in the program that "has caused, or is likely to cause, serious injury, harm, impairment or death to a resident."
+
+Facts
+Fairfax Nursing Home, Inc. (Defendant) is a skilled nursing facility (SNF) that participates in the Medicaid and Medicare programs.  The regulation of these SNFs includes surveys at least every 15 months that are not announced beforehand.  CMPs can be imposed if violations are found.  Regarding the care of Defendant's provision of respiratory care to the SNF residents who were dependant on a ventilator, there were at least five documented violations over a 105-day period from December 20, 1996, through April 3, 1997.  In one instance, negligent and incomplete care and follow-up resulted in the death of a resident, and in two other instances, the health and safety of the resident was placed in jeopardy.  All of the incidents violated 42 C.F.R. § 483.25(k) regarding the care of residents who are ventilator-dependant.  Following an administrative hearing, a CMP of $3,050.00 per day for each of the 105 days was imposed.  Defendant brought this appeal.
+
+Issue
+When imposing the highest civil monetary penalty for violating Medicare regulations, is the correct legal standard the noncompliance of a provider regarding one or more requirements for participation in the program that "has caused, or is likely to cause, serious injury, harm, impairment or death to a resident?"
+
+Held
+(Ripple, J.)  Yes.  When imposing the highest civil monetary penalty for violating Medicare regulations, the correct legal standard is the noncompliance of a provider regarding one or more requirements for participation in the program that "has caused, or is likely to cause, serious injury, harm, impairment or death to a resident."  By contrast, there is a lower standard where the CMP ranges from $50.00 to $3,000.00 per day and Defendant argues that the Administrative Law Judge incorrectly imposed the higher CMP while applying the lower standard.  For the lower penalties, the lower standard involves "deficiencies that do not constitute immediate jeopardy, but either caused actual harm or have the potential for causing more than minimal harm."  Defendant brings attention to the ALJ's use of the word "potential" in its findings to validate its claim.  However, ALJ's findings are full of explicit and lengthy descriptions of how Defendant's actions had caused, or were likely to cause to a resident, serious injury, harm, impairment or death.  Three residents had in fact died and the other two likely faced serious harm due to Defendant's negligent practices.  The findings of the ALJ are supported by considerable evidence and the decision is affirmed.
+
+Discussion
+Though controversy surrounds the effectiveness of "unannounced" surveys, they are the main regulatory enforcement tool used to monitor health care providers who participate in the Medicaid and Medicare government programs.  There is criticism that the timing of the inspections is too predictable, allowing deficiencies to be concealed during the inspection period.  Another remaining point of contention is the fact that these inspections are usually delegated by the Department of Health and Human Services to local Departments of Health because of relative limitations in resources.  The standards for imposing the CMPs, themselves, appear to be subjective and open to debate.  This explains Defendant's willingness to seek an appeal, despite the fact that there were three residents who actually died in connection with its violations.  It appears to be a discretionary call by the ALJ regarding the difference between "minimal harm actually caused" and "the likeliness to cause serious harm."  The argument failed for Defendant in this case.
+

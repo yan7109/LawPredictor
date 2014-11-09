@@ -1,0 +1,24 @@
+Citation
+129 S. Ct. 673; 172 L. Ed. 2d 642; 2008 U.S. 77 U.S.L.W. 3325.
+
+Brief Fact Summary
+The Georgia General Assembly (or, the “Assembly”) drew a congressional district that combined black metropolitan neighborhoods, with neighborhoods in which blacks predominated on the coasts. The neighborhoods were 260 miles apart and gave blacks a second district in the state containing a majority of black voters. The Appellees, voters in the Eleventh Circuit (Appellees), challenged the constitutionality of the Eleventh District was called into question.
+
+Synopsis of Rule of Law
+To make out a case for racial gerrymandering, a plaintiff must show, either through circumstantial evidence of a district’s shape or more direct evidence going to legislative purpose, that race was the predominant factor motivating the legislature’s decision to place a significant number of voters within a particular district.
+
+Facts
+Between 1980 and 1990, one out of ten of Georgia’s congressional districts contained a majority of black voters. The 1990 Census revealed that 27 % of Georgia’s population was black and that Georgia was entitled to an additional congressional seat. Thereupon, the Georgia General Assembly set out to redraw the State’s congressional district. In so doing, the Assembly designed an Eleventh District that combined the black neighborhoods of metropolitan Atlanta with the poor black populace of Coastal Chatham, even though these places were 260 miles apart in distance and worlds apart in culture. At trial, the District Court held that the General Assembly’s intent to racially gerrymander the Eleventh District was overwhelming. The Appellants, Miller and others (Appellants), countered that under [Shaw v. Reno] the test is not legislative intent, but whether a district is drawn so bizarrely in shape that its configuration is unexplainable other than on the basis of race.
+
+Issue
+Does Shaw v. Reno require a plaintiff to show bizarreness of a district’s shape in order to make out a successful claim of racial gerrymandering?
+
+Held
+No and Yes. Appellants misconstrue the Supreme Court of the United States’ (Supreme Court) holding in Shaw v. Reno.
+
+Dissent
+Justice Ruth Bader Ginsberg (J. Ginsberg) stated that although the Assembly obviously prominently considered race in shaping the Eleventh District, the record does not show that considerations of race crowded out other considerations.
+
+Discussion
+This case is an example of so-called benign racial policy. It calls into question the standard of review that should be used to evaluate such classifications.
+

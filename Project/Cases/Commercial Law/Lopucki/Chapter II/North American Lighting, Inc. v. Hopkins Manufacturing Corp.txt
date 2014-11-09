@@ -1,0 +1,21 @@
+Citation
+37 F.3d 1253, 1994 U.S. App. 29154, 24 U.C.C. Rep. Serv. 2d (Callaghan) 1061
+
+Brief Fact Summary
+North American Lighting, Inc., (Appellee) sued Hopkins Manufacturing Corp., (Appellant), for the return of the partial purchase price it paid for a headlight aiming system. Appellant appeals the trial court decision in favor of Appellee.
+
+Synopsis of Rule of Law
+The period where revocation is allowable may be extended where the seller gives continuous assurances, and where the seller fails, after repeated attempts to repair defects of which the buyer complains.
+
+Facts
+Appellee purchased a light aiming system, (MVS), based on Appellant’s ongoing promises that software could be added to correct problems experienced with the prototype. Appellee paid the purchase price withholding 10% pending completion of the upgrade. The permanent MVS system arrived but never performed properly. Both parties concede that Appellee accepted the MVS. Appellee claims it timely revoked its acceptance of the MVS and was not liable for the rental value of the system during the time it had possession. Appellant argues that since Appellee was aware of the existing capabilities and shortcomings of the MVS, there was no “non-conformity” upon which to base its revocation.
+
+Issue
+Whether given Appellee’s failure for an extended period of time to discover that the MVS could not be modified to suit its purposes, Appellee properly revoked its acceptance.
+
+Held
+Yes. Appellee properly revoked its acceptance.
+
+Discussion
+Appellee does not deny it knew MVS was intended for other purpose and had some doubt as to Appellant’s ability to adapt it. But it follows that the undiscovered nonconformity Appellee claims was that the system could not work for its purposes even after modifications. There is ample evidence in record that Appellant assured Appellee that MVS could be modified. The period for revocation can be extended based on these assurances. During this period Appellee continued to use the equipment instead of finding alternative equipment, so MVS must have served some beneficial use. In fairness Appellee should pay a rental fee. This matter is reversed and remanded to the trial court to consider what rental value would be reasonable compensation.
+

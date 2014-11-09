@@ -1,0 +1,27 @@
+Citation
+539 U.S 194 (2003)
+
+Brief Fact Summary
+The Children’s Internet Protection Act (CIPA) bars a public library from being eligible for federal Internet assistance unless the library has software in place to screen out obscenity, child pornography or other material which could be dangerous for minor children. The American Library Association, Inc., sued against this law as violating the freedom of speech under the First Amendment.
+
+Synopsis of Rule of Law
+The Children’s Internet Protection Act (CIPA) which prevents a public library from receiving federal Internet assistance without the installation of software which prevents material harmful to minors like obscenity or child pornography from being accessed, is not violative of the First Amendment.
+
+Facts
+The Children’s Internet Protection Act (CIPA) has a provision that prevents a public library from receiving federal funds to set up an Internet link unless it can show the presence of blocking software for harmful material like child pornography or obscenity. The American Library Association, Inc.(P) with others filed a suit in federal district court against the enforcement of the provision on blocking software under First Amendment grounds. The court gave judgment for them, and the Government (D) appealed.
+
+Issue
+Is CIPA, which bars a public library from receiving federal help with respect to Internet access unless the library has software to block obscenity, child pornography and other material which is harmful to children, a violation of the guarantee of freedom of speech under the First Amendment?
+
+Held
+(Rehnquist, C.J.) No. The  CIPA, which prevents a public library from being eligible for federal Internet help unless the library has software which blocks obscenity and other  material harmful to minors, is not in violation of the First Amendment. In granting funds, Congress has much freedom under the constitution to make funding conditional so as to achieve its policy interests. The Court must understand the part that public libraries play in society in order to find out whether the use of blocking software would constitute a violation of free speech. A public library installs Internet terminals not for the benefit of those who publish their views or material on the Internet but for those who use the Internet for the legitimate purposes served by  other resources available in the library: to help with research, acquiring knowledge or for recreation. In all these cases the library provides materials which are both needed and which meet the library’s standards of quality. Just as the books are not furnished in order that the authors may have a wide forum in which to speak, that is, not for the benefit of the authors, but for the use of the library patron, the Internet is also provided for the same use. Many libraries already refuse pornographic literature from their collections of print books, judging them to be inappropriate in such a situation. This decision is not for the Court to make. However, this decision can with reason be extended to the domain of the Internet, and the same judgment would operate with regard to online pornography as well. The vast amount of material and the rapid rate of change of materials would preclude a manual filtering of such matter as would be deemed inappropriate and harmful for children. However, this task can be rapidly and efficiently done by the blocking software provided for by CIPA. Not only so, the filter can be turned off  if an adult wishes to use the Internet for genuine research or any other legitimate purpose. The lower court decision is reversed.
+
+Dissent
+(Stevens, J.) The software is not reliable enough to ensure that a specific category of images is blocked, since the filtering is based on keywords and phrases to detect and weed out harmful sites.
+
+Concurrence
+( Kennedy,J.) The CIPA provides for the filter to be turned off when an adult user so desires, making the case of little significance.
+
+Discussion
+The Supreme Court notes here that Internet access as provided by libraries is not a traditional public forum nor one designed to be public, so that legal doctrines as to the freedoms available in traditional public forums would not be applied to the CIPA software.
+

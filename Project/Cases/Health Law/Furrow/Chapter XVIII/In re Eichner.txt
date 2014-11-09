@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 52 N.Y.2d 363, 420 N.E.2d 64 (1981)
+
+Brief Fact Summary
+Eichner (Plaintiff) is the representative of incompetent Fox, and sought to have Fox's life support removed, stating Fox's prior declarations that he did not want extraordinary medical care.
+
+Synopsis of Rule of Law
+A representative of an incompetent person may authorize removal of life support if such removal aligns with the incompetent's wishes.
+
+Facts
+Fox, a member of a Roman Catholic Religious order, suffered cardiac arrest during an operation.  He was left permanently comatose due to loss of oxygen to the brain.  Eichner (Plaintiff), the head of Fox's religious order and Fox's representative, requested that medical personnel (Defendant) terminate life support.  They refused.  A petition was made for an injunction to order cessation of life support.  At the hearing, evidence showed that Fox had clearly stated that he did not want to be kept alive on life support.  [The casebook opinion did not state the trial court's or appellate division's decisions.]  The New York Court of Appeals granted review.
+
+Issue
+May a representative of an incompetent person authorize removal of life support if such removal aligns with the incompetent's wishes?
+
+Held
+(Wachtler, J.)  Yes.  A representative of an incompetent person may authorize removal of life support if such removal aligns with the incompetent's wishes.  When it is clear that the incompetent person indicated during his competency that he would not wish extraordinary measures taken to save his life, medical personnel should respect his wishes.  In this case, it was clear that this was indeed Fox's wish, so the injunction compelling cessation of treatment should issue.  So ordered.
+
+Discussion
+It is important to differentiate a patient's own wishes from substituted judgment, i.e., the belief of one person regarding what is best for someone else when that other person's wishes are unknown.  This case was an example of the former category.  The latter is not as well accepted as a reason to remove life support.  For instance, New York flatly rejects it unless the patient has formally expressed his desires in the past.
+

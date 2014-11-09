@@ -1,0 +1,21 @@
+Citation
+N.J. Super Ct., 415 N.J. Super, 301, 1 A.3d 823 (2010)
+
+Brief Fact Summary
+The daughter of Rueben Betancourt (Plaintiff) filed an action for a temporary restraining order against Trinitas Hospital (Defendant) to prevent the removal of necessary treatment while her father was in a persistent vegetative state.  The trial court agreed, and permanently enjoined Defendant, who appealed.
+
+Synopsis of Rule of Law
+The grant of an order restraining a hospital from removing treatment is rendered moot when the patient dies.
+
+Facts
+Rueben Betancourt (Plaintiff) underwent surgery at Trinitas Hospital (Defendant) to remove a malignant tumor from his thymus gland.  While Plaintiff was recovering in the post-operative intensive care unit, the ventilation tube that was supplying oxygen to him became dislodged which deprived his brain of oxygen.  He developed anoxic encephalopathy, a condition that left him in a persistent vegetative state.  Plaintiff was then discharged and admitted to other facilities that attempted rehabilitative treatments.  He later was readmitted to Trinitas (Defendant) with a diagnosis of renal failure.  Plaintiff remained in the hospital until he died.
+
+Issue
+Is the grant of an order restraining a hospital from removing treatment rendered moot when the patient dies?
+
+Held
+[(Per curiam) Yes.  The grant of an order restraining a hospital from removing treatment is rendered moot when the patient dies.  Mootness is a threshold justiciability determination that comes from the notion that judicial power should only be exercised when a party is immediately threatened with harm.  In other words, an issue is "moot" when the decision hoped for and rendered would have no practical effect on the existing controversy.  Normally, courts will not decide issues when a controversy no longer exists, and the disputed issues have become moot.  However, there have been occasions where the courts decided to hear an otherwise moot appeal, such as when an underlying issue is significantly important and likely to come up again, but capable of evading review.
+
+Discussion
+Given that the purpose of the restraining order and the hospital's appeal concerned the patient's treatment, the consequence of his death made the court's decision predictable.  Even so, the court labored over the facts of the case, the dispute between the parties regarding Plaintiff's condition and course of treatment, and the real fear that hospitals would generally act in their own interests and terminate necessary procedures they consider meaningless.  The court's statements address the public concern and the need for the legislature to study, debate and resolve the issue.  The court declared the case moot and warned that the problems opened by this case were likely to reoccur.
+

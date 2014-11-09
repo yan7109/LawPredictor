@@ -1,0 +1,24 @@
+Citation
+285 F.3d 1046 (Fed. Cir. 2002)
+
+Brief Fact Summary
+Johnston (Plaintiff) brought suit against R.E. Service, Co., Inc. and Mark Frater (collectively, "RES") (Defendant) for infringement.  Defendant argued that Plaintiff did not claim stell substrates, therefore this unclaimed subject matter was committed to the public.
+
+Synopsis of Rule of Law
+A patentee is not able to apply the doctrine of equivalents to cover unclaimed subject matter disclosed in the specification.
+
+Facts
+Plaintiff's patent for the manufacturing of printed circuit boards claims an assembly that prevents damage caused by manual handling of the sheets of copper foil during manufacturing.  The invention attaches the fragile copper foil to a stronger supporting material, a sheet of aluminum.  Defendant then began making new laminates for manufacture of printed circuit boards.  Its products attached copper foil to a sheet of steel as the supporting material, instead of a sheet of aluminum.  Plaintiff alleged infringement of its patent by Defendant.  On cross-motions for summary judgment, the district court ruled that the patent did not commit the steel supporting material to the public.  Under the doctrine of equivalents, a jury found infringement.  The court of appeals ordered en banc rehearing regarding the issue of doctrine of equivalents.  Defendant argued on appeal that Plaintiff did not claim steel supporting material, but limited its patent scope to aluminum supporting material, therefore committing this unclaimed subject matter to the public and therefore the district court should have ordered summary judgment in its favor.
+
+Issue
+Is a patentee able to apply the doctrine of equivalents to cover unclaimed subject matter disclosed in the specification?
+
+Held
+(Per curiam)  No.  A patentee is not able to apply the doctrine of equivalents to cover unclaimed subject matter disclosed in the specification.  Therefore, under the doctrine of equivalents, Defendant could not have infringed Plaintiff's patent.  Claims define and give notice of the scope of patent protection.  The claim requirement assumes that a patent applicant defines his invention in the claims, not in the specification.  The law of infringement compares the accused product with the claims as interpreted by the court and not with included illustrations in the specifications.  When the drafter of a patent discloses but declines to claim subject matter, this action commits that unclaimed subject matter to the public.  The doctrine of equivalents gives the right to exclude beyond the literal claims.  Applying the doctrine of equivalents to subject matter deliberately left unclaimed conflicts with the dominance of claims in defining the scope of the patentee's exclusive right.  Therefore, a patentee cannot narrowly claim an invention to avoid prosecution scrutiny by the PTO, and then after the patent is issued, establish infringement by using the doctrine of equivalents claiming the specification discloses equivalents.  In this case, Plaintiff's patent specifically limited the claims to a sheet of aluminum and the aluminum sheet.  However, the specification included other metals that might be used, such as stainless steel or nickel alloy.  By disclosing steel supporting materials without claiming them, Plaintiff cannot now invoke the doctrine of equivalents to extend its aluminum limitation to encompass steel.  However, a patentee can remedy the situation by filing a reissue application within two years from the original patent issued, or by filing a separate application.  Reversed.
+
+Concurrence
+(Rader, J.)  I would offer the alternative reasoning that the doctrine of equivalents does not capture subject matter that the patent drafter could have reasonably foreseen during the application process and therefore have included in the claims.  This will make the predominant notice function of the claims the sole definition of the scope of the invention in all foreseeable circumstances and serve as a protection function of the doctrine of equivalents.  In this case, Plaintiff's patent disclosure expressly admits that it foresaw other metals serving as substrates, yet the patent did not claim anything except aluminum.  Therefore, Plaintiff is barred from recapturing an equivalent subject matter disclosed but not claimed.
+
+Discussion
+The Supreme Court was drafting Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., Ltd., 535 U.S. 722 (2002) when this case was decided.
+

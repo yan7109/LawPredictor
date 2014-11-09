@@ -1,0 +1,21 @@
+Citation
+715 So. 2d 967, 1998 Fla. App. 6586, 35 U.C.C. Rep. Serv. 2d (Callaghan) 1320; 23 Fla. L. Weekly D 1407
+
+Brief Fact Summary
+Corfan Banco Asuncion Paraguay, (Plaintiff), brought this suit against Ocean Bank, (Defendant), to recover $72,972.00 based on U.C.C. 4A-207 and common law negligence. Plaintiff appeals summary judgment in favor of Defendant.
+
+Synopsis of Rule of Law
+A negligence claim creates rights, duties and liabilities inconsistent with those set forth in U.C.C. 4A-207.
+
+Facts
+Plaintiff, a foreign banking corporation, originated a wire transfer of $72,972.00 to the account of its customer, Jorge Alberto Dos Santos Silva (Silva) with Defendant. The wire transfer contained Silva’s name but incorrectly stated his account number. Defendant confirmed with Silva his correct account number and then deposited the funds. Plaintiff realized the mistake and sent a second wire transfer in the same amount. Defendant deposited the funds into Silva’s account automatically. Plaintiff then inquired with Defendant about the two wire transfers maintaining that only one was intended. In the meanwhile, Silva had withdrawn the proceeds of both transfers. Plaintiff then brought this suit to recover the  $72,972.00.
+
+Issue
+Whether a payment order can be validly accepted if it refers to a nonexistent account number. Whether a negligence claim is inconsistent with Article 4A of the U.C.C.
+
+Held
+No. No person has rights as a beneficiary of a payment order referring to a nonexistent account number and acceptance of the order cannot occur. Yes. A negligence claim creates rights, duties and liabilities inconsistent with those set forth in U.C.C. 4A-207<span class='heading'>Dissent.</span> Plaintiff was negligent in handling the wire transfer. It incorrectly listed the account number and sent a second wire transfer with no indication that it was a correction of the first. This negligence caused Plaintiff’s loss. Further, the Florida statute permits the receiving bank to look to “other identification.” Here, Defendant looked to the name, the similarity between the actual account number and the given one, and the beneficiary’s confirmation in order to accept the order and properly credit the beneficiary’s account. This information did not reference a nonexistent or unidentifiable account, bur rather an existing customer who was in fact the intended beneficiary. By strictly reading the statute, the majority is punishing Defendant for correcting Plaintiff’s error and expediting the transfer of the funds in derogation of the purposes of Article 4.<br />
+
+Discussion
+Under Florida Statutes, if in a payment order received by the beneficiary’s bank, the name, bank account number, or other identification of the beneficiary refers to a nonexistent or unidentifiable person or account, no person has right as a beneficiary of the order and acceptance of the order cannot occur. A plain reading of this statute mandates that acceptance could not occur in this case because the account number on the payment order was incorrect and referred to a nonexistent account.
+

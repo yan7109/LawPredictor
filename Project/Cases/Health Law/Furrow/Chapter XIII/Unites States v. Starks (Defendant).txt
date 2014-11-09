@@ -1,0 +1,21 @@
+Citation
+157 F.3d 833 (11th Cir. 1998)
+
+Brief Fact Summary
+Starks (Defendant) and others were found guilty of giving and receiving kickbacks for patient referrals to a drug treatment program.  They appealed, claiming that the antikickback statute was unconstitutionally vague, and that the wrong jury instruction was given.
+
+Synopsis of Rule of Law
+A statute that bans clearly prohibited or illegal conduct may impose liability on persons engaged in such conduct for acting "willfully," or with the knowledge that such conduct is clearly unlawful, and does not pose a danger of ensnaring persons engaged in apparently innocent activity.
+
+Facts
+Starks (Defendant) was employed by the Florida Department of Health and Rehabilitative Services in a federally funded research project counseling pregnant women about drug abuse treatment.  Siegel (Defendant) was the president of a corporation that developed and operated drug addiction treatment programs.  Siegel (Defendant) began giving Starks (Defendant) $250 for each patient she referred to his program.  Starks (Defendant), Siegel (Defendant,) and others were convicted by a federal grand jury of conspiring against the United States (Plaintiff) for offering to pay compensation for referral of Medicare patients and for soliciting and receiving such referral payments.  Starks (Defendant) appealed, claiming that the district court committed reversible error when it refused to instruct the jury that, because of the antikickback statute's mens rea requirement, Starks (Defendant) had to have known that the referral arrangement violated the antikickback statute in order to be convicted, and because the Social Security Act's prohibition on paid referrals, when considered together with the Act's safe harbor provision, was unconstitutionally vague.
+
+Issue
+May a statute that bans clearly prohibited or illegal conduct impose liability on persons engaged in such conduct for acting "willfully," or with the knowledge that such conduct is clearly unlawful, and does not pose a danger of ensnaring persons engaged in apparently innocent activity?
+
+Held
+(Birch, J.)  Yes.  A statute that bans clearly prohibited or illegal conduct may impose liability on persons engaged in such conduct for acting "willfully," or with the knowledge that such conduct is clearly unlawful, and does not pose a danger of ensnaring persons engaged in apparently innocent activity.  The district court did not err when it refused to give Stark's (Defendant) requested instruction, and the antikickback statute is not unconstitutionally vague as applied to Starks (Defendant).  The antikickback statute is not a highly technical tax or financial regulation that poses a danger of ensnaring persons engaged in apparently innocent conduct.  The giving or taking of kickbacks for medical referrals does not resemble the sort of activity a person might expect to be legal.  Such kickbacks are more malum in se, rather than malum prohibitum.  Therefore, we see no error in the refusal of the district court to give any additional instruction on mens rea.  The statute regulates only economic conduct, and it does not lessen any constitutional rights.  The knowing and willful conduct mens rea standard mitigates any otherwise inherent vagueness in the provisions of the statute.  Affirmed.
+
+Discussion
+The court in this case explained that the claim of constitutional vagueness had to be evaluated only on an as-applied basis since this was not a First Amendment case.  Starks (Defendant) had claimed that persons working in the medical field could not anticipate what was prohibited under the statute and what was protected under its safe harbor provision.  Under the safe harbor provision, the statute's prohibition on referral payments would not apply to any amount paid by an employer to an employee for employment in the provision of covered items and services.
+

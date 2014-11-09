@@ -1,0 +1,21 @@
+Citation
+III. App. Ct., 268 Ill. App.3d 953, 644 N.E.2d 777 (1994)
+
+Brief Fact Summary
+Lubeznik (Plaintiff) attempted to receive precertification from her insurance company for bone marrow transplants to treat her advanced ovarian cancer.
+
+Synopsis of Rule of Law
+If an insurance company tries to exclude a new procedure from coverage claiming it is experimental under an exclusion clause, the terms of the clause will be interpreted as liberally as possible to maximize coverage for the insured.
+
+Facts
+Bonnie Lubeznik (Plaintiff) suffered from Stage III ovarian cancer.  All conventional therapies had failed to stop the cancer.  Dr. Stiff, a specialist, determined that Plaintiff's best chances would be an autologous bone marrow transplant combined with high-dose chemotherapy.  In twenty-one other cases, Dr. Stiff had a seventy-five percent success rate of complete remission.  Dr. Stiff sought precertification of payment from HealthChicago, Inc.  (Defendant), and they denied the request under an exclusion clause for experimental procedures.  HealthChicago, however, did not seek a determination for expert medical boards regarding whether the procedure was still considered experimental.  Plaintiff brought suit, seeking an injunction ordering precertification.  Her injunction was granted.  HealthChicago (Defendant) appealed.
+
+Issue
+If an insurance company tries to exclude a new procedure from coverage claiming it is experimental under an exclusion clause, will the terms of the clause be interpreted as liberally as possible to maximize coverage for the insured?
+
+Held
+(Johnson, J.)  Yes.  If an insurance company tries to exclude a new procedure from coverage claiming it is experimental under an exclusion clause, the terms of the clause will be interpreted as liberally as possible to maximize coverage for the insured.  The lack of equality in expertise and bargaining power between the insured and the insurer justifies the law's presumption that all clauses are to be interpreted as favorably as possible for the insured.  Here, Plaintiff's only possible chance for treatment was the bone marrow donation procedure.  Defendant was predisposed to find the procedure experimental as it did not contact the appropriate medical boards for an expert opinion.  Defendant's position cannot be supported as Defendant failed to comply with its own clause.  Affirmed.
+
+Discussion
+Courts have consistently been skeptical of insurance provision contracts.  Fair bargaining is almost impossible due to the complex nature of these agreements.  Insurance providers argue that they have to control risk exposure, however, courts generally feel the insurer should bear the burden when a doubt exists since it drafted the provisions in question.
+

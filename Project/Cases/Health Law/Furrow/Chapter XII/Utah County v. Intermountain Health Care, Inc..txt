@@ -1,0 +1,24 @@
+Citation
+709 P.2d 265 (1985)
+
+Brief Fact Summary
+Utah County (Plaintiff) contended that Intermountain Health Care (Defendant), operating two nonprofit hospitals, was not entitled to tax-exempt status.
+
+Synopsis of Rule of Law
+A hospital may be considered nonprofit and at the same time not be entitled to a tax exemption.
+
+Facts
+Intermountain Health Care (Defendant) operated two hospitals, both classified as nonprofit.  Almost exclusively, the hospitals were funded through insurance, government assistance, and fees; very little income resulted from gifts.  Income exceeded expenses, and free services totaled less than one percent of revenue.  The Hospitals' employees worked on a voluntary basis, but the hospitals used the services of a number of paid contractors.  The Utah County (Plaintiff) Board of Equalization denied tax-exempt status to Defendant.  The State Tax Commission reversed, and Utah County (Plaintiff) appealed.
+
+Issue
+May a hospital be considered nonprofit and at the same time not be entitled to a tax exemption?
+
+Held
+(Durham, J.)  Yes.  A hospital may be considered nonprofit and at the same time not be entitled to a tax exemption.  Under the Utah constitution, charitable institutions are the only entities entitled to a property tax exemption.  Whether an institution is charitable does not depend on a nonprofit classification.  The workings of the institution must be analyzed against the standard of what constitutes a charitable institution.  Factors include:  (1) whether the entity provides services without expectation of material reward, (2) the extent to which it is supported by donations, (3) the extent to which recipients are expected to pay for services, (4) whether income exceeds expenses, (5) restrictions upon beneficiaries, and (6) whether financial benefits are available to those involved.  In this case, free services amounted to less than one percent of the hospital's revenue; only a small amount of revenue came from donations; patients were charged; income exceeded expenses; indigents were discouraged from seeking treatment; and even thou employees were unpaid, contractors (who were often also employees) were regularly utilized.  In light of these considerations, charitable status did not appear appropriate.  Reversed.
+
+Dissent
+(Stewart, J.)  The legal concept of charity does not require that an institution acquire a deficit.  The evidence shows that not one cent of revenues went toward paying employees, officers, or directors and, therefore, the hospitals should be entitled to a tax-exempt status.
+
+Discussion
+In prior years, most hospitals were charitable in that they were affiliated with a church or philanthropic organization and were money-losers.  For-profit hospitals became the norm in the twentieth century.  While still having indications of charitable institutions, they are run like businesses.  It is now always clear where charity ends and business begins.
+

@@ -1,0 +1,24 @@
+Citation
+467 U.S. 82,104 S. Ct. 2237,81 L. Ed. 2d 71,1984 U.S.
+
+Brief Fact Summary
+Defendant, the State of Alaska, acted as a market participant by including in a sales contract a provision requiring all purchasers of the state’s timber to partially process the timber in Alaska before shipping the timber out of the state. Plaintiff, South-Central Timber Development Inc., an Alaskan corporation, rightfully contends that the provision violates the commerce clause.
+
+Synopsis of Rule of Law
+This case demonstrates a limitation on the market-participant doctrine which permits a state to influence an identifiable class of economic activity in which the state is a major participant. Specifically, a state may not impose conditions, whether by statute, regulation or contract, that have a substantial regulatory effect outside of that particular market.
+
+Facts
+Defendant, the State of Alaska proposed to sell timber owned by the state. In the contracts of sale, Defendant included a provision requiring all timber purchasers to partially process the timber in Alaska. The provision was incorporated in order to protect Alaskan timber-processing industries and to derive revenue for the state. Plaintiff, an Alaskan corporation, purchases timber and ships it elsewhere for processing. Plaintiff claims that the contract provision violates the commerce clause. The Court of Appeals found that Congress had implicitly authorized Defendant’s processing requirement.
+
+Issue
+Whether Defendant’s restriction on processing was exempt from the commerce clause because of the “market-participant” doctrine.
+
+Held
+No. Judgment of the highest state court reversed and remanded for further proceedings. Defendant may be a participant in the timber market, but it may not use its leverage in that market to exert a regulatory effect in the processing market, in which it is not a participant. The processing restriction here takes place after the completion of the parties’ direct commercial obligations, rather than during the course of an ongoing commercial relationship. Thus, the Defendant-State may not avail itself of the market-participant doctrine to immunize its downstream regulation of the timber-processing market in which it is a participant. Because of the protectionist nature of Defendant’s local-processing requirement and the burden on commerce resulting therefrom, it falls within the rule of virtual per se invalidity of laws that “block the flow of commerce at a state’s borders.”
+
+Dissent
+Defendant is merely paying the purchaser of timber indirectly, by means of a reduced price, to hire Defendant’s residents to process the timber, and that is not a violation of the commerce clause.
+
+Discussion
+The plurality uses this case to demonstrate a limitation on the market-participant doctrine and bases that limitation on three key facts: the processing requirement is not a simple transaction; the timber is a natural resource; and the requirement takes place after the sale is finalized.
+

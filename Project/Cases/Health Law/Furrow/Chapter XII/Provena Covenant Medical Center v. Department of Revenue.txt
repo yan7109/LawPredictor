@@ -1,0 +1,21 @@
+Citation
+925 N.E.2d 1131 (2010)
+
+Brief Fact Summary
+Provena Hospitals owns and operates the Provena Covenant Medical Center (Plaintiff) which the Illinois Department of Revenue (Defendant) determined was not entitled to a property tax exemption for charitable organizations because charitable acts were lacking.
+
+Synopsis of Rule of Law
+A medical institution must receive sufficient revenue from its charitable care in order to qualify for a property tax exemption.
+
+Facts
+Provena Hospitals (Plaintiff), one of four subsidiaries of Provena Health, owns and operates six hospitals, including Provena Covenant Medical Center (PCMC) (Plaintiff), a full-service hospital.  Provena Hospitals is exempt from federal income tax.  The Illinois Department of Revenue (Defendant) determined that while PCMC (Plaintiff) was exempt from retailers' occupation tax, service occupation tax, use tax, and service use tax, it was not entitled to a property tax exemption for charitable organizations based on analysis of the actual amount of "charity" it provided to the community.  For example, the amount of aid provided by Provena Hospitals (Plaintiff) to PCMC (Plaintiff) patients under the facilities charity care program equaled only 0.723 percent of PCMC's (Plaintiff) revenues (which was $268,276 less than the $1.1 million in property tax benefits which PCMC sought).  Provena Hospitals (Plaintiff) ascribed $25,282,000 of its $739,293,000 total revenue to "other revenue," with no showing as to how much, if any, of it was derived from charitable contributions.  Charitable donations made to PCMC (Plaintiff) were only $6,938.  Following the denial of the property tax exemption, Provena (Plaintiff) sought review through a suit in state court.
+
+Issue
+Must a medical institution receive sufficient revenue from its charitable care in order to qualify for a property tax exemption?
+
+Held
+(Karmeier, J.)  No.  A medical institution must receive sufficient revenue from its charitable care in order to qualify for a property tax exemption.  The central issue in this case is whether Provena Hospitals (Plaintiff), thorugh PCMC (Plaintiff), established that it was entitled to a charitable exemption under the Property Tax Code for various parcels of real estate it owns.  The Director of Revenue (Defendant) determined that it had not and denied the exemption.  For the following reasons, the court affirms the judgment of the appellate court upholding the decision by the Department of Revenue (Defendant) to deny the exemption.
+
+Discussion
+The Illinois Department of Revenue's (Defendant) determination that PCMC (Plaintiff) was not entitled to a charitable property tax exemption centered on the financial figures provided.  The amount of funding allocated to or given to PCMC (Plaintiff) was statistically insignificant, which showed that it was operating for profit and dispensing very little charity.  That definition of charity, used by the Defendant, was affirmed by the court to view what a hospital was providing had to reduce the burden on government.  Given that such a meager amount of money was provided to charity, it was assumed from the Provena opinion that needy patients were being covered by other forms of government welfare or funds.  Basically, PCMC's profits were not being used to reduce government spending on medical care.
+

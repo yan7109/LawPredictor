@@ -1,0 +1,24 @@
+Citation
+551 U.S. 449.
+
+Brief Fact Summary
+The Wisconsin Right to Life group, ran ads during black-out periods (days when ads are not allowed) concerning political ideas, in violation of section 203 of the Bipartisan Campaign Reform Act (BCRA).
+
+Synopsis of Rule of Law
+In determining if there is a violation of the BCRA section 203 that prevents communications of the names of federal candidates, the court uses a substance in communication standard, rather than an intent-based standard.
+
+Facts
+The Wisconsin Right to Life group broadcasted a political ad during election season. This ad urged people to call Senator Feingold to protest the Senate’s filibuster of judicial nominees. The organization sought a declaratory judgment permitting broadcasting of similar ads during the blackout period. The BCRA establishes restrictions on ads 60 and 30 days before certain elections. The specific section challenged here is 203 that prohibit certain ads.
+
+Issue
+Whether section 203 of the BCRA which prohibits corporations from broadcasting the names of federal candidates shortly before an election is an overly broad restriction of the Freedom of Speech
+
+Held
+No. This court states that if an ad specifically names a candidate in the black out periods that is not an overly broad restriction on the Freedom of Speech. However to find the ad in this cases, none of which name a person to vote for or against, in violation of this section would be an overly broad interpretation of that statute. The BCRA has passed strict scrutiny grounds in its prohibition on express advocacy or its functional equivalent during black out periods. The court analyzes whether this organization’s ad is express advocacy or its functional equivalent which would mean the prohibition is valid, or whether it is not express advocacy at all. If it is not than the government must show that banning this ad is narrowly tailored to serve a compelling state interest. The government argues that it is the functional equivalent because all ads that intend to influence elections have that effect. However in the precedent case this court analyzed the statute itself, not as-applied circumstances.  As a first impression case, this court decides that the only proper test is not intent to influence standard but the substance of the actual communication standard of testing. Section 203 states you must not put an ad to vote for or against a candidate. This court reading that literally and will only find ads to be express advocacy or its equivalent under those circumstances. None of the ads in this case do that, thus they are not in violation of the BCRA.
+
+Dissent
+Congress made section 203 to attack all ads so that parties would not find loopholes with using magic words to spread their political agenda. This decision is reinforcing the magic word loophole by showing parties you can make these ads to influence elections as long as you are careful in the words you choose.
+
+Discussion
+An intent-based test would chill to the core all political speech made during black out periods. While certain restrictions should be made. A blanketed test that states any ad that seeks to influence an election should be banned is in direct violation of the Freedom of Speech and will not be allowed.
+

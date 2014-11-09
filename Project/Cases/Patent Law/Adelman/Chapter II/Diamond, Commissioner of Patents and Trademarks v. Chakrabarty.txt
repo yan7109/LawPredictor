@@ -1,0 +1,21 @@
+Citation
+447 U.S. 303 (1980)
+
+Brief Fact Summary
+Dr. Chakrabarty (Plaintiff) applied for a patent for an artificially created oil-eating bacterium.
+
+Synopsis of Rule of Law
+Living organisms are patentable.
+
+Facts
+The Plaintiff artificially created an oil-eating bacterium and filed a patent application with three claims.  The first two were method claims regarding the method of making the bacterium and the application of the bacteria to oil.  Both were approved.  The third claim was for the bacterium itself and the Patent Trademarks Office (Defendant) rejected this on the grounds that it was living matter and was not included in Title 35.  The appellate court reversed.  The Supreme Court granted certiorari.
+
+Issue
+Are living organisms patentable?
+
+Held
+(Burger, C.J.)  Yes.  Living organisms are patentable.  The court must proceed cautiously when asked to extend patent law to areas that Congress had not anticipated.  However, the court will apply the statute if it is clear, and Title 35 contains no doubt in the present case.  Title 35 contains broad language regarding subject matter requirements.  This broad language is not unclear when it is needed to serve a congressional objective.  Here, the objective is the promotion of "Progress of Science and Useful Arts," and limiting it by the Defendant's proposed interpretation does not meet this purpose.  The Defendant's second argument is that the Court should reject the patenting of living organisms as against public policy.  This is not the area of the Court.  It is a matter of high policy that should be resolved by the legislature after the matter has been investigated, examined and studied, which is not for the legislature to do.  Reversed.
+
+Discussion
+Ruling in favor of the Plaintiff was probably not much problem as the Defendant feared in terms of creating a slippery slope.  Regardless of the decision reached, it was still accepted that the products of a genetically engineered object and the processes of genetic engineering could be patented.  The ruling expanded the scope to the organism itself.  The larger effect was felt on Wall Street as opposed to the Patent and Trademarks Office and the courts, as biotechnology stocks received a big boost.  The Defendant has since approved patents for several animals, including mammals.  The opinions issued on the subject hardly supported proposed ethical or moral arguments.  In fact, one decision requiring this type of discussion was brought by several animal rights groups, but it was dismissed for lack of standing.  See Animal Legal Defense Fund v. Quigg, 932 F.2d 920, 18 U.S.P.Q.2d 1677 (Fed. Cir. 1991).
+

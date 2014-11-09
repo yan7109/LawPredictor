@@ -1,0 +1,27 @@
+Citation
+497 U.S. 261 (1990)
+
+Brief Fact Summary
+Missouri's rule prohibiting the termination of life support to permanently comatose patients without clear and convincing evidence of consent by the patient was challenged as unconstitutional.
+
+Synopsis of Rule of Law
+Before terminating life support, a state may require clear and convincing evidence of consent by a comatose patient.
+
+Facts
+The Cruzans' (Plaintiff) daughter was involved in a traffic accident that left her permanently comatose, and they requested that life support be removed.  The facility where she was receiving care would do so only with court approval.  The Missouri Supreme Court considered evidence that the Plaintiffs' daughter had once told a roommate that she would not want to live if she could not take care of herself, but the Court ruled that this did not meet Missouri's (Defendant) statutory requirement that life support could only be terminated with clear and convincing evidence that this was consistent with the patient's wishes.  The United States Supreme Court granted review.
+
+Issue
+Before terminating life support, may a state may require clear and convincing evidence of consent by a comatose patient?
+
+Held
+(Rehnquist, C.J.)  Yes.  Before terminating life support, a state may require clear and convincing evidence of consent by a comatose patient.  Assuming for the sake of argument that the U.S. Constitution secures a right to refuse lifesaving medical care, the question becomes whether a state can impose a burden of proof of clear and convincing evidence of an incompetent person's wishes before removing such care.  The individual's liberty interests must be balanced with the interests of the state.  The state has a profound interest in protecting the lives of its citizens.  In the case of an incompetent person who relies on medical care to survive, there is clearly the potential for abuse by relatives or others who may find the incompetent person a burden or inconvenience.  In addition, a wrong decision to terminate life support is irrevocable.  These dangers argue in favor of the legitimacy of a state imposing a clear and convincing evidence standard before ending life support.  In this case, the Missouri Supreme Court found the evidence of the incompetent person's wishes did not meet this standard, and this was within its discretion.  Affirmed.
+
+Dissent
+(Brennan, J.)  The liberty interest of avoiding unwanted medical care should be recognized as a fundamental right.  State abridgements of fundamental rights are to be strictly scrutinized, rather than given the deferential treatment granted by the Court.(Stevens, J.)  Missouri's (Defendant) objections subordinate the incompetent's body, her family, and the significance of her life to the state's abstract, undifferentiated interests.
+
+Concurrence
+(O'Connor, J.)  The right to refuse medical treatment flows from liberty interests against involuntary invasions of bodily integrity.  Also, it should be emphasized that the Court today does not address the role of a surrogate decision-maker.
+
+Discussion
+This case was anticipated to settle the question of whether the federal Constitution contained a "right to die clause," and was therefore closely watched.  However, observers were disappointed with the Court's opinion which dealt more with procedure than substance, and the question of whether such a right exists was left open.
+

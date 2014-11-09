@@ -1,0 +1,24 @@
+Citation
+437 U.S. 617, 98 S. Ct. 2531, 57 L. Ed. 2d 475, 1978 U.S. 37.
+
+Brief Fact Summary
+A New Jersey law prohibited the importation of solid or liquid waste that originated or was collected from outside of the State. Private landfill operators challenged the constitutionality of the law.
+
+Synopsis of Rule of Law
+Where a state regulates non-discriminatorily for the achievement of a legitimate local purpose and thereby affects interstate commerce, the state action is constitutional unless the burdens of such regulation on interstate commerce are clearly excessive relative to the putative local benefits of it.
+
+Facts
+A New Jersey law prohibited the importation of solid or liquid waste that originated or was collected from outside of the State. The stated purpose of the statute was to protect the quality of the environment of New Jersey. Private landfill operators challenged the constitutionality of the law. The State Supreme Court held that the statute advanced vital environmental objectives.
+
+Issue
+Did the New Jersey waste importation statute violate the Commerce Clause?
+
+Held
+Yes. The judgment of the State Supreme Court is reversed.
+
+Dissent
+Justice William Rehnquist (J. Rehnquist) stated that the Constitution does not require New Jersey to receive and dispose of solid waste from other States when doing so will inexorably increase the health problems of its citizens.
+
+Discussion
+State actions that are “protectionist” in nature (i.e., favoring in-state interests at the expense of out-of-state interests) are generally unconstitutional. In this case, the Supreme Court explains that state statutes need not be proven purposefully protectionist in order to be held unconstitutional. A state statute may also be regarded as unconstitutional protectionist legislation if it is only discriminatory on its face.
+

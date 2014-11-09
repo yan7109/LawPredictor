@@ -1,0 +1,21 @@
+Citation
+16 F.3d 590 (4th Cir. 1994)
+
+Brief Fact Summary
+The Hospital (Plaintiff) sought a declaratory judgment that it was not required to provide treatment beyond warmth, nutrition, and hydration to Baby "K" (Defendant), an anencephalic infant.
+
+Synopsis of Rule of Law
+When an individual is diagnosed with an emergency medical condition, a hospital is required to provide necessary treatment to stabilize and prevent the physical deterioration of the person's condition or provide for an appropriate transfer to another facility.
+
+Facts
+Baby "K" (Defendant) was born with anencephaly, as she was missing a major portion of her brain. Most infants born with anencephaly die within a few days of birth because of breathing problems or other complications.  Mrs. H (Defendant) rejected the Hospital's (Plaintiff) recommendation that supportive care for Baby "K" (Defendant) be restricted to warmth, nutrition, and hydration, and she insisted that her child be provided with mechanical breathing assistance when needed.  The Plaintiff tried to transfer the infant, but no other hospital in the area would take her.  After Baby "K" (Defendant)  was transferred to a nursing home and readmitted to the Hospital (Plaintiff) a number of times with breathing difficulties, the Hospital (Plaintiff) brought this action against Ms. H (Defendant), Baby "K" (Defendant), and Mr. K (Defendant), seeking a declaratory judgment that the Hospital (Plaintiff) was only required to provide warmth, nutrition, and hydration to Baby "K" (Defendant).  The Hospital's (Plaintiff) request was denied by the district court who concluded that the Emergency Medical Treatment and Active Labor Act (EMTALA) presented a duty to provide respiratory support to Baby "K" (Defendant).  The Hospital (Plaintiff) appealed.
+
+Issue
+When an individual is diagnosed with an emergency medical condition, is a hospital required to provide necessary treatment to stabilize and prevent the physical deterioration of the person's condition or provide for an appropriate transfer to another facility?
+
+Held
+(Wilkins, J.)  Yes.  When an individual is diagnosed with an emergency medical condition, a hospital is required to provide necessary treatment to stabilize and prevent the physical deterioration of the person's condition or provide for an appropriate transfer to another facility.  The Hospital (Plaintiff) admits that when Baby "K" (Defendant) is presented in respiratory distress, a failure to provide immediate medical attention would reasonably be expected to cause serious impairment of her bodily functions.  Therefore, her breathing difficulty qualifies as an emergency medical condition, triggering the Hospital's (Plaintiff) duty to provide her with stabilizing treatment or to transfer her to another facility.  Because transfer is not an option available to the Hospital (Plaintiff) at this time, it must stabilize the condition of Baby "K" (Defendant).  Affirmed.
+
+Discussion
+The majority applied the rule found in the Emergency Medical Treatment and Active Labor Act (EMTALA).  Congress enacted EMTALA in order to respond to concerns that hospitals were "dumping" patients who were not able to pay by either refusing to provide emergency medical treatment or transferring patients before stabilizing their emergency conditions.  In this decision, the court recognized physicians faced a dilemma when requested to provide treatment they considered morally and ethically inappropriate, but the court could not go beyond its judicial function by ignoring the plain language in the statute.  Congress must redress policy concerns of the Hospital (Plaintiff), not the courts.
+

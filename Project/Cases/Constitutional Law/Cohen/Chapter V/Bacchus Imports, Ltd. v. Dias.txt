@@ -1,0 +1,24 @@
+Citation
+22 Ill.468 U.S. 263, 104 S. Ct. 3049, 82 L. Ed. 2d 200 (1984)
+
+Brief Fact Summary
+Hawaii had a 20% liquor taxed but exempted from the tax certain locally produced alcoholic beverages. Bacchus Imports distributed liquor products and had to pay the 20% excise tax.
+
+Synopsis of Rule of Law
+No State may impose a tax which discriminates against interstate commerce by providing a direct commercial advantage to local business. The Twenty-first Amendment does not entirely remove state regulation of alcoholic beverages from the ambit of the Commerce Clause.
+
+Facts
+In 1939 Hawaii imposed a tax on liquor to pay for police and other governmental services that the Hawaii legislature concluded had been increased due to the consumption of liquor. At its inception the tax did not exempt local liquor, but subsequently the legislature wanted to encourage development of the Hawaiian liquor industry so it enacted exemptions for several liquors produced locally. Liquor wholesalers that paid the 20% excise tax sued to recover all the taxes paid, arguing that the Hawaii liquor tax was in violation of both the Import-Export Clause and the Commerce Clause of the United States Constitution. They requested a refund of approximately $45 million.
+
+Issue
+There were two issues:
+
+Held
+(Justice White) The tax exemptions did violate the Commerce Clause and the Twenty-first Amendment could not save them. The judgment of the Supreme Court of Hawaii was reversed and the case was remanded for further proceedings.
+
+Dissent
+Justice Stevens, Rehnquist and O’Connor.
+
+Discussion
+The strongest basis for challenging a tax that would impact interstate commerce is the Commerce Clause. When evaluating such a tax, it is important to determine how much the legislature is discriminating against interstate commerce with its tax, and whether the legislature could gain similar revenue in a less discriminatory manner.
+

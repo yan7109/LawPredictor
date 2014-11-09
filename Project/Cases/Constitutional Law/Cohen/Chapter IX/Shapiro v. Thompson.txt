@@ -1,0 +1,24 @@
+Citation
+22 Ill.394 U.S. 618, 89 S. Ct. 1322, 22 L. Ed. 2d 600 (1969)
+
+Brief Fact Summary
+Welfare applicants were denied assistance because they resided in the District of Columbia for less than one year prior to filing their application for assistance.
+
+Synopsis of Rule of Law
+Denying welfare assistance to needy families who do not meet a residency requirement, but would otherwise qualify is unconstitutional unless the denial is supported by a compelling interest.
+
+Facts
+Appeals from a decision of a three-judge District Court held unconstitutional State or District of Columbia statutory provisions, which denies welfare assistance to residents of the State or District who have not resided within their jurisdictions for at least one year immediately preceding their applications for such assistance.
+
+Issue
+Whether the imposition of a one-year residency requirement on welfare assistant applicants is unconstitutional.
+
+Held
+Justice William Brennan (J. Brennan). Yes. The one-year residency requirement is unconstitutional because it discriminates against “need . . . families” who have not met the residency requirement even though the status of these families is no different than families meeting the residency requirement. The one-year residency requirement is not supported by a compelling state interest. The statutory provisions violate the constitutional right to travel because it has the effect of “inhibiting migration by needy persons into the State.” The residency requirement also violates the Due Process Clause of the Fifth Amendment because the requirement denies “public assistance to poor persons otherwise eligible solely on the ground that they have not been residents of the [state] for one year at the time their applications are filed.” The judgment is affirmed.
+
+Dissent
+The dissenting opinions are as follows:
+
+Discussion
+Although this case extended the strict scrutiny standard of review to classifications directly impacting the right to travel, it did not provide clear guidance as to when in these cases strict scrutiny should be applied or to what extent it should apply when the right to travel is affected.
+

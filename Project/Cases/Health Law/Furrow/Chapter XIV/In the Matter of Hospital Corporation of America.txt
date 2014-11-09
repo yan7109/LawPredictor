@@ -1,0 +1,21 @@
+Citation
+Fed. Trade Commn., 106 F.T.C. 361 (1985)
+
+Brief Fact Summary
+Hospital Corporation of America (HCA) (Defendant) appeals the decision of an administrative law judge ordering HCA (Defendant) to divest ownership of two hospitals acquired unlawfully.
+
+Synopsis of Rule of Law
+Section 7 of the Clayton Act is violated if an acquisition of a line of commerce lessens competition and creates a monopoly.
+
+Facts
+By way of stock transactions, Hospital Corporation of America (HCA) (Defendant), the largest proprietary hospital chain in the United States, acquired Hospital Affiliates International (HAI) and Health Care Corporation (HCC).  The net effect that these acquisitions had on the geographical area of Chattanooga, Tennessee, was to give HCA (Defendant) ownership and/or management of five of the total eleven acute-care hospitals in the Chattanooga urban area (CUA) and seven of the total fourteen acute-care hospitals in the six-county region known as the Chattanooga Metropolitan Statistical Area (CMSA).  The Federal Trade Commission (FTC) (Plaintiff) claimed HCA (Defendant) violated the Clayton Act and brought a complaint against HCA (Defendant) .  The Administrative Law Judge (ALJ) ordered HCA (Defendant) to divest itself of ownership of two hospitals and notify the FTC (Plaintiff) before making further acquisitions.  HCA (Defendant) appeals the ALJ's (Plaintiff) ruling.
+
+Issue
+Is Section 7 of the Clayton Act violated if an acquisition of a line of commerce lessens competition and creates a monopoly?
+
+Held
+(Calvani, Commr.)  Yes.  Section 7 of the Clayton Act is violated if an acquisition of a line of commerce lessens competition and creates a monopoly.  In order to analyze an alleged violation of the act, the commission must identify and examine the product market, the geographical area where competition could be harmed and the effect the acquisitions have on that line of commerce in that geographical area.  The relevant product market, or line of commerce, is the provision of acute inpatient hospital services and emergency services provided to the critically ill.  The FTC (Plaintiff) only examines the geographic market in relation to the area where competition could be harmed and, in this instance, the relevant market is that of the CUA, not the CMSA.  There is no distinction between the hospitals owned by HCA (Defendant) and those managed by HCA (Defendant) because all of these hospitals have effectively been removed from the independent marketplace.
+
+Discussion
+The number of hospitals in any given geographical area is not solely determinate to the issue of competition.  Observing the total number of hospital beds, the services provided, and the relative size of the health care corporations are also significant factors as they reflect any corporation's ability to control pricing per unit of service provided.  The strategy to avoid sanctions by the FTC (Plaintiff) for corporations like HCA (Defendant) is to attempt to dilute either the market product classification by factoring in outpatient services and alternative sources of health care, or by expanding the relevant geographical area to shrink the appearance of their actual market control.  In this case, HCA (Defendant) tried both of these tactics by arguing the need to include outpatient services and utilize the CMSA geographical area.  Both attempts failed.
+

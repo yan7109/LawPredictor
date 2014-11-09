@@ -1,0 +1,21 @@
+Citation
+83 Wis. 2d 406, 265 N.W.2d 513, 1978 Wisc. 998,  24 U.C.C. Rep. Serv. (Callaghan) 52
+
+Brief Fact Summary
+Murray (Plaintiff) sued Holiday Rambler, Inc. (Defendant) to recover for repairs and loss of use of the Plaintiff’s motor home. Defendant appealed from a judgment for the Plaintiff.
+
+Synopsis of Rule of Law
+Although an express warranty excludes consequential damages, when the exclusive contractual remedy fails, the buyer may recover consequential damages under the UCC.
+
+Facts
+Plaintiff purchased a motor home from the Defendant. The sales contract excluded all express or implied warranties and that there were no warranties of merchantability or fitness for a particular purpose. Plaintiff experienced many problems with the motor home including problems with the lights and battery of the vehicle when he took possession and even though repairs were made problems continued with the lights and the battery. There also was an exposed wire coming from the main electrical panel. The original gas tank and the auxiliary gas tank were improperly vented. There were also problems with the air suspension system and Plaintiff experienced problems with the brakes. Defendant repaired some of the problems, and some were fixed by the Plaintiff. The jury awarded the Plaintiff, $2,500.00 for loss of use of the motor home from the date of revocation of acceptance to the trial.
+
+Issue
+Whether the buyer has a remedy where the exclusive limited remedy of the contract fails?
+
+Held
+Yes. Judgment affirmed in part.
+
+Discussion
+Many states have amended the UCC or enacted separate legislation to prohibit warranty disclaimers in consumer sales. Some states also enacted lemon laws that permit consumers to return new cars that dealers cannot repair.
+

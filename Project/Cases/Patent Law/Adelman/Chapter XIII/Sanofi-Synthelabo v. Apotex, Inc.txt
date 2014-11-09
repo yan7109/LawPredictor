@@ -1,0 +1,21 @@
+Citation
+470 F.3d 1368 (Fed. Cir. 2006)
+
+Brief Fact Summary
+Apotex (Defendant) wanted to make and market a generic version of Sanofi's (Plaintiff) patented drug.  Plaintiff was granted the preliminary injunction they requested.
+
+Synopsis of Rule of Law
+Upon satisfaction of reasonable likelihood of success on the merits, irreparable harm without the injunction, balancing hardships in favor of the moving party, a preliminary injunction is appropriate; and the injunction also serves the public's interest.
+
+Facts
+Plaintiff holds the '265 patent to the active ingredient in the marketed drug, Plavix.  Defendant filed an Abbreviated New Drug Application (ANDA) in order to make and sell a generic version of the drug.  In the ANDA, Defendant claimed the '265 patent was invalid.  Plaintiff brought suit against Defendant claiming the ANDA was infringement.  The suit resulted in a 30-month stay of the ANDA, which was then granted upon expiration of the stay.  Defendant began selling the generic version of Plavix and Plaintiff filed for a preliminary injunction.  The district court granted the injunctive relief and ruled on Defendant's defenses.  Defendant appealed the preliminary injunction.
+
+Issue
+Upon satisfaction of reasonable likelihood of success on the merits, irreparable harm without the injunction, balancing hardships in favor of the moving party, is a preliminary injunction appropriate; and does the injunction also serve the public's interest?
+
+Held
+(Lourie, J.)  Yes.  Upon satisfaction of reasonable likelihood of success on the merits, irreparable harm without the injunction, balancing hardships in favor of the moving party, a preliminary injunction is appropriate; and the injunction also serves the public's interest.  In this case, Defendant admitted infringement and Defendant's appeal of the district court's findings regarding its defenses fails.  Plaintiff claimed it would suffer irreparable harm including Plavix clinical trials, layoffs, and irreversible price erosion.  The balance of hardships favors Plaintiff because Defendant chose to engage in its risky behavior by launching its product before judgment.  Lastly, Defendant appeals the bond amount as insufficient to secure its potential losses.  The bond is set at the discretion of the district court and nothing indicates it considered impermissible evidence.  On appeal, defendant's points fail.  Affirmed.
+
+Discussion
+Plaintiff fought hard to protect Plavix, its multi-billion dollar revenue drug.  Other countries tried to remove Plavix's patent protection in their countries in order to permit the manufacture and sale of generic versions.  In 2008, the Federal Circuit affirmed the trial court's denial of Defendant's challenge to validity.
+

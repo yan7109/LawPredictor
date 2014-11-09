@@ -1,0 +1,21 @@
+Citation
+53 U.S. 299, 13 L. Ed. 996, 1851 U.S.
+
+Brief Fact Summary
+A state law required ships to hire local pilots to guide them through the Port of Philadelphia, or to pay a fine.
+
+Synopsis of Rule of Law
+The Congressional power to regulate commerce is not exclusive of all state powers to regulate commerce.
+
+Facts
+In 1803, Pennsylvania enacted a law requiring ships entering the Port of Philadelphia (the Port) hire a local pilot to guide them through the Port or pay a fine. The fine was to be paid to the Plaintiff, the Board of Wardens of the Port of Philadelphia (Plaintiff). The Defendant, Aaron B. Cooley Cooley (Defendant), challenged the law’s constitutionality, contending that the Commerce Clause’s provision that Congress could regulate commerce gave them exclusive jurisdiction over commerce and not the states. The Defendant was a consignee of two ships that left port without a local pilot and were found liable under the law. The Plaintiff relied on a 1789 Act of Congress (the Act), which in substance stated that the states could regulate all pilots in the rivers, harbors, and ports until the Congress enacted legislation to the contrary.
+
+Issue
+Is the Congressional power to regulate commerce exclusive of all state powers to regulate commerce?
+
+Held
+No, the Supreme Court of the United States (Supreme Court) established the “Selective Exclusiveness Test” for judicial review of state regulation of commerce. The Supreme Court declared that states had the power to regulate the areas of commerce that were local nature. Those, which did not require uniform national regulation by Congress. The Court observed that by passing the Act, Congress recognized that the states would have certain powers to effect interstate commerce. The Supreme Court observed that the regulation of pilots was local in nature and did not require one uniform rule. Thus, Congress is not given absolute power in this area. The Court also held that the grant of the Commerce power to Congress did not preclude the states from exercising any power over commerce. To the contrary, only when Congress acts to exercise its Commerce power is a state’s exercise of that same power affected. The Supreme Court also limited its decision to the facts before it and did not att
+
+Discussion
+The Supreme Court felt that the law was appropriate. Other states have made similar regulations. It was a fair exercise of legislative discretion.
+

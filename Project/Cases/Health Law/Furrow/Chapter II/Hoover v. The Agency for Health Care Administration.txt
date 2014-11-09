@@ -1,0 +1,21 @@
+Citation
+Fla. Dist. Ct. App., 676 So. 2d 1380 (1996)
+
+Brief Fact Summary
+The Board of Medicine (Defendant) decided to revoke the medical license of Dr. Hoover (Plaintiff), thereby ignoring a hearing officer's reasonable findings of fact and recommendations.
+
+Synopsis of Rule of Law
+An administrative review board must give substantial weight to the findings of a hearing officer before it supersedes those findings and revokes a license to practice medicine.
+
+Facts
+An administrative complaint was filed against Dr. Hoover (Plaintiff) by the Agency for Health Care Administration (Defendant) claiming she was excessively prescribing controlled substances.  Plaintiff denied the charge and requested a hearing.  The Defendant presented two physicians as experts at the hearing.  The experts' testimony was solely based on the pharmacy records as they had not examined any patient or patient record.  Plaintiff testified about her diagnoses and courses of treatment in great detail.  The hearing officer's recommendation was to dismiss the complaint.  However, the Agency (Defendant) accepted the finding, and the Board of Medicine (Defendant) set aside the hearing officer's findings and penalized Plaintiff.  Plaintiff appealed.
+
+Issue
+Must an administrative review board give substantial weight to the findings of a hearing officer before it supersedes those findings and revokes a license to practice medicine?
+
+Held
+(Jorgenson, J.)  Yes.  An administrative review board must give substantial weight to the findings of a hearing officer before it supersedes those findings and revokes a license to practice medicine.  Findings by an administrative officer must be based on competent substantial evidence so that there are no grounds to set aside the officer's findings.  In this case, the hearing officer compared the Plaintiff's detailed and extensive testimony to the opinions of two experts who had not read even one patient file.  Following examination of federal guidelines, after subsequent legislation in the state, and all the evidence in the proceeding, the hearing officer provided the Defendant with a reasonable recommendation—which it rejected.  Reversed.
+
+Discussion
+The prescription of drugs is a factor involved in the majority of actions before state medical boards.  Controlled substances are surrounded by multiple issues.  First, there are doctors prescribing drugs to themselves in some cases.  Second, there is the concern that doctors might deal in drugs by selling prescriptions.  For severely ill patients, the problem of pain management competes with these concerns.
+

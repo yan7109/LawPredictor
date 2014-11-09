@@ -1,0 +1,21 @@
+Citation
+74 U.S. 506, 7 Wall. 506, 19 L. Ed. 264 (1869)
+
+Brief Fact Summary
+McCardle, a newspaper editor arrested for writing articles critical of Reconstruction, petitioned the Supreme Court of the United States (United States) for a writ of habeas corpus. McCardle argued the Military Reconstruction Act (the Act) and his prosecution were unconstitutional.
+
+Synopsis of Rule of Law
+Congress, by repealing the United State Supreme Court’s (Supreme Court) appellate review of writs of habeas corpus, effectively took jurisdiction over McCardle’s case away from the Supreme Court.
+
+Facts
+After writing a series of articles that were highly critical of Reconstruction, federal officials arrested McCardle under the Act. McCardle contended the Act was unconstitutional in providing military trials for civilians and claimed his prosecution violated provisions of the Bill of Rights, including the First, Fifth, and Sixth Amendments of the United States Constitution (Constitution). Before the Supreme Court ruled on the merits, Congress passed a law repealing Supreme Court appellate review of writs of habeas corpus.
+
+Issue
+Does the Act of Congress repealing Supreme Court appellate review of habeas writs remove jurisdiction in McCardle’s case?
+
+Held
+Yes. Case dismissed for want of jurisdiction.
+
+Discussion
+Another politically-charged case, Congress repealed jurisdiction out of a fear that the Supreme Court would rule adversely on the constitutionality of the Military Reconstruction Act. However, the Supreme Court notes that it is “not at liberty to inquire into the motives of the legislature,” but only the constitutional authority to divest jurisdiction is examinable by the Supreme Court.
+

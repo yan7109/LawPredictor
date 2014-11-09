@@ -1,0 +1,21 @@
+Citation
+III. Sup. Ct., 33 III.2d 326, 211 N.E.2d 253 (1965)
+
+Brief Fact Summary
+Darling (Plaintiff) claimed that Charleston Community Memorial Hospital (Defendant) was liable for alleged negligence by its staff.
+
+Synopsis of Rule of Law
+A hospital may be liable for the negligence of its staff.
+
+Facts
+Darling (Plaintiff) was taken to the emergency room at Charleston Community Memorial Hospital (Defendant) when he broke his leg.  The attending physician, Dr. Alexander (Defendant), set the break and put the leg in a cast.  The next day, Plaintiff's toes turned dark and cold.  The cast was removed, but much of the tissue in the leg had become necrotic from constriction caused by the cast.  Eventually the lower leg had to be amputated.  Plaintiff brought suit against Alexander (Defendant) and Charleston (Defendant).  After Plaintiff settled with Alexander (Defendant), he tried the case against Charleston (Defendant).  The jury returned a verdict of $150,000.00.  The court of appeals affirmed this, and the Supreme Court of Illinois granted review on the issue of whether or not a hospital could be held liable for the negligence of its staff.
+
+Issue
+May a hospital be liable for the negligence of its staff?
+
+Held
+[Judge not stated in casebook excerpt.]  Yes.  A hospital may be liable for the negligence of its staff.  There is no reality to the idea that a hospital provides facilities only and does not claim to act through its staff doctors and nurses.  Modern hospitals provide facilities and much more.  They employ a large staff of doctors, nurses, administrators, and other workers, and are not hesitant to collect fees for services performed at the hospital.  A person goes to a hospital and reasonably expects the hospital as an entity to treat him.  Therefore, no legitimate basis exists for not holding a hospital vicariously responsible for torts of its employed staff.  In this case, the jury found negligence by both Alexander (Defendant) in the procedures he used, and the nursing staff in their follow-ups.  This was thoroughly supported by the evidence.  Affirmed.
+
+Discussion
+Doctors have traditionally been viewed by their hospitals as independent contractors.  Under the common-law "independent contractor" rule, one employing a contractor as opposed to an employee will not be vicariously responsible for the contractor.  This rule has been weakened in recent times in society in general, and in medicine as well.
+

@@ -1,0 +1,21 @@
+Citation
+32 U.S. 243,8 L. Ed. 672,1833 U.S.
+
+Brief Fact Summary
+Plaintiff, a wharf owner in the Baltimore harbor, unsuccessfully claimed that the Defendant’s, City of Baltimore, action of ruining the use of his wharf violated the takings clause of the Fifth Amendment of the Constitution because the Bill of Rights is inapplicable to the states.
+
+Synopsis of Rule of Law
+The Bill of Rights is a limitation on the exercise of power of the federal government and is inapplicable to state legislation.
+
+Facts
+Plaintiff, Barron, owned a wharf in Baltimore harbor that was ruined by acts of the Defendant, City of Baltimore. Plaintiff sued the Defendant claiming that the Defendant diverted the flow of water that resulted in large amounts of sand accumulating under Plaintiff’s wharf, thereby preventing vessels from using the wharf. Plaintiff contended that the resulting damage to his wharf constituted a taking from the government without just compensation in violation of the Fifth Amendment. The trial court awarded Plaintiff damages, but the state appellate court reversed.
+
+Issue
+Whether the state’s action violated the takings clause of the Fifth Amendment of the Constitution.
+
+Held
+No. Case dismissed for lack of jurisdiction since there is no repugnancy between the state’s actions and the Constitution. However, the Supreme Court of the United States also held that the Fifth Amendment is not applicable to the states. The Court reasoned that had the framers of the Bill of Rights intended them to be limitations on the powers of the state governments, they would have expressed that intention.
+
+Discussion
+Marshall’s Court looks to the framer’s intent to find that the Bill of Rights applies only to the national government, thereby forcing states to adopt individual constitutions to protect individual rights.
+

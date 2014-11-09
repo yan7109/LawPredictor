@@ -1,0 +1,27 @@
+Citation
+56 F.3d 1538 (Fed. Cir. 1995)
+
+Brief Fact Summary
+Rite-Hite (Plaintiff) was awarded damages for lost sales of products not covered in the patent.
+
+Synopsis of Rule of Law
+(1) If a particular injury was or should have been reasonably foreseeable by an infringing competitor in the relevant market, broadly defined, that injury is generally compensable.  (2) The "entire market value rule" requires that the unpatented component must function together with the patented component in some manner to produce a desired end.
+
+Facts
+Rite-Hite Corp. (Plaintiff) held the patent on a device for securing a vehicle to a loading dock to prevent the vehicle from separating during loading and unloading.  Plaintiff won a suit against Kelley Co. (Defendant) for patent infringement.  Damages were awarded by the district court for Plaintiff's lost sales of its ADL-100 restraints, a device that was similar and not covered by the patent, and for Plaintiff's lost sales of its dock levelers, a bridging platform sold with the restraints and used to bridge the edges of a vehicle and dock.  Defendant appealed the latter two awards.
+
+Issue
+(1) If a particular injury was or should have been reasonably foreseeable by an infringing competitor in the relevant market, broadly defined, is that injury generally compensable?  (2) Does the "entire market value rule" require that the unpatented component function together with the patented component in a way that would produce the desired result?
+
+Held
+(Lourie, J.)  (1) Yes.  If a particular injury was or should have been reasonable foreseeable by an infringing competitor in the relevant market, broadly defined, that injury is generally compensable.  (2) Yes.  The "entire market value rule" requires that the unpatented component must function together with the patented component in a way that would produce the desired result.  If an unpatented component does so, then the entire value market rule allows recovery of damages based on the value of the patentee's entire apparatus.  In this case, the dock levelers were sold only for marketing reasons; they did not operate together to achieve one result.  The damages award based on the lost sales of the dock leveler is vacated.
+
+Dissent
+(Nies, J.)  Diversion of ADL-100 sales is not an injury to Plaintiff's  property rights granted by the patent.  Damages should be limited to the  lost MDL-55 sales.
+
+Concurrence
+(Newman, J.)  Eliminating recovery of actual damages serves no law or policy when patents are involved. Damages for the dock levelers should be granted.
+
+Discussion
+Note that both dissents also concur in part, and completely contradict each other.  Judge Nies found for Defendant on both appealed claims, but Judge Newman found for Plaintiff on both.  Judge Newman felt the marketing interdependence of the product was much more significant than "functionality."  Judge Nies supported his argument with case law and a policy argument that incentive for investing in patented products would fade if a new product's patent protected both the status quo and lost profits for the old.
+

@@ -1,0 +1,21 @@
+Citation
+Kan. Ct. App., 154 P.3d 1184 (2007)
+
+Brief Fact Summary
+Michelle Esquivel (Plaintiff) went to South Central Kansas Regional Medical Center (Defendant) for a free sonogram, which was only to determine the sex of her unborn baby.  Though an abnormality was discovered, it was not disclosed to Plaintiff by Defendant.  When her baby died after birth, Plaintiff brought suit against Defendant.  The court granted summary judgment for Defendant.  Plaintiff appealed.
+
+Synopsis of Rule of Law
+When a provider does not begin to advise or treat the patient regarding any medical condition, illness or disease, a patient-health care provider relationship does not exist.
+
+Facts
+Michelle Esquivel (Plaintiff) went to South Central Kansas Regional Medical Center (Defendant) for a free sonogram.    She signed a consent form stating the procedure's purpose was only to discover the sex of the unborn baby, and it was not to determine fetal abnormalities.  There was also a release clause contained in the form for any cause of action that could originate as a result of the procedure.  The technician discovered that the Plaintiff's baby's bowel was outside the body, a condition known as gastroschisis.  He did not tell Plaintiff of the discovery, because he is not a doctor and was not qualified to make a diagnosis.  He took the sonogram pictures and sent them to a radiologist, but the radiologist would not look at them since the purpose of the sonogram was to discover the sex of the baby, not for diagnosis.  The technician also reported the irregularity to Plaintiff's obstetrician, but did not send him the sonogram pictures or a written report.  The obstetrician told his assistant to call the Plaintiff.  The assistant tried for ten days, and then left a message with a man she believed to be Plaintiff's husband.  The Plaintiff missed her next prenatal appointment, and by the time of her next appointment, five weeks later, the obstetrician had forgotten the issue.  Plaintiff's baby was born by emergency caesarean section after Plaintiff became ill.  The baby's condition was terminal.  After he died, the Esquivels (Plaintiff) sued Defendant.  The district court granted summary judgment in favor of Defendant because the clinic did not owe the Plaintiffs a duty upon which they based their claims.  The claims were barred by the release signed by Plaintiff before the sonogram.  Plaintiffs appealed.
+
+Issue
+When a provider does not begin to advise or treat the patient regarding any medical condition, illness or disease, does a patient-health care provider relationship exist?
+
+Held
+[Judge not stated in casebook excerpt.]  No.  When a provider does not begin to advise or treat the patient regarding any medical condition, illness or disease, a patient-health care provider relationship does not exist.  In this case, Defendant's specific purpose in performing the sonogram was to determine the gender of her unborn baby.  Therefore, the provider's duty was limited to performing the sonogram in a non-negligent manner, and no negligence in the performance of the sonogram is alleged.  Affirmed.
+
+Discussion
+Note in the court's discussion of the issue, the courts disagree regarding whether there is a duty to notify even in the absence of a physician-patient relationship, even though a physician-patient relationship is usually a prerequisite to a malpractice suit against a doctor.  Note also that a higher duty of care is always applied once a physician-patient relationship is established.
+

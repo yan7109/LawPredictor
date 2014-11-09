@@ -1,0 +1,21 @@
+Citation
+518 U.S. 651, 116 S. Ct. 2333, 135 L. Ed. 2d 827, 1996 U.S.
+
+Brief Fact Summary
+The Defendant, Ellis Wayne Felker (Defendant), while on death row, twice petitioned the federal courts for a writ of habeas corpus. While his second petition was pending, Congress passed the Antiterrorism and Effective Death Penalty Act of 1996 (”AEDPA”).
+
+Synopsis of Rule of Law
+Congress may limit Supreme Court of the United States (Supreme Court) jurisdiction under the Exceptions and Regulations Clause of the United States Constitution (Constitution).
+
+Facts
+Defendant was convicted of murder and sentenced to death. His first habeas petition to the federal courts was denied. While a second petition for a writ of habeas corpus was pending, Congress adopted the AEDPA. The AEDPA requires dismissal of a subsequent habeas petition, unless the law or facts had changed to the extent that no reasonable fact finder could have convicted given the change. Specifically, a prisoner bringing a subsequent habeas petition must file a motion for leave to file in the court of appeals. The Supreme Court may not review the court of appeals’ decision.
+
+Issue
+Is the AEDPA a constitutional exercise of Congress’s power to limit the Supreme Court’s jurisdiction under the Exceptions and Regulations Clause of the Constitution?
+
+Held
+Yes. Petition denied for want of jurisdiction. The Supreme Court notes that the AEDPA does not remove jurisdiction of the Court to entertain original petitions for writs of habeas corpus, but only limits (defines exceptions to) its appellate jurisdiction over subsequent petitions.
+
+Discussion
+The Supreme Court determines that the AEDPA does not unconstitutionally suspend the writ of habeas corpus (original petitions are still allowed), while its limitation of appellate jurisdiction is expressly authorized by the constitution.
+

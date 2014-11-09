@@ -1,0 +1,24 @@
+Citation
+340 U.S. 147, 87 U.S.P.Q. 303 (1950)
+
+Brief Fact Summary
+Great A. & P. (Plaintiff) brought suit against Supermarket (Defendant) claiming infringement of its patent on a rack to move groceries along a grocery store counter to the casher.
+
+Synopsis of Rule of Law
+Portions of prior art that are merely brought together by a patentee, without any change in their particular functions, do not make a valid patent.
+
+Facts
+The device patented by Plaintiff equipped cashiers' counters with a three-sided frame that moved the groceries along to the cashier by being pushed or pulled when the customer put their groceries within it.  The district court denied Defendant's claim that the device was obvious and therefore could not be the subject of a patent, must less an infringement suit.  The court found it was an original feature, and consisted of a new and useful combination of a counter with an extension to receive the items that were placed upon a bottomless self-unloading tray.  The judgment was upheld by the court of appeals regarding the finding of the district court as to obviousness as one of fact and not clearly incorrect.
+
+Issue
+If portions of prior art are merely brought together by a patentee, without any change in their particular functions, will the patent be sustained?
+
+Held
+(Jackson, J.)  No.  If portions of prior art are merely brought together by a patentee, without any change in their particular functions, the patent will not be sustained.  The combination of known elements must contribute something; only when in some way the whole exceeds the sum of its parts is the combination of old devices eligible for patent.  In this case, each part is doing what it has always done.  The counter supports merchandise; the rack draws or pushes goods; and the guide rails keep the goods from falling off the surface.  When two and two are added together, the total is still four.  The Plaintiff's patents have not added anything new to the total stock of knowledge, but merely brought together parts of prior art claiming them in working together a monopoly.  The patents are invalid and judgment is reversed.
+
+Concurrence
+(Douglas, J.)  Because a patent is a monopoly, the Framers did not want  such monopolies to be freely granted.  An invention may be new and  useful, but it must also make a notable contribution to scientific  knowledge and demonstrate "inventive genius.
+
+Discussion
+It may be argued that almost every invention can be reduced to the combination of old elements and cleverly recognizing the usefulness of such combinations, not just the different functioning of the elements within the combination.  After Great A. & P., Congress passed the 1952 Patent Act, which codified the prerequisites to being granted a patent, without any reference to "invention" as a legal requirement.
+

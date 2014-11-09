@@ -1,0 +1,21 @@
+Citation
+809 F. Supp. 2d 665 (E.D. Mich. 2011)
+
+Brief Fact Summary
+The United States of America and the State of Michigan (collectively, the Government) (Plaintiff) sued Blue Cross Blue Shield of Michigan (Defendant) claiming that the company violated federal and state antimonopoly laws by establishing most favored nation clauses in its agreements with various hospitals.
+
+Synopsis of Rule of Law
+A factual showing that an insurance company's use of most favored nation clauses in agreements increased overall health care costs overcomes a motion to dismiss.
+
+Facts
+Blue Cross Blue Shield of Michigan (Blue Cross) (Defendant) is a state nonprofit health care corporation, which is subject to federal taxation but is exempt from state and local taxation under state law.  Directly and through its subsidiaries, Blue Cross (Defendant) provides commercial and other health insurance products, including preferred provider organization (PPO) health insurance products and health maintenance organization (HMO) health insurance products.  Defendant is the largest provider in the state of commercial health insurance, covering three million residents, which is more than 60 percent of the commercially insured population and is equal to nine times as many residents as its next largest commercial health insurance competitor.  Defendant is also the largest nongovernmental purchaser of health care services, including hospital services.  Defendant purchases hospital services from all 131 general acute-care hospitals in the state.
+
+Issue
+Does a factual showing that an insurance company's use of most favored nation clauses in agreements increased overall health care costs overcome a motion to dismiss?
+
+Held
+(Hood, J.)  Yes.  A factual showing that an insurance company's use of most favored nation clauses in agreements increased overall health care costs overcomes a motion to dismiss.  Defendant's MFN-plus clauses guarantee that Defendant's competitors cannot obtain hospital services at prices comparable to the prices Defendant pays, which limits other health insurers' ability to compete with Defendant.  In the instances where it employed the Equal-to MFNs, Defendant has purchased protection from competition by causing hospitals to raise the minimum prices they can charge to Defendant's competitors but has also increased its own costs in doing so.  Defendant has not sought or used MFNs to lower its own cost of obtaining hospital services.  Plaintiff has argued that by denying Defendant's competitors access to competitive hospital contracts, the MFNs have deterred or prevented competitive entry and expansion in health insurance markets in the state.  The result was increased prices for health insurance sold by Defendant and its competitors, in addition to higher prices for hospital services paid by insureds and self-insured employers.
+
+Discussion
+While the excerpt from the case redacts many of the details from the case, it is clear that as creative as Defendant's MFN clauses were, they brought scrutiny from the federal and state authorities.  While the initial impact on Defendant was to increase its costs for providing coverage, what is learned from the redacted excerpt was that the net effect was to establish anticompetitive pricing by forcing or favoring hospitals to accept their terms and making it difficult for competitors to gain market share.  Plaintiff's initial complaint satisfied the minimal standard of establishing enough facts to alleged federal and state antimonopoly violations, therefore overcoming the motion to dismiss.
+

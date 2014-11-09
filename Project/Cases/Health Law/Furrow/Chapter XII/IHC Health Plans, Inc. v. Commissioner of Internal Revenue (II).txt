@@ -1,0 +1,21 @@
+Citation
+325 F.3d 1188 (10th Cir. 2003)
+
+Brief Fact Summary
+Intermountain Health Care Health Plans, Inc. (Plaintiff) brought suit in the United States Tax Court seeking a declaratory judgment to reverse the Commissioner of Internal Revenue's (Defendant) decision to revoke their non-profit tax-exempt status.
+
+Synopsis of Rule of Law
+When a corporation's sole activity is an "integral part" of an exempt affiliate's activities, it may qualify for tax-exempt status under 26 U.S.C. § 501(c)(3).
+
+Facts
+Intermountain Health Care (IHC) formed a subsidiary, IHC Health Services (Health Services), as a Utah non-profit corporation.  Health Services operated twenty-two hospitals in Utah and Idaho, and during the years of 1997 through 1999, Health Services provided $1.2 billion in unreimbursed medical care to Medicaid patients and another $91 million in unreimbursed care to indigent patients.  The Commissioner of Internal Revenue (Commissioner) (Defendant) recognized Health Services as having tax-exempt status under § 501(c)(3).  Later, IHC formed three additional subsidiary health care companies: IHC Health Plans (Health Plans) (Plaintiff), IHC Care, Inc. (Care) and IHC Group, Inc. (Group) to operate as health maintenance organizations (HMOs).  Defendant would later conclude that, pursuant to § 501(c)(3), none of these three subsidiaries was operating exclusively for exempt purposes.  Defendant revoked Plaintiff's exempt status and determined that Care and Group were not entitled to the exemption.  Health Plans (Plaintiff), Care and Group brought suit in the United States Tax Court seeking a declaratory judgment to reverse Defendant's ruling.  The Tax Court affirmed Defendant's ruling in a separate opinion for each of the three corporate entities.  Plaintiff became the successor in interest to Care and Group and brings this appeal on behalf of all three entities.
+
+Issue
+When a corporation's sole activity is an "integral part" of an exempt affiliate's activities, may it may qualify for tax-exempt status under 26 U.S.C. § 501(c)(3)?
+
+Held
+(Tacha, C.J.)  Yes.  When a corporation's sole activity is an "integral part" of an exempt affiliate's activities, it may qualify for tax-exempt status under 26 U.S.C. § 501(c)(3).  In order to qualify for tax-exempt status under 26 U.S.C. § 501(c)(3), a health care corporation must be an organization operated primarily for charitable purposes.  However, several circuits have carved out an exception to the general rule known as the "integral-part doctrine."  The exception discounts two basic rules of tax law that corporate entities are separate and distinct taxable entities, and that tax exemptions are narrowly and strictly construed.  To qualify for exempt status under this exception, the court looks to the totality of the circumstances, and the corporate entity seeking exempt status must demonstrate that there is a nexus between itself and the tax-exempt affiliate.  Under the facts of this case, it is clear that Health Services, one of IHC's four subsidiaries, is engaged in providing charitable services.  Defendant has already recognized the exempt status of Health Services.  However, Health Services only accounts for the provision of 20 percent of IHC's health care services.  The remaining three subsidiaries do not act in any way to further the affiliate's activities, and in fact, are solely engaged in providing health care for a profit.  The required nexus is absent.  Petitioners do not qualify for the exception and do not qualify for tax-exempt status under § 501(c)(3).
+
+Discussion
+All of IHC's subsidiaries do not qualify for tax-exempt status based on the actions of Health Services.  The integral part doctrine requires the primary activity of the entire corporation to be an integral part of the charitable activities the affiliate is conducting.  It is not enough for the profit-making arm of the corporation to finance the not-for-profit arm's activities.  There must be a legitimate nexus between the purposes of the affiliates.
+

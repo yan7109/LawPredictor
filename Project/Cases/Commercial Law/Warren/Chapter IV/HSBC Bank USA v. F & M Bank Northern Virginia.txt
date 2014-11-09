@@ -1,0 +1,18 @@
+Citation
+246 F.3d 335, 2001 U.S. App. 5588,44 U.C.C. Rep. Serv. 2d (Callaghan) 319
+
+Brief Fact Summary
+The amount on a check was altered and the plaintiff paid the altered amount and debited the maker’s account.  Upon discovering the fraudulent check, the plaintiff re-credited the maker’s account and sued defendant for the full amount it paid to the maker of the check.  Defendant claims that the maker of the check did not use ordinary care in writing the check because open spaces on the check were left that allowed the amount to be altered. <span class='heading'>Synopsis of Rule of Law.</span> A maker of a check may be liable for the unauthorized alteration of the check if the maker failed to use ordinary care in the writing of the check.
+
+Facts
+In March 1999, Donald Lynch purchased a check from Allied Irish Bank (”AIB”) in Ireland.  The check was made payable to Advance Marketing and Investment Inc. (”AMI”) in the amount of $250.00.  The drawee/payor on the check was the plaintiff HSBC Bank (the “plaintiff”).  The check was written with open space in the numerical portion and the written portion of the check.  Prior to the check being deposit into AMI’s account at the defendant bank F & M Bank Northern Virginia (the “defendant”), the amount on the check was altered from $250.00 to $250,000.00.  It change in the amount was unauthorized and the check was indorsed “A.M.I., Inc.”  When the defendant presented the check to the plaintiff it warranted that the check “had not been altered.”  The plaintiff paid $250,000.00 to the defendant and debited AIB’s account for the full amount.  Later, AIB informed the plaintiff that the check had an unauthorized alteration. The plaintiff recredited AIB’s account and brought and actio n against the defendant alleging that a breach of presentment warranty pursuant to UCC Section: 4-207(1)(c) and (2)(c).  The district court held that the plaintiff established all the elements of its breach of presentment warranty claim and that AIB exercised ordinary care in preparing the check.  On appeal, the defendant claims that the district court’s finding that AIB exercised ordinary care in preparing the check is erroneous.
+
+Issue
+Was the district court correct in finding that AIB exercised ordinary care when making out the check?
+
+Held
+Yes.  The court agreed with the district court’s finding that ordinary care was exercised in making out the check.  Upon examining the check the court stated, “we see sound logic in the district court’s rational that if the written portion of the Check contained enough writing such that the Check’s alteration could only be accomplished with the “scrawled up,” abbreviated of the word “thousand,” i.e. “Thoud,”  ordinary care was exercised in making out the Check.”
+
+Discussion
+The question of ordinary care rather than breach of presentment is at issue in this case because the defendant “concedes that if the district court’s factual finding that AIB exercised ordinary care in preparing the Check is not clearly erroneous, it cannot successfully rely upon its affirmative defense to [the plaintiff's] breach of presentment warranty claim and, therefore, the judgment in favor of [the plaintiff] should be affirmed.”  The defendant’s affirmative defense is that AIB is precluded from asserting the unauthorized alteration of the check against the plaintiff under Virginia Commercial Code Section: 8.3A-406(a), “if AIB failed to exercise ordinary care in preparing the check and such failure substantially contributed to the unauthorized alteration of the check.”
+

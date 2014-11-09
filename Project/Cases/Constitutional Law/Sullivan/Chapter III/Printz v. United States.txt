@@ -1,0 +1,24 @@
+Citation
+538 U.S. 1036; 123 S. Ct. 2110;155 L. Ed. 2d 1066; 2003 U.S.
+
+Brief Fact Summary
+The federal Brady Act interim provisions required state and local law enforcement officials to temporarily do background checks. Two local law enforcement officials challenged the constitutionality of the interim provisions.
+
+Synopsis of Rule of Law
+Congress may not compel a state or local government to implement federal regulatory programs, even if they are temporary functions.
+
+Facts
+Congress passed the Brady Handgun Violence Protection Act (the Act). The Act required the Attorney General to establish a national background check system. Until the national system became computerized, interim provisions for background checks were established. Those provisions provided that state and local law enforcement officers must do background checks before issuing permits to buy firearms. Two local law enforcement officers challenged the constitutionality of the Act’s interim provisions.
+
+Issue
+May Congress compel a state or local government to even temporarily implement and administer a federal regulatory program?
+
+Held
+No. Judgment reversed.
+
+Dissent
+(Stevens, J) The federal commerce power gives Congress the right to regulate handguns. The Necessary and Proper Clause gives Congress the right to implement its regulations by using local officials. Further, since private citizens could be compelled by Congress to assist in identifying people who could not be trusted with handguns, there is no reason why states could not be compelled to perform the same function.
+
+Discussion
+The Supreme Court restrains Congress by not allowing them to force a state to legislate or regulate in a particular way, even if the legislation or regulation deals with ministerial funct
+

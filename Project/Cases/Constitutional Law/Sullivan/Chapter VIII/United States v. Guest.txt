@@ -1,0 +1,24 @@
+Citation
+383 U.S. 745, 86 S. Ct. 1170, 16 L. Ed. 2d 239 (1966)
+
+Brief Fact Summary
+Upon addressing specific issues of statutory construction, the Supreme Court of the United States (Supreme Court) reversed the dismissals of the Defendants’, Guest and others (Defendants) indictments.
+
+Synopsis of Rule of Law
+18 U.S.C. Section:241 does encompass Fourteenth Amendment constitutional rights.
+
+Facts
+Six Defendants were indicted for criminal conspiracy in violation of 18 U.S.C. Section:241. The indictments alleged a single conspiracy by the Defendants to deprive black citizens of the free exercise and enjoyments of several specified rights secured by the United States Constitution (Constitution) and laws of the United States. The charges involved the killing of a black reserve officer. The federal indictment was brought after the Defendants had been acquitted of murder in a Georgia court. The Defendants successfully moved to dismiss the indictment on the ground that it did not charge an offense under the laws of the United States.
+
+Issue
+Whether the federal indictment is based on an offense under the laws of the United States?
+
+Held
+Yes. Judgment of the District Court reversed and remanded for further proceedings. Section 241 does encompass Fourteenth Amendment constitutional rights. Here, the indictment contains an express allegation of state involvement sufficient at least to require denial of a motion to dismiss. The allegation of official involvement is not clear, but it is broad enough to encompass conduct amounting to official discrimination sufficient to constitute denial of rights protected by equal protection. The second dismissal mentioned in the case was in error as well because the right to travel occupies a position fundamental to the concept of our Federal Union. If the predominate purpose of the conspiracy is to prevent the exercise of the right of travel, or to oppress a person of that right, as was the case here, then whether or not motivated by racial discrimination, the conspiracy becomes a proper object of federal law under which the indictment was brought. Therefore, the federal indict
+
+Dissent
+Section 241 reaches such a private conspiracy, not because the Fourteenth Amendment of the Constitution of its own force prohibits such a conspiracy, but because Section:241, as an exercise of congressional power under Section:5 of that Amendment, prohibits all conspiracies to interfere with the exercise of a “right secured by the Constitution.”
+
+Discussion
+The majority uses statutory interpretation to reverse the Defendants’ indictment in this case.
+

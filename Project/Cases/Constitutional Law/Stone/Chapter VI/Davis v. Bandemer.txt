@@ -1,0 +1,24 @@
+Citation
+478 U.S. 109, 106 S. Ct. 2797, 92 L. Ed. 2d 85, 1986 U.S. 122.
+
+Brief Fact Summary
+The Republican controlled Indiana legislature designed an apportionment scheme that resulted in the Democrats’ voting strength being understated in terms of the number of seats in the legislature Democrats won. The Democrats sued.
+
+Synopsis of Rule of Law
+In order to make out a case for unconstitutional apportionment, a plaintiff must show intentional discrimination on the part of the defendant against an identifiable political group and actual discriminatory effect on the same group.
+
+Facts
+The Republican controlled Indiana State legislature in 1981 adopted an apportionment plan (the “Plan”), which provided for State representative electoral districts of substantially equal population. Appellees, the Democrats (Appellees), nonetheless, claimed that the Republicans had adopted a scheme that would substantially understate Democratic voting strength. Under the Plan, in 1982, Appellees received 51.9 percent of the vote, but won only 43 percent of the 100 House seats and 13 of 25 Senate seats. At trial, the District Court held that the Appellees needed only to show that their proportionate voting influence had been adversely affected.
+
+Issue
+Did the Appellees make a sufficient showing to establish the Plan as an unconstitutional infringement of equal protection?
+
+Held
+No. The findings made by the District Court on the adverse effects on the Appellees do not satisfy the threshold requirement.
+
+Dissent
+Justice Sandra Day O’Connor (J. O’Connor) stated that political gerrymandering cases such as this one pose nonjusticiable questions.
+
+Discussion
+The Supreme Court seems to apply the same test, but require a lower threshold showing to establish a violation of the Equal Protection Clause in this “voter dilution” case, involving a charge of discrimination against a political party by an opposing party, than it did in City of Mobile v. Bolden, a voter-dilution case involving a charge of discrimination on the basis of race. In this case, the Supreme Court seems to apply the line of reasoning advanced by Justice John Paul Stevens (J. Stevens) in his concurring opinion in Washington v. Davis where J. Stevens wrote “[f]requently the most probative evidence of intent will be objective evidence of what actually happened rather than evidence describing the subjective state of mind of the actor.”
+

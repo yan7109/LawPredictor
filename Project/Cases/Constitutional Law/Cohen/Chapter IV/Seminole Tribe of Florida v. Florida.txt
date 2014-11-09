@@ -1,0 +1,21 @@
+Citation
+22 Ill.517 U.S. 44, 116 S. Ct. 1114, 134 L. Ed. 2d 252, 42 ERC 1289 (1996)
+
+Brief Fact Summary
+The Petitioner, the Seminole Tribe of Florida (Petitioner), sued the Respondents, the State of Florida and its Governor (Respondents), alleging that the Respondents had refused to enter into any negotiation for inclusion of gaming activities in a tribal state compact, thereby violating the requirement of good faith negotiation contained in the federal Indian Gaming Regulatory Act (the Act).
+
+Synopsis of Rule of Law
+Even when the United States Constitution (Constitution) vests in Congress complete law-making authority over a particular area, the Eleventh Amendment of the Constitution prevents congressional authorization of suits by private parties against unconsenting states. Where Congress has chosen to impose upon a state a remedial scheme specifically designed for the enforcement of that right, a judiciary scheme cannot be supplemented in its place.
+
+Facts
+The Petitioner sued the Respondents alleging that Respondents had refused to enter into any negotiation for inclusion of gaming activities in a tribal state compact, thereby violating the requirement of good faith negotiation contained in the Act. Respondents moved to dismiss the complaint, arguing that the suit violated the State’s sovereign immunity from suit in a federal court. The District Court denied Respondents motion. The Court of Appeals reversed the District Courts decision, holding that the Eleventh Amendment of the Constitution barred the Petitioner’s suit against the Respondents. The Supreme Court of the United States (Supreme Court) granted certiorari. In deciding the case the Supreme Court asked whether (1) Congress had unequivocally expressed its intent to abrogate the immunity and (2) whether Congress had acted pursuant to a valid exercise of power. The Supreme Court determined that Congress did unequivocally intend to abrogate the State’s sovereign immunity f
+
+Issue
+Does the Eleventh Amendment of the Constitution prevent Congress from authorizing suits by Indian tribes against States for prospective injunctive relief to enforce legislation enacted pursuant to the Indian Commerce Clause?<br />	Does the doctrine of Ex Parte Young permit suits against a State’s governor for prospective injunctive relief to enforce the good faith bargaining requirement of the Act?
+
+Held
+The Indian Commerce Clause does not grant Congress the power to abrogate a State’s sovereign immunity and Section:2710(d)(7) of the Act cannot grant jurisdiction over a State that does not consent to be sued.<br />	The Doctrine of Ex Parte Young may not be used to enforce Section:2710(d)(3) of the Act against a state official.<br /><br /><span class='heading'>Dissent.</span><br />	The majority’s decision to overrule Union Gas Co. precluded Congress from establishing a federal forum for not just Indian gaming regulations, but also a broad range of actions against States, from copyright and patent law to regulation of the environment. There should be no debate that the Congress has the power to ensure that such a cause of action may be brought by a citizen of the state being sued.<br />	The majority’s decision is at odds with what the framers of the Constitution intended regarding the immunity of States in such cases.<br />
+
+Discussion
+The Eleventh Amendment of the Constitution prohibits Congress from abrogating State sovereign immunity by its law-making power, except by the narrow exception of the Enforcement Clause of the Fourteenth Amendment of the Constitu
+

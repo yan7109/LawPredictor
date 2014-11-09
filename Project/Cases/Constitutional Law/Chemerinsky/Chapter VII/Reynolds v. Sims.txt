@@ -1,0 +1,21 @@
+Citation
+377 U.S. 533, 84 S. Ct. 1362, 12 L. Ed. 2d 506, 1964 U.S.
+
+Brief Fact Summary
+A districting scheme that was based on an outdated census and that had a practical effect of discriminating against voters in counties whose populations had grown proportionally far more than others since the 1900 census was held unconstitutional as a violation of equal protection by the Supreme Court of the United States.
+
+Synopsis of Rule of Law
+Equal protection requires that the seats in both houses of a bicameral state legislature be apportioned on a population basis.
+
+Facts
+This case was a challenge to the malapportionment of the Alabama legislature. The challengers claimed discrimination against voters in counties whose populations that had grown proportionally far more than others since the 1900 census. The complaints noted that the existing districting scheme was based on the1900 census, even though the state constitution required legislative representation based on population and decennial reapportionment. The lower federal court found that the old apportionment scheme, as well as two new ones devised by the legislature, violated equal protection.
+
+Issue
+Whether this districting scheme violates equal protection.
+
+Held
+Yes. Judgment of the lower federal court affirmed and remanded for further proceedings. If a state should provide that votes in one part of the state should receive more weight than votes from another part of the state, the right to vote of those in disfavored areas is diluted. With respect to the allocation of legislative representation, all voters, as citizens of the state, stand in the same relation regardless of where they live. So long as the divergences of a strict population standard are based on legitimate considerations incident to the effectuation of a rational state policy, some deviations from the equal population principle are constitutionally permissible, but neither history alone, nor economic or other sorts of group interests, are permissible factors in attempting to justify disparities from population-based representation. Further, equal protection requires that the seats in both houses of a bicameral state legislature must be apportioned on a population basis.
+
+Discussion
+Within a year of the 1962 ruling in Baker v. Carr, suits challenging state legislative apportionment schemes were instituted in over thirty states. This case answered some of the questions left open by Baker.
+

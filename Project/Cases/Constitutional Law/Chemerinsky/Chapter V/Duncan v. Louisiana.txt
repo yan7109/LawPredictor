@@ -1,0 +1,21 @@
+Citation
+391 U.S. 145, 88 S. Ct. 1444, 20 L. Ed. 2d 491, 1968 U.S.
+
+Brief Fact Summary
+The Defendant, Duncan (Defendant) was charged with simple battery and was denied a jury trial. The Defendant claimed he was denied Due Process of Law.
+
+Synopsis of Rule of Law
+The Sixth Amendment of the United States Constitution’s (Constitution) right to Jury Trial is a fundamental right and is applicable to the states pursuant to the Fourteenth Amendment of the Constitution’s Due Process Clause.
+
+Facts
+The Defendant was charged with the misdemeanor of simple battery, which was punishable up to two years in prison and with a $300 fine. The Defendant requested a jury trial and was denied it because Louisiana only provided trials for capital cases or cases with punishment of hard labor. The Defendant claimed his denial of a jury trial violated the Fourteenth Amendment Due Process Clause.
+
+Issue
+Does the Fourteenth Amendment’s Due Process Clause make the Sixth Amendment right to a jury trial applicable to the States?
+
+Held
+Yes, the Sixth Amendment right to a jury trial is applicable to the States. The Supreme Court of the United States (Supreme Court) observed that a fundamental right to a jury trial exists in criminal cases punishable by up to two years in prison. The purpose of a jury trial is to protect defendants against overzealous or corrupt prosecutors and compliant, biased or eccentric judges. However, there is no problem with the integrity of those cases resolved without a trial. Thus, a constitutional problem does not exist with accepting waivers or prosecuting petty crimes with a bench trial instead of a jury trial. The reason for that is that judicial or prosecutorial unfairness is less likely. The controlling factor is the maximum possible sentence and not the sentence the judge actually imposes. Moreover, the court does not try to establish a bright line between petty and serious crimes.
+
+Discussion
+Under the Fourteenth Amendment of the Constitution, the States may not “deprive any person of life, liberty, or property with due process of law.” Because trial by jury is fundamental to our scheme of justice it is protected by the Fourteenth Amendment’s Due Process Clause and is incorporated and applicable to the States.
+

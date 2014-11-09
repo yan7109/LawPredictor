@@ -1,0 +1,21 @@
+Citation
+22 Ill.508 U.S. 307, 113 S. Ct. 2096, 124 L. Ed. 2d 211, 21 Med. L. Rptr. 1466 (1993)
+
+Brief Fact Summary
+The Respondent, Beach Communications, Inc. (Respondent), brought suit alleging that the Cable Communications Policy Act of 1984 (the Act) violates the implied equal protection guarantee of the Due Process clause as it draws lines that are not rationally related to a conceivable purpose.
+
+Synopsis of Rule of Law
+In areas of social and economic policy, a statutory classification that neither, proceeds along suspect lines, nor, infringes fundamental constitutional rights, must be upheld against equal protection challenge if there is any reasonably conceivable state of facts that could provide a rational basis for the classification.
+
+Facts
+The Respondent, Satellite Master antenna television operators, brought suit against the Petitioner, the Federal Communication Commission (Petitioner), arguing the classification made between cable facilities in the Act violates the Due Process Clause of the Fifth Amendment. The Respondents argue there is no rational basis for distinguishing between cable facilities that serve units under common ownership and facilities that serve separately owned units. The Respondents petitioned the Court of Appeals who found that the Act violated the implied equal protection guarantee of the Due Process Clause and saw no rational basis for the distinction. The Supreme Court of the United States (Supreme Court) reversed the decision.
+
+Issue
+Whether the Due Process Clause of the 5th Amendment is violated by regulating one type of cable television facilities and not regulating another type.
+
+Held
+Reversed.
+
+Discussion
+Economic and Social Welfare laws will be upheld under the Due Process Clause of the Fifth Amendment and the Equal Protection Clause of the Fourteenth Amendment, if there is a rational basis for the classification being made by the statute.
+

@@ -1,0 +1,24 @@
+Citation
+290 U.S. 398, 54 S. Ct. 231,78 L. Ed. 413, 1934 U.S.
+
+Brief Fact Summary
+Minnesota’s Mortgage Moratorium Law, which was passed in order to grant relief to those with mortgages during the Depression, was upheld as an emergency measure despite its interference with private contracts between mortgagors and mortgagees.
+
+Synopsis of Rule of Law
+The protective power of the state, the police power, may be exercised in directly preventing the immediate and literal enforcement of contractual obligations by a temporary and conditional restraint where vital public interests would otherwise suffer.
+
+Facts
+The Minnesota Mortgage Moratorium Law of 1933 authorized relief from mortgage foreclosures and execution sales of real property during the Depression. It granted local courts authority to extend the period of redemption for foreclosure sales “for such additional time as the court may deem just and equitable but not beyond May 1, 1935.” Such extensions were conditioned upon an order requiring the mortgagor to “pay all or a reasonable part” of the fair income of rental value of the property toward the payment of taxes, insurance, interest and principal.” No deficiency judgment could be brought during such a court-extended period of redemption. The Defendants, the Blaisdells, obtained a court order under the Act extending the period of redemption on condition that they pay the Association $40 per month, thus, the court modified the lender’s contractual right to foreclose. The highest state court sustained the law as an “emergency” measure.
+
+Issue
+Whether the provision for this temporary and conditional relief exceeds the power of the state by reason of the contracts clause?
+
+Held
+No. Judgment of the highest state court affirmed. Not only is the contracts clause qualified by the measure of control which the state retains over the remedial processes, but the state also continues to possess authority to safeguard the vital interests of its people. The protective power of the state, the police power, may be exercised in directly preventing the immediate and literal enforcement of contractual obligations by a temporary and conditional restraint where vital public interests would otherwise suffer. Here, the conditions upon which the period of redemption is extended do not appear unreasonable. Therefore, the Minnesota statute does not violate the contracts clause.
+
+Dissent
+The contracts clause was meant to foreclose state action impairing the obligations of contracts — primarily and especially in respect to such action aimed at giving relief to debtors in time of emergency.
+
+Discussion
+The majority incorporates a broad interpretation of the police power in holding that a state may use its police power to impair private contracts where certain conditions are met.
+

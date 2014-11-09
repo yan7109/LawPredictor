@@ -1,0 +1,21 @@
+Citation
+277 B.R. 388, 2002 Bankr. 454,47 U.C.C. Rep. Serv. 2d (Callaghan) 1219
+
+Brief Fact Summary
+Bank of America and South Pointe Bank both claim a secured interest in three pieces of farming equipment owned by Ronald and Trenna Grabowski.
+
+Synopsis of Rule of Law
+A financing statement need not specify the property encumbered by a secured party’s lien but need merely notify subsequent creditors that a lien may exist and that further inquiry is necessary to disclose the complete state of affairs.
+
+Facts
+Bank of America filed a financing statement with the Secretary of State identifying the debtors as Ronald and Trenna Grabowski, listing their business address rather than their home address, and the collateral as “all inventory, chattel paper, accounts, equipment, and general intangibles.” South Pointe Bank subsequently filed a financing statement identifying the debtors as Ronald and Trenna Grabowski, listing their home address where the collateral was located, and specifically identifying three pieces of farming equipment as collateral. South Pointe Bank claims a superior interest in the farming equipment arguing that Bank of America’s financing statement was too general to adequately identify the collateral and misleading in that it implies the security interest was in the personal property of the Grabowskis’ business.
+
+Issue
+Whether Bank of America’s description of the collateral sufficiently notifies subsequent creditors that a lien existed on the Grabowskis’ property. Whether Bank of America’s use of the Grabowskis’ business address misled creditors into believing that the security interest was in the property of the Grabowski’s business.
+
+Held
+Yes. Bank of America’s description was sufficient to notify subsequent creditors that a lien existed on the Grabowskis’ property. No. A reasonably prudent lender would not be misled into believing that the collateral listed was property of the Grabowskis’ business rather than that of the Grabowski’s individually.
+
+Discussion
+Despite the generality of the Bank’s description it was sufficient to notify subsequent creditors that a lien existed on the property and that further inquiry was necessary to determine the extent of the lien. Further the address on the financing statement does not serve to further identify the collateral but rather provides a means by which subsequent lenders may contact the Grabowskis to inquire about the lien. The Grabowskis’ names were listed not the name of the business. Therefore a reasonably prudent lender would not have been misled into believing that the collateral listed was property of the Grabowskis’ business rather than of them individually.
+

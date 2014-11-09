@@ -1,0 +1,21 @@
+Citation
+575 F.2d 1152 (6th Cir. 1978)
+
+Brief Fact Summary
+Panduit (Plaintiff) appealed a damages award of 2½% royalty given for infringement of its electrical duct patent.
+
+Synopsis of Rule of Law
+A patent owner must receive adequate damages from the infringer to compensate for the infringement.
+
+Facts
+In 1962, Plaintiff obtained the rights to the Walch patent for covering ducts for electrical control systems.  Stahlin (Defendant) made and sold the "Lok-Slot" and "Web-Slot" ducts in 1957 and continued to do so after Plaintiff acquired the patent.  In 1969, the district court held the patent valid and infringed, enjoined Defendant from further infringement, and ordered an accounting.  In 1971, the district court held Defendant in contempt and appointed a special master to give a report on damages.  The court adopted the report, which recommended damages of $44,706.60 based on a 2½% reasonable royalty rate.  Plaintiff appealed the damages and wanted $808,003 in lost profits due to lost sales or, as an alternative, a 35% reasonable royalty rate.  Plaintiff also wanted $4,069,000 lost on its own sales due to a price cut by Defendant.
+
+Issue
+Must a patent owner receive adequate damages from the infringer to compensate for the infringement?
+
+Held
+(Markey, C.J.)  Yes.  A patent owner must receive adequate damages from the infringer to compensate for the infringement.  The question is:  had the infringer not infringed, what would the patentee have made?  To obtain lost sales, a patent owner must prove: (1) a demand for the patented product, (2) absence of acceptable substitutes that do not infringe, (3) capability to take advantage of the demand, and (4) the amount of profit he would have made.  Plaintiff established elements 1 and 3, and the court erred in holding Plaintiff did not establish element 2.  However, Plaintiff was missing evidence on its fixed costs, therefore element 4 was not satisfied.  The district court's denial of lost sales is affirmed.  When lost profits cannot be proven, as in this case, the patent owner is entitled to a reasonable royalty.  A reasonable royalty is an amount that a person desiring to make and sell the product would be willing to pay as a royalty and yet be able to make a profit.  The special master made several mistakes in coming up with this figure.  The following factors should have been considered: (1) the lack of acceptable non-infringing substitutes, (2) Plaintiff's unvarying policy of not licensing the patent, (3) the future business and profit Plaintiff would expect to lose by licensing a competitor, and (4) the fact that the infringed patent gave the whole market to Plaintiff.  Reversed and remanded.
+
+Discussion
+The four-part test of Panduit has been referred to by its acronym, the DAMP test.  However, it is not the exclusive test for determining whether lost profits should be awarded.  Lost profits may also be inferred from lost revenues in situations where the patent holder and the infringer are the only entities supplying the product.  Since lost profits were not available in this case, Plaintiff also sought a reasonable royalty, which is not unusual.  Although typically a reasonable royalty is less than lost profits, it is not always the case.
+

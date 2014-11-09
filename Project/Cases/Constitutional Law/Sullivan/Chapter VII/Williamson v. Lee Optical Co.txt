@@ -1,0 +1,21 @@
+Citation
+348 U.S. 483, 75 S. Ct. 461, 99 L. Ed. 563, 1955 U.S.
+
+Brief Fact Summary
+An Oklahoma law that prevented persons who were not licensed optometrists or ophthalmologists from fitting lenses for eyeglasses was unsuccessfully challenged under the Due Process Clause because it prevented opticians (artisans qualified to grind lenses, fill prescriptions and fit frames) from doing much of the work that they used to do. The law also banned advertising eyeglasses frames.
+
+Synopsis of Rule of Law
+A state law must be reasonably and rationally related to the health and welfare of the public to fall under a state’s Police Powers. It must also not be an arbitrary or discriminatory law.
+
+Facts
+An Oklahoma law prevented persons who were not licensed optometrists or ophthalmologists from fitting lenses for eyeglasses. Non-licensed individuals were also prohibited from duplicating optical instruments without written prescriptions from licensed ophthalmologists. The Lee Optical Company challenged the law. The District Court struck down the law holding that the law was violative of the Due Process Clause because “[A]lthough [the legislature] was dealing with a matter of public interest, the particular means chosen are neither reasonably necessary nor reasonably related to the end sought to be achieved.”
+
+Issue
+Whether the Oklahoma law violates the Due Process Clause of the Constitution.
+
+Held
+No. Judgment reversed. The Oklahoma law may exact a needless, wasteful requirement, but it is for the legislature, not the courts, to balance the advantages and disadvantages of the new requirement. It is enough that there is an evil at hand for correction and that this particular measure is a rational way to correct it. The day is gone when the Court uses the Due Process Clause to strike down state laws, regulatory of business and industrial conditions, because they may be unwise, improvident, or out of harmony with a particular school of thought. The provision banning advertisements of frames does not violate the substantive due process because a state may treat all who deal with the human eye as members of a profession who should use no merchandizing methods for obtaining customers.
+
+Discussion
+The unanimous Court withdraws from review of economic legislation thereby limiting the right of individuals to practice their profession.
+

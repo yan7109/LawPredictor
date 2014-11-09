@@ -1,0 +1,21 @@
+Citation
+506 U.S. 224, 113 S. Ct. 732, 122 L. Ed. 2d 1 (1993)
+
+Brief Fact Summary
+Walter Nixon (P) was a federal judge who was impeached by the House and convicted by the Senate on bribery charges. He challenged his impeachment based on the procedures used by the Senate.
+
+Synopsis of Rule of Law
+The Senate Impeachment Clause in the Constitution makes clear that “the Senate shall have sole power to try all Impeachments”. Thus, this is a political question and not reviewable by the Court.
+
+Facts
+Plaintiff was charged with bribery and convicted by the Senate. The House later impeached him. P argued that the Senate had used a committee of Senators to hold hearings on the bribery accusations. This committee reported their findings to the full Senate and they voted by majority to convict him. P claimed that the Constitution requires the Senate to try all impeachments and therefore because only a Committee reviewed the evidence instead of the entire Senate, the Senate had not followed proper procedure.
+
+Issue
+Is this a justiciable issue that the Supreme Court can review?
+
+Held
+No. This is not a justiciable issue, but instead is a political question. The Senate had the sole power to determine what kind of trial procedure they use to review evidence in impeachment cases as granted to them via the Constitution.
+
+Discussion
+If the Constitution clearly states that an issue is committed to another branch of government, then the Supreme Court will treat it as a non-justiciable political question.
+

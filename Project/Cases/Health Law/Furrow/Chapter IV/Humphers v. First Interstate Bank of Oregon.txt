@@ -1,0 +1,21 @@
+Citation
+Or. Sup. Ct., 298 Or. 706, 696 P.2d 527, en banc (1985)
+
+Brief Fact Summary
+Humphers (Plaintiff) sought to hold the estate (Defendant) of the late Mackey, a doctor, liable for revealing information which allowed the daughter she gave up for adoption at birth to find her.
+
+Synopsis of Rule of Law
+A doctor may be held liable for damages for revealing information about a patient that allowed her adopted-out daughter to find her.
+
+Facts
+Mackey was the attending doctor when Humphers (Plaintiff), then known as Elwess, gave birth to a baby girl.  The next day the baby was given up for adoption.  Twenty-one years later, the daughter sought out Mackey.  With his help, the daughter was able to gain access to the sealed adoption papers.  She was then able to locate Plaintiff, and Plaintiff was upset about this.  Mackey had died since then, so Plaintiff filed a lawsuit against his estate (Defendant), administered by First Interstate Bank (Defendant), seeking damages under various theories.  On all counts the trial court sustained Defendant's demurrer.  The court of appeals reversed on two counts based, respectively, on invasion of privacy and breach of contractual obligation of secrecy.  The Oregon Supreme Court granted review.
+
+Issue
+May a doctor be held liable for damages for revealing information about a patient that allowed the patient's adopted-out daughter to find her?
+
+Held
+(Linde, J.)  Yes.  A doctor may be held liable for damages for revealing information about a patient that allowed her adopted-out daughter to find her.  Under the theory of a general invasion of privacy, this is not so.  This court does not believe that merely knowing facts about a person's location and telling them to another constitutes an invasion of privacy.  However, matters are different regarding a physician's obligations to keep confidences.  Oregon Revised Statute § 677.190(5) imposes a duty on a doctor to keep confidences, or face loss of license or other disciplinary action.  Allowing a civil action for violation of this duty is not illogical.  Beyond this, other laws and regulations require that adoption records are kept confidential.  For these reasons, a failure to keep such confidences may result in tort liability.  Affirmed in part, reversed in part, and remanded.
+
+Discussion
+Billions of medical records exist in the United States.  For any number of reasons, parties other than the patient may wish to gain access to the patient's records.  All records are protected from scrutiny at some level.  Generally, at the very least, a subpoena must be obtained for access.  To access particularly sensitive records, relating to substance abuse or sexual matters for instance, a court order will often be required.
+

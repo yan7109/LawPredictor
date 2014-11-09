@@ -1,0 +1,21 @@
+Citation
+Cal. Sup. Ct., 5 Cal. 4th 1172, 858 P.2d 598 (1993)
+
+Brief Fact Summary
+Arato died from pancreatic cancer, and his family (Plaintiff) sued his doctors (Defendants), claiming that the doctors had not given Arato enough information regarding his life expectancy so that he could make an informed choice regarding proposed medical treatment.
+
+Synopsis of Rule of Law
+A doctor has a legal duty to disclose all material information to a patient so the patient may make an informed decision regarding the suggested operation or treatment.
+
+Facts
+Physicians found a tumor on Arato's (Plaintiff) pancreas during surgery.  Removal of the tumor followed by a pathological examination confirmed the tumor was malignant.  Chemotherapy and radiation therapy were advised by oncology doctors, including Avedon (Defendant).  The Aratos (Plaintiffs) were told that most victims of pancreatic cancer die of the disease and that if the cancer were to return, Plaintiff's condition would be considered incurable. Plaintiff was not informed, however, of specific statistical mortality rates.  Following Arato's (Plaintiff) death, his wife (Plaintiff) brought suit against the physicians claiming they had not adequately disclosed information necessary for Plaintiff's informed consent for his treatment and that he otherwise would have declined the treatment and spent his final days occupied otherwise.  The jury found for Avedon (Defendant) and the other doctors (Defendants).  The court of appeals reversed.  The doctors appealed.
+
+Issue
+Does a doctor have a legal duty to disclose all material information to a patient so the patient may make an informed decision regarding the suggested operation or treatment?
+
+Held
+(Arabian, J.)  Yes.  A doctor has a legal duty to disclose all material information to a patient so the patient may make an informed decision regarding the suggested operation or treatment.  However, it is not necessary to mandate that doctors disclose specific life expectancy probabilities to every patient.  In addition, a doctor is obligated to not misrepresent the nature of a patient's medical condition, but is not obligated to disclose every possibility that might affect the nonmedical rights and interests of the patient.  A physician is not the patient's financial adviser.  As a matter of law, Plaintiff's wish to be told the truth does not in itself increase the duty of disclosure imposed on doctors.  Reversed and remanded with instructions to affirm the judgment of the trial court.
+
+Discussion
+A patient's freedom to exercise control over his or her own body is protected by the disclosure requirement of the informed consent doctrine.  This principle of self-determination includes all aspects of medical decision-making by the competent patient.  However, statistical morbidity values taken from population groups offer little assurance regarding the fate of the individual patient as they are inherently unreliable.
+

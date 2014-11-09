@@ -1,0 +1,21 @@
+Citation
+137 F.3d 398 (6th Cir. 1998)
+
+Brief Fact Summary
+Mauro (Plaintiff) claimed that he had been the victim of unlawful discrimination when Borgess Medical Center (Defendant) laid him off after finding out he was infected with the human immunodeficiency virus (HIV).
+
+Synopsis of Rule of Law
+An individual with an infectious disease who poses a significant risk of communicating an infectious disease to others in the workplace is not otherwise qualified to perform the job.
+
+Facts
+Mauro (Plaintiff) was employed as an operating room technician at Borgess Medical Center (BMC) (Defendant) when someone called Defendant stating that Plaintiff had full-blown AIDS.  Due to the fear of exposure, Plaintiff, who was HIV positive, was offered a new position.  Plaintiff rejected the new position and was laid off.  Plaintiff then filed suit, claiming discrimination under § 504 of the Rehabilitation Act and the Americans with Disabilities Act (ADA).  The district court found that Plaintiff's continued employment as a surgical technician posed a direct threat to the health and safety of others and granted Defendant's motion for summary judgment.  Plaintiff appealed.
+
+Issue
+Is an individual with an infectious disease who poses a significant risk of communicating an infectious disease to others in the workplace otherwise qualified to perform the job?
+
+Held
+(Gibson, J.)  No.  An individual with an infectious disease who poses a significant risk of communicating an infectious disease to others in the workplace is not otherwise qualified to perform the job.  The "direct threat" standard applied in the ADA is based on the same standard as "significant risk" applied by the Rehabilitation Act.  Courts defer to the reasonable medical judgments of public health officials in determining whether HIV-positive health care workers pose a significant risk or a direct threat in performing necessary functions of their jobs.  The Center for Disease Control has released a report recommending health care institutions to determine which procedures are exposure-prone and recommends that HIV-infected health care workers not perform those functions.  In this case, Plaintiff's supervisor explained that a surgical technician may be asked to assist in the performance of a surgical procedure, though this is a rare occurrence.  The district court did not err in determining that Plaintiff's continued employment posed a direct threat to others in the workplace.  Affirmed.
+
+Discussion
+In this case, the surgical worker had to qualify as a disabled person in order to rely on the ADA or the Rehabilitation Act.  Asymptomatic HIV was held to be an impairment because it significantly limited a major life function, that of reproduction.  The Center for Disease Control's guidelines have been criticized for not providing more specific information in reference to which activities are "exposure-prone."
+

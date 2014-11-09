@@ -1,0 +1,24 @@
+Citation
+340 U.S. 349, 71 S. Ct. 295, 95 L. Ed. 329 (1951)
+
+Brief Fact Summary
+The City of Madison, Wisconsin passed a law stating that milk had to be supplied from a producer located within twenty-five miles of the city and pasteurized within five miles of the city. Dean Milk sued when they were denied a license to sell their products within Madison because their pasteurization plants were more than five miles away.
+
+Synopsis of Rule of Law
+Even if a statute is facially non-discriminatory, the court can find that it discriminates in practice by imposing a burden on interstate commerce which outweighs local benefits. Even if the state is acting in self-protection of health and safety within its borders it may not regulate interstate commerce unless such regulation is absolutely necessary to protect such health and safety. The court will often inquire into alternative means that are less restrictive on interstate commerce but allow the state to achieve the same goal.
+
+Facts
+The City of Madison, Wisconsin had a law stating that milk had to be processed and bottled at an approved pasteurization plant within five miles of the central square of Madison. Another section said the milk had to be produced within a twenty-five mile radius. The purpose of the ordinance was to promote convenient, economical and efficient plant inspection. The plants in the five-mile radius and farms in the twenty-five mile radius were inspected once a month. Dean Milk collected milk from 900 farms outside the twenty-five mile radius, and processed the milk about sixty-five miles away from Madison. They were denied a license to sell their products within Madison because their pasteurization plants were more than five miles away.
+
+Issue
+Was the Madison statute regulating the sale of milk unconstitutional because it placed too great a burden on interstate commerce and was not the least restrictive means of meeting its safety goal?
+
+Held
+Justice Clark’s opinion: Yes. Supreme Court of Wisconsin judgment reversed as to the five mile radius limitation and vacated and remanded for the twenty five mile limitation.
+
+Dissent
+Justice Black, Douglas and Minton.
+
+Discussion
+Originally, Dormant Commerce Clause decisions only struck down laws that were blatantly discriminatory against out-of-state economic interests. This case, which dealt with a facially neutral statute, placed a greater emphasis on the requirement that a state use the least restrictive means available when creating laws that favor local businesses.
+

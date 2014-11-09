@@ -1,0 +1,21 @@
+Citation
+5 U.S. 137, 1 Cranch 137, 2 L. Ed. 60 (1803)
+
+Brief Fact Summary
+William Marbury (Marbury) requested the Supreme Court of the United States (Supreme Court) to issue a Writ of Mandamus ordering the President, Thomas Jefferson (Jefferson) to appoint him Justice of the Peace.
+
+Synopsis of Rule of Law
+The Supreme Court has judicial review over acts of Congress. This power allows the Supreme Court to declare those acts that fall outside the legislature’s enumerated powers unconstitutional.
+
+Facts
+William Marbury was named Justice of the Peace for the District of Columbia. This appointment was part of a series of last minute appointments by President John Adams (Adams) before the end of his administration. The incoming Jefferson Administration chose not to honor those appointments because formal commissions had not been delivered by the end of Adam’s term. Marbury petitioned the Supreme Court for a Writ of Mandamus ordering his appointment by the Jefferson Administration.
+
+Issue
+Does Marbury have a right to the appointment he demands?
+
+Held
+Marbury has a right to resort to the protection of the law and a writ of mandamus is an appropriate action. However, the Supreme Court does not have original jurisdiction over this matter.
+
+Discussion
+Judicial review is not a power expressly granted to the Supreme Court in the United States Constitution (Constitution). The Supreme Court has determined it has the power to review acts of the other branches of government to determine their constitutionality and to overrule those acts that fall outside of the powers granted within the Constitution.
+

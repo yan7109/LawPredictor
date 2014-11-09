@@ -1,0 +1,21 @@
+Citation
+663 N.E.2d 547, 1996 Ind. App. 414
+
+Brief Fact Summary
+Modern Photo Offset Supply, (Appellant), brought suit against The Woodfield Group and Repro Image, Ltd. for payment on a debt and Richard C. MacGill, (MacGill), as guarantor of that debt. Appellant appeals summary judgment in favor of MacGill.
+
+Synopsis of Rule of Law
+Words used in a contract are to be given their usual and meaning unless, from the entire contract and the subject-matter thereof, it is clear that some other meaning was intended. Specific terms of a contract supercede general unspecific references.
+
+Facts
+Appellant, a printing and photographic products supplier, extended Woodfield Group, a printing company, credit to purchase various supplies. Woodfield Group accumulated a series of credit purchases without corresponding payment. Appellant secured a personal guaranty from MacGill, president of the Woodfield Group in exchange for continuing to extend the Woodfield Group credit. Subsequently, MacGill sold substantially all of the Woodfield Group’s assets to Repro Image, Ltd. and became its employee.  Repro Image, Ltd. agreed to assume the balance of the Woodfield Group’s debt to Appellant. Appellant agreed to accept payment from Repro Image, Ltd.  in connection with monies owed by the Woodfield Group and extended credit to Repro Image, Ltd. The relationship quickly deteriorated and Appellant filed suit.
+
+Issue
+Whether MacGill was discharged from his liability pursuant to his personal guaranty.
+
+Held
+No. MacGill agreed to unconditionally and absolutely guarantee payment to Appellant for goods purchased by the Woodfield Group and Appellant did not release him from liability.
+
+Discussion
+According to the guaranty, MacGill agreed to unconditionally and absolutely guarantee payment to Appellant for goods purchased by the Woodfield Group. MacGill further agreed to Appellant’s taking of other guarantors without notifying him and without any affect to his liability under the guarantee. Likewise the agreement between Repro Image, Ltd and Appellant expressly provides that it does not release the Woodfield Group or MacGill from liability. The subsequent reference to Repro Image, Ltd.’s assumption of the debt is unspecific and general and therefore the specific term denying any release supercedes it.
+

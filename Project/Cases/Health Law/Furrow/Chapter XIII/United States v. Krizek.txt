@@ -1,0 +1,21 @@
+Citation
+859 F. Supp. 5 (D.D.C. 1994)
+
+Brief Fact Summary
+The Government (Plaintiff) claimed that Krizek (Defendant), a psychiatrist, overbilled and submitted false Medicare and Medicaid claims.
+
+Synopsis of Rule of Law
+The False Claims Act is violated when Medicare bills are submitted with reckless disregard as to their truth.
+
+Facts
+Dr. Krizek (Defendant) worked as a psychiatrist treating elderly and poor Medicare and Medicaid patients.  His wife (Defendant) was responsible for overseeing the billing operations.  Mrs. Krizek (Defendant) used the billing code for a full forty-five to fifty-minute psychotherapy session whenever Krizek (Defendant) saw a pateient, regardless of whether Defendant had actually spent that much time working on the case.  The result of this system, or nonsystem, was that bills were submitted for time that Defendant could not possibly have spent working.  The Government (Plaintiff) filed suit under the False Claims Act, claiming that Defendant had overbilled for Medicare payments.
+
+Issue
+Is the False Claims Act violated when Medicare bills are submitted with reckless disregard as to their truth?
+
+Held
+(Sporkin, J.)  Yes.  The False Claims Act (the Act) is violated when Medicare bills are submitted with reckless disregard as to their truth.  The Act provides that persons are liable to the government for damages and additional fines if they knowingly present fraudulent claims to the government.  The mental state required for liability is either reckless disregard for the truth of the information, actual knowledge, or acting in deliberate ignorance of the truth.  The Act was not intended to apply to mere negligence, but does apply to situations considered gross negligence.  In this case, Dr. Krizek (Defendant) submitted claims for payment when he did not provide services for the amount of time billed.  The record shows that the submissions were made after Mrs. Krizek (Defendant) had made no effort to establish how much time was actually spent.  Dr. Krizek (Defendant) himself made no effort to supervise the claims submissions.  Dr. Krizek (Defendant) was not only negligent, he showed reckless indifference regarding the truth of the submissions, in violation of the False Claims Act.  Dr. Krizek (Defendant) will be held presumptively liable for claims that exceed nine hours in a single day.  Each party may present specific evidence to disprove this presumption.  In addition, until his billing practices are corrected, Dr. Krizek (Defendant) is enjoined from further participation in Medicare.
+
+Discussion
+The decision also dealt with the Government's (Plaintiff) argument that doctors were not entitled to bill for a full forty-five to fifty-minute session when they did not actually treat or talk to the patient for that length of time, even though they did spend that much time on the case.  The court rejected this argument and held that doctors may reasonably bill for all the time they actually spend working to treat a patient.  The court also noted that the amounts paid to doctors were minimal under the Medicare and Medicaid plans and could result in poor and elderly patients receiving inadequate care.  Also, the court pointed out several problems it observed with the government's procedures controlling reimbursement that could potentially lead to abuse of the system or lead to Medicare and Medicaid recipients being excluded by the physicians from the clientele of their practice.  These observations included: (1) no distinction as to the status of the provider so that any person providing a coded service—physician or assistant—received equal reimbursement; (2) Medicaid and Medicare reimbursement so dramatically below the normal charges that a practitioner could not support a medical practice on such payments and therefore might decline to treat patients dependent on these reimbursement systems; (3) restrictions limiting billing to "face time" only is impractical as study, research and consultation are necessarily involved in the provision of services; and (4) the deceitful practice of requiring separate codes for services when only reimbursing for one of a multitude of services provided.  The court added that it hoped the Health Care Financing Administration (HCFA) would reexamine and make improvements to its reimbursement practices.
+

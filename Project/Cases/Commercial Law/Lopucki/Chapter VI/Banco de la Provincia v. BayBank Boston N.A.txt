@@ -1,0 +1,21 @@
+Citation
+985 F. Supp. 364, 1997 U.S. Dist. 17124,33 U.C.C. Rep. Serv. 2d (Callaghan) 964
+
+Brief Fact Summary
+Banco de la Provincia, (Plaintiff) seeks declaratory judgment that on April 1995 it had the right to set-off against the funds in Banco Feigin’s account with Plaintiff and that this right was superior to any right BayBank Boston N.A., (Defendant) may have had as the bank maintaining an account of Banco Feigin to which Banco Feigin had requested its funds sent. Plaintiff moves for summary judgment.
+
+Synopsis of Rule of Law
+A bank may not exercise bad faith or abuse its discretion in deciding whether to accept or reject payment orders.
+
+Facts
+Plaintiff is a bank incorporated in the Republic of Argentina. Plaintiff extended a loan of $250,000 to Banco Feigin S.A., an Argentine bank and disbursed the funds into Banco Feigin’s account with Plaintiff. In March of 1995 the Central Bank of Argentina commenced an Intervention, an inquiry into the solvency of a bank, and ultimately revoked Banco Feigin’s authorization to operate as a bank under Argentine law. In light of these circumstances, Plaintiff placed an administrative freeze on Banco Feigin’s account. At the time the account consisted solely of proceeds from Plaintiff’s loan in the amount of $245,529.55. Banco Feigin requested a wire transfer of these funds to its account with Defendant intending to use the funds to satisfy debts owed to Defendant. Plaintiff received the request but did not accept the payment order or transfer the funds because of the freeze on Banco Feigin’s account and Plaintiff’s then existing right of set-off resulting from the Intervention.
+
+Issue
+Whether Plaintiff properly rejected the payment order under U.C.C. 4-A-209. Whether Defendant can sustain a cause of action for conversion.
+
+Held
+Yes. Plaintiff’s rejection of the payment order was reasonable. No. Defendant’s conversion claim fails because it had no ownership interest in the funds and Plaintiff did not intend to deprive Defendant of the property.
+
+Discussion
+Plaintiff’s rejection was neither an abuse of discretion nor bad in bad faith. At the time the Central Bank of Argentina had suspended Banco Feigin’s banking activities as part of an Intervention. Moreover, Banco Feigin’s debt to Plaintiff exceeded the balance in the account. Under those circumstances, it was not unreasonable for Plaintiff to refuse to wire the entire balance of the account to Defendant.
+

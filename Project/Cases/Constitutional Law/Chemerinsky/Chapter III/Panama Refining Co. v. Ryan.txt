@@ -1,0 +1,21 @@
+Citation
+293 U.S. 388, 55 S. Ct. 241, 79 L. Ed. 446, 1935 U.S.
+
+Brief Fact Summary
+Congress delegated to the President of the United States (the President) the power to restrict or prohibit the interstate and foreign transport of petroleum.
+
+Synopsis of Rule of Law
+It is a violation of the separation of powers doctrine for Congress to delegate law-making authority to the President without imposing standards or rules limiting that authority.
+
+Facts
+Congress enacted a provision of the National Industrial Act (NIRA) that gave the President the power to prohibit the transportation of petroleum products in excess of the amount permitted by state law. Based on this provision, the President made an Executive Order enacting such a prohibition. The Plaintiff, Panama Refining Co. (Plaintiff) brought suit to enjoin the Defendants, certain government officials (Defendant), from enforcing the Executive Order. The District Court granted a permanent injunction against enforcement, but the Court of Appeals reversed.
+
+Issue
+May Congress delegate unrestricted law-making authority to the President?
+
+Held
+No, congressional delegation of power to the executive branch must be specific and limited. The NIRA did not include any policy guidelines for prohibiting or not prohibiting the transportation of petroleum production in excess of state allowances. The President was granted unfettered discretion. Congress let the matter to him “to be dealt with as he pleased.” Under the United States Constitution (Constitution) Congress is not allowed to abdicate or transfer its essential legislative powers.
+
+Discussion
+Congress simply left the matter to the President (in deciding the circumstances and conditions under which the transportation of petroleum products should be prohibited) without setting standards or rules to be followed. Congress cannot delegate to others the essential legislative functions with which it was vested. If the Supreme Court of the United States (Supreme Court) were to hold the legislation valid, Congress would be free to delegate authority at will to the President, another officer, or an administrative body. The delegation of authority was unlawful and invalid.
+

@@ -1,0 +1,21 @@
+Citation
+760 F.2d 68 (3d Cir.), cert. denied, 474 U.S. 988 (1985)
+
+Brief Fact Summary
+Greber (Defendant), a specialist, compensated referring physicians in an excessive amount for the work performed by such physicians, with the intention of encouraging future referrals.
+
+Synopsis of Rule of Law
+A payment to a referring physician is illegal if it is done to encourage future referrals, even if the payment is compensatory.
+
+Facts
+Greber (Defendant) was an osteopathic physician board certified in cardiology.  He organized a company, Cardio-Med, Inc., to provide diagnostic services.  Cardio-Med billed Medicare for some of the services.  The Government (Plaintiff) eventually charged Defendant with Medicare fraud in violation of 42 U.S.C. § 1395nn(b)(2)(B), and mail fraud.  The charges stemmed from Cardio-Med's practice of paying kickbacks from Medicare funds to referring physicians in order to obtain future referrals.  Defendant argued that the payments were for work performed by the physicians and that future referrals were only one purpose of the payments.  Defendant was convicted, and he then appealed.
+
+Issue
+Is a payment to a referring physician illegal if it is done to encourage future referrals, even if the payment is compensatory?
+
+Held
+(Weis, J.)  Yes.  A payment to a referring physician is illegal if it is done to encourage future referrals, even if the payment is compensatory.  Section 1395nn(b)(2) provides that anyone who knowingly and willfully offers any remuneration to induce the recipient thereof to arrange for such service shall be guilty of a felony.  This section clearly provides that, when Medicare is involved, no payment of any kind, either gratuitous or compensatory in nature, can be used to secure a referral.  For a violation to occur, the referral only needs to be a factor, not merely the only reason for the payment.  In this case, that is how the jury was charged, so no error occurred.
+
+Discussion
+Earlier versions of § 1395nn(b)(2) only prohibited "kick-backs."  The term "kickback" is somewhat imprecise; some courts interpreted it as referring only to gratuitous payments. The word "remuneration" was added in 1982, with the intent to cover compensatory payments made to secure referrals.
+

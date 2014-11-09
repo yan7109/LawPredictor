@@ -1,0 +1,24 @@
+Citation
+22 Ill.463 U.S. 1032, 103 S. Ct. 3469, 77 L. Ed. 2d 1201 (1983)
+
+Brief Fact Summary
+David Long was convicted for possession of marijuana found by police in the passenger compartment and trunk of the automobile that he was driving. Long filed a motion to suppress the marijuana taken from his vehicle.
+
+Synopsis of Rule of Law
+If there is not a plain statement that a lower state court’s decision rests upon adequate and independent state grounds and when the state appears to have rested its decision primarily on federal law, the Supreme Court will assume that the decision is in fact based on federal law.
+
+Facts
+David Long was convicted for possession of marijuana found by police in the passenger compartment and trunk of the automobile that he was driving. The police searched the passenger compartment because they had reason to believe that the vehicle contained weapons potentially dangerous to the officers. The police argued the search was conducted to protect the officers and any nearby citizens. The Michigan Supreme Court held that the search was not justified and suppressed the evidence. The State of Michigan appealed this decision to the Supreme Court.
+
+Issue
+If there is not probable cause for arrest, can a protective search for weapons extend to an area beyond the person?
+
+Held
+The United States Supreme Court (Supreme Court) reversed the decision of the Michigan Supreme Court. The Supreme Court held that the protective search of the passenger compartment was reasonable under principles that the Supreme Court created in a prior case, Terry v. Ohio, (392 U.S. 1 (1968)). In Terry, the Supreme Court held that there was a valid protective search for weapons in the absence of probable cause to arrest because it was unreasonable to deny a police officer the right “to neutralize the threat of physical harm,” when the officer possesses a reasonable suspicion that an individual is armed and dangerous. In Terry, the Supreme Court only permitted a search of the person. In this case, the Supreme Court holds that the principles outlined in Terry also apply to the passenger compartment and trunk of a vehicle if the officer has a reasonable suspicion that a person may be armed and dangerous.
+
+Dissent
+The suit was brought as a potential violation of not only the Fourth Amendment of the United States Constitution (Constitution), but also as a violation of certain provisions in the Michigan Constitution. Thus, the Supreme Court should have recognized that independent and adequate state grounds existed for the Michigan Supreme Court’s decision. The Michigan opinion sufficiently stated that independent and adequate state grounds existed for its decision, and did not rely almost exclusively on federal law as the majority here held.
+
+Discussion
+A state’s highest court has every right to interpret its constitution differently from the United States Constitution, but must clearly state that it is interpreting its own constitution or the United States Supreme Court might assume that it is interpreting the federal constitution if such a conclusion is plausible.
+

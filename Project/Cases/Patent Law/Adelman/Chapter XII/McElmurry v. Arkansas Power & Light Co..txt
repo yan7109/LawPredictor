@@ -1,0 +1,21 @@
+Citation
+995 F.2d 1576 (Fed. Cir. 1993)
+
+Brief Fact Summary
+While working at AP & L (Defendant), Bowman invented a level detector, but the assignee of the patent, White River Technologies (Plaintiff), claimed that Defendant could not hire others to install the invention.
+
+Synopsis of Rule of Law
+To determine whether an employer has "shop rights" to patented subject matter, the circumstances as a whole must be considered and whether principles of equity and fairness demand a finding that a "shop right" exists.
+
+Facts
+To determine whether an employer has "shop rights" to patented subject matter, the circumstances as a whole must be considered and whether principles of equity and fairness demand a finding that a "shop right" exists.
+
+Issue
+Does determination of whether an employer has "shop rights" require a look at the circumstances as a whole on a case-by-case basis to determine whether principles of equity and fairness demand such a finding?
+
+Held
+(Rich, J.)  Yes.  Determination of whether an employer has "shop rights" requires a look to the circumstances as a whole on a case-by-case basis to determine whether principles of equity and fairness demand a finding that a "shop right" exists.  Courts vary between labeling shop rights a type of implied license, a form of equitable estoppel, or a combination of both.  It is closer to a combination and the correct test is as stated.  One should look to factors such as the circumstances surrounding the development of the invention and the inventor's activities to determine whether fairness and equity demand the employer be allowed to use that invention in his business.  There is no reason for reversal since the district court used the correct analysis.  Defendant acquired a "shop right" to the patented level detector, but Bowman still retains the right to exclude all others besides Defendant.  Affirmed.
+
+Discussion
+Without a contract stating otherwise, the general rule is that an independent discovery is the employee's unless he was acting within the scope and purpose of his employment at the time.  The "shop right" is the exception, and it was a remedy created at common law.  However, it applies to the employer only; others are not allowed free use of the invention.  Bowman argued that Defendant's dissemination of the detector information rendered his invention worthless.  But this is not infringement, as pointed out by the court, and companies other than Defendant are not free to install the detector without consent of Plaintiff.
+

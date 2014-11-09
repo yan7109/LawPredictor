@@ -1,0 +1,21 @@
+Citation
+203 A.D.2d 278, 609 N.Y.S.2d 665, 1994 N.Y. App. Div. 3735, 24 U.C.C. Rep. Serv. 2d (Callaghan) 205
+
+Brief Fact Summary
+The Woods, (Appellees) brought suit against State Bank of Long Island, (Appellant), for failure to honor a letter of credit. The Supreme Court of New York found that Appellees complied in all respects with the letter of credit and granted summary judgment in their favor. Appellant appeals this decision.
+
+Synopsis of Rule of Law
+Letters of credit are to be strictly complied with and the bank or trust company has no discretion to waive any of these requirements.
+
+Facts
+Appellees entered into a contract for Jacklyn Construction Corp., (Jacklyn) to purchase Appellees’ real property. As part of the contract, Jacklyn was to make a nonrefundable payment to Appellees. In contemplation of this payment, Jacklyn caused Appellant to open a clean irrevocable letter of credit in favor Appellees’ attorney.  The letter of credit required a sight draft making reference to credit number 1147 and a sworn statement by Plaintiffs’ attorney stating that Jacklyn willfully failed to close title in accordance with certain provisions in the contract. The attorney submitted a sight draft without reference to the credit number and an affidavit that referenced the credit number and demanded payment pursuant to the contract of sale. The Supreme Court of New York found that Appellees complied with the letter of credit and granted summary judgment in their favor.
+
+Issue
+Whether Appellant properly refused to honor the letter of credit.
+
+Held
+Yes. Appellant properly refused to honor the letter of credit because Appellees’ attorney failed to comply precisely with the letter of credit.
+
+Discussion
+Appellees’ attorney was required to present a sight draft mentioning credit number 1147 accompanied by a certification that Jacklyn had “willfully failed to close title in accordance with the provisions of the contract.” He failed to comply precisely with the letter of credit. Substantial compliance is not enough; strict compliance is required.
+

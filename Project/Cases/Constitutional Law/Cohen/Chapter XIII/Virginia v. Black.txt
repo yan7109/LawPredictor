@@ -1,0 +1,27 @@
+Citation
+538 U.S. 343 (2003)
+
+Brief Fact Summary
+Black (D) was convicted under Virginia’s (P) cross-burning statute. He argued that it was an unconstitutional law because under it any cross-burning was treated as prima facie evidence of the intention to create fear in another.
+
+Synopsis of Rule of Law
+If a state’s cross-burning statute treats any such incident as being on the face of it an intention to intimidate another, it violates the constitution.
+
+Facts
+Black (D) was prosecuted because of burning a cross, and convicted of the same by a jury, under the cross-burning statute of Virginia (P) which bans cross burning with the object of creating fear in a person or a group. Such an action is taken to be evidence, prima facie, of such an intention, under a section of the law. The Virginia Supreme Court upheld the decision and Black (D) appealed.
+
+Issue
+Is the provision in this or any other state’s cross-burning statute unconstitutional in viewing any such incident as prima facie evidence of having an intention to create fear in, or a threat to another person or group?
+
+Held
+(O’Connor, J.) Yes. A provision in a cross-burning statute of any state which declares that an incident of this nature is an expression of the intent to threaten or otherwise cause fear in another person or group is a violation of the constitution. The burning of a cross is always a hate symbol, though it may sometimes also include the idea of threat. The threat may at times be the predominant message. The consistent view of the Supreme Court on intimidatory speech has been that the government has the authority to control some classes of expression if the constitution so calls for it, and also that intimidation is a type of real threat if the word is used in the sense that the constitution prohibits. In this sense, Virginia may prohibit the burning of a cross done with the intent to threaten because it is a very deadly threat. This is not a violation of the First Amendment’s guarantee of free speech. Even more, Virginia has the freedom to choose to enact laws against this particular form of intimidation instead of against all intimidatory speech, just because cross-burning has a long history of being followed soon afterward by violence. But in the statute under consideration, the provision is that any burning of a cross is obvious evidence that there is an intent to threaten a group or individual. This in fact removes the reason for the state to ban cross-burning as a sign of threat. With this provision the jury may straightaway convict the defendant of the offense in any case where the defendant chooses not to offer a defense, as is his right under law, instead of having to weigh the evidence before them in the light of the law. Such a provision would therefore create a very high possibility that a citizen’s ideas would be suppressed instead of expressed, by the probability of conviction. It is necessary to separate the expression of anger or hatred from the expression of an intent to cause harm or threat as the ground of lawful conviction. The First Amendment does not allow feelings to be interpreted as an intent to perform unlawful actions. The decision is affirmed and the case remanded.
+
+Dissent
+(Thomas, J.) The mistake made by the majority is in interpreting an activity as an expression. In the U.S. cross-burning has almost without exception come to mean activity outside the pale of law, which brings about a justifiable fear of violent sequelae in the victims of such activity. Hatred may be expressed but law does not allow inducing terror or fear of harm in others to express such hatred.
+
+Concurrence
+(Scalia, J.) I agree with the Court that a state may prohibit the burning of a cross when carried out with the intent to threaten harm, without violating the First Amendment, but the majority decision of the Court to declare the prima facie provision of the Virginia statute invalid seems unjustified.
+
+Discussion
+The Court made it clear that in this statute, the provision at fault was the one which allowed all cross-burning to be treated as prima facie evidence of the intent to threaten, regardless of all contextual evidence which would be needed to independently arrive at such a conclusion. However, several legal experts concur with Justice Thomas’s dissenting opinion that an act of cross-burning carries no other meaning but that of intimidation.
+

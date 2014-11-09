@@ -1,0 +1,21 @@
+Citation
+295 U.S. 495, 55 S. Ct. 837, 9 L. Ed. 1570, 1935 U.S.
+
+Brief Fact Summary
+Congress delegated authority to an executive agency to regulate various industries. In turn, the President of the United States (the President) redelegated that power to business groups and boards of various industries, to create industry wide codes of conduct. The Defendant, A.L.A. Schechter Poultry Corporation (Defendant), was indicted for violating one of the codes.
+
+Synopsis of Rule of Law
+Congress may not delegate law-making authority to an executive agency without prescribing specific standards for the exercise of that authority.
+
+Facts
+Under the National Industrial Recovery Act (NIRA), Congress delegated to the President the authority to approve and implement codes of conduct for various industries, which were suggested by numerous trade and industrial groups. The statute did not, however, set forth standards to guide the formulation of the codes. One such code was the Code of Fair Competition for the Live Poultry Industry (the Code), which proscribed labor and operational standards for poultry businesses in and around New York City. The Defendant was indicted and convicted for violating portions of the Code.
+
+Issue
+May Congress delegate unrestrained law making authority to the executive branch?
+
+Held
+No, the legislature may not delegate to the executive branch the unfettered authority to make law. Since there were no standards or guidelines for creating the codes, the Congress improperly delegated legislative power.
+
+Discussion
+To determine whether the passage of these codes was an improper delegation of legislative authority, two grounds should be examined. First, in determining what limits Congress set for the President, look to trade and industrial groups that propose the codes because they must be “truly representative” of the industry members. Second, the codes must not promote monopolies or be oppressive to small enterprises. In short, the NIRA sets up no specific standards for the President to apply in determining whether to accept or reject the proposed codes. This leaves the discretion to the President virtually unfettered. Thus, the code-making authority granted to the President is an unconstitutional delegation of power.
+

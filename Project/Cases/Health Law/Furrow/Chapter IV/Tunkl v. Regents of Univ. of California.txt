@@ -1,0 +1,21 @@
+Citation
+Cal. Sup. Ct., 60 Cal.2d 92, 383 P.2d 441 (1963)
+
+Brief Fact Summary
+Plaintiff's decedent waived any malpractice action when he signed a release before his admission to a non-profit hospital.
+
+Synopsis of Rule of Law
+The release of a non-profit hospital to waive any malpractice liability is not enforceable.
+
+Facts
+The UCLA Medical Center is a nonprofit and largely research-based facility where Tunkl's (Plaintiff) decedent was admitted as part of a research project.  He signed a liability waiver before admission.  He was allegedly injured while in the hospital due to physician malpractice.  Prior to his death, the decedent brought a personal injury action.  After his death, Plaintiff substituted as administratrix.  The jury held the release valid and returned a verdict for the defense.  The court of appeal affirmed and the California Supreme Court granted review.
+
+Issue
+Is the release of a non-profit hospital to waive any malpractice liability enforceable?
+
+Held
+(Tobriner, J.)  No.  The release of a non-profit hospital to waive any malpractice liability is not enforceable.  Under Civil Code § 1668, if "the public interest" is involved, a contract claiming to excuse a party from his own negligence has no standing.  Only if a service performed by the party seeking pardon is of great public importance, which may be a practical necessity to some, will the contract involve public interest.  A contract for hospital services is certainly covered within this definition, although it is argued in this case that the section should not apply to a nonprofit charitable hospital.  However, in this case, charitable immunity has already been abolished by this court, and therefore, a charity may be liable to the extent the charity is negligent.
+
+Discussion
+In general, courts have been rather hostile to efforts by health care providers to limit their malpractice liability.  Rarely are general releases honored and arbitration provisions have been only somewhat successful.  Liability limitations that do exist, do so by virtue of action by the legislature.
+

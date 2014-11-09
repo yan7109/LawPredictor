@@ -1,0 +1,21 @@
+Citation
+872 F.2d 1008 (Fed. Cir. 1989)
+
+Brief Fact Summary
+Gosteli tried to predate his U.S. patent filing date to the filing of his Luxembourg patent.
+
+Synopsis of Rule of Law
+Claims are entitled to the benefit of their foreign priority date under 35 U.S.C. § 119 only if properly supported by the foreign priority application as required by § 112.
+
+Facts
+Gosteli's patent application for several compounds and subgenus chemical species used in antibiotic preparation was rejected as anticipated by the Menard patent.  Gosteli filed his patent applicant on May 4, 1978, and Menard's effective date was December 14, 1977.  However, Gosteli had applied for a Luxembourg patent on May 9, 1977, and tried to predate his U.S. patent application to this filing date, which provided an ineffective reference to Menard.  The Luxembourg patent failed to provide a written description of the entire subject matter of the claims claimed in the U.S. patent application, therefore the PTO Board of Patent Appeals rejected it as not covering the "same invention."  Gosteli appealed.
+
+Issue
+Are claims entitled to the benefit of their foreign priority date under 35 U.S.C. § 119 only if properly supported by the foreign priority application as required by § 112?
+
+Held
+(Bissell, J.)  Yes.  Claims are entitled to the benefit of their foreign priority date under 35 U.S.C. § 119 only if properly supported by the foreign priority application as required by § 112.  The description in the foreign patent does not need to describe the subject matter exactly, but it must allow persons skilled in the ordinary art to recognize what Gosteli invented.  The PTO Board has pointed out many differences, and Gosteli does not disagree that additional subject matter is present in his U.S. application.  Therefore, the decision by the PTO Board was not clearly in error.  Gosteli's argument that the foreign patent establishes a constructive reduction to practice in this country under § 131 also fails, as he shows no evidence of activity in the U.S.  Affirmed.
+
+Discussion
+Gosteli's rejected claims concerned an expanded chemical genus, or Markush group.  The Gosteli court stated that Gosteli's Luxembourg patent must literally describe these Markush groups.  This may have been difficult since the format of Markush filing was described as "provincial."  Regardless, patent attorneys should always include claims that mimic earlier filed claims in order to predate the priority of the later filed claim.
+

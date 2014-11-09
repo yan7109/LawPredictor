@@ -1,0 +1,21 @@
+Citation
+381 F. Supp. 1003 (D.D.C. 1974)
+
+Brief Fact Summary
+The trustees (Defendant) of the Lucy Webb School, a nonprofit institution that provided health care to the poor, failed to invest the school's liquid assets.
+
+Synopsis of Rule of Law
+Trustees of charitable corporations must exercise general supervision over investment decisions and have a duty to avoid participation in transactions in which they have an interest.
+
+Facts
+The Lucy Webb School was established in 1891 for the purpose of providing health care services to the poor.  It was incorporated as a charitable institution, and the Sibley Hospital (Defendant) was built for this purpose.  The board was to be made up of twenty-five to thirty-five trustees who would meet twice annually.  The Board was to handle all financial matters of the school.  In fact, two trustees (Defendant) handled all of these matters from the early 1950s until 1968.  The Finance and Investment Committees did not meet for years at a time.  Some of the trustees (Defendant) were associated with financial institutions.  The Hospital (Defendant) kept most of its liquid assets in these same institutions in non-interest-bearing accounts.  Patients (Plaintiff) of the Hospital (Defendant) brought a class action suit against the trustees (Defendant) challenging Defendant's actions, claiming mismanagement, non-management, and self-dealing.
+
+Issue
+Must trustees of charitable corporations exercise general supervision over investment decisions and do they have a duty to avoid participation in transactions in which they have an interest?
+
+Held
+(Gesell, J.)  Yes.  Trustees of charitable corporations must exercise general supervision over investment decisions and have a duty to avoid participation in transactions in which they have an interest.  Both trustees and corporate directors can be liable for losses that happen because of negligent mismanagement of investments.  Generally, trustees are held to a higher standard of care and are liable for simple negligence.  However, the gross negligence standard for corporate directors is more appropriate in cases involving trustees of charitable organizations.  It is also proper to apply the lower standard with regard to non-management.  Trustees of charitable companies should be allowed to delegate investment decisions to a committee as long as the directors are responsible to supervise.  For accusations of self-dealing, trustees are not absolutely barred from placing funds under their control in their own institutions.  However, there must be full disclosure.  In this case, the trustees (Defendant) did not exercise any supervision over the Hospital's (Defendant) investment decisions.  Some of the trustees also knowingly allowed the Hospital (Defendant) to enter into transactions with related companies and did not disclose the relationship.  Therefore, those trustees (Defendant) violated their fiduciary duties to the Hospital (Defendant).  Concerning the investments of the Hospital (Defendant), the appropriate committees are ordered to present statements to the full board.
+
+Discussion
+The court emphasized that very strict obligations are imposed on the trustees by management of a nonprofit charitable hospital.  The court ordered that each newly elected trustee read its opinion and order in this case.  Section 8.30 of the Revised Model Nonprofit Corporation Act follows this decision and adopts the corporate standard for fiduciary duties of nonprofit trustees.
+

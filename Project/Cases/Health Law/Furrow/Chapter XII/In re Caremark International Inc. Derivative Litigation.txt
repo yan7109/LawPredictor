@@ -1,0 +1,21 @@
+Citation
+Del. Ct. Ch., 698 A.2d 959 (1996)
+
+Brief Fact Summary
+A derivative action was filed on behalf of Caremark International, Inc., to recover losses suffered because of employees' violations of federal and state laws and regulations.
+
+Synopsis of Rule of Law
+The obligations of a director include a duty to attempt in good faith to make sure that a corporate information and reporting system, which the board concludes is adequate, is operating to inform the board of potential noncompliance with applicable legal standards.
+
+Facts
+As part of its patient care business, Caremark International, Inc. (Plaintiff) provided alternative site health care services.  Plaintiff had taken many measures to assure compliance with the antikickback provisions of the Medicare fraud and abuse law.  When two federal grand juries indicated Plaintiff and individuals for violations of the antikickback laws, a derivative suit was filed alleging Caremark directors (Defendant) breached their duty of care by failing to adequately supervise Plaintiff's employees.  A proposed settlement was reached to recover the corporation's losses against the individuals who make up its board of directors.  The court must decide whether the proposed settlement appears to be fair to both the corporation and the absent shareholders.
+
+Issue
+Do the obligations of a director include a duty to attempt in good faith to make sure that a corporate information and reporting system, which the board concludes is adequate, is operating to inform the board of potential noncompliance with applicable legal standards?
+
+Held
+(Allen, Chan.)  Yes.  The obligations of a director include a duty to attempt in good faith to make sure that a corporate information and reporting system, which the board concludes is adequate, is operating to inform the board of potential noncompliance with applicable legal standards.  In order to show that Defendants breached their duty of care by failing to adequately control Caremark employees, the shareholders (Plaintiff) would have to show either that the Defendants knew or should have known that violations of law were occurring and, either way, that the directors did not take any steps in an effort of good faith to prevent or remedy that situation, and that such failure proximately resulted in the losses complained of.  [The Board appears to have been informed by experts that the company's practices, while contestable, were lawful.  No evidence exists that reliance on such reports was not reasonable.  In this case, the record supplies essentially no evidence that Defendants were guilty of an ongoing failure to exercise their oversight function.  It appears that the corporation's information systems represented a good faith attempt to be informed of relevant facts.  With the shareholders (Plaintiff) weak claims, the proposed settlement is apparently adequate, reasonable, and a beneficial outcome for all parties involved.  Therefore the proposed settlement will be approved.]
+
+Discussion
+The court in this case noted that director liability for a breach of duty to exercise appropriate attention may arise in two separate contexts.  First, due to ill-advice or negligence, a board could be held liable for a decision that results in a loss.  Second, a corporation may be liable for a loss resulting from the Board's failure to act in a way that would have possibly prevented the loss.
+

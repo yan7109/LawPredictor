@@ -1,0 +1,24 @@
+Citation
+198 U.S. 45,25 S. Ct. 539,49 L. Ed. 937; 1905 U.S.
+
+Brief Fact Summary
+A law that sought to protect the health of bakers by limiting their employment to ten hours a day (sixty hours a week) was held by the Supreme Court of the United States to be a violation of the Due Process Clause because it was “an unreasonable, unnecessary and arbitrary interference” with the right of the individual to enter into contracts in relation to labor.
+
+Synopsis of Rule of Law
+An act which interferes with the general right of an individual to be free in his person and in his power to contract in relation to his own labor must have a direct relation, as a means to an end, and the end itself must by appropriate and legitimate before such an act can be upheld to be valid.
+
+Facts
+A New York law prohibited the employment of bakery employees for more than ten hours a day (sixty hours a week). Appellant, Mr. Lochner, was convicted and fined for permitting an employee to work in his bakery for more than sixty hours a week. Appellant successfully appealed claiming that the law is invalid because it is not a fair, reasonable nor appropriate exercise of the police power, but rather an unreasonable, unnecessary and arbitrary interference with the right of the individual to enter into contracts in relation to labor.
+
+Issue
+Whether the New York act which limits the amount of hours per week a bakery employee may work is an unreasonable, unnecessary and arbitrary interference with the right of the individual to enter into contracts in relation to labor.
+
+Held
+Yes. Judgment reversed. There is no reasonable ground for interfering with the liberty of a person or the right of free contract by determining the hours of labor in the occupation of a baker. A law such as the one presented in this case involves neither the safety, nor the morals nor the welfare of the public. The interest of the public is not in the slightest degree affected by this act. Thus, this is not a health law but an illegal interference with the rights of individuals, both employers and employees, to make contracts regarding labor.
+
+Dissent
+The liberty to contract is subject to reasonable police regulations. This act must be taken as expressing the belief of the people of New York that a sixty hour work week was a necessary health requirement. Thus, the protection of the physical well-being of those working in the bakery industry is grounds as a valid police power.
+
+Discussion
+The Court applies strict scrutiny to hold that a law that interferes with liberty to contract will be found to violate the Due Process Clause.
+

@@ -1,0 +1,21 @@
+Citation
+295 U.S. 495, 55 S. Ct. 837, 79 L. Ed. 1570, 1935 U.S.
+
+Brief Fact Summary
+The Defendant, A.L.A. Schechter Poultry Corporation (Defendant), a slaughterhouse in New York City, was sued under the “Live Poultry Code,” which regulated the poultry industry by requiring collective bargaining, a 40 hour work week, and a minimum wage, among other provisions.
+
+Synopsis of Rule of Law
+The Commerce Power ceases where the currents of interstate commerce stop.
+
+Facts
+New York City was the largest live poultry market in the United States. Ninety-six percent of the live poultry in New York comes from other states. Independent contractors generally unload the poultry in Manhattan or one of the four railway terminals in New Jersey that serve New York City. Defendant’s, slaughterhouse operators, bought poultry from the contractors in New York City and processed the birds in Brooklyn. The processed birds were sold directly to retailers in New York State. Defendant does not sell poultry interstate.
+
+Issue
+Does the Commerce Clause give Congress the power to regulate the Defendant’s business?
+
+Held
+No. Judgment reversed and remanded. The United States Supreme Court (Supreme Court) conceded the poultry is shipped interstate. However, as the Defendant corporation buys the poultry in state and sells the poultry in state for in state consumption, the corporation is not involved in interstate commerce. Therefore, the Commerce Clause does not give Congress the power to regulate the corporations.
+
+Discussion
+The Supreme Court makes a strong distinction between the fact that 96% of the poultry coming into New York City was from out of state and the fact that the Defendant corporation bought and sold to in state entities. However, this distinction becomes less important in the Commerce Clause jurisprudence after 1937.
+

@@ -1,0 +1,24 @@
+Citation
+Minn. Sup. Ct., 738 N.W.2d 300 (2007)
+
+Brief Fact Summary
+A woman alleged negligent care following surgery by two doctors and also sought to sue the hospital on the theory one of the doctors was negligently credentialed by the hospital.  The appeals court ruled that Minnesota law precluded such a cause of action against the hospital.
+
+Synopsis of Rule of Law
+A hospital may be held liable for negligent credentialing decisions.
+
+Facts
+Mary Larson (Plaintiff) filed a lawsuit against Dr. James Wasemiller (Defendant) and Dr. Paul Wasemiller (Defendant), alleging they providing negligent care following surgery.  Plaintiff also brought a claim against St. Francis Medical Center (the hospital) (Defendant), on the basis that the hospital should have known that James Wasemiller (Defendant) posed an unreasonable danger of harm to patients who undergo bariatric surgery.  The hospital (Defendant) filed a motion to dismiss which the trial court denied, as they recognized a common-law cause of action for negligent credentialing or privileging.  The trial court also determined that Minnesota's peer-review statute did not grant immunity or limit liability of a hospital or other review organization.  The appeals court ruling found the Minnesota's peer-review statute confidentiality provisions (Minn. Stat. § 145.73–.64) did not indicate any legislative intent to create or recognize a cause of action for negligent credentialing or privileging, stating it was up to the state's supreme court or legislature to establish a new cause of action.  The appeals court also held that while nothing in Minnesota's peer-review statute provides immunity from a negligent credentialing or privileging cause of action, Minn. Stat. § 145. 63 limits liability to unwarranted peer-review actions, given the facts available to the hospital or reviewing organization.  The appeals court also held that Minn. Stat. § 145.64 prevents any disclosure of information that would appear necessary to an intelligent inquiry regarding whether a review committee acted with a reasonable belief that its action was warranted by known facts.
+
+Issue
+May a hospital be held liable for negligent credentialing decisions?
+
+Held
+(Hanson, J.)  Yes.  A hospital may be held liable for negligent credentialing decisions.  Negligent credentialing claims brought in Minnesota to enforce a state's requirement that hospitals exercise reasonable care in granting physician privileges are not barred by the state's peer-review statute.  Minnesota law does not prevent recognition of the existing common-law duty that hospitals have to make sure they exercise reasonable care in their credentialing decisions.  Although the confidentiality provision in the Minnesota peer review statute may complicate making the proof of a common-law negligent-credentialing claim, it does not preclude such a claim.  The policy considerations underlying the tort of negligent credentialing outweigh the policy considerations shown in the peer review statute because the latter policy considerations are addressed sufficiently by the preclusion of access to the confidential peer review materials.  Reversed and remanded.
+
+Concurrence
+(Barry, J.)  While the statute plainly contemplates a cause of action against a review organization for negligent credentialing, litigation over negligent credentialing may not improve health care.  The peer review statute may not be fulfilling the purpose it was intended for.
+
+Discussion
+The court notes the issue regarding whether a patient must first prove negligence on the doctor's part before a hospital can be liable for negligently credentialing the doctor, but does not find this would prevent the patient's cause of action, stating that "these are questions of trial management best left to the trial judge and that cannot be effectively addressed in the context."  However, remember to apply this principle to similar fact patterns on exams.  In addition, note that this case follows the majority view that a hospital can be negligent for a credentialing decision.
+

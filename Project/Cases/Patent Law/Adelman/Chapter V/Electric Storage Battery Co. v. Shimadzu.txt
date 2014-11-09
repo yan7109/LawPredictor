@@ -1,0 +1,21 @@
+Citation
+307 U.S. 5 (1939)
+
+Brief Fact Summary
+Electric Storage (Defendant), an American company, used a process to develop lead powder two years before Shimadzu (Plaintiff), a Japanese citizen, applied for a U.S. patent for the process.
+
+Synopsis of Rule of Law
+Under § 102(b), a third party's innocent use of an invention in its factory to create a commercial product is "public use."
+
+Facts
+Plaintiff, a Japanese citizen, applied for patents on July 14, 1923, and April 27, 1926 for equipment and a process which developed fine lead powder.  Without knowledge of Plaintiff's inventions, Electric Storage Battery Co. (Defendant) began using a machine that involved the use of Plaintiff's process and equipment.  Defendant's machine was set up in early 1921 and commercial production began in June 1921.  Plaintiff sued successfully for patent infringement, and the Supreme Court granted review.
+
+Issue
+Under § 102(b), is a third party's innocent use of an invention in its factory to create a commercial produce "public use?"
+
+Held
+(Roberts, J.) Yes.  Under § 102(b), a third party's innocent use of an invention in its factory to create a commercial product is "public use."  Public use two years before an application for a patent renders a patent invalid.  Experimental use is not public use, however it is public use to produce commercial products for profit using an unhidden machine in a factory process.  In this case, Defendant did not hide or make efforts to hide the machine, process, or product from employees or anyone who may have had a legitimate interest.  Plaintiff's patent claims were invalid and therefore could not be infringed because the machine was in use two years before his applications.  Reversed.
+
+Discussion
+As the opinion noted, predecessor statutes to 35 U.S.C. § 102(b) imposed  a bar only when the applicant used or consented to the use of his  invention before the time according to statute.  In Electric Storage, it  was revealed that § 102(b) extended this bar to the use by third  persons other than the applicant and/or inventor.  The date of public  use before a patent application is limited as defined by statute and has  changed over the years.  During Electric Storage it was two years, but  in 1939 it was shortened by Congress to its present state of one year.
+

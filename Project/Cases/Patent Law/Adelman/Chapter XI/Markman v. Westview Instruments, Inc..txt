@@ -1,0 +1,21 @@
+Citation
+517 U.S. 370 (1996)
+
+Brief Fact Summary
+Markman (Plaintiff) claimed that Westview (Defendant) had infringed upon his patent for a device to monitor inventory in dry-cleaning establishments.
+
+Synopsis of Rule of Law
+The construction of a patent, including terms of art within its claim, is a matter to be decided by the court, not a jury.
+
+Facts
+Plaintiff patented a device that involved attaching bar code labels to each piece of clothing as it comes into a dry-cleaner, then monitoring the progress of each piece of clothing using optical sensors placed throughout the business.  Defendant then sold an inventory control system that also created bar-coded tickets for each piece of laundry.  The difference was that Defendant's system only kept track of transactions, and was not designed to keep track of the progress of each item.  It also did not keep track of additions or deletions from expected inventory.  A jury found that Defendant had infringed upon Plaintiff's design for an inventory control system.  The district court then stated that the construction of Plaintiff's claim, particularly the term "inventory," was a matter for the court and not the jury.  The judge defined "inventory" for purposes of the claim as pieces of clothing, not simply transaction totals, and granted Defendant's motion for judgment as a matter of law.  The judgment was upheld by the court of appeals and the Supreme Court granted review.
+
+Issue
+Is the construction of a patent claim a question of law for the court?
+
+Held
+(Souter, J.)  Yes.  The construction of a patent, including terms of art within its claim, is a matter to be decided by the court, not a jury.  The right of jury trial is preserved by the Seventh Amendment since common law in 1791 when the Amendment was adopted.  Patent infringement cases must still be tried to a jury, as they were in the 18th century.  However, during the trial there may be questions of law for the court, even though the ultimate dispute must be decided by the jury.  When the Seventh Amendment passed, modern claim practice did not exist.  The closest 18th century comparison was the specification, and evidence does not exist showing that construction of the specification was a jury issue.  There is no history or functional considerations that support Plaintiff's argument that terms of art within the claim must be submitted to a jury.  The judge is in the best position to decide which definition of terms within the patent fit best with the overall structure, as he has the duty of interpreting the patent as a whole.  Finally, by treating interpretive issues as matters of law, consistency and predictability is fostered between and among courts.  The judgment is affirmed.
+
+Discussion
+This question of interpretation has traditionally been considered a mixed question of fact and law.  Justice Souter decided the question of claim construction was correctly a question of law for the court, and that the meaning of terms of art in a patent claim should be resolved by a judge rather than a jury.
+

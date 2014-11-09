@@ -1,0 +1,21 @@
+Citation
+251 B.R. 157, 2000 Bankr. 796,42 U.C.C. Rep. Serv. 2d (Callaghan) 604
+
+Brief Fact Summary
+Kevin Shirel, (Petitioner), moves to avoid a lien by Sight ‘N Sound Appliance Center, Inc., (Respondent) on the grounds that Respondent is not a secured creditor.
+
+Synopsis of Rule of Law
+A security agreement is not enforceable if it does not contain language that describes the collateral sufficiently so that a third party could reasonably identify the items that are subject to the security interest.
+
+Facts
+Petitioner applied for a credit card with Respondent. The credit application contains seven pages of single spaced small print and was signed on the first page by Petitioner. On the fourth page there is language that purports to be a security agreement. This language describes the collateral as “all merchandise purchased on the account.” Petitioner used the credit card to purchase a refrigerator. Shortly thereafter, Petitioner filed for bankruptcy. Petitioner claims that the credit card application does not create a security interest in the refrigerator.
+
+Issue
+Whether the phrase “all merchandise” sufficiently describes the collateral as to create a security interest in the refrigerator.
+
+Held
+No. No reasonable third party would understand that a security interest was created in the refrigerator by reading the phrase, “all merchandise.”
+
+Discussion
+This is an adhesion contract and the U.C.C.’s policy of moving away from the rigid requirements of a description of the collateral must be balanced against the need to interpret an adhesion contract in a way favorable to the debtor. The phrase, “all merchandise,” is too liberal, too imprecise, and is not a description. The language is too vague and a third party could not reasonably interpret this language to describe a refrigerator.
+

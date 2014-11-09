@@ -1,0 +1,21 @@
+Citation
+919 F.2d 688 (Fed. Cir. 1990)
+
+Brief Fact Summary
+Dillon (Plaintiff) applied for a patent for an additive to reduce soot emissions.  Prior art had disclosed a fuel additive similar in structure that was used as a dewatering agent, but did not suggest or disclose the fuel additive's use to reduce soot emissions.
+
+Synopsis of Rule of Law
+A prima facie case of obviousness does not require both structural similarity and a suggestion in or expectation from the prior art that the claimed compound will have the same or a similar usefulness as the applicant's newly discovered compound.
+
+Facts
+Plaintiff sought a patent on tetra-orthoesters, a useful additive to reduce soot emissions.  These compositions were structurally obvious from the tri-orthoesters already used as a dewatering agent.  Plaintiff's application was rejected by the examiner and the PTO Board because of obviousness.  A panel of the Federal Circuit reversed and then granted a petition for rehearing en banc.
+
+Issue
+Does a prima facie case of obviousness require both structural similarity and a suggestion in or expectation from the prior art that the claimed compound will have the same or a similar usefulness as the applicant's newly discovered compound?
+
+Held
+(Lourie, J.)  No.  A prima facie case of obviousness does not require both structural similarity and a suggestion in or expectation from the prior art that the claimed compound will have the same or a similar usefulness as the applicant's newly discovered compound.  Exactly what amounts to a prima facie case varies from case to case.  It is not the law, however, that a prima facie case cannot be established if an applicant claims a use not claimed by the prior art.  While the properties are relevant to establishing a prima facie case, it is not necessary that the prior art suggest or reveal the properties of the newly discovered compound to establish a prima facie case of obviousness.  In this case, no references suggest the use of the fuel additive discovered by Plaintiff, but there is enough relationship between the two compounds in the fuel oil art to assume they would have similar properties, including water scavenging, and to provide motivation for making the new compounds.  Plaintiff failed to provide evidence that her compound had different properties than the prior art or that hers performed to a higher degree that was unexpected.  Reversed.
+
+Discussion
+The text only prints a portion of the lengthy dissent in Dillon.  Several cases were referenced in the dissent, including In re Papesch, 315 F.2d 381 (C.C.P.A. 1963), to show that the court was going against precedent and reverting to a thirty year old "Hass-Henze Doctrine."  Papesch seemed to state that the new compound was eligible for patent if it had different properties than the structurally similar compound.  Dillon recognizes this in stating that Papesch did not deal with the requirements of establishing a prima facie case but, rather, with whether an examiner had to consider the properties of an invention at all.  The majority strongly declared it did not intend to "retreat from Papesch one inch."
+

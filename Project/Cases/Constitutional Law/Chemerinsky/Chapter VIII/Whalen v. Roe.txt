@@ -1,0 +1,21 @@
+Citation
+429 U.S. 589, 97 S. Ct. 869, 51 L. Ed. 2d 64, 1977 U.S.
+
+Brief Fact Summary
+The State of New York maintained a centralized computer database of the names and addresses of all persons who have obtained, by prescription, a drug for which there is both a legal and an illegal market.
+
+Synopsis of Rule of Law
+The government may maintain detailed lists of personal information for administrative convenience.
+
+Facts
+The State of New York was collecting personal information regarding individuals prescribed drugs for which there is a legal and an illegal market. The statute also criminalized unauthorized release of any such information.
+
+Issue
+May the government maintain lists of personal health information without violating a zone of privacy?
+
+Held
+Yes. Appeals Court ruling reverse.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) does not argue there is no invasion of privacy here, only that there is no constitutionally impermissible invasion of privacy. J. Stevens acknowledges the fear of accidental disclosure, but he also acknowledges that there is a statutory penalty for unauthorized disclosure.
+

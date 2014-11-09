@@ -1,0 +1,21 @@
+Citation
+315 F.2d 381 (C.C.P.A. 1963)
+
+Brief Fact Summary
+The applicant claimed that his compound was eligible for patent because although it was similar in structure to a patented compound, its properties are different.
+
+Synopsis of Rule of Law
+By showing the differences in a compound's properties, a prima facie case of obviousness due to structural similarity of compounds can be overcome.
+
+Facts
+Papesch applied for a patent on a compound that was admittedly obvious in structure because of an already patented compound.  The difference was in the properties as Papesch had three ethyl groups while the prior art had three methyl groups.  However, the triethyl compound had unexpected anti-inflammatory properties while the prior art had no usefulness in this area.  The Board rejected the patent on the grounds of obviousness, and Papesch appealed.
+
+Issue
+By showing the differences in a compound's properties, can a prima facie case of obviousness due to structural similarity of compounds be overcome?
+
+Held
+(Rich, J.)  Yes.  By showing the differences in a compound's properties, a prima facie case of obviousness due to structural similarity of compounds can be overcome.  A compound and its properties are one and the same thing in patent law.  For a thing to be eligible for patent does not depend on the similarity of its formula to a patented compound, but rather relies on the two compounds being similar.  If a similarity is assumed based on comparing the formulas, evidence can prove the assumption to be incorrect.  Reversed.
+
+Discussion
+In chemical and biotechnology fields, two-dimensional representations, meaning the structural formulas, are used to identify the structures to be patented.  This map or label of the structure became so important to the Patent Office for several decades, that the patent bar practically lost sight of the invention itself.  Instead, one looked at the label, and if it was similar to a prior label, then it was "structurally obvious."  As a consequence, when an inventor discovered an unexpected use for a compound with an obvious structure, he would claim the method of use instead of the compound itself.  In re Papesch marked a turning point in the success of obtaining a patent on a compound by disproving a finding of structural obviousness.
+

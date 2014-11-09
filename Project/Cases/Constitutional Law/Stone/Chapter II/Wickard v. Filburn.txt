@@ -1,0 +1,21 @@
+Citation
+317 U.S. 111, 63 S. Ct. 82, 87 L. Ed. 122 (1942)
+
+Brief Fact Summary
+Filburn, an Ohio farmer who harvested wheat for home consumption and for sale, was fined $117 for violating a federal scheme devised to limit wheat production. Filburn sued arguing that the scheme was unconstitutional insofar as it regulated wheat produced for local use.
+
+Synopsis of Rule of Law
+Activities local in character that have an economic effect on interstate commerce can be regulated by Congress under the Commerce Clause.
+
+Facts
+Pursuant to the Agricultural Adjustment Act (the Act), the Secretary of Agriculture set a quota of wheat production to bring the supply of wheat into balance with the demand for it. Under the quota, every farmer was given an annual allotment of wheat he could produce. Filburn, a farmer in Ohio who raised small amounts of wheat for home consumption and for commercial use, exceeded his allotment by 239 bushels and was fined $117. Thereupon, Filburn sued the government to enjoin the enforcement of the penalty.
+
+Issue
+Was the quota subjecting Filburn to wheat production restrictions unconstitutional inasmuch as Congress has no power to regulate activities local in nature?
+
+Held
+No. The lower court issuing the injunction is reversed.
+
+Discussion
+This is another case involving the aggregation doctrine. One question to be considered is whether this opinion is limited to cases in which Congress is dealing with a genuine economic problem.
+

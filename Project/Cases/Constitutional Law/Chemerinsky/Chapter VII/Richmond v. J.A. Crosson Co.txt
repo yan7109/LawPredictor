@@ -1,0 +1,24 @@
+Citation
+488 U.S. 469, 109 S. Ct. 706, 102 L. Ed. 2d 854, 1989 U.S.
+
+Brief Fact Summary
+A minority set-aside provision program was held to violate a white contractor’s equal protection rights because it violates both prongs of equal protection strict scrutiny analysis.
+
+Synopsis of Rule of Law
+All laws that discriminate on the basis of race, including those that discriminate against whites, are subject to strict scrutiny under the Equal Protection Clause of the Fourteenth Amendment.
+
+Facts
+The City Council of Richmond, Virginia adopted a Plan that required companies awarded city construction contracts to subcontract thirty percent of their business to minority business enterprises. Proponents of the set-aside plan relied on evidence that minorities were not receiving a proportional amount of the city’s prime construction contracts. However, there was no direct evidence of race discrimination on the part of the city in giving contracts or evidence that the city’s prime contractors had discriminated against minority-owned subcontractors. This case was brought by a contractor whose low bid on a city project was not accepted because of failure to comply with the Plan’s requirements. The District Court upheld the Plan, but the Court of Appeals struck it down as violating both prongs of equal protection strict scrutiny.
+
+Issue
+Whether a minority set-aside Plan violates equal protection.
+
+Held
+Yes. Judgment of the Court of Appeals affirmed. Congress, like any other state or political subdivision, has a specific constitutional mandate to enforce the dictates of the Fourteenth Amendment. Section one of the Fourteenth Amendment is an explicit constraint on state power, and the states must take any remedial efforts in accordance with that provision. As a mater of state law, Richmond has legislative authority over its procurement policies and can use its spending powers to remedy private discrimination, if it identifies that discrimination with the particularity required by the Fourteenth Amendment. Here, the Richmond plan denies certain citizens the opportunity to compete for a fixed percentage of public contracts based solely upon their race. The purpose of strict scrutiny is to “smoke out” illegitimate uses of race by assuring that the legislative body is pursuing a goal that is important enough to warrant use of a highly suspect tool. Further, the guarantee of equal p
+
+Dissent
+Nothing in the United States Constitution can be construed to prevent Richmond from allocating a portion of its contracting dollars for businesses owned or controlled by members of minority groups.
+
+Discussion
+This case secures the proposition that all laws that discriminate on the basis of race, including those that discriminate against whites, are subject to strict scrutiny under the Equal Protection Clause of the Fourteenth Amendment.
+

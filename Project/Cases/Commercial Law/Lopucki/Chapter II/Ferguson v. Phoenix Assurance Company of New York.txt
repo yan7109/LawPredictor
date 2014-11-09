@@ -1,0 +1,24 @@
+Citation
+189 Kan. 459, 370 P.2d 379, 1962 Kan. 306,  99 A.L.R.2d 118
+
+Brief Fact Summary
+Forrest D. Ferguson (Plaintiff) sued Phoenix Assurance Company of New York (Defendant) on a Storekeepers Burglary and Robbery Policy for loss of money by safe burglary. Defendant appeals from a district court judgment for the Plaintiff.
+
+Synopsis of Rule of Law
+When a rule of evidence is imposed by a provision in an insurance policy and the insurance company asserts such a rule, which is beyond the reasonable requirements to prevent fraudulent claims against it with proof of a substantive condition, this contravenes public policy.
+
+Facts
+Plaintiff was insured under a Storekeepers Burglary and Robbery Policy issued by the Defendant. Plaintiff operated a drug store, which was broken into, drugs were taken from a storage drawer, and $433.76 was taken from within the safe. The insurance company paid everything except for the money taken from the safe. There were two doors on the safe, an exterior door and an inner door, there were no marks on the exterior door to show the use of force but there were marks on the inner door did show marks of force and violence upon its exterior. The insurance policy limited liability for safe burglary to $50.00. The policy also had an exclusion clause that the policy does not apply to any fraudulent or dishonest acts by the insured, but this exclusion does not apply to safe burglary or robbery by other than the insured. The exclusion was amended to include conditions, which required there to be visible marks on the exterior of the doors of the vault for the insured to recover for s
+
+Issue
+Whether the visible marks clause of the insurance policy is a condition precedent or a rule of evidence?
+
+Held
+Judgment affirmed.
+
+Dissent
+The clause is plain, clear and unambiguous and should be enforced as made.
+
+Discussion
+The court here held the visible marks clause should be included in the exclusions section of the policy. The clause was in the condition section of the policy; however, Defendant argued the Plaintiff was requesting relief that was excluded by the policy. Further, the clause was intended to exclude loss by safe burglary where the combination of the outer door was manipulated, in other words fraudulent conduct on the part of the insured.
+

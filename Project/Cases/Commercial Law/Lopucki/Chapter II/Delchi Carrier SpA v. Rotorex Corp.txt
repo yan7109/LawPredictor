@@ -1,0 +1,21 @@
+Citation
+71 F.3d 1024, 1995 U.S. App. 34226
+
+Brief Fact Summary
+Rotorex Corp., (Defendant) appeals the trial court decision in favor of Delchi Carrier SpA (Plaintiff) for loss of profits and other consequentials resulting from Defendant’s delivery of nonconforming goods.
+
+Synopsis of Rule of Law
+If a breach ois fundamental, the buyer may either require delivery of substitute goods or declare the contract void under CISG. A breach is fundamental if it results in such detriment to the other party as substantially to deprive him of what he is entitled to expect under the contract, unless the part yin breach did not foresee and a reasonable person of the same kind in the same circumstances would not have foreseen such a result.
+
+Facts
+Defendant manufactures compressors. Plaintiff, an Italian corporation purchased compressors from Defendant for use in Plaintiff’s air conditioners after reciging a sample compressor from the company and accompanying written performance specifications. The compressors were scheduled to be delivered in three shipments before May 15, 1988. Plaintiff discovered that the first shipment did not conform while the second was en route. The non conformity resulted in lower cooling capacity and consumed more power than the sample model and specifications. After several attempts to cure, Plaintiff requested Defendant supply new compressors conforming to the original sample and specifications. Defendant refused stating the sample compressors were inadvertently communicated to Plaintiff. Plaintiff canceled the contract and filed this action under the CISG.
+
+Issue
+Whether the district court decision that Defendant was liable for a fundamental breach of contract under CISG was proper.
+
+Held
+Yes. Because the cooling power and energy consumption of an air conditioner compressor are important determinants of the product’s value, the district court’s conclusion that Defendant was liable for a fundamental breach of contract under CISG was proper.
+
+Discussion
+The Under the CISG the seller must deliver goods which are of the quality, quantity and description required by the contract and the goods do not conform with the contract unless they possess the qualities of goods which the seller has held out to the buyer as a sample or model. Defendant admitted the goods did not conform to the specifications. There was thus no genuine issue of material fact regarding liability, and summary judgment was proper. There appears to be no question that Plaintiff did not substantially receive that which it was entitled to expect and that any reasonable person could foresee that sipping non-conforming goods to a buyer would result in the buyer not receiving that which he expected and was entitle to receive.
+

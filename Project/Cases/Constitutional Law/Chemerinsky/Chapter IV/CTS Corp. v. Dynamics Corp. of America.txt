@@ -1,0 +1,21 @@
+Citation
+481 U.S. 69, 107 S. Ct. 1637, 95 L. Ed. 2d 67, 1987 U.S.
+
+Brief Fact Summary
+The state of Indiana passed an anti-corporate takeover law protecting domestic corporations. The Plaintiff, Dynamic Corporation of America (Plaintiff) wanted to purchase the Defendant, CTS Corp. (Defendant) and challenged the law based on the Commerce Clause.
+
+Synopsis of Rule of Law
+A state law that delineated shareholder’s voting rights and limited the effectiveness of tender offers was held not to violate the Commerce Clause because (i) the law was equally applicable to in-state and out-of-state offerors; (ii) it did not create inconsistent regulation by multiple states and (iii) it applied to domestically-incorporated corporations with substantial resident shareholders.
+
+Facts
+The state of Indiana’s corporate takeover law provides that when one acquires “control” shares in an Indiana corporation, the acquiring party will obtain voting rights only if the takeover was approved by a majority of the preexisting disinterested shareholders. The Plaintiff owned 9.6% of the Defendant corporation and initiated a tender offer, which would have increased the Plaintiff’s stake to 27.5%. As a result, a vote of the preexisting disinterested shareholders was required. The Plaintiff challenged the statute because most hostile takeovers are initiated by out of state corporations. The district Court held that the statute violated the Commerce Clause and federal securities laws. The court of appeals affirmed the district court.
+
+Issue
+Does the Commerce Clause of the United States Constitution (Constitution) invalidate a state law, which regulates corporate takeovers?
+
+Held
+No, state laws limiting corporate takeovers do not violate commerce clause and are therefore not unconstitutional. This case implicates the dormant Commerce Clause, which is concerned with those statutes discriminating against interstate commerce. The Supreme Court of the United States (Supreme Court) observed that the law does not discriminate because it applies to both Indiana and non-Indiana corporations. The Supreme Court also found that Indiana’s law would not result in inconsistent regulations. Although tender offers may be hindered, that is not enough to invalidate the Indiana law. Corporations are created under the auspices of state law and therefore states can formulate rules and regulations regarding their internal operations if they do not discriminate. Here, they did not discriminate.
+
+Discussion
+There are three reasons why a law concerning corporate takeovers is constitutional:
+

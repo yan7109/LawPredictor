@@ -1,0 +1,24 @@
+Citation
+478 U.S. 714, 106 S. Ct. 3181,92 L. Ed. 2d 583, 1986 U.S. 141.
+
+Brief Fact Summary
+To offset rising government budget deficits, Congress passed the Gramm-Rudman-Holings Act (the Act), which gave the Comptroller General authority to mandate spending reductions if certain estimated target deficits were exceeded.
+
+Synopsis of Rule of Law
+Congress cannot reserve for itself power of removal of an officer charged with the execution of the laws except by impeachment.
+
+Facts
+Concerned about the size of the federal budget deficit, Congress passed the Act. The Act established maximum allowable deficit amounts (”targets”) for each year beginning in 1986. The Congressional Budget Office (CBO) was required to estimate the budget deficit for each year. If the deficit was ever estimated to exceed the target, the CBO was to calculate the budget reductions necessary to meet the target. Thereupon, the Comptroller General was obligated to mandate spending reductions giving “due regard” to the CBO’s estimates, but also exercising his own independent judgment. The Comptroller General is removable only at the initiative of Congress.
+
+Issue
+Did the assignment by Congress to the Comptroller General of the United States of certain functions under the Act violate the separation of powers doctrine?
+
+Held
+Yes. The judgment and order of the District Court are affirmed.
+
+Dissent
+Justice Byron White (J. White) wrote that under the Budget and Accounting Act, Congress may remove the Comptroller only through a joint resolution, which by definition must be passed by both Houses and signed by the president. Therefore, removal under the statute satisfies the constitutional requirements of bicameralism and presentment.
+
+Discussion
+The problem with the position of the Comptroller General in this case lay in the total mix of features characterizing the official. For example, if an official were characterized by all of the same features of the Comptroller General here except the power of discretion in mandating spending limits, the position would have arguably been permissible. Or, with all other characteristics of the official being the same, Congress were not allowed to participate in the removal of the Comptroller General, the position arguably would have been permissible.
+

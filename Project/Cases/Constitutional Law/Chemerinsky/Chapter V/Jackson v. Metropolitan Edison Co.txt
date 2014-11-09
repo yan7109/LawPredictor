@@ -1,0 +1,24 @@
+Citation
+419 U.S. 345, 95 S. Ct. 449, 42 L. Ed. 2d 477, 1974 U.S.
+
+Brief Fact Summary
+The Petitioner, Jackson (Petitioner), a customer of the Respondent, Metropolitan Edison Company (Respondent), claimed that the Respondent performed a public function and therefore could not shut off her electricity without notice and hearing pursuant to the Fourteenth Amendment’s Due Process Clause.
+
+Synopsis of Rule of Law
+The actions of a private entity are not considered state action unless there is a sufficiently close nexus between the State and the challenged action.
+
+Facts
+The Respondent is a privately owned corporation with an exclusive license to deliver electricity in Pennsylvania. Someone living in the Petitioner’s home, Dodson, had opened an account with the Respondent. After Dodson left the residence, the bills were not paid. The Petitioner claimed she did not receive bills. Also, the Petitioner claimed she asked them to open an account for her twelve year old son Robert. As a result, the Petitioner stopped paying her bills and four days later, with no notice, the Respondent shut off her electricity.
+
+Issue
+Does the operation of a utility by a private party constitute state action?
+
+Held
+No, there must be a sufficiently close nexus between Pennsylvania and challenged action to find a state action subject to the Fourteenth Amendment of the United States Constitution (Constitution). Just because a business is subject to detailed and extensive state regulation does not convert its action into state action. The Respondent is not performing a public function because state law imposes no duty on the state to furnish utility service.
+
+Dissent
+Justice Thurgood Marshall (J. Marshall) dissents because the Respondent has a monopoly, is extensively regulated by the State and received state approval in many aspects of their service.
+
+Discussion
+It is established that private action is immune from the Fourteenth Amendment of the Constitution. Here, it is hard to distinguish where the Respondent falls because although it is a private company, it is heavily regulated by the State. However, regulation by the State does not necessarily mean it is a public function. The test is took look if there is a sufficiently close nexus between the State and challenged action so that the action of the private actor may be fairly treated as that of the State itself.
+

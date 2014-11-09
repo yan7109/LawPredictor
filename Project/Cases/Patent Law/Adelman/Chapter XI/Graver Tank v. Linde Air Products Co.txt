@@ -1,0 +1,24 @@
+Citation
+339 U.S. 605 (1950)
+
+Brief Fact Summary
+Linde (Plaintiff) brought suit against Graver (Defendant) for patent infringement even though Defendant substituted a chemical that was equivalent to the one described in the patent.
+
+Synopsis of Rule of Law
+The doctrine of equivalents is applied to chemical equivalents in compositions or to mechanical equivalents in devices.
+
+Facts
+Plaintiff obtained an improvement patent on an electric welding composition or flux with specifications that were basically a combination of alkaline earth metal silicate and calcium fluoride.  Defendant began to produce its own composition that instead used silicates of manganese, not an alkaline earth metal, for the silicates of magnesium, which is an alkaline earth metal used by Plaintiff.  Plaintiff charged Defendant with infringement.  Plaintiff had mentioned manganese in its specifications, but it was not within the specific claims of the patent.  Even so, the courts found there was infringement.  Defendant appealed.
+
+Issue
+Does the doctrine of equivalents apply to chemical equivalents in compositions or to mechanical equivalents in devices?
+
+Held
+(Jackson, J.)  Yes.  The doctrine of equivalents is applied to chemical or mechanical equivalents in compositions or devices the same way it applies to equivalence in mechanical components.  It gives protection to the patentee against a device, process, or composition which performs largely the same function as the patented device, process, or composition in largely the same way to obtain the same result.  In this case, the expert testimony is the basis on which the courts below found that silicates of manganese, used by Defendant, were the "equivalent" of the silicates of magnesium used in Plaintiff's patented composition under the doctrine of equivalents.  Therefore, the finding of infringement must stand.  Affirmed.
+
+Dissent
+(Black, J.)  The Court has impermissibly and incomprehensibly sterilized the Acts of Congress with its opinion.  The petitioners in this case are not engaged in the malicious acts referenced by the Court.
+
+Discussion
+The doctrine of equivalents can also work against a patentee.  For example, an infringer's device may fall within the literal words of the patent claims, but be changed so much in principle from the patented article that it performs the same or similar function in largely a different way.  In that case, the doctrine can be applied to defeat a claim of infringement.
+

@@ -1,0 +1,24 @@
+Citation
+359 U.S. 532; 79 S. Ct. 1136;3 L. Ed. 2d 1028; 1959 U.S.
+
+Brief Fact Summary
+The 1912 Arizona Train Limit Law, which prohibited the operation of railroad trains longer than fourteen passenger or seventy freight cars, was found invalid by the Supreme Court of the United States because it violated the commerce clause. The law impeded the free flow of commerce by only allowing shorter trains within its borders.
+
+Synopsis of Rule of Law
+If a state law’s burden of commerce outweighs the regulatory advantage to the state, the law violates the commerce clause, and is therefore invalid. A state may not regulate phases of national commerce (e.g. interstate train travel) that need national uniformity.
+
+Facts
+The Arizona Train Limit Law of 1912 prohibited railroad trains of more than fourteen passenger or seventy freight cars. In 1940, Plaintiff, State of Arizona, sued Defendant, Southern Pacific Company, for violating that law. The trial court found in favor of Defendant, holding that the law violated the commerce clause. The Supreme Court of Arizona reversed, finding that a state law enacted under the police power with reasonable relation to health and safety could not be overturned despite its adverse affect on interstate commerce.
+
+Issue
+Whether the health and safety effects of Arizona’s 1912 law outweighed the national interest in keeping interstate commerce free from interferences.
+
+Held
+No. The judgment of the highest state court reversed. The Supreme Court of the United States found that the practical effect of this law was to control train operations outside the boundaries of Arizona because the law required reassembling long trains at the nearest terminal points outside the state, thus, creating a serious impediment of the free flow of interstate commerce. The Court further found that a regulation of train lengths, due to its interstate nature, must be prescribed by a single body having national authority.
+
+Dissent
+The Court is acting as a “super legislature” and this matter should be left to Congress.
+
+Discussion
+After Defendant, a private party, showed that the state law had economic effects outside Arizona, the burden of proof was on the Plaintiff-State to show that the advantages of the restrictive law outweighed the burden on commerce. The plurality implemented such a balancing test and found interstate commerce too adversely effected.
+

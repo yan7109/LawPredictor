@@ -1,0 +1,24 @@
+Citation
+422 U.S. 490, 95 S. Ct. 2197, 45 L. Ed. 2d 343, 1975 U.S.
+
+Brief Fact Summary
+Plaintiffs claimed that a local zoning ordinance excluded persons of low and moderate income from living in a certain community. Defendants responded by claiming that Plaintiffs lacked standing to bring suit.
+
+Synopsis of Rule of Law
+A plaintiff must generally allege a specific “case or controversy” between herself and the defendant in order to have standing.
+
+Facts
+The Plaintiffs were various organizations and individuals residing in Rochester, New York (Rochester). The Plaintiffs brought suit against the town of Penfield, New York (Penfield) and members of Penfield’s Zoning, Planning, and Town Boards (Defendants). Plaintiffs contended that Penfield’s zoning ordinance effectively excluded persons of low and moderate income from living in the town, in contravention of constitutional and statutory rights. The lower federal courts held that none of the Plaintiff’s had standing.
+
+Issue
+Have the Plaintiff’s established that a “case or controversy” exists between themselves and the Defendants within the meaning of Article III of the United States Constitution (Constitution), in order to have standing?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+The Plaintiffs have submitted a sufficient pleading to avoid a motion to dismiss for lack of standing. The majority’s opinion is based instead on the merits of the claim.
+
+Discussion
+The purpose of the standing requirement is to prevent the courts from being forced to adjudicate abstract questions of wide public significance, which could better be determined in other forums.
+

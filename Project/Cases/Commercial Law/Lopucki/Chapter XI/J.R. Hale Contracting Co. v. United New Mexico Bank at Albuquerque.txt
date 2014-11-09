@@ -1,0 +1,21 @@
+Citation
+110 N.M. 712, 799 P.2d 581, 1990 N.M. 328, 13 U.C.C. Rep. Serv. 2d (Callaghan) 53
+
+Brief Fact Summary
+United New Mexico Bank at Albuquerque, (Respondent), issued a note in the amount of $400,000 in favor of J.R. Hale Contracting Co., (Petitioner), who failed to make the first and only interest payment. Petitioner brought suit claiming waiver, modification, and lack of good faith after Respondent accelerated payment. Petitioner appeals the district court’s directed verdict in favor of Respondent.
+
+Synopsis of Rule of Law
+A waiver implied in fact occurs when the intent to waive a contractual obligation is implied from a party’s representations that fall short of an express declaration of a waiver or from his conduct. Based upon the honest believe of the other party that a waiver was intended, a waiver by estoppel may be presumed or implied contrary to the intention of the party waiving certain rights. The waiver is justified because the estopped party reasonably could expect that his actions would induce the reliance of the other party.
+
+Facts
+Petitioner has been a customer of Respondent for over eleven years. Petitioner had entered into numerous revolving notes with Respondent over the years. Petitioner frequently was late making payments but Respondent never took issue with this. In fact, Respondent automatically renewed the notes even when payments were not up to date.
+
+Issue
+Whether Respondent actual waived, express or implied in fact, its right to declare a default and accelerate payment. Whether the parties intended to modify the contract. Whether Respondent waived by estoppel its right to declare a default and accelerate payment. Whether there are facts in the record that would allow a jury to conclude that Respondent lacked good faith.
+
+Held
+No. Respondent’s silence did not indicate an actual intention to relinquish any contractual rights. No. Since Respondent had no intent to actually waive its rights under the contract there is no issue whether there was a modification. Yes. Respondent had a duty to inform Petitioner that it would enforce performance under the contract according to the letter of their agreement and Petitioner detrimentally relied on Respondent’s failure to do so. Yes. The determination of good faith should be based on the facts and circumstances surrounding the acceleration and not solely on Respondent’s testimony.
+
+Discussion
+The post agreement conduct of Respondent did not indicate an actual intent to waive any rights under the contract. When a party accepts a late payment on a contract without comment it waves the default that existed. With repetition, such actions may suggest an intention to accept late payments generally. However, here, the bank had not accepted any earlier late payments on this contract. The one payment required was overdue and Petitioner did not request an extension. While Respondent’s silence may have been misleading it did not reveal an actual intention to relinquish any contractual rights. Since Respondent had no actual intent to waive its rights under the contract, it necessarily follows that there can be no issue of whether the parties intended to modify the agreement. Silence may form the basis for estoppel if a party stands mute when he has a duty to speak. Petitioner interpreted Respondent’s behavior in the light of its earlier dealings and Respondent should have been aware of this consideration. Respondent had a duty to inform Petitioner that it would enforce performance under the contract according to the letter of their agreement. Respondent’s declaration of default without warning and sudden acceleration of payment was the detrimental result of Petitioner’s reliance. The requirement of honesty in fact is subjective. However, a jury may evaluate the credibility and conduct of a creditor by objective standards subject to proof and conducive to the application of reasonable expectations in commercial affairs. This inquiry will necessarily focus on the facts and circumstances known to the creditor at the time.
+

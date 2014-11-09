@@ -1,0 +1,24 @@
+Citation
+468 U.S. 737, 104 S. Ct. 3315, 82 L. Ed. 2d 556, 1984 U.S. 149.
+
+Brief Fact Summary
+Respondents, Parents of black school children (Respondents), filed a class action law suit against the Internal Revenue Service (IRS) (Petitioner) arguing that Petitioner had failed to carry out its obligation to deny tax-exempt status to schools that discriminate.
+
+Synopsis of Rule of Law
+An asserted right to have the Government act in accordance with the law is not sufficient, standing alone, to confer jurisdiction in a federal court.
+
+Facts
+The IRS requires, as a condition for tax-exempt status, that schools not discriminate on the basis of race. Respondents brought a class action suit against the Petitioner, contending that Petitioner had not enforced its statutory mandate. Respondents argued that Petitioner’s failure (1) amounted to federal support for segregated schools and (2) fostered the organization and expansion of such schools, thereby hindering efforts to bring about desegregation.
+
+Issue
+Did Respondents suffer sufficient injury to bring the class action suit?
+
+Held
+No. Respondents lacked standing.
+
+Dissent
+Justice William Brennan (J. Brennan) wrote that the respondents have alleged a direct causal relationship between the government action they challenge and the injury they suffer: the tax-exempt status granted by the IRS to discriminatory schools affects their ability to get an education in an integrated school. The elimination of tax exempt status for discriminatory schools would lessen the impact those schools have on defeating efforts of desegregation.
+
+Discussion
+Separations of powers concerns underlie the standing doctrine.
+

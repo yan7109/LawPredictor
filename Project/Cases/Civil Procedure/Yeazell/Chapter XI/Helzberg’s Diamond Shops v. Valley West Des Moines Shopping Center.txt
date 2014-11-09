@@ -1,0 +1,21 @@
+Citation
+564 F.2d 816, 1977 U.S. App. 10831, 24 Fed. R. Serv. 2d (Callaghan) 528
+
+Brief Fact Summary
+In February of 1975, the Plaintiff, Helzberg’s Diamond Shops (Plaintiff), a Missouri corporation and the Defendant, Valley West Des Moines Shopping Center Inc. (Defendant), an Iowa corporation, executed a written lease agreement. The lease granted Plaintiff the right to operate a full line jewelry store at space 254 in the Valley West Mall in West Des Moines, Iowa. After two other jewelry stores also became tenants in the Valley West Mall, Plaintiff filed suit seeking an injunction against Defendant, preventing it from allowing a fourth jewelry store in the mall, in violation of the original Helzberg-Valley West lease.
+
+Synopsis of Rule of Law
+A party not within the personal jurisdiction of the presiding federal district court can only be joined as a third-party defendant under Federal Rule of Civil Procedure (FRCP) Rule 19(b) if it is indispensable to the litigation, such that the party’s absence will be prejudicial either to that party or the previously named defendant.
+
+Facts
+In February of 1975, Plaintiff, a Missouri corporation and Defendant, an Iowa corporation, executed a written lease agreement. The lease granted Plaintiff the right to operate a full line jewelry store at space 254 in the Valley West Mall in West Des Moines, Iowa. After two other jewelry stores also became tenants in the Valley West Mall, Plaintiff filed suit seeking an injunction against Defendant, preventing it from allowing a fourth jewelry store in the mall, in violation of the original Helzberg-Valley West lease.  Suit was filed in federal court on diversity grounds. Defendant moved to dismiss pursuant to FRCP Rule 19, citing Plaintiff’s failure to join Lords, the purported fourth jewelry store, as a party defendant. The motion was denied.
+
+Issue
+Whether a party is indispensable to an action to determine rights under a contract simply because that person’s rights or obligations under an entirely separate contract will be affected by the result of the action.
+
+Held
+No. The Court of Appeals for the Eighth Circuit held that the district court properly denied the motion to dismiss for failure to join an indispensable party.   Because Lord’s was not subject to personal jurisdiction in the federal district court, the district court was required to determine if Lords should be regarded as indispensable. FRCP Rule 19(b) requires the court to look first to the extent to which a judgment rendered in Lord’s absence might be prejudicial to Lord’s or to Valley West. None of Lord’s rights or obligations will be ultimately determined in a suit to which it is not a party. Thus, Lord’s will not be prejudiced in a way contemplated by FRCP Rule 19(b) as a result of this action.     A person does not become indispensable to an action to determine rights under a contract simply because that person’s rights or obligations under an entirely separate contract will be affected by the result of the action.
+
+Discussion
+A third-party can only be joined as a party defendant, if it would not otherwise be subject to personal jurisdiction in the district court, if the party is regarded as indispensable to the original suit.
+

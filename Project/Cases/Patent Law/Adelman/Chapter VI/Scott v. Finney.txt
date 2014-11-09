@@ -1,0 +1,21 @@
+Citation
+34 F.3d 1058 (Fed. Cir. 1994)
+
+Brief Fact Summary
+Dr. Scott (Plaintiff) contended that his testing of a penile implant was adequate to show reduction to practice.
+
+Synopsis of Rule of Law
+The standard to determine whether there has been sufficient testing to show reduction to practice is a commonsense assessment of whether the invention in fact solved the problem.
+
+Facts
+Dr. Finney (Defendant) and Dr. Scott (Plaintiff) filed for patents concerning a penile implant for impotent patients.  This implant was to consist of a rod that would become rigid upon being filled with liquid that would enter the rod through a pump-and-valve mechanism.  Defendant was the senior party and his filing date was May 15, 1980.  Plaintiff's evidence of reduction to practice before this date consisted of a videotape of a prototype device being implanted in an anesthetized patient.  Plaintiff operated the device in the patient several times to simulate an erection before removing it.  Although the invention in practice would require one valve-and-rod mechanism on each side of the penis, Plaintiff's test consisted of only one.  In addition to the video, Plaintiff provided evidence of testing for leakage.  It was the Board's finding that Plaintiff had failed to show the device would operate successfully under actual usage conditions for a reasonable length of time, so he had failed to show reduction to practice.  Plaintiff appealed.
+
+Issue
+Is a commonsense assessment of whether an invention in fact solved a problem the standard to determine whether sufficient testing has occurred to show reduction to practice?
+
+Held
+(Rader, J.)  Yes.  A commonsense assessment of whether an invention in fact solved a problem is the standard to determine whether sufficient testing has occurred to show reduction.  To prove reduction to practice, the junior party must show utility, meaning the device would operate with success under actual use for a reasonable length of time.  This is often done with testing, and the court should apply a reasonableness standard.  Only utility beyond a probability of failure needs to be shown by testing, not utility beyond a possibility of failure.  There is much case law regarding the adequate amount of testing to meet this requirement, but one theme throughout is that a commonsense approach should be applied by the court.  The character of the testing required is variable depending upon the character of the invention and the problem solved by the invention.  Here, the Board erred in requiring human testing in actual use circumstances for a period of time.  Plaintiff's testing showed a reasonable expectation that his invention would work under normal conditions for its intended purpose beyond a probability of failure.
+
+Discussion
+If an applicant fails to pursue his invention after filing for a patent, it may be ruled that he did not satisfy the reduction to practice element.  In that case, the abandoned application's filing date is instead the date of conception.  It should be noted that testing is not always required.  Some inventions are very simple and their purpose and efficacy is so obvious that construction alone is enough to show workability.  See King Instr. Corp. v. Otari Corp., 767 F.2d 853, 226 U.S.P.Q. 402 (Fed. Cir. 1985).
+

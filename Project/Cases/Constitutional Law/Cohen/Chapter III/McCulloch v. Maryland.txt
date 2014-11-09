@@ -1,0 +1,21 @@
+Citation
+17 U.S. 316, 4 Wheat. 316, 4 L. Ed. 579 (1819)
+
+Brief Fact Summary
+Maryland imposed taxes on banks not chartered by the state to impair the functions of the Bank of the United States (the National Bank) and its branches in Maryland.
+
+Synopsis of Rule of Law
+The federal government is immune from taxation by any state.
+
+Facts
+Congress started the National Bank in 1816. Due to political opposition and corruption within the branches of the National Bank, many states enacted rules discriminating against this bank. Maryland imposed a tax upon all banks not chartered by the state. When the Bank did not pay the taxes, Maryland brought suit to collect those taxes.
+
+Issue
+Could the federal government charter a Bank of the United States?
+
+Held
+Yes, the federal government could charter a Bank of the United States. Maryland argued that the powers of the federal government are granted to it by the states, and that such powers need to be exercised in subordination to the states. Chief Justice Marshall (C.J. Marshall) said the powers did not come from the states, but from the people. He further explained that although the Constitution did not explicitly grant Congress the power to charter a bank, such power could be implied from the grant of other powers. For example, the power to raise revenue could be seen as a justification for the National Bank. And, C.J. Marshall also cited the Necessary and Proper clause as a proper source of this power. He clarified that the word “necessary,” as used in this clause, need not mean that the action is absolutely necessary, but only that the end goal be legitimate and the means to achieve it appropriate.
+
+Discussion
+If Congress acts by explicit or implicit powers granted to it in the Constitution and the means used are rationally related to the objectives sought, the Supreme Court will not strike its action down.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.487 U.S. 654, 108 S. Ct. 2597, 101 L. Ed. 2d 569 (1988)
+
+Brief Fact Summary
+The Supreme Court of the United States held that the independent counsel provisions of the Ethics in Government Act, which granted independent counsel “full power and independent authority to exercise all investigative and prosecutorial functions and powers” of the Justice Department does not violate the Appointments Clause of Article III, nor do the provisions violate the doctrine of separation of powers.
+
+Synopsis of Rule of Law
+An independent counsel is an inferior officer; therefore, Congress may by law vest the Appointment of such inferior officers, as they think proper: in the President, in the courts of Law, or in the Heads of Departments.
+
+Facts
+Appellant, Morrison, an independent counsel, challenged the Ethics in Government Act of 1978 that created a special court and empowered the Attorney General to recommend to that court the appointment of an “independent counsel” to investigate, and, if necessary, prosecute government officials for certain violations of federal criminal laws. A court decided the jurisdiction of the appointed counsel and the Attorney General had the right to remove the counsel for “good cause”. The District Court upheld the Act, but the Court of Appeals reversed the lower court’s holding.
+
+Issue
+Whether the Ethics in Government Act of 1978 violates the Appointments Clause of Article III by empowering the Attorney General to remove the independent counsel only where the Attorney General can show “good cause” and thereby interferes with the President’s appointed functions.
+
+Held
+No. The Court of Appeals judgment reversed. The Court found the independent counsel to be an inferior officer based on its tenure, duration and duties. Thus, under the constitution, independent counsel was not a “principal officer” who, under the Appointments Clause, could only be named by the President. Further, the Court found that appointment of independent counsel by the Court was permissible under the Constitution. Because the independent counsel may be terminated for “good cause,” the Executive, through the Attorney General, retains ample authority to assure that the counsel is competently performing his or her statutory responsibilities in a manner that comports with the provisions of the Act. Therefore, this limitation does not deprive the President control over the independent counsel to interfere impermissibly with the constitutional obligation to ensure the faithful execution of the laws.
+
+Dissent
+The President’s power over the executive functions of the government is complete and exclusive. The majority concludes that the act is valid because it only takes away “some” executive power from the President, but the framers intended that the executive power clearly and fully be vested within the President of the United States.
+
+Discussion
+The Court reconciled its decision barring the President from removing an independent counsel by emphasizing that the Attorney General could remove an independent counsel for “good cause.” Therefore, the Executive, through the Attorney General, retains power to ensure the independent counsel is competently performing its duties.
+

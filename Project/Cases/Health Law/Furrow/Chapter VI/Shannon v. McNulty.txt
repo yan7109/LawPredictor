@@ -1,0 +1,21 @@
+Citation
+Pa. Super. Ct., 718 A.2d 828 (1998)
+
+Brief Fact Summary
+The Shannons (Plaintiff) claimed that their physician, Dr. McNulty (Defendant), and their health maintenance organization, HealthAmerica (Defendant), were vicariously liable for their son's premature delivery and death that followed.
+
+Synopsis of Rule of Law
+When a benefits provider such as a health maintenance organization (HMO) interjects itself into making medical decisions that affect the care of a subscriber, it must do so in a medically reasonable manner.
+
+Facts
+When Mrs. Shannon (Plaintiff) suffered abdominal and back pain during her first pregnancy, she called her physician repeatedly, Dr. McNulty (Defendant), and the emergency line for her HMO (Defendant) for advice.  McNulty (Defendant) was impatient with Shannon (Plaintiff) and did not want to see her again, and the triage nurses told her to call her doctor.  She later went into preterm labor and the baby died after delivery due to being severely premature.  Plaintiff brought suit for negligence under either a corporate or vicarious liability theory, but the trial court granted McNulty's (Defendant) motion for a compulsory nonsuit.  The Plaintiffs filed timely post-trial motions attempting to have the nonsuit removed.  The motions were denied, and this appeal followed.
+
+Issue
+When a benefits provider such as a health maintenance organization (HMO) interjects itself into making medical decisions that affect the care of a subscriber, must it do so in a medically reasonable manner?
+
+Held
+(Melvin, J.)  Yes.  When a benefits provider such as a health maintenance organization (HMO) interjects itself into making medical decisions that affect the care of a subscriber, it must do so in a medically reasonable manner.  The corporate liability that applies to hospitals may be extended to HMOs as care providers with a significant role in the total health care of patients.  In this case, HealthAmerica (Defendant) provided a phone service for emergent care staffed by triage nurses.  Therefore, it was under a duty to oversee that the dispensing of such advice by those nurses would be performed in a medically reasonable manner.  HMOs may therefore be held corporately liable for a breach of duties that causes harm to its subscribers.  Reversed and remanded.
+
+Discussion
+In this case, the court cited to the case of Thompson v. Nason Hospital, 527 Pa. 330 (Pa. 1991).  As it relates to hospitals in that case, Pennsylvania first adopted the theory of corporate liability.  When a hospital is liable under the theory of corporate negligence, an injured party does not have to rely on or establish the negligence of a third party.
+

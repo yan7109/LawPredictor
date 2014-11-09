@@ -1,0 +1,24 @@
+Citation
+437 U.S. 117, 98 S. Ct. 2207, 57 L. Ed. 2d 91, 1978 U.S.
+
+Brief Fact Summary
+A Maryland law, prohibiting petroleum producers and refiners from operating gas stations within the state, did not violate the commerce clause.
+
+Synopsis of Rule of Law
+A state law that causes some business to shift from one interstate supplier to another does not impermissibly burden interstate commerce.
+
+Facts
+The Plaintiffs, Exxon Corporation and other oil refiners (Plaintiffs), sell petroleum to independent retailers in Maryland. The state of Maryland passed a law prohibiting producers and refiners of petroleum products from operating retail gas stations within the state to correct inequities in the pricing. There were no virtually no petroleum producers and refiners in Maryland. The effect of this law was to force various companies to divest themselves of their Maryland gas stations. Moreover, the producers and refiners could not directly sell their product in Maryland. Those effected by the law were predominantly out-of-state producers. The Plaintiffs challenged the law, arguing it had a discriminatory effect and that violated the Commerce Clause because it impermissibly burdened interstate commerce. At trial, the Plaintiffs prevailed on due process grounds. However, the Maryland Court of Appeals reversed, upholding the law against the Plaintiffs.
+
+Issue
+Did Maryland’s law impermissibly burden interstate commerce so as to violate the Commerce Clause?
+
+Held
+No, the state law prohibiting oil companies from operating gas stations was upheld even though those affected were mostly out of state oil companies. The statute creates no barrier against interstate independent dealers, nor does it prohibit the flow of interstate goods, place added costs upon them, or distinguish between in-state and out-of-state companies in the retail market. Interstate commerce is not subjected to an impermissible burden simply because an otherwise valid regulation causes some business to shift from one interstate supplier to another. The Commerce Clause protects the interstate market, not particular interstate firms, from prohibitive or burdensome regulations.
+
+Dissent
+Justice Harry Blackmun (J. Blackmun) dissented because he felt the majority failed to condemn impermissible discrimination against interstate commerce in retail gasoline marketing. He felt the laws effect was to protect in state retail gas station dealers over the out-of-state retailers. It is not justified by a legitimate state interest and can be vindicated by a more even-handed regulation. He felt the law violated the Commerce Clause.
+
+Discussion
+All gasoline in Maryland originates from out of state. Therefore, it does not discriminate against out of state retailers because there are no in state retailers. The Commerce Clause protects the interstate market, no particular interstate firms, from prohibitive or burdensome regulations. Although the consuming public may be the independent refiner, that argument relates to the wisdom of the statute, not to its burden on commerce. Thus, the Supreme Court of the United States (Supreme Court) held that a state law that causes some business to shift from one interstate supplier to another does not impermissibly burden interstate commerce.
+

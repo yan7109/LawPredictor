@@ -1,0 +1,21 @@
+Citation
+N.C. Ct. App., 131 N.C.App. 145, 505 S.E.2d 177 (1998)
+
+Brief Fact Summary
+A hospital was sued by a man who suffered permanent nervous system damage after undergoing surgery at the hospital by a doctor who was not Board certified.
+
+Synopsis of Rule of Law
+Before a doctor is granted permission to conduct surgery in a hospital, the hospital owes a duty of care to its patients to confirm that a doctor is qualified to perform surgery.
+
+Facts
+Dr. Anthony Hucks-Folliss performed neck surgery on Tommy Carter (Plaintiff) at Moore Regional Hospital Center (Defendant).  Hucks-Folliss was a neurosurgeon who was on Defendant's staff for more than twenty years.  He had never been certified by the American Board of Neurological Surgery, and had, in fact, failed the certification examination three times.  Credentialing and re-credentialing at Moore (Defendant) was required to comply with Joint Commission on Accreditation of Healthcare Organizations (JCAHO) standards, which stated that Board certification was an "excellent benchmark and to be considered when delineating clinical privileges."  Hucks-Folliss specifically stated on his re-credentialing applications that he was not Board certified.  Plaintiff presented two witnesses who testified that Defendant did not seem to have considered during the re-credentialing process that Hucks-Folliss was not Board certified.
+
+Issue
+Before a doctor is granted permission to conduct surgery in a hospital, does the hospital owe a duty of care to its patients to confirm that a doctor is qualified to perform surgery?
+
+Held
+(Greene, J.)  Yes.  Before a doctor is granted permission to conduct surgery in a hospital, the hospital owes a duty of care to its patients to confirm that a doctor is qualified to perform surgery.  Defendant agreed to be bound by the standards of JCAHO and therefore, failure to comply with the standards is some evidence of negligence.  Defendant argued that it did, in fact, "consider" that Hucks-Folliss was not Board certified; however, the evidence still presents a genuine issue of material fact that precludes summary judgment.  Reversed and remanded.
+
+Discussion
+In this case, some evidence is presented by the hospital's failure to comply with the recommendations of the JCAHO.  The court basically adopts the JCAHO's standards as the negligence standard.  On remand, a prudent attorney for the hospital would challenge that holding because, rightly or wrongly, many working physicians are not Board certified.
+

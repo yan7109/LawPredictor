@@ -1,0 +1,24 @@
+Citation
+22 Ill.450 U.S. 662, 101 S. Ct. 1309, 67 L. Ed. 2d 580 (1981)
+
+Brief Fact Summary
+Appellant Raymond Kassel was director of the Iowa Department of Transportation, which enforced an Iowa statute limiting the length of vehicles using its highways. Consolidated was a Delaware corporation, which had to modify either its trucks or its routes to accommodate the Iowa law.
+
+Synopsis of Rule of Law
+If a statute appears to be non-discriminatory but the purpose or effect of the regulation is to discriminate against commerce, the statute will be invalid. A State may not protect its own local economic interests by discriminating against both out-of-state and in-state trucks.
+
+Facts
+Consolidated Freightways Corporation was a carrier whose trucks traveled through Iowa for east-west and north-south routes. Iowa’s law did not allow companies to use 65 foot double trailers. Consolidated therefore had to either use smaller trucks, detach its trailers when driving though Iowa, or divert its trucks around Iowa. Consolidated won its case in both the District Court and the Eighth Circuit.
+
+Issue
+Does an Iowa statute that prohibits the use of certain large trucks unconstitutionally discriminate against interstate commerce?
+
+Held
+Justice Powell’s opinion: Yes. District Court judgment affirmed.
+
+Dissent
+Justice Rehnquist and Justice Stewart dissenting.
+
+Discussion
+How does one find a unlawful purpose in non-discriminatory legislation?
+

@@ -1,0 +1,21 @@
+Citation
+17 U.S. 316, 4 Wheat. 316, 4 L. Ed. 579 (1819)
+
+Brief Fact Summary
+The state of Maryland enacted a tax that would force the United States Bank in Maryland to pay taxes to the state. McCulloch, a cashier for the Baltimore, Maryland Bank, was sued for not complying with the Maryland state tax.
+
+Synopsis of Rule of Law
+Congress may enact laws that are necessary and proper to carry out their enumerated powers. The United States Constitution (Constitution) is the supreme law of the land and state laws cannot interfere with federal laws enacted within the scope of the Constitution.
+
+Facts
+Congress chartered the Second Bank of the United States. Branches were established in many states, including one in Baltimore, Maryland. In response, the Maryland legislature adopted an Act imposing a tax on all banks in the state not chartered by the state legislature. James McCulloch, a cashier for the Baltimore branch of the United States Bank, was sued for violating this Act. McCulloch admitted he was not complying with the Maryland law. McCulloch lost in the Baltimore County Court and that court’s decision was affirmed by the Maryland Court of Appeals. The case was then taken by writ of error to the United States Supreme Court (Supreme Court).
+
+Issue
+Does Congress have the authority to establish a Bank of the United States under the Constitution?
+
+Held
+Yes. Judgment reversed.
+
+Discussion
+This Supreme Court decision establishes the Constitution as the supreme law of the land, taking precedent over any state law incongruent with it.
+

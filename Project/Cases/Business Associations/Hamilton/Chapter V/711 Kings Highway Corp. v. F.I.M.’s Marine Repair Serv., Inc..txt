@@ -1,0 +1,21 @@
+Citation
+N.Y. Sup. Ct., 273 N.Y.S.2d 299 (1966)
+
+Brief Fact Summary
+711 Kings Highway Corp. (P) leased a movie theater to F.I.M. Marine Repair Serv., Inc (D), but then sought to invalidate the lease on the grounds that its intended use lay outside the scope of business activates allowed in the charter.
+
+Synopsis of Rule of Law
+No act of a corporation and no transfer of property to or by a corporation otherwise lawful shall be invalidated because the corporation lacked power or capacity to commit such an act unless an action was brought by a shareholder or a corporation against an incumbent, former officer, or director.
+
+Facts
+711 Kings Highway Corp. (711) (P) leased a movie theater to F.I.M. Marine Repair Serv., Inc. (F.I.M.) (D) for a period of 15 years. F.I.M. (D) put in a $5,000 security deposit. 711 (P) moved for a declaratory judgment alleging the lease to be invalid, or alternatively, recession on the grounds that the intended use of the property lay outside permissible business activates in the charter. F.I.M. (D) sought to dismiss claiming that 711 (D) could only assert their actions if they were a shareholder.
+
+Issue
+Does an act of a corporation and a transfer of property to or by a corporation otherwise lawful become invalidated because the corporation lacked power or capacity to commit such an act regardless if an action was brought by a shareholder or a corporation against an incumbent, former officer, or director?
+
+Held
+(Anfuso, J.) Yes. No act of a corporation and no transfer of property to or by a corporation otherwise lawful shall be invalidated because the corporation lacked power or capacity to commit such an act unless an action was brought by a shareholder or a corporation against an incumbent, former officer, or director. Clearly, under this rule, 711 (P) has no argument because it does not fall under either exception. Further, 711 (P) cannot waive application of this rule by alleging it inapplicable to executory contracts. Complaint dismissed.
+
+Discussion
+“Ultra Vires” defined means, “Beyond the powers”. When a corporation engages in conduct beyond its charter, it is not necessarily illegal or always void. In Ashbury Railway Carriage & Iron Co. v. Rihce 33 N.S. Law Times Rep. 450 (1875), the question asked whether a contract was voided from the beginning if the intended act of the contract was beyond the powers of the corporation. In this case, the corporation was allowed to repudiate the grounds of “Ultra Vires” even after it was partially performed. However, “Ultra Vires” is declining in importance and should not be applied to Purposes Clauses in Articles of Incorporation.
+

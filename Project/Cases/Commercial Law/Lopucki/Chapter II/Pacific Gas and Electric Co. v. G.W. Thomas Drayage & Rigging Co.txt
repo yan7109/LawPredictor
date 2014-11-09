@@ -1,0 +1,21 @@
+Citation
+69 Cal. 2d 33, 442 P.2d 641, 69 Cal. Rptr. 561,  1968 Cal. 225
+
+Brief Fact Summary
+G.W. Thomas Drayage & Rigging Co. (Defendant) appeals from a judgment for Pacific Gas and Electric Co. (Plaintiff) in an action for damages for injury to property under an indemnity clause in the contract.
+
+Synopsis of Rule of Law
+A party may offer parol evidence to show the meaning of terms of a contract when the language of the contract is susceptible to the interpretation argued by the party.
+
+Facts
+Defendant entered into a contract with the Plaintiff to furnish the labor and equipment necessary to remove and replace the upper metal cover of Plaintiff’s steam turbine. Defendant agreed to perform the work at its own expense and risk and to indemnify Plaintiff against any loss, damage and liability resulting from injury to property arising out of the performance of the contract. During work the cover fell and damaged the exposed rotor of the turbine. Plaintiff brought action to recover for repairs in the amount of $25,144.51. During the trial it dismissed a count based on negligence and secured judgment on the theory that the indemnity provision covered injury to all property regardless of ownership. Defendant offered evidence to prove that the indemnity clause covers injury to property of third parties only and not to Plaintiff’s property. The trial court held that the plain language of the agreement also required defendant to indemnify Plaintiff for injuries to Plaintiff’
+
+Issue
+Whether extrinsic evidence may be admitted on the basis of the plain language meaning?
+
+Held
+No. Judgment is reversed.
+
+Discussion
+Interpretation addresses how the parties may show the meaning of the terms contained in the writing. This court adopts the Corbin view, which is the subjective approach, which allows parties to introduce extrinsic evidence to aid in the interpretation of a contract even if the writing is an integration.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.478 U.S. 109, 106 S. Ct. 2797, 92 L. Ed. 2d 85 (1986)
+
+Brief Fact Summary
+A reapportionment plan was designed to create the maximum number of safe seats for the Republican party.
+
+Synopsis of Rule of Law
+Redistricting plans designed to secure the maximum number of safe party seats does not violate the United States Constitution (Constitution).
+
+Facts
+Indiana’s Republican controlled legislature passed an apportionment scheme that resulted in gerrymandering and which reduced the political power of democrats. The scheme allowed for more seats to be reserved for Republicans in the legislature. The Democratic party challenged the scheme arguing that it was unconstitutional because it “constituted a political gerrymander intended to disadvantage Democrats.” The District Court sustained an equal protection challenge to Indiana’s 1981 state apportionment on the basis that the law unconstitutionally diluted the votes of Indiana democrats.
+
+Issue
+Whether a reapportionment plan designed to generate the maximum amount of safe party seats is unconstitutional.
+
+Held
+Justice Byron White (J. White). No. The Constitution is not necessarily violated when a reapportionment plan’s purpose is to generate the maximum number of safe party seats. “In cases involving multi-member districts, we have required a substantially greater showing of adverse effects than a mere lack of proportional representation to support a finding of unconstitutional vote dilution. The Democratic Party failed to show that they had “less of an opportunity to participate in the political process and to elect candidates of their choice.” But, just a mere showing that the apportionment scheme “makes it more difficult for a particular group in a particular district to elect the representatives of its choice[,] does not render that scheme constitutionally infirm.” The judgment is reversed.
+
+Dissent
+Justice Lewis Powell (J. Powell). Claims based on gerrymandering ” cannot be tested solely by reference to ‘one person, one vote.” [O]ther relevant neutral factors must be considered. Because the plurality ignores such factors and fails to enunciate standards by which to determine whether a legislature has enacted an unconstitutional gerrymander.” .
+
+Discussion
+In this case, the Supreme Court of the United States (Supreme Court) finds that there were “judicially discernible and manageable standards by which political gerrymander cases [can] be decided.”
+

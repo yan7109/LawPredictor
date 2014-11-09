@@ -1,0 +1,24 @@
+Citation
+268 U.S. 652, 45 S. Ct. 625, 69 L. Ed. 1138, 1925 U.S. 598.
+
+Brief Fact Summary
+A New York statute made it a crime to advocate overthrowing the government by force. Defendant, after having published the Socialist manifesto of the Left Wing Section of the Socialist party with which he was associated, was convicted under the statute.
+
+Synopsis of Rule of Law
+A State may forbid the publication of utterances if such utterances have a tendency to result in action dangerous to the public, even if such utterances create no immediate clear and present danger.
+
+Facts
+A New York statute (the “Statute”) provided that any person who advocated, advised or taught the duty of overthrowing the government by force or violence or any other unlawful means is guilty of a felony. Defendant was a member of the Left Wing Section of the Socialist party, a dissenting branch of the more moderate Socialist main party. As such, Defendant arranged for the printing and publication of the Left Wing Manifesto. Upon this basis, Defendant was convicted under the Statute in New York State Court and the case was eventually appealed to the United States Supreme Court.
+
+Issue
+Was the Statute an unreasonable or arbitrary exercise of the police powers of the State thus improperly infringing the rights of free speech and press?
+
+Held
+No. The constitutionality of the Statute is sustained. Conviction affirmed.
+
+Dissent
+Justice Holmes: Justice Holmes would argue that the criterion established in Schenck v. United States, 249 U.S. 47 (1919), applies: “The question in every case is whether the words used under the circumstances are of such a nature as to create a clear and present danger that they will bring about the substantive evils the State has a right to prevent.” It is evident that there was no present danger here of an attempt to overthrow the government by force by the small group who shared Defendant’s views.
+
+Discussion
+The Supreme Court of the United States applies the First Amendment to the States through the Fourteenth Amendment for the first time in this case. What is also notable about this case is the deference that Supreme Court is willing to grant to the States to determining the applicable limits on dangerous speech.
+

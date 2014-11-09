@@ -1,0 +1,27 @@
+Citation
+Wash. Sup. Ct., 99 Wash. 2d 609, 664 P.2d 474 (1983)
+
+Brief Fact Summary
+Herskovit's (Plaintiff) malpractice suit was dismissed by a trial court because she failed to show that her decedent would probably have survived except for the alleged malpractice.
+
+Synopsis of Rule of Law
+In a wrongful death/malpractice suit, a Plaintiff is not required to prove that the decedent would more likely than not have survived except for the alleged malpractice.
+
+Facts
+Herskovit's (Plaintiff) decedent went to the Group Health Cooperative of Puget Sound (Defendant) complaining of coughs and chest pain.  Defendant failed to diagnose lung cancer, which was then diagnosed by a different facility one year later.  The decedent's lung was then removed, but he died 20 months later.  Plaintiff sued Defendant for negligence in its failure to diagnose the lung cancer.  Defendant moved for summary judgment, arguing that the decedent suffered from a probability of dying even if the diagnosis would have been made promptly.  At best, the decedent's chance of recovery was 39 percent; the Defendant's alleged negligence reduced it to 25 percent.  Summary judgment was granted by the trial court.  Plaintiff appealed.
+
+Issue
+In a wrongful death/malpractice suit, is a Plaintiff required to prove that the decedent would more likely than not have survived except for the alleged malpractice?
+
+Held
+(Dore, J.)  No.  In a wrongful death/malpractice suit, a Plaintiff is not required to prove that the decedent would more likely than not have survived except for the alleged malpractice.  To hold otherwise would have the practical effect of protecting medical providers from liability whenever a decedent had less than 50 percent chance of living, no matter how extreme the negligence was.  This is not a proper result.  Analytically, the issue boils down to the jury question of proximate cause.  Using this case as an example, the question is whether a decrease from 39 percent to 25 percent in chances of survival could be considered a big factor in bringing about injury.  As noted before, this is a jury question, and cannot be resolved at the summary judgment level.  Therefore, the trial court erred by granting summary judgment.  Reversed.
+
+Dissent
+(Brachtenbach, J.)  The basic question is whether the patient died as a result of the doctor's malpractice.  This cannot be so when the patient would probably have died anyway.
+
+Concurrence
+(Pearson, J.)  All that is required to be shown is that the alleged malpractice caused a significant reduction in chance of survival.
+
+Discussion
+The opinion was only concerned with liability.  However, in the context of this case, damages recoverable would be an issue.  One possible way to measure damages would be to make them commensurate with the lessening of decedent's chance of survival as a result of the malpractice.  In this case, Plaintiff would receive 14 percent of full recovery under the measure.
+

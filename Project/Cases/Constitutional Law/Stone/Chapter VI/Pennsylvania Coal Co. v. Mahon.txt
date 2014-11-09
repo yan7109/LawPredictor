@@ -1,0 +1,24 @@
+Citation
+260 U.S. 393, 43 S. Ct. 158, 67 L. Ed. 322 (1922)
+
+Brief Fact Summary
+A Pennsylvania law deprived a coal company of rights to mining the company had obtained by contract with another private party. The constitutionality of the State’s undermining a private contract was called into question by Plaintiff Mahon, who claimed that the application of the Pennsylvania law
+
+Synopsis of Rule of Law
+While property may be regulated to a certain extent, if the regulation goes too far, it will be recognized as a taking.
+
+Facts
+The Pennsylvania Kohler Act (the “Act”) forbade the mining of coal in such a way as to cause land used for human habitation to sink. Prior to the enactment of the Act, the Pennsylvania Coal Company (”Defendant”) was mining underneath Plaintiff’s house thereby causing his house and the surface underneath it to subside. Defendant was mining pursuant to a contract entered into by the parties, conveying the surface of the land to Plaintiff but the right to remove all of the coal underneath the same to the Defendant. Plaintiff alleged that the Act applied to contracts executed before the Act’s enactment and thus barred Defendant from exercising its mining rights under its contract. The Plaintiff sued the Coal Co. to prevent the mining of coal under the Plaintiff’s house in such a way as to remove the supports and cause the house to subsist. The Plaintiff contends that whatever the Defendant’s rights were with respect to the coal underneath the surface, the Kohler Act has taken Defe
+
+Issue
+Was the Act, as applied to previously existing contracts, a proper use of the State’s Police Powers?
+
+Held
+No. Decree Reversed.
+
+Dissent
+Justice Brandeis: A regulation enacted to protect the public health, safety or morals from threatened dangers is not a taking. The Act merely proscribed a noxious use. The restricted property remains in the possession of its owner. The State has not appropriated it or made any use of it.
+
+Discussion
+This case makes clear that there are no bright lines between government regulation of private property that rises to the level of a taking and that which does not. The Supreme Court of the United States in this case decided that a taking occurred based on the extent of the regulation (as opposed to the nature). The Supreme Court does not seem to take into account the importance of the governmental interest here in deciding whether there has been a taking.
+

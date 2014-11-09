@@ -1,0 +1,21 @@
+Citation
+852 F.2d 493,  1988 U.S. App. 9953, 1989 AMC 236
+
+Brief Fact Summary
+A. Kemp Fisheries, Inc. (Plaintiff) sued Castle & Cooke, Inc. (Defendant) for damage resulting from the breakdown of freezer engines on the fishing vessel it had chartered from the Defendant. Defendant appeals from a judgment for the Plaintiff holding the Defendant liable for all the damages suffered by the Plaintiff.
+
+Synopsis of Rule of Law
+The test of admissibility of extrinsic evidence is whether it is relevant to prove a meaning to which the language of the contract is reasonably susceptible.
+
+Facts
+Plaintiff and Defendant agree that Plaintiff would charter a fishing vessel with an option to purchase. Plaintiff needed the vessel to fish for herring and salmon. After Plaintiff’s attorney reviewed the contract, Defendant sent the contract to the Plaintiff. Plaintiff then discovered that the contract differed from his understanding of the arrangement. He understood that Defendant’s machines would be in good working order and that the freezing system would meet his specific needs. However, the agreement contained no such provisions and Plaintiff signed the agreement. He then took out a vessel to sea where two of the engines that control the freezing system broke down. Plaintiff sold the herring he caught for a lower price than that for frozen herring. Plaintiff then repaired the machines but it still ruined the herring. Plaintiff then sued the Defendant for breach of the Charter Agreement, intentional misrepresentation, estoppel and rescission claiming that Defendant agreed t
+
+Issue
+Whether the court properly admitted parol evidence to determine the terms of the Charter Agreement between Plaintiff and a subsidiary of the Defendant?
+
+Held
+Judgment is reversed and is rendered for the Defendant.
+
+Discussion
+This case demonstrates limitation on Pacific Gas and Electric Co. v. G.W. Thomas Drayage & Rigging Co., 69 Cal.2d 33 (1968), which explains that if the parties are sophisticated then the court will use the plain meaning rule to determine the admissibility of extrinsic evidence.
+

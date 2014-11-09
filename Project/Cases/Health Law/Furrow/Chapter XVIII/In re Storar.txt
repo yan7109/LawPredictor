@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 52 N.Y.2d 363, 420 N.E.2d 64 (1981)
+
+Brief Fact Summary
+Storar had been incompetent for life and was dying of cancer when his guardian (Defendant) declined to authorize blood transfusions, which would prevent an earlier death due to blood loss.
+
+Synopsis of Rule of Law
+The guardian of a lifelong incompetent person may not withhold medical treatment in a belief that doing so is in the best interests of the incompetent person.
+
+Facts
+Storar had been retarded from birth and had a mental age of eighteen months, though he was fifty-two years old.  He was diagnosed with terminal bladder cancer.  The lesions in his bladder were bleeding, and blood transfusions were required to keep him alive.  His guardian (Defendant) was his mother, and she first consented to the transfusions, but later withdrew consent.  The hospital (Plaintiff) petitioned for an order to authorize the transfusions.  Storar was not capable of comprehending the purpose of the transfusions.  The transfusions were painful, but Storar was sedated during the procedures.  The petition was denied by the trial court and affirmed by the appellate division.  The New York Court of Appeals granted review.
+
+Issue
+May the guardian of a lifelong incompetent person withhold medical treatment in a belief that doing so is in the best interests of the incompetent person?
+
+Held
+(Wachtler, J.)  No.  The guardian of a lifelong incompetent person may not withhold medical treatment in a belief that doing so is in the best interests of the incompetent person.  An incompetent person, same as an infant, cannot decide for himself whether he requires medical treatment.  A parent cannot deprive a child of lifesaving treatment, no matter how well intentioned.  So it is with the guardian of an incompetent; consent to lifesaving treatment may not be withheld.  In this case, Storar is faced with the possibility of dying from blood loss, and his guardian may not withhold consent that he be treated.  The fact that he will die from cancer within the foreseeable future does not change this analysis.  Reversed.
+
+Discussion
+This case should be compared with Judge Wachtler's opinion in In re Eichner, 420 N.E. 2d 64 (N.Y. 1981), a companion case to the present opinion.  In that case, a guardian was allowed to withhold authorization for treatment.  The difference was that Eichner at one point had been competent and had made his wishes known.
+

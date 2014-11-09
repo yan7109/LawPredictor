@@ -1,0 +1,21 @@
+Citation
+2 K.B. 740 (1903).
+
+Brief Fact Summary
+Paul Krell (Plaintiff) sued C.S. Henry (Defendant) for 50 pounds the remaining of the balance of 75 pounds for which Defendant rented a flat to watch the coronation of the King. The lower court found for the Defendant and Plaintiff appealed.
+
+Synopsis of Rule of Law
+A party’s duties are discharged where a party’s purpose is frustrated without fault by the occurrence of an event, which the nonoccurrence of which was a basic assumption on which the contract was made.
+
+Facts
+Plaintiff and Defendant entered into a contract for the Defendant to rent a flat to watch the coronation of the King. Defendant was induced to contract by an announcement in the window of Plaintiff’s flat renting windows to view the coronation. The contract, however, did not have any express reference to the coronation. The coronation never took place since the King became ill, therefore, Defendant refused payment. Plaintiff sued for the remaining money due under the contract. Defendant denied liability and counterclaimed for the 25 pounds previously paid on the theory that the coronation did not take place, and, thus there was a total failure of consideration for the contract entered into. The lower court found that there was an implied condition in the contract that the coronation should take place and found for the Defendant on liability and the counterclaim. Plaintiff appealed.
+
+Issue
+When the subject of the contract is frustrated is nonperformance of one of the parties excused?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The doctrine of frustration of purpose originated in cases called coronation cases, such as this case. The doctrine of frustration of purpose states when a party’s purpose is frustrated by intervening events the duties of the parties will be discharged. A party’s purpose is frustrated when events occur which destroy this purpose, even though performance of the contract is not impossible.
+

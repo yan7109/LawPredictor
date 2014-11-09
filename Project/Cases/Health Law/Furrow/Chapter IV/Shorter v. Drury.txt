@@ -1,0 +1,21 @@
+Citation
+Wash. Sup. Ct., 103 Wash. 2d 645, 695 P.2d 116 (1985)
+
+Brief Fact Summary
+Shorter's (Plaintiff) decedent was religiously opposed to blood transfusions, and the decedent signed a document releasing medical providers from liability that might arise if injuries therefore resulted.
+
+Synopsis of Rule of Law
+When a patient refuses advised medical treatment, a document that releases the medical providers from liability for results that may occur due to the refusal is valid.
+
+Facts
+Shorter's (Plaintiff) decedent carried a fetus that had died but not miscarried, and had to be surgically removed.  The decedent was a Jehovah's Witness and on religious grounds she opposed blood transfusions and made it clear she did not want one.  She signed a standard refusal to permit a transfusion, which included a clause releasing the providers of responsibility for consequences that could result.  The decedent began to bleed internally during the procedure.  She continued to refuse a transfusion and as a result, she bled to death.  Plaintiff sued for malpractice.  The jury held the surgeon, Drury (Defendant), negligent.  The jury found 75 percent of the damages resulted from the decedent's refusal of a blood transfusion and awarded a net amount of $103,000.00, 25 percent of the gross verdict of $412,000.00.  Plaintiff appealed.
+
+Issue
+When a patient refuses advised medical treatment, is a document that releases the medical providers from liability for results that may occur due to the refusal valid?
+
+Held
+(Dolliver, J.)  Yes.  When a patient refuses advised medical treatment, a document that releases the medical providers from liability for results that may occur due to the refusal is valid. A release of liability from negligence is not enforceable in a matter involving the public interest, such as the provision of medical services in this case.  There is further analysis however.  A release of liability following a refusal to accept a transfusion is not an effort to release a medical provider from the results of his negligence.  It is simply an insistence that the person refusing the transfusion bear the consequences of his own conscious decision.  Any other holding would probably cause the effect of medical providers refusing to treat this type of patient at all, which is a result not consistent with the policy goal of encouraging access to medical treatment.  These reasons show that the jury's 75 percent discount of Plaintiff's award was valid.  Affirmed.
+
+Discussion
+Various religious denominations accept only some or no medical treatment.  What to do in such a situation has long been a difficult issue in health law, especially when the situation involves a minor.  A competent adult refusing treatment is not the same as a parent denying treatment to a child.  The implications of this type of situation go beyond health law and spill over into constitutional and criminal law.
+

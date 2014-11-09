@@ -1,0 +1,21 @@
+Citation
+270 U.S. 390 (1926)
+
+Brief Fact Summary
+Milburn (Plaintiff) charged Davis (Defendant) with patent infringement and Defendant defended the charge by claiming that the application for patent filed by Plaintiff's assignor followed Clifford's patent application that disclosed the invention but did not result in a patent until after Plaintiff's assignor applied.
+
+Synopsis of Rule of Law
+For the purposes of anticipating a later invention, a United States patent disclosing an invention dates from the date of filing of the application.
+
+Facts
+Plaintiff had been assigned the Whitford patent and claimed that Defendant infringed upon it.  As a defense, Defendant claimed that Clifford had filed a patent application which disclosed the invention prior to the date when Whitford filed his patent application, although the patent was not issued to Clifford until after Whitford filed his application.  It therefore argued that Whitford was not the first inventor of the thing patented.  The district court ruled in favor of the Plaintiff and found the Whitford patent valid.  The court of appeals affirmed.  Both courts considered the effective date of the Clifford patent to be the date it was granted, which followed the Whitford application date.  Therefore, it would not be available as a reference to bar a patent being issued to Whitford.  Defendant appealed.
+
+Issue
+For the purposes of anticipating a later invention, does a United States patent disclosing an invention date from the date of the filing of the patent application?
+
+Held
+(Holmes, J.)  Yes.  For the purposes of anticipating a later invention, the effective date of a United States patent is considered to be the date when the patent application was filed.  If an invention is disclosed by a patent where the application and patent grant both took place before a patent application followed covering the same invention, the second patent would clearly be barred.  The delays of the Patent Office should not cause a different result when the first patent is not actually granted until after the second patent application is filed.  The second patent should be barred in both cases because the second one to apply was not the first inventor.  The first applicant has done everything he could to make the description public.  The Patent Office now needs to do its work.  Under the rule already mentioned, the Clifford application served as a bar to a patent being issued to Whitford on the same invention.  Reversed.
+
+Discussion
+The Milburn rule has been criticized for using information as prior knowledge which was secret at the time it was used, that is, patent applications with secret content.  Even so, it has been codified in § 102(e) of the 1952 Patent Act
+

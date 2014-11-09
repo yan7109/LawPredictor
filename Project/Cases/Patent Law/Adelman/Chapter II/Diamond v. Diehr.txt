@@ -1,0 +1,21 @@
+Citation
+450 U.S. 175 (1981)
+
+Brief Fact Summary
+In Diehr's (Plaintiff) suit against Diamond (Defendant), the patent examiner, for rejection of Plaintiff's patent on a process for curing synthetic rubber, Defendant argued  that the steps in Plaintiff's claims that were carried out by a computer under control of a stored program were nonstatutory subject matter under 35 U.S.C. § 101.
+
+Synopsis of Rule of Law
+Patentable claims do not become invalid because they include mathematical formulas.
+
+Facts
+Plaintiff developed a process for curing synthetic rubber which included the use of a mathematical formula and a programmed digital computer in several of its steps.  Defendant rejected Plaintiff's claims because steps in Plaintiff's claims were carried out by a computer controlled by a stored program and therefore were nonstatutory subject matter under 35 U.S.C. § 101.  Defendant concluded that Plaintiff's claims could not be patented as they defined and sought protection of a computer program for operating a rubber-molding press.  At trial, the Court of Customs and Patent Appeals ruled in Plaintiff's favor, stating that when the process was considered as a whole, the claim performed a function which the patent laws were designed to protect.  Defendant appealed.
+
+Issue
+Do patentable claims become invalid because they include mathematical formulas?
+
+Held
+(Rehnquist, J.)  No.  Patentable claims do not become invalid because they include mathematical formulas.  It is now commonplace that an application of a law of nature or mathematical formula to a known structure or process may deserve patent protection.  In deciding whether Plaintiff's claim process is eligible for patent protection under § 101, the claims must be considered as a whole.  Plaintiff's claims are nothing more than a process for molding rubber products, not an attempt to patent a mathematical formula.  Plaintiff's claims, which contain a mathematical formula, transform an article to a different state, which is performing a function which the patent laws were designed to protect.  Affirmed.
+
+Discussion
+In deciding the eligibility of a claimed process for patent protection under § 101, their claims must be considered as a whole.  In is not appropriate to separate claims into old and new elements and ignore the presence of the old elements in the analysis.  This is especially true in a process claim because a new combination of steps in a process may be patentable even though all the parts of the combination were well known and in common use before the combination was made.
+

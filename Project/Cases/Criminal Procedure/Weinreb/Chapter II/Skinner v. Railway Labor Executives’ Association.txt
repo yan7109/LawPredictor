@@ -1,0 +1,21 @@
+Citation
+489 U.S. 602, 109 S. Ct. 1402, 103 L. Ed. 2d 639, 13 OSHC 2065, 130 LRRM 2857, 4 IER Cases 224 (1989)
+
+Brief Fact Summary
+Alcohol and drug use on the American Railroads caused officials to promulgate various regulations.
+
+Synopsis of Rule of Law
+“[A] warrant is [not] essential to render the intrusions here at issue reasonable under the Fourth Amendment.”
+
+Facts
+Various rules applicable to railway employees were promulgated in order to combat both the possession of alcohol or being intoxicated while working.  Rules were also promulgated to stop the use of drugs.  “These restrictions are embodied in ‘Rule G,’ an industry-wide operating rule promulgated by the Association of American Railroads, and are enforced, in various formulations, by virtually every railroad in the country. The customary sanction for Rule G violations is dismissal.”  “In July 1983, the FRA expressed concern that these industry efforts were not adequate to curb alcohol and drug abuse by railroad employees. The FRA pointed to evidence indicating that on-the-job intoxication was a significant problem in the railroad industry.”  ” In view of the obvious safety hazards of drug and alcohol use by railroad employees, the FRA announced in June 1984 its intention to promulgate federal regulations on the subject.”
+
+Issue
+Whether regulations promulgated by the FRA that ‘mandate blood and urine tests of employees who are involved in certain train accidents’ and ‘do not require, but do authorize, railroads to administer breath and urine tests to employees who violate certain safety rules violate the Fourth Amendment[?]‘ ”
+
+Held
+“[T]he permissibility of a particular practice ‘is judged by balancing its intrusion on the individual’s Fourth Amendment interests against its promotion of legitimate governmental interests.’ ” “In most criminal cases, [the Supreme Court] strike[s] this balance in favor of the procedures described by the Warrant Clause of the Fourth Amendment.  Except in certain well-defined circumstances, a search or seizure in such a case is not reasonable unless it is accomplished pursuant to a judicial warrant issued upon probable cause.  [The court has] recognized exceptions to this rule, however, ‘when special needs, beyond the normal need for law enforcement, make the warrant and probable-cause requirement impracticable.’ ” “When faced with such special needs, we have not hesitated to balance the governmental and privacy interests to assess the practicality of the warrant and probable-cause requirements in the particular context.’ ”
+
+Discussion
+This case offers an interesting application of the Fourth Amendment to the railroads and how its requirements can be relaxed.
+

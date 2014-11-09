@@ -1,0 +1,21 @@
+Citation
+2001 SD 43; 624 N.W.2d 96, 2001 S.D. 43, 44 U.C.C. Rep. Serv. 2d (Callaghan) 240
+
+Brief Fact Summary
+Ned Maryott, (Plaintiff), brought this action against First National Bank, (Defendant) for the wrongful dishonor of three checks. Defendant appeals the trial court ruling in favor of Plaintiff in the amount of $250,000 for lost income, $200,000 for lost value of Plaintiff’s business, and $150,000 for emotional distress.
+
+Synopsis of Rule of Law
+While emotional damages may be recoverable under U.C.C. Section:4-402, they are not recoverable unless the plaintiff can establish the requirements of either intentional or negligent infliction of emotional distress.
+
+Facts
+Plaintiff owned and operated a cattle-dealing business. Plaintiff had a reputation for honesty and integrity and was considered one of the best dealers in the business. Plaintiff had been doing business with Defendant for over 15 years. Defendant loaned Plaintiff $276,171 secured by mortgages and security interests on his real estate and personal property. One of Plaintiff’s major customers, Oconto Cattle Company, defaulted on payments and Plaintiff ceased shipping to that it. Plaintiff received two sight drafts from Oconto Cattle Company drawn on its line of credit. However, the drafts were returned because Oconto Cattle Company’s lender had revoked the line of credit.
+
+Issue
+Whether Defendant’s actions proximately caused Plaintiff’s injuries. Whether emotional damages may be recoverable under U.C.C. Section:4-402.
+
+Held
+Yes. The evidence supports a finding that Defendant’s conduct was a substantial factor in causing Plaintiff’s injury. Yes. Emotional damages may be recoverable under Section:4-402 if the plaintiff can establish the requirements of either intentional or negligent infliction of emotional distress.<span class='heading'>Dissent.</span> Law and fact support the jury’s determination. Therefore it should stand and not be overturned. Recovery for actual damages proved encompasses the mental suffering caused by a wrongful dishonor. Juries are capable of determining when actual damages include mental anguish as they did here. The damage to Plaintiff’s reputation and the ensuing effect on his credit created a very real and incredible damage.<br />
+
+Discussion
+Defendant argues that there is no connection between the dishonored checks and Plaintiff’s injuries. Defendant claims that Plaintiff’s check payable to Central Livestock Company would have bounced because of insufficient funds and it would have filed a claim against Plaintiff’s bond as a consequence. However, Central Livestock Company testified that he would not have moved against the bond if the check had been honored because Plaintiff would still be in business and could work out of his indebtedness. Defendant further claims that Schaffer Cattle Company’s claim is irrelevant because the claim by Central Livestock Company would have resulted in the loss of Plaintiff’s business by itself. This is a restrictive view of proximate cause. Defendant would not be absolved form liability merely because other causes contributed to Plaintiff’s injuries since such causes are always present. The U.C.C. provides that common law is effective in commercial transactions unless specifically displaced by a particular code section. Because U.C.C. Section:4-402 does not define the consequential damages that may be recovered and does not clearly indicate an independent right of recovery of emotional damages, the court must interpret that section in light of precedent which requires a plaintiff to prove either intentional or negligent infliction of emotional distress to recover emotional damages.
+

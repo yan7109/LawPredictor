@@ -1,0 +1,21 @@
+Citation
+1 F.3d 1214 (Fed. Cir. 1993)
+
+Brief Fact Summary
+Windsurfing (Plaintiff) was awarded damages based on its market share, but BIC's (Defendant) boards were targeted at a different area of the sailboard market.
+
+Synopsis of Rule of Law
+Determining lost profits using the Panduit test is improper if the patentee's and the infringer's products are not substitutes in a competitive market.
+
+Facts
+Windsurfing International, Inc. (Plaintiff) was awarded damages from BIC Leisure Products, Inc. (Defendant) for lost profits from March 8, 1983 to September 30, 1985.  Plaintiff mainly manufactured its patented "One-Design Class."  Although faster and more versatile boards became more popular in the early 1980s, Plaintiff continued making the "One-Design Class," which were slower and did not maneuver as well.  Plaintiff also did not adopt the new blow molding process and stayed with the rotomolding process instead.  As a consequence, Plaintiff's market dropped from 29.2% to 13.6% from 1983 to 1985.  Defendant's sailboards were different from Plaintiffs and Defendant sold its boards cheaply, going after the entry-level sailboard market.  On the other hand, Plaintiff priced its boards higher on the spectrum.  Over the three-year period, the average price of Defendant's board was $351.33, and Plaintiff's was $610.  The district court amended the test set forth in Panduit Corp. v. Stahlin Bros. Fibre Works, 575 F.2d 1152 (6th Cir. 1978), to presume that Plaintiff would capture a share of Defendant's sales in proportion to Plaintiff's share of the market.  Defendant appealed.  The district court also refused a lost profits award based on price erosion.  Plaintiff appealed.
+
+Issue
+Is determining lost profits using the Panduit test proper if the patentee's and the infringer's products are not substitutes in a competitive market?
+
+Held
+(Rader, J.)  No.  Determining lost profits using the Panduit test is improper if the patentee's and the infringer's products are not substitutes in a competitive market.  A patent owner is required to prove that "but for" infringement, in order to recover lost profits it would have made on the infringer's sales.  Both Panduit factors, first, demand for the patented product, and second, absence of acceptable, non-infringing alternatives, assume the patent owner and infringer sell largely the same product, and therefore fail the "but for" test.  If the products are not similar enough, the infringer's customers would not necessarily transfer their demand to the patent owner's product.  Without Defendant in the market, Defendant's customers likely would have looked for boards in the same price range rather than purchasing Plaintiff's boards.  Regarding the decision on price erosion, according to the record there were other market forces besides Defendant which led to Windsurfing lowering its board costs.  Reversed in part. Affirmed in part.
+
+Discussion
+The price erosion doctrine was created to compensate plaintiffs who lost profits due to infringement that caused Plaintiff to reduce prices.  In the case of this Plaintiff, the facts showed several more reasons that may have led Plaintiff to lower its costs.  However, there was a vigorous price competition between 3M and Johnson & Johnson over equivalent products that caused a steady decline in prices, and a price erosion award was found to be acceptable.  See Minnesota Mining & Manufacturing Co. v. Johnson & Johnson Orthopaedics Inc. 976 F.2d 1559, 24 U.S.P.Q.2d 1321 (Fed. Cir. 1992).
+

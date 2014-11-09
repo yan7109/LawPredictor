@@ -1,0 +1,24 @@
+Citation
+518 U.S. 839, 116 S. Ct. 2432, 135 L. Ed. 2d 964, 1996 U.S. 4266
+
+Brief Fact Summary
+The Supreme Court of the United States hears the case to consider whether the Government may assert four special defenses to Respondents’ claims for breach: the canon of construction that surrenders of sovereign authority must appear in mistaken terms; the rule that an agent’s authority to make such surrenders must be delegated in express terms; the doctrine that a government may not contract to surrender certain reserved powers; and the principle that a government’s sovereign acts do not give rise to a claim for breach of contract.
+
+Synopsis of Rule of Law
+The unmistakability doctrine, which states that all government contracts under sovereign power will remain intact unless surrendered in unmistakable terms, does not shield the government from liability under contracts established with private parties.
+
+Facts
+This case is regarding the impact of FIRREA’s tightened capital requirements on three thrift institutions created by way of supervisory mergers. Glendale Federal Bank, Winstar corporation, and The Statesman Group (Respondents) acquired thrifts in 1981, 1984, and 1998, respectively. After the passage of FIRREA, federal regulators seized the Winstar and Statesman thrifts for failure to meet the new capital requirements. Respondents filed suit seeking money damages on both contractual and constitutional grounds on the grounds that the Bank Board and FSLIC promised them that the supervisory good will created in their merger transactions could be counted toward regulatory capital requirements. The court granted summary judgment on the contractual claims, finding that the government breached its contractual obligations to permit respondents to count supervisory goodwill and capital creditors toward their regulatory capital requirements. The Federal Circuit reversed, finding that the
+
+Issue
+Whether in the enforceability of contracts between the Government and participants in a regulated industry, they are given particular regulatory treatment in exchange for their assumption for liabilities that threatened to produce claims against the Government as insurer?
+
+Held
+No. Judgment if affirmed and remanded.
+
+Dissent
+The plurality opinion reduces the scope of the unmistakeability doctrine, clouding it with uncertainty and limiting the sovereign acts doctrine so that it will have virtually no further application. The unmistakeability doctrine and the sovereign acts doctrine are not entirely separate principles.
+
+Discussion
+A plurality opinion is an opinion lacking enough judges’ votes to constitute a majority, but receives more votes than any other opinion.
+

@@ -1,0 +1,21 @@
+Citation
+526 U.S. 40, 119 S. Ct. 977, 143 L. Ed. 2d 130, 1999 U.S.
+
+Brief Fact Summary
+Injured workers are suing because medical payments were withheld under the amended workers’ compensation scheme. They allege that by withholding these benefits, insurers acting on behalf of the state, are depriving them of property in violation of due process.
+
+Synopsis of Rule of Law
+A close nexus between the state and a private actor exists if the state has exercised a coercive power or has provided such encouragement. However, action taken by private entities with the mere approval of the state is not state action
+
+Facts
+Injured workers are challenging Pennsylvania’s recent changes to its workers compensation system that requires a third party to review the medical treatment for appropriateness before payment is rendered.
+
+Issue
+Can a private insurer’s decision to withhold payment for disputed medical treatment in a state’s workers’ compensation system be attributed to the state as “state action”?
+
+Held
+No. Private insurers are state actors only if there is a sufficiently close nexus between the state and the challenged action by the insurer.
+
+Discussion
+The Respondents argue that the insurers are state actors because the state regulation encouraged the utilization review and the withholding of payments. But the decision to withhold payment is completely within the control of the insurer. The state does not provide utilization review guidelines, nor does it participate in the review process. Therefore, a case for entanglement between the state and the insurer cannot be established as it was in Burton.
+

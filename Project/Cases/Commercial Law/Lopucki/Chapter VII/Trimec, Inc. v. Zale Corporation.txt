@@ -1,0 +1,21 @@
+Citation
+150 B.R. 685, 1993 U.S. Dist. 273
+
+Brief Fact Summary
+Trimec, Inc. brought suit against Zale Corporation (Zale) and Aeroplex Stores Inc. (Aeroplex) for losses resulting from a joint venture with Aeroplex called Aeroplex O’Hare. Aeroplex and Zale filed a third-party complaint against the City of Chicago, (the “City”) with whom Aeroplex O’Hare had contracted. The City counterclaimed against Aeroplex, Trimec, Aeroplex O’Hare, Zale as a guarantor, and FIC as a surety. Aeroplex, Trimec, and Zale move to stay this case pending resolution of the City’s claim in Zale’s bankruptcy case.
+
+Synopsis of Rule of Law
+A stay is appropriate where there is such identity between the debtor and the third-party defendant that the debtor may be said to be the real party defendant and that the judgment against the third-party defendant will in effect be a judgment or finding against the debtor.
+
+Facts
+Aeroplex O’Hare was a joint venture between Trimec, Inc. and Aeroplex, at the time a subsidiary of Zale. Aeroplex O’Hare contracted with the City to operate three concessions at O’Hare International Airport. Aeroplex O’Hare would pay the City $14 million over the course of the five-year term. Zale guaranteed Aeroplex O’Hare’s obligation and O’Hare posted a $1 million performance bond guaranteed by the Federal Insurance Company, (FIC). After 2 years, Aeroplex O’Hare abandoned its operations. Trimec brought suit against Zale and Aeroplex for its lost capitalization funds and profits. Aeroplex and Zale filed a third-party complaint against the City. The City counterclaimed against Aeroplex, Trimec, Aeroplex O’Hare, Zale as a guarantor, and FIC as a surety. Trimec settled its lawsuit with Aeroplex and Zale. Zale filed for bankruptcy and all further proceedings against it, including this one were stayed. The City moved to have the stay lifted. Zale objected and moved to have the st
+
+Issue
+Whether a judgment in favor of the City in the instant action would serve as a judgment against Zale thus improperly defeating the purpose of the automatic stay invoked in Zale’s bankruptcy proceeding.
+
+Held
+Yes. A judgment in favor of the City in the instant action would serve as a judgment against Zale because it is a guarantor of Aeroplex O’Hare.
+
+Discussion
+Because Zale is Aeroplex O’Hare’s guarantor, it would be bound by a judgment in this case regardless of whether it was involved in the litigation and agreed to indemnify the other defendants. Such a result would be inequitable because Zale would not have had the opportunity to defend itself and a judgment in favor of the City would have a significant impact on Zale’s estate in its bankruptcy proceeding.
+

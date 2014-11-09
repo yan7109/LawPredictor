@@ -1,0 +1,21 @@
+Citation
+74 U.S. 506, 7 Wall. 506, 19 L. Ed. 264 (1869)
+
+Brief Fact Summary
+McCardle appealed a habeas corpus action to the Supreme Court of the United States (Supreme Court) under an 1867 Congressional Act. In response, Congress passed a new Act repealing the Supreme Court’s appellate jurisdiction over this type of habeus corpus action.
+
+Synopsis of Rule of Law
+Congress has the power to limit the appellate jurisdiction of the Supreme Court.
+
+Facts
+McCardle was a Mississippi newspaper editor. He was in military custody under the post-Civil War Reconstruction Acts. He brought a habeas corpus proceeding under an 1867 Act of Congress authorizing federal courts to grant habeas corpus to anyone restrained in violation of the United States Constitution (Constitution). The Act also permitted appeals to the Supreme Court. The lower court denied McCardle’s claim that the Reconstruction Acts were beyond the constitutional power of Congress. McCardle appealed to the Supreme Court. Congress then passed an Act that repealed the part of the 1867 Act allowing for appeal to the Supreme Court.
+
+Issue
+Does Congress have the power to take away jurisdiction previously granted to the Supreme Court?
+
+Held
+Yes. Appeal dismissed for lack of jurisdiction.
+
+Discussion
+The Congressional Act did not affect the Supreme Court’s jurisdiction over original habeas corpus actions filed with it, but only repealed it’s jurisdiction over habeas corpus appeals from Circuit Co
+

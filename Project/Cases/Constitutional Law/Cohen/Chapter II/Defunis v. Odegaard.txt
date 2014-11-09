@@ -1,0 +1,24 @@
+Citation
+22 Ill.U.S. 312, 94 S. Ct. 1704, 40 L. Ed. 2d 164 (1974)
+
+Brief Fact Summary
+Marco DeFunis, Jr. applied for admission as a first-year student at the University of Washington Law School, a state-operated institution. When he was denied admission, he brought suit in a Washington trial court claiming that the admissions committee procedures were racially discriminatory.
+
+Synopsis of Rule of Law
+In federal cases before the Supreme Court, there must be an actual case and controversy which exists at the stages of appellate or certiorari review, and not simply at the date the action is initiated.
+
+Facts
+Marco DeFunis, Jr. sued the University of Washington Law School, a state operated university. DeFunis argued that the University’s admissions policies and criteria were racially discriminatory. However, DeFunis was allowed to attend the law school during the case and was in his third year when the case was heard by the Court. Further, the University has agreed to let him graduate upon completion of his last year.
+
+Issue
+Does an actual controversy exist between the parties, capable of redress by the United States Supreme Court (Supreme Court)?
+
+Held
+The Court ordered the parties to address the issue of mootness before they proceeded to any other claims in the petition. The Court reasoned that “federal courts are without power to decide questions that cannot affect the rights of litigants in the cases before them.” This requirement stems from Article III of the Constitution, under which the exercise of judicial power depends upon the existence of a case or controversy. No amount of public interest would be sufficient to create an actual case or controversy, and the case was rendered moot because DeFunis was going to graduate from the law school regardless of the Court’s ruling. Thus, the case was rendered moot. “[T]he controversy between the parties has thus clearly ceased to be definite and concrete.”
+
+Dissent
+There were numerous potential litigants who would be affected by a decision on the legal issues presented. Further, 26 amici curiae briefs were filed by parties in this case. The public interest would be best served by reviewing these issues now, as they would inevitably find their way back into the federal court system. There was a stronger interest in litigating these issues immediately to avoid repetitious litigation that would inevitably occur due to the high public interest in this issue.
+
+Discussion
+A case is considered “moot” if a justiciable controversy existed when a case was filed, but circumstances after filing indicate the litigant no longer has a stake in the controversy. In such a situation, the Supreme Court’s jurisdiction is not invoked, and the Court will not even hear the other issues presented.
+

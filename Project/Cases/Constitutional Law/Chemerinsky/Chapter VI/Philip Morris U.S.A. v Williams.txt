@@ -1,0 +1,24 @@
+Citation
+127 S. Ct. 1057 (2007)
+
+Synopsis of Rule of Law
+Taking into account third parties, not parties to a lawsuit, when assessing damages is a violation of procedural due process, since the defendant does not have an opportunity to defend against the non parties.
+
+Facts
+The widow of Jesse Williams, a heavy cigarette smoker, brought a claim for negligence and deceit against Philip Morris, the manufacturer of Marlboro, the brand that Williams smoked. The jury found that his death was caused by smoking, and that Williams smoked in significant part because he felt it was safe to do so, and that Philip Morris knowingly and falsely led him to believe that this was a correct assumption. Therefore, the jury found them guilty of deceit, and awarded 79.5 million in punitive damages (in addition to the economic and non economic compensatory damages). The jury was given instructions as follows: “punitive damages are awarded against a defendant to punish misconduct and deter other misconduct’ and “are not intended to compensate the plaintiff or anyone else for damages caused by the defendant’s conduct”.
+
+Issue
+Does the Due Process Clause permit a jury to base an award in part upon its desire to punish the defendant for harming persons not before the court.
+
+Held
+No. It amounts to taking without due process.
+
+Dissent
+(Stevens) Justice Stevens compares punitive damages in both criminal and civil cases, and as their purpose is to punish and dissuade the defendant from acting in the same fashion, it is appropriate to take into account other harms. The dissent also compares this case to punishing someone for throwing a bomb and murdering hundreds of innocent bystanders, as the jury can absolutely take into account the number of people injured when determining an appropriate punishment. Justice Thomas also dissented, pointing out that the constitution does not put a limit on damages, only requires that a defendant receive notice and a hearing. In addition Justice Ginsburg dissents arguing that the entire purpose of punitive damages is to punish, and therefore the jury should absolutely take into account the extent of harm and how many individuals are harmed.
+
+Concurrence
+
+
+Discussion
+The court held that the Due Process Clause forbids a state to use punitive damages award to punish a defendant for injury that it inflicts upon non parties who are not involved in the lawsuit.  This is because the due process clause prohibits a state from punishing someone without first  providing that person with an opportunity to be heard, or defend themselves. Here, the court felt that too much was left for the jury to speculate – how man people were harmed by Philip morris and how seriously were they injured? What were the circumstances? The court find this too arbitrary and uncertain, and does not provide the defendant with the notice they need to properly defend themselves. While a jury may use instances of past harm to determine reprehensibility, the jury may not punish on harm done to individuals not present.
+

@@ -1,0 +1,24 @@
+Citation
+301 U.S. 1, 57 S. Ct. 615, 81 L. Ed. 893, 1937 U.S.
+
+Brief Fact Summary
+This case challenges the constitutionality of the National Labor Relations Act of 1935 (the Act) when the Act regulates activity that occurs solely within the boundaries of one state.
+
+Synopsis of Rule of Law
+Congress has the power to regulate intrastate activities that potentially could have a significant impact on interstate commerce.
+
+Facts
+This case challenged the constitutionality of the Act. The National Labor Relations Board (NLRB) found that Jones & Laughlin Steel Corp. (Jones & Laughlin) engaged in unfair labor practices by firing employees involved in union activity. Jones & Laughlin failed to comply with an order to end the discriminatory practices. The NLRB sought enforcement of its order in the Court of Appeals. The Court of Appeals found the order was outside of the range of federal power. The matter was appealed to the Supreme Court of the United States (Supreme Court).
+
+Issue
+Does the federal government have the power to regulate local employment practices in companies whose business effects interstate commerce?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+The employee discharges are too remote from interstate commerce to justify Congressional regulation.
+
+Discussion
+Congress passed the Act under its commerce power. The commerce power is a broad ranging power, which is the basis for a significant amount of Congressional legislation.
+

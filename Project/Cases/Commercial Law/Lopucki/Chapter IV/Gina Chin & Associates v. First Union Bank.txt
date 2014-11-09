@@ -1,0 +1,21 @@
+Citation
+256 Va. 59, 500 S.E.2d 516, 1998 Va. 98, 35 U.C.C. Rep. Serv. 2d (Callaghan) 1069
+
+Brief Fact Summary
+Gina Chin & Associates, (Petitioner), brought suit against First Union Bank, (Respondent), alleging that Respondent was negligent when it accepted checks drawn on Petitioner’s account bearing both forged signatures of the drawer and forged indorsements of the payees. Petitioner appeals summary judgment in favor of Respondents.
+
+Synopsis of Rule of Law
+U.C.C. Section:3-404 and Section:3-405 allow the drawer to seek recovery for a loss caused by the negligence of any person paying the instrument or taking it for value based on comparative negligence principles. All participants in the process have a duty to exercise ordinary care in the drawing and handling of instruments and that the failure to exercise that duty will result in liability to the person sustaining the loss.
+
+Facts
+Petitioner is a food wholesaler that maintained checking accounts at Signet Bank and Citizen’s Bank of Washington, D.C. Between 1994 and 1995, Amie Cheryl Lehman, an employee of Petitioner forged the signature of Petitioner’s officers on several checks that were payable to Petitioner’s suppliers. Amie Cheryl Lehman then forged the indorsements and deposited the checks in her account with Respondent.
+
+Issue
+Whether a drawer may use U.C.C. Section:3-404 and Section:3-405 against the depositary bank in a double forgery situation.
+
+Held
+Yes. A drawer may seek recovery from a depositary bank where the signature of the drawer is forged under U.C.C. Section:3-404 and Section:3-405.
+
+Discussion
+Nothing in the statutory language indicates that where the signature of the drawer is forged, the drawer cannot qualify as the “person bearing the loss.” Nor is it the case that the drawer is otherwise precluded from recovering from a depositary bank. Therefore these sections are applicable in double forgery situations. Since the motion alleges that the acceptance of he forged checks by Respondent was negligent and in contravention of established banking customs and standards and was due to the negligent failure of Respondent to supervise its employee, it is sufficient to state a cause of action under U.C.C. Section:3-404 and Section:3-405.
+

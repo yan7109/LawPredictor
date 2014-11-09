@@ -1,0 +1,21 @@
+Citation
+34 F.3d 462, 1994 U.S. App. 23958, 24 U.C.C. Rep. Serv. 2d (Callaghan) 485
+
+Brief Fact Summary
+Chronister Oil Co., (Petitioner) brought suit for breach of contract against Unocal Refining & Marketing, (Respondent) arising out of a contract for the sale of 25,000 barrels of gasoline by Petitioner to Respondent at 60.4 cents per gallon. The district court ruled that Petitioner had breached the contract and awarded Respondent damages.
+
+Synopsis of Rule of Law
+If a reasonable response for a buyer to the breach would be to make the product itself, then the difference between the market price of that product and the contract price would be the appropriate measure of the harm from the breach.
+
+Facts
+Petitioner contracted to sell Respondent 25,000 barrels of gasoline at 60.4 cents per gallon. In order to fill this contract, Petitioner purchased gasoline from Enron, who in turn made a contract with a supplier, Crown Petroleum to deliver the 25,000 barrels to Colonial Pipeline’s pipeline at Pasadena, Texas. When Colonial Pipeline tested the gasoline, it determined that the gasoline contained too much water and refused to take it. Petitioner got in touch with Enron, which agreed to supply another 25,000 barrels but only at some time after the date for performance of the contract between Petitioner and Respondent. Respondent refused. Petitioner accepted Enron’s agreement and subsequently sold that gasoline to another purchaser at 55.3 cents per gallon.
+
+Issue
+Whether Respondent was entitled by U.C.C. Section:2-712 to obtain as damages the difference between the cover price which it deems to be 63.14 cents per gallon, the average cost of the inventory from which it obtained the substitute supply of gasoline and the contract price of 60.4 cents.
+
+Held
+No. This amount would result in conferring a windfall gain on Respondent.
+
+Discussion
+Respondent’s response in diverting gasoline in transit to storage was reasonable. The concept of loss that underlies the computation of legal damage thus resembles the economist’s concept of “opportunity cost”: the opportunity one gives up by engaging in some activity is the cost of that activity. By diverting the gasoline, Respondent gave up the opportunity to sell the gasoline on the market, which would have yielded it substantially less than the average cost of its inventory because the market price was much lower than that cost, or the opportunity have larger and soon to be unusable inventory. Neither course of action would have yielded value equal to Respondents average cost of inventory or equal to the contract price.
+

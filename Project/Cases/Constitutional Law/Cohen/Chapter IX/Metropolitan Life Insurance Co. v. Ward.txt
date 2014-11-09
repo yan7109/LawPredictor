@@ -1,0 +1,24 @@
+Citation
+22 Ill.471 U.S. 1120, 105 S. Ct. 2370, 86 L. Ed. 2d 269 (1985)
+
+Brief Fact Summary
+Alabama imposes a higher tax rate on out-of-state insurance companies than on domestic insurance companies.
+
+Synopsis of Rule of Law
+A rational basis to a legitimate government interest must be shown to uphold a state’s discrimination on out-of-state companies.
+
+Facts
+Out-of-state life insurance companies pay a tax on their gross premiums received from business conducted in Alabama at a tax rate of 3% and out-of-state companies selling other types of insurance pay at a rate of 4%. However, Alabama insurance companies pay only a rate of 1% on all types of insurance premiums. The Appellant, Metropolitan Life Insurance Co. and other insurance companies (Appellant), sought to have the higher tax rate declared unconstitutional. The Alabama Supreme Court denied certiorari on all claims.
+
+Issue
+Whether Alabama’s domestic preference tax statute, that taxes out-of-state insurance companies higher rates than domestic insurance companies violates the Equal Protection Clause of the United States Constitution (Constitution).
+
+Held
+Justice Lewis Powell (J. Powell). Yes. The Alabama tax on out-of-state insurance companies violated the Equal Protection Clause of the Constitution because it imposes a higher tax rate on the out-of-state insurance companies than it does on domestic insurance companies. Alabama’s interest in promoting the business of its domestic insurance companies is not rationally related to a legitimate state purpose. The judgment is therefore reversed and the case is remanded for further proceedings.
+
+Dissent
+Justice Sandra Day O’Connor (J. O’Connor). “The newly unveiled power of the Equal Protection Clause would come as a surprise to the Congress that passed the McCarran-Ferguson Act and the Court that sustained the Act against constitutional attack. In the McCarran-Ferguson Act, Congress expressly sanctioned such economic parochialism in the context of state regulation and taxation of insurance. The doctrine adopted by the majority threatens the freedom not only of the States but also of the Federal Government to formulate economic policy.”
+
+Discussion
+This case brings state discrimination of out-of-state commercial interests into the series of equal protection cases requiring review under the rational basis standard of review.
+

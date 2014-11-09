@@ -1,0 +1,21 @@
+Citation
+22 Ill.252 U.S. 416, 40 S. Ct. 382, 64 L. Ed. 641 (1920)
+
+Brief Fact Summary
+Missouri wanted to prevent US game warden Holland from enforcing Migratory Bird Treaty Act of 1918 (the Treaty). It claimed the Treaty infringed on Missouri’s 10th Amendment right against federal intrusion and that Missouri has a pecuniary interest as owners of the birds within its borders. The District Court dismissed the suit and the state appealed.
+
+Synopsis of Rule of Law
+Treaties take precedence over any conflicting state law (regardless of whether the treaty came before or after the enactment of the state law). A federal law can trump an earlier rule in treaty if it is clear that it is meant to do so, or the provisions cannot be fairly reconciled. If the treaty comes later it can trump federal law even if federal law is inconsistent. The last will of the sovereign controls.
+
+Facts
+In 1916, the US and Great Britain signed a treaty protecting migratory birds that were important as a source of food and in controlling harmful insects. The birds traveled through Canada and parts of the US but were in danger of extermination. The Migratory Bird Act was passed to carry out the terms of the treaty. Missouri objected because an earlier act of Congress that attempted, by itself and not in pursuance of a treaty, to regulate killing migratory birds within the states was held unconstitutional in district court. Missouri argued that because Congress had no power to pass this law without the treaty, they should gain power because they are enforcing a treaty.
+
+Issue
+Can Congress pass legislation to enforce a treaty which it could not pass without the treaty?
+
+Held
+Justice Holmes opinion: Yes. District Court judgment affirmed.
+
+Discussion
+What if the US made a treaty with Spain that said it is a crime punishable to publish criticisms of either government? Missouri let Congress bypass the 10th Amendment. Would such a situation allow Congress to bypass the 1st as well? Holmes might say that freedom of speech is specific in the Constitution. Migratory birds do not appear anywhere in the Constitution. Protecting birds would be in the public’s interest whereas restricting freedom of speech would be contrary to that interest.
+

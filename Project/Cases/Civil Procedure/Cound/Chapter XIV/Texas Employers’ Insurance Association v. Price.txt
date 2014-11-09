@@ -1,0 +1,21 @@
+Citation
+22 Ill.336 S.W.2d 304 (Tex. Civ. App. 1960)
+
+Brief Fact Summary
+Plaintiff, an injured employee, filed for compensation due to an accidental injury on the job. A jury found that Plaintiff was totally and permanently injured. Defendant appealed, arguing that the jury had based its decision in part on a juror’s personal experience.
+
+Synopsis of Rule of Law
+A juror commits misconduct if she relates her personal experience in order to influence the other jurors to find in one party’s favor. Such misconduct taints the jury’s verdict and requires a new trial.
+
+Facts
+Loyal Grant Price, Plaintiff, filed for compensation from Texas Employers’ Insurance Association, Defendant and Plaintiff’s employer’s insurance carrier. Defendant generally denied that the Plaintiff’s back injury, suffered at work, resulted in permanent and total disability. There was medical testimony on both sides that Plaintiff’s injury rendered him only partially disabled. By Plaintiff’s own testimony, he was totally disabled because it caused him a great deal of pain to work. During deliberations, a juror related to the other members of the jury a personal experience he had with his own company’s treatment of employees with back injuries. The juror related that Plaintiff would have a hard time finding a job because Plaintiff would not be able to pass the physical examination that prospective employees were required to take. The juror mentioned specific companies that he knew Plaintiff would not be able to work for. The juror also mentioned that there might be some jobs Plaintiff could get, but doubted whether he would successfully find employment. The trial judge refused to order a new trial based on jury misconduct. Defendant appealed.
+
+Issue
+Did the juror’s conduct in relating his own experiences with union companies screening prospective employees constitute material misconduct that probably resulted in injury to Defendant?
+
+Held
+Yes. Reversed and remanded.  It is up to the jury to determine the weight given to evidence and which testimony to believe or disbelieve. However, a juror cannot use his/her own personal experiences to persuade the jury to find in favor of a particular fact issue.  When a juror presents his/her personal experiences to the other members of the jury during deliberations as if it were evidence presented at trial, and such personal experiences were material to the jury’s decision and probably resulted in injury to the losing party, the verdict is invalid and the trial judge must grant a new trial.
+
+Discussion
+A juror cannot use specific facts from personal experiences as arguments for finding in favor of one party.
+

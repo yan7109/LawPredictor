@@ -1,0 +1,24 @@
+Citation
+22 Ill.469 U.S. 528, 105 S. Ct. 1005, 83 L. Ed. 2d 1016, 27 WH Cases 65 (1985)
+
+Brief Fact Summary
+Congress enacted a statue, which regulated minimum wage and overtime provisions applicable to all businesses of a certain size. The statute contained no exemption for employees of state-owned mass transit systems.
+
+Synopsis of Rule of Law
+The Tenth Amendment provides that “the powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the People.” This Amendment places a small but significant limit on Congress’ ability to use the commerce power to regulate states.
+
+Facts
+Fair Labor Standards Act (FLSA) imposed minimum wage and overtime provisions against States. The Court ruled in National League of Cities v. Usery that FLSA’s requirements could not be applied constitutionally to the “traditional governmental functions” of state and local governments. This case had the same fact pattern as National League of Cities
+
+Issue
+Should the Court follow the law in National League of Cities? If not, does the Tenth Amendment limit Congress’ Commerce power?
+
+Held
+Justice Blackmun. No to both questions. District Court judgment is reversed and the case is remanded to that court for further proceedings.
+
+Dissent
+Justice Powell, The Chief Justice, Rehnquist, and Justice O’Conner dissent. This was a 5-4 decision.
+
+Discussion
+A narrow reading of this case is that when Congress enacts a generally applicable law, then the fact that the regulation affects the state has almost no significance. A broad reading of the case is that states are not as protected against encroachment by the federal government as they once were. Unlike market participant exceptions as there were in Reeves and White for interstate commerce cases, the Court has overruled the protection that National League of Cities gave states in setting affirmative limits on the Commerce power when federal regulation directly impairs a state’s ability to perform integral operations that were traditionally under state control.
+

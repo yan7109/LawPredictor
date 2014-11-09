@@ -1,0 +1,21 @@
+Citation
+373 U.S. 132, 83 S. Ct. 1210, 10 L. Ed. 2d 248, 1963 U.S.
+
+Brief Fact Summary
+A California avocado oil law differed from a Federal avocado law. Florida Lime and Avocado Farmers sued because of the stricter California law precluded them from the Florida markets.
+
+Synopsis of Rule of Law
+When a state and federal law exist with different standards, as long as they can coexist, the Supreme Court of the United States (Supreme Court) will not decide which one preempts the other one.
+
+Facts
+Section 792 of California’s Agricultural Code, which gauges the maturity of avocados by oil content, prohibits the transportation or sale in California of avocados which contain “less than 8% of oil, by weight excluding the skin and seed.” In contrast, Federal marketing orders approved by the Secretary of Agriculture gauge the maturity of avocados grown in Florida by standards, which attribute no significance to the oil content. Therefore, California markets certain Florida avocados which although mature under Federal law do not satisfy California’s requirement of 8% oil. The Appellants, the Florida Lime & Avocado Growers Inc. (Appellants), challenge the California law under the Supremacy Clause of the United States Constitution (Constitution).
+
+Issue
+When a state statute is different than a federal statute, which should apply?
+
+Held
+It does not matter because the two laws can co-exist.
+
+Discussion
+There is no need to look into Congressional intent if “compliance with both federal and state regulations is a physical impossibility for one engaged in interstate commerce.” There is no present record, which demonstrates an inevitable collision between the two schemes of regulation, despite the dissimilarity of the standards.
+

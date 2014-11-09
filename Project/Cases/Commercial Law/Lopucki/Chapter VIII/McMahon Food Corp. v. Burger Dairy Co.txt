@@ -1,0 +1,21 @@
+Citation
+103 F.3d 1307, 1996 U.S. App. 33894, 31 U.C.C. Rep. Serv. 2d (Callaghan) 283
+
+Brief Fact Summary
+Burger Dairy Co., (Appellee), contracted with McMahon Food Corporation, (Appellant) for the sale of milk products. A dispute arose over a debt accrued by Appellant and Appellant brought suit claiming the dispute was resolved through an accord and satisfaction. Appellant appeals the trial court ruling that the accord was and satisfaction was obtained through deceit.
+
+Synopsis of Rule of Law
+Pursuant to good faith requirement of U.C.C. Section:3-311(a), it follows that there can be no accord and satisfaction unless there was an honest dispute between the parties as to the amount due at the time payment was tendered
+
+Facts
+Appellee regularly sold milk products to Appellant. Appellant sold used plastic milk cases to Appellee. A dispute arose as to the total debt Appellant owed to Appellee. Appellee’s representative, Byslma and Appellant’s representative, McMahon met to discuss the debt. Both parties agreed that they altered the terms of their future business relationship but disagree as to whether a resolution was reached regarding the past owed debt. Later, McMahon met with Larry Carter, (Carter), who replaced Byslma. At that meeting, McMahon claimed to have settled the debt with Byslma. Both parties agreed that Appellant still owed $51,812.98. McMahon promptly made out a check in that amount writing “payment in full” on the voucher, which Carter also signed. After the meeting, Carter contacted Byslma who denied settling the debt with McMahon. Appellee held the check for several months and eventually negotiated the check, crossing out “payment in full” and adding the notation, “without prejudice
+
+Issue
+Whether, Appellee’s acceptance and negotiation of the check completed the accord and satisfaction.
+
+Held
+No. No accord and satisfaction exists because there was no honest dispute between the parties as to the amount due at the time payment was tendered.
+
+Discussion
+The trial court found that McMahon deliberately misled Carter who did not know the specifics of his predecessor’s dealings with Appellant. The trial court also found that McMahon was acting dishonestly and taking advantage of Carter at the time he tendered payment. Therefore Appellant failed to meet the good faith requirement under U.C.C. Section:3-311(a) because at the time payment was tendered there was not an honest dispute between the parties as to the amount due.
+

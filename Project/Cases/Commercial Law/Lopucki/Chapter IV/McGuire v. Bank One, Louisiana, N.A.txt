@@ -1,0 +1,21 @@
+Citation
+744 So. 2d 714,1999 La. App. 2963, 42 U.C.C. Rep. Serv. 2d (Callaghan) 804
+
+Brief Fact Summary
+Lottie M. McGuire, (Petitioner), filed suit against Bank One, Louisiana, N.A., (Respondent), for damages because a substantial overdraft resulted when Respondent paid a check drawn by Petitioner on her own checking account. The trial court sustained Respondent’s exception of no cause of action and Petitioner appeals.
+
+Synopsis of Rule of Law
+A bank’s payment of a check is expressly authorized by U.C.C. Section:4-4013(a) and is per se the exercise of ordinary care under Section:4-4013(c).
+
+Facts
+Petitioner agreed to purchase bonds from Timothy P. Looney in the amount of $200,000. She contacted Respondent and requested money be transferred from her investment account into her checking account. She was informed that the transfer would take two or three days. Later that day Petitioner wrote a check for $200,000 to Timothy P. Looney, instructing him to delay cashing it. He did not. The bank received the check and paid it even though it created a large overdraft. Timothy P. Looney then converted the funds for his own benefit. Petitioner argues that a bank’s authority to honor a check creating an unusually large overdraft is discretionary under Section:4-4013(a) and as a matter of policy, this statutory right should be tempered by some standard of due care in compliance with the general usage and customs of the banking industry.
+
+Issue
+Whether Respondent exercised ordinary care in charging a properly payable check against Petitioner’s account even though an overdraft would result.
+
+Held
+Yes. Respondent had authority to pay Petitioner’s check even though it created an overdraft.
+
+Discussion
+The language of Section:4-401 permits a bank to charge a properly payable check against a customer’s account even though an overdraft results. No showing of good faith is required. A bank is required to exercise ordinary care. However, payment of a properly payable item creating an overdraft is an action approved by Section:4-4013(a). Therefore it is the exercise of ordinary care. General banking usage, customs, or practices then, have no bearing on whether Respondent did or did not exercise ordinary care.
+

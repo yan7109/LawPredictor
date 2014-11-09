@@ -1,0 +1,24 @@
+Citation
+22 Ill.504 U.S. 555, 112 S. Ct. 2130, 119 L. Ed. 2d 351, 34 ERC 1785 (1992)
+
+Brief Fact Summary
+The Secretary of the Interior adopted a new interpretation of Section 7 of the Endangered Species Act of 1973, which required consultation only for actions taken in the United States or the high seas. The wildlife groups/supporters filed for a declaratory judgment that the initial interpretation should be reinstated. The initial interpretation also required consultation for actions taken in foreign countries.
+
+Synopsis of Rule of Law
+There must be an actual cause in fact injury (”but for” the actions complained of, the party would not have suffered the injury) and a substantial or reasonable probability that a decision by the Court will address said injury.
+
+Facts
+Wildlife and environmental supporters sued the Secretary of the Interior (the Secretary) over the Secretary’s interpretation of Section: 7 of the Endangered Species Act of 1973 (ESA). The Secretary claimed that this provision only affected actions within the United States or on the high seas, and did not extend to foreign nations.
+
+Issue
+Do the plaintiffs have standing to challenge the Secretary’s interpretation of the ESA provision?
+
+Held
+Plaintiffs cannot demonstrate an “injury in fact” caused by the Secretary’s interpretation. Plaintiffs argued that the Secretary’s interpretation of the ESA provision would endanger species and provide less protection for these species in foreign nations. Plaintiffs also claimed that they visited these foreign areas in the past and would do so again in the future. The United States Supreme Court held that such speculative injury to the plaintiffs did not meet the cause in fact requirement for standing to bring a claim in front of the Court. Further, there would be no redress for these potential injuries had the Court determined the parties did have a cause in fact injury. In addition, the Court interpreted Congress’ intent in drafting the ESA provision and determined that the Secretary’s interpretation was correct by excluding foreign nations.
+
+Dissent
+The plaintiffs did show concrete evidence that they would suffer a cause in fact injury, namely, that the species they supported through their wildlife groups would be potentially harmed if not included for consultation by the Secretary in the ESA. Further, had the Court ruled in the plaintiffs’ favor, the Court could redress their injuries by ordering the Secretary to use the original interpretation, which covered foreign nations as well as the United States and the high seas?
+
+Discussion
+Whether or not a plaintiff has standing before the Supreme Court depends on the following factors: 1) the actual or likelihood of an injury in fact, 2) whether the injury is sufficiently concrete and individually affects the plaintiff, 3) whether the challenged action is the “cause in fact” of the injury, and 4) whether the Court will be able to redress the injury with its decision.
+

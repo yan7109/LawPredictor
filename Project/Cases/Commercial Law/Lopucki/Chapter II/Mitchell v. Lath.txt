@@ -1,0 +1,24 @@
+Citation
+247 N.Y. 377, 160 N.E. 646, 1928 N.Y. 1084, 68 A.L.R. 239
+
+Brief Fact Summary
+The Mitchells (Plaintiffs) brought an action against the Laths (Defendants) to enforce an oral agreement to remove an icehouse from property purchased from the Defendants. Defendants appealed from judgment granted in favor of Plaintiffs.
+
+Synopsis of Rule of Law
+An oral agreement is not collateral to the written agreement if its subject is closely related to the subject of the written agreement.
+
+Facts
+Defendants owned a farm, which they wished to sell. Across the road they had they had an icehouse, which they might remove. Plaintiffs looked over the land to purchase and found the icehouse objectionable. The Defendants orally promised in consideration of the purchase of their farm by the Plaintiffs to remove the said icehouse. Relying on that promise Plaintiffs made a written contract to buy the property and after receiving the deed they entered into possession and spent considerable amounts of money improving the property. Defendants have not fulfilled their promise as to the icehouse and did not intend to do so.
+
+Issue
+Whether the parties’ oral agreement may be enforced?
+
+Held
+No. Judgment of the Appellate Division is reversed.
+
+Dissent
+The removal of the icehouse could not be expected to be included in the writing, and therefore the writing is not a complete integration. Therefore, the oral agreement is parol evidence and may be admitted to prove the contents of the written agreement.
+
+Discussion
+There are two conflicting views on parol evidence. The first is the Williston or Restatement view, also known as the four corner rule, which states that if a term is not found in the writing, then it cannot be offered into evidence by one of the parties if the court concludes that it would have been natural of the parties to have included it in the writing. Here, the majority adopts this approach. The second view is the Corbin view, which looks at available evidence to determine the actual intention of the parties. The dissent adopts this view.
+

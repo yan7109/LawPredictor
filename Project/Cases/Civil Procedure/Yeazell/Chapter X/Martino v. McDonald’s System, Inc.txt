@@ -1,0 +1,21 @@
+Citation
+598 F.2d 1079, 1979 U.S. App. 14816, 1979-1 Trade Cas. (CCH) P62,624; 27 Fed. R. Serv. 2d (Callaghan) 501
+
+Brief Fact Summary
+In an action alleging an anti-trust violation, the defendant filed to dismiss on grounds that an earlier consent judgment barred the current claim.
+
+Synopsis of Rule of Law
+When facts form the basis of both a defense and a counterclaim, the defendant’s failure to allege these facts as a defense or a counterclaim does not preclude him from relying on those facts in an action subsequently brought by him against the plaintiff.
+
+Facts
+The Plaintiffs, Louis J. Martino (Martino) and McDonald’s Drive-In of Ottumwa, Iowa, Inc. (Plaintiffs), filed a two count anti-trust complaint against the Defendant, McDonald’s System, Inc. (Defendant).  In 1962, Martino and three of his brothers not involved in this action had entered into a franchise and lease agreement with Defendant. The contract in that franchise agreement provided that neither Martino nor his brothers acquire a financial interest in a competing self-service food business. After Martino’s son purchased a Burger King franchise, and Defendant brought suit against Martino and his three brothers. The parties entered into a consent agreement in 1973 ending the litigation.  Plaintiffs then brought this action alleging that the enforcement of the anti-acquisition agreement between Martino’s son and Defendant in the 1962 franchise agreement violated the Sherman anti-trust act.  Defendant moved to dismiss on grounds that Federal Rule of Civil Procedure (FRCP) 13(a) relating to compulsory counterclaims precluded the action, in addition to stating that res judicata precluded the claim.
+
+Issue
+Whether a 1974 consent judgment against Plaintiffs precludes the cause of action in the present lawsuit.
+
+Held
+The court held that the antitrust claim in Plaintiffs’ complaint fell within the narrow class of claims and that the res judicata effect of the earlier consent judgment is a bar to raising it now. The judgment of the district court was affirmed.   Claims coming within the definition of compulsory counterclaims are lost if not raised at the proper time. FRCP Rule 13(a), however, does not apply unless there has been some form of pleading. In the prior consent judgment, Martino filed no pleading. Thus the court did not apply FRCP Rule 13(a) to the claim stated in the complaint.  Longstanding principles of res judicata establish a narrowly defined class of common law compulsory counterclaims. Res judicata treats a judgment on the merits as an absolute bar to relitigation between the parties and    those in privity with them of every matter offered and received to sustain or defeat the claim or demand and to every matter, which might have been received for that purpose. The conclusion of the earlier contract lawsuit does not prevent the earlier judgment from having res judicata effect because it was accompanied by findings of fact and conclusions of law that go to the merits of the controversy.  When facts form the basis of both a defense and a counterclaim, the defendant’s failure to allege these facts as a defense or a counterclaim does not preclude him from relying on those facts in an action subsequently brought by him against the plaintiff.
+
+Discussion
+Despite finding that Plaintiffs’ claim was barred, the court noted that when facts form the basis of both a defense and a counterclaim, the Defendant’s failure to allege these facts as a defense or a counterclaim does not preclude him from relying on those facts in an action subsequently brought by him against the Plaintiff.
+

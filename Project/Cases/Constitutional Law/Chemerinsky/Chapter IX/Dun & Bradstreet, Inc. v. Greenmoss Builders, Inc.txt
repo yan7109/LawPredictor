@@ -1,0 +1,24 @@
+Citation
+472 U.S. 749, 105 S. Ct. 2939, 86 L. Ed. 2d 593, 1985 U.S.
+
+Brief Fact Summary
+A credit reporting agency erroneously reported the bankruptcy of a company to its lenders.
+
+Synopsis of Rule of Law
+Absent actual malice, a private individual may be awarded damages even when there is no matter of public concern if he proves that there was a false statement and that it was negligently made.
+
+Facts
+Dun & Bradstreet, Inc., (Petitioner) is a credit reporting agency. It sent a report to five lending institutions indicating that Greenmoss Builders, Inc., (Respondent) had filed for bankruptcy. When Respondent learned of this error, it requested the names and addresses of the five recipients of the report. But Petitioner refused to divulge this information or do anything to correct the problem. A jury awarded Respondent $50,000.00 actual damages, plus $300,000.00 punitive damages.
+
+Issue
+Was the credit report a matter of public concern?
+
+Held
+No. However, Respondent should have been allowed to collect damages as this ruling does not violate the First Amendment.
+
+Dissent
+The test from Gertz should have been applied here to overturn the jury award.
+
+Discussion
+The private information that was shared was false, but its validity could have easily been checked. Respondent was harmed by this oversight and deserves to be compensated and protected from future harm.
+

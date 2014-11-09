@@ -1,0 +1,21 @@
+Citation
+F.2d 1557, 27 U.S.P.Q.2d 1510 (Fed. Cir. 1993)
+
+Brief Fact Summary
+Wright discovered a vaccine for a chicken RNA virus and sought a patent that extended to other vaccines.
+
+Synopsis of Rule of Law
+An application may be rejected as unsupported by an enabling disclosure which contains a general description and only one working example of processes, subject matter and methods of use.
+
+Facts
+Wright applied for patents on the processes of producing live, non-pathogenic vaccines against pathogenic RNA viruses, the vaccines produced by these processes, and ways of using these vaccines.  His application included only one working example along with a general description of the processes, vaccines and methods to use.  The example that was fully described in the application regarded a vaccine that provides immunity in chickens against the RNA tumor virus known as Prague Avian Sarcoma Virus (PrASV), a member of the Rous Associated virus (RAV) family.  Wright's application included claims that varied in degree from the specific PrASV vaccine to a general non-pathogenic vaccine for an RNA virus.  The application was rejected by the examiner for including only one working example which did not provide adequate likelihood of creating other working examples without excessive experimentation, or that these would be useful to design viral vaccines.  Also, the methods described in Wright's application were so undeveloped when filed in 1983 that they did not enable the design and production of vaccines against any and all RNA viruses.  The examiner's decision was affirmed by the Board.  Wright appealed.
+
+Issue
+May an application be rejected as unsupported by an enabling disclosure which contains a general description and only one working example of processes, subject matter and methods of use?
+
+Held
+(Rich, J.)  Yes.  An application may be rejected as unsupported by an enabling disclosure which contains a general description and only one working example of processes, subject matter and methods of use.  The Board set forth a reasonable belief for its finding, so the burden shifts to Wright to provide persuasive arguments with enough evidence to support them.  His application in February 1983 contained only a general description and one example which did no more than invite experimentation to figure out whether other vaccines having in vivo immunoprotective activity could be created for other RA viruses.  Wright's affidavits of support contained only conclusive statements that were unsupported.  Wright's argument that his application should at least apply to vaccines against avian tumor viruses fails.  There is no evidence that a skilled scientist could come to the conclusion that there was a reasonable expectation of success for other avian strains, just because of Wright's success with one particular strain.  Affirmed.
+
+Discussion
+A difficult balancing act occurs when only one example is listed, as shown by Wright.  If a patent is drawn too narrowly, others could get around the patent by making simple changes to the example.  However, a broadly defined patent would provide a windfall to the inventor.  The telegraph patent application of Samuel Morse was similar to Wright's in that he attempted to not limit himself to the "specific machinery."  The Supreme Court struck down Morse's claim as invalid in O'Reilly v. Morse, 56 U.S. (15 How.) 62 (1854).
+

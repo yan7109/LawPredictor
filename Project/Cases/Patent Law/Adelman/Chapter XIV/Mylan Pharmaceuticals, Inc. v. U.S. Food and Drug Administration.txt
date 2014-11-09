@@ -1,0 +1,21 @@
+Citation
+454 F.3d 270 (4th Cir. 2006)
+
+Brief Fact Summary
+Mylan (Plaintiff) started marketing its generic drug on the same day the NDA holder's licensee started marketing its licensed generic drug.  Plaintiff argued the FDA (Defendant) should not allow the sale of an authorized generic within the 180-day period of exclusivity granted to the first approved ANDA applicant.
+
+Synopsis of Rule of Law
+The FDA does not have the power to prohibit the sale of an authorized generic drug during the 180-day period of exclusivity granted to the first ANDA applicant.
+
+Facts
+Mylan Pharmaceuticals, Inc. (Plaintiff) wanted to manufacture a generic version of a drug Procter & Gamble was the NDA holder for.  Defendant approved a paragraph IV ANDA filed by Plaintiff.  On the same day Plaintiff started selling its generic, a licensee of Procter & Gamble started selling its authorized generic of the same drug pursuant to its license.  This competition caused Plaintiff to lose millions of dollars.  Plaintiff and another generic manufacturer engaged in several suits with Defendant without success.  Plaintiff resumed its suit against Defendant, arguing the FDA should prohibit the sale of the licensed generic during the 180-day period of exclusivity granted to the first ANDA applicant to file and get approved.  The district court granted Defendant's motion to dismiss for failure to state a claim.
+
+Issue
+Does the FDA have the power to prohibit the sale of an authorized generic drug during the 180-day period of exclusivity granted the first ANDA applicant to file?
+
+Held
+(Michael, J.)  No.  The FDA does not have the power to prohibit the sale of an authorized generic drug during the 180-day period of exclusivity granted the first ANDA applicant to file.  Plaintiff argues the denial of its petition was arbitrary and capricious.  To determine if Defendant is appropriately interpreting its governing statute, 21 U.S.C. s 355(j)(5)(B)(iv), this court must apply the Chevron, 467 I.S. 837 (1984) analysis.  First, has Congress addressed this particular issue?  The language in the statute is plain.  When referring to the 180-day period of exclusivity, the statute addresses later-filing ANDA applicants.  The Defendant would have to redefine paragraph IV certification to include NDA drugs in the 180-day period of exclusivity.  Plaintiff argues Congress intended to permit only one manufacturer to market a generic during the 180-day period of exclusivity.  However, Plaintiff has no support in text, legislative history, or pre-enactment legislative statements.  Actually, the Hatch-Waxman Act attempts to protect the property rights of pioneer manufacturers rather than being concerned only with generic marketing rights.  Plaintiff then argues Defendant's position is not consistent with the agency's position in a previous case.  The prior case was regarding the proper scope of the commercial marketing trigger, which is not the issue in this case.  The Defendant in that case determined a paragraph IV ANDA applicant's marketing of the authorized generic was the commercial marketing trigger for the 180-day period of exclusivity.  Plaintiff's arguments fail to show that the Defendant was acting in an arbitrary or capricious manner.  Affirmed.
+
+Discussion
+A period of "exclusivity" would seem to imply that only one manufacturer should be allowed to manufacture during this period.  However, there is no indication that this was the intent of Congress except for the use of the word "exclusivity."  Also, there is no indication Congress intended for the generic manufacturer to be protected at the exclusion of all others.
+

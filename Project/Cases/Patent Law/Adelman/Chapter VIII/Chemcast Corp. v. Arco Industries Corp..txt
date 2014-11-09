@@ -1,0 +1,21 @@
+Citation
+913 F.2d 923 (Fed. Cir. 1990)
+
+Brief Fact Summary
+In his specification, Rubright, an inventor for Chemcast (Plaintiff), gave a list of generic potential ingredients instead of disclosing his materials source for the dual durometer grommet.
+
+Synopsis of Rule of Law
+The specifications of an application must include two parts regarding the best mode: (1) a written detailed description of the invention and how to make and use it so that any person skilled in the art could make and use the same and (2) the best mode known by the inventor to carry out his invention.
+
+Facts
+Rubright, an employee of Chemcast (Plaintiff), filed an application for a dual durometer grommet made of a PVC composite using a formula that was a trade secret of the specific supplier he got it from.  Although the grommet had only been made successfully using this particular material, in the specification Rubright did not include the name of the supplier and material brand but instead provided a list of generic potential materials.  Rubright's supplier, Reynosol, had spent months and hundreds of hours developing the composite for the Plaintiff's new grommet.  Plaintiff subsequently brought suit against Arco (Defendant) for infringing on the grommet patent.  The district court held that Plaintiff had violated the 35 U.S.C. § 112 best mode requirement for failing to disclose either the method of manufacture or the specific supplier of the preferred composite.  Plaintiff appealed.
+
+Issue
+Regarding the best mode, must the specifications of an application include two parts: (1) a written detailed description of the invention and how to make and use it so that any person skilled in the art could make and use the same and (2) the best mode known by the inventor to carry out his invention?
+
+Held
+(Mayer, J.)  Yes.  The specifications of an application must include two parts regarding the best mode: (1) a written detailed description of the invention and how to make and use it so that any person skilled in the art could make and use the same and (2) the best mode known by the inventor to carry out his invention.  Two separate issues are posed in 35 U.S.C. § 112.  First, does the specification enable the practitioner of the art to perform the invention?  Second, does the specification present the best mode of performance known by the inventor?  An objective inquiry must be made as to whether those familiar with the art have the skill and understanding to reproduce the best mode of performance from the written specification.  In addition, the best mode inquiry is not the same as enablement as it requires a subjective focus on the state of mind of the inventor and whether he knows of a superior method to the one in the specification. If the inventor knew of a better mode and the specification does not direct practitioners to it, the best mode has been concealed which makes the claim invalid.  By applying both inquiries to the present case, Plaintiff's preferred PVC composite is assumed to be a trade secret of Reynosol.  It is the only effective composite that Rubright knew of.  Yet Rubright's specification does not point others in Reynosol's direction but tries to keep the source for Plaintiff's benefit.  If a supplier possesses the key to the best mode of performance, inventors cannot be allowed to avoid best mode requirements by protecting exclusive agreements with their preferred supplier.  Additionally, practitioners skilled in the art would never have known what Rubright's contemplated best mode was or have had the ability to carry it out as the best mode has been concealed.  Affirmed.
+
+Discussion
+Note there is a distinction between best mode and enablement inquiries in 35 U.S.C. § 112.  One way to consider the two is that a specification that lacks enablement, with its undue experimentation standard, is not clear enough to be useful.  When a specification is useful but does not provide the inventor's contemplated best use, best mode difficulties come up.  In this case, the amount of research needed to produce the PVC compound in question would lead to an undue experimentation problem, if the solution were not a best mode issue.
+

@@ -1,0 +1,21 @@
+Citation
+343 F.2d 980 (C.C.P.A. 1965)
+
+Brief Fact Summary
+A prior art reference cited in rejecting Foster's patent claims had an effective date after the date of Foster's invention but more than one year before the date on which he finally filed his patent application.
+
+Synopsis of Rule of Law
+Under Rule 131, a patent must be denied if the applicant commits to swear back a reference having an effective date more than a year before his filing date if the reference contains enough disclosure to make his invention obvious.
+
+Facts
+Foster filed his patent application August 21, 1956, which was rejected on the basis of a magazine article in an August 1954 periodical that allegedly made the invention obvious (the Binder reference).  Under Rule 13, he filed an affidavit establishing that his invention date was before December 26, 1952.  That meant the date of the Binder reference was after his date of invention but more than one year before the date he filed his application for patent.
+
+Issue
+Must a patent be denied if the applicant swears back a reference having an effective date more than a year before his filing date if the reference contains enough disclosure to make his invention obvious?
+
+Held
+(Almond, J.)  Yes.  According to principles under the statutes that apply, a patent must be denied if the applicant swears back a reference having an effective date more than a year before his filing date if the reference contains enough disclosure to make his invention obvious.  Under 35 U.S.C. § 102(b), a patent should not be issued if the invention was patented or described in a printed publication in this or a foreign country or in public use or on sale in this country, more than one year before the date of the application for patent in the United States.  The purpose of the statute is to require that the application be filed within one year after there is public knowledge of the invention, whether it is made obvious in a publication or combination of publications or otherwise.
+
+Discussion
+The one-year rule is designed to promote diligence in the filing of patent applications.  A two-year rule existed originally, but by 1939 Congress determined improvements in communications made a one-year period reasonable.
+

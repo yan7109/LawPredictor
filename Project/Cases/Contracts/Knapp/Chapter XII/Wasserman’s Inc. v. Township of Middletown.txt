@@ -1,0 +1,21 @@
+Citation
+22 Ill.137 N.J. 238, 645 A.2d 100 (1994)
+
+Brief Fact Summary
+Plaintiff Wasserman’s Inc. entered into a commercial lease, which contained a stipulated damages provision, with the Defendant Township of Middletown. Defendant thereupon cancelled the lease and Plaintiff sued for enforcement of the stipulated damages provision.
+
+Synopsis of Rule of Law
+In the event of a breach of contract, stipulated damages provisions are enforceable so long as they are reasonable in relation to Plaintiff’s actual damages and they do not act as a penalty.
+
+Facts
+Plaintiff leased commercial property from the Defendant from 1948 to 1968. The parties adopted a new lease in 1971. The new lease contained a provision stating that if Defendant cancelled, it would be required to pay “twenty-five percent of the lessee ['] s average gross receipts for one year” to be determined by a specific formula. On December 7, 1987, Defendant sent Plaintiff a letter canceling the lease, effective December 31, 1988. Plaintiff sued for breach of contract, seeking enforcement of the terms of the lease.
+
+Issue
+Are contract provisions that stipulate damages in advance, which are to be paid in the event of a breach, enforceable?
+
+Held
+Judgment remanded for further proceedings.
+
+Discussion
+The Court first distinguishes between liquidated damages and penalty clauses, defining liquidated as a good faith estimate of the actual damages that would result in the event of a breach. On the other hand, a penalty clause is a fixed amount, which has no relation to amount of actual damages and which merely acts as a punishment. To determine whether a contract provision is a penalty or whether it is an enforceable liquidated damage provision, the Court looked to courts of other jurisdictions, finding that courts generally use a reasonableness standard. The Court this reasonableness standard as “whether the set amount is a reasonable forecast of just compensation for the harm that is caused by the breach and whether that harm is incapable or very difficult of accurate estimate.” Thus, the more difficult it is to forecast the actual damages, the more likely that the stipulated damage clause will be enforceable. The Court finds that this standard is reinforced by policy co
+

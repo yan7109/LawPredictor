@@ -1,0 +1,21 @@
+Citation
+778 F.2d 775 (1985)
+
+Brief Fact Summary
+A patent application was licensed by inventor-employees to the employer, Titanium Metals Corp. of America (Plaintiff).  There were three claims related to titanium allowed in the application.  The examiner rejected the claims based on obviousness and anticipation.  Plaintiff filed a civil action in the U.S. District Court for the District of Columbia against Banner (Defendant).  The District Court ordered Defendant to issue the patent based on claims 1 and 2.  Plaintiff appealed.
+
+Synopsis of Rule of Law
+Claims that are found under a prior art reference are anticipated claims and cannot be issued according to § 102.
+
+Facts
+Loren C. Covington and Howard R. Palmer developed an alloy which they filed an application to patent.  Afterwards they licensed their patent application and the invention to their employer, Titanium Metals Corp. of America.  The alloy contains mainly titanium with a small amount of other metals and no iron.  The application contained three claims related to the alloy and its chosen compositions.  The examiner rejected the claims, finding claims 1 and 2 were anticipated by a Russian article related to alloys like the claims at issue, and claim 3 would have been obvious after reading the article.  Plaintiff appealed the examiner's decision to the Patent and Trademark Office Board of Appeals ("Board"), which affirmed the rejection but mistakenly assumed all three claims were anticipated by the Russian article.  The Board decided the claims were not new because the technical Russian article revealed and described the alloys in these claims.  The article did not discuss the corrosion resistance of the alloy, which is one of the claims submitted, but which the Board determined was not significant to the claim having been anticipated.  Plaintiff brought a civil action against Defendant in the District Court.  After considering the Plaintiff's expert witness testimony along with the pre-trail and post-trial briefs, the Court ordered Defendant to issue the patent based on claims 1 and 2.  Defendant appealed.
+
+Issue
+Can claims that are found under a prior art reference which are anticipated claims be issued according to § 102?
+
+Held
+(Rich, J.)  No.  Patents cannot be issued on anticipated claims according to § 102, which refers to claims that are found under a prior art reference.  Specifically § 101 and § 102 require that the subject matter of a patent application be new.  No one in the lower court considered whether the alloy in this case was new.  The issue should have been whether claims 1 and 2 were related to or interpreted from an alloy already revealed by the Russian article. Section 102 requires that the claim not be described in a domestic or foreign publication that is printed before the date of invention or more than one year before the allowed date of application.  Here, the Russian article was printed five years before the application and its "prior art" status is certain.  An expert witness affidavit in the instant case shows without question that claims 1 and 2 were interpreted from the alloys revealed in the Russian article and are fully anticipated.  The Court seems to have misinterpreted the law to permit a patent because the applicants disclosed many things that cannot be learned from reading the Russian article, such as the alloys' good corrosion resistance.  The Court did not consider the main issue of whether the patent could be issued for an alloy that is not new, even with a new discovery of the old alloy's corrosion resistance.
+
+Discussion
+An anticipated claim relates to a product that was revealed in a prior art even if that claim involves a new process in developing the product.  This is frustrating to many patent applicants when an element that was absent from a prior invention can still be considered included and therefore be anticipated, causing the patent to be denied.  The courts must rely heavily on expert testimony in the related technological area to determine if the prior art fully discloses all material elements that are included in the claim.
+

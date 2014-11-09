@@ -1,0 +1,21 @@
+Citation
+506 U.S. 224, 113 S. Ct. 732, 122 L. Ed. 2d 1 (1993)
+
+Brief Fact Summary
+Walter L. Nixon Jr. (Nixon) claimed that Senate impeachment hearings against him were unconstitutional because the entire Senate did not try him, but instead appointed a committee to make initial findings.
+
+Synopsis of Rule of Law
+A controversy is nonjusticiable if there is a textually demonstrable commitment of an issue to a coordinate branch of government or a lack of judicially manageable standards for resolving the controversy.
+
+Facts
+Nixon, a Chief Judge of the United States District Court, was the subject of an impeachment hearing before the Senate. The Senate appointed a committee under Senate Rule XI to create a report of findings regarding the impeachment of Nixon. Based on the findings of the committee and oral arguments from both the committee and Nixon, the Senate convicted Nixon by more than the constitutionally required two-thirds vote. Nixon commenced suit, claiming that Senate rule XI violates the constitutional grant of authority to the Senate to “try” all impeachments because it prohibits the entire Senate from taking part in the trial and evidentiary hearings. The District Court and the Court of Appeals held that the claim was nonjusticiable.
+
+Issue
+Is the constitutionality of Senate Rule XI nonjusticiable because it involves a political question?
+
+Held
+Yes. Judgment Affirmed.
+
+Discussion
+The majority’s findings support the political question doctrine by declining to adjudicate matters textually committed in the Constitution to other branches of government.
+

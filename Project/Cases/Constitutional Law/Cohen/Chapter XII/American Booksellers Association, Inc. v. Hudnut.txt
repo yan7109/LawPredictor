@@ -1,0 +1,21 @@
+Citation
+22 Ill.475 U.S. 1132, 106 S. Ct. 1664, 90 L. Ed. 2d 206 (1986)
+
+Brief Fact Summary
+The American Booksellers Association and other individual individuals who read and distribute pornographic books and films (Plaintiffs) challenge an Indianapolis ordinance that holds the maker or seller of pornography liable to anyone injured by someone who has seen or read pornography. Plaintiffs claim that this ordinance is an unconstitutional limitation of their First Amendment rights to free speech and expression. The District Court agreed with the Plaintiffs, and the City of Indianapolis appealed to the Seventh Circuit.
+
+Synopsis of Rule of Law
+State and local government is allowed to restrict “obscene” speech as it sees fit. But it is restricted by the First Amendment from installing any regulation to restrict this “obscene” speech that also necessarily regulates speech that is protected under the First Amendment as declared as being non obscene speech under Miller.
+
+Facts
+Plaintiffs, who are a group of distributors and readers of books, magazines, and films bring suit against an Indianapolis ordinance that defined pornography as a practice that discriminates against women. Under the ordinance pornography is the graphic sexually explicit subordination of women, whether in pictures of in words. The ordinance lists several examples that would be considered pornography under the ordinance. The ordinance also contains four prohibitions, which include a prohibition on “trafficking” in pornography, “coercing” others into performing in pornographic works, and “forcing” pornography on anyone. This ordinance states that anyone injured by someone who has seen or read pornography has a right of action against the maker or seller. The District Court held that this ordinance is unconstitutional, as not falling under the obscenity exception to the First and Fourteenth Amendments under Miller. The Plaintiffs appealed to the Seventh Circuit.
+
+Issue
+Is the Indianapolis ordinance an unconstitutional restraint on free speech such that it violates the First Amendment?
+
+Held
+Yes. Affirmed. The Definition of “pornography” in the Indianapolis ordinance is unconstitutional. The offense of trafficking in pornography necessarily falls within this definition. The Indianapolis ordinance fails because it not only restricts speech that can be defined as “obscene” under Miller, but also restricts speech that is protected under the First Amendment. The Court sometimes balances the value of speech against the costs of its restriction, but it does this by category of speech and not by the content of particular works. Indianapolis left out of its definition any reference to literary, artistic, political, or scientific value, which can protect certain types of speech under the First Amendment.
+
+Discussion
+This case, although not arising out of the Supreme Court, is important to understanding what is and what is not protected under the First Amendment. The Seventh Circuit in this case states that an ordinance is unconstitutional if in addition to limiting “obscene” speech under Miller, it also has the potential of limiting speech and expression that is protected by the First Amendment.
+

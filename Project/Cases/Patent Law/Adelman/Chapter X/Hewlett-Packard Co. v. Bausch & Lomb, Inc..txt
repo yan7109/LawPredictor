@@ -1,0 +1,21 @@
+Citation
+882 F.2d 1556, 11 U.S.P.Q.2d 1750 (Fed. Cir. 1989)
+
+Brief Fact Summary
+For the purpose of narrowing the claims for an upcoming infringement action, Bausch & Lomb (Defendant) submitted false affidavits declaring errors in an acquired patent.
+
+Synopsis of Rule of Law
+Failing to include narrower or dependent claims in a patent is not enough on its own to establish error warranting reissue under 35 U.S.C. § 251.
+
+Facts
+An X-Y plotter invented by Yeiser is described in the '950 patent, which was issued in 1973.  The invention was briefly commercialized.  In 1980 or 1981, Hewlett-Packard (HP) (Plaintiff) introduced a moving paper X-Y plotter to great success.  Defendant, a competitor to Plaintiff, discovered the '950 patent and bought it from then-assignee for $30,000.  Defendant was concerned that Claim 1, which arguably covers Plaintiff's plotter, was overly broad, therefore Defendant filed a reissue application for three new claims that were narrower, Claims 10-12.  The claims did not specify an error warranting reissue or how the error occurred, and therefore were rejected by the examiner.  Defendant overcame this rejection when they submitted two affidavits from the original patent prosecutor, Fleming.  Defendant stated that Fleming's claim was incorrect because he was only able to examine the invention or speak with the inventor briefly.  Both affidavits were later found to be factually false.  Plaintiff then filed a declaratory judgment action asserting invalidity of all claims of the '684 patent containing the reissue application.  Defendant counterclaimed, charging Plaintiff with infringement.  However, the district court held the reissued claims invalid because Defendant had filed blatantly false affidavits, and without the affidavits, Defendant failed to satisfy § 251.  Defendant appealed.
+
+Issue
+Is the failure to include narrower or dependent claims in a patent enough on its own to establish error warranting reissue under 35 U.S.C. § 251?
+
+Held
+(Nies, J.)  No.  Failing to include narrower or dependent claims in a patent is not enough on its own to establish error warranting reissue under 35 U.S.C. § 251.  Two parts are required in Section 251: (1) error in the patent and (2) error in conduct.  The practice of allowing reissue for the purpose of including narrower claims as a way to avoid possible invalidation of the broad claim is silently approved of in precedent.  This would reach error in the patent, but it need not be decided since Defendant certainly did not meet the second part.  The only evidence of error in conduct was in Fleming's affidavits, and these were shown to be factually false.  Without these, there was no error in conduct, and the reissue claims fail.  However, it does not follow that Claims 1 to 9 must be held invalid simply because the reissue claims were.  The original claims stand.  Affirmed in part; vacated in part.
+
+Discussion
+Since practitioners require certainty, and it is quite difficult to determine what exactly constitutes error, there is a movement to eliminate the error requirement.  The 1992 Advisory Commission suggested that elimination is mandated because of inconsistent interpretations of "error" by the courts.  The Advisory Commission pointed out the only public policy involved in limiting reissues to errors happens in the case of deceptive intent.  See the Advisory Commission on Patent Law Reform, a report to the Secretary of Commerce 129 (1992).
+

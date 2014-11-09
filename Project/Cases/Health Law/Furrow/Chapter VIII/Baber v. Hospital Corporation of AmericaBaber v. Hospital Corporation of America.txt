@@ -1,0 +1,21 @@
+Citation
+977 F.2d 872 (4th Cir. 1992)
+
+Brief Fact Summary
+Baber (Plaintiff) brought a suit against Raleigh General Hospital (RGH) (Defendant) claiming violations of the requirements of EMTALA when her sister was treated and died after she fell in the emergency room and struck her head while having a convulsion.
+
+Synopsis of Rule of Law
+When determining whether an emergency medical condition exists, a hospital is required to provide a medical screening examination that is appropriate and within the capability of the hospital's emergency department.
+
+Facts
+Baber's (Plaintiff) sister went to the emergency room at Raleigh General Hospital (RGH) (Defendant) seeking treatment for agitation caused by her mental illness.  She remained agitated even after medication was administered.  While pacing around the emergency department, she convulsed and fell, striking her head on a table.  The resulting wound was stitched and Ms. Baber became calmer and drowsy but still felt some agitation and disorientation.  The doctor treating her concluded that her behavior was because of her chronic mental illness and he had her transferred to a hospital with a psychiatric ward, where she had another seizure.  A CT scan revealed a fractured skull.  Ms. Baber was transferred back to RGH (Defendant), became comatose, and died.  Plaintiff brought this suit, claiming several violations of EMTALA due to the failure of RGH (Defendant) to provide an appropriate medical screening for her sister.  The district court granted summary judgment for RGH (Defendant).  Plaintiff appealed.
+
+Issue
+When determining whether an emergency medical condition exists, is a hospital required to provide a medical screening examination that is appropriate and within the capability of the hospital's emergency department?
+
+Held
+(Williams, J.)  Yes.  When determining whether an emergency medical condition exists, a hospital is required to provide a medical screening examination that is appropriate and within the capability of the hospital's emergency department.  The purpose of the screening examination is to determine whether a patient with acute or severe symptoms has a life-threatening or serious medical condition.  While EMTALA does require a hospital emergency department to apply its standard uniformly, it does not guarantee that emergency personnel will diagnose a patient's condition correctly as a result of the screening.  While Ms. Baber did exhibit some of the signs and symptoms of patients with severe head injuries, the treating doctor did not believe she was suffering from an emergency medical situation and thought her condition to be stable prior to transfer.  Therefore, he determined that a CT scan or x-rays were not needed at that time.  Although his assessment and judgment may have been in error, the screening examination was not so substandard that it amounted to no examination.  Affirmed.
+
+Discussion
+Plaintiff also claimed that RGH (Defendant) inappropriately transferred his sister to the psychiatric hospital.  In order to recover for violations of EMTALA's transfer provisions, a plaintiff must prove that (1) the patient had an emergency medical condition; (2) the hospital knew of the condition; (3) the patient was not stabilized before the transfer; and (4) the hospital did not follow appropriate procedures for transfer.  In this case, Plaintiff presented no evidence beyond his own belief that his sister had an emergency condition or that the hospital was aware of it.
+

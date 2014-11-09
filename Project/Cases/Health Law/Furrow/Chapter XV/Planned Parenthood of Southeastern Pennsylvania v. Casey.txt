@@ -1,0 +1,27 @@
+Citation
+505 U.S. 833 (1992)
+
+Brief Fact Summary
+Responding to Pennsylvania's (Defendant) enactment of its Abortion Control Act, Planned Parenthood of Southeastern Pennsylvania (Plaintiff), among others, challenged the constitutionality of five provisions of the Act.
+
+Synopsis of Rule of Law
+A state may regulate abortion only shen the regulation does not place an undue burden on a woman's ability to make a decision to terminate her pregnancy prior to viability.
+
+Facts
+A number of cases that challenged the constitutionality of five provisions of the Pennsylvania Abortion Control Act of 1982 were consolidated upon appeal.  The Act required that a woman seeking an abortion give an informed consent to the procedure and specified that she be provided with certain information at least 24 hours before the procedure was performed.  A minor had to have the informed consent of one of her parents, although a judicial bypass option was provided.  A married woman planning an abortion had to notify her husband of the intended abortion.  Compliance with the three previous requirements would be exempted in the event of a medical emergency as defined by the statute.  Finally, the Act imposed certain reporting requirements on facilities that provided abortions.
+
+Issue
+May a state regulate abortion only when the regulation does not place an undue burden on a woman's ability to make a decision to terminate her pregnancy prior to viability?
+
+Held
+(O'Connor, J.)  Yes.  A state may regulate abortion only if the regulation does not place an undue burden on a woman's ability to make a decision to terminate her pregnancy prior to viability.  An undue burden exists if a statute's purpose or effect is to place a substantial obstacle in the path of a woman seeking an abortion.  If the information required to be made available to the woman is truthful and not misleading, it is not a substantial obstacle to getting an abortion, even where it expresses the state's preference for childbirth.  In addition, requiring a doctor to provide the information is not an undue burden.  While the 24-hour waiting period is troubling in some respects, it has not been shown that the waiting period constitutes an undue burden.  Nor does the statute's definition of a medical emergency impose an undue burden on a woman's right to an abortion.  However, because the spousal notification requirement is likely to prevent a significant number of women who are victims of regular physical and psychological abuse at the hands of their husbands from getting an abortion, it is an undue burden and therefore invalid.  A state may require a minor seeking an abortion to obtain the consent of a parent or guardian so long as there is an adequate judicial bypass procedure.  Finally, the statute's requirements for record-keeping and reporting requirements are valid except for the provision requiring the reporting of a married woman's failure to give her husband notice.  Reversed. …
+
+Dissent
+(Rehnquist, C.J.)  Because Roe v. Wade, 410 U.S. 113 (1973), was wrongly decided, it can and should be overruled, consistent with this Court's traditional approach to stare decisis in constitutional cases.  The challenged provisions of the statute should be upheld in their entirety.
+
+Concurrence
+(Scalia, J.)  If they wish, states may permit abortion-on-demand, but the Constitution does not require them to do so.  By continuing the imposition of a rigid national rule instead of allowing for regional differences, the Court simply prolongs and intensifies the anguish surrounding an issue that arouses deep passions.
+
+Discussion
+This opinion represents an unusual approach by the Court, in that the majority opinion was written by three of the Justices—O'Connor, Kennedy, and Souter—with the other Justices joining in or dissenting from various sections of the opinion.  The Court announced it was retaining the essential holding of Roe v. Wade.  The opinion, however, rejected Roe's trimester framework in favor of the "undue burden" standard.  While a woman has a constitutional right to terminate her pregnancy, the line is drawn at viability, the time when a realistic possibility exists of maintaining and nourishing life outside of the womb.
+

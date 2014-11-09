@@ -1,0 +1,21 @@
+Citation
+2002 U.S. Dist. 5467, 47 U.C.C. Rep. Serv. 2d (Callaghan) 670
+
+Brief Fact Summary
+Consolidated Artist’s Payroll Service, Inc and Saks, Inc. brought suit against Security First Network Bank for the return of money electronically transferred from their accounts without authorization into the account held by a “Marvin Goldman” with Security First Network Bank. Security First Network Bank moves to dismiss.
+
+Synopsis of Rule of Law
+Because a receiver is a party to the rules, bound by its obligations as well as entitled to its benefit, it can enforce 2.2.1.1 even though the provision applies only to an obligation from one bank to another.
+
+Facts
+Joseph V. Sykes (Sykes), using the name “Marvin Goldman” opened an account with Security First Network Bank. Sykes then fraudulently initiated a debit entry to transfer funds from Saks, Incorporated’s account with LaSalle Bank National Association. Sykes initiated two debit transfers in the amount of $450,000 each from Saks Inc.’s account to his account with Security First Network Bank as Marvin Goldman. The debit transfers were originated through Security First Network Bank using Saks, Inc.’s account number but wrongfully naming the account holder as “Marvin Goldman.”
+
+Issue
+Whether Saks, Inc. can enforce Security First Network Bank’s warranty to LaSalle Bank National Association Bank that Saks, Inc. had properly authorized the debit issued.
+
+Held
+Yes. Saks, Inc. can enforce Security First Network Bank’s warranty using Section:2.2.1.1.
+
+Discussion
+Saks, Inc. has a cause of action for breach of warranty under Section:2.2.1.1. Security First Network Bank broke its promise to LaSalle Banks that the debits were authorized resulting in Saks Inc.’s account being improperly debited. Because Saks, Inc. is a party to the rules it can enforce this provision even though the provision applies only to an obligation from one bank to another.
+

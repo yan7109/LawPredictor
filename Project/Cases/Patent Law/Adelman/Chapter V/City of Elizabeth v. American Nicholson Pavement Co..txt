@@ -1,0 +1,21 @@
+Citation
+97 U.S. (7 Otto) 126 (1877)
+
+Brief Fact Summary
+Nicholson (Plaintiff) charged the City of Elizabeth (Defendant) with patent infringement when the City laid down a wooden pavement using his patented process.
+
+Synopsis of Rule of Law
+An invention is not placed in "public use" by public experimentation.
+
+Facts
+In 1954, Plaintiff patented a process for laying down wooden pavement that was cheaper, more durable and safer than the norm.  While developing the process, Plaintiff experimented at his own expense, by laying down pavement on a public road in Boston in 1948.  It was assumed that people and horses would use it to travel on.  The Defendant laid down wooden pavements very much like the patented process.  Plaintiff successfully brought an action for patent infringement, and the Supreme Court agreed to review it.
+
+Issue
+Is an invention placed within the statutory meaning of "public use" by public experimentation?
+
+Held
+No.  An invention is not placed in "public use" by public experimentation. It is not enough that the public know about the invention as public use or sale must occur.  If the invention is in public use or sale prior to the two years before filing as required by statute, the policy of abandonment requires that the inventor loses all rights.  However, street pavement cannot be experimented upon satisfactorily without public use.  The public had incidental use of Plaintiff's pavement, but not "public use" within the meaning of the statute.  If Plaintiff had allowed Boston to lay payment down somewhere else in the city or if he had sold it, it would have been different, but Plaintiff never let the invention be out of his control.  Public knowledge of the invention does not prevent the inventor from receiving a patent.  It is the public use or sale of the object that will prevent the patent.  Affirmed.
+
+Discussion
+Although Elizabeth does seem to undercut Story's opinion in Pennock v. Adam Dialogue, 27 U.S. (1829), because it does not necessarily encourage early filing, the policy reasons are obvious.  Some inventions require public experimentation and others do not.  It is less obvious whether public experimentation is an exception to the "public use" rule or whether it is simply not a "public use."  In TP Laboratories, Inc. v. Professional Positioners, Inc., 724 F.2d 965, 220 U.S.P.Q. 577 (Fed. Cir. 1984), cert denied, 469 U.S. 826 (1984), implies it is not an exception.  Judge Nies wrote that it is not correct to ask first whether it is a public use and second, whether it is experimental.  The correct question is whether it is a "public use" under § 102(b).
+

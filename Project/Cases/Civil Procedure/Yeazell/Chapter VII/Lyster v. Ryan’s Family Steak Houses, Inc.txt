@@ -1,0 +1,21 @@
+Citation
+239 F.3d 943, 2001U.S. App. 1765, 91 Fair Empl. Prac. Cas. (BNA) 1477; 79 Empl. Prac. Dec. (CCH) P40,408
+
+Brief Fact Summary
+A former employee sued her former employer for sexual harassment. The former employer petitioned to compel arbitration.
+
+Synopsis of Rule of Law
+Where an application of state contract law reveals that there is a valid agreement to arbitrate and the dispute falls within the scope of that agreement, a court will force a party to submit to arbitration rather than allow the party to litigate in federal court.
+
+Facts
+The Plaintiff, Kathy Lyster (Plaintiff), filed an action alleging unlawful sexual harassment against her former employer, the Defendant, Ryan’s Family Steak Houses, Inc. (Defendant). Plaintiff had signed an arbitration agreement relating to her employment with Defendant. Defendant appealed from the district court’s denial of its petition to compel arbitration and motion to dismiss, or alternatively, to stay the proceedings.
+
+Issue
+When will a federal court deny standing on grounds that the parties are required to go to arbitration instead pursuant to an arbitration agreement?
+
+Held
+The Circuit Court reversed the district court’s denial of Steak House’s petition to compel arbitration and stay proceedings. A dispute must be submitted to arbitration if there is a valid agreement to arbitrate and the dispute falls within the scope of that agreement. State contract law governs whether an arbitration agreement is valid.
+
+Discussion
+In forcing Plaintiff to submit to arbitration, the court found it clear that Plaintiff had executed a valid arbitration agreement and her claim of unlawful sexual harassment against Defendant fell within the scope of the Agreement. Essentially then, unless the court finds some inherent injustice in the arbitration agreement, applying state contract law, it will hold arbitration agreements binding as a bar to access to the federal court system.
+

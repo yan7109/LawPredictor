@@ -1,0 +1,24 @@
+Citation
+656 F.3d 663 (7th Cir. 2011)
+
+Brief Fact Summary
+Maria Solorzano Arroyo (Plaintiff) gave birth to a baby boy, Christian Arroyo, who caught a bacterial infection from his mother during the delivery.  The physicians involved in Christian's delivery and post-delivery care failed to diagnose and treat the infection in time to prevent the severe brain injuries Christian suffered as a result.  Several years later, Christian's parents (Plaintiffs) sued the Erie Family Health Center ("Erie Center" or "U.S.") (Defendant) under the Federal Tort Claims Act.  The U.S. (Defendant) challenged the suit on the basis that it violated the statute of limitations.    The district court found the U.S. (Defendant) liable for Christian's injuries.
+
+Synopsis of Rule of Law
+The proper test for a Federal Torts Claims Act claim accrues when the plaintiff discovers, as would a reasonable person in the same position, that he has been injured by an act or omission that can be attributed to the government.
+
+Facts
+Maria Solorzano Arroyo (Plaintiff) and Carlos Arroyo (Plaintiff) conceived a child and received low-cost medical care at the Erie Family Health Center ("Erie Center" or "U.S.") (Defendant).  The clinic received federal funds in order to treat low income, underinsured patients.  While providing her prenatal care, the Erie Center's (Defendant) doctors did not find any problems with Plaintiff's pregnancy.  Plaintiff went into labor more than one month early and their son Christian was then born premature at a local hospital.  Plaintiff had not undergone the usual series of diagnostic tests that were usually performed in the month prior to delivery, including a test for certain bacteria that is commonly found.  These are important diagnostic tests because they indicate whether or not an infant will be at risk of contracting any diseases from his or her mother's blood during birth so that doctors and nurses can prepare for this and reduce the risk of harm to the baby.
+
+Issue
+Does the proper test for a Federal Torts Claims Act claim accrue when the plaintiff discovers, as would a reasonable person in the same position, that he has been injured by an act or omission that can be attributed to the government?
+
+Held
+(Cudahy, J.)  Yes.  The proper test for a Federal Torts Claims Act claim accrues when the plaintiff discovers, as would a reasonable person in the same position, that he has been injured by an act or omission that can be attributed to the government.  On appeal, the only part of the district court's decision being challenged by the U.S. (Defendant) was the court's rejection of their statute of limitations defense.
+
+Concurrence
+(Posner, J.)  I join the court's opinion with no reservations and write separately only to raise two general questions regarding limitations periods in medical malpractice litigation (specifically litigation under the Federal Tort Claims Act) that are presented by this case, but do not have to be answered in order to decide the case.  Both are related to the discovery rule: the rule that federal statutes of limitations do not begin to run until the prospective plaintiff finds out, or should have found out, that he has been injured—and who is responsible.  The first question is the role of the tort concept of the "reasonable person" in deciding whether the plaintiff "should have" discovered the injury and who caused it.  The second question is the relation of an ethical duty of candor by medical staff to the "should have" question.
+
+Discussion
+In the Arroyo case, there was no struggle by the court to determine that the trial court employed the correct analysis of the U.S.'s (Defendant) statute of limitations affirmative defense.  The critical facts are whether a "reasonable person" would have or should have discovered the act or omission attributable to the U.S. (Defendant).  The focus on whether the Plaintiffs could have or should have known the reason for their child's injuries was important, but easily discounted because of the lack of information of the hospital doctors and their own abilities to know anything further.  The issue of "concealment" weighed heavily in Judge Posner's concurrence in delivering a scathing critique of the hospital's ethical duty to the Plaintiffs.  To summarize, to be a "reasonable person" does not require any patient (or family of a patient) who suffers from a serious medical condition to investigate their medical records to determine the source of his or her illness.  There is no affirmative duty on behalf of the plaintiff to overcome a defendant's affirmative defense.
+

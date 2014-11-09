@@ -1,0 +1,24 @@
+Citation
+465 U.S. 208,104 S. Ct. 1020,79 L. Ed. 2d 249,1984 U.S.
+
+Brief Fact Summary
+A Camden, New Jersey ordinance requiring preferential hiring of city employees was held by the Supreme Court of the United States to be subject to the Privileges and Immunities Clause.
+
+Synopsis of Rule of Law
+The Privileges and Immunities Clause does not preclude discrimination against citizens of other states where there is a “substantial reason” for the difference in treatment. The inquiry in each case must be concerned with whether such reasons do exist and whether the degree of discrimination bears a close relationship to them. Discrimination may be justified where non-residents are shown to “constitute a peculiar source of the evil at which the statute is aimed.”
+
+Facts
+Plaintiff, United Building & Construction Trades Council of Camden, challenged a city ordinance requiring that at least 40% of the employees of contractors and subcontractors working on city construction projects be Defendant-City’s residents. Plaintiff alleged that the ordinance violated the Privileges and Immunities Clause and the dormant commerce clause. The State of New Jersey Supreme Court rejected the Plaintiff’s Privileges and Immunities attack on the ground that the ordinance discriminates on municipal, not state residency. The court declined to apply the Privileges and Immunities Clause in the context of a municipal ordinance that has the same effect on out-of-state citizens and New Jersey citizens outside of Defendant-City.
+
+Issue
+Whether the Privileges and Immunities Clause applies to a municipal ordinance requiring preferential hiring on city construction work.
+
+Held
+Yes. Judgment of the highest state court reversed and remanded for further findings. Under the Privileges and Immunities Clause (as well as the Equal Protection Clause) that which would be unconstitutional if done directly by the state can no more be accomplished by a city deriving its authority from the state. Thus, even if the ordinance had been adopted solely by Defendant-City, and not pursuant to a state program or with state approval, the hiring preference would still have to comport with the Privileges and Immunities Clause.
+
+Dissent
+The Privileges and Immunities Clause was not intended to apply to municipal hiring discrimination.
+
+Discussion
+The majority utilizes a high intermediate review on Privileges and Immunities issues, as seen in this case. Even though the discrimination was municipal in nature, the Privileges and Immunities Clause still applied.
+

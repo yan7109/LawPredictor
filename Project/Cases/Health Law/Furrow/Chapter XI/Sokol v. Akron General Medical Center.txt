@@ -1,0 +1,24 @@
+Citation
+173 F.3d 1026 (6th Cir. 1999)
+
+Brief Fact Summary
+Sokol (Plaintiff) alleged that Akron General Hospital (Defendant) had abused its discretion in placing limits on his hospital privileges.
+
+Synopsis of Rule of Law
+A private hospital's board of trustees has broad discretion when determining who will be allowed staff privileges.
+
+Facts
+Sokol (Plaintiff) was a cardiac surgeon at Akron General Hospital (Defendant).  When informed that Sokol's (Plaintiff) patients had a very high mortality rate, Defendant gave him notice that his privileges were being restricted.  The Hearing Committee recommended that Plaintiff's privileges be restored.  The Medical Council rejected this recommendation and reaffirmed its original decision.  Plaintiff then sought injunctive relief from the district court.  The magistrate judge found that the Medical Council's decision to take action against Plaintiff based on his mortality rate was arbitrary.  The Plaintiff claimed on appeal that the adverse decision was arbitrary, capricious, and unreasonable.
+
+Issue
+Does a private hospital's board of trustees have broad discretion when determining who will be allowed to have staff privileges?
+
+Held
+(Norris, J.)  Yes.  A private hospital's board of trustees has broad discretion when determining who will be allowed to have staff privileges.  However, the hospital must provide procedural due process in adopting and applying criteria that is reasonable and nondiscriminatory.  So long as the board of trustee's decision was supported by evidence, the board will not have abused its discretion.  Reversed.
+
+Dissent
+(Merritt, J.)  The heart surgeon (Plaintiff) was treated unfairly by the Akron General (Defendant). The Committee completely cleared him and there was no evidence Plaintiff made any mistakes.
+
+Discussion
+This case is an example of hospitals using new outcome measures.  It is rather controversial for hospitals to use mortality rates and to disclose them to the public.  The court just examined the fairness of the hospital's procedures.
+

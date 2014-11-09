@@ -1,0 +1,21 @@
+Citation
+138 N.H. 279,  640 A.2d 276,1994 N.H. 17
+
+Brief Fact Summary
+Peter and Sandra Gray, (Plaintiffs), sued for rescission of a real estate purchase from First NH Banks, (Defendant).  Plaintiffs appeal a Superior Court decision granting Defendant’s motion to dismiss.
+
+Synopsis of Rule of Law
+Although lack of strict compliance with the statutory mandate may give rise to the remedy of rescission, plaintiffs must first prove that the failure to comply caused their injuries.
+
+Facts
+Plaintiff entered into negotiations to purchase a property owned by Defendants. Shortly after making an offer, a co-worker informed plaintiffs of potential problems with the property’s septic system. Plaintiffs stated they were aware of the problems and intended to use this information as a bargaining device. Plaintiffs eventually acquired the property through a quitclaim deed. Soon after the purchase, the septic problems arose. The septic system required frequent plumbing and emitted noxious odors.
+
+Issue
+Whether a violation of the site assessment statute, RSA 485-A:39, caused Plaintiffs injuries.
+
+Held
+No. The trial court’s finding that the site assessment provided no new information about the septic system is not clearly erroneous.
+
+Discussion
+The purpose of the statute is to inform a prospective buyer of the condition of the sewage system, information not readily apparent from a site inspection of the property. Accordingly, because the plaintiffs failed to prove that the statutory violation rather than their chosen negotiation strategy caused their injuries, the trial court’s ruling was not contrary to the evidence or erroneous as a matter of law.
+

@@ -1,0 +1,21 @@
+Citation
+596 F.2d 952 (C.C.P.A. 1979)
+
+Brief Fact Summary
+Article I, § 8, clauses 8 and 18, of the Constitution are analyzed.
+
+Synopsis of Rule of Law
+The purpose of granting patent rights to inventors for their discoveries is to promote progress in the useful arts or technological arts, rather than in science or knowledge in general.
+
+Facts
+Article I, § 8, clauses 8 and 18, of the Constitution gives Congress the power to establish a copyright system and a patent system.  It states that: (The Congress shall have Power) . . . (8) To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries; . . . (And) (18) To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers . . .
+
+Issue
+What is the purpose of granting patent rights?
+
+Held
+(Rich, J.)  The purpose of granting patent rights to inventors for their discoveries is the promotion of progress in the useful arts or technological arts rather than in science or knowledge in general.  Congress passed the Patent Act in 1952 and adopted this construction of the Constitution.  In its report it stated that science, or knowledge in general, is to be promoted by giving authors the exclusive right to their writings, and the progress of the useful arts is to be promoted by giving inventors the exclusive right to their discoveries.  The first patent law and many more that followed were therefore entitled "Acts to promote the progress of useful arts."  Also, the Constitution did not give inventors any right to the patentability of any individual invention, but instead gave Congress the power to secure to inventors an exclusive right for a limited time for the stated purpose of promoting the useful arts.
+
+Discussion
+The delegates to the Constitutional Convention probably limited the clause to exclusive rights alone to avoid national involvement in economic matters.
+

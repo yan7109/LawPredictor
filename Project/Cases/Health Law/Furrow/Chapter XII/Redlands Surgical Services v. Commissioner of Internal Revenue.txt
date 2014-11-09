@@ -1,0 +1,21 @@
+Citation
+U.S. Tax Ct., 113 T.C. 47 (1999), aff’d per curiam, 242 F.3d 904 (2001)
+
+Brief Fact Summary
+The Internal Revenue Service (Defendant) found that Redlands Surgical Services (Plaintiff) was not a tax-exempt nonprofit organization and Plaintiff appealed.
+
+Synopsis of Rule of Law
+An organization must be operated in an exclusively charitable manner to qualify for tax-exempt status.
+
+Facts
+Redlands Surgical Services (Plaintiff) was a nonprofit member corporation that was a parent of a hospital.  Plaintiff was also a partner with for-profit businesses that operated a surgery center.  Plaintiff claimed it was entitled to tax-exempt status because it's dealings with the for-profit partners had been at arm's length and because it had charitable goals.  The Internal Revenue Service (Defendant) alleged that Plaintiff had given up effective control over its sole activity—the operation of the surgery center—to the for-profit partners and that this indicated a substantial nonexempt purpose, in which Plaintiff benefited private interests impermissibly.  When Defendant denied tax-exempt status, Plaintiff appealed, asserting that in determining whether an organization's purposes are charitable, the critical test is the sort of conduct in which the organization is actually engaged, not whether a for-profit or not-for-profit entity has control.
+
+Issue
+Must an organization be operated in an exclusively charitable manner to qualify for tax-exempt status?
+
+Held
+(Thornton, J.)  Yes.  An organization must be operated in an exclusively charitable manner to qualify for tax-exempt status.  To the extent that Plaintiff cedes control over its sole activity to for-profit parties having an independent economic interest in the same activity, and having no obligation to put charitable purposes ahead of profit-making objectives, Defendant cannot be certain that the partnership will in fact be operated to further its charitable purposes.  Based on all factors considered, Plaintiff has in fact ceded effective control of the partnerships' and the surgery center's activities to for-profit parties, conferring on them significant private benefits, and therefore was not operated for charitable purposes alone.  Affirmed.
+
+Discussion
+In determining the for-profit control over the partnerships' activities, the court considered three indications in this case.  First, there was no charitable obligation.  Second, Plaintiff had no formal control.  Third, Plaintiff also had no significant informal control.
+

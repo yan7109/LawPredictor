@@ -1,0 +1,21 @@
+Citation
+529 U.S. 1 (2000)
+
+Brief Fact Summary
+The district court found that regulations must be challenged through government agency procedures rather than in federal court.
+
+Synopsis of Rule of Law
+A legal claim challenging Medicare regulations must be directed first to the government agency conveying the regulations.
+
+Facts
+When Illinois Council on Long Term Care (Plaintiff), an association of nursing homes, sued the Secretary of Health and Human Services (Defendant) in federal court, the district court dismissed for lack of jurisdiction.  The court of appeals reversed, holding that only reviews of amount determinations are barred.  Shalala (Defendant) appealed.
+
+Issue
+Must a legal claim challenging Medicare regulations be directed first to the government agency conveying the regulations?
+
+Held
+(Bryer, J.)  Yes.  A legal claim challenging Medicare regulations must be directed first to the government agency conveying the regulations.  In both the Social Security Act and the Medicare Act, Congress insisted on an initial presentation of the matter to the agency.  This method was thought to produce speedier and better review overall.  Reversed.
+
+Discussion
+This decision was made by a five-to-four vote.  Three justices wrote dissenting opinions.  The dissenters would have allowed federal question jurisdiction over challenges to the validity of the secretary's instructions and regulations.
+

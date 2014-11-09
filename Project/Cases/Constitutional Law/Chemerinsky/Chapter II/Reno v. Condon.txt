@@ -1,0 +1,21 @@
+Citation
+528 U.S. 141, 120 S. Ct. 666, 145 L. Ed. 2d 587, 2000 U.S.
+
+Brief Fact Summary
+South Carolina brought suit against United States Attorney General Reno, arguing that the Driver’s Privacy Protection Act of 1994 (”DPPA”) violated the Tenth Amendment’s limitation on the Federal Government’s power to regulate the states.
+
+Synopsis of Rule of Law
+The Tenth Amendment does not prevent the Federal Government from regulating the States as individual entities if it does not ask the States to enforce a federal program.
+
+Facts
+The DPPA establishes penalties for disclosure or resale of personal information contained in state motor vehicle records. These penalties apply to individuals and state agencies. The Respondent, South Carolina’s Attorney General Charlie Condon (Respondent), argued that by requiring States to abide by the federal guidelines, Congress has overstepped the limitations of the Tenth Amendment.
+
+Issue
+May Congress require State compliance with the DPPA?
+
+Held
+Yes. Appeals court ruling reversed and remanded. The DPPA does not require the states to regulate their own citizens. Neither does it require the South Carolina legislature to enact any laws or assist in the enforcement of federal statutes regulating private citizens. As the DPPA only restricts state government action, it cannot be said to commandeer state government in violation of the Tenth Amendment.
+
+Discussion
+The Tenth Amendment limitations on federal power extend only to attempts by the Federal Government to compel legislative or executive action on the part of the States in the regulation of their citizens as part of administering a federal program. In Reno v. Condon, the Supreme Court of the United States illustrates two basic concepts: (i) the supremacy of federal law (Congress may pass laws that affect state action) and (ii) the sovereignty of the individual States (Congress may not pass laws that require the states to expend resources enforcing federal policy).
+

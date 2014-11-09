@@ -1,0 +1,24 @@
+Citation
+457 U.S. 332 (1982)
+
+Brief Fact Summary
+Arizona (Plaintiff) challenged the schedule of fees of two doctor groups.
+
+Synopsis of Rule of Law
+An agreement on maximum fees for specific medical services constitutes a per se antitrust violation.
+
+Facts
+The Maricopa Foundation for Medical Care (Maricopa) (Defendant) was an Arizona corporation composed of doctors engaging in private practice.  Approximately 70 percent of the doctors in Maricopa County were members.  The Pima Foundation (Defendant) was a similar corporation consisting of 400 doctors.  Both organizations had adopted a schedule of fees imposing a maximum amount that member doctors could charge.  Arizona (Plaintiff) challenged this practice as price-fixing in violation of the Sherman Act.  This district court, declining to apply a per se rule of illegality, denied Plaintiff's motion for summary adjudication.  The Ninth Circuit affirmed, and the United States Supreme Court granted review.
+
+Issue
+Does an agreement on maximum fees for specific medical services constitute a per se antitrust violation?
+
+Held
+(Stevens, J.)  Yes.  An agreement on maximum fees for specific medical services constitutes a per se antitrust violation.  Most actions in restraint of trade are subject to a "rule of reason" requiring extensive inquiry into their purposes and effects.  However, some categories of restraint have been deemed so inherently anticompetitive that a per se rule of illegality applies.  One such category is horizontal price-fixing.  In this case, horizontal price-fixing is what is being affected, so the per se rule would appear applicable at first glance.  However, Maricopa (Defendant) and Pima (Defendant) argued that an agreement to fix maximum rather than minimum prices is not anticompetitive.  This is not true.  Price floors and price ceilings may have different consequences economically, but price ceilings still have anticompetitive effects, as they may severely intrude upon the ability of competitors to service in the market.  Both Defendants also argued that the health care field should not be included in the per se rule.  This Court is not convinced.  The economic analysis for the medical profession is basically the same as for business in general.  For these reasons, the courts below were incorrect in failing to apply the per se rule.  Reversed.
+
+Dissent
+(Powell, J.)  The term "price-fixing" is not to be applied in a talismanic fashion to every agreement restricting prices.  In this case, the system seems to benefit consumers and should be analyzed under the rule of reason.
+
+Discussion
+At first glance, price ceilings do not have the sinister, conspiratorial air that price floors do.  However, price ceilings can have anticompetitive effects, which will harm consumers in the long run.
+

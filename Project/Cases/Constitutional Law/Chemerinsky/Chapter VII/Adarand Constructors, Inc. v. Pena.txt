@@ -1,0 +1,24 @@
+Citation
+515 U.S. 200, 115 S. Ct. 2097, 132 L. Ed. 2d 158, 1995 U.S.
+
+Brief Fact Summary
+Adarand Constructors, a low-bidding subcontractor denied a contract on a federal highway project, sued the Secretary of Transportation, alleging that the federal governments incentives to hire minority subcontractors denied him equal protection of the laws.
+
+Synopsis of Rule of Law
+Race classification by the federal government is subject to strict scrutiny.
+
+Facts
+Adarand Constructors had submitted the low bid on a subcontract for a federal highway project. Mountain Gravel, the prime contractor, would receive additional federal funds for awarding subcontracts to businesses owned by “socially and economically disadvantaged individuals.” Mountain Gravel awarded the contract to a higher bidder on this basis. The government’s policy included a presumption that minority-owned businesses were socially and economically disadvantaged.
+
+Issue
+Does the Fifth Amendment’s guarantee of equal protection require the federal government’s racial classifications to withstand strict scrutiny?
+
+Held
+Yes. Court of Appeals ruling reversed and remanded. Justice Sandra Day O’Connor (J. O’Connor), writing for the majority, extends the Fourteenth Amendment requirement to the states in Richmond v. J.A. Croson Co., 488 U.S. 469 (1989), to the federal government through the Fifth Amendment. Namely, strict scrutiny is applied to all race-based classification, regardless of benign or remedial motive.
+
+Dissent
+Justice John Paul Stevens (J. Stevens) reiterates his belief that benign or remedial racial classifications should be subject to a lesser level of review. Given that the federal statute was intended to remedy past discrimination, J. Stevens argues that it should be subject to the rational basis test.
+
+Discussion
+Adarand extends strict scrutiny to racial classifications at the federal level. Again, J. O’Connor, leaves the door open for some remedial legislation to pass muster under strict scrutiny.
+

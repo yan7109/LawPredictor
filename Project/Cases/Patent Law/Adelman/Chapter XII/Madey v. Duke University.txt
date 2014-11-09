@@ -1,0 +1,21 @@
+Citation
+307 F.3d 1351 (Fed. Cir. 2002)
+
+Brief Fact Summary
+Madey (Plaintiff) brought suit against Duke (Defendant) for patent infringement for using his lab equipment.  Defendant claimed its use fell within the experimental use exception.
+
+Synopsis of Rule of Law
+The experimental use defense does not apply to use that is to further the user's legitimate business and is not only for amusement, to satisfy idle curiosity, or strictly philosophical inquiry.
+
+Facts
+Dr. John M.J. Madey (Plaintiff) moved his successful lab with considerable lab equipment from Stanford to Duke University (Defendant).  Plaintiff had sole ownership of two patents practiced by some of the lab equipment.  Defendant eventually removed Plaintiff as lab director but continued using the lab equipment.  Plaintiff resigned and then sued Defendant for patent infringement based on Defendant's continued use of the equipment.  Defendant argued its use fell within the experimental use exception.  Plaintiff argued Defendant's use was for commercial reasons.  Defendant relied on its patent policy introduction, which stated Defendant did not engage in research or development for primarily commercial purposes.  The district court agreed with Defendant and required Plaintiff to demonstrate Defendant's use was for "definite, cognizable, and not insubstantial commercial purposes."  The district court also held the defense applied to experimental, non-profit purposes.  Defendant's summary judgment motion was granted by the district court.  Plaintiff appealed.
+
+Issue
+Does the experimental use defense apply to use that is to further the user's legitimate business and is not only for amusement, to satisfy idle curiosity, or strictly philosophical inquiry?
+
+Held
+(Gajarsa, J.)  No.  The experimental use defense does not apply to use that is to further the user's legitimate business and is not only for amusement, to satisfy idle curiosity, or strictly philosophical inquiry.  Plaintiff argues the district court wrongly shifted the burden to him to prove Defendant's use was not experimental.  This court agrees because Defendant must provide and prove that defense.  However, it is not an affirmative defense that must be pled or lost.  The district court also impermissibly broadened the defense to include experimental, non-profit purposes.  The experimental use defense is narrow and does not apply when the use is even slightly commercial in nature.  The status of profit or non-profit is irrelevant.  In this case, Defendant's use was to further a legitimate business, which includes research advancement to gain grants and recognition.  On remand, the district court should consider the legitimate business of Duke, not its non-profit status.  Reversed in part and remanded
+
+Discussion
+There were strong objections by educational institutions to this opinion on the charge it took away academic freedoms and scientific advancement.  However, there was no significant change in patent law as a result of the opinion.  The experimental use exception was always intended to be narrowly applied and the court simply reiterated its literal application of the exception.
+

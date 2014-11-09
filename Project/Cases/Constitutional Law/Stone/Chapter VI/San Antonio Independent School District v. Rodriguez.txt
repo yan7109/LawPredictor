@@ -1,0 +1,24 @@
+Citation
+411 U.S. 1, 93 S. Ct. 1278, 36 L. Ed. 2d 16, 1973 U.S. 91.
+
+Brief Fact Summary
+In Texas, public schools were financed primarily through a system whereby property taxes were imposed by local school districts. Because property values were higher in some districts, than in others, substantial disparities across districts in per pupil spending arose. The disparities in spending among public school children triggered a Fourteenth Amendment Equal Protection challenge to the constitutionality of the system.
+
+Synopsis of Rule of Law
+A State public school taxing system that results in interdistrict spending disparities among local school districts is consistent with the Fourteenth Amendment Equal Protection Clause as long as the system satisfies the rational basis standard of review and is, thus, rationally related to a legitimate governmental interest.
+
+Facts
+In Texas, public schools were financed primarily by means of property taxes imposed by local school districts. Because property values were higher in some districts, than in others, substantial disparities across districts in per pupil spending arose. For example, one district raised $26 per pupil, using a 1.05% tax rate; while another district raised as much as $333 per pupil on the basis of a mere .85% rate. The stated purpose for the system was to assure school districts of local fiscal control. At trial, a Federal District Court, applying the strict scrutiny standard of review, invalidated the school financing system on equal protection grounds.
+
+Issue
+Did the federal District Court, in applying strict scrutiny, review the case under the correct standard of review?
+
+Held
+No and Yes. The rational basis test applies. The District Court is reversed.
+
+Dissent
+Justice White: The Texas system cannot withstand rational basis review. It would be a more constitutionally appropriate system if it ensured minimum educational expenditures in every district through state funding, while extending an option to all local districts to increase their per pupil expenditures.
+
+Discussion
+In this case, the Supreme Court is limiting the extent to which fundamental rights can be found under the United States Constitution. The Supreme Court is saying that in order for a fundamental right to be recognizable under Fourteenth Amendment due process jurisprudence, it must be determined that such a right is explicitly or implicitly guaranteed by the Constitution. The fact that a function performed by the government is important does not establish such a function as a fundamental right. The primary focus of this case is on what standard of review should apply or why the rational basis test is the proper standard of review here.
+

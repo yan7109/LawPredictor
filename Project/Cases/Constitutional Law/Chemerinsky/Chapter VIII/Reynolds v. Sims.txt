@@ -1,0 +1,24 @@
+Citation
+379 U.S. 870 (1964).
+
+Brief Fact Summary
+The Plaintiffs alleged that the last apportionment of the Alabama legislature was based on the 1900 federal census and that the population growth in the intervening six decades has now made representation discriminatory against areas with fast-growing populations.
+
+Synopsis of Rule of Law
+In most instances, districts should be apportioned to allow each voter to have one, undiluted vote.
+
+Facts
+The State of Alabama requires itself to redistrict its legislature every ten years. However, the Plaintiffs allege that no such reapportionment has gone on in sixty years. Under the current apportionment, only one quarter of the population lived in districts represented by a majority of the Senate and House of Representatives.
+
+Issue
+Is the current system of apportionment denying to Alabama voters the equal protection of laws?
+
+Held
+Yes.
+
+Dissent
+Justice John Marshall Harlan (J. Marshall) argues that States should be allowed to determine the composition of their legislatures on their own and that this is a political question, lying outside the reach of the Supreme Court.
+
+Discussion
+Reynolds v. Sims establishes the principle apportionment doctrine of the United States Constitution (Constitution): one-person, one-vote. The Supreme Court gets around the non-justiciability of political questions by framing the argument as an Equal Protection issue: “To the extent that a citizen’s right to vote is debased, he is that much less a citizen.”
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.107 v. Irvis, 407 U.S. 163, 92 S. Ct. 1965, 32 L. Ed. 2d 627 (1972)
+
+Brief Fact Summary
+Appellee, an African-American, was the guest of a member of Appellant Moose Lodge No. 107 in Harrisburg, Pennsylvania to a function at Appellant’s facility. While at the facility, Appellee was refused service by Appellant. Appellee sued on grounds that he was refused service because of his race, and claimed that the action of Appellant constitutes state action under the Fourteenth Amendment because of the regulatory regime instituted by the Pennsylvania Liquor Control Board.
+
+Synopsis of Rule of Law
+State licensing regulation over a particular private entity is not enough to rise to the level of the actions of the private entity to be considered state action for regulation under the Fourteenth Amendment of the United States Constitution.
+
+Facts
+Appellee, an African-American who was a guest of a Caucasian member of the Lodge, requested food and beverage service, and was refused service by Appellant because of his race. Appellant is a local chapter of a national fraternal organization having well defined requirements for membership, and allows guests only if invited by a member or by the house committee. Following this incident Appellee brought this action under 42 U.S.C. Section: 1983 for injunctive relief in the United States District Court for the Middle District of Pennsylvania. Appellee claims that because the Pennsylvania liquor board had issued Appellant a private club license that authorized the sale of alcoholic beverages on the premises of Appellant, that the state action requirement is satisfied. Appellee named both appellant and the Pennsylvania liquor board as Defendants seeking an injunction that would revoke Appellant’s liquor license as long as it continues its discriminatory practices. The district court agre
+
+Issue
+Does the Appellant’s refusal to serve food and beverages to a guest by reason of the fact that he is an African-American violate the Fourteenth Amendment?
+
+Held
+No. Appellee was entitled to a decree enjoining enforcement of the regulations promulgated by the Pennsylvania Liquor Control Board insofar as that regulation requires compliance by Moose Lodge with provisions of its constitution and by-laws containing racially discriminatory provisions. Appellee is entitled to no more. The actions of Appellant do not rise to the level of state action because the bar and the land upon which it sits is owned by appellant, there is nothing in the facts of this case showing a symbiotic relationship between the appellant and the state, and there is no state funding of appellant organization. Other than regulating the terms of which Appellant can sell liquor the Pennsylvania Liquor Board plays no part in establishing or enforcing the membership or guest policies of the club. Furthermore, there is no evidence in this case showing that the Pennsylvania liquor law, as written or applied, discriminates against minority groups in any way.
+
+Dissent
+Disagrees with the decision of the majority because liquor licenses are not readily available, and there is a complex quota system to obtaining the license. The state enforced supply of liquor licenses restricts the ability of blacks to obtain liquor in those areas that have racially segregated clubs. This is exacerbated by the fact that the quota of liquor licenses is already filled. Therefore, since the State of Pennsylvania is putting the weight of its liquor license, concededly a valued and important adjunct to a private club, behind racial discrimination.<br />	The Court’s argument is flawed because it disregards the fundamental value underlying the state action concept. When Appellant obtained its liquor license the state of Pennsylvania became an active participant in the operation of the Appellant’s bar. The licensing laws are primarily regulatory schemes in which the State dictates and continually supervises every detail of the operation of the licensee’s business, and therefore these regulations place sufficient control to create state action.<br />
+
+Discussion
+This case is not as significant in the conclusion that it reaches, as it is significant in providing a clear understanding of all the state action cases to date. Up to this case, the Supreme Court has kept expanding what constitutes state action. With this case the Court decides that enough is enough and once again limits state action in stating that mere regulation is not enough to transfer state action to a private party, but that there must be some control over the operations of the private party or at least a symbiotic relationship between government and the private entity. This case provides a concise summary, explanation, and analysis of the important state action cases to date, and helps the reader understand the prior cases and their impact on the state of the law for use in their own analysis.
+

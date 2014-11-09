@@ -1,0 +1,21 @@
+Citation
+303 U.S. 177, 58 S. Ct. 510, 82 L. Ed. 734, 1938 U.S.
+
+Brief Fact Summary
+The Plaintiff, Barnwell Brothers, Inc. (Plaintiff) challenged a state law prohibiting the operation of trucks on state highways as an unconstitutional burden on interstate commerce.
+
+Synopsis of Rule of Law
+A state law placing width and weight limitations on trucks operating on state highways does not impose an unconstitutional burden on interstate commerce so as to violate the United States Constitution’s (Constitution) Commerce Clause.
+
+Facts
+South Carolina passed a law that prohibited trucks of a certain weight and width to use their state highways. Specifically, trucks could not use South Carolina’s highways if their width exceeded 90 inches and if their total weight exceeded 20,000 pounds. The Plaintiff challenged the state law as an unconstitutional burden on interstate commerce, in violation of the Constitution’s commerce clause. The district court enjoined enforcement of these regulations, determining that they would seriously impede motor truck traffic passing to and through the state and would increase its cost.
+
+Issue
+Does a state law imposing restrictions on weight and width of trucks that use state roads violate the Constitution’s commerce clause?
+
+Held
+No, state regulations limiting width and weight of trucks operated on state highways does not violate the Constitution’s commerce clause. The Supreme Court of the United States (Supreme Court) first pointed out that Congress decided not to regulate the weight and width of motor vehicles and left that power to the States. The Supreme Court also recognized that South Carolina had a great local concern in passing its regulations. Further, since South Carolina’s regulations were nondiscriminatory, they were appropriate.
+
+Discussion
+The state has a primary and immediate concern in taking care of their highways. The state may impose nondiscriminatory restrictions with respect to the character of motor vehicles moving in interstate commerce as a safety measure and as a means of securing the economical use of its highways. The regulatory measures taken by South Carolina are within its legislative power and they do not violate the Constitution’s commerce clause.
+

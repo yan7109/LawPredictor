@@ -1,0 +1,21 @@
+Citation
+Ill. Sup. Ct. 188 Ill. 2d 17, 719 N.E.2d 756 (1999)
+
+Brief Fact Summary
+Petrovich (Plaintiff) alleged that Share Health Plan (Defendant), a health maintenance organization (HMO), was vicariously liable for the negligence of its independent contractor physicians.
+
+Synopsis of Rule of Law
+When either the doctrine of apparent authority or of implied authority creates an agency relationship, vicarious liability may be imposed for the actions of independent contractors.
+
+Facts
+Petrovich (Plaintiff) repeatedly visited doctors at her health maintenance organization (HMO) (Defendant) before they found she had cancer.  Plaintiff later had surgery and claimed the doctors had been negligent by failing to diagnose her cancer in a timely manner.  Plaintiff brought suit against the doctors and the HMO (Defendant) for medical malpractice.  The trial court awarded summary judgment to Share (Defendant), but the appellate court reversed.  Share (Defendant) appealed.
+
+Issue
+When either the doctrine of apparent authority or of implied authority creates an agency relationship, may vicarious liability be imposed for the actions of independent contractors?
+
+Held
+(Bilandic, J.)  Yes.  When either the doctrine of apparent authority or of implied authority creates an agency relationship, vicarious liability may be imposed for the actions of independent contractors.  When an HMO presents itself as being the health care provider without informing its patients that the doctors are independent contractors, and if the patient justifiably relies on the HMO to be the provider for the health care, rather than an individual doctor, then an apparent agency relationship has been established.  Apparent agency is a matter of fact, and when found to exist, the HMO can be held vicariously liable for the actions of its independent contractor physicians.  In this case, evidence shows that Share's (Defendant) employee handbook states the HMO provided their health care; therefore, an apparent agency relationship exists.  The handbook referred to the doctors as being the HMO's staff, and the employees were never informed that the doctors were independent contractors.  Share (Defendant) also restricted their members' choice of doctors which forced them to reasonably rely on the HMO, not an individual doctor, to provide their health care.  Implied authority arises when the facts and circumstances of a situation demonstrate that the defendant exercised sufficient control over the alleged agent to effectively negate the person's status as an independent contractor.  The hallmark for determining whether implied authority exists is to evaluate how much control over the work the alleged agent actually retains and exercises.  In this case, Share's (Defendant) capitation method of reimbursing its doctors controls what the doctors can or cannot order in terms of medical equipment.  In fact, Share (Defendant) applies a financial penalty if they deviate from the range of care and treatment modalities approved by the HMO.  Plaintiff provided enough evidence to support claims under both apparent and implied authority doctrines, and the circuit court erred in its award of summary judgment to Share (Defendant).  The court of appeals decision to reverse the circuit court's judgment and remand the case for further proceedings is affirmed.
+
+Discussion
+The court found that Petrovich (Plaintiff) was entitled to a trial.  The HMO (Defendant) could be held vicariously liable under either the doctrine of apparent authority or the doctrine of implied authority.
+

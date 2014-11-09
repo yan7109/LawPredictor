@@ -1,0 +1,24 @@
+Citation
+22 Ill. 422 U.S. 749, 95 S. Ct. 2457, 45 L. Ed. 2d 522 (1975)
+
+Brief Fact Summary
+Appellee, Mrs. Salfi, married her husband less than six months prior to his death. Upon his death Mrs. Salfi applied for her deceased husband’s Social Security benefits, and was denied because of a rule that denies benefits to those who were married to their deceased spouse less than nine months. Mrs. Salfi then filed suit claiming that the rule in the Social Security Act does not adequately provide her due process for her loss of property right to her husband’s benefits.
+
+Synopsis of Rule of Law
+Congress has the policy choice if it so chooses to pass a generalized prophylactic rule if it finds it appropriate, even if this rule limits individualized determinations based on the rule.
+
+Facts
+Appellee married the deceased wage earner on May 27, 1972. Despite his alleged good health at the time of the marriage the wage earner died on November 21, 1972. Appellee filed application for mother’s insurance benefits for herself and child’s insurance benefits for her daughter by a previous marriage. The Social Security Administration denied these applications initially, and on reconsideration at the regional level, solely on the basis of the duration-of-relationship requirements, which define “widow” and “child.” The definitions include surviving wives and stepchildren who had their respective relationships to a deceased wage earner for less than nine months prior to his death. The Appellees then filed this action, and the District Court on cross-motions for summary judgment granted substantially all the relief prayed for by Appellees.
+
+Issue
+Whether Congress, its concern having been reasonably aroused by the possibility of an abuse which it legitimately desired to avoid, could rationally have concluded both that a particular limitation or qualification would protect against its occurrence, and that the expense and other difficulties of individual determinations justified the inherent imprecision of a prophylactic rule?
+
+Held
+Conclude that the duration-of-relationship test meets this constitutional standard. The danger of persons entering a marriage not to enjoy the traditional benefits of such, but to enable one spouse to claim benefits upon the anticipated early death of the wage earner has been recognized since the beginning of the Social Security program. Therefore the concerns of Congress reflected in these regulations are legitimate, involving not only the integrity of the Social Security Trust Fund, but also the integrity of the marriage relationship. It is also true that the duration-of-relationship requirement operates to lessen the likelihood of abuse through sham relationships entered in contemplation of imminent death. The Court also thinks that Congress could rationally have concluded that any imprecision from which it might suffer was justified by its ease and certainty of operation. Furthermore, the administrative difficulties of individual eligibility determinations are without doubt
+
+Dissent
+Sees a problem with legislatively created presumptions in that they invade the right to a jury trial. Therefore the purpose of the marriage question is best left to a jury.<br />	Disagrees with the decision because it is contrary to the Court’s decision in Vlandis v. Kline.<br />
+
+Discussion
+This case provides a dichotomy in cases pertaining to the Due Process Clause. Unlike the other cases in this area, the Court allows Congress’ generalized rule concerning the dispersion of Social Security benefits to the spouse of a deceased citizen. In prior cases generalized rules that caused an irrebuttable presumption were struck down because there were less restrictive means to achieve the same goal. In this case the Court feels that the risk of fraud in these cases is so great to the public treasuries and that individualized determinations would be too burdensome, and therefore upholds its policy. The question to the reader of this case is whether this decision is in line with the other Due Process Clause cases, looking at whether a less restrictive means exists, or if this case paints out an exception to the general rule disfavoring irrebuttable presumpti
+

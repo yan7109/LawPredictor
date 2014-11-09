@@ -1,0 +1,21 @@
+Citation
+116 B.R. 194, 1990 U.S. Dist. 10812,16 U.S.P.Q.2D (BNA) 1017; Copy. L. Rep. (CCH) P26,616
+
+Brief Fact Summary
+National Peregrine, Inc., (Appellant) filed for bankruptcy. Shortly thereafter Appellant filed an amended complaint against Capitol Federal Savings and Loan Association of Denver, (Appellee), claiming that Appellee’s security interest in Appellant’s copyrights was unperfected because it was not recorded with the United States Copyright Office. Appellant appeals the bankruptcy court finding in favor of Appellee.
+
+Synopsis of Rule of Law
+When a federal statute provides for a national system of recordation or specifies a place of filing different from that in Article Nine, the methods of perfection specified in Article Nine are supplanted by that national system and compliance with that system is equivalent to the filing of a financing statement under Article Nine.
+
+Facts
+Appellee extended to Appellant a $6 million dollar line of credit secured by Appellant’s film library. The collateral included copyrights, distribution rights, and licenses to approximately 145 films. Appellee filed its UCC-1 financing statements in three states but did not record its security interest with the United States Copyright Office. Appellant filed for bankruptcy and filed an amended complaint against Appellee contending that Appellee’s security interest in the copyrights to the films was unperfected because it failed to record its security interest with the Copyright Office. Appellant appeals the bankruptcy court finding in favor of Appellee.
+
+Issue
+Whether a UCC-1 financing statement filed with the relevant secretary of state perfects a security interest in a copyright.
+
+Held
+No. An appropriate filing with the United States Copyright Office perfects a security interest in a copyright.
+
+Discussion
+The plain language of U.C.C. 90109(c)(1) provides for a voluntary step back of Article Nine’s provisions “to the extent federal law governs the rights of the parties.” The Copyright Act establishes a national filing system for recording transfers of copyright interests and it specifies a place of filing different from Article Nine. Recording in the Copyright Office gives nationwide, constructive notice to third parties of the recorded encumbrance. According to Article Nine, compliance with a national registration scheme is necessary for perfection regardless of whether federal law governs priorities. Therefore, Appellee’s security interest is unperfected because it was not filed with the United States Copyright Office.
+

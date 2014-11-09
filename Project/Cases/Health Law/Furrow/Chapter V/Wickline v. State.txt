@@ -1,0 +1,21 @@
+Citation
+Cal. Ct. App., 192 Cal. App. 3d 1630, 239 Cal. Rptr. 810 (1986)
+
+Brief Fact Summary
+Wickline (Plaintiff) was discharged from the hospital sooner than appropriate according to her doctor because Medi-Cal (Defendant) would not cover further costs of hospitalization.  Plaintiff suffered a blood clot in her leg that required amputation.
+
+Synopsis of Rule of Law
+A patient's health care payor is not responsible for determining when a discharge should occur, therefore, the payor is not liable for a negligent discharge.
+
+Facts
+Wickline (Plaintiff) suffered an arterial blockage in her leg.  Following multiple surgeries with complications, her physician, Dr. Polonsky, determined that she should remain in the hospital for eight more days.  The doctor requested approval from Medi-Cal (Defendant) for the extra days, but only four extra days were approved.  He could have appealed, but Dr. Polonsky did not challenge the finding.  Plaintiff was discharged after the four approved days.  Several doctors agreed, given current standards of medical practice, that the discharge was reasonable.  However, after complications with the leg at home, Plaintiff's leg eventually had to be amputated.  Plaintiff sued Defendant for negligently interfering with her doctor's discretion.  The jury found for Plaintiff.  Defendant appealed.
+
+Issue
+Does a patient's health care payor bear the responsibility for allowing a patient to be discharged from a hospital and, if so, can the payor then be held liable for a negligent discharge?
+
+Held
+(Rowen, J.)  No.  A patient's health care payor is not responsible for determining when a discharge should occur, therefore, the payor is not liable for a negligent discharge.  A patient's doctor is in a far better position than Defendant to determine medically necessary procedures.  A doctor cannot shift the responsibility to pay when an existing appeal route is not used.  In this case, Dr. Polonsky admitted that it was his primary responsibility to care for Plaintiff.  He suggested four more days of hospitalization, but he did not challenge Defendant's initial finding.  Defendant's position was based on a limited set of facts that Dr. Polonsky could have questioned.  Defendant is not liable for Plaintiff's injuries.  Reversed.
+
+Discussion
+The decision in this case has been narrowed substantially in cases that followed.  Outside entities that deny care can be liable for negligence in reviewing medical records.  There is apparently a growing concern that procedures to contain costs are interfering with decisions doctors make for their patients.
+

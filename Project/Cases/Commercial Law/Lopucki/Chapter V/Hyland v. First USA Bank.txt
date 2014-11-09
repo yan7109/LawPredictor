@@ -1,0 +1,21 @@
+Citation
+1995 U.S. Dist. 14794
+
+Brief Fact Summary
+The Hylands, (Plaintiffs), brought suit against First USA Bank, (Defendant) after Defendant refused to provide consumer protection for a purchase Plaintiffs made outside of the United States.
+
+Synopsis of Rule of Law
+A waiver is a voluntary and intentional relinquishment or abandonment of a known right.
+
+Facts
+Defendant issued Plaintiffs a credit card. Plaintiffs used the credit card to purchase an oriental carpet while vacationing in Greece. Plaintiffs relied on the Greek merchant’s express warranties in purchasing the carpet. Upon returning the United States, Plaintiffs discovered the warranties were false. Plaintiffs contacted Defendant. Defendant promised to help and requested that Plaintiffs return the carpet to the merchant and provide a return receipt. Plaintiffs mailed the carpet to Greece where it was intercepted by Greek Customs and held pending the payment of a $1,240 duty. Plaintiffs notified Defendant that they would not pay the duty and would hold Defendant responsible for the loss of the carpet. The carpet was confiscated by customs. Defendant then refused to provide protection because the purchase was made outside of the United States.
+
+Issue
+Whether Plaintiffs have adequately alleged waiver of the geographic limitation by Defendant sufficient to survive a motion to dismiss.
+
+Held
+Yes. Plaintiffs have adequately alleged that Defendant voluntarily and intentionally relinquished a known right.
+
+Discussion
+The Truth in Lending Act provides that a card issuer who has issued a credit card to a cardholder shall be subject to all claims other than tort claims and defense arising out of any transaction in which the credit card is used a s method of payment or extension of credit. However a card issuer is only liable if the purchase is made within the same state or within 100 miles of the cardholder’s mailing address. Plaintiffs claim that Defendant waived this exception. According to Plaintiffs, Defendant repeatedly agreed to help them even though the charge statement clearly showed that the purchase had been made in Greece.
+

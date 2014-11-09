@@ -1,0 +1,21 @@
+Citation
+688 N.E.2d 106 (1997)
+
+Brief Fact Summary
+Dr. Berlin (Plaintiff) sought to have a restrictive covenant that prohibited him from competing with Sarah Bush Lincoln Health Center (Defendant) declared unenforceable.
+
+Synopsis of Rule of Law
+A duly licensed hospital is authorized by legislative authority to practice medicine by using a staff of licensed doctors and is excepted from the operation of the corporate practice doctrine.
+
+Facts
+Dr. Berlin (Plaintiff) was an employee at the Sarah Bush Lincoln Health Center (Defendant), a nonprofit corporation licensed to operate a hospital, pursuant to a written agreement.  Prior to the expiration of his five-year contract, Plaintiff resigned and started working at a clinic nearby.  Defendant sought a preliminary injunction to ban Plaintiff from practicing at the clinic, based on the restrictive covenant in the employment agreement.  Plaintiff filed a complaint for declaratory judgment and a motion for summary judgment seeking to have the restrictive covenant contained in the employment agreement with Defendant declared unenforceable.  The circuit court granted summary judgment, holding that Defendant, as a nonprofit corporation employing a doctor, was practicing medicine in violation of the prohibition on the corporate practice of medicine, and a divided appellate court affirmed.  Defendant appealed.
+
+Issue
+Is a duly licensed hospital authorized by legislative authority to practice medicine by using a staff of licensed doctors and is it excepted from the operation of the corporate practice doctrine?
+
+Held
+(Nickels, J.)  Yes.  A duly licensed hospital is authorized by legislative authority to practice medicine by using a staff of licensed doctors and is excepted from the operation of the corporate practice doctrine.  The corporate practice doctrine, which prohibits corporations from employing doctors to provide medical services, does not apply to licensed hospitals in the modern health care industry for public policy reasons.  Therefore, the employment agreement between Defendant and Plaintiff was not unenforceable just because Defendant was a corporate entity.  Reversed.
+
+Discussion
+The court in this case found that legislative enactments in reference to hospitals supported its conclusion that licensed hospitals were excepted from the prohibition.  It found that certain states clearly authorized, and at times mandated, licensed hospitals to provide medical services regardless of their corporate stature.  It also could not find any justification for distinguishing between nonprofit and for-profit hospitals in that regard.
+

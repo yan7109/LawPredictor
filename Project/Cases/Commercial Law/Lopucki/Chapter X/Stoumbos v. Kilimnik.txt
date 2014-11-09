@@ -1,0 +1,21 @@
+Citation
+988 F.2d 949, 1993 U.S. App.
+
+Brief Fact Summary
+Kilimnik, (Respondent), purchased sold a business to AAM retaining a security interest in inventory and equipment. After AAM defaulted, Respondent seized all inventory and equipment in the possession of AAM. The trustee, Stoumbos, (Petitioner), sued for return of the inventory and equipment acquired by AAM after the date of purchase.
+
+Synopsis of Rule of Law
+Where a security agreement provides for a security interest in “all inventory” or similar language, the document incorporates after acquired inventory if the inventory refers to assets that are cyclically depleted and replenished such as inventory or accounts receivable.
+
+Facts
+Respondent sold his business to AAM retaining a security interest. The security agreement contained an obscure and scattered description of the collateral. Respondent seized all of the inventory and equipment in the possession of AAM when it defaulted. AAM filed for bankruptcy and Petitioner sued for return of the inventory acquired after the date of purchase. The court held that the security agreement’s scattered description of the collateral was equivalent to “inventory and equipment.” Respondent asks the court to automatically extend the security interest to equipment acquired after the date of purchase.
+
+Issue
+Whether the security interest in inventory and equipment should extend to equipment acquired after the date of purchase of the business.
+
+Held
+No. The security agreement in this case was intended only to include equipment held prior to the date of purchase.
+
+Discussion
+The inventory in this case is not subject to frequent turnover. The majority rule that extends security interests to after acquired equipment does not apply. Respondent took a “purchase money” interest in the equipment he actually sold to AAM. Even when limited to the equipment on hand at the time of sale, Respondent’s interest would have been secure.
+

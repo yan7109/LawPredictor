@@ -1,0 +1,21 @@
+Citation
+880 F. Supp. 2d 741, 2012 WL 3064111 (S.D. Miss. 2012)
+
+Brief Fact Summary
+John Conn (Plaintiff) was treated and released at the Veterans Administration (VA) hospital ("United States" or "VA") (Defendant).  Afterwards he suffered a massive heart attack and sued the VA (Defendant) for medical malpractice.
+
+Synopsis of Rule of Law
+In a medical malpractice lawsuit, clinical practice guidelines do not by themselves establish the standard of care.
+
+Facts
+John Conn (Plaintiff) suffered from chest pains and visited the Veterans Administration hospital ("United States" or "VA") (Defendant).  He received testing and was there overnight.  Following Plaintiff's release, he went back to the hospital after suffering a massive heart attack.  Conn and his wife (Plaintiffs) filed suit against the VA (Defendant) for medical malpractice.  Dr. Mark Strong was retained as a defense expert in the Plaintiffs' lawsuit.  Dr. Strong indicated that the Defendant's doctors did not diagnose Plaintiff's condition appropriately and, in particular, did not treat Plaintiff according to the practice guidelines of the American College of Cardiology Foundation, American Heart Association.  Defendant's motion for summary judgment was granted by the trial court based on Dr. Strong's failure to state the standard of care, that Defendant breached that standard, and that Plaintiff's injury was caused by any breach.  Plaintiffs then appealed.
+
+Issue
+In a medical malpractice lawsuit, can clinical practice guidelines by themselves establish the standard of care?
+
+Held
+(Reeves, J.)  No.  In a medical malpractice lawsuit, clinical practice guidelines do not by themselves establish the standard of care.  The success of a plaintiff in establishing a medical malpractice case is a burden placed on the medical expert who must articulate an objective standard of care.  If the expert does not do this, then summary judgment must be granted in the defendant's favor.  The Defendant moved for summary judgment and argued Dr. Strong's report failed on three points: (1) it does not offer a standard of care; (2) it does not show that Defendant breached the standard of care; and (3) it does not prove that Plaintiff's injuries were caused by the breach.  Because the first argument is dispositive, this opinion does not reach the second and third arguments.
+
+Discussion
+The Conn case provides that clinical practice guidelines are not a substitute for expert testimony regarding the applicable standard of care.  The threshold approach to a claim of medical malpractice is that a minimally competent doctor must adhere to the basic standard of care established (and reinforced at trial) by an expert, who can reference the clinical practice guidelines and provide what should or should not be done.
+

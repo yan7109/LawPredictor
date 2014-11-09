@@ -1,0 +1,24 @@
+Citation
+487 U.S. 654, 108 S. Ct. 2597, 101 L. Ed. 2d 569, 1988 U.S. 3034.
+
+Brief Fact Summary
+The Ethics in Government Act (the Act) allows for the appointment of an “Independent Counsel” by a special court, upon the recommendation of the Attorney General. The purpose is to investigate and if necessary, prosecute government officials for certain violations of federal criminal laws.
+
+Synopsis of Rule of Law
+There is no inherent incongruity in a court having the power to appoint prosecutorial officers.
+
+Facts
+Title VI of the Act allows for the appointment of an “Independent Counsel” by a special court, upon the recommendation of the Attorney General. The purpose is to investigate and if necessary, prosecute government officials for certain violations of federal criminal laws. The Act provides that the independent counsel can be removed from office only by impeachment or by personal action of the Attorney General for good cause.
+
+Issue
+Did the Act violate the constitutional principal of separation of powers?
+
+Held
+No. The Court of Appeals, which invalidated the Act, is reversed.
+
+Dissent
+Justice Antonin Scalia (J. Scalia) states that Article Two of the Constitution provides that the executive power shall be vested in a President of the United States. This does not mean some of the executive power, but all of the executive power. Since the statute vests some purely executive power in a person who is not the President of the United States, it is void. Moreover, the Independent Counsel is not an inferior officer because she is not subordinate to any officer in the Executive Branch. She is not removable at will by anyone in the Executive Branch.
+
+Discussion
+The Court solves a lot of issues here. The key thing to keep in mind is that the Court’s decision turns largely on what the Independent Counsel is under the Constitution, i.e., agent of the Executive, Congress, or Judiciary. To determine this, one must classify the Independent Counsel based on the powers the officer is given under the Act.
+

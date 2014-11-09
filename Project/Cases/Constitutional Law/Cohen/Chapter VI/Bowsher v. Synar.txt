@@ -1,0 +1,24 @@
+Citation
+22 Ill.478 U.S. 714, 106 S. Ct. 3181, 92 L. Ed. 2d 583 (1986)
+
+Brief Fact Summary
+The Supreme Court of the United States held that Congress’ assignment of certain functions under the Gramm-Rudman-Hollings Act to the Comptroller General of the United States violated the doctrine of separation of powers because by its assignment of such functions, Congress was reserving the removal power of an officer charged with execution of the laws.
+
+Synopsis of Rule of Law
+Congress cannot reserve for itself the power of removal of an officer charged with execution of the laws except by impeachment.
+
+Facts
+Respondents, Congressman Synar and the National Treasury Employees Union, challenged the constitutionality of Congress’ assignment of certain functions to the Comptroller General under the Gramm-Rudman-Hollings Act (”Act”). Respondents claimed that it violated the doctrine of separation of powers. The Act consisted of a three-tiered procedure to control spending. The Comptroller General is nominated by the President and removable only by impeachment or by joint resolution of Congress. A three-judge district court held that the Act was unconstitutional because it imposed executive functions on the Comptroller General and that those functions could not be exercised by an officer removable by Congress.
+
+Issue
+Whether the assignment by Congress to the Comptroller General of the United States of certain functions under the Gramm-Rudman-Hollings Act violated the doctrine of separation of powers.
+
+Held
+Yes. Judgment of the district court affirmed. Congress cannot reserve for itself the power of removal of an officer charged with execution of the laws except by impeachment. To permit the execution of the laws to be vested in an officer answerable only to Congress would reserve in Congress control over the execution of the laws because those functions assigned to the Comptroller General entail interpreting a law enacted by Congress to implement the legislative mandate which is the very essence of “execution” of the law. The Constitution forbids Congress to execute laws.
+
+Dissent
+The practical result of the removal provision reveals that the Comptroller General is unlikely to be removed by Congress because removing the Comptroller General requires a feat of bipartisanship more difficult than that required to impeach and convict. Therefore, there is no real danger of aggrandizement of congressional power.
+
+Discussion
+The doctrine of separation of powers forbids Congress from directly and indirectly giving the legislative branch executive authority.
+

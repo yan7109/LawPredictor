@@ -1,0 +1,21 @@
+Citation
+528 U.S. 167, 120 S. Ct. 693, 145 L. Ed. 2d 610, 2000 U.S.
+
+Brief Fact Summary
+Defendant – respondent, Laidlaw Environmental Services (Defendant), contends that its shutdown of a waste processing facility and its compliance efforts render a citizen suit under the Clean Water Act moot.
+
+Synopsis of Rule of Law
+When a defendant argues that voluntary cessation of an activity renders a suit moot, the defendant has the burden of proving that the allegedly wrong behavior could not reasonably be expected to recur.
+
+Facts
+Defendant holds a National Pollutant Discharge Elimination System permit. Plaintiff – Petitioner, Friends of Earth, Incorporated (Plaintiff), alleges Defendant was violating mercury discharge limits of the Clean Water Act, and brought a citizen suit against Defendant. Defendant argues that the suit is moot either because it achieved substantial compliance with the permit guidelines by August 1992 or because of its shutdown of the facility in question.
+
+Issue
+Can Defendant’s voluntary conduct sustain a finding of mootness?
+
+Held
+Not in this case. Reversed and remanded.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) carves out this mootness exception for obvious reasons. If a defendant can make a case moot simply by ceasing the complained of activity, the defendant could stop and restart the same activity for (theoretically) an infinite amount of time without facing a judicial decision on the activity.
+

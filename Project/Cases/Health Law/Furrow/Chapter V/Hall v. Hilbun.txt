@@ -1,0 +1,21 @@
+Citation
+Miss. Sup. Ct., 466 So. 2d 856 (1985)
+
+Brief Fact Summary
+In Hall's (Plaintiff) malpractice action, doctors who were not local were not permitted to give expert opinions due to their lack of familiarity with local medical standards.
+
+Synopsis of Rule of Law
+National standards should be used to judge a doctor's duty of care to a patient, rather than local standards.
+
+Facts
+Hall's (Plaintiff) wife had surgery performed for lower digestive tract blockage.  Dr. Hilbun (Defendant) was the surgeon.  After the procedure, while Plaintiff's wife was in the recovery room, Defendant retired for the evening.  He did not leave any particular instructions for the nurses.  Meanwhile, Plaintiff's wife was moved to a private room.  About 14 hours later, she died from cardiopulmonary failure.  Plaintiff brought suit claiming medical malpractice and wrongful death.  At trial, Plaintiff tried to introduce the testimony of Dr. Hoerr, a retired Cleveland doctor.  On the grounds that Dr. Hoerr was unfamiliar with local standards, the trial court excluded much of his testimony.  The same thing happened with another expert witness, Dr. Sachs.  When the trial concluded, the court entered a directed defense verdict.  Plaintiff appealed.
+
+Issue
+Should national standards be used to judge a doctor's duty of care to a patient, rather than local standards?
+
+Held
+(Robertson, J.)  Yes.  National standards should be used to judge a doctor's duty of care to a patient, rather than local standards.  Courts have followed the "locality rule" for years in cases of medical malpractice.  This rule holds that the standard of care a patient is owed by a physician would be judged by referring to local standards.  This rule, however, is now obsolete.  Medical practice has become more "nationalized" in scope.  Across the country, standards for medical school are mostly the same.  Doctors are much more mobile than in the past.  There is nationwide access to Medical education and literature.  Beyond that, regardless of where the patient is located geographically, the needs of the patient are mostly the same for any particular medical condition.  These are the reasons why a doctor's standard of care should be measured by local standards only in instances where an area has greater resources than others.  Except in those instances, the standard of care a doctor owes to a patient should be judged by the medical community on a nationwide basis.  [Here, the testimony of Drs. Hoerr and Sachs was improperly excluded.]  Reversed and remanded.
+
+Discussion
+In this case, the court's decision did not constitute a complete abrogation of the locality rule.  While expert witnesses were no longer required to be "local," the court did recognize that some localities simply do not have the facilities as others.  Because of this, a nonlocal expert would have to be aware of the facilities at a doctor's disposal locally before giving an opinion regarding that doctor's standard of care.
+

@@ -1,0 +1,24 @@
+Citation
+455 U.S. 329, 102 S. Ct. 1496;71 L. Ed. 2d 187; 1982 U.S.
+
+Brief Fact Summary
+The Plaintiff, Consolidated Freightways Corporation of Delaware (Plaintiff) had 65-foot doubles. However, Iowa enacted a statute banning trucks more than 60 feet long. The Plaintiff sued saying the law violated the Commerce Clause of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+Although state regulations concerning highway safety are important, if the furtherance of safety is marginal or the burden on commerce substantial, the regulations will be declared invalid under the United State Constitution’s Commerce Clause.
+
+Facts
+Iowa enacted a highway safety law limiting the size of trucks to 60 feet. The Plaintiff used 65-foot trucks. Iowa was the only state in the western or midwestern United States to outlaw the use of 65-foot doubles. The Iowa District Court found the statute unconstitutional, concluding there is no valid safety reason for barring 65-foot doubles from Iowa’s highways
+
+Issue
+Was Iowa’s regulation offering only marginal safety benefits an unconstitutional burden on interstate commerce?
+
+Held
+Yes, Iowa’s truck-length limitations were unconstitutional because Iowa failed to present persuasive evidence that banning Plaintiff’s truck made the roads much safer. The statute compels trucking companies to either route 65-foot doubles around Iora or use the smaller trucks allowed by the Iowa state statute.
+
+Dissent
+Justice William Rehnquist (J. Rehnquist) dissents because he feels the Supreme Court of the United States (Supreme Court) has overstepped their authority to review state legislation. He felt the Supreme Court intentionally left out the fact that along Iowa’s route 80, Pennsylvania and New Jersey also ban 65-foot trucks.
+
+Discussion
+Iowa failed to present persuasive evidence why their law limiting trucks to 60 feet instead of 65 feet was safer. Also, Iowa is not in step with all the surrounding states. Iowa’s statute creates a burden to the interstate flow of goods by truck because certain trucks cannot pass through Iowa. Since there is no significant safety interest the law violates the Constitution’s Commerce Clause.
+

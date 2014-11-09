@@ -1,0 +1,21 @@
+Citation
+210 Conn. 705, 557 A.2d 517,1989 Conn. 103
+
+Brief Fact Summary
+Timothy Dills and the Neecon Corporation (Plaintiff) sued the Town of Enfield (Defendant) to recover a $100,000.00 deposit Plaintiff had paid the agency under an option and contract for sale. Plaintiff appealed from a judgment for the Defendant.
+
+Synopsis of Rule of Law
+The occurrence of a foreseeable event, contemplated by the parties time at the time of the contract, does not render the promised performance impractical and thereby excused.
+
+Facts
+Plaintiff sued Defendant to recover the deposit he paid to Defendant under the option and contract for the sale of land. Plaintiff, at the time of the making of the contract, paid a $100,000.00 deposit toward the contract price of $985,900.00. The trial court rendered judgment for the Defendant and Plaintiff appealed. The Neecon Corporation (Plaintiff), owned by Dills, was to perform the necessary work. Plaintiff was unable to obtain financing and so he failed to submit construction plans. Thereafter both parties tried to invoke the contract’s termination clause. Plaintiff terminated the contract based on his inability to obtain the financing within the time specified by the contract. The trial court held that unless there was impracticability in preparing and submitting the construction plans rather than for obtaining financing there was no basis for excuse.
+
+Issue
+Whether the doctrine of commercial impracticability excuses a developer from submitting construction plans when he discovers that necessary financing had become available?
+
+Held
+No.
+
+Discussion
+The defense of impracticability is available if due to changed circumstances performance would be infeasible from a commercial viewpoint, the promisor may be excused just as he would be if performance were literally impossible. Restatement (Second) Section 261 states that a party’s performance may be made impracticable without his fault by the occurrence of an event the nonoccurrence of which was a basic assumption on which the contract was made, and his duty to render performance is discharged.
+

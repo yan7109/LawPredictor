@@ -1,0 +1,24 @@
+Citation
+22 Ill.398 U.S. 914, 90 S. Ct. 1684, 26 L. Ed. 2d 80 (1970)
+
+Brief Fact Summary
+Large families, in Maryland, challenge a federal aid program, which resulted in a disparity in aid between large families and small families.
+
+Synopsis of Rule of Law
+Disparities in welfare benefits offered to qualifying beneficiaries need only be supported by a rational basis.
+
+Facts
+The federal Aid to Families with Dependent Children program (AFDC) provided grants of a certain amount to children in the state of Maryland. The aid provided an upper limit of $250 per month that any family could receive. The AFDC was challenge by large families receiving the upper limit or maximum because they received less aid per child than smaller families. The families argued that the AFDC discriminated against them because of the size of their families and therefore, violated the Equal Protection Clause of the Fourteenth Amendment.
+
+Issue
+Whether a federal aid program is unconstitutional because it results in a disparity in aid between large and small families.
+
+Held
+Justice Potter Stewart (J. Stewart). No. The federal aid program does not affect “freedoms guaranteed by the Bill of Rights.” The disparity between large and small family aid, under the program, is supported by a rational basis that is consistent with legitimate state objectives. The judgment of the lower court is reversed.
+
+Dissent
+Justice Thurgood Marshall (J. Marshall). States offering social and economic benefits to its citizens should not treat some individuals differently than others. The classification must be supported, not by a rational basis, but by how the case is classified, its “relative importance to individuals in the case, as well as the state interest involved.”
+
+Discussion
+“Necessities of life,” such as welfare benefits, are not always analyzed under strict scrutiny, but rather may only trigger rational basis scrutiny.
+

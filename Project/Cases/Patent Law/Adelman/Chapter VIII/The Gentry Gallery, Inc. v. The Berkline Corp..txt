@@ -1,0 +1,21 @@
+Citation
+134 F.3d 1473 (Fed. Cir. 1998)
+
+Brief Fact Summary
+Gentry (Plaintiff) sued Berkline (Defendant) claiming patent infringement by Defendant's manufacturing and selling of sectional sofas having two recliners facing in the same direction.
+
+Synopsis of Rule of Law
+Patent claims may not be broader than the supporting disclosure, therefore a narrow disclosure will limit the extent of the claim.
+
+Facts
+Plaintiff owns the '244 patent to a sectional sofa with two separate reclining seats facing the same direction.  Plaintiff filed suit claiming infringement of its patent by Defendant for making and selling sofas with two recliners facing the same direction.  The district court granted Defendant's motion for summary judgment of noninfringement, but denied its motions for invalidity and unenforceability.  The court determined that Defendant's sofas did not infringe on Plaintiff's patent because they did not contain a fixed console.
+
+Issue
+May patent claims be broader than the supporting disclosure?
+
+Held
+(Lourie, J.)  No.  Patent claims may not be broader than the supporting disclosure, therefore a narrow disclosure will limit extent of the claim.  Defendant argued that the claimed consoles were not described within the meaning of § 112 because the patent only described the sofas having controls on the console.  This court agrees that the patent's disclosure does not support claims if the recliner control location is not on the console.  Whether a specification complies with the written description requirement of § 112 is a question of fact to be reviewed for clear error on appeal.  The patent specification must "clearly allow persons of ordinary skill in the art to recognize that [the inventor] invented what is claimed" in order to fulfill the written description requirement.  This requirement is met if the written description describes the invention including all claimed limitations.  The scope of a right to exclude may be limited by a narrow disclosure, but a claim does not need to be limited to a preferred embodiment.  In this case, the original disclosure clearly identifies the console as the only possible location for the controls.  Having the controls placed anywhere but on the consoles is outside the stated purpose of the invention.  Claims may not be broader than the supporting disclosure; therefore, the extent of the claim will be limited by a narrow disclosure. It was in error that the district court found that Plaintiff was entitled to claims where the recliner controllers are not located on the console.  Reversed.
+
+Discussion
+Plaintiff relied on the position set forth in Ethicon that "an applicant . . . is generally allowed claims, when the art permits, which cover more than the specific embodiment shown."  The court distinguishes that case from the present case, however, by indicating that an applicant is free to draft claims broadly, within the restrictions imposed by the prior art, but in Ethicon, the inventor only did so because he considered the element to be an essential part of his invention, unlike Plaintiff in this case.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.462 U.S. 919, 103 S. Ct. 2764, 77 L. Ed. 2d 317 (1983)
+
+Brief Fact Summary
+Chadha was an East Indian student who had overstayed his visa and was deportable. The Attorney General suspended his deportation. The House passed a resolution that Chadha should be deported because he did not meet the hardship requirement.
+
+Synopsis of Rule of Law
+The one-house veto violated Article I, Section: 7, the Presentment Clause, because a bill must be presented to the President to sign or veto, and it violated Article I, Section:Section: 1 and 7, bicameralism.
+
+Facts
+Chadha challenged the constitutionality of a provision in Section 244(c)(2) of the Immigration and Nationality Act authorizing one House of Congress, by resolution, to invalidate the decision of the Executive Branch, pursuant to authority delegated by Congress to the Attorney General of the United States, to allow a particular deportable alien to remain in the United States. The Immigration Naturalization Service (INS) suspended Chadha’s deportation. A year and a half later the House passed a resolution to veto the suspension. Because the resolution was passed pursuant to Section 244(c)(2) it was not treated as an Article I legislative act. As a result, it was not submitted to the Senate nor was it presented to the President for action. Chadha appealed to the United States Court of Appeals for the Ninth Circuit. The INS agreed with Chadha’s position before the court of appeals and joined him in arguing that Section 244(c)(2) was unconstitutional. The court of appeals held that
+
+Issue
+Is it constitutional for Congress to statutorily authorize a one-house veto of a decision the Attorney General made, under authority delegated to him by Congress, to allow a particular deportable alien to remain in the United States?
+
+Held
+Chief Justice Burger opinion. No. The court of appeals’ decision is affirmed.
+
+Dissent
+Justice White and Justice Rehnquist dissenting.
+
+Discussion
+J. Burger presents the same argument that J. Black did in Youngstown, just because something is useful, does not mean it is constitutional<br />	The Court in Mistretta v. United States held that the Court would uphold statutory provisions that to some degree commingle the functions of the branches, but that pose no danger of either aggrandizement or encroachment.<br />	The dissent by Justice Scalia in Mistretta stated that the Commissions’ guidelines are laws, since any judge that disregards them will be reversed. Congress cannot create an agency that has no governmental power other than to make laws, because only Congress can make laws under the Constitution. The court upholding a pure delegation of legislative power has encouraged Congress to delegate its lawmaking powers frequently in the future, particularly over no-win political issues.<br />	Congress could have said that they are giving the Attorney General a discretionary power and because discretionary powers are really Congress’s responsibility, they are putting strings on that power. If Congress does not like what the Attorney General does in a given case then they can override it. So, the case can either be that Congress is giving the executive power, creating a power which would have a life of it’s own, but the nature of the power is limited. Therefore they are not really taking anything away from the Attorney General and it is not aggrandizement. If Congress could not use a legislative veto, then they might not pass on the power at all.
+

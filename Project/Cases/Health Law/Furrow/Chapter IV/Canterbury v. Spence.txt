@@ -1,0 +1,21 @@
+Citation
+464 F.2d 772 (D.C. Cir. 1972)
+
+Brief Fact Summary
+Canterbury (Plaintiff) claimed that prior to Plaintiff's spinal surgery, surgeon Spence (Defendant) did not disclose the possible consequence of paralysis which the Plaintiff then developed as a result of the surgery.
+
+Synopsis of Rule of Law
+A physician must disclose all risks to a patient, prior to a medical procedure, which a reasonable person would consider significant in deciding whether to go forward with the procedure.
+
+Facts
+Canterbury (Plaintiff) was a minor when he went to an orthopedist, Dr. Spence (Defendant), with complaints of pain in his upper back.  Following a diagnostic procedure performed on Plaintiff, Defendant concluded that a laminectomy was needed due to Plaintiff having a ruptured intervertebral disc.  After Plaintiff had undergone the procedure, it first seemed to have been successful.  However, he fell out of bed while still hospitalized, resulting in paralysis and incontinence, conditions which continued thereafter.  Plaintiff sued Defendant for malpractice.  One argument was that he had not been advised of the risk of paralysis.  At the end of his case, the district court granted Defendant's motion for directed verdict since Plaintiff had not produced any expert testimony to show that advising of such a risk had been required.  Plaintiff appealed.
+
+Issue
+Must a doctor disclose all risks to a patient, prior to a medical procedure, which a reasonable person would consider significant in deciding whether to go forward with the procedure?
+
+Held
+(Robinson, J.)  Yes.  A doctor must disclose all risks to a patient, prior to a medical procedure, which a reasonable person would consider significant in deciding whether to go forward with the procedure.  It is universally accepted that a patient must give consent before undergoing a surgical procedure.  It is further accepted that such consent must be informed, as the average lay patient does not have the expertise to make unassisted judgments regarding any particular medical treatment's propriety.  The risks of a certain procedure are clearly an element that must be disclosed.  However, the question arises regarding what risks must be disclosed.  Many courts have held, and the district court below agreed, that the answer to this question is what is standard in the medical community for the type of procedure indicated.  This court does not agree.  First, as a practical matter, no particular custom will exist on a profession-wide basis.  In addition, such a rule would delegate to the medical community a decision which should be made by individual doctors.  The standard should rather be one of reasonableness:  would a reasonable patient consider a particular risk significant in evaluating whether or not to go forward with a procedure?  This "reasonable patient" standard is consistent with the general thrust of tort and malpractice law and expert testimony is not required.  Therefore, Plaintiff's failure to provide such testimony was not fatal to his case.  Based on the facts, a jury should determine whether there was sufficient disclosure.  Reversed and remanded.
+
+Discussion
+The jurisdictions are split on the standard to be applied in this area.  The medical community standard is still adopted by the majority, and the minority view is the type of standard explained here.  As a consequence, most states require expert testimony in a case dealing with a lack of informed
+

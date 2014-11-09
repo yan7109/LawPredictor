@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 91 A.D.3d 1070, 937 N.Y.S.2d 383 (2012)
+
+Brief Fact Summary
+Leslie E. Marshall (the decedent whose estate is represented by the executor "Marsh") (Plaintiff) was a patient in a hospital operated by Arnot Ogden Medical Center (referred to hereafter as "AOMC") (Defendant) when Jane Doe (Defendant), a registered nurse employed by AOMC (Defendant), injected him by mistake with an insulin-reducing medication that had not been prescribed for him which then caused his death.  Plaintiff sued AOMC (Defendant) and other defendants claiming negligence and medical malpractice and sought punitive damages.
+
+Synopsis of Rule of Law
+To survive summary judgment and recover punitive damages, the plaintiff in a medical malpractice suit must establish issues of fact that can be tried regarding a "reckless indifference equivalent to willful or intentional misdoing" or a "wanton and reckless disregard of a plaintiff's rights."
+
+Facts
+Leslie E. Marshall (the decedent whose estate is represented by the executor "Marsh") (Plaintiff) was a patient in a hospital operated by Arnot Ogden Medical Center (referred to hereafter as "AOMC") (Defendant) when Jane Doe (Defendant), a registered nurse employed by AOMC (Defendant), injected him by mistake with an insulin-reducing medication that had not been prescribed for him which then caused his death.  The attending physician, Dr. Abderhalden-Friend (Defendant), instructed Doe (Defendant) to monitor the glucose level of decedent every two hours and to call her at home if decedent's level fell below 120.  The next testings revealed that decedent's glucose level was 132 at 8:15 p.m. and 107 at 10:15 p.m.  After receiving the second test result, the attending doctor allegedly instructed the glucose testing be stopped until the next morning.  After the decedent was tested at 6:15 a.m. the next morning and showed a glucose level of 15, he died shortly afterwards.  Plaintiff alleged that just before the decedent was injected with the medication, decedent's daughter specifically warned that the decedent was not a diabetic and did not use insulin.  Doe (Defendant) went ahead and injected the medication without determining decedent's identity and without confirming that a doctor had ordered the medication for this patient.  It was later determined that the cause of death was insulin overdose due to the medication error.  Afterwards, Plaintiff filed suit against AOMC (D), Doe (Defendant), and Dr. Abderhalden-Friend (Defendant) for negligence and medical malpractice seeking punitive damages, among other things.  The Defendants' motion for partial summary judgment dismissing the punitive damages claim against them was granted by the trial court.  Plaintiff appealed.
+
+Issue
+To survive summary judgment and recover punitive damages, must the plaintiff in a medical malpractice suit establish issues of fact that can be tried regarding a "reckless indifference equivalent to willful or intentional misdoing" or a "wanton and reckless disregard of a plaintiff's rights?"
+
+Held
+(Garry, J.)  Yes.  To survive summary judgment and recover punitive damages, the plaintiff in a medical malpractice suit must establish issues of fact that can be tried regarding a "reckless indifference equivalent to willful or intentional misdoing" or a "wanton and reckless disregard of a plaintiff's rights."  A showing of malice or wrongful intent is not necessary.
+
+Discussion
+In any motion for summary judgment, it must be clear there are no triable issues of fact so that nothing is in dispute and the trail court can make a determination based on uncontested facts in the case.  In Marsh, the trial court moved too quickly when they prevented the chance to prove the elements necessary for an award of punitive damages.  Critically, malice is not required, as only a showing of "reckless indifference" or "wanton and reckless disregard" had to be proven.  This case makes clear that the issue is a question for the trier of fact based on the evidence presented, and generally not appropriate for a pretrial determination.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.521 U.S. 811, 117 S. Ct. 2312, 138 L. Ed. 2d 849 (1997)
+
+Brief Fact Summary
+Members of the 104th Congress voted “nay” when Congress passed the Line Item Veto Act (Act), which gave the President the authority to cancel certain spending and tax benefit measures after signing them into law. The day after the Act went into effect, the members filed suit against the Executive Branch officials, claiming the Act was unconstitutional.
+
+Synopsis of Rule of Law
+To meet the standing requirements of the U.S. Constitution under Article III (actual case or controversy), a plaintiff must allege personal injury that, “but for” the defendant’s actions, would not have occurred and that this injury is likely to be addressed by the relief requested from the Court.
+
+Facts
+On March 27, 1996, the Senate passed a bill entitled the Line Item Veto Act. The four Senators bringing this suit before the Court voted “nay”. The next day, the House of Representatives passed the bill as well. Two of the House members also voted “nay”. The Act went into effect on January 1, 1997. The next day, these members of Congress (members) filed suit against the Secretary of the Treasury and the Director of the Office of Management and Budget, alleging that the Act was unconstitutional. The Line Item Veto Act gives the President authority to cancel certain spending and tax benefit measures after he has signed them into law. Further, the Act provides that “any Member of Congress or any individual adversely affected by the Act may bring an action in the United States District Court for the District of Columbia for declaratory judgment and injunctive relief on the ground that any provision of this part of the Act violates the Constitution.” These members claimed that the
+
+Issue
+Do the members of Congress have standing to bring this case under Article III of the Constitution?
+
+Held
+Under Article III of the Constitution, the federal courts have jurisdiction over claims before them only if these claims constitute an “actual case or controversy.” This is a mandatory requirement to establish standing before the Court. The standing determination will be addressed before the Court addresses any other issues. First, members of Congress had not been singled out for unfavorable treatment, and their claim that the balance between the Legislative and Executive branches was in jeopardy applied to all members of Congress. Second, the members do not claim that they have been deprived of something to which they personally are entitled, such as their seats in Congress after being elected. Complaining of loss of political power, the Court argued, was not as concrete as loss of a private right. Third, the members did not allege that they voted for a specific bill that was affected by the Act, nor can they claim that the Act will nullify their votes in the future. The membe
+
+Dissent
+The Congressional members had standing to bring their claim before the Court. The members’ cause was sufficiently concrete because federal courts might have to adjudicate similar cases in other contexts. The personal harm suffered stems from the members’ inability to fulfill their Congressional power. If these issues are not addressed now, there will be a floodgate of litigation in the future when similar cases are brought to the federal courts.
+
+Discussion
+The Court decided that the members lacked standing because they did not vote on a bill affected by the Act and their main argument focused on the impediments to Congressional power as a whole. It is important to note that Congress’ power was not limited by the bill because it could also choose to repeal it. Further, the members did not meet the Article III requirement of claiming an “actual case or controversy.”
+

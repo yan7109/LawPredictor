@@ -1,0 +1,24 @@
+Brief Fact Summary
+Massachusetts has ordinances regulating the outdoor advertising of tobacco. The tobacco manufacturers argued against it on the ground that it violated the First Amendment.
+
+Synopsis of Rule of Law
+A state regulation which proscribes the advertising of smokeless tobacco or cigars within a 1,000 foot radius of a school or playground violates the First Amendment.
+
+Facts
+In 1999, comprehensive legal rules were enacted by the Attorney General of Massachusetts (D) which covered the advertising of cigarettes, cigars and smokeless tobacco. One section of these laws prohibited such products from being advertised outdoors within a 1,000 foot radius of a school or playground. Lorillard Tobacco Company (P) and other tobacco manufacturers filed suit in federal district court on the ground that  such regulations were over-inclusive and violated the First Amendment’s protected freedoms. The district court decided against Lorillard (P) and the decision was affirmed by the district court of appeals. Lorillard appealed.
+
+Issue
+Are the state laws that seek to prevent advertising of cigarettes and smokeless tobacco within a 1,000 foot radius of a school or playground unconstitutional in that they violate the First Amendment?
+
+Held
+(O’Connor, J.) Yes. A state ordinance that sought to proscribe tobacco advertising within a 1,000 foot radius of a school or playground would violate the First Amendment. The issue is not whether the outdoor advertising regulations in regard to tobacco are justified, but whether the law is a reasonable means to achieve the end sought. This Court is satisfied that the law does not fit the ends of the scheme. It imposes a considerable burden on speech without a corresponding benefit. The area described would make up a large proportion of the urban area of Massachusetts, in terms of physical space and even more in terms of population density. The ban includes not only outdoor advertising but advertising which is visible from the outside, even if such advertising is itself inside a building. The extent of the regulation would mean that in some areas there would be almost a total prohibition on communicating the manufacturer’s views on tobacco and cigarettes to adult consumers. Secondly, the law is too broad in that it does not try to address and prevent those particular practices which make an advertisement attractive to youthful viewers, while allowing others. Instead it bans all advertising. It is true that the state has a genuine and important interest in preventing smoking or use of tobacco products by underage consumers, but this should not take priority over the adult freedom to sell and use tobacco. Manufacturers of tobacco as well as those who sell it have an interest in conveying the truth about their products to adults, and adults are interested in obtaining truthful information about tobacco products. This mutual interest needs to be protected even while the state protects children from advertisements of tobacco products. Thus the Attorney General has failed to make his case that the said regulations are more broad than needed to further the substantial interest of the state in preventing underage use of tobacco products. The appeal is affirmed.
+
+Dissent
+(Stevens, J.) The evidence on record is not sufficient to allow the Court to judge the merits of the parties’ respective claims, and therefore summary judgment is not appropriate, but instead the Court should remand the case for trial after reversing the decision of the lower court. The trial should determine whether the outdoor advertising regulations are valid. (Kennedy, J.) The advertising laws are obviously too restrictive to be constitutional.
+
+Concurrence
+(Kennedy, J.) The advertising laws are obviously too restrictive to be constitutional.
+
+Discussion
+The Court’s decision in Lorillard noted that a correct estimate of the costs of a law which restricts the freedom to speak does not preclude any restriction at all on any manner of speech which is legitimate, but that the state must show justifiable infringement only, the ability of the speaker to communicate a commercial proposition and the freedom of the adult listener to receive information about commercial products being reasonably preserved even with the restriction.
+

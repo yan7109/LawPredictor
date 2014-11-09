@@ -1,0 +1,21 @@
+Citation
+549 U.S. 118 (2007)
+
+Brief Fact Summary
+MedImmune (Plaintiff), Genentech's (Defendant) licensee, feared an infringement suit by Defendant and filed a declaratory judgment action to declare Defendant's new patent invalid.
+
+Synopsis of Rule of Law
+The Declaratory Judgment Act's Article III limitation of federal court's jurisdiction does not require a patent licensee to terminate or be in breach of its license agreement prior to seeking a declaratory judgment that the underlying patent is invalid, unenforceable, or not infringed.
+
+Facts
+Genentech, Inc. (Defendant) licensed an existing patent and a pending patent to MedImmune, Inc., a drug manufacturer.  The pending patent became a patent and Defendant notified Plaintiff it would owe royalties on the new patent.  Plaintiff did not believe the new patent was valid and was not infringed by its drug, therefore no royalties were owed.  Plaintiff did not want to risk the results of an infringement suit, so it paid the royalties under protest and filed a declaratory judgment action against Defendant.  The suit was dismissed by the district court on grounds that the existence of the license agreement "obliterates any reasonable apprehension" of an infringement suit.  Defendant successfully argued that Plaintiff had failed to meet the justiciability "case or controversy" requirement of Article III jurisdiction over declaratory judgment actions.  Plaintiff appealed.
+
+Issue
+Does the Declaratory Judgment Act's Article III limitation of federal court's jurisdiction require a patent licensee to terminate or be in breach of its license agreement prior to seeking a declaratory judgment that the underlying patent is invalid, unenforceable, or not infringed?
+
+Held
+(Scalia, J.)  No.  The Declaratory Judgment Act's Article III limitation of federal court's jurisdiction does not require a patent licensee to terminate or be in breach of its license agreement prior to seeking a declaratory judgment that the underlying patent is invalid, unenforceable, or not infringed.  It is appropriate to bring a declaratory judgment action when the dispute is definite, concrete, and touches the legal relations of parties with adverse legal interests.  In this case, if Plaintiff had refused to pay the royalties, the elements would all be met.  However, there is no threat of immediate harm because Plaintiff paid the royalties and Defendant declined bringing a suit of infringement.  The issue becomes whether the party must first expose itself to liability.  A party that is facing a threat by government is permitted to bring a declaratory judgment action before imminent prosecution occurs, therefore this Court must consider whether the same principles apply to a party facing threat from another private party.  In Altvater v. Freeman, 319 U.S. 359 (1943), allowed a declaratory judgment action where royalties were paid under protest because the payor preserved its right to recover the royalties or challenge the claim.  Defendant argues that its license agreement with Plaintiff protects Plaintiff from an infringement suit if Plaintiff pays royalties and does not challenge the patents.  However, that is not what the license agreement states.  Royal payments do not guarantee there will not be a challenge to the validity of the patent.  In addition, the argument that Plaintiff cannot sue for invalidity and enjoy the benefits of the license at the same time fails because Plaintiff is not disputing the license agreement's validity.  Defendant's arguments that jurisdiction is not found fail.  Defendant also asked the Court to dismiss the lawsuit on discretionary grounds, but this is the first time this issue has been raised and the lower court can consider that on remand.  Reversed and remanded.
+
+Discussion
+A long settled Federal Circuit precedent was reversed by this case, therefore cases that are similar may work through the system soon.  Licensees may have felt obligated to continue paying royalties to avoid the potentially bankrupting damages award of an infringement suit or face breach of the license agreement by failing to pay royalties.  This opinion allows licensees the opportunity to dispute the validity of a patent while maintaining their business pursuant to the license.
+

@@ -1,0 +1,21 @@
+Citation
+926 F.2d 462, 1991 U.S. App. 4179, 14 U.C.C. Rep. Serv. 2d (Callaghan) 346
+
+Brief Fact Summary
+The Laniers, (Appellants) are guarantors who are challenging the sufficiency of a notice of disposition provided by Federal Deposit Insurance Corp., (Appellee), in conjunction with the sale of collateral.
+
+Synopsis of Rule of Law
+Before a creditor can sell the collateral underlying a secured loan, it must give the debtor and guarantor reasonable notification of the time after which any intended disposition is to be made.  Notice is not defective simply because it does not specifically state that the goods would be sold privately. For a private sale, the creditor only need provide notice of the time after which a private sale or other intended disposition is to be made.
+
+Facts
+Appellee intended to sell the collateral underlying a secured loan. Appellee sent notice of disposition to the guarantors. The notice failed to state that the property would be disposed of at a private sale. The notice stated that the property would be sold after 10 days. It also stated that the value of the property threatens to decline speedily and therefore the sale may take place immediately. The property was not sold for four months. Appellants assert that the notice was defective because it failed to state whether the property would be disposed of at a private or public sale and because the sale actually took place four months after the date of the letter as opposed to ten days.
+
+Issue
+Whether in a notice of disposition a seller must indicate whether the disposition of collateral will be by public or private sale. Whether a notice of disposition is defective because the sale takes place four months rather than ten days after the letter is sent.
+
+Held
+No. The notice is not defective simply because it does not specifically state that the goods would be sold privately. No. The sale of collateral four months after notification was not so untimely as to mandate a finding that the creditor was required to renotify the debtor of the planned disposition.
+
+Discussion
+Because the notice was adequate to inform reasonable businesspersons that their property would be sold within ten days or more, it was sufficient. The notice is not defective simply because it failed to state that the goods would be sold pursuant to a private sale. Four months after notification of the debtor was not so untimely as to mandate a finding that the creditor was required to renotify the debtor. Substantial lapses between notice and sale are permissible.
+

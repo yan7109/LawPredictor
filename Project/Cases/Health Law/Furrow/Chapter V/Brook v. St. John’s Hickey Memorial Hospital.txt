@@ -1,0 +1,21 @@
+Citation
+Ind. Sup. Ct., 269 Ind. 270, 380 N.E.2d 72 (1978)
+
+Brief Fact Summary
+Fischer (Defendant), a radiologist, decided to inject a contrast medium into Brook's (Plaintiff) calves, an unusual place to do so, because of prior experience and literature he had read.
+
+Synopsis of Rule of Law
+When performing an unusual procedure on a patient, a doctor does not carry out an experiment if he has a reasonable basis for doing so.
+
+Facts
+Brook (Plaintiff), a two-year-old, had a urological condition that required certain X-ray studies which involved the injection of a contrast dye.  The standard location for the injection was the buttocks.  However, Fischer (Defendant), the radiologist performing the procedure, had seen literature that stated injecting the substance into the buttocks and thighs of young patients could be harmful.  He wanted to inject in the buttocks but, since he could not find a vein, he injected into the calves.  After this, Plaintiff developed an Achilles tendon condition which required therapy.  Plaintiff sued Defendant for malpractice.  The trial court rejected the instruction offered by Plaintiff that injection in a site other than the site recommended by the medical community constituted improper experimentation on Plaintiff.  A jury rendered a verdict for the defense.  The court of appeals reversed, holding that the instruction should have been given.  Review was granted by the Indiana Supreme Court.
+
+Issue
+When performing an unusual procedure on a patient, does a doctor carry out an experiment if he has a reasonable basis for doing so?
+
+Held
+(Hunter, J.)  No.  When performing an unusual procedure on a patient, a doctor does not carry out an experiment if he has a reasonable basis for doing so.  Matters of judgment should not be confused with experimentation.  Unusual situations sometimes present themselves in the everyday practice of medicine and require therapeutic innovation.  If performed on reasonable grounds, such innovation is not the same as experimentation.  In this case, Defendant chose not to inject patient in the usual location due to literature he had read.  He based his decision on legitimate information, therefore, this was not an experiment.  And so, the trial court in this case was right in excluding Plaintiff's instructions.  The judgment of the trial court is affirmed in all respects.
+
+Discussion
+In general, performing experimental procedures on patients outside the clinical trial situation is forbidden.  It is relatively easy to discern what is experimental and what is not because approval is required by the Food and Drug Administration (FDA) for drugs and medical devices.  Other treatment types can be more difficult to classify.
+

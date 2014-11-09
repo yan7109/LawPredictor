@@ -1,0 +1,21 @@
+Citation
+5 U.S. 137, 1 Cranch 137, 2 L. Ed. 60 (1803)
+
+Brief Fact Summary
+Plaintiff, William Marbury (Plaintiff), was appointed a justice of the peace in the last days of President of the United States John Adams’s presidency (President Adams). President of the United States Thomas Jefferson (President Jefferson), later, refused to commission Plaintiff’s appointment. Thereupon, Plaintiff sought mandamus relief from the Supreme Court of the United States (Supreme Court).
+
+Synopsis of Rule of Law
+The Supreme Court has the implied power from the United States Constitution (Constitution) to review acts of Congress and to declare them void if they are found to be repugnant to the Constitution.
+
+Facts
+Plaintiff had been appointed a justice of the peace by President Adams in the last days of Adam’s presidency. Plaintiff’s appointment was confirmed by the Senate, but not finalized by commission before Adam’s successor, President Jefferson, took office. Upon seeking delivery of his commission from President Jefferson and being denied it, Plaintiff asked the Supreme Court to compel President Jefferson’s Secretary of State, by Writ of Mandamus, to deliver the commission. Section 13 of the Judiciary Act of 1789 (the Act), pursuant to which Plaintiff filed his claim, read, in relevant part, as follows: “The Supreme court . . . shall have power to issue writs of mandamus . . . [to] persons holding office, under the authority of the United States.”
+
+Issue
+Does Plaintiff have a right to the commission he demands?
+
+Held
+Yes.
+
+Discussion
+The key part of this case is where Chief Justice John Marshall (J. Marshall) declares that the Act unconstitutional and thereby establishes judicial review. J. Marshall starts with the proposition that the Constitution sets out the cases over which the Supreme Court has original jurisdiction and the cases over which it has Appellate Jurisdiction. J. Marshall argues that this jurisdictional arrangement cannot be changed by a mere federal statute (e.g., the Act), because the Constitution is the Supreme law of the land. We know this, J. Marshall says, because we have a written Constitution.
+

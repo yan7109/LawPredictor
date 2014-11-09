@@ -1,0 +1,21 @@
+Citation
+806 F.2d 1565 (Fed. Cir. 1986)
+
+Brief Fact Summary
+Orthokinetics' (Plaintiff) claims on a wheelchair patent did not specify the sizes and types of automobiles which the wheelchair was to help in entering and exiting.
+
+Synopsis of Rule of Law
+Under U.S.C. § 112, a claim is valid if a person skilled in the art would understand what is claimed when the claim is read in light of the specification.
+
+Facts
+Plaintiff received a patent for a collapsible pediatric wheelchair that enabled the placing of wheelchair-bound persons in and out of automobiles.  Plaintiff introduced the product in 1973, and in 1978, Safety Travel Chairs (Defendant) started selling similar chairs.  Plaintiff sued for infringement.  Defendant argued that the patent was not valid since the language in the claim did not particularly point and distinctly claim the invention.  Specifically, the claim stated, "wherein said front leg portion is so dimensioned as to be insertable through the space between the doorframe of an automobile and one of the seats thereof."  The jury found for Plaintiff, but the district court granted Defendants motion for JNOV, holding claims invalid.  The district court stated that a person wanting to build a noninfringing travel chair would not be able to tell if his chair would violate the patent until he made a model and tested it on vehicles ranging from a Honda Civic to a Lincoln Continental.  Plaintiff appealed
+
+Issue
+Under 35 U.S.C. § 112, is a claim valid if a person skilled in the art would understand what is claimed when the claim is read in light of the specification?
+
+Held
+(Markey, C.J.)  Yes.  Under U.S.C. § 112, a claim is valid if a person skilled in the art would understand what is claimed when the claim is read in light of the specification.  In this case, the district court incorrectly required the claim "describe" the invention.  The disclosure portion of the specification covers this, not the claims.  In addition, the "full, clear, concise, and exact requirement" applies only to the disclosure portion, not the claims.  Plaintiff's witnesses, who were skilled in the art, testified that a person skilled in the art could easily ascertain the dimensions, and the jury had the right to credit that testimony.  Patent law does not require that all possible vehicle lengths that correspond to the spaces in hundreds of different automobiles be listed in the patent, let alone the claims.  Reversed.
+
+Discussion
+Automobiles vary in size and the court in Orthokinetics stated that the term "so dimensioned" was as accurate as allowed given the subject matter.  Use of words of degree, such as "about," "approximately," close to," etc., are acceptable in certain applications, but can be rejected on definiteness in others.  In Andrew Corp. v. Gabriel Electronics, 847 F.2d 819 (Fed. Cir. 1988), such words are acceptable according to the court, "when serving reasonably to describe the claimed subject matter to those of skill in the field of invention, and to distinguish the claimed subject matter from the prior art."
+

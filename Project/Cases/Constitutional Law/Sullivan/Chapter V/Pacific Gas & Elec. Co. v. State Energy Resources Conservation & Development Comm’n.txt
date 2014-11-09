@@ -1,0 +1,21 @@
+Citation
+461 U.S. 190, 103 S. Ct. 1713, 75 L. Ed. 2d 752, 18 ERC 1991 (1983)<br />
+
+Brief Fact Summary
+The Supreme Court of the United States held that a California law imposing a suspension on the certification of nuclear energy plants within the state until the Defendant, State Energy Resources Conservation and Development Commission, approves of the means for disposal of the waste was not preempted by the federal Atomic Energy Act of 1954.
+
+Synopsis of Rule of Law
+The doctrine of preemption allows Congress to preempt state power to regulate in three ways: 1) by express statement; 2) by implied occupation of a regulatory field; or 3) by implied preclusion of conflicting state regulations. Where there are two different evils being addressed by the state and Congress, there is no preemption of state power.
+
+Facts
+In 1976, California adopted a law that imposed a moratorium on the certification of nuclear energy plants within the state until the Defendant, State Energy Resources Conservation and Development Commission, approves of the means for disposal of the waste. Plaintiff, Pacific Gas & Electric Company (PG &E), sought a declaratory judgment that this provision was preempted by the federal Atomic Energy Act (AEA) of 1954, and therefore invalid under the supremacy clause. The District Court granted the injunctive relief and the Court of Appeals reversed.
+
+Issue
+Whether the California statute falls within the field which the federal government has preserved for its own exclusive control because it regulates construction of nuclear plants and because it is allegedly predicated on safety concerns.
+
+Held
+No. Judgment of the Court of Appeals affirmed. In passing AEA and its subsequent amendments, Congress intended that the federal government should regulate the radiological safety aspects involved in the construction and operation of a nuclear plant, but the states retain their traditional responsibility in the field of regulating electrical utilities for state concerns. Congress legislated here in a field traditionally occupied by the states so we start with assumption that the historic police powers of the states were not to be superseded by the Federal Act unless that act was the clear and manifest purpose of Congress. California’s economic purpose for enacting the law lies outside of Congress’ occupied field of nuclear safety regulation.
+
+Discussion
+The majority looks to the evils that each regulation is addressing. The federal Act is ensuring safety of nuclear plants whereas the California law is dealing with economic aspects of the plants. Therefore, the Court found no preemp
+

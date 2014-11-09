@@ -1,0 +1,24 @@
+Citation
+511 U.S. 383, 114 S. Ct. 1677, 128 L. Ed. 2d 399, 1994 U.S.
+
+Brief Fact Summary
+A local ordinance, which required all waste to be processed at a local waste transfer facility before leaving town, was challenged as violating the Commerce Clause of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+State and Local governments may not enact laws that favor enterprise by prohibiting patronage of out-of-state competitors or their facilities.
+
+Facts
+The Plaintiff, the Town of Clarkstown, New York (Plaintiff), entered into a consent decree with the state of New York to close its landfill and build a new solid waste transfer station on the site. In order to finance the waste transfer station, the Plaintiff adopted an ordinance requiring all non-hazardous solid waste generated or brought into the town to be processed at the transfer station for a fee above market price. Violators would be punished through fines or jail time. The Defendant, C & A Carbone, Inc. (Defendant), a company that processed waste, did not process their waste at the local station more than six times. The Plaintiff town sought an injunction to force the Defendant to comply with the town ordinance. The state courts rejected the Defendant’s argument that the ordinance violated the commerce clause.
+
+Issue
+May state and local governments enact laws that favor local enterprise by prohibiting patronage of out of state competitors of their facilities?
+
+Held
+No, the local ordinance requiring all wastes to be processed at the local transfer station violates the Commerce Clause.
+
+Dissent
+Justice David Souter (J. Souter) dissents because the difference between the local ordinance here and in other cases is that this law does not differentiate between all local and out of town providers, but instead the one entity responsible that the job gets done and all other entities regardless of their location. The measure falls outside the class of measures that the Commerce Clause has barred States from enacting against each other. He felt the majority was greatly extending the Dormant Commerce Clause.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) held that state and local governments may not enact laws that favor local enterprises by prohibiting patronage of out of state competitors or their facilities. With respect to the stream of commerce the ordinance discriminates, for it allows only the favored operator to process waste that is within the limits of the town. This law bars the import of the processing service. It squelches competition in the waste-processing service altogether, leaving no room for investment from the outside. Because the ordinance attains its financial goal by depriving competitors, including out of state firms, of access to a local market, it violates the Commerce Clause of the Constitution.
+

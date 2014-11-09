@@ -1,0 +1,21 @@
+Citation
+289 F.3d 852 (6th Cir. 2002)
+
+Brief Fact Summary
+Westside Mothers (Plaintiff) sued the director of the Michigan Department of Community Health, James Haveman (Defendant), claiming the state of Michigan failed to provide medical services the Medicaid program required.
+
+Synopsis of Rule of Law
+(1) Medicaid is not a contract between the states that participate and the federal government.  (2) Sovereign immunity does not bar a s 1983 action against a state official who did not comply with Medicaid regulations.  (3) A Plaintiff does have a private right of action under s 1983 to enforce rights provided under Medicaid.
+
+Facts
+The Medicaid program provides federal subsidies to participating states to reimburse poor persons for the cost of certain medical care.  States that participate must comply with the requirements imposed by the Act, as well as with regulations put forth by the Secretary of Health and Human Services (HHS).  One such requirement is the provision of "early and periodic screening, diagnostic, and treatment services" for persons under 21 years of age who are eligible.  See s 1396(a)(4)(B).  These services include periodic physical exams, immunization, laboratory tests, eye exams, eyeglasses, dental exams and teeth maintenance, hearing exams and treatment of hearing disorders, and health education.  The Secretary of HHS has the authority to withhold funding to states that are in noncompliance with any of the requirements of Medicaid.  Westside Mothers (Plaintiff) claimed that James Haveman (Defendant) refused to provide, or require participating HMOs to provide, the services named above and sought declaratory and injunctive relief under 42 U.S.C. s 1983.  Section 1983 creates a cause of action against state action that deprives a person of any "rights, privileges, or immunities secured by the Constitution and laws" of the United States.  The district court dismissed finding that: (1) the Medicaid Act was not the supreme law of the law, but only a contract between the state and federal government; (2) the state of Michigan was the real defendant and the suit was barred by sovereign immunity; and (3) s 1983 does not create a private cause of action to enforce Medicaid provisions.  Plaintiff appealed.
+
+Issue
+(1) Is Medicaid a contract between the states that participate and the federal government?
+
+Held
+(Merritt, J.)  (1)  No.  Medicaid is not a contract between the states that participate and the federal government.  The Supreme Court already addressed this issue and held that the Medicaid Act, and its accompanying regulations, are federal laws and not contractual provisions.  See Pennhurst State School and Hosp. v. Halderman, 451 U.S. 1 (1981).  Federal-state cooperative programs that are enacted under the federal spending power, like Medicaid, fall within the Supremacy Clause and are the supreme law of the land.
+
+Discussion
+While it might seem obvious that federal statutes such as Medicaid create substantive and enforceable rights, a cause of action under a federal statute must be stated and not implied in the statute.  The specific nature of the requirements represented in the Medicaid Act and the regulations that go with them outline the rights, but the way to enforce them is not always clear. If the statute had indicated that only the Secretary of the HHS could bring suit, the plaintiffs in this case would have been barred from bringing the action.
+

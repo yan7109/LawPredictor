@@ -1,0 +1,21 @@
+Citation
+211 F.3d 306, 2000 U.S. App. 8523, 2000 FED App. 0154P (6th Cir.), 140 Lab. Cas. (CCH) P34,050
+
+Brief Fact Summary
+The Plaintiffs-Appellees, Sharon Floss (Floss) and Kyle Daniels (Daniels) (Plaintiffs), two former employees of the Defendant-Appellant, Ryan’s Family Steak House, Inc. (Defendants), brought an action against their former employer under Fair Labor Standards Act (FLSA). The Defendant responded that the Plaintiffs waived their right to bring such action in federal court by agreeing to arbitrate all employment disputes.
+
+Synopsis of Rule of Law
+A court will permit parties to litigate a claim in federal court, rather than enforce an arbitration agreement, where the forum for arbitration lacks rules and procedures suitable for the resolution of federal statutory claims.
+
+Facts
+Plaintiffs attempted to sue their former employer, the Defendant. However, when applying for employment with the Defendant, both Plaintiffs had signed a form indicating they would arbitrate all employment-related disputes. Defendant filed a motion to compel arbitration. Finding no valid arbitration agreement, the United States District Court for the Eastern District of Tennessee refused to require Daniels to arbitrate his claim under the Americans with Disabilities Act (ADA). In contrast, the United States District Court for the Eastern District of Kentucky found that Floss was required to arbitrate her dispute and could thus not pursue her claim under the FLSA in federal court. Defendant then appealed the district court’s refusal to require Daniels to arbitrate his ADA claim. Similarly, Floss appealed the district court’s order requiring her to submit her FLSA claim to arbitration.
+
+Issue
+Whether employees waive their rights to bring actions in federal courts under the ADA and FLSA by agreeing to arbitrate all employment disputes.
+
+Held
+No. The Court of Appeals for the Sixth Circuit reversed the district court’s order requiring Floss to arbitrate her claim and affirmed the district court’s order refusing to require Daniels to submit his claim to arbitration.   The Court reviews de novo a district court’s decisions regarding both the existence of a valid arbitration agreement and the arbitrability of a particular dispute.  In deciding whether to compel arbitration of a federal statutory claim, the Court initially considers whether the statutory claim is generally subject to compulsory arbitration. If the statutory claim is not exempt from mandatory arbitration, we next consider whether the parties have executed a valid arbitration agreement and, if so, whether the statutory claim falls within the scope of that agreement     Not all statutory claims are amenable to mandatory arbitration. In creating a statutory cause of action, Congress may choose to mandate a judicial forum for its resolution. Such intent is typically evidenced in the statutory text, legislative history, or by an “inherent conflict” between arbitration and the underlying purposes of the statute.  Even if arbitration is generally a suitable forum for resolving a particular statutory claim, the specific arbitral forum provided under an arbitration agreement must nevertheless allow for the effective vindication of that claim
+
+Discussion
+Ultimately the court in ruling on whether the arbitration agreements are binding waivers of federal rights, the court is called on to decide whether public matters should be resolved in private settings. The court’s answer is no, because it found that under arbitration of the specific federal rights in this case (i.e. freedom from employment and disability discrimination) there would be no assurance that the public interest behind the federal rights were satisfied.
+

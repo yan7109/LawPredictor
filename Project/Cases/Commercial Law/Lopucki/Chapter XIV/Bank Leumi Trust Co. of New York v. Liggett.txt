@@ -1,0 +1,21 @@
+Citation
+115 A.D.2d 378, 496 N.Y.S.2d 14, 1985 N.Y. App. Div. 54778
+
+Brief Fact Summary
+Helen Liggett perfected a judgment lien against the property of her ex-husband, Joseph Liggett. Afterwards, Bank Leumi Trust Co., made mortgage loans to Joseph Liggett and subsequently, Cosden Oil acquired a lien against the property. Bank Leumi Trust Co. brought this action pursuant to CPLR 5236(g) and Helen Liggett and Cosden Oil appeared in opposition.
+
+Synopsis of Rule of Law
+The language, “unless the court otherwise directs” permits the court to otherwise direct the distribution of the proceeds of the sale when it appears to the court that someone other than those specified in the subdivision has an interest superior to the specified persons.
+
+Facts
+Joseph and Mylene Liggett purchased real property located in Manhattan. The following year the property was transferred to Mylene Liggett individually. In February of 1980, Joseph Liggett’s first wife, Helen Liggett prevailed in an action for monies due under their 1970 separation agreement. She then commenced a separate action to enforce her judgment by setting aside the conveyance of the real property located in Manhattan as fraudulent. Between November 1980 and November 1981, Bank Leumi Trust Company of New York, (Petitioner), took successive mortgages on the Manhattan property to secure three loans. In February of 1982, Cosden Oil & Chemical Company, (Respondent), obtained and entered a judgment against Joseph Liggett.
+
+Issue
+Whether CPLR 5236(g) establishes priority of judgment creditors over mortgages that have been recorded prior to the judgments.
+
+Held
+No. Here it appears someone other than those specified in the subdivision has an interest superior to the specified person, therefore the court will otherwise direct distribution of the proceeds of the sale.
+
+Discussion
+The language, “unless the court otherwise directs” permits the court to otherwise direct the distribution of the proceeds of the sale when it appears to the court that someone other than those specified in the subdivision has an interest superior to the specified persons. Respondent contends that Petitioner is barred by CPLR 6501 as a person whose encumbrance is recorded after filing of a lis pendens in all proceedings taken in that action ” to the same extent as if he were a party.” This contention overlooks that in this respect Respondent is in the same position as petitioner, both having liens junior to Helen Liggett’s. Therefore this case is reversed and remanded for determination as to who has priority between Petitioner and Respondent.
+

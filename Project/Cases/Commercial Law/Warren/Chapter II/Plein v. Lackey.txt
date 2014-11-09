@@ -1,0 +1,21 @@
+Citation
+149 Wn.2d 214, 67 P.3d 1061, 2003 Wash. 285, 50 U.C.C. Rep. Serv. 2d (Callaghan) 234
+
+Brief Fact Summary
+A president of a corporation and his attorney, sought review of a decision of the Court of Appeals, which reversed the trial court’s grant of summary judgment in favor of the president and attorney. The Court of Appeals granted the plaintiff a permanent injunction barring a foreclosure sale and a declaration that a deed of trust assigned to the president was void.
+
+Synopsis of Rule of Law
+“Accommodation party” status is given when the party received no direct benefit from the proceeds of the instrument and when the loan would not have been made unless the party signed the instrument.
+
+Facts
+In 1997, Paul Plein, Bruce White, and Lee Cameron formed Alpen Group Inc. to buy and sell real estate.  In April 1997, Alpen purchased a lot from Sunset Investments, issuing a promise note for $75,000 to Sunset.  The note was secured by a deed of trust naming Sunset as the beneficiary and Alpen as the grantor.  Alpen also borrowed $136,500 from Columbia State Bank, executing a promissory note also secured by a deed of trust.  Columbia loaned the money on the condition that Sunset’s agreement would become subordinate to Columbia’s interests.  Lee Cameron then advanced Alpen $30,000.  The parties then stated that the plaintiff, Paul Plein (the “plaintiff”), issued deeds of trust against the log home being built on the lot to secure a debt to trade creditors.  Cameron then became president of Alpen and Alpen issued a promissory note for the $30,000 that Cameron advanced.  The plaintiff then received a judgment against Alpen in the amount of $45,000.  The order of the creditors th
+
+Issue
+Is Cameron considered an accommodation party for the purposes of foreclosing on the deed of trust?
+
+Held
+Yes. The court looks to UCC Section: 3-419(1) which provides that: “if an instrument is issued for value given for the benefit of a party to the instrument (”accommodated party”) and another party to the instrument (”accommodation party”) signs the instrument for the purpose of incurring liability on the instrument without being a direct beneficiary of the value given for the instrument, the instrument is signed by the accommodation party “for accommodation.”  The court states that the direct beneficiary of the loan was Alpen and any benefit received by Cameron was a derivative and indirect result of him being a stockholder in the corporation.  The court notes that another factor that serves to establish accommodation party status is that the lender would not have made the loan in the absence of the party’s signature on the note giving rise to liability.  The court cites 11AM.JUR.2D Bills and Notes Section: 85 (2002) and states that “two primary factors that indicate accommodation party stat
+
+Discussion
+Cameron relies on RCW 62A.3-419 to make his argument.  Comment 1 to section .3-410 gives and example of accommodation party status similar to this case:  “If X cosigns a note of Corporation that is given for a loan to Corporation, X is an accommodation party if no part of the loan was paid to X or for X’s direct benefit.  This is true even though X may receive indirect benefit from the loan because X is employed by Corporation or is a stockholder of Corporation, or even if X is the sole stockholder so long as Corporation and X are recognized as separate entities.”
+

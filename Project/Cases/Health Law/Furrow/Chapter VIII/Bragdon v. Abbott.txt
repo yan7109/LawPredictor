@@ -1,0 +1,27 @@
+Citation
+524 U.S. 624 (1998)
+
+Brief Fact Summary
+Abbott (Plaintiff) alleged that her dentist, Bragdon (Defendant), violated the ADA when he discriminated against her by refusing to treat her in his office.
+
+Synopsis of Rule of Law
+The existence or nonexistence of a significant health or safety risk must be determined from the standpoint of the person who refuses to provide treatment or accommodation, and the risk assessment must be based on medical or other objective evidence.
+
+Facts
+Abbott (Plaintiff) was infected with human immunodeficiency virus (HIV) which she disclosed to Bragdon (Defendant), a dentist, when she went to see him.  When (Defendant) informed Plaintiff of his policy against filling cavities of HIV-infected patients, he offered to perform the work at a hospital with no added fee for his services, however Plaintiff would be responsible for the cost of using the hospital's facilities.  Plaintiff brought suit under § 302 of the ADA, claiming discrimination based on her disability.  The district court ruled in favor of Plaintiff, holding that her HIV infection was a disability under the ADA, even though her infection had not yet progressed to the symptomatic stage.  The court of appeals agreed that treating Plaintiff in the dental office would not have posed a direct threat to the health and safety of others.  Defendant appealed.  The United States Supreme Court granted certiorari.
+
+Issue
+Must the existence or nonexistence of a significant health or safety risk be determined from the standpoint of the person who refuses to provide treatment or accommodation, and must the risk assessment be based on medical or other objective evidence?
+
+Held
+(Kennedy, J.)  Yes.  The existence or nonexistence of a significant health or safety risk must be determined from the standpoint of the person who refuses to provide treatment or accommodation, and the risk assessment must be based on medical or other objective evidence.  No person is required to participate in or benefit from the services in any place of public accommodation if that person poses a direct threat to the health or safety of others.  Defendant presented no objective evidence to show that treating Plaintiff in a hospital would be safer or more efficient than a well-equipped dental office in preventing the transmission of HIV.  However, this Court is concerned that the court of appeals mistakenly relied on the 1993 CDC Dentistry Guidelines, and the 1991 American Dental Association Policy on HIV.  This evidence is not definitive.   As of September 1994, the CDC had identified seven dental workers with possible occupational transmission of HIV.  It is not clear on this record whether this information was available to Defendant.  If not, the seven cases might have provided some support for his position.  The proper course is to give the court of appeals the opportunity to determine whether our analysis of some of the studies cited by the parties would change its conclusion that Defendant presented no objective evidence and no triable issue of fact on the question of risk.  Reversed and remanded.
+
+Dissent
+(Rehnquist, C.J.) Defendant has presented more than enough evidence to avoid summary judgment on the question of direct threat.  Considering the severity of the risk here and the absence of protocol for eliminating this risk, it seems likely that he can establish that it was objectively reasonable for Defendant to conclude there was a direct threat to his safety if he treated Plaintiff in his office.
+
+Concurrence
+(Stevens, J.)  Defendant has not sustained his burden of providing enough evidence to raise a triable issue of fact on the significance of the risk posed by treating Plaintiff in his office.  I join the Court's opinion even though I would prefer an outright affirmance.
+
+Discussion
+Prior to this case, the Center for Disease Control (CDC) guidelines were relied on as a source of authority on risk level and necessary precautions.  The rule from this case has also been applied to cases claiming employment discrimination.  The ADA's direct threat provision codified the holding from School Board of Nassau County v. Arline, 480 U.S. 273 (1987).s
+

@@ -1,0 +1,21 @@
+Citation
+17 U.S. 316, 4 Wheat. 316, 4 L. Ed. 579 (1819)
+
+Brief Fact Summary
+Defendant, James McCulloch (Defendant), cashier of a branch of the Bank of the United States, (the Bank) refused to pay a tax imposed upon the Bank by the legislature of the state of Maryland.
+
+Synopsis of Rule of Law
+(1.) The Necessary and Proper Clause authorizes Congress to make laws pursuant to the unenumerated powers of the United States Constitution (Constitution) so long as such laws are necessary and proper for carrying into execution the powers expressly vested in the federal government by the Constitution. (2.) The Constitution and the laws made pursuant to it are supreme and control the constitution and the laws of the states and cannot be controlled by them.
+
+Facts
+Plaintiff, John James (Plaintiff), brings suit on behalf of himself and the state of Maryland against Defendant, cashier for the Bank of the United States. Plaintiff claimed Defendant had failed to pay a state tax assessed against the Bank. Defendant argued that the Bank, as an institution incorporated under the laws of the United States, was not obligated to pay a tax levied upon it by a state and called into question the validity of such a tax.
+
+Issue
+Does Congress have the power to incorporate a Bank?
+
+Held
+Yes and Yes.
+
+Discussion
+This case turns on the meaning of the word “necessary” in the Necessary and Proper Clause. Rather than interpret the word narrowly to mean absolutely necessary, Chief Justice John Marshall interprets the word broadly to encompass usages such as needful, useful, incidental, or conducive to.
+

@@ -1,0 +1,21 @@
+Citation
+30 Fed. Cas. 491 (D. Mass. 1813)
+
+Brief Fact Summary
+Woodcock (Plaintiff) sought the use of a machine patented by Parker (Defendant).
+
+Synopsis of Rule of Law
+If the first inventor of a machine obtains a patent, a second inventor cannot then obtain a patent on the machine, even if he was not aware of the first invention.
+
+Facts
+Defendant invented a machine and operated it to produce useful things.  Defendant then obtained a patent from the Department of State and passed title of the machine to others.  Plaintiff sought to bar the use of the machine, claiming he had invented and obtained a patent on the same machine.
+
+Issue
+Does the first inventor retain the patent right?
+
+Held
+(Story, J.)  Yes.  If the first inventor of a machine obtains a patent, a second inventor cannot then obtain a patent on the machine, even if he was not aware of the first invention.  If the members of the jury are satisfied that Defendant was the first inventor, then Plaintiff cannot bring an action.  The issue may have been different if Defendant had abandoned the invention, but there is no evidence of abandonment.
+
+Discussion
+Woodcock stood for the first-to-invent principle, a principle favored by the United States over a first-to-file concept.  The first-to-invent system is entirely unique to the United States.  The Statute of Monopolies stated patents issue "to the first and true inventor" but did not clearly speak to which principle was correct.  Whether it was implied to the first to inventor or the first to file was never clear, and Justice Story's opinion is among the earliest to favor the first-to-invent concept.  This concept was then written down clearly in the Patent Act of 1836.
+

@@ -1,0 +1,21 @@
+Citation
+160 F.3d 97,  1998 U.S. App. 30807, 36 U.C.C. Rep. Serv. 2d (Callaghan) 1141
+
+Brief Fact Summary
+Grain Traders, Inc., (Petitioner), brought suit against Citibank, N.A., (Respondent), seeking a refund from Respondent for an alleged uncompleted electronic funds transfer. Petitioner appeals summary judgment in favor of Respondent.
+
+Synopsis of Rule of Law
+U.C.C. Section:4-A-402(4) establishes a right of refund only between a sender against the receiving bank to whom the sender had issued a payment order and whom the sender had paid. No right to a refund otherwise exists between the originator and an intermediary bank
+
+Facts
+Petitioner, in order to make a payment of $310,000 to Claudio Goidanich Kraemer, (Kraemer), initiated an electronic funds transfer by issuing a payment order to its bank, Banco de Credito Nacional, (BCN). BCN was to debit the amount from Petitioner’s account and then issue a payment order to Respondent, with whom BCN had an account. Respondent was to debit BCN’s account and credit that amount to the account that Banque du Credit et Investissement Ltd. (BCIL) maintained with Respondent. BCIL then would transfer the amount to Banco Extrader, S.A., (Extrader) who was then to credit the account maintained at that bank by Kraemer.
+
+Issue
+Whether Petitioner as sender can sue any intermediary bank in the chain of banks executing an electronic funds transfer that receives payment.
+
+Held
+No. A sender may only sue the receiving bank to which the sender had issued a payment order and had paid.
+
+Discussion
+The words in Section:4-A-402(4) “bank receiving payment,” refer to the “receiving bank.” This indicates that the right to a refund action under Section:4-A-402(4) may only be maintained by a sender against the receiving bank to which the sender had issued a payment order and which the sender had paid. Because Petitioner was a sender only with respect to the payment order it issued to BCN, Petitioner could only look to BCN, the receiving bank, for a refund.
+

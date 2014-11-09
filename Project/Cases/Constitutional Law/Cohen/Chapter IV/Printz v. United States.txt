@@ -1,0 +1,24 @@
+Citation
+22 Ill.521 U.S. 898, 117 S. Ct. 2365, 138 L. Ed. 2d 914 (1997)
+
+Brief Fact Summary
+The Petitioners, Printz and other chief law enforcement officers from the states of Montana and Arizona (Petitioner), argue the constitutionality of a congressional action compelling state officers to execute federal law.
+
+Synopsis of Rule of Law
+The federal government may not compel the states to enact or administer a federal regulatory program.
+
+Facts
+The Petitioners argued that the interim provisions of the Brady Handgun Violence Prevention Act (the Act), commanding state and local officers to perform background checks on prospective handgun buyers and to perform other related tasks violate the United States Constitution (Constitution). Under the interim provisions of the Act, a firearms dealer who proposes to transfer a handgun must first receive from the transferee a statement containing the name, address and date of birth of the proposed transferee, along with a sworn statement that the transferee is not among any of the classes of prohibited purchasers. The firearms dealer must then provide this information to the chief law enforcement officer (CLEO) who must then make a reasonable effort to ascertain within 5 business days whether receipt or possession would be in violation of the law. These reasonable efforts included conducting research in whatever state and local record keeping systems are available and in a nation
+
+Issue
+Whether the mandatory obligation imposed on the States by the interim provisions of the Act, commanding state and local officers to perform background checks on prospective handgun buyers and to perform certain other related tasks, violates the Constitution?
+
+Held
+Reversed. The Federal Government may not compel the CLEOs to perform background checks on prospective gun buyers and to perform certain other related tasks as required by the interim provisions of the Act.
+
+Dissent
+There is no text in the Constitution that supports the proposition that a local police officer can ignore a command contained in a statute enacted by Congress, pursuant to an express delegation of power enumerated in Article I. It is more probable to infer that state officers should support the federal government in implementing interim provisions that affect the nation.<br />	There is no reason to find an absolute principle in the Constitution, the inflexibility of which poses an obstacle to the enactment of a law, which Congress believed necessary to solve an important national problem.<br />Concurrence.<br />	The Unites States precedent and historical practices support the Supreme Court of United States’ (Supreme Court) finding that states cannot be directly compelled to administer a federal regulatory program. The Supreme Court appropriately refrained from deciding whether purely ministerial reporting requirements imposed by Congress on state and local authorities pursuant to its Commerce Clause powers are similarly invalid.<br />	Absent the underlying authority for the Federal Government to regulate wholly intrastate transfer of firearms, Congress lacks the corollary power to impress state law enforcement officers into administering and enforcing such regulations.<br />
+
+Discussion
+It is unconstitutional for the federal government to directly compel states to enforce federal regulatory programs.
+

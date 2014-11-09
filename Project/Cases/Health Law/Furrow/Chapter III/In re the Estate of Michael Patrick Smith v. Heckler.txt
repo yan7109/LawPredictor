@@ -1,0 +1,21 @@
+Citation
+747 F.2d 583 (10th Cir. 1984)
+
+Brief Fact Summary
+A class of patients from a nursing home challenged the practice of the Federal Health Department (Defendant) of enforcing compliance with the Medicaid Act by focusing on the homes' facilities rather than focusing on patient care.
+
+Synopsis of Rule of Law
+The federal health department must focus on patient care to enforce compliance with the Medicaid Act.
+
+Facts
+A class action suit was filed on behalf of nursing home patients (Plaintiffs) residing in Colorado against Heckler (Defendant), the Secretary of Health and Human Services.  Basically, the suit claimed that Defendant was under a duty to enforce compliance with the federal Medicaid Act by focusing on the quality of care actually provided to Plaintiffs instead of by focusing only on the facilities the homes offered.  The district court concluded that Defendant was in compliance with the statute in effecting a "facility-oriented" review and dismissed.  An appeal was taken.
+
+Issue
+Is the federal health department required to focus on patient care to enforce compliance with the Medicaid Act?
+
+Held
+(McKay, J.)  Yes.  Defendant must focus on patient care to enforce compliance with the Medicaid Act.  There is nothing in the Medicaid Act to show that Congress intended the end product of the Act to be the facilities.  Instead, the Act focuses repeatedly on the care to be provided.  For example, the Act provides that health standards are to be developed and maintained.  Further, the states must inform the Secretary of what methods they use to ensure quality care.  Because of this, the Secretary must look to patent care that was actually provided. The current review system that was implemented by Defendant is insufficient in that it looks to facilities and only the potential of care.  Reversed and remanded.
+
+Discussion
+The Medicaid Act is located at 42 U.S.C. § 1396.  Its purpose is to assist states in providing quality care to the disabled.  For a state to receive funding, it must submit a plan to the Department of Health and Human Services that meets the requirements of the Act.  These requirements were at issue here.
+

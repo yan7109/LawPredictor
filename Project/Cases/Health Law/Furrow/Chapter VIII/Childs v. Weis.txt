@@ -1,0 +1,21 @@
+Citation
+Tex. Civ. App. Ct., 440 S.W.2d 104 (1969)
+
+Brief Fact Summary
+Dr. Weis (Defendant), when told that Daisy Childs (Plaintiff) was beginning labor, referred Plaintiff to her regular physician rather than treat her.
+
+Synopsis of Rule of Law
+A physician who does not undertake to treat a patient cannot be liable for malpractice.
+
+Facts
+Daisy Childs (Plaintiff), a resident of Dallas County, was seven months pregnant and visiting in Lone Oak, Texas.  When she began having labor pains, she went to an emergency room.  A nurse called Dr. Weis (Defendant), who suggested Plaintiff call her regular doctor.  The nurse apparently misrelayed the message and told her to go to her doctor in Dallas.  The baby was born in transit and did not survive.  Plaintiff sued Defendant for malpractice.  The trial court granted summary judgment, dismissing the action.  Plaintiff appealed.
+
+Issue
+Can a physician who does not undertake to treat a patient be liable for malpractice?
+
+Held
+(Williams, J.)  No.  A physician who does not undertake to treat a patient cannot be liable for malpractice.  The relationship between a doctor and patient depends on contract.  A doctor is not to be held liable for refusing to respond to the call of a person even urgently in need of medical services.  Without such an agreement, no liability can accrue.  In this case, at no time did (Defendant) agree to treat Plaintiff, as he referred Plaintiff to her own doctor.  While it is a fact that the nurse misconveyed Defendant's suggestion, Defendant's position is not affected.  Affirmed.
+
+Discussion
+Almost universally a doctor is not under a duty to help one even greatly in need of medical care.  To encourage doctors to provide assistance in emergencies, some states have passed "Good Samaritan" laws, relieving doctors of civil liability who treat accident or emergency victims, so long as there is no recklessness.  The idea of imposing an affirmative duty to help has been debated, but the issue raises a number of moral and constitutional questions.
+

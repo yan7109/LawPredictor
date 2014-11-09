@@ -1,0 +1,21 @@
+Citation
+15 Fed. Cas. 1018 (D. Mass 1817)
+
+Brief Fact Summary
+Lowell (Plaintiff) must prove his pump invention is useful.
+
+Synopsis of Rule of Law
+The usefulness requirement of the Patent Act is satisfied if the invention is not frivolous or injurious to the well-being, good policy, or sound morals of society.
+
+Facts
+Plaintiff argued that because his pump satisfies the "useful" requirement of The Patent Act of 1793 it deserved patent protection.
+
+Issue
+Is the usefulness requirement of the Patent Act satisfied if the invention is not frivolous or injurious to the well-being, good policy, or sound morals of society?
+
+Held
+(Story, J.)  Yes.  The usefulness requirement of the Patent Act is satisfied if the invention is not frivolous or injurious to the well being, good policy, or sound morals of society.  Lewis (Defendant) states that Plaintiff's pump must surpass the pumps in common use in order to receive patent protection.  This is not correct.  The Patent Act of 1793 uses the term "useful invention" incidentally.  It occurs only in the first section and is merely descriptive of the applicant's subject matter or the applicant's conviction.  If the invention is mischievous or immoral, such as a method to poison or assassinate, then it would be unpatentable.  However, if the invention steers clear of this limited category, it would be patentable.  This is true even if the invention serves no purpose.  In that case, the invention may sink into contempt and disregard, but it will remain patentable.
+
+Discussion
+While on the circuit in New England, Justice Story provided several influential decisions concerning U.S. patent law.  In 1818, he explained the definition of utility by defining it as an invention that may be useful to society.  See Bedford v. Hunt, 3 Fed. Cas. 37 (D. Mass. 1817).  Because of this liberal standard, it is hardly surprising that utility is rarely litigated.  Courts are not necessarily looking for something better, just different.
+

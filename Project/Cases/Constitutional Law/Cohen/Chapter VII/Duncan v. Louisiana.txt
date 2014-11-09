@@ -1,0 +1,24 @@
+Citation
+22 Ill.536 U.S. 907, 122 S. Ct. 2362, 153 L. Ed. 2d 183 (2002)
+
+Brief Fact Summary
+Gary Duncan (Defendant) was convicted of simple battery, a misdemeanor and sentenced to sixty days in the parish prison with a fine of $150.00. He appealed, because he was not given a trial by jury.
+
+Synopsis of Rule of Law
+The modern standard is that the court incorporates into the Fourteenth Amendment any guarantee, which is fundamental in the context of the judicial processes maintained by the states. Trial by jury is fundamental to the American scheme of justice and therefore is incorporated into the Fourteenth Amendment.
+
+Facts
+The Louisiana Constitution granted jury trials only in cases in which capital punishment or imprisonment at hard labor could be imposed. Defendant faced a crime punishable by two years imprisonment and a $300.00 fine. He sought trial by jury but the request was denied. He was convicted of simple battery and sentenced to serve sixty days and pay a $150.00 fine. The Supreme Court of Louisiana denied his writ of certiorari because the Louisiana Constitution allowed the state to deny a jury trial.
+
+Issue
+Does the right extended by the Fifth and Sixth Amendments with respect to federal criminal proceedings also protect defendants against station action by the Fourteenth Amendment?
+
+Held
+Justice White opinion. The lower court judgment is reversed and remanded for proceedings not inconsistent with this opinion.
+
+Dissent
+Justice Harlan and Stewart dissenting.
+
+Discussion
+Historical support for the incorporating of the first eight amendments to the federal constitution can be mustered both for the majority and he dissenting opinions in most cases.<br />	The argument for incorporation rests on the known aversion of some of the framers to Barron v. Baltimore (holding that the Bill of Rights does not apply to the states).<br />	Equally important research says that the Framers did not contemplate such specific content for the Fourteenth Amendment. The fact that there was no specific debate on the point of incorporation means there was no intent to achieve incorporation. Such a substantial change in state procedures would not have been accepted by the state conventions if this were the meaning of the Amendment.<br />	Is it really possible to discern the intent of Congress from ambiguous historical records and how applicable are those intents today?<br />	In Palko the Court asked when inquiring into whether some particular procedural safeguard was required of a state, if a civilized system could be imagined that would not accord the particular protection. Now the question is whether given this kind of system a particular procedure is fundamental, or necessary to the regime of ordered liberty.<br />	Both sides state that a jury trial is not required for a petty offense. So the question should have been was this a petty offense? If this were a simple battery and not a serious crime then the majority would not have questioned the statute.<br />	Instead this is a case when all the justices decided to debate whether incorporation should evaluated under the Palko standard, total incorporation, or selective incorporation. If one was to try to avoid constitutional questions unless necessary, it seems they went on a tan
+

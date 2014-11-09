@@ -1,0 +1,24 @@
+Citation
+450 U.S. 662, 101 S. Ct. 1309, 67 L. Ed. 2d 580 (1981)<br />
+
+Brief Fact Summary
+The Supreme Court of the United States held that an Iowa law prohibiting trucks over a certain length to travel throughout the state was an unconstitutional burden on interstate commerce because the law forces trucking companies to travel around Iowa or use smaller trucks when driving through Iowa. Thus, the law created inefficiency and added expenses to interstate commerce.
+
+Synopsis of Rule of Law
+Where, as here, the state’s safety interest has been found illusionary, and its regulations significantly impair the federal interest in efficient and safe interstate transportation, that state law violates the commerce clause.
+
+Facts
+Plaintiff, Consolidated Freightways, one of the largest common carriers in the country, carried commodities through Iowa on Interstate 80 until Defendant, the State of Iowa, enacted a law prohibiting trucks over a certain length into its state. Due to Defendant’s statutory scheme and the adverse effect it had on Plaintiff, Plaintiff sued Defendant claiming that this law violated the commerce clause by unduly burdening commerce. The District Court found that the longer truck length (forbidden by Defendant), the “twin,” was safe and concluded that Defendant’s law impermissibly burdened commerce because the total effect of the law as a safety measure is so slight and problematical that it does not outweigh the national interest in keeping interstate commerce free from interferences that seriously impede it. The Court of Appeals agreed.
+
+Issue
+Whether the Iowa statute prohibiting the use of certain large trucks within the state violates the commerce clause.
+
+Held
+Yes. Judgment of the Court of Appeals affirmed. The state failed to present any persuasive evidence that the longer trucks, “twins,” are less safe than the shorter trucks. Rather, Defendant seemed to have hoped to limit the use of its highways by deflecting some through traffic. Defendant’s safety interest is illusionary and its regulations significantly impair the federal interest in efficient and safe interstate transportation. Therefore, this statute violates the commerce clause.
+
+Dissent
+Every state regulates the length and types of vehicles that enter its borders. A “sensitive consideration” of the safety purpose in relation to the burden on commerce is required. Defendant’s statute is a valid safety regulation which is entitled to the strongest presumption of validity under the commerce clause. Striking down Defendant’s law because Plaintiff has made a voluntary business choice to use longer trucks, would compel Defendant to yield to the policy choices of neighboring states.
+
+Discussion
+The majority implemented a test weighing the benefits conferred upon the state versus the burden on interstate commerce under Defendant’s law and found that the law unduly burdened interstate commerce. The Court was divided in its decision (5-4).
+

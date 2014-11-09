@@ -1,0 +1,21 @@
+Citation
+74 U.S. (7 Wall.) 583 (1868)
+
+Brief Fact Summary
+Jordan (Plaintiff) argued that Agawam (Defendant) had infringed on his patent on a weaving device.
+
+Synopsis of Rule of Law
+When an employer is performing experiments on a new invention, any suggestions by employees are the property of the employer if the suggestions themselves do not amount to a new invention.
+
+Facts
+Plaintiff worked with machinery and weaving machines his whole life.  Plaintiff developed weaving equipment using a key device he called a "traverse."  The traverse allowed endless "roving," which is weaving.  During the experimentation, one of Plaintiff's employees, Winslow, suggested that spools be used instead of cans.  Winslow stated that he made the spools which he attached to the device.  Plaintiff sued Agawam Woolen Co. (Defendant) for patent infringement, but Defendant argued that Winslow held the rights to the equipment.  Plaintiff won and Defendant appealed.
+
+Issue
+When an employer is performing experiments on a new invention, are suggestions by employees the property of the employer if the suggestions themselves do not amount to a new invention?
+
+Held
+(Clifford, J.)  Yes.  When an employer is performing experiments on a new invention, any suggestions by employees are the property of the employer if the suggestions themselves do not amount to a new invention.  This principle is based on the fact that when an inventor enlists help with performing his experiments, and the enlisted party makes additional discoveries or suggested improvements, these improvements are considered to be included within the inventor's patent.  The Plaintiff has the original patent and should keep the rights to the device, even if credit is given to Defendant's witness.  The device would not be complete without the traverse.  While the spool and drum may be better than cans, they are only improvements to the device, however, the traverse is the key device.  Reversed.
+
+Discussion
+The decision in Agawam is the precursor to the modern § 102(f) that bars an applicant "who did not himself invent the subject matter sought to be patented."  Agawam also provided a standard regarding addressing communications of invention.  For instance, does the entire conception have to be communicated to invoke the § 102(f) bar?  The Agawam standard still exists.  There is enough communication if it "enabled an ordinary mechanic, without the exercise of any ingenuity and special skill on his part, to construct and put the improvement in successful operation."  In patent law, theft from an inventor, either through communications or the more outright kind found in Agawam, is termed derivation.
+

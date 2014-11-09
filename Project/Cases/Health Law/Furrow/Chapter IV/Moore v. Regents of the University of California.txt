@@ -1,0 +1,21 @@
+Citation
+Cal. Sup. Ct., 51 Cal. 3d 120, 793 P.2d 479 (1990)
+
+Brief Fact Summary
+Tissue was removed from Moore (Plaintiff) by several doctors who planned to conduct research with the hope of achieving financial gain.
+
+Synopsis of Rule of Law
+A doctor must disclose the intent to use a person's body tissue for possibly profitable research.
+
+Facts
+Moore (Plaintiff) underwent treatment for a type of leukemia at UCLA Medical Center.  The doctors who treated Plaintiff, Golde (Defendant) and Quan (Defendant), recognized certain unique properties in his tissue that called for research.  They suspected they could derive a patentable cell line from the tissue.  Following this, various types of tissue were removed from Plaintiff, including his spleen, supposedly for treatment only, but were used for research as well.  Several years later, Defendants received a patent on a cell line derived exclusively from Plaintiff's tissue.  Plaintiff filed suit, alleging a variety of causes of action including conversion and failure to obtain informed consent.  The state supreme court granted review.
+
+Issue
+Must a doctor disclose the intent to use a person's body tissue for possibly profitable research?
+
+Held
+[Judge not stated in casebook excerpt.]  Yes.  A doctor must disclose the intent to use a person's body tissue for possibly profitable research.  A person of normal competency has a right to decide whether to consent to medical treatment.  In this regard, a physician has a fiduciary duty to disclose to the patient all information relative to the patient's decision.  The potential for conflicting loyalties exist when a physician has an economic interest in the results of a patient's treatment and whose judgment might be clouded regarding the appropriate types of treatment to provide.  The patient has a right to know that the normal analysis of risk versus benefit to the patient may become skewed.  For this reason, the intent to use the patient's tissue for profitable research must be disclosed.  In this case, Golde (Defendant) had formed an intent, prior to the removal of at least some of Plaintiff's tissue, to use the tissue in profit-seeking research.  Defendant breached his duty to obtain Plaintiff's informed consent when he did not disclose this to Plaintiff.  [Plaintiff's conversion claim is rejected.]
+
+Discussion
+The scientific and health communities watched this case very closely.  Plaintiff pursued establishing a proprietary interest in his tissue through a conversion cause of action.  Researchers were concerned about the implications of such a claim on research.  Plaintiff's conversion cause of action failed in the California Supreme Court.
+

@@ -1,0 +1,21 @@
+Citation
+24 F.3d 178 (Fed. Cir. 1994)
+
+Brief Fact Summary
+Amsted (Plaintiff) notified several others by letter it had acquired a patent and not to infringe.
+
+Synopsis of Rule of Law
+(1) Implied licensees are required to mark the invention under 35 U.S.C. § 287.  (2) For purposes of § 287(a), notice must be of the infringement, not only notice of the existence or ownership of a patent.
+
+Facts
+The '269 patent was named "Combined Body Bolster Center Filler and Center Plate for Railway Cars."  It referred to a center plate combined with several other components that formed the underframe structure of a railroad car.  The patent was assigned to Dresser Industries until 1985, when it sold the patent and trademark to Amsted Industries, Inc. (Plaintiff).  On January 10, 1986, Plaintiff sent letters to several companies, including Buckeye Steel Castings Co. (Defendant), notifying them that Plaintiff had purchased the patent.  It warned the companies to "acquaint" themselves with the patent, so they would not infringe.  Defendant knew it was infringing the patent at that time when the letter was received.  On January 27, 1989, Plaintiff wrote another letter to Defendant informing Defendant that it was infringing the patent with center plate.  The district court awarded damages from January 16, 1986, but limited Plaintiff's recovery because the patented articles were not marked.  Defendant appealed, claiming damages should be computed from the date of the second letter, since the letter of 1986 did not amount to a notice of infringement under Section 287.  Plaintiff cross-appealed, claiming the device was an implied licensee and therefore marking was not necessary.
+
+Issue
+(1) Are implied licensees required to mark the invention under 35 U.S.C. § 287?  (2) For purposes of § 287(a), must notice be of the infringement, not only notice of the existence or ownership of a patent?
+
+Held
+(Lourie, J.)  (1) Yes.  (1) Implied licensees are required to mark the invention under 35 U.S.C. § 287.  There is a policy goal of informing the public of the patent status of items in commerce, which is fulfilled by marking. Plaintiff or its implied licensees were required to mark but did not do so, and therefore Plaintiff is not allowed to recover damages before the date of infringement notification. (2) Yes. For purposes of § 287(a), notice must be of the infringement, not only notice of the existence or ownership of a patent.  Actual notice requires the affirmative communication of a specific charge of infringement by a specific accused device.  It is not relevant whether Defendant was aware it was infringing in 1986 when the first letter was sent.  Focusing on the actions of the patentee is the correct approach.  Damages toll from the date of the second letter and must be recalculated from the date of the 1989 letter.  Reversed and remanded.
+
+Discussion
+There is incentive provided by the Patent Act for inventors to mark their inventions.  With no marking, damages can only be calculated from the date of notice.  Occasionally, an applicant may select to not mark a product, so that it may sue after a competitor has invested in production facilities.  Remedies for false marketing are also provided for in 35 U.S.C. § 292.
+

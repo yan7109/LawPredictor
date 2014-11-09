@@ -1,0 +1,21 @@
+Citation
+N.J. Sup. Ct., 111 N.J. 429, 545 A.2d 148 (1988)
+
+Brief Fact Summary
+Ostrowski (Plaintiff) was denied damages in her malpractice action as the jury found Plaintiff's health habits were the main cause of her medical complications after being treated by Azzara (Defendant).
+
+Synopsis of Rule of Law
+Damages for malpractice cannot be denied on the basis that the patient's health habits are the main reason for complications after treatment.
+
+Facts
+Ostrowski (Plaintiff) was a diabetic dependent on insulin and with a history of heavy smoking.  At one point, she went to Azzara (Defendant), a podiatrist, with a toenail inflammation.  Defendant performed a surgical cut on the toenail.  Because of her poor circulation due to diabetes, Plaintiff's toe did not heal and gangrene began to develop.  In an effort to save her foot, Plaintiff underwent two bypass operations and a vein transplant.  She continued to smoke during this time, in opposition to Defendant's advice.  Plaintiff brought suit for malpractice.  The jury found the surgical procedure performed on Plaintiff's toe to be inappropriate for her condition; however, held that Plaintiff was primarily responsible due to her smoking.  The jury returned a defense verdict.  Plaintiff appealed.
+
+Issue
+Can damages for malpractice be denied on the basis that the patient's health habits are the main reason for complications after treatment?
+
+Held
+(O'Hern, J.)  No.  Damages for malpractice cannot be denied on the basis that the patient's health habits are the main reason for complications after treatment.  To resolve this issue involves the concepts of avoidable consequences, comparative negligence, particularly susceptible victims, aggravation of preexisting conditions, and proximate cause.  Avoidable consequences have to do with the plaintiff's carelessness after a legal wrong by defendant.  Comparative negligence is a threshold matter.  Recovery is barred if the plaintiff is more responsible for the injury than the defendant.  "Particularly susceptible victim" is just a restatement of the saying that a defendant takes a plaintiff as he finds him.  Aggravation of preexisting condition is a mitigation of the previous doctrine.  In other words, a defendant who aggravates a preexisting condition will be responsible only to the extent of the aggravation, not the prior condition itself.  Proximate cause serves as a foundation to the allocation of risk by way of the tort system and focuses sometimes on the foreseeability of a specific risk.  When these concepts are applied to the present case, Plaintiff was not responsible for her initial injury, therefore comparative negligence should not have been found against her.  Plaintiff was more susceptible that most patients to complications in surgery, but that is how Defendant found her, and so Defendant must take her.  On the other hand, to the extent Plaintiff would have deteriorated without Defendant's malpractice, Defendant is not liable for that.  Lastly, to the extent Plaintiff could have avoided her problems by not smoking, as she had been instructed to do, she may not recover.  This case must be remanded for a reconsideration of damages in light of these principles.  Reversed and remanded for a new trial.
+
+Discussion
+Except for something obvious, like a self-inflicted injury, contributory or comparative negligence is not usually applied against a patient.  Failure to mitigate damages is more generally applied.  The court's analysis was rather roundabout, but that is basically the doctrine the court employed in this case.
+

@@ -1,0 +1,21 @@
+Citation
+458 U.S. 613, 102 S. Ct. 3272, 73 L. Ed. 2d 1012, 1982 U.S.
+
+Brief Fact Summary
+An at-large county election system that results in no minority ever being elected based on a dilution of black votes was held unconstitutional by the Supreme Court of the United States because the system was being maintained for discriminatory purposes.
+
+Synopsis of Rule of Law
+An at-large election system that has a discriminatory impact coupled with a discriminatory purpose is unconstitutional.
+
+Facts
+The Burke County Board of Commissioners, a five-member board created in 1911 under state law, governs the county. In order to be elected as a member of the Board, candidates have to receive a majority of the votes in the primary or general election. Although a substantial number of blacks live within the county, no minority candidate had ever been elected as a member. Appellees, eight black citizens of Burke County, Georgia, challenged the county’s at-large system of elections claiming the system diluted the voting power of black citizens. The District Court issued an order in favor of Appellees and required that Burke County be divided into five districts for purposes of electing County Commissioners. The District Court later issued detailed findings of fact and conclusions of law in which it stated that while the present method for electing County Commissioners was “racially neutral when adopted, it is being maintained for invidious purposes.” The Court of Appeals affirmed.<span class='heading'>Issue.</span>  Whether the at-large system of elections in Burke County, Georgia violates the Fourteenth Amendment rights of Burke County black citizens.
+
+Held
+Yes. Judgment of the lower courts affirmed. At-large voting schemes and multi-member districts, despite the fact that they minimize the voting strength of minority groups, are not unconstitutional per se. However, multi-member districts violate the Fourteenth Amendment if “conceived or operated as purposeful devices to further racial discrimination” by minimizing, canceling out or diluting voter strength of racial elements in the voting population. There is extensive historical evidence that the County had impeded the political participation of black citizens and that the at-large system minimized even further the ability of blacks to participate in the political process. Therefore, the Burke County at-large system was being maintained for the invidious purpose of diluting the voter strength of the black population and is in violation of the Fourteenth Amendment.
+
+Dissent
+The standard that the Court applies here is too broad and makes virtually every political device vulnerable.
+
+Discussion
+The majority employs circumstantial evidence to find a discriminatory purpose in the Burke County election scheme. Thus, the at-large elections are held unconstitutional.
+

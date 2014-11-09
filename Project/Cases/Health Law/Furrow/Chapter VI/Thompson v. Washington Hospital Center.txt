@@ -1,0 +1,21 @@
+Citation
+D.C. Ct. App., 579 A.2d 177 (1990)
+
+Brief Fact Summary
+Washington Hospital Center was found negligent for not providing an end-tidal carbon monoxide during surgery on Thompson (Plaintiff).
+
+Synopsis of Rule of Law
+The applicable standard of care is established in a medical malpractice action when a party provides sufficient expert testimony to avoid jury findings based on conjecture or speculation.
+
+Facts
+During Thompson's (Plaintiff) 1986 abortion and tubal ligation surgery at Washington Hospital Center (WHC) (Defendant), the anesthesiologist improperly inserted an endotracheal tube.  By the time the mistake was found, Plaintiff suffered brain injuries that put her in a permanent vegetative state.  Part of Plaintiff's suit claimed that Defendant was negligent by not providing an end-tidal carbon monoxide monitor, which would have warned the doctors that Plaintiff was not getting enough oxygen to her brain.  Plaintiff's expert, Dr. Steen, testified that he believed monitors were required in operating rooms by 1986, the monitors were available at his hospital, and that monitors were "recommended" in publications he read and described their use as an "emerging" practice.  Evidence was shown that at least four other hospitals were using monitors by 1986.  Defendant's expert testified that Defendant used monitors and that many hospitals were currently having them installed.  A requisition form for monitors submitted by Defendant's Department of Anesthesiology chairman stated that Defendant would "fail to meet the national standard of care" if monitors were not provided.  The jury found Defendant negligent and awarded damages to Plaintiff.  The trial judge denied Defendant's judgment N.O.V. motion.  Defendant appealed, arguing that Dr. Steen failed to provide an adequate basis for his opinion that a monitor should have been provided as he gave no testimony as to the number of hospitals having monitors and he cited no written standards or authorities stating that monitors were mandatory.
+
+Issue
+Is the applicable standard of care established in a medical malpractice action when a party provides sufficient expert testimony to avoid jury findings based on conjecture or speculation?
+
+Held
+(Farrell, J.)  Yes.  The applicable standard of care is established in a medical malpractice action when a party provides sufficient expert testimony to avoid jury findings based on conjecture or speculation.  A patient is required, in a medical malpractice negligence action, to establish: (1) the applicable standard of care, (2) a deviation from that standard, and (3) that the injury was caused by the deviation.  Expert testimony is required unless the proof is so obvious it would be known to the average lay juror.  The standard of care is the course of action a reasonably prudent institution or professional with the same specialty would have taken under circumstances that were similar.  The standard of care is national, not local.  The standard of care may call for more than mandatory procedures or precautions.  Based on testimony here, a reasonable jury could have found that the standard of care in this case required Defendant to provide a monitor.  Affirmed.
+
+Discussion
+In medical malpractice cases against health care institutions, courts have rarely applied negligence one its own for statutory violations.  In some jurisdictions, evidence of violation of specific statutes or accreditation standards, supported by expert testimony, may create a permissive inference of violation of the standard of care.  This inference allows a plaintiff's case to get to the jury, which may or may not accept the inference of negligence.
+

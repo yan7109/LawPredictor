@@ -1,0 +1,21 @@
+Citation
+447 431 F.2d 1012 (5th Cir. 1970)
+
+Brief Fact Summary
+A third party hired photographer Christopher (Defendant) to take aerial photographs of a DuPont (Plaintiff) plant under construction to uncover trade secrets.
+
+Synopsis of Rule of Law
+The holder of a trade secret can sue another for obtaining knowledge of the trade secret without having spent the time or money to discover it on their own, unless the holder discloses the trade secret voluntarily, or if the holder does not take reasonable precautions to protect its secrecy.
+
+Facts
+Defendant refused to reveal the identity of the party that hired him.  His job was to take aerial pictures from a plane flying over a plant which Plaintiff was in the process of building so that he could obtain trade secrets regarding Plaintiff's secret process for producing methanol.  Plaintiff sued the Defendant for damages and for an injunction to stop Defendant from using the pictures any further.  Defendant argued that he did not trespass, perform illegal conduct, or breach a confidential relationship to learn of the trade secrets, and therefore, his actions were not illegal and had been conducted in public airspace.  He appealed an adverse decision.
+
+Issue
+Is it wrong to obtain knowledge of a trade secret without spending the time and money to discover it independently if the secret's holder has not voluntarily disclosed it or did not take reasonable precautions to protect its secrecy?
+
+Held
+(Goldberg, J.)  Yes.  It is improper to obtain knowledge of a trade secret without spending the time and money to discover it independently unless the holder voluntarily discloses it or does not take reasonable precautions to protect its secrecy.  There does not have to be a breach of confidence or illegal conduct like trespass in order to sue for wrongfully obtaining trade secrets.  In this case, Plaintiff took reasonable precautions (fencing the construction site, etc.) to make sure of secrecy.  Plaintiff is not required to put a roof over its unfinished plant in order to guard its secrets.  Therefore, a reason to sue was stated in this case.  Affirmed and remanded.
+
+Discussion
+Although the decision expands the concept of wrongful appropriation of trade secrets in order to deal with sophisticated methods of industrial espionage not considered before, the protection is not total.  The court itself said it did "not mean to imply . . . that everything in plain view is protected or that all information gained through every extra visual extension is forbidden."
+

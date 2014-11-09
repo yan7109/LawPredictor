@@ -1,0 +1,21 @@
+Citation
+186 F.3d 1045 (8th Cir. 1999)
+
+Brief Fact Summary
+The district court found a significant likelihood that the merger of a Tenet (Defendant) hospital with another hospital would substantially lessen competition between acute-care hospitals in Poplar Bluff, Missouri.
+
+Synopsis of Rule of Law
+The existence of a well-defined relevant geographic market must be established by the government for it to show that a merged entity will possess market power within that area.
+
+Facts
+Lucy Lee Hospital and Doctors' Regional Medical Center are the only two hospitals in Poplar Bluff, other than a veteran's hospital.  Tenet Healthcare Corporation (Tenet) (Defendant) owns Lucy Lee Hospital (Lucy Lee), a general acute-care hospital that provides primary and secondary care services in Poplar Bluff.  Lucy Lee has 201 licensed beds and operates ten outpatient clinics in the surrounding counties.  Doctors' Regional Medical Center in Poplar Bluff is also a general acute-care hospital providing primary and secondary services.  Doctors' Regional has 230 beds and also operates several rural health clinics in the area.  Tenet (Defendant) entered into an agreement to purchase Doctors' Regional for over $40 million, to operate it as a long-term care facility and to consolidate inpatient services at Lucy Lee.  The hospitals filed a premerger certification with the Federal Trade Commission (FTC) (Plaintiff).  The FTC (Plaintiff) soon afterwards filed a complaint alleging that the hospitals' merger would lessen competition for primary and secondary inpatient hospitalization services in the area.
+
+Issue
+If the existence of a well-defined relevant geographic market cannot be establish by the government, can it show that a merged entity will possess market power within that area?
+
+Held
+(Beam, J.)  No.  Without establishing the existence of a well-defined relevant geographic market, the government cannot show that a merged entity will possess market power within that area.  A relevant market, consisting of a product market and a geographic market, must be defined before a court finds an antitrust violation.  In this case, the FTC (Plaintiff) proposes a relevant geographic market that matches its service area.  However, a service area and a merging firm's geographic market are not necessarily the same.  Because the FTC (Plaintiff) failed to demonstrate a well-defined relevant market, it failed to show that the merged entity would possess market power.  Patients are allowed to use hospitals outside the service area that may be closer to them or may provide higher quality services in the patients' minds.  Further, the lower courts should have examined potential efficiencies gained by the merger in this case to determine if this might have enhanced competition in the greater Southeast Missouri area.  Reversed.
+
+Discussion
+The FTC (Plaintiff) has played a major role in the antitrust scrutiny the health care industry is subjected to.
+

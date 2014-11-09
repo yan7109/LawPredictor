@@ -1,0 +1,21 @@
+Citation
+148 F3d 1368 (Fed. Cir. 1998)
+
+Brief Fact Summary
+Woodland (Plaintiff) brought suit against Flowertree (Defendant) claiming patent infringement of its foliage protection system.  Defendant claimed the patent was not valid because the system had been known had been in use for more than a year before an application for patent had been filed.
+
+Synopsis of Rule of Law
+Oral testimony that is uncorroborated by interested parties regarding long-past events does not provide clear and convincing evidence as required to invalidate a patent on the grounds of prior knowledge and use.
+
+Facts
+Woodland holds a patent for an invention that protects foliage plants from freezing by establishing an insulating covering of ice over ground level water.  The patent application was filed in 1983.  Plaintiff sued Defendant claiming patent infringement.  Defendant defended arguing patent invalidity because the patented method had been known and used by an owner of Flowertree (Defendant) and the owner of a different nursery in the 1960s and 1970s.  The method was discontinued in 1978 and reconstructed in 1988.  Four witnesses testified in support of the defense of prior knowledge and use.  Each of the witnesses either used the method, or was related to, employed by, or the friend of someone who used the method.  Based on prior knowledge and use by others, the district court found the patent to be invalid.  Plaintiff appealed.
+
+Issue
+Was the claimed invention anticipated by the Defendant's system since it constituted prior art that was publicly known and used?
+
+Held
+(Newman, J.)  No.  The equipment claimed in the patent was not anticipated by Defendant's systems.  The oral testimony of long-past events was uncorroborated by the interested parties and does not provide the clear and convincing evidence required to invalidate a patent.  In this context, oral testimony is regarded with skepticism and must be supported with corroboration.  The following testimony is considered in assessing corroboration: the relationship between the witness and the prior user; the period of time between the event and trial; the interest of the corroborating witness in the subject matter in suit; contradiction or impeachment of the witness's testimony; how detailed the testimony is; witness's familiarity with the patented subject matter and the prior use; probability that a prior use could occur; and impact of the invention on the industry.  There is no physical record to support the oral evidence in this case.  The relationship of the witnesses and the fact that the prior use ended twenty years before the trial (and was abandoned until Defendant learned of Plaintiff's practices) highlight that the oral evidence does not provide clear and convincing evidence of prior knowledge and use.  Reversed and remanded.
+
+Discussion
+It has been held that Federal Rules of Evidence 803(6) does not apply to prove dates of activity regarding an invention.
+

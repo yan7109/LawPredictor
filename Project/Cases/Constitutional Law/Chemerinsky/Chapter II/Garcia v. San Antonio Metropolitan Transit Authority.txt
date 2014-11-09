@@ -1,0 +1,24 @@
+Citation
+469 U.S. 528, 105 S. Ct. 1005, 83 L. Ed. 2d 1016, 1985 U.S.
+
+Brief Fact Summary
+The Appellant, Garcia (Appellant), brought suit against his employer the San Antonio Metropolitan Transit Authority (Appellee), arguing that its function as a transit authority was a “non-traditional” function of state government. Thus, it was bound by the standards of the Fair Labor Standards Act (”FLSA”).
+
+Synopsis of Rule of Law
+The division between Congressional regulatory power under the commerce clause and state sovereignty is defined by political action, not judicial review.
+
+Facts
+Much litigation was spawned after the National League of Cities v. Usery, 426 U.S. 833 (1976) decision. That decision determined whether certain state employers represented “traditional” state functions not bound by the FLSA or non-traditional functions operating outside the state’s sovereign authority. Appellant argued that as a transit employee, his employer fit into the latter category and was thus bound by the FLSA.
+
+Issue
+What is the scope of state immunity under the Commerce Clause?
+
+Held
+None. Reversed and Remanded.
+
+Dissent
+Justice Lewis Powell (J. Powell) attacks the decision on two grounds: (1) stare decisis – it has been only 8 years since National League of Cities and (2) that the political process is insufficient in itself to maintain the federalist structure of government.
+
+Discussion
+Garcia v. San Antonio Metropolitan Transit Authority acts primarily to invalidate National League of Cities. and illustrates the passion different Justices feel toward the issues of state sovereignty and the commerce power.
+

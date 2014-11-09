@@ -1,0 +1,18 @@
+Citation
+669 So. 2d 1298, 1996 La. App. 188,31 U.C.C. Rep. Serv. 2d (Callaghan) 196
+
+Brief Fact Summary
+This is an appeal of a judgment of the trial court granting defendant’s Motion for Summary Judgment.  Appellant claims that appellee is responsible for the amount of several forged checks.  The appellee claims it has no liability because the parties agreed that the appellee was authorized to pay any checks that bore a signature that reasonably resembled the facsimile signature. <span class='heading'>Synopsis of Rule of Law.</span> There is no cause of action for recovery of funds paid on fraudulent checks where a facsimile signature resolution was adopted authorizing the drawee to pay checks bearing signatures resembling the machine-endorsed facsimile signature.
+
+Facts
+Appellant Jefferson Parish School Board (the “appellant”) maintained a checking account with appellee First Commerce Corporation (the “appellee”).   Appellant wanted to use a facsimile signature machine and adopted a facsimile signature resolution with the appellee.  In November 1992, several checks that appeared to be made by the appellant were presented to and paid by the appellee.  Upon receiving the monthly bank statement, appellant discovered that the instruments were fraudulently produced.  The checks were returned to the appellee with an “Affidavit of Forgery, Alteration, Loss or Threat of Instrument.”  The appellee claimed that pursuant to the facsimile signature resolution, they were entitled to honor the instruments and appellant should bear the loss.  The district court agreed with the appellee and held that the resolution precludes the appellant from bringing an action seeking to recover the amount of the fraudulent checks.
+
+Issue
+Was the district court correct in holding that the facsimile signature resolution precludes the appellant from holding the appellee liable for the amount of the checks?
+
+Held
+Yes.  The language of the facsimile agreement is that the bank is authorized to honor all checks “purporting to bear” the facsimile signatures, “regardless of by what means” the actual or purported signature is affixed so long as the “signatures resemble the facsimile specimens.”  The court held that the only requirement imposed on the bank is that the signatures “resemble” those provided by the appellant on the signature card.  The court cited Perini Corp. v. First National Bank of Habersham Country which, according to the court in this case held “that there was no cause of action for recovery of funds paid on forged checks where a resolution was adopted authorizing the drawee’s payment of checks bearing signatures resembling the machine-endorsed facsimile signature.”  The court’s ruling was: “The only material fact in this case is the nature of the signatures and there is no dispute that the signatures are nearly identical to the facsimile signatures submitted by the appellan ts.”
+
+Discussion
+This facsimile agreement is in conjunction with the provision of Section: 4-103(1): “The effect of the provisions of this chapter may be varied by agreement except that no agreement can disclaim a bank’s responsibility for its own lack of good faith or failure to exercise ordinary care or can limit the measure of damages for such lack of failure; but the parties may agree to determine the standards by which such responsibility is to be measured if those standards are not manifestly unreasonable.”
+

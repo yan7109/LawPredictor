@@ -1,0 +1,21 @@
+Citation
+124 B.R. 660, 1991 U.S. Dist. 8486,14 U.C.C. Rep. Serv. 2d (Callaghan) 605
+
+Brief Fact Summary
+Gallatin National Bank, (Petitioner), failed to perfect its security interest in a boat purchased by John J. Lockovich and Clara Lockovich, (Respondents), by filing a financing statement with the appropriate office. When Respondents filed for bankruptcy, the bankruptcy court held Petitioner was an unsecured creditor. Petitioner appeals.
+
+Synopsis of Rule of Law
+A consumer good subject to exception from the filing of financing statements is determined by the use or intended use of the good as personal, family, or household purposes; design, size, weight, shape, and cost are irrelevant.
+
+Facts
+John J. Lockovich and Clara Lockovich, Respondents, purchased a 22-foot boat with a secured loan from Gallatin National Bank, (Petitioner). Petitioner filed financing statements in the Green County Prothonotary’s Office and with the Secretary of the Commonwealth of Pennsylvania. Respondents live in Allegheny County, therefore the filing of the financing statements failed to perfect the security interest in the boat. Respondents defaulted on payments and immediately filed for bankruptcy. The bankruptcy court held that because Petitioner failed to perfect its security interest in the boat, it was an unsecured creditor. Because the boat was a consumer good subject to a purchase money security interest, Petitioner claims it was not required to file a financing statement in order to perfect its security interest.
+
+Issue
+Whether the boat is a consumer good under U.C.C. Section:9-309(1).
+
+Held
+Yes. The boat is a consumer good and pursuant to U.C.C. Section:9-309(1) Petitioner was not required to file a financing statement to perfect the security interest in the boat.
+
+Discussion
+“Goods” are “consumer goods” if they are used or bought to be used for primarily personal, family or household purposes. Respondents have never maintained that the boat was used for anything other than their personal use. Therefore the boat is a consumer good and a financing statement need not have been filed by Petitioner to perfect its security interest in the boat.
+

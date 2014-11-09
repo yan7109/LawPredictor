@@ -1,0 +1,21 @@
+Citation
+627 F.3d 85 (3rd Cir. 2010)
+
+Brief Fact Summary
+West Penn Allegheny Health System, Inc. (Plaintiff) alleged conspiracy to engage in antitrust violations and brought suit against the dominant hospital system, University of Pittsburgh Medical Center (Defendant) and the largest local insurer, Highmark, Inc. (Defendant).
+
+Synopsis of Rule of Law
+A plaintiff can prove an antitrust conspiracy if it shows that a party used its dominant power in the provider market to insulate a health insurer from competition.
+
+Facts
+West Penn Allegheny Health System, Inc. (West Penn) (Plaintiff) is Pittsburgh's second-largest hospital system and has a share of less than 23 percent of the market for hospital services in Allegheny County, which includes the City of Pittsburgh.  University of Pittsburgh Medical Center (UPMC) (Defendant) is Pittsburgh's leading hospital system, with a 55 percent share of the Allegheny County market for hospital services, and its share of the market for tertiary and quaternary care services is more than 50 percent.  Plaintiff and UPMC (Defendant) are the two major competitors in the Allegheny County market for hospital services, and are the only competitors in the market for tertiary and quaternary care services.  Highmark (Defendant) is the largest insurer in the Allegheny County market for health insurance, with a market share between 60 and 80 percent since 2000.
+
+Issue
+Can a plaintiff prove an antitrust conspiracy if it shows that a party used its dominant power in the provider market to insulate a health insurer from competition?
+
+Held
+(Smith, J.)  Yes.  A plaintiff can prove an antitrust conspiracy if it shows that a party used its dominant power in the provider market to insulate a health insurer from competition.  This court concludes that the complaint contains non-conclusory allegations of direct evidence of such an agreement.  The defendants make a half-hearted argument that even if the complaint alleges that they formed a conspiracy to shield one another from competition, the Sherman Act § 1 claim is still deficient because the complaint does not allege that the conspiracy unreasonably restrained trade.  The court disagrees.  At the pleading stage, a plaintiff may satisfy the unreasonable-restraint element by claiming that the conspiracy produced anticompetitive effects in the relevant markets.  The Supreme Court held that an antitrust plaintiff must do more than show that it would have been better off without the violation; the plaintiff must establish that it suffered an antitrust injury.  An antitrust injury is the type of injury the antitrust laws were intended to prevent and the injury flows from that which makes the defendants' acts unlawful.
+
+Discussion
+The court took a skeptical view of the relationship between the dominant medical system and the largest health insurer in this case.  Taken individually, one defendant's actions may not have constituted anticompetitive behavior.  However, a holistic view of the facts permitted the court to rule that West Penn (Plaintiff) presented sufficient evidence to overcome a motion to dismiss.  The court found a series of anticompetitive behaviors based in a conspiracy to preserve defendants' market share and highlighted how each defendant benefitted from the actions to hurt West Penn (Plaintiff).
+

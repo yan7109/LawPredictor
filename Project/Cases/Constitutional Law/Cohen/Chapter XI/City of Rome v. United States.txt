@@ -1,0 +1,24 @@
+Citation
+22 Ill.447 U.S. 916, 100 S. Ct. 3003, 64 L. Ed. 2d 865 (1980)
+
+Brief Fact Summary
+In 1966 the General Assembly of Georgia changed the electoral process of the City of Rome, Georgia (Appellant). In order for the changes to take effect, the Attorney General of the United States was required to preclear the changes in accordance with the Voting Rights Act of 1966, which he refused to do based on his feeling that it would eliminate the power of the African-American electorate. Appellant then sued for relief.
+
+Synopsis of Rule of Law
+Congress has the authority to regulate state and local voting through the provisions of the Voting Rights Act, as the Fifteenth Amendment supersedes contrary exertions of state power, and this act is an appropriate means for carrying out Congress’ constitutional responsibilities under the Fifteenth Amendment. Congress also has the power to regulate practices that it sees are discriminatory, even if no evidence of past discrimination is in the present record.
+
+Facts
+In 1970 the Appellant City had a population of 30,759. Of its citizens, 76.6% were white, and 23.4% were African-American. The governmental structure of the City, as set up in the City’s charter, which was approved by the State of Georgia in 1918, provided for a nine-member city commission and a five-member board of education to be elected by a plurality of the vote. The city was divided into nine wards, and one commissioner was to be chosen from each ward, while there was no residency requirements for the board of education. In 1966 the General Assembly of Georgia passed several laws affecting the electoral scheme of Appellant City. The legislature reduced the number of wards from nine to three, and each commissioner was elected by the populous at large rather than on a per-ward basis. The Attorney General of the United States declined to preclear the newly enacted provisions, and concluded that a city such as Appellant, in which the population is predominately white and raci
+
+Issue
+Whether the Fifteenth Amendment empowered Congress to impose the rigors of the Voting Rights Act upon the covered jurisdictions?<br />	Whether Congress has the authority to regulate state and local voting through the provisions of the Voting Rights Act?<br />	Whether Congress had the authority to extend the Voting Rights Act for a second seven-year term?
+
+Held
+Yes to all three issues. Affirmed.
+
+Dissent
+Feels the Court performed a disservice by continuing federal rule over local decisions made by the small Appellant City. Especially given the record of no voting discrimination over the past seventeen years. The dissent also believes that the framers of the Fifteenth Amendment and the Voting Rights Act never imagined the result of this case, and that it is therefore incorrect.<br />	Congress has the power to prohibit and remedy state action, which intentionally deprives citizens of Fourteenth and Fifteenth Amendment rights. But, Congress should not legislate in prohibiting Appellant from structuring its government in the manner its population sees fit unless it finds an unrebutted presumption that Appellant has been, or is, intentionally discriminating against its black citizens. Since Appellant has committed no constitutional violations, Appellant should be able to structure its government in the manner it sees fit.<br />Concurrence.  If racially discriminatory voting practices elsewhere in the State of Georgia were sufficiently pervasive to justify the statewide remedy Congress prescribed, that remedy may be applied to each and every political unit within the state, including the Appellant City. Remedies for widespread practices of discrimination within a State may be applied to every local governmental unit within the State even though some of them may have never engaged in purposeful discrimination in the past. Therefore, as long as Congress has the power to regulate voting practices in the entire state of Georgia, it can regulate the voting practices of Appellant City. Since there is no claim that the entire State is entitled to relief, Appellant’s separate claim must fail.<br />
+
+Discussion
+This case stands for the principle that the federal government, through the Fifteenth Amendment, has the power to regulate what are entirely local issues, if it believes that the local decisions made with adversely impact the guarantees the Fifteenth Amendment provides to its citizens. It is also within Congress control to preemptory halt practices that it finds could potentially lead to discrimination, even if there is no evidence of past discrimination. This case shows the breadth of Congress’ power to regulate when it comes to civil rights issues.
+

@@ -1,0 +1,21 @@
+Citation
+Wyo. Sup. Ct., 407 P.2d 880 (1965)
+
+Brief Fact Summary
+Kunkel’s Inc. (D) owed Frontier Refining Company (Frontier) (P). Frontier (P) alleges that Kunkel’s (D) was a partnership made up of Kunkel (D), Beach (D), and Fairfield (D). Beach  (D) and Fairfield (D) agreed to loan money to Kunkel (D) so long as Kunkel (D) incorporated the corporation. Kunkel (D) never incorporated, so Frontier (P) sued beach (D) and Fairfield (D) alleging that as purported partners, they were indebted to Frontier (P).
+
+Synopsis of Rule of Law
+A business venture purporting to be a corporation is not a partnership with individual liability of its members where the venture is unincorporated, run by one individual, and where the other participants agree to lend money on the condition of incorporation but were not aware it had not been incorporated.
+
+Facts
+Kunkel (D) wanted to buy a filling station owned by Frontier (P). He did not have the money and asked Beach (D) and Fairfield (D) for a loan. They agreed, on the condition that Kunkel (D) incorporate the business. Kunkel (D) failed to incorporate the business, Beach (D) and Fairfield (D) acted uninformed of this, and Kunkel (D) signed a sublease with Frontier (P) commencing operation of the station. The purported business, “Clifford D. Kunkel dba Kunkel’s Inc.” received gasoline from Frontier (P). A month after the initial gasoline delivery, Frontier (P) discovered that through error, products delivered had not been for, creating a $5,000 debt. Fairfield (D) and Beach (D) invested circa $11,000 after the opening of the station. Frontier (P) claimed Fairfield (D) made reassurances that the business was being run as a corporation and that the debt would be paid, but Fairfield (D) denied making such assurances. In addition, Frontier (P) obtained from Kunkel (D) individually, a chattel mortgage covering all equipment used in the station. In another suit, Frontier (P) succeeded on this mortgage against Fairfield (D), who claimed that he owned this equipment. The trial court held that Kunkel’s Inc. (D) did not create a partnership and dismissed the case. Supreme Court granted review.
+
+Issue
+Is a business venture purporting to be a corporation not a partnership with individual liability of its members where the venture is unincorporated, run by one individual, and where the other participants agree to lend money on the condition of incorporation but were not aware it had not been incorporated?
+
+Held
+(Gray, J.) No. A business venture purporting to be a corporation is not a partnership with individual liability of its members where the venture is unincorporated, run by one individual, and where the other participants agree to lend money on the condition of incorporation but were not aware it had not been incorporated. The facts shown infer Kunkel (D) was the only source of information for the corporation whenever Frontier (P) inquired. Also, neither Fairfield (D) nor Beach (D) authorized Kunkel (D) to act under Kunkel’s Inc. (D) name when dealing with Frontier (P). This negates an element of Frontier’s (P) theory, neither beach (D) nor Fairchild (D) held themselves out as a corporation. The trial court can also infer that Frontier (P) chose to do business with Kunkel (D) as an individual, knowing the corporation was yet to be formed. Thusly, debt incurred was not under the name of a pretend corporation. A creditor, under these circumstances, will be held to its bargain. Frontier’s (P) position on equitable matter is also inconsistent. In the replevin action against Fairfield (D), Frontier (P) accepted a judgment that found Kunkel (D), as an individual, Frontier’s (P) debtor and owner of the property. It is unfair to allow Frontier (P) to disavow that judgment to the extent of making Beach (D) and Fairfield (D) liable as well. Affirmed.
+
+Discussion
+Beach (D) and Fairfield (D) avoided personal liability by claiming not to be partners of the venture, but creditors instead. However, by not overseeing the incorporation of the venture and ensuring it themselves, they ran the risk of almost being treated like partners. This case serves as a warning to investors to make the necessary checks and arrangements your selves.
+

@@ -1,0 +1,21 @@
+Citation
+443 F.3d 163 (2d Cir. 2006)
+
+Brief Fact Summary
+The Bellevue Hospital Center (Plaintiff) filed an action challenging the Department of Health and Human Services' method for calculating Medicare reimbursements.  Because the statutory method requires hospitals' costs to be averaged, hospitals with different costs would inevitably be lumped together.
+
+Synopsis of Rule of Law
+(1) The Medicare statute authorizes the use of "metropolitan statistical areas" (MSAs) as a substitute for "geographic area" as specified in the statute.  (2) Expansion of the New York City MSAs to include New Jersey hospitals, where wages are a bit lower, is not arbitrary or capricious even though it causes the average wage level in the MSA to drop.  (3) The Department of Health and Human Services' implementation of adjustments regarding hiring decisions at hospitals was arbitrary and capricious.
+
+Facts
+The Bellevue Hospital Center (Plaintiff) filed an action challenging the Department of Health and Human Services' method for calculating Medicare reimbursements.  Bellevue (Plaintiff) argued that the new metropolitan statistical areas (MSAs) for New York City, which included New Jersey hospitals, an area with somewhat lower wages, led Bellevue (Plaintiff) to conclude that it would receive $812 million less in reimbursements over the next 10 years than they would have under their former wage adjustment.  The U.S. District Court for the Southern District of New York found that the term "geographic areas" in the Medicare statute was ambiguous, and that filling the gap with the use of MSAs was reasonable.  Because the statutory method requires hospitals' cost to be averaged, hospitals with different costs would inevitably be lumped together.
+
+Issue
+(1) Does the Medicare statute authorize the use of "metropolitan statistical areas" (MSAs) as a substitute for "geographic area" as specified in the statute?  (2) Is expansion of the New York City MSAs to include New Jersey hospitals, where wages are a bit lower, arbitrary or capricious even though it causes the average wage level in the MSA to drop? (3) Was the Department of Health and Human Services' implementation of adjustments regarding hiring decisions at hospitals arbitrary and capricious?
+
+Held
+(Katzmann, J.) (1) Yes.  The Medicare statute authorizes the use of "metropolitan statistical areas" (MSAs) as a substitute for "geographic area" as specified in the statute.  It is a reasonable use of MSAs to fill the gap left by the ambiguous term "geographic areas." Health and Human Services' Centers for Medicare & Medicaid Services (CMS) has used MSAs for more than two decades to fill the statutory gap with no action from Congress expressing disapproval, which demands deference at this point.  (2) No.  Expansion of the New York City MSAs to include New Jersey hospitals, where wages are a bit lower, is not arbitrary or capricious even though the average wage level in the MSA drops as a result.  It is rational and permissible for an agency to adopt an already existing measure, such as MSA's, that uses objective criteria rather than assuming the job of creating its own measure in the face of a sharply divided regulatory industry that has proposed no alternatives that are clearly better.  Under these circumstances, the agency's continued use of MSAs was not arbitrary or capricious.  (3) Yes.  The Department of Health and Human Services' implementation of adjustments regarding hiring decisions at hospitals was arbitrary and capricious.  Application of the adjustment must be implemented in full by Sept. 30, 2006, which is three years after CMS's initial deadline for data collection.  If CMS had complied with Congress's order, it would have been required to complete its second round of data collection by that date.  Reversed and remanded.
+
+Discussion
+There are a great many issues surrounding the Medicare system, and care must be taken when analyzing a particular set of facts to determine exactly what the issues are, in order to also determine which agency is responsible to solve the issue.  A plaintiff's case can be impacted by failure to follow procedures set by the various agencies associated with the Medicare system.
+
