@@ -8,7 +8,7 @@ Tianyi 	Wang
 Derek 	Yan
 
 
-"The first thing we do, let¡¯s kill all the lawyers" - William Shakespeare, 2 Henry VI, 4.2.59.
+"The first thing we do, let's kill all the lawyers" - William Shakespeare, 2 Henry VI, 4.2.59.
 
 Any major transaction, legal procedure, patent dispute always require an attorney-at-law in
 the due process. However, the cost of seeking such legal counselling or hiring a lawyer is
