@@ -45,3 +45,14 @@ features = fe.compute_word_weights_to_hold_result(cases_root_path)
 # Now you can feed 'features' into your ML algorithm.
 # Beware of massive output:
 print features
+
+# This is part of the content of 'features' so you know what format it is in:
+#[({'represent': 1.0, 'negligence': 0.5, 'september': 0.5, 'caused': 0.5, ... ... 'the': 15.66, 'order': 1.0, 'affirmed': 1.0}, 0),
+# ({'holds': 1.0, 'particularly': 1.0, 'money': 0.5, ... ... 'affirmed': 1.0, 'pay': 0.5, 'the': 17.83, 'corporate': 7.33, 'grossly': 1.0}, -1),
+# ... ...
+# ... ...
+# ({'limited': 1.0, 'innocuous': 1.0, 'office': 2.0, ... ... 'the': 21.65, 'furthermore': 1.0, 'violation': 1.0}, 0)]
+#
+# Basically 'features' is an array of tuple, each tuple represents a case.
+# The first element of the tuple is a dictionary from word to word's weight.
+# The second element of the tuple is the holding result: 0 for positively held, -1 for negatively held.
