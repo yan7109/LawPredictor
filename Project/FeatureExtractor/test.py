@@ -41,3 +41,7 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_SYNOPSIS, 0.33)
 # cases_root_path is the directory containing "Administrative Law", "Business Associations", etc...
 cases_root_path = 'C:\Users\Tianyi\Documents\GitHub\LawPredictor\Project\Cases'
 features = fe.compute_word_weights_to_hold_result(cases_root_path)
+
+# Now you can feed 'features' into your ML algorithm.
+# Beware of massive output:
+print features

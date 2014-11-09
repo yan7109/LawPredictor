@@ -42,3 +42,29 @@ def category_dir_to_index(dir_name):
         return feature_extractor.INDEX_TORTS
     elif dir_name == 'Wills, Trusts & Estates':
         return feature_extractor.INDEX_WILLS_TRUSTS_ESTATES
+    else:
+        return -1
+
+
+def section_name_to_index(section_name):
+    if section_name == 'title':
+        return feature_extractor.INDEX_SEC_TITLE
+    elif section_name == 'brief fact summary':
+        return feature_extractor.INDEX_SEC_FACT_SUMMARY
+    elif section_name == 'synopsis of rule of law':
+        return feature_extractor.INDEX_SEC_SYNOPSIS
+    elif section_name == 'facts':
+        return feature_extractor.INDEX_SEC_FACTS
+    elif section_name == 'issue':
+        return feature_extractor.INDEX_SEC_ISSUE
+    elif section_name == 'held':
+        return feature_extractor.INDEX_SEC_HELD
+    elif section_name == 'discussion':
+        return feature_extractor.INDEX_SEC_DISCUSSION
+    else:
+        return -1
+
+
+def get_holding_result(held_line):
+    return 0
+    

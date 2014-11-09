@@ -2,6 +2,7 @@ import utils
 
 import fnmatch
 import os
+import string
 
 
 # Global constant values.
@@ -43,8 +44,41 @@ SECTION_WEIGHT_MIN = 0.0
 
 class FeatureExtractor:
     
-    def compute_word_weights_to_hold_result_helper(self, file_path, result):
-        return
+    def compute_word_weights_to_hold_result_helper(self, file_path):
+        word_to_weight = {}
+        holding_result = 0
+        
+        with open(file_path) as f:
+            cur_section_index = -1
+            
+            for line in f:
+                line = line.strip().lower()
+                if len(line) == 0:
+                    continue
+                
+                if cur_section_index != -1:
+                    for c in string.punctuation:
+                        line = line.replace(c, ' ')
+                        
+                    if cur_section_index == INDEX_SEC_HELD:
+                        # Special case, we need to find out the holding result.
+                        holding_result = utils.get_holding_result(line)
+                        
+                    word_weight = self.section_weights[cur_section_index]
+                    
+                    words = line.split()
+                    for word in words:
+                        if word in word_to_weight:
+                            word_to_weight[word] += word_weight
+                        else:
+                            word_to_weight[word] = word_weight
+                    
+                    cur_section_index = -1
+                    continue
+                
+                cur_section_index = utils.section_name_to_index(line)
+                
+        return (word_to_weight, holding_result)
         
     def compute_word_weights_to_hold_result(self, cases_root_path):
         result = []
@@ -63,7 +97,8 @@ class FeatureExtractor:
                 for filename in fnmatch.filter(filenames, '*.txt'):
                     file_path = os.path.join(root, filename)
                     
-                    self.compute_word_weights_to_hold_result_helper(file_path, result)
+                    cur_result = self.compute_word_weights_to_hold_result_helper(file_path)
+                    result.append(cur_result)
                     
         return result
     
@@ -105,5 +140,4 @@ class FeatureExtractor:
         # By default, all sections have equal weight.
         for i in range(SECTION_COUNT):
             self.section_weights.append(SECTION_WEIGHT_MAX)
-        
         
