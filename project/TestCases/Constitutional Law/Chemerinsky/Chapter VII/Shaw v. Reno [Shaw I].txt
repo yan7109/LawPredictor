@@ -1,0 +1,24 @@
+Citation
+509 U.S. 630, 113 S. Ct. 2816, 125 L. Ed. 2d 511, 1993 U.S.
+
+Brief Fact Summary
+The Supreme Court of the United States (Supreme Court) held that the Appellants, Shaw and others (Appellants), have a legitimate claim that North Carolina’s redistricting scheme was so irregular on its face that it could only be viewed as an effort to segregate races for the purposes of voting, without regard for traditional districting principles and without sufficiently compelling justification.
+
+Synopsis of Rule of Law
+The deliberate segregation of voters into separate districts on the basis of race violates their constitutional right to participate in a “color-blind” electoral process.
+
+Facts
+As a result of the 1990 census, North Carolina became entitled to a twelfth seat in the United States House of Representatives. The North Carolina General Assembly (General Assembly) enacted a reapportionment plan that included one majority-black congressional district. After the Attorney General of the United States objected to the plan pursuant to Section:5 of the Voting Rights Act, the General Assembly passed new legislation creating a second majority-black district. The Appellants allege that the revised plan, which contains district boundary lines of dramatically irregular shape, constitutes an unconstitutional gerrymander.
+
+Issue
+Whether the Appellants have stated an equal protection claim by alleging that the General Assembly adopted a reapportionment plan so irrational on its face that it can only be viewed as an effort to segregate races for the purposes of voting, without regard for traditional districting principles and without sufficiently compelling justification?
+
+Held
+Yes. Judgment reversed and remanded for further proceedings. Redistricting differs from other kinds of state decision-making in that the legislature always is aware of race when it draws district lines. That sort of race consciousness does not lead inevitably to impermissible race discrimination. A reapportionment plan that includes in one district individuals who belong to the same race, but who are otherwise widely separated by geographical and political boundaries and who have little in common with one another, but the color of their skin, bears an uncomfortable resemblance of political apartheid. By perpetuating such notions, a racial gerrymander may exacerbate the very patterns of racial block voting that majority-minority districting is sometimes said to counteract. When a district is created solely to effectuate the perceived common interests of one racial group, the elected officials are more likely to believe that their primary obligation is to represent only the membe
+
+Dissent
+Appellants have not presented a cognizable claim because they have not alleged a cognizable injury.
+
+Discussion
+This case involved two of the most complex and sensitive issues the Court has faced in recent years: the meaning of the constitutional “right” to vote and the propriety of race-based state legislation designed to benefit members of historically disadvantaged minority groups.
+

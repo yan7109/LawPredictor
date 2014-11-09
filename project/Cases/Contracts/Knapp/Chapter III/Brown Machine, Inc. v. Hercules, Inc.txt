@@ -1,0 +1,21 @@
+Citation
+22 Ill.770 S.W.2d 416 (Mo. Ct. App. 1989)
+
+Brief Fact Summary
+Plaintiff, Brown Machine, Inc. sold a trim press to Defendant, Hercules, Inc. An indemnity provision was included in Plaintiff’s acknowledgement of order form, but not in Defendant’s purchase order. Plaintiff is bringing the present cause of action to enforce the indemnity provision.
+
+Synopsis of Rule of Law
+Under the UCC, additional terms become part of a contract between merchants unless the offer expressly limits acceptance to the terms included in the offer, the additional terms materially alter the contract, or notification of objection to the additional terms has been given or is given within a reasonable time.
+
+Facts
+Plaintiff sold Defendant a trim press. At the beginning of negotiations for the purchase of the trim press, Defendant requested a quote for the trim press from Plaintiff. Plaintiff submitted a proposal to Defendant, which included an indemnity provision. Defendant called Plaintiff and indicated that a purchase order had been prepared, but that Defendant objected to the deposit. Plaintiff indicated that the deposit could not be waived.
+
+Issue
+Was the indemnification provision included in the purchase contract?
+
+Held
+No. The indemnification provision did not become part of the contract between the parties.
+
+Discussion
+In the present case, the indemnification clause was an additional term not included in the contract because the offer expressly limited acceptance to the terms of the offer and inclusion of the indemnity provision without express consent of Defendant would materially alter the contract.
+

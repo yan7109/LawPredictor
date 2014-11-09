@@ -1,0 +1,21 @@
+Citation
+498 U.S. 517, 111 S. Ct. 913, 112 L. Ed. 2d 1125, 136 LRRM 2545 (1991)
+
+Brief Fact Summary
+The United States Postal Service suspended its restrictions to allow international remailing, and the Union of Postal Workers filed suit in District Court to challenge the practice.
+
+Synopsis of Rule of Law
+To establish standing to sue under the Administrative Procedure Act, a plaintiff must establish that they have suffered a legal wrong because of the challenged agency action, or are adversely affected and have suffered an injury in fact. The injury or adverse affect must fall within the “zone of interests” the statutory provision is designed to protect.
+
+Facts
+The United States Postal Service has a monopoly over the carriage of letters in the United States, codified by the Private Express Statutes (PES). Congress created the monopoly as a revenue protection service for the Postal Service. Pursuant to a provision under the PES allowing it to suspend PES restrictions as to any mail route where the public interest so requires, the Postal Service issued a regulation authorizing “international remailing,” which means bypassing the Postal Service and using private couriers to deposit letter destined for foreign addresses with foreign postal services. The Respondent Unions, representing Postal Service Employees, sued in District Court challenging the provision pursuant to the judicial review provisions of the APA and claiming that the regulation’s suspension of the PES was not in the public interest. The District Court granted summary judgment in favor of the Postal Service and the Petitioner, Air Courier Conference of America (ACCA). The Court of Appeals vacated the grant of summary judgment and held that the Unions satisfied the zone-of-interests requirement for APA review under Clark v. Securities Industry Association, and that the PES suspension was not justified by the public interest.
+
+Issue
+Are postal employees within the “zone of interests” of the Private Express Statutes, so that they may challenge the action of the United States Postal Service in suspending the operation of the PES with respect to a practice of private courier services called “international mailing?”
+
+Held
+Reversed. No, the postal employees are not within the “zone of interests” of the PES and do not have standing to challenge the suspension of the PES with respect to international remailing.   Congress’ intent in enacting the PES was to ensure the receipt of necessary revenues for the Postal Service; the Congressional concern was not with the opportunities for postal workers. The postal monopoly exists to ensure that postal services will be provided to the citizenry at large, not to secure employment for postal workers.   Dissent. None.   Concurrence. The Union’s challenge should be dismissed based on the narrowest grounds available: The actual text of the Postal Reorganization Act stating that the judicial review provisions of the Administrative Procedure Act do not apply to the powers of the Postal Service.
+
+Discussion
+In order to have standing to challenge a statute, a plaintiff must belong to the class of persons the statute was designed to protect.
+

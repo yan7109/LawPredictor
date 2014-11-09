@@ -1,0 +1,21 @@
+Citation
+398 F.2d 167 (2d Cir. 1968)
+
+Brief Fact Summary
+Seaman Lane, who was enlisted in the Coast Guard of Defendant, The United States, was responsible for damage to a drydock owned by Plaintiff, Ira S. Bushey & Sons.  Plaintiff sought relief from Defendant for Lane’s actions.
+
+Synopsis of Rule of Law
+An employer will be held liable under respondeat superior if the actions of the employee arise out of the course of his employment.
+
+Facts
+Lane returned to Plaintiff’s drydock after a night of drinking.  For some unexplained reason, Lane opened three water intake valves, flooding the drydock.  The drydock and vessel were damaged by Lane’s actions.
+
+Issue
+The issue is whether Defendant can be held responsible for actions of their employee when the actions are outside of the scope of their duties.
+
+Held
+Defendant is liable for the actions of Lane.  Although Lane’s actions were not within the duties of his employment, Defendant should be liable for any damages done by an employee during the course of his employment.
+
+Discussion
+The level of foreseeability in a respondeat superior issue is not the same as foreseeability in a negligence case.  For purposes of respondeat superior, it is only required that an employer would perceive that harm could flow from actions of their employees, whether or not employer takes all precautions.
+

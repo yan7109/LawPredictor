@@ -1,0 +1,21 @@
+Citation
+33 Cal. 3d 491, 658 P.2d 1302, 189 Cal. Rptr. 501, 1983 Cal.
+
+Brief Fact Summary
+The defendants, Robert Earl Roder and Betty Rayfield (the “defendants”) were prosecuted for receiving stolen property.  The defendants owned a second hand store, and the police found numerous stolen items after executing a search warrant.
+
+Synopsis of Rule of Law
+The prosecution always bears the burden of proof in criminal cases.
+
+Facts
+The defendants shared a residence and owned a second hand store in Santa Cruz.  A woman told police that she saw stolen items from her home in their store.  The police obtained a warrant and searched the store and the residence recovering sixty stolen items.  The defendants were charged with receiving stolen property.  The jury returned a verdict based on only one item of evidence, which was a clarinet.  The court instructed the jury that they may presume the defendant knowingly bought or received stolen property if the defendant was a second hand dealer, he bought or received stolen property under circumstances which should have cause him to inquire about the property, and he did not make such an inquiry.  The defendants argued that such a presumption is unconstitutional because it relieves the prosecution’s burden of proving all elements of a criminal offense beyond a reasonable doubt.
+
+Issue
+Did the trial court commit constitutional error in instructing the jury on the statutory presumption of guilty knowledge applicable to secondhand dealers?
+
+Held
+Justice Kaus issued the opinion of the Supreme Court of California in reversing the defendants’ conviction and holding that the instructions given to the jury regarding the presumption could have been interpreted as relieving the prosecution of its burden to prove every element of an offense beyond a reasonable doubt.
+
+Discussion
+The jury was not appropriately informed of the constitutional issues.  The Supreme Court of California determined that on remand, the trial court should give a jury instruction that makes it clear that the prosecution retains the burden of proving every element of the offense beyond a reasonable doub
+

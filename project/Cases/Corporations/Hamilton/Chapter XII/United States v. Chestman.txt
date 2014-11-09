@@ -1,0 +1,21 @@
+Citation
+947 F.2d 551 (2d Cir. 1991)
+
+Brief Fact Summary
+Robert Chestman, a broker for Keith Loeb, was indicted under the misappropriation theory, based on Keith’s breach of fiduciary duty to the Waldbaum family and Susan Loeb, his wife.
+
+Synopsis of Rule of Law
+To be liable as an aider and abetter under the misappropriation theory, the tipper must owe a fiduciary duty of confidentiality to the corporation and the aider and abetter must know of the tipper’s breach of fiduciary duty.
+
+Facts
+Ira Waldbaum was the controlling shareholder of Waldbaum, Inc.,  In 1968, Ira decided to sell the corporation to A & P.  He told his sister, Shirley Witkin, three of his children, and his nephew.  He asked them to keep the news quiet and offered to tender their shares in Waldbaum.  Shirley told her daughter, Susan, who told her husband, Keith.  Keith told Chestman, who executed purchases of Waldbaum stock for himself and several customers including Keith.
+
+Issues
+Whether there existed a fiduciary or a similar relationship of trust and confidence between Keith and the Waldbaum family or his wife, Susan, to make Keith criminally liable as a “misappropriator” under Rule 10b-5, thus making Chestman liable for aiding and abetting Keith in his purchase of Walbaum stock? Whether the Rule 14e-3(a) violation, perjury conviction and mail fraud convictions are warranted?
+
+Held
+No.  There existed no fiduciary relationship or equivalent relationship of trust and confidence between Keith and the Waldbaum family or his wife, Susan, to make him liable as a misappropriator under Rule 10b-5.  Because Chestman can only be liable for aiding and abetting Keith in the purchase of Waldbaum stock if Keith is a misappropriator, Chestman is not liable under Rule 10b-5. The Rule 14e-3a conviction stands while the perjury and mail fraud convictions are unwarranted.<span class='heading'>Dissent.</span><br /> A duty not to use information for personal profit arises when one (1) receives or expects benefits from family control of a corporation such as gifts of stock, as in this instant case, (2) is in a position to learn confidential corporation information in the ordinary course of family affairs and (3) knows that the corporation and the family desire confidentiality.  Here, Susan and Keith have shared confidences in the past with the expectation that these confidences be respected.  Keith received this information in confidence, as predicated by Susan’s “don’t tell” before offering the information.  Thus, Keith’s disclosure to Chestman was made in hopes of procuring a profit.Concurrence.  A rule that automatically assures confidentiality on the part of a family member receiving non-public corporate information would inhibit family discourse.  Further, how would such a harsh rule deal with children who tip based on confidential information received during family discourse?  Finally, it is Congress that must extend the concept of confidentiality duty, not the courts.<br />
+
+Discussion
+To find liability under 10b-5 for aiding and abetting, there must be evidence to show that (1) Keith breached a duty owed to the Waldbaum family or his wife, based on a fiduciary or similar relationship of trust and confidence, and (2) Chestman knew that Keith had breached this duty. A fiduciary relationship does not arise simply by entrusting a person with confidential information, nor does marriage or family automatically create a fiduciary relationship.  However, the frequent discussion of business affairs amongst family members is sufficient to amount to a relationship of trust and confidence to impose Rule 10b-5 criminal liability.  Here, there was no indication that Keith’s relationship with the Waldbaum family or his wife involved frequent business disclosures or reliance on confidentiality.
+

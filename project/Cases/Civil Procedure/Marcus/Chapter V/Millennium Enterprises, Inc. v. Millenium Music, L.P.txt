@@ -1,0 +1,21 @@
+Citation
+33 F. Supp. 2d 907, 1999 U.S. Dist. 49 U.S.P.Q.2D (BNA) 1878
+
+Brief Fact Summary
+Millennium Enterprises, Inc. (Plainitff), filed suit against Millennium Music, L.P. (Defendant) seeking damages and injunctive relief for alleged trademark infringement under the Lanham Act. The Plaintiff is a business incorporated in Oregon with its principal place of business located in Portland, Oregon. Defendant is a South Carolina corporation.
+
+Synopsis of Rule of Law
+The fact that an internet web site could possibly lead to transactions of business with forum state residents is not, by itself, enough to establish jurisdiction. It is the conduct of the defendant, rather than the medium utilized by them, to which the parameters of specific jurisdiction apply.
+
+Facts
+In addition to operating retail establishments, the Defendant operates an internet web site that sells music products. However, nothing published on the web site indicates that the Defendants intended to target Oregon consumers. The web site provides a local map of the location of Defendant’s retail stores and proclaims “Come Visit Us.”
+
+Issue
+Does the operation of an internet web site, without any other connection to a forum state, provide enough minimum contacts to enable the forum to exercise jurisdiction over a non-resident web site operator?
+
+Held
+No. Defendant’s web site, interactive though it may be, is not “conduct and connection” with Oregon giving defendant “fair warning” so that it would reasonably anticipate being “hauled into court” in the state.
+
+Discussion
+Defendant has not taken any action creating a substantial connection with Oregon, nor has it deliberately engaged in significant activities within Oregon, nor has it created ongoing obligations with residents of Oregon in a manner related to Plaintiff’s claims. The mere fact that the Defendant has published information on an internet web site does not render its actions purposefully directed at Oregon. Further, the fact that residents of Oregon could foreseeably purchase a product from Defendant’s website is not enough to confer jurisdiction.
+

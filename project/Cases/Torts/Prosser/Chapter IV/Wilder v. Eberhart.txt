@@ -1,0 +1,21 @@
+Citation
+508 U.S. 930 113 S. Ct. 2396 124 L. Ed. 2d 297 1993 U.S.
+
+Brief Fact Summary
+The Plaintiff, Wilder (Plaintiff), suffered esophageal tears during a stomach stapling procedure.
+
+Synopsis of Rule of Law
+In a medical malpractice lawsuit a defendant can rebut the plaintiff’s expert testimony with testimony that shows there are other possible causes of the plaintiff’s injury.
+
+Facts
+The Plaintiff’s esophagus was injured during a stomach stapling procedure done by the Defendant, Dr. Wilder (Defendant). At trial, the Plaintiff’s expert testified that the injuries were caused by the doctor’s negligence. The Defendant’s experts were not allowed to testify because they could not show the probability of another cause, just the possibility that something else could have caused the injury.
+
+Issue
+Whether defendants must rebut causation in a medical malpractice case by showing the probability of another cause, or if showing the possibility of another cause is sufficient.
+
+Held
+The defendants must be allowed to rebut the plaintiff’s witnesses with testimony that there are other possible causes of the plaintiff’s injury and do not need to show the probability of that other cause.
+
+Discussion
+If the law required that a defendant rebut the causation theory of the plaintiff with an alternate cause showing a greater probability, it would limit the party’s ability to defend and unfairly shift the burden of proof from the plaintiff to the defendant. The defendants can show other possible causes of the plaintiff’s injury and the other possible causes do not need to be proven with certainty.
+

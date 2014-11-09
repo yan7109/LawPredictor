@@ -1,0 +1,24 @@
+Citation
+22 Ill.529 U.S. 803, 120 S. Ct. 1878, 146 L. Ed. 2d 865, 20 CR 551, 28 Med. L. Rptr. 1801, 5 ILRD 260 (2000)
+
+Brief Fact Summary
+The Telecommunications Act of 1996 required cable operators to full scramble or otherwise block channels that were dedicated to sexually-oriented programs. Appellee Playboy Entertainment Group, Inc. challenged this statute as being unnecessarily restrictive, and therefore a violation of the First Amendment. The District Court agreed that a less restrictive means existed for effectuating the same goal, allowing households to request blockage of these channels. The United States thus filed a direct appeal to the Supreme Court.
+
+Synopsis of Rule of Law
+The Government, in effectuating content-based legislation to limit speech that is protected under the First Amendment must do so through the least restrictive alternative to effectuating the compelling government interest.
+
+Facts
+The Telecommunications Act of 1996 included a section, Section:505, that required cable television operators who provide channels primarily dedicated to sexually-oriented programs either to fully scramble or otherwise fully block those channels, or to limit their transmission to hours when children are unlikely to view. Under administrative regulations this is defined as the hours between 10pm and 6am. The purpose of Section:505 is to shield children from hearing or seeing images resulting from signal bleed. Appellee challenges the statute as being unnecessarily restrictive content-based legislation violative of the First Amendment. The District Court concluded that a regime in which viewers could order signal blocking on a household-by-household basis presented an effective, less restrictive alternative to Section:505. This less restrictive means is known as Section:504, which requires a cable operator, upon request of a subscriber to fully scramble or otherwise block a channel that the subscriber does
+
+Issue
+Is Section: 504, which regulates speech based on its content, narrowly tailored to promote a compelling Government interest?<br />	Is there a less restrictive alternative to Section: 505 to effectuate the Government’s purpose?
+
+Held
+Yes to (a) and No to (b). Affirmed.
+
+Dissent
+Section 505 can be upheld by a finding that it regulates the business of obscenity. Since the Government is entirely free to block these transmissions, it may certainly take the less drastic step of dictating how, and during what times, they may occur.<br />	Section 505 raises the cost of adult channel broadcasting. In doing so, it restricts, but does not ban adult speech. The record shows no similarly effective, less restrictive alternative. Consequently Section: 505’s restriction, viewed in light of the proposed alternative, is proportionate to need. It restricts speech no more than necessary to further that compelling need. Therefore, Section: 505 is lawful.<br />Concurrence.<br />	The very fact that the programs marketed by Playboy are offensive to many viewers provides a justification for protecting, not penalizing, truthful statements about their content.<br />	Under the standards applicable in many communities, some of the programming meets the Miller test, but not all the programming at issue in the case is obscene. Therefore, this concurring Justice feels that in the absence of factual findings or advocacy of the position, to rely on the view that some of the relevant programming is obscene.<br />
+
+Discussion
+This case discusses important limits on government regulation of what otherwise constitutes free speech under the First Amendment. This case stands for the idea that even though speech may be free under the First Amendment, it still may not be suitable for all citizens, in this case children under the age of 18. But, while this presents a compelling government interest, it must restrict this speech through the least restrictive means available. This case presents an obvious instance where the means employed by the government is not the least restrictive, as in the same legislation there is a less restrictive means of effectuating the same goal. It is unlikely that this will always be true, and then it is up to those arguing against the restriction to show that there is a less restrictive method by which the same goal can be reached.
+

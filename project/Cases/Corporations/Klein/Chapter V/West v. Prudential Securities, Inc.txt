@@ -1,0 +1,15 @@
+Citation
+961 F.2d 620
+
+Brief Fact Summary
+Plaintiffs, Dean West et al., brought an action under the fraud-on-the-market doctrine after a stockbroker for Defendant, Prudential Securities, Inc., gave then non-public tips that were fraudulent.<span class="heading">Synopsis of Rule of Law.</span> A fraudulent statement needs to be made publicly accessible in order for a plaintiff to claim that the statement caused a loss on the investment.
+
+Facts
+A stockbroker, James Hofman, worked for Defendant.  Hofman told several investors, including Plaintiffs, that Jefferson Savings Bankcorp was about to be acquired for a premium price.  This inside, non-public information induced Plaintiffs to invest in Jefferson Savings.  The investors that were privy to the non-public information were violating a law when they used the information, but Plaintiffs argued that unknowing investors who bought shares of Jefferson Savings during that same time were harmed by the fraudulent information because they purchased at an inflated price. Defendant argued that the information was never public so could not fall under the fraud-on-the-market doctrine.<span class="heading">Issue.</span> The issue is whether misinformation that was not available to the public can be the basis for a claim under the fraud-on-the-market doctrine.
+
+Held
+The fraudulent statements were never public and therefore unable to have a significant effect on the volume of trading.  Although the stock was higher at the point when the misled investors bought in, there is no evidence that the causation stems from the misstatements.  The doctrine was intended to protect investors from public fraudulently made statements because public statements will naturally have a tendency to affect potential investors, and people should not be able to profit from spreading mistruths.  But non-public statements do not have the same effect.  Therefore, the statements made by Hofman can not be the basis for a claim.
+
+Discussion
+The decision refers to Basic Inc. v Levinson on a couple occasions to support the idea that publicly made facts can support a claim.  The court will not extend that to non-public statements however.
+

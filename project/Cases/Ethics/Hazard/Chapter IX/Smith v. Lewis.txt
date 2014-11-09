@@ -1,0 +1,24 @@
+Citation
+130 S. Ct. 3511, 177 L. Ed. 2d 1099 (2010) [2010 BL 145515]
+
+Brief Fact Summary
+Defendant attorney appeals malpractice judgment on the grounds that the relevant law was so unclear at the time when he represented Plaintiff as to insulate him from any liability.
+
+Synopsis of Rule of Law
+An attorney’s standard of care includes the duty to conduct a reasonable investigation of the applicable law before providing a client with his advice.
+
+Facts
+Plaintiff, Rosemary Smith, retained Defendant, attorney Jerome Lewis, to assist her in obtaining a divorce in California. Using personal knowledge rather than consulting the relevant law, Defendant advised her that her husband’s National Guard retirement benefits would not be considered “community property” in California, and did not plead them as such in the complaint filed three days later. Plaintiff was later advised that she should have included these benefits as community property, but this claim was by then time-barred. Plaintiff proceeded to bring a malpractice claim against Defendant and received $100,000 in damages after a jury trial, which Defendant now appeals.
+
+Issue
+To what extent should Defendant be held liable for possibly misinterpreting an ambiguous legal standard-using only his immediate knowledge of it-upon which reasonable attorneys in the field could disagree? Should the entire award be allowed?
+
+Held
+Defendant is liable. Defendant should have consulted the relevant law before advising Plaintiff, and was therefore properly subject to a malpractice claim. Verdict and award upheld.
+
+Dissent
+A complete review of the law on this issue at the time that Defendant gave his opinion suggests that it was far murkier than the majority’s opinion would make it seem. Plaintiff has not convincingly demonstrated that Defendant’s negligence caused her to lose the $100,000 pension award.
+
+Discussion
+Causation can be an especially difficult issue for plaintiffs to prove in legal malpractice cases, especially in terms of putting an exact figure on damages. The majority suggests that this was solely an issue of fact for the jury, but the dissent believes that it should have been an issue of law in this case.
+

@@ -1,0 +1,24 @@
+Citation
+467 U.S. 649, 104 S. Ct. 2626, 81 L. Ed. 2d 550 (1984)
+
+Brief Fact Summary
+After being stopped and frisked, revealing an empty shoulder holster, respondent Benjamin Quarles said “the gun is over there” in response to an officer’s question about its whereabouts.  Only then did the officer give the respondent his Miranda warnings.
+
+Synopsis of Rule of Law
+There is a public safety exception to the requirement that Miranda warnings be given before a suspect’s answers can be admitted into evidence.
+
+Facts
+A woman identified a man as her rapist to a police officer in a supermarket.  The officer frisked the respondent and found an empty shoulder holster, and thus asked the respondent where the gun was.  The respondent said “the gun is over there,” and the officer retrieved it and then gave the respondent their Miranda warnings.  The trial court suppressed the respondent’s statement in quotes above and the gun, and the state appellate courts affirmed.  The state of New York was then granted certiorari.
+
+Issue
+Is there an exception to the requirement that a suspect be read their Miranda rights before their answers can be admitted into evidence when the officer’s aims in questioning are to insure that no danger to the public results from concealment of a weapon?
+
+Held
+Yes.  Reverse the decision of the lower court to suppress the gun and statement.
+
+Dissent
+Justice Thurgood Marshall dissented by saying that this statement violated the Fifth Amendment protection versus coerced self-incrimination because it was possible for the officers in this situation to advise the respondent of his right to remain silent and his right to counsel.
+
+Discussion
+This decision is important in that it shows a conviction that Miranda warnings were separate from the Fifth Amendment.  However, its greatest significance may be however in that it reduced the bright line rules of Miranda in creating a somewhat vague “public safety” exception.
+

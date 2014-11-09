@@ -1,0 +1,21 @@
+Citation
+429 U.S. 860
+
+Brief Fact Summary
+Defendant was charged with three bank robberies.  The court convened en banc to determine whether bank robbery necessarily involves “dishonesty” as that term is used in the Federal Rules of Evidence 609(a)(2).  The court concluded for bank robbery is not per se a crime of “dishonesty.”
+
+Synopsis of Rule of Law
+The crime of bank robbery does not fit within the definition of “dishonesty” because it is a crime of violent, not a deceitful, taking.
+
+Facts
+Robert Nello Brackeen robbed three different banks.  Subsequently, Brackeen was charged with one count of aiding and abetting an armed bank robbery, in violation of 18 U.S.C. Sections 2, 2113(a), 2113(d) (1988) and two counts of unarmed bank robbery, in violation of 18 U.S.C. Section 2113(a).   Brackeen pled guilty to the unarmed bank robberies.  However, for the armed bank robbery, Brackeen objected before testifying at trial to the use of impeachment of his guilty pleas regarding the unarmed robberies.  The basis for the trial court admitting the prior guilty pleas as impeachment evidence was Federal Rule of Evidence 609(a)(2) which allows impeachment of a defendant for any crime involving “dishonesty or false statement.”  Brackeen appealed on the grounds that his guilty pleas were for a bank robbery, which is a crime that does not involve “dishonesty or false statement” as required by Riule 609(a)(2).
+
+Issue
+Is bank robbery per se a crime of “dishonesty” under Rule 609, regardless of the means by which it is perpetrated?
+
+Held
+Bank robbery is not per se a crime of “dishonesty” under Federal Rules of Evidence 609(a)(2). Reversed and remanded.
+
+Discussion
+Rule 609(a)(2) applies only to those crimes that factually or by definition entail some element of misrepresentation or deceit, and not to “those crimes which, bad though they are, do not carry with them a tinge of falsifica
+

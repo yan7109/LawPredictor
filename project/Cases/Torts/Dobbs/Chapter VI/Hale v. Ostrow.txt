@@ -1,0 +1,21 @@
+Citation
+166 S.W.3d 713 (Tenn. 2005).
+
+Brief Fact Summary
+Defendants’ overgrown bushes obstructed the sidewalk, forcing Plaintiff to step into the street to walk around them.  As Plaintiff looked up to check traffic in preparation for stepping into the street, she tripped on crumbling sidewalk prior to the bushes and fell, crushing her hip.  She sued Defendants for negligence.
+
+Synopsis of Rule of Law
+Negligence requires both the elements of cause in fact and proximate cause.  The test for determining whether an action is the cause in fact of an injury is to ask whether the injury would have occurred “but for” the defendant’s act.  If not, then the defendant’s conduct is a cause in fact of the injury.  It is not necessary that the defendant’s act be the sole cause of the plaintiff’s injury, only that it be a cause.
+
+Facts
+Plaintiff Hale was walking home on a sidewalk that she had not traveled before.  As she proceeded, she noticed that bushes protruding from Defendants’ property at Mississippi Boulevard had overgrown the sidewalk and had grown around a telephone pole located on the sidewalk, blocking her way.  She determined she had to leave the sidewalk and enter the street to bypass it.  As she stepped off the sidewalk before she reached the bushes, she tripped over a chunk of concrete and fell into the street.  Her left hip was crushed in the fall requiring extensive medical care.  The crumbled sidewalk was located in front of 1063 Mississippi, property owned by another party.  Plaintiff filed suit against Defendants and the other property owner.  Defendants, the Ostrows, moved for summary judgment arguing that the injury was caused by the defective sidewalk, not the overgrown bushes.  Trial court granted the Defendants’ motion, the Court of Appeals affirmed, and the Tennessee Supreme Court reversed.
+
+Issue
+Whether bushes obstructing a sidewalk are the cause in fact of a plaintiff’s injury where she tripped on crumbling concrete located on separate property while stepping in to the street to walk around the bushes.
+
+Held
+Yes. Negligence requires both causation in fact and proximate cause, distinct elements which must be proven by the preponderance of the evidence.  A defendant’s conduct is the cause in fact of a plaintiff’s injury if it directly contributed to the injury and the injury would not have happened “but for” the defendant’s act.  In this case, the court found that Defendant’s obstruction of the sidewalk caused Plaintiff’s injury because “but for” the bushes, Plaintiff would not have had to look up and check for traffic in preparation for stepping into the street to go around it.
+
+Discussion
+This decision stands for the proposition plaintiffs hoping to recover under a negligence theory must prove the fourth element, factual causation.  The plaintiff must prove not only that she suffered legally recognized harm, but that the harm was in fact caused by the defendant.
+

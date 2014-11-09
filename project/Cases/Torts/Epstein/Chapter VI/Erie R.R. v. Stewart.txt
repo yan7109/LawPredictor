@@ -1,0 +1,21 @@
+Citation
+40 F.2d 855, 1930 U.S. App.
+
+Brief Fact Summary
+Erie R.R. (Defendant) voluntary undertook the duty to warn Stewart (Plaintiff) of a danger. Plaintiff relied upon this warning, however Defendant stopped warning Plaintiff without giving proper notice.
+
+Synopsis of Rule of Law
+If one undertakes to take a precaution, even though not required to by statute, and then removes this precaution without due notice, he is negligent and liable to an injured party.
+
+Facts
+Plaintiff was a passenger in a truck, when he was hit by one of Defendant’s trains. Defendant had a watchman at the intersection where the accident occurred. However, this watchman was either within his shanty or just outside of it when the accident occurred. Therefore, he was not able to give warning to Plaintiff to avoid the accident. Judgment for granted to Plaintiff. Defendant appealed, claiming that the court erred in charging the jury that the absence of the watchman, where one had been maintained by Defendant at the highway crossing over a long period of time to the knowledge of Plaintiff, would constitute negligence as a matter of law.
+
+Issue
+If there is no precaution required by statute, and one undertakes to take this caution anyway, does the removal of this precaution without due notice constitute negligence?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+In this case, the court required Defendant to give proper notice of its intention to cease warning patrons of passing trains. Proper notice would have been enough for the majority to relieve Defendant of liability. The concurring opinion thought that it should be Defendant’s duty to warn at the crossing.
+

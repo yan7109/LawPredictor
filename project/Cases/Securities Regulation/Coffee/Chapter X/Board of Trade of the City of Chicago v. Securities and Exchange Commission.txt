@@ -1,0 +1,24 @@
+Citation
+923 F.2d 1270 (7th Cir. 1991)
+
+Brief Fact Summary
+An electronic share exchange clearing agency was confronted by the Chicago Board of Trade and Mercantile Exchange (Plaintiff) stating they constitute the unlawful operation of a stock exchange.
+
+Synopsis of Rule of Law
+The unlawful operation of a stock exchange does not equate to the operation of an electronic share exchange clearing agency.
+
+Facts
+A clearing agency, Delta, a broker, and a bank ran a scheme where those planning on buying or selling commodities/ stocks would list their interests with the broker. The interests would be entered into Deltas computer system and transactions would take place when a buy-sell match was made. The Chicago Board of Trade and Mercantile confronted the scheme with the Securities and Exchange Commission (Defendant), which held the Delta System was an exchange. The Board and the Exchange appealed.
+
+Issue
+Is the unlawful operation of a stock exchange and the operation of an electronic share exchange clearing agency the same thing?
+
+Held
+(Posner, J.) No. The criminal operation of a stock exchange and the operation of an electronic share exchange clearing agency are not the same. Exchanges are legally defined as associationsoffering a forum for combining buyers and sellers of securities. An exchange is also defined as an association that performs, with regard to securities, tasks that a stock exchange usually performs. Electronic clearing agencies are not what one usually imagines when considering a stock exchange, lacking specialists, market makers and a trading floor. For those reasons, in addition to the SEC’s own conclusions, contends to uphold its determinations. Agency conclusions in legal analysis are permitted great judicial deference, and this court favors that deference in this case. Affirmed.
+
+Dissent
+(Flaum, J.) Combining buyers and sellers, as The Delta System did, is an exchange.
+
+Discussion
+Electronic innovations have greatly transformed the trading industry, NASDAQ, a major trading system, relies heavily on electronic quotes. Program trading has become more common even in the more traditional mainstream trading exchanges. It is uncertain as to how much the trading world will be transformed by computer technology.
+

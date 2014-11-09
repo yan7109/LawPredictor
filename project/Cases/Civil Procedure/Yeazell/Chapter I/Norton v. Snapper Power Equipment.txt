@@ -1,0 +1,21 @@
+Citation
+806 F.2d 1545, 1987 U.S. App. 758, 6 Fed. R. Serv. 3d (Callaghan) 1119; CCH Prod. Liab. Rep. P11,268
+
+Brief Fact Summary
+Plaintiff Norton sued Defendant Snapper Power Equipment after four of his fingers were amputated by the blades of a lawn mower manufactured by Snapper.
+
+Synopsis of Rule of Law
+The test for granting a judgment notwithstanding the verdict is the same as the test for granting a directed verdict.
+
+Facts
+Plaintiff was using a mower manufactured by Defendant on January 24, 1983. Plaintiff testified that as he drove up an incline, the mower began to slide backward towards a creek, despite the fact that he was applying the brakes. The lawn mower, with Plaintiff still aboard, crashed into the creek. At some point during the crash, Plaintiff’s hand was caught in the mower’s blade, and four of his fingers were amputated. Plaintiff then sued Defendant. The jury returned a verdict in favor of Plaintiff. Upon dismissing the jury, the district court issued a judgment notwithstanding the verdict. This appeal followed.
+
+Issue
+When should a court grant a judgment notwithstanding the verdict?
+
+Held
+Only where the evidence so strongly and so favorably points in the favor of the moving party that reasonable people could not arrive at a contrary verdict. The judgment notwithstanding the verdict was reversed, and the case was remanded to the district court.   Defendant correctly pointed out that plaintiffs are not entitled to a verdict based on speculation and conjecture, but the jury is permitted to reconstruct the series of events by drawing an inference upon an inference.
+
+Discussion
+Defendant contended that the jury could not determine whether a safety device on the mower could have eliminated or lessened Plaintiff’s injury. However, after reviewing the law on product defects, the Appellate court concluded that the jury could have reasonably found the mower defective. Defendant was given every opportunity to point out the weaknesses in Plaintiff’s proof, but was unpersuasive.
+

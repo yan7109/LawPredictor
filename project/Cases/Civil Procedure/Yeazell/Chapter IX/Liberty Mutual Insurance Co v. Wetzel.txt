@@ -1,0 +1,21 @@
+Citation
+424 U.S. 737, 96 S. Ct. 1202, 47 L. Ed. 2d 435, 1976 U.S. 139
+
+Brief Fact Summary
+The Respondents, Wetzel and others (Respondents), filed a complaint in district court in which they asserted that the Petitioner, Liberty Mutual Insurance Company’s (Petitioner), employee insurance benefits and maternity leave regulations discriminated against women in violation of Title VII of the Civil Rights Act of 1964 (the Act). After the district court ruled in favor Respondents on the issue of liability, Petitioners appealed to the circuit court.
+
+Synopsis of Rule of Law
+Under the final judgment rule, appeals in a suit where at least one aspect of a claim remains unresolved by the district court are interlocutory and hence not ripe for appeal.
+
+Facts
+Respondents filed a complaint in district court in which they asserted that Petitioner’s employee insurance benefits and maternity leave regulations discriminated against women in violation of the Act.  After extensive discovery, Respondents moved for partial summary judgment only as to the issue of liability. Finding no issues of material fact in dispute, the district court ruled in favor of Respondents on the issue of Petitioner’s liability under the Act. Respondent did not receive all of the relief they had prayed for, including an injunction, damages, and attorney’s fees.  Petitioner appealed to the Court of Appeals for the Third Circuit. That court held that it had jurisdiction over Petitioner’s appeal under 28 U.S.C. Section: 1291, and affirmed, on the merits, the judgment of the district court.
+
+Issue
+Whether the circuit courts of appeal have jurisdiction over appeals regarding the district court’s decision on an issue in a suit where other issues remain as of yet unresolved by the district court.
+
+Held
+No. The Supreme Court of the United States (Supreme Court) held that the district court’s order was not appealable to the court of appeals and thus vacated the decision of the court of appeals with instructions to dismiss Petitioner’s appeal.   Federal Rule of Civil Procedure (FRCP) Rule 54(b)(2) does not apply to a single claim action. It is limited expressly to multiple claim actions in which one or more, but less than all of the multiple claims have been finally decided and are found otherwise to be ready for appeal.  Congress, in enacting Section: 1291, had been well aware of the dangers of an overly rigid insistence upon a final decision for appeal in every case and has in those sections made ample provision for appeal of orders which are not final so as to alleviate any possible hardship.
+
+Discussion
+This case concerns the final judgment rule, which defines when an appeal is proper and additionally grants jurisdiction for the appellate courts to hear that appeal. In this case, the court held that the district court’s judgment on the issue of liability was not a final judgment because other prayers for relief had not yet been determined. Hence, the circuit court lacked jurisdiction as Petitioner’s appeal was interlocutory in nature.
+

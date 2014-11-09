@@ -1,0 +1,18 @@
+Citation
+322 U.S. 760
+
+Brief Fact Summary
+The defendant, Cromer (the “defendant”), appealed his conviction on drug charges, when he was not given the ability to confront the government’s informant who gave him away.
+
+Synopsis of Rule of Law
+Per the confrontation clause, a defendant should be afforded the opportunity to confront all persons who testify against him.
+
+Facts
+The defendant was arrested in March of 2001, at a residence which appeared to be a “stash house”.  In addition to several pieces of tangible evidence, which appeared to be defendant’s, which were found in the house, the government introduced the testimony of officer Maureen O’Brien (”officer O’Brien”), the investigating officer.  During her testimony, officer O’Brien provided information that she obtained from a confidential informant, which led her to the defendant.  At trial, the defendant did not object to the statements, but he brought an appeal alleging that his Sixth Amendment constitutional rights had been violated because he had not been afforded the opportunity to confront the informant.
+
+Issue
+Whether the statements of a confidential informant are testimonial in nature and, if offered, are therefore in violation of a defendant’s Sixth Amendment constitutional rights?
+
+Held
+Relying on Crawford v. Washington, the Sixth Circuit Court of Appeals (the “Sixth Circuit”) found the statements by the informant to be testimonial in nature and, therefore, the defendant’s rights had been violated.  The majority observed, “[b]ecause there was a testimonial, out-of-court statement, offered to establish the truth of the matter asserted, and Cromer was provided no opportunity to cross-examine the [confidential informant], Cromer’s Sixth Amendment confrontation right was violated
+

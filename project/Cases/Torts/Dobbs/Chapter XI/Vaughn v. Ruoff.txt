@@ -1,0 +1,18 @@
+Citation
+253 F.3d 1124 (8th Cir. 2001)
+
+Synopsis of Rule of Law
+Qualified immunity from due process claims analysis asks two questions: (1) Was there a deprivation of a constitutional right, and if so, (2) Was the right clearly established at the time of the deprivation?  As for (1), before the State may deprive someone of a protected liberty interest, it must provide certain procedural protections such as notice and opportunity to be heard.  As for (2), to be a clearly established constitutional right, the right’s contours “must be sufficiently clear that a reasonable official would understand that what she is doing violates that right.”
+
+Facts
+Plaintiffs Margaret and Kevin Vaughn are married with children and Margaret has been diagnosed as mildly retarded.  In August 1993 they gave birth to their first child, Leta.  In October 1993, the Missouri Division of Family Services (MDFS) took custody of Leta, finding that the Vaughns failed to maintain a sanitary home and could not demonstrate an ability to rear her properly.  In August 1994, Margaret gave birth to their second child Kevin Jr. but the MDFS took custody of him one week after his birth, again finding unsanitary home conditions and an inability to rear him properly.  The same day as Kevin Jr.’s birth, Ruoff, the MDFS social worker who was assigned to the Vaughn’s case, told Margaret that if she got her tubes tied she would have her kids back in two to three weeks.  Margaret agreed and her tubal ligation procedure occurred in October 1994.  However, in December 1994, MDFS informed the Vaughns that it would recommend termination of their parental rights to Leta and Kevin Jr.  They sued Ruoff for fourteenth amendment violations.  Ruoff argued that she was entitled to qualified immunity, a theory that was rejected by the trial court.  The Vaughns won summary judgment and the court of appeals affirmed.
+
+Issue
+Whether depriving an individual of her interest in procreation and contraception violates fourteenth amendment due process rights such that qualified immunity is unavailable.
+
+Held
+Yes.  Qualified immunity analysis asks two questions: (1) Was there a deprivation of a constitutional right, and if so, (2) Was the right clearly established at the time of the deprivation?  In analyzing these questions, the court found that Margaret possessed a protected liberty interest because a personal decision relating to procreation or contraception is such an interest.  Moreover, before the State may deprive someone of a protected liberty interest, it must provide certain procedural protections such as notice and opportunity to be heard which it did not do in this case.  Thus, the court held that Ruoff’s conduct in coercing Margaret’s sterilization violated her due process right without appropriate procedures.  In addition, the court held that the unconstitionality of Ruoff’s alleged conduct was clearly established at the time it occurred because a “reasonable official would understand that what she was doing violates that right.”  Accordingly, the court of appeals affirmed the trial court.
+
+Discussion
+There may be situations where involuntary sterilization may be constitutional if it is a narrowly tailored means to achieve a compelling government interest.  The State may not, however, dispense with procedural protections in coercing an individual into sterilization, then after the fact argue that it was justified.
+

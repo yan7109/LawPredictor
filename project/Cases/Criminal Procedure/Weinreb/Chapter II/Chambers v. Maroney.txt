@@ -1,0 +1,27 @@
+Citation
+399 U.S. 42, 90 S. Ct. 1975, 26 L. Ed. 2d 419 (1970)
+
+Brief Fact Summary
+A robbery suspect was arrested while riding in a car.  The car was taken to the police station, searched, and yielded incriminating evidence.
+
+Synopsis of Rule of Law
+“For constitutional purposes [there is] no difference between on the one hand seizing and holding a car before presenting the probable cause issue to a magistrate and on the other hand carrying out an immediate search without a warrant.”
+
+Facts
+A service station was robbed.  Two teenagers outside and the cashier identified the type of car the suspects were driving, as well as the clothing two of the men were wearing.  The car was stopped, the occupants were arrested, and the car was taken to the police station, where it was thoroughly searched, yielding two guns, proceeds from the robbery, and other evidence taken from the station.
+
+Issue
+Whether evidence “seized from an automobile, in which petitioner was riding at the time of his arrest, after the automobile was taken to a police station and was there thoroughly searched without a warrant” is admissible.
+
+Held
+Yes.  The court first referenced the Carroll case, which held that “if an effective search [of a car] is to be made at any time, either the search must be made immediately without a warrant or the car itself must be seized and held without a warrant” until a warrant is obtained.  The court pointed out that probable clause applied in either circumstance, and so “there is little to choose in terms of practical consequences between an immediate search without a warrant and the car’s immobilization until a warrant is obtained.”  Generally, the court held, the level of intrusion under the Fourth Amendment, immediate search vs. seizure in anticipation of a warrant, “may depend on a variety of circumstances.”
+
+Dissent
+J. Harland dissented and concurred in part.  In dissent, Harlan stated that “a warrantless search involves the greater sacrifice of Fourth Amendment values.”
+
+Concurrence
+The Court was correct in its recognition that “the police could prevent removal of the evidence by temporarily seizing the car for the time necessary to obtain a warrant.”
+
+Discussion
+“In terms of the circumstances justifying a warrantless search, the Court has long distinguished between an automobile and a home or office.”
+

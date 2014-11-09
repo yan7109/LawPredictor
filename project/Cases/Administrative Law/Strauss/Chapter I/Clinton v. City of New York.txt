@@ -1,0 +1,21 @@
+Citation
+524 U.S. 417, 118 S. Ct. 2091,141 L. Ed. 2d 393, 1998 U.S.
+
+Brief Fact Summary
+Certain parties sought to overturn the Line Item Veto Act as unconstitutional.
+
+Synopsis of Rule of Law
+“If there is to be a new procedure in which the President will play a different role in determining the final text of what may “become a law,” such change must come not by legislation but through the amendment procedures set forth in Article V of the Constitution.”
+
+Facts
+The Line Item Veto Act gave the president the power to cancel certain spending provisions of congressionally enacted bills. The President had to adhere to specific procedures in exercising the veto, which he did so in this case: one section from of the Balanced Budget Act of 1997 and one section of the Taxpayer Relief Act of 1997, leaving the remainder of each acts to be enacted.
+
+Issue
+Whether the Line Item Veto Act’s cancellation procedures violate the Presentment Clause of the Constitution.
+
+Held
+Yes. The Supreme Court noted the key differences between the Veto Act and standard constitutional procedure. “The constitutional return takes place before the bill becomes law; the statutory cancellation occurs after the bill becomes law. The constitutional return is of the entire bill; the statutory cancellation is of only a part.” While the Court acknowledged that the Constitution didn’t specifically ban a line-item veto, it argued that it should construe “constitutional silence on this profoundly important issue as equivalent to an express prohibition.” While the Court acknowledged that the President acted within the statute, as Congress intended, “Congress cannot alter the procedures set out in Article I, Section:7, without amending the Constitution.”  Dissent. The dissenting justices argued that the executive and the legislative branch were simply readjusting their powers with respect to each other, and neither was gaining or losing their powers appreciably.  Concurrence. Justice Kennedy wrote his concurrence in response to the dissent, specifically that the separation of powers is all important.
+
+Discussion
+“If this Act were valid, it would authorize the President to create a law whose text was not voted on by either House or presented to the President for signature.”   CHAPTER III. Procedural Frameworks for Administrative Action
+

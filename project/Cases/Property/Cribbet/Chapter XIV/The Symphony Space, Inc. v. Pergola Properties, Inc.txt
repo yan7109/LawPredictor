@@ -1,0 +1,21 @@
+Citation
+22 Ill.88 N.Y.2d 466, 646 N.Y.S.2d 641, 669 N.E.2d 799 (1996)
+
+Brief Fact Summary
+The Plaintiff, the Symphony Space, Inc. (Plaintiff), seeks to have a commercial option contract declared void because it vests beyond the 21-year perpetuity period.
+
+Synopsis of Rule of Law
+If a commercial option contract has any possibility of vesting beyond the 21 year’s perpetuities period it is held void.
+
+Facts
+The Plaintiff, a non profit entity devoted to the arts engaged in a transaction with Broadwest, predecessors in ownership to the Defendant, Pergola Properties, Inc. (Defendant) when Plaintiff purchased a building for a low price and gave Broadwest an option to repurchase the building at a later time. The option contract is in dispute as it gave Broadwest the option to purchase the property at a future date. When the Defendant, who had purchased the option contract from Broadwest, attempted to exercise its right to buy, the Plaintiff initiated this declaratory judgment action against Defendant, arguing that the option agreement violated the state’s Rule against Perpetuities. The trial court concluded that the rule against perpetuities applied to the commercial option contained in the parties agreement and that the option violated the rule.
+
+Issue
+Whether options to purchase commercial property are exempt from the prohibition against remote vesting embodied in the Rule against Perpetuities.
+
+Held
+Affirmed. All Commercial option agreements are not exempt from the Rule against Perpetuities
+
+Discussion
+The Rule against Perpetuities states no interest in property is valid unless it must vest, if at all, not later than 21 years after some life in being at the creation of the interest. If there is any possibility the interest might vest more than 21 years after a life in being, the interest is void. The Rule of Perpetuities seeks to prevent property from being unmarke
+

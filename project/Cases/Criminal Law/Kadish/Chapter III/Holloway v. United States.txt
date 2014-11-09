@@ -1,0 +1,24 @@
+Citation
+22 Ill.526 U.S. 1, 119 S. Ct. 966, 143 L. Ed. 2d 1 (1999)
+
+Brief Fact Summary
+This case involved an armed carjacking where the defendant threatened to harm or kill the driver if the car was not turned over. This decision focuses on the question of whether intent to cause death or serious bodily harm can be conditional.
+
+Synopsis of Rule of Law
+A specific intent to commit an act can be found even where the intent is conditioned on the victim failing to comply with the defendant’s instructions.
+
+Facts
+No Facts Stated
+
+Issue
+Does the phrase “carjacking with the intent to cause death or serious bodily harm” require proof that the defendant had an unconditional intent to kill or harm in all events? or does it merely requires proof of an intent to kill or harm if necessary to effect a carjacking?
+
+Held
+No. It merely requires proof of the intent to kill or harm if necessary to affect a carjacking.
+
+Dissent
+Justice Scalia argues that the majority’s interpretation of specific intent goes against the customary usage of the word intent.
+
+Discussion
+This case explores the concept of specific intent. While the Model Penal Code does not use specific intent, but instead uses purpose in defining criminal acts, it’s definition of purpose is consistent with the doctrine of conditional intent.
+

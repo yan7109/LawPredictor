@@ -1,0 +1,24 @@
+Citation
+488 U.S. 994, 109 S. Ct. 559, 102 L. Ed. 2d 585 (1988)
+
+Brief Fact Summary
+The Supreme Court of the United States granted certiorari to review a judgment of the United States Court of Appeals for the Fourth Circuit, which reversed the district court’s judgment against respondent helicopter manufacturer in the negligence and breach of warranty action.
+
+Synopsis of Rule of Law
+To the extent that it holds military contractors liable for design flaws, state law may significantly conflict with federal interests thereby requiring its displacement.
+
+Facts
+United States Marine helicopter pilot David A. Boyle died when the CH-53D helicopter in which he was flying crashed off the Virginia coast. His father, Delbert Boyle (Respondent) sued the helicopter’s manufacturer for defectively designing its copilot emergency escape hatch. On appeal from a state-law based jury verdict favoring Plaintiff, the court of appeals found that the manufacturer could not be held liable under Virginia tort law for any design flaws since it met the requirements of the “military contractor defense.” Respondent appealed; the Supreme Court granted certiorari.
+
+Issue
+May independent military contractors be held liable for injuries caused by their design flaws pursuant to state tort laws?
+
+Held
+No. The Supreme Court held that despite the absence of specific legislation immunizing government contractors from liability for design flaws, questions of their liability are of unique federal concern.
+
+Dissent
+The Supreme Court ruled 5-4 in favor of respondent. In a strongly worded dissent, Justice Brennen, joined by Justices Marshall and Stevens, takes issue with what he sees as the Court overstepping its bounds-and thus violating separation of powers and denying equitable relief as well. He states: “[t]he Court — unelected and unaccountable to the people — has unabashedly stepped into the breach to legislate a rule denying Lt. Boyle’s family the compensation that state law assures them. This time the injustice is of this Court’s own making.” J. Brennen also takes issue with the manner of the majority’s central rationale, the displacement of state law in favor of federal interests.
+
+Discussion
+Generally, the Supreme Court refuses to find federal pre-emption of state law in the absence of either a clear statutory prescription or a direct conflict between federal and state law. In his opinion in Boyle, Justice Scalia states that the Court will deviate from the general rule in cases involving “uniquely federal interests.” Here, the Court found that the state law conflicted with the federal law, therefore, the federal law should pre-empt the state law.
+

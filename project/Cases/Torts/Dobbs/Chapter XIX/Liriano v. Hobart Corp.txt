@@ -1,0 +1,21 @@
+Citation
+170 F.3d 264 (2d Cir. 1999)
+
+Brief Fact Summary
+The Court of Appeals of New York granted a judgment and damages for plaintiff in a suit for failure of the duty to warn. Defendant and Third-party Defendant appealed.
+
+Synopsis of Rule of Law
+The duty to warn is not necessarily obviated merely because a danger is clear.
+
+Facts
+Plaintiff’s hand was caught in a meat grinder while he was working. He was severely injured. He sued the manufacturer then brought a third-party action against plaintiff’s employer. At the time of sale, the machine came equipped with a safety guard, but the guard was removed while in possession of Plaintiff’s employer. The apparatus carried no safety warning indicating that it should be operated only with the safety guard attached. The issue that went before the jury was the failure to warn claim. The jury found for Plaintiff, and liability was apportioned among all three parties.
+
+Issue
+Does a reasonable manufacturer have a duty to warn even when the danger at issue is an obvious one?
+
+Held
+The court affirmed the judgment, concluding that failure-to-warn liability was valid and applied as a matter of law to the facts of the present case.
+
+Discussion
+The Restatement (Third) of Torts deals directly with product liability, listing three types of claim available to a putative plaintiff: (1) manufacturing defect; (2) design defect; or a (3) defect by reason of inadequate warnings or instructions. Liriano concerns the third, with the majority opinion addressing the issue of “obviousness as a matter of law” providing a shield to potential defendants whose products could cause injury.
+

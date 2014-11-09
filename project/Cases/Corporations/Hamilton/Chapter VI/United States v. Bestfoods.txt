@@ -1,0 +1,21 @@
+Citation
+528 U.S. 810, 120 S. Ct. 42, 145 L. Ed. 2d 38, 21 ITRD 1767 (1999)
+
+Brief Fact Summary
+The United States, brings an action against two parent corporations for the polluting activities of its subsidiary company.  The United States Supreme Court must determine whether the parent companies can be liable under section 107(a)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA).
+
+Synopsis of Rule of Law
+Under CERCLA, a parent corporation may be liable if the corporate veil can be pierced.  Alternatively, a parent corporation may be directly liable  as an operator of the polluting facility if it exerted power and control over the operations of its subsidiary that lead to the pollution.
+
+Facts
+Since 1957, the numerous owners of the site where Cordova Michigan (Cordova MI) now sits have polluted.  In 1965, CPC International Incorporated’s (CPC) wholly owned subsidiary bought Ott Chemical Company (Ott).  The new company kept Ott’s name, managers and former founder, president and principal shareholder, Arnold Ott, as officers of Ott.
+
+Issue
+Whether a parent corporation could be liable for its subsidiary’s pollution under CERCLA?
+
+Held
+No, unless the corporate veil can be pierced.  However, a parent corporation may be directly liable if it actively participated in and exercised control over the operations of that facility.  The Court of Appeals’ decision is vacated and remanded.
+
+Discussion
+Liability under CERCLA is based on the corporation’s “ownership” and “operation” of the polluting facility.
+

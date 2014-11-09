@@ -1,0 +1,21 @@
+Citation
+496 F.3d 579 (6th Cir. 2007)
+
+Brief Fact Summary
+Plaintiff Harnden appeals the district court’s order granting summary judgment to defendant Jayco as to Harnden’s claims based on alleged defects in a Jayco-manufactured Recreational Vehicle.
+
+Synopsis of Rule of Law
+Under Rule 56, such error may be considered harmless if it “do[es] not affect any party’s substantial rights”].  See Fed.R.Civ.P.61; United States v. Markwood, 48 F.3d 969, 981 (6th Cir. 1995) (holding that reversal is required only where the district court’s error affected a party’s substantial rights and the party was prejudiced by the district court’s error).
+
+Facts
+Plaintiff Harnden appeals the district court’s order granting summary judgment to defendant Jayco as to Harnden’s claims based on alleged defects in a Jayco-manufactured Recreational Vehicle.  A report detailing a series of tests performed by Jayco employee Randy Zonker was submitted along with Jayco’s Motion for Summary Judgment in which Zonker ultimately concluded that in his expert ipiinoni the RV was in good condition and that two minor leaks were not a substantial defect, and were common in the RV industry.  Further, one leak did not affect a Jayco-manufactured part and thus was not covered by the warranty.
+
+Issue
+Whether under Rule 56, the failure to allow the report, should be considered a harmless error in this case.
+
+Held
+Judgment of the district court is affirmed.  The district court’s error in allowing the report was a harmless error and did not affect Harnden’s substantial rights and most certainly Harnden was not prejudiced by this error.
+
+Discussion
+Sending this case back to the district court would simply have resulted in the affidavit being re-submitted in an admissible form, and the district court granting cummary judgment again.  Harden’s contention that if Jayco were given the opportunity to re-file its motion with the report in admissible form, Harnden would have the opportunity to “present additional evidence showing that summary judgment is improper that is not currently part of the record” was rejected.
+

@@ -1,0 +1,21 @@
+Citation
+264 N.Y. 460, 191 N.E. 514 (1934)
+
+Brief Fact Summary
+Plaintiff, Francis McQuade, brought this action against Defendants, Charles Stoneham et al., to be reinstated as the treasurer of the National Exhibition Company (NEC).
+
+Synopsis of Rule of Law
+Shareholders can not form an agreement to control the decisions traditionally vested in the judgment of the directors of a company.
+
+Facts
+In 1919, Plaintiff and Defendant John McGraw each purchased 70 shares of NEC stock from the majority 1,306 shares that Stoneham owned.  NEC was the company that owned the New York Giants.  At the time of purchase, the parties agreed to do everything in their power to keep Stoneham as president, McGraw as vice-president and Plaintiff as treasurer.  Plaintiff and Stoneham had a number of conflicts concerning the operations of NEC, and in 1928, the 7-member board of directors of NEC voted in a new treasurer (McGraw and Stoneham abstained from the vote).  Plaintiff was not removed for any misconduct or ineptitude, but rather for his conflicts with Stoneham.  Plaintiff brought this action to be reinstated as treasurer, and he cited the agreement that he entered with McGraw and Stoneham that provided for each of them to use their “best endeavors” to keep each other in their respective positions.  Defendant argued that the agreement was invalid because it granted authority to shareho
+
+Issue
+The issue is whether the shareholder agreement between Plaintiff and Defendants to use their best efforts to keep each of the parties in their respective positions is valid.
+
+Held
+The Court of Appeals of New York held that the shareholder contract to keep the parties in their positions within NEC was invalid as a matter of public policy.  Shareholders should not be able to usurp the decision-making normally left to the directors, and directors should be beholden to the corporation and not the shareholders.  Although the evidence indicated that Stoneham may have exercised bad faith in that Plaintiff was competent in his position and was ousted over personal disagreements, the director’s intentions are irrelevant because the court does not want to put directors in a position wherein they would have to defend future decisions.  Plaintiff was also ineligible for employment with NEC because he was a City Magistrate.
+
+Discussion
+The court affirms the validity of shareholders to agree to pool their votes, but they decline to allow them to use their voting power but not pool the director’s powers.
+

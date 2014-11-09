@@ -1,0 +1,21 @@
+Citation
+962 F. Supp. 1015, 1997 U.S. Dist.
+
+Brief Fact Summary
+Despite Plaintiff’s request that they cease to do so, Defendants continually distributed unsolicited e-mail advertisements to the subscribers of Plaintiff. Although Plaintiff implemented measures to filter out Defendants’ unsolicited messages, Defendants reconfigured their messages so as to circumvent these measures and reach the intended targets. Plaintiff sought to enjoin Defendants from continuing in its efforts to send such unsolicited messages to its subscribers.
+
+Synopsis of Rule of Law
+Electronic signals sent via a computer are sufficiently tangible to form the basis of a cause of action for trespass to chattels, and interference therewith can be actionable.
+
+Facts
+Defendants distributed e-mail advertisements to Plaintiff’s subscribers. Plaintiff requested that Defendants stop, but Defendants continued. Plaintiff employed measures to block Defendants’ messages, but these measures were frequently circumvented. Plaintiff obtained a temporary restraining order to block the messages, and then sought a preliminary injunction to extend the duration of the blockage. Defendants argued that Plaintiff’s computer equipment and service was not dispossessed, and that this prevented the issuance of such an injunction.
+
+Issue
+Is Plaintiff entitled to a preliminary injunction to block Defendants’ messages despite the fact that the computer equipment and service were not being dispossessed?
+
+Held
+Yes. The preliminary injunction was granted. Dispossession is only one example of an occasion in which trespass to chattels has occurred. Such a trespass may also be found when the chattel is damaged or devalued, the possessor is deprived of its use for a substantial period of time, or bodily harm results from the interference with the chattel.
+
+Discussion
+This case again addresses the extent of interference with chattels that must exist in order to be actionable. The Court rejected Defendants’ argument that a plaintiff must show actual dispossession of the chattel to find for a Plaintiff. Rather, any actionable interference can give rise to a claim and, as this case demonstrates, an injunction.
+

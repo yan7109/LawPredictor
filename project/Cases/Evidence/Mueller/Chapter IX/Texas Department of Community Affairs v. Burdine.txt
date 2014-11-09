@@ -1,0 +1,21 @@
+Citation
+450 U.S. 248, 101 S. Ct. 1089, 67 L. Ed. 2d 207, 1981 U.S.
+
+Brief Fact Summary
+Plaintiff was a female employee of the Texas Department of Community Affairs.  She filed a gender discrimination lawsuit when she was not promoted and was terminated and males were hired in her place.
+
+Synopsis of Rule of Law
+An employee’s prima facie discrimination case may be rebutted by the employer by offering admissible evidence that would allow a trier of fact to rationally conclude that the employment decision was not based on discrimination.
+
+Facts
+Plaintiff, a female employee of the Texas Department of Community Affairs (TDCA) Public Service Careers Division, Defendant, filed suit alleging gender discrimination.  She was hired as an accounting clerk in 1972.  After almost a year on the job, she applied for her supervisor’s position after he resigned.  Plaintiff’s division was funded by the United States Department of Labor, which threatened to end funding because of inefficiencies.  TDCA persuaded the Department to continue funding.  The Department required a complete reorganization and the hiring of a permanent Project Director.  A male from another division was hired for the Project Director over Plaintiff.  She was also fired as part reducing staff.  Plaintiff was rehired by TDCA for another division and received the same salary as she would have as Project Director.  Plaintiff sued claiming the failure to promote and the termination were due to gender discrimination.  The District Court found that the decisions were
+
+Issue
+After plaintiff has proved a prima facie case of discriminatory treatment, does the burden shift to defendant to persuade the court by a preponderance of the evidence that legitimate nondiscriminatory reasons for the challenged employment action exist?
+
+Held
+Justice Powell issued the opinion for the United States Supreme Court in reversing the Court of Appeals and holding that after a plaintiff has proved a prima facie case, the defendant only need “explain clearly the nondiscriminatory reasons for its actions.”
+
+Discussion
+A defendant only needs to raise a “genuine issue of fact” whether plaintiff was discriminated against.  The defendant should explain why the plaintiff was not hired or terminated.  A jury will be able to evaluate the credibility and reliability of both parties’ evidence, but the plaintiff retains the burden to persuade the jury.
+

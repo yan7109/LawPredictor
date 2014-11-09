@@ -1,0 +1,21 @@
+Citation
+480 U.S. 421, 107 S. Ct. 1207, 94 L. Ed. 2d 434 (1987)
+
+Brief Fact Summary
+The Immigration and Nationality Act (Act) provided two ways that otherwise deportable aliens who claimed they would be persecuted if deported could seek relief: Section:243(h) & Section:208(a). The issue in this case was whether the Section:243(h) standard governed applications for asylum under Section:208(a).
+
+Synopsis of Rule of Law
+The question of whether Congress intended for the two standards to be identical was purely one of statutory construction for the courts to decide.
+
+Facts
+The Act provided two ways that otherwise deportable aliens who claimed they would be persecuted if deported could seek relief: 1] Section:243(h) required the Attorney General to withhold deportation if an alien could demonstrate that his “life or freedom would be threatened” on account of one of the listed factors, if deported; and 2] Section:208(a) authorized the Attorney General, in his discretion, to grant asylum to an alien who was unable or unwilling to return to his home country “because of persecution or a well- founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.”  In Stevic, a prior case, the Court rejected an alien’s contention that the “well founded fear” standard under Section:208(a) applied to Section:243(h).  This case involved a 38-year-old Nicaraguan citizen (Respondent) who entered the United States as a visitor but remained longer than permitted. INS commenced deportation proceedings against her, and she requested withholding of deportation pursuant to Section:243(h) and asylum as a refugee under Section:208(a). Respondent’s brother was tortured and imprisoned due to political activities, and she claimed that she, too, would be tortured if she returned to Nicaragua.  The Immigration Judge applied the same standard to both requests, and found that Respondent had not established a “clear probability of persecution” and was not entitled to relief. The Board of Immigration Appeals (BIA) agreed. In the Court of Appeals for the Ninth Circuit, Respondent argued that she was entitled to asylum under Section:208(a), claiming that INS erred in applying the “more likely than not” standard of proof from Section:243(h) to her Section:208(a) asylum claim. Respondent asserted that INS should have applied the more generous “well founded fear” standard instead. The Court of Appeals agreed.
+
+Issue
+Did the “more likely than not” standard of proof from Section:243(h) apply to a Section:208(a) asylum claim?
+
+Held
+No. Affirmed the Court of Appeals.   The Court rejected the Government’s contention that the Section:243 “more likely than not” standard applied governed applications for asylum under Section:208. Congress used the broader language of “refugee” under Section:208 than it used to    describe the class of aliens with a right to withholding of deportation under Section:243.  The legislative history of the Act and the text of the Act itself made it clear that Congress intended for two separate standards to apply to Section:243 and Section:208.   Dissent. The dissent disagreed with the majority’s statutory construction and urged deference to the agency’s interpretation.  Concurrence. The clear language of the statute should be given effect, rather than go through an exhaustive legislative history. Since the Court correctly concluded that the INS’s interpretation was inconsistent with the plain meaning of the Act, there was no reason to even address the issue of deference to the agency.
+
+Discussion
+The question of whether Congress intended for the two standards to be identical was purely one of statutory construction for the courts to decide.  The Court cited Chevron: “The judiciary is the final authority on issues of statutory construction and must reject administrative constructions which are contrary to clear congressional intent.”
+

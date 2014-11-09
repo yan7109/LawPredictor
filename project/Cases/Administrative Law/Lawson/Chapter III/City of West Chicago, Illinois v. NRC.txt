@@ -1,0 +1,21 @@
+Citation
+701 F.2d 632, 19 ERC 1006 (7th Cir. 1983)
+
+Brief Fact Summary
+This appeal by the City of West Chicago (City) challenged a Nuclear Regulatory Commission (NRC) order granting to Kerr-McGee Corporation (KM) a license amendment authorizing it to demolish certain buildings at its facility and accept for onsite storage contaminated soil from offsite locations.
+
+Synopsis of Rule of Law
+The Atomic Energy Act of 1954 (Act), Section:189(a), requires that the NRC grant a “hearing” if requested “in any proceeding under this chapter, for granting, suspending, revoking, or amending of any license or permit.” This was interpreted to require an informal hearing because clear congressional intent must be apparent to trigger the formal, on-the-record hearing requirement of the Administrative Procedure Act.
+
+Facts
+KM operated a milling facility for the production of thorium and thorium compounds from 1967 to 1973 in West Chicago. The plant closed, and KM submitted a plan to the NRC in 1979 to decommission the site and dispose of the contaminated materials. KM had a “source material” license from the NRC, allowing it to possess and store thorium ores. The NRC issued Amendment No. 3 to KM’s license in 1981, which authorized the demolition of six additional buildings and the receipt and storage of onsite of contaminated material that was formerly taken away from the site. The City requested the District Court to set aside Amendment No. 3, claiming that it violated the National Environmental Policy Act (NEPA) because no EIS was issued before approval, and that the City had no notice of KM’s request for an amendment and therefore no opportunity to request a hearing. The District Court temporarily enjoined KM’s activities under the amendment and ordered the NRC to give notice to the City and consider its request for a hearing. The NRC gave notice to the City, and then denied the City’s request for a formal, trial-like hearing to address the contentions it made in the written materials it had submitted.
+
+Issue
+Was a formal hearing required, or was an informal hearing sufficient under the Act?
+
+Held
+Affirmed the NRC order. An informal hearing was sufficient.   In this case, the Commission procedures afforded the City all the process that was constitutionally necessary. There was no clear intention in the legislative history of the AEA indicating that Congress intended a formal hearing, nor did it specify the “on the record” requirement to trigger Section:554 of the Administrative Procedure Act.   Dissent. None.  Concurrence. None.
+
+Discussion
+This Court presumed, subject to rebuttal by evidence of congressional intent to the contrary, that the restrictive rule of FECR applies to adjudications as well as rulemaking.
+

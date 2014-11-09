@@ -1,0 +1,21 @@
+Citation
+22 Ill.477 U.S. 242, 106 S. Ct. 2505, 91 L. Ed. 2d 202, 12 Med. L. Rptr. 2297 (1986)
+
+Brief Fact Summary
+In a libel suit, the Court of Appeals erred in finding that a standard of proof, by which the plaintiff would have to prove his case at trial, did not apply when considering a summary judgment motion.
+
+Synopsis of Rule of Law
+The inquiry involved in ruling on a summary judgment motion, requires the court to use the substantive standard of proof that would apply at the trial on its merits.
+
+Facts
+Carto, a publisher, and the Respondent, Liberty Lobby (Respondent), the organization Carto headed, filed a libel suit against The Investigator magazine, its president and its publisher, the Jack Anderson (Petitioner). The Respondent accused the Petitioner of publishing articles portraying the Respondent as a neo-Nazi organization. Petitioner moved for summary judgment on the basis that Respondent was a public figure and no actual malice on the part of the Petitioner could be proven. The trial court granted the motion. On appeal, the Respondent argued that for purposes of opposing the summary judgment motion, the trial court required it to show that actual malice existed by a clear and convincing standard, rather than by a preponderance of the evidence standard. The Court Appeals held that a reasonable jury could conclude actual malice could have been used and that it was irrelevant on a motion for summary judgment what the actual standard was.
+
+Issue
+Whether a factual dispute requiring submission to a jury must be guided by the substantive evidentiary standards that apply to the case.
+
+Held
+Yes. The Court of Appeals erred in holding that the heightened evidentiary requirements that apply to proof of actual malice need not be considered for the purposes of a motion for summary judgment. Remanded.  <br/><br/><span class='heading'>Dissent.</span> It is for the fact finder, not the court to decide the merits of a case and the burdens of proof that qualify. If a party has shown the elements of his cause of action, he has presented a prima facie case that must survive summary judgment.
+
+Discussion
+When determining if a genuine factual issue as to actual malice exists in a libel suit brought by a public figure, a trial judge must bear in mind the actual quantum and quality of proof necessary to support liability under the substantive test. Judges must be careful not to weigh the evidence and determine the truth of the matter during summary judgment, but determine whether there is issue for trial. The question the Court of Appeals should have asked here was whether the evidence in the record could support a reasonable jury finding that the plaintiff had shown actual malice by clear and convincing evidence or that he had not.   The mere existence of some factual dispute between parties, alone, does not preclude a finding of summary judgment; rather, there must be a    genuine issue of material fact. Summary judgment may only be granted if a genuine issue of material fact is present between parties. Only disputes over facts that might affect the outcome of the suit under the governing law will properly preclude the entry of summary judgment.
+

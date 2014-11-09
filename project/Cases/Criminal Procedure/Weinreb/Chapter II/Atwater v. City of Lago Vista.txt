@@ -1,0 +1,24 @@
+Citation
+532 U.S. 318, 121 S. Ct. 1536, 149 L. Ed. 2d 549 (2001)
+
+Brief Fact Summary
+A mother was taken into custody for violation of Texas’ strict seatbelt law.  She subsequently sued for Fourth Amendment violations.
+
+Synopsis of Rule of Law
+“The standard of probable cause ‘applies to all arrests, without the need to balance the interests and circumstances involved in particular situations.’”
+
+Facts
+Tex. Tran. Code Ann. Section: 545.413(a) (1999) requires that any passenger in the front seat wear a seatbelt, and Section: 545.413(b) requires any small child riding in the front to be secure.  Petitioner Gail Atwater ["the petitioner"] was driving with her two small children, none of whom were wearing seatbelts.  They were stopped by a police officer who observed that they were not wearing seatbelts.  According to the respondent, the officer was aggressive with her.  She was arrested, had her mug shot taken, and placed in jail for one hour.
+
+Issue
+“[W]hether the Fourth Amendment forbids a warrantless arrest for a minor criminal offense, such as a misdemeanor seatbelt violation punishable only by a fine.”
+
+Held
+No.  The Supreme Court noted that the respondent wanted a new rule “one not necessarily requiring violent breach of the peace, but nonetheless forbidding custodial arrest, even upon probable cause, when conviction could not ultimately carry any jail time and when the government shows no compelling need for immediate detention.”  The court was unwilling to do this, noting “complications arise the moment we begin to think about the possible applications of the several criteria [the respondent] proposes for drawing a line between minor crimes with limited arrest authority and others not so restricted.”  Citing several examples, the court concluded by noting that the respondent’s rule would “place police in an almost impossible spot” and “guarantee increased litigation over many of the arrests that would occur.”  Given that it would cause more troubles than it would solve, the court refused to adopt the rule, and held arrests were permissible under all circumstances of criminal act
+
+Dissent
+The dissent was dissatisfied with “a rule which deems a full custodial arrest to be reasonable in every circumstance.”  The argument was for the standard articulated in Terry v. Ohio:  “specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant [the additional] intrusion” of arrest.
+
+Discussion
+“If an officer has probable cause to believe that an individual has committed even a very minor criminal offense, he may, without violating the Fourth Amendment, arrest the offender.”
+

@@ -1,0 +1,21 @@
+Citation
+928 F.2d 48 (2d Cir. 1991)
+
+Brief Fact Summary
+Plaintiffs, William Sadler et al., sought to inspect the records of Defendant corporation, NCR Corporation, for the purpose of identifying shareholders in order to tender an offer.  Plaintiffs also sought a non-objection beneficial owners (NOBO) list.
+
+Synopsis of Rule of Law
+A party can inspect records under section 1315(a) of the New York Business Corporation Law even when through an agent as long as the elements of the statute are met.
+
+Facts
+Plaintiffs were a couple, William and Barbara Sadler, who worked with another Plaintiff, American Telephone & Telegraph (AT&T), to receive Defendant’s corporate records regarding shareholder identity.  Plaintiffs also requested a NOBO list.  AT&T worked with the Sadlers because the Sadlers were shareholders that satisfied all of the requirements of section 1315(a) of the New York Business Corporation Law that allow a request of the information, namely that it had to be from someone who held Defendant stock for longer than six months.  AT&T agreed to indemnify the Sadlers for any costs incurred in the request, and in return AT&T effectively controlled the entire request.  Defendant argued that the arrangement with AT&T made the Sadlers ineligible to request the information, and that the requirement of a Maryland corporation to abide by a New York statute violates the Commerce Clause of the United States Constitution.
+
+Issue
+The issue is whether Plaintiffs, wherein one plaintiff is acting at the behest of another plaintiff who otherwise does not qualify as a shareholder under section 1315(a) can compel Defendant to produce corporate records to identify other shareholders.
+
+Held
+The court held that the statute will be read on its face without the incorporation of agency law principles.  As long as the requirements of the section are met, and there is no bad faith on the part of the Plaintiffs, then the request for the corporate records should be granted.  These elements were met by Plaintiffs.  Further, the request for the NOBO list is not unduly burdensome.  Upholding the New York Statute does not violate the Commerce Clause because the New York Statute is not inconsistent with the Maryland statute even though the New York statute compels the records disclosure while Maryland’s law only allows for the disclosure with no mandatory requirements.
+
+Discussion
+The court simplifies the statute by allowing agency relationships to exist in order to meet the requirements of the statute, the rationale being that absent bad faith it should not matter.
+

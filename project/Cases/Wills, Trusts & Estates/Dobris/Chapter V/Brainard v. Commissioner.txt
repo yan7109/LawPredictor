@@ -1,0 +1,21 @@
+Citation
+91 F.2d 880 (7th Cir. 1937)
+
+Brief Fact Summary
+Brainard orally declared a gift in trust to his mother, wife, and two children.  The property from the trust was to be funded from the future profit of a stock trade.  The Supreme Court of Texas determined whether the trust existed in the year of the declaration, or the year the profit was made.
+
+Synopsis of Rule of Law
+Where there is no trust res at the time of the declaration of a trust, a trust does not exist until the time that the settlor manifests anew his intent to create a trust when the res comes into being
+
+Facts
+Brainard orally declared before his wife and mother a trust of the future profit of stock trade.  The beneficiaries were Brainard’s wife, mother, and two minor children.  After the stock was traded, Brainard deducted his compensation as trustee and declared it as income on his income 1928 tax return.  The remaining profits were divided into equal shares and credited on his books to the trusts of the four beneficiaries.  The beneficiaries reported the profits on their respective 1928 income tax returns.
+
+Issue
+Whether a 1927 declaration creates a valid trust over future 1928 profits of a stock, trade?
+
+Held
+No.  The 1927 declaration did not crate a valid trust over the future 1928 profits.  The settlor must report the profits on his 1928 income tax return because the profits accrued to Brainard before he transferred the trust.  A trust did not arise until 1928 when the settlor manifested anew his intent to create a trust when he documented in his books that the profit from the stock trade in 1928.  Therefore a trust arose in 1928.
+
+Discussion
+The trust did not have property at the time of the settlor’s declaration.  Furthermore, it was not certain a the time that the donor made the declaration, when and if a profit would result from the trade of stock
+

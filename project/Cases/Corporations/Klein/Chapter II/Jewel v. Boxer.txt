@@ -1,0 +1,21 @@
+Citation
+156 Cal.App.3d 171, 203 Cal.Rptr. 13 (Ct. App. 1984)
+
+Brief Fact Summary
+Plaintiffs, Howard Jewel and Brian Leary, and Defendants, Stewart Boxer and Peter Elkind, were partners of a firm that has since dissolved.  Plaintiffs appeal the trial court’s allocation of fees stemming from work in progress during the dissolution.
+
+Synopsis of Rule of Law
+For law practice partnerships, the Uniform Partnership Act requires that any fees paid to the partners for cases in progress during the dissolution should be allocated to the former partners according to their right to fees during the partnership.
+
+Facts
+Plaintiffs and Defendants were partners in a law firm.  The partners never formed a written partnership agreement, and therefore when they mutually dissolved their firm there was no agreed-upon method of allocating fees collected on work that was in progress while the firm was dissolving.  The lower court looked at the work performed by each set of partners and tried to devise a formula based upon a quantum meruit basis.  Plaintiffs appealed the formula adopted by the lower court.
+
+Issue
+The issue is whether the outstanding fees for work in progress during the dissolution should be allocated on a quantum meruit basis or by following the Uniform Paternership Act.
+
+Held
+The court held that the Uniform Partnership Act should apply when the parties lacked any written agreement that contemplated the sharing of the fees.  The Act provides that the partnership exists until the completion of winding up the business, and therefore no partner is entitled to extra compensation for work performed while winding up of the business.  There are no exceptions for law firms or for instances when the clients substituted the prior firm with the individual attorney when the character of the business remained the same.  The partners would be eligible for reimbursement from the firm for all reasonable expenses.
+
+Discussion
+Defendants argued that the nature of work performed by attorneys is unique, but the court treated law firms just as they would have treated any other partnership.  Compare this decision with
+

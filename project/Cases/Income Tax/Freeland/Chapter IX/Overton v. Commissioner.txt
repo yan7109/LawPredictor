@@ -1,0 +1,21 @@
+Citation
+162 F.2d 155, 1947 U.S. App. 47-1 U.S. Tax Cas. (CCH) P9292; 47-1 U.S. Tax Cas. (CCH) P10,564
+
+Brief Fact Summary
+Petitioners gave a certain amount of stock to their wives.  Through a complex transaction, stock was converted which allowed Petitioners’ wives to receive dividends from a certain class of stock.
+
+Synopsis of Rule of Law
+Anticipatory assignments cannot be used to avoid income ordinarily taxable to the taxpayer.
+
+Facts
+The Castle and Overton corporation had 1,000 outstanding shares stock in 1936 without par value but with a liquidating value of $120 per share.  Pursuant to a plan to lessen taxes, the certificate of incorporation was amended to change the outstanding common stock to 2,000 shares without par value, of which 1,000 were Class A and 1,000 Class B.  The old stock was exchanged for new and Petitioners gave the B stock to their wives.  The B stock had a liquidating value of $1 per share.  The wives were precluded from realizing income of more than one dollar per share by selling their shares.  The A stock was to receive dividends of $10 per share per year before payment of any dividends on B stock.  If the dividends were in excess of $10 per share, the excess was to be shared by both classes with one-fifth for the A stock and four-fifths for the B stock.  During the six- year period ending in 1941, dividends paid on B stock totaled $150 per share and $77 on the A stock.  In 1941, th
+
+Issue
+Are the dividends gross income to taxpayers?
+
+Held
+Circuit Judge Swan issued the opinion for the United States Second Circuit Court of Appeals in affirming the Tax Court and hold that the dividends were income of Petitioners.
+
+Discussion
+The Court of Appeals found that the exchange while appearing to be gift was actually an assignment of part of the Petitioner’s future dividends.  The arrangement essentially gave their spouses nothing except the right to future earnings from property retained by Petitioners.
+

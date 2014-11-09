@@ -1,0 +1,21 @@
+Citation
+516 U.S. 367, 116 S. Ct. 873, 134 L. Ed. 2d 6, 1996 U.S.
+
+Brief Fact Summary
+The Defendant, Matsushita Industrial Co. (Defendant), was the subject of two sets of lawsuits filed on behalf of MCA shareholders after Defendant acquired MCA. Both suits consisted primarily of class actions, one involving federal claims, the other involving state claims. After a settlement was reached in state court releasing all claims against Defendant, Defendant moved to dismiss the federal claim on grounds that full faith and credit mandates that the federal court acknowledge the state court settlement releasing all claims against Defendant.
+
+Synopsis of Rule of Law
+A federal court may not withhold full faith and credit from a state court judgment approving a class action settlement, even though the settlement releases claims within the exclusive jurisdiction of the federal courts.
+
+Facts
+The Defendant was the subject of two sets of lawsuits filed on behalf of MCA shareholders after Defendant acquired MCA. Both suits consisted primarily of class actions. One group of class actions alleged breach of federal securities laws. The second, filed in Delaware State Court, alleged breaches of various state law fiduciary responsibilities. The claims in the federal actions all fell within the federal courts’ exclusive jurisdiction.  After the federal district court granted summary judgment to Defendant in the federal cases, but while those cases were on appeal to the Court of Appeals for the Ninth Circuit, the parties to the Delaware action negotiated a global release of all claims arising out of the Matsushita-MCA acquisition.  The Delaware court approved the settlement as fair. Later, Defendant asserted the judgment embodying the settlement as a bar to the federal action. The Ninth Circuit, before which the federal securities claims were pending, held that adjudication of the state claims could have had no preclusive effect on issues on the federal case. The Supreme Court of the United States (Supreme Court) then granted certiorari.
+
+Issue
+Whether a federal court may withhold full faith and credit from a state-court judgment approving a class action settlement simply because the settlement releases claims within the exclusive jurisdiction of the federal courts?
+
+Held
+No. The Supreme Court reversed the decision of the Ninth Circuit.   Absent a repeal of the Full Faith and Credit Act, a federal court must give the judgment the same effect that it would have in the courts of the state in which it was rendered. Federal courts may not employ their own rules in determining the effect of state judgments, but must accept the rules chosen by the state in which the judgment is taken.    Concurrence. Justice Ruth Bader Ginsburg (J. Ginsburg) concurred, in which she was joined by Justice John Paul Stevens (J. Stevens). J. Ginsburg’s concurrence serves as her reminder to the majority that a state court judgment is not entitled to full faith and credit unless it satisfied the requirements of the Fourteenth Amendment’s Due Process Clause. Specifically, she pointed out that adequate representation is necessary to satisfy due process in a class action setting where the judgment will bind absent class members.
+
+Discussion
+Here, the court implicitly made the point that a state court can approve a settlement plan containing provisions over which the state court lacks jurisdiction. Granted that, the court then found that unless a controlling federal statute trumps full faith and credit in the case before it, then full faith and credit must be given to the state court settlement.
+

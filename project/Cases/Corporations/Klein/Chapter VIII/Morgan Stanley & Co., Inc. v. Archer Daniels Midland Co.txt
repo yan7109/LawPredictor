@@ -1,0 +1,21 @@
+Citation
+570 F. Supp. 1529 (S.D.N.Y. 1983)
+
+Brief Fact Summary
+Plaintiff, Morgan Stanley & Co., Inc., sought to enjoin Defendant, Archer Daniels Midland Co., from redeeming debentures supposedly contrary to an agreement between Defendant and the debt holders.
+
+Synopsis of Rule of Law
+Redemption provisions will be given their plain language meaning in order to encourage uniformity.
+
+Facts
+Defendant issued $125 million of 16% Sinking Fund Debentures with a stipulation that Defendant could not redeem the debentures through lower cost interest debt.  Defendant raised money on a couple occasions afterward with a lower interest rate than the 16%.  Defendant also raised money through two common stock offerings.  At this point, Plaintiff purchased some of the debentures at more than face value, but the next day Defendant announced their plans to redeem the 16% debentures.  Plaintiff then sought to enjoin Defendant from its redemption, arguing that Defendant violated the debenture agreement because they used money (at least indirectly) raised from their lower-interest debentures.  Plaintiff also argued that Defendant violated federal and state securities laws because Defendant withheld material facts from the Securities and Exchange Commission, namely that Defendant was interpreting the redemption language of the borrowing agreement so narrow as to only be prohibited f
+
+Issue
+The issue is whether Plaintiff can enjoin Defendant from proceeding with the redemption.
+
+Held
+The court denied the injunction because several of the factors required for an injunction were not met.  First, Plaintiff did not demonstrate irreparable harm because they could still calculate the damages if the merger went forward.  Plaintiff did not demonstrate any hardship, and the court was not convinced of their likelihood of success.  The court favored the plain-meaning interpretation, wherein there needed to be a direct link between the redemption and its financing with lower-interest debt, because they did not want the determination to be subjective.  The court was concerned with uniformity, which was provided by Defendant’s interpretation.  The court also was not convinced that Plaintiff would win on the securities violations argument because there was no evidence of the level of intent required by Defendant in their redemption.
+
+Discussion
+This case is consistent with other corporate debt cases in that the plain language of the lending agreement will be preferred over any arguments of implied or unwritten language..
+

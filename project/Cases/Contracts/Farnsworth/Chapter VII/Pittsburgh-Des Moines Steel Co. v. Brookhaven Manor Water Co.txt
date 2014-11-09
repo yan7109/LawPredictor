@@ -1,0 +1,21 @@
+Citation
+532 F.2d 572, 1976 U.S. App. 12612, 18 U.C.C. Rep. Serv. (Callaghan) 931; 21 Fed. R. Serv. 2d (Callaghan) 1007
+
+Brief Fact Summary
+The Plaintiff, Pittsburgh-Des Moines Steel Co. (Plaintiff), sued the Defendant, Brookhaven Manor Water Co. (Defendant), for breach of contract after the Defendant refused to undertake actions, not required by the written agreement, to assure the Plaintiff that it could pay for the contracted work.
+
+Synopsis of Rule of Law
+If reasonable grounds arise for a party to a contract to believe that the other party will not perform, the party may demand adequate assurances of performance and the failure to give adequate assurances of performance will be considered a breach.
+
+Facts
+The Plaintiff agreed to build an elevated tank for the Defendant for $175,000. No payment was required under the contract until 30 days after completion of the tank. The Plaintiff learned the Defendant had been refused a loan, leading its credit manager to write a letter to the Defendant’s president demanding that he personally guarantee the payment due under the agreement. The letter required that the money be put in escrow. The Defendant’s president responded by sending a statement of his personal worth. The Plaintiff then stopped making parts and the tank was never built. The Plaintiff initiated this action alleging that the Defendant repudiated the agreement by failing to undertake the actions required by the letter sent by the Plaintiff’s credit manager.
+
+Issue
+Did the Plaintiff properly refuse to perform on the contract for the reason that the Defendant had repudiated the agreement by failure to give adequate assurances of performance?
+
+Held
+No. Under the Uniform Commercial Code (UCC), when reasonable grounds for insecurity arise as to a party’s likelihood of performance, the other party may demand adequate assurances of performance. However, the UCC does not permit a party to alleviate the insecurity by reforming the contract to add a payment term not contemplated by the original agreement. Here, the Plaintiff became insecure about the Defendant’s ability to perform when the Defendant was turned down for a loan. The Plaintiff demanded that the Defendant’s president personally guarantee payment on the contract, and he refused. The Plaintiff thereafter refused to build the tank. The Plaintiff did not have reasonable grounds for insecurity. The money was not required to be paid for some months and the Defendant’s president’s refusal to guarantee the money was not unusual in a corporate setting. Hence, the Plaintiff wrongfully refused to perform the contract.
+
+Discussion
+A party may demand adequate assurances that performance will occur if reasonable grounds for insecurity as to the other party’s performance arise.
+

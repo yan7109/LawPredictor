@@ -1,0 +1,24 @@
+Citation
+244 U.S. 147, 37 S. Ct. 546, 61 L. Ed. 1045 (1917)
+
+Brief Fact Summary
+Federal and state common carrier laws result in a conflict as to which law applies to James Winfield’s (Plaintiff’s) injuries.
+
+Synopsis of Rule of Law
+Federal law preempts state law when both laws cover the same field.
+
+Facts
+Plaintiff sustained personal injury while engaged in the service of New York Central Railroad Company (Defendant). The Defendant was engaged in interstate commerce as a common carrier and Plaintiff was an employee of the Defendant. The personal injury was a result of one of the ordinary risks of the work in which Plaintiff was engaged. After the injury, Plaintiff sought recovery under the state Workers’ Compensation law. Plaintiff was awarded damages for his injuries under this law. Defendant appealed the award. The award was affirmed. Defendants argue that no award could be made to Plaintiff under state law because another federal law, the Employers Liability Act of Congress, addressed the same issues, should apply instead.
+
+Issue
+Whether a federal law for common carriers preempts a state’s common carrier law when they both cover the same field.
+
+Held
+(Justice Van Devanter). Yes. The Commerce Clause may regulate common carriers and the rights of their employees arising out of injuries sustained when both are engaged in interstate commerce. When Congress acts intends to regulate a particular field, all state laws covering the same field are necessarily preempted. The judgment is reversed.
+
+Dissent
+(Justice Brandeis). The Court has denied the existence of preemption in situations when the intent of Congress to leave the field open to state action was far less clear than under circumstances in this case.
+
+Discussion
+This case seems to be very clear as to any conflicts occurring between state and federal law. Federal law will always preempt state law when both are regulating the same field.
+

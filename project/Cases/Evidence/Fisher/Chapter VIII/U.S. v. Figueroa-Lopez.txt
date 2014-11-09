@@ -1,0 +1,21 @@
+Citation
+523 U.S. 1131
+
+Brief Fact Summary
+Following a jury trial, Raul Figueroa-Lopez (Defendant) was convicted of possession of cocaine with intent to distribute.  At trial, the court allowed testimony of law enforcement officers into evidence, as lay witness testimony.  Defendant appeals his conviction here.
+
+Synopsis of Rule of Law
+Testimony offered by law enforcement officers that profiles a criminal defendant as a drug trafficker is properly characterized as testimony based on the perceptions, education, training, and expertise of the witness, and therefore its admission or exclusion is governed by Federal Rule of Evidence 702, not lay opinion testimony under Federal Rule of Evidence 701.
+
+Facts
+Darryl Storm (Storm) was arrested for various drug offenses, and he agreed to cooperate with the authorities by supplying the names of narcotics traffickers.  Storm gave the authorities Defendant’s first name only, stating that it was all he knew.
+
+Issue
+Did the lower court error by admitting the testimony of the law enforcement officers under Federal Rule of Evidence 701, without a proper foundation having been laid?
+
+Held
+Yes; the testimony offered was “specialized knowledge” and it’s admission is governed by Federal Rule of Evidence 702, not 701; as no foundation was laid here, it was error for the lower court to have admitted it.  However, the error was harmless, and the judgment of the lower court is affirmed.
+
+Discussion
+The court looked to the Federal Rules of Evidence in determining that the testimony offered was not lay opinion testimony, but rather expert testimony.  Allowing such testimony as mere lay opinion testimony, and thereby eliminating the need to lay a proper foundation, the court stated, would, “simply blur[] the distinction between Federal Rules of Evidence 701 and 702.”  The court concluded that:
+

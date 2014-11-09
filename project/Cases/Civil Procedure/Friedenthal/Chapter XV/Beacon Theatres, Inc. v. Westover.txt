@@ -1,0 +1,24 @@
+Citation
+22 Ill.359 U.S. 500, 79 S. Ct. 948, 3 L. Ed. 2d 988 (1959)
+
+Brief Fact Summary
+The Respondent, Fox West Coast Theatres (Respondent), had a contract with movie distributors, which granted it the exclusive right to show first-run movies. The Petitioner, Beacon Theaters (Petitioner), a nearby theatre, threatened to bring an antitrust lawsuit against the Respondent. The Respondent then brought a claim for declaratory relief against Beacon, which in turn, counterclaimed for treble damages and demanded a jury trial.
+
+Synopsis of Rule of Law
+Under the Federal Rules of Civil Procedure (FRCP), the same court may try both legal and equitable causes in the same action.
+
+Facts
+Respondent has the exclusive right granted by movie distributors to first run pictures in the San Bernardino area. Petitioner, which had built a drive-in theatre 11 miles away, notified Respondent that it considered bringing an antitrust suit against Respondent. Respondent then brought a Complaint for Declaratory Relief in which it sought two things: (i) a declaration that the grant of clearance between the two theatres was not in violation of the antitrust laws and (ii) pending resolution of the lawsuit, an injunction to prevent Petitioner from bringing an antitrust lawsuit. Petitioner counterclaimed denying the threats and claimed the clearances were unreasonable. Petitioner also alleged a conspiracy existed between Respondent and the distributors which violated antitrust laws and asked for treble damages. Respondent also demanded a jury trial. The District Court viewed the Complaint for Declaratory Judgment and the conspiracy claim as equitable and therefore thought they co
+
+Issue
+Whether the court has jurisdiction to hear as a complete equity case, a complaint that asks for equity and a counterclaim that asks for a jury trial.
+
+Held
+Under the Declaratory Judgment Act (the Act) and the FRCP, Petitioner could not be denied a jury trial of all the issues in the antitrust lawsuit. Judgment of the Court of Appeals reversed.
+
+Dissent
+The FRCP allow for equitable and legal issues to be heard in the same proceeding, however, they expressly affirm the power of a trial judge to determine the order in which the claims could be heard. The majority stated that the entire lawsuit could not be heard as an equity case because Petitioner’s claim preserved its right to a jury trial. Conversely, the fact that the right to a jury trial existed could not turn this case into an action at law.
+
+Discussion
+Though the Respondent’s complaint and Petitioner’s counterclaim had a similar issue with regard to the grant of clearances, which traditionally would result in an equitable remedy, the Petitioner’s antitrust claim gave it the right to have that claim heard by a jury. The case could not be heard solely as an equitable one just because the Respondent’s complaint asked for equitable remedies- this would preclude the Petitioner from getting a jury trial on the antitrust claim. The flexible FRCP allows courts to hear both equity and legal claims that arise from the same action.
+

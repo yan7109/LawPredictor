@@ -1,0 +1,21 @@
+Citation
+22 Ill.433 U.S. 25, 97 S. Ct. 2490, 53 L. Ed. 2d 557 (1977)
+
+Brief Fact Summary
+Plaintiffs sued Defendant County for injuries arising out of an airplane accident. The only meritorious count in Plaintiffs’ complaint alleged that Defendant breached its contract with the Federal Aviation Administration (FAA) and Plaintiffs were third party beneficiaries of that contract. Defendant moved to dismiss, arguing that federal law applied, which did not give standing to Plaintiffs as third party beneficiaries from the contract between Defendant and FAA.
+
+Synopsis of Rule of Law
+Federal common law does not apply in diversity cases unless the United States’ rights and obligations would be substantially affected by the outcome of the case. A decision that may remotely or upon speculation, affect the United States’ interests is not a strong enough reason to warrant application of federal common law.
+
+Facts
+Miree and others, Plaintiffs, sued DeKalb County, Defendant in federal court based on diversity of citizenship, for injuries and wrongful death arising from an airline accident that occurred shortly after takeoff from an airport owned by Defendant. The only meritorious count of the complaint alleged that Defendant breached its contract with FAA, which required Defendant to restrict use of the land adjacent to the airport to activities compatible with airport activities (i.e., takeoff and landing). The complaint further alleged that Defendant maintained a garbage dump next to the airport that attracted birds. The birds were sucked into the plane in question’s engine, which caused the crash. Plaintiffs further allege that they are third party beneficiaries of the contract and thus have standing to sue on the contract.   The District Court held that Georgia law applied and that Defendant had governmental immunity and dismissed the complaint. Plaintiffs appealed and the Court of Appeal’s panel held that state law allowed Plaintiffs to sue as third party beneficiaries and governmental immunity did not bar the suit. Defendant requested rehearing en banc. The Court of Appeals en banc held that federal law applied, which did not allow Plaintiffs to sue as third party beneficiaries. Plaintiffs appealed to the Supreme Court.
+
+Issue
+Does the United States have such a strong interest in this case such that federal common law, as opposed to state law, should apply to the issue of whether Plaintiffs have standing to sue?
+
+Held
+No. Reversed and remanded.   Clearfield Trust Co. v. United States, 318 U.S. 363, 63 S.Ct. 573, 87 L.Ed. 838 (1943), infra, requires federal law be applied when interpreting the rights and obligations of the United States and when there is a federal interest in uniformity such that applying state law in the situation would create uncertainty.     The Solicitor General of the United States did not brief any issues in this case and stated that he would not do so unless requested by the Court. Therefore, the United States does not feel that its rights would be significantly affected by the outcome of the case.  This case involves private parties and the issues that predominate are essentially local.  Congress has not given a federal cause of action, which emphasizes a further lack of federal interest.  Due to the speculative and remote nature of any federal interest, state law should apply.
+
+Discussion
+The opinion shows that the rule articulated in Clearfield Trust Co., infra, requires a determination of the rights and obligations of the United States, not other parties affected. In addition, even though federal law specifically states that a contract does not allow for a federal cause of action, this does not foreclose the possibility of a state cause of action pursuant to the federal law. This is why standing was analyzed under state law, to determine if Georgia law would allow such a cause of action.
+

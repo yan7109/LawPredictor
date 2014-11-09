@@ -1,0 +1,21 @@
+Citation
+401 F.2d 833, 1 EXC 210 (2d Cir. 1968)
+
+Brief Fact Summary
+Plaintiff, the Securities and Exchange Commission, brought this suit against Defendants, Texas Gulf Sulphur Co., et al., after Defendants bought shares of Texas Gulf while they secretly had positive information regarding mining activities carried out by the company.
+
+Synopsis of Rule of Law
+Insiders can not act on material information (information that a reasonable man would deem important to the value of the stock) until the information is reasonably, publicly disseminated.
+
+Facts
+Defendants were officers, employees or were closely tied to employees of Texas Gulf.  Texas Gulf, utilizing a geological survey, was conducting mining exploration in Canada.  One area, called Kidd 55, was deemed promising by the survey, and a hole was drilled with the resulting core analyzed.  The analysis showed that the minerals present in the area were extremely rich in minerals.  Several other samples verified the findings.  Defendants did not disclose the results of the analysis to outsiders, including other officers of Texas Gulf.  Defendants did proceed to purchase shares and calls once they knew about the results.  The trading activity and sample drilling did prompt rumors in the industry of a significant find by Texas Gulf, and on April 12, 1964 Defendants sent out a misleading press release to calm the speculation.  The press release misrepresented the actual results of the samples.  Defendants decided to announce the results on April 15, although the news did not re
+
+Issue
+The issue is whether Defendants utilized material inside information when they purchase shares and calls of Texas Gulf stock.
+
+Held
+The Defendants withheld information that was material to shareholders and therefore were acting on insider information when they purchased their shares and calls on Texas Gulf stock.  The court looked at the conduct of Defendants as evidence that the information was material: they purchased a great deal of shares in Texas Gulf, they deliberately kept the information from others, and the timing of their purchases occurred during the period that they exclusively held the information.  It did not matter that there was still an element of uncertainty in the eventual mineral mining, but the key element was whether a reasonable person would believe that the information would be relevant to the price of the stock.  Further, Defendants should not act upon the information until the information is disseminated to the point that the public would have had a reasonable opportunity to act on it.
+
+Discussion
+The court has moved away from Goodwin v. Agassiz where the emphasis was placed on whether a plaintiff suffered any damages and was directly wronged by a defendant insider.  Now the test is whether defendants have an advantage over anyone without the information.
+

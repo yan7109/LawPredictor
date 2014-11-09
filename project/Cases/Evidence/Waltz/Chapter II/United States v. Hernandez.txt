@@ -1,0 +1,21 @@
+Citation
+750 F.2d 1256, 1985 U.S. App. 17 Fed. R. Evid. Serv. (Callaghan) 693
+
+Brief Fact Summary
+A Drug Enforcement Agency (”DEA”) agent and an informant went undercover in order to obtain evidence sufficient to arrest the defendant on charges of cocaine trafficking.
+
+Synopsis of Rule of Law
+An out of court statement made by someone other then the declarant, which is offered to prove the truth of the matter asserted, namely that someone is in fact guilty of criminal charges, is hearsay, and may be so prejudicial as to warrant reversal of a resultant conviction on those charges.
+
+Facts
+An informant and a DEA agent posing as his wife met the defendant in a coffee shop, during which the two testified there was talk of a cocaine transaction.  The two later met the defendant at a service station and followed him to his tire shop.  At that time, two packages of cocaine were presented, and the defendant was arrested on the way to the place where payment was to be made.  At trial, the prosecution elicited testimony, over the defendant’s objection, from the DEA agent, that an investigation had been opened as a result of a tip from another federal agency that defendant was a drug smuggler. The testimony was reiterated and embellished during closing argument. Defendant appealed on the grounds that the testimony was inadmissible.
+
+Issue
+Whether the statements by the agent that another agency had tipped off the DEA that the defendant was drug smuggler constituted reversible error?
+
+Held
+Yes.  The statements were made out of court by someone other then the declarant, and they were offered to prove the truth of the matter asserted. They were not offered to prove state of mind, which was irrelevant, but rather to show that the defendant was, in fact, a drug smuggler. These statements were inadmissible under Federal Rules of Evidence (”F.R.E.”) Rules 802, 403 and 404(b).
+
+Discussion
+The statements made by someone else to the DEA agent were out of court statements offered to prove the truth of the matter asserted.  Even if it were accepted that the statements were offered for some non-hearsay reason, the statements were still overly prejudicial as compared to their probativeness, failing the F.R.E. Rule 403 balancing test. Moreover, evidence of past crimes to show propensity was inadmissible under F.R.E Rule 404(b).  As a result, the statements constituted reversible error and the conviction was overturned.
+

@@ -1,0 +1,21 @@
+Citation
+587 F. Supp. 1358 (C.D. Cal. 1984)
+
+Brief Fact Summary
+Defendants move to dismiss Plaintiff’s counsel due to their work on related proceedings while employed by the Securities and Exchange Commission (SEC).
+
+Synopsis of Rule of Law
+Under Rule 1.11, former government attorneys may not be allowed to accept private employment in cases in which they had “substantial responsibility” while a public employee unless the appropriate agency consents after consultation.
+
+Facts
+In this complex securities action, Defendants, 75 individuals and corporate entities alleged to have committed a range of securities and RICO violations, move to disqualify attorneys Gerald E. Boltz and Charles Hartman due to their participation in related proceedings against several of the current defendants while working as attorneys for the SEC. (The SEC had not been notified of Boltz and Hartman’s work on this case, and declined to grant their consent once it was informed.)
+
+Issue
+Should Rule 1.11 require that Boltz and Hartman be dismissed from this case due to their previous work on behalf of the SEC?
+
+Held
+Yes. Boltz and Hartman are disqualified from further participation in this case in the interests of compliance with Rule 1.11.
+
+Discussion
+Although there is some ambiguity as to whether the Rule fully applies to them here, the court determines that it would be best to avoid the appearance of impropriety. Why is it so important to point out that there was no wrongdoing here and that this ruling is intended only to “effectuate the prophylactic purpose” of the Rule?
+

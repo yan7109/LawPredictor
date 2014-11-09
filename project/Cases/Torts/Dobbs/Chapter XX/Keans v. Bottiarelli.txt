@@ -1,0 +1,18 @@
+Citation
+35 Conn. App. 239, 645 A.2d 1029 (App. Ct. 1994)
+
+Brief Fact Summary
+The Superior Court in the judicial district of Hartford-New Britain at New Britain (Connecticut) awarded damages to the patient in her dental malpractice action but reduced the award after finding that the patient failed to mitigate her damages, denied the dentist’s motion to set aside the judgment, and denied the patient’s motion for a bill of costs. Both Plaintiff patient and Defendant dentist appealed the decision.
+
+Facts
+Plaintiff patient visited Defendant, an oral surgeon, for extraction of a tooth. She told the dentist that she suffered from a rare blood disorder, myelofibrosis, which inhibited production of red blood cells and platelets. The dentist extracted the tooth without first consulting the patient’s hematologist. The patient suffered postoperative complications and contacted the dentist. The patient made no further effort to contact the dentist despite worsening of her condition. The patient then contacted her hematologist, who recommended that she be admitted to the hospital where she was treated and released after three days, suffering no permanent injuries. She brought suit against the dentist.
+
+Issue
+* Did the trial court correctly finds that plaintiff had met her burden with respect to the elements of medical malpractice?<br />* Was the trial court correct in reducing damages because plaintiff failed to mitigate her injuries in accordance with the avoidable consequences rule?
+
+Held
+The trial court’s judgment was affirmed.
+
+Discussion
+The trial court found in favor of the patient but concluded that her failure to follow the dentist’s postoperative instructions led to the hospitalization, and reduced damages to the extent of the patient’s hospitalization expense. This is an example of a court’s applying the avoidable consequences rule.
+

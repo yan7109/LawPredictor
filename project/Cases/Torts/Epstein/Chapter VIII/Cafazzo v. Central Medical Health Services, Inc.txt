@@ -1,0 +1,21 @@
+Citation
+542 Pa. 526, 668 A.2d 521,1995 Pa.
+
+Brief Fact Summary
+Cafazzo (Plaintiff) sued Defendants for products liability for an implanted medical device that failed six years after his surgery.
+
+Synopsis of Rule of Law
+A hospital and surgeon cannot be considered sellers of products, which they install and use in surgery for purposes of strict product liability.
+
+Facts
+Plaintiff underwent surgery for the implantation of a mandibular prothesis. Six years later it was discovered that the device was defective. Plaintiff sued the hospital (Defendant) and the surgeon (Defendant) under strict products liability. Plaintiff alleged that the product was defectively designed and lacked any warning necessary to ensure safety. Judgment for Defendant. Plaintiff appealed.
+
+Issue
+Can a hospital and a physician be held strictly liable under the Restatement of Torts Section: 402 for defects in a product incidental to the provision of medical services?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+The court distinguishes the seller of the defective product from the medical professional. Doctors are not in the business of selling medical devices. Doctors operate on patients. The fact that a medical device was used as part of the operation does not elevate the transaction between Plaintiff and Defendant to that of buyer and seller for purposes of strict products liability.
+

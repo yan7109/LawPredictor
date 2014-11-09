@@ -1,0 +1,21 @@
+Citation
+328 U.S. 849
+
+Brief Fact Summary
+In a wrongful death action, the estate administrator (the “administrator”) sought to prove damages using testimony of one of the decedent’s business partners.  The Court excluded the testimony because the best evidence was the partnership’s accounting books.
+
+Synopsis of Rule of Law
+The best evidence rule applies only to the introduction of a document, not to proving broader elements of a case.
+
+Facts
+A partner in a business died.  The administrator of his estate brought a wrongful death claim.  As part of the claim, the administrator had to prove damages.  The administrator, through counsel, attempted to prove damages by having another partner testify as to the dead partner’s ability to generate revenue for the partnership.  The trial judge ruled such testimony was inadmissible because a partner’s testimony was not the best evidence to prove such damages, the partnership accounting books were.  The appellate court reversed the trial court because the best evidence rule applies only to the introduction of a document, not whether a document is the best evidence to prove an element of a case.
+
+Issue
+Does the best evidence rule require that only the evidence that best proves the element of a case be used?
+
+Held
+No.  The best evidence rule applies only to the introduction of a document.
+
+Discussion
+The best evidence rule requires that the contents of a document must be proved by the introduction of the document itself, unless its absence can be satisfactorily accounted for.  A document is any physical embodiment of information.  In the instant case, the administrator of the decedent’s estate was trying to prove the damages caused to the partnership by the decedent’s death.  The administrator was not trying to admit into evidence the contents of the accounting books.  The trial judge mistakenly used the best evidence rule to exclude testimony that, while it may not have been the best evidence to prove economic damages to the firm, was still admissible evidence because it would make the determination of damages more or less probable.
+

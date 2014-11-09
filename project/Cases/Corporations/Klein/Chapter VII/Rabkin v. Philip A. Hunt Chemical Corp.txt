@@ -1,0 +1,21 @@
+Citation
+498 A.2d 1099 (Del. 1985)
+
+Brief Fact Summary
+Plaintiffs Frieda Rabkin et al., as minority shareholders of Hunt Chemical Corp., wanted to enjoin the cash-out merger between Hunt and majority shareholder Olin Corp. after Olin purposely avoided a one-year commitment to pay $25 per share to the minority shareholders.
+
+Synopsis of Rule of Law
+A party alleging unfair dealing should be allowed an alternative remedy to appraisal if the circumstances would require such a result.
+
+Facts
+Plaintiffs brought this action against Defendants Hunt, Olin and several of their directors, to enjoin a cash-out merger after Olin offered only $20 per share to the minority shareholders.  When Olin initially bought their 63.4% majority stake from Turner and Newall Industries, Inc. for $25 per share, they agreed to a commitment to pay $25 per share if Olin purchased the remaining shares within one year of their initial purchase.  Throughout the year Olin directors referred to an eventual cash-out merger of Hunt as if it were a near-certainty.  After the year lapsed, Olin directors had a banking firm render a fairness opinion on a $20 per share offer.  Four days later, without reviewing the one-year commitment, appraising Hunt’s assets or interviewing Hunt management, the firm declared that the $20 price was fair.  Olin’s finance committee approved the merger, and Hunt’s outside directors hired Merrill Lynch to assess the offer.  Merrill Lynch assessed the value at $19 to $25
+
+Issue
+The issue is whether the facts alleged by Plaintiff would only support a remedy of appraisal.
+
+Held
+The court held that the lower court’s interpretation of precedent was too narrow, and Plaintiffs have pled facts that would allow a remedy outside of an appraisal.  Plaintiffs’ facts demonstrate unfair dealing by Defendants as majority shareholders to Plaintiff minority shareholders, but Plaintiffs’ unique circumstances (they are trying to obtain a contracted-for price rather than the appraised value) merit an alternative remedy.
+
+Discussion
+The court combines contract law with Corporate law as they recognize a fiduciary duty for Defendants to not intentionally avoid a commitment made to minority shareholders under the initial purchase contract.
+

@@ -1,0 +1,24 @@
+Citation
+399 U.S. 30, 90 S. Ct. 1969, 26 L. Ed. 2d 409 (1970)
+
+Brief Fact Summary
+Police arrested appellant Donald Vale on the street outside his home and then went into his home nearby and conducted a search, recovering additional narcotics in the process.
+
+Synopsis of Rule of Law
+A search of a house is only to be upheld as incident to an arrest if the arrest takes place inside the house.
+
+Facts
+Police officers holding a warrant for appellant’s arrest witnessed what they believed was a narcotics deal outside appellant’s house after he went inside and brought something out to give to a known addict.  They arrested the appellant on the front steps and proceeded to enter and search the house, discovering narcotics in a bedroom.  Appellant was convicted of possessing heroin and the Louisiana Supreme Court affirmed his conviction, saying that the search had taken place “in the immediate vicinity of the arrest.”  This court granted certiorari to appellant Vale.
+
+Issue
+Is a search of a home allowed to be considered valid under the Fourth and Fourteenth Amendment as being “incident to an arrest” if the arrest did not take place within the home?
+
+Held
+No.  Reverse the judgment and remand the case.
+
+Dissent
+Justice Hugo Black disagreed on the basis that even if the search was not incident to arrest in a strict sense, the officers had every reason to believe someone in the house was likely to destroy the narcotics if they did not search the house immediately.  It was thus reasonable to conduct an immediate search of the house without obtaining a search warrant.
+
+Discussion
+What one needs to examine in determining the propriety of this result is how practical an alternative it is to obtain a warrant quickly by telephone.  The majority is convinced that there are not exigent circumstances in this case sufficient to uphold a warrantless search, but it is unclear how adequate their evaluation of the potential of quickly obtaining a warrant to search the home is.  It actually seems quite possible in this situation that the evidence could be quickly destroyed.
+

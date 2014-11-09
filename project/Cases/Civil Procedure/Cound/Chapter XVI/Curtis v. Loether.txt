@@ -1,0 +1,21 @@
+Citation
+22 Ill.415 U.S. 189, 94 S. Ct. 1005, 39 L. Ed. 2d 260 (1974)
+
+Brief Fact Summary
+Curtis (Petitioner) brought a civil rights action under Section 812 of the Civil Rights Act of 1968 (Act) claiming that Loether and others who were white (Respondents) refused to rent an apartment to her because of her race. The district court held that a jury trial was not authorized and denied a jury trial. The United States Court of Appeals for the Seventh Circuit reversed on the jury trial issue.
+
+Synopsis of Rule of Law
+The Seventh Amendment entitles either party to demand a jury trial in a civil rights action.
+
+Facts
+Petitioner brought a civil action suit against Respondents for refusing to rent an apartment to Petitioner based on her race. Petitioner contends that Respondents’ action constituted a violation of Section 804(a) of the Act. The complaint sought only injunctive relief and punitive damages. A claim for compensatory damages was later added. Respondents filed a demand for a jury trial, which the district court denied. The court of appeals reversed the decision based on the jury trial issue.
+
+Issue
+Whether the Civil Rights Act of 1968 or the Seventh Amendment requires a jury trial upon demand of one of the parties in an action for damages and injunctive relief?
+
+Held
+Yes. Judgment is affirmed.   The Seventh Amendment entitles either party to demand a jury trial in an action for damages in federal court under the Civil Rights Act of 1968. The right to a jury trial applies to actions enforcing statutory rights. The Act “requires a jury trial upon demand, if the statute creates legal rights and remedies, enforceable in an action for damages in courts of law.”  In the instant case, the damages action under Section 812 is an action to enforce legal rights within the meaning of the right to a jury trial. The damages action is basically an action in tort, which is a recognized action at common law. Further, the traditional relief sought is the traditional form offered in the court of law. When Congress provides for enforcement of statutory rights in an ordinary civil action in the district courts, a jury trial must be available if the action involves rights and remedies of the sort typically enforced by law.  Petitioner’s policy argument is that a jury trial may delay the disposition of damages actions, and that there is the possibility of jury prejudice. The court found these arguments to have merit. However, these considerations are insufficient to overcome the command for a jury trial in the Seventh Amendment. Therefore, the Defendants’ demand for jury trial should be granted.
+
+Discussion
+It is important to note that the Defendants were the proponents of the jury trial, while the Plaintiffs opposed it.   The right to a jury trial extends beyond that which were previously available in common law forms of action. The court held that “[t]he Seventh Amendment applies to actions enforcing statutory rights, and requires a jury trial upon demand, if the statute creates legal rights and remedies, enforceable in an action for damages.”
+

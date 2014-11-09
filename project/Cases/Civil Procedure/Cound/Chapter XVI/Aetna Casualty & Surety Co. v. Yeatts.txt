@@ -1,0 +1,21 @@
+Citation
+22 Ill.122 F.2d 350 (4th Cir. 1941)
+
+Brief Fact Summary
+The Plaintiff, American Casualty & Surety Co. (Plaintiff), appealed from judgment below stating that the trial judge abused his discretion by not granting a judgment notwithstanding the verdict and ordering a new trial.
+
+Synopsis of Rule of Law
+The granting or refusing of a new trial is a matter within the discretion of the trial judge and his decision is not reviewable on appeal except for the most exceptional circumstances.
+
+Facts
+The Plaintiff denied liability to the Defendant, Yeatts (Defendant), on coverage of a policy of indemnity insurance. The Plaintiff stated that the Defendant engaged in criminal activity at the time he incurred the liability for the recovery that was had against him. Such liability was expressly excluded from the policy coverage. The question as to the Defendant’s criminal activity was submitted to the jury. Though there was ample evidence to find for the Plaintiff, the Defendant was examined as a witness and the jury found for the Defendant. The Plaintiff moved for a judgment notwithstanding the verdict and motioned for a new trial, stating that the verdict was contrary to the evidence in the case. The Plaintiff was denied both and it appealed.
+
+Issue
+Whether the trial judge abused his discretion in not granting a judgment notwithstanding the verdict and ordering a new trial.
+
+Held
+While an examination of the record led the court to the conclusion that the trial judge might very properly have granted the motion for a new trial, the court could not say that his denial of the motion amounted to an abuse of discretion on his part or that there are present any of the special circumstances, which would subject his action to review by this court. The judgment appealed from was accordingly affirmed.
+
+Discussion
+The court addressed a distinction in this case. The first part being that the judge may not direct a verdict against a plaintiff where substantial evidence has been shown in plaintiff’s case – no matter whether the judge believes the evidence or thinks the weight of the evidence is on the other side, for this would preclude the constitutional guaranty of trial by jury. To the contrary, the judge may set aside a verdict supported by substantial evidence when in his opinion the verdict is contrary to the clear weight of the evidence or is based upon false evidence.
+

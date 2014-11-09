@@ -1,0 +1,21 @@
+Citation
+22 Ill.428 U.S. 153, 96 S. Ct. 2909, 49 L. Ed. 2d 859 (1976)
+
+Brief Fact Summary
+A jury imposed the death sentence on Gregg (Defendant), after finding him guilty on charges of armed robbery and murder.
+
+Synopsis of Rule of Law
+Capital punishment does not violate the Eighth or Fourteenth amendments of the United States Constitution provided it is set forth in a carefully drafted statute that ensures the sentencing authority has adequate information and guidance in reaching its decision.
+
+Facts
+The Supreme Court of Georgia subsequently set aside Defendant’s death sentences on the armed robbery counts, on the basis, that defendants are rarely subject to capital punishment for that crime. The Court upheld defendant’s death sentences with respect to the murder convictions. In the wake of the Supreme Court’s decision in the Furman case, which held a death penalty statute to be unconstitutional, because it resulted in death being imposed in an “arbitrary and capricious” manner, the Georgia legislature revised its death penalty statute so that death could only be imposed when the jury had found the presence of specific aggravating factors. This effectively narrowed the class of murderers subject to capital punishment. The new statute created ten aggravating circumstances, from which the jury would have to find the presence of at least one, in order to impose the death penalty.
+
+Held
+No. Judgment affirmed.
+
+Dissent
+The penological justifications for the death penalty set forth by the majority, deterrence and retribution, are invalid. First, there is insufficient evidence to demonstrate that capital punishment is an effective deterrent to crime. Second, it is unbelievable to suggest that the imposition of life imprisonment over the death penalty would result in citizens taking the law into their own hands to carry out a death sentence. Furthermore, the Georgia death penalty statute does not provide adequate information to jurors because if the citizenry were better informed about the morality of capital punishment they would never actually impose it.
+
+Discussion
+This case expanded upon the Court’s Furman decision, which had invalidated death penalty statutes all across the country. Here, the majority established that the death penalty was not per se unconstitutional; rather, states could draft statutory provisions, as Georgia had done, to guide a jury’s decision on the imposition of the death penalty. These provisions, such as a list of aggravating factors to a make a crime death-eligible, satisfied the Court that a jury’s decision to impose death in one case but not another was not entirely arbitrary.
+

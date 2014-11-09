@@ -1,0 +1,21 @@
+Citation
+22 Ill.167 N.J. 450, 771 A.2d 1208 (2001)
+
+Brief Fact Summary
+A settlement agreement was obtained between Plaintiff and Defendant, an insurance company, for a tort claim against Defendant’s client. The agreement contains a non-assignment clause. Plaintiff sought a declaratory judgment to declare the clause is unenforceable.
+
+Synopsis of Rule of Law
+A non-assignment clause in a contract is unenforceable unless it materially changes the contract or gives the non-assigning party duties or aspect of compensation the non-assigning party did not bargain for.
+
+Facts
+Defendant is an insurance company that signed a settlement agreement with the Plaintiff. The agreement included several periodic payments. The agreement also contained a clause forbidding Plaintiff from assigning the contract. Due to an unrelated illness, Plaintiff assigned the payments to a mortgage company in exchange for a lump sum payment. Defendant refused to pay the periodic payments to the mortgage company.
+
+Issue
+Is the non-assignment clause in the structured settlement agreement enforceable?
+
+Held
+No.
+
+Discussion
+Generally, as the case provides, a contract is assignable if and only if it does not materially change the contract or put the non-assigning party in a position they did not bargain for.
+

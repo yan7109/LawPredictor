@@ -1,0 +1,21 @@
+Citation
+912 F.2d 1125, 1990 U.S. App. 15227,12 U.C.C. Rep. Serv. 2d (Callaghan) 557; Bankr. L. Rep. (CCH) P73,608
+
+Brief Fact Summary
+The National Bank of Alaska, (Appellant), appeals a decision of the Bankruptcy Appellate Panel granting summary judgment to Erickson, trustee in the bankruptcy of Seaway Express Corp., (Seaway). Appellant claims a priority interest in property owned by Seaway.
+
+Synopsis of Rule of Law
+To perfect an interest in real property under Washington law, a party must record a deed signed by the grantor. An unrecorded interest in property is not binding on a subsequent purchaser in good faith.
+
+Facts
+Appellant provided a line of credit to Seaway Express Corp. in exchange for a security interest in all of its inventory and accounts receivable including any proceeds from the sale of either. Seaway promised not to dispose of any of its secured assets without Appellant’s permission. Anchorage Fairbanks Freight Service, Inc., (AFFS), owed Seaway in excess of $1 million. Appellant has a perfected security interest in this account. Seaway sold the AFFS account back to AFFS in exchange for a parcel of land, (the Auburn property), without authorization from Appellant. After the transfer was completed, Appellant sought to perfect its interest in the property by requesting Seaway record a deed of trust on the property in its favor. Seaway refused. Seaway then declared bankruptcy and Erickson was appointed the bankruptcy trustee. NBC claims it has a priority interest in the proceeds of the sale of the Auburn property as proceeds form the sale of the AFFS account.
+
+Issue
+Whether Appellant’s perfected security interest in the AFFS account extended to the Auburn Property.
+
+Held
+No. Appellant’s perfected security interest in the AFFS account did not extend to the Auburn Property because the terms of the U.C.C. do not extend to real property.
+
+Discussion
+The U.C.C. by its terms does not extend to real property. To perfect an interest in real property, a party must record a deed signed by the grantor. Appellant did not record a deed signed by the grantor. Therefore its interest in the property was unperfecte
+

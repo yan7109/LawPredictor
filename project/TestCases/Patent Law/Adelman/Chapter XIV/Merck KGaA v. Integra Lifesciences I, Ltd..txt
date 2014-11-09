@@ -1,0 +1,21 @@
+Citation
+545 U.S. 193 (2005)
+
+Brief Fact Summary
+Merck (Defendant) used compounds covered by Integra's (Plaintiff) patents in experiments and research and did not provide the results to the FDA.  Plaintiff claimed infringement and Defendant defended with § 271(e)(1).
+
+Synopsis of Rule of Law
+35 U.S.C. § 271(e)(1) exempts uses of patented inventions in preclinical research from infringement even when the research results are not eventually included in a submission to the FDA.
+
+Facts
+Integra Lifesciences I, Ltd. (Plaintiff) owns five patents related to RGD peptide.  Merck KGaA (Defendant) began research into angiogenesis and eventually included RGD peptides in the research.  The main researcher used RGD peptides in experiments and developed cyclic RGD peptides.  Plaintiff brought suit against Defendant for willful infringement and inducement to infringe.  Defendant argued with a research exemption and § 271(e)(1).  Plaintiff was awarded damages by a jury and the appellate court upheld the ruling that Plaintiff's patents covered the cyclic peptides and § 271(e)(1) did not apply.  Certiorari review was granted by the Supreme Court to review the court of appeal's construction of § 271(e)(1).
+
+Issue
+Does 35 U.S.C. § 271(e)(1) exempt use of patented inventions in preclinical research from infringement even when the research results are not eventually included in a submission to the FDA?
+
+Held
+(Scalia, J.)  Yes.  35 U.S.C. § 271(e)(1) exempts uses of patented inventions in preclinical research from infringement even when the research results are not eventually included in a submission to the FDA.  Section 271(e)(1) permits patented inventions to be used when the information is to be developed and submitted according to a federal law.  The statute is broad and does not consider only certain information or certain submissions.  The parties admit its broad span, but Plaintiff argues the FDA is not interested in preclinical information except for safety and any research regarding other information is outside exemption's scope.  However, neither the FDA nor this court will limit its inquiry.  The appellate court concluded § 271(e)(1) did not apply here because Defendant was not using the patented RGD peptides to gather information for submission to the FDA but to establish which drug was the best candidate for clinical testing in the future.  The court also concluded not all experimental activity that might lead to a future FDA submission qualifies for the exemption.  This Court agrees with the latter statement but not the first.  Scientific experiments involve trial and error and not every experiment will result in a submission to the FDA.  Congress exempted all uses "reasonably related" to the process of information development.  Therefore, experiments are protected as long as there is a reasonable basis for believing they will lead to information that is submissible and relevant.  Vacated and remanded.
+
+Discussion
+The Federal Circuit attempted to narrow the safe harbor exemption for research activities, but the Supreme Court confirmed the statute's broad scope.  The Court did not distinguish between preclinical and clinical trials.  It now increases the probability that defendants will argue that every potentially infringing action was done in anticipation of future submission to the FDA regardless of the actual submission.
+

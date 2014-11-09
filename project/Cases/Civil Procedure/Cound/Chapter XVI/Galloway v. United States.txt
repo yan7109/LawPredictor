@@ -1,0 +1,21 @@
+Citation
+22 Ill.319 U.S. 372, 63 S. Ct. 1077, 87 L. Ed. 1458 (1943)
+
+Brief Fact Summary
+Galloway (Petitioner) brought suit in order to prove that he was eligible for insurance benefits as a result of total and permanent disability by reason of insanity. Petitioner contends that the total and permanent disability occurred before his policy lapsed for non-payment of premiums. In order to receive premiums under the policy, Petitioner was required to prove that his disability began prior to May 31, 1919, and lasted through the time of trial. Although the Petitioner produced both witnesses and evidence that he was insane during portions of the required period, he was not able to produce any evidence that he was disabled for the entire period as required.
+
+Synopsis of Rule of Law
+The power of a judge to grant a directed verdict does not violate the Seventh Amendment right to trial by jury.
+
+Facts
+In order to receive premiums under the policy, Petitioner was required to prove that his disability began prior to May 31, 1919, and lasted through the time of trial. Although the Petitioner produced both witnesses and evidence that he was insane during portions of the required period, he was not able to produce any evidence that he was disabled for the entire period as required. In fact, the Petitioner introduced no evidence whatsoever, as to his disability from the year 1925 to1930, and provided little more than speculation as to his disability from the year 1922 to 1925. The district court directed a verdict for the United States Government (Respondent). The United States Court of Appeals for the Ninth Circuit affirmed. Both courts decided that the evidence presented at trial was legally insufficient to sustain a verdict for Petitioner. Petitioner appealed.
+
+Issue
+At issue in this case is whether the judicial use of a directed verdict offends the Seventh Amendment right to trial by jury.
+
+Held
+The Seventh Amendment preserves only the most fundamental elements of the system of trial by jury. Courts do have the power to direct a verdict for insufficiency of the evidence. The Supreme Court of the United States found that Petitioner failed to account for his whereabouts, condition, or activities for several years during the time period in question. The statute requires that Petitioner’s incapacity be “total and permanent.” The Court held that Petitioner did not produce sufficient evidence for the case to go to the jury. Therefore, it affirmed the judgment of the court of appeals.  <br/><br/><span class='heading'>Dissent.</span> The practice of issuing a direct verdict should be limited in scope. A verdict should be directed only when, without weighing the credibility of the witnesses, there can be no difference of opinion regarding the factual issue in question.
+
+Discussion
+Juries should not be allowed to draw inferences from facts that are not introduced into evidence, especially when these inferences would be favorable to the party who has failed to introduce the evidence.
+

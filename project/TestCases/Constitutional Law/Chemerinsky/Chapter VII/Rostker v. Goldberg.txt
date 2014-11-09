@@ -1,0 +1,24 @@
+Citation
+453 U.S. 57, 101 S. Ct. 2646, 69 L. Ed. 2d 478, 1981 U.S.
+
+Brief Fact Summary
+Plaintiff’s brought suit, alleging the Military Selective Service Act (MSSA) violates the Equal Protection Clause of the Fifth Amendment of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+The federal government may classify on the basis of race, but only when there is an important government interest and the means are substantially related to the interest.
+
+Facts
+The MSSA requires all males between the ages 18 to 26 to register with the Selective Service. The purpose of the MSSA is to allow the armed services to select men in the event that a military draft is necessary. Women are not required to register with the Selective Service.
+
+Issue
+May the federal government require only males to register with the Selective Service?
+
+Held
+Yes.
+
+Dissent
+Justice Byron White (J. White) dissents, arguing that there are jobs that can be performed by persons ineligible for combat duty. As such, there is no reason that Congress cannot recruit women for these positions.
+
+Discussion
+Again, J. Rehnquist does not use the intermediate scrutiny terminology, although it may clearly be applied to the case at bar. There is an important government interest (providing for a draft) and a substantially related means to achieve the interest (requiring only men to register, where only men are eligible for combat as a group).
+

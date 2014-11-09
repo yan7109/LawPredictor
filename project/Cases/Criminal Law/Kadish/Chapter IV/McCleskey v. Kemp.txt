@@ -1,0 +1,24 @@
+Citation
+22 Ill.481 U.S. 279, 107 S. Ct. 1756, 95 L. Ed. 2d 262 (1987)
+
+Brief Fact Summary
+McCleskey (Defendant) was sentenced to death for his role in an armed robbery, which resulted in the murder of a police officer. He challenged his sentence on the ground that it was imposed because he was black. Defendant provided statistical evidence that blacks disproportionately received death sentences when the murder victim was white.
+
+Synopsis of Rule of Law
+Statistical evidence showing that one racial group receives a disproportionate amount of death sentences, as opposed to other groups, is not sufficient to challenge a state death penalty statute under the Equal Protection Clause of the Fourteenth Amendment. A defendant must prove the presence of racial discrimination in his own case. Discretion allows a jury to be influenced by racial prejudice, but it does not violate the Eighth Amendment since juror discretion frequently works to the defendant’s benefit.
+
+Facts
+Defendant, who was sentenced to death for the murder of a police officer, challenged the constitutionality of his sentence, citing a study performed by Professor David C. Baldus (Baldus Study). This study purported to show that black defendants were more likely to receive capital punishment than white defendants, particularly when the victim was white. Defendant alleged that this proved his sentence was the result of unconstitutional racial discrimination under the Fourteenth Amendment. He further claimed that the Georgia death penalty statute violated the Eighth Amendment by giving the jury too much discretion in deciding upon a death sentence, such that racial bias could influence their decision.
+
+Issue
+Did the Georgia death penalty statute racially discriminate against Defendant in violation of the Equal Protection Clause of the Fourteenth Amendment?
+
+Held
+No. The Baldus Study provided by defendant does not demonstrate that racial discrimination was a factor in defendant, himself, receiving the death penalty. The study does not support an inference that the jury, in his own case, acted with purposeful racial discrimination – a threshold showing for proof of an Equal Protection violation.
+
+Dissent
+(Justice Brennan.) Defendant need only demonstrate that there was a risk that his sentence was imposed as a result of racial prejudice. The Baldus Study adequately demonstrates that risk by showing that more likely than not a black defendant will receive a death sentence as compared to a white defendant.
+
+Discussion
+The majority holds that a defendant challenging his sentence on the grounds of discrimination must demonstrate actual discrimination in his own case; statistical comparisons of sentencing among different racial groups is not sufficient to show an Equal Protection violation. Neither is the mere fact that racial discrimination may potentially inform a juror’s decision as to defendant’s sentence enough to make the entire concept of discretion in the criminal justice system “cruel and unusual” punishment under the Eighth Amendm
+

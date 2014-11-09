@@ -1,0 +1,24 @@
+Citation
+407 U.S. 143, 92 S. Ct. 1921, 32 L. Ed. 2d 612 (1972)
+
+Brief Fact Summary
+Robert Williams (the “Respondent”) was convicted in Connecticut state court for illegal possession of a handgun found during a “stop and frisk” and heroin found during a search incident to this weapons arrest.
+
+Synopsis of Rule of Law
+Reasonable cause for a stop and frisk can be based on more than the officer’s personal observation, but also on information supplied by another person.
+
+Facts
+A police officer received a tip from an informant that the Respondent who was sitting in a vehicle early in the morning had drugs in his possession.  The police officer investigated the informant’s report by first tapping the car window and asking the Respondent to get out of the car.  The Respondent rolled down the window and when he did so, the police officer reached in and removed a fully loaded gun from the Respondent’s waist.  The gun was not visible from outside the car, but exactly where the informant said it was.  A search incident to the arrest was conducted shortly thereafter, and heroin, a second handgun and a machete were found on the Respondent’s person and in the vehicle.
+
+Issue
+Whether a stop and frisk has to be based on the officer’s personal observation or if it can be based on information supplied by another person?
+
+Held
+The stop and frisk can be based on information from other people.  Once the arresting officer “had found the gun precisely where the informant had predicted, probable cause existed to arrest Williams for unlawful possession of the weapon.” Further, “[u]nder the circumstances surrounding Williams’ possession of the gun seized by [the officer], the arrest on the weapons charge was supported by probable cause, and the search of his person and of the car incident to that arrest was lawful.”
+
+Dissent
+Justice William Brennan (”J. Brennan”) drafted a dissenting opinion relying on Justice Friendly’s opinion in the lower court, and argued that the arresting officer did not show sufficient cause to justify his “forcible stop.”
+
+Discussion
+This is an interesting decision, showing how the Supreme Court thinks in certain situations a bright line rule will not cover every situation.
+

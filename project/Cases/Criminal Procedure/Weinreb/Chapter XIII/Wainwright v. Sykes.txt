@@ -1,0 +1,18 @@
+Citation
+433 U.S. 72, 97 S. Ct. 2497, 53 L. Ed. 2d 594, 1977 U.S.
+
+Brief Fact Summary
+Sykes was convicted of murder for shooting and killing Willie Gilbert (”Mr. Gilbert”) in Florida.  He made incriminating statements to police, which were admitted during his trial.  Sykes did not object to the admission of the statements.
+
+Synopsis of Rule of Law
+28 U.S.C. Section:2254(a) provides that the federal courts shall entertain an application for a writ of habeas corpus “in behalf of a person in custody pursuant to the judgment of a state court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States.”
+
+Facts
+Sykes was convicted of third-degree murder after a jury trial in the Circuit Court of DeSoto County, Florida.  On the evening of January 8, 1972, Sykes told his wife to call police because he had just shot Mr. Gilbert.  When police arrived at Sykes’ trailer home, police found Mr. Gilbert dead of a shotgun wound.  Shortly after their arrival, Sykes approached police and volunteered that he had shot Mr. Gilbert.  Sykes’ wife confirmed his story.  Sykes was arrested and taken to the police station.  Once there, he was read his Miranda rights and declined to have an attorney.  He then admitted to shooting Mr. Gilbert from the front porch of his trailer home.  This evidence was admitted at trial through the testimony of the two officers who heard it.At no time during the trial was the admissibility of any of Sykes’ statements challenged by his counsel on the ground that Sykes had not understood the Miranda warnings.  The trial judge did not question their admissibility on his own motion or hold a fact-finding hearing on the issue.  Sykes appealed his conviction but did not challenge the admissibility of the inculpatory statements.   He later filed in the trial court a motion to vacate the conviction and a petition for habeas corpus in the State District Court of Appeals and Supreme Court, which for the first time challenged the statements made to the police on grounds of involuntariness.<span class='heading'>Issue.</span>  Can Sykes’ petition be brought under 28 U.S.C. Section:2254(a), which provides that the federal courts shall entertain an application for a writ of habeas corpus “on behalf of a person in custody pursuant to the judgment of a state court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States”?
+
+Held
+Sykes’ failure to make a timely objection under the Florida contemporaneous-objection rule to the admission of his inculpatory statements, absent a showing of cause for the noncompliance and some showing of actual prejudice, bars federal habeas corpus review of his Miranda claim. Justice John Paul Stevens (”J. Stevens”) concurred noting that the police fully complied with Miranda, and there is no basis for claiming the trial violated any standard of fundamental fairness, thus collateral attack should not be allowed.
+
+Discussion
+The Court noted that the Florida law is clear that motions to suppress evidence be raised before trial.  Further, the Supreme Court asserted that a state contemporaneous-objection rule should be given respect in order to contribute toward the finality of criminal litigation.
+

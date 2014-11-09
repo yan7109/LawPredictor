@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 1112 175 L. Ed. 2d 924 2010 U.S.
+
+Brief Fact Summary
+Defendant, Kenneth Estes, was charged with robbing the armored truck company he worked for of $55,000 and for perjury for lying to a grand jury during the investigation.  He was convicted of perjury based largely on the testimony by his ex-wife.
+
+Synopsis of Rule of Law
+Confidential communications regarding on-going criminal activity  are not protected by the spousal privilege.
+
+Facts
+Kenneth Estes, Defendant, was charged with bank robbery after stealing $55,000 from an armored car.  He was also charged with perjury for lying to a grand jury investing the robbery.  Defendant was driver for the armored car company which he stole from.  After the robbery, he came home and confessed to his wife, Lydia, and they hid a portion of the money and spent some on various items.  Lydia and Defendant were divorced  before trial.  Lydia was granted immunity from the FBI and testified against the Defendant and participated in taping her conversations with him.  Defendant was convicted of perjury.  Defendant sought to have all of Lydia’s testimony excluded because the communications with his wife were confidential.
+
+Issue
+Was the testimony by Defendant’s wife improperly allowed in violation of the spousal privilege regarding confidential communications?
+
+Held
+Justice Van Graafeland issuing the opinion for the United States Second Court of Appeals, reversed the conviction and held that Defendant’s wife’s testimony regarding the initial disclosure by Defendant of the theft should not have been admitted but admitting her testimony dealing the handling and disposition of the stolen property was admissible.
+
+Discussion
+The testimony by Defendant’s wife regarding Defendant bringing home a bag of money and confessing the crime should not have been admitted because it was not part of an on-going criminal activity involving her.  Every piece of testimony disclosed after those initial facts is not protected.
+

@@ -1,0 +1,24 @@
+Citation
+397 U.S. 436, 90 S. Ct. 1189, 25 L. Ed. 2d 469 (1970)
+
+Brief Fact Summary
+Ashe was one of four men arrested for robbing six men who were playing poker in the basement of the home of John Gladson in January of 1960.  He was acquitted of the charges for one of the robberies and was brought to stand trial for a second.  This case is dispositive of the second trial.
+
+Synopsis of Rule of Law
+A defendant cannot be made to stand trial, more than once, for a crime.
+
+Facts
+Early in the morning of January 10, 1960, six men were engaged in a poker game in the basement of the home of John Gladson.  Suddenly, 3-4 men broke into the basement and robbed each of the players; thereafter, they fled in one of the victim’s cars.  Later that morning, three men were found near the stolen car, which had been abandoned, and they were arrested.  Ashe was found some distance away from the others.  In May of that year, Ashe stood trial for one of the robberies and was found not guilty due to insufficient evidence.  Six weeks thereafter, prosecution sought to bring him to trial on another victim’s robbery and he filed a Motion to Dismiss based on the previous acquittal.
+
+Issue
+Whether a defendant, once acquitted of a crime, can be tried for another crime arising out of the same course of events.
+
+Held
+A second prosecution for a crime arising out of the same course of events is impermissible.  Reversed and Remanded.
+
+Dissent
+Justice Burger dissented, noting that the complainant in the second trial was different than in the first, and therefore the parties are not the same as required by Double Jeopardy.
+
+Discussion
+Double Jeopardy bars subsequent prosecution of any crime for which a defendant has already been tried or which arises out of the same course of events.  Additionally, it should be noted that the prosecution’s case in the first cause of action was weak, at best.  Once he realized the faults in his prosecution, he was able to build a better case and thus had an unfair advantage over the defendant.  That is why Double Jeopardy was created, to protect a defendant from an unfair advantage.
+

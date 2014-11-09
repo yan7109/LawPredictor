@@ -1,0 +1,21 @@
+Citation
+179 F.3d 1228 (9th Cir. 1999)
+
+Brief Fact Summary
+The defendants, Denyse and Michael Anderson, were the trustees of a trust in the Cook Islands.  The United States District Court issued a temporary restraining order to have the funds transferred to the United States for the purpose of a trial where the defendants were charged with fraud.
+
+Synopsis of Rule of Law
+A party petitioning for an adjudication that another party is in civil contempt does not have the burden of showing that eh other party has the capacity to comply with the court’s order, but the party asserting the impossibility defense must show categorically and in detail why he is unable to comply.  There is a high burden on the defendant to prove impossibility as a defense to a contempt charge
+
+Facts
+The defendants defrauded several investors out of their money in a telemarketing scheme.  The Federal Trade Commission field a charge against the defendants and an ex parte temporary restraining order was issued against them.   The order required the defendants to transfer to the United States any assets under their control directly or indirectly.  The defendants claimed they were unable to access their funds that were overseas in Cook Islands trust.  In response to the injunction, the defendants faxed a letter to AsiaCiti instructing them to repatriate the assets to the United States to be held under the control of the district court.  AsiaCiti thereby notified the defendants that the temporary restraining order was a term of duress and removed the defendants as co-trustees.  AsiaCiti refused to provide an accounting or repatriation of the assets.  The defendants had been able to access one million dollars from the trust in order to pay their taxes.  The offshore trust allowe
+
+Issue
+Whether a party demonstrates categorically and in detail that he us unable to comply with the repatriation section of a preliminary injunction to transfer to the United States all assets under their control directly and indirectly because the assets are in trust under a trustee that refuses to relinquish the proceeds?
+
+Held
+No.  The defendants were protectors of the trust and could have forced the trustees to turn over the proceeds.  Furthermore, the defendants showed they were aware of their ability to force the trustees to transfer the money.  After they stated that they could not comply with the order, the Commission revealed that the defendants were the protectors of the trust.  Thereafter, the defendants attempted to resign as protectors of the trust.
+
+Discussion
+United States courts will penalize trustees of trusts in foreign lands if the trustees are domiciled or residents of the United States and do not comply with orders in regards to the over seas funds.
+

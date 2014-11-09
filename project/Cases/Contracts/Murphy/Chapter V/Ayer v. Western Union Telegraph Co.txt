@@ -1,0 +1,21 @@
+Citation
+79 Me. 493, 10 A. 495 (1887)
+
+Brief Fact Summary
+Plaintiff brought suit against Western Union, seeking recovery of lost profit, based on Defendant’s mistake in transmitting its offer to another party.
+
+Synopsis of Rule of Law
+This case stands for the proposition that a party can be held liable when, in the course of its dealings with another, it makes a mistake that causes harm to the other.
+
+Facts
+The Plaintiff, Ayer (Plaintiff), delivered a message to the Defendant, Western Union Telegraph Co. (Defendant), which was to be transmitted to a third party. Plaintiff had entered into a contract with the third party for the sale of goods at $2.10, but Defendant transmitted the offer at $2.00. When the third party accepted the offer, he accepted and enforced it at $2.00. Plaintiff brought suit against Defendant for the difference in profit, based on the mistake made by Defendant.
+
+Issue
+This case questions the extent of liability of a Defendant, not in privity to a contract, when his fault causes mistake between the parties and a loss to one party.
+
+Held
+Judgment for Plaintiff.
+
+Discussion
+Because Defendant, in the course of its dealings with Plaintiff, failed to perform as expected (i.e. transmit the correct message), Plaintiff was injured and it holds equitable that Defendant should pay for such mistake.
+

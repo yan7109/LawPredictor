@@ -1,0 +1,21 @@
+Citation
+316 U.S. 455, 62 S. Ct. 1252, 86 L. Ed. 1595 (1942)
+
+Brief Fact Summary
+The petitioner, Betts (the “petitioner”), was indicted for robbery in circuit court in Maryland.  He was indigent and unable to retain an attorney.  When he requested the Court appoint him an attorney, the Court informed the petitioner that it was not the practice of the Court to appoint counsel for indigent defendants, except in prosecutions for murder and rape.
+
+Synopsis of Rule of Law
+The Fourteenth Amendment of the United States Constitution (”Constitution”) does not embody an inexorable command that any indigent defendant in state court is entitled to a court appointed/state compensated counsel.
+
+Facts
+The petitioner was indicted for robbery in circuit court in Maryland.  The petitioner did not have sufficient funds with which to retain an attorney.  He informed the Judge of this fact at his arraignment and requested the Court appoint him counsel.  The Judge informed the petitioner that it was not the practice of the Court to appoint counsel for indigent defendants, except in prosecutions for murder and rape. Without waiving his right to be represented by counsel, the petitioner pleaded not guilty and elected to be tried without a jury.  The petitioner cross examined prosecution witnesses, caused witnesses to be called on his behalf, asserted the defense of alibi, and elected to not take the stand himself. The Judge found the petitioner guilty and imposed a sentence of eight years.
+
+Issue
+Whether the judgment issued by Judge Bond was rendered by the highest court in which a decision could be made on a federal question? Whether Betts had exhausted all state remedies in state court? Whether the Fourteenth Amendment of the Constitution demands that in every criminal case, whatever the circumstances, a State must furnish counsel to an indigent defendant?
+
+Held
+Judge Bond was empowered to act to issue a writ. Judge Bond’s order was a final disposition by the highest court of Maryland in which judgment could be had on the issues contained in the petitioners’ petition. The Fourteenth Amendment of the Constitution prohibits the conviction and incarceration of one whose trial is offensive to the common and fundamental ideas of fairness and right, and while want of counsel in a particular case may result in a conviction lacking in such fundamental fairness, we cannot say that the Amendment embodies an inexorable commandment that no trial for any offense, or in any court, can be fairly conducted and justice accorded a defendant who is not represented by counsel.<span class='heading'>Dissent.</span>  Justice Hugo Black (”J. Black”), writing for the dissent, stated that the instant case could be determined by a resolution of a narrower question: whether in view of the nature of the offense and the circumstances of his trial and conviction, was the petitioner denied the procedural protection to which he was entitled under the Constitution. J. Black reasoned that the Fourteenth Amendment of the Constitution made the Sixth Amendment of the Constitution applicable to the States and further stated “a practice cannot be reconciled which subjects men to increased dangers of conviction merely because of their poverty.  Whether a man is innocent cannot be determined from a trial in which, as here, denial of counsel had made it impossible to conclude, with any satisfactory certainty, that the defendant’s case was adequately presented.”<br />
+
+Discussion
+The Sixth Amendment of the Constitution guarantees, inter alia, a right to counsel in federal trials.  However, the Fourteenth Amendment of the Constitution does not incorporate the specific guarantees found in the Sixth Amendment of the Constitution.  The Supreme Court of the United States (”Supreme Court”) reasoned that the Fourteenth Amendment’s language is less rigid, more fluid and thus its application is less a matter of rule.  Asserted denial of the Fourteenth Amendment is to be tested by an appraisal of the totality of facts in a given case to avoid a rigid application of law.
+

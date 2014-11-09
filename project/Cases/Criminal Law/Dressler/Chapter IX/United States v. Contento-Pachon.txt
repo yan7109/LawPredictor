@@ -1,0 +1,21 @@
+Citation
+723 F.2d 691, 1984 U.S. App. 26518,75 A.L.R. Fed. 711.
+
+Brief Fact Summary
+The Defendant, Juan Manual Contento-Pachon (Defendant), was arrested for transporting cocaine by carrying it in balloons that he swallowed. The Defendant had been induced to smuggle cocaine by threats against himself and his family.
+
+Synopsis of Rule of Law
+Duress and necessity are available defenses to criminal liability.
+
+Facts
+The Defendant, a native of Colombia, was employed as a taxicab driver in Columbia. One of his passengers, Jorge, offered him a job as the driver of a privately-owned car. The Defendant went to meet the owner of the car the next day. When he went to see him, though, Jorge asked the Defendant to swallow cocaine-filled balloons and transport them to the United States. The Defendant said he would think about it, but approximately one week later, the Defendant stated that he would not do it. At this point, Jorge threatened that he would kill the Defendant’s wife and child if he did not smuggle the cocaine. When he arrived in the United States, the Defendant consented to have his stomach x-rayed, and custom agents found the cocaine.
+
+Issue
+Has the Defendant set forth sufficient evidence to prove the duress defense? Has the Defendant set forth sufficient evidence to prove the necessity defense?
+
+Held
+Yes. Duress requires: (1) an immediate threat of death or serious bodily injury; (2) a well-grounded fear that the threat will be carried out and (3) no reasonable opportunity to escape the threatened harm. Here, Jorge’s threats against the Defendant constitute sufficient evidence of such elements to send to a jury. No. Necessity is an available defense when a person commits a crime that is the lesser of two evils. In order to invoke the defense of necessity, the coercion must be from physical forces of nature, not human forces. Here, the defendant’s free will was overcome by an outside force, i.e. Jorge, rather than exercised to achieve the greater good. Hence, while duress is an available defense, necessity is not.<span class='heading'>Dissent.</span>  The Defendant did not prove the elements of duress. The harm threatened was not immediate and the Defendant failed to seek help from the police or flee.<br /><br /><span class='heading'>Concurrence.</span>  The necessity defense was properly excluded.<br />
+
+Discussion
+Duress can be thought of as committing a crime to save one’s life. For example, one is not guilty of theft if he commits it while being held at gunpoint. Necessity, however, should only be considered as a defense where the crime constitutes the greater good. For example, one is not guilty of criminal trespass if he drives his vehicle into someone’s front yard to avoid hitting a child in the street.
+

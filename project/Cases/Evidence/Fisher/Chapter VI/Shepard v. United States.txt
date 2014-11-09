@@ -1,0 +1,21 @@
+Citation
+129 S. Ct. 750
+
+Brief Fact Summary
+The defendant was convicted of poisoning his wife, allegedly because he was in love with another woman and wanted to marry her.  At trial, the prosecution attempted to admit evidence of a conversation that the dying woman had with her nurse, in which she had implicated the defendant.
+
+Synopsis of Rule of Law
+In order for a statement to be admitted as a dying declaration, there must be sufficient proof that the statement was made in the shadow of impending death and that the declarant had no hope of recovery whatsoever.  Moreover, a statement that looks backward in time may not be admitted as evidence going to the state of mind of the unavailable declarant. State of mind evidence may only look forward into the future with statements of feeling or intent.
+
+Facts
+Defendant was convicted of the poisoning murder of his wife.  The prosecution alleged that he was in love with another woman and wanted to marry her, poisoning his wife to secure his freedom.  While on her deathbed, the deceased had a conversation with her nurse.  She asked the nurse to obtain a bottle of whiskey from defendant’s closet, explaining that it was the bottle she had drunk from directly before taking ill, and asking the nurse to perform a test on it for poison.  She went on to say that the defendant had poisoned her.  The defense objected to the admission of these statements into evidence.
+
+Issue
+Whether the statements of the dying woman were admissible under the dying declaration exception to the hearsay rule?
+
+Held
+No.  There was no evidence that the statements were made under the shadow of impending death, or that the patient had lost all hope of recovery.  Indeed, in statements that she made later to her doctor, she implored him to make her well.
+
+Discussion
+This opinion limits the Hillmon doctrine to state of mind evidence that looks forward.  A statement that looks backward is a statement of opinion based in memory and does not contain the required indicia of reliability that would be required of an exception to the hearsay doctrine.
+

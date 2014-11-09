@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 2417
+
+Brief Fact Summary
+Thomas W. Blackmon (Appellant) was convicted, after a trial, of criminal mischief in the third degree.  During Appellant’s trial, the court allowed into evidence some statements made by Appellant to his lawyer that were overheard by a judicial services officer and Alaska State Trooper.  Appellant appeals his conviction, claiming that the admission of the portions of the conversation that were overheard was error.
+
+Synopsis of Rule of Law
+Communications that fall under the attorney-client privilege and that are intended to be private but that are nonetheless overheard or intercepted despite reasonable precautions, remain privileged and are inadmissible at trial.
+
+Facts
+At Appellant’s trial and during a recess, an Alaska State Trooper and judicial services officer overheard “about eight or nine words” that were spoken by Appellant to his counsel.  The words were incriminating to Appellant.
+
+Issue
+Did the lower court error in allowing the testimony of the Alaska State Trooper, concerning what he had overheard between Appellant and Appellant’s attorney, to be introduced into evidence?
+
+Held
+Yes; the conversation was a confidential one to which the attorney-client privilege applies, as the conversation was meant to be secret and because reasonable precautions were taken to ensure that the conversation was not overheard; therefore, the admission of the Alaska State Trooper’s testimony regarding what he had overheard was error.
+
+Discussion
+The court reasoned that:
+

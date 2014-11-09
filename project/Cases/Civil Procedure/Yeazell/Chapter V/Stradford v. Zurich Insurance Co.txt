@@ -1,0 +1,21 @@
+Citation
+2002 WL 31027517 (SDNY 2002).
+
+Brief Fact Summary
+Plaintiff Dr. Stradford brought an action against his property insurer seeking payment under policy for water damage to his dentist’s office, to which the insurance company responded by filing several counterclaims against the insured.
+
+Synopsis of Rule of Law
+Counterclaims that do not satisfy the first sentence of Rule 9(b), requiring that the “time, place, and nature of the alleged misrepresentations” be disclosed to the party accused of fraud, will be dismissed.
+
+Facts
+Plaintiff had previously notified Defendant Zurich Insurance co. that on January 17, 2000, he returned to his office from his vacation and found water dripping from frozen pipes and extensive water damage to his personal property and the interior of his office.” He further notified Defendant that certain dental implants, worth more than $100,000, which had been stored in his office had become wet and ruined. After receiving these payments, Plaintiff “submitted a revised claim under the Policy totaling $1,385,456.70, consisting of $168,000.00 for property damage, and a business interruption claim of $1,209,456.70. Following an investigation of Plaintiff’s claim, Defendant, by letter dated January 31, 2001, disclaimed coverage for Plaintiff’s claim and demanded the return of the $151,154.74 it had already paid. Slightly less than one year later, Plaintiff commenced this suit seeking $1,385,456.70 on the Policy, less the $151,154.74 already paid, or $1,234,301.96. Defendant counterclaimed, asserting that Plaintiff had made fraudulent claims, and sought the return of the $151,154.74, punitive damages, and investigation expenses. Plaintiff moved to dismiss those counterclaims that are based in fraud for failure to state their claims with sufficient particularity under Federal Rule of Civil Procedure Rule 9(b), and to dismiss certain other counterclaims for failure to state a claim.
+
+Issue
+What degree of specificity is required for counterclaims alleging fraud under Fed. R. Civ. Pr. 9(b) ?
+
+Held
+The court granted Plaintiff’s motion to dismiss Defendant’s counterclaims.   Rule 9(b) provides, “In all averments of fraud or mistake, the circumstances constituting fraud or mistake shall be stated with particularity. Malice, intent, knowledge, and other condition of mind of a person may be averred generally.”  Counterclaims that do not satisfy the first sentence of Rule 9(b), requiring that the “time, place, and nature of the alleged misrepresentations” be disclosed to the party accused of fraud, will be dismissed.
+
+Discussion
+In dismissing Zurich’s counterclaims, the Court noted that the defendants’ counterclaims simply failed to identify the statement made by Plaintiff that they claimed   to be false. Essentially, the Court is stating that the counterclaims are insufficient because they do not provide a sufficient basis for the plaintiff, or the Court, to understand what it is exactly they are alleging that constituted fraudulent conduct.
+

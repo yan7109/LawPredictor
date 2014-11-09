@@ -1,0 +1,24 @@
+Citation
+458 U.S. 419, 102 S. Ct. 3164, 73 L. Ed. 2d 868, 8 Med. L. Rptr. 1849 (1982)
+
+Brief Fact Summary
+A New York law requires a landlord to permit a cable TV line be run through the property. The New York Court of Appeals ruled that this does not amount to a taking of the property.
+
+Synopsis of Rule of Law
+A permanent physical occupation of real property that is authorized by the government is a taking within the constructs of the United States Constitution (Constitution) regardless of the public interests that may be served.
+
+Facts
+Prior to 1973 the Respondent, Teleprompter Manhattan CATV (Respondent), would obtain permission from property owners to run cable through their premises. In exchange, for this permission the Respondent would pay the owners 5% of the gross revenue recognized from the installation of cable in the apartment buildings.
+
+Issue
+Does a minor, but permanent physical occupation of property under the authorization of the government constitute a “taking”?
+
+Held
+Yes. Respondent’s installation of cable is a taking because the cable occupies space within and upon the building.
+
+Dissent
+This decision relies upon the subjective analysis of whether property was permanently occupied or temporarily invaded. Permanency results in a per se taking, but temporary occupation is open to interpretation. This analysis is illogical.
+
+Discussion
+The majority is unconcerned with the reason for installing the cable. The fact that the state wished to provide a public service is of no consequence. This is a taking because the landlord had no choice but to surrender a portion of his building to the Respondent.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill. 515 U.S. 472, 115 S. Ct. 2293, 132 L. Ed. 2d 418 (1995)
+
+Brief Fact Summary
+Appellee Conner was incarcerated in a Hawaii prison for a period ranging from 30 years to life. During his tenure at a Hawaii prison he misbehaved during a routine strip-search, was sentenced to segregated confinement for a period of thirty days, which was later reversed upon appeal in the prison system. Appellee argues that this segregated confinement was a loss of liberty interest, which under the Fourteenth Amendment allowed him to present witnesses at his original hearing.
+
+Synopsis of Rule of Law
+A prisoner has a cause of action for deprivation of a liberty interest under the Due Process Clause of the Fourteenth Amendment only when it is atypical to or causes a significant hardship on the prisoner in relation to the ordinary incidents of prison life.
+
+Facts
+Appellee was serving an indeterminate sentence of 30 years to life in a Hawaii prison. Appellee reacted angrily to a strip-search and was charged with “high misconduct for physical interference with a correctional function,” and “low moderate misconduct for using abusive or obscene language and for harassing employees.” An adjustment committee held a hearing at which Appellee appeared but was not able to present witnesses. The committee found him guilty and sentenced to thirty days segregation for physical obstruction. On appeal the deputy administrator found this sentence to be unsupported and expunged the charge. Appellee in the meantime sued in federal court claiming that the refusal to allow him to present witnesses at the hearing deprived him of procedural due process. The district court ruled in favor of the prison, while the Court of Appeals reversed claiming that Appellee had a liberty interest in remaining free from disciplinary segregation.
+
+Issue
+Is there a state-created liberty interest in imposed segregation if there is no substantial evidence of misconduct?
+
+Held
+No.
+
+Dissent
+Concludes that appellee had a liberty interest in avoiding the disciplinary confinement he was subjected to in prison, as protected by the Due Process Clause. His punishment not only deprived him of privileges for long periods, and stigmatizes him and diminishes his parole prospects. These lingering consequences suffice to qualify such confinement as liberty-depriving for purposes of the Due Process Clause. Also sees the Due Process Clause itself, and not the Hawaii prison regulation as the source of the protection.<br />	Believes that the prison punishment deprived appellee of a constitutionally protected liberty interest. First, because the punishment caused a major change in Appellee’s conditions. The prison regulation under the Court’s liberty-defining standards deprives the appellee of liberty within the meaning of the Due Process Clause. The regulation does so by imposing a punishment that is substantial restricts imposition as a punishment to instances in which an inmate has committed a defined offense, and prescribes non-discretionary standards for determining whether or not an inmate committed that offense. The majority in its decision seeks to change the liberty standard by imposing a minimum standard, namely that a deprivation falls within the Fourteenth Amendment only if it “imposes atypical and significant hardship on the inmate in relation to the ordinary incidents of prison life.”<br />
+
+Discussion
+This case displays the limited nature of the due process rights of prisoners. The holding in this case limits prisoner’s liberty rights to those that are atypical or a significant hardship on a prisoner when compared to the ordinary incidents of prison life. While the majority does not want to state that prisoners lose their constitutional rights when they enter the penal system, it is evident that once these individuals in fact have their liberty restrained, that they do in fact have limited constitutional rights when compared to the everyday citizen. The dissents in this case do not believe in limiting the constitutional rights of prisoners, and would prefer to see the same framework for defining a liberty interest in the past to be used in this case as well. The key significance of this case is that in its presentation of the liberty interests of prisoners.
+

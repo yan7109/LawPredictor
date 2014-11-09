@@ -1,0 +1,21 @@
+Citation
+103 F.3d 294.
+
+Brief Fact Summary
+Zuk (Plaintiff) alleged that Eastern Pennsylvania Psychiatric Institute of the Medical College of Pennsylvania (Defendant) was infringing on Plaintiff’s copyrights by selling videos that he made while working for them. Defendant moved for dismissal and sanctions under Rule 11 of the Federal Rules of Civil Procedure on the grounds that Plaintiff had failed to conduct an inquiry into the facts and the law. Plaintiff’s attorney, Lipman (Appellant) appeals from an order imposing sanctions against him in the sum of $15,000 and Defendant’s counsel fees.
+
+Synopsis of Rule of Law
+Rule 11 sanctions are proper when counsel fails to make an adequate inquiry into both the facts and the law, which is reasonable under the circumstances.
+
+Facts
+Plaintiff, a psychologist on the Defendant’s faculty, taped two of his therapy sessions. Defendant made them available for rental through its library. Plaintiff also wrote a book, containing transcripts of the therapy sessions. In 1975, Plaintiff registered the book with the United States Copyright Office. Five years later, Plaintiff requested that all copies of the films be returned to him, but Defendant ignored the request. In 1995, Appellant filed suit on Plaintiff’s behalf alleged that Defendant was renting out the films and thereby infringed his copyright. Defendant moved for dismissal under Rule 12(b), and mailed a notice to Appellant of its intention to move for sanctions under Rule 11 on grounds that Appellant filed to conduct an inquiry into the facts and law. The district court granted the Motion to Dismiss and found that the copyright of the book afforded protection to the films. It also found that Defendant’s use thereof was not infringement, and that Plaintiff’s claim was barred by the statute of limitations. The court subsequently entered an order for attorney’s fees and sanctions against Plaintiff and Appellant, who are joint and severally liable to the Defendant for counsel fees in the amount of $15,000. Plaintiff settled his liability with the Defendant in the amount of $6,250, leaving the appellant liable for $8,750. Appellants appealed.
+
+Issue
+Were sanctions under 28 U.S.C.A. Section: 1927 and Rule 11 proper?
+
+Held
+No. Judgment vacated and remanded.   Sanctions against the attorney under 28 U.S.C.A. Section: 1927 should be vacated and the matter remanded because they were not divided between the Section 1927 violation and Rule 11. In order to prove a Section 1927 violation, there must be a finding of bad faith on the part of the offending attorney.  Counsel has a duty under Rule 11 to make an inquiry into both the facts and the law, which is reasonable under the circumstances. Sanctions are    imposed when there is an abuse of discretion, which occurs if the court based its ruling on an erroneous view of the law or erroneous assessment of the evidence.  In the instant case, the appellant failed to prove that the films were being rented in the three years after the commencement of the action, and thus violated the three-year statute of limitations. Further, Appellant’s legal arguments were not warranted by existing law, and therefore sanctions were within the discretion of the District Court.  Furthermore, there was no error in the courts’ type and amount of sanctions imposed by the District Court. However, it was error for the court to invoke without sanctions and without comment. The court must consider mitigating factors in imposing sanctions, most particularly, the sanctioned party’s ability to pay. Other factors include history of behavior, willfulness of violation, frivolousness, and damage to the integrity of the legal system.
+
+Discussion
+The court vacated and remanded the case because the District Court did not distinguish between the Section 1927 and Rule 11 sanctions. The court held that it was appropriate to impose Rule 11 sanctions against the Appellant on remand, because the court must provide an explanation for the severity of the sanctions.
+

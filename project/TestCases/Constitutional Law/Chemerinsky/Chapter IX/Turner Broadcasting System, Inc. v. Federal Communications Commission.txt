@@ -1,0 +1,24 @@
+Citation
+512 U.S. 622, 114 S. Ct. 2445, 129 L. Ed. 2d 497, 1994 U.S.
+
+Brief Fact Summary
+Federal legislation requires cable television companies to devote a portion of their channels to local programming.
+
+Synopsis of Rule of Law
+It is unconstitutional for the government to place on burdens on speech because of its content. Laws that distinguish between types of speech based on the ideas or views expressed are content-based and subject to strict scrutiny.
+
+Facts
+The Cable Television Consumer Protection and Competition Act of 1992 (the Act), required cable companies to devote a certain number of their channels to the transmission of local broadcast television stations. This Act limits cable companies by reducing the number of channels that they control and it makes it more difficult for the companies to compete for the remaining channels.
+
+Issue
+Is this ‘must-carry’ mandate a violation of the freedom of the speech or press?
+
+Held
+No. This law does not impose burdens or confer benefits based on the content of the speech. The only burden is associated with the number of channels a cable company can offer. Any government regulation that limits speech because of its content is subject to the “most exacting scrutiny while those that are unrelated to content are subject to an intermediate level of scrutiny.”
+
+Dissent
+The interest in diversity of programming is not content-neutral. The intent of the regulation is to continue to provide local access to news and community information. Although this goal is not harmful it still does not excuse the need for strict scrutiny.
+
+Discussion
+The majority justifies its decision by weighing the impact of forcing the cable systems to carry local stations against the purpose of the requirement. The regulation does not force an opinion on to the viewing public or limit access to certain views. Therefore, it is content-neutral and constitutional.
+

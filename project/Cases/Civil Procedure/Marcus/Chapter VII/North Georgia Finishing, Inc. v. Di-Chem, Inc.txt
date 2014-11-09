@@ -1,0 +1,27 @@
+Citation
+419 U.S. 601,95 S.Ct.719, 42 L.Ed. 2d 751 (1975)
+
+Brief Fact Summary
+he plaintiff filed for a garnishment writ of Di-Chem’s bank account and was awarded a freeze of those assets pre-judgment.
+
+Synopsis of Rule of Law
+Pre-judgment garnishments are unconstitutional if they do not afford the person an immediate hearing to dispute the claims.
+
+Facts
+Plaintiff filed a garnishment order against defendant for 51,000.00 for goods  the defendant bought from plaintiff. To support this order the plaintiff submitted an affidavit stating the amount was due. A court clerk issued the writ and froze the defendant’s bank account. The defendant was not afforded a hearing unless a bond was posted.
+
+Issue
+Whether a garnishment statute allowing a clerk to issue a writ for possession without a hearing is a violation of the possessor’s due process rights.
+
+Held
+Yes. Under the Constitution all persons must not be deprived of life, liberty or property without due process of law. Certain types of property rights require certain due process procedures before a plaintiff can claim ownership over someone else’s property. In this particular state, there is a statute which authorizes court clerks to review an affidavit of a plaintiff and to make a decision to issue a writ. Once the clerk issues this writ the plaintiff may take possession of the property. The defendant in this type of action has no opportunity to immediately appeal that decision as no hearing is afforded. The only defense for the defendant is to file a bond to protect the plaintiff. The defendant must wait until the end of trial. All that is required on the affidavit are conclusory allegations that do not need to meet the probable cause standard. This is not acceptable. All proper safeguards are missing from this statute.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+The defendant argues that there is case law stating not all pre-judgment seizures are unconstitutional; however, this statute falls short of what is required not to violate the defendant’s due process rights.
+

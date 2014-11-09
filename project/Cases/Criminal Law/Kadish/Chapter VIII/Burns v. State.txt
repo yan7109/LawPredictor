@@ -1,0 +1,21 @@
+Citation
+22 Ill.130 S. Ct. 1733, 176 L. Ed. 2d 208 (2010) [2010 BL 43468]
+
+Brief Fact Summary
+The Defendant, Burns (Defendant), a law enforcement officer, took a roll of money thrown away by an insane man during a police pursuit for his own use. A jury convicted him of larceny by bailee under a Wisconsin statute. The Defendant claims the jury was improperly instructed with regard to the bailee issue.
+
+Synopsis of Rule of Law
+A person who recovers the property of another which has been lost or irresponsibly cast away is a bailee who has a duty to exercise some degree of care to preserve and restore the property to the appropriate individual or otherwise account for the property.
+
+Facts
+The Defendant was a law enforcement officer who took a roll of money thrown away by an insane man during a police pursuit. A jury convicted him of larceny by bailee under a Wisconsin statute. The judge told the jury that if the Defendant converted the money to his own use, he did so as bailee. Defendant claimed that the court should have defined the term “bailee” as used in the statute and left it up to the jury to determine whether or not the evidence satisfied the definition under the statute.
+
+Issue
+Was the Defendant a bailee in this situation?
+
+Held
+Yes. The court’s instruction to the jury concerning bailment was proper. Judge Marshall delivered the opinion of the court. Defendant thinks a bailment was not created because there was no contract between the parties involved. However, no actual meeting of the minds is necessary to effectuate a bailment. If one comes into possession of any property of another, he has a duty to exercise some degree of care to preserve and restore the property to the person or otherwise account for it. The duty to account for the property of another creates a bailment.
+
+Discussion
+Taking possession without present intent to appropriate raises all the contractual elements of a bailment.
+

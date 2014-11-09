@@ -1,0 +1,21 @@
+Citation
+928 F.2d 504, 1991 U.S. App. 3682.
+
+Brief Fact Summary
+Defendant Morris was charged under the Computer Fraud and Abuse Act of 1986 for launching a “worm” on the internet. On appeal, he argues that the government failed to prove that he intended every element of the offense.
+
+Synopsis of Rule of Law
+The intent element of the Computer Fraud and Abuse Act of 1986 applies only to the access element.
+
+Facts
+The Defendant was a computer science graduate student at Cornell University. In an attempt to demonstrate the inadequacies of the security measures on computer networks, the Defendant released a “worm” on the internet designed to spread across a wide network of computers across the country. The worm worked incredibly well. In fact, it worked too well, and the Defendant sought to stop the spread of the worm. However, the Defendant still caused significant damage to computers around the country. Defendant was thereafter convicted under the Computer Fraud and Abuse Act of 1986, and he appeals on the ground that the government failed to prove he intended every element of the offense.
+
+Issue
+Must the government not only prove that the Defendant intended to access a federal interest computer but also that he intended to prevent authorized use of the computer’s information and thereby cause loss?
+
+Held
+No. Conviction affirmed.
+
+Discussion
+Often, the question of whether a particular mens rea term refers to all or some elements of the offense is resolved grammatically or in such a way to avoid an odd or unfair result.
+

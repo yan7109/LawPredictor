@@ -1,0 +1,21 @@
+Citation
+22 Ill.356 U.S. 525, 78 S. Ct. 893, 2 L. Ed. 2d 953 (1958)
+
+Brief Fact Summary
+Plaintiff, a resident of North Carolina, sued Defendant, a South Carolina corporation, in South Carolina federal court for negligence. A jury returned a verdict for Plaintiff. Defendant appealed, arguing that the question of whether Defendant was immune from suit pursuant to the South Carolina Workmen’s Compensation Law was to be decided by the judge, not the jury according to South Carolina law.
+
+Synopsis of Rule of Law
+When a state law conflicts with a federal law and the state law does not involve rights and obligations, the federal law must be applied. The court should not only look to whether the state law would be “outcome determinative” but also whether applying the state law would hinder the functioning of the federal court.
+
+Facts
+Byrd (Plaintiff), a resident of North Carolina, sued Blue Ridge Rural Electric Cooperative, Inc. (Defendant), a South Carolina corporation, for negligence in federal court in South Carolina. Plaintiff was injured while working for a construction contractor that had a subcontract with Defendant. Defendant asserted an affirmative defense that Plaintiff was barred from suit under the South Carolina Workmen’s Compensation Act because Plaintiff was a “statutory employee” and must accept statutory compensation as his exclusive remedy. The jury returned a verdict for Plaintiff.
+
+Issue
+When state law conflicts with federal law in determining whether an action should be tried by a judge or jury, which law should control where the case is to be tried in a federal court exercising diversity jurisdiction?
+
+Held
+A federal court should conduct jury trials when required by the 7th Amendment. Reversed and remanded.
+
+Discussion
+Although the test for determining whether a state law should be applied under Erie is whether it is “outcome determinative,” the court must weigh the state’s interests in applying its own law against the federal interest in applying federal law.
+

@@ -1,0 +1,21 @@
+Citation
+457 F. Supp. 682,1978 U.S. Dist.
+
+Brief Fact Summary
+Defendant law firm is charged with aiding and abetting securities law violations committed by their client due to their knowledge of certain misrepresentations.
+
+Synopsis of Rule of Law
+Attorneys may be held liable for aiding and abetting their client’s fraud if they knowingly allow a merger to close in violation of securities law.
+
+Facts
+Remaining Defendants considered in this portion of the opinion, two partners at Lord Bissell & Brook, were representing Interstate National Corporation in its proposed merger with National Student Marketing. The closing of the merger was to be conditioned upon a mutual exchange of opinion letters from each corporation’s attorneys as well as “comfort letters” from each corporation’s accountants. Defendant attorneys became aware of serious concerns-involving NSMC’s financial statements, which probably should have demonstrated a net loss, rather than a net profit-held by the accountants a few hours before the merger was scheduled to close, but proceeded with the closing in the face of these concerns after a brief discussion.
+
+Issue
+Did attorney Defendants aid and abet their client’s security law violation?
+
+Held
+Yes. Defendants’ participation in the closing of the merger despite their knowledge of inaccurate financial statements amounted to aiding and abetting the fraud.
+
+Discussion
+This case is viewed as a “legal ethics landmark” in that the law firm’s liability in aiding and abetting the fraud was based solely upon silence during the course of the closing proceedings despite knowledge of the client’s misrepresentations, rather than some kind of affirmative misrepresentation on behalf of the client in an opinion letter.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.156 Ky. 6, 160 S.W. 777 (1913)
+
+Brief Fact Summary
+Buyer to a transaction leaves clause in contract which allows him to avoid all obligation to make purchases if for any unforeseen reason he wishes to avoid delivery.
+
+Synopsis of Rule of Law
+Without mutuality of obligation, there is no consideration and the contract is unenforceable.
+
+Facts
+Defendant and Plaintiff drafted a document whereby Defendant agreed to supply Plaintiff with a certain number of cases of whisky at yearly intervals. Plaintiff ordered less than the amounts to be supplied by the Defendant. A clause in the document stipulated that Defendant would buy back any unused goods. The price of whisky went up and Plaintiff demanded that the Defendant provide the full shipments of 1910 and 1911 that were not already supplied. Defendant supplied the full amount for 1911, but not 1910. Buyer leaves himself an exit, obliging to buy nothing if for any unforeseen reason he wishes no delivery.
+
+Issue
+Is there consideration if one party has the ability to modify the contract at their own discretion?
+
+Held
+No. A contract that gives no certainty and excuses a party to the contract from performing at its own discretion, is not binding on either party and not enforceable.
+
+Discussion
+The court finds there is a lack of mutuality of obligation, which is necessary to enforce the terms of a contract. The ability of a party to avoid all obligations of the contract results in a lack of consideration and makes a contract unenforceable.
+

@@ -1,0 +1,24 @@
+Citation
+100 Eng. Rep. 450 (K.B. 1789).
+
+Brief Fact Summary
+Plaintiff asked Defendant for a credit reference. Defendant lied to Plaintiff. Plaintiff sued Defendant for fraud.
+
+Synopsis of Rule of Law
+If deceit or fraud causes damage to the plaintiff, then it is maintainable in an action against the defendant.
+
+Facts
+Pasley (Plaintiff) was a merchant that asked Defendant for a credit reference on Falch before selling him goods on credit. Defendant lied to Plaintiff about Falch’s credit and Plaintiff then shipped the goods to Falch who never paid for them. Plaintiff then sued Defendant for fraud and misrepresentation. Verdict for Plaintiff. Defendant appealed.
+
+Issue
+Whenever deceit or falsehood is practiced to the detriment of another, will the law give redress?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+(J. Grose) The misrepresentation stated in the declaration is respecting the credit of Falch; Defendant asserted that Plaintiff might safely give him credit; but credit to which a man is entitled is matter of judgment and opinion, on which different men might form different opinions. Whether Falch deserved credit depended on the opinion of many; for credit exists on the food opinion of many.
+
+Discussion
+In this case, four justices discuss Plaintiff’s possible redress. Justice Gross’s opinion is perhaps the best opinion of the four because it addresses the element of justifiable reliance. Defendant represented his view. Under the circumstances, Plaintiff was not justified in relying on Defendant’s statement even if Defendant knew it was false. For fraud there must be a falsehood about a material fact – the falsehood must be relied upon – the reliance must be justifiable and, the reliance must have caused damage. In this case, all the elements for fraud are met, but the element of justifiable reliance.
+

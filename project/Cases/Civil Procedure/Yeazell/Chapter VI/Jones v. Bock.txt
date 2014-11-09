@@ -1,0 +1,27 @@
+Citation
+549 U.S. 199 (2007)
+
+Brief Fact Summary
+Lorenzo Jones (P), a Michigan prisoner, suffered injuries while in prison, and sought a reassignment to other work he could do with his diminished capacity after the injuries. When the staff refused his request he sued the state.
+
+Synopsis of Rule of Law
+It is not necessary that a plaintiff should show that he has exhausted all administrative remedies for his claim before he files for a legal remedy.
+
+Facts
+Lorenzo Jones (P) was a prisoner of Michigan state who suffered injuries in custody. The staff refused to reassign him to other work keeping his injuries in mind, and he sued the state.
+
+Issue
+Is it required that a plaintiff plead and show clearly in his complaint that he has exhausted all administrative remedies?
+
+Held
+(Roberts, C.J.) No. A plaintiff is not required to show or argue that he has sought and exhausted all administrative avenues to right his wrong before he approaches the court. The Federal Rules of Civil Procedure do not mention this as a requirement. The list of affirmative defenses in Rule 8(c) is non-exhaustive, so that exhaustion can be another affirmative defense. The Prison Litigation Reform Act is also silent on whether exhaustion is to be used as an affirmative defense by the defendant or pleaded by the plaintiff. This supports the following of usual practice, which means that under the Federal Rules exhaustion is an affirmative defense. Some lower courts do insist that this requirement must be met by the plaintiff, but they are actuated more by the desire to separate frivolous claims from those which have merit. The way to impose a higher standard on pleading, however, is not by varying standards case by case, but by amending the rules.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The important outcome of this case is that it expresses the general belief of the Supreme Court under Chief Justice Roberts that where the Federal Rules of Civil Procedure require expanded expression, this should be done through the due process of rule amendment and not by concession to urgent policy demands or by courts.
+

@@ -1,0 +1,24 @@
+Citation
+40 Cal. 3d 488, 709 P.2d 837, 220 Cal. Rptr. 818,1985 Cal.
+
+Brief Fact Summary
+A commercial lease required the lessee to obtain written consent from the lessor before assigning any interest in the property to a third party.
+
+Synopsis of Rule of Law
+In a commercial lease, a landlord can withhold his consent to assignment by the tenant only if the landlord has a commercially reasonable objection to the assignment.
+
+Facts
+The City of San Jose owned a hangar at an airport, and leased it to Irving and Janice Perlitch. The Perlitchs assigned their interest to Ernest Pestana, Inc. (Defendant). Prior to assigning their interest to Defendant, the Perlitchs entered into a sublease with Robert Bixler, who started a business on the property. The sublease stated that before the lessee could assign his interest, he had to obtain written consent from the lessor, otherwise the lease could be voidable at the option of the lessor. Bixler wanted to sell his business to Jack Kendall (Plaintiff) and requested consent from Ernest Pestana, Inc., who refused to give it, claiming it had the right to arbitrarily refuse such a request. Plaintiff seeks declaratory and injunctive relief and damages.
+
+Issue
+May a lessor unreasonably and arbitrarily withhold his consent to an assignment?
+
+Held
+No.
+
+Dissent
+A commercial lessor should be able to withhold his consent to an assignment or sublease arbitrarily and without reasonable cause. Otherwise, unnecessary litigation will ensue.
+
+Discussion
+In a commercial lease, the court will imply a reasonableness term when the lease gives the landlord the right to consent to an assignment or sublet of the property. By doing so, they encourage the alienability of property.
+

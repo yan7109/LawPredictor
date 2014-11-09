@@ -1,0 +1,21 @@
+Citation
+400 F.2d 897, 69 LRRM 2415 (5th Cir. 1968)
+
+Brief Fact Summary
+The Court of Appeals of California affirmed the trial court’s award in favor of respondent residents on their claims for negligent and intentional infliction of emotional distress. Plaintiffs brought actions for negligent and intentional infliction of emotional distress, and were awarded damages. The Firestone Tire & Rubber Co. (Defendant) appealed.
+
+Synopsis of Rule of Law
+In ordinary negligence actions for physical injury, recovery for emotional distress caused by that injury is available as an item of parasitic damages. When a plaintiff can demonstrate a physical injury caused by the defendant’s negligence, anxiety specifically due to a reasonable fear of a future harm attributable to the injury may also constitute a proper element of damages.
+
+Facts
+Plaintiffs brought actions for negligent and intentional infliction of emotional distress, based on their fear of developing cancer as a result of their exposure to toxic waste the company had allegedly permitted to seep into groundwater. The company operated a tire manufacturing plant in Northern California and subcontracted with another company to dispose of industrial waste. The waste was deposited in a local landfill. The trial court awarded both compensatory and punitive damages. The appellate court modified the awards, but affirmed the main elements. The company sought review.
+
+Issue
+At issue was whether the absence of a present physical injury precluded recovery for emotional distress engendered by fear of cancer.
+
+Held
+The Supreme Court of California held that because the toxic exposure resulted from oppression, fraud, or malice, pursuant to state statute the residents could recover without having to show that it was more likely than not that they would develop cancer from the exposure.
+
+Discussion
+As a general rule, compensation for emotional distress is available to plaintiffs only following physical injury. Such emotional harm, defined as parasitic to the plaintiff’s claim for physical harm, is usually referred to as “pain and suffering.” The court explained that, “[u]nless the defendant has assumed a duty to plaintiff in which the emotional condition of the plaintiff is an object, recovery is available only if the emotional distress arises out of the defendant’s breach of some other legal duty and the emotional distress is proximately caused by that breach of duty. Even then, with rare exceptions, a breach of the duty must threaten physical injury, not simply damage to property or financial interests.”
+

@@ -1,0 +1,21 @@
+Citation
+Ala. Sup. Ct., 748 So. 2d 861 (1999)
+
+Brief Fact Summary
+The federal court of appeals certified to the Alabama Supreme Court the query of if an Alabama securities statute included a causation component.
+
+Synopsis of Rule of Law
+A causation statement is not included in a cause of action based on § 8-6-19(a)(1) of the Alabama Securities Act which is related to a violation of Rule 830-x-3-.12 of the Alabama Securities Commission.
+
+Facts
+Ritch (Plaintiff) filed suit under § 8-6-19(a)(1) of the Alabama Securities Act, claiming that Robinson-Humphrey Co. (Defendant) violated Rule 830-X-3-.12, disseminated by the Alabama Securities Commission. This section states that “Any person who (1) Sells…a security in violation of…any rule…imposed under this article…is liable to the person buying the security from him…” The federal court of appeals certified to the Alabama Supreme Court the query of if the purchaser must show the seller’s violation of the applicable rule induced or caused the purchaser to buy the security in that type of action.
+
+Issue
+Is a causation statement included in a cause of action based on § 8-6-19(a)(1) of the Alabama Securities Act which is related to a violation of Rule 830-x-3-.12 of the Alabama Securities Commission?
+
+Held
+(Per curiam) No. A causation statement is not included in a cause of action based on § 8-6-19(a)(1) of the Alabama Securities Act which is related to a violation of Rule 830-x-3-.12 of the Alabama Securities Commission.  Statue § 8-6-19(a)(1) is clear-cut, for the purchaser to recover, it only necessitates that the purchaser demonstrate that the seller violated the rule at the time the purchaser bought the security from the seller. The Legislature had the capability of including a causation requirement if it desired but because it did not and as a result of the statute being explicitly clear, § 8-6-19(a)(1) does not include a plaintiff to show that they purchased a security due to a violation of a rule by the seller.
+
+Discussion
+The defendant contended that federal law and should have led the court to construe the statute as including a causation component as well as be persuasive. But, this invitation was refused by the court on the grounds that statutory construction is required in cases where the language of the statute generates doubt. Finding that the statute was clear on its face, the court found no reason to turn to federal law for aide.
+

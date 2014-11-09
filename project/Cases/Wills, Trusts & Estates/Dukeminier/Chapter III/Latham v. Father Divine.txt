@@ -1,0 +1,21 @@
+Citation
+299 N.Y. 22, 85 N.E.2d 168, 1949 N.Y.  11 A.L.R.2d 802
+
+Brief Fact Summary
+Mary Sheldon Lyon left her estate to defendant, Father Divine, a leader of a religious group.  Plaintiffs, the testator’s first cousins sought to have a constructive trust imposed on the defendant’s gift on grounds that the defendant defrauded and unduly influenced Lyon.  The plaintiffs claim that Lyon expressed a desire on several occasions to include them as beneficiaries in her will, but the defendants killed the her before the will could be executed.
+
+Synopsis of Rule of Law
+When an heir or devisee under a will prevents the testator from making a will or deed in favor of another, by fraud, duress, or undue influence, such heir or devisee will be deemed a trustee over the gift in favor of the intended beneficiary.
+
+Facts
+Mary Sheldon Lyon left a will to Father Divine, two corporate defendants, and another defendant who was one of Father Divine’s followers.   Plaintiffs claim that on several occasions after the execution of her will, she expressed a desire and determination to revoke the will and create another in which plaintiffs would receive a substantial amount of her estate.  Shortly before her death, Lyon had attorneys draft a new will that named the plaintiffs as legatees for a large amount,  approximately $350,000.  However the defendant thorugh false representations, undue influence, and physical force, prevented the testator from executing the will.  Furthermore, the defendants conspired to kill and did kill the testator without the consent of the testator’s relatives and before she could execute a new will.
+
+Issue
+Whether a beneficiary may be liable for undue influence and fraud where he prevents a testator from executing a will that would give a gift to another by making false representations, using physical force, and murdering the testator.
+
+Held
+Yes.  A beneficiary is liable for undue influence and fraud where he makes misrepresentations, uses force, and murders a testator to prevent him from signing a will that names another person as a beneficiary.  In such a case, the beneficiary holds the property in constructive trust for the intended beneficiaries.  Anything short of an equitable remedy would be unjust.
+
+Discussion
+The validity of a will rests upon testamentary intent and meeting the proper staturory requirements.  When the evidence proves an heir through misrepresentations and physical force prevents a testator from carrying his testamentary desires, the court will impose a constructive trust to carry out equity.  Though the court will enforce the will, valid on its face, it will not allow an heir to benefit from such wrongful conduct.
+

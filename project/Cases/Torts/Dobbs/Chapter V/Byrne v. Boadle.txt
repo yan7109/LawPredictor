@@ -1,0 +1,21 @@
+Citation
+2 H. & C. 722, 159 Eng. Rep. 299 (Exch. 1863).
+
+Brief Fact Summary
+Byrne (Plaintiff) testified that he was walking along Scotland Road when he evidently lost consciousness. Witnesses testified that a barrel of flour fell on him. Neither Plaintiff nor any of the witnesses testified as to anything done by Boadle (Defendant) that could have led to the barrel falling.
+
+Synopsis of Rule of Law
+A plaintiff must persuade a jury that more likely than not the harm-causing event does not occur in the absence of negligence. The plaintiff does not have to eliminate all other possible causes for the harm, nor does the fact that the defendant raises possible non-negligent causes for the harm defeat plaintiff’s effort to invoke res ipsa loquitur (Latin for “the thing speaks for itself). The key is that a reasonable jury must be able to find that the likely cause was negligence.
+
+Facts
+Defendant’s shop was adjacent to the road on which Plaintiff was walking, and the barrel appeared to have fallen, or was dropped from the shop.
+
+Issue
+Was the mere fact of the incident occurring, i.e., the barrel having fallen from the shop, sufficient to presume negligence?
+
+Held
+The court allowed the case to proceed because of the nature of the harm-causing event and Defendant’s relationship to it, i.e., as it was Defendant’s responsibility to control the contents of his warehouse, the accident itself is evidence of negligence.
+
+Discussion
+A plaintiff seeking to rely on res ipsa loquitur must connect the defendant to the harm. Initially, courts interpreted the control element narrowly, requiring the plaintiff to show that the defendant likely had “exclusive control” over the harm-causing instrumentality. This element has been liberalized and it is now enough for a plaintiff to get the issue to a jury on res ipsa loquitur if he can provide evidence showing that the defendant probably was the responsible party even if the defendant did not have exclusive control. Further, most jurisdictions no longer require the plaintiff to prove that he did not contribute to his harm.
+

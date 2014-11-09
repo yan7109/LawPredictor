@@ -1,0 +1,21 @@
+Citation
+96 F. Supp. 2d 376 (D. Del. 2000)
+
+Brief Fact Summary
+Plaintiff, Great Lakes Chemical Corporation, brought claims under the Securities Exchange Act against Defendants, Monsanto Company and Sweet Technologies, Inc., for misrepresentations allegedly made when Defendants sold an LLC to Plaintiff.
+
+Synopsis of Rule of Law
+Securities laws are meant to regulate investments rather than commercial ventures, and therefore a security can be a traditional stock or alternatively an investment contract that consists of an investment of money in a common enterprise with profits to come solely from the efforts of others.
+
+Facts
+Defendants jointly owned and controlled 100% of an LLC, NSC Technologies Company.  NSC was created to develop pharmaceutical products from a chemical, L-phenylalinine, made by Monsanto.  The Members of NSC, Monsanto and Sweet, did not have day-to-day control of NSC, but they controlled it by appointing the managers that did control it.  Defendants solicited offers for a buyer of NSC, and an investment bank contacted Plaintiff.  Defendants had initial estimates of the sales of NSC that they later reduced after NSC began having difficulties with lower sales and patent infringers.  Defendants explained away the recently poor performance to Plaintiff as just a shifting of the numbers and they offered to indemnify Plaintiff if their numbers were off by more than $6.5 million.. Defentants also reduce the price of NSC by $5 million.  After the purchase, Plaintiffs did not even reach half of the estimate given by Defendants and brought claims under the Securities Exchange Act for the
+
+Issue
+The overall issue is whether the purchase of NSC by Plaintiff was a purchase of a security under the Securities Exchange Act.
+
+Held
+The court held that it was not a security as understood by the Act.
+
+Discussion
+The court is not ruling that Plaintiff does not have a claim, but they are limiting the scope of the Securities Exchange Act to include only investments rather than commercial transactions.  There are likely alternative causes of action to hold Defendants accountable for any damaging misrepresentations.
+

@@ -1,0 +1,24 @@
+Citation
+477 U.S. 436, 106 S. Ct. 2616, 91 L. Ed. 2d 364 (1986)
+
+Brief Fact Summary
+An informer planted in a suspect’s jail cell obtained incriminating information from a suspect after being told not to start the conversation, but to listen for incriminating information.
+
+Synopsis of Rule of Law
+When police plant an informer with a jailed suspect and the informer does not ask questions, the suspect’s statements to the informer are admissible unless the informer took coercive steps other than listening to elicit incriminating information.
+
+Facts
+Defendant Wilson robbed a garage and killed the dispatcher.  He claimed he witnessed the murder but denied involvement and was jailed.  Police instructed an informant to share a cell with the defendant and not to question him, but to “keep his ears open.”  After being told that his family was upset because they thought he had killed the man, the defendant told the informer of his involvement in the murder.  The defendant was tried and convicted of murder, with the trial court denying his motion to suppress the statements.  The defendant sought habeas relief and was denied by the District Court, a decision that was affirmed by the Court of Appeals.  Then United States v. Henry,  447 U.S. 264 (1980) was decided, and the defendant sought retroactive application of its rule to his situation.  This habeas relief was denied at the District Court level, but successful in the Court of Appeals.  The prosecution was then granted certiorari.
+
+Issue
+If the police plant an informer with a jailed suspect and the informer asks no questions, are any incriminating statements the suspect makes to the informer admissible?
+
+Held
+Yes.  Reverse the judgment overturning the district court’s denial of the defendant’s habeas petition.
+
+Dissent
+Justice William Brennan stated that Henry did apply to cases like the one here, where subtle forms of stimulating incriminating admissions were used.
+
+Discussion
+This case is the most recent interpretation of Henry, and it reinforces its strict holding that incriminating statements made to a passive informer are admissible.  But makes clear that making statements to a suspect does not make an informer “active.”  So in essence, informers can make statements but not ask questions, even if the effects may be very similar.
+

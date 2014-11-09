@@ -1,0 +1,21 @@
+Citation
+508 U.S. 275, 113 S. Ct. 2078, 124 L. Ed. 2d 182 (1993)
+
+Brief Fact Summary
+An individual was charged with first-degree murder during the course of the robbery of a bar.  At trial, the jury instructions included a definition of reasonable doubt that was previously found unconstitutional.
+
+Synopsis of Rule of Law
+“[T]he reviewing court [should] consider [ ] not what effect the constitutional error might generally be expected to have upon a reasonable jury, but rather what effect it had upon the guilty verdict in the case at hand.”
+
+Facts
+The Petitioner, Sullivan (the “Petitioner”), was charged with first-degree murder during the course of the robbery of a bar.  The Petitioner’s alleged accomplice, Michael Hillhouse (”Hillhouse”) testified during trial pursuant to a grant of immunity.  The bar was crowded, but only one witness testified during trial.  The witness could not identify either the Petitioner or Hillhouse during a physical line up, but testified that he saw the Petitioner hold a gun to the victim’s head.  In his closing argument, the defense counsel argued there was reasonable doubt as to the identity of the murderer and his intent.
+
+Issue
+“[W]hether a constitutionally deficient reasonable doubt instruction may be harmless error[?]”
+
+Held
+The majority observed the “prosecution bears the burden of proving all elements of the offense charged and must persuade the factfinder ‘beyond a reasonable doubt’ of the facts necessary to establish each of those elements.”
+
+Discussion
+This case deals with the effects that errors during trial have when an appellate court is reviewing the case.
+

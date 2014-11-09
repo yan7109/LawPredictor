@@ -1,0 +1,21 @@
+Citation
+22 Ill.53 Md. App. 656, 456 A.2d 82 (Ct. Spec. App. 1983)
+
+Brief Fact Summary
+A corporation could not achieve its stated purpose because it was not properly structured due to the negligence of its attorney.
+
+Synopsis of Rule of Law
+In the event of a breach of contract, damages for expenses incurred in reliance on the contract are recoverable, less any loss that would have resulted if the contract had been performed.
+
+Facts
+The Appellee, Hightower Productions, Ltd. (Appellee), was formed for the purpose of breaking the Guinness World Record for flagpole sitting. The Appellee hired the Appellant, Paul Wartzman (Appellant), as a lawyer to incorporate the venture. The Appellee informed the Appellant that it needed to sell stock to raise the funds necessary to finance the project. After the Appellee began selling the stock, the Appellant informed the Appellee that the corporation was “structured wrong” and was not properly authorized to sell stock. The Appellee also advised the Appellant to retain a securities attorney to correct the problem, which would cost approximately ten to fifteen thousand dollars. The Appellee’s shareholders elected to abandon the project. The Appellee then filed suit on breach of contract and negligence grounds seeking damages for expenses incurred in reliance of the contract, including the promotors’ initial investments, shareholders’ investments, outstanding liabilities, l
+
+Issue
+If anticipated profits are speculative, are damages incurred in reliance on the contract recoverable?
+
+Held
+Yes. Judgment affirmed. The Appellant was entitled to recover any loss that he incurred from relying upon the contract.
+
+Discussion
+The court reasoned that in the instant case, the Appellant knew that the Appellee was dependent upon the ability to sell stock to finance the venture. Therefore, the nexus between the breach and the failure of the project was established. The court examined case law and the Restatement of Contracts to find that recovery of reliance damages is proper where lost profits are too uncertain to calculate. It noted that this doctrine is limited in cases where the breaching party can prove that the other party would have sustained greater loss if the contract had been performed. Furthermore, while generally a breaching party is liable only for those expenses that are a foreseeable result of a breach at the time the contract was made, these limitations do not apply to an attorney when his client is relying upon his skill and knowledge. Finally, the court reasoned that the Appellant was under no duty to mitigate its damages by hiring a security specialist because this would cost a
+

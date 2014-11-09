@@ -1,0 +1,21 @@
+Citation
+184 Ariz. 82, 907 P.2d 51, 1995 Ariz. 107, 204 Ariz. Adv. Rep. 3
+
+Brief Fact Summary
+Elizabeth and Charles Maxwell, (Appellants), brought an action for declaratory judgment seeking a declaration that their contract for financing with Fidelity Financial Services, Inc., (Appellee) was unenforceable due to unconscionability. Appellants appeals the trial court ruling of summary judgment in favor of Appellee.
+
+Synopsis of Rule of Law
+Claims of unconscionability can be established with either a showing of substantive unconscionability alone, especially in cases involving either price-cost disparity or limitation of remedies.
+
+Facts
+Appellants purchased a solar home water heater for a total price of $6, 512 including installation. The heater was never installed correctly and never functioned properly. It was eventually declared a hazard, condemned, and ordered disconnected by the City of Phoenix. Appellants financed this purchase through a loan from Appellee. The total cost with interest was almost $15,000. The terms of the agreement secured the purchase price with a lien on the solar heater and a lien on the Appellants’ house. Appellants continued to make payments on the solar heater even though it was intrinsically worthless. After several years, Appellants took out a second loan in the amount of $800 for unrelated purposes. The financing agreement contained the same security provisions and charged an additional $313. Appellants continued to make payments until 1990, when they brought this suit seeking declaratory judgment.
+
+Issue
+Whether the contract’s security provisions present a question of unconscionability.
+
+Held
+Yes. The apparent injustice and oppression in these security provisions constitute not only a question of substantive unconscionability but possibly even procedural unconscionability.
+
+Discussion
+Based on these facts it cannot be said that the contract is not unconscionable. The price could be considered grossly excessive giving rise to substantive unconscionablity. Further the security terms allow Appellee not only to repossess the water heater but also to foreclose on Appellants’ home.  This apparent injustice and oppression in the security terms may not only constitute substantive unconscionability but also procedural unconscionability.
+

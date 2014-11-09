@@ -1,0 +1,21 @@
+Citation
+546 U.S. 1110
+
+Brief Fact Summary
+Plaintiff, Charles Houser, III, filed suit on behalf of 18-20 year olds against the State of Washington seeking a declaratory judgment that the 21-year old drinking age violates equal protection under the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+A court may take judicial notice of facts for a predicate for setting out a rule of law.
+
+Facts
+Charles Houser, III, Plaintiff, filed suit seeking a declaratory judgment that a 21-year old drinking age deprives 18-20 year olds of equal protection under the Fourteenth Amendment.  Plaintiff sued the State of Washington on his on behalf and on behalf of the class of 18-20 year olds in the state.  Plaintiff offered expert testimony in support, and the State offered two studies supporting the drinking age.  The district court held for the State.  In determining whether a rational relationship between a legitimate state purpose and the drinking age existed, the district court took judicial notice of the studies submitted by the State.  Plaintiff appealed contending the court erred in taking judicial notice of the studies offered by the State.  Plaintiff claims the facts in the study were not “well established and authoritatively settled.”
+
+Issue
+Was it proper for the trial court to take judicial notice of the studies offered by the State?
+
+Held
+Justice Utter issued the opinion for the Washington Supreme Court and held that it was proper to take judicial notice because the court was using the factual predicate to decide a question of law.
+
+Discussion
+The trial court was not taking judicial notice in order to determine the fact of the case.  Rather, the court in looking to decide a question of law was using reputable  scientific studies to lay the factual predicate.
+

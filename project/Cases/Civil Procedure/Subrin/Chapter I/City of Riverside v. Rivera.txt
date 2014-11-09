@@ -1,0 +1,24 @@
+Citation
+477 U.S. 561, 106 S. Ct. 2686, 91 L. Ed. 2d 466, 1986 U.S. 69
+
+Brief Fact Summary
+Petitioners, the city of Riverside et al., challenged the amount of attorney’s fees awarded to Respondents, Santos Rivera et al., after Respondents’ successful civil rights actions.
+
+Synopsis of Rule of Law
+A party seeking attorney’s fees under the Civil Rights Attorney’s Fees Awards Act of 1976 are entitled to fess corresponding to the numbers hours reasonable expended multiplied by a reasonable hourly rate.
+
+Facts
+Respondents were at a party in Riverside, CA when Riverside officers entered the home without a warrant and broke up the party using tear gas and unnecessary physical force.  Respondents brought charges against 30 officers, the chief of police and the city of Riverside for violating their rights under the First, Fourth and Fourteenth Amendments to the United States Constitution.  The district court granted summary judgment for 17 officers and a jury acquitted nine more and returned a verdict against the other parties.  The jury awarded Respondents $33,350 in compensatory and punitive damages and $245,456.25 in attorney’s fees.  Petitioners argued that the attorney’s fees were unreasonable compared to the small amount otherwise awarded.  The district and appellate courts affirmed the amount, and the Supreme Court vacated the award and remanded the case to be reconsidered in light of Hensley v. Eckerhart, 461 U.S. 424 (1983).  The district and appellate courts affirmed the award
+
+Issue
+The issue is whether the attorney’s fees awarded to Respondents were reasonable in light of Hensley.
+
+Held
+The majority of the United States Supreme Court affirmed and held that the attorney’s fees were reasonable.  The Court applied Hensley and reasoned that the fees did represent a reasonable amount of hours at a reasonable rate.  The Court rejected Petitioner’s argument that the fees should have more resembled a contingency rate for typical civil cases because it would discourage attorneys from taking civil rights cases.  There is an extra level of importance to civil rights cases because there is a need to establish rules of conduct that affects more than just the plaintiffs of that case.  The jury may have wanted to limit awards against officers as well.
+
+Dissent
+Four justices dissented because their application of the facts to the Hensley standard resulted in a different outcome.  They did not believe that an award of attorney’s fees was justified in light of the small return of compensatory and punitive damages. Supreme Court Justice Warren Burger joined the other dissenting opinion but wanted to emphasize what he thought to be a ludicrous hourly rate that the two novice attorneys received for their work.Concurrence. The concurring judge would not read Hensley as expansively as the majority but would still affirm the lower courts because they should only be overturned if the award is clearly erroneous.<br />
+
+Discussion
+The plurality opinion illustrates the difficulty in prescribing a reasonable attorney’s fee when the damages are otherwise small.  The Court did not want to discourage future civil rights claims, but the dissent saw this as a giveaway to attorneys.
+

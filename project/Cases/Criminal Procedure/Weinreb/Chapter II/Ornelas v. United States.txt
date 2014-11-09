@@ -1,0 +1,21 @@
+Citation
+517 U.S. 690, 116 S. Ct. 1657, 134 L. Ed. 2d 911 (1996)
+
+Brief Fact Summary
+On ruling regarding a suppression hearing, the Seventh Circuit Court of Appeals (Seventh Circuit) held that the findings of a trial judge regarding probable cause and reasonable suspicion were to be given great deference, and reversed only for clear error.
+
+Synopsis of Rule of Law
+Probable cause and reasonable suspicion determinations are subject to de novo review by appellate courts.
+
+Facts
+The Petitioners, Ornelas and Ornelas (Petitioners), were stopped by the police and questioned as to whether the police could look in their car. The Petitioners consented to a search of their car. The police found narcotics and subsequently arrested the Petitioners. At an evidentiary hearing, the trial court found the police did not have probable cause to search the panels of Petitioner’s car. On appeal, the Seventh Circuit held that it would not disturb the trial court’s finding as to probable cause, unless there was clear error.
+
+Issue
+Are a trial court’s determinations of reasonable suspicion and probable cause subject to de novo review?
+
+Held
+Yes. The Appellate Court should have reviewed the Trial court’s reasonable suspicion and probable cause determinations de novo.
+
+Discussion
+Whether probable cause and reasonable suspicion exist are questions of law, subject to de novo review. The underlying facts regarding these determinations are only to be reversed on clear error.
+

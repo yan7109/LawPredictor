@@ -1,0 +1,24 @@
+Citation
+415 U.S. 308, 94 S. Ct. 1105, 39 L. Ed. 2d 347 (1974)
+
+Brief Fact Summary
+A crucial prosecution witness to in a robbery trial was a juvenile with a record of delinquency.  The defendant sought to impeach the witness.
+
+Synopsis of Rule of Law
+“[T]he right of confrontation is paramount to the State’s policy of protecting a juvenile offender,” and such a witness may be impeached.
+
+Facts
+Petitioner Davis was picked from a line-up by witness Green, identifying Petitioner as one of two persons who had been in the general area where a stolen save was later recovered.  Petitioner was tried for robbery.  Petitioner’s counsel sought to introduce Green’s juvenile adjudication to show that he was on probation for burglary, and that he acted out of fear of losing his probation.  The trial judge refused to admit that evidence.  The Alaskan Supreme Court affirmed that decision.
+
+Issue
+“[W]hether the Confrontation Clause requires that a defendant in a criminal case be allowed to impeach the credibility of a prosecution witness by cross-examination directed at possible bias deriving the witness’ probationary status as a juvenile delinquent when such impeachment would conflict with a State’s asserted interest in preserving the confidentiality of juvenile adjudications of delinquency.
+
+Held
+Yes.  The Supreme Court of the United States first reiterated the basic premise of the Confrontation Clause, that an accused has the right “to be confronted with the witnesses against him.”  The Supreme Court further examined the necessity of cross-examination, with special emphasis on the value of impeachment by introducing a prior criminal conviction.  “By so doing the cross-examiner intends to afford the jury a basis to infer that the witness’ character is such that he would be less likely than the average trustworthy citizen to be truthful in his testimony.”  In the present case, the Supreme Court found that “[w]hile [petitioner's] counsel was permitted to ask Green whether he was biased, counsel was unable to make a record from which to argue why Green might have been biased or otherwise lacked that degree of impartiality expected of a witness at trial.”  The Supreme Court suggested that the jury had no means of understanding the basis of this argument.  The Supreme Court
+
+Dissent
+Justice White, joined by Justice Rehnquist, did not see this matter as a Constitutional one, but simply a “typical instance of a trial court exercising its discretion to control or limit cross-examination.”
+
+Discussion
+“[W]hatever temporary embarrassment might result to Green or his family by disclosure of his juvenile record
+

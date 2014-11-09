@@ -1,0 +1,24 @@
+Citation
+382 U.S. 861 86 S. Ct. 121 15 L. Ed. 2d 99 1965 U.S.
+
+Brief Fact Summary
+An individual named Larry disappeared after leaving a restaurant called Sambo’s North.  A ransom note was delivered to his car and picked up by his parents just after an anonymous telephone call telling them where to look. The parents were warned not to call the Federal Bureau of Investigation (”FBI”) but they did it anyway.  Their child was never found.
+
+Synopsis of Rule of Law
+Hearsay evidence is admissible if it goes to the state of mind of the declarant when that state of mind is in issue. The Hillmon doctrine does not require that state of mind be at issue; rather, the state of mind is used inferentially to prove other matters at issue. When the performance of a particular act by an individual is an issue in a case, his intention (state of mind) to perform that act may be shown. From that intention, the trier of fact may infer that the person carried out his intention and performed the act.
+
+Facts
+At trial, the prosecution attempted to introduce into evidence statements of two of the kidnapped individual’s friends who had been with him at the restaurant the night he disappeared.  The friends testified to the effect that the kidnapped individual was going out to the parking lot to meet a man named Angelo from whom he was going to procure a pound of marijuana for free. The government said that they were offering the statements to show Larry’s state of mind, and only for that narrow purpose. The court allowed it, but gave an instruction to the jury admonishing them to only consider it for that purpose, but not for the truth or falsity of what he said. The Government argued that the statements were relevant to the fact that Larry did meet Angelo that night in the parking lot.
+
+Issue
+Whether the Hillmon doctrine can be applied in situations where the declarant has stated his intention to do something with another person, and the issue is whether or not he did so?
+
+Held
+Yes.  While the court recognized the problems with this application of the doctrine, they declined to go against the weight of judicial authority on the issue.
+
+Concurrence
+Justice Ely (”J. Ely”) concurred in the judgment, but wrote to emphasize his disagreement with the Hillmon doctrine, suggesting that evidence of one person’s intention to do something should not be admissible to prove what another person actually did do.
+
+Discussion
+In this case, the statements of Larry’s friends are offered to show that Larry intended to meet Angelo in the parking lot, and the issue is whether he, in fact, met Angelo in the parking lot.  The opposite inference is that Angelo met Larry in the parking lot, so it requires an inferential step for two people. Larry’s state of mind was put into evidence to show that someone else actually did do something, a widening of the Hillmon doctrine.
+

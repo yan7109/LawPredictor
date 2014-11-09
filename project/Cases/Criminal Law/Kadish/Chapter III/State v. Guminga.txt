@@ -1,0 +1,24 @@
+Citation
+22 Ill.395 N.W.2d 344 (Minn. 1986)
+
+Brief Fact Summary
+Guminga (D), a restaurant owner, was charged with vicarious liability after D’s employee was caught serving liquor to a minor.
+
+Synopsis of Rule of Law
+An individual cannot be held liable for a crime punishable by imprisonment where that individual did not commit, have knowledge or give consent to the commission of that crime.
+
+Facts
+D is a restaurant owner. In the course of an undercover operation, D’s employee was caught serving liquor to a minor and was charged under a Minn. Statute which imposes vicarious criminal liability on an employer whose employee serves intoxicating liquor to a minor. D was not aware of and did not consent to the employee’s actions. D moved to dismiss the complaint on the basis that the vicarious liability statute, which imposes automatic liability on an employer for an employee’s actions, violates the due process clauses of the 5th and 14th Amendments.
+
+Issue
+Does the vicarious liability statute, which imposes automatic vicarious liability on employers for their employees’ actions, violate the due process clauses of the 5th and 14th Amendments?
+
+Held
+Yes.
+
+Dissent
+The dissent advances the opinion that private interests are outweighed by the public interest of preventing liquor from being sold to minors and believes that the state, in exchange for granting liquor licenses, has the right to impose vicarious liability on bar and restaurant owners.
+
+Discussion
+This case introduces the concept of vicarious liability to the discussion of strict liability and different levels of culpability. According to the notes following the case, most courts uphold convictions of employers based on vicarious liability where there is no fault.
+

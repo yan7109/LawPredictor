@@ -1,0 +1,21 @@
+Citation
+445 U.S. 388, 100 S. Ct. 1202, 63 L. Ed. 2d 479, 1980 U.S.
+
+Brief Fact Summary
+Geraghty, a federal inmate and Plaintiff-Respondent (Plaintiff), brought suit against the Defendant-Petitioner, the United States Parole Commission (Defendant). Besides his own suit he also sought certification of the suit as a class action on behalf of all federal prisoners who are or will become eligible for parole.
+
+Synopsis of Rule of Law
+A class action may survive, even if the named Plaintiff’s case becomes moot before certification of the class.
+
+Facts
+Plaintiff had twice been denied parole from a federal prison. Plaintiff brought suit challenging the validity of the Parole Commission’s Parole Release Guidelines. The district court denied Plaintiff’s request to certify the suit as a class action on behalf of “all federal prisoners who are or who will become eligible for release on parole,” and also granted summary judgment for Plaintiff on the merits. Plaintiff was released from prison while his appeal to the court of appeals was pending.
+
+Issue
+May a trial court’s denial of a motion to certify a class be reviewed on appeal even when the named plaintiff’s personal suit has been settled or decided?
+
+Held
+Yes. Reversed and remanded. The purpose of the “personal stake” requirement is “to assure that the case is in a form capable of judicial resolution.” Justice Harry Blackmun also argues that the named representative retains a personal stake in obtaining class certification to satisfy the case or controversy requirement. More importantly, however, the absence of the named plaintiff does not destroy the format of the dispute as appropriate for judicial determination.
+
+Discussion
+If the personal stake requirement is in place to “assure that the case is in a form capable of judicial resolution,” it is clear that this is met in the case before the claim became moot. Now, the question is whether or not review of the denial of class certification will be allowed when there are still putative class members with ripe claims. As discussed, if the named plaintiff had a personal stake, the case is still “in a form capable of judicial resolution,” if certification of the class is appropriate, regardless of the plaintiff’s absence in the putative class.
+

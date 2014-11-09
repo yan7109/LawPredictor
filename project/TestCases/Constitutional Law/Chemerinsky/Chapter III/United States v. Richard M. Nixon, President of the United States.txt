@@ -1,0 +1,21 @@
+Citation
+506 U.S. 224, 113 S. Ct. 732, 122 L. Ed. 2d 1 (1993)
+
+Brief Fact Summary
+The Plaintiff, the President of the United States Richard Nixon (Plaintiff) refused to turn over tapes of his secretly recorded conversations that had been subpoenaed to assist in the prosecution of individuals in the Watergate break-in.
+
+Synopsis of Rule of Law
+Conversations between the President of the United States (the President) and his advisors are generally privileged, but that privilege is no absolute.
+
+Facts
+In the famous Watergate scandal, several of the Plaintiff’s associates were indicted on charges of conspiracy and obstruction of justice, though the Plaintiff was not indicted himself. The district court issued a subpoena ordering the Plaintiff to produce the tape recordings of his conversations with his advisors in one of the criminal cases that had ensued. The Plaintiff brought this motion to quash the subpoena on the grounds of executive privilege and separation of powers.
+
+Issue
+Are the Presidents’ confidential conversations with his advisors/associates subject to an absolute privilege?
+
+Held
+No, there is no absolute privilege.
+
+Discussion
+The Plaintiff argues that all private conversations between himself and his advisors/associates are absolutely privileged, claiming that his advisors may fear to speak candidly if they know that the conversations may later be used against them in a court of law. The court agreed that the President’s communications to his advisors are subject to general claims of confidentiality. However, the Supreme Court said this was based on public policy grounds.
+

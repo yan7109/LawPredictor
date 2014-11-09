@@ -1,0 +1,21 @@
+Citation
+3 K.B. 642 (Ct. Apps. England 1914).
+
+Brief Fact Summary
+The London County Council (Plaintiff) sought a writ of mandatory injunction to tear down three houses and a wall erected on plots, which were covenanted to be reserved for a roadway.
+
+Synopsis of Rule of Law
+In order to enforce a restriction through a covenant against the land, the covenantee must be seized of land adjacent to the land under the restriction such that the enforcement of the covenant will benefit the covenantee’s land.
+
+Facts
+In 1907, the Plaintiff entered into an indenture with Morris Joseph Allen, a builder, who was a fee simple owner of certain land, by which Morris for himself, his heirs and assigns, covenanted that he would not build on two green areas shown on a map which were to be reserved for the construction of roads by the London County Council. In 1911, three houses were built on one of the plots and a wall was built on the other plot. The Plaintiff then sued to have a writ of mandatory injunction issued, which would order the houses and the wall torn down as a breach of the covenant between Mr. Allen and the Plaintiff. The legal estate was in Morris, as mortgagee, and the equity of redemption was in Mrs. Allen who had taken title from Mr. Allen and his mortgagee Willocks, who had no notice of the restriction. The Defendants argued that the Plaintiff could not enforce the covenant against the assigns of Mr. Allen, whether the assigns had notice of the restriction or not, because the cov
+
+Issue
+Must the covenantee, under the doctrine of Tulk v. Moxhay, infra, have at the time of the creation of the covenant and afterwards, land for the benefit of which the covenant is created, in order that the burden of the covenant bind the assigns of the land?
+
+Held
+Yes. The appeal of Defendants Mrs. Allen and Mr. Norris allowed, and the appeal of Mr. Allen is dismissed (thus, the covenant is only enforceable against the covenantor).
+
+Discussion
+This case would have possibly decided differently in the United States. Public entities would be more apt, perhaps, to use the tools of eminent domain to gain the property in question.
+

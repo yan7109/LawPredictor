@@ -1,0 +1,21 @@
+Citation
+3 N.Y.2d 554, 170 N.Y.S.2d 328, 147 N.E.2d 724 (1958)
+
+Brief Fact Summary
+Defendants, Percy Newbery et al., are former employees of Plaintiff, Town & Country House & Home Service, Inc.  Plaintiff brought an action after Defendants started their own competing company targeting Plaintiff’s customers.
+
+Synopsis of Rule of Law
+An employee can owe a fiduciary duty to their employer for the employer’s trade secrets after their service has been terminated.
+
+Facts
+Plaintiff operated a home cleaning business.  The husband and wife who ran Defendant company started the business by making several hundred calls and screening entire neighborhoods that were likely candidates for their services.  After time, the list grew to over 200 customers.  Defendants worked for Plaintiff, but they eventually quit and worked third shift at another company.  Defendants decided they would begin their own home-cleaning company, and they solicited Plaintiff’s customers for their own business.  Some customers decided to switch from Plaintiff’s company to their company.  Plaintiff sought damages for the lost profits, and wanted Defendants cease their operations, claiming they compromised his trade secrets.
+
+Issue
+The issue is whether Defendant is liable for damages for work performed after their employment ended.
+
+Held
+Defendants owe Plaintiff the profits they made from customers taken from Plaintiff, but they do not have to cease their operations.  Defendants had a duty to protect Plaintiff’s trade secrets and are prohibited from profiting from the secrets even after their employment ended.  The customer listing was formulated through many much effort on behalf of Plaintiffs, but their methods of cleaning a house were nothing so secretive as to justify prohibiting Defendant’s from continuing their cleaning services.
+
+Discussion
+Most people are at will employees wherein either side can terminate the employment at any time.  However, public policy would dictate that an employee should be able to continue in the field of work while not having a right to exploit information that was held in confidence at their prior employment.
+

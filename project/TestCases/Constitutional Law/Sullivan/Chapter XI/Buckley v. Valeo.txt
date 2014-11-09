@@ -1,0 +1,24 @@
+Citation
+425 U.S. 946; 96 S. Ct. 1690;48 L. Ed. 2d 190; 1976 U.S.
+
+Brief Fact Summary
+Certain key provisions of the constitutionality of the Federal Election Campaign Act of 1971 (FECA) were challenged as unconstitutional.
+
+Synopsis of Rule of Law
+The government may not restrict expenditures in political campaigns because such expenditures are forms of political expression protected by the First Amendment to the United States Constitution. However, the government may impose restrictions on the amount of a person’s contributions to political campaigns.
+
+Facts
+Certain key provisions of the constitutionality of FECA were challenged as unconstitutional. The Supreme Court of the United States held that the individual contribution limits, the disclosure and reporting provisions and the public financing schemes are constitutional. However, the limitations on campaign expenditures, on independent expenditures and on expenditures by a candidate from his own personal funds are unconstitutional.
+
+Issue
+Whether limiting contributions to political campaigns is constitutional?
+
+Held
+Yes. The Act is aimed in part at equalizing the relative ability of all voters to affect electoral outcomes by placing a ceiling on expenditures for political expression by groups and citizens. A limitation on contributions, thus, involves little direct restraint on political communication, for it permits the symbolic expression of support evidenced by a contribution, but does not in any way infringe on the contributor’s freedom to discuss candidates and issues. There is no evidence that supports the claim that contribution limitations do discriminate against major-party challengers to incumbents. Therefore, limiting contributions to political campaigns is constitutional.
+
+Dissent
+The expenditure limitations do not violate the First Amendment of the Constitution.
+
+Discussion
+The Court assumed that the FECA implicated the First Amendment in it holding that expenditure ceilings are unconstitutional because such restrictions substantially restrain the quality of free speech while serving no valid interest. However, the Court bifurcated its decision by finding that limiting contributions to political campaigns is constitutional since it has a valid goal of equalizing the voters’ abilities to affect the voting process.
+

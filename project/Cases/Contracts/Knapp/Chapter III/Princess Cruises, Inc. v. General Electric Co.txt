@@ -1,0 +1,21 @@
+Citation
+22 Ill.143 F.3d 828 (4th Cir. 1998)
+
+Brief Fact Summary
+Plaintiff, Princess Cruises, Inc., entered into a contract with the Defendant General Electric Co. for Defendant to perform inspection and repair services on one of Plaintiff’s ships. Plaintiff’s purchase order and Defendant’s price quotations contain different terms and conditions. Defendant’s terms and conditions limit Defendant’s liability and the type of damages that can be recovered from Defendant.
+
+Synopsis of Rule of Law
+A counteroffer acts as a rejection of the original offer. If the counteroffer is accepted, the terms and conditions of the counteroffer apply.
+
+Facts
+Plaintiff requested that Defendant perform services and provide parts related to the turbines of one of its ships. Defendant manufactured the turbines. Plaintiff created a purchase order, which included a description of the services and a contract price of $260,000. The terms and conditions were on the reverse side of the purchase order and indicated that the purchase order was intended to be an offer. The terms and conditions also indicated that the offer could be accepted by acknowledgement or performance, the terms and conditions could not be unilaterally changed, and Defendant would warranty workmanlike quality and fitness for intended use.
+
+Issue
+Do Plaintiff’s terms and conditions govern the agreement between the parties?
+
+Held
+No. Plaintiff accepted Defendant’s terms and conditions by accepting Defendant’s counteroffer.
+
+Discussion
+In the present case, the Court found that Plaintiff accepted Defendant’s counteroffer through both words and actions. Therefore, the terms and conditions contained in Defendant’s counteroffer apply. It is important to note that this is the result under common law. If the UCC had applied, the analysis would be different.
+

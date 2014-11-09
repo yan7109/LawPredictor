@@ -1,0 +1,21 @@
+Citation
+119 N.H. 457, 404 A.2d 1094 (1979)
+
+Brief Fact Summary
+Plaintiff brought a product liability action to recover damages for an injury he sustained while using a plastic cutting machine made by Spadone Machine Co. (Defendant). The Superior Court of New Hampshire entered the jury verdict in favor of the employee. The company appealed, claiming that the evidence did not support the verdict as conduct by Plaintiff and other company employees was a superseding cause.
+
+Synopsis of Rule of Law
+A jury could properly find that a defect is a proximate cause of an injury. The existence of concurrent causes will not in and of itself vitiate a finding that one cause was a proximate cause of the injury.
+
+Facts
+An employee at Davidson Rubber Company was injured while using a plastic cutting machine. The machine, a “guillotine-type” cutting device, had several safety mechanisms, and the manufacturer had modified the machine so that its operation would preclude workers’ hands from entering the cutting area. Trial testimony indicated that, although the machine was intended to be used by only one person, employees would at times work together to operate it. The employee lost three fingers when he and another worker were operating the machine manufactured by the company. The trial court ruled, over objection, that Defendant could not use as a defense, company conduct as a superseding, and thus proximate, cause of the injury. The jury found for Plaintiff and Defendant appealed.
+
+Issue
+Did the trial court err in disallowing Defendant’s superseding cause argument for submission to the jury?
+
+Held
+No. The Supreme Court of New Hampshire held that the jury’s general verdict in favor of the employee constituted a finding that the machine was defective in design, unreasonably dangerous, and the proximate cause of the employee’s injuries.
+
+Discussion
+Defendant claimed that the employer, Davidson Rubber, was aware of the manner in which its employees used the device in question, and it contended that this knowledge and practice was a superseding cause of the injury suffered by Plaintiff. In considering the manufacturer’s claims, the court rejected this argument. Generally, a manufacturer is under a general duty to design a product, which is reasonably safe its foreseeable uses. In this case, Defendant cannot successfully argue that a third person’s negligence or misuse was a superseding cause, he must prove that the negligence or misuse was not reasonably foreseeable. This Defendant failed to do provide evidence to this effect.
+

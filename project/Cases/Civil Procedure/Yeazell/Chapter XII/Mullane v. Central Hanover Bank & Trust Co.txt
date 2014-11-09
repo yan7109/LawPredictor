@@ -1,0 +1,21 @@
+Citation
+339 U.S. 306, 70 S. Ct. 652, 94 L. Ed. 865, 1950 U.S. 2070
+
+Brief Fact Summary
+Defendant Central Hanover Bank and Trust Company attempted to settle its first account as common trustee. The only notice given to beneficiaries of the trust was publication in a local New York newspaper, despite the fact that numerous beneficiaries were not New York residents.
+
+Synopsis of Rule of Law
+Notice of service of process must be of such nature as reasonably to convey the required information, and it must afford a reasonable time for those interested to make their appearance.
+
+Facts
+Defendant established a common trust fund in January, 1946. A total of 113 trusts participated in the common trust fund. Some were not residents of the state of New York. In March 1947, Defendant petitioned New York’s Surrogate’s Court for settlement of its first account as common trustee. The only notice given beneficiaries of Defendant’s application was by publication in a local New York newspaper, which set forth merely the name and address of the trust company, the name and the date of establishment of the common trust fund, and a list of all participating estates, trusts or funds. Plaintiff Mullane made a special appearance, alleging that notice and the statutory provisions for notice to beneficiaries were inadequate, and thus that the court was unable to render a binding decree.
+
+Issue
+Whether sufficient notice was supplied to non-residents of legal action affecting them by the publication of an announcement in a local newspaper.
+
+Held
+No, because the statutory notice was not reasonably calculated to reach those who could have easily be informed by other means. Notice must be reasonably calculated, under all the cirucmstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections. Notice must be of such nature as reasonably to convey the required information, and it must afford a reasonable time for those interested to make their appearance. The means employed must be such as one that reasonably might inform the absent party.   Adjudications resulting in the deprivation of life, liberty or property must be preceded by notice and an opportunity for a hearing appropriate to the nature of the case. Personal service of written notice within the jurisdiction is always adequate in any type of proceeding.
+
+Discussion
+Because the fundamental right of due process is the opportunity to be heard, this right has little worth unless one is informed that the matter is pending and can choose for himself whether to appear or default.
+

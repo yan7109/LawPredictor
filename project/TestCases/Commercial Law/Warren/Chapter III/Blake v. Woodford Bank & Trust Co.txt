@@ -1,0 +1,21 @@
+Citation
+555 S.W.2d 589, 1977 Ky. App. 790,21 U.C.C. Rep. Serv. (Callaghan) 383
+
+Brief Fact Summary
+Two checks were deposited and returned due to insufficient funds.  The bank failed to return the checks before its midnight deadline on the following banking day. The circuit court dismissed the initial acting stating the bank was excused from meeting its deadline.
+
+Synopsis of Rule of Law
+A payor bank is granted until midnight of the next business day following the business day on which it received a check to return a check for insufficient funds.
+
+Facts
+This is a review of the judgment of the circuit court dismissing the case of appellee, Wayne Blake (the “appellee”). The circuit court found that appellant, Woodford Bank and Trust (the “appellant”), was excused from not meeting its midnight deadline to return two checks.
+
+Issue
+Was the circuit court correct in its finding that the bank was excused from returning the checks?
+
+Held
+No. The circuit court finding that the bank was excused from returning the checks after its midnight deadline is reversed. The court found that the events that prevented the bank from meeting its midnight deadline were foreseeable; therefore, they are not valid excuses. The court finds that the appellant is responsible for the entire face value of the checks minus any credit that may have been received from K & K Farm.  Uniform Commercial Code Section: 4-302 states that if the payor bank misses its midnight deadline, the bank is “accountable” for the face amount of the check. Uniform Commercial Code Section: 4-108(2) provides that a payor bank is excused from its midnight deadline if the failure to return the check was “caused by interruption of communication facilities, suspension of payments by another bank, war, emergency conditions or other circumstances beyond the control of the bank…”
+
+Discussion
+“When a payor bank has paid a check by failing to return the check by its midnight deadline, the bank may be entitled to relief under U.C.C. Section: 3-418. Under the statute, payment of a check is final only in favor of a holder in due course or a person who has in good faith changed his position in reliance on the payment. Thus, if no value has been given for the instrument the holder loses nothing by the recovery of the payment and is not entitled to profit at the expense of the drawee; if he has taken the instrument in bad faith or with notice he has no equities as against the drawee.”
+

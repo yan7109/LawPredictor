@@ -1,0 +1,21 @@
+Citation
+22 Ill.546 U.S. 914, 126 S. Ct. 283, 163 L. Ed. 2d 250 (2005)
+
+Brief Fact Summary
+The Defendants, MacDonald & Watson Waste Oil Co. and several of its officers including its president (Defendants), were convicted of violating the Resource Conservation and Recovery Act (the Act) in his role as president of business operating a waste disposal facility where hazardous waste had unlawfully been dumped.
+
+Synopsis of Rule of Law
+A defendant, as president of company operating a waste disposal facility, cannot be held criminally liable for unlawful dumping of hazardous waste without evidence that the defendant had actual knowledge of the unlawful dumping, as required by the statute.
+
+Facts
+One of the Defendants, the president of MacDonald & Watson Waste Oil Co., was convicted of knowingly transporting and causing the transportation of hazardous waste to a facility that did not have a permit, in violation of the Act. The defendant, MacDonald & Watson Waste Oil Co. was engaged in the business of transporting and disposing of contaminated wastes. An employee of the company supervised the transport of contaminated soil to the company waste disposal site, which did not have a permit to contain hazardous wastes.
+
+Issue
+Is proof that the defendant President was the responsible corporate officer sufficient to support a conviction of knowingly transporting hazardous waste to a facility that did not have a permit to dispose of it?
+
+Held
+No. Reversed. The charge given by the trial court essentially counseled the jury that proof the defendant President was a responsible corporate officer of the company involved in the offense, was equivalent to proof that the defendant had knowledge of the hazardous waste ships to his company’s disposal facility. This standard of the responsible corporate officer doctrine is not applicable to offenses that require proof of defendant’s knowledge as an express element of the crime.
+
+Discussion
+The court in this case held that the responsible corporate officer doctrine did not apply essentially because this was not a mere regulatory misdemeanor offense, but a felony offense that included the element of actual knowledge of the unlawful activity.
+

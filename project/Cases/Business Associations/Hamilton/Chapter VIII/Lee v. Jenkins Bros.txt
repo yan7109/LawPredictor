@@ -1,0 +1,21 @@
+Citation
+268 F.2d 357 (2d Cir. 1959)
+
+Brief Fact Summary
+Jenkins (D) president in 1920 made a promise to Lee (P) when Lee (P) was hired that he would pay Lee (P) a $1,500 pension at age 60, “regardless of what happens”. Lee seeks enforcement of this promise.
+
+Synopsis of Rule of Law
+Presidents have the authority to bind their company to acts in the scope of regular and usual conduct, but not for contracts of extraordinary natures.
+
+Facts
+Jenkins (D) sought to hire Crane’s business manager Lee (P) after buying a factory from Crane. The president of Jenkin’s (D) Yardley and a vice-president met Lee in 1920 to make him an offer. Yardley promised that Jenkins (D) would pay Lee (P) his crane pension and that he would pay Lee (P) himself if anything came up. The pension was for $1,500 a year starting age 60, and “regardless of what happens, you will receive this pension for joining our company.” This promise was oral. At 55, after serving as a director and vice-president in Jenkins (D), Lee (P) was discharged. Lee sought to recover the pension for age 60. Jenkins (D) argues that Yardley had no authority to make the extraordinary contract in the first place. Trial court agreed as a matter of law, and Lee (D) appealed.
+
+Issue
+Do presidents have the authority to bind their company to acts in the scope of regular and usual conduct, and not for contracts of extraordinary natures?
+
+Held
+(Medina, J.) Yes. Presidents have the authority to bind their company to acts in the scope of regular and usual conduct, but not for contracts of extraordinary natures. Courts have noted the injustice created by corporations when they disavow at their convenience the authority of the officer’s making contracts. President’s can generally hire, fire, and fix employee compensation. However, employment contracts for life or permanents are usually found extraordinary and unauthorized. Life time contracts have been upheld in situations wherein the employee had to give up consideration, such as leaving another job, leaving another business, or where the services were vitally essential to the corporation. The similarity that pension promises have to unenforceable lifetime contracts is if they are of an indefinite period. Such an agreement is not unreasonable, they are necessary and beneficial to corporations as a common corporate fringe benefit. Apparent authority is a question on fact and circumstances of the negotiation. Accordingly, and reasonably, there is support to both sides on whether Yardley held authority to make the contract, the trial court erred in determining the issue as a matter of law. Reversed.
+
+Discussion
+General reasons for finding a contract extraordinary; undue restriction on shareholder power and that of future boards on questions of managerial policy, undue subjection of the corporation to an inordinately substantial amount of liability, and long and indefinite running periods. Unlike life employment contracts, pensions promises have been found by courts to be binding and definite even when felt gratuitous by the employer. With these promises, the consideration given to the employee is different normal variables trying to direct discretion one way or another.
+

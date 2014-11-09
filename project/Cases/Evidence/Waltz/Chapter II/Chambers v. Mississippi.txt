@@ -1,0 +1,27 @@
+Citation
+537 U.S. 1018 123 S. Ct. 536, 154 L. Ed. 2d 425 154 L. Ed. 2d 425.
+
+Brief Fact Summary
+Defendant, Leon Chambers, was convicted for the murder of a police officer, Aaron Liberty.  As part of his defense, Defendant attempted to admit evidence that another man, Gable McDonald, committed the murder.
+
+Synopsis of Rule of Law
+A state can not violate a defendant’s rights under the Fourteenth Amendment to the United States Constitution by restricting a defendant from examining a witness through the strict application of evidence rules.
+
+Facts
+Defendant was present at an pool hall when several officers entered to make an arrest.  The crowd resisted the officers, and shots were fired, one of them striking Liberty.  Before Liberty died, he shot into the crowd, hitting Defendant.  Eyewitnesses gave varying versions of whether Defendant was the person who shot Liberty.  There was evidence of another man, McDonald, committing the shooting.  The shot was from a .22 caliber pistol like the one McDonald owned at one time.  McDonald also confessed to three people on three separate occasions that he shot Liberty.  Defendant called McDonald as an adverse witness, but Mississippi voucher rules prevented Defendant from calling McDonald as an adverse witness.  The lower court argued that the witness was not adverse because McDonald never accused Defendant of the crime.  Defendant also wanted to admit as evidence the three confessions, but the admission was denied as hearsay.
+
+Issue
+There are two evidentiary issues presented in this case.
+
+Held
+The United States Supreme Court made the following holdings.
+
+Dissent
+Justice William Rehnquist would deny Defendant’s appeal because of procedural grounds for not correctly asserting a Federal right.
+
+Concurrence
+Justice Byron White highlights his concern for the contemporaneous-objection requirement in order to preserve right s for review by the Court, and whether that requirement was met in this case.  White’s argument is directly targeted to the dissent.  He is reassuring the dissent that although the technical constitutional grounds may not have been properly laid out, there was a presence of due process objections.
+
+Discussion
+Although the dissent presents some slight dicta on the correctness of the application of evidentiary rules, this case demonstrates the line where evidentiary rules can not cross.  Here, Defendant could not present evidence that went to the heart of his argument
+

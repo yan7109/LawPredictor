@@ -1,0 +1,21 @@
+Citation
+588 P.2d 689, 1978 Utah 1484
+
+Brief Fact Summary
+The brothers of a party to a divorce proceeding sued the wife of their brother to regain possession of a piece of property awarded to the wife in the divorce decree.
+
+Synopsis of Rule of Law
+The plea of collateral estoppel can only be asserted against a party in the subsequent suit that was also a party or in privity with a party in the prior suit.
+
+Facts
+The Defendant, Edlean Searle (Defendant), sued Woodey Searle (Mr. Searle) for a divorce. In that case, the court determined that a piece of property known as the Slaugh House, which was recorded in Mr. Searle’s name was part of the marital property. Mr. Searle argued that he had a one-half interest in the property and that the other half was owned by a partnership with his sons as partners. The court awarded the entire property to the Defendant. This action was brought against the Defendant by the Plaintiff, a partnership called Searle Brothers (Plaintiffs), which claimed an undivided one-half interest in Slaugh house. It was alleged that Slaugh house had been paid for with partnership funds. The trial court held that claim and issue preclusion barred this action.
+
+Issue
+Whether claim preclusion precludes an action by a plaintiff who was not a party to an earlier divorce decree, contesting the ownership of a piece of property partitioned in the divorce decree.
+
+Held
+The judgment was reversed and remanded for trial.   In general, a divorce decree like other final judgments, is conclusive as to parties and their privies and operates as a bar to any subsequent action.  Under res judicata, if the subsequent suit involves different parties, those parties cannot be bound by a prior judgment. Collateral estoppel, on the other hand, arises from a different cause of action and prevents parties or their privies from relitigating facts and issues in the second suit that were fully litigated in the first suit. The plea of collateral estoppel can only be asserted against a party in the subsequent suit that was also a party or in privity with a party in the prior suit.  The partnership interest was not legally represented in the prior divorce suit, because Mr. Searle, the defendant in the prior action, was acting in his individual capacity as the husband of the plaintiff and was not acting in a representative capacity for the partnership.   <br/><br/><span class='heading'>Dissent.</span> Judge Crockett dissented. He disagreed with the majority because he found that the partnership was actively involved in the divorce since one of the pieces of property   partitioned in the divorce was allegedly owned by the partnership at the time of the divorce.
+
+Discussion
+This case involves the difference between res judicata and collateral estoppel. Res judicata is claim preclusion and applies only to parties to the original lawsuit. Collateral estoppel, meanwhile, is issue preclusion and binds any party in privity with the earlier suit, from relitigating an issue or set of facts that was determined in the earlier suit. Thus, because it was clear that plaintiffs were not parties to the original suit, collateral estoppel was the only way they could be precluded from filing the second suit. They had to have been in privity with the parties to the divorce action or actually in the divorce action.
+

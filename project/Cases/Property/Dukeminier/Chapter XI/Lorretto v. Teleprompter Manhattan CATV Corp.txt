@@ -1,0 +1,24 @@
+Citation
+458 U.S. 419, 102 S. Ct. 3164, 73 L. Ed. 2d 868, 8 Med. L. Rptr. 1849 (1982)
+
+Brief Fact Summary
+The Appellant, Jean Lorretto (Appellant), owned an apartment building. The previous owner of the building allowed a cable company to install cable in the building. Lorretto sued the Appellee, Teleprompter Manhattan CATV Corp. (Appellee), arguing that the cable boxes were a permanent physical occupation of her property authorized by the government.
+
+Synopsis of Rule of Law
+New York state law providing that a landlord must permit the installation of cable facilities on property was a physical occupation of property constituting a taking.
+
+Facts
+Appellee had placed certain CATV components, wires and boxes, on the property of Appellant. The CATV components were installed prior to Appellant’s purchase of the building in question and Appellant did not learn of them until after she purchased the building. Under a New York statute, a landlord could only demand a payment from the cable company for such an installation of wires and boxes consistent with an amount to be determined by the Commission on Cable TV. New York State Commission on Cable Television rule had determined that a one-time, $1, payment was the equivalent to compensate the Landlord for what he would have received if the portion of property that held the wires and boxes were condemned and taken by the state.
+
+Issue
+Whether the cable installation, which permanently physically occupies a space, constitutes a taking without just compensation.
+
+Held
+A permanent (and not temporary) physical occupation of property is a taking. The property owner is entitled to compensation. The Supreme Court of the United States (Supreme Court) did not consider whether the fee was a proper measure for the amount of the compensation, which would be considered by state courts on remand.
+
+Dissent
+Justices Harry Blackmun (J. Blackmun), William Brennan (J. Brennan) and Byron White (J. White) thought the court constructed a rigid per se takings rule. All takings should be subject to a balancing test. Under such a per se rule, the Supreme Court would find a taking in the case of a permanent physical occupation regardless of the regard to public interests such a regulation may serve. Dissent also points out that taking is only permanently physical if the property remains residential.
+
+Discussion
+The distinct character of a permanent and physical occupation is key. Permanent means placement of a fixed structure on land or real property that might only rarely be subject to dispute. Permanent occupation of property physically takes away the rights to possess, use and dispose of property. Those are fundamental bundle of property rights and will thus be a taking per se. Other actions such as temporary invasion of property or actions by the government outside the property itself that cause physical damages within would merit the balancing test to determine if a taking occurred.
+

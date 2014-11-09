@@ -1,0 +1,21 @@
+Citation
+22 U.S. 1, 9 Wheat. 1, 6 L. Ed. 23 (1824)
+
+Brief Fact Summary
+Ogden was given an exclusive license, pursuant to a New York statute, to run a ferry between New York and New Jersey. Gibbons obtained a license, pursuant to federal law, to run a ferry in New York waters, thus, running in interference with Ogden’s license. Ogden sought an injunction against Gibbons.
+
+Synopsis of Rule of Law
+Congress’ power to regulate interstate commerce does not stop at the external boundary line of a State. Congress’ power to regulate within its sphere is exclusive.
+
+Facts
+The New York legislature enacted a statute granting Fulton and Livingston an exclusive right to operate a steamboat in New York waters. Thereupon, Fulton and Livingston licensed Ogden to operate a ferry between New York and New Jersey. Later, Gibbons began operating a ferry, licensed under a statute enacted by Congress that necessarily entailed Gibbons entering into New York waters, thereby violating Ogden’s monopoly. Ogden obtained an injunction against Gibbons from a New York court.
+
+Issue
+Was the New York court’s injunction against Ogden’s license lawful?
+
+Held
+No. The New York monopoly was invalid under the Supremacy Clause.
+
+Discussion
+The student should note that chief Justice John Marshall (J. Marshall) in his holding is not saying that commerce that is completely internal and that does not affect other States is subject to regulation by Congress under the Commerce Clause.
+

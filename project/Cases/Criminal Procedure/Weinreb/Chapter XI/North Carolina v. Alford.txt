@@ -1,0 +1,24 @@
+Citation
+400 U.S. 25, 91 S. Ct. 160, 27 L. Ed. 2d 162, 1970 U.S.
+
+Brief Fact Summary
+Appellee, facing the death penalty for first-degree murder, accepted a guilty-plea for murder, while maintaining his innocence.  The Court of Appeals found that the plea was involuntary based on his fear of the death penalty.
+
+Synopsis of Rule of Law
+“An individual accused of crime may voluntarily, knowingly, and understandingly consent to the imposition of a prison sentence even if he is unwilling or unable to admit his participation in the acts constituting the crime.”
+
+Facts
+Appellee Alford was indicted for first-degree murder, and faced the death penalty if convicted by a jury.  Substantial evidence pointed to his guilt.  He accepted a guilty plea for second-degree murder, thus avoiding the death penalty.  He did not admit any guilt, but the court heard substantial eye-witness testimony.  On review, the Court of Appeals found that the plea was involuntary because it was motivated by fear of the death penalty.
+
+Issue
+“[Whether a guilty plea [made out of fear of the death penalty] can be accepted when it is accompanied by protestations of innocence.”
+
+Held
+Yes.  The Supreme Court of the United States first cited Brady v. United States, which held that “a plea of guilty which would not have been entered except for the defendant’s desire to avoid a possible death penalty and to limit the maximum penalty to life imprisonment or a term of year was not for that reason compelled within the meaning of the Fifth Amendment.”  As this standard still applied, the Supreme Court held that, “without more” the Court of Appeals would be vacated and remanded.  However, the additional fact that the appellee Alford “entered his plea but accompanied it with the statement that he had not shot the victim” led the Supreme Court to consider the matter further, as, generally, “a judgment of conviction resting on a plea of guilty is justified by the defendant’s admission that he committed the crime charged against him and his consent that judgment be entered without a trial of any kind.”  The Supreme Court cited some precedence, but concluded that they we
+
+Dissent
+Justice Brennan, joined by Justice Douglas and Justice Marshall, argued that the facts showed Alford was “so gripped by fear of the death penalty” that “his decision to plead guilty was not voluntary.”
+
+Discussion
+“When [a defendant's] plea is viewed light of the evidence against him, which substantially negated his claim of innocence and which further provided a means by which the judge could test whether the plea was being intelligently entered, its validity cannot be seriously question.”
+

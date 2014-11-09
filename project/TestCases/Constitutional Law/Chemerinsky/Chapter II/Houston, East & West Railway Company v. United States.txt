@@ -1,0 +1,21 @@
+Citation
+234 U.S. 342, 34 S. Ct. 833, 58 L. Ed. 1341, 1914 U.S.
+
+Brief Fact Summary
+The government brought suit against railway companies in Texas, who were maintaining vastly different rate structures for shipments from Shreveport than from similar points within Texas.
+
+Synopsis of Rule of Law
+Congress may affect intrastate commerce, where the transactions of intrastate and interstate commerce are so related that the preservation of interstate commerce must involve intrastate instrumentalities as well.
+
+Facts
+Shreveport, Louisiana lies just east of the border with Texas. Railways in Texas were charging much more for shipment of goods westward into Texas than they were charging for a shipment from Dallas and Houston eastward. The Interstate Commerce Commission brought suit, alleging that the rate differences negatively impacted interstate commerce.
+
+Issue
+May the federal government regulate carriers engaged in intrastate commerce where the same carriers engage in interstate commerce?
+
+Held
+Yes. Court of appeals ruling affirmed.
+
+Discussion
+This holding seems somewhat inconsistent with the holdings in Carter Coal, 298 U.S. 238 (1936) and A.L.A. Schechter Poultry, 295 U.S. 495 (1935), but illustrates the generally inconsistent conceptualization of the Commerce Clause during this period.
+

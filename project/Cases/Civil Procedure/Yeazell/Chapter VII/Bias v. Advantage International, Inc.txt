@@ -1,0 +1,21 @@
+Citation
+905 F.2d 1558, 284 U.S. App. D.C. 391; 1990 U.S. App. 9607
+
+Brief Fact Summary
+Following the death of Len Bias (Bias), his father, the Plaintiff, James Bias (Plaintiff), brought suit on behalf of Bias’ estate against his agent, the Defendant, Advantage International, Inc. (Defendant). Defendant filed a motion for summary judgment that the district court granted.
+
+Synopsis of Rule of Law
+In order to withstand a summary judgment motion once the moving party has made a prima facie showing to support its claims, the nonmoving party must come forward with specific facts showing there is a genuine issue for trial.
+
+Facts
+Near the close of his college career, University of Maryland basketball player Bias, entered into a representation agreement with the Defendant whereby the Defendant agreed to advise and represent Bias in his affairs. Shortly thereafter, Bias died of a cocaine overdose. Plaintiff, as personal representative of the estate of Bias, sued Defendant for two separate injuries allegedly arising out of the representation of Bias. The district court awarded summary judgment to Defendant on both claims, which Plaintiff then appealed.
+
+Issue
+The case concerns the sufficiency of evidence a nonmoving party must show to survive the other party’s motion for summary judgment.
+
+Held
+The Court of Appeals for District of Columbia Circuit affirmed the decision of the district court granting summary judgment.   Federal Rule of Civil Procedure Rule 56(c) provides for summary judgment where the pleadings, depositions, answers to interrogatories and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law. The moving party always bears the initial responsibility of informing the district court of the basis for its motion and identifying those portions of the record, which it believes demonstrate the absence of a genuine issue of material fact.  Summary judgment is appropriate, no matter which party is the moving party, where a party fails to make a showing sufficient to establish the existence of an element essential to that party’s case and on which that party will bear the burden of proof at trial. Thus, the moving party must explain its reasons for concluding that the record does not reveal any genuine issues of material fact. Once the moving party has carried its burden, the responsibility then shifts to the nonmoving party to show that there is, in fact, a genuine issue of material fact. The nonmoving party must bring forth “specific facts” showing there is a genuine issue for trial.     In evaluating the nonmovant’s proffer, a court must of course draw from the evidence all justifiable inferences in favor of the nonmovant
+
+Discussion
+In holding summary judgment appropriate, the court pointed out that Plaintiff did not present evidence to rebut Defendant’s proof that Bias was a cocaine user. The court held that the testimony of Bias’ parents and his coach that he was not a cocaine user did not constitute sufficient “specific facts” rebutting Defendant’s proof because Bias’ parents and coach did not attend the parties at which it was alleged Bias used cocaine. Thus, the Circuit Court agreed with the District Court that there was no genuine issue of fact concerning Bias’s status as a cocaine user.
+

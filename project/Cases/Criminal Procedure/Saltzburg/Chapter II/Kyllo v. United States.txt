@@ -1,0 +1,21 @@
+Citation
+533 U.S. 27, 121 S. Ct. 2038, 150 L. Ed. 2d 94, 8 ILRD 37 (2001)
+
+Brief Fact Summary
+The police obtained evidence of a marijuana growing operation inside the defendant, Kyllo’s (the “defendant”) home, by using a thermal imaging device from outside the home.  The police used the device to gather evidence to support issuance of a search warrant for the home.
+
+Synopsis of Rule of Law
+The use of a device by the government, which is not generally used by the public, to obtain evidence from inside a home is a presumptively unreasonable search without a warrant under the Fourth Amendment of the United States Constitution (”Constitution”).
+
+Facts
+Upon suspicion that the defendant was growing marijuana in his home, police used a thermal-imaging device to detect heat radiating from the defendant’s home.  With this information, police obtained a search warrant for the home.
+
+Issue
+Does the use of a device by the government to obtain evidence from a constitutionally protected area without physical intrusion constitute a search under the Fourth Amendment of the Constitution?
+
+Held
+Where police obtain information about the inside of a home without physical intrusion, using a device not normally used by the public, the police action constitutes a Fourth Amendment search and is presumptively unreasonable without a warrant.
+
+Discussion
+The Fourth Amendment of the Constitution protects persons and their property from unreasonable searches by the government.  The home is one place where society deems an expectation of privacy reasonable.  In order to preserve this degree of privacy, government searches under these circumstances must be supported by a warrant.
+

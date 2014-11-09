@@ -1,0 +1,21 @@
+Citation
+361 A.2d 218 (Del. 1976)
+
+Brief Fact Summary
+Plaintiff, Irving Fliegler, brought a suit on behalf of Agau Mines, Inc., against Defendant directors, John Lawrence et al., after they voted to exercise an option to purchase shares of another company.
+
+Synopsis of Rule of Law
+Shareholder ratification of a transaction between the corporation and an interested party will not be legitimate if the majority of the shareholders are the interested parties.
+
+Facts
+One of the Defendant directors, acting in his individual capacity, purchased a lease option for antimony (metal) rights.  He offered the rights to Agau but the directors agreed that Agau’s financial position would not allow the purchase.  The director then transferred the rights to a company formed for the specific purpose of holding those rights.  He then gave Agau a long-term option to purchase the holding company.  A few months later, Agau’s directors voted to exercise the option.  A majority of shareholders voted the same way, but the directors also comprised a majority of shareholders.  Plaintiff argued that Defendant directors usurped a corporate opportunity for their own individual benefit, and that the transaction was inherently unfair.  Defendants responded that their voted was ratified by shareholders, thereby shifting the burden of proof to Plaintiff to prove that the transaction was fair, but they also offered proof that it was fair.
+
+Issue
+The issue is whether a transaction is legitimately ratified by shareholders when a majority of shares are held by the directors.
+
+Held
+The burden of proof that the transaction was fair was still on the Defendant directors because the shareholder ratification was not legitimate.  Defendants controlled a majority of the shares, and there was not enough proof that disinterested shareholders voted with the directors.  However, Defendants did offer enough proof to demonstrate that the transaction was fair.
+
+Discussion
+Shareholder ratification can be used to switch the burden of proof back to a plaintiff to prove that a transaction was not legitimate.  It therefore can reset the standard back to the business judgment rule
+

@@ -1,0 +1,24 @@
+Citation
+230 N.Y. 239, 129 N.E. 889, 1921 N.Y. 828, 23 A.L.R. 1429
+
+Brief Fact Summary
+Jacobs & Youngs (Plaintiff) sued to recover from Kent (Defendant) the unpaid balance for a construction contract. Defendant appeals from a verdict reversing the decision of the lower court excluding the evidence presented by the Plaintiff.
+
+Synopsis of Rule of Law
+A term is considered a promise creating a duty on the obligee rather than a condition of the obligor’s duty that the obligee fulfill the terms of the contract.
+
+Facts
+Plaintiff built a country residence for the Defendant for $77,000.00. Construction ended in June 1914 and the defendant began to occupy the house. In March 1915, a complaint of defective performance was filed. The contract specified that the plumbing was suppose to consist of all wrought iron pipe which must be well galvanized pipe, known as standard pipe of Reading manufacture. Defendant learned in March that some of the pipe was made of pipe that was not Reading. Plaintiff was directed to do the work again which meant that part of the structure had to be torn down. Plaintiff left the work as done and asked for a final certificate that payment was due which was refused. The omission of the Reading pipe was an oversight of Plaintiff’s subcontractor, and Defendant’s architect also failed to notice the discrepancy. Plaintiff tried to show that the two pipes were of similar quality, however the evidence was excluded and a verdict was granted to the Defendant. The Appellate Divisi
+
+Issue
+Whether the requirement for Reading pipe was an express condition and if non-occurrence of the condition excuses performance of the obligor?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+The plaintiff did not perform under the contract. The Plaintiff obligated itself to use pipes made by Reading for the plumbing in the contract. Defendant agreed to pay only upon the condition that the pipe installed was made by Reading, and that he should not have to perform unless the condition was performed. The rule of substantial performance is not applicable.
+
+Discussion
+The rationale behind the holding in this case is that if a party’s performance is conditioned on another’s duty, non-performance completely discharges the obligor from her obligation. On the other hand, a party who breaches a promise is liable for his breach.
+

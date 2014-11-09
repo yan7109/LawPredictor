@@ -1,0 +1,21 @@
+Citation
+22 Ill.92 Idaho 757, 450 P.2d 604 (1969)
+
+Brief Fact Summary
+The Plaintiff, Boise Junior College District (Plaintiff), brought suit against the Defendant, Mattefs Construction Co. (Defendant) in an attempt to collect on a bid bond.
+
+Synopsis of Rule of Law
+Rescission is an equitable remedy when both parties enter into a contract under a mutual mistake.
+
+Facts
+Plaintiff sought bids for a project from various construction companies. Defendant had the second-lowest bid and included in its bid was a bid bond, which offered to pay reliance damages to the Plaintiff, if Defendant turned down the job for any reason. Defendant realized a clerical error had been made when formulating the bid and sought rescission, rather than being held to the terms of the contract. The trial court found that a material mistake (i.e. a mistake that affected the essence of the contract) had been made and allowed rescission. Plaintiff appealed.
+
+Issue
+This case considers whether rescission is available when there is a mutual material mistake in the negotiation process.
+
+Held
+Affirmed.
+
+Discussion
+This is considered a mutual mistake case because the clerical error led both sides to believe they were entering into a contract that was different than it really was.
+

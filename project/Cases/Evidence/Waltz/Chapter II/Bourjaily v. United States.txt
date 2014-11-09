@@ -1,0 +1,18 @@
+Citation
+483 U.S. 171, 107 S. Ct. 2775, 97 L. Ed. 2d 144, 1987 U.S.
+
+Brief Fact Summary
+Clarence Greathouse (”Mr. Greathouse”), while working as an informant for the Federal Bureau of Investigation (”FBI”), arranged to sell a kilogram of cocaine to Angelo Lonardo (”Mr. Lonardo”).<span class='heading'>Synopsis of Rule of Law.</span>  Pursuant to the Federal Rules of Evidence (F.R.E.) Rule 801(d)(2)(E), a statement is not hearsay if the statement is offered against a party and is a statement by a co-conspirator of a party made during the course of and in furtherance of the conspiracy.
+
+Facts
+Mr. Greathouse, while working as an informant for the FBI, arranged to sell a kilogram of cocaine to Mr. Lonardo.  Mr. Lonardo talked about a gentleman friend that had questions about the cocaine, and then talked about him again, both in recorded phone conversations.  There was an agreement about the time and place for the sale, and when everyone showed up as planned, the gentleman friend and Mr. Lonardo were arrested. The Petitioner also had $20,000 in cash with him in the parking lot.<span class='heading'>Issue.</span>  Whether the court must determine by independent evidence that a conspiracy existed and that the defendant and the declarant were members of this conspiracy?
+
+Held
+No.  Even though the rule has since been rewritten to allow some “bootsrapping”, as long as there is some independent corroboration independent evidence is not needed.
+
+Dissent
+Argues that independent evidence should be required to enhance the reliability of the evidence.
+
+Discussion
+The standard is changed in this case to a preponderance of the evidence, as found by the judge.  In Huddleston, the judge needed to find that the jury could be persuaded by a preponderance of the evidence; in this case, the judge himself must be so persuaded. The standard for admitting evidence is unrelated to the standard on the substantive issues (See Huddleston).  The court has to find it more likely than not that the technical issues and policy concerns addressed by the F.R.E., have been afforded due consideration under the preponderance standard.  The standard is higher here because of a particular distrust of hearsay. As a practical matter, this is a fairly high standard. The question really comes down to whether or not the court can look at the statements themselves in determining whether or not there was a conspiracy, or whether they may look only to independent evidence.  Glasser’s bootstrapping rule (saying that hearsay may not be considered in these factual determinations) does not remain viable after the enactment of the F.R.E. The Supreme Court of the United States (”Supreme Court”) here decides that the conspiracy was all proven by independent evidence and that the statements were all proven, though not one by one, as a whole in the unfolding of the entire series of events. As a result, the court never reaches the issues of whether they could have relied on the statements alone in determining their admissibility. Lastly, the Court decides that this exception has been around a long time, and that reliability is therefore not required to satisfy the requirements of the confrontation clause.
+

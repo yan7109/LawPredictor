@@ -1,0 +1,24 @@
+Citation
+22 Ill.167 Ohio St. 221, 147 N.E.2d 599 (1958)
+
+Brief Fact Summary
+The Plaintiff, Rush (Plaintiff), brought suit in one court for damages to her property resulting from the Defendant, the City of Maple Height’s (Defendant), negligence and another suit in a different court for personal injuries suffered from the same negligent action.
+
+Synopsis of Rule of Law
+It is improper to bring different claims for damages to property and person, which arose, from the same tort.
+
+Facts
+The Plaintiff suffered property damages to her motorcycle and personal injuries to her body resulting from the negligence of the Defendant in maintenance of its street. The Plaintiff sued the city in negligence for damages to her property in Municipal Court and was awarded $100. The Plaintiff also brought an action in the Court of Common Pleas for personal injuries that she sustained from the accident. Her motion to set trial on the issue of damages alone was granted on the ground that the issue of negligence was res judicata because of the Municipal Court action. The Plaintiff was awarded $12,000 and the Court of Appeals affirmed.
+
+Issue
+Whether the trial and appellate courts committed error in permitting the Plaintiff to split her cause of action.
+
+Held
+Yes. Whether or not injuries to both person and property resulting from the same wrongful act are to be treated as injuries to separate rights or as separate items of damage, a plaintiff may maintain only one action to enforce his rights existing at the time such action is commenced. Judgment reversed and final judgment for the Defendant.
+
+Dissent
+Judge Zimmerman dissented and argued that established law should remain undisturbed in order to insure a stability on which the lower courts and the legal profession generally may rely with some degree of confidence.
+
+Discussion
+In a prior case, the court noted that a single tort could be the basis of but one action. It was not improper to declare in different counts for damages to the person and property when both resulted from the difference in the measure of damages and all the damages sustained must be sued for in one suit. This is necessary to prevent multiplicity of suits, burdensome expense and delays to plaintiffs and vexatious litigation against defendants. The Court reasoned that there was no valid reason to distinguish between injuries to the person and damages to the person’s property resulting from a single tort.
+

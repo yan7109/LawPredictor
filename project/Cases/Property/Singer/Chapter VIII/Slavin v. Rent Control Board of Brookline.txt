@@ -1,0 +1,21 @@
+Citation
+406 Mass. 458,548 N.E.2d 1226, 1990 Mass.
+
+Brief Fact Summary
+A residential lease prohibited the assignment and sublease of property without the written consent of the landlord. A tenant allowed someone to live on the property without the landlord’s consent.
+
+Synopsis of Rule of Law
+In a residential lease, a lease provision requiring the landlord’s consent to an assignment or sublease permits the landlord to refuse arbitrarily or unreasonably.
+
+Facts
+A residential lease stated that the tenant could not assign or sublet his premises without first obtaining the written consent of the landlord. The rent control bylaws state that if a tenant violates his lease, a landlord can seek to evict the tenant. A landlord (Plaintiff) sought to evict Barry Myers (Defendant) after he let someone occupy his apartment without obtaining Plaintiff’s consent. The rent control board (Defendant) refused to issue an eviction certificate because it determined that the requirement of consent implied reasonableness. They found that the landlord had acted unreasonably, so the tenant did not violate the lease.
+
+Issue
+In a residential lease, does a tenant’s obligation to obtain the written consent of the landlord before assigning or subletting the lease impose an obligation on the landlord to act reasonably in withholding consent?
+
+Held
+No.
+
+Discussion
+In a rent-controlled jurisdiction, there is no economic reason for a residential landlord to withhold consent to an assignment or sublet, so since there will be no unfair financial gain, there is no reason to impose reasonableness requirements on landlords when they create a lease.
+

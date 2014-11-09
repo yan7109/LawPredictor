@@ -1,0 +1,21 @@
+Citation
+5 Ill. 2d 417,125 N.E.2d 600,1955 Ill.
+
+Brief Fact Summary
+The deceased, Albert B. Farkas, created purchased stock and held it in the form of a trust for a beneficiary, who was entitled to the stock in the event of Farkas’s death.  He executed trust declarations at the time of the purchase of each stock.  After Farkas died, the circuit court held that the declarations were invalid testamentary dispositions.
+
+Synopsis of Rule of Law
+An intervivos trust where the settlor does not retain all of the powers of normal ownership of stock and where the settlor has a fiduciary duty to the beneficiary as the trustee of the trust is valid and not a failed testamentary disposition where the beneficiary takes the trust property upon the settlor’s death, and the trust is executed in a formal manner.
+
+Facts
+Farkas purchased stock of Investors Mutual, Inc.   At the time of each purchase, he executed a written application directing the company to issue stock in his name “as trustee for Richard J. Williams.”  Along with the applications, Farkas signed separate declarations of trust.  Farkas retained the power to vote, sell, redeem, and exchange the stock.  He also retained the right to change the beneficiary or revoke the trust at any time.  Upon his death, the title to the stock was to be vested in the beneficiary.  When Farkas died, Williams sought to have the stock directed to him.  However the circuit court held that the trust declarations were testamentary in character and were invalid.
+
+Issue
+Whether a document is a valid intervivos trust that leaves a testamentary gift to a beneficiary where during the settlor’s lifetime, if he retained the rights to change the beneficiary and vote, sell, redeem, or exchange the stock, if the settlor is also the trustee.
+
+Held
+Yes.  A document is a valid intervivos trust where the settlor relinquishes some of the powers that are incident to stock ownership and the beneficiary has a claim against the settlor as a trustee if he does not fulfill his duties to the beneficiary in regards to the trust property, and the trust is formal.  Here the deceased applied for four separate applications for stock and directed that it be issued to him as a trustee for the beneficiary.  The acts were executed in a formal manner.
+
+Discussion
+Where a person creates an inter vivos trust that makes a disposition at death, it will not be held invalid because it is testamentary in character where the settlor passes on an interest through the trust before his death and the beneficiary has a claim against the estate for the mishandling of any funds in the trust.
+

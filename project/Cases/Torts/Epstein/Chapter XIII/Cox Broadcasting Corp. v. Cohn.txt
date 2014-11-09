@@ -1,0 +1,21 @@
+Citation
+420 U.S. 469, 95 S. Ct. 1029, 43 L. Ed. 2d 328, 1975 U.S.
+
+Brief Fact Summary
+Cohn (Plaintiff) brought suit based on invasion of privacy against Cox Broadcasting Corp. (Defendant), when the name of his 17-year-old daughter, a rape victim who did not survive the attack, was published by one of its reporters.
+
+Synopsis of Rule of Law
+The First Amendment protects a media defendant from attacks grounded in invasion of privacy, when their reporting is on an issue of public concern.
+
+Facts
+Plaintiff brought suit in Georgia, based on Ga. Code Ann Section:26-9901, which made it a crime to publish or broadcast the name or identity of a rape victim, and claimed that his right to privacy had been invaded. Cox admitted to the broadcasting, but claimed their actions were privileged under state law and the First and Fourteenth Amendments. The trial court rejected Cox’s claims and held that the Georgia statute allowed for a civil remedy to those injured by its violation. The Supreme Court of Georgia held that the trial court erred in allowing the Georgia statute to give a civil cause of action, and thus did not consider the constitutionality of the statute. The court ruled that the complaint also stated a cause of action for invasion of privacy, but that liability did not flow as a matter of law and summary judgment would be improper. After retrial, and appeal, the court then found that the identity of the rape victim did not rise to the level of public interest that would affo
+
+Issue
+Whether a criminal statute regarding the reporting of the identity of the victim of a crime precludes a media defendant from reporting on that issue when it of public concern?
+
+Held
+Reversed.
+
+Discussion
+Invasion of privacy actions cannot be brought against a media defendant when they report on an issue of public concern, using information obtained by legal means.
+

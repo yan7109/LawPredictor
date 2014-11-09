@@ -1,0 +1,21 @@
+Citation
+14 App.Cas. 337 (House of Lords, 1889).
+
+Brief Fact Summary
+Plaintiff brought suit after it bought shares in Defendant’s company, under the belief that Defendant would have the right to use steam power, as opposed to other companies, which would not.
+
+Synopsis of Rule of Law
+Misrepresentation, alone, is not sufficient to prove deceit.
+
+Facts
+Plaintiff received a prospectus regarding the incorporation of Defendant’s company, which highlighted that the company would have the right to use steam or mechanical power. After receiving the prospectus, Plaintiff bought shares of the company, relying on the allegations of the prospectus, and believing that the company had the absolute right to use steam or mechanical power. The board of trade refused to allow steam or mechanical power, and the company was wound up, unable to complete its work. Thereafter, Plaintiff brought suit against Defendant for fraudulent misrepresentations. The trial judge dismissed the action, after coming to the conclusion that the directors knew that the use of steam or mechanical power was contingent on the board of trade and it was not unreasonable or deceitful for them to rely on the board. On appeal, the dismissal was reversed, because the court found that the Defendants may have reasonably believed the prospectus and, because they did not have
+
+Issue
+Whether it is deceit when a company forms a prospectus to solicit investors, which later proves to be wrong?
+
+Held
+Reversed.
+
+Discussion
+An action of deceit will only stand in a court when a plaintiff can show not only misrepresentation, but also that defendants knew they would be unable to follow through with their representations.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.278 F.2d 79 (3d Cir. 1960)
+
+Brief Fact Summary
+The Plaintiff, Lind (Plaintiff), a sales manager for the Defendant, Schenley Industries (Defendant), a liquor company, alleged that Defendant had promised him an increase in pay and a share of commission, but then breached that promise. Defendant moved for judgment notwithstanding the verdict and a new trial, which the trial judge granted.
+
+Synopsis of Rule of Law
+The reversal of a trial court’s motion for a new trial is reversible if the trial court failed to apply the proper legal standards in granting the motion.
+
+Facts
+Plaintiff, a sales manager for Defendant, a liquor company, alleged that Defendant had promised him an increase in pay and a share of commission, but then breached that promise. The alleged promises were oral. Plaintiff and his then secretary, Mrs. Kennan, testified to such promises. Defendant’s agents denied making the promises. The jury found a contract and awarded damages. Defendant moved for judgment notwithstanding the verdict and a new trial, which the trial judge granted. Plaintiff then appealed
+
+Issue
+What is the appropriate standard of review of a trial court’s order granting a new trial after a jury verdict.
+
+Held
+The judgment of the court below was reversed with an order that the court reinstate the verdict.   Where the basis for ordering a new trial is that the verdict was against the weight of the evidence, it is frequently stated that a motion for a new trial on this ground is nonreveiewable because it is within the discretion of the trial court. But this discretion must still be exercised in accordance with ascertainable legal standards and if an appellate court is shown special or unusual circumstances, which clearly indicate an abuse of discretion in that the trial court failed to apply the proper standards, reversal is possible.   <br/><br/><span class='heading'>Dissent.</span> Judge Hastie dissented, in which he was joined by Judge Kalodner. The dissenting opinion stressed that the court should not reverse the opinion of a district judge who grants a new trial because he believed the verdict was against the weight of the evidence.
+
+Discussion
+Here the court is stressing that when the sole reason for the district judge to overturn a verdict has to do with his own assessment of the evidence, the original verdict should be reinstated because it is the jury’s sole province to assess the weight of evidence.
+

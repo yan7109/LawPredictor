@@ -1,0 +1,21 @@
+Citation
+52 N.Y.2d 784, 436 N.Y.S.2d 622, 417 N.E.2d 1010 (1980).
+
+Brief Fact Summary
+Plaintiff was hit by a car when he was working on an excavation job. The driver of the automobile, James Dickens (Dickens) was suffering from an epileptic seizure when the accident occurred.
+
+Synopsis of Rule of Law
+Foreseeability is the reasonable anticipation of the possible results of an action. Proximate cause is determined by whether an intervening act is a foreseeable consequence of the defendant’s negligence. If it is not foreseeable, then it is a superseding act which would sever the causal connection.
+
+Facts
+Dickens was driving eastbound on the thoroughfare where Plaintiff was working on an excavation. The driver suffered an epileptic seizure and lost consciousness, striking Plaintiff. The driver was undergoing treatment at the time, but had failed to take his medication that particular day. The automobile crashed through a single wooden horse-type barricade, and struck an employee of a subcontractor, who was propelled into the air. Upon landing, the employee was splattered by boiling liquid enamel from a kettle. Plaintiff and his wife sued the employer, Felix Contracting Corporation (Felix), Dickens, and the contractor for negligence, (Defendants) claiming that the employer failed to maintain a safe work site. Plaintiffs maintained that the barrier should have covered the entire width of the excavation site, and there should have been two flagmen present, as opposed to one. Felix contended that Plaintiff was injured solely as a result of Dickens’ negligence, because there was no
+
+Issue
+Were Plaintiff’s injuries a foreseeable result of the employer’s failure to maintain a safe work site?
+
+Held
+Yes. On appeal, defendant employer argued that there was no causal link between the employers breach of duty and plaintiffs injuries. The Court of Appeals of New York held that Plaintiff’s injuries were a foreseeable result of the risk created by the employer. When the acts of a third person intervene between the defendant’s conduct and the plaintiff’s injury, the causal connection is not automatically interrupted. Instead, it depends upon whether the intervening act was a foreseeable consequence of defendant’s negligence. If the intervening event is unforeseeable, then it may be a superseding cause, which would interrupt the causal connection between defendant’s negligence and plaintiff’s injuries. Whether an intervening act is foreseeable or not is a question for the trier of fact.
+
+Discussion
+For a plaintiff to carry the burden of proving a prima facie case of negligence, he must generally show that the defendant’s negligence was a substantial cause of the events that produced the injury. Plaintiff need not demonstrate that the precise manner in which the accident happened or that the extent of injuries was foreseeable. Essentially, the foreseeable harm test requires (1) a reasonably foreseeable result or type of harm, and (2) no superseding intervening force. Further, an intervening act may not serve as a superseding cause, and relieve an actor of responsibility, when the risk of the intervening act occurring is the very same risk that renders the actor negligent.
+

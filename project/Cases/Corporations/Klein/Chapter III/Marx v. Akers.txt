@@ -1,0 +1,15 @@
+Citation
+88 N.Y.2d 189, 644 N.Y.S.2d 121, 666 N.E.2d 1034 (1996)
+
+Brief Fact Summary
+Plaintiff, Sylvia Marx, initiated a shareholder derivative action against the Defendant Board of Directors, John Akers et al., without first demanding that the board initiate the suit.
+
+Synopsis of Rule of Law
+A director will always be an interested party, for the purpose of the excusal of a demand, when the director is voting on director compensation, but a plaintiff has to demonstrate with particularity that the compensation is excessive.
+
+Facts
+Plaintiff challenged Defendants’ decision to increase three of the outside director’s compensation to $55,000 plus 100 shares of IBM stock.  The increase was above the rate of the cost of living, and the company under Defendants has been struggling.  Therefore, Plaintiff asserted that the compensation was excessive.  Defendants argued that only three directors were affected by the compensation increase, and therefore a majority of the Board had no interest  – and therefore demand was not excused.  Defendants also argued that Plaintiff only asserted conclusory statements and did not assert with particularity any facts to establish that the compensation was excessive. <span class='heading'>Issue.</span>
+
+Held.  </span><br />• Demand was excused because the Defendant Directors have an interest in their own compensation. • The Plaintiff did not adequately support his claim and therefore the suit should be dismissed.  Other than asserting that the compensation was excessive, Plaintiff did not demonstrate with particularity what accounting decisions or any other facts that would establish the excessiveness of the raises.<br />						<!-- ContentBox-Law -->						<div id="div-gpt-ad-1368647497155-5" style="width:300px; height:250px;" class="floatright textad">						<script type="text/javascript">						googletag.display("div-gpt-ad-1368647497155-5");						</script>						</div>					<span class='heading'>Discussion
+• The Court looked at universal demand, which would be to require demand in all instances, and the Delaware reasonableness approach, but they applied New York’s statutory “particularity” requirements. • The court does not provide much guidance as to a precise threshold to establish the excessiveness.  Plaintiff established that the compensation was greater than the cost of living increase, and established that the company was not prospering under the current Board, but this was not enough.
+

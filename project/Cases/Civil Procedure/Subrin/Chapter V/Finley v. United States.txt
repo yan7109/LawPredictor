@@ -1,0 +1,24 @@
+Citation
+490 U.S. 545, 109 S. Ct. 2003, 104 L. Ed. 2d 593, 1989 U.S.
+
+Brief Fact Summary
+Petitioner, Finley, sought to combine the defendants in a civil action and bring the suit into federal court because that is the only place the federal government could be sued.
+
+Synopsis of Rule of Law
+Parties that otherwise could not be sued in federal courts can not be brought into federal court solely on the basis of having their claims share the same facts as the claim mandated to the federal courts.
+
+Facts
+Petitioners husband and two children died when their plane crashed into some electric transmission lines.  Petitioner brought state claims in a state court against San Diego Gas and Electric Company and against the city of San Diego for negligence in the maintenance of the lines, but then she sued Respondent, the United States government, in federal court under the Federal Torts Claims Act (”the Act”) because they were the ones actually responsible for the lines.  The Act required that a suit against Respondent can only be brought in federal court.  Petitioner moved to add the other defendants into the federal claim, but there was no independent basis for bringing them into federal court.  The district court agreed to grant pendent jurisdiction for the sake of judicial efficiency, but the appellate court reversed.
+
+Issue
+The issue is whether Petitioner can establish pendent jurisdiction in federal courts over defendants with state claims when there is no independent basis for bringing the action there.
+
+Held
+The majority of the United States Supreme Court held that just because the Act required Respondent to be challenged in federal court does not mean that other defendants can be brought into federal court if there is no independent basis for doing so.  There needs to be more than a common nucleus of facts, but rather express authority given by Congress or through the Constitution.
+
+Dissent
+United States Supreme Court Justice Harry Blackmun argued that it was only sensible to grant pendent jurisdiction when the law required the case to be in a federal court. United States Supreme Court Justice John Paul Stevens argued that 16 years of precedent coupled with a lack of Congressional disapproval demonstrated that state claims brought in such a manner is not only acceptable but sensible.  Under this ruling, plaintiffs will have to bring two separate cases.
+
+Discussion
+The majority read the Act very literally and hence narrowly.  Congress eventually overruled the decision by passing a supplemental jurisdiction statute that allowed for the combination of claims in federal court.
+

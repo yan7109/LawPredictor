@@ -1,0 +1,21 @@
+Citation
+71 Haw. 552, 799 P.2d 48, 1990 Haw.
+
+Brief Fact Summary
+Felomino Batangan (Defendant) was indicted for second degree rape and first degree sexual abuse, after his daughter (Victim) accused him of having sexual contact with her.  Defendant was tried twice; at the first trial, he was acquitted of the rape charge and a mistrial was declared on the sexual abuse charge, but at the second trial Defendant was convicted of sexual abuse.  Defendant appeals his conviction here, arguing that the admission of certain expert testimony was improper.
+
+Synopsis of Rule of Law
+Expert testimony in child sexual abuse cases is inadmissible when it usurps or unduly influences the jury (or any trier of fact) by telling the jury what legal conclusion to reach; such testimony is only admissible when it is relevant, the witness is an expert, the testimony assists the jury in comprehending something not commonly known or understood.
+
+Facts
+Defendant’s daughter (Victim) reported to school authorities that Defendant had physically abused her; no evidence of physical injury was found on Victim.  Victim then admitted that she had lied about the physical abuse, but the claimed that Defendant had performed sexual acts on her four of five times.  At Defendant’s first trial, he was acquitted of a rape charge and a hung jury resulted in a mistrial as to a charge of sexual abuse.
+
+Issue
+Did the lower court error in admitting, as expert opinion testimony, the testimony of Dr. Bond?
+
+Held
+Yes; the testimony was inadmissible under Hawaii Rule of Evidence 702 and clearly prejudicial to Defendant, and therefore should have been excluded.
+
+Discussion
+The court examined past caselaw in Hawaii and points out that it had, in the past, “recogniz[ed] [that] an expert generally may not testify as to the credibility of a witness . . . [but nevertheless found] child sexual abuse to be outside the common experience of the jury . . . [and] held that ‘an expert’s assessment of credibility may arguably provide the jury with potentially useful information.’”  The court then cited the dangers and benefits of admitting expert testimony in sexual abuse cases:
+

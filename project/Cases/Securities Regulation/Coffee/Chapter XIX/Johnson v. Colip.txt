@@ -1,0 +1,21 @@
+Citation
+Ind. Sup. Ct., 658 N.E.2d 575 (1995)
+
+Brief Fact Summary
+Allen and Li Yen Johnson (Plaintiff) brought suit against an attorney, Gary Colip (Defendant),alleging that he had assisted in the drafting of deceiving prospectuses and the unlawful sale of securities.
+
+Synopsis of Rule of Law
+A securities attorney who is present at meetings of potential investors and if his omission or action at those meetings made it very likely that the investor would buy the security may be held liable as an "agent" under state law.
+
+Facts
+An attorney, Gary Colip, was hired to represent and incorporate a corporation created to serve as a general partner in multiple limited partnerships. In order to invest in multiple oil companies, the limited partnerships were created, with Colip drafting the prospectus given to prospective investors. Colip was also present at the potential investor’s meetings, providing answers to the legal queries regarding the prospectus. Allen and Li Yen Johnson contracted to purchase partnership interests but shortly after filed complaints stating that due to the prospectus containing misstatements or omissions of material fact that the interests in the partnerships were sold to them in violation of a state statute.  With the Johnsonsamending their complaint at a later date, alleging that Coliplater amended their complaint to claim that Colip, with the other defendants, took part in the drafting of the deceiving prospectus. Colipmoved for summary judgment on the complaints, and the claims were consolidated by the court. Colip was granted summary judgment in his favor by the trial court, and the Johnsons appealed. The court of appeals reversed, and Colin appealed.
+
+Issue
+May a securities attorney who is present at meetings of potential investors be held liable as an “agent” under state law if his omission or action at those meetings made it very likely that the investor would buy the security?
+
+Held
+(Sullivan, J.) Yes.A securities attorney who is present at meetings of potential investors and if his omission or action at those meetings made it very likely that the investor would buy the security may be held liable as an "agent" under state law.A cause of action against an "agent" who significantly aides in the selling or buying of securities, lest he proves that when using reasonable care he could not have discovered the unlawfulness of the transaction is provided by the Indiana Securities Act. Anyone who represents a broker-dealer or issuer in trying to cause the selling or buying of securities is defined as an "agent." The Indiana state statute codifies the Uniform Securities Act of 1956, § 401, which suggests that the issue of agency is reliant on if the person is agreeable to act subject to the issuers control. But, to a determination of agency, the court implements another requirement.  To determine whether an attorney is acting as an agent as defined by the Indiana Securities Act is dependent on if he caused or tried to cause the sale of securities through offering, performing the sale or solicitation.  Simple legal representation is not sufficient to enforce liability under the statute, seeing as there is genuine issue of material fact if Colip tried to cause the unlawful sale of securities via his presence at the potential investor meetings, summary judgment was granted inappropriately. Although we are on the same page with the court of appeals that summary judgment was not suitable, our studydiverges slightly. Reversed.
+
+Discussion
+A cause of action at either equity or law to buyers of securities sold via illegal ways is offered by § 410 of the Uniform Securities Act of 1956. The buyer is permitted by § 410(a) to recover the price paid for the security along with any attorney’s fees and costs less any earnings from the security. The parties subject to liability are identified by Section 410(b) and this section enforces joint and several liabilities on any person who contributes materially to the unlawful sale, lest it can be proven that via reasonable investigation there would be no way to learn of the facts leading to the liability.
+

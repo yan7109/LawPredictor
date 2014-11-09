@@ -1,0 +1,18 @@
+Brief Fact Summary
+The Defendant, Mr. Wright (Defendant), contracted with the Postmaster General to keep coaches in working order. The Defendant failed to uphold his duty and the Plaintiff, Mr. Winterbottom (Plaintiff), was injured as a result.
+
+Synopsis of Rule of Law
+A plaintiff cannot bring tort claims against a defendant for nonfeasance that resulted from a contract which plaintiff was not privy to.
+
+Facts
+Plaintiff, a mail coach driver, was seriously injured when a vehicle broke down due to lack of repair. Defendant had contracted with the Postmaster General to keep the coach in safe and secure condition. Defendant failed to comply with this promise, resulting in Plaintiff’s injuries.
+
+Issue
+Does Defendant owe a duty of care to Plaintiff, such that he is liable for injuries caused to Plaintiff caused by Defendant’s negligence?
+
+Held
+No. Judgment for the Defendant.
+
+Discussion
+This case was universally interpreted as applying to any negligence, including misfeasance. It was later pointed out that the case actually only involved nonfeasance.
+

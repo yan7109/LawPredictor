@@ -1,0 +1,21 @@
+Citation
+22 Ill.19 Mich. 401 (1870)
+
+Brief Fact Summary
+The Defendant was charged with assaulting with intent to murder Charles Greble by shooting him with a pistol. He asserted that he was intoxicated and unable to form the intent to commit the crime charged.
+
+Synopsis of Rule of Law
+Voluntary intoxication may be a defense to a specific intent crime if the defendant proves that his faculties were so overcome by intoxication as to render him unconscious of his actions and therefore unable to form the intent to commit a crime.
+
+Facts
+The Defendant shot at Greble with a pistol. He was charged and convicted of assault with intent to murder. At trial, the Defendant claimed that he was voluntarily drunk at the time of the shooting and could not form the intent to commit the act charged. The trial court and the Circuit Court both held that voluntary intoxication is not defense to a crime, and the Defendant brought this appeal.
+
+Issue
+Is voluntary intoxication a defense to a specific intent crime?
+
+Held
+Yes. It is within the province of the jury to consider the nature and circumstances of the crime, including intent. The jury, therefore, should have been instructed that if the Defendant’s faculties were so overcome with intoxication so as to render him incapable of forming the intent to commit the crime charged, the Defendant cannot be guilty of a crime requiring intent but rather a crime requiring mere recklessness. In order to claim intoxication as a defense, the Defendant must have been more than unable to understand the morality of his action but completely unable to make the decision to commit the crime. Hence, the circuit court improperly held that voluntary intoxication is no defense.
+
+Discussion
+Voluntary intoxication is an incomplete defense that only reduces the offense to a lesser one that does not require proof of intent, i.e. assault with intent becomes simple assault.
+

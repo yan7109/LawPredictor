@@ -1,0 +1,21 @@
+Citation
+22 Ill.486 U.S. 269, 108 S. Ct. 1803, 100 L. Ed. 2d 302 (1988)
+
+Brief Fact Summary
+In 1981 Ohio provided gasohol dealers a credit per gallon of ethanol used in their product. In 1984 Ohio said the ethanol had to come from Ohio or from a state that grants an equal credit to ethanol coming from Ohio. New Energy was located in Indiana and lost its tax credit when Indiana repealed its tax exemption for Ohio ethanol.
+
+Synopsis of Rule of Law
+The negative Commerce Clause (also known as the Dormant Commerce Clause) prohibits economic protectionism in the form of regulatory measures designed to benefit instate economic interest by burdening out of state competitors. If the statute is discriminatory, it is a per se violation unless the State has a justified reason unrelated to economic protectionism and the method it chose was the least restrictive way to achieve that goal.
+
+Facts
+Ohio gave a tax credit for ethanol produced in Ohio or in a state that granted a similar tax advantage to ethanol produced in Ohio. New Energy was located in Indiana. Indiana repealed its tax exemption for ethanol. Because of Ohio’s reciprocity provision, New Energy lost the tax credit in Ohio. New Energy appealed to the United States Supreme Court after losing in the Ohio Supreme Court.
+
+Issue
+Was Ohio’s provision for granting tax credits discriminatory? Was the provision justified by a valid factor unrelated to economic protectionism?
+
+Held
+Justice Scalia: No. Ohio Supreme Court decision is reversed
+
+Discussion
+For J. Scalia, a statute is invalid if it accords discriminatory treatment to interstate commerce in a method not required to achieve a lawful state purpose. So the state first needs a lawful purpose (no economic protectionism) and second a lack of nondiscriminatory alternatives.
+

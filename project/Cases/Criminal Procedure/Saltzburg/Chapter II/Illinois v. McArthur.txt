@@ -1,0 +1,24 @@
+Citation
+531 U.S. 326, 121 S. Ct. 946, 148 L. Ed. 2d 838 (2001)
+
+Brief Fact Summary
+Police kept a man suspected of keeping drugs in his house for two hours while waiting for a warrant.
+
+Synopsis of Rule of Law
+Police officers, operating with probable cause that the domicile contained incriminating evidence, under the reasonable belief that the evidence would be destroyed, who make efforts to “reconcile their law enforcement needs with the demands of personal privacy” and placed a restraint for a limited period of time, are compliant with the Fourth Amendment.
+
+Facts
+Respondent McArthur’s wife requested the presence of two police officers at trailer she shared with her husband while she retrieved her belongings.  Upon the arrival of the officers, the wife indicated that respondent had drugs in their trailer.  One detective asked the respondent for permission to search the house, which was refused.  The other was sent for a warrant.  The first detective kept the respondent on the porch and would not let him enter without an officer.  The respondent reentered a few times, while the detective stood outside the door watching.  The warrant arrived nearly two hours later.  A search did find marijuana and a pipe under the sofa.
+
+Issue
+“[W]hether . . . officers violated the Fourth Amendment” by preventing a suspect from entering his home for two hours while waiting for a warrant.
+
+Held
+No.  The court, based on precedent, “balance[d] the privacy-related and law enforcement-related concerns to determine if the intrusion was reasonable.”  The police had probable cause “to believe that McArthur’s . . . home contained evidence of … unlawful drugs” based on conversations with the respondent’s wife.  They had “good reason to fear that, unless restrained, McArthur would destroy the drugs before they could return with the warrant.”  They made “reasonable efforts to reconcile their law enforcement needs with the demands of personal privacy,” by not searching the trailer, nor arresting the respondent.  Finally, the period of restraint was limited.
+
+Dissent
+J. Stevens agreed with the analysis, but not the result, placing a greater value on “the sanctity of the ordinary citizen’s home than on the prosecution of [the] offense.”
+
+Discussion
+“The restraint at issue was tailored to [a legal] need, being limited in time and scope, and avoiding significant intrusion into the home itself.”
+

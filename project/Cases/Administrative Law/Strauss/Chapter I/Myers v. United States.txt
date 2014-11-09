@@ -1,0 +1,21 @@
+Citation
+272 U.S. 52, 47 S. Ct. 21,71 L. Ed. 160, 1926 U.S.
+
+Brief Fact Summary
+Appointee to the postmaster of the first class in Oregon was forced to resign.
+
+Synopsis of Rule of Law
+The Constitution “grants to the President the executive power of the government- i.e., the general administrative control of those executing the laws, including the power of appointment and removal of executive officers-a conclusion confirmed by his obligation to take care that the laws be faithfully executed; that article 2 excludes the exercise of legislative power by Congress to provide for appointments and removals, except only as granted therein to Congress in the matter of inferior offices; that Congress is only given power to provide for appointments and removals of inferior officers after it has vested, and on condition that it does vest, their appointment in other authority than the President with the Senate’s consent; that the provisions of the second section of article 2, which blend action by the legislative branch, or by part of it, in the work of the executive, are limitations to be strictly construed, and not to be extended by implication; that the President’s power of removal is further established as an incident to his specifically enumerated function of appointment by and with the advice of the Senate, but that such incident does not by implication extend to removals the Senate’s power of checking appointments.”
+
+Facts
+Under an 1876 rule, the President had to get the Senate’s permission to remove the postmaster of Portland, Oregon. That individual had been appointed with the Senate’s advice and consent. The President asked for the individual’s resignation without consulting the Senate first, and the Senate refused the President permission to do so.
+
+Issue
+“[W]hether under the Constitution the President has the exclusive power of removing executive officers of the United States whom he has appointed by and with the advice and consent of the Senate.”
+
+Held
+Yes. The Supreme Court of the United States (the Supreme Court) produced a long-winded opinion, examining the legislative and adjudicative history of executive appointments, including Marbury v. Madison. It concluded that Tenure of Office Act of 1867, “in so far as it attempted to prevent the President from removing executive officers who had been appointed by him by and with the advice and consent of the Senate, was invalid, and that subsequent legislation of the same effect was equally so.”  Dissent.   Justice McReynolds found that “it is impossible for me to accept the view that the President may dismiss, as caprice may suggest, any inferior officer whom he has appointed with consent of the Senate, notwithstanding a positive inhibition by Congress after his own lengthy review of precedent.     Justice Brandeis felt that the central issue was “May the President, having acted under the statute in so far as it creates the office and authorizes the appointment, ignore, while the Senate is in session, the provision which prescribes the condition under which a removal may take place?”  Justice Holmes emphasized the fact that the office was created by Congress.
+
+Discussion
+“To hold [an opposite rule] would make it impossible for the President, in case of political or other difference with the Senate or Congress, to take care that the laws be faithfully executed.”
+

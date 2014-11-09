@@ -1,0 +1,24 @@
+Citation
+68 Cal. 2d 222, 436 P.2d 561, 65 Cal. Rptr. 545, 1968 Cal.
+
+Brief Fact Summary
+Plaintiffs Dallas and Rebecca Masterson conveyed a ranch to Defendants Medora and Lu Sine by a grant deed, in which they reserved an option to purchase the ranch on or before a date certain for the same amount of money paid by Defendants plus their depreciation value of any improvements Defendants may add to the property. After Dallas Masterson was adjudged bankrupt, his trustee in bankruptcy and Rebecca brought a declaratory judgment action to establish their right to enforce the option.
+
+Synopsis of Rule of Law
+Evidence of oral collateral agreements is excluded only when the finder of fact is likely to be misled.
+
+Facts
+Plaintiffs owned a ranch as tenants in common, which they conveyed to Defendant by a grant deed. Plaintiffs reserved an option to purchase the ranch on or before a date certain for the same amount of money paid by Defendants plus their depreciation value of any improvements Defendants may add to the property. Subsequently, Dallas was adjudged bankrupt, and his trustee in bankruptcy and Rebecca brought a declaratory relief action to establish their right to exercise the option. At trial, the Court refused to admit extrinsic evidence to show that the parties wanted to keep the property in the Masterson family and therefore the option was personal and could not be exercised by the trustee in bankruptcy.
+
+Issue
+Did the Trial Court properly preclude the admission of the extrinsic evidence?
+
+Held
+No. Parol evidence cannot be used to alter a written agreement where the parties have agreed to it as an integration, i.e. “a complete and final embodiment of the terms of an agreement.” The determination of whether the parties intended the written contract to be an integration can often made from the face of the agreement itself. For example, contracts frequently state, “there are no previous understandings or agreements not contained in the writing.” However, where such a determination cannot be made from examining the writing alone, evidence of the collateral agreement must be evaluated. Evidence of oral collateral agreements must be excluded only where the fact finder is likely to be misled. Under the Restatement of Contracts standard, proof of a collateral agreement is admissible if it is the type of agreement that naturally would be made as a separate agreement by similarly situated parties. The U.C.C. excludes evidence where the additional terms, if agreed upon, would ce
+
+Dissent
+The majority weakens the parol evidence rule by permitting the defendants to show that the option was unassignable. There was nothing ambiguous about the option clause, and the majority improper allows the admission of evidence of a collateral oral agreement.
+
+Discussion
+The parol evidence rule only excludes extrinsic evidence where the written contract is integrated.
+

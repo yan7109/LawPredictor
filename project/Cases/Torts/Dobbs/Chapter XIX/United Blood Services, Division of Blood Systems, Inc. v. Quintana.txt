@@ -1,0 +1,21 @@
+Citation
+827 P.2d 509 (Colo. 1992)
+
+Brief Fact Summary
+Alleging that she was infected with AIDS after being given contaminated plasma supplied to a hospital by United Blood Services (a division of Blood Systems, Inc.), Plaintiff patient and her husband filed a negligence action against Defendant blood bank.
+
+Synopsis of Rule of Law
+The law imposes on a blood bank the duty to exercise due care under the attending circumstances to the end that those receiving health care will benefit and adverse results therefrom will be minimized by the use of available and proven scientific safeguards. A blood bank is liable in negligence, therefore, when it fails to make use of, or makes unreasonable use of, available and proven scientific safeguards in the course of acquiring, preparing, or transferring human blood or its components for use in medical treatment.
+
+Facts
+In May 1983, Plaintiff, Mrs. Quintana suffered a gunshot wound and underwent emergency surgery in a Colorado hospital. During surgery she received several units of blood and other blood products. She subsequently showed symptoms consistent with the AIDS virus. She was, in fact, later diagnosed. It was later determined that the donor of a unit of blood, processed and supplied to the hospital by defendant, UBS, was a member of a high-risk group for AIDS. Plaintiff patient and her husband filed a negligence action against UBS. In a pretrial motion, Plaintiffs attempted to introduce expert testimony from a physician who would have testified as to the applicable standard of care in the acquisition, preparation, and transfer of human blood. Defendant’s moved to preclude his testimony and the trial court granted the motion. At trial, the court ruled that the local statute imposed a professional standard of care, as opposed to the general standard of reasonable care, on the blood bank
+
+Issue
+* Did the court of appeals err in overruling the trial with regard to the standard of care to be applied in cases involving the acquisition, preparation, and transfer of human blood?<br />* Was the court of appeals correct in ordering a new trial because the trial court erroneously applied the standard of care in such cases?
+
+Held
+* Yes. The Colorado Supreme Court held that the blood bank was a member of a national community and, as such, was subject to a national professional standard applicable to the blood banking community.<br />* Yes. While the trial court properly concluded that the blood bank was subject to a national professional standard of care, it erroneously applied that standard in a manner that effectively precluded the patient and her husband from establishing that the national blood banking community’s standard of care was itself unreasonably deficient in not incorporating available safeguards designed to provide substantially more protection against the risk of infecting a transfusion recipient with AIDS. The case was remanded for a new trial.<br />
+
+Discussion
+Nearly all jurisdictions have enacted statutes, like the one at issue in United Blood Services, that render a hospital, blood bank or medical personnel liable for damages sustained due to contaminated blood in connection, like here, with negligence claims. The court in United Blood Services addressed two primary issues: the proper standard of care to be applied, and the evidentiary issue of plaintiffs’ right to submit expert testimony.
+

@@ -1,0 +1,18 @@
+Citation
+86 F.3d 1447, 39 U.S.P.Q.2d 1161, 1 ILRD 634 (7th Cir. 1996)
+
+Brief Fact Summary
+Defendant bought a CD-ROM database with a license restriction, limiting the consumer-purchaser to non-commercial use. The existence of a license restriction was declared by shrinkwrap packaging but the terms were inside the packaging and not on the outside. Defendant ignored the license and resold the information on the CD database.
+
+Synopsis of Rule of Law
+If a buyer is presented with additional terms and offered the opportunity to reject and return the goods and subsequently does not reject the goods, then the buyer will have accepted those terms.
+
+Facts
+Plaintiff compiled telephone directory information from more than 3000 directories into a database, available on CD-ROM.<br />	The court found that the database was costly to compile and was expensive to keep current. Plaintiff planned to charge one price for limited use to consumers and a higher price to commercial users which ordinarily would pay intermediaries expensive fees for such information.<br />	The Shrinkwrap license to consumer product, sold at a lower cost than the commercial version, stated that use was limited to non-commercial purposes.<br />	Every box declared that the software comes with restrictions stated in an enclosed license, which is available on the disk and also which appears on the screen every time the software runs.<br /><br /><span class='heading'>Issue.</span>  Does the buyer have to comply with the terms of a shrinkwrap license because they have become part of the contract?
+
+Held
+The buyer must comply with the license terms. The UCC permits parties to structure their relations so that the buyer has a chance to make final decision after a detailed review. The customer inspected the package, tried out the software, learned of the license and did not reject the goods, which the customer could if the license was unsatisfactory. A buyer accepts, under 2-206 when after an opportunity to inspect the goods, he fails to make an effective rejection. Thus, the buyer had accepted and was bound to abide by the license.
+
+Discussion
+The Decision seemed to turn on the opportunity to reject if license seems unfair. If a buyer concludes that terms of the license make the software worth less than the purchase price than the buyer can return them. As the court points out, it’s not the seller’s job to maximize their gain.
+

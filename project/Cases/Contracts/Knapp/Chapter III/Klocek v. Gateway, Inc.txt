@@ -1,0 +1,21 @@
+Citation
+2001 U.S. Dist.<br /><br /><span class='heading'>Brief Fact Summary.</span>  Plaintiff Klocek, purchased a computer from Defendant Gateway, Inc. Inside the box containing the instruction manuals was a copy of Defendant’s Standard Terms and Conditions Agreement. The agreement stated that it is accepted by the purchaser if the purchaser keeps the computer longer than five days. One of the provisions in Defendant’s agreement requires arbitration.<br /><br /><span class='heading'>Synopsis of Rule of Law.</span>  Terms received with a product do not become part of the contract unless the non-merchant buyer expressly agrees to them.<br />
+
+Brief Fact Summary
+Plaintiff Klocek, purchased a computer from Defendant Gateway, Inc. Inside the box containing the instruction manuals was a copy of Defendant’s Standard Terms and Conditions Agreement. The agreement stated that it is accepted by the purchaser if the purchaser keeps the computer longer than five days. One of the provisions in Defendant’s agreement requires arbitration.
+
+Synopsis of Rule of Law
+Terms received with a product do not become part of the contract unless the non-merchant buyer expressly agrees to them.
+
+Facts
+Defendant includes a copy of its Standard Terms and Conditions Agreement with every computer it sells in the box containing the computer battery power cable and instruction manuals. On top of the first page of Defendant’s agreement is a notice that the consumer accepts the terms and conditions by keeping the computer for more than five days. The notice is located in a printed box, separate from the other provisions and is in emphasized type. The terms and conditions include a provision requiring disputes to be resolved through final and binding arbitration in Chicago.
+
+Issue
+Did the arbitration provision become part of the contract?
+
+Held
+No. The arbitration provision did not become part of the contract.
+
+Discussion
+In the present case, Plaintiff, not a merchant, did not expressly agree to the arbitration provision included in the box with the computer Plaintiff purchased from Defendant. Because Plaintiff did not expressly agree to it, the provision did not become part of the contract between the parties.
+

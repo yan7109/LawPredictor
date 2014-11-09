@@ -1,0 +1,21 @@
+Citation
+289 F.2d 20, 1961 U.S. App. 61-1 U.S. Tax Cas. (CCH) P9382; 7 A.F.T.R.2d (RIA) 1160
+
+Brief Fact Summary
+Frank Cowden, Sr. and his wife leased the mineral rights to Stanolind Oil in exchange for “bonus: or “advance royalty” payments.  The payments were not conditioned on production but were deferred over a period of years.  The Cowdens assigned the payments to a bank for face value.
+
+Synopsis of Rule of Law
+Parties may enter into legal agreements for the purpose of reducing taxes, but if the consideration for one of the parties is equal to cash then it should be taxed accordingly.
+
+Facts
+Frank Cowden, Sr. and his wife made an oil, gas, and mineral lease for them and their children on land in Texas to Stanolind Oil and Gas Company.  Stanolind agreed to make supplemental bonus or advance royalty payments of $511,192.50.  The payments were a definitive obligation regardless of the production on the lease, and were to be made over several years and not all at once.  The Cowdens assigned the payments to First National Bank of Midland for face value less a small discount.  The Cowdens reported the amounts received from the assignment as long-term capital gains.  The Commissioner of Internal Revenue found that the Cowdens should have been taxed on the full amount regardless of the deferred payment arrangements because they were equivalent to cash.
+
+Issue
+Were the future bonus payments the equivalent of cash and taxable as current income?
+
+Held
+Circuit Judge Jones issued the opinion for the United States Fifth Circuit Court of Appeals in remanding to the Tax Court because the Tax Court improperly considered the willingness of the lessee to pay and the willingness of the Cowdens to receive the full bonus upon execution of the leases.  The Tax Court should have considered other facts to determine if the promise in this case was a cash equivalent.
+
+Discussion
+In determining whether a promise is the equivalent of cash the Court of Appeals found that the factors to be considered are whether the promise to pay is unconditional and assignable, not subject to set-offs, and is the kind that is frequently transferred to lenders or investors at a small discount
+

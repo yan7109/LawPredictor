@@ -1,0 +1,21 @@
+Citation
+202 F.R.D. 229, 2001 U.S. Dist. 13134
+
+Brief Fact Summary
+The Plaintiffs seek to join multiple defendants in one voluminous complaint.
+
+Synopsis of Rule of Law
+The Defendants who are joined into one complaint must have been part of the same transaction and/or occurrence.
+
+Facts
+The Plaintiffs allege that 770 music and entertainment companies engaged in copyright infringement as a result of “sampling” music in which the Plaintiffs claim to have an ownership interest. The Plaintiffs’ complaint includes 486 counts against the Defendants. The Defendants argue that the Plaintiffs have violated Rules 8 and 20 of the Federal Rules of Civil Procedure (FRCP) because the Plaintiffs’ complaint does not give a “short and plain statement” of its claims. The Defendants also argue that they were not properly joined and that “Plaintiffs’ 477 counts of alleged copyright infringement ‘are really 477 separate lawsuits rolled into one enormous pleading.’”
+
+Issue
+Whether FRCP Rule 20(a) allows the Plaintiffs to bring one voluminous complaint against multiple defendants via permissive joinder.
+
+Held
+No. FRCP Rule 20(a) does not allow the Plaintiffs to bring one voluminous complaint against multiple defendants via permissive joinder. Permissive joinder allows the joinder of multiple defendants when there is a common question related that “parties must assert rights, or have rights asserted against them, that arise from related activities – a transaction or an occurrence or a series thereof.” Even though the Plaintiffs argue that the claims are “intricately interrelated,” that the Defendants have inflicted the same harm against the Plaintiffs, that the copyright infringement by the Defendants occurred in different capacities, and that “a small number of clearance companies, manufacturers, and distributors were involved” in the infringement, “[t]he Court finds that . . . [e]ach song and the alleged sampling contained therein represents a discrete occurrence.” This case is “unmanageable in its current form.” “If joined in one action, hundreds of Defendants will be subjected to an overwhelming onslaught of material and information unrelated to the specific claims against them . . . .” It would be quite difficult to have a trial with all the alleged Defendants present. The courtroom “would seat only a small fraction of the Defendants and their attorneys.” The Court concludes that the 477 copyright infringement counts should be brought before the Court as 477 individual cases.
+
+Discussion
+This Court illustrates that joinder, under the FRCP, cannot be used as a tool by plaintiffs to abuse the legal system by joining hundreds of individual complaints that may have some relation to on another, but are part of a different transaction, into one huge conglomerate of complaints.
+

@@ -1,0 +1,24 @@
+Citation
+75 Ohio St. 3d 312; 662 N.E.2d 287.
+
+Brief Fact Summary
+A jury awarded Gladon (Plaintiff) damages in connection with being struck by a train operated by Greater Cleveland Regional Transit Authority (Defendant). Defendant appealed.
+
+Synopsis of Rule of Law
+A landowner owes a duty to an invitee to exercise ordinary care for the invitee’s safety and protection. Conversely, a landowner owes no duty to a licensee or trespasser except to refrain from willful, wanton, or reckless conduct that is likely to injure him.
+
+Facts
+Plaintiff boarded Defendant’s train after attending a Cleveland Indians baseball game. He was assaulted after mistakenly alighting from the train. At some point, Plaintiff ended up on the tracks with a train approaching. The train’s operator was unable to brake in time and the train struck Plaintiff causing him serious and permanent injuries. Plaintiff filed suit against the Defendant, alleging negligent security and negligent operation. The trial court dismissed the security claim, but permitted the negligent operation claim to proceed to trial. A jury found for Plaintiff and awarded damages. The trial court instructed the jury to consider the question of whether the evidence showed Plaintiff was an invitee, and thus entitled to the heightened duty owed by one of that status.
+
+Issue
+What was the Plaintiff’s status at the time of his injury?
+
+Held
+The court ruled that the “RTA’s invitation to [Plaintiff] to use their premises did not extend to the area on or near the tracks,” therefore his status was that of trespasser or licensee and thus subject to an ordinary standard of care requiring the Defendant only “to discover and avoid danger.” The judgment of the lower court was reversed and the action remanded.
+
+Dissent
+The dissent maintained that the majority avoided the fundamental issue at hand, which was characterized as a constitutional one: “[t]he real issue in this case is whether any application of [the applicable statute] to reduce or “cap” a jury award in a negligence action against a political subdivision of the state violates the right to trial by jury.” The dissent took further issue with the majority’s characterization of the status of the Plaintiff, which the dissent maintains is that of “business invitee”. The distinction was critical as it goes directly to the duty of cared owed by Defendant.
+
+Discussion
+The common law approach measure the duty owed by the status of the person entering the land. There are three basic categories: “trespassers,” “licensees,” and “invitees.” That classification determines the standard of care owed by the land occupier. In some jurisdictions this approach to liability has been abandoned in favor of a generalized duty of ordinary care.
+

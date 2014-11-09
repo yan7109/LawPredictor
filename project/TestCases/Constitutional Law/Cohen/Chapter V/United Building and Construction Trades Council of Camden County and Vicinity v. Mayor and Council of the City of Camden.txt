@@ -1,0 +1,24 @@
+Citation
+22 Ill.465 U.S. 208, 104 S. Ct. 1020, 79 L. Ed. 2d 249 (1984)
+
+Brief Fact Summary
+The city of Camden, New Jersey required that at least 40% of employees of contractors and subcontractors working on city construction projects be Camden residents. The Trade Council challenged this as a violation of the Privileges and Immunities Clause.
+
+Synopsis of Rule of Law
+The Privileges and Immunities Clause in Article IV applies to non-residents who intend to return to their domicile at the end of their journey. Under this clause, a state may not deny essential rights to a resident of another state unless there is a substantial justification for the difference in treatment. The non-resident must be shown as the “source of the evil at which the statute is aimed”.
+
+Facts
+The city of Camden, New Jersey passed an ordinance requiring that at least 40% of the employees of contractors and subcontractors working on city construction projects be Camden residents. The Construction Trades Council challenged the ordinance as a violation of the Privileges and Immunities Clause. The Supreme Court of New Jersey rejected this attack on the ground that the ordinance discriminated on the basis of municipal and not state residence. The Court declined to apply the Privileges and Immunities Clause to a municipal ordinance that had incidental effects upon out-of-state citizens and New Jersey citizens not residing in the locality.
+
+Issue
+Does the Privileges and Immunities Clause apply to municipal ordinances that limit the employees who can work on public works projects to residents of the city?
+
+Held
+Justice Rehnquist. Yes. Judgment reversed and the case remanded for a determination of the validity of the ordinance under the appropriate constitutional standard. The United States Supreme Court did not evaluate Camden’s justification on the record because there was no trial and no findings of fact.
+
+Dissent
+Justice Blackmun.
+
+Discussion
+The Commerce Clause prevents states from legislation on interstate commerce, which is in Congress’s sole discretion. As a market participant in this case, Camden would not have violated the Constitution (Just as Boston didn’t in White). The Privileges and Immunities Clause ensures that citizens of one state have the same privileges as citizens of another to promote national unity. It only applies to certain fundamental rights. Here the Court remanded the case so that the New Jersey courts could determine whether such a right was at stake here.
+

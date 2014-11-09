@@ -1,0 +1,21 @@
+Citation
+430 U.S. 462 (1977)
+
+Brief Fact Summary
+A suit was filed by Green (Plaintiff) to set aside a merger for securities laws violations.
+
+Synopsis of Rule of Law
+Securities laws cannot be utilized to set aside a merger which is valid under state law where no evidence of fraud, misrepresentation or a suppression of substantial information exists.
+
+Facts
+Lacking notice or a vote by shareholders under state law a short-form merger could be accomplished. Santa Fe Industries (Defendant) owned 95% of the stock in Kirby and wanted to eradicate all minority ownership in it. All substantial information was revealed to shareholders and they were offered $150 per share and were informed that if they felt disappointed they were able to pursue appraisal rights in court as allowed under state law. Based on Kirby’s tangible assets as revealed by Santa Fe it seems the $150 per share offer was a reduced amount in the worth per share, though this was not brought to the attention of the minority shareholders. Claiming that the price offered was discriminatory and Santa Fe failed to reveal the true worth of the shares based on asset worth, Green and other minority shareholders wanted to stop the merger under § 10(b) and Rule 10b-5.  Santa Fe claimed that it had revealed all substantial information, as there was a suitable resolution accessible that its actions were legal.
+
+Issue
+Will a private action under Rule 10b-5 or § 10(b) be sustained where allegedly there is only discrimination or breach of fiduciary duty?
+
+Held
+(White, J.) No. Federal law fails to remove state corporate merger and fiduciary laws. a short-form merger may be implemented only to eradicate minority shareholders with no notice or voting needed. As a universal rule, federal securities laws have no influence on state statutes like this. Anti-manipulative stipulations that relate to missing information and errors are Rule 10b-5 and § 10(b). They have no use to claimed actions of injustice or breach of fiduciary duty which are usually have been consigned to state law. Distortion, absence of information and the like were lacking.  All pertinent information and decisions were revealed. Also, there was an accessible state resolution that was explicitly brought to the attention of all minority shareholders. No intention of our securities laws would be assisted by moving into the subject protected by this complaint. The action was correctly dismissed. Reversed and remanded.
+
+Discussion
+There was a plausible, swift state resolution accessible and the only concern was a determination of the stock’s value appeared to be the main focus of Santa Fe. The Court could have held that a simple reveal of ample information is lacking, if they chose to. Instead, it needs to be revealed in a significant way to help the inexperienced shareholder. Comprehensive examination of the balance sheets to decide that an offer is not fair may not be ample notice of all significant information.
+

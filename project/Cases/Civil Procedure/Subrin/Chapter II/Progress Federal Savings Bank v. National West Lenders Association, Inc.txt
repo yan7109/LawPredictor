@@ -1,0 +1,21 @@
+Citation
+1996 WL 57942 (E.D. Pa. Feb. 12, 1996).
+
+Brief Fact Summary
+Defendant, National West Lenders Association, filed to sanction Plaintiff, Progress Federal Savings Bank, under Fed. R. Civ. P. 11 three months after the claims against Defendant were dismissed.
+
+Synopsis of Rule of Law
+Rule 11, when possible, is given its plain meaning, which means that the safe harbor provision of the revised Rule 11 of 1993 requires a formal notice of a Rule 11 filing before the dismissal of the claims.
+
+Facts
+Plaintiff filed claims against Defendant for fraud, misrepresentation, intentional interference and civil conspiracy.  The first two claims were dismissed, and the court awarded summary judgment to Defendant on the other two claims.  Three months after Defendant was dismissed from the litigation they filed a motion for Rule 11 sanctions against Defendant, and then filed 21 days afterward with the court.  Plaintiff argues that the filings were not in accord with Rule 11 requirements because they were not formally notified in time, and therefore they were now protected under the safe harbor provision of Rule 11.  Defendant countered that they informally notified Plaintiff on several occasions, and therefore Plaintiff waived the safe harbor provision of Rule 11 or at least demonstrated by their conduct that they would not have altered their behavior with a formal notice.
+
+Issue
+The issue is whether Defendant’s motion for Rule 11 sanctions against Plaintiff is valid.
+
+Held
+The court held to Rule 11’s requirements of timely formal notice to the offending party.  The court held that Defendant waited three months after they were dismissed from the claims to file the Rule 11 motion, and this exceeded the time allowed.  By this time, all litigation with Plaintiff and all Defendants were settled or dismissed.
+
+Discussion
+Rule 11 was amended in 1993 to allow for a safe harbor provision to prevent motions such as the one at issue.  The policy behind the amendment is to end lawsuits frivolous or otherwise at a certain point.  Therefore, Rule 11 motions that are filed long after the Rule 11 timeline will not be allowed.
+

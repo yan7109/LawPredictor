@@ -1,0 +1,21 @@
+Citation
+22 Ill.302 U.S. 319, 58 S. Ct. 149, 82 L. Ed. 288 (1937)
+
+Brief Fact Summary
+Palko was indicted for murder of the first degree. The jury found him guilty of murder in the second degree and Connecticut appealed.
+
+Synopsis of Rule of Law
+The ban on double jeopardy was found not to be sufficiently fundamental under the selective corporation/fundamental rights approach to be incorporated in the due process clause of the Fourteenth Amendment and made applicable to the states.
+
+Facts
+Palko was charged with first-degree murder but a jury convicted him of second degree sentenced him to life in prison. Connecticut appealed to the Supreme Court of Errors and they reversed the judgment and ordered a new trial. Palko was brought to trial again, but before the jury was impaneled he made the objection that the effect of the new trial was to place him twice in jeopardy for the same offense. In doing so the state would violate the Fourteenth Amendment. The second jury returned a verdict of guilty for murder in the first degree and sentenced Palko to death.
+
+Issue
+Does the Fifth Amendment apply to the states through the due process clause of the Fourteenth Amendment?
+
+Held
+Justice Cardozo. No.
+
+Discussion
+There are two approaches.
+

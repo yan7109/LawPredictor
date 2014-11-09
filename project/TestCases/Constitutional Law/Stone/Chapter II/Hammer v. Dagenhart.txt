@@ -1,0 +1,24 @@
+Citation
+247 U.S. 251, 38 S. Ct. 529, 62 L. Ed. 1101 (1918)
+
+Brief Fact Summary
+The Child Labor Act (the Act) prohibited the interstate transportation of goods produced with child labor. The father of two children sought an injunction against the enforcement of the Act on the grounds that the law was unconstitutional.
+
+Synopsis of Rule of Law
+The power of Congress to regulate commerce does not include the power to regulate the production of goods intended for commerce.
+
+Facts
+The Act prohibited the shipment of goods in interstate commerce produced in factories employing children. The father of two children, one age fourteen and the other under age sixteen, sought an injunction against the enforcement of the Act on the grounds that the law was unconstitutional.
+
+Issue
+Did Congress act properly within its powers under the Commerce Clause when it enacted the Act?
+
+Held
+No. The Act on two grounds violates the United States Constitution (Constitution): (a) it transcends Congress’ authority to regulate commerce; (b) it regulates matters of a purely local concern (thus, presumably violating the Tenth Amendment). The injunction against the enforcement of the Act issued by the lower court is sustained.
+
+Dissent
+Justice Oliver Wendell Holmes (J. Holmes) states that the Act does not meddle with powers reserved to the States. The States may regulate their internal affairs, but when they send their products across State lines, they are subject to federal regulation.
+
+Discussion
+This decision is later overturned. Justice Holmes’ interpretation is more consistent with modern ones.
+

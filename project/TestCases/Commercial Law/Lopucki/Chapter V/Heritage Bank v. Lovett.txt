@@ -1,0 +1,21 @@
+Citation
+613 N.W.2d 652, 2000 Iowa Sup. 107, 44 U.C.C. Rep. Serv. 2d (Callaghan) 835
+
+Brief Fact Summary
+Heritage Bank, (Plaintiff), brought suit against Terry Lovett, Robert Lovett, and Roma Lovett d/b/a Culligan Water Conditioning of Ida Grove, (Defendants) to recover approximately $10,000 that Defendants’ employee misappropriated from Donald and Luella Buell’s account with Plaintiff. Plaintiff appeals summary judgment in favor of Defendants.
+
+Synopsis of Rule of Law
+A subrogee may acquire no claim, security, or remedy that the subrogor does not have.
+
+Facts
+Richard Bennett went to the residence of Donald and Luella Buell to perform services as Defendants’ employee. While there, Richard Bennett stole an ATM card Plaintiff had issued to Luella and Donald Buell for use with their bank account. Richard Bennett then misappropriated approximately $10,000. Plaintiff debited the Buell’s account for $50. Plaintiff commenced this action against Defendants on the theories of respondeat superior and negligent hiring.
+
+Issue
+Whether Plaintiff can claim against Defendants as a subrogee of the Buells.
+
+Held
+No. Plaintiff cannot claim against Defendants as a subrogee of the Buells.
+
+Discussion
+Plaintiff cannot claim against Defendants as a subrogee of the Buells for two reasons. First, Plaintiff suffered the loss of the funds sought to be recovered in its own right and not as a result of satisfying any loss sustained by the Buells. Therefore, its entitlement to bring the present claim against Defendants should be based on its own relationship to that defendant rather than the Buells’ relationship. Second, the rights to which a subrogee succeeds are the same and no greater than those of the person for whom the subrogee seeks to be substituted. The Buels sustained no injury for which they could maintain an action against either Defendants or Richard Bennett except the fifty-dollar item, which is not at issue here. Further, 4-407 only grants a right of subrogation against a holder of a check improperly paid by the bank. It does not apply to electronic funds transfers.
+

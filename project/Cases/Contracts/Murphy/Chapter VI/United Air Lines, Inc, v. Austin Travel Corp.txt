@@ -1,0 +1,21 @@
+Citation
+22 Ill.867 F.2d 737 (2d Cir. 1989)
+
+Brief Fact Summary
+Defendant and Plaintiff entered into a contract in which Plaintiff would provide a database service for Defendant’s travel agencies. The contracts contained liquidated damages clauses. Defendant canceled each contract before the expiration of the contract, breaching each one.
+
+Synopsis of Rule of Law
+Liquidated damage provisions that do not serve as punitive damages against a breaching party are considered reasonable. Ambiguous portions that could be construed as either punitive or not punitive will be construed a not punitive.
+
+Facts
+Plaintiff operated a computer database that travel agents use to book airline tickets, rental cars, and hotel rooms. Plaintiff earns money by charging a subscription fee to the travel agents and by charging airlines other than Plaintiff that get customers, through this system a small fee.
+
+Issue
+Were the liquidated damages provisions in the contracts reasonable and enforceable?
+
+Held
+Yes.
+
+Discussion
+The court upheld the punitive damages clauses in the contracts because it deemed the damages to be reasonable estimates of what Plaintiff’s damages would be in the event of a breach. The court construed the portion that was ambiguous to have a reasonable meaning.
+

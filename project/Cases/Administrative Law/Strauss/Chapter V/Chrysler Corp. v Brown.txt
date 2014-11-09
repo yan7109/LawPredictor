@@ -1,0 +1,21 @@
+Citation
+441 U.S. 281, 99 S. Ct. 1705, 60 L. Ed. 2d 208, 19 FEP Cases 475, 4 Med. L. Rptr. 2441 (1979)
+
+Brief Fact Summary
+A FOIA demand was made of Chrysler regarding equal opportunity employment practices.
+
+Synopsis of Rule of Law
+“An interpretive regulation or general statement of agency policy cannot be the ‘authorization by law required by” the Trade Secrets Act; “A private right of action under [the TSA] is not ‘necessary to make effective the congressional purpose’” of the enabling statute.
+
+Facts
+Interested parties sought made a FOIA request for information about Chrysler’s non-discriminatory hiring practices pursuant to “regulations of the Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP).” Chrysler was held to federal requirements of “equal opportunity employment” because it was a military contractor. The Defense Logistics Agency informed Chrysler that it was going to honor the FOIA request. Chrysler sought an injunction under Exemption 4, or, in the alternative, under the Trade Secret Acts.
+
+Issue
+Whether the Trade Secrets Act, 18 U.S.C. Section: 1905 “is applicable to the type of disclosure threatened in this case.”  Whether the Act “affords Chrysler a private right of action to obtain injunctive relief.”
+
+Held
+The Supreme Court of the United States first found that “Congress did not design the FOIA exemptions to be mandatory bars to disclosure.”   Yes. The Supreme Court first established that “properly promulgated substantive regulations have the ‘force and effect of law.’” The Court concluded that the OFCCP did not have authorization to “adopt rules having the force and effect of law on information disclosure.” OFCCP did not offer enough “substantive characteristics.”  No. However, the Supreme Court did find that “review of the DLA’s decision to disclose Chrysler’s employment data is available under the APA.” The Court found that the DLA’s decision was reviewable because “Section: 1905 and any ‘authorization by law’ contemplated by that section place substantive limits on agency action.” The DLA’s decision was “reviewable agency action” and Chrysler was “a person ‘adversely affected or aggrieved.’”
+
+Discussion
+“Any disclosure that violates 1905 is ‘not in accordance with law.’”         CHAPTER VII. Procedural Due Process: Constitutional Constraints on Administrative Decisionmaking
+

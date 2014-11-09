@@ -1,0 +1,21 @@
+Citation
+454 F.2d 313, 1971 U.S. App. 15 Fed. R. Serv. 2d (Callaghan) 967
+
+Brief Fact Summary
+Plaintiff filed an original complaint alleging that an arrest made on November 24, 1964, deprived him of rights secured by the United States Constitution. Plaintiff was arrested after three private detectives (Defendants), observed Plaintiff at an intersection speaking with a man on a motorcycle. Their observations caused a false report to be made to county police that Plaintiff was falsely representing himself as a police officer. As a result of the report, four county police officers (Defendants), arrested Plaintiff for impersonating a government official and charged him with unlawful use of weapons and resisting arrest. Although Plaintiff was initially convicted, the conviction was later reversed on appeal for insufficient evidence.
+
+Synopsis of Rule of Law
+An order of a district court, which dismisses a complaint for failure to state a claim, but which does not specify that the dismissal is without prejudice, is res judicata as to the then existing claim.
+
+Facts
+The district court dismissed the 1969 complaint for failure to state a claim based on the absence of probable cause. Plaintiff filed a leave to file an amended complaint, but that motion was denied, without rationale, by the court. Plaintiff did not appeal and, on June 17, 1970, Plaintiff filed a second complaint that included an averment that the arrest was made without probable cause.
+
+Issue
+Is Plaintiff barred from litigating a claim that is identical to a previously litigated claim, but now includes an averment that arrest was made without probable cause, under the doctrine of res judicata?
+
+Held
+Plaintiff’s claim that it was attempting to make in the first instance, but did not do so, is barred by the doctrine of res judicata because the original order did not contain a clause indicating that the action was dismissed without prejudice. As a result, Plaintiff is barred from relitigating the claim that the arrest was made without probable cause.
+
+Discussion
+The rule forces individuals, such as the Plaintiff in this case, to persuade the district court to either include a specification that the dismissal is without prejudice or to permit an amendment. The outcome of the case, and the subsequent burden that is placed on individual plaintiffs, can be viewed as quite a strict conclusion to a situation in which the plaintiff’s attorney merely failed to allege a lack of probable cause in the initial complaint. This is especially true in light of the fact that Plaintiff had filed a leave to plead that was denied without the court articulating a rationale. Normally, under Rule 15(a) of the Federal Rules of Civil Procedure, leave shall be freely given when justice so requires.
+

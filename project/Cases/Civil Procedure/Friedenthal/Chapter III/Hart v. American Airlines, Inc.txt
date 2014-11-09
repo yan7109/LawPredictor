@@ -1,0 +1,21 @@
+Citation
+22 Ill.61 Misc. 2d 41, 304 N.Y.S.2d 810 (Sup. Ct. 1969)
+
+Brief Fact Summary
+The plaintiffs, Landano and Karchstein, representatives of a decedent killed in a plane crash, brought this suit against the defendant, American Airlines, Inc. The plaintiffs moved for summary judgment on the issue of liability on the ground that a Texas court had already established the defendant’s liability for the plane crash.
+
+Synopsis of Rule of Law
+To invoke the doctrine of collateral estoppel, the same issue must have been decided in a prior action, it is decisive on the present action, and there was a full and fair opportunity to contest the decision.
+
+Facts
+An American Airlines aircraft crashed in Kentucky en route from New York to Covington, Kentucky. Fifty-eight of the 62 people on board were killed. Multiple actions against the defendant regarding the crash had been instituted in New York and elsewhere. The first case to be tried to conclusion was brought in the United States District Court, Northern District of Texas. A verdict was rendered for the plaintiff therein. The issue of the defendant’s liability in the Texas case was identical to the issue of liability in the present case. The plaintiffs, therefore, moved for summary judgment on the issue of liability, citing collateral estoppel.
+
+Issue
+Does the doctrine of collateral estoppel act to preclude the relitigation of the defendant’s liability for the plane crash even though the plaintiffs were not parties to the first action?
+
+Held
+Yes. To invoke the doctrine of collateral estoppel, the same issue must have been decided in a prior action, it is decisive on the present action, and there was a full and fair opportunity to contest the decision. Here, the defendant’s liability for the crash was unquestionably already litigated in the Texas action. Certainly, the defendant was given a full and fair opportunity to contest the issue of liability for the crash during the 19-day trial in the Texas action. Hence, the requirements of collateral estoppel have been met. The defendant may not relitigate the issue of liability, as it has been conclusive decided against the defendant.
+
+Discussion
+It is of no relevance who the parties to an action are. If the issue has been previously litigated and the requirements of collateral estoppel have been met, the issue cannot be relitigated.
+

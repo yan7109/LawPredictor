@@ -1,0 +1,24 @@
+Citation
+489 U.S. 189, 109 S. Ct. 998, 103 L. Ed. 2d 249, 1989 U.S.
+
+Brief Fact Summary
+The mother of an abused child, Ms. DeShaney (Petitioner) brought an action pursuant to 42 U.S.C.S. Section: 1983 against Winnebago County Department of Social Services (Department) and its various employees, (Respondents) for failing to intervene to protect the child from beatings by his father. The United States Court of Appeals for the Seventh Circuit affirmed the trial court’s order granting summary judgment in favor of Respondents. Petitioner sought review.
+
+Synopsis of Rule of Law
+Nothing in the language of the Due Process Clause of the Fourteenth Amendment requires a state to protect the life, liberty, and property of its citizens against invasion by private actors.
+
+Facts
+In 1984, four-year-old Joshua DeShaney went into a coma resulting in profound retardation due to traumatic head injuries inflicted by his father who physically beat him over a long period of time. The Department received numerous complaints of the abuse and took various steps to protect the child. The Department did not, however, remove Joshua from his father’s custody. Ms. DeShaney subsequently sued the Department. She contended that the Department had deprived the child of his “liberty interest in bodily integrity, in violation of his rights under the substantive component of the Fourteenth Amendment’s Due Process Clause, by failing to intervene to protect him against his father’s violence.”
+
+Issue
+Does a state, in failing to protect an individual against private violence, violate the Due Process Clause of the Fourteenth Amendment?
+
+Held
+No. The Due Process Clause does not impose a special duty on the state to provide services to the public for protection against private actors if the state did not create those harms. “The Clause is phrased as a limitation on the State’s power to act, not as a guarantee of certain minimal levels of safety and security; while it forbids the State itself to deprive individuals of life, liberty, and property without due process of law, its language cannot fairly be read to impose an affirmative obligation on the State to ensure that those interests do not come to harm through other means.”
+
+Dissent
+Justice Brennan, joined by Justices Marshall and Blackmun, dissented. Brennan focused on “the State’s knowledge of [the] individual’s predicament [and] its expressions of intent to help him” i.e., the Department of Human Services’ involvement in the case and its having learned of the violence inflicted on the child. Brennan essentially equated this to a “limitation of his freedom to act on his own behalf.” In other words, the involvement of the Department effectively precluded non-government entities from intervening, and when the Department failed to act on suspicions of child abuse it became morally culpable for the harm that ensued.
+
+Discussion
+In its analysis the Supreme Court of the United States determined that the Fourteenth Amendment did not require a state or local governmental agency to protect its citizens from private violence or other mishaps not attributable to the conduct of its employees. The Court draws the distinction between the limits of government action and government responsibility: “[a]lthough the liberty protected by the Due Process Clause affords protection against unwarranted government interference, it does not confer an entitlement to such governmental aid as may be necessary to realize all the advantages of that freedom.” The state’s responsibility to protect citizen is one of general scope: “[i]f the Due Process Clause does not require a state to provide its citizens with particular protective services, it follows that a state cannot be held liable under the Due Process Clause for injuries that could have been averted had it chosen to provide them.” Thus, the Court concluded, “[t]he D
+

@@ -1,0 +1,18 @@
+Citation
+414 U.S. 218, 94 S. Ct. 494, 94 S. Ct. 467, 38 L. Ed. 2d 427 (1973)
+
+Brief Fact Summary
+The defendant, Robinson (the “defendant”), was pulled over for driving with a revoked license.  He was then arrested and the police officer proceeded to do a thorough search of the defendant’s person whereby the officer found a closed cigarette pack which contained heroin.<span class='heading'>Synopsis of Rule of Law.</span>  Incident to a lawful arrest, even for a driving violation, a thorough search (frisk) of an arrestee’s person for weapons and also to prevent the concealment or destruction of incriminating evidence is reasonable under the Fourth Amendment of the United States Constitution (”Constitution”).
+
+Facts
+The defendant was pulled over by the police because he was driving with a revoked license.  Thereafter, the officer searched the defendant and felt an object under the defendant’s coat.  The officer proceeded to remove a closed cigarette pack from the defendant’s coat which contained heroin.<span class='heading'>Issue.</span>  May a police officer conduct a thorough search of a person beyond frisking for weapons when the arrestee has committed only a traffic offense?
+
+Held
+Yes.  A search of an arrestee’s person beyond frisking for weapons is reasonable under the Fourth Amendment of the Constitution, even where there is no reason to believe the arrestee committed any crime other than the traffic violation.
+
+Dissent
+Where there is no evidence that an arrestee committed any other crimes besides a traffic violation, the police may not conduct a search beyond frisking for weapons.  Any additional search is unreasonable under the Fourth Amendment of the Constitution.
+
+Discussion
+Once a person has been lawfully arrested, the police may conduct a search of the arrestee beyond frisking for weapons, in order to preserve any incriminating evidence.
+

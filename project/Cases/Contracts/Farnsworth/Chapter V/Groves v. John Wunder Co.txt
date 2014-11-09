@@ -1,0 +1,24 @@
+Citation
+205 Minn. 163, 286 N.W. 235, 1939 Minn. 738, 123 A.L.R. 502
+
+Brief Fact Summary
+Defendant John Wunder Co., entered into a contract with Plaintiff S.J. Groves & Sons Company, to remove sand and gravel from Plaintiff’s premises and leave the property “at a uniform grade, substantially the same as the grade now existing at the roadway.” Defendant paid Plaintiff $105,000 but willfully failed to leave the property at a uniform grade.
+
+Synopsis of Rule of Law
+The proper measure of damages is the reasonable cost of performing the part of the contract that the defendant willfully failed to complete.
+
+Facts
+Plaintiff owned a tract of land. Both Plaintiff Defendant operated plants for excavating and screening gravel. The contract at issue here was essentially a lease from Plaintiff to Defendant for a term of seven years. Defendant agreed to remove sand and gravel from Plaintiff’s property and leave the land at a uniform grade, using the stripped overburden for the purpose of creating the grade. Defendant received the Groves screening plant and paid $105,000. Thereafter, Defendant intentionally breached the contract by removing the “richest and best of the gravel” and leaving the premises not substantially at the grade required by the contract. Rather, it was “broken, rugged and uneven.” The cost of bringing the land into compliance with the contract would be upwards of $60,000. However, if Defendant had fully performed by leaving the land at a uniform grade, it would have only been worth $12,160.
+
+Issue
+Is Plaintiff entitled to damages equal to the reasonable cost to him of doing the work called for by the contract rather than the difference between the value of the land at the time of contract and the value the land would have had Defendant fully performed?
+
+Held
+Yes. In certain cases, there is a measure of inequity in forcing a breaching party to tear down a nearly completed structure to remedy a breach. See e.g. Jacob & Youngs v. Kent, 230 N.Y. 239, 129 N.E. 889, 23 A.L.R. 1429 (1921). Recall that Jacob & Youngs v. Kent is the case where the homebuilder inadvertently failed to install only Reading pipe in the house. The homeowner demanded that the pipe be replaced with the Reading pipe he asked for, but the Court of Appeals of New York refused to impose such a harsh and oppressive result on the homebuilder. One rationale for this result is that tearing down a completed structure would create unnecessary waste. However, absent such “economic waste,” the damages awarded must equal the cost of remedying the defect. Otherwise, a breaching party could strategically breach a contract to save money without having to pay out significant damages. This strategy seems to be what Defendant has done here. Hence, Defendant is not permitted to escap
+
+Dissent
+The willfulness of the breach should not affect the measure of damages. The calculation of damages should be the diminished value of the property resulting from the breach unless the evidence shows that the completed product was to satisfy the personal tastes of a plaintiff.
+
+Discussion
+Where the breach is willful, damages equal the cost of performing the contract, not the difference between the value of the property at the time of contracting and the value the property would have had if the defendant fully performed.
+

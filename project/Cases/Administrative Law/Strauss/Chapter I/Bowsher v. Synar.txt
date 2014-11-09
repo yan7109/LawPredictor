@@ -1,0 +1,21 @@
+Citation
+478 U.S. 714, 106 S. Ct. 3181, 92 L. Ed. 2d 583, 1986 U.S.
+
+Brief Fact Summary
+The Comptroller General’s role in the government was questioned.
+
+Synopsis of Rule of Law
+“Because [the legislative branch in the form of] Congress retained removal authority, he may not be entrusted with executive powers.”
+
+Facts
+The Comptroller General was an office created by the Budget and Accounting Act, appointed by the President with advice and consent of the Senate, from recommendations made by the Speaker of the House and the President pro tempore of the Senate. He serves a single fourteen-year term. Congress has complete control over the General’s tenure.
+
+Issue
+“Whether the Comptroller General is controlled by Congress.”  “Whether the Comptroller General ha[d] been assigned [executive] powers in the Balanced Budget and Emergency Deficit Control Act of 1985.”
+
+Held
+Yes. The Supreme Court of the United States (the Court), zeroed in on the specific language of the Budget and Accounting Act. Because so many of the provisions of the Act placed the Comptroller General firmly under Congressional control, specifically removal authority, the Court concluded that the General “may not be entrusted with executive powers.”  Yes. The Court, again paying attention to the specific provisions of the act, found that the office was “the very essence of ‘execution’ of the law.” Under the law, “the Comptroller General must exercise judgment concerning facts that affect the application of the Act. He must also interpret the provisions of the Act to determine precisely what budgetary calculations are required.” The Court concluded that “Congress in effect has retained control over the execution of the Act and has intruded into the executive function.”   Dissent.   Justice White’s dissent focused on what he saw as the Court’s “attaching dispositive significance to what should be regarded as a triviality.”  Justice Blackmun’s dissent argued that the original statute should have been found unconstitutional.    Concurrence. Justice Stevens, joined by Justice Marshall, concurred in the judgment, focusing on Article I of the Constitution.
+
+Discussion
+“The structure of the Constitution does not permit Congress to execute the laws; it follows that Congress cannot grant to an officer under its control what it does not possess.”
+

@@ -1,0 +1,21 @@
+Citation
+131 S. Ct. 166 178 L. Ed. 2d 98 2010 U.S.
+
+Brief Fact Summary
+Larry Allen Myers (Appellant) was convicted of bank robbery following a jury trial and sentenced to ten years in prison.  Appellant appeals that conviction, asserting that the lower court committed error by refusing the strike the testimony of alibi witnesses that Appellant was not made aware of prior to the trial, admitting evidence of Appellant’s previous conviction for bank robbery, and for giving the jury a flight instruction that had no evidentiary support.
+
+Synopsis of Rule of Law
+Under the Federal Rules of Criminal Procedure, both the defendant and government have a continuing duty during trial proceedings to make disclosures concerning the use of alibi witnesses; the defendant must disclose to the government when an alibi defense is intended to be used and the government must disclose the existence of any witnesses that may be used to rebut such a defense.  Also, evidence of crimes not charged is inadmissible, when such evidence is offered to prove that a defendant has propensity for criminal behavior and that the defendant acted in accordance with that propensity.
+
+Facts
+A Florida bank was robbed by a single actor, who disappeared following the crime.  The government charged Appellant with the robbery, but Appellant denied that it was he who committed the crime.  There were two eye witnesses to the crime and various photographs taken by a security camera, but the identity of the robber remained at issue because Appellant’s friend, Dennis Coffie, pled guilty to the robbery; Coffie, “bears a remarkable physical resemblance” to Appellant.  Appellant indicated, prior to his trial, that he intended to assert an alibi defense, and listed three parties, including Coffie, as intended witnesses.  The government responded that it intended to utilize two tellers from the bank and another witness, Janice Johns, to rebut Appellant’s alibi defense.  No further information was ever added to either disclosure.  Despite never During trial, the government called four witnesses “not listed in its response to [Appellant's] notice of his intent to offer an alibi d
+
+Issue
+Was it reversible error for the lower court to:
+
+Held
+Reversed and remanded:
+
+Discussion
+The court discusses Federal Rule of Evidence 404(b), which allows evidence of past crimes only used to show similar motive, opportunity, intent, etc., and holds that the similarities between the Pennsylvania robbery conviction and the current charge are insufficient to render the evidence admissible.  The prosecution cited a total of ten similarities between the Pennsylvania crime and the one charged here; however, the court rejects the prosecution’s characterization of the items as “similarities,” holding that, “the time of the robbery and the presence of only a few female employees really constitute only a single common feature . . . each of the eight remaining similarities is a common component of armed bank robberies.”  As the evidence was not sufficiently unique as to the modus operandi and degree of similarity between the charged and uncharged crimes, the court finds that the evidence was improperly admitted.
+

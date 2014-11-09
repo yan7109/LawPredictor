@@ -1,0 +1,27 @@
+Citation
+Or. Sup. Ct., 275 Or. 97, 550 P.2d 1185 (1976)
+
+Brief Fact Summary
+State Farm Fire & Casualty Co. (P) and many others claimed that fire had been allowed to start and spread causing property harm, by the negligence of Century Home (D).
+
+Synopsis of Rule of Law
+If the judicial verdicts on a certain issue do not agree with each other, subsequent relitigation of that issue cannot be stopped using collateral estoppel.
+
+Facts
+Century Home (D) had to face more than 50 separate claims for damages following an outbreak of fire. Three of these cases were disposed of by final judgment. One was in favor of the defendant and the other two awarded damages to separate plaintiffs. State Farm (P) sought to use the prior judgments, which established Century Home’s(D) negligenceand liability to compensate losses due to the fire, in its action against Century Home (D). The trial court decided that collateral estoppel would prevent the defendant from relitigating on this issue.
+
+Issue
+If prior verdicts on an issue are different, can collateral estoppel be used to prohibit relitigation of that issue?
+
+Held
+(Holman, J.) No. If collateral estoppel is used to block subsequent litigation on the same issue, by a plaintiff who is not involved in the primary suit either as a party or as privy, the condition of no unfairness to the defendant must be applied. In a situation where there are inconsistent verdicts on the same matter, using only the judgments where a party lost to preclude relitigationon that matter is obviously unfair. Using this principle Century Home cannot be precluded from relitigating the issue of liability. This remains valid even if the party had a full and fair trial resulting in an adverse verdict, since the opposite verdict was also obtained in similar circumstances. The question of whether holding res judicata is fair to the defendant under these circumstances needs to be dealt with independently of and in addition to the above fact.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The Restatement of the Law (Second) Judgments (Tent.Draft No. 2 1975) deals with this issue and allows relitigation of an issue, without recourse to claim preclusion, provided the judicial determination sought to be used as the basis for preclusion is itself inconsistent with another determination of the same matter. Other instances of allowable relitigation are where preclusion would lead to difficulty in determining issues in later suits, or where it would be unfair to another part, or where the party seeking to exercise preclusion had the option of joining the original suit.
+

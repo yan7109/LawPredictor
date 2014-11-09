@@ -1,0 +1,27 @@
+Citation
+387 U.S. 294, 87 S. Ct. 1642, 18 L. Ed. 2d 782 (1967)
+
+Brief Fact Summary
+Defendant was pursued to his home, and arrested.  Evidence used against him was found during a search that was unwarranted.
+
+Synopsis of Rule of Law
+“‘The exigencies of the situation,’ in which the officers were in pursuit of a suspected armed felon in the house which he had entered only minutes before they arrived, permitted their warrantless entry and search” and “the distinction prohibiting seizure of items of only evidential value and allowing seizure of instrumentalities, fruits, or contraband is no longer accepted as being required by the Fourth Amendment.”
+
+Facts
+Defendant Hayden was arrested in his home after a robbery.  The robber had been followed by two cab drivers to the residence.  Their dispatcher notified the police, who arrived in short order and were permitted to enter by Mrs. Hayden, the defendant’s wife.  As they searched the house, police found weapons, ammunition, and clothing that the robber was described as wearing.  The police had no search warrant.
+
+Issue
+“[Whether] there is under the Fourth Amendment a ‘distinction between merely evidentiary materials, on the one hand, which may not be seized either under the authority of a search warrant or during the course of a search incident to arrest, and on the other hand, those objects which may validly be seized including the instrumentalities and means by which a crime is committed, the fruits of crime such as stolen property, weapons by which escape of the person arrested might be effected, and property the possession of which is a crime.’”
+
+Held
+No.  First, the court made clear that the search without warrant was valid as “the exigencies of the situation made that course imperative.”  Under the circumstances “speed . . . was essential, and only a thorough search of the house for persons and weapons could have insured that [the defendant] was the only man present and that the police had control of all weapons which could be used against them or to effect [sic] an escape.”
+
+Dissent
+J. Douglas premised his dissent on historical precedent and a strict reading of the Constitution, concluding that the “constitutional philosophy is . . . clear. The personal effects and possessions of the individual (all contraband and the like excepted) are sacrosanct from prying eyes, from the long arm of the law, from any rummaging by police.”
+
+Concurrence
+J. Black concurred, but did not write and opinion.
+
+Discussion
+“The Fourth Amendment allows intrusions upon privacy under [specific] circumstances, and there is no viable reason to distinguish intrusions to secure ‘mere evidence’ from intrusions to secure fruits, instrumentalities, or contraband.”
+

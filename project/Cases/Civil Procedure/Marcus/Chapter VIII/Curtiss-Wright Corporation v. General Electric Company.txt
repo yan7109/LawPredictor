@@ -1,0 +1,21 @@
+Citation
+446 U.S. 1, 100 S. Ct. 1460, 64 L. Ed. 2d 1, 1980 U.S.
+
+Brief Fact Summary
+From 1968 to 1972, General Electric Company (Respondent) entered into a series of twenty-one contracts with the Curtiss-Wright Corporation (Petitioner) for the manufacture of components designed for use in nuclear powered naval vessels. In 1976, Petitioner brought a diversity action in the United States District Court for the District of New Jersey, seeking damages and reformation of the twenty-one contracts. The complaint asserted claims based upon fraud, misrepresentation and breach of contract by Respondent. Respondent counterclaimed for costs allegedly incurred as a result of “extraordinary efforts” provided to Petitioner during the performance of the contracts, which allowed Petitioner to avoid default on the contract.
+
+Synopsis of Rule of Law
+Rule 54(b) of the Federal Rules of Civil Procedure allows a district court dealing with multiple claims or multiple parties to direct the entry of final judgment as to fewer than all of the claims or parties. To do so, the court must make an express determination that there is no just reason for delay.
+
+Facts
+This dispute concerns the application of a release clause contained in each of the twenty-one agreements. Petitioner moved for summary judgment on the nineteen million dollar balance due from Respondent on the contracts. The district court granted the Motion for Summary Judgment, notwithstanding the release clause. Petitioner then moved for certification of the district court’s orders as final judgments under Rule 54(b). The court found, subject to Rule 54(b), that there was no just reason for delay. The United States Court of Appeals for the Third Circuit reversed and held that the district court had abused its discretion by granting the Rule 54(b) certification.
+
+Issue
+Does the existence of a counterclaim, which would result in a set-off against any amounts due and owing to the Petitioenr, justify the denial of Rule 54(b) certification?
+
+Held
+The mere presence of counterclaims does not render a Rule 54(b) certification inappropriate. In this case, the district judge determined that Respondent’s counterclaims were severable from the claims, which had been determined in terms of both the factual and legal issues involved. The court of appeals did not conclude otherwise and, as a result, Rule 54(b) certification was appropriate.
+
+Discussion
+The court notes that the question of certification in cases such as this is likely to be “close.” Therefore, because the district judge is in the most favorable position from which to balance the competing factors, substantial deference should be given to his or her decision on review.
+

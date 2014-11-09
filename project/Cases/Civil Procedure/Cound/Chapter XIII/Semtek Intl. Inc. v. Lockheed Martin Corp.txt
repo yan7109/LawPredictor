@@ -1,0 +1,21 @@
+Citation
+22 Ill.531 U.S. 497, 121 S. Ct. 1021, 149 L. Ed. 2d 32 (2001)
+
+Brief Fact Summary
+Plaintiff Semtek Intl. Inc. filed suit in California state court against Defendant Lockheed Martin, who then had the suit moved to Federal court on diversity grounds before filing a motion to dismiss the suit based on California’s 2-year statute of limitations.
+
+Synopsis of Rule of Law
+Federal common law governs the claim-preclusive effect of a dismissal by a Federal court sitting in diversity, which in turn will apply the claim- preclusion laws of the state in which the Federal court is located.
+
+Facts
+Plaintiff filed suit in California state court against Defendant alleging inducement of breach of contract and various business torts. Defendant moved the case to Federal District Court in California via diversity jurisdiction and successfully moved to dismiss Plaintiff’s claim as barred by California’s 2-year statute of limitations. The District Court dismissed the suit “on the merits and with prejudice.” Plaintiff then re-filed suit against Defendant, this time in Maryland state court. Lockheed again had the case removed to Federal district court, this time in Maryland, and ask the court to apply claim-preclusive effect to the California Federal District Court’s adjudication on the merits, and dismiss the suit.
+
+Issue
+Whether the claim-preclusive effect of a Federal judgment dismissing a diversity action on statute of limitation grounds is determined by the law of the state in which the Federal court sits.
+
+Held
+Yes. The case was reversed and remanded for proceedings consistent with the court’s decision.  An adjudication upon the merits, under Federal Rule of Civil Procedure 41(b) only has the effect of preventing a re-filing in the same district court in which the case was earlier filed.  Federal common law governs the claim-preclusive effect of a dismissal by a Federal court sitting in diversity.
+
+Discussion
+An on-the-merits adjudication is one that actually passes on the substance of the particular claim before the court. It is no longer the case that a judgment on the merits is automatically entitled to claim preclusive effect. Thus the term “operates as adjudication on the merits” does not automatically render a judgment the effect of claim preclusion under Fed. R. Civ. Pr. 41(b). Instead adjudication on the merits is merely one that is not dismissed with prejudice. An adjudication upon the merits, under Fed. R. Civ. Pr. 41(b) only has the effect of preventing a re-filing in the same district court in which the case was earlier filed.   The Full Faith and Credit Clause does not mean that states can give Federal court judgments the same effect they would give their own State court judgments, but must grant them the same effect the Federal court would. Thus Federal common law governs the claim-preclusive effect of a dismissal by a Federal court sitting in diversity.     Civil Procedure Keyed to Marcus, Redish & Sherman (Third Edition)   CHAPTER I.
+

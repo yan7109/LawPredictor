@@ -1,0 +1,21 @@
+Citation
+409 U.S. 188, 93 S. Ct. 375, 34 L. Ed. 2d 401 (1972)
+
+Brief Fact Summary
+The constitutionality of a station house identification by the victim of a rape was at issue.
+
+Synopsis of Rule of Law
+“Weighing all the factors, [there is] no substantial likelihood of misidentification.”
+
+Facts
+The Respondent was convicted of rape and imprisoned for twenty years.  Part of the state’s evidence was a station house identification by the victim.  The Respondent brought a federal habeus corpus action.  The District Court held that the station house identification procedure was so suggestive as to violate due process.  The Court of Appeals affirmed.
+
+Issue
+Whether the station house identification procedure was so suggestive (not reliable) to violate due process?
+
+Held
+The majority observed “first of all, [it is] apparent that the primary evil to be avoided is ‘a very substantial likelihood of irreparable misidentification.’ ”  “What is less clear from our cases is whether, as intimated by the District Court, unnecessary suggestiveness alone requires the exclusion of evidence.”  “The purpose of a strict rule barring evidence of unnecessarily suggestive confrontations would be to deter the police from using a less reliable procedure where a more reliable one may be available, and would not be based on the assumption that in every instance the admission of evidence of such a confrontation offends due process.”
+
+Discussion
+This case provides an interesting discussion of how pre-trial identifications are construed by the courts.
+

@@ -1,0 +1,21 @@
+Citation
+531 U.S. 457, 121 S. Ct. 903,149 L. Ed. 2d 1, 2001 U.S.
+
+Brief Fact Summary
+The Environmental Protection Agency (EPA) revised ozone air quality standards.
+
+Synopsis of Rule of Law
+“When conferring decisionmaking authority upon agencies, Congress must lay down an intelligible principle to which the person or body authorized to act is directed to conform.”
+
+Facts
+The EPA revised national ambient air quality standards (NAAQS) under the Section:109(b)(1) of the Clean Air Act (CAA). The changes affected ozone. Several states challenged the new promulgated rules.
+
+Issue
+“Whether Section:109(b)(1) of the Clean Air Act (CAA) delegates legislative power to the Administrator of the Environmental Protection Agency (EPA).”
+
+Held
+No. The Supreme Court of the United States first took into consideration the approach that the Constitution required. Based on Art. I of the Constitution, Congress has “all legislative powers,” but the Constitution does not permit “delegation of those powers.” Under previous decisions, therefore, “when Congress confers decisionmaking authority upon agencies Congress must ‘lay down by legislative act an intelligible principle to which the person or body authorized to [act] is directed to conform.’” Strictly interpreting the language of Section: 109(b)(1), the Supreme Court read the statute as “requiring the EPA to set air quality standards at the level that is “requisite”–that is, not lower or higher than is necessary–to protect the public health with an adequate margin of safety,” and so concluded that the scope provided by Congress for the EPA was “well within the outer limits of our nondelegation precedents.”  Concurrence.   Justice Thomas concurred agreed with the Court, but nonetheless expressed his concern that the “intelligible principle” doctrine serves to prevent all cessions of legislative power,” and “that there are cases in which the principle is intelligible and yet the significance of the delegated decision is simply too great for the decision to be called anything other than ‘legislative.’”  Justice Scalia, joined Justice Souter, believed that the Court should simply “admit that agency rulemaking authority is ‘legislative power.’”
+
+Discussion
+“Statutes need not provide a determinate criterion for saying how much of a regulated harm is too much to avoid delegating legislative power.”
+

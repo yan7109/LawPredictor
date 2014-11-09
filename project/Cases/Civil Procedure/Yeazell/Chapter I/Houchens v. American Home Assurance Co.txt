@@ -1,0 +1,21 @@
+Citation
+927 F.2d 163,1991 U.S. App. 3259
+
+Brief Fact Summary
+Plaintiff Alice Houchens is trying to collect upon two life insurance policies issued by Defendant American Home Insurance Co. on her husband, Coulter Houchens, who disappeared in 1980.
+
+Synopsis of Rule of Law
+Upon a motion for summary judgment by the Defendant, the Plaintiff has the burden of establishing facts showing the existence of an element essential to the Plaintiff’s case in order to survive the motion.
+
+Facts
+Coulter Houchens disappeared in 1980. Plaintiff attempted to collect upon two insurances policies issued by Defendant. Both policies required that the insured’s death be caused by accident in order to be covered. Evidence showed that prior to his disappearance, Mr. Houchens was stationed in Dhahran, Saudi Arabia. Sometime around August 14, 1980.Mr. Houchens traveled to Bangkok, Thailand. No one has heard from Mr. Houchens since that time. In April 29, 1988 Plaintiff brought an action to declare Mr. Houchens legally dead under Virginia law. On April 29, 1988, an order was issued by the Circuit Court of Loudoun County, Virginia, declaring that Mr. Houchen’s is presumed to have died between August 15 and August 29, 1980. Plaintiff then brought suit against Defendant for breach of contract involving two insurance policies in the United States Eastern District Court for the District of Virginia. Defendant maintained that there was no evidence of Mr. Houchen’s death, not was there evidence of accidental death. Defendant moved for summary judgment, and the District Court granted the motion. This appeal followed.
+
+Issue
+Whether evidence, viewed in the light most favorable to the Plaintiff, permitting inferences showing equal support for the conclusions of both parties, is sufficient to survive a motion for summary judgment.
+
+Held
+No. The order of the District Court was affirmed.   A beneficiary who makes a death claim under an accident policy has the burden of proving the insured’s death was caused by violent, external and accidental means. Therefore the burden was on Plaintiff to prove that her husband died by accidental means.  Where inferences show equal support for opposing conclusions, the Court cannot conclude that there is a greater probability that the death was caused by accident than by other means.  A District Court does not err in granting summary judgment where a jury could not reasonably conclude that it is more likely than not that the Plaintiff can prove the elements of his claim.
+
+Discussion
+Summary judgment is mandated against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial. See Celotex Corp. v Catrett, 477 U.S. 317, 1986.   Plaintiff asserted that the presumption that Mr. Houchens is dead translates into the presumption that he died accidentally. However, the Court concluded that where there is only evidence of a disappearance, to conclude that death is accidental would be to pile inferences on inferences.
+

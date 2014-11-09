@@ -1,0 +1,21 @@
+Citation
+283 U.S. 583, 51 S. Ct. 606, 75 L. Ed. 1285 (1931)
+
+Brief Fact Summary
+The United States District Court for the Northern District of Illinois, Eastern Division, dismissed negligence claims against the United States (Defendant) on the grounds that the Federal Tort Claims Act (FTCA) barred such claims. Plaintiffs appealed.
+
+Synopsis of Rule of Law
+Claims for injuries, which arise out of, or in the course of military service are outside the FTCA’s waiver of sovereign immunity. Sovereign immunity is restored when injuries to servicemen arise out of or are in the course of activity, which is incident to service.
+
+Facts
+In January, 1968, a United States Air Force B-52 armed with four thermonuclear weapons crashed in Greenland. The plane was destroyed, and highly radioactive plutonium and tritium fragments were strewn over the area as a result of the hundreds of tons of jet fuel and high explosives having ignited on impact. Plaintiffs were among 300 servicemen assigned to clean up the wreckage. They alleged that they suffered from cancer as a result of exposure related to the cleanup operation.
+
+Issue
+Did discretionary governmental immunity preclude liability and thus bar Plaintiffs’ claims?
+
+Held
+Yes. The court affirmed the dismissal of Plaintiffs’ claims because 28 U.S.C. 2675 (b), the Feres doctrine, barred claims against the government by servicemen that arose out of activity incident to service, and the discretionary function exception to the FTCA barred claims based on Defendant’s failure to inform Plaintiffs of their increased cancer risk.
+
+Discussion
+The type of immunity at issue in Maas falls under the umbrella of discretionary immunity, i.e., that immunity afforded public officials when they make decisions founded on planning or policy considerations. Citing prior authority, the court framed its analysis in the following manner: “[t]he United States Court of Appeals for the Seventh Circuit has recognized two factors in determining whether the discretionary function exception bars suit against the United States: (1) it covers only discretionary acts, that is, which involve an element of judgment or choice; and (2) even assuming the challenged conduct involves an element of judgment, it remains to be decided whether that judgment is of the kind that the exception was designed to shield.”
+

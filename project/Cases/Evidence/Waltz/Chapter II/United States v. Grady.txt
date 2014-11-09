@@ -1,0 +1,21 @@
+Citation
+357 Fed. Appx. 481 (3d Cir. 2009) [2009 BL 272745]
+
+Brief Fact Summary
+The defendants, Grady and others (the “defendants”), were convicted of false statements and illegally exporting firearms to Northern Ireland.  The defendants argued that a police report prepared by Irish police should not have been admitted as evidence.
+
+Synopsis of Rule of Law
+Records prepared by law enforcement personnel are not excluded from admissibility under Federal Rules of Evidence (”F.R.E.”) Rule 803(8)(B) if they are related to a routine function that do not begin the government’s case.
+
+Facts
+The defendants conspired to purchase and deliver firearms to Northern Ireland.  The defendants signed for the purchase of the firearms in the dealer’s logbook that is used to help track weapons.  The defendants were not actually coming into possession of the firearms; they were illegally exporting the firearms.  Irish law enforcement recorded serial numbers that matched the purchased firearms, and the prosecution admitted that report into evidence.
+
+Issue
+Whether the report prepared by foreign law enforcement personnel is admissible despite the restrictive language of FRE Rule 803(8)(B)?
+
+Held
+The court allowed the admission of the Irish police record because it was prepared as part of a routine that is separate from the preparation of the case against the defendants.
+
+Discussion
+The court made an exception to FRE Rule 803(8)(B) in order to allow certain police reports.  The report in this case had factors that rendered it more trustworthy than a report prepared during a specific investigation.  It was a compilation of facts without comments or conclusions, and it was prepared separately from any investigation that centered on the defendants.  The court does not address whether the records would fall under other hearsay exceptions.
+

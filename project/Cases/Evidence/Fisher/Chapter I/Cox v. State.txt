@@ -1,0 +1,21 @@
+Citation
+696 N.E.2d 853, 1998 Ind.
+
+Brief Fact Summary
+Patrick E. Cox (Appellant) was convicted of murder by a jury following a shooting that left James Leonard (Victim) dead; the jury found Appellant guilty and the trial court imposed a life sentence.  Appellant appeals his conviction here.
+
+Synopsis of Rule of Law
+When probable cause exists to make an arrest and the arrest is nevertheless made in violation of the Fourth Amendment, the exclusionary rule does not bar the introduction of statements into evidence made by a defendant outside of his home following the illegal arrest.
+
+Facts
+Victim was asleep in his home with his wife around 3:00a.m. one morning when he was shot in the eye by a person outside Victim’s house; Victim was taken to the hospital following the shooting, and died three days later.  Bullet holes were found in the bedroom window and the screen to the bedroom window, and a firearms expert testified at trial that the evidence at the scene showed that the shot was fired from outside the home, through the screen, from a distance of less than six inches from the screen.  Appellant was questioned and denied any involvement, but others testified that Appellant had admitted to them that he had shot Victim.  Two police officers went to Appellant’s home, believing they had probable cause to arrest Appellant, but without a search warrant; when Appellant answered the door, the officers asked Appellant to come with them, at which time Appellant attempted to shut the door.  The officers were nevertheless able to pull Appellant out and placed him under
+
+Issues
+In the present case, does the exclusionary rule bar the prosecution’s use of a statement made by Appellant outside his home following an arrest of Appellant done in violation of the Fourth Amendment to the United States Constitution? Is it improper for a prosecutor to discuss witness credibility during the opening statements of a trial? In the present case and under Indiana Evidence Rule 104(b), is the testimony of the deputy prosecutor concerning events that took place at a bond reduction hearing of a close friend of Appellant admissible, when the testimony would only be relevant if Appellant knew of the events prior to the crime? Did the trial court abuse its discretion in denying Appellant’s motion for a continuance to hire neurological experts and/or Appellant’s request for mitigation funds?
+
+Held
+No; the officers had probable cause to make the arrest, and the United States Supreme Court stated in New York v. Harris, 493 U.S. at 14, that, “where the police have probable cause to arrest a suspect, the exclusionary rule does not bar the State’s use of a statement made by the defendant outside of his home, even though the statement is taken after an arrest made in the home in violation of [the Fourth Amendment].” No; the prosecutor’s comments did not express a view as to Appellant’s credibility as a witness (which would have been improper under the Indiana Rules of Professional Conduct), since Appellant did not testify at trial Yes; the testimony of the deputy prosecutor is admissible under Indiana Evidence Rule 104(b), which provides that, “[w]hen the relevancy of evidence depends upon the fulfillment of a condition of fact, the Court shall admit it upon . . . the introduction of evidence sufficient to support a finding of the fulfillment of the condition.”  Since here the relevance of the prosecutor’s testimony depends on a condition of fact (whether Appellant knew of the events at the bond reduction hearing), and because other evidence was present that would support a finding that the condition was fulfilled, the testimony is relevant and admissible. No; last minute continuances are not favored and, here, Appellant had ample time prior to making his motion for a continuance to accomplish what he purported to do with the time that would have been provided had the motion been granted.<span class='heading'>Concurrence.</span> Justices Shepard, C.J., Dickson, Sullivan, and Selby, JJ., concur but do not write separately.<br />
+
+Discussion
+The court relies on federal case law, including Supreme Court precedent, in reaching its decision, as discussed above.
+

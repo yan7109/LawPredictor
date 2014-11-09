@@ -1,0 +1,21 @@
+Citation
+841 F.2d 502 (3d Cir. 1988)
+
+Brief Fact Summary
+Plaintiff, Robert Deutschman, was a purchaser of call options, including options in the stock of Defendant corporation, Beneficial Corp.  Plaintiff sought standing to bring an action against Beneficial and its CEO and CFO for misrepresentations that they made.
+
+Synopsis of Rule of Law
+There is no transactional nexus requirement to achieve standing in a suit under a section 10(b) affirmative misrepresentation case, which would therefore give option traders standing.
+
+Facts
+Beneficial’s insurance division suffered severe losses that would adversely affect their stock.  Plaintiff alleged that misrepresentations were made by Defendant CEO and CFO of Beneficial in order to reduce the impact of the losses on the stock price.  As a result, Plaintiff option trader was adversely affected.  Plaintiff brought a suit under Section 10(b) of the Securities Exchange Act on his own behalf and on the behalf of other similarly situated traders.  Defendants countered that an option trader had no standing to sue under section 10(b) because he was not an actual trader of Beneficial’s stock and therefore was owed no duty by Defendants to refrain from misrepresentations.
+
+Issue
+The issue is whether an option trader, who is not trading in the actual stock of a company, has standing to sue under Section 10(b) for misrepresentations.
+
+Held
+The United States Court of Appeals for the Third Circuit held that Plaintiff met all of the requirements of Section 10(b) and therefore had standing to bring an action against Defendants.  The court believed that the rule was meant to have a broad scope of any type of security held in Defendant corporation.  The court did not want to determine which types of security merit protection over other types.  Defendants argued that option trading was more akin to gambling, or less valuable to commerce, but the court disagreed.
+
+Discussion
+The court clarified that this case is specific to affirmative misrepresentations.  Defendants could have avoided this if they would have avoided making any public comments regarding the health of their company.
+

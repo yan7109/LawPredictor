@@ -1,0 +1,21 @@
+Citation
+3 K.B. 560 (1921).
+
+Brief Fact Summary
+While discharging cargo from a ship, a wooden plank fell causing a spark to ignite the petrol the ship carried. The resulting fire destroyed the ship.
+
+Synopsis of Rule of Law
+The exact way in which damage or injury results need not be foreseen for liability to attach, the fact that the negligent act caused the result is enough.
+
+Facts
+The owners of a vessel chartered its use to the Appellants for the purposes of carrying, among other things, petrol to Casablanca. While unloading the cargo in Casablanca, a wooden plank fell into the hold containing the petrol and caused an explosion. The fire completely destroyed the vessel. The owners, charging the chatterers with negligence, claimed the value of the vessel from the charterers. The charterers responded that the fire was a remote consequence of their actions, so they are not responsible. The case was referred to arbitration and the arbitrators found that the fire was caused when the wooden plank hit metal and caused a spark. The arbitrators agreed with the charterers that the spark was an unforeseen consequence of the original negligence and therefore the destruction of the vessel was a remote consequence. The only damage the charterers should be liable for is the approximate damage done to the vessel by the falling wooden plank, not the damage done by the f
+
+Issue
+Whether the charterer’s negligence was a proximate cause of the fire.
+
+Held
+The fire was a foreseeable consequence of the negligence.
+
+Discussion
+The finding that the spark was too remote to confer liability on the charterers was based on the contention of the charterers that the fire was an unforeseen consequence of the falling wooden plank. The actual anticipations of the negligent party are irrelevant when considering whether the resulting damage is remote. In this case, the fire was a direct result of the negligent act and therefore the charterers are liable for the fire. That damage that might result when a wooden plank falls while discharging cargo is a foreseeable consequence of the negligence, whatever that damage might be.
+

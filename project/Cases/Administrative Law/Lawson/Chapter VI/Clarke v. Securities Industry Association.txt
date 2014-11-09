@@ -1,0 +1,21 @@
+Citation
+479 U.S. 388, 107 S. Ct. 750, 93 L. Ed. 2d 757 (1987)
+
+Brief Fact Summary
+Securities Industry Association (Respondent), representing securities brokers, underwriters and investment bankers, brought suit against the Comptroller of Currency in the United States District Court for the District of Columbia regarding his interpretation of Section:Section:36(c) & (f) of the National Bank Act (Act). The Comptroller argued that Respondent lacked standing because it was not within the zone of interests protected by the Act.
+
+Synopsis of Rule of Law
+To establish Section:702 standing, the complainant be “adversely affected or aggrieved” to establish an injury in fact, as well as within the zone of interests sought to be protected or regulated by the statute or constitutional guarantee in question.
+
+Facts
+The Comptroller approved an application for a discount brokerage to open up, finding that it did not fall under the definition of a bank “branch” under the Act.  Respondents disagreed with the Comptroller’s interpretation of the Act, contending that bank discount brokerage offices are “branches” within the meaning of Section:36(f), and thus subject to the geographical restrictions of Section:36(c).  The District Court, relying on Data Processing Service, held that Respondent had standing, and rejected the Comptroller’s submission that national banks may offer discount brokerage services at nonbranch locations. A divided Court of Appeals affirmed.
+
+Issue
+Was the Respondent a proper party to bring suit?
+
+Held
+Yes.   Data Processing provides guidance as to the “zone of interest” formula: 1] The Court interpreted “relevant statute” broadly; and 2] The Court approved the trend toward the enlargement of the class of people who may contest administrative action.  The Comptroller’s argument focused too narrowly on Section:36, and did not adequately place the section in the overall context of the Act. Data Processing demonstrated that the Court is not limited to considering the statute under which respondents sued, but can consider any provision that helps it to understand the Congress’ overall purposes.   Dissent. None.  Concurrence. Petitioner’s argument focused on too narrow a reading of the statutory interests, and the case should have been decided based on standing alone, without the zone of interests discussion.
+
+Discussion
+The Court set out to clarify the zone of interests test, but lower courts still tend to look for evidence of Congressional intent in determining whether plaintiffs are members of the class the statute was designed to protect.
+

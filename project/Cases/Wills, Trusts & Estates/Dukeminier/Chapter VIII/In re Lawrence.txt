@@ -1,0 +1,18 @@
+Brief Fact Summary
+Stephan Jay Lawrence created and funded an offshore asset protection trust in Mauritius with $7 million dollars.  After Lawrence lost a securities law arbitration proceeding, he was punished with a $20.4 million judgment against him.  Lawrence filed for bankruptcy and the court ordered him to turn over the bankruptcy trustee assets held in the offshore trust.
+
+Synopsis of Rule of Law
+Impossibility is not a defense in contempt proceedings where the person charged with contempt is responsible for the inability to comply.
+
+Facts
+Lawrence created and funded an offshore asset protection trust in Mauritius with $7 million dollars.  After Lawrence lost a securities law arbitration proceeding, he was punished with a $20.4 million judgment against him.  Lawrence filed for bankruptcy and the court ordered him to turn over the bankruptcy trustee assets held in the offshore trust.  Lawrence did not comply and the court held him in contempt and jailed him pending compliance with the turnover order.
+
+Issue
+Whether a person charged with contempt is responsible for his inability to comply with an order to turn over assets in an offshore account if he was removed as a beneficiary under the account because he declared for bankruptcy?
+
+Held
+Yes.  Lawrence is responsible for his inability to comply because even though he was removed as a beneficiary as a result of his bankruptcy filing, he still retained the authority to appoint trustees who could have exercised the authority to reinstate Lawrence as a beneficiary.  The new trustees could have distributed the entire trust to Lawrence once he was reinstated.  Therefore Lawrence is responsible for his inability to comply.  Furthermore, it appears as if the sole purpose of the provision that extinguishes his inters tint the event of bankruptcy is to aid the settlor in evading contempt.
+
+Discussion
+The court did not accept impossibility as a defense here because settlor still had the power to transfer the assets if he appointed new trustees.
+

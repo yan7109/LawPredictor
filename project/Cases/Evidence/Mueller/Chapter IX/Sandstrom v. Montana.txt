@@ -1,0 +1,24 @@
+Citation
+442 U.S. 510, 99 S. Ct. 2450, 61 L. Ed. 2d 39, 1979 U.S.
+
+Brief Fact Summary
+Defendant was convicted of “deliberate homicide” for killing Annie Jensen.  He admitted to the killing but argued that he lacked the intentional element of the crime because of a personality disorder made worse by alcohol use.
+
+Synopsis of Rule of Law
+The Fourteen Amendment requires every element of a crime to be proved by the State beyond a reasonable doubt.
+
+Facts
+David Sandstrom, Defendant, confessed to killing Annie Jensen.  Defendant claimed that he did not kill the victim “purposely or knowingly” and was not guilty of “deliberate homicide.”  In support, Defendant offered two mental health experts to testify about his personality disorder.  The prosecution requested that the jury be instructed that “the law presume that a person intends the ordinary consequences of his voluntary acts.”  Defendant claimed that such shift the burden unconstitutionally to the defendant.  Defendant was found guilty and sentenced to 100 years in prison.
+
+Issue
+Does the jury instruction “the law presumes that a person intends the ordinary consequences of his voluntary acts” violate the Fourteenth Amendment?
+
+Held
+Justice Brennan issued the opinion of the United States Supreme Court in reversing the conviction and holding that the instruction could have been interpreted by the jury as a presumption that shifted the burden of the criminal offense to the Defendant.
+
+Concurrence
+Justice Rehnquist issued a concurring opinion, joined by Chief Justice Burger, but the text omits it.
+
+Discussion
+The fact that a reasonable jury could have interpreted the jury instruction a burden on the Defendant would have deprived him of his constitutional rights.  Intent is an element of the crime in this case and the State constitutionally had the burden to prove such.  The jury may have interpreted the instruction to require the Defendant to offer prove that he lacked inte
+

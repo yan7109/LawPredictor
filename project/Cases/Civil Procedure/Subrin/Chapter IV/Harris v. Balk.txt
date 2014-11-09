@@ -1,0 +1,21 @@
+Citation
+198 U.S. 215, 25 S. Ct. 625, 49 L. Ed. 1023; 1905 U.S. 1122
+
+Brief Fact Summary
+Plaintiff in error, Harris, paid a debt to a third party in Maryland initially owed to Defendant in error, Balk. Bulk still brought this suit in North Carolina because he alleged that Maryland had no jurisdiction over Harris.
+
+Synopsis of Rule of Law
+A valid judgment by another state’s court that had jurisdiction over a party must be given full faith and credit by another state’s court.
+
+Facts
+Plaintiff in error owed Defendant in error $180.  Both parties resided in North Carolina.  Defendant in error owed Jacob Epstein, a resident of Maryland, $300, and when Epstein knew that Plaintiff in error was coming to Baltimore he had him served in a Maryland court.  At the conclusion of proceedings in Maryland, Plaintiff in error agreed to pay the $180 directly to Epstein and have his debt with Defendant in error wiped away.  However, within two days of returning to North Carolina, Defendant in error brought this claim, arguing that the $180 judgment had no significance in North Carolina because Maryland had no jurisdiction to attach the debt to the Maryland case.  The district and Supreme courts of North Carolina held for Defendant in error.
+
+Issue
+The issue is whether Maryland had jurisdiction over the debt between the two residents of North Carolina.
+
+Held
+The United States Supreme Court held that although the general rule is that only states that are the domicile of the creditor or debtor typically have jurisdiction, Defendant in error could have conceivably brought an action against Plaintiff in error for the debt when Plaintiff in error was in Maryland.  Defendant in error was even aware that Plaintiff in error was in Maryland, as evidence by his suit filed shortly after his return.  The establishment of jurisdiction over Plaintiff in error was proper in Maryland, and the judgment was valid, and therefore North Carolina is required to give full faith in credit to the Maryland judgment.
+
+Discussion
+The Court emphasized that Balk had notice of the proceedings in Maryland and could therefore side with Harris, but they admit that their reasoning for establishing Maryland’s jurisdiction over the debt may sound thin.
+

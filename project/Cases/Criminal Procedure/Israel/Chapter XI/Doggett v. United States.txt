@@ -1,0 +1,24 @@
+Citation
+505 U.S. 647, 112 S. Ct. 2686, 120 L. Ed. 2d 520 (1992)
+
+Brief Fact Summary
+Government prosecutes petitioner Marc Gilbert Doggett on drug charges eight and one half years after he was indicted.
+
+Synopsis of Rule of Law
+Unreasonable delay between indictment and prosecution violates a criminal defendant’s Sixth Amendment right to a speedy trial.
+
+Facts
+Petitioner was indicted in February of 1980 for conspiracy to import and distribute cocaine, and when government agents went to his house to arrest him they found out he was in Colombia.  Nineteen months later they found out he was in Panama.  One year later he passed through customs without being stopped and settled in Virginia.  Six years later the government found out he was there by running a credit check, and he was arrested and prosecuted.  He filed a motion to dismiss, claiming that his right to a speedy trial was violated by the government’s failing to prosecute him earlier, and his motion was denied.  The Court of Appeals affirmed and he was granted certiorari.
+
+Issue
+Does an eight and one half year delay between indictment and prosecution violate a criminal defendant’s right to a speedy trial?
+
+Held
+Yes.  Reverse and remand.
+
+Dissent
+Justice Sandra Day O’Connor dissented by saying that the possibility of prejudice does not mean that speedy trial rights have been violated.
+
+Discussion
+Practically, it is unclear how beneficial this decision is considering that the delay in time was so long under these facts.  The case does mention that lower courts usually find a one year post-accusation delay as presumptively prejudicial, but does not really lay out a more specific standard than to say that “unreasonable” delay is what is not allowed.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.515 U.S. 200, 115 S. Ct. 2097, 132 L. Ed. 2d 158, 67 FEP Cases 1828 (1995)
+
+Brief Fact Summary
+A federal law provided financial incentives to contractors awarding subcontracts to minority-owned businesses.
+
+Synopsis of Rule of Law
+State and federal racial classifications require the application of strict scrutiny in order to determine whether the constitutionality of the classification.
+
+Facts
+The Plaintiff, Adarand Constructors, Inc. (Plaintiff), a white-owned construction company, was denied a subcontract to provide guardrails to a federal highway construction project in Colorado. Although the Plaintiff submitted the lowest bid, the subcontract was given to a minority-owned firm. A federal law allowed contractors, with projects funded by the federal government, to receive an incentive when they award subcontracts to “socially and economically disadvantaged individuals.” The Plaintiff argued that the federal law violated the Equal Protection Clause of the Fifth Amendment of the United States Constitution (Constitution). After applying an intermediate level of scrutiny to the federal law, the Court of Appeals ruled in favor of the government. The Plaintiff appeals the judgment.
+
+Issue
+In order to withstand constitutional muster, are all federal, state, or local governments required to have racial classifications narrowly tailored to meet compelling governmental interests?
+
+Held
+Judge Sandra Day O’Connor (J. O’Connor). Yes. All race-based classifications imposed by government must pass strict scrutiny to be constitutional. The judgment is vacated and remanded for further proceedings.
+
+Dissent
+The dissenting opinions are as follows:
+
+Discussion
+This case overrules Metro Broadcasting, Inc. V. FCC, 497 U.S. 547 (1990) which applied intermediate scrutiny, instead of strict scrutiny, to determine whether governmental race classifications, favoring minorities, constituted a violation of the Equal Protection Clause.
+

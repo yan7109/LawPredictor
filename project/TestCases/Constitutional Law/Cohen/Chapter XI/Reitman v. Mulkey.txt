@@ -1,0 +1,24 @@
+Citation
+22 Ill. 387 U.S. 369, 87 S. Ct. 1627, 18 L. Ed. 2d 830 (1967)
+
+Brief Fact Summary
+Respondents Mr. and Mrs. Mulkey attempted to rent an apartment owned by Petitioner Reitman. Respondents allege that Petitioner refused to rent to them solely based on their racial status. Respondents then filed suit to demand an injunction to allow them to rent the apartment and for damages as a result of the discrimination.
+
+Synopsis of Rule of Law
+State action can be invoked if a state law significantly encourages and involves the State in private discrimination.
+
+Facts
+The Respondents are husband and wife, and sued under Section:51 and Section:52 of the California Civil Code, which prohibit discrimination in housing decisions based on an individuals racial status, alleging that Petitioner refused to rent them an apartment solely based on their racial status. Respondents demanded an injunction and damages as a result of this discrimination. Petitioner’s filed a motion for summary judgment on the grounds that section 51 and 52 have been invalidated by proposition 14, later Art. I Section: 26 of the California Constitution, which banned fair housing measures in the State of California. The trial court granted the motion, and the California Supreme Court reversed on the grounds that Art. I Section: 26 denied equal protection of the laws guaranteed by the Fourteenth Amendment of the United States Constitution.
+
+Issue
+Whether Art. I, Section: 26 of the California Constitution denies to any person the equal protection of the laws within the meaning of the Fourteenth Amendment of the Constitution of the United States?
+
+Held
+Yes. This provision does not just repeal an existing law forbidding private racial discriminations, but Art. I Section: 26 of the California Constitution does more, it was intended to authorize, and does in fact authorize racial discrimination in the housing market. The right to discriminate became one of the basic policies of the State. The Court agrees with the California Supreme Court that this section significantly encourages and involves the State in private discriminations. The Court further agrees with the California Supreme Court in this case that section 26 changed the status of the law from one that restricted discriminatory practices to one that through its authorization in this section makes the state a partner in the act of discrimination. It is this authorization and partnership in discrimination that rises to the level of state action under the Fourteenth Amendment, because those who discriminate can now do so under express constitutional authority.
+
+Dissent
+The holding of the Court handicaps progress in the field of racial concerns. The dissent also feels that the Court is shortsighted in believing that the State of California authorizing discrimination through the enactment of section 26, and instead sees the section as an attempt to retain state neutrality. The dissent further believes that the state action required to bring the Fourteenth Amendment into operation must be affirmative and purposeful, actively fostering discrimination. The enactment of section 26 does not fall into this area, and therefore disagrees with the opinion of the majority.
+
+Discussion
+The Supreme Court, in deciding this case, has provided another instance in which state action can be said to occur. If a regulation explicitly allows discrimination then, with this holding, the state is said to have partnered with any private party that in fact discriminates with this authorization. In these cases the private party can be held to have performed state action, and must provide the guarantees purported in the Fourteenth Amendment. While the majority holds that if the regulation allows discrimination, the dissent prefers a regime that finds state action only if the state actively fosters discrimination. In analyzing a case concerning state law, it is helpful to think of the case in terms of a spectrum of state action, and see where, in respect to the current law in this field, the fact pattern lies on this spectrum.
+

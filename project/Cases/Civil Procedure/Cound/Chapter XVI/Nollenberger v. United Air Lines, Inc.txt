@@ -1,0 +1,21 @@
+Citation
+22 Ill.216 F. Supp. 734 (S.D. Cal. 1963)
+
+Brief Fact Summary
+The jury in a wrongful death action submitted a general verdict accompanied by interrogatories. The Plaintiffs, the Nollenberger family (Plaintiffs), alleged that the interrogatory answers were inconsistent with the general verdict and requested the court to either (i) submit additional interrogatories to the jury; or (ii) calculate the verdict on the answers given or (iii) grant a new trial.
+
+Synopsis of Rule of Law
+When special interrogatories are inconsistent with the general verdict, the special interrogatories control.
+
+Facts
+The Plaintiffs brought a wrongful death claim against the Defendants, United Air Lines, Inc. (Defendants), in which the jury had entered a general verdict accompanied by special interrogatories. The jury’s answers to the interrogatories, the Plaintiffs’ claimed, were inconsistent with the general verdict. The Plaintiffs asked the Court to either (i) submit additional interrogatories to the jury; (ii) calculate the verdict on the basis of the answers given to the questions or (iii) grant a new trial.
+
+Issue
+Whether the findings of fact in the answers given by the jury to the special interrogatories were consistent with each other and whether one or more, if consistent with each other, were inconsistent with the general verdict fixing the total sum of damages to the Plaintiffs resulting from the death of the decedent.
+
+Held
+The jury’s findings of fact in the special interrogatories control over the general verdict.   The Federal Rules of Civil Procedure (FRCP) Rule 49(b) does not grant power to the court to submit additional interrogatories after the jury has returned its verdict having answered the special interrogatories and at the same time the general verdict.  The answers to the 11 special interrogatories were not harmonious and reconcilable with the general verdict of $114,655.00.  That before entering a new trial, the Court must make calculations from the special interrogatories and enter a judgment from there. The Court calculated the damages at $171,702.00.
+
+Discussion
+There are multiple forms of verdicts in which the jury renders its decision.   The first is the general verdict, which the majority of courts use. In this form of verdict, all a jury has to do is announce which party wins and if it is the plaintiff, the amount of recovery. There are two problems with this form. First, there is no way to tell how the jurors decided the specific issues. Second, there is no way to tell whether the jury actually focused on    every major aspect of the case as per the judge’s instructions or whether they decided on sentiment or bias.  The special verdict requires the jury to answer a series of questions regarding each facet of the case. Its proponents argue that special verdicts allow the court, litigants and public to see how the jury has made its decision. However, its dissenters assert that it undermines the fundamental nature of the jury decision.  The third type, used in this case is the general verdict with answers to interrogatories. This form permits the jury to give a general verdict, but also requires it to provide answers to a series of questions that are usually less extensive than those used in the special verdict. The problem, as evidenced by this case, is when the general verdict differs from the special interrogatories.
+

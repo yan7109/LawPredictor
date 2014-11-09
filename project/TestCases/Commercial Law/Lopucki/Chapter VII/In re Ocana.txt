@@ -1,0 +1,21 @@
+Citation
+151 B.R. 670, 1993 U.S. Dist. 1808
+
+Brief Fact Summary
+Hannover brought suit against Banco Cafetero for failure to honor a letter of credit. Latino Americano de Reaseguros, S.A., (LARSA), the account party, filed a proceeding in bankruptcy court seeking to enjoin Hannover from collecting on Banco Cafetero’s letter of credit. Hannover appeals the stay.
+
+Synopsis of Rule of Law
+A letter of credit is an independent contract between the issuing bank and the beneficiary for the payment of money upon the presentation of specified documents and may not be stayed because the account party has obtained the protection of the bankruptcy court.
+
+Facts
+LARSA entered into reinsurance agreements with Hannover. The agreements required LARSA to pay Hannover if Hannover experienced heavy losses on certain insurance policies. Banco Cafetero issued a standby letter of credit to support LARSA’s obligation. LARSA filed for bankruptcy. Hannover brought suit against Banco Cafetero arguing that Banco Cafetero was required to pay on the letter of credit because LARSA had failed to pay pursuant to the reinsurance agreement. The bankruptcy court issued a stay of Hanover’s action against Banco Cafetero.
+
+Issue
+Whether payment of letters of credit could be stayed merely because the account party had obtained the protection of a bankruptcy court.
+
+Held
+No. Letters of credit are contracts between the issuing bank and the beneficiary may not be stayed because the account party had obtained the protection of a bankruptcy court.
+
+Discussion
+The letter of credit is an irrevocable and unconditional promise on the part of Banco Cafetero to pay the beneficiary, Hannover, upon the presentation of specified documents. The money to be used to pay a letter of credit is the bank’s money. The bank is an independent party to the transaction.
+

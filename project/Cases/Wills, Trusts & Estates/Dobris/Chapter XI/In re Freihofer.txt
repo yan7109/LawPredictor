@@ -1,0 +1,21 @@
+Citation
+172 Misc. 2d 260, 658 N.Y.S.2d 811 (N.Y.Sur. 1997)
+
+Brief Fact Summary
+Respondent Trustee Attorney (Respondent) acted on behalf of Petitioner Beneficiary Sons (Beneficiary) on other issues and who also had in an
+
+Synopsis of Rule of Law
+The failure of a trustee-attorney to fully disclose the potentially conflicting roles he played voids any receipt release and waiver he may have obtained from his beneficiary, particularly when he sought his own discharge from liability to that beneficiary while at the same time representing that beneficiary individually.
+
+Facts
+Charles Freihofer (Testator) died testate, survived by his wife (Wife) and two sons (Petitioners). By the terms of Testator’s will, the entire estate passed to his wife. However, under renunciation filed by Wife, a portion of Testator’s estate made up of properties affiliated with the Charles Freihofer Banking Company, Inc. passed into testamentary trusts for the benefit of Testator’s sons. Named as trustee was attorney Alan Steiner (Respondent), who had acted on behalf of the beneficiary on other issues and who also had an interest in the corporation that made the subject matter of the trust. Respondent failed to inform Petitioners of his interest and arranged for the sale of the stock on behalf of the trust. Respondent had obtained a waiver and release of claim from the beneficiary. Petitioners seek an accounting by respondent Trustee regarding the testamentary trust. Respondent files a motion to dismiss.
+
+Issue
+Does the failure of a trustee-attorney to fully disclose the potentially conflicting roles he played, void any receipt release and waiver he may have obtained from his beneficiary, particularly when he sought his own discharge from liability to that beneficiary while at the same time representing that beneficiary individually?
+
+Held
+Yes. The failure of a trustee-attorney to fully disclose the potentially conflicting roles he played voids any receipt release and waiver he may have obtained from his beneficiary, particularly when he sought his own discharge from liability to that beneficiary while at the same time representing that beneficiary individually. State law prohibits an attorney to act as a trustee if his professional business opinion could be affected by his personal interests in the subject matter of the trust. The Court may grant an order compelling a formal accounting when doing so appears to be in the best interest of the estate. Here, Respondent did not use any of the means at his disposal to disclose his many potential conflicts of interest. As such, the waiver that was signed (and mind you never admitted to the Court in proper form for filing) is void.
+
+Discussion
+Trustees owe fiduciary duties to a trust’s beneficiaries. One of these fiduciary duties is the duty to account of his activities to interested parties, most often the beneficiaries. The form that this accounting takes depends on custom and local law. Since the trustee is to act only on behalf of the beneficiaries with regard to a trust, any personal interest that the trustee has in the trust creates a conflict of interest and must be disclosed to the beneficiaries.
+

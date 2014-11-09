@@ -1,0 +1,24 @@
+Citation
+377 U.S. 201, 84 S. Ct. 1199,12 L. Ed. 2d 246, 1964 U.S.
+
+Brief Fact Summary
+Petitioner was recorded by a co-conspirator with the aid of the authorities.  Evidence was exculpatory.
+
+Synopsis of Rule of Law
+Suspect is “denied the basic protections of the [Sixth Amendment] guarantee when there was used against him at his trial evidence of his own incriminating words, which federal agents had deliberately elicited from him after he had been indicted and in the absence of his counsel.”
+
+Facts
+Petitioner Massiah, a merchant seaman, along with a conspirator Colson, were indicted for narcotics offenses.  Both pled not guilty and were released on bail.  Colson, without petitioner’s knowledge, decided to cooperate with the government.  He permitted agents to place a radio transmitter under the seat of his car, by which agents could hear conversations in the car.  Colson and the petitioner met in the car, and were overheard by an agent.  The petitioner made several incrimination statements during the conversation.
+
+Issue
+Whether “the petitioner’s . . . Sixth Amendment rights were violated by the use in evidence against him of incriminating statements which government agents had deliberately elicited from him after he had been indicted and in the absence of his retained counsel.”
+
+Held
+Yes.  The Supreme Court used the previous Spano rule.  The Court did not “question that in this case . . . it was entirely proper to continue an investigation” of the petitioner.  It simply held that “the defendant’s own incriminating statements, obtained by federal agents under [these] circumstances . . ., could not constitutionally be used by the prosecution as evidence against him at his trial.”
+
+Dissent
+The dissenting justices focused on the fact that the petitioner “was not prevented from consulting with counsel as often as he wished.”  It was on a “sterile”, “unsound” “syllogism” to say that “because Massiah had a right to counsel’s aid before and during the trial, his out-of-court conversations and admissions must be excluded if obtained without counsel’s consent or presence.”
+
+Discussion
+“If such a rule is to have any efficacy it must apply to indirect and surreptitious interrogations as well as those conducted in the jailhouse.”
+

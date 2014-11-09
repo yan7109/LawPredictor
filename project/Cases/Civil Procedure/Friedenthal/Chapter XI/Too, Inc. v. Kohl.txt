@@ -1,0 +1,21 @@
+Citation
+22 Ill.213 F.R.D. 138 (S.D.N.Y. 2003)
+
+Brief Fact Summary
+One of the Defendants, Windstar Apparel, Inc., moved to file a third-person complaint against former Windstar employees seeking contribution and indemnification.
+
+Synopsis of Rule of Law
+A party should be allowed leave to file a third-party complaint under Rule 14(a) of the Federal Rules of Civil Procedure if the party demonstrates that they were timely, that the third parties were not prejudiced, and that it would not unduly delay or complicate the trial.
+
+Facts
+Windstar hired Mia DeCaro to design a line of girl’s sleep-wear, and Paula Abraham was hired to sell the line to retailers.  DeCaro’s product line violated the copyrights and trademarks of Plaintiff, Too, Inc.  Abraham was aware of the infringement when she sold the product line to Defendant retailer, Kohl’s Department Sores.  Windstar moved to file a third-person complaint against DeCaro and Abraham for contribution and indemnification of Windstar if they were found liable.  Plaintiff argued that there was no factual or legal basis for the third-party complaint, that impleading the two employees would prejudice Plaintiff, that the motion was untimely and that it will complicate and delay the trial.
+
+Issue
+The first issue is whether Windstar should be granted leave to file a third-party complaint against DeCaro and Abraham. The second issue is whether Windstar could seek indemnification from DeCaro and Abraham.
+
+Held
+Windstar was allowed leave to file the third-party complaint under Rule 14(a) of the Federal Rules of Civil Procedure.  The court listed the factors that they review to determine if a leave is acceptable, such as whether Windstar delayed in filing (they filed before a trial date was set); whether it would delay or complicate the trial (there would be little delay since the third parties have already been deposed and would be witnesses already); whether it would prejudice the third party defendants (they are already witnesses); and whether the third-party complaint states a claim which relief can be granted (Windstar detailed at length the facts and arguments for relief).  Since all of the factors favored Windstar, the leave was granted. Windstar could not seek indemnification since there was no contractual agreement between Windstar and the third parties, and common law held parties that were both liable could not be indemnified from the other party.
+
+Discussion
+The court explained that the addition of third parties was preferable for judicial efficiency and was therefore was inclined to allow the interpleading.  By allowing Windstar to file the third-party complaint they could avoid a second trial between WIndstar and DeCaro and Abraham.
+

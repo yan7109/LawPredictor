@@ -1,0 +1,24 @@
+Citation
+524 U.S. 399, 118 S. Ct. 2081, 141 L. Ed. 2d 379, 1998 U.S.
+
+Brief Fact Summary
+Vincent W. Foster, Jr. (Foster) was a Deputy White House Counsel who, in 1993, met with an attorney, James Hamilton (Hamilton) of the law firm Swidler & Berlin (Petitioner) to seek legal advice concerning possible violations of law in connection with the firing of various White House employees in 1993; Hamilton took three pages of notes at the meeting, all handwritten.  Foster then committed suicide and the government, through an Independent Counsel, issued a subpoena seeking the notes taken at the meeting.  A U.S. District Court granted a motion to quash the subpoena, holding that the communications were protected by the attorney-client privilege, and a Court of Appeals reversed that decision; Petitioner sought a writ of certiorari, which was considered here.
+
+Synopsis of Rule of Law
+When a client makes certain communications that are protected by the attorney-client privilege and then subsequent to making the statements dies, the privilege survives the death of the client and, except for in litigation between the declarant’s heirs, the communications are not admissible as evidence.
+
+Facts
+In 1993, various employees were dismissed from the White House Travel Office.  Subsequently, the Office of the Independent Counsel began an investigation into whether certain persons made false statements and/or obstructed justice in the course of the firings.
+
+Issue
+Does the attorney-client privilege apply to the communications made by Foster to Hamilton, even though Foster was deceased at the time the subpoena was issued?
+
+Held
+Yes; the attorney-client privilege survives the client’s death and applies to the communications at issue here, even though the information sought here was in connection with a criminal investigation.
+
+Dissent
+Justices O’Connor (writing), Scalia, and Thomas dissented, arguing that the attorney-client privilege should not apply to all communications of a deceased client made in criminal proceedings.  Rather, the dissent argued, “the common law authority for the proposition that the privilege remains absolute after the client’s death is not a monolithic body of precedent.”  The dissent went on:
+
+Discussion
+The Court first acknowledged that, “[i]t has been generally, if not universally, accepted, for well over a century, that the attorney-client privilege survives the death of the client in a case such as this.  The Court then addressed arguments “against the survival of the privilege,” stating that such arguments, “are based in large part on speculation
+

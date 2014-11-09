@@ -1,0 +1,18 @@
+Citation
+548 U.S. 124 (2006)
+
+Brief Fact Summary
+Metabolite Laboratories, Inc. (Plaintiff) licensed a patent for testing and correlating homocysteine and vitamin deficiency.  Laboratory Corporation of America Holdings (Defendant) used the tests and paid royalties for each use.  Abbott Labs then developed a test which Defendant sometimes used and did not pay Plaintiff royalties.  Plaintiff sued Defendant for infringement.  After Defendant was found liable and assessed damages, they appealed and filed for a writ of certiorari.
+
+Facts
+University doctors developed a method to test for levels of homocysteine  and use the results to determine vitamin deficiencies of folate and  cobalamin.  The doctors obtained a patent, which Plaintiff licensed.   Defendant then licensed the patented tests from Plaintiff and paid  Plaintiff royalties for each use of the test.  Defendant then began  using a similar but better test developed by Abbott Labs.  Defendant did  not pay Plaintiff royalties when it used the Abbott Labs test although  Defendant did continue to occasionally use, and pay royalties for, the  Plaintiff's test.  Plaintiff sued Defendant for patent infringement and  breach of the license agreement.  Plaintiff claimed that by using the  Abbott Labs test, Defendant violated claim 13 of its licensed patent,  which prohibited the correlation of test results and potential vitamin  deficiencies.  Plaintiff claimed Defendant caused physicians to infringe  upon the patent each time a physician reviewed any homocysteine test  result and determined a vitamin deficiency.  The jury found Defendant  liable and assessed damages.  Defendant appealed stating the lower court  had interpreted claim 13 too broadly.  The Federal Circuit affirmed the  finding of liability and the Defendant's filing of a writ of certiorari  was granted by the Supreme Court.
+
+Held
+Writ of certiorari dismissed as wrongly granted
+
+Dissent
+(Breyer, J.)  A method patent on correlating test results cannot keep physicians from applying the knowledge gained from test results.  Defendant argues that claim 13 is an attempt to patent "phenomena of nature" which are not eligible for patent.  The scope of the "phenomena of nature" doctrine is difficult to comprehend, but unnecessary to analyze here because claim 13 is simply invalid.  Plaintiff attempts to argue that claim 13 is a process patent because of the process taken to correlate the test results, but the "process" is just a natural correlation of applying medical knowledge to numbers on a test result.  The Court should decide this case because the lower court's decision places doctors in jeopardy when they cannot use their best medical judgment out of fear they may breach a license agreement or violate a patent.
+
+Discussion
+Because the Defendant did not reference § 101 in the lower courts, which is the section of the Patent Act regarding the "phenomena of nature" doctrine, five justices of the Supreme Court dismissed the writ on a procedural basis.  Two other justices joined Justice Breyer in his dissent, and Chief Justice Roberts was not involved in the case.  Because the Supreme Court refused to provide clear direction regarding patentable subject matter in the area of natural correlation, patent attorneys must be careful to interpret and distinguish between the clear disapproval expressed in the dissent and the long-standing approval of the Federal Circuit cases.
+

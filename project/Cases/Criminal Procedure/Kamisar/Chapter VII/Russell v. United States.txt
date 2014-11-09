@@ -1,0 +1,24 @@
+Citation
+369 U.S. 749, 82 S. Ct. 1038, 8 L. Ed. 2d 240 (1962)
+
+Brief Fact Summary
+This case arises when Russell, among a group of other Petitioners, sought to have an indictment dismissed before trial because it did not properly charge him.
+
+Synopsis of Rule of Law
+An indictment must do more than repeat the language of a criminal statute; rather, it must inform the defendant what it is that he has in fact done.
+
+Facts
+Petitioners were convicted of 2 U.S.C. Section: 192 for refusing to answer questions when summoned before congressional investigative committees.  They sought to have their indictments overthrown on the grounds that the indictments failed to state what the petitioners were allegedly guilty of.
+
+Issue
+Whether, in order to be upheld as valid, an indictment must state a cause of action.
+
+Held
+An indictment must outline what petitioners are accused of withholding (when being accused of refusing to answer questions before a congressional subcommittee) in order to be considered valid.  Otherwise Petitioners cannot adequately prepare themselves for the grand jury process.
+
+Dissent
+The dissent, written by Justice Harlan, maintains that by requiring an indictment to include the questions of congress, legitimate congressional inquiries may be affected.
+
+Discussion
+While this case comes across as difficult, it boils down to a consideration of cause.  In order to maintain a valid indictment, a prosecutor must state his cause of action so that a defendant can understand the questions which may be put before him before the grand jury.
+

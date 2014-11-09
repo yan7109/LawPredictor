@@ -1,0 +1,15 @@
+Citation
+82 Nev. 127, 412 P.2d 970, 1966 Nev.
+
+Brief Fact Summary
+The defendant, Tucker (the “defendant”), called the police to come over to his house stating that there was an old dead man there.  When police arrived they found the defendant drinking and the body of an old man was found on the couch.  Although the defendant asserted he had been asleep and found the body when he awoke, a jury convicted him of second degree murder.<span class='heading'>Synopsis of Rule of Law.</span>  Under the rule of exclusion, evidence of other offenses is excluded unless it is relevant to prove: motive, intent, identity, absence of mistake or accident, or common plan or scheme.
+
+Facts
+In 1957, the defendant called police over to his house.  When they arrived they noticed defendant was drinking and that there was a dead man on the floor.  The defendant asserted that he had been sleeping and that when he awoke he found the man.  After an extensive investigation, a grand jury determined that the evidence was inconclusive.  In 1963, the defendant again called police over to his house.  Again police found defendant to be drinking and another dead man on the premises.  The defendant was arrested and found guilty.  The defendant appeals on the ground that evidence of the 1957 homicide should not have been admitted.<span class='heading'>Issue.</span> Whether other offenses that the defendant has committed is admissible in court as evidence of a common plan or scheme? Whether a police officer should be allowed to testify that the defendant said to him at the time of the crime “you find the gun this time”?
+
+Held
+Evidence of the 1957 murder is not admissible because it does not relate to a common plan or scheme.  Here, there is nothing in the record to establish that the defendant was the killer of the victim in the 1957 case.  In that case there was only conjecture and speculation and it is not admissible in the present case as evidence of the defendant’s guilt. The police officer’s testimony should be allowed since it was understandable and not unintelligible.
+
+Discussion
+The prosecution must prove the defendant’s guilty of the specific crime charged without resort to past conduct.  Evidence of other offenses will be allowed if it is relevant to prove: motive, intent, identity, the absence of mistake or accident, or a common plan or scheme.  Overall, the trial court should be convinced that the probative value or such evidence outweighs its prejudicial effect.  Here, the court did not believe the rule to be applicable because there was a danger that a past crime would be used to convict the defendant in the present case.
+

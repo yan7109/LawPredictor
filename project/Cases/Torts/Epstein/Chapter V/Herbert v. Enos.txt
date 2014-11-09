@@ -1,0 +1,27 @@
+Citation
+Mass. App. Ct., 806 N.E. 2d 452 (2004)
+
+Brief Fact Summary
+Herbert (P) argued that he suffered electrical shock and injuries as a direct consequence of the faulty toilet repair carried out by Enos on the second floor, and so Enos was legally responsible for the harm suffered by Herbert.
+
+Synopsis of Rule of Law
+A negligence suit may be dismissed as a non-legal issue if the plaintiff cannot show his harm to have been a reasonably foreseeable consequence of the defendant’s negligent act.
+
+Facts
+Herbert (P) went to water Enos’s (D) flowers, from an outdoor faucet. On touching the faucet, he received severe electrical shock and injuries. The cause was the flooding of the toilet in Enos’s second floor home which caused the electrical system in the home to malfunction, creating current leakage. The toilet flooded because of Enos’s faulty repair. Herbert brought an action for negligence against Enos. Enos moved for summary judgment, and it was granted. The trial court held that the injuries suffered by Herbert were not such as could have been reasonably expected to happen as a result of his repair, by Enos. The intermediate state court of appeals granted review.
+
+Issue
+May a claim of negligence be dismissed on legal grounds if the plaintiff cannot show his injuries to be reasonably foreseeable as a result of negligence by the defendant?
+
+Held
+(Kafker, J.) Yes. A negligence action may be dismissed on legal grounds if the plaintiff cannot prove that his injuries could have been reasonably foreseen as a consequence of the defendant’s negligent act. In this case, the chain of causation is clear. Enos did a defective toilet repair resulting in flooding of the toilet. The water caused the electrical wiring to deteriorate. The faulty state of the wiring caused current to be transmitted through the outdoor faucet causing electrical shock and injuries to Herbert. Even so, Herbert could not show that this was a consequence which could have been ordinarily expected to happen as a result of Enos’s negligent conduct. The chances of such an occurrence, the type of injury and the location of the harm all show that it was an extraordinary consequence and could not be guarded against in the ordinary course of events. Even if Enos had exercised a reasonable amount of care the harm could not have been foreseen. This makes the legal claim of proximate causation untenable. The verdict was affirmed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+In most cases a jury decides whether a given consequence of a negligent action was reasonably foreseeable. In this case, however, the court decided it as a legal point, based on the lack of proof that the harm experienced by the plaintiff could have been foreseen by the defendant. The distinction between defining a duty as guarding against a reasonably predictable risk of harm, and defining the required connection of causation between a negligence in performing a duty and the harm resulting as a chain in which harm results as a reasonably anticipated consequence of failure to perform a duty, is not essential in this issue of foreseeability.
+

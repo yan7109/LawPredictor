@@ -1,0 +1,21 @@
+Citation
+444 U.S. 286, 100 S. Ct. 559, 62 L. Ed. 2d 490, 1980 U.S. 65
+
+Brief Fact Summary
+A family that purchased a car in New York sued the auto manufacturer and retailer after they became involved in an accident in Oklahoma while driving to Arizona.
+
+Synopsis of Rule of Law
+A consumer’s unilateral act of brining the defendant’s product into the forum state is not a sufficient basis for exercising personal jurisdiction over the defendant.
+
+Facts
+Harry and Kay Robinson purchased an Audi automobile from Seaway Volkswagen, Inc. in New York State in 1976. The following year they left New York to move to Arizona. While they were driving through Oklahoma, another car struck them, causing a fire which burned Kay Robinson and two of her children. The Robinsons brought a products liability suit in Oklahoma claiming that their injuries resulted from defective design and placement for the Audi’s gas tank and fuel system. The Robinsons joined as defendants the auto manufacturer, Audi, its importer, Volkswagen of America, Inc., its regional distributor, World Wide Volkswagen Corporation, and its retail dealer, Seaway. The court found that World Wide was incorporated and had its business office in New York. It distributed Vehicles, under Contract with Volkswagen, to retail dealers in New York, Connecticut, and New Jersey. Seaway is a retail dealer whose place of business is in New York. There was no evidence that either World-Wide or Seaway did any business in Oklahoma, shipped or sold any products in that state, had an agent to receive process there, or advertised in Oklahoma. Seaway and World-Wide made special apperances for the purpose of opposing jurisdiction in Oklahoma. The Oklahoma court denied their motion and this appeal followed, whereby the Supreme Court of the United States granted Seaway and World-Wide a writ of certiorari.
+
+Issue
+Whether an Oklahoma court may exercise in personam jurisdiction over a non- resident automobile retailer and its wholesale distributor in a products liability suit, when the defendants’ only connection with Oklahoma is the fact that an auto sold in New York to New York residents became involved in an accident in Oklahoma?
+
+Held
+No. The Supreme Court reversed the Oklahoma court’s ruling.   Forseeability of being asked to defend a suit in a particular forum is not a sufficient benchmark for personal jurisdiction under the Due Process Clause. Instead, it is the defendant’s conduct and connection with the forum state that determines whether it is reasonable for a defendant to be haled into court. Because Seaway and World-Wide had no contacts, ties or relations with the state of Oklahoma, jurisdiction would violate the Due Process Clause.    <br/><br/><span class='heading'>Dissent.</span> Justice Brennan dissented. He found that the court’s over-reliance on contacts between the defendant and the state obscures whether being subject to a suit there would actually cause any inconvenience to the defendant. Additionally, he found that because the interest in having the suit in Oklahoma was strong, given that the plaintiffs were hospitalized there and key witnesses resided there, jurisdiction should have been granted.   A dissenting opinion by Justice Marshal, joined by Justice Blackmun, was omitted by the casebook editors.
+
+Discussion
+The court’s reasoning for not extending jurisdiction is that the two purposes of the minimum contacts requirement, i.e. protecting defendants against the burden of litigating in a distant forum and ensuring that State courts do not reach beyond the limits established by the federal system, would not be served if jurisdiction were granted. Specifically, the court relied on the fact that Seaway and World-Wide carry on no activity whatsoever in Oklahoma, perform no services there, and avail themselves of none of the privileges and benefits of Oklahoma law.   The court will look not to whether it was foreseeable to the defendant that he could be sued in a given state, but whether a suit there is reasonable given the defendant’s ties and relations with the state.
+

@@ -1,0 +1,21 @@
+Citation
+415 F.2d 589 (2d Cir. 1696)
+
+Brief Fact Summary
+The Securities and Exchange Commission (Defendant) suspended Hanly and four other securities dealers (Plaintiff) from partaking in the securities field for making outrageously optimistic calculations about an investment based only information provided by the issuer.
+
+Synopsis of Rule of Law
+Making ignorant calculations about an investment may bar a securities dealer from partaking in the securities market.
+
+Facts
+U.S. Sonics Corporation was engaged in the electronics business which never achieved more than insignificant finances and the company eventually went bankrupt. Prior to the bankruptcy, Hanly and other securities salesmen used information given to them by U.S Sonics to compose flattering recommendations to likely investors, most of whombought stock in the corporation. Complaints were filed once the investments were rendered useless. The salespeople’s actions were found to be abhorrent by the SEC and the salespeople were suspended from the industry. They appealed.
+
+Issue
+Can making ignorant securities calculations about an investment potentially bar a securities dealer from partaking in the securities market?
+
+Held
+(Timbers, J.) Yes. Making ignorant securities calculations about an investment may bar a securities dealer from partaking in the securities market. Salesmen and brokers are obligated to be erudite regarding the securities they sell, this includes examining claims made by an issuer. Carelessly accepting commendations offered by sales literature is prohibited. This obligation ascends out of the exclusive bond between broker and purchaser. In this case, salespeople lacking ample information in which to make recommendations, made them anyway, which is a blatant violation of duty. Affirmed.
+
+Discussion
+Violations of Rule 10b-5 require scienter and merely erroneous information does not meet that requirement. Oftentimes, blind failure to research preceding recommendation is the type of situation where a 10b-5 violation would occur.
+

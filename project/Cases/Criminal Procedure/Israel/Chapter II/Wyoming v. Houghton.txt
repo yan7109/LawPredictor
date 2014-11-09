@@ -1,0 +1,24 @@
+Citation
+526 U.S. 295, 119 S. Ct. 1297, 143 L. Ed. 2d 408 (1999)
+
+Brief Fact Summary
+The driver of car stopped by police had a syringe in his pocket which he admitted was his.  The police then searched the car, finding a purse which the respondent passenger claimed was hers that held two containers, both containing methamphetamine.
+
+Synopsis of Rule of Law
+When there is probable cause to search for contraband in a car, it is reasonable under the Fourth Amendment for police officers to examine packages and containers inside without an individualized showing of probable cause for each one.
+
+Facts
+After a routine traffic stop, a police officer noticed a hypodermic syringe in the shirt pocket of the car’s driver, which the driver soon admitted was for using drugs.  The officer searched the passenger compartment for contraband and came upon a purse, which the respondent, a passenger in the car, claimed was hers.  There was drug paraphernalia inside, and the respondent was arrested on drug charges.  The evidence was admitted at trial and respondent was convicted.  The Wyoming Supreme Court then reversed, holding that an officer with probable cause to search a vehicle may search all containers that might conceal the object of the search, but if the officer knows or should know that the container belongs to a passenger who is not suspected of criminal activity, then the container is not allowed to be searched under the Fourth Amendment unless someone had the opportunity to conceal contraband.  The State of Wyoming was then granted certiorari.
+
+Issue
+When probable cause is present to make a warrantless search for contraband in a car, is it reasonable under the Fourth Amendment for police officers to examine packages and containers therein without an individualized showing of probable cause?
+
+Held
+Yes.  Reverse the judgment of the Wyoming Supreme Court.
+
+Dissent
+Justice John Paul Stevens clearly stated his belief that the state’s interest in effective law enforcement did not trump the privacy issues concerned in this case.  He also emphasized that the officer needed to have probable cause to believe the purse had contraband in it, which the lower court concluded the officers did not, regardless of whether the Fourth Amendment required a warrant to search the passenger’s purse.
+
+Discussion
+The Supreme Court clearly viewed the Wyoming Supreme Court’s “notice of ownership” test as not providing clear guidelines to law enforcement, and as putting them in a position where they had to make difficult decisions as to which container belonged to which person.  The ability to easily conceal contraband in someone else’s container was a central part of this case having the result it did.  A rule contrary to the result in this case likely would have resulted in encouraging efforts by search subjects to conceal contraband, and this was something the Supreme Court was looking to avoid.
+

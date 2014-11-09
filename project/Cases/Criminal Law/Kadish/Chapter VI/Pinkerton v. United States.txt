@@ -1,0 +1,24 @@
+Citation
+22 Ill.502 U.S. 824, 112 S. Ct. 89, 116 L. Ed. 2d 61 (1991)
+
+Brief Fact Summary
+Two brothers were convicted of violations of the Internal Revenue Code (IRC). The Defendant challenged his conviction for the substantive offenses on the basis that the evidence only showed he had been a party to a criminal conspiracy.
+
+Synopsis of Rule of Law
+The acts of one conspirator done in furtherance of the criminal conspiracy are attributable to all co-conspirators.
+
+Facts
+The Defendant challenged his conviction for substantive offenses pertaining to Internal Revenue Code (IRC) violations on the ground that there was no evidence that he had participated in anything other than the conspiracy to commit those offenses.
+
+Issue
+Are the substantive offenses of a conspirator, done in furtherance of the conspiracy, attributable to his co-conspirators, even where the co-conspirator has not participated in the substantive offense?
+
+Held
+Yes. Affirmed.
+
+Dissent
+The evidence only showed that, at some previous time, the Defendant had conspired with his brother to commit the substantive offenses. This alone is not sufficient to hold the Defendant criminally responsible for those offenses. By doing so, the majority creates a vicarious criminal liability broader than the civil liability of a partner in a business who is liable for the acts done by a co-partner.
+
+Discussion
+The rule of the majority in this case is very straightforward. Simply put, the overt acts of one conspirator, done in furtherance of the conspiracy, are imputable to co-conspirators, notwithstanding the fact that they themselves may have taken no action, beyond entering into the conspiracy, toward committing the substantive offense.
+

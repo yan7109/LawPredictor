@@ -1,0 +1,15 @@
+Citation
+2008 Ida.
+
+Brief Fact Summary
+Action to partition real property in which Plaintiffs life tenant and remaindermen (Plaintiffs) sought review of the lower court’s summary judgment in favor of Defendant Remainderman (Defendant) in Plaintiff’s action that sought to sell devised land and distribute the proceeds.<span class="heading">Synopsis of Rule of Law.</span> When a testator creates future interests that are contingent upon the takers’ surviving the life tenant and the triggering event is the death of the life tenant, then the testator creates alternative contingent remainders.
+
+Facts
+Ernest Webb (Testator), owner of a ranch, died testate in 1972. He devised to his wife his property for her life, or until she remarried, whichever occurred first, with the remainder to be passed to his four children in equal shares. Testator also stated that should any of his four children be deceased upon the death or remarriage of his wife, then the share of that child should pass to the child’s lineal descendants. Plaintiffs, who seek to have the property sold as a single parcel with the proceeds properly divided according to their respective interests, are Testator’s wife, two of Testator’s children, and the surviving wife of one of Testator’s sons and the grandchildren. Testator’s daughter is the defendant. The lower court held in favor of Defendant. Plaintiffs appeal that ruling.<span class="heading">Issue.</span> If a testator creates future interests that are contingent upon the takers’ surviving the life tenant and the triggering event is the death of the life tenant, then does the testator creates alternative contingent remainders.
+
+Held
+Yes. When a testator creates future interests that are contingent upon the takers’ surviving the life tenant and the triggering event is the death of the life tenant, then the testator creates alternative contingent remainders. The lower court properly found that the interests were contingent and not yet vested, and therefore the property cannot be sold. The class of lineal descendants does not close until the death of the life tenant. The takers cannot be known until the death of the life tenant. Therefore, we affirm the lower court ruling for Defendant.
+
+Discussion
+The contingency of the interests at issue in this case are based upon the happening of a future event, namely either the death or remarriage of Testator’s wife. Because neither of these events had yet occurred when the case was decided, the Court held that the interests were not yet vested and would not vest until such time as one of the events occurred. Because the interests were not yet vested, they could not be sold (since the takers of the interests were non-determinative at the time of the case decision).
+

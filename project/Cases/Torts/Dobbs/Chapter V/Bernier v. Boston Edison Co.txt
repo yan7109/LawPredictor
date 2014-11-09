@@ -1,0 +1,21 @@
+Citation
+380 Mass. 372; 403 N.E.2d 391; 1980 Mass.
+
+Brief Fact Summary
+This is an appeal of a United States District Court (Massachusetts) judgment in favor of Bernier (Plaintiff) in consolidated actions for injuries suffered when an automobile knocked over an electric pole and struck teenagers as they walked down a sidewalk.
+
+Synopsis of Rule of Law
+A manufacturer is required to “anticipate the environment on which its product will be used, and it must design against the reasonably foreseeable risk attending the use in that setting.”
+
+Facts
+After a collision in a suburban Massachusetts intersection, one Defendant, motorist Alice Ramsdell (Defendant), became dazed and inadvertently allowed her foot to slip from the brake to the gas pedal. She collided with another driver, John Boireau, and then accelerated across the street and down a sidewalk, where she knocked down an electric light pole owned by Boston Edison Company. (Defendant) The pole struck the teenagers as they walked along the sidewalk. Both were injured and instituted actions against both drivers, and Boston Edison Company (Defendants). The jury returned verdicts against one driver and Boston Edison Company.
+
+Issue
+Is a manufacturer negligent if, in its product design, it fails to sufficiently anticipate the various circumstances in which its product may not properly perform and create unreasonable risk of injury?
+
+Held
+The court held that “[a]s designer or co-designer of the pole and in control of its maintenance, Boston Edison Company must anticipate the environment in which its product will be used, and it must design against the reasonably foreseeable risks attending the product’s use in that setting,” and thus bore liability in connection with the design and maintenance of the electric light pole.
+
+Discussion
+Foreseeability of risk lies at the heart of any negligence action focusing on product liability. A manufacturer is assumed to possess expertise with respect to the manner and circumstances in which its product will perform. Here, at issue is whether an electric light pole can be designed in such a manner as to anticipate vehicular collision and the likelihood of resulting injury. Courts expect a manufacturer to take into consideration the totality of circumstances, i.e., that vehicular collisions are likely and prudent precautions are expected to be taken, so as to minimize the risk of injury to pedestrians. In essence, a manufacturer is expected to employ a design optimally suited to avert such risk, and that such risk should be the primary consideration during the design process.
+

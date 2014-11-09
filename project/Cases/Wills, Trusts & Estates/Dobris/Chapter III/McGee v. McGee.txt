@@ -1,0 +1,21 @@
+Citation
+122 R.I. 837, 413 A.2d 72 (1980)
+
+Brief Fact Summary
+Decedent’s will made a general bequest to a friend and specific bequest of money remaining in a bank account to her grandchildren.  At the time of decedent’s death no money remained in the bank accounts as it had previously been withdrawn with the decedent’s knowledge.  The administrator of the estate sought a determination of whether or not this adeemed the grandchildren’s gift.
+
+Synopsis of Rule of Law
+Any substantial change in the nature or character of the subject matter of a bequest; such as its sale, destruction, or collection, will operate as an ademption.
+
+Facts
+Decedent’s will made a bequest of $20,000 to a friend, Fedelma Hurd, and a bequest of “all my shares of stock in Texaco Company and any and all monies standing in my name on deposit in any banking institution” to her grandchildren.  Five weeks prior to her death, decedent’s son acting under a written power of attorney withdrew $50,000 from the savings account to purchase United States Treasury bonds.  Her sons maintains that the objective was to prevent federal estate tax liability and this action was ratified by his mother.  The administrator of the estate brought this action to determine the effect of ademption on the specific legacy to the grandchild and the bequest to the friend.  The trial court found that the bequest to the friend failed and the Treasury bonds should be used to satisfy the specific legacy to the grandchildren.
+
+Issue
+Whether the administrator should first satisfy the specific legacy to the grandchildren from the proceeds of the sale of the Treasury bonds or whether he should first pay the $20,000 bequest to Hurd, since the estate lacked sufficient assets to satisfy both?  Does the transfer of funds from the decedent’s account work an ademption?
+
+Held
+Yes.  Reversed.  The specific legacy to the grandchildren is adeemed and the administrator should satisfy the general legacy from the Treasury bonds with the excess to pass under the residuary clause of the will.
+
+Discussion
+Under the generally accepted “form and substance rule” a substantial change in the nature or character of the subject matter of a bequest will operate as an ademption, however a merely nominal or formal change will not.  Here the change was not merely formal but was substantial.  In addition the Court points out that the plain language of the bequest says that the grandchildren should receive whatever remained in the decedent’s bank account at the time of her death and since no money remained the specific legacy was adeemed.
+

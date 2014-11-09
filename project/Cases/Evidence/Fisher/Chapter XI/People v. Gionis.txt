@@ -1,0 +1,27 @@
+Citation
+1997 Cal
+
+Brief Fact Summary
+Thomas Gionis (Defendant-Appellant) was convicted of conspiracy to commit an assault, conspiracy to commit a trespass, assault with a deadly weapon, and assault with a firearm.  Defendant-Appellant appealed his conviction in state court, and the state Court of Appeal reversed.  The prosecution filed a petition for review, which was granted and considered here.
+
+Synopsis of Rule of Law
+Communications made by a person to an attorney after the attorney expressly refuses to undertake representation of that person are not protected by the attorney-client privilege, as the person making the statements could not have a reasonable expectation of representation after the attorney has expressly refused to undertake such representation.
+
+Facts
+One year after marrying, Defendant-Appellant and Alissa Marie Wayne (Wayne) had a daughter, Anastasia.  That same year, Wayne left Defendant-Appellant, taking Anastasia with her.
+
+Issue
+Was it error for the trial court to have excluded the statements made by Defendant-Appellant to Lueck?
+
+Held
+No; the statements made by Defendant-Appellant to Lueck were not privileged, as Defendant-Appellant did not make the statements while trying to retain a lawyer, and admission of the statements was not prejudicial to Defendant-Appellant.
+
+Dissent
+Justice Mosk dissented, writing, “I dissent from the majority and from Justice Kennard on the question of the admission of [] Lueck’s testimony. The record in this case, despite Lueck’s and the majority’s self-serving characterization, shows that defendant consulted Lueck primarily in the latter’s capacity as an attorney, and that any statements made by defendant during the course of the consultation were privileged. The admission of this testimony over defendant’s objection was prejudicial error.”  The dissent relied on the reason for the existence of the privilege, pointing out that, “‘[t]he basic policy behind the attorney-client privilege is to promote the relationship between attorney and client by safeguarding the confidential disclosures of the client and the advice given by the attorney. This policy supports a liberal construction in favor of the exercise of the privilege.’” (citations omitted).  The dissent concluded that the relationship was primarily one that shoul
+
+Concurrence
+Justices Kennard (writing) and Mosk dissented in part and concurred in part, writing, “I join the majority in reversing the judgment of the Court of Appeal. I write separately, however, to voice my disagreement with certain portions of the majority’s analysis of each of the two issues in this case.”  Explaining in more detail, the separate opinion pointed out that, “[t]he majority upholds the trial court’s ruling that none of the conversation was protected by the attorney-client privilege. I disagree. Although the inculpatory statements themselves were not privileged, the privilege did apply to other portions of defendant’s conversation with Lueck.”  Specifically, the separate opinion argued that, “Lueck testified that, in response to a specific inquiry by defendant regarding the advisability of asking the trial court to transfer the case from Orange County to Los Angeles County, he told defendant it might be appropriate to do so. In rendering this legal advice, Lueck was
+
+Discussion
+In reaching its conclusion, the court discussed the attorney-client privilege and when it applies.  Specifically, the court explained:
+

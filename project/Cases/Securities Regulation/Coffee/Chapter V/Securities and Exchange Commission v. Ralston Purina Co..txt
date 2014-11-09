@@ -1,0 +1,21 @@
+Citation
+346 U.S. 119 (1953)
+
+Brief Fact Summary
+The SEC (Plaintiff) tried to prohibit Ralston Purina (Defendant) from offering treasury stock to their key employees.
+
+Synopsis of Rule of Law
+§ 4(1) of the Securities Act of 1933 lists an exemption for transactions by for issuers whose registration requirements do not involve public offering, becoming applicable only when every offeree is able to access information similar to the what the Act would have made available, had registration been mandatory.
+
+Facts
+Ralston Purina has a long standing policy of allowing employees to own company stocks, making unissued common shares available to them. In an attempt to avoid the registration requirements of the Securities Act of 1933, Purina claimed it was exempt under the § 4(1) of the Act, which states that transactions by an issuer are exempt if there is no public offering. Purina only allowed employees that took the initiative to purchase the stock at current stock prices would be able to do so. Between the years of 1947 and 1951, of the 7000 estimated Ralston Purina employees, only 500 were offered the stock. Ralston Purina bases its exemption claim on the classification that all the offerees were key employees, a key employee being: individuals qualified for promotion, individuals who influence and/or advise others, individuals who carry special responsibility, who are ambitious and who are sympathetic to management. Offering the stock to every employee would make it a public offering and no longer fall under the exemption. The district court held that the exemption was applicable, the suit was dismissed and the court of appeals affirmed that.
+
+Issue
+Does a company that offers stock to a few employees without giving a public option qualify for the exemption listed in § 4(1) of the Securities Act?
+
+Held
+(Clark, J.) No. Seeing as the Securities Act does not define what constitutes a private vs public offering, it is obvious that an offer does not need to be open to the entire world for it to be public. If Purina had offered the stock to all of its employees it would be been considered a public offering, however, the court looked at the purpose of the Securities Act; to protect investors by making certain full disclosure of pertinent information is available for investors to make intelligent decisions. Under the exemption, the status of the people needing information is not considered, figuring they can fend for themselves; however, the people involved in this transaction are not people are able to do that. Employees are comparable to any other member of the community outside of the corporation. The employees of Ralston Purina were not in a position to know or have access to the type of information which registration filed under the Act would reveal, therefore, there is a need for the protection of the Act. Executive personnel, with access to relevant information the Act would otherwise make available, who are offered the stock may qualify for the exemption. The burden of proof now falls to the issuer of the stock, who is claiming exemption in order to show he qualifies for such, furthermore, the issuers motives are immaterial seeing as the right to the exemption is contingent on the knowledge of the offerees.  Regardless of their intentions, Ralston Purina failed to show that their employees had the necessary information. Reversed.
+
+Discussion
+The exemption showcased here is now found in S 4(2) as opposed to S 4(1). This case has become a landmark case in this arena. When deciding whether an offering qualifies for the nonpublic exemption of S 4(2), the test created in this case is utilized. Also used in determination of whether offerees have adequate access to pertinent stock information are: quantity of offerees, size of the offering, the relationship of the offerees, the solicitation manner of the offerees and the amount of investment skill of the offerees.
+

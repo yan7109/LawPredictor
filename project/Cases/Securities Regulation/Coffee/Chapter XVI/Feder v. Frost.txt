@@ -1,0 +1,21 @@
+Citation
+220 F.3d 29 (2d Cir. 2000)
+
+Brief Fact Summary
+The district court found that the defendant failed to attain any revenue from the transactions in questionin a ruling on a § 16(b) complaint.
+
+Synopsis of Rule of Law
+With regard to insider trading under § 16(b), a beneficial owner consists of legislative insiders who have an indirect financial interest in the subject securities.
+
+Facts
+Feder (Plaintiff) is a shareholder of IVAX Corporation. Frost (Defendant) controls the firm Frost-Nevada Limited Partnership (FNLP) and is a statutory insider of IVAX. Frost is a controlling shareholder of North American Vaccine, Inc. (NAVI). Throughout late 1995 and early 1996, Frost and FNPL bought IVAX shares and NAVI sold IVAX shares. All sales and purchases by FLNP, Frost and IVAX can be matched to verify revenue and when matched, disclose considerable short –swing revenue. Even though the earnings accured to NAVO, Feder brought a legal action against Frost, arguing that the earnings were attributed to Frost/FNLP in a pro rata basis as a result of their rise in worth of their NAVI holdings. Frost/FNLP brought an FRCP 12 (b)(6) motion to dismiss, which was granted below.
+
+Issue
+With regard to insider trading does a beneficial owner consists of legislative insiders who have an indirect financial interest in the subject securities under § 16(b)?
+
+Held
+(Winter, C.J.) Yes. The SEC publicized Rule 16a-1 in accordance with its congressionally conferred power to define technical terms and issue rules suitable to execute the Exchange Act. Rule 16a-1(a)(2) defines a beneficial owner as “any person who, directly or  indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares a direct or indirect pecuniary interest in the equity securities.” Frost/FNLP had an indirect financial interest in NAVI’s IVAX stock as a result of them sharing indirectly in NAVI’s earnings via a rise in the worth of their NAVI holdings. Reversed.
+
+Discussion
+A shareholder is offered a safe harbor under Rule 16a-1, where they are not believed to have a financial interest in a corporation’s portfolio assets. Corporate contacts in portfolio securities are not traceable to the single shareholder under the safe harbor, “if the shareholder us not a controlling shareholder of the entity and does not have or share investment control over the entity’s portfolio.”
+

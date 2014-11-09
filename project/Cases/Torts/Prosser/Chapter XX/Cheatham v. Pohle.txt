@@ -1,0 +1,18 @@
+Citation
+789 N.E.2d 467 (Ind. 2003)
+
+Synopsis of Rule of Law
+A plaintiff has no right or entitlement to an award of punitive damages, because punitive damages awards are creatures of the common law and states have wide discretion in modifying or eliminating them as no person has an interest or property right in any rule of common law.
+
+Facts
+Appellant/Plaintiff Cheatham divorced Appellee/Defendant Pohle in 1994. After the Divorce, Pohle kept nude photos of Cheatham and other pictures of the couple engaged in sexual acts. Pohle distributed at least 60 copies to the community in which they lived and worked. Pohle went further and added personal information (e.g., her name, work location and phone number, as well as her new husband’s name) about Cheatham on the pictures before distributing them. Cheatham sued Pohle for intentional infliction of emotional distress and invasion of privacy, and was awarded damages (including $100,000 in punitive damages). A provision of the Indiana code provided that 75% of any punitive damage award must be paid to the state treasury in a fund for violent crime victims. Cheatham brought suit to determine whether the code violated the US Constitution (5th Amendment Takings Clause) and the Indiana State Constitution.
+
+Issue
+Whether the statute requiring that 75% of any punitive damage award be paid to the state treasury constitutes a taking within the meaning of the 5th Amendment and of the US Constitution and/or violates the Indiana State Constitution?
+
+Held
+No, punitive damages are a windfall to the plaintiff and not a property right.
+
+Discussion
+Given that the purpose of a punitive damage award is to deter and punish wrongful activity, and is not an attempt to value the injuries of plaintiff or make the plaintiff whole, civil plaintiffs is not entitled to receive punitive damages. Unlike compensatory damages, a trier of fact is not required to award punitive damages, regardless of whether such award is merited. A plaintiff’s interest in a punitive damages award is strictly a creation of state law, and a plaintiff would have no property to be taken except to the extent that state law creates a right in property.Here, Indiana chose to define the property right as 25% of any punitive damage award, and so there is no taking of any property by virtue of the provision mandating a transfer of a percentage of the award to the violent crimes fund.Most states find that allocating punitive damages does not constitute a taking, but the court notes that the Colorado Supreme Court has found an unconstitutional taking of property.
+

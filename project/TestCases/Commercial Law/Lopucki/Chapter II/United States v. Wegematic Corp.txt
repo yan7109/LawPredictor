@@ -1,0 +1,21 @@
+Citation
+360 F.2d 674, 1966 U.S. App. 6268, 3 U.C.C. Rep. Serv. (Callaghan) 372
+
+Brief Fact Summary
+Wegemeatic Corp. (Defendant) appeals from a judgment of the District Court in favor of the United States (Plaintiff). The court awarded the Plaintiff liquidated damages, increase in replacement products, and preparatory expenses for Defendant’s failure to deliver the contracted for product on time.
+
+Synopsis of Rule of Law
+Basic engineering difficulties, which prevent timely delivery does not constitute commercial impracticability that excuses performance.
+
+Facts
+The Federal Reserve Board invited five electronics manufacturers to submit proposals for an electronic digital computing system and stressed early delivery as a consideration in determining the Board’s choice. Defendant submitted a proposal for the sale or lease of a new computer system and delivery was offered nine months from the date the contract was received. The Board approved Defendant’s proposal and delivery was set for June 30, 1957. The agreement provide that in the event the Defendant failed to comply the Board may procure the services from other sources and hold the Defendant responsible for an excess costs. The first warning by Defendant was that they informed the Board that delivery would be later than planned because they were redesigning the system, which greatly improved the product. Another request for a delay followed this one. The Board considered the requests but denied an extension. Then Defendant sent a notice to the Board that it was impracticable to del
+
+Issue
+Whether difficulties in engineering, which prevents timely delivery, constitute commercial impracticability excusing performance?
+
+Held
+No. Judgment is affirmed.
+
+Discussion
+If an essential but intangible aspect of the contract becomes impossible, the contract may be discharged, just as where the subject matter was destroyed. If certain specifications are drawn up by the vendor and it turns out that the state of the art is not sufficient to enable the vendor to meet the specifications he is unlikely to be excused from performing.
+

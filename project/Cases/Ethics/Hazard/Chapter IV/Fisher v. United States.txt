@@ -1,0 +1,21 @@
+Citation
+131 S. Ct. 103; 178 L. Ed. 2d 30;2010 U.S.79 U.S.L.W. 3196
+
+Brief Fact Summary
+The Court considers two cases in which defendants attempted to claim privileged status under the attorney-client privilege and the Fifth Amendment for various financial records and documents delivered to attorneys in anticipation of IRS action.
+
+Synopsis of Rule of Law
+The Fifth Amendment and the attorney-client privilege do not protect incriminating evidence that is not testimonial or disclosed to an attorney in anticipating of litigation.
+
+Facts
+In both Fisher and Kasmir, the Internal Revenue Service was attempting to obtain financial records that were in the care of the defendant taxpayers’ attorneys. Defendants argue that allowing these records to be produced would be a violation of their Fifth Amendment rights as well as constituting a violation of the attorney-client privilege.
+
+Issue
+Both Fifth Amendment and attorney-client issues are discussed:
+
+Held
+Yes. The Fifth Amendment only protects a defendant from compelled production of incriminating evidence that is explicitly testimonial. No. This privilege would only have protected these records if they would have already been protected from subpoena while in the client’s care. Since these were wholly business-related documents that had already been thoroughly reviewed by accountants, they would be eligible for this privilege under any circumstances.<span class='heading'>Concurrence.</span> Brennan: Agrees with the reasoning, but believes that the majority has gone too far and opened the door for further erosion of the protection against compelled production of private books and papers.<br />
+
+Discussion
+This is an essential case regarding the attorney-client and work product privileges.
+

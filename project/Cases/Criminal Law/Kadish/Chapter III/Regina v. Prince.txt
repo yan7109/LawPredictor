@@ -1,0 +1,21 @@
+Brief Fact Summary
+Defendant was convicted under a statute making it unlawful to take any unmarried girl under the age of sixteen out of the possession and without the consent of her parents. Although the girl taken by Defendant was actually 14 years old, she had told the Defendant, and the defendant reasonably believed that the girl was 18.
+
+Synopsis of Rule of Law
+Where a statute is silent as to the mens rea required to make the act a crime, the court is not bound to read a requirement of mens rea into the statute.
+
+Facts
+Defendant was convicted for taking a 14-year-old unmarried girl out of the possession and without the consent of her parents. At trial, the jury found that although the girl was 14 at the time, she had told Defendant and he had reasonably believed that she was 18. The statute he was convicted under was silent as to the mental state required to make the act a crime. Defendant appeals.
+
+Issue
+Is the court required to read a mens rea requirement into a statute that is silent with regard to the mental state required to make the act a crime?
+
+Held
+No. Conviction affirmed.
+
+Dissent
+The dissent believes that there can be no conviction of a crime without a finding of criminal intent – mens rea. A reasonable mistake of fact, where the mistaken belief, if true, would not have resulted in the defendant committing a criminal act, should be an excuse that is implied in all criminal charges.
+
+Discussion
+This case introduces the mistake of fact defense in the context of a criminal act for which the statutory language making the act a crime has no requirement of mens rea.
+

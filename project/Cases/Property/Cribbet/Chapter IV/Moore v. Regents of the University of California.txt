@@ -1,0 +1,24 @@
+Citation
+22 Ill.51 Cal.3d 120, 271 Cal.Rptr. 146, 793 P.2d 479, 15 U.S.P.Q.2d 1753 (1990)
+
+Brief Fact Summary
+Plaintiff Moore was a cancer patient at U.C.L.A. Medical Center where his doctor, over a period of several years, removed blood and other bodily fluids from Plaintiff which eventually became a “cell line” and was patented for commercial use, which aggrieved Plaintiff.
+
+Synopsis of Rule of Law
+That no action based on a theory of conversion may be prosecuted where the subject matter of the allegation are excised cells taken from Plaintiff in the course of a medical treatment; however, that an action may be based on theories of breach of fiduciary duty or lack of informed consent.
+
+Facts
+Plaintiff Moore was treated by Defendant Golde at Defendant U.C.L.A. Medical Center for hairy-cell leukemia . This treatment course occurred between October 1976 and September 1983, and included several instances where Defendant Golde removed blood, bone marrow aspirate and several other bodily substances. In August of 1979, Defendant Golde established a “cell line” from the matter taken from Plaintiff’s body. Thereafter, on January 30, 1981, Defendant Regents of University of California applied for a patent on the cell line. On March 20, 1984, the patent issued and named Defendants Golde and Quan (a researcher at U.C.L.A.) as the inventors and the Defendant Regents as the assignee. Defendants Genetics Institute Inc., and Sandoz Pharmaceuticals were added due to their subsequent investments in the cell line. Moore brought suit alleging conversion of his bodily fluids had occurred by the Defendants.
+
+Issue
+Did the Plaintiff retain an ownership interest in the excised cells and matter such that he may prosecute the Defendants for conversion?
+
+Held
+No. Plaintiff did not state a cause of action based on conversion, but may prosecute the case based on theories of breach of fiduciary duty or lack of informed consent.
+
+Dissent
+The Plaintiff’s body is unique and based upon ethical and equitable concerns the Plaintiff should have a proprietary interest in the cells and tissue of his body.
+
+Discussion
+This case is an example of the cases which arise when new technologies force courts to re-examine historical princ
+

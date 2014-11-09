@@ -1,0 +1,21 @@
+Citation
+22 Ill.225 S.W.2d 798 (Mo. Ct. App. 1949)
+
+Brief Fact Summary
+Plaintiff sued Defendant for personal injuries sustained in a car accident involving Plaintiff and Defendant’s employee. Plaintiff did not plead injury for elevated blood pressure and an injured shoulder but introduced evidence of such injuries at trial. The jury returned a verdict for Plaintiff and Defendant appealed, arguing that Plaintiff could not recover for special damages not contained in the pleadings.
+
+Synopsis of Rule of Law
+Special damages must either be contained in the pleadings or evidence must be presented that the damages are the inevitable or necessary result of injuries already alleged in the pleadings. This allows the defendant to know what injuries the plaintiff will attempt to prove.
+
+Facts
+Plaintiff Ziervogel sued Defendant Royal Packing Company for personal injuries. Plaintiff alleged that she was injured by a truck driven by Defendant’s employee and suffered injuries to her “neck, back, spine and nervous system.” At trial, Plaintiff’s counsel introduced evidence that Plaintiff suffered from a shoulder injury and elevated blood pressure. A jury returned a verdict for Plaintiff. Defendant moved for a new trial, which was denied. Defendant appealed arguing that Plaintiff did not claim she sustained elevated blood pressure or a shoulder injury due to the accident complained of in the pleadings. Defendant contends that these are special damages and Plaintiff cannot recover unless they are specifically pled.
+
+Issue
+Should the trial court have admitted evidence of Plaintiff’s elevated blood pressure and injury to her shoulder when those injuries were not specifically pled in the petition?
+
+Held
+No. Plaintiff’s motion for rehearing denied.
+
+Discussion
+The Court’s decision shows that evidence of special damages not pled in a complaint cannot be admitted at trial. Even though Defendant had notice that Plaintiff would argue that she suffered from high blood pressure that was allegedly caused by the collision, Plaintiff needed to specifically plead the injury in order to have the evidence admitted.
+

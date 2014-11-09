@@ -1,0 +1,21 @@
+Citation
+288 N.W.2d 542 (Iowa 1980)
+
+Brief Fact Summary
+The Polk District Court (Iowa) entered judgment for Magic Chef, Inc. (Defendant) in a strict products liability action and overruled Plaintiffs’ Motion for a New Trial. Plaintiffs, husband and his wife, challenged the decision.
+
+Synopsis of Rule of Law
+Misuse is not an affirmative defense in a products liability action but is an element of the plaintiff’s own case in which he must establish, by a preponderance of the evidence that the manner in which the product was used was foreseeable to the manufacturer.
+
+Facts
+Plaintiff was seriously burned when a stove made by the manufacturer exploded after the propane tank was refilled. The pilot lights on the stovetop were re-lit, but a pilot light in the oven’s cavity was not. Propane built up within the stove, resulting in the ensuing explosion. The injured husband and his wife brought an action against the manufacturer based on strict product liability. The jury found for the manufacturer, and the trial court overruled the injured party’s Motion for a New Trial.
+
+Issue
+Did the trial court in its instruction to the jury that misuse was an affirmative defense?
+
+Held
+Yes. The court reversed the lower trial court’s decision, holding that misuse of a product was no longer a defense in products liability actions, and on retrial, the burden was on the injured husband to establish that the use made of the stove was reasonably foreseeable by the manufacturer. Thus, the injured husband and his wife’s Motion for a New Trial should have been sustained.
+
+Discussion
+As a general rule, the manufacturer of any product capable of serious harm if negligently made owes a duty of care in the design, inspection, and fabrication of the product. Such duty is owed not only to the immediate purchaser but to all persons who might foreseeably come into contact with the product. See MacPherson v. Buick Motor Co., 111 N.E. 1050 (N.Y. 1916). Presently, such claims may be brought under the guidelines of the Restatement (Third) of Torts, and fall under the section specifically dealing with products liability. The Restatement categorizes such claims as due to (1) manufacturing defect; (2) design defect; or a (3) defect by reason of inadequate warnings or instructions. Restatement Section: 402A provides for strict liability in tort for anyone “who sells a product in a defective condition unreasonably dangerous to the user or consumer or his property.”
+

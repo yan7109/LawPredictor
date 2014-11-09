@@ -1,0 +1,24 @@
+Citation
+41 N.Y.2d 553, 362 N.E.2d 960, 394 N.Y.S.2d 161, 1977 N.Y.
+
+Brief Fact Summary
+Police officers for the Defendant City of Kingston took custody of Plaintiff, who was intoxicated, and drove him outside the city limits instead of arresting him. After he was deposited on a golf course, Plaintiff found himself on the New York Thruway, where he was struck by a car and injured. Although he had little or no recollection of the entire evening, Plaintiff sued for false imprisonment.
+
+Synopsis of Rule of Law
+Consciousness of confinement is a necessary element of false imprisonment, but recollection of that consciousness is not. It is thus possible to maintain a cause of action for false imprisonment despite lacking any recollection of confinement.
+
+Facts
+Plaintiff brought suit against Defendant for false imprisonment after he was taken into custody by its police officers and was later injured. Plaintiff admitted, however, that he had no recollection of actually having been in police custody on the evening in question. Because Plaintiff could not remember having been confined, the trial court dismissed his claim for false imprisonment.
+
+Issue
+Did the trial court correctly dismiss Plaintiff’s false imprisonment claim because Plaintiff had no recollection of confinement?
+
+Held
+No. The trial court’s decision was reversed to allow a jury to consider whether the Plaintiff was conscious of the confinement at the relevant times. The failure to recall one’s confinement does not mean that one was not conscious of such confinement at the time, which is the relevant question in actions for false imprisonment.
+
+Dissent
+Plaintiff utterly failed to make even a prima facie case for false imprisonment. He set forth no evidence such as would allow a conclusion that he was conscious of his confinement at the relevant time, and his failure to recall the confinement defeats his case.
+
+Discussion
+This case hones the elements of the false imprisonment action. A Plaintiff is required to prove consciousness of the confinement as a prerequisite to recovery. This being a dignitary tort, it would not make sense to allow recovery when an insult to one’s dignity is not realized. The Court explains, however, that such a dignitary insult is actionable so long as the victim is aware of it as it occurs. The failure to recall the insult does not erase the harm inflicted.
+

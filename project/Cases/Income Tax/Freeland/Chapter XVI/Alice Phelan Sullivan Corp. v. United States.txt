@@ -1,0 +1,21 @@
+Citation
+381 F.2d 399 (Ct. Cl. 1967)
+
+Brief Fact Summary
+Taxpayer sues claiming refund of amount of deficiency paid after her charitable conveyance was reconveyed to her years later. Taxpayer alleges taxes due on reconveyance can not exceed tax deduction benefit she originally received by making conveyances.
+
+Synopsis of Rule of Law
+A transaction which returns to the taxpayer his own property gives rise to income when the recovered item was initially used as a deduction and provided a tax benefit to the taxpayer.
+
+Facts
+Alice Phelan Sullivan Corp (Plaintiff) made two charitable conveyances of parcels in 1939 and 1940. Taxpayer deducted $4,243.49 and $4,463.44 respectively for a combined tax benefit of $1,877.49. In 1957, the donee decided not to use the parcels and reconveyed to Plaintiff. In 1957, Plaintiff did not include the $8,706.93 land value as taxable income. The Commissioner of Internal Revenue, upon audit, determined the amount was taxable income and applied the 52% corporate tax rate to determine Plaintiff was deficient by $4,527.60. Plaintiff paid deficiency and claimed a refund for $2,650.11, the amount of the deficiency in excess of the original tax benefit received by making the charitable contribution.
+
+Issue
+Should the taxpayer be required to pay tax on a recovered item that exceeded the amount of the tax benefit received when the item was initially used as a deduction?
+
+Held
+Yes. The Government’s motion for summary judgment is granted and Plaintiff’s claim is dismissed.
+
+Discussion
+Income includes recovery of a taxpayer’s own property, the original disposal of which resulted in a tax savings for the taxpayer.  When a taxpayer receives income, it is taxable at the rate applicable in the year in which the income was received. It is immaterial that the tax due in the year of recovery exceeds the tax savings in the year that the property was used as a deduction
+

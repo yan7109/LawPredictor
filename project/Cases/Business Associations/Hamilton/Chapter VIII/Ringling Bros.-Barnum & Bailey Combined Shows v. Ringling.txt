@@ -1,0 +1,21 @@
+Citation
+Del. Sup. Ct., 53 A.2d 441 (1947)
+
+Brief Fact Summary
+Ringling (P) and Haley (D) entered a stock pooling agreement by which they agreed to always vote their shares together, Haley (D) however refused to agree on a vote for directors nor vote as directed by the arbitrator provided in the agreement, so Ringling (P) sought enforcement of the arbitrator’s judgment.
+
+Synopsis of Rule of Law
+It is lawful for groups of shareholders to contract the way they vote with each other.
+
+Facts
+Ringling (P) and Haley (D) entered a stock pooling agreement by which they agreed to always vote their shares together, and in the case of disagreement, an arbiter would be provided, one Loos. They made this agreement because it would give them enough voting strength to elect five of the seven directors. In 1946, Ringling (P) and Haley (D) agreed to elect themselves and family as directors, but could not agree on a suitable fifth director. There was arbitration, and the arbiter, Loos, found that Ringling’s proposed director, Dunn, should be Haley’s (D) vote. Haley (D) refused, and abstained from the fifth vote. Without enforcement of Loos’ decision, one of North’s candidates would instead become fifth director. Ringling (P) brought suit for enforcement, while Haley (D) contended that their voting agreement was illegal. The court found that the agreement was valid, and a new election must be held upholding the voting agreement. Haley (D) appealed.
+
+Issue
+Is it lawful for groups of shareholders to contract the way they vote with each other in the future?
+
+Held
+(Pearson, J.) Yes. It is lawful for groups of shareholders to contract the way they vote with each other. The agreement in question didn’t give Loos power of enforcement. His decision is only enforceable by parties. The agreement was also not illegal, the law does not intervene with agreements between shareholders binding how they vote with one another. Pooling agreements have previously been found valid and distinguished from voting trust. The provision for an arbiter was clearly intended to break deadlocks. This agreement did not allow parties to take unlawful advantage of one another or other persons. For remedy, the only valid votes should be the ones made by Ringling (P) and North. Though it leaves one board vacancy, the board can fill the vacancy on its own at the next meeting which is close by anyway. As modified, affirmed.
+
+Discussion
+Stockholders may exercise wide liberality in how they vote their shares so long as they do not violate any duty owed to fellow shareholders. The remedy in this case was viable by Delaware law which permits the Chancery Court, when reviewing elections, to reject votes of a valid stockholder where the stockholder’s voting decisions violate the rights of another person.
+

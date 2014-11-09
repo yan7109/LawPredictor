@@ -1,0 +1,21 @@
+Citation
+22 Ill.109 Idaho 527, 708 P.2d 932 (Ct. App. 1985)
+
+Brief Fact Summary
+David Young (Young), an employee of the Defendant, Spokane Computer Services, Inc. (Defendant), was instructed by his employer to investigate the possibility of purchasing a surge protector. After looking at several different models, Young didn’t find a protector that fit his employer’s needs and he contacted the Plaintiff, Konic International Corporation (Plaintiff), about getting a unit that met their needs. Plaintiff quoted a price of “fifty-six twenty”, which Young took to mean $56.20. The actual price of the surge protector was $5,620.00.
+
+Synopsis of Rule of Law
+This case stands for the proposition that mutual mistake voids a contract, when the mistake is regarding an integral term of the agreement (in this case, price).
+
+Facts
+Young notified Plaintiff that he would need to get approval from his supervisors before purchasing the surge protector. He prepared a purchase order and was approved for $56.20. Young then ordered the surge protector, giving the purchase order number. Never was the price communicated to Plaintiff. The surge protector was shipped and Defendant was billed for $5,620.00. The price discrepancy was not discovered for two weeks, at which time the president of Defendant immediately contacted Plaintiff and told them that they did not intend to purchase the unit. Plaintiff sued for specific performance. The trial court dismissed Plaintiff’s suit based on the theory of apparent authority (which Young lacked) and Plaintiff appealed.
+
+Issue
+The issue presented by this case is whether mutual mistake will serve to vitiate a contract or, whether an unknowing party will be held to the price expectation of the other party.
+
+Held
+Affirmed.
+
+Discussion
+This case presents another illustration of the theory of mutual mistake. When both parties are mistaken as to a material term, neither party is held liable for breach of contract.
+

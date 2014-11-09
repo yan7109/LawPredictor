@@ -1,0 +1,21 @@
+Citation
+253 N.Y. 124, 170 N.E. 517 (1930)
+
+Brief Fact Summary
+A motorcycle collision occurred, and there was a dispute about the manner in which it took place.
+
+Synopsis of Rule of Law
+The exception to the hearsay rule for records of regularly conducted business activities does not encompass documents like police reports, which contain statements made by third parties not under any duty to prepare the document or to tell the truth when talking to the officer preparing the report.
+
+Facts
+After a motorcycle accident, a police report was offered into evidence by the defense and was excluded.  The defense appealed on the grounds that it should have been admissible as a record of regularly conducted business activity.
+
+Issue
+Whether the police report was admissible as a regularly conducted business activity?
+
+Held
+No.  The police report is not a record of a regularly conducted business activity, but rather a report full of hearsay statements of third persons, with no indication that they saw the accident or were merely repeating what others had said.
+
+Discussion
+The exception to the hearsay rule for regularly conducted business activities was premised on making it easier to show things like the presence of accounts, and prepared by those that had a duty to prepare the document.  It was also premised on avoiding the necessity of calling all people to the stand that might have had anything to do with preparing it.  A police report, in contrast, contains voluntary hearsay statements made by third parties not under a duty to prepare the document, or even to tell the truth. As a result, it does not fall under the policy of the exception.
+

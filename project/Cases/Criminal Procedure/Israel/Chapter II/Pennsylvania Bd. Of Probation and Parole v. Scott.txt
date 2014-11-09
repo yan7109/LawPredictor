@@ -1,0 +1,24 @@
+Citation
+22 Ill.524 U.S. 357, 118 S. Ct. 2014, 141 L. Ed. 2d 344 (1998)
+
+Brief Fact Summary
+Respondent Keith M. Scott was a parolee whose house was searched by parole officers.  He argues unsuccessfully at his parole violation hearing for exclusion of the seized evidence on grounds that under the 4th Amendment, the search was unreasonable.
+
+Synopsis of Rule of Law
+The exclusionary rule does not apply beyond the criminal trial context, thus it does not apply to parole board hearings.
+
+Facts
+One of the conditions of the respondent’s parole in Pennsylvania was that he not possess weapons.  Based on evidence that he had violated this condition, parole officers entered his home and found firearms and a bow.  Respondent objected to this evidence being introduced at his parole violation hearing on the grounds that it was obtained in violation of the Fourth Amendment ban on unreasonable searches.  The parole examiner admitted the evidence, and as a result, he was forced to serve 3 years backtime.  The Commonwealth Court of Pennsylvania reversed the decision, and the Pennsylvania Supreme Court affirmed the reversal, stating that the Fourth Amendment does not usually apply to parole violation hearings, but it did here because the searching officers were aware of the respondent’s parole status and such illegal searches would otherwise go undeterred.  The Pennsylvania Parole Board was granted certiorari.
+
+Issue
+Does the exclusionary rule barring unconstitutionally obtained evidence from being admitted into a hearing apply to a parole violation hearing?
+
+Held
+No.  Reversal of Respondent’s parole violation reversed.
+
+Dissent
+Justice John Paul Stevens.  The deterrent value of the exclusionary rule is implicated just as much in a parole violation hearing as in a conventional criminal trial.
+
+Discussion
+In this closely decided, 5-4 decision the majority examines the real function of the exclusionary rule in determining that it should not apply to parole violation hearings.  The differences in the function they serve between a criminal trial and a parole violation hearing are what J. Thomas emphasizes most in his majority opinion.
+

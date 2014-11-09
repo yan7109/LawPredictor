@@ -1,0 +1,21 @@
+Citation
+666 A.2d 30 (D.C. 1995)
+
+Brief Fact Summary
+The District of Columbia Department of Human Services (DHS) removed a child from her mother, because she was not providing proper care. When placed in a foster home, the child was beat to death.
+
+Synopsis of Rule of Law
+To prevail on a respondeat superior theory of liability, the plaintiff must show that a principal-agent relationship existed and that the agent’s negligent act occurred within the scope of the relationship. Under the most recent case law, foster parents are not deemed to be agents or employees of state family service agencies.
+
+Facts
+DHS removed two year-old Mykeeda Hampton from her mother’s care claiming her mother was not properly caring for the child. The child was then placed in a foster home. The foster mother, Geraldine Stevenson (Stevenson) left the child alone with her two sons, one of whom beat the child to death. Ms. Hampton, the child’s mother (Appellee), brought a survival action alleging (1) negligence on the part of DHS for selecting Stevenson for foster care; and (2) that since Stevenson was an agent for DHS, vicarious liability applied. The Superior Court of the District of Columbia denied Appellant’s Motion for Judgment Notwithstanding the Verdict in the negligence suit. The trial court entered judgment for Appellee. In its challenge, the District of Columbia (Appellant), alleged that it could not be held liable under a respondeat superior theory since Stevenson was an independent contractor.
+
+Issue
+Was Stevenson an independent contractor, and not an agent, of DHS, thus exempting the latter from liability under a respondeat superior theory?
+
+Held
+The court of appeals reversed the trial court’s judgment. The District of Columbia was not liable under a respondeat superior, therefore, the Appellant’s Motion for Judgment Notwithstanding the Verdict should have been granted. Appellee failed to prove the standard of care by expert testimony.
+
+Discussion
+Noting that the case before it was one of first impression, the court of appeals relied on recent case law trends – electing to employ a tone of caution and tentativeness to its decision. The court proceeds then to a standard analysis of respondeat superior theory of liability, with an emphasis on the issue of agency, or the principal-agent relationship. With regard to the latter, the court stated that a plaintiff must demonstrate, “that a principal-agent relationship existed and that the agent’s negligent act occurred within the scope of the relationship.” Further, the court explained, “[w]hether a master-servant, or principal-agent, relationship exists in a given situation depends on the particular facts of each case.” The party asserting such a relationship has the burden of proof, and in determining whether such a relationship exists, a court must consider a number of factors: “(1) the selection and engagement of the servant; (2) the payment of wages; (3) the power to
+

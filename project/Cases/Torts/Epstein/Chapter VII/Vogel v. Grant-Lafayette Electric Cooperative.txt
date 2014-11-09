@@ -1,0 +1,21 @@
+Citation
+201 Wis. 2d 416, 548 N.W.2d 829,1996 Wisc.
+
+Brief Fact Summary
+The Vogels (Plaintiffs) sued Defendant on two different theories of nuisance for stray voltage from Grant-Lafayette Electric Cooperative’s (Defendant’s) electrical service.
+
+Synopsis of Rule of Law
+A private nuisance is a nontrespassory invasion of another’s interest in the private use and enjoyment of the land. The common law doctrine of private nuisance is both “broad” to meet the wide variety of possible invasions, and “flexible” to adapt to changing social values and conditions.
+
+Facts
+The Plaintiffs were dairy farmers and members of Defendant, a cooperative association that distributed electricity to its members. Shortly after building a new milking facility in 1970, Plaintiffs noticed problems with their herd. They discovered that the problems were associated with stray voltage. In 1986, Defendant responded to Plaintiff’s concerns about stray voltage and built an isolator. The behavior of the herd began to improve immediately. In 1992, Plaintiffs filed suit against Defendant for negligence and nuisance. Defendant denied these allegations and alleged that Plaintiffs were contributorily negligent in the design, maintenance, and operation of their electrical equipment. The jury found that Defendant was negligent and that it had created a nuisance. It awarded Plaintiffs $240,000.00 in economic damages and $60,000.00 in annoyance and inconvenience damages. A verdict for $200,000.00 was entered and Defendant appealed. The court of appeals held that the trial cou
+
+Issue
+There are two issues in this case:
+
+Held
+Yes, Defendant’s stray voltage could constitute a private nuisance. No, Defendant’s stray voltage does not constitute an intentional invasion nuisance.
+
+Discussion
+For Plaintiffs to recover under a claim for intentional nuisance, Defendant must have intended to cause the harm to the herd. Defendant is not liable for a continuing trespass either because as soon as Defendant was aware of the stray voltage, it made immediate steps to fix it. Defendant is liable for private nuisance in providing undesirable and harmful stray electric along with the requested electricity. Notice in the private nuisance analysis, it does not matter whether or not Defendant knew or should have know that its stray electricity caused Plaintiff harm. Private nuisance is a strict liability tort.
+

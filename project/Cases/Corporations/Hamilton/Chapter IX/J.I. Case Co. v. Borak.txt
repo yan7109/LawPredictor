@@ -1,0 +1,21 @@
+Citation
+376 U.S. 960, 84 S. Ct. 1121 (1964)
+
+Brief Fact Summary
+Respondent Borak was a shareholder in Petitioner J.I. Case Co.  Respondent brought a private action against Petitioner for releasing a misleading proxy statement prior to a merger.
+
+Synopsis of Rule of Law
+The Securities and Exchange Act, under Section: 27, grants private parties the right to bring a suit against a party for violating Section: 14(a) of the Act.
+
+Facts
+Respondent held 2,000 shares of Petitioner company.  Petitioner released a misleading proxy statement concerning an upcoming merger.  Respondent was unsuccessful in gaining an injunction to prevent a merger based upon the proxy statement, and therefore sued for a rescission of the merger and damages due to the misleading statement.  Respondent cited Section: 27 for jurisdiction to file a Section: 14(a) claim.  Petitioner asserts that Congress did not expressly provide a private right of action under Section: 14(a), and that the merger could only be dissolved based upon a fraudulent or non-beneficial claim.  The District court dismissed the case, but the Appellate allowed the action to go forward.
+
+Issue
+The issue is whether Section: 27 allows a private party to bring a Section: 14(a) action.
+
+Held
+A private party can bring a Section: 14(a) action through the use of Section: 27.  Congress intended on providing methods of redress to prevent deceptive practices of corporate officers.  The Securities & Exchange Commission do not have the resources to thoroughly investigate each of the 2,000 proxy statements it receives annually, and it would be counterintuitive to rely solely on the Commission’s findings.  The language of the Act does not prohibit private actions, but instead implies the right.
+
+Discussion
+Similarly to the cases regarding inside information, the Court looks at the overall purpose of the Securities Act to determine which outcome will best serve the purpose.  In this case, allowing private parties the right to bring an action best supports the purpose.
+

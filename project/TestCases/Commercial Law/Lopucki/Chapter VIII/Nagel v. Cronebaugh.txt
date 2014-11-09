@@ -1,0 +1,21 @@
+Citation
+782 So. 2d 436, 2001 Fla. App. 2350, 45 U.C.C. Rep. Serv. 2d (Callaghan) 1095; 26 Fla. L. Weekly D 63
+
+Brief Fact Summary
+Richard Nagel, (Appellant), appeals a final judgment denying foreclosure of a mortgage.
+
+Synopsis of Rule of Law
+In order for an instrument to be negotiable under the U.C.C. it must contain an unconditional promise to pay a sum certain.
+
+Facts
+Marjorie E. Peirce, (Pierce), agreed to give Mr. and Mrs. Cronebaugh, (Appellees), $50,000 and loan them an additional $50,000 so they could purchase a home. The loan was secured by a mortgage. Appellees attorney drafted the note and the mortgage. The note provided that Appellees promise to pay to Peirce a sum to be determined at the time of contingencies with interest. The note also stated that it was a demand note due on October 1, 2018 or upon the sale of the house, or the death of the makers, whichever occurs first. When Peirce died, Appellant as Personal Representative of her estate, demanded payment in full contending that the note created an obligation due on demand. Appellees contend that payment was not required until October 1, 2018.
+
+Issue
+Whether the note is a negotiable instrument governed by U.C.C. 3-104(a) Whether the note creates a demand obligation.
+
+Held
+No. The note is not a negotiable instrument because it fails to provide a fixed principal amount. Yes. The note creates a demand obligation because the wording is ambiguous and must be construed against the party who drafted the instrument, Appellees.Concurrence. The note is not ambiguous but still creates a demand obligation. The U.C.C. provision codifies common sense, which should control the construction of contract.<br />
+
+Discussion
+U.C.C. 3-104(a) does not apply because the note does not provide a fixed principal amount and therefore is not negotiable. Because the language of the note is ambiguous as to the ability of the holder to demand payment prior to 2018, the ambiguity must be interpreted against the party who selected the language. Construing the language against Appellees, the note did create a demand obligation.
+

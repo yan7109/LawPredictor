@@ -1,0 +1,18 @@
+Citation
+554 U.S. 471, 128 S. Ct. 2605, 171 L. Ed. 2d 570, 66 ERC 1545 (2008) [2008 BL 135592]
+
+Synopsis of Rule of Law
+Punitive damage awards in maritime cases shall be capped at a 1:1 ratio measured against compensatory damage awards.
+
+Facts
+This case stems from the infamous Exxon Valdez oil spill off the coast of Alaska. Plaintiffs living in Prince William Sound, the location of the spill, sued Exxon for consequential economic losses that resulted from the spill, as such plaintiffs depended on the Sound for their economic livelihood. Fault was found because the captain left the bridge just before the accident, despite being the only officer capable of navigating the difficult passage. In addition, a blood alcohol test was conducted and found that the captain had been drinking the day of the accident, but it was unclear whether Defendant Exxon knew of the captain’s alcoholism. The District Court calculated total relevant compensatory damages to be $507.5 million, to go along with the $2.5 billion punitive damage award. The Supreme Court sits as a common law court under its admiralty jurisdiction.
+
+Issue
+Whether under maritime law, an award of $2.5 billion in punitive damages is unreasonable when coupled with a compensatory damage award of only $507.5 million?
+
+Held
+Yes, a punitive award shall be limited to an amount equal to the compensatory damage award (one-to-one ratio).
+
+Discussion
+Justice Souter] Typically, a jury determines a punitive damage award, which may be reviewed by a court to ensure its reasonableness. Given that such awards are unpredictable, and courts must be concerned with overall fairness and consistency, a standard must be developed to reach the optimal level of penalty and deterrence in these cases. Citing dicta in State Farm (538 U.S. 408, 425), the Supreme Court notes that despite rejecting a simple mathematical formula as the constitutional line, “few awards exceeding a single digit ratio between punitive and compensatory damages, to a significant degree, will satisfy due process…when compensatory damages are substantial, then a lesser ratio, perhaps only equal to compensatory damages, can reach the outermost limit of the due process guarantee” (ellipses added). Because courts are focused on fairness and eccentrically high punitive verdicts may be deemed unfair, “[a] penalty should be reasonably predictable in its severity, so that even Justice Holmes’s “bad man” can look ahead with some ability to know what the stakes are in choosing one course of action or another.”The Supreme Court also analogizes to the criminal sentencing system, noting that it is instructive to note that upon discovery that defendants were serving widely disparate sentences, sentencing reform was enacting to provide detailed guidelines. The Supreme Court wishes to do the same here.Because there are no standard “torts” or “injury”, putting a max cap on punitive awards is untenable, especially because a court will not have the power to revisit and modify the figure routinely. Noting a ratio as the preferable alternative, and finding that the median ratio is less than 1:1 (i.e., compensatory damages exceed punitive damages), the Supreme Court finds that a 1:1 ratio is a fair upper limit in maritime cases.Note in dictum: “A median ratio of punitive to compensatory damages of about 0.65:1 probably marks the line near which cases like this one largely should be grouped.”This decision is not a constitutional ruling, because the Supreme Court was sitting as a common law court in its admiralty jurisdiction, so the holding is limited to maritime cases. It remains to be seen how the Court may apply the standards set forth in this case to punitive damage appeals in the future.
+

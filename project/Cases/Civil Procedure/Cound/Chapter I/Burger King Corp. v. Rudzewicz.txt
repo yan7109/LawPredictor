@@ -1,0 +1,21 @@
+Citation
+471 U.S. 462, 105 S. Ct. 2174, 85 L. Ed. 2d 528 (1985)
+
+Brief Fact Summary
+Plaintiff, a Florida corporation, and Defendants, Michigan residents, had a franchise agreement specifying that Defendants may be subject to suit in Florida. Plaintiff sued Defendants in Florida federal court based on diversity of citizenship for non-payment under the franchise agreement. Defendants moved to dismiss on the grounds that Florida did not have personal jurisdiction over Defendants.
+
+Synopsis of Rule of Law
+When the defendant has a business relationship and agreement with a corporation located in the forum state and there is a forum-selection clause in the agreement, the forum state may exercise personal jurisdiction if the long- arm statute permits. If exercising jurisdiction would cause a grave hardship to the defendant, then exercising jurisdiction would violate due process.
+
+Facts
+Rudzewicz and MacShara (Defendants), residents of Michigan, had a contract with Burger King (Plaintiff) as franchisees for 20 years. The contract said that the franchise relationship would be established in Miami (where Plaintiff’s principal offices are) and that the relationship would be governed by Florida law. Defendants fell behind in monthly payments and Plaintiff brought a diversity action in federal court in Florida. Defendants argued that the court lacked jurisdiction because Defendants were residents of Michigan and the claim did not “arise” in Florida. The Court said the claims did arise under the Florida long-arm statute and found for Plaintiff. The Court of Appeals reversed on the grounds that exercising jurisdiction would offend the “fundamental fairness of due process.” P appealed.
+
+Issue
+: May a court may exercise personal jurisdiction on a franchisee in an action for breach of contract when the franchisee voluntarily accepts long-term and exacting regulation by the franchisor’s headquarters, the franchisee had notice that he may be subject to suit in the forum state, and the franchisee would not be gravely disadvantaged by exercising jurisdiction in the forum state?
+
+Held
+Yes. Reversed and remanded.   The general rule is that Defendant must have minimum contacts with the forum state so that Defendant’s conduct and connection are such that Defendant can reasonably foresee being hailed into court there.  In addition, the court must consider whether asserting personal jurisdiction will comport with “notions of fair play and substantial justice.” If litigation in the forum state would cause a “severe disadvantage,” then minimum contacts are not enough.  The contract term stating that the franchise relationship would be governed by Florida law constituted “purposeful availment” of the benefits    and protections of Florida law by the defendants. When a contract calling for a certain forum is not made under duress or misrepresentation then jurisdiction over the defendants is proper unless the defendants would be inconvenienced to such an extent that having to litigate in the forum state would be unconstitutional.   <br/><br/><span class='heading'>Dissent.</span> Justice Stevens: Defendants did not expect their products to go to Florida. All of their property, business, and payroll taxes were payable in Michigan. In addition, the contract language was non-negotiable boilerplate language and thus should not control the decision. Finally, Defendants typically dealt with Plaintiff through its office in Michigan, not Florida.
+
+Discussion
+This majority’s opinion suggests that forum selection clauses will be honored unless the defendant would suffer grave hardship as a result.
+

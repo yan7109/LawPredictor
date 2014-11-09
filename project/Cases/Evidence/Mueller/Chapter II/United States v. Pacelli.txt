@@ -1,0 +1,24 @@
+Citation
+454 U.S. 1144
+
+Brief Fact Summary
+Defendant, Vincent Pacelli, Jr., was charged and convicted of murdering Patsy Parks.  Parks testified in a grand jury proceeding against Pacelli in which he was indicted.
+
+Synopsis of Rule of Law
+The hearsay applies to statements and conduct out of court offered to prove the truth of the matter asserted.
+
+Facts
+Vincent Pacelli, Jr., Defendant, was charged with killing Patsy Parks.  Parks was stabbed and her body set afire on Long Island.  She had testified before a grand jury investigating Defendant.  Defendant was indicted and the government alleged Defendant killed Parks to keep her from testifying.  After the murder of Parks became public, Defendant met with several others at the apartment of Frank Bassi, Defendant’s uncle.  One of the individuals as this meeting was a man by the name of Lipsky.  Lipsky, over defense objections was allowed to testify about the conduct and statements of several people at this meeting.  Lipsky’s testimony showed that various people at the meeting believed Defendant killed Parks.
+
+Issue
+Was Lipsky’s testimony regarding the statements by others at the meeting inadmissible hearsay?
+
+Held
+Circuit Justice Mansfield issued the opinion for the United States Second Court of Appeals in reversing the conviction and holding that the evidence was hearsay that should not have been admitted.
+
+Dissent
+Justice Moore issued a dissenting opinion arguing that Lipsky did not testify that anyone at the meeting stated that Defendant declared he killed Parks.  Rather, the testimony of Lipsky regarding the meeting would only allow a jury to infer that Defendant killed Parks, but such is not significant given that Lipsky testified that he saw Defendant kill Parks.
+
+Discussion
+The Court considered it irrelevant that  the statements and conduct of those at the meeting did not intend to communicate their belief that Defendant did the killing.  Defendant was entitled to cross examine the out of court declarants on the inference that the government was intending the jury draw, that Defendant killed Parks.
+

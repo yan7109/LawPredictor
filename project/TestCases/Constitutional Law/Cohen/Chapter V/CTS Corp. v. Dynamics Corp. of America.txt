@@ -1,0 +1,24 @@
+Citation
+22 Ill.481 U.S. 69, 107 S. Ct. 1637, 95 L. Ed. 2d 67 (1987)
+
+Brief Fact Summary
+The Indiana Act (the Act) protected shareholders of Indiana corporations from hostile takeovers. Dynamics announced a tender offer for CTS shares but CTS used the Act to gain time in deciding whether to accept the takeover offer. Dynamics sued in federal court, arguing that the Indiana Act violated the Commerce Clause.
+
+Synopsis of Rule of Law
+If an evenhanded statute is used to effectuate a legitimate local interest, it may be challenged as having a discriminatory effect on interstate commerce. Under such a challenge, the question is whether the burden the law imposes on interstate commerce outweighs its benefit to local interests. If the burden imposed is incidental or trivial compared to the benefits obtained then the statute will be upheld.
+
+Facts
+The Indiana Act afforded shareholders evaluating a takeover offer the opportunity to collectively decide whether the resulting change in voting control of the corporation would be desirable. Dynamics made a tender offer and CTS delayed their efforts by exercising rights granted under the Act.
+
+Issue
+Did the Control Share Acquisitions Chapter of the Indiana Business Corporation Law violate the Commerce Clause by creating a burden on interstate commerce?
+
+Held
+Justice Powell.
+
+Dissent
+Justice White, Blackmun and Stevens dissenting as to Part II.
+
+Discussion
+The balancing approach used in this case is generally the appropriate Commerce Clause analysis when the statute in question is non-discriminatory in both motive and effect.
+

@@ -1,0 +1,24 @@
+Citation
+268 N.W.2d 885, 1978 Minn.
+
+Brief Fact Summary
+The Defendants, Rochester City Council (Defendants), rezoned a single lot that was low-density, single family zoned to make it high-density residential zoned, in order to permit the building of 49 unit condominium building. Plaintiffs, a neighborhood association and individuals (Plaintiffs), attempted to obtain injunctive relief.
+
+Synopsis of Rule of Law
+Rezoning classifications will be upheld if there is a rational basis for the rezoning relating to public safety, health, and welfare.
+
+Facts
+Defendant City of Rochester had re-zoned a single lot in order to grant a building permit for a 49-unit condominium building. Plaintiffs were individuals and the neighborhood association who wanted to enjoin the construction. In the surrounding area, there were multiple zones including institutional zones and some multi-family buildings and apartment buildings were located nearby. Thus, the area surrounding the lot was not exclusively single family residences. Although the planning commission had recommended that the application for zoning be denied because it was inconsistent with the city’s land use plan, the City rezoned the lot contrary to the planning commission’s recommendation. There was no amendment of the city’s land use plan in order to make the rezoning of the lot consistent with the land use plan. There was evidence that more high-density housing was greatly needed in the City of Rochester.
+
+Issue
+Was the re-zoning of a single tract presumptively invalid as a “quasi-judicial act” by the Council, not supported by written finds and substantial evidence?
+
+Held
+The Court follows the consistent Minnesota authority, which finds that when a municipality adopts or amends a zoning ordinance it acts legislatively. The Court declined to follow the quasi-judicial rule applied in other jurisdictions.
+
+Dissent
+Justice Kelly would follow the standard of review used in other jurisdictions requiring the City to show findings based on substantial evidence.
+
+Discussion
+The Court’s application of a rational basis and deferential standard to the Council’s rezoning, is consistent with the characterization of zoning as a legislative act. Given the reliance of some owners on zoning, there is nonetheless a strong argument for requiring substantial evidence. On the other hand, if more housing is needed in furtherance of the public welfare that would be a legislative purpose that would override the investment expectations of other owners.
+

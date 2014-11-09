@@ -1,0 +1,21 @@
+Citation
+327 N.C. 454, 396 S.E.2d 318 (1990)
+
+Brief Fact Summary
+An ambiguity existed in the testator’s will as to what was meant by the term “my residence.”  Defendant attempted to enter into evidence an affidavit from the drafting attorney as to what the testator intended.  This evidence was excluded by the trial court and Defendant now appeals.
+
+Synopsis of Rule of Law
+Generally extrinsic evidence will be admissible to cure a latent ambiguity in a will.  However it will not be admissible if they are merely conclusions or impressions of what the testator intended to say.
+
+Facts
+Walter Hartman was married to Ada Cassie Hartman, his second wife, when he died leaving a will giving his “residence at 2615 Coleman” to his wife for her life and residue to his daughter the Plaintiff.  Ms. Hartman died five years later leaving a will that left all of her personal and real property to her child the Defendant.  When Walter died he lived in the same house he had lived in since its purchase in 1948.  The house was located on lot 36 and at the same time as his purchase his mother purchased lot 37.  Walter’s mother conveyed lot 37 to him by deed several years after the purchase.  So at the time of his death Walter owned both lot 36 and 37.  Defendant, daughter of Ada from a previous marriage, attempted to claim title to lot 37  under her mother’s will contending that it passed to her mother under the residuary clause of Walter’s will.  Plaintiff, daughter of Walter from a previous marriage, brought this action to quiet title to lot 37 claiming it under her father’s
+
+Issue
+Was the trial court correct in ruling that an affidavit of the drafting attorney describing the testator’s intent was not admissible to cure the latent ambiguity in the will?
+
+Held
+Yes.  The trial court was correct in refusing to consider the affidavit and in granting summary judgment for the Plaintiff.
+
+Discussion
+The description of the property as “my residence” created a latent ambiguity and extrinsic evidence is admissible to ascertain the testator’s intent.  However the Court notes that by allowing testimony from someone else, here the attorney, as to what the testator intended to say in his will could alter the will and thus would conflict with the requirement that will be in writing.  The affidavit is not a factual account but rather the attorney’s best recollection of what the testator intended.  The Defendant attempts to cite several cases in which declarations of the testator where allowed when a latent ambiguity was present.  The Court finds these unpersuasive to extend the rule to include declarations of the testator as to which beneficiary will receive each parcel of land.
+

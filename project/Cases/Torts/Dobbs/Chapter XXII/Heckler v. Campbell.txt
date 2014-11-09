@@ -1,0 +1,24 @@
+Citation
+461 U.S. 458, 103 S. Ct. 1952, 76 L. Ed. 2d 66 (1983)<br />
+
+Brief Fact Summary
+The Respondent, Carmen Campbell (Respondent) applied for and was denied disability benefits. An administrative law judge agreed with the decision, concluding the Respondent was not disabled and the district court affirmed. The United States Court of Appeals for the Second Circuit reversed the judgment, finding that the medical-vocational guidelines that had been promulgated by the Petitioner, Heckler the Secretary of Health and Human Services (Petitioner) did not provide evidence of a specific job that was available for the Respondent. The Petitioner sought review.
+
+Synopsis of Rule of Law
+A claimant who establishes that he suffers impairment so severe that he is prevented from pursuing any gainful work will be considered disabled without further inquiry. If a claimant suffers from a less severe impairment, the Secretary of Health and Human Services must determine whether the claimant retains the ability to perform either his former work or some less demanding employment. If a claimant can pursue his former occupation, he is not entitled to disability benefits.
+
+Facts
+The Respondent applied for disability benefits in 1979 because a back condition and hypertension prevented her from continuing her work as a maid. Her application was denied and she sought a hearing before an administrative law judge who concluded that though she could no longer work as a maid due to her back condition, but she could nevertheless perform light work. The Respondent’s claim was thus denied. On appeal, the Second Circuit reversed on the grounds that the Health and Human Services (HHS) guidelines were inadequate as “evidence of a claimant’s ability to perform a specific alternative occupation.” Seeking review, the Petitioner argued that the court of appeals’ holding effectively prevented her use of the medical-vocational guidelines by requiring her to identify specific alternative jobs in every disability hearing. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+May the Secretary of HHS rely on medical-vocational guidelines to determine a claimant’s right to Social Security disability benefits?
+
+Held
+Yes. The Supreme Court held that the court of appeals erred in reversing the judgment because the Petitioner’s use of the medical-vocational guidelines to determine a claimant’s right to disability benefits did not conflict with the Social Security Act, nor were the guidelines arbitrary or capricious.
+
+Dissent
+Justice Thurgood Marshall (J. Marshall) in dissent, echoes the concern of Justice William Brennen (J. Brennan) regarding “the additional question whether the Administrative Law Judge fulfilled his obligation to look fully into the issues.” J. Marshall further expresses concern with regard to claimant’s due process rights. Specifically the principle of administrative law that, when an agency takes official or administrative notice of facts, a litigant must be given an adequate opportunity to respond – a requirement the majority held as inapplicable where, as in this case, the agency has promulgated valid regulations.
+
+Discussion
+In Heckler, the Supreme Court takes the opportunity to clarify the purpose and application of the statutory framework surrounding Social Security disability benefits. J. Lewis stated, “The Social Security Act defines ‘disability’ in terms of the effect a physical or mental impairment has on a person’s ability to function in the workplace. It provides disability benefits only to persons who are unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment.” And, J. Powell adds, the Social Security Act “specifies that a person must not only be unable to do his previous work but must be unable, considering his age, education, and work experience, to engage in any other kind of substantial gainful work which exists in the national economy, regardless.” He clarifies, “of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if
+

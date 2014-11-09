@@ -1,0 +1,24 @@
+Citation
+22 Ill.422 U.S. 490, 95 S. Ct. 2197, 45 L. Ed. 2d 343 (1975)
+
+Brief Fact Summary
+Penfield, NY was sued by numerous parties who claimed that the city was enacting rules restricting the building of low to moderate income housing to the detriment of these parties.
+
+Synopsis of Rule of Law
+There is a 2 part test to determine whether a party has standing to bring a claim against a government entity in the Supreme Court. The party must show that “but for” the action, the claimed injury would not have occurred AND that a favorable decision by the Court will address the injury sustained.
+
+Facts
+Numerous parties in Penfield, New York (Penfield) contested the town’s zoning rules. Those parties argued that the rules were enacted to restrict the building of low to moderate income housing. The four main categories of parties were 1) low-income persons seeking affordable housing, 2) taxpayers from neighboring cities, claiming the lack of housing in Penfield caused their cities to provide tax incentives for the construction of similar housing, increasing the neighboring cities’ tax burdens, 3) Metro-Act, a local action group, claiming that the refusal to build low income housing prevented those with low to moderate incomes from living in the town of Penfield, and 4) real estate developers who missed out on projects for the construction of low to moderate income housing because of the zoning rules.
+
+Issue
+Have the zoning rules in Penfield, NY caused the injuries of which these plaintiffs complain and if so, what is the remedy?
+
+Held
+None of the plaintiffs have standing to bring this action against the city of Penfield, NY. None of the plaintiffs provided evidence sufficient to show that “but for” the city’s zoning rules, their respective injuries would not have occurred. Further, any redress of potential injury was too vague and not sufficiently concrete to meet the applicable standing requirements.
+
+Dissent
+Lead by Justice William Brennan (J. Brennan), the dissent did not agree with the majority’s ruling as to the evidence necessary to demonstrate causation. The dissenting judges strongly disagreed with the majority’s requirement that the plaintiffs show that a specific project had been blocked by the zoning rules. They felt that it was sufficient that the town would not approve any low to moderate income housing projects. The dissent also argued that the plaintiffs only needed to show a reasonable probability (as opposed to a substantial probability) of redress to establish standing.
+
+Discussion
+The Supreme Court applied a two-part test in analyzing the standing doctrine’s causation requirement when pursuing a claim against a government entity. First, the moving party must demonstrate that “but for” the challenged action, there would not have been an injury. Second, the plaintiff(s) must show that a decision by the Court will redress the injury. Whether the probability of redress must be reasonable or substantial is determined on a case by case basis.
+

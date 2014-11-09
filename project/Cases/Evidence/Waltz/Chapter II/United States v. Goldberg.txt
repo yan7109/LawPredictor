@@ -1,0 +1,21 @@
+Citation
+538 F.3d 280 (3d Cir. 2008) [2008 BL 165634]
+
+Brief Fact Summary
+The defendant owned several businesses around the Logan Airport area of Boston.  He hired two people to aid him in opposing a tunnel project which threatened to adversely affect those businesses.  All three were indicted for conspiracy to commit tax related fraud against the United States government in connection with those activities.
+
+Synopsis of Rule of Law
+A co-conspirator takes the conspiracy as he finds it, and becomes responsible for all aspects of the conspiracy.  As a result, statements made by a co-conspirator prior to his joining the conspiracy may be admitted under Federal Rule of Evidence (”F.R.E.”) Rule 801(d)(2)(E), the co-conspirator exception to the hearsay rule, even if made prior to joining the conspiracy.
+
+Facts
+The defendant owned a parking lot near Logan Airport.  When he learned that the state was planning to take the land on which it sat in connection with a building project, he hired two lobbyists to assist him in opposing the project.  With each of the two, defendant engaged in various illegal payment activities, resulting in a loss of tax revenue to the Internal Revenue Service (”I.R.S”).  Two conspiracies were alleged, each involving the defendant and one of the two lobbyists.
+
+Issue
+Whether out of court statements made during a conversation between the defendant and one of the lobbyists admitting one of the payment schemes was properly admitted under F.R.E Rule 801(d)(2)(E)?
+
+Held
+Yes.  Even though Lango was not yet a member of the conspiracy when the statements are made, the majority view on the co-conspirator exception to the hearsay rule is that those who join a conspiracy “take the conspiracy as they find it” and become responsible for everything it contains upon joining.
+
+Discussion
+The co-conspirator exception to the hearsay rule is not in accord with most other exceptions in the F.R.E.  Many courts hold that it provides no greater guarantee of trustworthiness then does hearsay, and that it is designed more to aid in convicting people of otherwise hard to detect crimes.  Despite this general criticism, however, many courts, including the First Circuit here, construe the exception broadly.
+

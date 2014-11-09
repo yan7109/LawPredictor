@@ -1,0 +1,21 @@
+Citation
+2001 UT 9, 20 P.3d 300
+
+Brief Fact Summary
+In two separate prosecutions, Smith and Clark were charged with forgery.  In each case, the charges were based on allegations that the defendants attempted to cash a stolen check and, after the bank didn’t comply, each left the bank.  In each case, the magistrate found cause and bound the defendants for trial.  The district court quashed the bindovers stating that the state failed to meet its evidentiary burden, and the state brought appeal.
+
+Synopsis of Rule of Law
+If a prosecutor can show a reasonable belief that a defendant committed a crime, that is sufficient for cause to bind a defendant for trial.
+
+Facts
+This is the consolidation of two separate prosecutions:
+
+Issue
+Whether the district court judges erred in quashing the magistrates’ findings that probable cause to bind Smith and Clark existed.
+
+Held
+Reversed.  In its holding, the Court found that holding a magistrate to a higher probable cause standard, such as that needed for directed verdict, was too much.  Instead, in the standard for probable cause at both the arrest warrant and preliminary hearing stages should imbue the prosecution with the burden of presenting sufficient evidence to support a reasonable belief that an offense has been committed and that the defendant committed it.
+
+Discussion
+This case stands for the notion that a magistrate should not be held to a “beyond a reasonable doubt” standard in determination of bindover decisions, but rather a “reasonable belief” standard is sufficient to hold a defendant for trial.
+

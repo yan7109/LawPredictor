@@ -1,0 +1,24 @@
+Citation
+507 U.S. 349 (1993)
+
+Brief Fact Summary
+The suit Nelson (P) filed against Saudi Arabia (D) for wrongful arrest, imprisonment and torture was contended by the defendant who claimed foreign sovereign immunity from the subject matter jurisdiction of the federal courts.
+
+Synopsis of Rule of Law
+Unless the action is based upon a commercial activity in the manner of a private player within the market, foreign states are entitled to immunity from the jurisdiction of courts in the United States.
+
+Facts
+Nelson (P), a monitoring system engineer at a hospital in Riyadh, Saudi Arabia, was recruited in the United States for employment. Upon discovery of safety defects in the hospital’s oxygen and nitrous oxide lines, Nelson (P) disclosed this to the hospital officials as well as the Saudi government (D) commission. Several months after Nelson (P) was told by the hospital officers to ignore the problems, he was called into the hospital’s security office and arrested.
+
+Issue
+Unless the action is based upon a commercial activity in the manner of a private player within the market, are foreign states entitled to immunity from the jurisdiction of courts in the United States?
+
+Dissent
+(Stevens, J.) Jurisdiction would be upheld on the premise that the same activities had been performed by a private business.
+
+Concurrence
+(White, J.) the hospital’s employment practices and its disciplinary procedures have no clear connection to the country. The Act does not grant the Nelsons (P) access to the U.S. courts because of the absent nexus to the United States.
+
+Discussion
+When comparing “restrictive” to “absolute” theory of foreign sovereign immunity, a state is immune from the jurisdiction of foreign courts as to its sovereign or public acts but not as to those that are private or commercial in character. Where a state exercises only those powers that can also be exercised by private citizens, as distinct from those powers peculiar to sovereigns, such state is said to be engaging in commercial activity under the restrictive theory. The Act unmistakable commands to observe the distinction between the purpose of a conduct and its nature is recognized by the Court.
+

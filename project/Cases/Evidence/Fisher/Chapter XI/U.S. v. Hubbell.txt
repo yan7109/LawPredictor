@@ -1,0 +1,21 @@
+Citation
+530 U.S. 27, 120 S. Ct. 2037, 147 L. Ed. 2d 24, 2000 U.S.
+
+Brief Fact Summary
+Webster Hubbell (Respondent) was indicted for fraud and tax charges as a result of Respondent’s turning over of certain documents to a special prosecutor; the documents were turned over pursuant to a subpoena that purported to give Respondent immunity.  Originally, Respondent had refused to produce the documents, invoking his Fifth Amendment privilege against self-incrimination, but after the subpoena was issued claiming to give Respondent immunity, Respondent produced the documents.  The Supreme Court granted certiorari to determine whether the use of those documents to indict Respondent was in violation of federal law.
+
+Synopsis of Rule of Law
+When an Independent Counsel uses certain subpoenaed documents, produced pursuant to a grant of immunity, in its investigation and then indicts the witness that produced the documents, it is a violation of the Fifth Amendment’s self-incrimination clause, especially when, “all of the evidence [the Independent Counsel] would offer against respondent at trial derived either directly or indirectly from the testimonial aspects of respondent’s immunized act of producing the documents.”
+
+Facts
+Respondent was served with a subpoena that requested documents related to the investigation of the Whitewater Development Corporation.   Respondent invoked his Fifth Amendment privilege against self-incrimination and refused to acknowledge that he had the documents requested.
+
+Issues
+When a witness produces incriminating documents pursuant to a grant of immunity, may the government then use those documents to prepare criminal charges against the witness? Does the Fifth Amendment privilege against compelled self-incrimination protect a witness from being compelled to disclose whether certain documents are in the witness’s possession, when the government cannot describe the documents with reasonable particularity?
+
+Held
+No; the government may not use the documents to prepare criminal charges against such a witness, unless the government, “proves that the evidence it used in obtaining the indictment . . . from derived from legitimate sources ‘wholly independent’ of the testimonial aspect of respondent’s immunized conduct in assembling and producing the documents.”  Since here the indictment was based on Respondent’s production of the documents, the government’s actions were in violation of federal law. Yes; since the act of producing such documents has a testimonial effect with respect to the existence and location of the documents sought, the Fifth Amendment privilege against compelled self-incrimination does protect a witness such as Respondent.<span class='heading'>Dissent.</span> Chief Justice Rehnquist dissented, citing Judge Williams’s dissenting opinion in the Court of Appeals’ analysis of the case.<br /><br /><span class='heading'>Concurrence.</span> Justices Thomas (writing) and Scalia concurred, but wrote separately to, “note that [the majority's reasoning] may be inconsistent with the original meaning of the Fifth Amendment’s Self-Incrimination Clause.”  Specifically, the concurring opinion dissected the term “witness” as used in Compulsory Process Clause and the Self-Incrimination Clause, and argued that, “this Court’s recent Fifth Amendment act-of-production cases implicitly rest upon an assumption that this term has different meanings in adjoining provisions of the Bill of Rights.”<br />
+
+Discussion
+The Court explained its reasoning by writing that:
+

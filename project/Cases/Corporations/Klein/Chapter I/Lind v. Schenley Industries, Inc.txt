@@ -1,0 +1,24 @@
+Citation
+278 F.2d 79 (3d Cir. 1960)
+
+Brief Fact Summary
+Plaintiff, Dan Lind, sought recovery for lost wages and moving expenses from his employer-Defendant, Schenley Industries, Inc., when Defendant did not honor a salary agreement between Plaintiff and his immediate supervisor.
+
+Synopsis of Rule of Law
+Apparent authority arises when “a principal acts in such a manner as to convey the impression to a third party that an agent has certain powers which he may or may not actually possess,” and damages arising from this relationship are most likely available when a third person changes his position in reliance on the manifestation of this authority.
+
+Facts
+Plaintiff worked for Defendant company in New Jersey.  A vice-president and general sales manager promoted Plaintiff to assist Kaufman, the sales manager for New York.  Plaintiff was instructed to talk to Kaufman about his new duties and salary.  Kauffman told Plaintiff that he would assume the new title of “District Manager” and would be entitled to a 1% commission from sales by employees underneath Plaintiff, essentially quadrupling Plaintiff’s salary.  Plaintiff was also told by an administrative assistant that he would be reimbursed for moving expenses.  The raise and the moving expenses never materialized, and Defendant maintained that Kaufman never had the ability to issue a raise or moving expenses.  A jury awarded the damages but the trial judge reversed.
+
+Issue
+The issue is whether Kaufman had an apparent authority to approve a salary increase that Plaintiff could rely upon.
+
+Held
+There was enough evidence for a jury to conclude that an agency relationship was established that gave Kaufman the apparent authority to restructure Plaintiff’s salary.  The vice-president told Plaintiff to see Kaufman concerning his salary, and Kaufman was Plaintiff’s direct supervisor and acted as an unofficial spokesman for the company when dealing with Plaintiff.  Further, there was evidence that the vice-president agreed to the commission and salary structure.  Plaintiff was also allowed to receive moving expenses because it was proper to rely upon the administrative assistant because Plaintiff could not be expected to verify with the vice-president every decision made by others.
+
+Dissent
+The dissent agrees with reversing the trial judge, but believed that a new trial should have been ordered.
+
+Discussion
+There was enough evidence to establish inherent authority because the vice-president instructed Plaintiff to see Kaufman for salary issues.  The court elaborated further on why apparent authority existed, and noted that facts could support both
+

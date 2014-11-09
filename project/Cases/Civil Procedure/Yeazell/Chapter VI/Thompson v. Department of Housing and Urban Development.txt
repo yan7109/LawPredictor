@@ -1,0 +1,21 @@
+Citation
+199 F.R.D. 168, 2001 U.S. Dist. 2853
+
+Brief Fact Summary
+The Plaintiffs, Thomson and others (Plaintiffs), were class representatives of African American residents of Baltimore’s public housing developments against various defendants including, the United States Department of Housing and Urban Development and its’ secretary (the Federal Defendants) and the Housing Authority of Baltimore City (HABC) its executive director and the Mayor and City Council of Baltimore (Local Defendants). Plaintiffs filed a motion to compel discovery of the Local Defendants.
+
+Synopsis of Rule of Law
+The 2000 rule changes to the Federal Rules of Civil Procedure (FRCP) limit discovery to unprivileged facts relevant to the claim or defense of any party, unless the court determines that there is good cause to permit broader discovery relevant to the subject matter of the action, but not more directly connected to the particular claims and defenses. The rule changes additionally require that discovery of inadmissible facts, which appear reasonably calculated to lead to the discovery of admissible evidence also must be within the scope of permissible discovery.
+
+Facts
+Plaintiffs were class representatives of African American residents of Baltimore’s public housing developments. They filed suit in January 1995 against the Federal Defendants and the Local Defendants. The class action lawsuit alleged that the Federal Defendants and the Local Defendants and their predecessors, from 1933 through the present, established and perpetuated de jure racial segregation in Baltimore’s public housing.  In the spring of 1996, the parties entered into a partial consent decree that settled certain claims against the Federal Defendants and the Local Defendants. However, in mid-2000, the Plaintiffs initiated discovery against the Federal Defendants and the Local Defendants. Pending before the district court was the Plaintiffs’ motion to compel discovery of the Local Defendants.
+
+Issue
+How broad the scope of discovery was to be construed following rule changes to the FRCP in 2000.
+
+Held
+The Plaintiffs’ motion to compel discovery was denied without prejudice.   FRCP Rule 26(b)(2) permits a court to deny discovery requests where the burden or expense of the proposed discovery outweighs its likely benefit, taking into account (i) the needs of the case; (ii) the amount in controversy; (iii) the parties’ resources; (iv) the importance of the issues at stake in the litigation and (v) the importance of the proposed discovery in resolving the issues. The court may act upon its own initiative pursuant to a motion to limit discovery under Rule 26(c)     In making a decision, the court makes a costs-benefits analysis taking into account (i) the burden or expense associated with the requested discovery; (ii) the likely benefit to the requesting party of the challenged discovery; (iii) the needs of the case; (iv) the amount in controversy; (v) the parties resources; (vi) the importance of the issues at stake in the litigation and (vii) the importance of the proposed discovery in resolving the issues. These factors restrict the scope of discovery to unprivileged facts relevant to the claim or defense of any party, unless the court determines that there is good cause to permit broader discovery relevant to the subject matter of the action, but not more directly connected to the particular claims and defenses. They additionally require that discovery of inadmissible facts that appear reasonably calculated to lead to the discovery of admissible evidence also must be within the scope of permissible discovery.  While the pleadings will be important, it would be a mistake to argue that no fact may be discovered unless it directly correlates with a factual allegation in the complaint or answer. Such a restrictive approach would run counter to the underlying purpose of the rule changes
+
+Discussion
+Essentially here, the court is attempting to determine how broadly to permit discovery in light of the 2000 rule changes to the FRCP restricting the scope of discovery. In so doing, the court then applies a cost benefit analysis whereby discovery will be denied if its burden on the opposing party outweighs the benefit to the moving party.
+

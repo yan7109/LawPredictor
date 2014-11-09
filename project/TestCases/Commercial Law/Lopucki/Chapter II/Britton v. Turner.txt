@@ -1,0 +1,21 @@
+Citation
+6 N.H. 481, 1834 N.H. 48
+
+Brief Fact Summary
+Britton (Plaintiff) brought an action of assumpsit for work and labor performance of the Plaintiff in servicing Turner (Defendant). Defendant appeals from a judgment allowing the Plaintiff to recover for work and labor performed.
+
+Synopsis of Rule of Law
+A plaintiff may recover in quasi-contract when the performing party did not render substantial performance.
+
+Facts
+Plaintiff contracted to work for one year for the Defendant where he would be paid $125.00 at the end of employment for services rendered. The contract explicitly stated that payment would be given at the end of the year. Plaintiff ceased working after nine and a half months and did not receive any compensation from the Defendant. There was no evidence that the Defendant suffered any damages as a result of Plaintiff’s departure. The trial court held that the Plaintiff was allowed to recover under is quantum meruit claim for the reasonable value of the labor he performed for the Defendant. Defendant appealed.
+
+Issue
+Whether the Plaintiff can recover for services rendered when the performing party did not deliver substantial performance?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+Quasi contract recovery is available even if the court concludes that the performing party did not render substantial performance, there is still the possibility for recovery in quasi contract for the reasonable value of benefits conferred. The majority rule holds that when the breaching party rendered only part performance under a contract and such performance does not fall with in the doctrine of substantial performance there is no recovery. The minority rule allows recovery for reasonable value of the benefits conferred less any damages arising from the breach.
+

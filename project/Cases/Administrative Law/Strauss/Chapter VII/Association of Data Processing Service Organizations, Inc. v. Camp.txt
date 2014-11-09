@@ -1,0 +1,21 @@
+Citation
+397 U.S. 150, 90 S. Ct. 827, 25 L. Ed. 2d 184 (1970)
+
+Brief Fact Summary
+Association of Data Processing Service Organizations, Inc. (Petitioners) sold data processing to businesses generally. Petitioners challenged a ruling by the Comptroller of Currency (Respondent) allowing national banks to make data processing available to other banks and bank customers as an incident to their banking services. The District Court dismissed the complaint for lack of standing to bring suit.
+
+Synopsis of Rule of Law
+The “zone of interests” test for standing requires that the interest sought to be protected be the sort of interest the statute was designed to protect.
+
+Facts
+Section:4 of the Bank Service Corporation Act of 1962 (Act) provides: “No bank service corporation may engage in any activity other than performance of bank services for banks.” A prior case by the Court of Appeals for the First Circuit interpreted Section:4 broadly as sufficient statutory aid to provide standing for another data processing company to contest the legality of a national bank performing data processing services.
+
+Issue
+Was judicial review of the Comptroller’s decision precluded?   Did the Petitioner allege that the challenged action caused injury in fact?  Was judicial review of the Comptroller’s decision precluded?
+
+Held
+Reversed and Remanded.   Petitioners satisfied the injury test, not only through their allegations that competition by national banks would entail a future loss of profits, but also with proof that the American National Bank and Trust Company was servicing two of Petitioners’ prior customers.  Yes. Section:4 arguably brought bank competitors within the zone of interests the statute was designed to protect. There was no evidence that Congress sought to preclude judicial review of administrative rulings by the Comptroller as to the legitimate scope of activities available to national banks under the Bank Service Corporation Act or the National Bank Act. The statutes were both clearly relevant within the meaning of APA Section:702. Petitioners had standing to sue.   Dissent. None.  Concurrence. None.
+
+Discussion
+The Court’s interpretation of APA Section:702 reference to a “relevant statute” to mean the substantive terms of the agency’s statute, rather than the terms of any special   review provisions specifically targeted at standing, conferred standing upon Petitioners that they would not have had under the traditional interpretation of the section.
+

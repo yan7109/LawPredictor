@@ -1,0 +1,21 @@
+Citation
+22 Ill.5 Kan. 146 (1869)
+
+Brief Fact Summary
+Plaintiff sued Defendant for false imprisonment and slander, alleging Defendant accused Plaintiff of stealing and that Defendant arrested Plaintiff for no reason. Defendant moved to dismiss on the grounds that the claims were improperly joined, which the District Court denied. Defendant appealed.
+
+Synopsis of Rule of Law
+When claims arise from the same event or events, as opposed to the same circumstance giving rise to the legal claim, this is considered the same transaction or transactions and such claims can be joined. This rule is contrary to the common law rule that requires that claims can be joined if the same circumstance (i.e., what caused the injury) gave rise to two claims in different categories (injury to person, injury to character, contract, etc.).
+
+Facts
+Plaintiff Avery sued Defendant Harris for false imprisonment and slander. The two causes of action were founded on the following facts: Defendant called Plaintiff a thief and stated that Plaintiff stole a horse in front of many people. Defendant took Plaintiff’s horse and arrested Plaintiff for no reason. Plaintiff was in jail for four or five days. Defendant demurred on the grounds that the two actions were improperly joined. The District Court overruled the demurrer. Defendant appealed.
+
+Issue
+Were Plaintiff’s claims of false imprisonment and slander improperly joined in one cause of action?
+
+Held
+No. Affirmed.
+
+Discussion
+This case illustrates that the Kansas code, like Rule 18 of the Federal Rules of Civil Procedure has a broad rule regarding joinder of claims. The case articulates the common law categorization of claims that often hindered joinder of claims in one action even though the claims were closely connected.
+

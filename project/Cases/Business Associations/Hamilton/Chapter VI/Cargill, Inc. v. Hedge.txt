@@ -1,0 +1,21 @@
+Citation
+Minn. Sup. Ct., 375 N.W.2d 477 (1985)
+
+Brief Fact Summary
+The Hedges (D) who own land via a family farm corporation, contend that the corporation’s corporate veil can be reverse pierced so that they can save their homestead exemption from their judgment creditor Cargill, Inc. (P).
+
+Synopsis of Rule of Law
+The corporate veil for a family farm corporation may be reversed pierced on land in the corporation to save homestead exemption from judgment creditors.
+
+Facts
+Sam (D) and Annette Hedge (Hedges) (D) owned a 160-acre farm assigned to their corporation, Hedge Farm, Inc., with Annette as sole shareholder (D). For years, Sam regularly purchased supplies and services on account from Cargill, Inc. (P). Cargill (P) commenced suit on the account, and through it, the corporation. After an execution sale, Cargill (P) came out the successful bidder. Annette (D) intervened, and the trial court ruled the Hedges (D) had a homestead exemption of 80 acres. The appellate court affirmed and found that as sole shareholder, Annette (D) had an equitable interest in the property, which, combined with occupancy satisfied the requirements for homestead. The supreme court granted review.
+
+Issue
+May the corporate veil for a family farm corporation be reversed pierced on land in the corporation to save homestead exemption from judgment creditors?
+
+Held
+(Simonnet, J.) Yes. The corporate veil for a family farm corporation may be reversed pierced on land in the corporation to save homestead exemption from judgment creditors. The result reached by the trial and appellate court is correct. The approach taken by the appellate court however is not very applicable to the presented case. If Annette is the sole “owner” of Hedge Farm, Inc., a homestead exemption does not need to be asserted, as she is not the debtor. A reverse pierce of the corporate veil is however, applicable here. For the “piercing”, there must be a close identity between the individual and the corporation, dissolving the barriers between separate legal entities. It must also be considered if the “piercing” injures a third party. The Hedges had an almost alter ego relationship with their corporation to justify their piercing. Promoting the reverse piercing also promotes the homestead exemption policy, a positive in the court’s eyes. The corporation is therefore disregarded and the farm treated as though it were Co-owned by the Hedges (D). Sam (D) as the co-owner can claim the homestead exemption and void Cargill’s (P) execution sale of the 80 acres. Affirmed.
+
+Discussion
+A reverse piercing may be brought by either the corporate insider or one against the corporate insider. Either way, the corporation is dismissed so that the insider and the corporation are no longer separate legal entities. There is a danger that a debtor will use this approach to escape personal liability and put corporate assets out of a legitimate creditor’s reach. The court’s answer is to use great discretion when applying the reverse piercing doctrine.
+

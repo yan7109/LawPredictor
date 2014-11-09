@@ -1,0 +1,27 @@
+Citation
+494 F.3d 458 (4th Cir. 2007) [2007 BL 63922]
+
+Brief Fact Summary
+Goodman is suing a company for breach of contract and the defendant has since taken over the company.
+
+Synopsis of Rule of Law
+Rule 15C will allow amendments of pleadings and the relation-back doctrine to apply so long as the policies of the statutes of limitations have been effectively served.
+
+Facts
+Plaintiff Goodman was hired by Tracer Research Corp to detect fuel leaks. The U.S. Environmental Protection Agency will give exemptions from costly requirements as long as the products were not fuel additives under the regulations. After his work, the EPA sent a report to Tracer stating that 20 of its products were exempt. Goodman alleges he was only paid 30,000.00 and should have been paid 650,000.00 dollars. There was no due date or exact price of payment, but percentages and reasonableness standards. After the contract was completed, Praxair Services Inc acquired all the stock of Tracer and merged the company into Praxair Services. Praxair Servicers was wholly-owned subsidiary of Praxair Inc. Plaintiff upon learning this before filing his complaint filed against Praxair Inc. Praxair Inc filed dismissal motions stating they were not the entity responsible for Tracer contracts. Subsequently Goodman filed an amendment to add Praxair Services and the district court dismiss the case by not allow the relation-back doctrine to apply to the complaint which was barred by the statute of limitations.
+
+Issue
+Whether the case is properly barred by statute of limitations when an amendment was filed after that period.
+
+Held
+All breach of contract actions typically have a 3 year statute of limitation that will be enforced as an affirmative defense under Federal Rule of Civil Procedure 8(c). Here the defendants filed 12b motions stating it was clear from the face of the complaint that the amended complaint violated this limitation. The Court does note that sometimes this defense can be used under this rule, but that the District Court made an error in doing so. Parties are allowed to amend the complaint or answer to add and drop parties and claims throughout the case. However only in certain circumstances, those amendments will be allowed the relation-back doctrine. This allows the amended complaint or answer to have the date of the originally filed complaint or answer, avoiding a statute of limitations defense. In this situation the plaintiff realized he sued the wrong entity that took over the entity that he had contracted with. Upon realizing this, he filed an amended complaint to add the proper party. The defendants argue the state of mind of the plaintiff to whether he knew or should have known. However this court feels that there was a mistake made as to the correct defendant, and that defendant had notice that they could have or should be the real party to the suit. Therefore relating the amendment back to the date of the original filing is proper. Upon doing so, there is no dismiss motion and the case will go forward.
+
+Dissent
+
+
+Concurrence
+While it is true you can not tell from the face of the complaint whether statute of limitation has run, there are certain mistakes that should not be allowed. If a plaintiff can always amend complaints freely and have the relation back doctrine apply it will mean that they will not do their homework before filing the complaint.
+
+Discussion
+The defendants spend much of the argument on the words “but for a mistake” while many courts are split on the interpretation of those words it would do more harm that good in making mistakes such a narrow interpretation. Clearly when the plaintiff sued the wrong Praxair entity it was a mistake.
+

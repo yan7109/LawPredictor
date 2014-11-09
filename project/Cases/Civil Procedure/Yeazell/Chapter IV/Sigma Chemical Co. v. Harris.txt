@@ -1,0 +1,21 @@
+Citation
+855 F.2d 856; 1988 U.S. App. 12451
+
+Brief Fact Summary
+Defendant Foster Harris, a former employee, violated a non- competition agreement with Plaintiff Sigma when he went to work for a rival of Plaintiff, sharing Plaintiff’s trade secrets with them.
+
+Synopsis of Rule of Law
+Permanent injunctive relief is an appropriate remedy where the plaintiff is being threatened by some injury for which he has no adequate legal remedy
+
+Facts
+Plaintiff was a Missouri corporation selling fine chemicals used in research. Defendant went to work for Plaintiff in 1979, after signing an agreement that he would not work for a competitor for two years after leaving Plaintiff and even after that period would not disclose any confidential information acquired from Plaintiff.Defendant accepted a job with ICN and began employment in 1983. He used information acquired during his employment at Sigma to aid ICN
+
+Issue
+Determining when permanent injunctive relief is a justifiable remedy.
+
+Held
+The court determined that Plaintiff was entitled to permanent injunctive relief, finding that the threat of harm to Plaintiff if an injunction were not granted greatly outweighed the threat of harm to Defendant if an injunction were granted.   Permanent injunctive relief is an appropriate remedy where the plaintiff is being threatened by some injury for which he has no adequate legal remedy.
+
+Discussion
+Guiding the Court’s decision here is the belief that injunctive relief can only be applied where the hardship to the plaintiff if relief is denied is greater than the hardship to the defendant if relief is granted. Thus, because the court found that Plaintiff planned to lose part of a competitive edge and trade secrets it had taken over forty years to develop, while the potential harm to Defendant was slight given that other former employees of Plaintiff have gone on to find work without great difficulty, injunctive relief was appropriate.
+

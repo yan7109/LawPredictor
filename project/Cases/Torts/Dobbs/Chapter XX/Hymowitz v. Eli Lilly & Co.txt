@@ -1,0 +1,24 @@
+Citation
+493 U.S. 944, 110 S. Ct. 350, 107 L. Ed. 2d 338 (1989)
+
+Brief Fact Summary
+The Appellate Division of the Supreme Court in the First Judicial Department (New York) denied summary judgment to Defendants, drug manufacturers in products liability action arising from injuries plaintiffs suffered as result of plaintiffs’ mothers’ use of diethylstilbestrol (DES) during pregnancy. The manufacturer appealed.
+
+Synopsis of Rule of Law
+Where identification of the manufacturer of a drug that injures a plaintiff is impossible, New York courts will apply a market share theory, using a national market, to determine liability and apportionment of damages.
+
+Facts
+The Food and Drug Administration approved the manufacture and marketing of the drug diethylstilbestrol (DES) in 1941 for use as a generic drug in the prevention of miscarriages. Approximately 300 companies manufactured the drug, and as it was generic no single company held patent. It was found later that DES created a high risk of vaginal cancer in some female children of women who had used the drug. Because so many companies manufactured and marketed the drug, over several years and for varying lengths of time, it was often impossible for potential plaintiffs to identify exactly which company had manufactured the particular batch that the plaintiff had ingested.
+
+Issue
+What is the method to be employed to apportion liability in a products liability case involving a generic drug when it is impossible to determine which manufacturer produced the drug that caused the harm suffered by plaintiffs?
+
+Held
+The court affirmed the lower courts’ denial of summary judgment and adopted a national market-share theory for apportioning liability.
+
+Dissent
+In dissent, New York Court of Appeals Judge Mollen writes, “I respectfully disagree with the majority’s conclusion that there should be no exculpation of those defendants who produced and marketed DES for pregnancy purposes, but who can prove, by a preponderance of the evidence, that they did not produce or market the particular pill ingested by the plaintiff’s mother,” but instead “would retain the principle of imposing joint and several liability upon those defendants which cannot exculpate themselves.” Mollen believes that the majority’s approach “I would retain the principle of imposing joint and several liability upon those defendants which cannot exculpate themselves.” Thus, he dissents.
+
+Discussion
+The modern template for the adjudication of products liability claims was provided in MacPherson v. Buick Motor Co., 111 N.E. 1050 (N.Y. 1916), where the New York Court of Appeals held that the manufacturer of any negligently manufactured product capable of serious harm owed a duty of care in the design, inspection, and fabrication of the product, a duty owed not only to the immediate purchaser but to all persons who might foreseeably come into contact with the product. The DES case, however, presented a unique problem: the identification, for purposes of determining liability, of the exact manufacturer responsible for the plaintiffs’ harm.
+

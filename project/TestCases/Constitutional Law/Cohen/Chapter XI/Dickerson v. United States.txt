@@ -1,0 +1,24 @@
+Citation
+22 Ill.556 U.S. 1288, 129 S. Ct. 2782, 174 L. Ed. 2d 282 (2009) [2009 BL 122541]
+
+Brief Fact Summary
+Petitioner Dickerson was indicted for bank robbery and other crimes prohibited by 18 U.S.C. Before trial, Petitioner attempted to suppress a statement he made before being given his Miranda warnings. The United States (Respondent) believes that his statements are admissible under 18 U.S.C. Section: 3501, which was passed following Miranda and allows into evidence statements before being presented with one’s rights following arrest if the statement is given voluntarily.
+
+Synopsis of Rule of Law
+Congress cannot legislatively override a decision by the Supreme Court concerning an interpretation of the Constitution.
+
+Facts
+Following Miranda v. Arizona, 384 U.S. 436 (1966), Congress enacted 18 U.S.C. Section: 3501, which states that admissibility of statements made before being told of their rights following arrest should turn only on whether they were voluntarily given. Petitioner was indicted for bank robbery, conspiracy to commit bank robbery, and use of a firearm in the course of committing a crime of violence. All are violations of Title 18 of the United States Code. Before trial, Petitioner moved to suppress a statement he made at an FBI field office, on the grounds that he never received his Miranda warnings before interrogation. The District Court granted Petitioner’s motion to suppress these statements, but the Court of Appeals for the Fourth Circuit reversed in holding that Miranda was not a constitutional holding and therefore Congress could by statute have a final say on the question of admissibility.
+
+Issue
+Whether Congress had the authority to pass 18 U.S.C. Section: 3501, which limits the Court’s decision in Miranda, to allow statements prior to being presented with their Miranda rights if those statements are given voluntarily?
+
+Held
+No. Congress cannot legislatively override a Supreme Court’s decision concerning an interpretation of the United States Constitution. Therefore, Miranda, being a constitutional decision of the Supreme Court, may not be in effect overruled by an Act of Congress, and furthermore, the Court declines to overrule Miranda itself. Whether or not the Court now agrees with Miranda’s reasoning, the principles of stare decisis weigh heavily against overruling it now. Furthermore, there is no justification for overruling Miranda as it has been imbedded in our national culture, and in fact subsequent cases have reduced the impact of the Miranda rule on law enforcement. Congress, on the other had intended by its enactment of 18 U.S.C. Section: 3501 to supersede Miranda. But as Congress has no authority to legislatively supersede the decisions of the Supreme Court in interpreting the Constitution. Miranda is a constitutional decision in that both Miranda and two of its companion cases applied the ru
+
+Dissent
+Feels that this decision is not a reaffirmation of Miranda, but a radical revision of the most significant element of Miranda; the rationale that gives it a permanent place in our jurisprudence. The dissent also believes that Miranda represents an illegitimate exercise of the Supreme Court’s authority to review state-court judgment, and therefore does not agree with the decision of the majority.
+
+Discussion
+This case stands for the idea that Congress cannot legislatively override an interpretation of the United States Constitution. While the Supreme Court in this case hints that only The Supreme Court can override a prior decision of the Court, they omit the fact that a Constitutional Amendment could also override the Court’s decision. This case represents the idea of constitutionality in its purest form, and describes the effects of a Supreme Court’s decision concerning constitutional issu
+

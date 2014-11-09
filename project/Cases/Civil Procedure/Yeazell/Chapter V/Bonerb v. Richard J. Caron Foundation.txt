@@ -1,0 +1,21 @@
+Citation
+159 F.R.D. 16, 1994 U.S. Dist. 18407
+
+Brief Fact Summary
+The Plaintiff, Bonerb (Plaintiff), sought damages for personal injuries sustained when he slipped and fell while playing basketball on the Defendant, Richard J. Caron Foundation’s (Defendant) recreational basketball court. The Plaintiff, suing in diversity, was a New York resident, while the Defendant was a non-profit corporation licensed and doing business in Pennsylvania.
+
+Synopsis of Rule of Law
+Even if an amendment to a complaint changes the legal theory of a case, then the amendment will relate back to the original complaint so long as the original complaint states the same general facts that a purported amended claim is based on, even though it would otherwise be barred by the statute of limitations.
+
+Facts
+In a diversity action, Plaintiff, a New York resident, alleged that he was injured while he was a rehabilitation patient at the Defendant’s Westfield, Pennsylvania facility. Defendant is a non-profit rehabilitation agency licensed and doing business in Pennsylvania. Plaintiff sought damages related to a slip and fall accident while he was playing basketball on Defendant’s recreational basketball court. Plaintiff alleged that while he was a rehabilitation patient at Defendant’s Westfield facility, he was participating in a mandatory exercise program. Plaintiff claimed that the Defendant negligently maintained the basketball court. The district court granted Plaintiff’s motion for substitution of new counsel. One month later, Plaintiff moved to amend his complaint to add a new cause of action for “counseling malpractice.” Plaintiff’s new attorney alleges that investigations undertaken since he became Plaintiff’s attorney, indicate to him that a malpractice claim is appropriate. Defendant objected on the grounds that the malpractice claim does not relate back to the original pleading and was therefore barred by Pennsylvania’s two-year statute of limitations.
+
+Issue
+Whether an amendment to a complaint that changes the legal theory of a case may relate back to the date of the original pleading under Federal Rule of Civil Procedure Rule 15(c)
+
+Held
+Yes. The court overruled the Defendant’s objection and granted the Plaintiff’s motion to amend his complaint.   An amendment to a complaint that seeks to add a time-barred claim is futile and should not be allowed to relate back to the date of the original filing, under FRCP Rule 15(c) unless the otherwise untimely claim “relates back” to the date of the original pleading. In determining whether a claim relates back, courts look to the “operational facts” set forth in the original complaint to determine whether the defendant was put on notice of the claim that the plaintiff later seeks to add. Thus, if the litigant has been advised at the outset of the general facts from which the belatedly    asserted claim arises, the amendment will relate back even though the statute of limitations may have run in the interim.  Even an amendment which changes the legal theory of the case is appropriate if the factual situation upon which the action depend remains the same and has been brought to the defendant’s attention by the original pleading.
+
+Discussion
+In reaching its decision, the court noted that the relation back doctrine is based upon the principle that one who has been given notice of litigation concerning a given transaction has been provided with all the protection that statutes of limitation are designed to afford. Thus, because the court found that both claims arose from the same set of facts, i.e. the injury suffered by Plaintiff at Defendant’s facility on November 29, 1991, then Defendant was given sufficient notice of possible future related clai
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.470 U.S. 373, 105 S. Ct. 1327, 84 L. Ed. 2d 274 (1985)
+
+Brief Fact Summary
+The Plaintiffs, two orthopedic surgeons (Plaintiffs), sued the Defendant, the American Academy of Orthopaedic Surgeons (Defendant) alleging they were refused membership in the Academy without a hearing. In the course of discovery, the Plaintiffs asked the Defendant for correspondence and other documents relating to the denial of applications from 1970-1980. Despite a federal court order which would protect the confidentiality of the documents, the Defendant refused to comply and was held in criminal contempt.
+
+Synopsis of Rule of Law
+A motion made under Federal Rule of Civil Procedure (FRCP) Rule 26(c) to limit discovery requires the court to use discretion in balancing the nature of the hardships to the parties and the effect of its magnitude. This gives more weight to interests that have more social value than to purely private interests. In doing so, the court must consider the possibility of reconciling the competitive interests through a carefully crafted protective order.
+
+Facts
+The Plaintiffs sued in state court alleging they were refused membership to the Defendant’s organization without a hearing. The state court dismissed the complaint finding that membership in the Academy was not an “economic necessity,” and therefore no valid state law claim was made. Plaintiffs then sued in federal court stating violations of antitrust laws. During the course of discovery, Plaintiffs demanded production by Defendant of correspondence and other documents relating to denials of membership from 1970-1980. The federal district court ordered Defendant to produce the documents pursuant to an order protecting their confidentiality. Defendant refused to comply with the order and was held in criminal contempt and fined $10,000. Defendant appealed.
+
+Issue
+Whether the files of voluntary organizations are discoverable in appropriate circumstances, subject to appropriate safeguards.
+
+Held
+Yes. Here the discovery order issued by the district court judge was erroneous and did not safeguard the confidentiality of Defendant’s files thoroughly.
+
+Dissent
+The federal district court did not abuse its discretion with regard to the protective order through reliance on the state court in camera review of the files.
+
+Discussion
+Under FRCP Rule 26, federal district judges have broad powers and correlative responsibilities with respect to managing complex litigation. There were many ways the district court judge could have prevented Plaintiff from abusing the discovery process, without denying them any information essential to developing their case. Citing a few suggestions, the district court could have done an in camera inspection of the files and redacted names and certain information or required Plaintiff to complete other nonsensitive discovery first.
+

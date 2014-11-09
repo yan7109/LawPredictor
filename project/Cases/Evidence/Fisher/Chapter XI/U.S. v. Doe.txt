@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 1687
+
+Brief Fact Summary
+Doe (Respondent), the owner of several sole proprietorships, was served with five subpoenas by a grand jury; the subpoenas sought various business records from the sole proprietorships, including telephone records, bank statements, and listings of all business records.  Respondent filed a motion to quash the subpoenas, which the District Court for the District of New Jersey granted, except with respect to records that were required to be kept by law or to be disclosed to a public agency.  The Court of Appeals for the Third Circuit affirmed the order of the District Court, and the United States Supreme Court granted certiorari here.
+
+Synopsis of Rule of Law
+The Fifth Amendment privilege against compelled self-incrimination applies to the act of production of the business records of a sole proprietorship, but does not apply to the content of business records.
+
+Facts
+Respondent owned several sole proprietorships.  During a governmental investigation into possible corruption with the awarding of county and municipal contracts, Respondent was served with a total of five subpoenas.  The subpoenas sought telephone records, bank statements, cancelled checks, and lists of business records from Respondent’s businesses.
+
+Issues
+Does the Fifth Amendment privilege against compelled self-incrimination apply to the act of producing the business records of a sole proprietor’s business? Does the Fifth Amendment privilege against compelled self-incrimination apply to the content of the business records of a sole proprietor’s business?
+
+Held
+Affirmed in part and reversed in part.
+
+Dissent
+Justices Marshall (writing) and Brennan concurred in part and dissented in part, agreeing with the Court that the act of producing documents such as the ones at issue here could not be compelled absent a grant of immunity, and also stating that under the Fifth Amendment, “there are certain documents no person ought to be compelled to produce at the Government’s request.” (citations omitted).  This dissenting opinion only disagreed with the majority on a minor issue, writing that, “[i]nasmuch as the Court of Appeals’ judgment did not rest upon the disposition of [whether the Fifth Amendment protected the contents of the documents], this Court errs by reaching out to decide it.” Justice Stevens concurred in part and dissented in part, and argued that based on the Court’s holding, the Court of Appeals’ judgment should be affirmed in its entirety, rather than affirmed in part and reversed in part, as it was by the majority.  Specifically, Justice Stevens wrote, “[t]his Court’s opinion is entirely consistent with both the reasoning of the Court of Appeals and its disposition of the case.  This Court agrees that the subpoena directed to respondent should have been quashed
+

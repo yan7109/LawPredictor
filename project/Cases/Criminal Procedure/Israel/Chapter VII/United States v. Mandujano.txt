@@ -1,0 +1,21 @@
+Citation
+425 U.S. 564, 96 S. Ct. 1768, 48 L. Ed. 2d 212 (1976)
+
+Brief Fact Summary
+An undercover narcotics officer engaged the respondent, Mandujano (the “respondent”), in a negotiation to purchase an ounce of heroin for six hundred fifty dollars.  The transaction was never completed.  The respondent was then called before the grand jury, where he testified to his knowledge regarding the heroin traffic in San Antonio.  He was not given Miranda warnings before testifying.
+
+Synopsis of Rule of Law
+A witness called to testify before a grand jury need not be given Miranda warnings, and as a result statements made during a witness’s testimony need not be suppressed during any subsequent prosecution for perjury.
+
+Facts
+After the respondent was charged with perjury in relation to statements he made in front of the grand jury regarding his knowledge of the heroin traffic in San Antonio, the District Court suppressed the statements on the grounds that respondent had been a putative defendant and was entitled to Miranda warnings before testifying at the grand jury. The Court of Appeals affirmed.
+
+Issue
+Whether Miranda warnings must be given to a grand jury witness called to testify about criminal matters in which he may have been involved and whether, absent those warnings, false statements made to the grand jury must be suppressed in a subsequent prosecution for perjury?
+
+Held
+The plurality opinion holds that Miranda warnings need not be given to a person called to testify before the grand jury and that false statements given during that testimony need not be suppressed in a subsequent prosecution for perjury.
+
+Discussion
+In accordance with the Court of Appeals’ own precedent, the Supreme Court reversed the Court of Appeals in this matter, holding that the constitutional guarantee “related to the past, and does not endow the person who testifies with a license to commit perjury.”  The witness called before the grand jury may assert the Fifth Amendment privilege against self-incrimination, but may not assert that privilege in order to perjure himself.  Moreover, the custodial interrogation of a witness at the hands of the police and the questioning of a witness at a grand jury proceeding are not equivalent, obviating the need for Miranda warnings during the latter situation.
+

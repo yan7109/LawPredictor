@@ -1,0 +1,21 @@
+Citation
+396 U.S. 375 (1970)
+
+Brief Fact Summary
+Shareholders (Plaintiff) of Electric Auto-Lite Company (Auto-Lite) (Defendant) wanted to have a merger set aside due to Auto-Lite’s dissemination of purported deceiving proxy information.
+
+Synopsis of Rule of Law
+Where a significant, deceiving statement or omission is contained in a shareholders’ proxy solicitation, an adequate demonstration of causation betwixt the violation and the injury is shown where a shareholder showing that the proxy solicitation, not the deceitful statement, was a vital connection in effectuating the merger.
+
+Facts
+Electric Auto-Lite shareholders began suit the day prior to its annual shareholder meeting, hoping to enjoin a vote on a projected merger with Mergenthaler Linotype Company, based on a purported deceiving proxy statement. After the vote, the merger was approved.  Filing an amended complaint, the shareholders sought to have the merger set aside because of the misleading proxy statements which violated § 14(a) of the 1934 Act and Rule 14a-9. Mergenthaler possessed over 50% of Auto-Lite’s outstanding common stock before the merger, with American Manufacturing possessing one third of Mergenthaler’s outstanding stock, meaning American Manufacturing had actually been in control of Auto-Lite. The proxy materials suggested that shareholders authorize the projected merger while omitting the truth that all of Auto-Lite’s directors has been nominated by Mergenthaler, was misleading. The district court held this was a material omission and found that required casual association had been shown betwixt the § 14(a) violation and the shareholders damages. The court of appeals affirmed, finding that the omission was significant, reversing on the concern of causation. The court declared the dispositive issue to be if the merger was fair to minority shareholders, then the court could determine those shareholders would have authorized the merger anyway. The shareholders sought review.
+
+Issue
+Where a significant, deceiving statement or omission is contained in a shareholders’ proxy solicitation, does an adequate demonstration of causation betwixt the violation and the injury is shown where a shareholder showing that the proxy solicitation, not the deceitful statement, was a vital connection in effectuating the merger?
+
+Held
+(Harlan, J.) Yes. Where a significant, deceiving statement or omission is contained in a shareholders’ proxy solicitation, an adequate demonstration of causation betwixt the violation and the injury is shown where a shareholder showing that the proxy solicitation, not the deceitful statement, was a vital connection in effectuating the merger.  To move forward the rights of shareholders by giving them full disclosure of information about projected mergers is what § 14(a) of the 1934 Act was created for. Rule 14a-9 prevents any misleading or incorrect statements or omission of any significant fact in relation with a proxy solicitation.  Removing a corporations liability from a defective proxy statement founded on the fairness of the merger fudges the congressional objective behind the legislation. A misrepresentation or omission is “material” when it is found that the fact would have had influence over a reasonable shareholder’s vote. An extra requirement that the defect affect the coting process is not necessary. Reversed and remanded.
+
+Discussion
+The appropriate retrospective relief to be granted by the court to shareholders alleging a violation of § 14(a) and Rule 14a-9 for misleading or omission of substantial facts regarding proxy solicitation should be founded on elements similar to those in a case of illegality or fraud. The court may grant either equitable or financial relief or set aside the merger, but a remedy is not requisite. If plaintiffs can prove the distortion or omission connected directly to the terms of the merger, an accounting may be directed to decide if the shareholders received their expectancy interest. If the defect is unrelated to the merger, then the plaintiffs may recover damages to the degree they can show they were hurt by said transaction.
+

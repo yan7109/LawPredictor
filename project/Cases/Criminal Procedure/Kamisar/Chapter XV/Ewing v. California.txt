@@ -1,0 +1,24 @@
+Citation
+538 U.S. 11, 123 S. Ct. 1179, 155 L. Ed. 2d 108 (2003)
+
+Brief Fact Summary
+A defendant with an extensive criminal past was sentenced 25 to life after stealing golf clubs.
+
+Synopsis of Rule of Law
+A three strikes rule is constitutional if the sentence is “not grossly disproportionate [with the crime] and therefore does not violate the Eighth Amendment’s prohibition on cruel and unusual punishments.”
+
+Facts
+Petitioner Ewing had a substantial criminal history and was on parole when he was arrested for grand larceny after stealing three golf clubs from a sports store.  He was tried under California’s “three strikes” law.  The trial court took note of that substantial history, and sentenced him to 25 years to life under the law.
+
+Issue
+“[W]hether the Eighth Amendment prohibits the State of California from sentencing a repeat felon to a prison term of 25 years to life under the State’s “Three Strikes and You’re Out” law.”
+
+Held
+Yes.  The Supreme Court first referenced Harmelin v. Michigan, and the principle that the Eighth Amendment has a “narrow proportionality principle” applied to noncapital crimes.  There are four principles of proportionality review:  “the primacy of the legislature, the variety of legitimate penological schemes, the nature of our federal system, and the requirement that proportionality review be guided by objective factors.”  The Court differed to the California legislature on the relevant point.  On the last point, the Court compared “the gravity of the offense to the harshness of the penalty,” holding that  the theft, in combination with petitioner’s “long history of recidivism”, justified the “public safety interest” aspect of the sentence.
+
+Dissent
+Justice Stevens found the Eighth Amendment had a board proportionality principle. Justice Breyer found that the triggering crime was not sufficient.Concurrence.<br /> Justice Scalia found that the Eighth Amendment was aimed at modes of punishment, but concurred on stare decisis principles. Justice Thomas found that there was not proportionality principle, but concurred on stare decisis.
+
+Discussion
+“The Eighth Amendment
+

@@ -1,0 +1,24 @@
+Citation
+479 U.S. 272,107 S. Ct. 683,93 L. Ed. 2d 613,1987 U.S.
+
+Brief Fact Summary
+Title VII as amended by the PDA prohibits discrimination on the basis of pregnancy.  Petitioner brought suit claiming that a California law requiring employers to make a good faith effort to rehire workers after maternity leave treated pregnant workers disproportionately to other workers and was pre-empted by the federal law.
+
+Synopsis of Rule of Law
+A state law may provide more protection than a similar federal law so long as the state law is not inconsistent with the purposes of the federal law.
+
+Facts
+California’s Fair Employment and Housing Act (FEHA) prohibited discrimination in employment and housing.  California amended the statute to proscribe certain types of employment discrimination based on pregnancy.  Subdivision (b)(2) applied to employers subject to Title VII and required them to provide female employees unpaid pregnancy disability leave for up to four months.  Respondent Fair Employment and Housing Commission is authorized to interpret the FEHA, and interpreted it to require California employers to reinstate an employee returning from the pregnancy leave to the job previously held unless the position is no longer available due to business necessity.  If it is no longer available, the employer must make a reasonable, good faith effort to place the employee in a substantially similar job.
+
+Issue
+Does Title VII of the Civil Rights Act of 1964, as amended by the Pregnancy Discrimination Act of 1978, pre-empt a state statute that requires employers to provide leave and reinstatement to employees disabled by pregnancy.
+
+Held
+The California statute is not inconsistent with the purposes of the federal statute, therefore it is valid.
+
+Dissent
+Justice White.  The second clause of the PDA mandates that pregnant employees be treated the same, it leaves no room for preferential treatment of pregnant workers.
+
+Discussion
+The majority found that Title VII as amended by the PDA created a base requirement that pregnant workers be treated equally as other workers are treated.  They found that the California statute was an acceptable expansion of a pregnant worker’s rights not inconsistent with the purposes of the federal statute.
+

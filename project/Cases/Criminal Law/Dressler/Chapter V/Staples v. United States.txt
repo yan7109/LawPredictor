@@ -1,0 +1,24 @@
+Citation
+511 U.S. 600, 114 S. Ct. 1793, 128 L. Ed. 2d 608, 1994 U.S. 3773.
+
+Brief Fact Summary
+This case arose after agents of the Bureau of Alcohol, Tobacco and Firearms executed a search warrant at the Petitioner, Staple’s (Petitioner) home and discovered a modified, automatic, AR-15 rifle that had not been registered in the National Firearms and Transfer Record maintained by the Secretary of the Treasury, as required by the National Firearms Act (the Act).
+
+Synopsis of Rule of Law
+Where dispensing with mens rea would require the defendant to have knowledge only of traditionally lawful conduct, a severe penalty is a further factor tending to suggest that Congress did not intend to eliminate a mens rea requirement.
+
+Facts
+The AR-15 rifle that was taken by Alcohol Tobacco and Firearms agents had been modified to include several M-16 parts. The inclusion of the M-16 parts allowed the firearm in question to become interchangeable between semi-automatic, as was its intended use and automatic. The Petitioner testified that the firearm had never been operated automatically while in his possession. Further, the Petitioner testified that his ignorance of any automatic firing capability should have shielded him from criminal liability for failure to register the weapon. The District Court rejected the Petitioner’s proposed jury instruction to that effect and the Petitioner was subsequently sentenced to five years’ probation and a $5,000 fine. The Court of Appeals affirmed that decision. Furthermore, the statute at issue in this case is silent as to the mens rea required for a violation.
+
+Issue
+Are all guns, whether or not they are statutory firearms, dangerous devices that put gun owners on notice that they must determine at their hazard whether their weapons come within the scope of the Act?
+
+Held
+The Supreme Court of the United States (Supreme Court) held that it was unthinkable that Congress intended to subject law-abiding, well-intentioned citizens to a possible term of imprisonment if what they genuinely and reasonably believed was a conventional semi-automatic weapon turns out to have worn down into or been secretly modified to be a fully automatic weapon.
+
+Dissent
+The lack of an express knowledge requirement suggests that Congress did not intend to require proof that the Petitioner knew all of the facts that made his conduct illegal.
+
+Discussion
+The Supreme Court declined to dispense with a mens rea requirement as to the statute in question, absent a clear statement from Congress. This is probably a just result. However, the court spent a great deal of time discussing the prevalence of lawful gun ownership in this country. While it is true that there are millions of lawful gun owners in this country, it is also true that the weapon that was in the possession of the Petitioner had been obviously worn down and converted into an automatic weapon. The court clearly missed the distinction between lawful gun ownership and manual conversion of a lawful weapon into one that is regulated under the law. To assert that the Petitioner was lacking any mental state for his actions is illogical.
+

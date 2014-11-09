@@ -1,0 +1,21 @@
+Citation
+38 T.C. 37,1962 U.S. Tax Ct.
+
+Brief Fact Summary
+Leon Holtz created a revocable trust that paid income to him for life as much as the principal trustee believed was necessary for his welfare, comfort, and support, or for his hospitalization or other emergency needs.  Upon his death, the income was to be paid to his wife in the amount that the principal trustee believed was necessary for her welfare, comfort and support, or for her hospitalization or other emergency needs.  The court determines whether the trust is subject to a gift tax.
+
+Synopsis of Rule of Law
+A gift to a trust is not subject to a gift tax if the settlor abandons sufficient dominion and control over the property to make the gift consummate.  A settlor does not abandon sufficient dominion and control over the property if he may not be compelled by a court to comply with an external standard in invading the trust corpus.
+
+Facts
+Holtz created a trust where the income was paid to him during his life, and as much of the principal as the trustee “may from time to time think desirable for the welfare, comfort, and support of the Settlor, or for his hospitalization or other emergency needs.”  Upon his death, if his wife survived him, the income of the trust was to be paid to her during her lifetime, and a similar provision was made for invasion of principal for her benefit during her lifetime.  The trust was to terminate at the death of the survivor of settlor, and his wife, and the “then-remaining principal” was payable at the death to the estate of the survivor.  In 1953, Holtz transferred property having a value of $384,117 to the trust.  Approximately two years later he transferred an additional $50,000 in cash to the trust.  The respondent determined as a result of these transfers, Holtz made taxable gifts in 1953 in the amount of $263,277.63 and in 1955, the amount of $35,570.  The petitioner claims
+
+Issue
+Where a trustee’s power to invade is unlimited, whether the exercise of the trustee’s discretion may be governed by an external standard which the court could apply in a compelling compliance within the conditions of the trust agreement?
+
+Held
+Yes.  The gift of corpus was incomplete and the gift is not subject to a gift tax because it was entirely possible that the entire corpus might be distributed during the settlor’s lifetime, and no one other than the settlor would receive any portion thereof.  The trustee had unfettered discretion to use all of the trust corpus for the settlor.
+
+Discussion
+The trustee’s gift to his revocable trust on his death is not subject to a gift tax because the trustee had access at any time to the principal as much as was desirable and a court could compel him to invade the principal by applying an external standard that complied with the trust agreement.
+

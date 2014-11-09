@@ -1,0 +1,21 @@
+Citation
+334 U.S. 1, 68 S. Ct. 836, 92 L. Ed. 1161, 1948 U.S.
+
+Brief Fact Summary
+Parcels of land were originally sold with a restrictive covenant prohibiting non-Caucasians from owning or occupying any portion of them. One lot was eventually sold to the Appellant, Shelley (Appellant), an African-American, in violation of the covenant. The remaining landowners sued to enforce the restriction.
+
+Synopsis of Rule of Law
+Judicial enforcement of a private agreement is state action.
+
+Facts
+In 1911, in St. Louis, 30 land owners agreed to a restrictive covenant attaching to all 57 parcels in the community.
+
+Issue
+Does judicial enforcement of a private discriminatory agreement amount to state action?
+
+Held
+Yes. Since Commonwealth of Virginia v. Rives (1880), the Supreme Court of the United States (Supreme Court) has held that a state may act through its different agencies including the judiciary.
+
+Discussion
+The Supreme Court discusses the distinction between direct and indirect state action. Direct action is what would most commonly come to mind, legislative acts or the enforcement of common law rules by the judiciary. But, this case introduces indirect state action that results from a private individual engaging the courts as a means of enforcing a discriminatory agreement. This holding could be interpreted very broadly to make almost all private disagreements state action. However, the Supreme Court has chosen to limit this application to restrictive covenants.
+

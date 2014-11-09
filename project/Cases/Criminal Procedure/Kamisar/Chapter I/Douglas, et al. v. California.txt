@@ -1,0 +1,24 @@
+Citation
+372 U.S. 353, 83 S. Ct. 814, 9 L. Ed. 2d 811 (1963)
+
+Brief Fact Summary
+Co-petitioners, Meyes and Douglas (the “petitioners”), were jointly represented by a public defender.  They were tried and convicted of thirteen felonies in California.  The petitioners appealed to the California District Court of Appeal and the California Supreme Court.  The United State Supreme Court (”Supreme Court”) granted certiorari.
+
+Synopsis of Rule of Law
+Indigent petitioners are entitled to assistance of counsel in a first appeal of right.
+
+Facts
+The petitioners were jointly tried and convicted of 13 felonies in a California Court.  They were both represented by a single public defender who sought a continuance at the commencement of the trial.  That request for continuance was denied.  The petitioners dismissed the public defender and then requested a continuance since they were no longer represented.  This request was also denied and the petitioners were convicted of thirteen felonies.  They each appealed to the California District Court of Appeal and then to the California Supreme Court. The Supreme Court granted certiorari.
+
+Issue
+At issue was whether assistance of counsel during the first appeal of right is a fundamental right?
+
+Held
+Indigent petitioners are entitled to appointed counsel at the appellate level.
+
+Dissent
+Justice Tom Clark (”J. Clark”) believes that California’s practice of requiring the District Court of Appeal to first review appeals, appointing counsel only in cases where the Court determined there might be a meritorious appeal, satisfies the requirement that the states afford adequate and effective appellate review to all indigent defendants.  He does not believe that the Equal Protection Clause of the United States Constitution (”Constitution”) nor the Due Process Clause of the Constitution requires the result reached by the majority, especially where it has been shown that the majority of in forma pauperis appeals are frivolous.
+
+Discussion
+The majority reasons that denying an indigent counsel on appeal results in discrimination against the indigent.  The Constitution does not tolerate discrimination. California’s present system is discriminatory because a person who can afford counsel is able to submit briefs and partake in oral argument before the court makes a decision on the merits.  One who cannot afford an attorney has his appeal judged on the merits based upon the bare record from the lower court hoping that pages will reveal blatant injustices.
+

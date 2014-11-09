@@ -1,0 +1,21 @@
+Citation
+961 F.2d 359, 1992 U.S. App.
+
+Brief Fact Summary
+William C. Hygh (Plaintiff-Appellee / Cross-Appellant) sued William Jacobs (Defendant-Appellant / Cross-Appellee) for false arrest, excessive use of force, and malicious prosecution, stemming from an arrest, made by Defendant-Appellant / Cross Appellee of Plaintiff-Appellee / Cross-Appellant.  the trial court found for Plaintiff-Appellee / Cross-Appellant and awarded damages for all claims; the award for malicious prosecution, however, was a nominal award of $1.00.  Defendant-Appellant / Cross-Appellee appeals the judgment against him and Plaintiff-Appellee / Cross-Appellant appeals the nominal award on the malicious prosecution claim.
+
+Synopsis of Rule of Law
+Expert witness opinion testimony must be based on experience, and no legal conclusions ought to be made through or by such testimony.
+
+Facts
+Plaintiff-Appellee / Cross-Appellant visited a friend’s home and an argument ensued between Plaintiff-Appellee / Cross-Appellant and his friend.  Plaintiff-Appellee / Cross-Appellant left the home, removed a propane tank that was attached to the house, and placed the tank on the ground.
+
+Issue
+Was the admission of Cox’s opinion testimony proper under Federal rule of Evidence 704?
+
+Held
+No; the testimony pointed to an ultimate legal conclusion, and therefore, “crossed the line” between admissible opinion testimony and inadmissible testimony; it should have therefore been excluded.
+
+Discussion
+The court reasoned that by testifying as he did, Cox essentially told the jury what conclusion to reach.  The court refers to such testimony as a, “legal conclusion,” offered by Cox to the jury; the court then hold such a “legal conclusion” to be unacceptable.  The court states that the testimony of experts must be based on experience, and no legal conclusions whatsoever ought to be drawn.  The main reason for such a holding, the court states, is that the court is in a better position to facilitate the making of any necessary legal conclusions by the proper party: the finder of fact, in this case, the jury.
+

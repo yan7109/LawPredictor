@@ -1,0 +1,21 @@
+Citation
+355 U.S. 220, 78 S. Ct. 199, 2 L. Ed. 2d 223, 1957 U.S.
+
+Brief Fact Summary
+A California resident and the beneficiary of a life insurance policy, sued an insurance company when the company failed to pay following the death of the insured.
+
+Synopsis of Rule of Law
+A state court’s jurisdiction satisfies due process when it is based on a contract with substantial connection with that state.
+
+Facts
+In 1944, Lowell Franklin, a resident of California, purchased a life insurance policy form an insurer subsequently bought by Defendant International Life Insurance Co., who then mailed a reinsurance certificate to Franklin in California offering to insure him. Franklin accepted the offer and paid premiums by mail from his California home to Defendant’s office in Texas until his death in 1950. When the beneficiary, Plaintiff McGee, notified Defendant of Franklin’s death, they refused to pay. Neither the original insurer nor respondent ever had any office or agent in California.
+
+Issue
+Whether a non-resident corporation is subject to jurisdiction in a state in which it never had any agent or office, merely because it was a party to a contract with a resident of the state.
+
+Held
+No. The Supreme Court of the United States ruled that the Due Process clause did not preclude the California court from entering a judgment binding on Defendant.   The Supreme Court found that it is sufficient for purposes of due process that the suit was based on a contract that had substantial connection with California.  A state has a manifest interest in providing effective means of redress for its residents when their insurers refuse to pay claims.
+
+Discussion
+The Supreme Court, in considering fact the contract was delivered in California, the premiums were mailed from there and the insured was a resident of California when he died, combined with the recognition that modern transportation and communication have made it much less burdensome for a party sued to defend themselves in a state where they conduct business, found that it did not violate just and fair play for the California court to enter a binding agreement on International Life. Moreover, the Court reasoned that California residents would be at a severe disadvantage if they had to leave their own state to obtain payment from their insurance company.
+

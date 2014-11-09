@@ -1,0 +1,24 @@
+Citation
+474 U.S. 82, 106 S. Ct. 433, 88 L. Ed. 2d 387 (1985)
+
+Brief Fact Summary
+Petitioner, Heath, sought a writ of certiorari after being convicted in Alabama on charges that he had already been convicted of in Georgia.
+
+Synopsis of Rule of Law
+Successive prosecutions are barred by the Double Jeopardy clause only if the two offenses for which the defendant is prosecuted are actually the same offense.
+
+Facts
+Petitioner, a resident of Russel County, Alabama hired Charles Owens and Gregory Lumkin to kill his wife for the sum of $2,000.  Petitioner met Owens and Lumpkin in Georgia, just over the border, and gave them the keys to his car and home.  Rebecca Heath, petitioner’s wife, was kidnapped from her home and she was later found dead in Troup County, Georgia, with a gunshot wound to the head.  According to the evidence, the murder took place in Georgia.  In February of 1982, in Georgia, petitioner was charged with malice murder, found guilty and sentenced to life imprisonment.  Later, in May of the same year, petitioner was indicted for capital murder during kidnappying.  Petitioner pled Double Jeopardy arguing that his subsequent Alabama prosecution was barred because it was for the same conduct.  The Alabama trial court held that Double Jeopardy did not bar the subsequent prosecution because the act became bifurcated when the state line was crossed.  The Supreme Court granted ce
+
+Issue
+Whether the dual sovereignty doctrine, which allows states separate prosecutions, is barred by double jeopardy.
+
+Held
+Successive prosecutions by two states for the same conduct are not barred by the Double Jeopardy Clause of the Fifth Amendment.
+
+Dissent
+Justice Marshall, in his dissent, points out that sovereignty should be overruled when it infringes on a defendant’s constitutional right against Double Jeopardy.
+
+Discussion
+Because two states derive their power to prosecute from separate sources of authority, there is no subsequent prosecution by one state, and therefore no Double Jeopardy.
+

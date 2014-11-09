@@ -1,0 +1,21 @@
+Citation
+523 F.2d 161, 1975 U.S. App. 12820
+
+Brief Fact Summary
+The Plaintiff-Appellant, Geraldine Kroger (Plaintiff-Appellant), as administratrix of the estate of James Kroger (Decedent), brought suit based on diversity jurisdiction for damages resulting from Decedent’s wrongful death by electrocution.
+
+Synopsis of Rule of Law
+The plaintiff in a wrongful death suit by electrocution cannot name as the sole defendant the previous owner of the electrical lines, where defendant owed no duty to the plaintiff, the breach of which would give rise to liability.
+
+Facts
+The Plaintiff-Appellant, as administratrix of the estate of Decedent, brought suit based on diversity jurisdiction for damages resulting from Decedent’s wrongful death by electrocution. Decedent was employed by Paxton & Vierling Steel Company at its factory in Carter Lake, Iowa. In January 1972, decedent was involved in the movement of a large steel tank by means of a crane with a sixty-foot boom. During this maneuver, Decedent was killed when the boom came close to high-tension lines sending electricity over the tank. The Defendant-Appellee, Omaha Public Power District (Defendant- Appellee), was named as the only defendant. Defendant-Appellee previously owned the transmission lines involved, but sold them in 1966. Defendant-Appellee continued to make repairs upon them when so requested.
+
+Issue
+Whether a plaintiff could properly name as the sole defendant in a wrongful death case a party who did not own the power lines causing the death at the time of the accident?
+
+Held
+No. The Court of Appeals for the Eight Circuit affirmed.   Defendant-Appellee had no duty to maintain the lines, had not been requested to discontinue the flow of electricity on the date of the accident and had not been put on notice that a crane was being operated in the vicinity of the lines. As a result, there was no duty owed by Defendant- Appellee the breach of which would give rise to liability.
+
+Discussion
+This case can best be understood as an example of the limits of the joinder rule and permissible impleading of parties.
+

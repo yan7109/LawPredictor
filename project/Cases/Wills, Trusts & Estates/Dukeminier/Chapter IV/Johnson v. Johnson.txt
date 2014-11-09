@@ -1,0 +1,27 @@
+Citation
+279 P.2d 928 (Okla. 1954)
+
+Brief Fact Summary
+Dexter G. Johnson typed a will that he did not sign or have witnessed.  He handwrote another testamentary provision on the same document and signed the will.  The Court considers whether the document may be admitted to probate.
+
+Synopsis of Rule of Law
+Where a testator makes a testamentary disposition in his own handwriting on an invalid typed will, and the circumstances show he intended the writing to be a codicil to the invalid will, the court will incorporate the invalid will by reference into the codicil.
+
+Facts
+Johnson, a lawyer, typed a document purporting to be his will.  However, Johnson did not sign his name and it was not attested.  At end of the document Johnson disposed another gift in his own handwriting, along with the words, “This will is complete …, unless changed or rewritten. Johnson signed his name. Evidence at the trial court showed that before Johnson wrote the handwritten portion, Johnson told his insurance counselor that he had a will that needed revising. Johnson also told his rental agent that he wanted him to witness his will but he never arranged a time to have it attested. In the same year that Johnson added the handwritten portion; his rental agent saw it on Johnson’s desk and asked if he wanted him to sign it as a witness. Johnson replied that he already wrote a codicil and there was no need.
+
+Issue
+Whether a will that is invalid for lack of signature and attestation may be incorporated by reference into a codicil written on the same document as the will?
+
+Held
+Yes. The document here makes a testamentary disposition in the testator’s own handwriting signed by him and the circumstances show he intended on the handwriting to be a codicil. Johnson disposed ten dollars to his brother and wrote it in his own handwriting. The evidence showed that Johnson had asked someone to witness his will but never arranged a time to complete it. Also, the Johnson told his real estate agent that he did not have to witness his will because he had created a codicil. Therefore the circumstances show the testator intended the handwriting to be a codicil and it incorporates the will by reference.
+
+Dissent
+The handwriting on the will did not refer to the will nor did it indicate the testator intended the writing to be a codicil. Even if the handwriting were a codicil, such an instrument should never validate a toped will that is unfinished as to content, undated, unsigned, and unattested. Property may only be transferred through a will if the document complies with will statutes.
+
+Concurrence
+The law-makers of the statute of wills required certain steps to be made in the creation of the will to ensure that the intent of the testator be given effect and to protect someone from preventing his intent from being carried out through fraud or undue influence. Where a testator created a will that has testamentary intent and there is no evidence of fraud or undue influence, the will should be admitted to probate even if all statutory formalities have not been followed.
+
+Discussion
+Where there is strong evidence of testamentary intent to republish an invalid will by a codicil, the court will incorporate the will by reference and republish the will. A codicil does not have to bear the name “codicil”. The court will consider outside circumstances to find that the testator intended the document to substantively republish his former will.
+

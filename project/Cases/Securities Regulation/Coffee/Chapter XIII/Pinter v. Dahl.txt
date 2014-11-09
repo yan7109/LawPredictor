@@ -1,0 +1,21 @@
+Citation
+486 U.S. 622 (1988)
+
+Brief Fact Summary
+Dahl (Plaintiff) alleged that he was not a seller of securities as to securities he had advocated due to him doing so unnecessarily.
+
+Synopsis of Rule of Law
+One who unnecessarily advocates unregistered Securities is not a seller for reasons of the Securities Act.
+
+Facts
+Black Gold Oil Company was formulated to explore and exploit petroleum by Pinter (Defendant). Dahl invested nearly half a million in the business, having no doubt that it would be profitable. After recommending to multiple acquaintances that they should invest, many did. Dahls expectations were not met due to the company going bankrupt. Dahl and other investors brought suit against Pinter for rescission, because Black Gold shares had been unregistered. Pinter brought counterclaim against Dahl, alleging he deceived the other investors as to the business’s projections and a “seller” as defined by the Securities Act. The district court rejected the counterclaim and ordered rescission. The Fifth Circuit, which held that Dahl’s in pari delicto defense was unattainable in a strict liability action like this one, affirmed. The Supreme Court granted review.
+
+Issue
+Does unnecessarily advocating unregistered securities make you a seller under the Securities Act?
+
+Held
+(Blackmun, J.) No. Advocating unregistered securities does not make you a seller as defined by the Securities Act. The court of appeals was incorrect in holding that the in pari delicto defense is unattainable; no precedent exists for holding that it is unattainable in a strict liability action like one under § 12 of the Securities Act, neither is it a holding based on any reasonable opinion of congressional purpose. The question is if Dahl be considered a “seller” under the Securites Act, making him liable alongside Pinter to the other investors.  In the most literal way, a “seller’ is the person passing title only, however, it has long been true that offerors and titleholders are considered sellers. This extends seller liability to those who aggressively advocate or petition the sale of securities.  Consistent with the holding is advocating transparencies to the buyers of securities, which is the congressional purpose behind the Act. Although, in a situation where an individual advocates a stock unnecessarily, as a favor to the offeree, the intent is not advance; the threat of advocate predation upon the unwary does not exist. S§ 12 of the Act is not applicable if someone, who may otherwise be a seller, advocates a stock not for his or anyone else’s gain but as a favor to the offeree. In this case, it is uncertain from the documentation if the district court ruled on this matter, so the issue must be decided on remand. Reversed and remanded.
+
+Discussion
+By entitling a purchaser to full rescission, which is sometimes a difficult solution, § 12 is a considerably cruel stipulation. Serious questions of fairness arise when it is applied to collateral participants in the offering. In cases previous to this, some courts of appeal had extended its application to rather marginal participants. While Pinter does not seem particularly sweeping in its effect, it may deter lower courts from adopting as wide a definition of “seller” as they otherwise might.
+

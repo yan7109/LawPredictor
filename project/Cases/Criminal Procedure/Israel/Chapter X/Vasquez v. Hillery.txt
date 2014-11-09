@@ -1,0 +1,24 @@
+Citation
+474 U.S. 254, 106 S. Ct. 617, 88 L. Ed. 2d 598 (1986)
+
+Brief Fact Summary
+Respondent Booker T. Hillery succeeds on habeas petition by arguing that the Equal Protection clause has been violated in the systematic exclusion of blacks from his grand jury.
+
+Synopsis of Rule of Law
+A criminal defendant’s equal protection rights have been violated when they are indicted by a grand jury from which members of a racial group have been excluded.
+
+Facts
+A black man unsuccessfully moved to quash an indictment for murder against him on the grounds that blacks had been systematically excluded from the grand jury.  For sixteen years he pursued equal protection appeals on these grounds in California state courts, all to no avail.  After his last avenue of appeal was closed in California he appealed to the federal Eastern District Court of California, and they granted him a writ of habeas corpus, accepting his argument.  The Ninth Circuit Court of Appeals affirmed, and certiorari was then granted.
+
+Issue
+If a grand jury is composed of entirely white jurors when qualified African-Americans were available, has a defendant’s equal protection rights been violated?
+
+Held
+Yes.  Affirm the appellate court’s decision affirming the grant of habeas relief.
+
+Dissent
+Justice Lewis Franklin Powell disagreed with the result in saying that discriminatory exclusion of blacks from the grand jury did not injure the accused in any way since harmless error was present, and a fair trial happened subsequently. Also, even if harmless error was irrelevant, the case should have been remanded to figure out whether the long time since the accused’s conviction would prejudice the state’s ability to prosecute.
+
+Discussion
+Although this case is cited quite frequently for its affirmation of the concept of stare decisis, its laying out of the idea that a subsequent conviction does not necessarily mean that discrimination did not infect the earlier steps in the prosecution has maybe been its most significant declaration in the field of criminal procedure.
+

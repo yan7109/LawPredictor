@@ -1,0 +1,21 @@
+Citation
+971 P.2d 158, 1999 Alas.
+
+Brief Fact Summary
+Plaintiff, Mary Kotowski, filed suit after being terminated when she complained of sexual harassment by her supervisor.  The evidence showed the conduct towards her was inappropriate.  At trial, an investigative memo was admitted into evidence containing statements by third parties implicating the employee accused of the conduct against Plaintiff.
+
+Synopsis of Rule of Law
+An admission of a party opponent is an exception to the hearsay rule.
+
+Facts
+Mary Kotowski, Plaintiff, worked on the cleanup from the oil spill of the Exxon Valdez.  Exxon retained Veco as a general contractor, and Veco subcontracted with Norcon, Defendant, and others for services.  Plaintiff sued Defendant for sexual harassment and negligent and intentional infliction for emotional distress.  A jury found for Plaintiff and awarding $8,494 in lost earnings, $1,850 in emotional distress, and $3.8 million in punitive damages.  The Alaska Supreme Court reduced the punitive award to $500,000.  The evidence clearly showed that Plaintiff was sexually harassed by Norcon foreman Mike Posehn.  Further, Defendant failed to adequately address the issued after Plaintiff complained.  Both Plaintiff and Posehn were terminated.  An investigative report memo regarding the conduct of Posehn and others was admitted into evidence by Plaintiff.  Defendant objected arguing that it was inadmissible hearsay.
+
+Issue
+Did the trial court commit error by allowing admission of the memo?
+
+Held
+Justice Matthews issued the opinion for the Supreme Court of Alaska in concluding that it was not error to admit the memo.
+
+Discussion
+The content of the memo satisfied the admissions of party-opponent exception to the hearsay rule.  The subjects of the memo were agents of Defendant regarding matters which their job required them to report.
+

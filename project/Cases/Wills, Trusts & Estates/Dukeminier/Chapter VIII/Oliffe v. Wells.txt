@@ -1,0 +1,21 @@
+Citation
+130 Mass. 221,1881 Mass.
+
+Brief Fact Summary
+Ellen Donovan created a will leaving her residuary estate to the defendant, Rev. Eleazer M.P. Wells to distribute for a charitable purpose that she expressed to him before and after the execution of her will.
+
+Synopsis of Rule of Law
+A trust that is not sufficiently declared on its face to be a trust cannot be used to defeat the rights of heirs at law by extrinsic evidence of a trust
+
+Facts
+Donovan created a will leaving the residuary estate to the defendant and wrote, “to distribute the same in such manner as in his discretion shall appear best calculated to carry out wishes which I have expressed to him or may express to him.  The defendant was also named as executor.  The defendant stated in his answer to the lawsuit that Donovan had orally expressed to him before and after the execution of the will that her estate be used for charitable purposes.  He also stated that he desired and intended to distribute the residue of the estate for those purposes.
+
+Issue
+Whether extrinsic evidence may be admitted to show that a testator intended to create a trust and the document does not show any evidence of a trust but only an outright gift?
+
+Held
+No.  Extrinsic evidence may not be admitted to show that the testator intended to create a trust because it would defeat the rights of the heirs at law.  The document must have been expressed in the form that the law makes essential to every testamentary disposition in order to defeat the rights of the heirs at law.  The defendant holds the property in a resulting trust for the testator’s heirs at law.
+
+Discussion
+Because heirs at law inherit property of the deceased in the absence of a trust, a trust must sufficiently be declared in the instrument to defeat the rights of heirs at law
+

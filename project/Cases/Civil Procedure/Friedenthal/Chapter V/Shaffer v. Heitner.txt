@@ -1,0 +1,21 @@
+Citation
+22 Ill.433 U.S. 186, 97 S. Ct. 2569, 53 L. Ed. 2d 683 (1977)
+
+Brief Fact Summary
+Plaintiff stockholder brought a shareholder’s derivative action in Delaware state court against Defendants, corporations incorporated in Delaware with their principal place of business in Arizona, and corporate officers of the corporations (Defendants). Plaintiff moved to sequester Defendants’ property, which was stock in the company, located in Delaware as defined by the Delaware statute. Defendants moved to quash the summons and to vacate the sequestration order, arguing that both exercising personal jurisdiction and seizing Defendants’ property violated due process.
+
+Synopsis of Rule of Law
+When the only contact the defendant has with the forum state is the location of property as defined by statute in the forum state, the forum lacks personal jurisdiction over the defendant unless the minimum contacts test of International Shoe is satisfied.
+
+Facts
+Plaintiff, a stockholder for Greyhound Corp., a company incorporated in Delaware with its principal place of business in Arizona, sued Greyhound Corp., Greyhound Lines, Inc., (a subsidiary of Greyhound Corp.) and present and former officers of the two companies for violating duties to Greyhound Corp. by causing it to be liable for damages in an antitrust suit and a fine in a criminal contempt action in Oregon. Plaintiff filed a motion for sequestration of the officers’ stock. Under a Delaware statute, Delaware is the situs of all stock in Delaware corporations. The stock was seized. Defendants were notified by certified mail of the sequestration and notice was published in a Delaware newspaper. Defendants entered a special appearance so they could move to quash service of process and vacate the sequestration order. Defendant argued that the order violated due process and therefore the property could not be attached in Delaware. In addition, Defendants argued that they did not
+
+Issue
+In order for the forum state to exercise in rem jurisdiction on a nonresident, must the nonresident have minimum contacts with the forum state such that the defendant has purposefully availed itself of the benefits of that state’s laws?
+
+Held
+Yes to both. Judgment reversed.
+
+Discussion
+As the concurring opinions illustrate, it is highly unlikely a court has personal jurisdiction over a non-resident defendant that is absent from the forum state when the only contact is property owned by the defendant located within the forum state. Even if the property is connected to the suit, minimum contacts must still be established in compliance with the International Shoe test.
+

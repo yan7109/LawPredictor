@@ -1,0 +1,21 @@
+Citation
+877 F.2d 496 (7th Cir. 1989)
+
+Brief Fact Summary
+Amanda Acquisition (Plaintiff) confronted Wisconsin’s antitakeover law, which prevented a corporation procuring a Wisconsin corporation from merging with the purchasing corporationlacking consent was purportedly inconsistent with federal law.
+
+Synopsis of Rule of Law
+A state law preventing the merging of a procured national corporation, even when lacking its permission, is consistent with federal law.
+
+Facts
+Wisconsin passed a law intended to dissuade hostile takeovers of corporations in Wisconsin. The law stated that a corporation having 10% of its shares or shareholders at said corporation could not be merged into the acquiring corporation unless it had the consent of the board of the target corporation or that the corporation be incorporated in Wisconsin. The corporation that wished to purchase and absorb Universal Foods Corp. ,Amanda Acquisition Corp., confronted the law as lacking consistency with the Commerce Clause  and the Williams Act. The district court held the statute constitutional and denied the petitioned injunction. Amanda appealed.
+
+Issue
+Is a state law preventing the merging of a procured national corporation, even when lacking its permission,not consistent with federal law?
+
+Held
+(Easterbrook, J.) No. A state law preventing the merging of a procured national corporation, even when lacking its permission, is consistent with federal law. The Williams Act was not meant to supersede state law, and only when state law directly clashes with the Act’s stipulations will preemption occur. The Williams Act is not a general preemptive regulatory scheme for tender offers. The Williams Act governs the method of tender offers: timing, disclosure, etc. and Wisconsin’s law has no affect on this method. Instead, it involvesessential rights in shares obtained via tender offers. Regulations of this type do not clash with the Act and so is not forestalled.  The Commerce Clause is mainly apprehensive with bias against interstate commerce by protectionist efforts of localities and states. This law is lacking bias in this way, seeing as it pertains similarly to all tender offerors, whether they are in Wisconsin or not. As one would assume, the majority of possible offerors are nondomestic. This alone though is not adequateenough to decide that the law discriminates against interstate commerce. The law does not violate the Commerce Clause, it is thus constitutional. Affirmed
+
+Discussion
+For decades, states have been passing laws intended to dissuade hostile takeovers. Edgar v. MITE Corp., 457 U.S. 624 (1982) heralded the first Supreme Court announcement on laws of that kind. In that case, the law insisting on a public official to authorize such a takeover was held in violation of the Commerce Clause. While, in CTS Corp. v. Dynamics Corp. of America, 481 U.S. 69 (1987), a law where acquired shares lost their voting power without the target’s administration authorizing of the acquisition, was held constitutional.
+

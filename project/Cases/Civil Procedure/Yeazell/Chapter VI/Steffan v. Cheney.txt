@@ -1,0 +1,21 @@
+Citation
+920 F.2d 74, 287 U.S. App. D.C. 143; 1990 U.S. App. 21001, 18 Fed. R. Serv. 3d (Callaghan) 498
+
+Brief Fact Summary
+The Plaintiff, Joseph C. Steffan (Plaintiff), brought suit against the United States Naval Academy after he resigned following an administrative hearing calling for his dismissal. Plaintiff’s suit was dismissed by the district court for failing to comply with court’s discovery order.
+
+Synopsis of Rule of Law
+Court imposed sanctions under Federal Rule of Civil Procedure (FRCP) Rule 37 may not be upheld if there imposition is based upon an error of law.
+
+Facts
+Plaintiff resigned from the Naval Academy in 1987 after an administrative board recommended he be discharged. The board’s recommendation was based solely upon Plaintiff’s statements declaring himself a homosexual. In 1988 Plaintiff filed this action, claiming he was constructively discharged and challenged the constitutionality of the regulations providing for the discharge of admitted homosexuals. The district court dismissed Plaintiff’s case because, claiming his Fifth Amendment constitutional privilege against self-incrimination, he refused to answer questions regarding whether he had engaged in homosexual conduct during or after his tenure as a midshipman. He also objected on grounds that the questions were not relevant to the legality of this separation. Thus, the district court dismissed Plaintiff’s action for failure to comply with its discovery under FRCP Rule 37(b)(2).
+
+Issue
+When may a court dismiss a complaint for a plaintiff’s refusal to comply with a discovery order under FRCP Rule 37.
+
+Held
+The Circuit Court for the District of Columbia reversed the decision of the district court dismissing Plaintiff’s complaint.   Sanctions under FRCP Rule 37 may not be upheld if there imposition is based upon an error of law.  Judicial review of an administrative action is confined to the grounds upon which the record discloses that the action was based.
+
+Discussion
+Essentially, the Circuit Court held that whether Plaintiff engaged in homosexual conduct was irrelevant in his district court suit because it was his personal declarations, not his conduct, which was was the basis of his administrative dismissal.
+

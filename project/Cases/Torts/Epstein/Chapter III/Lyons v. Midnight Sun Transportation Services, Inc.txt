@@ -1,0 +1,21 @@
+Citation
+928 P.2d 1202, 1996 Alas.
+
+Brief Fact Summary
+Lyons (Plaintiff) was killed when her van was truck broadside by a truck driven by David Jette and owned by Midnight Sun Transportation Services, Inc. (Defendant).
+
+Synopsis of Rule of Law
+The court rejects the sudden emergency doctrine. In an emergency, the standard of care remains that of a reasonable person under the circumstances.
+
+Facts
+Plaintiff was killed when her van was truck broadside by a truck driven by Jette and owned by Defendant. Plaintiff pulled out of a parking lot in front of Jette. Jette braked and steered to the left but Plaintiff continued to pull out further into the traffic lane. Jette’s truck collided with Plaintiff. Plaintiff filed suit against Defendant, claiming that Jette had been speeding and driving negligently. Conflicting testimony was introduced regarding Jette’s speed. Testimony suggested that if Jette had stayed in his lane, the accident would not have happened. Defendant claimed that steering to the left when a vehicle pulls out is a normal response. The jury was given an instruction on the sudden emergency doctrine. The jury found that Jette (and thus Defendant) had been negligent, but his negligence was not a cause of the accident. Plaintiff appeals, arguing that the sudden emergency doctrine was wrongfully given to the jury.
+
+Issue
+In assessing Defendant’s liability under a claim of negligence, was the jury properly given an instruction on the sudden emergency doctrine?
+
+Held
+No. Judgment for Defendant.
+
+Discussion
+In assessing a party’s standard of care, the test is always the standard of a reasonable person under like circumstances. If the circumstances are such that an emergency is present, the “reasonable person under like circumstances” rule considers the emergency without the need for the sudden emergency doctrine. The sudden emergency doctrine is a legal principle exempting a person from the ordinary standard of reasonable care if that person acted instinctively to meet a sudden and urgent need for aid. The sudden emergency doctrine is essentially the “reasonable person under like circumstances” rule. Under these facts and a system of comparative negligence, it is no longer needed. Most jurisdictions follow the comparative fault system.
+

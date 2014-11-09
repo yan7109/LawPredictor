@@ -1,0 +1,24 @@
+Citation
+22 Ill. 392 U.S. 409, 88 S. Ct. 2186, 20 L. Ed. 2d 1189 (1968)
+
+Brief Fact Summary
+Petitioner Jones attempted to buy a home in St. Louis County, Missouri, and the Respondent refused to sell the home to Jones, who brought legal action against Respondent on the basis that Respondent had refused to sell to Jones for the sole reason that Jones is black.
+
+Synopsis of Rule of Law
+Section 1982, which prohibits racial discrimination in all sale and rental or property, is a constitutional exercise of Congressional power in regulating private and public sales of property as a result of the enabling clause of the Thirteenth Amendment.
+
+Facts
+Petitioner attempted to purchase a home in the Paddock Woods community of St. Louis County, which the Respondents refused to sell. The Petitioners allege that the sole reason that they were refused the sale is because of Petitioners’ status as an African-American. The Petitioners, relying in part on Section: 1982, sought injunctive and other relief. The District Court ruled in favor of Respondent’s motion to dismiss the case, which was affirmed by the Eighth Circuit. Both courts held that Section: 1982 applied to only to state action and does include private refusals to sell.
+
+Issue
+Whether Section: 1982 prohibits all discrimination in the sale or rental of property, including sale of property by private parties?<br />	Whether Congress has power under the Constitution to do what Section: 1982 purports to do: prohibit all racial discrimination, private and public, in the sale and rental of property?
+
+Held
+Yes and Yes. Judgment reversed.
+
+Dissent
+Disagrees with the Court’s Construction of Section: 1982 as applying to purely private action. Believes that there is an inherent ambiguity in the term “right” as used in Section: 1982. The “right” referred to may either be a right to equal status under the law, or it may be an “absolute” right enforceable against private individuals. The dissent feels that the right referred to is a right to equal status, and no more. Adoption of a “state action” construction of the Civil Rights Act would therefore have the additional merit of bringing its interpretation in line with that of the Fourteenth Amendment. This interpretation is desirable in respect to the interpretation of the majority because the major purpose of the Fourteenth Amendment was to assure a subsequent Congress could not remove the rights conferred by the Civil Rights Act.
+
+Discussion
+The decision in this case has far reaching effects not only in terms of regulating private rentals and sales of property, but also concerning Congressional power to regulate racial issues. Not only does the holding in this case definitively state that racial discrimination is not allowed in any sale of property within the United States, but this decision also gives Congress broad authority under the Thirteenth Amendment to regulate against racial discrimination. The dissent in this case on the other hand would rather use the same regime currently used in determining state action under Fourteenth Amendment to determine the government’s ability to regulate actions of private parties under the Thirteenth Amendment. This undoubtedly would result in less regulation of the actions of private parties because of the threshold that must be reached to be considered a state action.
+

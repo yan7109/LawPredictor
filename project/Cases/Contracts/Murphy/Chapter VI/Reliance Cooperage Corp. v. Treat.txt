@@ -1,0 +1,21 @@
+Citation
+196 F.2d 975,1952 U.S. App
+
+Brief Fact Summary
+Plaintiff and Defendant entered into a contract where Plaintiff agreed to buy and Defendant agreed to deliver 300,000 staves at $450.00 per thousand no later than December 31, 1950. Later, Defendant indicated that he would not fulfill the contract. Plaintiff refused to accept the repudiation.
+
+Synopsis of Rule of Law
+A party to a contract need not accept the repudiation of the other party and move to mitigate damages until the time of performance has come and gone.
+
+Facts
+Plaintiff and Defendant entered into contract where Defendant agreed to produce 300,000 white oak bourbon staves no later than December 31, 1950. During the middle and end of August, that year, Defendant began to indicate that he intended to not perform the contract. In October, Plaintiff wrote to Defendant and informed that he was not confident that Defendant would perform the contract and that he still expected Defendant to do so. Defendant did not reply nor deliver any staves. Plaintiff sued Defendant. The trial court determined that if Plaintiff knew in October, the Defendant would not comply, Plaintiff had a duty to try and purchase staves from another supplier, thus, damages would be market price minus contract price of staves in October.
+
+Issue
+Should Plaintiff have mitigated damages in October by pursuing another supplier?
+
+Held
+No.
+
+Discussion
+When one party to a contract repudiates, the other party has the option of accepting repudiation, seeking damages, and mitigating damages or not accepting repudiation, thereby, holding the other party to the contract liable until time of performance has past.
+

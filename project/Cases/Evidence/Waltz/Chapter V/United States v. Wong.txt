@@ -1,0 +1,15 @@
+Citation
+131 S. Ct. 545
+
+Synopsis of Rule of Law
+A judge has no discretion to prohibit to impeachment of the credibility of a witness by questions concerning crimes involving dishonesty or false statements.
+
+Facts
+John Barry Wong was charged with seventeen counts of violation of the mail fraud statute 18 U.S.C. Section 1341 (1976) and two counts of violations of the Racketeer Influenced and Corrupt Organizations Act.  Wong was previously convicted at least twice for a 1978 mail fraud conviction in a federal court in Pennsylvania and a 1981 Medicare fraud conviction in a federal court in Hawaii. Wong moved to preclude use of these convictions for impeachment and the trial court stated the probative value of the convictions did not outweigh their prejudicial effect.  When Wong took the stand, the convictions were used against him.<span class="heading">Issue.</span> Does a district court have any discretion to exclude, as unduly prejudicial, evidence that a witness had previously been convicted of a crime involving dishonesty or a false statement?
+
+Held
+A district court had no discretion to weight the probative value of the prior conviction against its prejudicial effect.
+
+Discussion
+Rule 609(a) reflects a decision made by the U.S Congress that prior convictions involving dishonesty and false statements are peculiarly probative of credibility and are always to be admitted by a court.
+

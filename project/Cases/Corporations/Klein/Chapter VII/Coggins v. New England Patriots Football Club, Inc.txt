@@ -1,0 +1,21 @@
+Citation
+406 Mass. 666, 550 N.E.2d 141 (1990)
+
+Brief Fact Summary
+Plaintiffs, David Coggins et al., sought a rescission of a freeze-out merger enacted by Defendants, New England Patriots Football Club et al.
+
+Synopsis of Rule of Law
+A controlling shareholder in a transaction between boards of directors wherein he and others are common members has the burden to prove that the transaction serves a legitimate purpose for the corporation and is fair to the minority shareholders.
+
+Facts
+Defendant president, William Sullivan, Jr., bought the New England Patriots in 1959 for $25,000.  Four months later, he had nine others buy into the team for $25,000 each, and each of the ten owners was given 10,000 shares.  Another four months later, 120,000 nonvoting shares were issued for $5 each.  In 1974 the other owners removed Sullivan from his presidency but by November of 1975, after securing a personal loan for over $5 million, he owned all 100,000 voting shares (at $102 per share) and put in his own directors.  The loan required Sullivan to use the Defendant corporation’s profits and assets to repay the loan, but he could not do this without complete ownership.  Sullivan then created a second corporation, appointed the same directors, and then voted to merge the two companies into the new one.  The shareholders of the old company would receive $15 per share.  Plaintiff was a fan of the team and proudly owned ten shares of the corporation.  Plaintiff brought this act
+
+Issue
+The issue is whether the freeze-out merger illegal.
+
+Held
+The court held that the merger was unfair and illegal, but since the merger was now ten years old it should not be reversed.  The controlling shareholder owed a fiduciary duty to the minority shareholders, and the burden was on Sullivan to prove that the merger furthered the goals of the corporation rather than just his own interests and is fair to Plaintiffs.  Sullivan failed to prove either point.
+
+Discussion
+The typical equitable remedy for an illegal merger such as the one at issue is a rescission.  However, the length of time between the merger and the holding made an appraisal a better alternative.
+

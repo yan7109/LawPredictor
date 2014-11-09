@@ -1,0 +1,21 @@
+Citation
+442 U.S. 114, 99 S. Ct. 2198, 60 L. Ed. 2d 755 (1979)
+
+Brief Fact Summary
+A previously convicted man who was prosecuted under a federal statute prohibiting felons from owning guns challenged the prosecutor’s decision to go after the harsher of two available provisions.
+
+Synopsis of Rule of Law
+A criminal defendant cannot challenge prosecuting authority’s decision to charge them under one of many available criminal statutes.
+
+Facts
+The Omnibus Crime Control and Safe Streets Act of 1968 banned felons from having firearms with one provision giving a maximum five-year penalty to anyone previously convicted of a felony who received firearms in interstate commerce.  The other provision prohibited felons from possessing firearms, and that provision had a maximum penalty of only two years.  Previously convicted felon respondent Milton Batchelder obtained a gun through interstate commerce and was prosecuted and convicted on the arm of the act granting a five-year penalty.  The respondent appealed, arguing that the two provisions were redundant and that he should get the lesser penalty, and the Court of Appeals affirmed his conviction.  They decided though that the penalty structure was possibly void for vagueness, and thus remanded his case for re-sentencing under the more lenient provision.  The government was then granted certiorari.
+
+Issue
+If a criminal statute has two alternative sentencing provisions applicable to the same criminal facts, may a defendant appeal his charge if convicted on the harsher one?
+
+Held
+No.  Reverse the judgment of the Court of Appeals.
+
+Discussion
+This case illustrates the basic idea that prosecutors are allowed discretion in deciding which of multiple applicable statutes to charge defendants with.  Even though the statutory scheme in this situation was curious, the discretion was not malicious or discriminatorily made.
+

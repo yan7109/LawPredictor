@@ -1,0 +1,21 @@
+Citation
+22 S.D. 480, 118 N.W. 716, 1908 S.D.
+
+Brief Fact Summary
+Plaintiffs hired Defendant, an attorney, to secure a franchise for them. Defendant billed Plaintiffs $1,250 for his services, which he took out of a deposit returned to Defendant for Plaintiffs. Plaintiffs sued to recover $1,000, alleging Defendant did not perform the services alleged and that Plaintiffs did not owe Defendant more than $250.
+
+Synopsis of Rule of Law
+A cause of action must be identified in a complaint as tort or contract and as sounding in either law or equity to create certainty of the plaintiff’s claim to the defendant and the court. If the complaint is not pled as specified, a demurrer by the defendant must be sustained.
+
+Facts
+Jones and others, Plaintiffs, hired Defendant, an attorney, to set up a franchise for them. Plaintiffs made a deposit of $2,500. The franchise was not set up and the deposit was returned to Defendant to be delivered to Plaintiffs. Defendant gave Plaintiffs an itemized statement of his services amounting to $1,250. Defendant then cashed the check and returned a balance of $1,012.25 to Plaintiffs and kept $1,250. Plaintiffs sued Defendant, claiming that Defendant’s services were false charges and that the most his services were worth was $250. The complaint further alleges that Defendant “wrongfully converted” the property. Defendant filed a demurrer, alleging that the complaint did not allege a cause of action for conversion because Plaintiffs did not allege that they owned the property at the time it was converted. The trial court overruled the demurrer and Defendant appealed.
+
+Issue
+Does a complaint have to allege facts sufficient to identify a particular cause of action in order to withstand a demurrer?
+
+Held
+Yes. The trial court’s overruling the demurrer is reversed.  It is not clear whether the complaint alleges a breach of contract or an action for conversion. There is language suggesting both causes of action.  A complaint cannot vaguely allege two different causes of action or an action in law and an action in equity. This is not fair to the defendant because the defendant does not have an opportunity to respond to the allegations until the actual evidence is introduced at trial.  To hold that the language suggesting conversion is “surplusage,” and should be disregarded by the court would create uncertainty. There is a risk that the Defendant and the Court will be misled by the pleadings.  In Supervisors of Kewanee County v. Decker, 30 Wis. 624, the court required that the cause of action be identified as tort or contract and as sounding in either law or equity in order for the demurrer to be overruled.
+
+Discussion
+This opinion illustrates the policy of requiring the plaintiff to state plainly in his/her complaint the basis for the action. Requiring specificity as to the basis of legal authority upon which the complaint is based allows the defendant a fair opportunity to adequately prepare to defend the lawsuit.
+

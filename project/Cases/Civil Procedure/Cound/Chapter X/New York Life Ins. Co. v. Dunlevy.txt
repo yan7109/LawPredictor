@@ -1,0 +1,21 @@
+Citation
+22 Ill.241 U.S. 518, 36 S. Ct. 613, 60 L. Ed. 1140 (1916)
+
+Brief Fact Summary
+Plaintiff sued to recover on her father’s life insurance policy, which the lower court ordered to be paid to Plaintiff. Defendant insurance company alleged that in an interpleader action arising from a judgment against Plaintiff and her father by a third party, the policy had been determined to belong to Plaintiff’s father. Plaintiff was not served with notice of the interpleader action and never appeared during the proceedings.
+
+Synopsis of Rule of Law
+An action in interpleader is separate from a related action on a valid judgment notwithstanding the fact that the interpleader action is brought to determine the disposition of assets being garnished for the judgment. Therefore, there must be an independent basis for personal jurisdiction over the claimant in order for the claimant to be bound by the court’s decision in such action.
+
+Facts
+Plaintiff, Effie Dunlevy, brought suit in California state court against her father and New York Life Ins. Co., Defendants, for the proceeds on her father’s insurance policy she claims were assigned to her. The action was removed to federal court. The judge found the policy had been assigned to Plaintiff and rendered judgment in her favor. Defendant answered that the policy had already been determined to belong to Plaintiff’s father, Gould. A judgment by a third party, Boggs & Buhl (”Boggs”) had been entered against Plaintiff, her father, and the insurance company in Pennsylvania. Plaintiff then moved to California. After Plaintiff filed the suit in question, Boggs executed judgment on the policy and Gould denied assigning the policy to Plaintiff and claimed rights to the proceeds. New York Life filed an interpleader action to determine the rights to the proceeds. Plaintiff was sent notice of the interpleader action but did not answer or appear. A jury found no assignment of the policy and paid the proceeds to Gould. Defendant argued that Plaintiff was bound by the disposition in the previous interpleader action.
+
+Issue
+Did the Pennsylvania court in the interpleader action have personal jurisdiction over Plaintiff such as to bind her to the court’s judgment regarding the disposition of the proceeds?
+
+Held
+No. Reversed.  The court did have jurisdiction to garnish the property of Plaintiff regarding the judgment against her by Boggs. However, the interpleader action was an entirely separate action.  When an interpleader action is instituted, the court only has jurisdiction over those claimants that it could obtain personal jurisdiction over in an ordinary proceeding.  Because Plaintiff was absent from the state, not a citizen of the state, and was not served within the state, the judgment against her was void for lack of jurisdiction.
+
+Discussion
+This case states the old rule for interpleader actions in federal court requiring traditional bases for personal jurisdiction in order to bind claimants in interpleader actions.
+

@@ -1,0 +1,21 @@
+Citation
+130 F.R.D. 469, 1989 U.S. Dist. 16604
+
+Brief Fact Summary
+Plaintiffs, DM II, Ltd. et al., brought this action against co-partners, Hospital Corporation of America et al., to recover profits made by Defendants at the expense of the partnership.  Defendants moved to dismiss because the action was not brought in the name of the real party in interest.
+
+Synopsis of Rule of Law
+Rule 17(a) of the Federal Rules of Civil Procedure requires the parties who have the right sought to be enforced to bring the action.
+
+Facts
+Plaintiffs and Defendants are partners in a for-profit hospital and the land it sits upon.  Defendants opened up a hospital that competed against the partnership hospital.  Plaintiffs as a group of partners brought this action, but Defendants claimed that the action should be dismissed under Fed. R. Civ. P. Rule 17(a) because the partnership as a whole is the real party in interest and therefore the partnership can bring the suit or the partners must file separately.
+
+Issue
+The issue is whether Plaintiffs are the real party in interest.
+
+Held
+The real parties in interest are Plaintiffs.  The court looked at the Georgia Partnership Act where it gives each partner the right to bring an action against another partner for wrongful competition.  Since each partner can seek an action, and not the partnership itself, it is acceptable that Plaintiffs joined to seek relief.
+
+Discussion
+The party that has the ability under substantive law to enforce their right(s) is considered a real party in interest.
+

@@ -1,0 +1,21 @@
+Citation
+557 N.W.2d 567, 1997 Minn. 13, 31 U.C.C. Rep. Serv. 2d (Callaghan) 623
+
+Brief Fact Summary
+Randall Stowell, (Respondent), brought this suit seeking reimbursement in the amount of approximately $22,000 from Cloquet Co-op Credit Union, (Petitioner), that Petitioner paid on checks forged on Respondent’s account by Robert Nelson.
+
+Synopsis of Rule of Law
+An account holder is generally barred from recovering from the bank the value of a series of forged checks written on the account by a single forger if the account holder does not exercise “reasonable promptness” in examining his or her account statements and notifying the bank of any forged checks. The parties may determine by agreement the standards by which the bank’s responsibility is to be measured if those standards are not manifestly unreasonable.
+
+Facts
+Respondent opened a savings and draft account with Petitioner and signed a Draft Withdrawal Agreement. The agreement provided in part that Respondent had 20 days from mailing to object to items on the Draft Account statement before the accuracy of the items were considered final. Respondent read and understood this agreement. Between December of 1992 and September of 1993, Robert Nelson stole and forged several checks belonging to Respondent as well as the Petitioner’s issued statements. Respondent complained repeatedly to Petitioner that he had not received the statements but failed to take any other action.
+
+Issue
+Whether Plaintiff’s duty to inspect his account statements with reasonable promptness and notify the bank of any unauthorized checks could arise when the statements were mailed by the Defendant. Whether the Draft Withdrawal Agreement unreasonably attempts to eliminate Defendant’s duty to act in good faith and with ordinary care. Whether there was sufficient evidence to support the jury’s determination that Petitioner failed to exercise ordinary care in paying the forged checks.
+
+Held
+Yes. Plaintiff’s duty to inspect the account statements with reasonable promptness commenced at the time the statements were mailed by Defendant. No. The fact that the Draft Withdrawal Agreement sets forth a condition precedent to liability does not disclaim Petitioner’s responsibility for its own lack of good faith or failure to exercise ordinary care. No. The jury could not have reasonably found that Petitioner failed to exercise ordinary care in paying the forged checks.
+
+Discussion
+Plaintiff’s duty to inspect the account statements with reasonable promptness commenced at the time the statements were mailed by Defendant. U.C.C. Section:4-406(c) states that if a bank sends a statement of account the customer must exercise reasonable promptness in examining it. The term “send” means to deposit in the mail. Further policy reasons support this holding. The account holder rather than the bank bears the risk that account statements will be lost or intercepted in the mail. The account holder is in a better position to discover a pattern of forgery by someone s/he knows. Allowing account holders to avoid their duty to inspect their statements would place unreasonable financial burdens on banks by forcing them to prove receipt of account statements. The fact that the Draft Withdrawal Agreement sets forth a condition precedent to liability does not disclaim Petitioner’s responsibility for its own lack of good faith or failure to exercise ordinary care. U.C.C. Section:4-103 specifically states that the parties to an agreement cannot disclaim a bank’s responsibility for its own lack of good faith or failure to exercise ordinary care. The jury could not have reasonably found that Petitioner failed to exercise ordinary care in paying the forged checks. Petitioner provided testimony of its compliance with the standards of the baking industry through an expert witness. Respondent’s failure to present any evidence that Petitioner’s course of conduct somehow fell short of the reasonable commercial standards defining ordinary care is fatal to his claims.
+

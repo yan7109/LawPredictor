@@ -1,0 +1,24 @@
+Citation
+457 U.S. 202, 102 S. Ct. 2382, 72 L. Ed. 2d 786, 1982 U.S. 124.
+
+Brief Fact Summary
+Pursuant to a Texas law, a local school district conditioned the enrollment in its schools of the children of illegal aliens on their payment of a “tuition fee.” The constitutionality of the statute was brought into question.
+
+Synopsis of Rule of Law
+The denial of the free public education to the children of undocumented aliens within a state’s borders must be justified by a showing that such denial substantially furthers a substantial state interest.
+
+Facts
+A Texas statute authorized local school districts to deny free public education to the children of illegal aliens. Accordingly, a local school district conditioned the enrollment of such children in its schools on their payment of a “tuition fee”. The stated purpose of the alienage-based classification was to conserve limited governmental resources. Apellees, the children of illegal entrants, challenged the constitutionality of the classification on equal protection grounds.
+
+Issue
+By which standard of review should the courts evaluate the alienage-based classification at issue?
+
+Held
+Intermediate level scrutiny and no.
+
+Dissent
+Chief Justice Burger: Once it was established that illegal aliens are not a suspect class and that education is not a fundamental right, our analysis should have focused on whether the legislative classification bore a rational relationship to a legitimate state purpose. It is not irrational for a State to conclude that it owes a lesser responsibility to persons not legally present in the United States.
+
+Discussion
+The Supreme Court seems to find a “semi-fundamental” right here by employing a line of reasoning similar to that of Justice Marshall in his dissenting opinion in Rodriguez. In that case, Justice Marshall suggested that the Supreme Court apply a range of standards of review, intermediate between rational basis and strict scrutiny, of which the level of scrutiny for a particular case would depend on the governmental interest at stake and the invidiousness of the discrimination at issue.
+

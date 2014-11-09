@@ -1,0 +1,21 @@
+Citation
+513 F. Supp. 2d 229 [E.D. Pa 2007]
+
+Brief Fact Summary
+Feldman (P) argued that since he did not have notice of and assent to the terms of agreement with Google, Inc (D), there was no “meeting of minds” and so the online agreement which he must have clicked on before he could place internet ads on Google, Inc (D) was not binding. He also argued that because the agreement lacked definite essential terms as to price, it was unenforceable.
+
+Synopsis of Rule of Law
+When an online user has been given reasonable notice of the agreement’s term and it is clear that once the user clicks on the acceptance “button”, the user agrees to be bound by those terms notwithstanding that the agreement does not include a specific price term, but describes with adequate definiteness, a practicable process by which price is determined, then the online clickwrap agreement becomes binding on the online user.
+
+Facts
+Feldman (P), a lawyer by profession, bought advertising from Google Inc’s (D) in order to attract potential clients for his practice. Each time an internet user searched and clicked on Google (D) for keywords or “Adwords” purchased by him, he would be charged by Google (D) for each click. Feldman (P) however held the view that he was a victim of “click fraud” which results when competitors or pranksters who are not interested in the services of the advertiser, repeatedly click on the ad. This practice thereby drove up the advertising costs of Feldman (P) and discouraged him from advertising.
+
+Issue
+Is an online clickwrap agreement binding when an online user has been given reasonable notice of the agreement’s term and it is clear that once the user clicks on the acceptance “button”, the user agrees to be bound by those terms notwithstanding that the agreement does not include a specific price term, but describes with adequate definiteness, a practicable process by which price is determined?
+
+Held
+(Giles, J.) Yes. When an online user has been given reasonable notice of the agreement’s term and it is clear that once the user clicks on the acceptance “button”, the user agrees to be bound by those terms notwithstanding that the agreement does not include a specific price term, but describes with adequate definiteness, a practicable process by which price is determined, then the online clickwrap agreement becomes binding on the online user.
+
+Discussion
+Feldman (P) previously affirmed that there was an express contract between the parties before he “changed his tune” in an amended complaint by arguing that the express contract did not exist because the agreement was not valid. In place of his express contract allegations, Feldman (P) advanced the theory of implied contract on the ground that he did not have notice of and did not assent to the terms of the agreement and therefore there was no “meeting of the minds”.
+

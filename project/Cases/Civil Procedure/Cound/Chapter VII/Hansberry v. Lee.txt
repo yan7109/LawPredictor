@@ -1,0 +1,21 @@
+Citation
+22 Ill.311 U.S. 32, 61 S. Ct. 115, 85 L. Ed. 22 (1940)
+
+Brief Fact Summary
+Plaintiffs, a class of landowners, brought suit in Illinois state court to enforce a restrictive covenant that required 95% of the owners to sign it in order to be effective. Plaintiffs argued that a previous case establishing that 95% of the owners signed the covenant was binding on Plaintiffs and Defendant. The Court agreed with this argument and the Supreme Court of Illinois affirmed.
+
+Synopsis of Rule of Law
+A party is not bound by res judicata from a previous class action if the party was not adequately represented at the prior proceeding. A case cannot be considered a “class action” if a class member’s failure to enforce a right would create a conflict of interest with another class member’s enforcement.
+
+Facts
+Plaintiffs, class of landowners, brought suit in Illinois state court to enforce a restrictive covenant. The covenant provided that it was not effective unless it was signed by 95% of the owners of the frontage. Defendant Hansberry, an African American, purchased some of the land from an owner who had signed the agreement. The suit was brought to enjoin the sale as a breach of the covenant. An earlier Illinois state court action established that 95% of the owners had signed the covenant. Defendant argued that res judicata did not bind Defendant by this judgment because they were not parties to the action nor were they in privity with the parties or successors in interest. Defendant also argued that it would deny them due process if the prior decision was binding. The Circuit Court held that the issue was binding even though they found that only 54% of the owners had actually signed it. Although the stipulation was untrue, it was not fraudulent or collusive. The Supreme Court of Illinois affirmed, saying that it was a class action and therefore was binding on all the class members unless reversed or set aside in direct proceedings. Because the sellers of the land to Defendant were members of the class, Defendant was bound by the decision as well. Defendant appealed.
+
+Issue
+Was the previous lawsuit finding that 95% of the owners signed the restrictive covenant a class action?  Is Defendant bound by the finding in the previous lawsuit if Defendant was not adequately represented in the previous lawsuit?
+
+Held
+Both issues: No. Reversed.   In a class action, the members of the class may be bound by a judgment even if they were not made parties to the action. However, a judgment in a class action is not binding on all the members of the class under res judicata when the interests of absent class members were not fairly represented.     When a restrictive covenant is involved, the only people bound were the signers and their successors, which is not a class. If signers were to resist enforcement of the covenant and not comply with their obligations under the covenant, the resistors would be part of a different class. This potential conflict of interest prevents the class from having the commonality required to form a class.  This is not the case where the class as a whole is either asserting a common right or challenging an asserted obligation. The parties here can either assert their rights or challenge their obligations. To have one side represent the other would deny due process.  In the first action, the plaintiffs did not designate the defendants in the suit as a class, or seek an injunction against others than those named defendants. In addition, the plaintiffs were not representing Defendant’s interest, which is in resisting enforcement of the covenant. Therefore, Defendant cannot be bound by the previous decision.
+
+Discussion
+The Court’s opinion shows a situation where internal conflict in a prospective class does not satisfy a requirement that the class has a common interest. In addition, even if the previous lawsuit were considered a class action, failure to represent a party’s interest prevents any decision in the previous case from being binding on absent parties.
+

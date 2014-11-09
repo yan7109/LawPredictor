@@ -1,0 +1,21 @@
+Citation
+480 U.S. 102 (1987)
+
+Brief Fact Summary
+Gary Zurcher lost control of his Honda motorcycle and collided with a tractor trailer.  He was severely injured and his passenger/wife was killed.  Zurcher filed a product liability action naming the manufacturer of the motorcycle tire’s tube and Asahi Metal, the manufacturer of the tire’s tube’s valve assembly.
+
+Synopsis of Rule of Law
+The “substantial connection,” between the defendant and the forum State necessary for a finding of minimum contacts must come about by an action of the defendant purposefully directed toward the forum State.
+
+Facts
+On a California highway Gary Zurcher lost control of his Honda motorcycle and collided with a tractor trailer.  He was severely injured and his passenger/wife was killed.  Zurcher filed a product liability action alleging the 1978 accident was caused by a sudden loss of air and an explosion in the rear tire of the motorcycle and that the tire, tube and sealant were defective, naming the manufacturer of the tube and Asahi Metal, the manufacturer of the tube’s valve assembly.  Zurcher’s claims against the tire manufacturer settles and is dismissed, leaving only the tire manufacturer’s indemnity action against Asahi.
+
+Issue
+Whether the mere awareness on the part of a foreign defendant that components it manufactured, sold, and delivered outside the United States would reach the forum State in the stream of commerce constitutes “minimum contacts” between the defendant and the forum State such that the exercise of jurisdiction “does not offend ‘traditional notions of fair paly and substantial justice.’” International Shoe Co. v. Washington, quoting Milliken v. Meyer.
+
+Held
+The exertion of personal jurisdiction over Asahi exceeds the limits of due process.
+
+Concurrence</span> Chief Justices Brennan, White, Marshall, Blackmun, Powell and Stevens regarding Part II-B, but did not agree with Parts II-A of the stream-of-commerce theory, nor with its conclusion that Asahi did not “purposely avail itself of the California market”, however did agree that the exercise of personal jurisdiction over Asahi would not comport with “fair play and substantial justice.”; and Powell and Scalia join regarding Parts II-A and III.</br><span class="heading">Discussion
+Asahi seeks to quash Cheng Shin’s service of summons arguing California’s long-arm statute, arguing the state could not exert jurisdiction over it with the Due Process Clause of the Fourteenth Amendment.  Asahi is a Japanese corporation that manufactures the tire valve assemblies in Japan and sells the assemblies to Cheng Shin for use in the tire tubes.  The Supreme Court of California interpreted this case in light of World-Wide Volkswagen and held that because the stream of commerce eventually brought some valves Asahi sold Cheng Shin into California, Asahi’s awareness that its valves would be sold in California was sufficient to permit California to exercise jurisdiction over Asahi.  Here however, the court found that there was no actions by Asahi that demonstrated purposeful availment to the California market.
+

@@ -1,0 +1,21 @@
+Citation
+496 U.S. 444, 110 S. Ct. 2481, 110 L. Ed. 2d 412 (1990)
+
+Brief Fact Summary
+The constitutionality of a sobriety check point was at issue.
+
+Synopsis of Rule of Law
+The checkpoint program is consistent with the Fourth Amendment because “the balance of the State’s interest in preventing drunken driving, the extent to which this system can reasonably be said to advance that interest, and the degree of intrusion upon individual motorists who are briefly stopped, weighs in favor of the state program.”
+
+Facts
+The Michigan State Police established a sobriety checkpoint pilot program.  It only went on for one day.  “Under the guidelines, checkpoints would be set up at selected sites along state roads. All vehicles passing through a checkpoint would be stopped and their drivers briefly examined for signs of intoxication. In cases where a checkpoint officer detected signs of intoxication, the motorist would be directed to a location out of the traffic flow where an officer would check the motorist’s driver’s license and car registration and, if warranted, conduct further sobriety tests. Should the field tests and the officer’s observations suggest that the driver was intoxicated, an arrest would be made. All other drivers would be permitted to resume their journey immediately.”
+
+Issue
+“[W]hether a State’s use of highway sobriety checkpoints violates the Fourth and Fourteenth Amendments to the United States Constitution[?]”
+
+Held
+The court first observed that the police department agrees there is a Fourth Amendment “seizure” when a vehicle is stopped at a checkpoint.  Also, that the question becomes whether the stop is “reasonable” under the Fourth Amendment.  The majority  went out of its way to point out, “[a]s pursued in the lower courts, the instant action challenges only the use of sobriety checkpoints generally. We address only the initial stop of each motorist passing through a checkpoint and the associated preliminary questioning and observation by checkpoint officers.”  The court found that the appropriate test to be applied is the balancing test from [Brown v. Texas], which involves “balancing the state’s interest in preventing accidents caused by drunk drivers, the effectiveness of sobriety checkpoints in achieving that goal, and the level of intrusion on an individual’s privacy caused by the checkpoints.”
+
+Discussion
+In is interesting to read the majority and dissenting opinions along side one another so as to see how the different judges reach their decisions.
+

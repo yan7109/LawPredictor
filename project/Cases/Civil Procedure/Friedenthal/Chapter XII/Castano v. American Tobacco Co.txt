@@ -1,0 +1,21 @@
+Citation
+22 Ill.84 F.3d 734 (5th Cir. 1996)
+
+Brief Fact Summary
+The federal court certified a class described as those that were dependant on nicotine and who smoked Defendant’s cigarettes, their estates and derivative claimants. Defendant appealed class certification arguing that the lower court did not conduct the proper analysis.
+
+Synopsis of Rule of Law
+The District Court is required to consider variations in state law, whether common issues of law and fact predominate over individual issues and the nature and novelty of the claim prior to certifying a class.
+
+Facts
+The District Court certified a class of smokers of American Tobacco’s (Defendant’s) cigarettes that were nicotine dependent. Defendant appealed arguing that the District Court did not conduct a proper analysis under Rule 23(b)(3) and Rule 23(c)(4) of the Federal Rules of Civil Procedure.
+
+Issues
+Did the District Court err in granting class certification without analyzing the extent to which state law varies on the issues raised and whether common questions of law and fact predominate over individual issues? Is the class action the superior method of adjudication for the injuries allegedly sustained by proposed class members?
+
+Held
+First issue: Yes. Second issue: No.  Reversed.
+
+Discussion
+The Court’s analysis of whether class certification was proper identifies problems associated with mass tort actions in numerous jurisdictions. If the laws of the states are not consistent on the issues, the issues are novel, and/or certain elements require individual analysis, such circumstances argue against class certification.  All of these factors should be considered when determining if a mass tort action is proper for class certification.
+

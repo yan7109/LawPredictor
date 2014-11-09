@@ -1,0 +1,21 @@
+Citation
+254 Neb. 777, 580 N.W.2d 86 (1998)
+
+Brief Fact Summary
+Appellant was awarded only minimal damages after the trial court granted Oregon Trail Eye Clinic’s (Appellee’s) Motion in Limine pertaining to deposition testimony. The District Court for Scotts Bluff County (Nebraska) denied her Motion for a New Trial after she was prevented from presenting evidence regarding her mental anguish.
+
+Synopsis of Rule of Law
+A plaintiff may adduce proof and potentially recover damages for the mental anguish of reasonably fearing acquired immunodeficiency virus resulting from a physical injury when the plaintiff may have been exposed, via a medically sufficient channel of transmission, to the tissue, blood, or body fluid of another in circumstances where the identity of the patient upon whom the contaminated needle or instrument was used is unknown, and when it is impossible or impracticable to ascertain whether any such tissue, blood, or body fluid may be human immunodeficiency virus-positive.
+
+Facts
+Plaintiff, a maintenance worker, was disposing non-medical trash at Defendant’s clinic when she was stuck twice by needles penetrating a trash bag. She was given medical attention, and counseled by a nurse with regard to the danger of human immunodeficiency virus (HIV) or hepatitis infection. The nurse told her that she would require testing for HIV over a year’s period and should conduct herself as if she were infected. She was tested, and after three months medical professionals concluded that there was a 95% chance she was not infected. Prior to trial, Appellee offered a Motion in Limine to exclude testimony concerning Plaintiff’s mental anguish and, while sustaining Appellant’s Motion for a Directed Verdict instructed the jury that it may not award any damages for anxiety, mental suffering or emotional distress. The jury returned minimal damages, the trial denied Plaintiff’s Motion for a New Trial, and she appealed.
+
+Issue
+May a plaintiff, who sustains a minimal physical injury, caused by the defendant’s negligence, recover damages for anxiety and mental suffering occasioned by his or her fear of testing HIV positive and contracting AIDS, absent a showing of actual exposure to blood or body fluid infected with HIV?
+
+Held
+The court reversed the trial court’s order denying Appellant’s Motion for a New Trial and remanded the case for a new trial to be held solely on the issue of damages.
+
+Discussion
+The Supreme Court of Nebraska, in Hartwig, eschewed the approach adopted by other jurisdictions, in connection with instances when a Plaintiff was possibly exposed to HIV/AIDS, the “actual exposure” rule, that it is reasonable to conclude that a Plaintiff could suffer emotional distress only as a consequence of actual exposure to the virus, on the basis that the “fear-of-AIDS” issue could only be resolved in terms of factual basis. Thus, the issue was only properly adjudicated through the factual findings of a jury. The lower court’s granting the motion in limine, excluding testimony concerning Plaintiff’s mental anguish, was thus improper. As the court explained: “[a]pplication of the actual exposure rule is antithetical to the goal of objective quantification of the reasonableness and genuineness of one’s claimed fear of AIDS,” in the absence of proof that no transmission occurred. In other words, when it is possible one has been exposed, there is a period of uncertaint
+

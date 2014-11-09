@@ -1,0 +1,21 @@
+Citation
+272 Pa. 172, 116 A. 150, 1922 Pa.
+
+Brief Fact Summary
+Iron Trade Products Co. (Plaintiff), contracted with Wilkoff Co. (Defendant), for the delivery of rails at a set price. When Defendant did not deliver the rails, Plaintiff purchased them from another supplier at a higher price, and sued for the difference from the contract price. The Supreme Court of Pennsylvania affirmed judgment for the Plaintiff.
+
+Synopsis of Rule of Law
+A party may not breach a contract simply because it is difficult for him/her to perform his obligations on the contract.
+
+Facts
+Plaintiff contracted with Defendant to purchase iron rails at a specific price. Supply of this type of rails was limited. Defendant was negotiating with suppliers to buy rails for the Plaintiff, while Plaintiff purchased a similar quantity of rails directly from the same suppliers. Defendant did not deliver the rails under its contract with Plaintiff, claiming that Plaintiff’s other purchase reduced the amount of rails available, thereby significantly increasing the price Defendant would have to pay in order to perform the contract with Plaintiff. Plaintiff was forced to buy the rails at a higher price from another supplier, and sued for the difference between the contract price and the price it was forced to pay. Defendant argued that Plaintiff’s interference caused the breach. The trial court held for the Plaintiff, and the Supreme Court of Pennsylvania affirmed.
+
+Issue
+Whether a party may repudiate an agreement because performance becomes difficult or less profitable than at the time the contract was made?
+
+Held
+No. In general, when one party interferes with or prevents the other party from performing his part of the contract, the other party may be excused for nonperformance. However, in this case, Plaintiff did not intend to interfere with Defendant’ performance when it made the other purchase of rails, and nothing in the contract prohibited it from purchasing other rails. Defendant’s performance was not prevented by Plaintiff’s conduct, it was only made more difficult and expensive. This does not excuse nonperformance.
+
+Discussion
+That a bargain turns out not to be profitable or easy to perform for one party to the contract does not excuse that party from performing on the contract. This is a potential risk of doing business, and courts will not interfere in those matters.
+

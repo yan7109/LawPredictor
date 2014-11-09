@@ -1,0 +1,21 @@
+Citation
+93 Ill. App. 3d 366, 48 Ill. Dec. 736, 417 N.E.2d 138 (App. Ct. 1981)
+
+Brief Fact Summary
+Plaintiff Mahrenholz (Plaintiff) sought to quiet title deeded to Defendant School Board (Defendant) pursuant to fee simple. The lower court dismissed the action, and Plaintiff appeals.
+
+Synopsis of Rule of Law
+Use of the word “only” in granting clause regarding a condition establishes that a grantor intended to create a fee simple determinable rather than a fee simple subject to condition.
+
+Facts
+Grantor’s decedent conveyed property interests to Plaintiff. Plaintiff sought to quiet title. Defendant grantee opposed the action on the grounds that Grantor never reentered the conveyed property and therefore did not own the property and could not convey an interest. Land had been conveyed to Defendant “to be used for school purposes only; otherwise to revert to Grantors herein.” Grantor’s decedent son and heir transferred his future interest, allegedly after the fee owner had stopped using the land for school purposes. If the transferor originally had a possibility of reverter, that possibility of reverter “automatically” became a fee simple absolute once the land was no longer used for school purposes. Since fee interests are fully transferable, the transfer would have been effective. On the other hand, if the transferor had conveyed a right of entry, that right would not have been converted to a fee simple unless the holder of the right had actually reentered the property
+
+Issue
+Does use of the word “only” in a granting clause regarding a condition establishe that a grantor intended to create a fee simple determinable rather than a fee simple subject to condition?
+
+Held
+Yes. Use of the word “only” in a granting clause regarding a condition establishes that a grantor intended to create a fee simple determinable rather than a fee simple subject to condition. Resolution of this matter depends upon proper interpretation of the deed’s language. If Grantor had only a right of reentry for condition broken, then Grantor could not own the property until he had legally re-entered the land. If the possibility of reverter existed, then he owned the land as soon as it ceased to be used for school purposes. The grantor used the word “only.” Use of this word indicates that the grantor wanted the land to be used by the school district for school purposes only for as long as it was needed and no longer. This is an example of a grant that contains a limitation within the granting clause. It suggests a limited grant, rather than a full grant subject to condition, and thus both theoretically and linguistically, gives rise to a fee simple determinable.
+
+Discussion
+Pull out your property books
+

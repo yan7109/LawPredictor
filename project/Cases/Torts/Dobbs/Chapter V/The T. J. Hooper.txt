@@ -1,0 +1,15 @@
+Citation
+60 F.2d 737
+
+Brief Fact Summary
+Defendant, owner of two barges and third-party defendant owner of two tugs appealed an interlocutory decree from the District Court of the United States for the Southern District of New York, which declared the tugs and the barges jointly and severally liable to plaintiff cargo owners, because all of the vessels were unseaworthy.<span class="heading">Synopsis of Rule of Law.</span> There are precautions so imperative that even their universal disregard will not excuse their omission.
+
+Facts
+Plaintiffs sued Defendant, who is the owner of barges, which sank in a storm. The latter then sued third-party defendant, who is the owner of tugs, which towed the barges. The trial court found all of the vessels to be unseaworthy, and held each tug and barge jointly and severally liable to Plaintiffs. Both Defendants appealed. The court affirmed, holding that the barges were unseaworthy in fact, and that their owners did not take reasonable precautions to make them seaworthy as required by its charter. The barges could not withstand coastal storms, leaked badly under weather-related stress, and their pumps were not properly inspected. The court also upheld the principal finding that the tugs were unseaworthy, because they did not have radio sets with which they could receive weather reports, even though such sets were not standard in the industry.<span class="heading">Issue.</span> Did the fact that there was an industry custom that tugs did not carry radios relieve Defendants of their responsibility to maintain radios?
+
+Held
+No. While certain courts had held that the industry standard constituted proper diligence, courts have an obligation to set a standard consistent with prudence and proper caution.
+
+Discussion
+Though the context is maritime law, and Judge Hand’s standard of prudence is set against the possible exculpatory weight of the standards of industry, at its core the standard applied in The T. J. Hooper is really the most common standard of care in negligence law: one that requires the Defendant to act as would a reasonably prudent person in the same or similar circumstances. If the Defendant does so, she is protected from negligence liability. Failure to do so constitutes unreasonable conduct and, hence, breach of duty. This is an objective standard that compares the Defendant’s conduct to the external standard of a reasonable person. This decision expands on that standard by applying it in the context of accepted practice.
+

@@ -1,0 +1,24 @@
+Citation
+537 U.S. 850, 123 S. Ct. 194, 154 L. Ed. 2d 81 (2002)
+
+Brief Fact Summary
+Petitioner, Wheat, desired to hire Iredale, the attorney who was already representing two other defendants to various crimes all arising out of the same course of events.  The District Court denied petitioner’s request, citing conflict of interest, and petitioner appealed.
+
+Synopsis of Rule of Law
+“While the right to select and be represented by one’s preferred attorney is comprehended by the Sixth Amendment, the essential aim of the Amendment is to guarantee an effective advocate for each criminal defendant rather than to ensure that a defendant will inexorably be represented by the lawyer whom he prefers.”
+
+Facts
+Petitioner, along with other co-defendants, was charged with participation in a drug conspiracy.  Two other defendants, Gomez-Barajas and Bravo were represented by attorney Eugene Iredale, and petitioner also wished to be represented by this attorney.  Because of the conflict of interest, the District Court denied petitioner’s request and petitioner was eventually tried and found guilty of some of the charges.  The Court reasoned that the conflicts would be too damning to petitioner, although he maintained he wanted to waive his right to conflict-free counsel.  Petitioner appealed and the Court of Appeals for the Ninth Circuit affirmed.
+
+Issue
+Whether the Sixth Amendment right to counsel allows a defendant to waive the right to conflict-free counsel, in order to obtain the counsel of his choosing.
+
+Held
+Affirmed.  Chief Justice Rehnquist delivered the opinion of the court, noting that the Sixth Amendment right to choose one’s own counsel is often circumscribed by the right to effective assistance of counsel.  Particularly, as in this case, it is at the discretion of the District Court to determine whether certain counsel could offer effective representation and, should the court decide it cannot, the court has the right to abrogate the defendant’s wishes.
+
+Dissent
+Justices Marshall and Stevens both wrote dissenting opinions, maintaining that the while the District Court may be given latitude to abrogate a defendant’s choice in counsel in the case of true, undeniable conflict; the facts of this case were given greater significance and, no true conflict existed at the time of trial.
+
+Discussion
+Its important to remember that the Sixth Amendment right to counsel may always be circumvented by the court’s duty to determine whether defendants are being provided with effective assista
+

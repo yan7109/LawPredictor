@@ -1,0 +1,21 @@
+Citation
+901 F.2d 1463, 1990 U.S. App.
+
+Brief Fact Summary
+The defendant, Kolby Kristiansen (the “defendant”), was convicted of escape after he did not return to a halfway house for several days.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.”) Rule 704(b) prohibits mental health experts from giving their opinion whether the accused had, at the time of the crime, the required mental state.
+
+Facts
+The defendant was transferred to a halfway house in April 1988.  In June, the defendant called the halfway house and told them he was sick and could not return that night.  He called the next two days because he was still sick.  He was told to return to the house and he would receive help obtaining treatment, but he did not return.  He was arrested days later outside his wife’s home, and charged with escape.  At trial, the defendant contended he was not guilty because he lacked the willful intent to escape.  The defense expert diagnosed the defendant as a cocaine addict who was suffering from psychosis.  The prosecution offered contradictory evidence, and the defendant was found guilty.  The district court did not allow the defendant to ask the expert whether the defendant was able to appreciate the nature and quality of his actions, and whether the alleged mental disease or defect of the defendant would affect one’s ability to appreciate their actions.
+
+Issue
+Did the District Court improperly exclude defense questions of an expert, while allowing improper prosecution questions?
+
+Held
+Senior Circuit Judge Heaney issued the opinion of the Eight Circuit Court of Appeals and held that the district court properly excluded the question regarding the defendant’s ability to appreciate the nature and quality of his actions.  However, the district court should have allowed the defense to ask whether the alleged mental disease or defect would affect one’s ability to appreciate their actions.  The court also determined the error was not prejudicial, because a substantially similar question was allowed to be asked.
+
+Discussion
+The questions which the district court should have allowed, relate to the qualities and symptoms of the disease, and does not require an answer relating to the defendant’s culpability at the time of the crime.
+

@@ -1,0 +1,21 @@
+Citation
+220 F.2d 101, 1955 U.S. App.
+
+Brief Fact Summary
+McCloskey & Co. (Plaintiff) sued Minweld Steel Co. (Defendant) for anticipatory breach of three construction contracts when Defendant indicated that it was having difficulty procuring materials. The trial court held that Plaintiff had not demonstrated that Defendant had repudiated its agreements with the Plaintiff, and dismissed the case. On appeal by the Plaintiff, the United States Court of Appeals for the Third Circuit affirmed.
+
+Synopsis of Rule of Law
+In order for a party to recover on a claim of anticipatory breach of contract, the other party must have unequivocally refused to perform, or have made clear and affirmative statements indicating that he is unable to perform.
+
+Facts
+Plaintiff, a contractor, entered into three agreements with the Defendant, a subcontractor, whereby Defendant would provide and construct structural steel for two hospitals. There was no specified date for performance in the contracts, but the contracts did provide that prompt delivery and construction was of the essence. After Defendant received the specifications, Plaintiff inquired as to the dates of delivery. Defendant provided a schedule for delivery and construction, and Plaintiff threatened to terminate the contracts if it did not receive assurances that delivery and construction would occur within thirty days after Defendant received the necessary steel. Defendant informed Plaintiff that there was difficulty in obtaining the necessary steel because of a shortage, but that it was anxious to perform on the contracts. Defendant also asked Plaintiff for assistance in obtaining the steel from suppliers. Plaintiff treated the contracts as repudiated and hired another subcont
+
+Issue
+Whether a party’s mere indication that it is having difficulty in preparing to perform in the future constitutes an anticipatory breach of contract?
+
+Held
+No. In order for a party to treat another’s actions or statements as a repudiation amounting to an anticipatory breach of contract, the other party’s actions or statements must clearly and absolutely indicate a refusal to perform or an inability to do so. In this case, Defendant was having difficulty obtaining the materials necessary for its performance, but it requested assistance and indicated it still intended to perform its contracts with Plaintiff.
+
+Discussion
+This case exemplifies the risks associated with declaring an anticipatory breach based on subjective fears that the other party will not be able to perform based on that party’s words or actions. The test employed by courts is objective, and the repudiation must be clear and absolute. Otherwise, the party who initially declared that the other was in breach may itself be found to have wrongfully repudiated the contract.
+

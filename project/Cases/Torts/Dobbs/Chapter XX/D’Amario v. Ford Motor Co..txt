@@ -1,0 +1,18 @@
+Citation
+806 So. 2d 424 (Fla. 2001)
+
+Synopsis of Rule of Law
+Crashworthiness cases involve separate and distinct injuries—those caused by the initial collision and those subsequently caused by a second collision from a defective product.  Under the majority view, the fault of the plaintiff or a third party in causing the initial accident is recognized as a defense because that is what created the circumstances in which the second accident occurred.  The minority view rejects the application of comparative fault of the plaintiff or a third party and focuses on whether the manufacturer was negligent in designing or manufacturing its product.  Florida courts and this case adopt the minority view.
+
+Facts
+Clifford Harris, plaintiff D’Amario’s minor son, was injured when the car in which he was riding as a passenger collided with a tree and then burst into flames.  After the crash, an explosion engulfed the car in flames causing Harris to lose three limbs and suffer burns to much of his body.  The car was driven by a friend of Harris who was intoxicated with a BAC of .14 percent and speeding.  Harris’ mother Karen D’Amario sued Ford alleging that a defective relay switch in the automobile did not disrupt the flow of power to the fuel pump, thereby causing the fire and Harris’s injuries.  Ford asserted as an affirmative defense that the injuries were proximately caused by the negligence of the driver of the car.  The jury returned a verdict for Ford, finding that it was not a legal cause of the injuries to Harris.   Plaintiff’s appealed, taking issue with the trial court’s allowance of Ford’s fault apportionment defense and evidence introduced in support of that defense as to the driver’s actions.
+
+Issue
+Whether an automobile manufacturer may introduce evidence of a driver’s comparative fault in the initial accident as a defense to a crashworthiness case in which the plaintiff claims the automobile was defective.
+
+Held
+No.  Crashworthiness cases involve separate and distinct injuries—those caused by the initial collision and those subsequently caused by a second collision from a defective product.  The court pointed out the majority and minority views from other states.  Under the majority view, the fault of the plaintiff or a third party in causing the initial accident is recognized as a defense because that is what created the circumstances in which the second accident occurred.  The minority view rejects the application of comparative fault and focuses on the underlying rationale for imposing liability against automobile manufacturers for secondary injuries caused by a design defect.  The court analogized this case to a medical malpractice case, Whitehead v. Toyota Motor Corp., 897, S.W.2d 684 (Tenn. 1995).  Just as the injury-causing fault of the patient in Whitehead was held not relevant in assessing the doctor’s subsequent and separate negligence, the court held that the accident-causing fault of the driver in the instant case would not be relevant in a crashworthiness case in assessing a manufacturer’s neglect in designing an automobile.  The court concluded that evidence about the driver’s fault would unduly confuse the jury.  The Florida Supreme Court thereby quashed the decision of the court of appeal upholding the verdict for Ford.
+
+Discussion
+In a crashworthiness case, the plaintiff has the burden of proving the existence of a defect and its causal relationship to her injuries, as well as the existence of additional or enhanced injuries caused by the defect.  The major concern of those courts following the majority rule is in seeing that successive tortfeasors only be held liable for the damages they cause, and not held liable for damages caused by the initial tortfeasor.
+

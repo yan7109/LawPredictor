@@ -1,0 +1,21 @@
+Citation
+22 Ill.318 U.S. 363, 63 S. Ct. 573, 87 L. Ed. 838 (1943)
+
+Brief Fact Summary
+The United States issued a check to a recipient. The check was stolen, cashed at J.C. Penney’s, which was turned over to Defendant who guaranteed all prior endorsements and collected from the Federal Reserve. Eight months after learning the intended recipient never received the check, the United States informed “interested parties” of the forgery and subsequently sued Defendant to collect the amount of the check.
+
+Synopsis of Rule of Law
+When application of the law requires a determination of the rights and obligations of the United States arising from a federal source of law, the Erie doctrine does not apply. Federal courts must interpret federal law to determine the legal and factual issues of the case.
+
+Facts
+The United States issued a check to a recipient. The check was presumed to be stolen because the intended recipient never received the check. The check was cashed at a J.C. Penney with the recipient’s forged signature. J.C. Penney turned the check over to Clearfield Trust Co., Defendant. Defendant collected the funds owed on the check from the Federal Reserve. The United States informed “interested parties” eight months after it learned that the intended recipient never received the check. The United States then sued Defendant based on its guaranty of all prior endorsements, to recover the amount of the check. The District Court ruled that Pennsylvania law applied and held that the United States was barred from bringing suit due to the eight month delay from learning of the forgery to notifying any parties about the forged check. The United States appealed and the Court of Appeals reversed. Defendant appealed to the Supreme Court.
+
+Issue
+Does Pennsylvania law apply to determining the United States’ right to recover on a forged check?
+
+Held
+No. Affirmed.   State law and the rule of Erie R. Co. v. Tompkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188(1938) does not apply to the rights and obligations of the United States.  Rules governing the United States’ right to issue commercial paper are founded in the U.S. Constitution. The United States issued the check pursuant to the U.S. Constitution, federal statutes and regulations.  Holding that state law governs the United States’ right to recover on a forged check would cause great uncertainty and inconsistent rules among the states. Thus, application of federal law is required so that the law governing such issues is uniform.     Under federal law and case precedent, prompt notice is not a condition precedent to recovery. However, it may be a defense. The United States, when doing business, must do business the way others do business.  The general rule is that if a drawee does not give prompt notice of the forgery, damage is presumed and the drawee is barred from recovering. However, in this situation, the burden should be on Defendant to show damage for the delay in notifying Defendant of the forgery. Although there is evidence tending to show that the forger was likely to be caught if there was no delay, this is not good enough to show an actual injury.
+
+Discussion
+This case illustrates that there is still a federal common law in a situation where the United States is a party and the issues involve rights and obligations of the United States that come from federal law. In this case, the Court must use case precedent to interpret the United States’ right as drawee to collect on a forged check. The Court’s creation of a general rule regarding commercial paper demonstrates the Court’s ability to create federal common law when circumstances warrant.
+

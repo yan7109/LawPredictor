@@ -1,0 +1,21 @@
+Citation
+509 U.S. 137, 113 S. Ct. 2539, 125 L. Ed. 2d 113 (1993)
+
+Brief Fact Summary
+R. Gordon Darby (Petitioner) was a self-employed South Carolina real estate developer whom the Department of Housing and Urban Development (HUD) debarred from participation in the program for a period of 18 months. Petitioner filed suit against HUD (Respondents) in District Court, and Respondents filed a motion to dismiss on the ground that Petitioner had failed to exhaust administrative remedies.
+
+Synopsis of Rule of Law
+Where the APA applies, an appeal to “superior agency authority” is a prerequisite to judicial review only when expressly required by statute or when an agency rule requires appeal before review and the administrative action is made inoperative pending that review.
+
+Facts
+Petitioner owned a large amount of real estate he had purchased from HUD using straw purchasers to buy the property and then transfer it back to him. This plan was to avoid HUD’s “rule of seven,” which prevented rental properties from receiving single- family mortgage insurance if the mortgagor already had financial interest in seven or more similar projects in the same project or subdivision.  A combination of low rents, falling interest rates and a depressed rental market resulted in HUD becoming liable for over $6.6 million in insurance claims. HUD responded with suspicion of Petitioner’s activities, and proposed debarment. The Administrative Law Judge concluded that Petitioner had disclosed most of the relevant facts of his plan to avoid the “rule of seven” to HUD employees, and capped the disbarment at 18 months.  Petitioner filed suit in the United States District Court for the District of South Carolina seeking an injunction and a declaration that the administrative actions were imposed for the purpose of punishment, in violation of HUD’s own regulations, and therefore “not in accordance with law” under APA Section:706(2)(A). The District Court denied Respondent’s motion to dismiss, holding that the administrative remedy was inadequate and a resort to that remedy would have been futile. However, the Court of Appeals reversed.
+
+Issue
+Do federal courts have the authority to require that a plaintiff exhaust available administrative remedies before seeking judicial review under APA Section:701, where neither the statute nor the agency rules specifically mandate exhaustion as a prerequisite to judicial review?
+
+Held
+No. Reversed and remanded. The HUD statute and agency rules did not expressly require administrative exhaustion, so it was not required prior to seeking judicial review and the courts could not properly require it.  Dissent. None.  Concurrence. None.
+
+Discussion
+Under Section:10(a) of the APA, a “person suffering legal wrong because of agency action, or adversely affected or aggrieved by agency action within the meaning of a relevant statute, is entitled to judicial review thereof.” Section:10(c) establishes that such review is available. When an aggrieved party has exhausted all administrative remedies expressly prescribed by statute or agency rule, the agency action is “final for the purposes of this section” and “subject to judicial review.” If courts were to impose additional exhaustion requirements beyond those provided by Congress or the agency, Section:10(c) would make no sense.
+

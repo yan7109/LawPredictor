@@ -1,0 +1,18 @@
+Citation
+394 N.J. Super. 338, 926 A.2d 859 (Super. Ct. App. Div. 2007) [2007 BL 41624]
+
+Synopsis of Rule of Law
+The mere knowledge of serious peril threatening death or great bodily harm to another, which an identified defendant might avoid with little inconvenience, creates a sufficient relation to impose a duty of action.
+
+Facts
+Defendants Mairs, Swanson and Newell were 18-year-olds drinking at a friend’s home.  They decided to leave with Mairs driving while it was raining and the road was wet.  Mairs lost control of the car, struck a motorcycle driven by Plaintiff Podias, and went over the guardrail.  Swanson saw Podias lying in the roadway and because he saw no movement and heard no sound, told Mairs and Newell that he thought Mairs had killed the cyclist.  Even though all three had cell phones, no one called for assistance.  Instead, Mairs called his girlfriend, Swanson placed 17 phone calls in the next one-and-a-half hours and Newell made 27 phone calls in the next two-and-a-half hours, but none of them emergency calls.  After ten minutes all three got back in the car and leave the scene.  Swanson instructed Mairs “not to bring up his name or involve him in what occurred”.  The three drove south for a short while until Mairs car broke down.  Mairs pulled over in the bushes and waited for his girlfriend to arrive, while Swanson and Newell ran off into the woods.  Meanwhile, a vehicle operated by Patricia Uribe ran over Podias, who died as a result of injuries sustained in both accidents.  The trial court granted summary judgment in favor of Swanson and Newell and plaintiff appealed.
+
+Issue
+Whether passenger defendants, whose actions did not result in the car accident, nevertheless had a duty to prevent bodily harm to the victim of the accident.
+
+Held
+Yes.  Ordinarily, mere presence at the commission of a wrong is not enough to charge one with responsibility to go to the aid of another human being who is in danger of losing his life.  However, a duty of affirmative action may be found where there is some “definite relation between the parties of such a character that social policy justifies the imposition of a duty to act.”  The mere knowledge of serious peril threatening death or great bodily harm to another, which an identified defendant might avoid with little inconvenience, creates a sufficient relation to impose a duty of action.  The court found that the record contained facts from which a reasonable jury could find defendants breached a duty which proximately caused Podias’ death.  The risk of harm or death to Podias from the defendants’ failure to summon help was readily foreseeable.  In addition, the harm to the victim could have been prevented with relative ease.  All three had cell phones and used them for their own purposes rather than to call for emergency assistance.  Accordingly, the appeals court reversed the trial court’s granting summary judgment for defendants and remanded.
+
+Discussion
+The Restatement Third of Torts § 43 recognizes that an actor who undertakes to render services to another, when the actor knows or should know that those services will reduce the risk of harm to the other, has a duty to exercise reasonable care in rendering those services if the failure to exercise reasonable care would increase the risk of harm beyond which would have existed without the undertaking; or if the other person relies on the actor’s using reasonable care in the undertaking.
+

@@ -1,0 +1,21 @@
+Citation
+167 Cal. 372, 139 P. 815, 1914 Cal.
+
+Brief Fact Summary
+Defendant mistakenly sold Plaintiff’s wine. Plaintiff sued Scott (Defendant) for conversion.
+
+Synopsis of Rule of Law
+Conversion is the unwarranted interference by defendant with the dominion over the property of the plaintiff, which results in damages.
+
+Facts
+Plaintiff stored his wine barrels in a basement under lock and key. He rented the basement from a judge. Plaintiff visited the storeroom about twice per month. Eventually the building was sold to Defendant. The judge testified that he had sold the building to Defendant and had informed Defendant of Plaintiff’s lease with the Laundry Company. The judge did not tell Plaintiff that the premises had been sold. When Plaintiff inspected the basement after the sale, he found that all his wine had been sold. Two men told Defendant that they wanted to buy some broken barrels stored in the basement. Defendant allegedly inspected the barrels and sold the empty barrels for fifteen dollars on the condition that the men clear out the basement. The two men were arrested for theft and Plaintiff sued Defendant for conversion. The trial court granted a nonsuit for Defendant. Plaintiff appealed.
+
+Issue
+Is an innocent mistake a defense to the tort of conversion?
+
+Held
+No. Judgment reversed.
+
+Discussion
+Traditionally, conversion was a strict liability cause of action. Standards of care are not relevant in deciding whether or not a wrongdoer is liable under a theory of strict liability. The outcome in this case would have been the same had Defendant intentionally or negligently sold Plaintiff’s barrels of wine.
+

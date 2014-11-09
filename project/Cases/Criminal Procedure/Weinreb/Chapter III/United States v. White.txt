@@ -1,0 +1,21 @@
+Citation
+401 U.S. 745, 91 S. Ct. 1122, 28 L. Ed. 2d 453 (1971)
+
+Brief Fact Summary
+Government authorities, through the use of an informant, secretly recorded conversations with the Respondent, James A. White (the “Respondent”).  The informant was not present during the trial, but the recorded conversations were admitted.
+
+Synopsis of Rule of Law
+The secret simultaneous (electronic) recording of conversations between an individual and government agents, without a warrant, does not violate the Fourth Amendment to the United States Constitution (”Constitution”).
+
+Facts
+Federal authorities, working with an informant, were able to electronically record conversations with the Respondent that were later used to convict the Respondent.  Authorities used radio equipment to record several conversations, as well as personally overhearing the conversations.  The electronic recordings were shared with other agents.
+
+Issue
+Whether the electronic recording of private conversations with the Respondent for the purpose of instantaneous dissemination with other agents violates the Fourth Amendment of the Constitution?
+
+Held
+The recordings do not violate the Fourth Amendment of the Constitution.  The majority affirms that the Respondent cannot rely on the expectation that a conversation is private, and in doing so affirm a line of cases that upheld the seemingly private conversations recorded by government agents.  The majority believes that it would be illogical to draw a line between conversations heard through agents without electronic recording and those without the electronic recording.
+
+Dissent
+Justice William Douglas (”J. Douglas”) dissented citing a concern for the dilution of an individual’s First Amendment constitutional rights.
+

@@ -1,0 +1,24 @@
+Citation
+254 N.Y. 192, 172 N.E. 466, 1930 N.Y.
+
+Brief Fact Summary
+Mr. Zackowitz (Defendant) shot and killed Frank Coppola (Victim) after Victim allegedly made crude comments to Defendant’s wife.  Defendant was subsequently arrested and charged with the crime of murder, and convicted in the lower court.  Defendant appeals here; the sole issue of the appeal is the state of mind of Defendant, which determines the degree of homicide of which Defendant is guilty.
+
+Synopsis of Rule of Law
+Evidence of Defendant’s possession of weapons that were not used in or related to the crime committed are inadmissible, as the introduction of such evidence is likely to have a prejudicial effect on the jury.
+
+Facts
+Defendant’s wife was insulted on the street in Brooklyn, New York; Defendant angrily confronted the men who allegedly had made the comments, at first with only words.
+
+Issue
+Was it reversible error for the lower court to allow the introduction by the prosecution of evidence that, at the time of his arrest, Defendant had three pistols and a tear-gas gun in his apartment, when it is undisputed that the pistols and tear-gas gun were not used in the crime, and in fact could not possibly have been used during its commission?
+
+Held
+Yes; error was committed by the lower court in allowing the prosecution to present the evidence to the jury, as the introduction of such evidence resulted in the jury being unfairly prejudiced against Defendant.
+
+Dissent
+Justice Pound dissents, arguing that, “Defendant was presented to the jury as a man having dangerous weapons in his possession, making a selection therefrom, and going forth to put into execution his threats to kill; not as a man of a dangerous disposition in general, but as one who, having an opportunity to select a weapon to carry out his threats, proceeded to do so.”
+
+Discussion
+The majority argues that the introduction of the evidence resulted in Defendant being, “placed in a position where he had to defend himself against another, more general and sweeping [charge than what was named in the indictment].”  In other words, Defendant’s possession of weapons not used in the charged crime had a negative effect on his character, which constituted reversible error, under the general caveat of evidence that, “character is never an issue in a criminal prosecution unless the defendant chooses to make it one.” The dissent argues that the weapons not used were relevant, as their existence showed that Defendant was one who had the ability to be violent if he so desired.  The dissent points out that, “if defendant had been arrested at the time of the killing, and these weapons had been found on his person, the people would not have been barred from proving the fact, and the further fact that they were near by in his apartment should not preclude the proof as bearing on the entire deed of which the act charged forms a part.”
+

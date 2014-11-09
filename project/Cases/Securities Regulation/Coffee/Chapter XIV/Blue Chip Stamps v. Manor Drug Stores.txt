@@ -1,0 +1,21 @@
+Citation
+421 U.S. 723 (1975)
+
+Brief Fact Summary
+Blue Chip Stamps (Defendant) was obligated to offer shares of itself to vendors who has utilized the stamp service under an antitrust consent decree. A member of said class of vendors, Manor Drug Stores (Plaintiff) claimed that Blue Chip’s prospectus was deceptive, and as a result did not purchase the stock.
+
+Synopsis of Rule of Law
+A person who is not a “purchaser” or a “seller” may not sue under Rule 10b-5, and an offeree who chooses not to buy stock is not a “purchaser” or a “seller” under the Rule either. Even when the offeree is a member of the limited class and claims that he would have bought stock had he not been deceived by a fraudulent prospectus this hold true.
+
+Facts
+Blue Chips Stamp was a corporation where nine retailers owned 90% of the stock, similar to an antitrust consent decree, Blue Chip needed to divest itself of 55% of its stock and to offer it on the market to other vendors who had utilized the stamp service in the previously. The objective of the decree was to widen the contribution of the vendors in Blue Chip. Manor Drug Stores was one of the vendors whom the consent decree was designed to benefit. However, following receipt of a prospectus from blue chip, Manor Drugs declined the offer. Manor Drugs sued under 10b-5 two years later, claiming that the prospectus falsely made the offer look unappealing so that Blue Chip could sell shares on the open market for a higher price at a later date. Manor Drug claimed that if it had been aware of the facts that it would have purchased the stock. The district court dismissed this action, but the Ninth Circuit reversed. It held that Manor Drugs had what amounted to a “contract to purchase” under the decree, and so was a “purchaser” under the meaning of 10b-5.
+
+Issue
+Can an offeree who is a member of the limited class, choose not to buy stock but claims that he would have bought stock had he been provided an honest prospectus, bring a 10b-5 action?
+
+Held
+(Rehnquist, J.) No. We embrace the holding of the Second Circuit in the 1952 Birnbaum case, 193 F2.d 461 (2d Cir. 1952). That rule demands that a plaintiff must be either a seller or a buyer to seek a remedy under 10b-5 and we reinforce this rule both through contemplation of legislative history and by policy deliberations. The SEC had attempted to get Congress to amend 10b-5 to contain “any attempt to purchase or sell a security”, but Congress had declined to do this. Congress desired to restrict 10b-5 to cases of “actual damage”, and without Birnbaum, evidence of damage would be too theoretical. Regarding policy considerations,the Birnbaum rulemay incite the offerees, knowing that they would not be subject to summary judgment would sue to push the corporate defendant to settle out of court,would lead to “strike suits”.  The evidence presented by an offeree at trial would be too subjective, seeing as no objective criteria could assistin measuring plaintiff’s dependence on the prospectus. In conclusion, Manor Drugs has no contractual right to a Birnbaum rule. Manor Drugs was a member of a limited class, but permitting them to utilize the rule would lead to a breakdown of the Birnbaum rule. Reversed.
+
+Discussion
+Manor Drugs seems to be a very significant case understanding 10b-5. The majority could have restricted itself to the constricted issue of if an antitrust decree was an exemption to Birnbaum.  Instead, an extravagantexplanation for the Birnbaum doctrine was launched into by Judge Rehnquist. This could be received as a signal by lower courts that the Supreme Court does not support any additional extension of 10b-5. This would be significant in the area of corporate mishandling where a “purchaser” or “sale” is frequentlyhard to find. On the other hand, lower courts may read Manor Drugsclosely, and useit only where the concern involves the presence of a “contractual right” to buy or sell. Regardless of the outcome, the Birnbaum doctrine, once declared nonexistent by most critics, seems today to be thriving.
+

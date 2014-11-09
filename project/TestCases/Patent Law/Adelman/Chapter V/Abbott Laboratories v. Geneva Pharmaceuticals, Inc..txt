@@ -1,0 +1,21 @@
+Citation
+182 F.3d 1315 (Fed. Cir. 1999)
+
+Brief Fact Summary
+Geneva (Defendant) wanted to market a generic form of Hytrin.  At that time, Hytrin was being sold by Abbott (Plaintiff), and Plaintiff moved to prevent Defendant from selling the generic form of Hytrin.  Defendant claimed that Plaintiff's patent for Hytrin was not valid based on the on-sale bar doctrine.
+
+Synopsis of Rule of Law
+If an invention is both the subject of a commercial sale or offer for sale and is ready for patenting before one year prior to the date of application for patent, the on-sale bar doctrine applies.
+
+Facts
+Beginning in 1987, Plaintiff marketed a treatment for hypertension, terazosin hydrochloride, exclusively under the name Hytrin.  Terazosin hydrochloride exists in four anhydrous forms and Claim 4 of Plaintiff's patent for the product claims the Form IV anhydrate.  Defendant sought to market a generic form of Hytrin using the Form IV anhydrate and Plaintiff sued.  Defendant argued that Form IV was anticipated because it was sold in the United States more than a year prior to Plaintiff's patent filing date of October 18, 1994.  Three sales of Form IV terazosin hydrochloride anhydrate had been made in the United States by Byron Chemical Company, Inc. more than one year before Plaintiff's filing date.  Byron itself had purchased the substance at issue from two foreign manufacturers.  When Byron made the sales in the United States, the parties were not aware of the identity of the particular form they were dealing with.  It was after the sales were made that the samples were tested and it was found that Form IV had been sold.  Defendant's motion for summary judgment was granted by the district court, and the court held that Claim 4 of the patent was invalid under the on-sale provision. Plaintiff appealed.
+
+Issue
+Is Claim 4 of Plaintiff's patent invalid under the on-sale provision?
+
+Held
+(Lourie, J.)  Yes.  Claim 4 of Plaintiff's patent is invalid under the on-sale provision.  If an invention was on sale in the United States more than one year prior to the date of the application for the patent in the United States, the patent is invalid.  Prior to October 18, 1993, the invention must be both the subject of a commercial sale or offer for sale and be ready for patenting.  By proof of reduction to practice, the invention may be shown to be ready for patenting before October 18, 1993.  There is no dispute that Form IV was the subject matter of at least three commercial sales in the United States prior to October 18, 1993.  The invention was also ready to be patented because it had been reduced to practice by at least two foreign manufacturers.  It is not required to show proof of conception of the invention.  Because there was no question that the claimed material was useful when it was sold, it means the invention was reduced to practice.  Because the material in this case was sold, it was useful and appreciated.  Though the parties to the sales transactions did not know that Form IV was the material they were dealing with at the time of the sales, it is irrelevant to the question of whether it was on sale before October 18, 1993.  Affirmed.
+
+Discussion
+The purpose of the on-sale bar doctrine is to prevent the withdrawal of inventions that have been placed into the public domain through commercialization.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.937 F.2d 82, 19 U.S.P.Q.2d 1519 (2d Cir. 1991)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court for misappropriation of confidential trade secrets and punitive damages. The District Court dismissed on the grounds that Plaintiff did not show that it met the requisite jurisdictional amount (in excess of $50,000). Plaintiff appealed.
+
+Synopsis of Rule of Law
+A case can only be dismissed for failure to allege the proper jurisdictional amount if it is legally certain that the plaintiff would not be able to recover that amount. The plaintiff must have an opportunity to establish that he would be able to recover the jurisdictional amount before the court can order dismissal.
+
+Facts
+A.F.A. Tours, Inc. (Plaintiff) sued its former employee Whitchurch (Defendant). Plaintiff alleged that Defendant stole confidential information such as customer lists from Plaintiff after Defendant ceased employment with Plaintiff. Plaintiff further alleged that Defendant used or intended to use such information in order to compete with Plaintiff. Plaintiff requested compensatory damages in excess of $50,000 and punitive damages of $250,000. New York law allowed punitive damages if there was willful and wanton misappropriation. Defendant argued that the plaintiff did not satisfy the jurisdictional amount because he only acquired two customers to sign on to tours and that the information he used was not confidential. The District Court dismissed the case, ruling, sua sponte, that there was “no reasonable possibility” that Plaintiff could be awarded at least $50,000 in damages. Plaintiff appealed, arguing that the District Court applied an incorrect standard in making this deter
+
+Issue
+Did the District Court apply the correct standard in dismissing Plaintiff’s case for failure to establish that Plaintiff could recover the jurisdictional amount?
+
+Held
+No. The judgment is vacated and remanded for further proceedings.
+
+Discussion
+This opinion shows that as long as the plaintiff alleges damages in excess of the jurisdictional amount, the case will not be dismissed unless the plaintiff acted in bad faith in alleging this amount of damages.
+

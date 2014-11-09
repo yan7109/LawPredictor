@@ -1,0 +1,18 @@
+Citation
+936 F.2d 692, 1991 U.S. App. 19 U.S.P.Q.2D (BNA) 1299; Copy. L. Rep. (CCH) P26,756
+
+Brief Fact Summary
+D breached an exclusive licensing agreement with P when D shipped a book to retail outlets prior to the agreed upon date.
+
+Synopsis of Rule of Law
+Damages for breach of contract are calculated by the actual loss sustained and uncertainties are generally resolved against the wrongdoer.
+
+Facts
+Naval (P) entered into a licensing agreement with Berkley (D), granting D the exclusive license to publish a paperback edition of the book, The Hunt for Red October not sooner than October 1985. D shipped the book to retail outlets early and retail sales of the book began on September 15, 1985. P claims it was entitled to recovery for copyright infringement and sought judgment in the amount of D’s profit from pre-October 1985 sales, estimated at $724,000. D contended that it could not be liable for copyright infringement. The district court awarded P actual damages in the amount of $35,380.50, representing the profits P would have earned from the hardback edition of the book but for D’s early release of the competing paperback edition. The district court also awarded P $7,760.12 as profits wrongfully received by Berkley from displaced hardcover sales attributable to the infringement. P appealed, seeking a greater amount as profits. D cross-appealed to the judgment as a whole.<span class='heading'>Issue.</span>  Are damages for breach of contract calculated by the actual loss sustained by the non-breaching party?
+
+Held
+Yes. Judgment affirmed in respect to the $35,380.50 in actual damages sustained by P. Judgment reversed in respect to the $7,760.12 granted to P as an award of D’s profits.
+
+Discussion
+In calculating the amount of damages in a breach of contract case, focus on the P’s loss, not on the D’s gain and remember that the central objective behind the system of contract remedies is compensatory, not punitive.
+

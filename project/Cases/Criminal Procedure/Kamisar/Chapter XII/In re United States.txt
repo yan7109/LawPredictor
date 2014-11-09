@@ -1,0 +1,18 @@
+Brief Fact Summary
+The government brought a writ of mandamus to the Seventh Circuit after a district court judge refused to dismiss a charge the government chose not to prosecute.
+
+Synopsis of Rule of Law
+It is a violation of the separation of powers for a Judge to assume a prosecutorial role.
+
+Facts
+Kenneth Bitsky, defendant, was indicted on one count of civil rights violation and two counts of obstruction of justice when he assaulted an arrested person, tried to induce another officer to write a false report justifying the use of force, and threatened another officer to keep her from informing.  The government made a plea agreement under which he pled guilty to one count of obstruction of justice and the other counts would be dropped.  At the sentencing hearing, the judge asked why the charges had been dropped and dropped the pea agreement on the ground that the count of conviction would not reflect the gravity of his offense.  The defendant plead guilty anyhow and, after denying him the acceptance of responsibility deduction, the judge sentenced him at the top of the guideline range.  The government filed Motions to dismiss the other two counts, of which the judge dismissed one on obstruction, but did not dismiss the one on civil rights and, instead appointed a private
+
+Issue
+Whether it is within judicial discretion to fail to dismiss a charge against a defendant when it believes that the prosecutor is not using appropriate discretion.
+
+Held
+Petition for Mandamus granted, District Judge ordered to grant the government’s Motion to Dismiss and to vacate the appointment of a special prosecutor.
+
+Discussion
+Just because the district judge disagrees with the Justice Department’s exercise of prosecutorial discretion, a judge must not play the role of U.S. Attorney as it is in violation of the role of Separation of Powers
+

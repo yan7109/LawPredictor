@@ -1,0 +1,21 @@
+Citation
+6 A.D.3d 72, 773 N.Y.S.2d 420 (App Div, 2d Dept 2004)
+
+Brief Fact Summary
+The law firms of Seltzer, Sussman and Habermann and Sweeney, Cohn, Stahl & Vaccaro, (Plaintiffs), brought suit against Gin Properties, Inc., Amy Kane, and George Kane to recover outstanding legal fees owed by Amy Kane. Plaintiffs request that corporate assets of Gin Properties, Inc. be used to satisfy judgments against shareholder Amy Kane. Plaintiffs appeal the Supreme Court of New York’s decision to dismiss the complaint.
+
+Synopsis of Rule of Law
+A corporation’s veil will be pierced where the corporation’s controlling shareholders formed or used the corporation to defraud creditors by evading liability for preexisting obligations.
+
+Facts
+Plaintiffs both represented Amy Kane in various legal proceedings. Amy Kane failed to pay legal fees due Plaintiffs. Amy and George Kane entered into a contract to buy a house located at 73 Gin Lane in New York, which became their principal residence. They assigned the home to a corporate entity of which they are the sole shareholders entitled Gin Properties, Inc. The corporation is incorporated in Florida and has its corporate headquarters at the Kanes’ Sarasota condominium. Plaintiffs brought suit against Gin Properties, Inc., Amy Kane, and George Kane to recover the outstanding legal fees by piercing the corporate veil. The Supreme Court of New York dismissed the complaint, applying Florida law.
+
+Issue
+Whether the property held by Gin Properties, Inc. is subject to the claims of Defendant’s creditors.
+
+Held
+Yes. Defendants formed the corporation to hide assets and thereby defraud Amy Kane’s creditors.
+
+Discussion
+Florida law applies in this case because the State of incorporation has the greatest interest in determining the extent of insulation that will be afforded to shareholders of corporations incorporated under its laws. Defendants utterly dominate Gin Properties, Inc. and they formed it to protect assets from the claims of existing creditors such as Plaintiffs, in effect defrauding them. Defendants have been paying the taxes and mortgage for the property in which they reside, taking tax deductions on their own tax returns for the interest and taxes. They are in complete control of the property and continue to make improvements. The expenses were paid by corporate checks but the checks were funded through loans made by Defendants to Gin Properties, Inc. Because George Kane was behind the scheme to avoid Amy Kane’s creditors and benefited from it through tax deductions and other advantages, he may be held jointly and severally liable for the constructive fraud on Amy Kane’s cre
+

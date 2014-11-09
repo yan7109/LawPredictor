@@ -1,0 +1,21 @@
+Citation
+22 Ill.72 F.R.D. 574 (E.D. Pa. 1976)
+
+Brief Fact Summary
+Plaintiff brought an action against Defendant alleging securities fraud. Plaintiff alleged certain circumstances in which Defendant allegedly committed fraud. Defendant moved to dismiss on the grounds that Plaintiff’s complaint did not comply with Rule 9(b) of the Federal Rules of Civil Procedure, requiring fraud be pled with particularity.
+
+Synopsis of Rule of Law
+Rule 9(b) of the Federal Rules of Civil Procedure only requires that the plaintiff allege the circumstances of fraud such that the defendant will be able to sufficiently answer the allegations.
+
+Facts
+Plaintiff brought a class action on behalf of purchasers of securities against Defendant First Penn. The complaint alleged that Defendant improperly included certain sources of funds as “income,” avoided showing losses by conducting improper foreclosures, not accounting for uncollectibles in real estate loans and concealing the default of loans. Defendant moved to dismiss alleging that the allegations of fraud in the complaint do not comply with the particularity required by Rule 9(b) of the Federal Rules of Civil Procedure.
+
+Issue
+Does Rule 9(b) of the Federal Rules of Civil Procedure require application of a rigorous burden on Plaintiff such that Plaintiff’s complaint is insufficient?
+
+Held
+No. Motion to dismiss denied.
+
+Discussion
+This case notes that although allegations of fraud require greater particularity, the complaint should be construed as to whether the defendant is able to respond. The court did not focus on whether the defendant was being falsely accused or whether this was a “nuisance” suit.
+

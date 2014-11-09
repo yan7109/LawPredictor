@@ -1,0 +1,24 @@
+Citation
+333 U.S. 10, 68 S. Ct. 367, 92 L. Ed. 436 (1948)
+
+Brief Fact Summary
+Based on a tip from a confidential informant that the smell of opium was emanating from the defendant’s hotel room, a Seattle narcotics detective and a group of federal agents entered without a warrant and proceeded to search the room.
+
+Synopsis of Rule of Law
+“When the right of privacy [protected by the Fourth Amendment] must reasonably yield to the right of search is, as a rule, to be decided by a judicial officer, not by a policeman or Government enforcement agent” unless “there are exceptional circumstances in which, on balancing the need for effective law enforcement against the right of privacy, it may be contended that a magistrate’s warrant for search may be dispensed with.”
+
+Facts
+Based on the information of a confidential informant and drug user, a Seattle detective went to the Europe Hotel.  The confidential informant stated he could smell opium in the hallway.  The detective contacted and returned to the hotel with four federal narcotics agents.  They too, smelled opium, and followed it to the defendant’s room.  They did not know who was in the room.  When a voice inside asked who was at the door, the detective identified himself.  After a period of time, during which noises could be heard from inside the room, the door opened and the defendant appeared.  The detective said they wanted to speak to her, and that she allowed them to enter.  He then told her:  “I want you to consider yourself under arrest because we are going to search the room.”  They found opium and a recently used smoking device.
+
+Issue
+“[W]hether it was lawful, without a warrant of any kind, to arrest petitioner and to search her living quarters.”
+
+Held
+No.  “At the time entry was demanded the officers were possessed of evidence which a magistrate might have found to be probable cause for issuing a search warrant,” specifically, the odor of opium coming from the room and the informant’s testimony.  The Fourth Amendment’s “protection consists in requiring that those inferences be drawn by a neutral and detached magistrate instead of being judged by the officer engaged in the often competitive enterprise of ferreting out crime.”  While there are certain circumstances “in which a magistrate’s warrant for search may be dispensed with,” they were not present here.
+
+Dissent
+Four justices dissented, but did not write an opinion.
+
+Discussion
+“The right of officers to thrust themselves into a home is also a grave concern, not only to the individual but to a society which chooses to dwell in reasonable security and freedom from surveillance.”
+

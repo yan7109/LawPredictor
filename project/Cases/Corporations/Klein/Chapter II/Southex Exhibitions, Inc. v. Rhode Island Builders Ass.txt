@@ -1,0 +1,21 @@
+Citation
+279 F.3d 94 (1st Cir. 2002)
+
+Brief Fact Summary
+Plaintiff, Southex Exhibitions, Inc., took over Sherman Exhibition Management (SEM), a company that had contracted with Defendant, Rhode Island Builders Association, Inc., to produce home shows.  Plaintiff maintained that the agreement between SEM and Defendant formed a partnership.
+
+Synopsis of Rule of Law
+The determination of whether a partnership exists requires an analysis of a extensive set of factors that indicate the extent of the relationship in question.
+
+Facts
+Defendant wanted to stage home shows at a newly constructed civic center.  SEM was already a successful producer of other home shows, and in some cases had some ownership in home show ventures in other regions.  SEM was not certain how successful Defendant’s home shows would be, so they expressly declined any ownership of a joint venture and instead came to terms with Defendant using the 1974 agreement at issue.  The agreement split the net show profits (55% to SEM, 45% to Defendant), had renewable 5-year terms, and gave SEM first refusal on producing all of Defendant’s home shows.  However, Defendant was not responsible for any losses, SEM conducted third-party business under their own name, the parties never gave their relationship a separate business name, and they never filed taxes as a partnership.  Plaintiff bought SEM’s interest and when Defendant was unsatisfied with Plaintiff’s performance they hired another producer for its home shows.  Plaintiff maintains that they
+
+Issue
+The issue is whether the 1974 agreement, along with the conduct of SEM and Defendant, established a partnership between SEM and Defendant.
+
+Held
+The 1974 agreement between Defendant and SEM does not establish a partnership, and therefore Defendant owes no obligation to Plaintiff arising from the 1974 agreement.  The court did not think that the agreement itself established a partnership; the agreement was not titled “Partnership Agreement”, the agreement used the term “partner” only once, and SEM never considered themselves as partners.  As far as their conduct post-agreement, the parties may have split the profits but they never shared in tangible property, did not hold themselves out as partners to third parties nor gave the collaboration a separate name.  The totality of the factors favored a non-partnership relationship.
+
+Discussion
+In Fenwick v. Unemployment Compensation Commission, the court deemphasized the fact that the parties referred to themselves in the agreement as partners, ruling that a partnership is determined by how the relationship works day-to-day rather than the parties’ intentions.  In this case, the court puts substantial weight towards the parties’ intentions.
+

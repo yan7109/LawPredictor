@@ -1,0 +1,21 @@
+Citation
+184 P.3d 1115 (Or. 2008).
+
+Brief Fact Summary
+Defendant’s vehicle collided with plaintiff’s vehicle on the highway while plaintiff was in the process of slowing down and turning to pick up her father, whose car had broken down on the side of the road.  Plaintiff sued Defendant for negligence and lost at trial, but won her appeal based on the trial court’s erroneous jury instructions on the legal standard for negligence.
+
+Synopsis of Rule of Law
+A person is negligent if he fails to exercise reasonable care, a standard that is measured by what a reasonable person of ordinary prudence would or would not, do in the same or similar circumstances.
+
+Facts
+Plaintiff was driving down the highway looking for her father, whose car had broken down along the highway.  When she spotted her father waving his arms on the side of the road, she rapidly decelerated and started to make a left hand turn into a snowpark on the left side of the road.  Defendant, upon seeing the father waving his arms, assumed that there may be an emergency situation and glanced left to scan the horizon for a potential problem.  When he returned his eyes to the road, he saw that Plaintiff had slowed rapidly.  To avoid a collision, Defendant planned to pass Plaintiff on her left hand side, but because she was starting to make a left hand turn, he collided with her.  She sued for negligence.  At trial, the court gave a jury instruction on negligence that pertains to “emergency” situations, which provides, “People who are suddenly placed in a position of peril through no fault of their own and who are compelled to act without opportunity for reflection, are not negligent if they make a choice as a reasonably careful person placed in such a position might make, even though they do not make the wisest choice.”  The jury found defendant not negligent, and the plaintiff appealed, arguing that the jury instruction was an inaccurate statement of negligence law.  The Supreme Court reversed.
+
+Issue
+Whether the trial court committed error by providing a jury instruction on negligence pertaining to “emergency” circumstances.
+
+Held
+Yes.  A person is negligent if he fails to exercise reasonable care, a standard that is measured by what a reasonable person of ordinary prudence would or would not, do in the same or similar circumstances.  The emergency instruction, however, tells the jurors that if there was an emergency, they nevertheless may conclude that the actor was not negligent even if he made a choice that was not the “wisest choice”.  Jurors would understandably view that instruction as permitting them to find a defendant not negligent even when he makes an unwise choice.  The reasonable care standard does not mean that a defendant is not negligent simply because an unwise choice was made in the context of an emergency.  Accordingly, the court concluded that the emergency instruction misstated the law and was likely to confuse the jury as to the correct legal standard, thus substantially affecting plaintiff’s rights.
+
+Discussion
+This decision explains the standard of care requirement for negligence and highlights the controversy surrounding “emergency” instructions.  Several courts have said that the idea behind the emergency instruction is adequately covered by the instruction defining the reasonable care standard and that the separate emergency instruction should never be given
+

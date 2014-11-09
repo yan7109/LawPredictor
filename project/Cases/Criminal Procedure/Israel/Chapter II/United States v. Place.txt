@@ -1,0 +1,21 @@
+Citation
+462 U.S. 696, 103 S. Ct. 2637, 77 L. Ed. 2d 110 (1983)
+
+Brief Fact Summary
+DEA agents met the respondent, Raymond Place, on Friday at his destination after questionable behavior at his departing airport.  They then proceeded to hold his bags over the weekend and get a search warrant for them Monday morning.
+
+Synopsis of Rule of Law
+Seizing a person’s luggage for an entire weekend until a warrant may be obtained violates the Fourth Amendment as beyond the scope of a valid Terry stop.  Also, a sniff by a well-trained narcotics dog that does not require opening of the luggage is not a search for Fourth Amendment purposes.
+
+Facts
+The respondent Raymond Place was met on a Friday by drug enforcement agents on arrival at the airport and he refused to consent to a search of his bags, leading an agent to tell him that they were going to take the bags to a judge to get a search warrant.  The agents took the bags to another airport to have the drug detection dogs sniff them, and the dogs reacted positively ninety minutes after seizure of the bags.  The agents kept the bags over the weekend, and on Monday they were able to get a search warrant for the bags which yielded cocaine.  The trial court convicted the respondent of drug possession, and the Second Circuit Court of Appeals reversed, claiming that such a prolonged seizure of the respondent’s baggage amounted to a seizure without probable cause counter to the Fourth Amendment.  The government was granted certiorari.
+
+Issue
+Does the seizure of a person’s luggage for an entire weekend until a warrant may be procured violate the Fourth Amendment as exceeding the limits of a Terry stop?
+
+Held
+Affirm the decision of the Second Circuit.
+
+Discussion
+This opinion clarifies why courts and law enforcement have such fondness for drug sniffing dogs.  The Supreme Court here articulates that governmental conduct like drug dog sniffing that can reveal whether a substance is contraband yet no other private fact compromises no privacy interest, and therefore is not a search subject to the Fourth Amendment.  This appears to be settled law, even though Justice Blackmun would argue that it is merely dictum, and that the majority should not have passed an opinion on their validity under these facts.
+

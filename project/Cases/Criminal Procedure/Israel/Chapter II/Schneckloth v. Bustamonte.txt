@@ -1,0 +1,24 @@
+Citation
+412 U.S. 218, 93 S. Ct. 2041, 36 L. Ed. 2d 854 (1973)
+
+Brief Fact Summary
+Police stopped a vehicle containing the respondent, Robert Bustamonte (the “respondent”), and they asked to search the vehicle.  Another passenger in the car gave permission, and the search produced stolen checks that were entered into evidence against the Respondent.
+
+Synopsis of Rule of Law
+To determine whether a search was voluntary does not require that a person knew of his rights, but whether the totality of circumstances indicated that the person was voluntarily allowing the search.
+
+Facts
+The police stopped the vehicle containing the respondent and five other passengers after they noticed a broken headlight and license plate light.  When the driver could not produce a license, the police asked for someone who could produce identification.  Another passenger responded, and when the police asked him if they could search the vehicle he consented.  Three stolen checks were found, and they were used as evidence to convict the respondent.
+
+Issue
+The issue is whether the respondent voluntarily consented to the search of the vehicle.
+
+Held
+The consent to a vehicle search did not violate the Fourth and Fourteenth Amendments to the United States Constitution (”Constitution”).  The test to determine if a subject has voluntarily consented is to review the totality of the circumstances.  If the subject knows he or she has a right to refuse, it is a factor to be considered, but that fact is not the sole consideration.
+
+Dissent
+Justice Thurgood Marshall (”J. Marshall”) dissented, reasoning that unless the respondent knew he had a right to refuse a search, there was no voluntary consent.
+
+Discussion
+The test to determine if consent was not the product of duress or coercion is to look at all the circumstances rather than one sole factor.
+

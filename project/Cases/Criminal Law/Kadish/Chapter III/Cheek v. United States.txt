@@ -1,0 +1,21 @@
+Citation
+498 U.S. 192, 111 S. Ct. 604, 112 L. Ed. 2d 617 (1991)
+
+Brief Fact Summary
+Defendant Cheek was convicted under a provision of the Federal Tax Code that makes it a felony to “willfully attempt in any manner to evade or defeat any tax imposed by this title or payment thereof” for failing to file a tax return. Defendant argued that he had acted on information he received from a group opposing the institution of taxation and based on this information he believed that he did not owe any taxes.
+
+Synopsis of Rule of Law
+A good faith misunderstanding of the law or a good faith belief that one is not violating the law does not have to be reasonable to negate the element of willfulness.
+
+Facts
+Defendant, a professional pilot, was convicted under 26 U.S.C. 7201 which provides that any person is guilty of a felony that “willfully attempts in any manner to evade or defeat any tax imposed by this title or payment thereof.” Defendant had failed to file a tax return required by law and argued in his defense that his failure to file was based on information he received from a group opposing the institution of taxation. Based on this information, Defendant asserted that he believed that he owed no taxes, including taxes on his wages. At trial the judge instructed the jury that an honest but unreasonable belief is not a defense and does not negate willfulness. Defendant appealed the jury instruction.
+
+Issue
+Can a mistake based on an honest but unreasonable belief negate the element of willfulness?
+
+Held
+Yes. Judgment reversed and remanded.
+
+Discussion
+Ordinarily a mistake about the prohibition is not a defense, however where the prosecution must prove that a duty was intentionally violated, a mistake as to the existence of the prohibition negates that intent. The terms willfully and knowingly raise questions as to whether their use requires the defendant to be aware of the existence of the law he is charged with violating or just aware that he/she willfully or knowingly acted, regardless of whether he knew the actions were illegal.
+

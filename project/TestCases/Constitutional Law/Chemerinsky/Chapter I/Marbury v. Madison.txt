@@ -1,0 +1,21 @@
+Citation
+5 U.S. 137, 1 Cranch 137, 2 L. Ed. 60 (1803)
+
+Brief Fact Summary
+William Marbury (Marbury), an end-of-term appointee of President John Adams (President Adams) to a justice of the peace position in the District of Columbia, brought suit against President Thomas Jefferson’s (President Jefferson) Secretary of State, James Madison, seeking delivery of his commission.
+
+Synopsis of Rule of Law
+The Supreme Court of the United States (Supreme Court) has constitutional authority to review executive actions and legislative acts. The Supreme Court has limited jurisdiction, the bounds of which are set by the United States Constitution (Constitution), which may not be enlarged by the Congress.
+
+Facts
+Before the inauguration of President Jefferson, outgoing President Adams attempted to secure Federalist control of the judiciary by creating new judgeships and filling them with Federalist appointees. Included in these efforts was the nomination by President Adams, under the Organic Act of the District of Columbia (the District), of 42 new justices of the peace for the District, which were confirmed by the Senate the day before President Jefferson’s inauguration. A few of the commissions, including Marbury’s, were undelivered when President Jefferson took office. The new president instructed Secretary of State James Madison to withhold delivery of the commissions. Marbury sought mandamus in the Supreme Court, requiring James Madison to deliver his commission.
+
+Issue
+Is Marbury entitled to mandamus from the Supreme Court?
+
+Held
+No. Case dismissed for want of jurisdiction.
+
+Discussion
+The importance of Marbury v. Madison is both political and legal. Although the case establishes the traditions of judicial review and a litigable constitution on which the remainder of constitutional law rests, it also transformed the Supreme Court from an incongruous institution to an equipotent head of a branch of the federal government.
+

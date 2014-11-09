@@ -1,0 +1,21 @@
+Citation
+286 U.S. 417, 52 S. Ct. 613, 76 L. Ed. 1197,  1932 U.S.
+
+Brief Fact Summary
+Petitioner operated oil drilling on a parcel of land that belonged to the United States.  The U.S. filed suit to oust Petitioner and the oil operation went into receivership.  There was income earned for a year it was in receivership and the income was paid to Petitioner the following year.
+
+Synopsis of Rule of Law
+Income is taxable during the year a taxpayer is entitled to the income and receives it.
+
+Facts
+Petitioner operated a section of oil land that belonged to the United States.  The U.S. filed suit to remove possession from Petitioner.  A receiver was appointed to operate the property and hold the net income.  Income was earned and held by the receiver for the 1916 tax year.  The receiver paid that income to Petitioner in 1917 after the receivership was dissolve.  Petitioner included this amount as income for 1916.  The Circuit Court of Appeals held that the income was taxable to Petitioner for the year 1917.
+
+Issue
+Is the amount received by Petitioner taxable as income during the year received?
+
+Held
+Justice Brandeis issued the opinion for the Supreme Court of the United States in holding that the income is taxable for the 1917 tax year when it was received.
+
+Discussion
+The Supreme Court notes that what is relevant is when Petitioner had the right to receive the income and when it was actually received.  Here, the amount became income of the company the year it was entitled to receive the income.  It could not have been income during 1916 when Petitioner had not yet received the income and it was uncertain whether they ever would receive the income.
+

@@ -1,0 +1,21 @@
+Citation
+229 F.3d 831, 84 FEP Cases 129 (9th Cir. 2000)
+
+Brief Fact Summary
+The Plaintiff, Moore (Plaintiff), alleges financial injury when cells removed from his spleen were used to create commercial genetic products.
+
+Synopsis of Rule of Law
+The principles of informed consent extend to disclosing unrelated interests of the physician because that information is material to the patients decision.
+
+Facts
+The Plaintiff was diagnosed with leukemia in 1976. Following the diagnosis, the Plaintiff underwent treatment by one many Defendants, Dr. Golde, a doctor at University of California Los Angeles (UCLA) Medical Center. Based on test results, Dr. Golde recommended that the plaintiff have his spleen removed. The patient underwent the recommended surgery and subsequent follow up treatment. The spleen was then used for unrelated research and the Plaintiff’s cells were used to create a cell line licensed for commercial development. The Plaintiff filed a complaint alleging, inter allia, conversion and lack of informed consent and breach of fiduciary duty for failing to disclose the financial interests of Dr. Golde in the plaintiff’s spleen. The trial court dismissed the complaint and the court of appeals reversed.
+
+Issue
+Whether Dr. Golde’s failure to disclose his financial interests to the Plaintiff was a breach of fiduciary duty and therefore created a lack of informed consent.
+
+Held
+* Physicians must disclose personal interests, which are unrelated to the patient’s health and may effect the physician’s professional judgment.<br />* The failure to disclose those interests can lead to a cause of action for lack of informed consent.<br />
+
+Discussion
+Consent consists of three principles. First, an adult has the right to exercise control over his body. Second, a patient’s consent to treatment must be informed to be effective. Third, a physician has a fiduciary duty to disclose all information that is material to the patient’s decision. Normally, the duty requires the physician to inform the patient of the risks involved in medical care, however, the principles of informed consent are broad enough to require physicians to disclose their personal interests. The scope of informed consent is guided by the patients need to have all information material to their decision.
+

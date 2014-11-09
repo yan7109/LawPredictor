@@ -1,0 +1,24 @@
+Citation
+514 U.S. 549, 115 S. Ct. 1624, 131 L. Ed. 2d 626, 1995 U.S.
+
+Brief Fact Summary
+The Gun-Free School Zones Act (the Act) of 1990 made possessing a gun within a school zone a federal offense. A 12th grade student (Lopez) was convicted of violating the Act when he brought a handgun to his high school.
+
+Synopsis of Rule of Law
+The power of Congress to regulate activities extends only to those activities that substantially affect interstate commerce. The Act neither regulates commercial activity, nor contains a requirement that the possession be connected in any way to interstate commerce.
+
+Facts
+Congress passed the Act making it a federal crime “for any individual knowingly to possess a firearm at a place that the individual knows, or has reasonable cause to believe, is a school zone.” Lopez (D), a 12th grader, was convicted for carrying a concealed handgun into his high school. The Court of Appeals reversed the lower court on the grounds that the law was outside the scope of the commerce power.
+
+Issue
+Does the commerce power of Congress extend to activities that have no apparent connection to interstate commerce?
+
+Held
+No. The Court of Appeals is affirmed.
+
+Dissent
+(Breyer, J) Congress had a rational basis for finding a substantial connection between gun-related school violence and interstate commerce. Evidence exists that gun-related violence interferes with the quality of education in schools and education is related to economic viability.
+
+Discussion
+When an activity is not directly connected to commerce, the Congressional regulation will usually not be upheld, especially when the activity is traditionally regulated by the states.
+

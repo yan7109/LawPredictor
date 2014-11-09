@@ -1,0 +1,21 @@
+Citation
+681 F. Supp. 261, 1988 U.S. Dist. 3488
+
+Brief Fact Summary
+Plaintiff, Banjamin Campolongo, sought compensatory and punitive damages for asbestos exposure.  Defendant, Celotex Corporation, moved for a severance of the strict liability from the negligence claims.
+
+Synopsis of Rule of Law
+Rule 42(b) of the Federal Rules of Civil Procedure allows for a court to separate claims to avoid prejudicial information allowable for one purpose to taint the jury when considering other claims.
+
+Facts
+Plaintiff worked for an insulation contractor from 1929 to 1968, and during that time he was exposed to asbestos insulation manufactured by Defendant among others.  Plaintiff brought strict liability and negligence claims against Defendant.  Defendant moved to sever the strict liability from the negligence for fear that their conduct would not be an issue for strict liability but it may taint the jury’s verdict.  Plaintiffs countered that it was unreasonable to allow Defendant to remove their conduct from the jury when the conduct of Plaintiff or his employer would still be at issue if Defendant raised an affirmative defense that called their conduct into question.
+
+Issue
+The issue is whether Defendant’s motion for severance should be granted.
+
+Held
+The court allowed the severance on the condition that the conduct of none of the parties was raised in the strict liability claim.  The court uses Rule 42(b) which allows the severance of claims to avoid prejudice.  The jury may be prejudiced by Defendant’s conduct and therefore could not fairly decide the merits of the strict liability.  But Defendant could not raise Plaintiff’s conduct or his employer’s conduct as an affirmative defense to the strict liability claim; but they could still cite the conduct of co-defendants.
+
+Discussion
+The court has stripped the case down to be a trial concerning solely whether Defendant is liable under strict liability without consideration of any party’s conduct.
+

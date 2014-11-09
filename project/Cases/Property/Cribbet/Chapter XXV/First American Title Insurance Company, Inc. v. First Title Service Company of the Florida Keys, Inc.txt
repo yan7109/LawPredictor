@@ -1,0 +1,21 @@
+Citation
+22 Ill.457 So. 2d 467 (Fla. 1984)
+
+Brief Fact Summary
+In this case the Plaintiff, First American Title Insurance Company (Plaintiff), brought an action against the Defendant, First Title Service Company of the Florida Keys (Defendant) alleging that the Defendant had prepared abstracts for the sellers of two lots and that the Plaintiff relied on the abstracts to issue title insurance for owners and mortgagees for the lenders and the buyers of the two lots. The complaint alleged that the abstracts prepared by the Defendant failed to note the existence of a recorded judgment against the former owner of the two lots, that the judgment creditor had demanded from the new owners payment of the judgment and that the Plaintiff, pursuant to the title insurance policies, had to pay approximately $75,000 to satisfy the judgment and obtain releases.
+
+Synopsis of Rule of Law
+The Court limited the abstracter’s liability to such a known third-party user owed the same duty and entitled to the same remedy as the one who ordered the abstract.
+
+Facts
+In this case the Plaintiff brought an action against the Defendant alleging that the Defendant had prepared abstracts for the sellers of two lots and that the Plaintiff relied on the abstracts to issue title insurance for owners and mortgagees for the lenders and the buyers of the two lots. The complaint alleged that the abstracts prepared by the Defendant failed to note the existence of a recorded judgment against the former owner of the two lots, that the judgment creditor had demanded from the new owners payment of the judgment and that the Plaintiff, pursuant to the title insurance policies, had to pay approximately $75,000 to satisfy the judgment and obtain releases. The complaint did not allege privity of contract between the Plaintiff and the Defendant, but did allege that the Defendant prepared the abstracts for the sellers of the lots and knew that a person other than the person ordering the abstracts would rely on them as providing an accurate and complete summary of
+
+Issue
+Did the action state a complaint upon which relief could be granted?
+
+Held
+Yes. The decision of the intermediate appellate court is quashed and the case is remanded.
+
+Discussion
+In practice, it is ordinarily apparent to an abstracter what is the immediate intended purpose of the abstract. Obviously, the abstracter’s client purchases the abstract for their use. The liability of the abstracter become more murky the further away from privity the use of the faulty abstract gets. Does the Court announce a rule that is apparent and easily understandable as to how far away from privity the liability would reach?
+

@@ -1,0 +1,27 @@
+Citation
+551 U.S. 205, 127 S. Ct. 2360, 168 L. Ed. 2d 96 (2007) [2007 BL 33439]
+
+Brief Fact Summary
+Bowles was convicted of Murder, and then filed his appeal according to a court ordered time-frame which was not within the statutory limits of filing an appeal.
+
+Synopsis of Rule of Law
+Timely notice of an appeal is mandatory and jurisdictional; courts are not allowed equitable exceptions beyond statutory authority.
+
+Facts
+Bowles was convicted of murder and sentenced to 15 years to life of imprisonment. He was involved in a vicious beating of Ollie Gipson. He filed his appeal and a habeas corpus application which was denied. After that entry Bowles had 30 days to file an appeal which he failed to do. Then by statute for the next 180 days a person can file to reopen their application for an appeal and the Court can grant a person 14 days from that date to file. This court granted Bowles 17 days to file his appeal. He filed the appeal on the 16th day and was told he was too late.
+
+Issue
+Whether the Court of Appeals has the jurisdiction to entertain an appeal filed after the statutory time period but within the time specified in the court order.
+
+Held
+No. Timely filing of a notice of appeal in a civil case is a jurisdictional requirement. Courts are not allowed to make equitable exceptions to this rule. A party must file the notice of appeal within 30 days after the judgment. Under certain circumstances a district court may reopen the time frame to file, and this court order was given was beyond that time frame. The court makes distinctions when filings are considered transactions of business versus jurisdictional rules. An appeals court lacks jurisdiction to hear a case if it is filed beyond the statutory rules, whereas in Bankruptcy court the rules are transactional and the Court can still hear the motions filed. The distinction is if a time frame is set by Congress it is jurisdictional in nature, whereas if a Court enacts a rule it is only transactional in nature. The reasoning for this distinction is that only Congress may decide the jurisdiction if lower federal courts. Therefore if Congress enacts a law stating a filing should be made in X amount of days, a court can not grant itself jurisdiction by creating an order to state otherwise. Courts lack the authority to carve any exceptions to these rules.
+
+Dissent
+The main issue is that this person reasonably relied on a Court order that he could still file his appeal. How is this court’s decision not to allow him to file any different than the lower court granting the allowance of the motion? The deadline by statute was February 24th, the court granted until the 27th and on the 26th when he filed he was told he filed too late. This is intolerable for a judicial system to treat a person this way. Congress did not specifically note that this time limit was jurisdictional, so we shouldn’t make this conclusion either.
+
+Concurrence
+
+
+Discussion
+The defendant argued that under the unique circumstances doctrine, he should be allowed to file his motion. However the court notes this doctrine has not been used in over 40 years and the Court does not wish to carve any new exceptions to date.
+

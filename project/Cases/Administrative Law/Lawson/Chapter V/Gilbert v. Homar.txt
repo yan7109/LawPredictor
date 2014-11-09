@@ -1,0 +1,21 @@
+Citation
+520 U.S. 924, 117 S. Ct. 1807, 138 L. Ed. 2d 120, 12 IER Cases 1473 (1997)
+
+Brief Fact Summary
+Respondent Richard J. Homar was employed as a police officer at East Stroudsburg University (ESU). He was arrested while at the home of a family friend during a police drug raid, and ESU suspended Homar without pay effective immediately, and was later demoted to the position of groundskeeper after the criminal charges were dropped. Homar filed suit alleging that the failure to provide him with notice and an opportunity to be heard before suspending him without pay violated due process.
+
+Synopsis of Rule of Law
+The three factors of what process is constitutionally due are the private interest that will be affected by official action; the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and the Government’s interest.
+
+Facts
+Respondent was charged with possession of marijuana, possession with intent to deliver, and criminal conspiracy to violate the controlled substance law, which is a felony. After the charges were dropped, the suspension continued while ESU continued its own investigation. Respondent was allowed to meet with ESU officials to tell his side of the story, but was not told they had the record including his alleged confession from the day of the arrest (and so did not get to respond to the police report).  Respondent was notified by letter that he was demoted to the position of groundskeeper the next day, and would receive backpay from the date of suspension at the rate of pay of a groundskeeper. Respondent’s union requested a meeting with ESU President Gilbert after that, but Gilbert sustained the demotion after providing Respondent an opportunity to respond to the charges.  The United States District Court for the Middle District of Pennsylvania entered summary judgment for ESU, and the Court of Appeals reversed.
+
+Issue
+Did ESU violate due process by failing to provide Respondent (a tenured public employee) a hearing prior to suspension without pay?
+
+Held
+No. Reversed and remanded for further consideration about the adequacy of Respondent’s post-termination hearing.   Unlike the employee in Loudermill, the Respondent faced only a temporary suspension without pay. So long as the suspended employee receives a sufficiently prompt post-suspension hearing, the lost income is relatively insubstantial.  The State had a significant interest in immediately suspending Respondent, as an employee of great trust, when he had felony charges against him. The Government does not have to give an employee charged with a felony paid leave at taxpayer expense.     The risk of erroneous deprivation was small because Respondent had been arrested and charges were filed against him.  However, the Respondent’s post-suspension hearing may not have been adequate, as the risk of erroneous deprivation substantially decreased once the formal charges were dropped.   Dissent. None.  Concurrence. None.
+
+Discussion
+This was the first time the Court considered whether the protections of Due Process extend to discipline of tenured public employees short of termination.   The Court found the pre-suspension procedures adequate, but questioned whether the post-suspension hearing was adequately prompt, as the charges were dropped on September 1st and he did not receive any sort of hearing until September 18th.
+

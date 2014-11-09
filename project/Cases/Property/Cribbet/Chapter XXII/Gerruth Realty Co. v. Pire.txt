@@ -1,0 +1,18 @@
+Citation
+17 Wis. 2d 89, 115 N.W.2d 557 (1962)
+
+Synopsis of Rule of Law
+Where a term is vague and it is impossible to ascertain the parties’ intentions, a contract must fail for indefiniteness.
+
+Facts
+Defendants signed an agreement offering to purchase property from Plaintiff.  The agreement included a clause which made the purchase offer contingent upon the Defendant obtaining the proper amount of financing, without providing a precise dollar figure as the amount.  Defendants attempted to borrow $75,000 from the bank but were denied because they would exceed their $100,000 borrowing limit due to having obtained other loans.  Plaintiff then offered to finance $45,000, but that offer was refused by Defendants, a move with which Plaintiff took issue.  Accordingly, Plaintiffs sued for performance and the trial court dismissed the complaint in favor of Defendants, finding that the “subject to financing” clause was a condition precedent to Defendants’ performance.  Plaintiff appealed and the Supreme Court of Wisconsin affirmed.
+
+Issue
+Was the “subject to financing” term vague to the point of rendering the parties’ contract void for indefiniteness?
+
+Held
+Yes.  Plaintiff argued that Defendants could have obtained financing by accepting the proffered $45,000 loan.  The court found that the parties’ intentions related to the “subject to financing” term could not be made certain by the surrounding circumstances.  Specifically, the court could not determine whether the clause gave Defendants the exclusive option to determine the proper amount of financing, or whether Defendants should have accepted Plaintiff’s offer to finance.  Accordingly, the court could not interpret what the parties mutually meant by the “subject to financing” term and therefore held the contract void for indefiniteness.
+
+Discussion
+Clauses related to efforts by the purchaser to secure adequate financing, not resolved at the time the contract was signed, often result in litigation.
+

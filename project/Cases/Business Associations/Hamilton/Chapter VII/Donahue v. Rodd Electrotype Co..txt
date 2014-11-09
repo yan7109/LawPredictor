@@ -1,0 +1,24 @@
+Citation
+Mass. Sup. Jud. Ct., 328 N.E.2d 505 (1975)
+
+Brief Fact Summary
+Donahue (P), a minor shareholder in a closely held corporation, seeks to rescind the corporate purchase of shares of the majority shareholder.
+
+Synopsis of Rule of Law
+Controlling stockholders in a close corporation who force the corporation to buy their stock breach their fiduciary duty to minority shareholders if they do not offer all stockholders an equal opportunity to sell a ratable number of shares to the corporation at the equivalent price.
+
+Facts
+The controlling stockholder of Rodd Electrotype Co. (D), Harry Rodd (D) maneuvered the closely held corporation into repurchasing 45 of his shares for $800 each for a total of $36,000. Rodd (D) then dispersed the rest of his assets in the corporation among his children as gifts. Donahue (P) a minority stockholder who originally refused to ratify this action, offered to sell her holdings at the same price was denied. She (P) filed suit seeking to reverse the purchase and force Rodd (D) to repay the corporation with interest. The trial court found that the purchase had been made without discrimination towards Donahue (P) and dismissed the bill. The appellate court affirmed.
+
+Issue
+If a majority stockholder in a close corporation has maneuvered the corporation into purchasing some of his, must he or she see to it that an equal offer is made to the other shareholders?
+
+Held
+(Tauro, C.J.) Yes. If a majority stockholder in a close corporation has maneuvered the corporation into purchasing some of his, he or she must see to it that an equal offer is made to the other shareholders or else breach fiduciary duty. Close corporations are different in that they, like partnerships, require trust, confidence, and loyalty among members to be successful. This creates a partnership style fiduciary duty. With this in mind, Donahue (P) must be given the same opportunity to sell here shares at the same price as Rodd (D). Reversed and remanded.
+
+Concurrence
+(Wilkins, J.) I do not agree with the implication that this  rule is applicable to other activates of the corporation, such as  salaries and dividend policy, as it is applicable to minority  stockholders.
+
+Discussion
+Minority stockholders in a close corporation face the problem of not having a ready market when they wish to liquidate their holdings. The controlling stockholder when knowing this fact has a very strong maneuvering position over the minority stockholder he or she would not have regularly in a normal corporate setup. This in turn creates a higher degree of fiduciary duty for the controlling stockholder.
+

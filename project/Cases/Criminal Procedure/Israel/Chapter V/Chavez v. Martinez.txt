@@ -1,0 +1,24 @@
+Citation
+538 U.S. 760, 123 S. Ct. 1994, 155 L. Ed. 2d 984 (2003)
+
+Brief Fact Summary
+Martinez brought suit against police officers when he was shot during a struggle.
+
+Synopsis of Rule of Law
+[ Please provide a brief description of the main rule of law of this case. ]
+
+Facts
+While riding his bicycle home from work, Martinez was stopped by police officers who were investigating narcotics violations.  Whey they attempted to handcuff him, a struggle ensued, during which Martinez was shot.  The wound to Martinez resulted in permanent paralysis and loss of vision.  Later, he sued the officers, arguing the search and use of deadly force was unconstitutional.  At trial of that matter, in their defense, the officers introduced evidence of a taped confession, obtained while Martinez was at the hospital, in which he admitted grabbing the gun of one of the officers.  Martina claimed the tape could not be used because he had not been Mirandized and botht eh trial and appellate courts agreed.  The officers appealed.
+
+Issue
+Whether the right to be free from coercive question, as imposed by the Fifth and Fourteenth Amendments, is violated when an individuals statements are used in a matter, other than a criminal case.
+
+Held
+Remanded.  In a divided decision, the Court determined that Martinez’s Fifth Amendment rights had not been violated; another panel of judges reasoned, however, that if he could show that his constitutional guarantee was placed at risk, he may show a violation of the right.  All of the court agreed that whether Martinez may pursue a claim of liability for a due process violation should be addressed on remand.
+
+Dissent
+Justice Stevens dissented, noting that the hospital interview was comparable to a confession obtained by torture.
+
+Discussion
+At first glance, this case appears to be a true plurality, but the key to understanding it is finding the areas where the justices agree.  All justices seem to feel that remand is appropriate, in light of the fact that it is incumbent upon the defendant to prove a violation of his rights.  The justices go on to give the defendant ample proof that his rights have been violated, should he raise the issue of the hospital questioning.
+

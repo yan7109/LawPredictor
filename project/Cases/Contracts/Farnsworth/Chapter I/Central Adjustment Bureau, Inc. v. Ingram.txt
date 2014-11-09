@@ -1,0 +1,24 @@
+Citation
+678 S.W.2d 28, 1984 Tenn. 847
+
+Brief Fact Summary
+P brought suit against D seeking compensatory and injunctive relief for breach of a non-compete covenant.
+
+Synopsis of Rule of Law
+There is a valid consideration when a non-compete covenant is signed after employment has begun and the employee continues to work for the employer for an appreciable length of time.
+
+Facts
+Ingram (D) worked at Central Adjustment Bureau (P), a corporation. D was working for P for one week when P indicated that D must sign a non-compete clause. Initially D objected, but when threatened with termination, he signed. D left P to form Ingram & Associates. Ingram & Associates competed directly with P. P brought suit against D seeking compensatory and injunctive relief for breach of the non-compete covenant. The Chancellor awarded P $80,000 and injunctive relief. The Court of Appeals reversed the Chancellor, holding that the covenants were unenforceable for lack of consideration. P appealed.
+
+Issue
+Is there a valid consideration when a non-compete covenant is signed after employment has begun and the employee continues to work for the employer?
+
+Held
+Yes. The judgment of the Court of Appeals is reversed and the judgment of the Chancellor is affirmed.
+
+Dissent
+P did not present the covenant to D until after employment had begun. At that point the covenants were not the subject of free bargaining. D had little choice but to sign. There was no guarantee that the employee would not be terminated even if he signed the non-compete agreement; the employer furnished no consideration. A valid consideration is not a promotion or increased pay because for an act to constitute a valid consideration for a promise it must have been bargained for and given in exchange for the covenant. The covenant fails for lack of consideration.
+
+Discussion
+Although there was no consideration when D, already an employee, signed the covenant, continued employment provided a necessary consideration to make the covenant enforceable.
+

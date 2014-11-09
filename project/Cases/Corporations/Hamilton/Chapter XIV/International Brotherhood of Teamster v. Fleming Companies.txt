@@ -1,0 +1,21 @@
+Citation
+1999 OK 3, 975 P.2d 907
+
+Brief Fact Summary
+The International Brotherhood of the Teamsters General Fund, (Appellees), brought suit against Fleming Companies, Inc., (Appellant) to compel Appellant to include its proxy statement in the proxy materials for the annual shareholders meetings. The district court and 10th Circuit Court of Appeals both ruled in favor of Appellees.
+
+Synopsis of Rule of Law
+Shareholders may, through proper channels of corporate governance, restrict the board of directors’ authority to implement shareholder rights plans.
+
+Facts
+Appellee owns sixty-five shares of Appellant. In 1986 Appellant implemented a shareholder’s rights plan, commonly referred to as a “poison pill” as an anti-takeover mechanism. Appellee was critical of this plan seeing it as a means of entrenching the current board of directors in the event Appellant became the target of a takeover. Appellee passed a non-binding resolution at the shareholders meeting calling on the board to redeem the existing rights plan. Appellant’s board was hostile to the resolution and the rights plan remained intact.
+
+Issue
+Whether Oklahoma law restricts the authority to create and implement shareholder rights plans exclusively to the board of directors. Whether shareholders may propose resolutions requiring that shareholder rights plans be submitted to the shareholders for vote at the succeeding annual meeting.
+
+Held
+No. There is no exclusive authority granted boards of directors to create and implement shareholder rights plans, where shareholder objection is brought and passed through official channels of corporate governance. Yes. There is no authority precluding shareholders from proposing resolutions, or bylaw amendments that restrict board implementation of shareholder rights plans assuming the certificate of incorporation does not provide otherwise.
+
+Discussion
+Appellant argues that the board of directors only may create and issue rights and options. Appellant relies on 18 O.S.1991 Section: 1038 to claim that “corporation” is synonymous with “board of directors.” The former Business Corporations Act, 18 Section: 1.2(1) and (23) defines both terms differently and it is unlikely that the legislature would interchange them as Appellant contends. A shareholder rights plan is essentially a variety of stock option plan. Other cases reveal that stock option plans can be subject to shareholder approval. Nothing in existing case law indicates that the shareholder rights plan is exempt form shareholder adopted bylaws.
+

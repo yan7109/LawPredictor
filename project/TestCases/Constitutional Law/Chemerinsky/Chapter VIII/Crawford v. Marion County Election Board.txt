@@ -1,0 +1,27 @@
+Citation
+128 S. Ct. 1610 (2008)
+
+Brief Fact Summary
+Statute in Indiana requires a photo ID in order to vote.  Petitioners claim that it discriminates against the old the poor, who are typically democrats.
+
+Synopsis of Rule of Law
+Any photo ID is a minimal burden that does not violate the fundamental right to vote.
+
+Facts
+An Indiana statute, “Voter ID law” required that any person voting in person on election day, or casting a ballot in person at the office of the circuit court clerk prior to election day, to present photo ID issued by the government. This did not apply to absentee ballots and the statute contained an exception for persons living and voting in a state licensed facility like a nursing home. If a person is indigent or has a religious objection to being photographed, they may cast a provisional ballot and execute an affidavit before the circuit court clerk within 10 days of the election. No photo ID is required for registration, and the state offers free photo ID to qualified voters able to establish residence.
+
+Issue
+Is requiring a photo identification when voting in person an unconstitutional burden on the fundamental right to vote?
+
+Held
+No, as a photo id is a minimal burden, and the state has a legitimate interest in guarding against voter fraud.
+
+Dissent
+(Souter) The dissent uses the balancing test set forth in Burdick v Takushi “a state may not burden the right to vote merely by invoking abstract interests, be they legitimate, or even compelling, but must make a particular, factual showing that threats to its interest outweigh the particular impediements it has imposed”.  Since voting is a fundamental right, the judiciary should be especially skeptical of anything threatening that right.  He found that the burden on the old and the poor was too large, especially in the absence of any actual voter fraud.
+
+Concurrence
+(Scalia) The dissent goes further to state that any burden is extremely minimal. Further the law is a “generally applicable, non discriminatory voting regulation”, and therefore, we should not weigh the burden of each voter as the majority opinion does, but because there is no discriminatory intent, a generally applicable law with disparate impact is not unconstitutional.
+
+Discussion
+(Justice Stevens)  If a restriction on voting, such as a poll tax, is unrelated to voter qualifications, it may be considered invidious discrimination. However, when if a restriction is evenhanded and seeks to protect the integrity and reliability of the electoral process, it is acceptable. The state advances several legitimate interests, which, while the petitioners argue that the legislation is motivated by partisan concerns, are uncontested.  First, the state’s interest is deterring and detecting voter fraud.
+

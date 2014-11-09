@@ -1,0 +1,24 @@
+Citation
+392 U.S. 1, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968)
+
+Brief Fact Summary
+The Petitioner, John W. Terry (the “Petitioner”), was stopped and searched by an officer after the officer observed the Petitioner seemingly casing a store for a potential robbery.  The officer approached the Petitioner for questioning and decided to search him first.
+
+Synopsis of Rule of Law
+An officer may perform a search for weapons without a warrant, even without probable cause, when the officer reasonably believes that the person may be armed and dangerous.
+
+Facts
+The officer noticed the Petitioner talking with another individual on a street corner while repeatedly walking up and down the same street.  The men would periodically peer into a store window and then talk some more.  The men also spoke to a third man whom they eventually followed up the street.  The officer believed that the Petitioner and the other men were “casing” a store for a potential robbery.  The officer decided to approach the men for questioning, and given the nature of the behavior the officer decided to perform a quick search of the men before questioning.  A quick frisking of the Petitioner produced a concealed weapon and the Petitioner was charged with carrying a concealed weapon.
+
+Issue
+Whether a search for weapons without probable cause for arrest is an unreasonable search under the Fourth Amendment to the United States Constitution (”Constitution”)?
+
+Held
+The Supreme Court of the United States (”Supreme Court”) held that it is a reasonable search when an officer performs a quick seizure and a limited search for weapons on a person that the officer reasonably believes could be armed.  A typical beat officer would be unduly burdened by being prohibited from searching individuals that the officer suspects to be armed.
+
+Dissent
+Justice William Douglas (”J. Douglas”) dissented, reasoning that the majority’s holding would grant powers to officers to authorize a search and seizure that even a magistrate would not possess.
+
+Discussion
+The facts of the case are important to understand the Supreme Court’s willingness to allow the search.  The suspicious activity was a violent crime, armed robbery, and if the officer’s suspicions were correct then he would be in a dangerous position to approach the men for questioning without searching them.  The officer also did not detain the men for a long period of time to constitute an arrest without probable cause.
+

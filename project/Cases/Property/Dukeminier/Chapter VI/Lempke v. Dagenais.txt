@@ -1,0 +1,24 @@
+Citation
+130 N.H. 782, 547 A.2d 290, 1988 N.H.
+
+Brief Fact Summary
+The Plaintiffs, Mr. and Mrs. Lemke (Plaintiffs), brought suit to recover damages from a builder who constructed a garage on a house they built. The garage was found to have several substantial defects after the Plaintiffs had purchased the property.
+
+Synopsis of Rule of Law
+Privity of contract is not necessary for a purchaser to sue a builder or contractor under an implied warranty theory for latent defects which manifest themselves within a reasonable time after purchase and which cause economic harm.
+
+Facts
+In 1977, the Plaintiffs’ predecessors in title contracted with the Defendant, Dagenais (Defendant), to build a garage. Six months later, the property was bought by the Plaintiffs. Shortly thereafter, the Plaintiffs noticed structural problems with the garage. Plaintiffs contacted the defendant to fix the garage, which Defendant promised to do, but never did. Plaintiffs brought suit for breach of the implied warranty of workmanlike quality and negligence against the Defendant and the trial court found for the Defendant. Plaintiffs appealed.
+
+Issue
+Whether a purchaser of real property may sue the builder/contractor absent privity of contract for defects on the theory of implied warranty of workmanlike quality.
+
+Held
+Reversed. There is no privity requirement in suits by subsequent purchasers against a builder or contractor for a breach of an implied warranty of good workmanship for latent defects.
+
+Dissent
+Judge Souter [now sitting on the United States Supreme Court] dissented because he did not believe there was adequate justification to overrule Ellis v. Morris, Inc., 513 A.2d 951 (N.H. 1986). The Ellis court ruled that subsequent purchasers cannot recover for economic loss or under an implied warranty without privity of contract.
+
+Discussion
+The court went through a lengthy discussion as to why the privity of contract requirement to bring a suit was no longer in line with modern trends. The basis for this assertion was a belief that the implied warranty of workmanlike quality was a warranty imposed by public policy. Thus it was not tied to a contract or relationship of any sort. Further, the court noted that the builder already had a duty to construct in a workmanlike manner and that extending this duty for a reasonable time did not unduly burden a contractor nor change his basic obligation.
+

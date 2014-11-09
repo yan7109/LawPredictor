@@ -1,0 +1,21 @@
+Citation
+527 Pa. 47,588 A.2d 485, 1991 Pa.
+
+Brief Fact Summary
+A deed conveyance was unclear as to what type of interest was being conveyed.
+
+Synopsis of Rule of Law
+An option to purchase land is unenforceable if it can be exercised beyond the end of the rule against perpetuities period.
+
+Facts
+Central Delaware County Authority (Plaintiff) bought land. The deed conveyed the property in fee simple, but stated that the property had to be used for public purposes. A provision in the lease stated that if at any time the property was for the public use, then the seller would have the right to repurchase, retake, and reacquire the land upon payment. Plaintiff stopped using the land for public purposes and brought an action to quiet title, alleging the deed’s public use restrictions are void as violating the rule against perpetuities.
+
+Issue
+Is a restriction in a deed that is an option to purchase void if the restriction allows for the possibility that the option might vest later than 21 years?
+
+Held
+Yes.
+
+Discussion
+An option to purchase land is unenforceable if it can be exercised beyond the end of the rule against perpetuities period.
+

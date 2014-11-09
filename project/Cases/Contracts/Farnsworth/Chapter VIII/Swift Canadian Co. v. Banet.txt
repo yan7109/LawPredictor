@@ -1,0 +1,21 @@
+Citation
+224 F.2d 36, 1955 U.S. App.
+
+Brief Fact Summary
+The Plaintiff seller, Swift Canadian Co. (Plaintiff), sued the Defendant buyer, Keystone Wool Pullers (Defendant), for breach of contract for failure to pay for a shipment of pelts that the Plaintiff properly delivered to a common carrier pursuant to the contract.
+
+Synopsis of Rule of Law
+When goods are delivered free on board (F.O.B.), title and risk of loss pass at the location specified.
+
+Facts
+The Plaintiff and the Defendant entered into a contract for the sale of lamb pelts. The contract stipulated that the pelts would be delivered by rail cars to be loaded in Toronto with a destination of Philadelphia. The contract stated, “F.O.B. Toronto.” At about the time that the Plaintiff was ready to load the last shipment of pelts, the United States government issued stricter regulations that would have prevented the importation of the pelts. Nevertheless, the Plaintiff made the pelts available to be loaded onto rail cars in Toronto. When the Defendant refused to load and ship the pelts since the regulations prevented the Defendant from importing the pelts to its desired location, the Plaintiff sued, stating that it complied with the terms of the agreement by delivering the goods to a common carrier in Toronto.
+
+Issue
+Did the Plaintiff complete its obligation on the contract when it delivered or offered to deliver the goods to the railroad company in Toronto?
+
+Held
+Yes. Where a contract specifies “F.O.B. place of shipment,” title and risk of loss pass to the buyer upon the seller’s delivery of the goods to a common carrier at the place of shipment. This is to be contrasted with “F.O.B. destination.” Under these circumstances, risk of loss and title remain with the seller after delivering the goods to a common carrier and up to the time the carrier has delivered the goods to the buyer at the agreed-upon destination. Here, the contract specified F.O.B. Toronto, which was the place of shipment. Therefore, the Plaintiff satisfied its contractual duties by delivering the goods to the railroad company in Toronto, notwithstanding the fact that the Defendant could not take the goods to its desired location. Certainly, the buyer did not have to ship the goods to the United States.
+
+Discussion
+F.O.B. place of shipment – title transfers to buyer upon delivery by the seller to a common carrier; F.O.B. destination – title does not transfer from seller to buyer until the goods reach the destination.
+

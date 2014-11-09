@@ -1,0 +1,18 @@
+Citation
+145 U.S. 285, 12 S. Ct. 909, 36 L. Ed. 706, 1892 U.S.
+
+Brief Fact Summary
+Mrs. Sallie Hillmon (”Mrs. Hillmon”), upon the death of her husband, sought to collect on three insurance policies insuring his life.  The insurance company defended on the grounds that Mr. Hillmon was not actually dead.
+
+Synopsis of Rule of Law
+Whenever a person’s intention is of itself a distinct and material fact in a chain of circumstances, it may be proved by contemporaneous oral or written declarations of the party.
+
+Facts
+Mrs. Hillmon brought suit against Mutual Life Insurance on a life insurance policy worth $10,000 on her husband’s death. On the same day she did the same thing at two other insurance companies on policies worth $5000 a piece. She contended that her husband had died and that the companies refused to pay. The insurance company alleged that Mr. Hillmon had conspired with others to fake his death for the purposes of getting the money from the policies, and that the policies were therefore void.  At trial the defense attempted to show that the body which had been buried was not the body of Mr. Hillmon, but instead the body of Frederick Adolph Waters (”Mr. Waters”) .  Each party introduced conflicting evidence about this issue.  At the end of the evidence, the trial court instructed the jury that they had only to decide whose body it was and that that decision would decide their verdict for them.<span class='heading'>Issue.</span>  Whether the testimony of third parties regarding letters received from Mr. Waters should have been allowed into evidence?
+
+Held
+Yes.  The letters were the natural proof of Mr. Waters’ intention to travel from Wichita to Crooked Creek with Mr. Hillmon on a certain day. The letters were admissible as evidence of the fact that he had the intention of going from Wichita and of going with Mr. Hillmon.
+
+Discussion
+The statements are admissible to show the state of mind of Mr. Waters, and to show his intent to do certain acts. These things are not provable by any other testimony, as Mr. Waters himself is unavailable to testify at trial.
+

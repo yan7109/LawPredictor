@@ -1,0 +1,24 @@
+Citation
+344 U.S. 6, 73 S. Ct. 71, 97 L. Ed. 6, 1952 U.S.
+
+Brief Fact Summary
+Petitioners were equal owners of a corporation and liquidated the assets and divided the proceeds.  A judgment levied against the corporation was paid by Petitioners who sought to claim the loss as an ordinary business loss instead of a capital loss.
+
+Synopsis of Rule of Law
+Each taxable year is a separate unit for tax accounting purposes.
+
+Facts
+Two taxpayers, Petitioners, liquidated and divided the proceeds of a corporation that they owned equally.  For 1937 through 1940, Petitioners reported the profits from the distributions as capital gains, thus paying less taxes than if they were reported as ordinary business transactions.  In 1944, a judgment against the corporation was rendered and Petitioners paid the judgment.  Each took a 100% tax deduction of the amount paid classifying it as a business loss.  The Commissioner considered the payment of the judgment as part of the original liquidation and required Petitioners to treat this as a capital loss just as they had treating the proceeds as capital gain.  The Tax Court disagreed and classified it as an ordinary business loss. The Court of Appeals reversed the Tax Court.
+
+Issue
+Was it in error to consider the loss as a capital loss?
+
+Held
+Justice Black issued the opinion for the Supreme Court of the United States in holding that the loss was properly classified as a capital loss.
+
+Dissent
+Justice Douglas issued a dissenting opinion arguing that there were no capital transactions during the year the losses were suffered.  The capital transactions occurred in earlier years and finding otherwise violates the principle that each year is a separate taxing unit.
+
+Discussion
+The Supreme Court noted that the liability was not based on any ordinary business transaction.  Further, considering previous relevant transactions does not breach the separate taxing unit principle because they are not reopening or adjusting the previous returns.
+

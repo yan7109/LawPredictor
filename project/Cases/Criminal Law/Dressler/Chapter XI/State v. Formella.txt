@@ -1,0 +1,27 @@
+Citation
+N.H. Sup. Ct., 158 N.H. 114, 960 A.2d 722 (2008)
+
+Brief Fact Summary
+Formella (D) initially served as an accomplice by being a lookout while others stole exams, but then changed his mind and decided that it was wrong to be part of the crime. He stopped serving as a lookout before the crime was committed. He argued that he could not be convicted as an accomplice to theft since he stopped participating in the crime beforehand.
+
+Synopsis of Rule of Law
+An individual can be liable as an accomplice to crime where he stops his criminal complicity before the actual offense is committed but does not completely remove all effectiveness from his complicity.
+
+Facts
+Formella (D) and some of his friends, all high school students, were asked to be lookouts while some other students stole math exams from inside the school. They agreed and did a survey to check for any other person while they were on the way to their lockers. After getting their books out, they decided that what they had planned was wrong and left the building. However, the other group went on to steal the exams. Formella admitted that he was involved in the theft and was convinced of theft on the ground of criminal liability for the conduct of another person as an accomplice. He appealed on the ground that the trial court had been mistaken in not finding the fact that he had left his complicity before the completion of the theft, which under the accomplice liability act proved he was not an accomplice. The act provides that no one will be liable as an accomplice if he withdraws his complicity before the offense is committed and wholly deprives his complicity of having any effectiveness in the commission of the crime, or gives timely warning to the law enforcement authorities, or makes appropriate efforts to prevent the offense of being committed. The state supreme court granted review.
+
+Issue
+Can an individual be liable as an accomplice to crime where he stops his criminal complicity before the actual offense is committed but does not completely remove all effectiveness from his complicity?
+
+Held
+(Galway, J.) Yes. An individual can be liable as an accomplice to crime where he stops his criminal complicity before the actual offense is committed but does not completely remove all effectiveness from his complicity.Formello became an accomplice the moment he  agreed to become a lookout. When he changed his mind, he did not warn the police or make any proper effort to prevent the theft from happening. The issue here is whether his withdrawal wholly removed effectiveness from his complicity. The statute does not define the nature of this act. The State (P ) holds that Formello was required to perform some open or affirmative action to deprive his earlier complicity of its effectiveness in toto. Formello denies such a requirement. The statute being unclear, the legislative intent was looked into. The Model Penal Code, which was the foundation of this law, states that to deprive complicity of effectiveness, the withdrawal of the accomplice must be accompanied by an expression of his disapproval to the individuals committing the offense, early enough to let them think again about their participation. This element was lacking in the present case. Formello made a timely withdrawal but did not perform any affirmative act like communicating his decision to the principals, which might have led them to reconsider their determination. While he made no effort to be a lookout after he decided to withdraw, he did no positive act to communicate this withdrawal, so that the principals in effect remained ignorant of it, and remained encouraged to commit the offense instead of having their confidence undermined or undone. Thus the trial court was right in refusing to find on the basis of the timing of the crime because his withdrawal did nothing to alter the result. The verdict is affirmed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The issue of this case demonstrates that just having a change of heart, or fleeing from the scene of crime, or being caught by the police, or deciding not to take part but not communicating the decision to the principals, is not enough to set an accomplice free of criminal liability after he withdraws from the actual crime. However, the accomplice does need to actually prevent the crime but he should act so as to allow the principals to know that he disapproves of their course in time to consider changing it.
+

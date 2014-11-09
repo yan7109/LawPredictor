@@ -1,0 +1,24 @@
+Citation
+417 U.S. 600, 94 S. Ct. 2437, 41 L. Ed. 2d 341 (1974)
+
+Brief Fact Summary
+This was a consolidated appeal of two separate cases in which indigent defendants were convicted in North Carolina trial courts. Both appealed and were represented by court appointed counsel before the North Carolina Court of Appeals.  Each defendant thereafter pursued other discretionary post conviction remedies and were denied court appointed counsel.
+
+Synopsis of Rule of Law
+The same concepts of fairness and equality, which require counsel in a first appeal of right, require counsel in other and subsequent discretionary appeals.
+
+Facts
+This case is the result of the consolidation of two separate cases in which an indigent defendant was convicted in the trial court of the respective counties of Mecklenburg and Guilford, North Carolina.  Each defendant pursued his appeal of right to the North Carolina Court of Appeals, where each was represented by court appointed counsel. The convictions were affirmed.
+
+Issue
+At issue is whether Douglas v. California, which requires appointment of counsel for indigent defendants on their first appeal of right, should be extended to require counsel for discretionary state appeals and for applications for review in this Court?
+
+Held
+Neither the due process clause nor the equal protection clause require states to appoint counsel to indigent defendants in discretionary appeals or other post conviction relief.
+
+Dissent
+Justice William Douglas (”J. Douglas”) joined by Justice William Brennan (”J. Brennan”) and Justice Thurgood Marshall (”J. Marshall”) would have affirmed the judgment below, agreeing that there is “no logical basis for differentiation between appeals of right and permissive review procedures in the context of the Constitution and the right to counsel.”
+
+Discussion
+Justice William Rhenquist, writing for the majority, first notes that over the preceding twenty years, the Supreme Court of the United States (”Supreme Court”) has given extensive consideration to the rights of indigent persons on appeal.  The Suprem Court notes that many financial barriers to the appellate process have been invalidated under the proposition that a State cannot arbitrarily cut off appeal rights for indigents, while leaving open avenues for appeal for more affluent persons. The Supreme Court further notes that the decision in Douglas further expanded that ideal and held that indigent persons are entitled to court ordered representation at first appeals of right. However, the precise rational for Douglas has never been explicitly stated, but appears to rest on the Equal Protection Clause or the Due Process Clause of the Fourteenth Amendment of the Constitution.  Due process emphasizes fairness between the State and individuals dealing with the State, while
+

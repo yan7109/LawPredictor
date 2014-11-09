@@ -1,0 +1,21 @@
+Citation
+170 Vt. 194, 744 A.2d 864 (1999)
+
+Brief Fact Summary
+Defendant Baker was convicted for speeding and at the trial; evidence that Defendant’s cruise control stuck and therefore he could not adjust his speed was suppressed. Defendant appeals, arguing that he acted involuntarily and therefore could not be held liable for the offense.
+
+Synopsis of Rule of Law
+While fault is not an element that must be established with regard to strict liability offenses, the action charged as criminal must be proven to have been voluntary.
+
+Facts
+Defendant was convicted for of driving his vehicle at 77 mph in a 55 mph zone. Defendant tried to assert at trial that he was operating the car on cruise control and therefore he could not adjust his speed, however the trial judge suppressed the evidence to that effect. Defendant appeals, arguing that even though the charge against him was an absolute liability offense, the state must prove that he acted voluntarily.
+
+Issue
+Was Defendant acting voluntarily such that he should be held liable for speeding?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+In this case, the Court is time framing to show concurrence of the elements of the crime by reaching back to when Defendant activated the cruise control and then tying that action to the later speeding. The Court says that cruise control is not an essential element of driving and that by using it, Defendant gave up control of the car. While speeding is a strict liability offense, the court’s analysis is essentially that it was foreseeable when Defendant gave up control that the cruise control would fail to work – in other words the Court is framing its discussion in terms of recklessness and negligence in a case where we are dealing with a strict liability offense.
+

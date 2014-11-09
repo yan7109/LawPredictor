@@ -1,0 +1,21 @@
+Citation
+22 Ill.228 F.3d 544 (5th Cir. 2000)
+
+Brief Fact Summary
+Plaintiffs, Daniel Battle and his parents, appealed a summary judgment for Defendants, Memorial Hospital at Gulfport and several physicians, because the lower court excluded deposition testimony.
+
+Synopsis of Rule of Law
+A discovery deposition can be used at trial providing that the witness is unavailable and the party using the expert witness did not procure the unavailability.
+
+Facts
+Daniel Battle was fifteen months old when he developed viral encephalitis (HSE).  Daniel was taken to Defendant hospital where Defendant doctors repeatedly misdiagnosed his affliction.  The delay in proper diagnosis resulted in a delay in HSE treatment which in turn resulted in Daniel being in a permanent vegetative state.  Defendants’ position was that Daniel did not have HSE and therefore it would not have helped to have provided HSE treatment earlier in his affliction.  Plaintiffs filed a medical malpractice suit with state and federal claims, and the suit was moved to the United States District Court for the Southern District of Mississippi.  The magistrate judge granted a summary judgment for Defendants, making numerous evidentiary, statutory and procedural rulings as the basis for the judgment.  The judge refused to admit the deposition of Plaintiffs’ expert, Dr. Fred Lakeman, who was the doctor who had a positive HSE identification because he considered it a discovery d
+
+Issue
+The first issue is whether Plaintiffs’ expert’s deposition should be excluded from the jury because it was a discovery deposition. The second issue is whether Defendants can insist that Dr. Young’s testimony take the form of a video testimony rather than live testimony.
+
+Held
+Federal Rules of Civil Procedure 26 allows for Lakeman’s deposition to be used at trial because Lakeman satisfied the requirements of an unavailable witness.  Lakeman was not within 100 miles of the trial, but Defendants did have an opportunity to depose him (although they insist it was not in a cross-examination manner, but rather open-question discovery format). Defendants can successfully request that Dr. Young’s testimony be taped because Dr. Young was outside of 100 miles and therefore Plaintiffs had to develop a strategy of examination with the understanding that he would be unavailable.  Plaintiffs can not force Defendants to alter or give away their strategy by making the witness now available.
+
+Discussion
+The court made an attempt to balance justice with courtroom fairness.  Plaintiffs would have no case if Lakeman’s deposition was excluded.
+

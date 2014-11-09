@@ -1,0 +1,21 @@
+Citation
+542 U.S. 656, 124 S. Ct. 2783, 159 L. Ed. 2d 690, 16 ILRD 1, 2004 ILRC 2035, 32 Med. L. Rptr. 1865 (2004)
+
+Brief Fact Summary
+Internet content providers and civil liberties groups sued United States Attorney General, claiming that Child Online Protection Act (COPA) violated their First Amendment rights.  They are seeking preliminary injunction of enforcement.
+
+Synopsis of Rule of Law
+When there is a challenge on a content-based speech restriction under First Amendment, the burden of proof is on the government to prove that proposed alternatives will not be as effective as challenged statute.
+
+Facts
+Congress passed the Child Online Protection Act (COPA) to avert minors from having access to pornography on the internet. The American Civil Liberties Union (ACLU) and online publishers sued in federal court to prevent enforcement of the act, arguing that it violated the Free Speech clause of the First Amendment. The District Court agreed. On appeal, a Third Circuit Court of Appeals panel affirmed, the Court held that because the act used "community standards" to determine which material was harmful to minors, it would bar material that was offensive in the most "puritanical" communities from being displayed in more "tolerant" ones.
+
+Issue
+Whether the Child Online Protection Act's requirements violate the First Amendment by restricting speech and also violates the First Amendment by using a method that is not least restrictive?
+
+Held
+Whether the Child Online Protection Act's requirements violate the First Amendment by restricting speech and also violates the First Amendment by using a method that is not least restrictive?
+
+Discussion
+When determining whether alternatives would be as effective as a content-based speech restriction, the court first assumes that the certain speech may be regulated and then proceeds to consider what the least restrictive approach is.
+

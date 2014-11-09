@@ -1,0 +1,21 @@
+Citation
+573 F.2d 429, 1978 U.S. App.
+
+Brief Fact Summary
+Lawrence and Algerie Mitchell (Plaintiffs) appeal from a judgment dismissing their cause of action for failure to state a claim. The complaint sought damages for injuries suffered by the Plaintiffs as a result of Archibald & Kendall, Incorporated’s (Defendant) negligence.
+
+Synopsis of Rule of Law
+When deciding whether a Motion to Dismiss was properly granted, the court is only required to accept well-pleaded facts as true without considering any new legal theory presented by Plaintiffs.
+
+Facts
+Plaintiffs filed an action against Defendant to recover damages for injuries suffered on land adjacent to Defendant’s property. The complaint states that Plaintiffs were delivering Defendant’s products to its warehouse. When they arrived at the warehouse, Defendant’s employees directed Plaintiff to wait on the street until they unloaded another truck that was already in the warehouse. It was the Defendant’s practice, custom and habit to do this while unloading other trucks. Plaintiff was waiting on the street, when two men approached the truck and demanded money. When Plaintiff refused to give them money on demand, one of the men shot Plaintiff in the face causing him permanent injuries. The complaint also alleged that the Defendant knew or should have known of criminal activity or high risk thereof in the area. The complaint set forth five duties that the Defendant breached. First, it was the Defendant’s duty to exercise ordinary care to maintain premise and adjacent areas in reasonably safe manner. Second, Defendant breached the duty to exercise reasonable care to provide a reasonably safe means of ingress and egress within confines owned and operated by the Defendant. Third, Defendant owed Plaintiffs the duty to exercise reasonable care to protect them from criminal acts of third persons while on Defendant’s property and beyond precise boundaries. Fourth, Defendant owed Plaintiff the duty to give notice and warning of the criminal activity, which was known to the defendant. Finally, Defendant had a duty to the Plaintiff to keep its premises and immediate adjacent area well policed and exercise reasonable care to see that invitees were protected from criminal acts of third persons and take reasonable steps to prevent such injuries.
+
+Issue
+Whether dismissal under Rule 12(b)(6) of the Federal Rules of Civil Procedure was procedurally proper?   Whether the owner of land has a duty of reasonably protecting an invitee against criminal acts that take place beyond the boundaries of his premises?
+
+Held
+Yes, dismissal was proper under Rule 12(b)(6). No, the owner of land has no duty to invitees beyond the boundaries of his land. Dismissal affirmed.    On the issue of whether dismissal under Rule 12(b)(6) was procedurally proper, the court properly relied on Rule 12(b)(6) in disposing of the case since the Plaintiff sets forth a new theory of liability. The court is only required to accept well-pleaded facts as true without considering any new legal theory presented by Plaintiffs. Here, the Plaintiff’s complaint was a narrative recital of the facts relevant to the issue of the Defendant’s duty.  The Defendants have no duty to the Plaintiffs. A possessor of land is subject to liability to business invitees only while they are on their land. Plaintiffs were not considered to be on Defendant’s property, so Defendant was under no duty to the Plaintiffs. Here, the Plaintiffs were parked on a public thoroughfare, which was not part of Defendant’s property.   <br/><br/><span class='heading'>Dissent.</span> The dissent is in agreement with the majority that the Defendant had no duty to protect against criminal acts of third persons on a public street. However, the facts of this particular case created a duty due to the increased risk.
+
+Discussion
+There is a very liberal standard for sufficiency of plaintiff’s claim. Courts typically will not dismiss the claim unless the court is certain that the plaintiff cannot prove the facts in support of his claim that would entitle him to relief.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.447 U.S. 27, 100 S. Ct. 2009, 64 L. Ed. 2d 702 (1980)
+
+Brief Fact Summary
+A Florida statute prohibited an out-of-state bank holding company from owning or controlling a business within the State that sells investment advisory services to any customer. Bankers Trust sued after the Board rejected its proposal to open a subsidiary that would furnish investment advisory services to the general public.
+
+Synopsis of Rule of Law
+The negative Commerce Clause (also known as the Dormant Commerce Clause) prohibits economic protectionism in the form of regulatory measures designed to benefit instate economic interest by burdening out of state competitors. The only way to save a facially discriminatory statute is by asserting a justified goal or motive unrelated to economic protectionism. Even if there is a valid motive the State has to use the least restrictive means possible.
+
+Facts
+In 1972 Bankers Trust New York Corporation sought and received approval to open a subsidiary in Florida that would furnish investment advisory serves to the general public. At the time its proposal was approved because only giving advice to trust companies or banks was prohibited. The Florida financial community reacted negatively and many filed comments with the Board objecting to the Bankers Trust proposal. The state legislature also took action and shortly after Bankers Trust qualified to do business, the legislature amended the statute so that no out-of-state bank holding company could own or control a business within the State that sold investment advisory services to any customer, including the general public, trust companies, or banks. The amendment was a direct response to Bankers Trust’s pending application and the amendment had the strong backing of the local financial community. In April 1973 the Board rejected Bankers Trust’s proposal on the ground that it would co
+
+Issue
+Did the Florida statutes that prohibited an out-of-state corporation from setting up an investment advisory business within Florida violate the Commerce Clause?
+
+Held
+Justice Blackmun opinion: Yes. District Court judgment affirmed.
+
+Discussion
+This statute was obviously passed in response to local companies’ anti-competitive actions and to protect local economic interests. Thus, the Court’s decision is on solid ground.
+

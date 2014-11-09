@@ -1,0 +1,24 @@
+Citation
+418 U.S. 717, 94 S. Ct. 3112, 41 L. Ed. 2d 1069, 1974 U.S.
+
+Brief Fact Summary
+The schools of the city of Detroit, Michigan were racially imbalanced in the eyes of the District Court. The court’s remedy was to redraw lines of neighboring suburban school districts to achieve racial balance within the city’s schools.
+
+Synopsis of Rule of Law
+The District Courts cannot redraw the lines of integrated school systems to achieve racial balance in a segregated school system absent an interdistrict violation or effect.
+
+Facts
+Attempts to integrate the Detroit schools had been unsuccessful. The District Court redefined the area in question from the city itself to the outlying school districts in the metropolitan area, a total of 54 school districts, including the Detroit district itself. The proposed redistricting would cause significant administrative and financial problems for the resulting school system.
+
+Issue
+May District Courts redraw the boundaries of integrated school districts to achieve integration in a segregated district?
+
+Held
+Not without an interdistrict violation or effect.
+
+Dissent
+Justice Byron White (J. White) argues that the Supreme Court of the United States (Supreme Court) is asking District Courts to consider administrative convenience over violations of constitutional rights. The “core of [his] disagreement is that deliberate acts of segregation and their consequences will go unremedied.” J. White argues that the remedy espoused by the District Court is not impossible, merely inconvenient and convenience is not as important as preserving individuals’ rights to an integrated education.
+
+Discussion
+Milliken is the first case since Brown v. Board of Education, 347 U.S. 483 (1954) (Brown I), which reigned in the power of federal courts to remedy segregation in public schools. Until Milliken, the courts had been given broad powers in equity to enforce the holdings of Brown I by a variety of methods, including redistricting, establishing racial quotas and busing. Milliken drew the line at redistricting integrated districts, unless there was an interdistrict effect with a segregated district.
+

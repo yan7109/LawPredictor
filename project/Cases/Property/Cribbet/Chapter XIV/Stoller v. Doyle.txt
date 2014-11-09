@@ -1,0 +1,21 @@
+Citation
+257 Ill. 369, 100 N.E. 959 (1913)
+
+Brief Fact Summary
+Plaintiff Stoller sued children of the life tenant claiming that he had been conveyed fee simple title and that the children’s contingent remainders had been destroyed.
+
+Synopsis of Rule of Law
+The original deed in this case was a conveyance of fee with limitations over and did not create contingent remainders subject to destruction by the act of the grantor in subsequently conveying the reversion to the grantee.
+
+Facts
+In an 1882 warranty deed, Lawrence Doyle (original grantor) and wife conveyed land to Frank Doyle subject to the following limitations: “Said Frank Doyle shall not have the power to reconvey this land, unless it be to the grantor. He shall not have the power to mortgage this land, and in case the said Frank Doyle should die before his wife dies, and any children survive him, the surviving children and his wife shall have the use of the land. . . during the lifetime of his wife, when it shall go to his children, if any are living, but, if at the death of the grantee no children survive him, the title shall be in the grantors. Should any children survive the grantee and his wife also survive him, she shall have no [an?] interest in the land only so long as she remains unmarried and is his widow.” In 1897, Lawrence Doyle, then a widower, executed another deed to Frank Doyle which purported to give title in fee simple and remove the restrictions. In 1902, Frank Doyle and his wife
+
+Issue
+Did the original deed create in the children of the life tenant a contingent interest in the property which was, by the grantor’s subsequent deed to the life tenant which conveyed the reversion interest, merged into the estate of the life tenant in fee and destroyed?
+
+Held
+No. Reversed and remanded.
+
+Discussion
+Consider that in this case the Court was construing a deed in a jurisdiction which still enforced the destructibility of contingent remainders. The Court’s reliance on the statute of uses and characterization of the future interests of the children as limitations in a deed rather than a contingent interest is a way to create an outcome the Court finds just, even if the decision is somewhat confusing.
+

@@ -1,0 +1,21 @@
+Citation
+734 F.2d 1191
+
+Brief Fact Summary
+Webster, Defendant, was convicted of bank robbery and receiving stolen funds and sentenced to nine years. The prosecution had to use out of court statements by his co-defendant as impeachment evidence after the co-defendant gave testimony that would have exculpated Defendant if believed.
+
+Synopsis of Rule of Law
+Impeachment by offering prior inconsistent statements may not be used to place before the jury evidence not otherwise admissible.
+
+Facts
+Defendant, Webster, was convicted of aiding an abetting in a bank robbery and for receiving stolen funds.  He was sentenced to nine years.  The prosecution had the co-defendant, King, testify against the Defendant.  However, King gave testimony that exculpated the Defendant.  The prosecution was allowed to introduce prior inconsistent statements by King that were incriminating against the Defendant.  The court instructed the jury that it could consider the statements only as impeachment evidence.  Defendant appeals contending that the prosecution should not have been able to use the out of court statements by King.
+
+Issue
+Was it improper to allow the out of court statement by King to admitted?
+
+Held
+Justice Posner issued the opinion for the United States Seventh Circuit Court of Appeals in affirming the conviction and holding that he impeachment evidence was not used to place otherwise inadmissible evidence before the jury because the prosecution did not know that the co-defendant would not give useful evidence.
+
+Discussion
+In the case, the Court of Appeals found that prosecution acted in good faith in putting the co-defendant on the stand.  Thus, the evidence was not offered to intentionally place inadmissible evidence before the jury.  The prosecution first sought to question the co-defendant out of the presence of the jury to find out what information, if any, he would offer.  Defendant’s counsel objected and the questioning was not allowed.
+

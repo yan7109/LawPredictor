@@ -1,0 +1,21 @@
+Citation
+470 U.S. 675, 105 S. Ct. 1568, 84 L. Ed. 2d 605 (1985)
+
+Brief Fact Summary
+Three individuals were arrested after a car and a truck were pulled over on the highway.  A substantial amount of marijuana was found in the truck.  The arrests did not take occur until thirty or forty minutes after the cars were pulled over.
+
+Synopsis of Rule of Law
+“Much as a ‘bright line’ rule would be desirable, in evaluating whether an investigative detention is unreasonable, common sense and ordinary human experience must govern over rigid criteria.”
+
+Facts
+A Drug Enforcement Administration (”DEA”) agent was patrolling an area known for drug trafficking in an unmarked car.  The DEA agent saw a blue pick up truck with an attached camper shell driving along side a blue Pontiac on a highway.  The Respondent, Savage (the “Respondent”) was driving the pickup and another Respondent, Sharpe (”Sharpe”) was driving the Pontiac.  Davis (”Davis”) was also in the Pontiac.  The DEA agent thought the truck was heavily loaded. The DEA agent followed the two vehicles for twenty minutes due to his suspicions.  The DEA agent then decided to make an “investigative stop.”  The DEA agent radioed the highway patrol for back up. After the cars were stopped, the agent smelled marijuana coming from the pick up truck.  The DEA agent asked Sharpe to search the truck, but he would not consent and also said that the truck was owned by the Respondent.  Sharpe also produced documents saying the Respondent owned the truck.  Without seeking the Respondent’s perm
+
+Issue
+“[W]hether an individual reasonably suspected of engaging in criminal activity may be detained for a period of 20 minutes, when the detention is necessary for law enforcement officers to conduct a limited investigation of the suspected criminal activity[?]”
+
+Held
+The majority found that [Terry] applied here.  It observed “[i]t is not necessary for us to decide whether the length of Sharpe’s detention was unreasonable, because that detention bears no causal relation to [the DEA agent's] discovery of the marihuana. The marihuana was in [the Respondent's] pickup, not in Sharpe’s Pontiac; the contraband introduced at respondents’ trial cannot logically be considered the ‘fruit’ of Sharpe’s detention.” “[The majority] conclude[d] that the detention of [the Respondent] clearly meets the Fourth Amendment’s standard of reasonableness.” “Admittedly, Terry, Dunaway, Royer, and Place, considered together, may in some instances create difficult line-drawing problems in distinguishing an investigative stop from a de facto arrest. Obviously, if an investigative stop continues indefinitely, at some point it can no longer be justified as an investigative stop. But our cases impose no rigid time limitation on Terry stops. While it is clear that ‘the brevity of the invasion of the individual’s Fourth Amendment interests is an important factor in determining whether the seizure is so minimally intrusive as to be justifiable on reasonable suspicion,’ we have emphasized the need to consider the law enforcement purposes to be served by the stop as well as the time reasonably needed to effectuate those purposes. Much as a ‘bright line’ rule would be desirable, in evaluating whether an investigative detention is unreasonable, common sense and ordinary human experience must govern over rigid criteria.”
+
+Discussion
+This case is a situation where the Supreme Court reiterated that a bright line rule is not sufficient.
+

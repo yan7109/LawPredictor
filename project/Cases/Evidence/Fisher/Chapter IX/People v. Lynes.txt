@@ -1,0 +1,21 @@
+Citation
+65 N.Y.2d 697
+
+Brief Fact Summary
+A jury convicted Julius Lynes (Appellant) of rape, sodomy, robbery, and burglary; the Appellate Division affirmed the conviction.  At trial, evidence of a phone conversation between a police detective and a person claiming to be Appellant was admitted, as was evidence of oral statements Appellant made to the police before being advised of his constitutional rights.  Appellant appeals his conviction here, claiming that both items of evidence were improperly admitted.
+
+Synopsis of Rule of Law
+At a criminal defendant’s trial, in order for statements made by the criminal defendant to a police officer while on the phone to be admissible as evidence, the trial judge must determine “that the proffered proof permits the drawing of inferences which make it improbable that the caller’s voice belongs to anyone other than the purported caller.”  Also, the trial judge is the proper party to determine whether a criminal defendant’s statement was “reasonably triggered by police conduct which should reasonably have been anticipated to evoke a declaration from the defendant”; if it was no, then any statements made by a criminal defendant are voluntary and admissible against him.
+
+Facts
+Appellant was wanted for various crimes and, when a police detective located a man claiming to be Appellant’s brother, the detective left his name and telephone number with the man and requested that the man instruct Appellant to call the detective.  Hours after leaving his information with the man claiming to be Appellant’s brother, the detective received a call from an individual who identified himself as Appellant and who asked for the detective by name.
+
+Issues
+Did the trial court error in admitting into evidence the telephone conversation between the police detective and the person claiming to be Appellant? Did the trial court error in admitting into evidence the oral statements Appellant made (that he had ‘taken care of’ a woman) to the police officer while in custody and without having been advised of his constitutional rights?
+
+Held
+Affirmed.
+
+Discussion
+The court addressed each issue separately, diving its comments between the two issues.
+

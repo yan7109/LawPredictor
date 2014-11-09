@@ -1,0 +1,24 @@
+Citation
+362 F.3d 294 (5th Cir. 2004)
+
+Brief Fact Summary
+Current and former employees of Countrywide, a consumer mortgage loan company, bring suit against Countrywide.  Countrywide moves to compel arbitration as under their signed employment agreements.
+
+Synopsis of Rule of Law
+Binding arbitration agreements in employment agreements are not necessary unconscionable. Courts determine the contractual validity of an arbitration agreement by applying ordinary state-law principles governing the formation of contracts.
+
+Facts
+Current and former employees of Countrywide, a consumer mortgage loan company, bring suit against Countrywide on behalf of themselves and others similarly situated in an attempt to recover overtime compensation allegedly due under the provisions of Fair Labor Standards Act (“FLSA”), 29 U.S.C. 201.  Countrywide moves to compel arbitration as under their signed employment agreements.
+
+Issue
+Whether the arbitration agreements as signed in this case are unenforceable for four primary reasons: (1) FLSA claims are not subject to arbitration; (2) the Agreements are unconscionable; (3) the Agreements infringe on substantive rights otherwise granted by the FLSA; and (4) the fee splitting arrangement contained in the Agreements imposes impermissibly prohibitive arbitration costs on them.
+
+Held
+Judgment compelling arbitration is affirmed, as there is no basis that the Arbitration Agreements in this case are invalid.  The court rejected the first three arguments entirely, holding that the Agreements were not unconscionable nor would their enforcement clash with any substantive provisions of the FLSA.  The district court found that the fee splitting provision did impose prohibitive costs.  However, Countrywide agreed to pay the costs making that issue moot.
+
+Dissent
+
+
+Concurrence</span>   </br><span class="heading">Discussion
+Here, unconscionability is governed by the state’s laws.  Under Texas state law unconscionability includes two aspects:  (1) procedural unconscionability, which refers to the circumstances surrounding the adoption of the arbitration provision, and (2) substantive unconscionability, which refers to the fairness of the arbitration provision itself.  The burden of proof lies on the party seeking to invalidate the arbitration provision.
+

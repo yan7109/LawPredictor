@@ -1,0 +1,21 @@
+Citation
+22 Ill.524 F. Supp. 546 (D. Del. 1981)
+
+Brief Fact Summary
+The Plaintiff, Leonard Pevar Co. (Plaintiff), as a contractor for the State of Pennsylvania, sought out quotes for the purchase of plywood from various product suppliers. The Defendant, Evans Products Co. (Defendant), provided the lowest quote and agreement was entered into that Defendant would supply Plaintiff with their plywood. Subsequently, the parties disagreed about the terms of their contract.
+
+Synopsis of Rule of Law
+This case provides further illustration of the Battle of the Forms.
+
+Facts
+Plaintiff contended that the contract was oral and that no mention of limitation of liability and warranty disclaimers were made. Plaintiff sent a written purchase order to Defendant, who replied by sending an acknowledgment of the order to Plaintiff, which contained boilerplate language of warranty disclaimer on the back of the document. Plaintiff contended that no disclaimer of warranty was made and brought suit for its losses. Defendant disagreed. Both parties brought Motions for Summary Judgment and the court remanded based on the fact that there was a genuine issue of material fact to be considered.
+
+Issue
+This case presents the question of whether an agreement can be modified by a subsequent form.
+
+Held
+Remanded for consideration.
+
+Discussion
+When there are competing documents and agreements that could, on their face, be valid, there is always a genuine issue of fact for a jury to consider.
+

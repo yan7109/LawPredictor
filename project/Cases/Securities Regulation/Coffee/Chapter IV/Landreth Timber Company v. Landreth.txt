@@ -1,0 +1,21 @@
+Citation
+471 U.S.681 (1985)
+
+Brief Fact Summary
+Landreth Timber Company (Plaintiff) sued under the securities laws after they bought all stock in a timber mill from Landreth (Defendant).
+
+Synopsis of Rule of Law
+Regardless of the stockholder’s role in the corporation management, a sale of shares of stock falls under the protection of the securities laws.
+
+Facts
+Daniel and Bolten bought all of the stock of the Landreth’s lumber business, forming Landreth Timber Company. Landreth presented the stock as interstate in character and failed to register it per the 1933 Securities Act. The business was unsuccessful and Landreth Timber Company filed suit under securities laws seeking damages and rescission. The district court held that the deal was a sale of a business, not securities, and the court of appeals affirmed.
+
+Issue
+Notwithstanding of a stockholder’s management position at the corporation, will shares of stock be protected by the securities laws?
+
+Held
+(Powell, J.) Yes. Shares of stock will be protected by securities laws regardless of the stockholder’s managerial position at the corporation. § 2(1) of the 1933 Act expressly defines a security as “any…stock”, while failing to mention the role of the buyer in managing the corporation. In SEC v. W. J. Howey Co., 328 U.S. 293 at 299, the Court defined a security as a passive investment lacking managerial control. In that particular case though, the issue was that the investment was of an uncommon nature and not effortlessly identifiable as a security.  The Howey test is only applicable to that type of investment. Stock, however, is easily identifiable as a security, and so accordingly, all stock sales are covered by securities laws.
+
+Discussion
+Suits based on securities laws usually aim to fall under federal securities laws. Aside from the practical advantages that subsist in a federal court, if it is found that a defendant has violated the 1933 Act, without having to prove damages, the plaintiff is unquestionably entitled to rescission.
+

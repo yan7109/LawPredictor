@@ -1,0 +1,21 @@
+Citation
+22 Ill.512 N.E.2d 465 (Ind. Ct. App. 1987)
+
+Brief Fact Summary
+Parties entered into a lease agreement where the Plaintiff, Hanover Logansport, Inc. (Plaintiff), failed to deliver the premises on time and the Defendant, Robert C. Anderson, Inc. (Defendant), sued for breach. The Plaintiff offered the premises to the Defendant before trial and the Defendant agreed with the stipulation that it only accepted the premises for the purposes of mitigation and not for settlement of damages. The Defendant brought an action later asking for money damages and the Plaintiff, here appealed stating the Defendant was precluded from bringing the action because of the prior judgment.
+
+Synopsis of Rule of Law
+To insure that both parties agree to reservation of a claim, the reservation must be incorporated into the offer of the judgment and be an inherent part of the original complaint.
+
+Facts
+The Plaintiff and the Defendant entered into a lease agreement where the Plaintiff leased a property for the Defendant to use as a liquor store. The Plaintiff failed to provide the premises on the agreed date and the Defendant sued for breach of contract. Before the trial date, however, the Plaintiff offered to deliver the premises and the Defendant agreed to take it with the reservation that he accepted the premises for purposes of mitigation and not in settlement of damages. The parties filed the stipulation as agreed upon in the court and the Defendant took the premises. After a few months the Plaintiff moved to dismiss the present action and the court denied it. The Plaintiff appealed on the grounds that the prior judgment recorded precluded any further litigation based on the same cause of action.
+
+Issue
+Whether a Plaintiff who accepts an offer of judgment, which conforms to one of the alternative prayers for relief contained in his complaint, may then seek additional damages arising from the same cause of action.
+
+Held
+The offer of judgment must be clear that both parties agreed to the reservation of issues or claims and it must precisely state, which are to be reserved. Because the Defendant did not include a claim for damages for delay in tendering the premises in its complaint, it was precluded from reserving the claim in the consent judgment. Reversed and remanded with instructions to enter a judgment on the offer of judgment and to grant Plaintiff’s motion to dismiss.
+
+Discussion
+The Plaintiff in this case argued that the Defendant had sought specific performance of the lease or in the alternative, money damages. The Plaintiff has also made the offer of the lease consistent with specific performance. By the Defendant’s acceptance of the premises, he chose his remedy and was precluded from continuing the litigation.   The Defendant argued that under T.R. 68, a judgment could be made in part or whole, and that the Plaintiff and trial court were on notice that the judgment did not address the Defendant’s entire claim.  A consent judgment represents agreement by the parties settling the underlying dispute and provides for a judgment. It also represents the entry of such judgment by a court. The court reasoned between two theories of consent judgments: The first, the contract-theory consent judgment, which looks to the intent of the parties. The second likens the judgment to res judicata and collateral estoppel.  The court agreed that if all issues and claims had to be negotiated and dealt with in a consent judgment or lost forever, parties would be reluctant to enter into such agreements. Because of this, the court adopted the consent-judgment-as-contract theory and held that the preclusive effect of a consent judgment had to be measured by the intent of the parties.
+

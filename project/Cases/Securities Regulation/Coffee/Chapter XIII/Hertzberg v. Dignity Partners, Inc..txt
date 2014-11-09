@@ -1,0 +1,21 @@
+Citation
+191 F.3d 1076 (9th Cir. 1999)
+
+Brief Fact Summary
+In reassessing a § 11 claim, the district court dismissed the claim for lack of standing.
+
+Synopsis of Rule of Law
+Standing is not conditioned upon privity under § 11 of the Securities Act.
+
+Facts
+Dignity Partners, Inc. (Defendant) issued a registration statement for a preliminary public offering of Dignity common stock. Dignity would purchase the rights to life insurance profits from persons with AIDS, accepting responsibility for payment of premiums and also paying a lump sum up front. Just after the offering, AIDS patients’ life expectancy extended as a result of new AIDS treatments. Because of these new treatments, Dignitysuffered enormous losses and the stock plunged. Hertzberg (Plaintiff), who bought Dignity stock on the open market over  25 days following the IPO but prior to the extended life expectancy of AIDS patients or huge losses to Dignity became public, filed a class action contending § 11 violations.
+
+Issue
+How does one achieve standing when filing a § 11 claim?
+
+Held
+(Fletcher, J.) “Any person acquiring [a] security” under a registration statement withabsentor distorted datamay bring an action for losses caused by the distortion or absence. In this case, it is immaterialthat the investors failed to buy Dignity stock within 25 days or in the initial IPO. Reversed and Remanded.
+
+Discussion
+Discouraging corporations from dispensing substandard registration statements is a primary goal of the extensive standing requirements.
+

@@ -1,0 +1,21 @@
+Citation
+310 N.J. Super. 382,708 A.2d 787,1998 N.J. Super.
+
+Brief Fact Summary
+Elaine Johnson Wold intends to exercise her power of appointment that was granted to her by her father J. Seward Johnson.  Wold petitions the court to determine whether the exercise of this power will be covered under the New Jersey Uniform Statutory Rule Against Perpetuities because the rule, which creates greater flexibility concerning the time period in which interests must vest, does not apply retroactively.
+
+Synopsis of Rule of Law
+Under the New Jersey Uniform Statutory Rule Against Perpetuities Act, an interest that would have been invalid at common law is nevertheless valid if it does in fact vest within ninety years of its creation, and becomes invalid only if it remains in existence and does not ultimately vest within that time period. Under the rule, a non-vested property interest is invalid unless (1) When the interest is created, it is certain to vest or terminate no later than 21 years after the death of an individual then alive, or (2) the interest either vests or terminates within 90 years after is creation.  Also, an interest created pursuant to a power of appointment is deemed to be created upon the exercise of the power.  An interest created pursuant to a power of appointment is deemed to be created upon the exercise of the power.
+
+Facts
+Wold seeks to create a trust that would create a non-vested property interest in one or more issue.  She will fund the trust be exercising her power under a trust that reads, “upon the death of Elaine Johnson (Wold) the Trustees are directed to divide, transfer and pay over absolutely, outright and forever, the trust property as follows to the surviving spouse and issue of Elaine Johnson (Wold) or any of them in such shares as she may direct by her Last Will and Testament duly admitted to probate.  The proposed exercise of the power in a new testamentary trust created by Mrs. Wold would permit property held for one of her children, upon the death of that child, to continue in trust for the benefit of that child’s own issue.  Since the interest would pass to the next generation upon the occurrence of a specific event, the death of the child, the interest of that child would be considered non-vested.  Wold petitions the court to determine the applicability of the New Jersey Unif
+
+Issue
+Whether the Jersey Uniform Statutory Rule Against Perpetuities Act applies to a power of appointment that was granted before the rule was made, if the rule does not apply retroactively?
+
+Held
+Yes.  The Act applies to Wold’s power of appointment because though the right was granted before the act was made; the law specifically provides that an interest created pursuant to a power of appointment is deemed to be created upon the exercise of the power.  Furthermore, this court is guided by the trust instrument which by its very language, grants the trustees with the broadest possible discretion.  Therefore, Wold is free to exercise her power of appointment to create a successive trust.
+
+Discussion
+The law here applies retroactively. However Wold may exercise her power because Wold’s powers will be created when it is exercised.
+

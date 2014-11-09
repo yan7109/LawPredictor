@@ -1,0 +1,21 @@
+Citation
+22 Ill.75 Ill. 2d 547, 27 Ill. Dec. 780, 389 N.E.2d 1188 (1979)
+
+Brief Fact Summary
+The Plaintiffs purchased 80 acres of land from William and Faith Bost in 1957 and took possession and recorded their deed. Thereafter, Plaintiffs granted a coal option to Consolidated Coal Company for the coal rights on the land for $6,000. However, approximately two years later, on May 4, 1976, the Plaintiffs “discovered” that a predecessor in title had reserved two-thirds of the coal interest in himself, and, based on that fact, the Plaintiffs and the coal company renegotiated their contract for $2,000. Plaintiffs then sued the executor of Faith Bost, Plaintiffs’ 1957 grantee, for alleged breach of the covenant of seisen.
+
+Synopsis of Rule of Law
+The Court held that a suit based on a breach of a covenant of seisen must be brought within 10-years of the passing of the impaired title. In contrast to a breach of a covenant of seisen, the covenant of warranty of quiet enjoyment is prospective in nature and is breached only when there is actual or constructive eviction of the covenantee by the paramount titleholder.
+
+Facts
+Plaintiffs purchased 80 acres of land from William and Faith Bost in 1957, and took possession and recorded their deed. Thereafter, Plaintiffs granted a coal option to Consolidated Coal Company for the coal rights on the land for $6,000, but approximately two years later, on May 4, 1976, Plaintiffs “discovered” that a predecessor in title had reserved two-thirds of the coal interest in himself, and, based on that fact, the Plaintiffs and the coal company renegotiated their contract for $2,000. Plaintiffs then sued the executor of Faith Bost, Plaintiffs’ 1957 grantee, for alleged breach of the covenant of seisen. The lower court found that the complaint was barred by the 10-year statute of limitations, and that, despite a breach of the covenant of seisen, the Defendant must prevail. The intermediate appellate court reversed and remanded. The Defendant appealed.
+
+Issue
+Is the complaint of Plaintiffs barred by the statute of limitations?
+
+Held
+Yes. Intermediate appellate court reversed, trial court decision upheld.
+
+Discussion
+This case illustrates the concepts of warranty of seisen and warranty of quiet enjoyment. The difference is important to understand. A breach of the covenant of seisen means that there exists a person with a paramount title. A breach of the warranty of quiet enjoyment requires the paramount title holder to actually perform some act not consistent with complete seisen in the complaining party. That act is called a constructive eviction.
+

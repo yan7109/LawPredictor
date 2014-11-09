@@ -1,0 +1,21 @@
+Citation
+83 N.Y.2d 513, 634 N.E.2d 158, 611 N.Y.S.2d 786, 1994 N.Y.
+
+Brief Fact Summary
+Defendant Rivergate Corp., as general contractor, subcontracted with Plaintiff, X.L.O. Concrete Corp., for Plaintiff to construct a concrete superstructure. Plaintiff fully performed, but Defendant failed to pay on the ground that the contract was an integral feature of an extortion and labor bribery operation known as the “Club.”
+
+Synopsis of Rule of Law
+A contract that is legal on its face and does not call for unlawful conduct in its performance is not voidable simply because it resulted from an antitrust conspiracy.
+
+Facts
+Plaintiff subcontracted with Defendant to construct a concrete superstructure and fills of a project in Manhattan. Plaintiff fully performed on the contract, but Defendant failed to pay the $844,125.07 that was due and owing. Defendant asserted that the contract was an integral feature of an extortion and labor bribery operation known as the “Club.” The “Club” was an arrangement among the Mafia, seven concrete construction companies operating in New York City, and the concrete workers labor union. Essentially, contractors taking jobs over two million dollars were required to pay for “labor peace and bids were rigged to ensure that certain companies got certain jobs. Plaintiff was the last concrete contractor doing business in New York City to join the Club. Subsequently, Plaintiff was allocated the Rivergate project and then negotiated a contract with Rivergate for $16,544,125.00. Defendant negotiated the contract with full knowledge of the Club and its rules.
+
+Issue
+Does the antitrust illegality defense prevent the enforcement of this contract?
+
+Held
+No. An antitrust defense will prevent the enforcement of a contract where the contracted activity is the conduct that violates the antitrust laws. However, where, as here, the contract is legal on its face and does not call for unlawful activity in its performance, the contract is not voidable simply because the contract resulted from an antitrust conspiracy.
+
+Discussion
+In order for a contract to be voidable by reason of illegality, the illegal conduct must be that which has been contracted to be performed. The contract cannot merely be ancillary to or have arisen because of the illegal conduct.
+

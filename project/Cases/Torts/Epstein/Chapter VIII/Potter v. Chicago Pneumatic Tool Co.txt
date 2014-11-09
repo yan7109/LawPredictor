@@ -1,0 +1,21 @@
+Citation
+694 A.2d 1319 (Conn. 1997).
+
+Brief Fact Summary
+Plaintiffs sued Chicago Pneumatic Tool Co. (Defendant) for products liability. They claimed that the use of Defendant’s tools caused them permanent vascular and neurological impairments.
+
+Synopsis of Rule of Law
+In order to prevail for a design defect, a plaintiff must prove that the product is unreasonably dangerous under the consumer expectation standard.
+
+Facts
+Plaintiffs were employed as “grinders.” They used pneumatic hand tools, designed and manufactured by Defendant. Plaintiffs suffered permanent vascular and neurological impairments including blanching of their fingers, pain, numbness, tingling, reduction of grip strength, intolerance to cold and clumsiness from restricted blood flow. Testing of Defendant’s tools revealed that a large number of its tools violated the limits for vibration exposure established by the American National Standards Institute, and exceeded the threshold limit promulgated by the American Conference of Governmental and Industrial Hygienists. Plaintiffs brought suit against Defendant for products liability. They allege that the tools were defectively designed, because they failed to provide adequate warnings with respect to the potential danger presented by excessive vibration.
+
+Issue
+In order to prevail for a design defect, must a plaintiff prove that the product is unreasonably dangerous under the consumer expectation standard?
+
+Held
+Yes. Judgment for Plaintiffs.
+
+Discussion
+Courts do not require Plaintiff to design a better product. A jury can determine whether or not a design is defective without having to design a better one. Plaintiffs, for the most part, are innocent victims, not designers or invertors.
+

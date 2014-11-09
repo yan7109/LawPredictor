@@ -1,0 +1,21 @@
+Citation
+22 Ill.326 U.S. 99, 65 S. Ct. 1464, 89 L. Ed. 2079 (1945)
+
+Brief Fact Summary
+Plaintiff sued Defendant in equity for breach of fiduciary duty in federal court based on diversity of citizenship. Defendant argued that the state statute of limitations had run and that the court was required to apply the state statute of limitations under the Erie doctrine.
+
+Synopsis of Rule of Law
+In a diversity suit brought in equity, an equitable right created by a law of the state whose laws govern the case must be followed by a federal district court if applying the federal law would significantly affect the outcome of the case.
+
+Facts
+Guaranty Trust Company (Defendant) was a trustee of Van Sweringen Corporation. Defendant loaned money to corporations affiliated with the Van Sweringen. Van Sweringen was having trouble meeting its financial obligations, so Defendant and other banks worked out a plan that Defendant would offer to purchase notes by paying $500 and twenty shares of Van Sweringen’s stock for each $1000 note. Plaintiff received $6000 of the notes from a donor who had not accepted Defendant’s offer. Plaintiff brought a diversity suit against Defendant alleging breach of fiduciary duty by fraud and misrepresentation, which was an equitable remedy. The Court of Appeals found that if the suit was brought in equity, a federal district court was not required to apply the state statute of limitations that would govern similar suits in state courts, even though the exclusive basis of federal jurisdiction was diversity. The Supreme Court granted certiorari.
+
+Issue
+Are federal courts permitted to grant equitable remedies that are consistent with state substantive law when an identical remedy would not be available in state courts?   Does the federal district court have to apply the state statute of limitations to Plaintiff’s cause of action under the Erie doctrine?
+
+Held
+First issue: No. Second issue: Yes. Reversed.   When exercising diversity jurisdiction, federal courts have not differentiated between law and equity. Federal courts have traditionally had more respect for state rights in equity rather than law, because legal rights were declared by state courts and rights in equity were defined by legislative enactment.  Congress never gave and the federal courts never claimed that the courts had the power to deny substantive rights created by State law, or to create substantive rights denied by State law.  Prior to this case, federal courts were enforcing state created substantive rights only if the state laws agreed with traditional notions of equity.     The outcome in the federal court case should be substantially the same as the outcome had the case been brought in state court.  The statute of limitations involves the right to recover. The federal court must therefore apply the state statute of limitations when following the Erie doctrine because refusing to apply it would allow a party to bring suit that it would be barred from bringing in state court.
+
+Discussion
+This case demonstrates that federal courts sitting in both law and equity should apply state law if required by the Erie doctrine.   The state statute of limitations is applied in this case because statutes of limitations are inherently “outcome determinative.” If the plaintiff is completely barred from bringing the suit in state court, the federal court could not extend the right to bring suit without discriminating in favor of non-residents.
+

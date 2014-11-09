@@ -1,0 +1,18 @@
+Citation
+538 U.S. 1032
+
+Brief Fact Summary
+Dun & Bradstreet, Inc. (Petitioner) sent a report to five subscribers, regarding the credit rating of Greenmoss Builders, Inc. (Respondent). The report was proven false, and Defendant brought suit for libel, based on the harm it incurred as a result of the erroneous report.<span class="heading">Synopsis of Rule of Law.</span> The First Amendment does not protect the speech of a non-media party, when its actions create slander and/or libel against another private party.
+
+Facts
+Petitioner sent a credit report to five subscribers, indicating that Respondent had filed a voluntary petition for bankruptcy. The report was false, the result of the Petitioner’s use of a 17-year-old high school student to review the bankruptcy proceedings. Respondent was actually in good credit standing, but one of its employees had, indeed, filed bankruptcy. When respondent learned of the error, it called Petitioner, explained the error, and asked for a correction. Petitioner sent out a notice of the mistake, but refused to disclose its subscribers, and Respondent brought suit for liable. Respondent was awarded $50,000.00 in damages, and $300,000.00 in punitive damages. The trial court granted a new trial, but Respondent appealed to the Supreme Court of Vermont, which reinstated the verdict, maintaining that the constitutional requirements for a suit for libel did not apply to a non-media defendant. The Supreme Court of the United States granted certiorari.<span class="heading">Issue.</span> Whether the first amendment rights of the maker of an expression, concerning public issue, preclude it from being sued for libel, when it is not a media defendant?
+
+Held
+Affirmed.
+
+Dissent
+Justice Brennan dissented, noting that although this type of speech is not central to the meaning of the First Amendment, punitive damage awards should be restrained.
+
+Discussion
+While the First Amendment affords media defendants great protection, when they are reporting on issues of “public concern”, non-media defendants cannot use that same protection when their actions cause damages to private parties.
+

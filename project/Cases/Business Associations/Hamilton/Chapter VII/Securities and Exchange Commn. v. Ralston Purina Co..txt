@@ -1,0 +1,21 @@
+Citation
+346 U.S. 119 (1953)
+
+Brief Fact Summary
+The Securities and Exchange Commission (SEC) (P) attempted to enjoin treasury stock that Ralston Purina Co. (D) had offered to select employees.
+
+Synopsis of Rule of Law
+The exemption in Statute 4(1) of the Securities Act of 1933 exempts transactions not involving any public offering from the registration requirement, but only when the selected offerees have access to the same kind of information normally available if registration were required.
+
+Facts
+Ralston Purina Co. (D) has since 1911 encouraged stock ownership among its employees. Beginning 1942 it has made unissued common shares available to a select number of employees. Ralston (D) attempted to avoid the registration requirements of the Securities Act of 1933. Between 1947 and 1951 Ralston (D) authorized sales of common stock to employees who inquired about them without prior solicitation. Ralston (D) claims its exemption that all employees authorized to buy stock were select employees. Ralston (D) admitted that an offering to all employees would be a public offering. The District court ruled in favor of Ralston, allowing exemption, and the court of Appeals affirmed.
+
+Issue
+Does the exemption in Statute 4(1) of the Securities Act of 1933 exempt transactions not involving any public offering from the registration requirement, when the selected offerees have access to the same kind of information normally available if registration were required?.
+
+Held
+(Clark, J.) No. The Securities Act does not distinguish the difference between what is a private offering and what is a public offering. Clearly, an offer need not be open to the whole world to qualify it as a public offering. If Ralston (D) had made the offer to all employees, it would have been a public offer. According to the intention of the act, an offering made to people who can fend for themselves is a private offering. Most of the selected employees who were given an offer were not in a position to fend for themselves as they had no knowledge of information that would have been given to them via registration under the act. Executive employees would be in the know, the artists, bakeshop foremen, loading dock workers, and office clerks the stocks were offered to would not be in the know. The burden of proof lies on the issuer of the stock, also, right to an exemption is dependant on the knowledge of the offerees, regardless of the issuer’s motives. Judgment is reversed against Ralston (D).
+
+Discussion
+The exemption discussed in this case in now mentioned in Statute 4(2) instead. This case defined policy in this area. The same train of thought here is applied to determine whether an offering qualifies for the private exemption. Important factors to consider are number of offerees, the size of the offering, the relationship with the offerees, the manner of solicitation of the offerees, and the level of investment knowledge of the offerees.
+

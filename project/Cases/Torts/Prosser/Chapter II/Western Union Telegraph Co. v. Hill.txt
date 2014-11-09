@@ -1,0 +1,21 @@
+Citation
+67 F.2d 487, 1933 U.S. App.
+
+Brief Fact Summary
+Defendant’s employee routinely provided repairs to the clock located in Plaintiff’s business. On one occasion when Plaintiff’s wife requested that he repair the clock, Defendant’s employee allegedly offered to fix the clock in exchange for sexual favors and unsuccessfully reached out to grab her. When Plaintiff sued for assault, Defendant denied the allegations and argued the physical evidence showed he could not have reached Plaintiff’s wife.
+
+Synopsis of Rule of Law
+For assault to occur, there must be an intentional and unlawful offer or attempt to touch another’s person in a harmful or offensive manner such that it creates a well-founded apprehension of imminent battery. One accused of assault must also appear to have the present ability to commit the battery if not prevented.
+
+Facts
+Plaintiff sued Defendant for assault on the grounds that its employee made offensive remarks to his wife and attempted to grab her when she came into its store. Defendant’s employee admitted to having been mildly intoxicated at the time, but denies Plaintiff’s wife’s version of events. The physical evidence also suggested that Defendant’s employee would have been unlikely to be able to touch Plaintiff’s wife as described. The trial court found that whether assault had been committed was a question for the jury, who found for Plaintiff.
+
+Issue
+Did the trial court err in submitting the question of whether assault had occurred to the jury?
+
+Held
+No. The Court found the trial judge properly submitted the question to the jury.
+
+Discussion
+Defendant was attempting to avoid liability on the ground that its employee could not have succeeded in touching Plaintiff’s wife, even had he tried. As the Court explains, such an argument is largely irrelevant to the tort of assault. Assault requires only that the victim be put in apprehension of imminent battery. As a corollary to this rule, there may be some circumstances when no reasonable person could possibly apprehend imminent battery. For example, the alleged assailant may have been so far away from the party claiming assault that it would be impossible to reasonably believe battery was imminent. Or the alleged assailant could have been in such an obviously weakened or vulnerable position that such a belief would be impossible. However, when it simply appears that actual battery might have been difficult or unlikely, it is for the jury to decide whether the party claiming assault could have had the requisite apprehension of imminent battery.
+

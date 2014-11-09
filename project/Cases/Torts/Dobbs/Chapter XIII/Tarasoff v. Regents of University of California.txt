@@ -1,0 +1,21 @@
+Citation
+17 Cal.3d 425, 131 Cal.Rptr. 14, 551 P.2d 334 (1976)
+
+Brief Fact Summary
+Tatiana Tarasoff’s parents (Plaintiffs) asserted that the four psychiatrists at Cowell Memorial Hospital of the University of California had a duty to warn them or their daughter of threats made by their patient, Prosenjit Poddar. The Superior Court of Alameda County (California) dismissed Plaintiffs’ action (sustaining a demurrer to Defendant’s second amended complaint) for failure to state a valid claim against the therapists, police, and the Regents of University of California (Defendants). Plaintiffs sought review.
+
+Synopsis of Rule of Law
+A defendant owes a duty of care to all persons who are foreseeably endangered by his conduct, with respect to all risks that make the conduct unreasonably dangerous. When the avoidance of foreseeable harm requires a defendant to control the conduct of another person, or to warn of such conduct, liability is imposed only if the defendant bears some special relationship to the dangerous person or to the potential victim.
+
+Facts
+In October 1969, Prosenjit Poddar (Poddar) murdered Tatiana Tarasoff (Tarasoff). Plaintiffs, Tatiana’s parents, contended that only a short time prior, Poddar had expressed his intention to do so. This, they alleged, he had confided to his therapist, Dr. Lawrence Moore, a psychologist employed by University of California. They further alleged that Dr. Moore had warned campus police of Poddar’s intentions, and that the police had briefly detained him, but then released him. Plaintiffs asserted two grounds for their action: the failure to confine Poddar, in spite of his expressed intentions to kill Tarasoff, and failure to warn Tarasoff or her parents. Defendants maintained that they owed no duty of care to the victim, and were immune from suit.
+
+Issue
+Did Defendants owe a duty to the victim thus making them liable for the harm that ensued?
+
+Held
+The court held that Plaintiffs could amend their complaint so as to bring a valid cause of action against therapists and Regents of University of California for breach of duty to exercise reasonable care.
+
+Discussion
+In Tarasoff, the Supreme Court of California addressed a complicated area of tort law concerning duty owed. Their analysis required a balancing test between the need to protect privileged communication between a therapist and his patient and the protection of the greater society against potential threats. The court began its analysis by addressing the “special relationship” required that imposes a duty on an individual to control another. “A duty of care may arise from either (a) a special relation between the actor and the third person which imposes a duty upon the actor to control the third person’s conduct, or (b) a special relation between the actor and the other which gives to the other a right of protection.” This consideration was critical to the circumstances in Tarasoff. As a general proposition, “[w]hen a hospital has notice or knowledge of facts from which it might reasonably be concluded that a patient would be likely to harm himself or others unless preclusiv
+

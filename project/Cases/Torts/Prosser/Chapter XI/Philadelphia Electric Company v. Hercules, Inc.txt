@@ -1,0 +1,21 @@
+Citation
+474 U.S. 980, 106 S. Ct. 384, 88 L. Ed. 2d 337 (1985)
+
+Brief Fact Summary
+The Plaintiff, Philadelphia Electric Company (Plaintiff), purchased land that was originally owned by Pennsylvania Industrial Chemical Corporation (PICCO) and subsequently the Defendant, Hercules, Inc. (Defendant), assumed all liabilities of PICCO. Plaintiff brought suit against Defendant for public nuisance and private nuisance resulting from pollutants on the land left from PICCO.
+
+Synopsis of Rule of Law
+A subsequent bona fide purchaser of land cannot claim private nuisance against a previous owner for damage done to the land. A Plaintiff cannot claim a tort action for public nuisance against a Defendant unless the Plaintiff can claim particular damages suffered due to an interference with a public right.
+
+Facts
+The Plaintiff purchased property from Gould that was originally owned by PICCO. Plaintiff owned land adjacent to the PICCO land and had ample opportunity to examine the land it purchased. Subsequently, Defendant became the successor to PICCO and expressly assumed all obligations and liabilities of PICCO. The Pennsylvania Department of Environmental Resources (DER) discovered pollutant materials similar to those once produced by PICCO seeping into the Delaware River and ordered Plaintiff to eliminate the situation. Plaintiff brought suit against Defendant for damages and an injunction to abate any further pollution. The district court granted both. The suit was based on private nuisance, public nuisance and indemnity. The relationship between Plaintiff and Defendant was treated by the court as one of vendor and remote vendee of land. The sale of the site was subject to the rule of caveat emptor, being between two commercial corporations with no misrepresentation or concealment
+
+Issue
+Does the Plaintiff have a cause of action against Defendant for private nuisance, public nuisance, or common law indemnity?
+
+Held
+No. Judgment reversed.
+
+Discussion
+Defendant would still be liable for a private nuisance to neighboring landowners or a public nuisance for users of the Delaware River waters.
+

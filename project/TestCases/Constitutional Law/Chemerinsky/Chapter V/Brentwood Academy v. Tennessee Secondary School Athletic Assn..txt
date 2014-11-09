@@ -1,0 +1,21 @@
+Citation
+531 U.S. 288 (2001)
+
+Synopsis of Rule of Law
+A private organization can be considered a state actor if there is sufficient entwinement between the state and the organization, such as here where the majority of members are public schools, and the leadership and governing body is made up of public school officials acting within their official capacity.
+
+Facts
+Tennessee Secondary School Athletic Association is a not-for-profit membership corporation organized to regulate interscholastic sport among private and public high school in Tennessee. Even though no school is forced to join, 84% of the membership comes from public schools, which is almost all of the state’s public schools.  There is no other authority regulating athletic competition, and a school’s team can only play against the team of another member school.  The association has a legislative arm, and a control board, and the voting membership is limited to high school principals, assistant principals and superintendents elected b y the member schools.  Member schools pay dues, but the bulk of the funding comes from the member team’s athletic tournaments, many held at public arenas rented by the association. Ever since the association was incorporated, Tennessee’s State Board of Education has acknowledged the associations functions in providing standards, rules and regulations for interscholastic competition. It even adopted a rule expressly designating the association as the organization to supervise and regulate athletics. Brentwood sued the academy when, in 1997, the board of control found that Brentwood violated a rule prohibiting “undue influence” in recruiting athletes, and placed the athletic program on probation for four years, making them ineligible to compete in playoffs for two years, and imposed a $3000 fine.  At the time the penalties were imposed all voting members were public school administrators.
+
+Issue
+Does a statewide athletic association, incorporated to regulate competition among public and private secondary schools, engage in state action?
+
+Held
+Yes. The association should be treated as state activity because of the entwinement of state school officials in the structure of the association.
+
+Dissent
+(Thomas) The dissent feels that you can not find state action based on “entwinement” alone, for there to be a state actor, but rather, the private actor needs to be performing a public function, created coerced or encouraged by the government or acting in a symbiotic relationship with the government. The dissent focuses on the fact that schools are not required to join, the state does not fund the association, nor does it offer discounts to use state venues, does not provide a tax exemption and no TN law authorizes the association.  In addition, the stat has never had any involvement in the particular action being taken by the association in this case. Moreover, the association does not nothing traditionally or exclusively reserved for the state.
+
+Discussion
+The Constitution usually applies to only state actors, but there are certain instances where private organizations must be treated as state actors.  State action may be found if, and only if, there is such a “close nexus between the State and the challenged action” that seemingly private behavior “may be fairly treated as that of the State itself.”  The court does not look to one factor, but a totality of the circumstances when determining if there is such a close nexus. Here, since 84% of the membership is made up of public school, which are not private actors, and each school is required to send an administrator of it’s school, and the governing body is made up of those individuals acting within their official capacity as state employees, “there is no recognizable Association…without the public school officials”.  In addition, these school officials not only make up membership, but also control the association, making the separation between the association and the public schools” indistinguishable”.
+

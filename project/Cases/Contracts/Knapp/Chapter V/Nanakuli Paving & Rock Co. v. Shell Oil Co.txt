@@ -1,0 +1,21 @@
+Citation
+22 Ill.664 F.2d 772 (9th Cir. 1981)
+
+Brief Fact Summary
+Appellant Nanakuli Paving & Rock Co. entered into a contract to purchase all of its asphalt from Appellee Shell Oil Co. The contract did not expressly provide price protection. However, price protection is widely used in the locality and had been provided by Appellee on two occasions.
+
+Synopsis of Rule of Law
+Despite the parol evidence rule, the UCC allows the admission course of performance, course of dealing, and trade usage evidence.
+
+Facts
+Appellant entered into a supply contract with Appellee. Appellee agreed to supply Appellant with all of its asphalt requirements. Appellant claims that Appellee breached the contract by not offering price protection. Appellant alleges that price protection is used by all suppliers in the trade and that price protection is the “commercially reasonable standard for fair dealing” in the trade. In support of the claim, Appellant presented evidence of trade usage of price protection. In addition, Appellant provided evidence of two prior instances where Appellee provided price protection under the contract.
+
+Issue
+Was extrinsic evidence that price protection should be incorporated into the contract properly admitted?
+
+Held
+Yes. The UCC allows the admission of extrinsic evidence of trade usage and course of performance.
+
+Discussion
+In the present case, the Court reinstated the jury verdict incorporating price protection into the contract based on evidence of course of performance and trade
+

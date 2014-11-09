@@ -1,0 +1,21 @@
+Citation
+262 N.W.2d 403 (Minn. 1977)
+
+Brief Fact Summary
+Plaintiff Connecticut Life Insurance Co. (Plaintiff) filed an action to determine the proper recipient of the proceeds of an insurance policy of Insured, John Aughenbaugh (Insured). Insured had created a revocable insurance trust containing the policy and had later executed a document that purported to revoke all previous wills and trusts. Appellant Marilyn Melaas (Appellant), second wife of Insured, sought review of the District Court’s holdings that this document failed to revoke the trust.
+
+Synopsis of Rule of Law
+Where a settlor reserves the power to revoke a trust by a transaction inter vivos, he cannot revoke the trust by his will.
+
+Facts
+Insured had created a revocable insurance trust containing the policy and had named Insured’s first wife and his children as beneficiaries of the trust. First National Bank of Minneapolis was named as trustee. Insured and his first wife divorced, and Insured married Appellant. Insured executed a document that purported to revoke all previous wills and trusts. Insured died, and Plaintiff filed an action to determine the proper recipient of the insurance policy of Insured.
+
+Issue
+Where a settlor reserves the power to revoke a trust by a transaction inter vivos, can he revoke the trust by his will?
+
+Held
+No. Where a settlor reserves the power to revoke a trust by a transaction inter vivos, he cannot revoke the trust by his will. A revocable life insurance trust is not testamentary, even though the settlor reserves the right to revoke or otherwise change it. Here, Insured created the trust with an explicit provision that any major changes to the trust must receive the prior written approval of Trustee before becoming effective. Here, revocation or amendment of the trust constitutes a major change as an increase or decrease in the number of trustees. The District Court properly found that because written consent was not obtained from Trustee, the trust was not revoked by a transaction inter vivos.
+
+Discussion
+As the casebook discusses, the trust settlor
+

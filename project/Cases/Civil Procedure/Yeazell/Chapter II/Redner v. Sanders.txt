@@ -1,0 +1,21 @@
+Citation
+2000 U.S. Dist. 11877.
+
+Brief Fact Summary
+Redner (Plaintiff) was a citizen of New York state currently residing in France. He brought suit against Sanders and others (Defendants), all New York state citizens, in Federal court alleging diversity of jurisdiction Defendants were residents of New York.
+
+Synopsis of Rule of Law
+For purposes of determining whether diversity jurisdiction exists, a person is a “citizen” of the state in which he or she is “domiciled.” For adults, domicile is established by physical presence in a place in connection with a certain state of mind concerning one’s intent to remain there.
+
+Facts
+Plaintiff was a citizen of New York State currently residing in France. He brought suit against Defendants, all citizens of New York state, alleging that federal jurisdiction was proper based on diversity of jurisdiction. The complaint alleged that diversity of jurisdiction exists because Plaintiff is a resident of a foreign State (France), while Defendants were residents of New York State. Defendants moved to dismiss move under Fed. R. Civ. P. 12(b)(1) for lack of jurisdiction.
+
+Issue
+Whether residency in a foreign State is sufficient diversity to warrant Federal jurisdiction on grounds of diversity of jurisdiction.
+
+Held
+No. The court approved the defendant’s motion to dismiss for want of jurisdiction.   28 U.S.C. Section: 1332, the statute providing for Federal jurisdiction on grounds of diversity of jurisdiction, requires diversity of citizenship. Diversity of residence is not sufficient to satisfy the statute’s requirements.  For purposes of determining whether diversity jurisdiction exists, a person is a “citizen” of the state in which he or she is “domiciled.” For adults, domicile is established by physical presence in a place in connection with a certain state of mind concerning one’s intent to remain there.”
+
+Discussion
+For diversity purposes, students should keep in mind that citizenship or domicile is all-important. Mere residence in a state is insufficient for diversity purposes. In order for a resident of a foreign state to change his domicile to that state, he must maintain a fixed and permanent residence there, and show an intent to return there whenever he is absent. In ruling that Plaintiff lacked diversity of jurisdiction, the court focused on the fact that Plaintiff remained a citizen of New York State since he had not sufficiently expressed an intent to remain in France permanently.
+

@@ -1,0 +1,24 @@
+Citation
+362 U.S. 511, 80 S. Ct. 945, 4 L. Ed. 2d 921 (1960)
+
+Brief Fact Summary
+After being arrested and indicted on charges of transportation in interstate commerce of stolen goods, along with three other groups of individuals, respondents sought to have their trial severed from the rest.
+
+Synopsis of Rule of Law
+When Joinder is proper, in the case of multiple defendants all guilty of the same offense, or of separate offenses all arising out of the same fact pattern, it is incumbent upon a defendant to bear the burden of proving they will be prejudiced by continuing the trial.
+
+Facts
+In a multiple count bill, the respondents were charged with transporting stolen goods from New York to Pennsylvania.  On two other counts, other individuals were charged with also transporting to different locales.  All individuals were also charged with conspiracy to transport the goods and the cases were joined for trial.  Subsequently the conspiracy charges were dropped; however, the cases remained joined.  Respondents moved that their trial be severed and the issue at hand arose.
+
+Issue
+Whether, in the situation of joinder, a defendant may always request a separate trial.
+
+Held
+In an opinion authored by Justice Clark, the Court found that there had been no misjoinder because the respondents could not show that their case was prejudiced by the joinder.  “It appears that not only was no prejudice shown, but both the trial court and the Court of Appeals affirmatively found that none was present.”  The Court went on to emphasize that the Judge should grant a severance if the respondent can show prejudice.
+
+Dissent
+The dissent found that there was a misjoinder once the conspiracy charges were dropped because, at that point, the defendants were all being tried on unrelated charges.  “Rules for severance are founded on the principle that evidence against one person may not be used against a codefendant whose crime is unrelated to the others.”
+
+Discussion
+Technically, a joinder should be severed at the point at which the claims against the defendants become unrelated; however, at this case points out, it is sometimes incumbent upon the defendant to show that actual prejudice has occurred before that will be allowed.
+

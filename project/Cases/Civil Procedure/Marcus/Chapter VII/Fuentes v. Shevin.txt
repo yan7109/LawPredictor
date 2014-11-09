@@ -1,0 +1,21 @@
+Citation
+407 U.S. 67, 92 S. Ct. 1983, 32 L. Ed. 2d 556, 1972 U.S.
+
+Brief Fact Summary
+Two cases involving similar issues of due process considerations were joined. Plaintiffs challenged the constitutionality of prejudgment replevin statutes on the grounds that the denial of notice and a hearing was a violation of their right to due process.
+
+Synopsis of Rule of Law
+Prejudgment replevin statutes, which deprive individuals of their property must comply with procedural due process.
+
+Facts
+In the first case, Margarita Fuentes (Plaintiff), a resident of Florida, purchased a gas stove and service policy from Firestone Tire and Rubber Company (Defendant), under a conditional sales contract. A few months later, Plaintiff also purchased a stereophonic phonograph from the Defendant. Defendant retains title to the merchandise, while Plaintiff was entitled to possession of the items until she defaulted on her payments. With about $200 remaining to be paid, a dispute developed between the Plaintiff and the Defendant over the servicing of the stove. Plaintiff refused to make payments and the Defendant instituted an action in small claims court for repossession of the stove and stereo. When the Defendant filed that action, it also obtained a writ of replevin ordering a sheriff to seize the disputed goods. Plaintiff then filed suit in a federal district court challenging the constitutionality of the Florida prejudgment replevin procedures under the Due Process Clause of the Fourteenth Amendment.   The Appellants in the second case filed a similar action in federal district court in Pennsylvania challenging the constitutionality of that State’s prejudgment replevin process. The Appellants in this case also had possessions seized under writs of replevin. In both cases, the district courts considered the Appellants’ challenges to the constitutionality of the Florida and Pennsylvania statutes. The courts in both cases upheld the constitutionality of the statutes. Plaintiffs appeal.
+
+Issue
+Do state replevin statutes that fail to provide property owners with notice and an opportunity to challenge the seizure of their property violate the Fourteenth Amendment’s guarantee that no state shall deprive any person of property without due process of law?
+
+Held
+Yes. Judgment is vacated and remanded.   One cannot deprive an individual of his or her property without prior notice and the opportunity for a pre-deprivation hearing.  However, there are extraordinary situations that justify postponing notice and the opportunity for a hearing. Seizure of property without notice or a hearing is allowed in a few limited situations. First, the seizure must be necessary to secure an important governmental interest. Second, there    must be a special need for very prompt action. Third, the person instituting the seizure must be a governmental official responsible for determining that it was necessary and justified in the particular instance.  Here, the Florida and Pennsylvania prejudgment replevin statutes serve no important governmental interest. Neither statute limits the seizure of goods to special situations demanding prompt action. Lastly, no state official participates in the decision to seek the writ, reviews the basis for the claim for repossession, or evaluates the need for immediate seizure. Therefore, the Florida and Pennsylvania statutes do not provide extraordinary situations that justify denying the right to prior opportunity to be heard before property is taken from their possessor.   <br/><br/><span class='heading'>Dissent.</span> The decision depends on one’s perception of the practical considerations involved. One should pay attention to the seller’s interest, while also looking at those of the buyer. Here, the buyer’s risk of harm is not as large as the majority concludes.
+
+Discussion
+In order to have a due process violation, there must be state action and a deprivation of property. The court concludes that both of these requirements were not present, and therefore, both the Florida and Pennsylvania statutes were unconstitutional.
+

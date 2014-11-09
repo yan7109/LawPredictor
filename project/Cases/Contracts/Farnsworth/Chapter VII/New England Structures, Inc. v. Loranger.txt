@@ -1,0 +1,21 @@
+Citation
+354 Mass. 62, 234 N.E.2d 888, 1968 Mass. 763
+
+Brief Fact Summary
+Loranger (Plaintiff), a general contractor, sued New England Structures, Inc., (Defendant) for damages after Plaintiff terminated the parties’ agreement due to a breach. Defendant counter-sued for damages arising from Plaintiff’s termination of the agreement. In consolidated cases, the trial court found in favor of Defendant in both actions. The Supreme Judicial Court of Massachusetts reversed.
+
+Synopsis of Rule of Law
+A party that terminates a contract due to breach by the other party may rely on all of the reasons it possesses for terminating the contract in defending its decision. The terminating party does not need not convey all of its reasons in its notice of termination, absent bad faith or reliance on the stated reason by the other party.
+
+Facts
+Plaintiff contracted with Defendant, a subcontractor, to install a roof on a school. The contract provided that the Defendant would provide sufficient skilled workers to perform the work, and a failure to do so would constitute grounds for Plaintiff to terminate the contract. Plaintiff telegraphed Defendant that Defendant had failed to provide workers according to the agreement, and gave five days’ notice that it was terminating the contract. Defendant replied that the delays were the fault of the Plaintiff. Plaintiff prevented Defendant’s workers from continuing the work, and hired another subcontractor to complete the job. Plaintiff sued Defendant for the difference in cost between the contract price and the cost to complete the work. Defendant sued Plaintiff for breach of the subcontract. The trial court found in favor of the Defendant in both cases. The Supreme Court of Massachusetts reversed.
+
+Issue
+Whether, in defending a breach of contract action, the party who terminates the agreement may rely only on the grounds for termination stated in its communication to the other party?
+
+Held
+No. Where there is no evidence that the terminating party acted in bad faith or dishonestly, he may defend against a breach of contract action by raising all grounds he possesses for terminating the parties’ agreement.
+
+Discussion
+Many contracts provide that they are terminable at will. In other words, no reason for terminating the agreement is necessary. Other contracts do not contain such a provision, but a party might nevertheless believe that he has the right to terminate an agreement at will, and therefore not specify a reason for terminating. Courts reason that in those circumstances, if the contract is not terminable at will, the terminating party should be able to offer all legitimate reasons it has for terminating the contract in its defense.
+

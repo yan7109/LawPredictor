@@ -1,0 +1,24 @@
+Citation
+445 U.S. 622, 100 S. Ct. 1398, 63 L. Ed. 2d 673 (1980)
+
+Brief Fact Summary
+A police commissioner was fired after a dispute with city officials.
+
+Synopsis of Rule of Law
+42 U.S.C. § 1983 does not extend immunity to municipalities and their officials.
+
+Facts
+“Owen, police commissioner of Independence, was fired after an acrimonious dispute over administration of the police department. Alleging that the dismissal violated due process and seeking damages, he sued the City and, in their official capacities, the City Manager and the City Council.”
+
+Issue
+Whether the city of Independence, Mo, “is entitled to qualified immunity from liability.”
+
+Held
+No. The Supreme Court of the United States began by reciting 42 U.S.C. Section: 1983, which “creates a species of tort liability that on its face admits of no immunities.” At the same time, the Supreme Court cited its previous rulings that “found that a tradition of immunity was firmly rooted in the common law and was supported by such strong policy reasons that ‘Congress would have specifically so provided had it wished to abolish the doctrine.’” However, there is “no tradition of immunity for municipal corporations, and neither history nor policy supports a construction of Section: 1983 that  would justify the qualified immunity accorded…Independence.”
+
+Dissent
+The dissenting justices argued that “because today’s decision will inject constant  consideration of § 1983 liability into local decision-making, it may restrict the  independence of local governments and their ability to respond to the needs of their  communities.”
+
+Discussion
+“The knowledge that a municipality will be liable for all of its injurious conduct…should create an incentive for officials who may harbor doubts about the lawfulness of their intended actions to err on the side of protecting citizens’ constitutional rights.”
+

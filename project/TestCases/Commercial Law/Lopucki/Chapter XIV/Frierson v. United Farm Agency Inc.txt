@@ -1,0 +1,21 @@
+Citation
+868 F.2d 302, 1989 U.S. App. 2026, 8 U.C.C. Rep. Serv. 2d (Callaghan) 260
+
+Brief Fact Summary
+United Farm Agency, Inc. had a security agreement with Merchants. United Farm Agency, Inc. is in default but Merchants refused to exercise its remedies under the code to the detriment of Frierson, a junior lien holder. Merchants appeals the district court ruling in Frierson’s favor.
+
+Synopsis of Rule of Law
+A secured creditor with a security interest over all the debtor’s property may not rely on a default to prevent another creditor from executing on the debtor’s property, while treating the loan as not in default when dealing with the debtor and others.
+
+Facts
+Merchants has a security agreement with United Farm Agency. Merchants has ignored a default by United Farm Agency Inc. that is more than just a technical default. In doing so, it has prevented other creditors from executing on the debtor’s property while treating the loan as not in default.
+
+Issue
+Whether Merchants may refuse to exercise its rights under the security agreement thereby maintaining Respondent as a going concern while it impairs the status of other creditors by preventing them from exercising valid liens.
+
+Held
+No. Merchants cannot refuse to exercise its rights under the security agreement thereby maintaining United Farm Agency Inc. as a going concern, while it impairs the status of other creditors by preventing them from exercising valid liens.
+
+Discussion
+Allowing Merchants to refuse to exercise its rights under the security agreement while impairing the status of other creditors is against both the spirit and the letter of the Uniform Commercial Code. Frierson may take the remaining funds subject to Merchants’ interest if it refuses to exercise its remedies under the code.
+

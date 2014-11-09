@@ -1,0 +1,21 @@
+Citation
+22 Ill.257 Ind. 458, 276 N.E.2d 144 (1971)
+
+Brief Fact Summary
+American Oil Co., (Plaintiff) brought an action for declaratory judgment against Weaver (Defendant), to determine Defendant’s liability under a “hold harmless” clause in the lease. The trial court held the Defendant liable, however the appellate court held the exculpatory clause of the “hold harmless” clause invalid and the indemnifying clause valid.
+
+Synopsis of Rule of Law
+A contract is unconscionable on the grounds that it is contrary to public policy when the stronger party has greater bargaining power than the lesser party and it is used to the stronger party’s advantage and unknown to the lesser party, causing that party great hardship and risk.
+
+Facts
+Plaintiff’s employees sprayed gasoline over Defendant and his assistant causing them to be burned. Plaintiff presented a printed form contract as a lease to be signed by the Defendant which contained a “hold harmless” clause which provided that the lessee operator would hold harmless and also indemnify the oil company for any negligence of the oil company occurring on the leased premises. Plaintiff initiated this action for a declaratory judgment to determine the liability of appellant under the clause in the lease. The trial court held appellant liable under the lease. The appellate court held the exculpatory clause invalid but the indemnifying clause valid.
+
+Issue
+Whether the contract provisions were unconscionable?
+
+Held
+Yes. Judgment of trial court is reversed with direction to enter judgment for the appellant.
+
+Discussion
+The court here stresses that they have not held that parties may not make contracts exculpating one from negligence and providing for indemnification if it was done knowingly and willingly.
+

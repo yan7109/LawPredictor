@@ -1,0 +1,21 @@
+Citation
+471 U.S. 462, 105 S. Ct. 2174, 85 L. Ed. 2d 528 (1985)
+
+Brief Fact Summary
+Plaintiff Burger King terminated one of its Michigan franchises after rent payments fell behind, and then sued in Federal District Court in Florida, invoking both diversity and trademark jurisdiction.
+
+Synopsis of Rule of Law
+Where a Defendant who has purposefully directed his activities at forum residents seeks to prevent jurisdiction, he must present a compelling case that the presence of some other considerations would render jurisdiction unreasonable;
+
+Facts
+Defendant John Rudzewicz, a Michigan citizen and resident applied jointly, along with Brian MacShara, for a franchise to Plaintiff’s Birmingham, Michigan, district office in the autumn of 1978. Plaintiff’s headquarters are in Florida, but operates regional offices that supervise franchisees in their areas. During the negotiations with Plaintiff, Defendant negotiated both with the Plaintiff’s Birmingham district office and with the Miami headquarters. Shortly after the agreement was signed, business at the franchise began to deteriorate. After rent payments fell behind, Plaintiff sued Defendant and MacShara in federal district court in Florida, invoking both diversity and trademark jurisdiction. Plaintiff and MacShara challenged personal jurisdiction, and the district judge rejected their challenge. A divided panel of the 11th Circuit reversed the judgment, and Plaintiff appealed to the Supreme Court of the United States.
+
+Issue
+Whether jurisdiction is appropriate where non-resident defendants have willingly negotiated and entered into a contract with a corporation residing in the forum state.
+
+Held
+Yes. The Supreme Court of the United States reversed the decision of the 11th Circuit.   Where a Defendant who has purposefully directed his activities at forum residents seeks to prevent jurisdiction, he must present a compelling case that the presence of some other considerations would render jurisdiction unreasonable.  Where a forum state seeks to assert specific jurisdiction over non-resident defendants, the fair warning requirement is satisfied if the Defendant has purposefully directed his activities at residents of the forum and the litigation results from alleged injuries that arise out of or relate to those activities.   <br/><br/><span class='heading'>Dissent.</span> Justice Stevens dissented, in which he was joined by Justice White. Justice Stevens relied on the element of unfairness in requiring a franchisee to defend a case of this king in the forum chosen by the franchiser. Moreover, he focused on the fact that all negotiations physically took place in Michigan.
+
+Discussion
+Although the court acknowledged that the defendants had no physical ties to Florida, they relied on the fact that the franchise contract had a substantial connection with Florida, that being the location of the home of Plaintiff’s headquarters. By reiterating that Defendant deliberately reached beyond Michigan to negotiate with a Florida corporation for the purchase of a long-term franchise and the manifold benefits that would derive from affiliation from a nationwide organization, the court reasoned that the Defendants had taken action purposely directed towards Florida.
+

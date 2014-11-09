@@ -1,0 +1,24 @@
+Citation
+22 Ill.248 N.Y. 86, 161 N.E. 428 (1928)
+
+Brief Fact Summary
+Plaintiff, the executrix of Petterson’s estate, is seeking $780 in damages from Defendant, Pattberg. Petterson came to Defendant’s home, having met the other conditions, to pay off the remaining principal minus $780 pursuant to the Defendant’s offer. Defendant refused to accept the money and informed Petterson that the bond and mortgage had been sold to a third party.
+
+Synopsis of Rule of Law
+A unilateral contract may be revoked at any time prior to the performance of the requested action.
+
+Facts
+Defendant was the owner of a bond executed by Petterson and secured by a third mortgage on a parcel of real estate owned by Petterson. On April 4, 1924, the amount of unpaid principal was $5,450. Defendant told Petterson that if he paid the April installment on time and paid the remaining principal in cash at any time before the end of May, Defendant would deduct $780 from the amount owed.
+
+Issue
+Did Defendant revoke the offer prior to acceptance?
+
+Held
+Yes. Defendant revoked the offer to enter into a unilateral contract prior to Petterson’s acceptance.
+
+Dissent
+The Dissent’s argument is that Defendant made Petterson’s performance impossible. Under the facts of this case, the dissent argues that Petterson did everything he could to perform the requested action, or as the dissent characterizes it, the condition precedent. The dissent does not think Defendant should benefit from a failure of a condition when it is solely Defendant’s actions that caused the condition to fail. The dissent also notes that Defendant’s letter could be construed as requesting exactly what Petterson did, resulting in the condition having been met.
+
+Discussion
+An offer to enter into a unilateral contract may be revoked at any time prior to the performance of the requested act. In the present case, the Court found that Defendant revoked the offer prior to Petterson performing the requested action. However, it should be noted that the law applied in this case is not the current law as reflected in the Restatements of Contracts (Second).
+

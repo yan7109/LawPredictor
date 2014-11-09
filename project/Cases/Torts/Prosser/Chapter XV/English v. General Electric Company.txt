@@ -1,0 +1,21 @@
+Citation
+496 U.S. 72, 110 S. Ct. 2270, 110 L. Ed. 2d 65, 14 OSHC 1609, 5 IER Cases 609 (1990)
+
+Brief Fact Summary
+Vera M. English (Petitioner) sought recovery for her employer for intentional infliction of emotional dress under state tort law in the area of nuclear safety.
+
+Synopsis of Rule of Law
+Preemption of state law occurs when Congress clearly intends to cover an area already covered by state law. Unless Congress has provided some clear and manifest intent to preempt a certain area, a state is free to regulate that area without being superseded by federal law.
+
+Facts
+Petitioner was employed from 1972 to 1984, as a lab technician, at the nuclear-fuels production facility operated by General Electric Company (Respondent) in Wilmington, North Carolina. Petitioner’s complaint alleges that Respondent failed to comply with certain nuclear safety standard and reported the Respondent for committing such violations. The Respondent retaliated against Petitioner by assigning her other work and warning that she would be laid off. Petitioner was terminated from her employment. The court of appeals ruled in favor of the Respondent.
+
+Issue
+Whether federal law preempts a state law cause of action for intentional infliction of emotional distress in the area of nuclear safety.
+
+Held
+(J. Blackmun). No. State law is preempted under the Supremacy Clause of the United States Constitution. However, unless Congress has provided some clear and manifest intent to preempt a certain area, a state is free to regulate that area with being superseded by federal law. There is not clear and manifest intent for Congress to preempt tort claims such as the one raised in this case even though the area includes nuclear safety. The judgment of the court of appeals is reversed and remanded.
+
+Discussion
+States may continue to regulate areas not intended for regulation by Congress.
+

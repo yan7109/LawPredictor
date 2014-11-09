@@ -1,0 +1,21 @@
+Citation
+436 Mass. 526, 766 N.E.2d 482, 2002 Mass. 207
+
+Brief Fact Summary
+Plaintiff, James Jarosz, appeals a judgment of collateral estoppel in his case against Defendant, Stephen Palmer, for breach of fiduciary duty and legal malpractice.
+
+Synopsis of Rule of Law
+For the doctrine of collateral estoppel to apply, an issue must have not only been actually litigated and determined by a final judgment, but the final judgment must have been essential to the central merits of the case.
+
+Facts
+Plaintiff hired Defendant attorney to help Plaintiff and three other partners acquire and finance a company.  When Plaintiff had a falling out with the other partners, Defendant represented the three partners in defending a wrongful termination and breach of fiduciary duty suit filed by Plaintiff.  Plaintiff moved to disqualify Defendant from representing the partners, but the judge dismissed the motion.  Plaintiff then brought this action against Defendant for legal malpractice, breach of fiduciary duties and other state statutes.  Defendant moved for dismissal because the issue of attorney-client privilege between Plaintiff and Defendant was precluded in light of the court’s decision in the other case.  Plaintiff argued that issue preclusion would not apply because there was no evidentiary hearing, and that the issue was not central to the prior judgment.
+
+Issue
+The issue is whether the prior court judgment denying Plaintiff’s motion to dismiss Defendant as counsel now precludes Plaintiff from bring the current action of legal malpractice against Defendant.
+
+Held
+The court held that the issue was not precluded because the issue of whether there was an attorney-client privilege between Plaintiff and Defendant was not central to the prior case.  The issue was actually litigated in the prior case (there is no requirement for an evidentiary hearing or a full trial) but it was not essential to determine whether the attorney-client privilege existed to decide the claims between Plaintiff and his former partners.
+
+Discussion
+The missing element to a finding of issue preclusion was that the issue was not essential to the prior judgment.  All other elements were present.
+

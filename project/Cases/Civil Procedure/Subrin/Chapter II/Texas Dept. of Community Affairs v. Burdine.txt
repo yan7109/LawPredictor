@@ -1,0 +1,21 @@
+Citation
+450 U.S. 248, 101 S. Ct. 1089, 67 L. Ed. 2d 207, 1981 U.S. 75
+
+Brief Fact Summary
+Petitioner, Texas Department of Community Affairs, challenged the evidentiary burden ordered by the Court of Appeals for the Fifth Circuit that Petitioner must prove by the preponderance of the evidence that there was a nondiscriminatory reason for the firing of Respondent, Burdine.
+
+Synopsis of Rule of Law
+The plaintiff has the burden of establishing a prima facie case of discrimination, and if the defendant can articulate a legitimate nondiscriminatory reason for the conduct then the burden falls back to the plaintiff to prove by a preponderance of the evidence that the reasons put forth by the defendant were just a pretext for discrimination.
+
+Facts
+Respondent worked in the Public Service Careers Division for Petitioner.  Her supervisor resigned and she assumed some of the supervisor’s duties because the position was unfilled for six months.  She applied for the position, and not only did she not receive the promotion, she was fired.  Respondent was eventually rehired by Petitioner for a different position that paid as well as the supervisory position she initially sought, and she has since received additional promotions.  Respondent brought this suit against Petitioner when the person chosen for the supervisor position was a man, and the only people left in the division after the firings were men.  The bench trial in the District Court found for Petitioner and found no evidence for discrimination regarding her promotion or firing.  The Appellate Court reversed the portion of the decision regarding her firing, and they held that it was Defendant’s burden to prove by the preponderance of the evidence that their firing prac
+
+Issue
+The issue is whether the Defendant has the burden to prove by the preponderance of the evidence that their practices are nondiscriminatory.
+
+Held
+The United States Supreme Court held that the Appellate Court’s evidentiary burden was incorrect and they remanded the case.  The Court reiterated the burden laid out in McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973), which is to place the burden first on Plaintiff to establish a prima facie case of discrimination, and then put the burden on Defendant to offer a nondiscriminatory explanation for their practices.  If Defendant meets this burden, then the burden shifts back to Plaintiff to prove by a preponderance of the evidence that Defendant’s explanation is false.
+
+Discussion
+In McDonnell Douglas, the plaintiff was claiming racial discrimination, and the Court here furthered the reasoning in that case but elaborated on what it takes to shift the burden between Defendant and Plaintiff.
+

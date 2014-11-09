@@ -1,0 +1,24 @@
+Citation
+73 N.Y.2d 183, 538 N.Y.S.2d 771, 535 N.E.2d 1311, 4 IER Cases 200 (1989)
+
+Brief Fact Summary
+Plaintiff, Phillip Ingle, sued Defendants, Glamore Motor Sales, Inc. et al., for wrongful termination and a breach of a fiduciary duty owed to Plaintiff through his status as a minority shareholder.
+
+Synopsis of Rule of Law
+Absent an employment contract, an employee is an at-will employee when his shareholder agreement provides a buyback provision of his shares if they are terminated for any reason.
+
+Facts
+Plaintiff was hired as a sales manager by Defendant owner, James Glamore, in 1964 after Glamore rebuffed his offer to buy an equity share into the company.  In 1966, Plaintiff entered a shareholders agreement with Glamore that provided 22 of 100 shares to Plaintiff with a provision that allowed Glamore to buy back the shares if Plaintiff was terminated for any reason.  In 1982, another shareholders agreement allowed Plaintiff to buy another 22 of 60 shares, and that agreement also contained buyback language.  In 1983, a shareholders meeting voted out Plaintiff from his position at Defendant company, and Defendants bought Plaintiff’s shares for $96,000.  Plaintiff brought this suit, claiming that as a minority shareholder in a close corporation he was owed a fiduciary duty by Defendants to keep him in his employment as long as he was competent in his duties.  Defendants argued, absent an employment agreement, Plaintiff was an at-will employee who would be adequately compensated
+
+Issue
+The issue is whether Plaintiff minority shareholder is owed a fiduciary duty by the majority to keep Plaintiff in his position at Defendant company.
+
+Held
+Defendants do no owe Plaintiff a duty to keep Plaintiff indefinitely as an employee as a result of his minority shareholder status.  Traditionally, an employee is an at-will employee if he does not have an employment agreement that gives a duration for the employment.  This situation does not change when an employee attains shareholder status, especially when there is a provision in the shareholder agreement that allows the majority shareholder to buy back Plaintiff’s share if he is terminated for any reason.  Plaintiff never asserted that the buyback amount was unfair, and therefore he suffered no harm.
+
+Dissent
+The dissent argues that the majority gives the minority shareholder in a close corporation no rights at all when they enforce the at-will principle over the rights as a minority shareholder.  This leads to a minority shareholder having no redress for any egregious behavior by the majority shareholders.  In this case, that includes a $96,000 buyback on a $75,000 investment made at least 15 years ago, a period of time wherein Plaintiff sometimes advanced his own funds to help the business.
+
+Discussion
+The majority allowed Plaintiff to, in a sense, agree to give up any rights he had as a minority shareholder when he agreed to purchasing shares with a termination buyback provision.  The distinguishing feature in this case compared to Wilkes v. Springside Nursing Home, Inc. is that in this case the plaintiff was an employee before he was a shareholder, and here the court uses that timing to justify his at-will employment status.
+

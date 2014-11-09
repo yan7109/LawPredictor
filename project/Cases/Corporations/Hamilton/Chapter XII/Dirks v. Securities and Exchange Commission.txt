@@ -1,0 +1,24 @@
+Citation
+681 F.2d 824, 220 U.S. App. D.C. 309 (D.C. Cir. 1982)<br />
+
+Brief Fact Summary
+Petitioner, Raymond Dirks, received material information from insiders who wanted Petitioner to report fraudulent practices in their company.  Petitioner tipped clients and investors by disclosing the information to them.
+
+Synopsis of Rule of Law
+A tippee owes a fiduciary duty to shareholders if the tippee received material nonpublic information from an insider that breached his fiduciary duty by disclosing the information, and the tippee knows of the breach.
+
+Facts
+An insider that worked for Equity Funding of America told Petitioner that the company was overstating their assets and that Petitioner, who was an officer that provided investment analysis for a broker-dealer firm, should investigate the fraud.  Petitioner interviewed other employees who corroborated the fraudulent allegations.  Petitioner contacted a bureau chief at The Wall Street Journal and offered his findings for the purpose of exposing the fraud.  The bureau chief, fearing a libel suit, declined to pursue it.  During this time, Petitioner told investors and clients about the fraud, and they reacted by selling their stake in the company.  When the stock was being heavily traded and dipped from $26 to $15, the New York Stock Exchange halted trading and Respondent, The Securities and Exchange Commission, investigated and found fraud.  Respondents then filed suit against Petitioner for violations of Section:10(b) of the Securities and Exchange Act of 1934 for using the insider inf
+
+Issue
+The issue is whether Petitioner violated Section:10(b) when he disclosed material nonpublic information to clients and investors.
+
+Held
+The United States Supreme Court held that Section:10(b) should not be read so broadly as to hold tippees liable when they use inside information received by insiders who were not breaching their fiduciary duties in their disclosure.  The Court held that the insider must first breach a fiduciary duty and then the tippee’s conduct will be examined to see if they breached a duty.
+
+Dissent
+The dissent reasoned that the shareholders are injured when anyone else benefits from information not publicly disclosed, so the court should not distinguish between information given to tippees from insiders breaching a duty from those who are not breaching a duty.
+
+Discussion
+The Court leaves it for the legislature to extend the statute if they want to punish what may be unethical behavior by tippees.  But an argument can be made that shareholders benefit when insiders, such as in this case, disclose the information to someone, especially when the insiders do not personally seek a benefit.
+

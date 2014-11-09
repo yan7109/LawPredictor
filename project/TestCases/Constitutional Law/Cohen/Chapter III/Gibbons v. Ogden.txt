@@ -1,0 +1,21 @@
+Citation
+22 U.S. 1, 9 Wheat. 1, 6 L. Ed. 23 (1824)
+
+Brief Fact Summary
+Ogden had a monopoly to operate steamboats in a certain area in New York and New Jersey. Gibbons operated steamboats there as well, so Ogden sought injunctive relief against Gibbons.
+
+Synopsis of Rule of Law
+Congressional power under the Commerce Clause is broad, encompasses all of the commercial intercourse between and among states.
+
+Facts
+Gibbons’ steamboats were licensed by a federal statute and he operated them between New York and New Jersey. Ogden was granted a monopoly by the state of New York to operate steamboats between New York and New Jersey. Gibbons’ actions violated this monopoly. Ogden obtained injunctive relief against Gibbons from a New York court.
+
+Issue
+Does the monopoly granted by New York conflict with the federal statute licensing Gibbons’ steamboats?
+
+Held
+Yes, Ogden’s monopoly conflicted with the federal statute, and therefore violated the Supremacy Clause.
+
+Discussion
+This was the first major case to analyze the powers of Congress under the Commerce Clause. In so doing, the Court interpreted the powers to be very broad, reaching any activity that affected commerce between or among states.
+

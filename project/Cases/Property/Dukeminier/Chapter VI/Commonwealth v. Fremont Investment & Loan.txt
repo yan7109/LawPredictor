@@ -1,0 +1,21 @@
+Citation
+22 Ill.452 Mass. 733, 897 N.E.2d 548 (2008) [2008 BL 273116]
+
+Brief Fact Summary
+The Commonwealth of Massachusetts, acting through the Attorney General’s office brought a consumer protection enforcement action against the defendant, Fremont Investment & Loan claiming that in originating and servicing 14,578 loans, 50-60 percent of such loans were “subprime” mortgage loans on borrowers’ homes between 2004 and 2007 acted unfairly and deceptively in violation of M.G.L. c. 93A § 2.  Fremont’s ability to foreclose on loans with features that the judge described as “presumptively unfair.”
+
+Synopsis of Rule of Law
+Subprime loans made by lending institutions that are knowingly made to borrowers that are unlikely to be able to afford the payments in the later years of the terms of the loan and will most likely default is considered to be “unfair and deceptive” and “unsafe and unsound.”  Lenders who make subprime loans must seek court approval to collect on foreclosure.
+
+Facts
+The Commonwealth of Massachusetts, acting through the Attorney General’s office brought a consumer protection enforcement action against the defendant, Fremont Investment & Loan claiming that in originating and servicing 14,578 loans, 50-60 percent of such loans were “subprime” mortgage loans on borrowers’ homes between 2004 and 2007 acted unfairly and deceptively in violation of M.G.L. c. 93A § 2.  Fremont’s ability to foreclose on loans with features that the judge described as “presumptively unfair.”
+
+Issue
+Whether the subprime loans made by Fremont constituted unfair and deceptive acts in violation of M.G.L. c. 93A, § 2.
+
+Held
+The marketing of loans with these features constituted unsafe and unsound banking practice with clearly harmful consequences for borrowers.  Such unsafe and unsound conduct by the lender leads directly to injyry for consumers, qualifying as “unfair” under G.L. c. 93A, § 2.  Simply because the actions of the lending institution are not specifically barred by M.G.L. c. 93A § 3, does not mean that the combined actions are permitted by any State of Federal organization, here these actions were not permitted.  A judgment is to be entered affirming the grant of the preliminary injunction and remanding the case to the Superior Court for further proceedings.
+
+Discussion
+A large majority of Fremont’s subprime loans were adjustable rate mortgage (ARM) loans that had a fixed interest rate for the first 2-3 years and then adjusted every six months to a considerably higher variable rate.  The loans required a 50% loan debt-to-income ratio for approval, but the higher monthly payment was not used for this calculation.  Fremont ultimately made no effort to determine whether borrowers could “make the scheduled payments under the terms of the loan.”
+

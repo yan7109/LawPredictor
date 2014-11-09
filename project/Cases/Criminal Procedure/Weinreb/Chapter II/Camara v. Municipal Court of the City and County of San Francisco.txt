@@ -1,0 +1,21 @@
+Citation
+387 U.S. 523, 87 S. Ct. 1727, 18 L. Ed. 2d 930 (1967)
+
+Brief Fact Summary
+An inspector from the Department of Health entered a home to investigate possible violations of a City’s housing code without a warrant.
+
+Synopsis of Rule of Law
+“[A]dministrative searches of the kind at issue here are significant intrusions upon the interests protected by the Fourth Amendment, that such searches when authorized and conducted without a warrant procedure lack the traditional safeguards which the Fourth Amendment guarantees to the individual, and that the reasons put forth in [Frank v. Maryland] and in other cases for upholding these warrantless searches are insufficient to justify so substantial a weakening of the Fourth Amendment’s protections.”
+
+Facts
+“On November 6, 1963, an inspector of the Division of Housing Inspection of the San Francisco Department of Public Health entered an apartment building to make a routine annual inspection for possible violations of the city’s Housing Code.”  The inspector was informed that the Appellant was using part of his leasehold as a personal residence.   The inspector confronted the Appellant and demanded to inspect the premises  because residential use was not allowed on the first floor of the apartment building.  The Appellant did not allow the inspector to enter because he did not have a warrant.
+
+Issue
+“[W]hether administrative inspection programs, as presently authorized and conducted, violate Fourth Amendment rights as those rights are enforced against the States through the Fourteenth Amendment?”
+
+Held
+Yes.  “[Frank v. Maryland], to the extent that it sanctioned such warrantless inspections, must be overruled.”
+
+Discussion
+The majority was careful not to limit all searches in emergency circumstances.  It observed:  “Since our holding emphasizes the controlling standard of reasonableness, nothing we say today is intended to foreclose prompt inspections, even without a warrant, that the law has traditionally upheld in emergency situations.  On the other hand, in the case of most routine area inspections, there is no compelling urgency to inspect at a particular time or on a particular day. Moreover, most citizens allow inspections of their property without a warrant. Thus, as a practical matter and in light of the Fourth Amendment’s requirement that a warrant specify the property to be searched, it seems likely that warrants should normally be sought only after entry is refused unless there has been a citizen complaint or there is other satisfactory reason for securing immediate entry. Similarly, the requirement of a warrant procedure does not suggest any change in what seems to be the prevai
+

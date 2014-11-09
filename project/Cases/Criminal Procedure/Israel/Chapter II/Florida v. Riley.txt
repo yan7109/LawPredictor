@@ -1,0 +1,24 @@
+Citation
+488 U.S. 445, 109 S. Ct. 693, 102 L. Ed. 2d 835 (1989)
+
+Brief Fact Summary
+An officer acting on anonymous tip observed marijuana in the interior of a respondent Riley’s partially covered greenhouse from the vantage point of a helicopter.
+
+Synopsis of Rule of Law
+An officer’s naked eye observation of the interior of a partially covered greenhouse in a residential backyard from the vantage point of a helicopter 400 feet above did not constitute a search requiring a warrant.
+
+Facts
+Acting on an anonymous tip that marijuana was being grown on the respondent’s property, a Pasco County Sheriff’s Office investigator went to the property and determined that he could not see the contents of the greenhouse from the road.  He circled over the property in a helicopter at a height of 400 feet, and was able to see what he thought was marijuana with his naked eye through some missing panels in the greenhouse’s ceiling.  A warrant was issued based on these observations, with the subsequent search revealing marijuana growing in the greenhouse.   Based on this evidence, the respondent was charged with marijuana possession.  The trial court granted his motion to suppress the evidence, and the Florida Court of Appeals then reversed that decision.  The Florida Supreme Court then reinstated the suppression order of the trial court and as a result, the State of Florida filed for and was granted certiorari.
+
+Issue
+Are naked-eye observations of the curtilage of a property made from a helicopter 400 feet in the air a search for purposes of the Fourth Amendment for which a warrant must be obtained?
+
+Held
+No.  Reverse the judgment of the Florida Supreme Court suppressing the evidence.
+
+Dissent
+Justice William Brennan said that someone does not knowingly expose an area to the public just because a helicopter can legally fly above it.  He believed there was a reasonable expectation of privacy for the greenhouse in this situation.
+
+Discussion
+Respondent’s greenhouse was within the curtilage of the home but still the majority held this surveillance to not be a search because he had no reasonable expectation of privacy.  This was a closely decided, 5-4 case that hinged mainly on the judgment call of whether any expectation of privacy in a greenhouse with openings in its ceiling was reasonable.  The majority believed it was not.
+

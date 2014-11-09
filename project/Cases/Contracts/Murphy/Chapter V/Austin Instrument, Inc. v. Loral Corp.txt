@@ -1,0 +1,24 @@
+Citation
+22 Ill.29 N.Y.2d 124, 324 N.Y.S.2d 22, 272 N.E.2d 533 (1971)
+
+Brief Fact Summary
+Defendant entered into a subcontract agreement to purchase precision gear components from Plaintiff, which would then be used by it to produce radar sets for the Navy. After performing the first contract between the parties, Defendant awarded another subcontract to Plaintiff, who responded by raising its prices and threatening stoppage of delivery of its parts, should the price increase not be met. Defendant was forced to pay the price increase to receive its new items, but Plaintiff still brought suit for charges due on the second contract, which Defendant did not pay after delivery was complete. Defendant countered, claiming that Plaintiff’s price increase amounted to duress, because it was forced to accept Plaintiff’s terms.
+
+Synopsis of Rule of Law
+Duress can be both personal and economic. The key is the effect on a party’s exercise of free will.
+
+Facts
+The Defendant, Loral Corp (Defendant), was awarded a Navy contract for the production of radar sets. The Plaintiff, Austin Instrument, Inc. (Plaintiff), was a subcontractor who manufactured precision gear components. When Defendant awarded Plaintiff a second subcontract, on the parts it had bid lowest, Plaintiff raised its prices on all forward and back orders of the gear components, and threatened to stop delivery if its prices were not paid. When Defendant could not find the same parts, ready to deliver, by another manufacturer, it was forced to pay the price increase, in order to meet the terms of its contract. Plaintiff brought suit for charges still due on a second contract and Defendant countered for the difference in prices.
+
+Issue
+This case considers whether duress can be economic in nature and if it can, whether it is actionable as a vehicle to recover damages.
+
+Held
+Affirmed as to Plaintiff’s claim, and Modified to allow recovery for Defendant.
+
+Dissent
+Judge Bergan dissented, arguing that questions concerning acts constituting economic duress are factual and deference should be given to the trial court, which found that the facts did not support duress.
+
+Discussion
+Economic duress, as with other duress is seen as a contractual vice when it causes a party to give up its own free will. In this case, Plaintiff’s knowledge of Defendant’s desire to meet its own contractual commitment put Plaintiff in a position of coercion.
+

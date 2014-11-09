@@ -1,0 +1,21 @@
+Citation
+562 F.2d 537, 1977 U.S. App. 11589, 24 Fed. R. Serv. 2d (Callaghan) 1
+
+Brief Fact Summary
+Plaintiff was injured while using a water slide and sued who he believed to be the manufacturer of the waterslide. Defendant initially admitted it had manufactured the waterslide, then upon realizing it had not, filed leave to amend its answer to the complaint.
+
+Synopsis of Rule of Law
+Absent an element of bad faith on the part of the Defendant, courts will generally grant a Defendant leave to amend his answer to a complaint unless it will clearly prejudice the ability of the Plaintiff to proceed with his suit.
+
+Facts
+Plaintiff Jerry A. Beeck was injured in 1972 while using a water slide. He and his wife sued Aquaslide ‘N’ Dive Corp., a Texas corporation, alleging it manufactured the slide involved in the accident, and sought to recover on theories of negligence and strict liability. Defendant Aquaslide initially admitted it had manufactured the slide in its answer to the complaint on Dec. 17, 1973. The statute of limitations on Plaintiff’s personal injury action expired on July 15, 1974. Six and one-half months later, Defendant’s President visited the site of the accident and determined the slide was not manufactured by his company. Defendant then moved to amend its answer to deny manufacture, and the District Court granted leave to amend.
+
+Issue
+Whether a Defendant should be allowed to amend his complaint even where it will cause irreparable prejudice to the Plaintiff.
+
+Held
+The court held that the trial court did not abuse its discretion in allowing the Defendant to amend its answer.   Fed. R. Civ. P. 15(a) provides that a party may amend his pleading only by leave of court or by written consent of the adverse party; and leave shall be freely given when justice so requires.  In ruling on a motion for leave to amend, the trial court must inquired into the issue of prejudice to the opposing party, in light of the particularly facts of the case.
+
+Discussion
+The court reasoned that permitting leave to amend would not necessarily result in irreparable harm to the Plaintiff, as it was not certain that Beek would be unable to re-file against the proper defendants despite the running of the statute of limitations. Instead, the court reasoned that the amendment would merely allow the defendant to contest a disputed factual issue at trial, and further that it would be prejudicial to the defendant to deny the amendment. One way of looking at this case is to say that the court understood that the risk of harm to the Plaintiff in granting leave to amend, i.e. the inability to re-file against a proper Defendant, was less than the risk of having the wrong Defendant, Aquaslide, pay for a harm it did not inflict.
+

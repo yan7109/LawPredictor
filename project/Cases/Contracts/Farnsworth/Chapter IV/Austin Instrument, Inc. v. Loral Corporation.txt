@@ -1,0 +1,24 @@
+Citation
+29 N.Y.2d 124, 272 N.E.2d 533; 324 N.Y.S.2d 22; 1971 N.Y. 1163
+
+Brief Fact Summary
+Plaintiff Austin Instrument, Inc. was a subcontractor that Defendant Loral Corporation, utilized as a supplier of components to make radar sets for the Navy. After Plaintiff was awarded subcontracts for only those components on which it was the low bidder, Plaintiff refused shipment on an existing subcontract unless Defendant consented to substantial price increases and placed an order with Plaintiff for all 40 components needed on the second subcontract.
+
+Synopsis of Rule of Law
+A contract is voidable by reason of duress if the aggrieved party was forced to agree to the contract by means of a wrongful threat precluding the exercise of free will.
+
+Facts
+Defendant was awarded a contract by the Navy to build radar sets. Defendant thereafter solicited bids for 40 components needed in the production of the radar sets. Plaintiff was awarded a subcontract to supply 23 of the parts. Subsequently, Defendant was awarded a second Navy contract for the production of radar sets and again solicited bids for components. Plaintiff bid on all 40 parts, and Defendant told Plaintiff’s president that Plaintiff would only be awarded the subcontract for items on which it was the low bidder. Plaintiff refused to accept the order for less than all 40 of the components and informed Defendant that it would cease deliveries of the components due under the existing subcontract unless Defendant agreed to substantial price increases to the existing agreement and placed the order for all 40 parts. Defendant attempted to fill its needs with other suppliers, but none could produce the parts in the time needed. By letter, Defendant acceded to the Plaintiff’s
+
+Issue
+Are the subcontracts voidable by Defendant, as they were procured under duress?
+
+Held
+Yes. A contract is voidable on the ground of duress if the “immediate possession of needful goods is threatened” and the threatened party could not obtain the goods from another source. Here, Plaintiff not only threatened Defendant with a stoppage in deliveries if Defendant failed to meet its demands, but Plaintiff actually stopped deliveries. Defendant consulted 10 other suppliers to inquire as to whether they could provide the components and no one could. Defendant has sufficiently proved that it acted under duress.
+
+Dissent
+The facts adduced at trial do not support a conclusion that Defendant acted under duress by Plaintiff.
+
+Discussion
+A contract cannot be voided by reason of duress unless the aggrieved party can prove that it was deprived of free will and the duties under the contract cannot be satisfied by a third party.
+

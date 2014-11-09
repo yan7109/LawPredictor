@@ -1,0 +1,18 @@
+Citation
+537 U.S. 876
+
+Brief Fact Summary
+After Stephen Rakes (Defendant-Appellee) sold a liquor store that he owned with his wife to an individual for an amount that the government alleged was much less than the store’s actual value, Defendant-Appellee was summoned by a federal grand jury to give testimony about the sale; the government also alleged that Defendant-Appellee had been threatened to make the sale.  Defendant-Appellee denied that he had sold the store as a result of being threatened, and claimed that he made the sale to make a profit.  Defendant-Appellee’s attorney, who had helped with the store sale transaction, was also summoned to give testimony about the sale, but refused to testify.  After the attorney’s testimony was compelled by a district court judge, Defendant-Appellee was indicted for perjury and obstruction of justice, and filed a motion to suppress the testimony, which the court granted with one exception.  The government appeals the court’s grant of the motion to suppress here.<span class='heading'>Synopsis of Rule of Law.</span> Communications made by a husband to his wife, when made in the absence of third parties and in the course of their marriage, are privileged, as are communications made by an individual to his attorney, when the communications are made in the course of the attorney’s representation and are related to legal services, and also made in the absence of third parties.
+
+Facts
+Defendant-Appellee was indicted by a federal grand jury and charged with perjury and obstruction of justice in 1996.
+
+Issues
+Was the district court judge correct to suppress the communications made between Defendant-Appellee and his wife, relying on the privilege for spousal communications? Was the district court judge correct to suppress the communications made between Defendant-Appellee and Sullivan, relying on the attorney-client privilege?
+
+Held
+Yes; the communications at issue were privileged under the spousal privilege and were not subject to any exception; therefore the district court judge was correct to order them suppressed. Yes; the communications at issue were privileged under the attorney-client privilege and not subject to any exception; therefore the district court judge was correct to order them suppressed.
+
+Discussion
+The court addresses the communications by looking first at the formal requisites for the attorney-client and marital communications privileges and hold that they were “clearly met.”  The court then acknowledges that the “government’s main claim is that the privileges were waived or forfeited.”  In its analysis, the court focuses on the applicable exceptions to each privilege, concentrating its discussion on what it calls, “the main thrust of the government’s argument, namely, that [t]he suppressed communications are not privileged because they occurred during an ongoing extortion scheme.”  The court concludes that:
+

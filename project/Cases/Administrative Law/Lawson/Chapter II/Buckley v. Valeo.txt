@@ -1,0 +1,21 @@
+Citation
+424 U.S. 1, 96 S. Ct. 612, 46 L. Ed. 2d 659 (1976)
+
+Brief Fact Summary
+The Federal Election Campaign Act of 1971 (Act), as amended in 1974, created an eight-member Federal Election Commission (Commission) and vested in it wide-ranging rulemaking and enforcement powers for administering the Act. A separation of powers challenge was brought that Congress was precluded from vesting in itself the authority to appoint members of the Commission.
+
+Synopsis of Rule of Law
+Article II, Section:2, cl. 2, of the Constitution of the United States, the Appointment Clause, provides: “The President shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Department.”
+
+Facts
+The Act vested very broad powers in the Commission for administering the Act, including not only recordkeeping, disclosure, investigative functions, rulemaking and adjudicative powers, but also enforcement powers to institute a civil action for violations of the Act. With respect to four of the six voting members, neither the President, the head of any department, nor the Judiciary had any voice in their selection. The Appellants challenged the selection process, arguing that the Appointment Clause provides the exclusive method by which those charged with executing the laws of the United States may be chosen. Appellants further claimed that, if Congress retained the power to appoint, the members of the Commission could not discharge those functions which can only be performed by Officers of the United States under the separation of powers doctrine. The Court of Appeals held that the Necessary and Proper Clause of the Constitution gave Congress the authority to establish the Commission and appoint its members.
+
+Issue
+Were the powers of the Act vesting in the Commission the primary responsibility for conducting civil litigation in the courts constitutional?
+
+Held
+No. The provisions of the Act which vested in the Commission primary responsibilities for conducting civil litigation in the courts of United States for vindicating public rights violated Article II, Section:2, cl. 2, of the Constitution. Those administrative functions may only be performed by persons who are Officers of the United States.  Dissent. None.  Concurrence. None.
+
+Discussion
+Congress’ power under the Necessary and Proper Clause was bound by the express language of Article II. The Members of the Commission could only perform functions properly delegable by Congress, in an areas sufficiently removed from administration and enforcement of the public law as to permit their being performed by persons not “Officers of the United States.”
+

@@ -1,0 +1,21 @@
+Citation
+449 U.S. 383, 101 S. Ct. 677, 66 L. Ed. 2d 584 (1981).
+
+Brief Fact Summary
+The Petitioner, Upjohn Co. (Petitioner), conducted an internal audit and investigation that revealed alleged illegal payments made to foreign officials in exchange for business. Petitioner volunteered notice of such actions to the Internal Revenue Service (IRS), who issued a summons for information collected by Petitioner, including internal questionnaires sent to managerial employees. Petitioner maintained those documents were protected by the attorney-client privilege and attorney work product.
+
+Synopsis of Rule of Law
+In the corporate context, attorney-client privilege extends to lower level employees, not just to those in control of the corporation. The work-product doctrine protects oral statements made to attorneys, which necessitates a showing of undue hardship on the part of the party-opponent who seeks that information.
+
+Facts
+Petitioner, an international pharmaceutical company discovered through an independent audit that one of its foreign subsidiaries might have made payments to foreign government officials in order to secure government business. Gerard Thomas, Petitioner’s General Counsel, was notified and he consulted with outside counsel as well as Petitioner’s Chairman, all of whom decided an internal investigation as to “questionable payments” was necessary. As a result, questionnaires were sent to all foreign and area managers inquiring as to information regarding any such payments. This procedure of collecting information had been deemed “highly confidential.” Petitioner voluntarily sent a preliminary report to the Securities and Exchange Commission (SEC) and the IRS. The IRS began an investigation and was given lists by Petitioner of all those who were interviewed and all whom had responded to the questionnaire. The IRS then sought production of all files relative to the investigation cond
+
+Issue
+Whether the attorney-client privilege in the corporate context extends to employees not within the “control group” of the corporation.
+
+Held
+Judgment of the Court of Appeals reversed and remanded.
+
+Discussion
+The attorney-client privilege applies to corporations, not just to the “control group” rather, it extends to lower level employees as well, since their actions as well may involve the corporation in legal difficulties. The attorney-client privilege only protects disclosure of communications. It does not protect disclosure of the underlying facts by those who communicated with the attorney. In this case, the Petitioner gave to the IRS a list of those employees to whom the questionnaire was given and those who answered. The IRS was free to question the employees who communicated with Thomas and outside counsel.
+

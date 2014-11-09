@@ -1,0 +1,24 @@
+Brief Fact Summary
+FAS (Plaintiff) filed suit against Cybor (Defendant) for infringing its patent.  On appeal, Defendant argued the district court went wrong in claim construction.
+
+Synopsis of Rule of Law
+Claim construction is a question of law only, subject to de novo review.
+
+Facts
+Plaintiff filed an infringement suit against Defendant for infringement of its '837 patent.  The district court held Defendant did infringe the patent.  Defendant appealed, claiming the district court went wrong in the claim construction.
+
+Issue
+Is Claim construction a question of law only, subject to de novo review?
+
+Held
+(Archer, J.)  Yes.  Claim construction is a question of law only, subject to de novo review.  There are two steps involved in an infringement analysis: (1) determining the scope and meaning of the stated patent claims; (2) comparing the properly interpreted claims to the item accused of infringing.  In Markman v. Westview Instruments, Inc., 52 F.3d 967 (Fed. Cir. 1995) (Markman I), the U.S. Supreme Court unanimously affirmed this Court's en banc holding, in which this Court held claim construction is a purely legal issue.  The Supreme Court in Markman II declared claim construction is a "mongrel practice" falling between law and fact, but determined the better authority of claim construction to be a judge rather than a jury.  The Supreme Court also examined the role of expert testimony in claiming construction, finding that a jury is a better examiner of witness credibility, although, credibility rarely plays a role in construction.  Considering the patent as a whole, the expert witness helps the court determine the patent claim.  The standard of review articulated in Markman I was not changed by Markman II, so claim construction, including related fact-based questions, is subject to de novo review.  All other case law suggesting otherwise is hereby rejected.  Affirmed.
+
+Dissent
+(Rader, J.)  Markman I deviates from standard litigation procedure in many ways, but the main deviation affects the trial court's discretion to use expert testimony.  It is wrong for the court to allow a trial court to use an expert to understand the claim, but not to interpret it.  Markman I was intended to provide assurance in claim construction because the parties could present expert testimony and then expect the court to determinate the claim interpretation.  Now, the appellate court has unrestricted review of that interpretation.  This creates a distinct problem because the trial court is able to fully understand the complexities of the claim, use expert witnesses to understand the claim, spend hours reading source materials, and are not bound by the prepared record.  The appellate court does not have these advantages and should therefore defer to the trial court's claim interpretation.
+
+Concurrence
+(Bryson, J.)  Determining that claim construction is subject to de novo review does not mean this court will ignore the conclusion of the district court.(Bryson, J.)  Determining that claim construction is subject to de novo review does not mean this court will ignore the conclusion of the district court.
+
+Discussion
+There were immediate outcries by scholars for the Supreme Court to intervene and offer a final resolution to the issue of claim interpretation.  The Cybor Corp. decision seemed to take away from the importance of the trial court in claim interpretation and the patent process.  However, the Supreme Court denied certiorari to several cases that could have presented the issue.  The Federal Circuit indicated a willingness to revisit Cybor Corp. in 2006 and possibly limit its application.  However, the case stands as the standard of review.
+

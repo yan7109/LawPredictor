@@ -1,0 +1,21 @@
+Citation
+621 P.2d 270 (Alaska 1980)
+
+Brief Fact Summary
+Appellee, Patricia Coppock, brought the initial action against Appellants, Alaska Plastics, Inc. et al., after the directors they refused to give her an equitable amount for her shares in the company.
+
+Synopsis of Rule of Law
+Absent a statutory right of appraisal, a shareholder is not entitled to an equitable remedy wherein the corporation purchases their shares when the shareholder has issues regarding the director’s allocation of company resources.
+
+Facts
+Appellee divorced one of the three Appellant directors, and was given 150 shares (1/6 of the outstanding shares) in the divorce settlement.  The directors did not notify, or did not notify adequately, Appellee of four annual shareholder meetings.  The directors collected a salary or fees from the company, and they used company money to pay for their wives to attend business meetings.  The directors offered to purchase Appellee’s shares for $15,000, but Appellee hired an attorney and accountant to assess the value of the shares.  The accountant valued her shares between $23 and 40 thousand, not including property owned by Appellant corporation.  The directors increased their offer at one point to $20,000.  The directors agreed to buy another company without first notifying Appellee (although she ratified that with a subsequent vote of approval).  After the initial company burned down without insurance, there was another offer by one of the directors, acting individually, to buy
+
+Issue
+The issue is whether Appellee is entitled to equitable relief by forcing Appellants to purchase her shares at a price determined by the lower court.
+
+Held
+The court held that there was no remedy available that Appellee could use to force the close corporation to purchase her shares.  The court listed four ways where this can happen but none applied to Appellee: 1) provision in a by-law (not present here); 2) petition for involuntary dissolution of corporation (the directors’ conduct was not so extreme as to warrant this remedy); 3) change in corporate structure such as a merger (Appellee approved the merger in this case); and 4) statutory right of appraisal (not recognized by state law).  Appellee may have a claim for relief, but it should be through other means, such as forcing a dividend payment that compares to the benefits the other shareholders receive.
+
+Discussion
+The court notes that typically the best relief that could be granted to a disgruntled shareholder is to receive fair value for the shares and end their participation in a close corporation.  However, the court wants to limit this remedy to extreme cases, or at least judicially recognized cases.
+

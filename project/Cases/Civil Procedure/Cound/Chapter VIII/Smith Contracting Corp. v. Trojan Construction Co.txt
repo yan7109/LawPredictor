@@ -1,0 +1,21 @@
+Citation
+22 Ill.192 F.2d 234 (10th Cir. 1951)
+
+Brief Fact Summary
+The Defendant, Smith Contracting Corp. (Defendant), failed to raise an issue during pretrial procedures and was precluded from bringing the issue up at trial. The Defendant appealed the decision.
+
+Synopsis of Rule of Law
+The Federal Rules of Civil Procedure (FRCP) allow amendments to pleadings by leave of court when justice so requires.
+
+Facts
+The Plaintiff, Trojan Construction Company (Plaintiff) initially brought suit against the Defendant to recover damages for excessive wear and tear to equipment leased by Plaintiff to Defendant. The lease contained a provision that dealt with damage to equipment. During a pretrial conference, both parties agreed the action stemmed from a claim that Plaintiff returned the equipment in a state that exceeded normal wear and tear. The Defendant denied this and all that remained was an issue of triable fact. At trial, Defendant sought to prove that it had overpaid the rent and was entitled to a counter- claim to recover the overpayment. The FRCP did not allow the raising of issues at trial that were not included during pretrial procedure. The trial court refused to allow Defendant to amend his answer or the pretrial order and Defendant was not allowed to raise the issue of overpayment.
+
+Issue
+Whether a party may amend its answer to include a claim that was not brought forth during pretrial procedures.
+
+Held
+Yes. The FRCP allow leave to amend pleadings when justice so requires. Justice required the granting of leave to amend the answer to set up the counterclaim and that denial thereof was an abuse of discretion.
+
+Discussion
+The court here admitted that the facts of the counterclaim were different than those of the claim presently in front of it. But stated that the trial court could have allowed the Plaintiff leave to check facts. The court agreed that rigid adherence to pretrial conference agreements should not be exacted, especially when to do so could result in prejudice to one party and the relaxing of the agreement would not cause prejudice to the other.   CHAPTER XIII. Adjudication Without Trial Or By Sp
+

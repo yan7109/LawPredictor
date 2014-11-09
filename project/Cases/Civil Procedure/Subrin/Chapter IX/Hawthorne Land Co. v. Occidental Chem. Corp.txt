@@ -1,0 +1,21 @@
+Citation
+No. Civ.A 01-0881, 2002 WL 1976931 (E.D. La. Aug. 23, 2002).
+
+Brief Fact Summary
+Defendants, Occidental Chemical Corporation et al., moved to limit the scope of discovery that Plaintiff, Hawthorne Land Co., was seeking.
+
+Synopsis of Rule of Law
+Per Fed. R. Civ. P. 26(b)(1), a party can obtain as extensive a scope of discovery that is relevant to the claims and is not subject to discovery.
+
+Facts
+Plaintiff leased a right of way to Defendants to build a pipeline through Plaintiff’s property.  The pipes carried toxic chemicals, and Plaintiff claims that there were at least 29 leaks between April 9, 1985 and November 30, 1987.  Plaintiff alleged that Defendants failed to clean up the leaks and sought general and punitive damages.  Plaintiff sought to discover information regarding five different pipelines and Defendants moved to limit the discovery to one pipeline.  Two of the pipelines were in New York and three others were in Louisiana. Plaintiff’s land was in Louisiana, but only one of the three pipelines ran through their land.  Plaintiff asserted that they needed the additional discovery to support a punitive damage award.
+
+Issue
+The issue is whether Plaintiff should be allowed to discover information regarding all five of the requested pipelines.
+
+Held
+The court limited the discovery to the pipeline in place on Plaintiff’s property.  The court reasoned that it was the only one on Plaintiff’s property and it was in place the longest.  Therefore, that pipeline should provide the evidence they seek more so than others.  The court also allowed Defendants to properly plead a privilege for other pipelines because they did not prepare a privilege log.
+
+Discussion
+The court would not allow discovery solely to support a claim for punitive damages.  The court seemed to rely on a report submitted by Defendants that indicated that Defendants were not negligent in their maintenance of the pipeline on Plaintiff’s property, and may not have been convinced that there was a legitimate claim for punitive damages.
+

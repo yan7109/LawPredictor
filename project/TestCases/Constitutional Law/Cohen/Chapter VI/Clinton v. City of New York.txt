@@ -1,0 +1,24 @@
+Citation
+22 Ill.524 U.S. 417, 118 S. Ct. 2091, 141 L. Ed. 2d 393 (1998)
+
+Brief Fact Summary
+President Clinton’s exercise of power under the Line Item Veto Act of 1996 to make cancellations in a Congressional Act was held unconstitutional by the Supreme Court of the United States because the President must either veto the entire law or approve the entire law.
+
+Synopsis of Rule of Law
+The provisions allowing cancellations in the Line Item Veto Act are unconstitutional because it gives the President unilateral authority to change the text of duly enacted statutes, and thus violates Article I Section:7 of the Constitution.
+
+Facts
+Appellant, President Clinton, exercised his power under the Line Item Veto Act of 1996 by canceling two provisions in the Balanced Budget Act of 1997 that adversely affected New York. Appellees, New York City and several private organizations, challenged the constitutionality of the cancellations. The Supreme Court of the United States found that the challengers met both prudential and Article III standing requirements, and further held that the cancellation provisions in the Line Item Veto are not authorized by the Constitution.
+
+Issue
+Whether the provisions in the Line Item Veto Act that allow the President to cancel certain types of provisions of a law are constitutional.
+
+Held
+No. Judgment affirmed. There is no provision in the Constitution authorizing the President to enact, amend, or repeal statutes, although he may initiate and influence legislative proposals. Cancellations are the functional equivalent of partial repeals of Acts of Congress. The Line Item Veto Act gives the President unilateral power to change the text of enacted statutes. The Act’s cancellation provisions violate Article I Section:7 of the Constitution.
+
+Dissent
+The challengers have standing, but the Line Item Veto Act does not violate the Constitution because it does not violate any literal text of the Constitution. Further, the Act does not violate the Separation of Powers doctrine because it does not encroach on Congress’ power.
+
+Discussion
+Even where the President and Congress agree that a law is good, if it violates the Constitution, it is invalid because the Constitution is the supreme law of the land.
+

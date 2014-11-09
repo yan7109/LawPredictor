@@ -1,0 +1,21 @@
+Citation
+526 F.2d 86, 1975 U.S. App. 11734,1975-2 Trade Cas. (CCH) P60,634
+
+Brief Fact Summary
+A baking company asked for a preliminary injunction against rival baking companies on the grounds that they were guilty of below-cost pricing.
+
+Synopsis of Rule of Law
+A court should issue a preliminary injunction so long as the harm that may occur to the plaintiffs is sufficiently serious, and the moving party can show that there is a chance of success on the merits; the moving party is not required to show that he will likely succeed on the merits.
+
+Facts
+In 1971 Plaintiff William Inglis & Sons. Baking Co. and four other baking companies filed an antitrust action against various competitors within relevant geographic markets in Washington, Oregon, and California. In 1974, Plaintiff moved for a preliminary injunction in the Northern California market against five the defendants, including Defendant ITT Continental Baking Co., Inc., alleging that they were guilty of discriminatory and below-cost pricing of their “private label” bread products. In 1975, the District Court issued an opinion denying the preliminary injunction and this appeal followed.
+
+Issue
+What is the standard for determining when to issue a preliminary injunction?
+
+Held
+The Ninth Circuit of Appeals vacated the District Court’s decision and remanded for the Court to consider whether the harm to the Plaintiff is sufficiently serious and has a chance of succeeding on the merits.   The grant or denial of a preliminary injunction is subject to reversal only if the lower court based its decision upon an erroneous legal premise or abused its discretion. In considering whether to issue a preliminary injunction, however, it is not necessary that the moving party be reasonably certain to succeed on the merits. So long as the harm that may occur to the plaintiffs is sufficiently serious, it is only necessary that there be a chance of success on the merits.
+
+Discussion
+Here students should be aware that in presenting a case for a preliminary injunction, the primary focus is on the harm to the plaintiff if the preliminary injunction is not granted, rather than on the strength of the case on the merits.
+

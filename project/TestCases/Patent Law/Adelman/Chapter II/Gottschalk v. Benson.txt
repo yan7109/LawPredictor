@@ -1,0 +1,21 @@
+Citation
+409 U.S. 63 (1972)
+
+Brief Fact Summary
+Gottschalk (Defendant), the Acting Commissioner of Patents, appealed the reversal of his rejection of patent claims relating to the programmed conversion of numerical information.
+
+Synopsis of Rule of Law
+A mathematical formula with no substantial practical application exception in connection with a digital computer cannot be patented.
+
+Facts
+Benson (Plaintiff) submitted patent claims for a method for converting binary-coded-decimal (BCD) numbers into pure binary numbers.  The claims were not limited to any particular art or technology, to any particular equipment or machinery, or to any particular end use.  They claimed to cover any use of the method in any type of general purpose digital computer.  Defendant appealed the reversal of his rejection of the patent claims.
+
+Issue
+Can a mathematical formula without a substantial practical application exception in connection with a digital computer be patented?
+
+Held
+(Douglas, J.)  No.  A mathematical formula with no substantial practical application exception in connection with a digital computer cannot be patented.  One may not patent an idea, which would be the result if the formula for converting binary code into pure binary were patented in this case.  A procedure for solving a given type of mathematical problem is known as an "algorithm."  The procedures presented in the present claims are generalized formulations for programs to solve mathematical problems of converting one form of numbers to another.  A patent on the formula would result in a patent on the algorithm itself.  This would raise considerable problems that only committees of Congress can manage.  Reversed.
+
+Discussion
+The Benson decision is the leading one on the question of whether or not computer programs can be patented.  The history of the case reveals the typical positions which have been taken by the Defendant and the Court of Customs and Patent Appeals.  Defendant rejected the patent claims in its usual opposition to patenting computer programs.  The Court of Customs and Patent Appeals, typically defiant of the Patent Office, reversed.  They even seemed to defy the Supreme Court in later decisions that attempted to gain patents for computer programs.
+

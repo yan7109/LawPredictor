@@ -1,0 +1,27 @@
+Citation
+542 U.S. 600, 124 S. Ct. 2601, 159 L. Ed. 2d 643 (2004)
+
+Brief Fact Summary
+Respondent, Seibert, brought appeal after she was convicted of second-degree murder based on a confession that was elicited after she had made an un-Mirandized confession.
+
+Synopsis of Rule of Law
+In order to use a post-Mirandized confession, after eliciting an un-Mirandized confession, the police must give the defendant ample opportunity to consider the effect of the Miranda warnings.
+
+Facts
+Respondent was convicted of second-degree murder, after a fire was set to her mobile home, killing another individual who lived there.  Several days after the fire, she was interrogated by a police officer, who initially withheld her Miranda warnings, hoping to get her to first confess.  Once Seibert confessed, the officer took a break, read her the Miranda rights and resumed questioning after she made a waiver.  He prompted her to restate the confession she made earlier, and she was convicted based on that second question.  Seibert appealed based on the fact that the use of an un-Mirandized confession to get a later confession made that later confession inadmissible.  The Supreme Court of Missouri agreed and overturned the conviction, and the State brought appeal to the United States Supreme Court.
+
+Issue
+When an officer intentionally decides to withhold Miranda warnings to elicit a confession, is a later-Mirandized confession admissible?
+
+Held
+The second Post-Miranda confession is not admissible when a prior confession has been given unless the Miranda warning and accompanying break are sufficient to give the defendant the reasonable belief that she can decide not to speak with police.
+
+Dissent
+Justice O’Connor, for the dissent, writes that more deference should be given to prior case law that allows for two-step confessions, so long as the officer is acting in good faith.
+
+Concurrence
+Justice Breyer concurred, noting that the fruits of an un-Mirandized confession should be excluded unless that confession was obtained in good faith.  Here the officer made a conscious decision not to Mirandize the suspect and thus, a subsequent Mirandized confession should not be valid.  Justice Kennedy also concurred, noting that if a deliberate two-step confession occurs, as it seems to have in this case, all later-obtained evidence is fruit of the poisonous tree.
+
+Discussion
+A confession obtained after an un-Mirandized confession was given is not always inadmissible but, when it is intentionally obtained by a determination not to give Miranda warnings, it is.
+

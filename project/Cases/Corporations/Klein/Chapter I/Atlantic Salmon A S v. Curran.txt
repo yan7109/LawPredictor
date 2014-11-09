@@ -1,0 +1,21 @@
+Citation
+32 Mass. App. Ct. 488, 591 N.E.2d 206 (App. Ct. 1992)
+
+Brief Fact Summary
+Plaintiff companies, Salmanor and Atlantic Salmon, attempted to hold Defendant, Michael Curran, personally liable for balances due to Plaintiffs.
+
+Synopsis of Rule of Law
+An agent can be held personally liable for actions on behalf of the principal if the agent does not disclose the principal.
+
+Facts
+Defendant held himself out to Plaintiffs as a representative for one or more principals, all of them non-existent or dissolved at some point.  Defendant gave false information regarding the principal, but also maintained false titles, falsely advertised and did not properly maintain corporate filings.  Plaintiffs brought this action after Defendant owed Plaintiffs over $250,000 combined.  Defendant maintained that he was acting as an agent of a now-dissolved corporation, Marketing Designs, Inc.  The trial court held that Plaintiffs could have found what principal Defendant represented through public records.
+
+Issue
+The issue is whether an agent can be held personally liable if he does not disclose the principal to the other party.
+
+Held
+Defendant is personally liable for the actions purportedly performed on behalf of a principal.  It is the duty of the agent to inform the other party who the actual principal is, or else the agent is liable.
+
+Discussion
+The Appeals Court of Massachusetts, Suffolk, was hesitant to accept that there was a principal other than Defendant.  However, the courts holding made the question irrelevant.  The holding is in direct contrast with Watteau v. Fenwick.
+

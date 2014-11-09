@@ -1,0 +1,21 @@
+Citation
+473 A.2d 805, 2 EXC 28 (Del. 1984)
+
+Brief Fact Summary
+Plaintiff, Harry Lewis, a stockholder of Meyers Parking Systems, Inc., (Meyers), brings a derivative suit against Defendants, Directors of Meyers, for alleged improper actions, without first making a demand for action on Defendants first.
+
+Synopsis of Rule of Law
+A demand to a company’s directors is considered futile only where particularized facts are alleged that cause a reasonable doubt that the directors’ actions would be protected under the business judgment rule.
+
+Facts
+Plaintiff’s derivative suit against Defendants is based on Defendants approval of  certain transactions that occurred between Meyers and Defendant Director, Leo Fink (Fink), a 47% stockholder of Meyers.  In particular, Plaintiff challenges an employment agreement between Meyers and Fink and an interest-free loan by Meyers to Fink.
+
+Issue
+When is a shareholder’s demand to the company’s directors considered futile so as to excuse the need to make such a demand before a derivative suit is filed as required under Chancery Rule 23.1?
+
+Held
+The Court of Chancery’s holding is reversed because the Plaintiff failed to first make a demand to Defendant Directors before bringing a derivative suit.  Plaintiff further failed to show that such a demand was excused because he did not allege particularized facts that indicate such a demand would be futile.
+
+Discussion
+The business judgment rule protects directors’ managerial freedom to make decisions in the best interest of the company.  To raise a reasonable doubt that the directors’ actions would be protected under the business judgment rule, the plaintiff must allege specific facts that causes reasonable doubt that “(1) the directors are disinterested and independent and (2) the challenged transaction was otherwise the product of a valid exercise of business judgment.”
+

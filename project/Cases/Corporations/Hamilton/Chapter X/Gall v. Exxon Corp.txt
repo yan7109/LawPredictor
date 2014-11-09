@@ -1,0 +1,21 @@
+Citation
+418 F. Supp. 508 (S.D.N.Y. 1976)
+
+Brief Fact Summary
+Exxon Corp., (Defendant), has moved for summary judgment dismissing Gall’s, (Plaintiff), complaint alleging that the litigation committee exercised sound business judgment in deciding it would be contrary to the interests of Defendant to pursue a legal remedy.
+
+Synopsis of Rule of Law
+Absent allegations of fraud, collusion, self-interest, dishonesty or other misconduct of a breach of trust nature, and absent allegations that the business judgment exercised was grossly unsound, the court should not at the instigation of a single shareholder interfere with the judgment of the corporate officers.
+
+Facts
+Exxon allegedly paid 59 million in corporate funds as political bribes to Italian political parties to secure special political favors and other illegal commitments. Exxon’s Board of Directors established a Special Committee on Litigation composed of Exxon Directors and referred to the Committee for the determination of Exxon’s action the matters raised in this and other pending actions. The committee investigated and recommended that it would be contrary to the interests of Exxon and its shareholders for Exxon or anyone on its behalf to bring legal action against any Exxon director or officer. The Committee resolved to oppose and seek dismissal of all shareholder derivative actions relating to the above-mentioned bribes.
+
+Issue
+Whether summary judgment is proper when Plaintiff calls into question the disinterestedness and bona fides of a litigation committee recommending dismissal.
+
+Held
+No. Plaintiff must be given the opportunity to test the bona fides and independence of the Committee through discovery and if necessary at a plenary hearing.
+
+Discussion
+If a stockholder could compel the officers to enforce every legal right court instead of officers would be the arbiters of the corporation’s fate. Plaintiff, however, alleges that the members of the Committee may have been personally involved in the transactions in question or interested in the alleged wrongdoing in a way calculated to impair their exercise of business judgment on behalf of the corporation. Plaintiff must be given an opportunity to test its theory through discovery. Issues of intent, motivation, and good faint are particularly inappropriate for summary disposition.
+

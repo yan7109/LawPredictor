@@ -1,0 +1,24 @@
+Citation
+476 U.S. 79, 106 S. Ct. 1712, 90 L. Ed. 2d 69 (1986)
+
+Brief Fact Summary
+This appeal was brought after the State used peremptory challenges to strike all black jurors from the trial of a black man.
+
+Synopsis of Rule of Law
+Peremptory challenges are subject to the Equal Protection Clause.
+
+Facts
+Petitioner, Batson, was indicted in Kentucky on charges of burglary and receipt of stolen goods.  During trial of the matter, the judge conducted voir dire and excused certain jurors for cause.  When it came time for peremptory challenges, the prosecutor used his to remove all of the black persons left on the venire, which left Batson, a black man, to be tried by an all-white jury..  Defense counsel objected before the jury was sworn in, and the judge overruled the objection on the grounds that peremptory challenges could be against “anybody they want.”  Petitioner was convicted on both counts.
+
+Issue
+Whether a party may use peremptory challenges to remove members from a jury venire who are demographically similar to the defendant.
+
+Held
+Justice Powell, for the court, wrote the opinion, opining that when it appears the prosecutor is using challenges in violation of equal protection, the State bears the burden of proving a reason for the challenges.
+
+Dissent
+Justice Burger, for the dissent, writes that by requiring a reason behind a challenge and requiring the state to bear the burden of proof that challenges are not in violation of Equal Protection has the effect of taking away the “peremptory” nature of the challenge.
+
+Discussion
+The gist of this case is that, while peremptory challenges are afforded to balance the jury process, when a defendant proves that there is a possibility they are being used in violation of Equal Protection, the State must prove that the challenges are for any other “valid reaso
+

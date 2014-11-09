@@ -1,0 +1,21 @@
+Citation
+Kan. Sup. Ct., 244 Kan. 126, 766 P.2d 805 (1988)
+
+Brief Fact Summary
+To be liable for their illegal sale, directors (Defendant) of Perdition Minerals Group (Defendant) contended that W.W. Taylor (Plaintiff) had to provide proof of the directors aiding in the sale of unregistered securities, in a material way, to the Taylors.
+
+Synopsis of Rule of Law
+Officers, directors, and partners of acorporation are held strictly liable to buyers of unregistered securities sold in violation of statute, even if they failed to aid in a material way in the illegal sale, lest they can show lack of knowledge concerning the facts that purportedly led to the unlawful activity.
+
+Facts
+Mulvihill, Perdition Minerals Group's chief executiveofficer began discussions with W.W. Taylor about Taylor's possible investment in Perdition. Taylor was given Mulvihill’sresume, a list of refernecs and a financial statement. Taylor informed Mulvihill would buy 400,000 shares of Perdition, with the value of $200,000.  Taylor was introduced as a possible investor on November 20, 1981, at a Perdition shareholders' meeting. Previous to the meeting, Mulvihill had guaranteed Taylor that the Perdition stock was valued at over $1.34 per share and that no audit would be performed.  At the meeting a director, Harris, made a motion to ire Fox to perform the audit, shortly after, Taylor asked a friend and business associate of Fox’s to look into Perdition’s audit. Taylor's friend discovered there was no impending audit, that his $200,000 investment was not disclosed in Perdition’s financial statement, that the SEC was investigating Perdition's Montana properties, and, in violation of the state law, his shares in Perdition were unregistered. In order to recover the price paid, Taylorbrought suit to rescind the sale of the Perdition securities. Perdition’s directors were granted summary judgment in their favor by the trial court on the grounds that the record failed to prove they materially aided in the illegal sale of securities. Taylor appealed.
+
+Issue
+Are officers, directors, and partners of a corporation held strictly liable in the selling of unregistered securities only where they have materially aided in the sale?
+
+Held
+(Six, J.) No. Officers, directors, and partners of a corporation are held strictly liable to buyers of unregistered securities sold in violation of statute, even if they failed to aid in a material way in the illegal sale, lest they can show lack of knowledge concerning the facts that purportedly led to the unlawful activity.  Liability is imposed by the Kansas Securities Act on any person who sells a security via misrepresentation of material facts or who illegally sells an unregistered security. In addition to interest, attorney’s fees, and all expense incurred the seller may be held liable to the purchaser of the securities for their purchase price. Kansas passed its Securities Act founded on the Uniform Securities Act of 1956. It is generally held by statesthat have passed § 410(b) of the Uniform Securities Act that the statute enforces a strict  liability standard on officers, directors and partners of corporations who participate in the unlawful sale of securities, lest a lack of knowledge can be proved. The legislative intent behind the enforcement of § 410(b) was to modify the liability status of a director's liability by enforcing strict liability. So, a requirement that the director materially aided in the illegal sale in order to be held jointly and severally liable is not imposed by the state statute.  Reversed.
+
+Discussion
+Two kinds of laws enforcing liability of officers, directors and partners for the unlawful sale of securities are distinguished by the court. As seen here, the first are those passing § 410(b) of the Uniform Securities Act by enforcing strict liability on directors. The latter kind of statute, aka "Blue Sky Laws”, differ from other statutes because they help to exempt directors from being found liable for fraud, lest it is proven that the director has materially contributed in the unlawful sale of the securities.
+

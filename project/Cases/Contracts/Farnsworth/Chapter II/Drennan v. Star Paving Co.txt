@@ -1,0 +1,21 @@
+Citation
+51 Cal. 2d 409, 333 P.2d 757, 1958 Cal. 245
+
+Brief Fact Summary
+Defendant subcontractor submitted a low bid for paving portion of a project, which was relied upon by Plaintiff, the general contractor. Later, Defendant refused to perform the work for the price it had bid saying that they had made a mistake in the bid and could not do the work for less than an amount which was nearly twice as much. Plaintiff found another contractor willing to do the work but sought damages for the difference from Defendant’s bid.
+
+Synopsis of Rule of Law
+A party that can reasonably expect another party to rely on a price offered to do work cannot revoke that offer on the basis of mistake. With knowledge of other parties reliance, the party that makes the mistake will bear the loss that it caused the other party in reliance.
+
+Facts
+Plaintiff was a general contractor who prepared a bid for a particular job in the Lancaster School District. Defendant’s estimator, Keith Hoon, called and stated a subcontractor bid for the paving work in the amount of $7,131 to the plaintiff’s secretary and was also on speaker phone with the plaintiff. The following day, defendant’s engineer claimed there was a mistake in the bid and that they could not do the paving work for less than $15,000. Sometime later, plaintiff got another subcontract to do the work for $10,948.
+
+Issue
+Whether the subcontractor’s bid became irrevocable upon the general contractors reliance on the figure in computing the final overall bid.
+
+Held
+The court found that the subcontractor would have had reason to expect that the general contractor would rely on the bid, and indeed would want him to rely on the bid and had a stake in that reliance, which would allow the general contractor’s bid to be accepted. Subcontractor had duty to use reasonable care in preparing the bid knowing that harm would ensue from an erroneous underestimate. The loss resulting from the mistake would be placed on the party who caused the mistake.
+
+Discussion
+There was no consideration to support an irrevocable offer, and using the bid to calculate the final overall bid was not acceptance. Thus, the offer was revocable and no binding contract had yet been formed. But the court relies on reliance as means for the general contractor to recover, section 90 of the Restatement says that “a promise which the promisor should reasonably expect to induce some action or forbearance of a definite and substantial character by the promissee and which does induce such acting is binding if injustice can only be avoided by enforcement of the promise.”
+

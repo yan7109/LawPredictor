@@ -1,0 +1,18 @@
+Citation
+476 U.S. 162, 106 S. Ct. 1758, 90 L. Ed. 2d 137 (1986)
+
+Brief Fact Summary
+Jurors were removed during voir dire because they objected to the death penalty.
+
+Synopsis of Rule of Law
+“[T]he Constitution does not prohibit the States from ‘death qualifying’ juries in capital cases.”
+
+Facts
+McCree was charged with felony capital murder.  During voir dire, the trial judge, in accordance with Arkansas law, removed eight perspective jurors who stated that they would not vote for a death sentence, over McCree’s objections.  McCree was convicted, and sentenced to life without the possibility of parole.  The conviction was affirmed.  He filed a federal habeas corpus petition, alleging that his rights under the Sixth and Fourteenth Amendments were violated.  The District Court agreed, and the Eighth Circuit affirmed.  This decision was based in part on Witherspoon v. Illinois, which held that ” sentence of death cannot be carried out if the jury that imposed or recommended it was chosen by excluding veniremen for cause simply because they voiced general objections to the death penalty or expressed conscientious or religious scruples against its infliction.”
+
+Issue
+Whether “the Constitution prohibit[s] the removal for cause, prior to the guilt phase of a bifurcated capital trial, of prospective jurors whose opposition to the death penalty is so strong that is would prevent or substantially impair the performance of their duties as jurors at the sentencing phase of the trial.”
+
+Held
+No.  The Supreme Court of the United States first took issue with the studies of so-called “Witherspoon-excludables.”  Three studies had been done before Witherspoon.  The latter studies did not study people who were “actual jurors sworn under oath.”
+

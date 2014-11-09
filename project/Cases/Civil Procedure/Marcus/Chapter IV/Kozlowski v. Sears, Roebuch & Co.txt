@@ -1,0 +1,21 @@
+Citation
+73 F.R.D. 73, 1976 U.S. Dist. 22 Fed. R. Serv. 2d (Callaghan) 1008
+
+Brief Fact Summary
+Kozlowski (Plaintiff) commenced a personal injury action for injuries suffered by a minor when a pair of pajamas manufactured and marketed by the Sears, Roebuch & Co., (Defendant) ignited in flames. Defendant filed a Motion to Set Aside the Default Judgment entered against him by the court.
+
+Synopsis of Rule of Law
+Failure to produce requested documents will not be excused if the failure to do so was the result of the producing party’s difficulty in locating the records.
+
+Facts
+Plaintiff commenced this product liability claim against Defendant asserting claims based on negligence, breach of warranty, and strict liability in tort. On July 17, 1975, Plaintiff filed a Motion to Produce Documents seeking a record of all complaints and communications concerning injuries or fatalities allegedly caused by the burning of children’s nightgowns, which were manufactured and marketed by Defendant. The Defendants filed a Motion to Quash on August 8, 1975. Plaintiff subsequently opposed Defendant’s Motion to Quash and filed a Motion to Compel Discovery. On January 22, 1976, the United States Magistrate field a “Memorandum and Order” overruling Defendant’s objections and ordering production within thirty days. Since Defendant did not produce the records, Plaintiff filed a Motion for Entry of Judgment by Default against the Defendant. The court found that Defendant’s failure to comply with discovery was willful and deliberate, so it entered Judgment by Default against the Defendant on the issue of liability. Defendant filed the current Motion to Set Aside the Judgment by Default.
+
+Issue
+Whether the Defendant should be compelled to produce the requested documents?
+
+Held
+Yes. Defendant’s Motion to Set Aside Default Judgment is denied.   To allow a Defendant to frustrate the discovery process by maintaining an inadequate filing system, and then claiming that the production of records would be an undue burden defeats the purpose of the discovery rules. Information concerning similar accidents is relevant to the issue of whether the pajamas marketed by the Defendant were dangerous and whether the Defendant knew of this danger. The party from who discovery is sought has the burden of showing why discovery should not be allowed. Statements that production would be costly or time-consuming are insufficient reasons. Here, the requested documents are solely in the control of the Defendant, and Plaintiff has no other access to them. Therefore, Defendant should produce the documents requested by the Plaintiff.
+
+Discussion
+Rule 26 of the Federal Rules of Civil Procedure provides for the granting of protective orders, which protect parties against burdensome and oppressive discovery. The court can issue a protective order when the movant has acted in good faith to resolve the dispute. In deciding whether to grant a protection order, the court must balance the potential hardship to the party seeking discovery if the protective order is granted with the potential hardship to the party seeking the protective order if it is denied.
+

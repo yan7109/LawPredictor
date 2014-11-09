@@ -1,0 +1,21 @@
+Citation
+540 U.S. 939, 124 S. Ct. 132, 157 L. Ed. 2d 251 (2003)
+
+Brief Fact Summary
+Plaintiff, Greg Seinfeld, brought this shareholder derivative action against Defendants, Carol Bartz et al., after the Defendant directors submitted a proxy statement that valued options granted to outside directors at an amount less the Plaintiff thought they were worth.
+
+Synopsis of Rule of Law
+An omitted or misleading fact is only material, for the purposes of determining whether a proxy statement violates Section: 14(a), if it was likely to have a reasonable effect on a shareholder’s decision for voting.
+
+Facts
+Defendants wanted to increase the amount of stock options offered to outside directors when they join and what they would receive annually.  Defendants, in their proxy statement, listed the retainer fee for each director as $32,000.  Plaintiff contends that if the options were valued under the Black-Scholes option valuation method, the compensation for each outside director would be valued at $369,500 at the issuance of the options and over $1 million at the date of the proxy statement.  Plaintiff also argues that Defendants did not disclose the adverse tax consequences for the company.  Defendant argues that there is neither a statutory basis for disclosing the tax consequences nor a requirement for the Black-Scholes value of the options.
+
+Issue
+The issue is whether the non-disclosure of the option value under the Black-Scholes method, or the tax consequences of the options, were material omissions under Section: 14(a) of the Securities Exchange Act.
+
+Held
+The non-disclosure of the information sought by Plaintiff was not material for the purpose of Section: 14(a), and therefore the action is dismissed.  There is no statutory or common law requirement to provide the option value under the calculate Black-Scholes value.  And there was no requirement to disclose any negative tax consequences.  Defendants did not give any false information regarding either issue, and the missing information would not materially affect the shareholder’s decision for voting.
+
+Discussion
+The case offers an example of information that would not be material to the shareholder’s voting decision.  This was not a case where shareholders were inquiring into the tax status and were misled; it was a matter of placing a burden on directors of requiring only enough to ensure that shareholders have all material information.
+

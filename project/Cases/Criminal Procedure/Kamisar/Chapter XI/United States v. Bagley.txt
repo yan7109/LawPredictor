@@ -1,0 +1,24 @@
+Citation
+473 U.S. 667, 105 S. Ct. 3375, 87 L. Ed. 2d 481 (1985)
+
+Brief Fact Summary
+Upon realizing that the government did not disclose impeachment evidence, Bagley brought a motion to vacate his sentence wherein he was found guilty on federal narcotics charges.
+
+Synopsis of Rule of Law
+In deciding whether to vacate a sentence on the grounds that impeachment evidence was not provided to the defense, a court must make a determination of whether the outcome of the case would have been different.
+
+Facts
+Respondent, Bagley, was indicted in violation of federal narcotics and firearms statutes.  Before trial, respondent filed a discovery motion, requesting whether any governmental witnesses had been compensated, in any way, for their testimony.  The government replied that they had not.  Two of the government’s witnesses, O’Conner and Mitchell were state law enforcement officers who had been working undercover to assist the federal Bureau of Alcohol, Tobacco and Firearms.  At trial, Respondent was found guilty of the narcotics charges, but not the firearm charges.  Sometime later, he filed requests for information pursuant to the Freedom of Information Act, and found out that O’Conner and Mitchell had been paid for their testimony against him.  He moved to have his sentence vacated.
+
+Issue
+Whether failure to provide impeachment evidence to a defendant, when it has been requested through discovery, is reversible error.
+
+Held
+Remanded.  In an opinion for the court, Justice Blackmun wrote that it is not necessarily reversible error, and in order to determine whether a sentence should be vacated, the court has a duty to determine whether the failure to disclose said evidence would affect the immediate outcome of the case.  Justice Blackmun also gave weight to the fact that a specific defense request for information had been ignored.
+
+Dissent
+Justices Marshall and Stevens both wrote dissents, maintaining that suppression, in response to a request for specific evidence is far more serious than nondisclosure of evidence.  Additionally, Justice Marshall, notes that the prosecutor should bear the burden of proving the evidence had no harmful affect upon the defendant than vice versa.
+
+Discussion
+While the majority seems to maintain that the prejudice to the defendant should be considered in determining whether suppression of evidence is harmful, it is also important to note that there this case shows there is a difference between deliberate suppression and nondisclosure of evidenc
+

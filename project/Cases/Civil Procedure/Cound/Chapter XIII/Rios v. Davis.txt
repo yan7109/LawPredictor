@@ -1,0 +1,21 @@
+Citation
+22 Ill.373 S.W.2d 386 (Tex. Civ. App. 1963)
+
+Brief Fact Summary
+The Plaintiff, Rios (Plaintiff), brought a negligence suit against the Defendant, Davis (Defendant), for personal injuries that he suffered as a result of a car accident in which both parties were involved. The Defendant claimed the Plaintiff was contributorily negligent and that collateral estoppel and res judicata precluded the Plaintiff from bringing suit because of a prior action.
+
+Synopsis of Rule of Law
+It is the judgment and not the conclusions of fact filed by a trial court that constitutes estoppel. A finding of fact by a jury or court, which does not become the basis or one of the grounds of the final judgment, is not conclusive against either party to the suit.
+
+Facts
+Popular Dry Goods Company (Popular) brought suit against the Defendant for damages to its truck in a car accident. The Defendant answered that Popular was contributorily negligent and joined the Plaintiff as a third party defendant. The jury found the company and the Plaintiff were guilty of negligence proximately causing the accident as was the Defendant. In that case, the jury denied Popular’s recovery against the Defendant and vice versa. In the case at bar, the Defendant claimed res judicata and collateral estoppel as to the issues raised in the prior action. The plea of res judicata was sustained and judgment entered in favor of the Defendant.
+
+Issue
+Whether the District Court erred in sustaining the Defendant’s plea of res judicata.
+
+Held
+Yes. The right of appeal is from a judgment and not a finding. Judgment reversed and remanded.
+
+Discussion
+The Plaintiff contended that the Defendant’s plea of res judicata should have been denied because in the prior case, judgment had been awarded in favor of the Plaintiff. In the prior case, the Plaintiff’s negligence was immaterial to the final holding in the case. Because the Plaintiff’s negligence was material to this case, res judicata did not preclude him from going forward with it.
+

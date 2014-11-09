@@ -1,0 +1,21 @@
+Citation
+486 U.S. 456,108 S. Ct. 1910,100 L. Ed. 2d 465,1988 U.S.
+
+Brief Fact Summary
+Petitioner challenged a Pennsylvania statute that required proof of paternity to receive support, and established a six year statute of limitations for paternity actions.
+
+Synopsis of Rule of Law
+Under heightened scrutiny the statute is unconstitutional because it is not substantially related to the State’s interest in avoiding the litigation of stale or fraudulent claims.
+
+Facts
+On September 22, 1983 petitioner Cherlyn Clark filed a support complaint on behalf of her daughter, born out of wedlock on June 11, 1973.  She named Gene Jeter, respondent, as her daughter’s father.  Court ordered blood tests showed a 99.3% probability that Jeter was the father.  Jeter moved to dismiss the complaint based on a Pennsylvania statute that set a six year statute of limitations for paternity actions.  Petitioner claimed that the statute was unconstitutional under the Equal Protection and Due Process Clauses of the Constitution.  The trial court upheld the statute of limitations, and during the appeal the legislature enacted a new eighteen year statute of limitations.  The Superior Court concluded that the new statute did not apply retroactively, and affirmed the trial court’s decision that the original statute was constitutional.
+
+Issue
+Is the Pennsylvania statute requiring an illegitimate child to establish paternity within six years of the child’s birth and disallowing support if paternity is not proven constitutional?
+
+Held
+The statute does not withstand the Equal Protection Clause under the required heightened scrutiny test.
+
+Discussion
+The Court provides a synopsis of the three levels of scrutiny in Equal Protection cases and further explains that heightened scrutiny requires that the classification must be substantially related to an important governmental objective.
+

@@ -1,0 +1,21 @@
+Citation
+489 U.S. 538, 109 S. Ct. 1289, 103 L. Ed. 2d 550 (1989)
+
+Brief Fact Summary
+The Supreme Court of the United States decided the necessity of jury trials for DUI.
+
+Synopsis of Rule of Law
+“A defendant is entitled to jury trial [when charged with a petty offense] on if he can demonstrate that any additional statutory penalties, viewed in conjunction with the maximum authorized period of incarceration, are so sever that they clearly reflect a legislative determination that the offense in question is a ’serious’ one.”
+
+Facts
+Nevada law authorized a maximum sentence of six months for persons found guilty of DUI, or 48 hours of community service in the alternative.
+
+Issue
+“[W]hether there is a constitutional right to a trial by jury for person charged under Nevada law wit driving under the influence of alcohol (DUI).”
+
+Held
+No.  The Supreme Court first distinguished between “petty” crimes and “serious” ones.  Based on Baldwin v. New York, the Supreme Court that “defendant is entitled to a jury trial whenever the offense for which he is charged carries a maximum authorized prison term of greater than six months.”  Although the Supreme Court did not hold that “an offense carrying a maximum prison term of six months or less automatically qualifies as a ‘petty’ offense,” it was willing to presume that the Nevada “views DUI as a ‘petty’ offense” in light of the fact that the “Nevada Legislature has clearly indicated that DUI is a ’serious’ offense.”  Other penalties, such as the 90-day license suspension, would run “concurrently” with the main penalty, and were “irrelevant”.
+
+Discussion
+“This [above] standard
+

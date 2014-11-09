@@ -1,0 +1,21 @@
+Citation
+484 U.S. 826
+
+Brief Fact Summary
+Lee Seiler (Plaintiff-Appellant) sued Lucasfilm (Defendant-Appellee), a film company that produced the movie “The Empire Strikes Back,” claiming that certain creatures that appeared in the movie impermissibly infringed on a copyright of Plaintiff-Appellant’s.  At trial, the lower court applied the best evidence rule of Federal Rule of Evidence 1004(1), and found that Plaintiff-Appellant had lost or destroyed the originals in bad faith, and denied admissibility of any secondary evidence.  As a result, summary judgment was awarded in favor of Defendant-Appellee, and Plaintiff-Appellant appeals that decision here.
+
+Synopsis of Rule of Law
+When a plaintiff claims copyright infringement of his works but cannot produce original evidence of his works, then the plaintiff must show that the originals were not destroyed in bad faith under the best evidence rule of Federal Rule of Evidence 1004(1); if the plaintiff cannot make such showing, then any secondary evidence of his works is inadmissible.
+
+Facts
+Plaintiff-Appellant claimed that certain creatures depicted in Defendant-Appellee’s file “The Empire Strikes Back,” namely the characters named “Imperial Walkers,” were an infringement on Plaintiff-Appellant’s own copyright.
+
+Issue
+Did the lower court properly exclude the secondary evidence of Plaintiff-Appellant’s works and therefore properly grant summary judgment in favor of Defendant-Appellee?
+
+Held
+Yes; under the best evidence rule of Federal Rule of Evidence 1004(1), the secondary evidence was inadmissible, as Plaintiff-Appellant had not shown that the originals were not lost or destroyed in bad faith; accordingly, the grant of summary judgment was proper.
+
+Discussion
+The court began its analysis by pointing out that, “[t]here can be no proof of ’substantial similarity’ and thus of copyright infringement unless [Plaintiff-Appellant's] works are juxtaposed with [Defendant-Appellee's] and their contents compared. Since the contents are material and must be proved, [Plaintiff-Appellant] must either produce the original or show that it is unavailable through no fault of his own . . . [which] he could not do.”  The court went on to explain that:
+

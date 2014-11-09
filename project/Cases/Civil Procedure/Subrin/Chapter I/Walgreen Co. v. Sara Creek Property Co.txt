@@ -1,0 +1,21 @@
+Citation
+966 F.2d 273, 1992 U.S. App.
+
+Brief Fact Summary
+Defendant, Sara Creek Property Company, is appealing a judgment for a permanent injunction in favor of Plaintiff, Walgreen Company.
+
+Synopsis of Rule of Law
+An appellate court will not overturn a final judgment of a permanent injunction granted by a trial court if the trial court used reasonable judgment in weighing the costs between a damages remedy and an injunction.
+
+Facts
+Plaintiff had a thirty-year lease with Defendant landlord that expired in 2001.  The lease contained an exclusivity clause to prevent Defendant from leasing any part of the mall containing Plaintiff’s store to another pharmacy.  Defendant wanted to buy out an anchor tenant and build a store with a pharmacy.  Plaintiff sued for the breach of contract, and the district court awarded a permanent injunction to prevent Defendant to placing a pharmacy inside the mall per the lease agreement.  Defendant argues that Plaintiff did not prove that remedy damages were inadequate.
+
+Issue
+The issue is whether the District Court exceeded the bounds of reasonable judgment in granting a permanent injunction rather than a remedy of damages.
+
+Held
+The Court of Appeals for the Seventh Circuit held that they would not rebalance the factors to determine which remedy was more satisfactory; instead they would review the district court’s judgment that they used to come to their conclusion and ensure that the judgment was reasonable.  In this case, the district court made a reasonable determination that a damages remedy for the remainder of the lease would be highly speculative and costly to determine, and if the costs to Plaintiff were higher than Defendant’s costs as the result of the injunction, then the market would naturally resolve the problem.
+
+Discussion
+The appellate court will not reexamine a final judgment to determine if they would come to the same conclusion.  The appellate court will only determine if the trial court exceeded their boundaries in their decision.
+

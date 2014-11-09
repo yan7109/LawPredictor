@@ -1,0 +1,21 @@
+Citation
+22 Ill.196 F.R.D. 444 (S.D.N.Y. 2000)
+
+Brief Fact Summary
+A first Defendant, former Sotheby’s chairman Alfred Taubman, is moving to compel a second Defendant, Christie’s International, to respond to Tauman’s interrogatories concerning notes that were handwritten by Christie’s former CEO, Christopher Davidge.
+
+Synopsis of Rule of Law
+Federal Rules of Civil Procedure 33(a) requires that a party served with an interrogatory to respond with all information that is available, which includes information that they could compel from a third party.
+
+Facts
+During discovery regarding antitrust litigation, Christie’s turned over handwritten notes from Davidge’s files.  The notes were potentially important in proving an alleged conspiracy, but the notes contained many abbreviations, symbols and pronouns lacking an antecedent.  Taubman therefore submitted an interrogatory to Christie’s to get Davidge to explain the notes.  Davidge was no longer employed with Christie’s, but in his termination agreement, which entitled him to a $5 million payout, he agreed to provide any information to Christie’s concerning his employment.  The agreement also indemnified Davidge in future lawsuits regarding his employment.  He was still owed $2 million towards that agreement.  Taubman argued that Christie’s could use the agreement to compel Davidge to comply.  Christie’s argued that this did not fall under the agreement, and that Davidge would not want to do so for fear of incriminating himself.
+
+Issue
+The issue is whether Christie’s is obligated to further compel Davidge to respond to the interrogatory.
+
+Held
+The court held that per the Federal Rules of Civil Procedure 33(a), Christie’s had an obligation to respond with all information that is available, and that includes information that they could obtain.  In the court’s opinion, Christie’s had yet to use all the means at its disposal to force Davidge to comply.  They could withhold the $2 million still owed Davidge, or they could refuse to indemnify him since he would be in violation of the agreement.  The court analogized it to blocking statutes and explained that there was no countervailing reason to prevent the interrogatory.  There was also little concern over Fifth Amendment rights since the court was already granting immunity and it was doubtful that it would protect him from civil litigation.
+
+Discussion
+The court noted that Christie’s was motivated to prevent Davidge from responding because they were the party that would be most damaged by his answers, and therefore gave less weight to Christie’s concerns for Davidge’s rights.
+

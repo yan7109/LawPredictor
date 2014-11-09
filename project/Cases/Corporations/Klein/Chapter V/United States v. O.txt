@@ -1,0 +1,21 @@
+Citation
+521 U.S. 642
+
+Brief Fact Summary
+Respondent, James O’Hagan, was an outsider who had access to confidential information, and he profited from the information at the expense of the company and other shareholders.  The Securities and Exchange Commission (SEC) accused Respondent of Section:10(b) and Section:14(e) violations.
+
+Synopsis of Rule of Law
+An outsider who misappropriates confidential information to personally benefit violates Section:10(b) because there is deception in connection with the purchase or sale of a security.
+
+Facts
+Respondent was a partner in a law firm, Dorsey & Whitney, which was representing a company that was potentially tendering an offer for common stock of the Pillsbury Company.  Respondent was not personally involved in the representation, but he was aware of the transaction enough to know that if he purchased Pillsbury securities now that they would increase in value once the offer went through.  Respondent was going to use the profits from this transaction to replace money that he embezzled from the firm and its clients.  After the offer went through, he made a $4.3 million profit.  The SEC investigated Respondent’s transactions and claimed he violated Section:10(b) and Section:14(e) for misappropriating confidential information.  A jury convicted Respondent.
+
+Issue
+There are two issues regarding Section:10(b) and Section:14(e).
+
+Held
+Respondent did violate Section:10(b) and Rule 10b-5 because all of the element of the rule were met.  Respondent did use deceit in connection with the purchase of securities.  He did not disclose to the firm or the client that he was using the nonpublic information, and his use of it was at the expense of the client.  He did not necessarily have to deceive the seller in order to violate the Rule.  As a matter of public policy, it would not make sense to limit the scope of the Act to only prohibit certain kinds of activities that endanger a fair market. Rule 14e-3(a) did not exceed the SEC’s rule-making authority.  Again, the purpose of the Act is to provide safeguards to ensure that the market is operating fairly and that investors can rely on the market.  Rule 14e-3(a) does not require a demonstration of a breach of duty in order to find a party liable for violations of the Act.  There will be instances where justice would deem this appropriate, such as in this case.Concurrence. The concurring opinions did not agree with the logic of the majority’s test regarding Section:10(b)’s “in connection with” requirement, i.e. “deception in connection with the purchase or sale of securities.” The majority held that the deceit occurred just as Respondent intended to misappropriate the information, while the concurring opinion believed that it would not occur until Respondent actually made the securities transactions.<br />
+
+Discussion
+The Court has now reversed the decision in Dirks v. Securities & Exchange Commission, or at least distinguished it, by not requiring a breach of a fiduciary duty as called for in Section:14e-3(a).  The court stresses their concern to uphold the public policy behind the Act, namely to ensure the fairness of the market.
+

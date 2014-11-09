@@ -1,0 +1,18 @@
+Brief Fact Summary
+Plaintiff, a four year-old child, was injured while playing on dangerous equipment owned and operated by Defendant, a railroad company. Despite the fact that Defendant had rules requiring the equipment to be locked and inaccessible to members of the public, Plaintiff was able to access it when he discovered it. Plaintiff was injured while playing on the equipment, and sued for negligence.
+
+Synopsis of Rule of Law
+With respect to dangerous instrumentalities, the character, location, and utility of the instrumentality as well as the ease of making it safer must be taken into account in determining what degree of precaution is necessary so as not to be negligent.
+
+Facts
+Defendant owned and operated railroad equipment. Defendant had guidelines requiring that dangerous railroad equipment remain locked when not in use, but these guidelines were frequently ignored. When the Plaintiff came upon such equipment owned by the Defendant, it was unlocked and the Plaintiff was injured while playing on it. Trial resulted in a verdict for the Plaintiff, and the Defendant appealed.
+
+Issue
+Was the Defendant negligent in failing to safeguard against the Plaintiff’s injuries?
+
+Held
+Probably. When, under all relevant circumstances, one fails to take such precautions as would one of reasonable prudence, he has acted negligently and is liable for the damages resulting from that negligence. In this case, the use of a lock to prevent public access to the equipment is such a minimal restriction upon the equipment’s utility that the failure to keep such a lock in place likely amounted to negligence. However, the trial judge improperly commented upon the evidence, necessitating a new trial.
+
+Discussion
+The Court tackles the difficult issue of the appropriate standard of care with respect to inherently dangerous but necessary instrumentalities of business. The Court determines that the appropriate approach is to analyze the character, location, and utility of the instrumentality as well as the ease of making it safer. One is negligent when, under all relevant circumstances, he has failed to take such precautions, as would one of reasonable prudence.
+

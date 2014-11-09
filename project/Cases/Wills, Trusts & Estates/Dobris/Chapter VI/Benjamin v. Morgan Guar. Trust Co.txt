@@ -1,0 +1,21 @@
+Citation
+202 A.D.2d 536, 609 N.Y.S.2d 276 (App Div, 2d Dept 1994)
+
+Brief Fact Summary
+Plaintiffs argued that the appointments, made by Decedent Henry Roger’s (Decedent) widow and beneficiary of the marital trust, of the remainder of the marital trust to the two hospital intervenors, were invalid because the appointments were made pursuant to an agreement with the trustee and were in contravention of the testator’s intention when he created the power of appointment, and therein violated New York estate law. Plaintiffs appealed a lower court finding in favor of Defendant trustee, Morgan Guaranty Trust Company of New York (Defendant).
+
+Synopsis of Rule of Law
+Although a contract which limits or directs how a power of appointment may be exercised is proscribed and unenforceable, any appointment made pursuant to a contract which otherwise complies with the scope of the power of appointment is not rendered invalid by virtue of the existence of the contract.
+
+Facts
+Plaintiffs argued that the appointments, which were made by Decedent’s widow and beneficiary, were invalid because the appointments were contrary to the testamentary intent of Decedent. Plaintiffs claimed that the appointments, made of the remainder of the marital trust, to the two hospital intervenors, were made pursuant to an agreement with the trustee, were contrary to the intention of Decedent when he created the power of appointment, and invalid by reason of New York Estate Powers and Trusts Law Section: 10-5.3.
+
+Issue
+Is an appointment made pursuant to a contract that grants a general power of appointment and which limits or directs how a power of appointment may be exercised, but otherwise complies with the scope of the power of appointment invalid by virtue of the existence of the contract?
+
+Held
+No. The will creating the marital trust granted a general power of appointment to Decedent’s widow upon her death and the appointments are within the scope of power of appointment. Although it is true that Section: 10-5.3(a) proscribes entering into a contract that would limit or direct how a power of appointment might be exercised, and such a contract is unenforceable, any appointment made pursuant to such a contract that otherwise complies with the scope of the power of appointment is not rendered invalid by virtue of the existence of the contract. Therefore, the lower court properly ruled for Defendant in finding the appointments valid.
+
+Discussion
+Typically, courts hold that when a power is special, a donee’s contract to appoint is unenforceable, at least so long as the contract benefits someone outside the class of permissible appointees. On the other hand, when a power is general, courts have held that a contract to appoint is enforceable, given that it is presently exercisable. If the power is not presently exercisable, the assumption is that the donor wanted to permit the donee to retain discretion until some point in the future, when more circumstances relating to the appointment would have unfolded.
+

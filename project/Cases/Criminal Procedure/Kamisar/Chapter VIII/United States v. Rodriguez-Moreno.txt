@@ -1,0 +1,24 @@
+Citation
+526 U.S. 275, 119 S. Ct. 1239, 143 L. Ed. 2d 388 (1999)
+
+Brief Fact Summary
+Respondent, Rodriguez-Moreno, was convicted of kidnapping in violation of 18 U.S.C. Section:942 (C)(1), which proscribes using or carrying a firearm during a crime of violence.  He sought to have the firearm portion of his conviction dismissed, for lack of venue, due to the fact that he crossed several jurisdictions and only used the firearm for a short period of time in the last jurisdiction.
+
+Synopsis of Rule of Law
+When a firearm is used in the commission of a crime of violence, venue is proper in any jurisdiction where that crime occurs.
+
+Facts
+Respondent was hired by a drug distributor to find a dealer who stole cocaine from the distributor while holding captive the middleman.  In pursuit of the dealer, Respondent took the victim from Texas to New Jersey, to New York, and finally to Maryland, where he took possession of a revolver and threatened to kill the victim.  In that jurisdiction the victim got away and called the police.  Respondent was charged with kidnapping in violation of 18 U.S.C. Section:942 (C)(1), which proscribes using or carrying a firearm during a crime of violence.  He moved to dismiss this count for lack of venue because the U.S. could not prove he used a firearm in other jurisdictions.
+
+Issue
+When prosecuting under 18 U.S.C. Section:942 (C)(1) is jurisdiction only proper where the firearm was used or carried?
+
+Held
+Because the law specifically considers firearms that are used during the commission of a violent crime, venue is proper anywhere the crime occurred, whether or not the firearm was used therein.
+
+Dissent
+Justice Scalia dissented, maintaining that under the 6th Amendment, the defendant has a right to be tried in the State and district where his crime was committed and, because all parties agree he did not use a gun during the kidnapping, that charge should be dismissed.
+
+Discussion
+When a weapon is used in furtherance of a violent crime, federal law transcends state boundaries to allow the charge to be sustain
+

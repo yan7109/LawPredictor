@@ -1,0 +1,21 @@
+Citation
+463 So. 2d 218 (Fla. 1985)
+
+Brief Fact Summary
+Petitioner argues that she should be able to obtain an order for the garnishment of Respondent-beneficiary’s spendthrift trust for unpaid alimony, future alimony payments, and attorney’s fees.
+
+Synopsis of Rule of Law
+The payment of alimony and child support is paramount to the public policy behind upholding spendthrift provisions; therefore garnishment of a spendthrift trust should be allowed when traditional methods of enforcement of arrearages are insufficient.
+
+Facts
+Petitioner Adriana Bacardi and Respondent Luis Bacardi were married for two years and had no children.  The final judgment dissolving their marriage incorporated an agreement that Respondent pay Petitioner alimony of $2000 per month until either party’s death or until Petitioner remarried.  Respondent stopped paying alimony and Petitioner obtained two judgments for unpaid alimony and a third judgment for attorney’s fees.  In execution of the judgments Petitioner served a writ of garnishment on Robert White as trustee of a spendthrift trust created by Respondent’s father for the benefit of his son.  In addition Petitioner sought a continuing writ of garnishment for future alimony payments.  The district court held that Petitioner could not reach the trust income for alimony before it reached the Respondent-beneficiary unless she could show that it was the settlor’s intent that she be a beneficiary.
+
+Issue
+Whether disbursements from spendthrift trusts can be garnished to satisfy court ordered alimony or child support and attorney’s fee payments before such disbursements reach the debtor- beneficiary?
+
+Held
+Yes.  Reversed and Remanded.  Disbursements from spendthrift trusts may be garnished to enforce court orders or judgments for alimony and child support before such disbursements reach the debtor-beneficiary in certain limited situations.  In addition an order or judgment for attorney’s fees awarded as part of the divorce may be collected in the same way.
+
+Discussion
+The majority had to weigh competing public policies.  There is long held policy of recognizing the validity of spendthrift trusts as useful instruments to protect beneficiaries from their financial inabilities while providing for their support.  However the majority in this case saw as paramount the enforcement of awards for alimony and child support.  They caution that this method of enforcement is only available as a last resort when all other traditional methods yield an unjust or inequitable result.
+

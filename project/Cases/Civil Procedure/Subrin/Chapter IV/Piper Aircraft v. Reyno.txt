@@ -1,0 +1,21 @@
+Citation
+54 U.S. 235, 102 S. Ct. 252, 70 L. Ed. 2d 419 (1981).
+
+Brief Fact Summary
+Following an airplane crash in Scotland that killed 6 people, a legal secretary followed a products liability suit in California against the airplane’s manufacturer. The manufacturer moved to dismiss the suit on grounds of forum non conveniens.
+
+Synopsis of Rule of Law
+The possibility of change in substantive law should not be given conclusive or even substantial weight in a forum non conveniens inquiry.
+
+Facts
+In 1976 a small commercial aircraft crashed in the Scottish highlands. The pilot and five passengers, all Scottish subjects and residents, were killed. The heirs and next of kin of all 6 victims were all also Scottish.  The aircraft was manufactured in Pennsylvania by petitioner Piper Aircraft Co.  The aircraft was owned and operated by a Scottish air taxi service.  In July, 1977 a California probate court appointed Defendant Gaynell Reyno administratrix of the estates of the five passengers Defendant was not related to any of the passengers; she was merely the legal secretary to the attorney who filed this lawsuit.  Several days after her appointment, Defendant commenced separate wrongful death actions against Plaintiffs Piper and Hartzell in California superior court claiming negligence and strict liability.  Defendant admitted that suit was filed in the U.S., as opposed to Scotland, because of its more favorable laws regarding liability and damages.  Plaintiffs first remove
+
+Issue
+Whether a change in substantive law between venues is a sufficient reason for denying a motion to dismiss on grounds of forum non conveniens.
+
+Held
+The Court of Appeals erred in holding that plaintiffs may defeat a motion to dismiss on the ground of forum non conveniens merely by showing that the substantive law that would be applied in the alternate forum is less favorable to the plaintiffs than that of the present forum. The possibility of change in substantive law should not be given conclusive or even substantial weight in the forum non conveniens inquiry. A plaintiff’s choice of forum is given greater weight when the plaintiff has chosen the home forum.
+
+Discussion
+Although the Supreme Court of the United States rejected the argument that the motion to dismiss should be denied because the law in other forums would be less favorable to the plaintiff, it did however acknowledge that if the alternative forum was so clearly inadequate that it would offer no remedy at all, then the change in substantive law might be grounds for denying the motion.
+

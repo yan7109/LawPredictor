@@ -1,0 +1,21 @@
+Citation
+477 U.S. 317, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986)
+
+Brief Fact Summary
+The Respondent, Mrs. Catrett, (Respondent) brought a negligence, breach of warranty, and strict liability lawsuit against 15 named companies including the Celotex Corp. (the Petitioner), claiming that the death of her husband was due to his exposure to products containing asbestos manufactured or distributed by the companies.
+
+Synopsis of Rule of Law
+Federal Rules of Civil Procedure Rule 56(c) (FRCP Rule 56(c)) mandates summary judgment must be entered, after adequate time for discovery and upon motion, against a party who failed to show sufficient evidence to establish the existence of an element essential to that party’s case and on which that party will bear the burden of proof at trial.
+
+Facts
+Respondent brought suit against a number of named defendants including the Petitioner, alleging that her husband’s death was facilitated by exposure to products containing asbestos that were manufactured by the Petitioner and defendants. At trial, Petitioner’s summary judgment motion stated that Respondent could produce no evidence that Petitioner’s products were the proximate cause of any injuries and further, that she could produce no witnesses to attest otherwise. Respondent then produced three documents which she claimed demonstrated a genuine material fact dispute. Respondent also argued the documents established the decedent had been exposed to the Petitioner’s asbestos products. The documents included a deposition of the deceased, a letter from an official of one of the decedent’s former employers, whom Petitioner planned to call as a trial witness and a letter from an insurance company to the Respondent’s attorney. The Petitioner argued the documents were inadmissible
+
+Issue
+Whether summary judgment could be entered against a party who failed to make a showing of any evidence to support an issue of triable fact, of which he or she has the burden of proving at trial.
+
+Held
+Yes. The position taken by the Court of Appeals was inconsistent with the standard for summary judgment set forth in Rule 56(c) of the Federal Rules of Civil Procedure. Reversed and remanded.
+
+Discussion
+The Respondent in this case had the burden of showing that Petitioner had some hand in causing her husband’s death and could only proceed with her claim upon some evidence of this. She was unable to meet this burden because the evidence she sought to present was inadmissible hearsay. Absent any other showing, Respondent could not prove that there existed any issues of triable fact. Petitioner’s ability to show this would be a basis for the granting of a summary judgment motion.
+

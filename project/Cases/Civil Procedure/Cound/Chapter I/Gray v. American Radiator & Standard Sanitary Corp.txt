@@ -1,0 +1,21 @@
+Citation
+22 Ill. 2d 432, 176 N.E.2d 761,1961 Ill.
+
+Brief Fact Summary
+Plaintiff sued Defendants in Illinois state court on the grounds that a hot water heater and a valve manufactured by Defendants were defective and caused injury to Plaintiff. The defendant that manufactured the valve moved to dismiss for lack of jurisdiction because it did not do any business in Illinois nor cause the valve to be in Illinois. The trial court dismissed and Plaintiff appealed.
+
+Synopsis of Rule of Law
+The constitutionality of a long-arm statute is determined by looking at whether the “minimum contacts” test is satisfied and then looking to the reasonableness of notice under the statute. When the statute covers a particular event and that event both relates to the case and occurred in the forum state, the event satisfies the “minimum contacts” test needed to establish specific personal jurisdiction.
+
+Facts
+Gray (Plaintiff) suffered personal injuries due to the explosion of a hot water heater. Plaintiff sued Titan Valve Manufacturing Company, a foreign corporation, for negligently constructing a piece of the heater, and also sued a American Radiator & Standard Sanitary Corp, the manufacturer of the heater, in Illinois state court. Titan Vavle filed a motion to dismiss on the ground that it did no business in the state of Illinois when it sold its parts to American Radiator. American Radiator filed a cross-claim against Titan Valve seeking indemnification. Under Illinois’ long-arm statute, when a defendant commits a tortious act within the state, the defendant is subject to personal jurisdiction in Illinois. Titan Valve argued that the “tortious act” allegedly committed refers to the negligent act and not where Plaintiff was injured. The complaint and the cross claim was dismissed by the trial court because the trial court found that Illinois did not have jurisdiction. Plaintiff appealed.
+
+Issue
+Is the term “tortious act” under the state long-arm statute the place where the tortious conduct took place as opposed the place where the injury occurred?   Can a corporation be held liable for negligence regarding defects in products manufactured by them in a state where its products were used, rather than where the products were manufactured and/or sold?
+
+Held
+First issue: no. Second issue: yes. Reversed and remanded.   The term “tortious act” under the state long-arm statute refers to where the injury occurred, not where the behavior occurred. Because the injury occurred in Illinois, Titan Valve falls within the provisions of the long-arm statute.  The long-arm statute must still pass the test articulated in International Shoe Co. v. Washington, 326 U.S. 310, 66 S.Ct. 154, 90 L.Ed. 95 (1945)]: the defendant must have minimum contacts with the state and the statute    must place the defendant on notice that it could be subject to jurisdiction for certain actions.  It is sufficient if the act or transaction sued on has a substantial connection to the state itself, The activity giving rise to jurisdiction does not have to be continuous. Look less at territorial limitations, and more to reasonableness of notice.  The products were sold and Titan Valve could reasonably presume that they would be used in Illinois. Titan Valve benefited from laws regulating the sale of hot water heaters in Illinois. Most of the witnesses, injuries, and evidence will be obtained from Illinois so it is reasonable that the proceedings take place in Illinois.
+
+Discussion
+Long-arm statutes providing for personal jurisdiction over defendants that commit “tortious” acts within the forum state will give jurisdiction over the defendant only for lawsuits relating to those acts. The “tortious act” can be the injury as opposed to the alleged tortious conduct because the injury is considered the end result.
+

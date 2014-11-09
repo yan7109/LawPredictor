@@ -1,0 +1,21 @@
+Citation
+22 Ill.757 P.2d 62, 3 IER Cases 796 (Alaska 1988)
+
+Brief Fact Summary
+Data Management, Inc. (Plaintiff) sued James H. Greene (Defendant) and Richard Van Camp (Defendant) for violating an anti-competition clause in their employment contracts. The court granted Defendant’s summary judgment, from which judgment the Defendant appeals.
+
+Synopsis of Rule of Law
+An overbroad anti-competition covenant can be reasonably altered to render it enforceable as long as the covenant was drafted in good faith.
+
+Facts
+Plaintiff employed Defendants. The parties signed a contract containing a covenant not to compete. Specifically, the covenant states that the employees will not compete with Plaintiff in Alaska for five years after termination. Plaintiff filed suit against the Defendants for breach of the covenant not to compete. Plaintiff sought a preliminary injunction enjoining Greene and Van Camp, which was granted. The court granted summary judgment to Greene and Van Camp, finding that the anti-competition covenant was not severable and was unenforceable. Defendant appeals.
+
+Issue
+Whether an overly broad covenant not to compete can be altered to render it legal?
+
+Held
+Remanded to determine whether Plaintiff acted in good faith and if so whether the anti-competition covenant can be reasonably altered.
+
+Discussion
+A large source of illegality cases has been the covenant not to compete involving the promise of a vendor of a business not to compete with the purchaser or the promise of an employee not to compete with his or her employer after termination of the employment.
+

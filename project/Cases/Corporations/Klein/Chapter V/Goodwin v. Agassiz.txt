@@ -1,0 +1,21 @@
+Citation
+283 Mass. 358, 186 N.E. 659 (1933)
+
+Brief Fact Summary
+Plaintiff, Homer Goodwin, brought a suit against Defendant, Rodolphe Agassiz, after Defendant used information not disclosed to Plaintiff when buying Plaintiff’s shares in Cliff Mining Company.
+
+Synopsis of Rule of Law
+A purchaser of stock on the market does not owe a fiduciary duty to a seller to disclose the information that the purchaser may know, even when the purchaser is in a position that provides insider information.
+
+Facts
+Plaintiff owned shares in Cliff Mining Company, a mineral mining company, and Defendant was President of Cliff Mining.  Using a geological survey, Cliff Mining conducted initial explorations to find copper, but were unsuccessful.  An article was published, independent and unconnected to Defendant, which disclosed the failure of the initial exploration.  Plaintiff reacted to this news by selling his shares.  Unbeknownst to Plaintiff, Defendant was informed by a geologist that there was still a good probability that copper would be found.  Defendant reacted by buying shares before this news became public.  Plaintiff sought damages from Defendant, claiming Defendant, as president of the company and the purchaser of Plaintiff’s shares, owed Plaintiff a fiduciary duty.
+
+Issue
+The issue is whether Defendant, as president and the purchaser of Plaintiff’s shares, owed Plaintiff a duty to disclose information that would affect the value of the shares.
+
+Held
+The Supreme Judicial Court of Massachusetts held that Defendant did not owe Plaintiff a fiduciary duty to disclose what Defendant knew.  First, Defendant did not buy the shares from Plaintiff directly – they were purchased through a broker.  Second, the information did not disclose an absolute certainty that copper would be found, but rather was only an opinion.
+
+Discussion
+The court believed that the facts of this case did not disclose a direct relationship between the parties that would have made a full disclosure necessary.  The opinion does not concentrate on whether Defendant was unfairly benefiting from the information but just whether Plaintiff unfairly lost his shares.
+

@@ -1,0 +1,21 @@
+Citation
+2001 Del. Super. 44 U.C.C. Rep. Serv. 2d (Callaghan) 801 .
+
+Brief Fact Summary
+Outdoor Technologies, Inc., (Petitioner), brought suit for breach of a contract to which it was a third party beneficiary, fraud, negligent misrepresentation, and civil conspiracy against Allfirst Financial Center, N.A. f/k/a First Omni Bank, N.A., Allfirst Financial, Inc, f/k/a Maryland Bankcorp and Allfirst Bank f/k/a First National Bank of Maryland, (Respondents). Petitioner appeals from a judgment granting Respondents summary judgment.
+
+Synopsis of Rule of Law
+A duty of disclosure will arise when the parties are in the midst of a “business relationship” from which they expect to derive “pecuniary” benefits.
+
+Facts
+Petitioner manufactures and distributes garden accessories and other related goods. Petitioner accepted a check for $706,735.62 from Hechinger, a retailer, as delayed payment for goods. That check was drawn on Hechinger’s account with First Omni Bank, although it mistakenly indicated on the face of the check that it was drawn on an account with First National Bank of Maryland. Knowing that Hechinger was on the verge of filing for bankruptcy, Petitioner sent a representative, John Hurt, to First National Bank of Maryland to secure immediate payment on the check through a wire transfer.
+
+Issue
+Whether there is evidence to support the contention that First Omni Bank’s representative made false statements to Petitioner’s representative. Whether First Omni Bank had a duty of disclosure.
+
+Held
+No. The only evidence that First Omni Bank had no intent to negotiate the check is that it actually refused to do so and that is consistent with both an honest and dishonest intent. No. Petitioner has failed to identify what pecuniary interest First Omni Bank might have been protecting as required to establish a duty of disclosure.
+
+Discussion
+The evidence does not support the contention that William Thomas made any false statements. William Thomas’s statements were about future events. Only when such statements are made with the present intent not to perform will courts endorse a fraud claim. Here the only evidence to support a present intent not to perform is the future failure to perform. A mere failure to perform is as consistent with an honest intent as with a dishonest one. Further, there is no evidence that William Thomas deliberately concealed material facts. John Hurt did not carry any evidence of authorization from Petitioner at the time he met with William Thomas. In fact the topic of what might constitute “proper authorization” was never broached. Petitioner claims that First Omni Bank negligently misrepresented facts by omission. One who fails to disclose to another a fact that he knows may justifiably induce the other to act or refrain from acting in a business transaction is subject to liability if he is under a duty to the other to exercise reasonable care to disclose the matter in question. Although contractual privity may not be required to form a duty, something more than a casual business encounter must be demonstrated before a duty of care will be imposed. A duty of disclosure arises when the parties are in the midst of a business relationship from which they expect to derive “pecuniary benefits.” Here Petitioner has failed to demonstrate that First Omni Bank had a pecuniary interest to protect in the course of its discussions with Petitioner’s representative. Therefore the court will not impose an affirmative duty of complete discloser upon the Respondents.
+

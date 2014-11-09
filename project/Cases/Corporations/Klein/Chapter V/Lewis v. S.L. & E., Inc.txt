@@ -1,0 +1,21 @@
+Citation
+629 F.2d 764 (2d Cir. 1980)
+
+Brief Fact Summary
+Plaintiff, Donald Lewis, brought a derivative suit against Defendants, the directors of S.L. & E, Inc. (SLE), for waste after Defendants did not raise the rent paid to SLE by a company, Lewis General Tires, Inc. (LGT), that Defendants also owned.
+
+Synopsis of Rule of Law
+Directors that have a conflict of interest in a corporate transaction have the burden to prove that no waste was committed.
+
+Facts
+Plaintiff and Defendant directors were brothers.  Their father left each of his children shares of SLE but only Defendants were shareholders of LGT.  The siblings that had only SLE shares agreed to sell their shares of SLE to Defendants at the June 1, 1972 book value.  Prior to that date, SLE, whose only asset was property, leased property to LGT.  The lease expired in 1966, but Defendants, who were directors of both LGT and SLE, never entered into a new lease nor increased the rent.  During that time, property taxes increased from $7,800 to $11,000 per year while rent stayed at $14,400 per year.  Defendants testified that they did not seriously think of SLE as a separate entity, but instead treated it as a shell for LGT.  When the agreement for the siblings to sell Defendants the remaining shares of SLE came due, Plaintiff brought this action of waste by Defendant directors for allowing LGT to pay a low rent.  Defendants countered to for the specific performance of Plaintiff
+
+Issue
+The issue is whether Defendants have the burden to prove that there was no waste in the transaction wherein there was a conflict of interest.
+
+Held
+The burden is on a party who has a conflict of interest in a transaction to prove that there was no waste.  Normally, the burden is high for the proof a complaining party has to offer to override a business judgment of a director, but when there is a conflict of interest, the burden is reduced.  Because Defendants did not offer proof that there was no other tenant willing to pay more, or that the value of the rent was fair, the lower court holding was reversed.
+
+Discussion
+Common law will void transaction where there is a conflict of interest unless the party can affirmatively demonstrate that it was a fair transaction.
+

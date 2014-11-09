@@ -1,0 +1,21 @@
+Citation
+99 Wis. 2d 708, 301 N.W.2d 156, 1981 Wisc.
+
+Brief Fact Summary
+Plaintiff underwent hip surgery at the defendant, Misericordia Community Hospital (the “defendant”).  During the surgery, Dr. Salinsky severed the femoral artery, resulting in partial paralysis.  Dr. Salinsky settled with plaintiff, and was apportioned 20% of the liability, while the defendant was apportioned the other 80%.
+
+Synopsis of Rule of Law
+Statements made by other doctors as to prior investigations conducted into the records of the doctor in this case, were not hearsay because they were offered to prove that information was available to defendant hospital, not to prove that the doctor was competent or incompetent.
+
+Facts
+Dr. Salinsky began working at the defendant after falsifying a number of statements on his application for privileges.  These falsehoods were not uncovered by an adequate review of those applications and, as a result, Dr. Salinsky was hired and later elected to chief of staff at the hospital.  Plaintiff then underwent surgery for the removal of a pin fragment in his hip, and during the surgery an artery was severed which resulted in partial paralysis of his leg.  Plaintiff settled with the doctor.  A jury later apportioned the defendant 80% of the liability, under a finding of corporate negligence.
+
+Issue
+Whether various records of other hospitals, as well as statements by other doctors regarding the application by Dr. Salinsky to other hospitals and their rejection of his application for privileges, was improperly admitted?
+
+Held
+No.  The statements were not hearsay, as they were not offered to prove the truth of the statements, but rather that those opinions existed, and should have been explored by the Defendant prior to their approving Dr. Salinsky’s application for surgical privileges.
+
+Discussion
+Evidence of Dr. Salinsky’s professional competence was properly admitted even though not all of the people responsible for compiling the reports or investigating the veracity of statements made by Dr. Salinsky were present for cross examination. Because the defendant made no attempt to subpoena those individuals, which was its prerogative, nor did the defendant attempt to disprove the facts contained in the reports, the reports and testimony were properly admitted to show what kind of evidence was available to the defendant to make its decision as to Dr. Salinsky’s surgical privileges at the hospital.
+

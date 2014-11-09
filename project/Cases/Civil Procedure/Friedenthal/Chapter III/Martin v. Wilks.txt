@@ -1,0 +1,24 @@
+Citation
+22 Ill.490 U.S. 755, 109 S. Ct. 2180, 104 L. Ed. 2d 835, 49 FEP Cases 1641 (1989)
+
+Brief Fact Summary
+White firefighters, nonparties to a consent decree, challenged a decree, which mandated affirmative action in the hiring and promotion of blacks as firefighters.
+
+Synopsis of Rule of Law
+A court mandated consent decree does not preclude a subsequent suit brought on the same issue by parties not present in the earlier action.
+
+Facts
+The Petitioners, the City of Alabama and the Jefferson County Personnel Board (Petitioners), had entered into a consent judgment with black firefighters setting goals for hiring blacks and promoting them. Subsequently, the Respondents, white firefighters (Respondents), nonparties to the aforementioned consent judgment, brought a reverse discrimination lawsuit against the Petitioners. The Petitioners responded that the consent decrees in the earlier suits brought by blacks mandated the procedures followed and precluded the current suit. The District Court held that the earlier consent decrees were a defense to the white firefighters’ suits, but the Court of Appeals reversed holding that because the white firefighters were not parties to the earlier litigation, their claims could not be precluded.
+
+Issue
+Whether a consent decree, which mandated affirmative action could preclude another suit challenging the validity of the subject matter brought by persons not party to the prior action.
+
+Held
+No. It is a principle of general application in Anglo-American jurisprudence that one is not bound by a judgment in personam in which he was not a party. This rule is part of our deep-seated tradition that everyone be afforded his day in court.
+
+Dissent
+Supreme Court Justices John Paul Stevens (J. Stevens), William Brennan (J. Brennan), Thurgood Marshall (J. Marshall) and Harry Blackmun (J. Blackmun) dissented. They argued that the Petitioners made a substantial step toward eradicating a long history of pervasive racial discrimination that had plagued its fire department. The District Court, after conducting a trial and carefully considering the Respondents’ arguments, concluded that this effort is lawful and should go forward. Because Respondents have thus already had their day in court and have failed to carry their burden, they would vacate the judgment of the Court of Appeals and remand.
+
+Discussion
+The Petitioners argued that because Respondents failed to intervene in the initial proceedings, their present challenge to the consent decrees constituted a collateral attack. The Supreme Court of the United States (Supreme Court) opined that a party seeking judgment binding on another could not obligate that person to intervene, rather that party needed to be joined as dictated by the Federal Rule of Civil Procedure (FRCP) 19. It accordingly calls for mandatory joinder in circumstances where a judgment rendered in the absence of a person may leave those persons who are already parties, subject to a substantial risk of incurring inconsistent obligations.
+

@@ -1,0 +1,21 @@
+Citation
+470 U.S. 532, 105 S. Ct. 1487, 84 L. Ed. 2d 494, 1 IER Cases 424, 118 LRRM 3041 (1985)
+
+Brief Fact Summary
+The Cleveland Board of Education (Board) hired James Loudermill (Respondent) in 1979 as a security guard. Respondent stated on his application that he had never been convicted of a felony; and the Board fired him when it discovered he had been convicted of grand larceny in 1968. Respondent filed suit in the Federal District Court for the Northern District of Ohio, alleging that he was denied of liberty and due process because he was not afforded notice and an opportunity to respond prior to removal.
+
+Synopsis of Rule of Law
+An essential principle of due process is that a deprivation of life, liberty or property be preceded by notice and opportunity for hearing appropriate to the nature of the case. The pretermination hearing, though necessary, need not be elaborate. “The formality and procedural requisites for hearing can vary, depending upon the importance of the interests involved and the nature of the subsequent proceedings.”
+
+Facts
+Respondent was dismissed because of his dishonesty in filling out his application. He was classified as a civil servant, pursuant to Ohio Rev. Code Ann. Section:124.11, and could only be dismissed “for cause” and could “obtain administrative review if discharged,” under Section:124.34. Respondent filed an appeal with the Cleveland Civil Service Commission (Commission), and argued that he thought his 1968 larceny conviction was a misdemeanor, not a felony. Reinstatement was recommended by the referee, but the full Commission upheld the dismissal. In District Court, Respondent alleged that Section:123.34 was unconstitutional on its face because it did not provide an employee with notice and an opportunity to respond prior to removal; and also unconstitutional as applied because discharged employees weren’t given prompt post-removal hearings. The District Court dismissed for failure to state a claim for which relief could be granted because the statute’s procedures were followed; held the post-termination hearing adequately protected Respondent’s liberty interests; and the delay in the administrative appeal was acceptable in light of the Commission’s crowded docket. The Court of Appeals, however, found that Respondent had been denied due process.
+
+Issue
+What pretermination process must be afforded a public employee who can be discharged only for cause?
+
+Held
+“All the process that is due is provided by a pretermination opportunity to respond, coupled with post-termination administrative procedures as provided by the Ohio statute.”   Respondent’s federal constitutional claim depended on having had a property interest in continued employment, which the Ohio statute clearly created. Some opportunity for the employee to present his side is of obvious value in reaching an accurate decision. Respondent had a plausible argument that may    have presented his discharge. The government interest in immediate termination did not outweigh the other interests.  However, since the statute afforded a full administrative hearing and judicial review after termination, all that was required before was the essential elements of due process: notice and an opportunity to respond.  Nine months was not an unconstitutional delay for the post-termination hearing.   Dissent.   Justice Rehnquist did not believe the conclusion that Ohio’s effort to confer a limited form of tenure upon its employees resulted in the creation of a property right in their employment.  Dissenting in part. Justice Brennan felt the record was insufficient to permit an informed judgment on the issue of the overlong delay.   Concurrence in part and concurrence in judgment. Justice Marshall would place a greater emphasis on the importance of an employee’s right to be heard before wages are cut off.
+
+Discussion
+The Court found the procedures set forth by the Ohio statute as sufficient, given the full administrative hearing it guaranteed after termination and the government’s interest in quickly removing an unsatisfactory employee.
+

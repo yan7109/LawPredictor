@@ -1,0 +1,24 @@
+Citation
+438 U.S. 726, 98 S. Ct. 3026, 57 L. Ed. 2d 1073, 1978 U.S.
+
+Brief Fact Summary
+The Supreme Court of the United States (Supreme Court) held that the Federal Communications Commission (FCC) may regulate radio broadcasts that are indecent, but not obscene after the FCC received a complaint from a listener who heard an indecent broadcast while driving with his son.
+
+Synopsis of Rule of Law
+A broadcast of patently offensive words dealing with sex and excretion may, under the First Amendment of the United States Constitution (Constitution), be regulated because of its content since such words offend for the same reasons obscenity offends and broadcasting is uniquely available to children.
+
+Facts
+In an afternoon weekday broadcast, the Respondent, Pacifica Foundation’s New York radio station (Respondent), aired a twelve-minute radio program called “Filthy Words” by George Carlan. This monologue contained indecent words, but warned of the content immediately before airing the show. A listener who was driving with his son complained about the indecent radio show. In response to the complaint, the Petitioner, the FCC (Petitioner), issued a Declaratory Order granting the complaint and holding that Respondent “could have been the subject of administrative sanctions.” However, the Petitioner did not issue formal sanctions. The Petitioner explained that its regulation of certain words depicting sexual and erectory activity was designed to channel them to “times of day when children most likely would not be exposed.” The Court of Appeals overturned the Petitioner’s Order.
+
+Issue
+Whether the Petitioner’s Declaratory Order violates the First Amendment of the Constitution?
+
+Held
+No. Judgment of the Court of Appeals reversed. There is no such absolute rule that the First Amendment of the Constitution prohibits all governmental regulation that depends on the content of speech. Here, the words at issue offend for the same reasons obscenity offends. Because the content of the radio show’s broadcast was “vulgar,” “offensive,” and “shocking,” that speech is not entitled to absolute conditional protection. Further, the context of the broadcast must be considered to determine whether the Petitioner’s action was constitutionally permissible. To say that one may avoid further offense by turning off the radio when he hears indecent language is inappropriate. Additionally, broadcasting is uniquely available to children especially during the time of day when the monologue was aired. Therefore, a broadcast of patently offensive words dealing with sex and excretion may, under the First Amendment of the Constitution, be regulated.
+
+Dissent
+The First Amendment of the Constitution protects the speech aired in the broadcast. The Supreme Court allows the government to prevent minors from gaining access to materials that are not obscene.
+
+Discussion
+Here the Supreme Court allows the government to rely on “captive audience” rationales when applied to the home.
+

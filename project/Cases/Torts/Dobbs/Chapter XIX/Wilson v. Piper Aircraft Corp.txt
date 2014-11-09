@@ -1,0 +1,21 @@
+Citation
+282 Or. 411, 579 P.2d 1287 (1978)
+
+Brief Fact Summary
+These are consolidated appeals from Circuit Court, Lane County (Oregon), where a jury returned sizeable verdicts for Plaintiffs, family members of deceased passengers of airplanes, who had filed claims against aircraft manufacturers alleging that a crash was caused by engine failure resulting from carburetor icing.
+
+Synopsis of Rule of Law
+Plaintiff’s burden in a design defect case includes a showing that there was an available alternative, safer design, practicable under the circumstances, or that in terms of cost, practicality and technological possibility, the alternative design was feasible.
+
+Facts
+Decedents died in an airplane crash, and surviving family members brought an action alleging that the crash was caused by engine failure resulting from carburetor icing, and that the deaths were caused in part by injuries that resulted from certain design features in the rear passenger compartment. Specifically, Plaintiffs contended, that the use of carburetor rather than fuel injection, and the absence of a carburetor heat gauge were fundamental defects in the plane’s design. They submitted evidence to support these allegations, and the jury found for Plaintiffs.
+
+Issue
+Did Plaintiffs submit sufficient evidence for a jury to make a determination as to whether Defendant should be held liable for defective design of its aircraft?
+
+Held
+The decision of the lower court was reversed and remanded, as Plaintiffs did not produce sufficient evidence that a reasonably prudent manufacturer who was aware of the risks of carburetor icing would not have designed this model of aircraft with a carbureted engine, or that substitution of a fuel injected engine was practicable.
+
+Discussion
+In the section addressing Products Liability, The Restatement (Third) of Torts (1997) provides an analysis that is functionally rather than doctrinally (classifying a claim as negligence, warranty, strict tort liability) based. Such an approach considers whether the claim alleges a 1) manufacturing defect; 2) a defect in design; or a 3) defect by reason of insufficient warnings or instructions. Product design often involves sophisticated, complex and/or highly technical issues, and challenging issues of proof arise. As the Wilson court pointed out, “[c]harges of defective design present special problems. One of those special problems is the nature, and necessary proof, of a defect in a product which reaches the consumer in precisely the condition intended by the designer/manufacturer.” A question then arises as to the degree of responsibility a manufacturer exercises in placing its product within the stream of commerce. The court explained, “[w]hen a design feature of a m
+

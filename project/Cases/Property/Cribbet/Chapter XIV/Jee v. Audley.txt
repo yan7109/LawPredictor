@@ -1,0 +1,21 @@
+Citation
+29 ER 1186, Volume 29
+
+Brief Fact Summary
+Action, brought by Plaintiff, to have a future interest, bequeathed by will, secured upon a stated condition of the will not occurring.
+
+Synopsis of Rule of Law
+This early version of the Rule against Perpetuities states that the limitations of a personal estate are void, unless they necessarily vest, if at all, within a life or lives in being and 21 years and 10 months afterwards.
+
+Facts
+A bequest in a will left the interest of 1000 pounds to his wife for use during her life and upon the wife’s death the interest would go to his niece. If the niece were to die without children, the remainder of the interest was to go to the living daughters of his kinsman’s Jee. The Plaintiffs, daughters of Jee (Plaintiffs), file an action to secure their benefit upon the condition that the grantor’s niece died without children. The court found the interest to the Plaintiffs was to remote, as the interest was not confined to daughters living at the death of the testator and could extend to after-born daughters, thus violating the time limitations of the Rule against Perpetuities.
+
+Issue
+Whether an interest created by a will vested in too remote a time period and was thus void?
+
+Held
+The interest is void as it was not certain to vest within 21 years after the death of some life at the creation of the interest.
+
+Discussion
+The Rule against Perpetuities is a rule that voids contingent interests that might vest too remotely. If a contingent remainder cannot be certain to vest within 21 years after the death of some person alive at the creation of the interest, the interest is void. The Rule against Perpetuities applies to contingent remainders, executory interests, and vested remainders subject to open
+

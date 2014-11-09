@@ -1,0 +1,21 @@
+Citation
+247 N.Y. 160, 159 N.E. 896 (1928)
+
+Brief Fact Summary
+The Appellate Division of the Supreme Court in the Third Judicial Department (New York) ruled in favor of Rensselaer Water Co., (Defendant) when H.R. Moch Co., (Plaintiff) in a negligence action, contended that defendant failed to provide enough water during a city fire. Plaintiff appealed.
+
+Synopsis of Rule of Law
+A member of the public may not maintain an action against one contracting with the city to furnish water at the hydrants, unless there is an intention that the defendant is to be answerable to individual members of the public as well as to the city for any loss ensuing from the failure to fulfill the promise.
+
+Facts
+Defendant had entered into a long-term contract with the city to supply water for various purposes, including for fire hydrants. During the course of the contract, a building caught fire. The flames spread to a nearby warehouse, owned by Plaintiff, destroying the warehouse and all it contained. Plaintiff brought suit, seeking negligence damages, contending that Defendant breached its duty of care within the city. The trial court denied Defendant’s Motion to Dismiss. The appellate court reversed, stating that while a duty existed between Defendant and the city, Plaintiff had no legally recognized interest.
+
+Issue
+Did Defendant’s duty to the city extend to Plaintiff as an individual member of the public?
+
+Held
+No. The Court of Appeals of New York affirmed the lower court’s ruling, stating that pursuant to the local statute, Defendant was never intended to be held liable for incidental damages from performing its services.
+
+Discussion
+The issue addressed in H.R. Moch hinges on the degree of duty owed to a third party pursuant to a public contract. This is often referred to as privity, or a party’s legally recognized interest. As the court explained with respect to the rights of individual citizens affected by public contracts, “[f]or a member of the public to maintain a suit against one contracting with the city, the contract must be shown to give a right of action to a member of the public not formally a party. The benefit must be one that is not merely incidental and secondary. It must be primary and immediate in such a sense and to such a degree as to bespeak the assumption of a duty to make reparation directly to the individual members of the public if the benefit is lost.”
+

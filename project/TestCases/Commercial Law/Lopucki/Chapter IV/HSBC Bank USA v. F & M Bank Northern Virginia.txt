@@ -1,0 +1,21 @@
+Citation
+246 F.3d 335, 2001 U.S. App. 5588,44 U.C.C. Rep. Serv. 2d (Callaghan) 319
+
+Brief Fact Summary
+HSBC Bank USA, (Respondent) brought suit against F & M Bank Northern Virginia, (Petitioner) for breach of presentment warranty under U.C.C. Section:4-208(a)(2). Petitioner appeals judgment for Respondent.
+
+Synopsis of Rule of Law
+A company has exercised ordinary care in writing a check if the company has filled in the spaces sufficiently such that any alteration that was made was obvious.
+
+Facts
+Donald Lynch purchased a check from Allied Irish Bank. The check was for $250 U.S. dollars payable to Advance Marketing and Investment. Prior to deposit, the check was altered without authorization to make the amount $250,000. This was done by adding zeros to the end of the numerical 250 and by adding the abbreviation “Thoud” to the end of the written 250. Advance Marketing and Investment deposited the check into its account with Petitioner. Respondent paid $250,000 to Petitioner on the check. Subsequently, Allied Irish Bank informed Respondent of the unauthorized alteration. Respondent credited Allied Irish Bank for the difference and brought this suit against Petitioner. Petitioner asserted the affirmative defense that Allied Irish Bank, the issuer of the check, failed to exercise ordinary care in preparing the check and such failure contributed to the unauthorized alteration of the check.
+
+Issue
+Whether the district court’s finding that Allied Irish Bank exercised ordinary care in making out the check is clearly erroneous.
+
+Held
+No. The district court’s factual finding that Allied Irish Bank exercised ordinary care in making out the check is not clearly erroneous.
+
+Discussion
+Reviewing a copy of the check reveals that the district court’s rationale is logical. Since the written portion of the check contained enough writing such that the alteration could only be accomplished with the “scrawled up” abbreviated form of the word thousand, ordinary care was exercised in making out the check.
+

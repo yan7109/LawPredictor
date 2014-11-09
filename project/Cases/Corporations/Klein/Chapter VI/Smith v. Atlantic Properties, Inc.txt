@@ -1,0 +1,21 @@
+Citation
+12 Mass. App. Ct. 201, 422 N.E.2d 798 (App. Ct. 1981)<br />
+
+Brief Fact Summary
+Defendants, Atlantic Properties, Inc. and minority shareholder Dr. Louis Wolfson, appealed a trial court ruling that prevented Wolfson from vetoing dividend payments and required him to pay the tax fees assessed against the company.
+
+Synopsis of Rule of Law
+Minority shareholders owe majority shareholders a fiduciary duty in the same manner that majority owners owe minority shareholders, and therefore the majority can seek judicial intervention for decisions that are unjustifiable for the corporation’s interests.
+
+Facts
+Wolfson offered the three Plaintiffs, Paul T. Smith et al., to go in equal shares in the purchase and development of some real estate.  The partners formed Atlantic Properties with each party becoming a 25% shareholder, and Atlantic then bought the property in 1951.  The corporate by-laws provided that any proposals had to be approved by at least 80% of the directors, meaning that in real terms for the group of four there would need to be a unanimous vote.  The corporation was profitable every year through 1969 but dividends were only paid in 1964 and 1970.  Because so much of the value of the company was in cash, the Internal Revenue Service assessed penalty taxes in seven different years for the accumulation of the money.  Wolfson was the lone dissenter for the voting for dividends, and his vote was enough to defeat the proposals under the 80% plan in the by-laws.  Wolfson maintained that he wanted the money for improvements to the property, and Plaintiffs asserted that he w
+
+Issue
+The issue is whether Wolfson owes Plaintiffs the same fiduciary duty a majority would owe a minority shareholder.
+
+Held
+The court held that the determining factor for the fiduciary duty owed is whether a party would be considered a controlling party.  Because Wolfson was the controlling party in that he alone prevented the dividend payouts despite no real business justification, the court affirms that a fair dividend should be declared.  Wolfson was unreasonable and did not demonstrate utmost good faith and loyalty to the business.
+
+Discussion
+The court had no problem with the by-law provision that allowed for a minority to veto dividends, but rather in the manner in which he utilized his powers to unreasonably prevent the allowance dividends in the face of tax penalties.
+

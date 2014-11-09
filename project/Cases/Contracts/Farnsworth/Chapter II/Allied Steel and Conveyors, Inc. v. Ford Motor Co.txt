@@ -1,0 +1,21 @@
+Citation
+277 F.2d 907, 1960 U.S. App. 4598
+
+Brief Fact Summary
+Allied employee performing installation on Ford’s premises was injured due to the negligence of Ford employees. Allied had executed a purchase order that contained and indemnity form making Allied liable for Ford’s negligence in connection with Allied’s work. The work commenced and the injury occurred months before the indemnity provision was acknowledged.
+
+Synopsis of Rule of Law
+If a form of acceptance is plainly worded in suggestive language, then the offeree may accept in another manner, such as commencement of performance and be bound by the offer’s stated terms.
+
+Facts
+First purchase order contained indemnity provision which narrowly applied to damages caused by the Negligence of Allied’s employees. It attached a broader indemnity form page which would make Allied also responsible for the negligence of Ford employees in connection with the work. This page was marked VOID. Amendment 2 to Purchase order contained same provision and attached same additional indemnity form which this time was not marked VOID. But also contained the additional language that “acceptance should be executed on acknowledgement copy which should be returned to the buyer.” Employee was injured several months before the acknowledgement copy of the second purchase order was executed, but was in the course of performing work related to the second purchase order.
+
+Issue
+Whether Allied is liable under the broader indemnity provision even though it did not execute the acknowledgement copy until several months after the employee sustained his injury.
+
+Held
+Ford’s amendment gave a suggested mode of acceptance which did not preclude Allied’s acceptance by another method. Allied accepted when Allied undertook performance of the work called for by the amendment with the “consent and acquiescence” of Ford. Also, it was well settled that “part performance” would complete the contract.
+
+Discussion
+Allied accepted by commencing work and could not claim that it had not accepted the terms in contradiction of that act of acceptance. There was also a settled rule that part performance would complete a contract.
+

@@ -1,0 +1,21 @@
+Citation
+623 F.2d 422 (6th Cir. 1980)
+
+Brief Fact Summary
+Peat, Marwick & Mitchell (Defendants) failed to state in a proxy solicitation that a corporation attaining control of Standard Knitting Mills (Defendant) via shareholder authorization, Chadbourn, was constrained by the terms of a bank loan contract from paying dividends on preferred stock.
+
+Synopsis of Rule of Law
+Under the Securities Exchange Act of 1934, Rules 10b-5 and 14a-9 necessitate a demonstration of scienter of defendants in forming material misrepresentation or omission for a private cause of action to prevail.
+
+Facts
+A hosiery producer,Chadbourn, which attained control of Standard Knitting Mills through an exchange of Chadbourn’s securities for Standard shares by shareholders. The Standard and Chadbourn packages were equally similar in market value, however, the Chadbourn stock gave more liquidity and higher dividends to holders. After Chadbourn lost millions as a result of plummeting sales, the holders sued it, Standard, their management, lawyers, and Peat, Marwick & Mitchell, and the accountant who prepared the proxy after the transfer of Standard’s control. The parties engaged in a settlement contract which granted the shareholders control of Chadbourn, renamed “Stanwood Corporation”, with Peat not being party to the settlement contract. Damages were evaluated against Peat when it was discovered that it had negligently failed to mention in the proxy statement it prepared that Chadbourn was limited by a bank loan contract from paying dividends on the preferred stock it was offering in trade for Standard shares. Peat appealed, claiming that Rules 10b-5 and 14a-9 announced under the Securities and Exchange Act of 1934 necessitated a demonstration of scienter prior to liability being imposed.
+
+Issue
+Under the Securities Exchange Act of 1934, do Rules 10b-5 and 14a-9 necessitate a demonstration of scienter of defendants in forming material misrepresentation or omission for a private cause of action to prevail?
+
+Held
+(Merritt, J.) Yes. Peat did not disclose the full effect of the bank loan contract limitations on the payment of dividends in the proxy statement it had prepared. Although, as found by the district court, the facts show that the omissions failed to be the result of scienter. The most the evidence demonstrates that Peat was negligent in document prep. Imposing liability on defendants participating in “intentional or willful conduct designated to deceive or defraud investors” was without a doubt why Rule 10b-5 was passed. This is why in a private action based on Rule 10b-5, scienter is vital.  Likewise, a private right of action is formed under § 14 of the 1934 Act, which after a reading of its statutory history one could glean, targeted the “distorting” and “concealing” of the facts that should be contained in a proxy statement. So under the 1934 Act, both rules require a demonstration of scienter of defendants in forming a material misrepresentation or omission for a private cause of action to prevail. Reversed.
+
+Discussion
+Other jurisdictions like the Second Circuit, see Gerstle v. Gamble-Skogmo, Inc., 478 F.2d 1281 (1793), have held that negligence is sufficient for imposition of liability on corporate issuers of proxy statements. A distinction can be drawn betwixt corporate issuers and “outside” issuers hired by the corporation, because the outside issuers and corporations would not have the same motives in a failure to disclose. Although, an accounting firm hired by a corporation may share the interests of its customers, which offers little support to the difference.
+

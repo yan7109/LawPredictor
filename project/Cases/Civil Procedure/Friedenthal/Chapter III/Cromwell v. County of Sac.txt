@@ -1,0 +1,21 @@
+Citation
+22 Ill.94 U.S. 351, 4 Otto 351, 24 L. Ed. 195 (1877)
+
+Brief Fact Summary
+The Plaintiff, Cromwell (Plaintiff) attempted to collect on bonds that had matured and brought suit against the Defendant, the County of Sac (Defendant). The trial court found that the Plaintiff was precluded from bringing a certain issue because of a similar issue raised in the Plaintiff’s attempt to collect on the bonds in an earlier action brought on his behalf.
+
+Synopsis of Rule of Law
+Where a second action between the same parties is based upon a different claim or demand, the judgment in the prior action operates as an estoppel only as to those matters in issue upon which the verdict or judgment was rendered.
+
+Facts
+The Plaintiff brought action on four bonds and four coupons for interest attached. The Defendant had issued bonds in 1860 for a courthouse to be built, which were redeemable in 1868, 1869, 1870, and 1871. The courthouse was never built and the Plaintiff sued to recover the amounts of the bonds plus interest. The Plaintiff brought suit and the Defendant claimed that the Plaintiff was precluded from raising the issue because of a prior suit brought by Samuel Smith (Smith), who sought recovery on the same bonds. In that suit, evidence was presented showing that the Plaintiff owned the bonds and that the case was being brought for the Plaintiff’s benefit. The trial court held that the bonds were void against any party who had not acquired them before maturity and given value for them and found the Plaintiff had not proven that he gave value for them. The Plaintiff was not allowed to show that he gave value for the coupons and bonds before maturity, which the trial court held, prov
+
+Issue
+Whether the Plaintiff was estopped from bringing his claim on the bonds and coupons.
+
+Held
+No. The Plaintiff should have been allowed to show that he was a bona fide purchaser for value of the bonds before the date of maturity. The exclusion of the evidence offered by the Plaintiff was erroneous. Judgment reversed and remanded for a new trial.
+
+Discussion
+There was nothing adjudged in the former action that Smith (Plaintiff in the prior case) had not proved, that could justify the Plaintiff being precluded from proving in this case. The fact that one party may not have shown he gave value for one bond is not presumptive or conclusive evidence that he may not have given value for another or different bond.
+

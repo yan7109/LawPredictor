@@ -1,0 +1,18 @@
+Citation
+335 U.S. 469, 69 S. Ct. 213, 93 L. Ed. 168 (1948)
+
+Synopsis of Rule of Law
+A party has the right to cross-examine another parties character witnesses and inquire about past bad acts such as arrests and/or convictions.
+
+Facts
+The defendant is on trial for bribing a federal revenue agent.  The defendant called character witnesses and volunteered information that he was convicted of an offense twenty years ago.  The character witnesses testified that the defendant had a good reputation for honesty and truthfulness.  The defense was allowed to cross-examine the witnesses and asked them whether they were familiar with the fact that the defendant had been arrested twenty seven years prior for receiving stolen goods.  The court allowed the cross-examination and warned the jury of the limited purpose of such testimony.  The defendant argued that he did not bribe the official and that this was a case of entrapment.<span class='heading'>Issue.</span>  Whether a party has the right to cross-examine another parties character witnesses and inquire about past bad acts such as arrests and/or convictions?
+
+Held
+Arrest without more does not impeach the integrity or impair the credibility of witness and hence only a conviction may be inquired about to undermine the trustworthiness of a witness.  Before a character witness is cross-examined as to a prior arrest of the defendant, the prosecution should demonstrate privately to the court that it is not based on unsupported or untrue innuendo.
+
+Dissent
+Justice Wiley Rutledge (”J. Rutledge”) and Justice Frank Murphy (”J. Murphy”) dissented.  Here, the Supreme Court of the United States (”Supreme Court”) concluded there are sound reasons basic to our system of criminal justice, which justify initially excluding the Government from showing the defendant’s bad general character or reputation. Our whole tradition is that a man can be punished by criminal sanctions only for specific acts defined beforehand to be criminal, not for general misconduct or bearing a reputation for such misconduct.<span class='heading'>Concurrence.</span> Justice Felix Frankfurter (”J. Frankfurter”) filed a concurring opinion.  It is unprofitable for appellate courts to formulate rigid rules for the exclusion of evidence in courts of law that outside them would not be regarded as clearly irrelevant in the determination of issues.
+
+Discussion
+Generally, the prosecution may not resort in its case in chief to any kind of evidence of defendant’s evil character, disposition, and reputation to establish probability of his guilt.  However, when the defendant puts his reputation in issue, the entire subject is fair game and the prosecution may cross-examine the defendant’s character witnesses as to the contents and extent of the hearsay on which they base their conclusions.  When the defendant elects to initiate a character inquiry commonly called character evidence, the witness may not testify about defendant’s specific acts or courses of conduct.In this case, the inquiry concerned an arrest twenty-seven years before the trial.  Events a generation old are likely to be lived down and dropped from the present thought and talk of the community and to be absent from the knowledge of younger or more recent acquaintances.  But, where defendant has put his reputation in issue by the calling of character witnesses, he cannot complain at the latitude which is allowed the prosecution in meeting, by cross-examination the issue thus voluntarily tendered, notwithstanding the difficulty which the jury may experience in comprehending the court’s limiting instructions.
+

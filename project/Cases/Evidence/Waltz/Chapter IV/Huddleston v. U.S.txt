@@ -1,0 +1,15 @@
+Citation
+534 U.S. 1051
+
+Brief Fact Summary
+The defendant, Huddleston (the “defendant”), was charged with the knowing possession of stolen videocassette tapes.  The plaintiff, the United States’ Government (the “plaintiff”) introduced similar acts evidence that connected defendant to a series of sales of stolen appliances from the same store as the tapes.  The plaintiff concluded that the evidence was relevant to the fact that defendant had knowledge that the tapes were stolen.<span class='heading'>Synopsis of Rule of Law.</span>  Federal Rules of Evidence (”F.R.E.”) Rule 404(b) provides that evidence of other crimes, wrongs or acts is not admissible to prove a persons character, but may be admissible for other purposes such as proof of knowledge.
+
+Facts
+The defendant was charged with the knowing possession of stolen videocassette tapes in violation of federal law.  Evidence at trial showed that defendant had a trailer containing over 32,000 blank tapes and that he was trying to sell them.  The defendant insisted that the tapes had been provided to him by another man and that he had no idea that they were stolen.  The District Court allowed the plaintiff to introduce as evidence of similar acts under F.R.E. Rule 404(b), the defendant’s involvement in a series of sales of allegedly stolen televisions and appliances from the same suspicious store as the tapes were stolen.  The jury convicted the defendant and the Court of Appeals affirmed.  The defendant asserts that introduction of the similar acts evidence was in error.<span class='heading'>Issue.</span>  Whether the District Court must make a preliminary finding that the plaintiff has proved the “other act” by a preponderance of the evidence before it submits “similar acts” and other evidence to the jury?
+
+Held
+A court does not have to make a preliminary finding of “other acts” by the preponderance of the evidence.  Rather, similar acts evidence would be admitted if there is sufficient evidence to support a finding by the jury that the defendant committed the similar act.  Here, the trial court properly allowed the evidence of the television sales to go to the jury, since the jury reasonably could have made a connection between the televisions that were stolen and the defendant’s inability to produce a bill of sale.
+
+Discussion
+Before a court admits similar acts evidence it must decide whether the evidence is probative of a material issue other than character.  Evidence of similar acts will be admitted if there is sufficient evidence to support a finding by the jury that the defendant committed the similar act.  Here, there was sufficient evidence and the trial court properly allowed the evidence.
+

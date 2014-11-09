@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 140
+
+Brief Fact Summary
+The Defendant was convicted of murder and child endangerment after 11-month old Melissa Mathes died after being in Defendant’s custody.  The child’s injuries were consistent with shaken baby syndrome.  Defendant sought to admit evidence that the injuries may resulted from a fall when the child was in her mother’s custody.
+
+Synopsis of Rule of Law
+Hearsay statements may be admissible if such statements are found to be sufficiently trustworthy to warrant admissibility.
+
+Facts
+Mary Weaver, Defendant, picked up 11-month old Melissa Mathes at the Mathes home at 10:20 AM on January 22, 1993.  Defendant called 911 at 11:14 AM and reported that Melissa was not breathing.  Melissa died the following day.  Melissa had old and new injuries consistent with shaken baby syndrome.  Defendant was charged with first degree murder and child endangerment.  Her first trial resulted in a hung jury, but she was convicted after she requested a court trial.  After her conviction, she moved for a new trial based on affidavits by Robin McElroy and Mistry Lovig.  Both affidavits said that Melissa’s mother had said that the Defendant did not hurt Melissa, but Melissa had hit her head on a coffee table at the Mathes home on the morning in question.  The court denied the motion concluding that the affidavits were inadmissible hearsay.  The Court of Appeals affirmed the conviction, but the Iowa Supreme Court remanded for the trial court to consider a second new trial motion ba
+
+Issue
+Was it an abuse of discretion by the trial court to admit the statements by the three women regarding conversations with the victim’s mother?
+
+Held
+Chief Justice McGiverin issued the opinion for the Supreme Court of Iowa in holding that the affidavits were admissible hearsay they were sufficiently trustworthy.
+
+Discussion
+The court look at the various factors to determine the trustworthiness, including the declarant’s propensity to tell the truth, whether the statements were made under oath, personal knowledge of the declarant, time lapse between the statements and the event, and the motivations to make the alleged statements.  The Court noted that the witnesses were credible, that declarant was available to testify, the statement was made shortly after the incident and was made to more than one person, and the declarant had first hand knowledge.
+

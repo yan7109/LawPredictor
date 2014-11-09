@@ -1,0 +1,21 @@
+Citation
+103 Wn.2d 418, 693 P.2d 92,1985 Wash. 1048, 40 U.C.C. Rep. Serv. (Callaghan) 519
+
+Brief Fact Summary
+A minor was named as beneficiary of a life insurance policy.  The guardian of the minor’s estate opened a personal account with the life insurance check and used the funds for his own personal use.
+
+Synopsis of Rule of Law
+When a bank allows a check made payable to a guardian to be deposited in the guardian’s personal account instead of the guardianship account, the bank is a holder in due course because it has notice of the guardian’s breach of fiduciary duty.
+
+Facts
+Charles Alcombrack was appointed as the guardian for his son Chad who was the beneficiary of his grandfather’s life insurance policy.  The insurance company issued a check for $30,588.39 made payable to “Charles Alcombrack, Guardian of the Estate of Chad Stephen Alcombrack a Minor.”  The attorney for the son’s estate instructed the father to take the check, along with the letters of guardianship to the bank and open up a guardianship savings and checking account.  The father did not follow the attorney’s instructions and instead opened a personal checking and savings account with the check.  The father indorsed the check in his guardianship capacity.  Despite the fact that the check was payable to the father in his guardianship capacity, the bank allowed the father to place the entire amount in his newly opened personal accounts.  The attorney called to follow up on the guardianship account, and the trust officer wrote the attorney, specifically mentioning the “Estate of Chad
+
+Issue
+Did the bank have knowledge that the guardian was breaching his fiduciary duty when it allowed him to deposit the check in his personal accounts?
+
+Held
+Yes. UCC 3-304(2) states that a purchaser has notice of an adverse claim when, “he has knowledge that a fiduciary has negotiated the instrument in payment of or as security for his own debt or in any transaction for his own benefit or otherwise in breach of duty.”  Von Gohern v. Pacific Nat’l Bank is persuasive and controlling.  In Von Gohern, the court held that “notice need not always consist of actual knowledge of a breach of a fiduciary duty, but can be predicated upon reasonable commercial standards.”  It this case, it was determined that the bank knew that it was dealing with guardianship funds.  The father indorsed the check as a guardian, when the attorney called to inquiring as to fees for guardianship accounts the trust officer replied with a letter referring to the “Estate of Chad Alcombrack.”  Commercial practices establish that when the bank knew that the funds were deposited in a personal account rather than a guardianship account, the defendant also knew that the
+
+Discussion
+In order to qualify as a holder in due course the bank must meet five requirements, “It must be (1) a holder (2) of a negotiable instrument (3) that took the instrument for value (4) in good faith and (5) without notice that it was overdue, dishonored, or of any defense or claim to it on the part of any person.”  The court found that there is no need to decide the first four elements as it is determined that “the bank took the check with notice of an adverse claim to the instrument and, therefore, is not a holder in due course.” Therefore, the only element at question in this case is whether the bank had knowledge of the guardian’s actions.
+

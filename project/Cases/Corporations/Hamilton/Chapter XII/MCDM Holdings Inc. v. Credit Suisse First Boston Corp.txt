@@ -1,0 +1,21 @@
+Citation
+216 F. Supp. 2d 251 (S.D.N.Y. 2002)
+
+Brief Fact Summary
+MCDM Holdings Inc., and others, (Plaintiffs), brought suit for breach of contract, breach of implied covenant of good faith, breach of fiduciary duty, and unjust enrichment. Credit Suisse First Boston Corp., (Defendant) moves to dismiss the action.
+
+Synopsis of Rule of Law
+SLUSA preempts any claim that is 1) a covered class action; 2) based on state law; 3) in which the plaintiff has alleged either a misrepresentation or omission of a material fact or any manipulative or deceptive device or contrivance; 4) in connection with the purchase or sale of a covered security.
+
+Facts
+Plaintiffs are several corporations who hired Defendant to underwrite their Initial Public Offerings. Plaintiffs allege that Defendant purposely under priced the securities to guarantee that they would rise in value once issued to the public and then required purchasers who wanted to purchase IPO shares pay it the prospectus price plus a share of profits that the customers realized. As a result Defendant’s profits were far greater than the 7% amount agreed upon in the underwriting agreement. Plaintiff’s basic theory of the case is that Defendant deliberately and secretly underpriced stock in the hot IPOs of unwitting putative class members thereby depriving them of millions of dollars in IPO proceeds.
+
+Issue
+Whether SLUSA preempts this class action. Whether Plaintiffs have no standing to bring this suit because they have suffered no injury. Whether Plaintiffs have failed to allege a breach of contract, breach of good faith, and breach of fiduciary duty because they have failed to identify an express term of the underwriting agreement that was breached. Whether Plaintiffs have properly alleged a claim of Unjust Enrichment.
+
+Held
+No. Because Plaintiffs do not allege misrepresentations or omissions the statute does not preempt this class action. No. Plaintiffs have standing because they have stated an injury, breach of contract. No. All that is required at this state of pleading is a short, plain statement of the claim that shows Plaintiff is entitled to relief. Yes. Plaintiffs may plead in the alternative.
+
+Discussion
+Plaintiffs allege that Defendant promised to do one thing but then did another. This constitutes fraud only when Defendant secretly intends not to perform or knows that he cannot perform at the time of contracting. Plaintiff alleges neither. Therefore the third element of SLUSA requiring misrepresentations or omissions is not satisfied. Defendant claims that Plaintiffs actual injury is the under pricing of the securities and the securities were not under priced. However, the injury is the breach of contract itself. Further, whether or not the securities were under priced is an issue for trial. The allegations give Defendant fair notice of the claims that are brought against it. The breach here is failing to sell the stock to the public as set forth in the Prospectus and failing to sell it at the agreed upon price. Plaintiffs have stated the claim in plain English. Unjust Enrichment is a quasi-contractual remedy imposed only in the absence of an express contract and is not available when a valid enforceable written contract exists. Defendant claims that because the underwriting agreement controls the consideration that Plaintiffs were to receive, Plaintiffs cannot now recover for what they believe the real worth of the shares are. However, Plaintiff pleads unjust enrichment in the alternative.
+

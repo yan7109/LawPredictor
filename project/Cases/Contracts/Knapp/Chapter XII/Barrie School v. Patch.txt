@@ -1,0 +1,24 @@
+Citation
+Md. Ct. App. (highest Court), 401 Md. 497. 933 A 2d 382 (2007)
+
+Brief Fact Summary
+The contention of the Barrie School (P) was that it was not required to lessen damages where the liquidated damages provisions of its enrollment contract were valid and did not constitute a penalty, so that the Patches (D), who had breached the enrollment contract were asked to settle the liquidated damages.
+
+Synopsis of Rule of Law
+Where parties concur to a valid liquidated sum in the event of a breach, a non-breaching party has no duty to mitigate damages.
+
+Facts
+The Barrie School (P), a private school, accepted the enrollment of the Patches (D) daughter, and in the following academic year, both parties entered into a re-enrollment agreement (Agreement). The Agreement included some provisions such as the payment of a non-refundable deposit of $1,000, payment of the tuition balance of $13,490 in two installments and an escape clause which permitted unilateral cancellation provided that the head of the school was notified officially by certified letter before the 31st of May, 2004.
+
+Issue
+Where parties concur to a valid liquidated sum in the event of a breach, does a non-breaching party have duty to mitigate damages?
+
+Held
+(Raker, J.) No. Where parties concur to a valid liquidated sum in the event of a breach, a non-breaching party has no duty to mitigate damages. The court rejected Patches (D) arguments that the contract was adhesive and unconscionable, and that the lower court rightly ruled in concluding that the Agreement was neither fraudulent nor adhesive. First, the Patches (D) were not forced to enroll their daughter in the Barrie School (P) and the agreement was fair. But the Patches (D) were given the free hand to cancel the entire Agreement upon notification and to receive the full refund of their deposit. Hence, the ruling was reversed and remanded because the business transaction between Patches (D) and Barrie School (P) was conducted at arm’s-length
+
+Dissent
+(Bell, C.J.) The conclusion of majority that where a liquidated damages clause is valid, there is no need for the non-binding party to mitigate its damages is wrong. It is clear that the contract was breached by Patches (D) but the evidence before the court shows that the school did not suffer harm commensurate to the sum fixed as liquidated damages.
+
+Discussion
+the penalty limitation on liquidated damages clauses under a “freedom of contract” approach should be cancelled and such clauses should be enforced unless they are the product of some defect in the bargaining process, such as fraud or coercion. This position is being advocated by some commentators but others create a presumption that a liquidated damages clause is valid absent a showing that the clause is unconscionable. Still, penalty limitation may be applied to situations where an opportunity and incentive to induce a breach, but otherwise would not enforce the penalty limitation.
+

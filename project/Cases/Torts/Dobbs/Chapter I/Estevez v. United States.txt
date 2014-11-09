@@ -1,0 +1,15 @@
+Citation
+72 F. Supp. 2d 205
+
+Brief Fact Summary
+Both parties submitted evidence regarding possible damages after the United States (Defendant) was found negligent under the Federal Tort Claims Act, 28 U.S.C.S. Section:Section: 1346 (9b) and 2671-80, and liable for injuries sustained by Plaintiffs when the vehicle in which they were riding collided with a postal truck.<span class="heading">Synopsis of Rule of Law.</span> In actions brought under the Federal Tort Claims Act, damages are determined in the same manner and to the same extent as a private individual under like circumstances, but interest may not be awarded prior to judgment or for punitive damages.
+
+Facts
+Several members of the Estevez family (Plaintiffs) were injured in a collision with a postal truck for which Defendant was responsible. Having determined that the car’s driver was negligent, the court ruled that Plaintiffs were each entitled to recover for past and future medical expenses, lost earnings, and pain and suffering. One Plaintiff’s award was reduced because of her failure to properly use her seatbelt-thus assigning to her a proportional amount of liability. The awards based on future damages were further discounted to their present day values. Defendant argued that failure to reduce the awards for future lost earnings by accounting for future income taxes effectively resulted in a punitive damages award. However, the court disagreed, finding that taxes were not deductible under New York law.<span class="heading">Issue.</span> Does the Federal Tort Claims Act authorize judgments (i.e., structuring the judgment in a manner that considers income taxes and the time value of money) other than lump sum damage awards?
+
+Held
+The court found in favor of Plaintiffs and awarded damages for future pain and suffering, lost income, and medical expenses, discounted to their present day value. However, the court found that the failure to deduct taxes from future lost earnings did not constitute punitive damages under New York law.
+
+Discussion
+Calculating damages is an area that raises any number of difficulties, primarily because losses cannot always be precisely quantified. Thus, a number of jurisdictions have enacted legislation to address the issue. For example, as the court explained in Estevez: “[s]imilar to California and Wisconsin, in 1986, the New York legislature enacted CPLR Section 5041, extending the structured judgment requirement to tort actions generally, including: personal injury, injury to property, and wrongful death. Because the New York legislature, unlike that of Rhode Island, has enacted a law requiring structured payouts when future damages exceed $ 250,000.” The court then noted, “This court has discretion to structure damage awards in this case, where future damages for Joseph total $ 750,000. In addition, Joseph is five years old, and an annuity is necessary to ensure that when he reaches the age of majority, Joseph will in fact receive his due.” In other instances, where there is mo
+

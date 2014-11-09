@@ -1,0 +1,18 @@
+Brief Fact Summary
+In connection with a wrongful death action, Appellant sought review of a punitive damages award, on the issue of availability of such damages under the Survivor’s Act (Act), seeking certification on the question of whether evidence of Plaintiff’s conscious pain and suffering is necessary to sustain cause of action under Act.
+
+Synopsis of Rule of Law
+Damages under a wrongful death claim are expressly limited to the pecuniary injuries resulting from such death, together with the hospital, medical and funeral expenses incurred for the deceased. The wrongful death statute in question permits recovery only of a survivor’s calculable economic loss and that the Act does not support an award of punitive damages.
+
+Facts
+Defendant, driving an oil truck, was unable to stop at an intersection because of improperly adjusted brakes. He collided with sixty year-old widow, Helen Robbins (Robbins), landing atop her vehicle. Robbins was killed in the accident. Smith (Plaintiff), the executor of Robbins’ estate, brought two causes of action pursuant to statutes governing 1) wrongful death; and 2) the rights of representatives of a decedent’s estate to pursue recovery. The trial court dismissed the claim for pain and suffering in the second claim pursuant to New Jersey’s Survival Act, N.J.S.A. 2A:15-3, because Robbins was unconscious following the collision. The jury awarded Plaintiff damages in the wrongful death action, and the trial court permitted evidence for a determination of punitive damages, which were subsequently awarded for $1.25 million. The Appellate Division affirmed.
+
+Issue
+* Does Plaintiff’s inability to establish conscious pain and suffering in a survival action involving instantaneous death bar a claim for punitive damages?<br />* Did Plaintiff establish a valid claim for punitive damages in the absence of an underlying award of compensatory damages for pain and suffering?
+
+Held
+In an action pursuant to the wrongful death statute, a claim for punitive damages could be sustained even absent compensatory damages for pain and suffering. The court found also that the absence of even nominal damages was not significant when the elements of causation were established in the related wrongful death action.
+
+Discussion
+The court held that punitive damages could be sustained even absent compensatory damages for pain and suffering. The court then engaged in extensive analysis regarding types of damages and the applicable standards in determining each. Generally, the court noted, “[a]n award of damages in a wrongful death action is not a matter of punishment for an errant defendant or of providing for decedent’s next of kin to a greater extent than decedent himself would have been able, but is rather a replacement for that which decedent would likely have provided and no more.” In clarifying the calculus by which damages should be awarded, the court noted, “[t]he amount of recovery is based upon the contributions, reduced to monetary terms, which the decedent might reasonably have been expected to make to his or her survivors.” The also saw fit to clarify the distinction between the statutes addressing wrongful death and rights of survivors: “[u]nlike a wrongful death action, which is a de
+

@@ -1,0 +1,24 @@
+Citation
+982 F. Supp. 1138 (E.D. Va. 1997)
+
+Brief Fact Summary
+Plaintiffs sued a number of corporations producing rubber thread alleging a broad conspiracy among defendants to fix prices and restrain competition in rubber thread.  Defendants challenged jurisdiction and venue.
+
+Synopsis of Rule of Law
+Personal jurisdiction requires the plaintiff to point to a statute (usually a state’s long-arm statute) or rule that authorizes service of process over the defendant (here met by the Clayton Act and by Rule 4(k)(2), Fed. R. Civ. P. Section 12 of the Clayton Act for nationwide and worldwide service of process when the antitrust defendant is a corporation) AND the service of process pursuant to the specified statute or rule must comport with due process (here process was pursuant to Rule 4(f)(2)(C)(ii), Fed. R. Civ. P. because the Clayton Act provides for worldwide service consistent with federal law).Regarding venue for the foreign defendants, venue is proper because Section 12 of the Clayton Act lays venue in any district where the defendant is “found” or where it “transacts business”.  28 U.S.C. §1391(d) provides that aliens may be sued in any district, eliminating any venue impediment to suit in this district for the foreign defendants (aliens may be sued in any federal judicial district).Regarding venue for the American defendants under 28 U.S.C. §1391(b) venue is proper if a judicial district in which any defendant may be found.
+
+Facts
+Plaintiffs Dee-K and Asheboro, Virginia and North Carolina corporations, bought rubber thread from defendants to make bungee cords and other things.  Plaintiffs sued a number of corporations in Malaysia, Indonesia and Thailand producing the rubber thread alleging a broad conspiracy among defendants to fix prices and restrain competition in rubber thread.  Defendants challenged jurisdiction and venue.
+
+Issue
+(1) Wheter there is personal jurisdiction over an Indonesian manufacturer-defendant that consummates its sales of thread in Indonesia; (2) whether venue is proper in the Eastern District of Virginia.
+
+Held
+It is unclear whether venue is proper in the Eastern District of Virginia.  Plaintiffs must show that venue in this district was proper, or the action may be transferred to the Western District of Virginia where venue is proper because Virginia contacts are located in the Western District of Virginia.
+
+Dissent
+
+
+Concurrence</span>   </br><span class="heading">Discussion
+Plaintiffs have alleged that some Virginia related contacts of defendants that Defendant sold its rubber thread to are located in the Western District of Virginia, not the Eastern District, thus making venue in the Easter District improper but in the Western District of Virginia proper.  However, since not all defendants objected there may be contacts in the Eastern District, which would make venue proper if at least one of the American distributors were “found” there.
+

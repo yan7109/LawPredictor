@@ -1,0 +1,24 @@
+Citation
+22 Ill.65 F.3d 725 (8th Cir. 1995)
+
+Brief Fact Summary
+A professional wrestler and commentator entered into an oral contract that was silent on the subject of royalties and then entered into a second contract where he was fraudulently mislead regarding the subject of royalties.
+
+Synopsis of Rule of Law
+Quantum meruit is available in cases where there is an existing contract if the contract is silent regarding the benefit for which recovery is sought or when one is fraudulently induced into entering into the express contract.
+
+Facts
+The Plaintiff, Jesse Ventura (Plaintiff), was a professional wrestler. He entered into an oral contract to wrestle for the Defendant, Titan Sports, Inc (Defendant). After suffering medical problems, the Plaintiff entered into a second oral agreement with the Defendant to become a commentator. No mention was made of royalties. The Plaintiff briefly terminated his relationship with the Defendant to become an actor. When the Plaintiff returned, he entered into another oral agreement with the Defendant. Under this oral contract, which did not mention royalties, the Plaintiff was again employed as a commentator. The Plaintiff then hired Barry Bloom as his talent agent. Bloom tried to negotiate with the Defendant regarding the Plaintiff’s royalties and was told that it was against the Defendant’s policy to pay royalties, unless it was to a “feature performer.” With this information, the Plaintiff entered into a new contract with the Defendant that waived the right to royalties. The
+
+Issue
+Is quantum meruit available where one provides services under an express contract?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+The dissent argues that the Plaintiff should not have received quantum meruit for the recovery of royalties before he entered into the express contract with the Defendant because Minnesota does not recognize a right of publicity. Therefore, the Defendant could not have been unjustly enriched, as it did not illegally infringe on the Plaintiff’s rights. In fact, the Defendant owns the videotapes with the Plaintiff’s commentary and the Plaintiff is not arguing that he was performing any additional duties, other than those specified by his contract. The dissent points to the fact that Minnesota does not recognize the invasion of privacy torts.
+
+Discussion
+First, the court examined whether there was merit to the Plaintiff’s quantum meruit claim by determining whether the Defendant was unjustly enriched by the Plaintiff’s publicity. As the Minnesota Supreme Court had yet to address the issue of publicity rights, the court predicted how it would rule on such a case. The court found that the Minnesota Supreme Court would recognize the right to publicity and therefore, the Defendant was unjustly enriched as he infringed on the Plaintiff’s right to publicity. The court also examined the terms of the agreements to find that the district court did not err in awarding damages. Moreover, the court found that it is well settled that unjust enrichment and quantum meruit may arise from fraud. As the district court found that the elements of fraud were satisfied, as the Defendant misrepresented its policy on royalties and Plaintiff relied on this misrepresentation, the court found no clear error.
+

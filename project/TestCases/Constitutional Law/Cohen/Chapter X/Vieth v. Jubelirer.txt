@@ -1,0 +1,27 @@
+Citation
+541 U.S. 267 (2004)
+
+Brief Fact Summary
+The Pennsylvania General Assembly (D) drew a map delineating the districts for the congressional elections. The map was challenged by Vieth (P) and others in court, on the basis that the creation of the districts was for the improper purpose of obtaining political advantage, or gerrymandering.
+
+Synopsis of Rule of Law
+Since the process of creating districts can involve many political considerations none of which are enforceable by the courts under any constitutional provision, gerrymandering cannot be brought into a court of law as a justiciable issue.
+
+Facts
+The General Assembly of Pennsylvania drew a new district map for the purpose of creating electoral constituencies for the congressional elections. The map was challenged as being for the purpose of gerrymandering by Vieth (P) and others.
+
+Issue
+Since there is no provision under the constitution which gives judicial grounds for limiting the application of political considerations during the process of creating districts, either by Congress or by the state, can a court try a case on the ground of gerrymandering?
+
+Held
+(Scalia,J.) Yes. Since no provision under the constitution limits any political consideration during the process of district mapping by states or the Congress in any way enforceable by the courts, the claims of gerrymandering are non-justiciable. The criterion of “fairness” is not one which can be determined by law. The reason for desiring a criterion of fairness is that it is needed to set a limit on the ability of the state legislators to carve out districts, to impel the courts to use judicial discretion in such cases and to win the public approval of judicial interference in the process of lawmaking by the representatives, which is the foundation of democracy. Many different criteria have been proposed, the variety of which only confirm that there is no clear constitutional limit. The issue to be settled here is not whether such activity by the legislators which unfairly favors one party is against the constitution, but whether such a determination  as well as remedy is to be done by the courts. Since 1980 five congressional bills have been introduced to provide a remedy for this perceived undesirable political maneuvering. But this kind of intention and action is a fact of life whenever districts are planned by political bodies, and the court does not intend to make a decision in these claims. The decision of the lower court is affirmed.
+
+Dissent
+(Stevens, J.) Constitutional standards are available to identify the presence of unacceptable levels of partisanship in this issue. What is lacking is the judicial will to enforce them, and to condemn flagrant violations of the basic duty of a state legislature, that is, its duty to govern the state without partiality or bias.
+
+Concurrence
+(Kennedy, J.) The Court rightly keeps away from intruding into the political life of the nation, but the proviso remains that some specific and narrow rules and reasons may yet be found to justify a correction by the Court of established unconstitutional practices in the redistricting process. While no standard to judge gerrymandering claims has yet emerged, this does not mean no standard ever will or can exist. This is all the more so since the existence of bias in parameters which violate constitutional provisions of representative government in carving out districts is a serious allegation.
+
+Discussion
+The Supreme Court in this case makes clear its view that judicial intervention in the basically political process of districting could bring undue delays and uncertainty into the process as well as arouse political enmity against the judiciary. This is too serious and too certain a disadvantage to offset the possible benefit of speeding up the execution of the will of the majority to some unknown extent.
+

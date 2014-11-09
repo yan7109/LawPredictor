@@ -1,0 +1,21 @@
+Citation
+22 Ill.103 Mass. 491 (1870)
+
+Brief Fact Summary
+Nancy Fiske owned land, which she conveyed to her son, Benjamin, and his wife, Elizabeth Fiske by deed dated April 22, 1864, but not recorded until 1867. The deed reserved a life estate in Benjamin and Elizabeth, and a remainder in fee to Mary Fiske.
+
+Synopsis of Rule of Law
+Although an unrecorded deed is binding upon the grantor, his heirs and devisees, and also upon all persons having actual notice of it, it is not valid and effectual as against any other persons. As to all such other persons, the unrecorded deed is a mere nullity.
+
+Facts
+Nancy Fiske died in 1865, leaving Benjamin as her sole heir at law. Benjamin then executed a deed to Earle (Plaintiff) purporting to sell the premises in fee to Plaintiff. Plaintiff sued for a writ of entry against Elizabeth Fiske and Mary Fiske to recover the property. The lower court ruled that Nancy Fiske had no seisen in the premises at her death, which would descend to Benjamin, so as to allow Benjamin to convey good title to Plaintiff. Plaintiff appealed.
+
+Issue
+Did the lack of recordation of the deed in favor of Defendants from Nancy Fiske mean that the subsequent deed from Nancy’s sole heir, Benjamin, to Plaintiff conveyed good title?
+
+Held
+Yes. Judgment reversed, new trial ordered.
+
+Discussion
+Note the distinction between the unrecorded deed here and the deed in the case of Stone v. French. In Stone, the deed was not delivered to the grantee, whereas in this case, the deed was delivered to the grantee. The deed was not effectual here because Benjamin was the apparent owner of the premises and had a right to sell the fee to Plaintiff. Thus, Plaintiff had no actual or constructive notice of any rights to the land by the life tenant or the remainderman.
+

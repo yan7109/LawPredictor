@@ -1,0 +1,21 @@
+Citation
+22 Ill.127 N.H. 187, 498 A.2d 339 (1985)
+
+Brief Fact Summary
+Plaintiff contracted with Defendant to buy steel to make wood burning stoves. The contract was for enough steel to make 400 wood burning stoves. Defendant only provided enough to make 250 stoves. Plaintiff lost profits and sold the business at the end of the year.
+
+Synopsis of Rule of Law
+In a case when there is no way to calculate lost profits as a consequence of a breach of contract, the court may not allow the jury to consider lost profits for future years when calculating damages
+
+Facts
+Plaintiff contracted with Defendant to buy steel for Plaintiff’s business. The contract was for enough steel to make 400 wood burning stoves. Several of the shipments were late and of inadequate quality. Defendant’s efforts to correct these errors were insufficient and Plaintiff was only able to produce 250 wood burning stoves. As a result, Plaintiff sold the business. Defendant had, as part of its contract, a clause stating that Defendant was not liable for consequential damages. Plaintiff sued Defendant. Defendant moved to dismiss the claim for consequential damages arguing that Plaintiff had failed to mitigate the damages. Defendant’s motion was denied. The court also ruled the limitation on damages clause was unenforceable.
+
+Issue
+Did the lower court error in not enforcing the limitation of damages clause?
+
+Held
+The lower court was correct to not enforce the limitation of damages clause, but errored in allowing damages for the lost value of the business and lost profits in future years.
+
+Discussion
+The court outlines a three-pronged test for getting consequential damages: they must be foreseeable, ascertainable and unavoidable. Plaintiffs failed to prove that their damages were ascertainable.
+

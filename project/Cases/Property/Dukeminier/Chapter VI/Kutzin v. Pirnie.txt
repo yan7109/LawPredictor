@@ -1,0 +1,21 @@
+Citation
+22 Ill.124 N.J. 500, 591 A.2d 932 (1991)
+
+Brief Fact Summary
+The defendants, Duncan and Gertrude Pirnie contract for the sale of the Kutzins' house for $365,000.  The contract did not provide for liquidated damages or forfeiture clause regarding the deposit.
+
+Synopsis of Rule of Law
+In order to prevent unjust enrichment, a seller may retain a deposit when a buyer breaches a contract even if the contract does not contain a liquidated-damages or forfeiture clause.
+
+Facts
+The defencants, Duncan and Gertrude Pirnie contract for the sale of the Kutzins' house for $365,000.  The contract did not provide for liquidated damages or fortfeiture clause regading the deposit.  Under the contract, the Pirnies agreed to pay a partial deposit of $1,000 on signing and $35,000 within seven days.  The contract merely states that "If this contract is voided by either party, the escrow monies shall be disbursed pursuant to the written direction of both parties."  As a result of the breach, the Kutzins' (sellers) paid an additional $17,325 in damages  for renovations, taxes, insurance, etc. during the six month period it took them for the actual sale.  The Pirnies' argue that the contract had been validly rescinded.
+
+Issue
+Whether a seller should be entitled to retain a deposit when a buyer breaches a contract that does not contain a liquidated-damages or forfeiture clause.
+
+Held
+Judgment affirmed.  The trial court held that the Kitzins' cannot retain the entire deposit as damages.  In order to prevent unjust enrichment the restitution costs must be offset by the deposit LESS the amount of the injury caused by the breaching parties actions.  The judgment of the Appellate Division is modified to reinstate the trial court's damage award.<br/>
+
+Discussion
+The Pirnies are entitled to restitution of their deposit less the amount of the injury to the Kutzins caused by the Pirnies' breach.  To allow retention of the entire deposit would unjustly enrich the Kutzins and would penalize the Pirnies contrary to the policy behind the laws of contracts.
+

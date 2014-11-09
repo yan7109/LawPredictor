@@ -1,0 +1,24 @@
+Citation
+156 U.S. 1, 15 S. Ct. 249, 39 L. Ed. 325, 1895 U.S.
+
+Brief Fact Summary
+American Sugar Refining Company (American) purchased four refineries in Philadelphia, effectively monopolizing sugar refining in the United States. The company was subsequently sued by the federal government for engaging in combinations in restraint of trade.
+
+Synopsis of Rule of Law
+Exercise of the Commerce Power may not destroy the police power retained by the states.
+
+Facts
+The Appellee-Defendants, E.C. Knight Co., American and other sugar refineries (Defendants), entered into contracts to purchase four refineries in Philadelphia, thereby controlling almost the entire refined sugar manufacture in the United States. The government alleged that by entering into the contracts, the Defendants combined and conspired to restrain the trade and commerce in refined sugar among the several states and with foreign nations, contrary to an act of Congress promulgated on July 2, 1890.
+
+Issue
+Does the act of Congress overstep the authority given by the Commerce Clause?
+
+Held
+Yes. Appeals court judgment affirmed. The majority draws a distinction between the manufacture of a good and its final disposition. The Supreme Court of the United States (Supreme Court) also says that a good’s use in commerce is only incidental to its manufacture, and as such, the act overreached the power of Congress under the Commerce Clause.
+
+Dissent
+Justice John Marshall Harlan (J. Harlan), dissenting, argues that if Congress has the ability to regulate interstate commerce, it must also have the ability to remove restraints on interstate commerce.
+
+Discussion
+The somewhat dubious distinction between manufacture and activities in commerce is characteristic of the narrow view of the commerce power taken by the Supreme Court between 1890 and 1937.
+

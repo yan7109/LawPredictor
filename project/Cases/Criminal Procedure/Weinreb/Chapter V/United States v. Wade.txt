@@ -1,0 +1,18 @@
+Citation
+388 U.S. 218, 87 S. Ct. 1926, 18 L. Ed. 2d 1149 (1967)
+
+Brief Fact Summary
+Two men were indicted for bank robbery and appointed counsel to defend them.  They were brought before the employees to participate in a line up identification procedure without the benefit of the presence of counsel, after indictment, but prior to trial.
+
+Synopsis of Rule of Law
+The Sixth Amendment of the United States Constitution (”Constitution”) guarantees an accused the right to counsel at post indictment identification procedures, and the failure to provide the accused with counsel will result in the suppression of the improperly conducted identification.
+
+Facts
+Two men robbed a bank in Eustace, Texas.  One man, with two pieces of tape on his face, went into the bank, pointed a gun at the cashier and demanded the money.  His accomplice waited outside in a stolen getaway car.  Wade and his accomplice were indicted for the robbery and counsel was appointed.  About two weeks later, a Federal Bureau of Investigation (”FBI”) agent caused the two men to be part of a lineup consisting of five or six other men at which the bank employees were asked to make an identification, and at which the two men were in fact identified.<br /> At trial, Wade’s defense counsel objected to the identification procedures, but his efforts to have them stricken were in vain.  Wade was convicted of the robbery. The Fifth Circuit reversed, holding that the lineup had violated Wade’s Sixth Amendment constitutional right to counsel.<br /><br /><span class='heading'>Issue.</span>  Whether courtroom identifications of an accused at trial are to be excluded from evidence because the accused was exhibited to the witnesses before trial at a post indictment lineup conducted for identification purposes, without notice to, and in the absence of, the accused’s appointed counsel?
+
+Held
+Yes. The court must analyze whether potential substantial prejudice to defendant’s rights inheres in the particular confrontation and the ability of counsel to help avoid that prejudice.  The in court identification must be found to have independent origin, free of the primary taint of the improperly conducted lineup, in order to be admitted.
+
+Discussion
+The opinion emphasizes the fact that the Fifth Amendment right against self incrimination is not implicated because nothing about the lineup itself violated the long line of cases holding that only testimonial or communicative evidence must be suppressed if coerced.  The Sixth Amendment right to counsel, however, did attach to pretrial proceedings because of the importance that they have carrying on an adequate defense.  The right has been interpreted to apply to “critical” stages of the proceedings. Identification procedures are critical because of the many dangers that inhere in identification procedures in general, and in eyewitness identifications in particular. Any prejudice occurring in an identification procedure without counsel present would denigrate the right of the defendant to effectively cross examine the witness in question.
+

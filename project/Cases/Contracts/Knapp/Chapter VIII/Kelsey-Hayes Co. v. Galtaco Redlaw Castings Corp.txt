@@ -1,0 +1,21 @@
+Citation
+22 Ill.749 F. Supp. 794 (E.D. Mich. 1990)
+
+Brief Fact Summary
+This case involves a requirements contract where the supplier threatened to stop production if the buyer did not agree to pay a higher price for the product.
+
+Synopsis of Rule of Law
+A contract is voidable if made under economic duress.
+
+Facts
+The Plaintiff, Kelsey-Hayes (Plaintiff), entered into a requirements contract for the purchase of castings, with the Defendant, Galtaco Redlaw Castings Corp. (Defendant). The contract was for a three-year term and it included fixed price terms. The Defendant then began to suffer financial difficulties and made an offer to its customers that it would keep operating in exchange for a price increase of thirty percent. The Plaintiff was not able to find an alternative source of casings so it accepted Defendant’s offer, although it protested that this offer amounted to a breach of contract. Defendant’s other customers did find alternate supplies of castings. Therefore, Defendant offered Plaintiff an additional thirty percent increase in exchange for its remaining in operation solely for Plaintiff’s benefit. Again, Plaintiff felt it had no choice but to accept, as it still had not found a reasonable alternate source for castings. Plaintiff also feared that if it did not accept, it w
+
+Issue
+Must a person be subjected to an unlawful act such as threat of a tort or crime in order to make a claim of duress?
+
+Held
+No. Motion for summary judgment denied. Declaratory judgment granted in favor of Plaintiff.
+
+Discussion
+The court looked to Michigan law to define economic duress. In the instant case, it seemed clear that Plaintiff was left with no reasonable alternative and had no choice, but to assent to Defendant’s offer. Although Plaintiff assented, it also vigorously complained that it viewed Defendant’s offer to be a breach of contract, giving Defendant notice that Plaintiff did not freely enter into the modification. The court noted that it would have been inadequate for Plaintiff to accept the breach and then sue for damages, as Plaintiff would have then been forced to stop production and risk damaging its business reputation. Finally, the court examined the UCC and found that its language supported the economic duress doctrine.
+

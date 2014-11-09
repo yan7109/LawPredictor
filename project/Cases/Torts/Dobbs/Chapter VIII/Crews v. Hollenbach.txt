@@ -1,0 +1,21 @@
+Citation
+358 Md. 627, 751 A.2d 481, 2000 Md.
+
+Brief Fact Summary
+Plaintiff and his wife filed an action alleging negligence and strict liability for injuries stemming from an accident involving a gas line explosion. Plaintiff was working on repairing a gas leak, when the gas ignited causing him severe injury.
+
+Synopsis of Rule of Law
+In order to successfully maintain an assumption of risk defense, a defendant must demonstrate that plaintiff 1) knew of the risk in question; and (2) voluntarily; (3) assumed that risk.
+
+Facts
+In the process of excavating a parcel of land, workers struck a gas line. Natural gas leaked into the surrounding atmosphere. The owner of the line, Washington Gas, dispatched a repair crew, of which Plaintiff was a member. As the crew worked at repairing the leak, the gas ignited severely injuring Plaintiff. Plaintiff and his wife brought suit. The trial judge granted summary judgment on behalf of Defendants due to the defense of assumption of risk. The Court of Special Appeals of Maryland affirmed granting of summary judgment.
+
+Issue
+Did Plaintiff have the knowledge of the risk, did he appreciate the risk, and did he voluntarily assume the risk of danger attendant to the activity in which he was engaged?
+
+Held
+The court affirmed the lower court’s summary judgment ruling, concluding that Plaintiff voluntarily assumed those risks as part of the job duties in which he had been engaged for more than twenty years.
+
+Discussion
+Assumption of risk has fundamentally existed as a complete defense to negligence. There are three basic elements: A plaintiff must 1) have knowledge of a particular risk; and 2) voluntarily; 3) assume that risk. Here, the court notes: “[w]hen a plaintiff in a personal injury action becomes aware of a previously created risk and voluntarily chooses to put up with the situation, then his willingness to take a chance is implied and he is barred from recovering for a risk he chose to assume.”
+

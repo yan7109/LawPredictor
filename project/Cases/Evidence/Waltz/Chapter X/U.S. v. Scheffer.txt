@@ -1,0 +1,27 @@
+Citation
+523 U.S. 303, 118 S. Ct. 1261, 140 L. Ed. 2d 413, 1998 U.S.
+
+Brief Fact Summary
+The Respondent, Scheffer (the “Respondent”), was charged and convicted in military court on several criminal charges, including use of methamphetamine.  He claimed he did not knowingly use the drug, and he passed a polygraph test.  The Respondent sought to introduce the polygraph test as evidence to support his credibility.
+
+Synopsis of Rule of Law
+Under the United States Constitution (”Constitution”), the defendant’s right to present relevant evidence is subject to reasonable restrictions to accommodate other legitimate interests in the criminal trial process.
+
+Facts
+The Respondent, an airman stationed at an air force base in California, failed to show up for work on April 30.  He remained absent until May 13, when he was arrested during a traffic stop and returned to the base.  His urinalysis revealed the presence of methamphetamine.  He was tried by general court-martial on charges of using methamphetamine, failing to go to his appointed place of duty, wrongful absence, and uttering insufficient funds checks.  He testified that he never knowingly used drugs.  The Respondent sought to introduce the evidence of a polygraph test in support of his own testimony.  The military judge denied the motion base on Military Rule of Evidence (”M.R.E.”)Rule 707, which provides that a polygraph examination shall not be admitted into evidence.  The Respondent was convicted on all counts, and the Air Force Court of Criminal Appeals affirmed.  The Court of Appeals for the Armed Forces reversed, holding that a per se exclusion of polygraph evidence offered
+
+Issue
+Does a rule of evidence which does not allow the admissibility of polygraph evidence, unconstitutionally harm the right of the accused to present a defense?
+
+Held
+Justice Clarence Thomas (”J. Thomas”) delivered the opinion of the Supreme Court of the United States (”Supreme Court”).  In reversing the Court of Appeals for the Armed Forces, the Supreme Court held that M.R.E. Rule 707 does not unconstitutionally abridge the right of accused members of the military to present a defense.
+
+Dissent
+Justice John Paul Stevens (”J. Stevens”) filed a dissenting opinion, arguing that M.R.E. Rule 707 is unconstitutional because it abridges the constitutional right of the accused to present a defense.  He notes that M.R.E. Rule 707 does not allow the accused the opportunity to persuade the court that the evidence should be admissible for any purpose.  Further, the polygraph evidence went to the heart of the Respondent’s case because his defense rested on the theory that he unknowingly ingested the drug.
+
+Concurrence
+Justice Anthony Kennedy (”J. Kennedy”) filed a concurring opinion joined by Justice Sandra Day O’Connor (”J. O’Connor”), Justice Ruther Bader Ginsburg (”J. Ginsburg”), and Justice Stephen Breyer (”J. Breyer”).  J. Kennedy disagreed with the majority’s reasoning that the jury’s role in making credibility determinations is diminished when hearing evidence of a polygraph.  Further, he argued that the holding contradicts Rule 704(a) of the Federal Rules of Evidence, which provides that opinion or inference testimony, otherwise admissible, is not objectionable because it embraces an ultimate issue to be decided by the trier of fact.
+
+Discussion
+The exclusion of the evidence in this case does not significantly undermine fundamental elements of the defense.  Polygraph evidence has been determined to be too unreliable, and the purpose of M.R.E. Rule 707 is to ensure that only reliable evidence is introduced.  In order to be unconstitutional, the exclusion of evidence must undermine fundamental elements of the defense.
+

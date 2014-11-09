@@ -1,0 +1,21 @@
+Citation
+489 U.S. 141 (1989)
+
+Brief Fact Summary
+Under a Florida law that prohibits direct molding of designs that have not been patented, Bonito Boats, Inc. (Plaintiff) sued Thunder Craft (Defendant) in state court for molding and reproducing Plaintiff's fiberglass recreational hull.
+
+Synopsis of Rule of Law
+States may not offer patent-like protections to intellectual creations that would otherwise not be protected under federal law.
+
+Facts
+In 1976, Plaintiff produced a popular recreational fiberglass boat design and sold it under the trade name 5VBR.  There was no record of a patent application for the design.  In 1983, a Florida statute was passed that made it illegal to duplicate a manufactured vessel hull using the direct molding process without permission.  Under this statute, the Plaintiff sued the Defendant and won damages including attorney fees, and Defendant was prohibited by injunction from further production of the design.  The Florida Supreme Court struck down the law, finding that it conflicted with the balance between the encouragement of invention and the free access to unpatented ideas as passed by Congress in the federal patent statute.  A few years earlier, a California appeals court had upheld a similar law.  The Supreme Court granted certiorari to hear the case in order to resolve the conflict.
+
+Issue
+If an idea is not protected by federal law, may states offer protection similar to patent-like protection?
+
+Held
+No.  The Patent and Copyright Clause of the Constitution (Article I, § 8, cl. 8) shows a balance between encouraging innovation and avoiding monopolies that prevent competition.  Imitation and improvement through imitation lead to innovation, but there must be motivation to make the innovation public, which resulted in the granting of a time-limited monopoly.  The inventor could choose to keep his invention a secret and reap its fruits indefinitely, or disclose the invention which would benefit the community and which the federal law would reward.  If the inventor chooses federal patent protection for the nonobvious, original, useful product or idea, the protection gives the inventor exclusive rights for 20 years.  The attractiveness of the bargain depends on a condition of free competition in unpatented designs and innovations.  These are encouraged by the nonobvious, novelty, and utility requirements of patent registry.  Patent protection also requires affirmative action because a patent is not available to a person who provides the new product to the public before seeking patent protection.  That person clearly did not seek exclusive use of the product and does not deserve the protection of a federal patent.  Inventors may choose to submit the new product or idea into the public, or choose federal patent protection.  The federal patent system is a careful balance between protection and disclosure.
+
+Discussion
+The federal patent protection grants powers and also imposes limitations on the inventor so that ideas and products are not monopolized.  Much of the patent system involves choices by the inventor.  The inventor may choose to offer the idea to the marketplace without the protection of a patent, keep the idea or product secret indefinitely, share the idea or product with the public, or seek federal patent protection for exclusive use for a number of years while still sharing the information with the public.
+

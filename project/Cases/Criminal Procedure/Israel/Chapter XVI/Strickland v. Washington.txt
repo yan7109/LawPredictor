@@ -1,0 +1,24 @@
+Citation
+467 U.S. 1267, 104 S. Ct. 3562, 82 L. Ed. 2d 864 (1984)
+
+Brief Fact Summary
+After being sentenced to death, Petitioner filed for a writ of Habeas Corpus on the grounds that he was given ineffective assistance of counsel.
+
+Synopsis of Rule of Law
+error, alone, is not sufficient to prove that a defendant was deprived of their constitutional right to effective assistance of counsel.
+
+Facts
+Respondent, Strickland, during a ten-day period, committed three groups of crimes, including three brutal capital murders, torture, kidnapping and attempted murders.  Respondent pled guilty to all crimes and, stated that he accepted responsibility for the crimes and had only acted under extreme mental stress resulting from his inability to care for his family.  Against the advice of his counsel, he waived his right to an adversarial jury at his sentencing hearing, and chose to be sentenced by the Judge.  Because the defendant had already claimed extreme mental stress, his counsel used that, along with information from his wife and mother to establish his character.  He did not request psychiatric evaluation, did not look for further mitigating evidence, and did not request a pre-sentencing report.  Counsel’s decisions were said to reflect his hopelessness after his client pled to all offenses.  Strickland was sentenced to death, and he sought habeas corpus relief due the failu
+
+Issue
+Whether, after a defendant has pled guilty in a capital murder case, counsel has a duty to present mitigating evidence, in order to meet the Sixth Amendment standard for effectiveness.
+
+Held
+The Supreme Court, in an opinion  authored by Justice O’Connor, held that while counsel may have committed error, it was not so ineffective as to overturn a death sentence.
+
+Dissent
+Justices Brennan and Marshall dissented, holding that in the case of a capital crime, sentencing should be reconsidered if the counsel is found to have committed error.
+
+Discussion
+In the course of her opinion, justice O’Connor fully delineated the rule on what the Sixth Amendment encompasses when it considers effective assistance:
+

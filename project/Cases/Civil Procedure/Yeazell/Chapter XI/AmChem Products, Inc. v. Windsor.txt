@@ -1,0 +1,21 @@
+Citation
+521 U.S. 591, 117 S. Ct. 2231, 138 L. Ed. 2d 689, 1997 U.S. 4032
+
+Brief Fact Summary
+The Plaintiffs, Windsor and other class members (Plaintiffs) and the Defendants, Amchem Products, Inc. and other companies (Defendants), in a class action suit involving asbestos litigation, attempted to reach a global settlement agreement applying to all present and future asbestos claims.
+
+Synopsis of Rule of Law
+A global settlement of a class action suit purporting to apply to all present and future potential plaintiffs is void if it does not provide structural assurances that it will take into account the differences among the individuals and groups affected.
+
+Facts
+In 1991, eight federal judges, experienced in the superintendence of asbestos cases, urged the Judicial Panel on Multidistrict Litigation to consolidate in a single district all asbestos complaints then pending in federal courts. All such cases, filed, but not yet tried, were transferred to the District Court for the Eastern District of Pennsylvania and were consolidated for pretrial proceedings. After the consolidation, attorneys for the Plaintiffs and Defendants began settlement negotiations, focusing on a way to settle claims for asbestos cases not yet in litigation. After settling existing claims, CCR, a consortium of Defendants and certain Plaintiffs’ lawyers launched this case, exclusively involving the Plaintiffs without already pending lawsuits. The class action presented was not intended to be litigated. Rather, the parties presented to the district court a complaint, an answer, a proposed settlement agreement and a joint motion for class certification all in a single day. One group of Plaintiffs in the complaint alleged that they had not yet manifested any asbestos-related condition, while all named Plaintiffs were designated as representatives of the class as a whole. Class members were to be bound by the settlement in perpetuity. In January of 1993, the district court certified the class. Objectors raised numerous challenges to the settlement. The Court of Appeals reversed, finding that the class could not meet the adequacy representation requirement of Federal Rule of Civil Procedure (FRCP) 23(a)(4).
+
+Issue
+This case concerned the legitimacy of a class action certification seeking to achieve global permanent settlement of current and future asbestos-related claims.
+
+Held
+The decision of the Circuit Court was affirmed. The sprawling class the district court certified does not satisfy FRCP Rule 23’s adequacy of representation requirements. The settling parties achieved a global compromise with no structural assurance of fair and adequate representation for the diverse groups and individuals affected.  <br/><br/><span class='heading'>Dissent.</span> Justice Stephen Breyer (J. Breyer) dissented in part, in which he was joined by Justice John Paul Stevens (J. Stevens). Their dissent focused on their belief that the district court was in a better position than the Supreme Court of the United States (Supreme Court) to make fact based determinations regarding whether class members were fairly and adequately represented.
+
+Discussion
+The Supreme Court’s decision here can largely be read as a restriction on the tenuous nature of the settlement-class in class action lawsuits. Before approving a settlement in a class action lawsuit, the Supreme Court will require a serious inquiry into the adequacy of representation of potential class members affected by the settlement. With reason, the Supreme Court is concerned with potential conflicts of interest by lawyers representing factions of the class.
+

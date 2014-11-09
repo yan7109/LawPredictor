@@ -1,0 +1,21 @@
+Citation
+989 F.2d 1129, 1993 U.S. App. 9943, 25 Fed. R. Serv. 3d (Callaghan) 973; 7 Fla. L. Weekly Fed. C 275
+
+Brief Fact Summary
+A patient sued her doctor on grounds that he had failed to advise her of an alternative treatment. Following the doctor’s motion for summary judgment, the patient filed to amend her complaint to accuse the doctor of negligence.
+
+Synopsis of Rule of Law
+The determination of whether an amended complaint may relate back to the date of the original complaint is whether the original complaint gave sufficient notice or warning to the defendant of the possibility of a suit involving the claim now being asserted.
+
+Facts
+Plaintiff Judith Moore consulted Defendant Dr. Baker about a blockage of her carotid artery. Defendant recommended surgery and warned her about its risks. Plaintiff signed a consent form. The operation went badly and left Plaintiff severely and permanently disabled. Plaintiff sued Defendant. The initial complaint alleged that he had violated Georgia’s informed consent law by failing to advise her of an alternative therapy. Defendant filed a motion for summary judgment on the issue of informed consent. Twenty days later, Plaintiff moved to amend her complaint to assert allegations of negligence by Defendant in the performance of the surgery and post-operative care of Plaintiff. The district court refused to allow Plaintiff to amend her complaint on grounds that the statute of limitations bars the claim asserted in Plaintiff’s proposed amended complaint unless the amended complaint relates back to the date of the original complaint.
+
+Issue
+When should a plaintiff be permitted to amend his complaint?
+
+Held
+The Circuit Court ruled that the district court did not abuse its discretion in denying Plaintiff’s motion to amend her complaint. Under Federal Rule of Civil Procedure 15(c), an amendment relates back to the original filing whenever the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth in the original pleading. The determination of whether an amended complaint may relate back to the date of the original complaint is whether the original complaint gave notice to the defendant of the claim now being asserted.
+
+Discussion
+In this case, the Court is suggesting that the determination of whether an amended complaint may relate back to the date of the original complaint is whether the original complaint gave notice to the defendant of the claim now being asserted. Thus, because the court determined that the original complaint contained nothing to inform Defendant that claims of negligence in the operation might be asserted, in addition to the fact that Plaintiff would have to prove a completely different set of facts in the amended complaint, the court concluded that that the new claim did not arise out of the same occurrence as the claims in the original complaint.
+

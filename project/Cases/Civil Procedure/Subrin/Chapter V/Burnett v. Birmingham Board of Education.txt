@@ -1,0 +1,24 @@
+Citation
+861 F. Supp. 1036 (N.D. Ala. 1994)
+
+Brief Fact Summary
+Plaintiffs are employees of the Defendant, brought suit for raises and also included constitutional violations as well.
+
+Synopsis of Rule of Law
+In a case that is in federal court based on a claim with both federal and state claims, the court may remand that case if the state claim pre-dominates the controversy.
+
+Facts
+Burnett and the other plaintiffs joined in the suit work for the Birmingham Board of Education. They filed suit to be paid according to a scale for their job classifications. They brought a state claim for breach of contract and state and federal constitutional claims. The defendants filed a motion to remove the case to a federal court. Then the plaintiff filed a motion to remand the case back to state court.
+
+Issue
+Whether under 28 U.S.C. s. 1441 c a federal court is permitted to remand a case with both state and federal claims are present; however, the state claim is the dominant one.
+
+Held
+Yes. Here the court finds the state claim for payment and breach of contract to be the dominate issues so remand will be proper. The constitutional issues were a tactic some call the proverbial “kitchen sink” of claims. The constitutional issues are not the heart of the claim. Defendants raise the issue that several jurisdictional statutes are raised which isn’t proper. The court disagreed. Remanding is proper under section 1441 c and the fact that jurisdiction is also based on other statutes is irrelevant.
+
+Dissent
+
+
+Discussion
+Had plaintiff raised the notice issue for the removal action within 30 days of the motion, the federal court could have dismissed the case. The court found they waived this claim because of the late response.
+

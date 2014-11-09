@@ -1,0 +1,21 @@
+Citation
+N.C. 453 256 S.E.2d 806 1979 N.C.
+
+Brief Fact Summary
+Pilot error caused an airplane crash, killing the pilot and the passengers.
+
+Synopsis of Rule of Law
+A professional standard of care is not a subjective standard, it is an objective standard predicated on the rules and guidelines of the profession.
+
+Facts
+This suit is the result of an airplane crash that charges the pilot with negligence. The pilot and his passengers all died as a result of the crash. According to the widow of the passenger, the pilot spent a long time loading and reloading the small aircraft prior to take off. There was evidence that the plane was not properly balanced. At trial, an expert testified that in his opinion the pilot should have used flaps to aid in the takeoff and should have made a controlled landing shortly after takeoff. In the expert’s opinion, had the pilot taken these measures, the crash would have been avoided. The jury found there was no pilot error after receiving a jury instruction containing a definition of negligence that focused on the defendant’s own experience and training.
+
+Issue
+Whether professionals should be held to an industry standard of care or one that is predicated on their individual experiences and training.
+
+Held
+The proper standard of care for professional negligence is an objective standard, using minimum industry standards and not looking into the individual’s actual training or experience. The jury instruction instead created a subjective standard by focusing on the defendant’s personal training.
+
+Discussion
+The jury instructions in this case imposed a subjective standard by asking the jury to decide if the pilot acted in a reasonably prudent manner given the pilot’s own particular experience and training. Instead, the pilot’s actions are to be measured by an industry standard that is applicable to all pilots. By using an objective standard the court avoids imposing a different standard of care for each case.
+

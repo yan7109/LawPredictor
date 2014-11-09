@@ -1,0 +1,21 @@
+Citation
+886 F.2d 944 (7th Cir. 1989)
+
+Brief Fact Summary
+The defendant was convicted of one conspiracy to use interstate commerce to engage in the business of prostitution, and one conspiracy to defraud the Internal Revenue Service (”I.R.S.”).
+
+Synopsis of Rule of Law
+A co-conspirator’s statement satisfies the “in furtherance” portion of Federal Rules of Evidence (”F.R.E.”) Rule 801(d)(2)(E) when it is part of the information flow that helps all members perform their roles.  Moreover, in order for a hearsay statement to be admissible under F.R.E. Rule 804(b)(5), the declarant must be unavailable, and the statement must contain circumstantial guarantees of trustworthiness like the other, more specific, exceptions to the hearsay rule.  The statement must also be relevant to a material fact, and more probative then some other piece of evidence.
+
+Facts
+The defendant managed one of the two businesses engaging in activities relating to prostitution.  One was a nude dancing establishment and the other was a massage parlor.  Various churches and other “shell” entities were set up in order to shield income from these establishments from taxation.
+
+Issue
+Whether two statements made by other participants in the conspiracy were admissible under F.R.E Rule 801(d)(2)(E)?
+
+Held
+No.  The two statements were narrative discussions of a past event, and do not qualify as acting in furtherance of the conspiracy.  As a result, they are inadmissible against all except the declarants themselves.  The admission of the statements, however, constituted harmless error.
+
+Discussion
+F.R.E Rule 804(b)(5) is the catch all exception to the hearsay rule, and is to be used sparingly.  In this case, the grand jury testimony was given under oath, and before immunity was granted to the witness.  As a result, the testimony had the additional guarantees inherent in a statement against interest.
+

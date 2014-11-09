@@ -1,0 +1,21 @@
+Citation
+29 Conn. Supp. 275,1971 Conn. Super.283 A.2d 226,
+
+Brief Fact Summary
+Margaret left a will purporting to exercise a power given to her through a trust crated by her mother, Caroline Trowbridge.  Margaret made several provisions and the court determines whether each violates the Rule Against Perpetuities.
+
+Synopsis of Rule of Law
+Under the Rule Against Perpetuities, a future interest which might not vest within twenty-one years after the life of some person in being at the date that an interest in a power of appointment was established is void.  Under the second look doctrine, the court looks at the date the power was created, taking into account facts existing at the date of the exercise of the power of appointment.
+
+Facts
+Trowbridge created an irrevocable inter vivos trust that gave her daughter Margaret a life income interest and a general testamentary power of appointment over one-half of the corpus.  The remaining one-half as well as the half subject to the power in default of its exercise, would be distributed to Margaret’s issue per stripes or, if none, to another daughter of the settlor.  Trowbridge reserved the right to revoke the trust respecting the payment of income.  In 1929, Mary was born to Margaret.  In 1941, Caroline died.  In 1969 Margaret died, leaving a will purporting to exercise the power creating another trust to pay the income to Margaret’s daughter Mary for 30 years, and then to distribute the principal to Mary but if Mary dies during the 30-year period, to distribute the principal to Mary’s issue per stirpes.
+
+Issue
+Whether the perpetuities period begins from the date the trust was created or the date of Trowbridge’s death? Whether the 30 year income interest, taking into consideration the facts as they existed when Margaret died, is valid? Whether the remainder limited to Mary at the end of the 30 year period, taking into consideration the facts as they existed when Margaret died, is valid? Whether the gift-over to Mary’s issue is void? Whether the gift-over to Mary’s issue is valid under the second-look doctrine?
+
+Held
+The perpetuities period begins from the date that the trust was created because the trust was irrevocable as to the trust principal.   Since Mary was not born until 1929, she was not a life in being at the creation of the trust and cannot be used as a measuring life. Yes.  The 30 year income interest vested in possession on the death of Margaret, a life in being. Yes.  The remainder limited to Mary at the end of the 30 years was valid because at Margaret’s death, it was vested subject to total divestment. Yes. The gift-over to Mary’s issue is void because it might not vest until more than 21 years after the death of Margaret.  The issue might survive until the time of possession which might occur 21 years after Margaret’s death. No.  Mary was not alive at the settlor’s death so the facts existing at Margaret’s death do not save the gift.
+
+Discussion
+The appointments under testamentary power are read Back into the instrument crating the power.  The applicable perpetuities period runs from the creation of the power.
+

@@ -1,0 +1,21 @@
+Citation
+9 Ex. 341
+
+Brief Fact Summary
+Plaintiffs operated a mill, and a component of their steam engine broke causing them to shut down the mill. Plaintiffs then contracted with Defendants, common carriers, to take the component to W. Joyce & Co. to have a new part created. When delivery was delayed due to Defendants’ neglect, causing Plaintiffs’ mill to remain closed longer than expected, Plaintiffs sued to recover damages.
+
+Synopsis of Rule of Law
+The damages to which a nonbreaching party is entitled are those arising naturally from the breach itself or those that are in the reasonable contemplation of the parties at the time of contracting.
+
+Facts
+Plaintiffs operated a mill, which they were forced to shut down when the crank shaft of their steam engine broke. They contacted the manufacturer of the engine, W. Joyce & Co. (Joyce), and Joyce agreed to make a new shaft from the pattern of the old one. Therefore, a servant of Plaintiffs went to the office of Defendants, common carriers, to have the crank shaft taken to Joyce. Plaintiffs’ servant told Defendants’ clerk that the mill was shut down and the shaft must be sent immediately. The clerk informed Plaintiffs’ servant that if the shaft were given to them by twelve o’clock any day, it would be delivered by the next day. Plaintiffs took the shaft to Defendants the next day before noon. Due to Defendants’ neglect, the delivery to Joyce was delayed, and Plaintiffs did not receive the new shaft for several days after they should have received it.
+
+Issue
+Are Defendants liable to Plaintiffs for damages suffered by Plaintiffs due to lost profits?
+
+Held
+No. A nonbreaching party is entitled damages arising naturally from the breach itself or those that are in the reasonable contemplation of the parties at the time of contracting. Here, while the breach by Defendants was the actual cause of the lost profits of Plaintiffs, it cannot be said that under ordinary circumstances such loss arises naturally from this type of breach. There is a multitude of reasons for a miller to send a crank shaft to a third party. Defendants had no way of knowing that their breach would cause a longer shutdown of the mill, resulting in lost profits. Further, Plaintiffs never communicated the special circumstances to Defendants, nor did Defendants know of the special circumstances.
+
+Discussion
+Damages are limited to those that arise naturally from a breach and those that are reasonably contemplated by the parties at the time of contracting.
+

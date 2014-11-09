@@ -1,0 +1,24 @@
+Citation
+453 U.S. 454, 101 S. Ct. 2860, 69 L. Ed. 2d 768 (1981)
+
+Brief Fact Summary
+A police officer arrested four people in a speeding car.  He examined passenger compartment, and found a jacket containing incriminating evidence.
+
+Synopsis of Rule of Law
+“When a policeman has made a lawful custodial arrest of the occupant of an automobile, he may, as a contemporaneous incident of that arrest, search the passenger compartment of that automobile” and that “the police may also examine the contents of any containers found within the . . . compartment.”
+
+Facts
+A New York state police officer pulled over a speeding vehicle, with four occupants, including Roger Belton ["the respondent"].  The vehicle belonged to none of the men present.  The police officer smelled burnt marijuana, and saw an enveloped associated with the drug.  He ordered the men out, arrested them for possession.  He split them up, confiscated the drug, and searched each of them.  He then searched the passenger compartment of the car, and found the respondent’s leather jacket.  He found cocaine in one of the pockets.
+
+Issue
+Whether “the constitutionally permissible scope of a search incident to his arrest include the passenger compartment of the automobile in which he was riding.”
+
+Held
+Yes.  The court set out to firmly define the parameters of a search incident to arrest, established under previous law as “the area within the immediate control of the arrestee.”  A reading of case law “suggests the generalization that articles inside the relatively narrow compass of the passenger compartment of an automobile are in fact generally, even if not inevitably, within ‘the area into which an arrestee might reach . . . a weapon” or evidence.  Any containers within the passenger compartment could be searched for that same reason.
+
+Dissent
+J. Brennan, joined by J. Marshall, felt that the court had not been specific enough, citing timing issues, the potentially broad definition for interior, the impact of the make and model of the vehicle, and the nature of any containers inside the passenger compartment.
+
+Discussion
+If there is a proper arrest, any part of a vehicle that might be in the arrestee’s reach can be searched without a warrant or probable cause.
+

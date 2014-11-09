@@ -1,0 +1,21 @@
+Citation
+486 F. Supp. 232, 1980 U.S. Dist.
+
+Brief Fact Summary
+Plaintiff, Elmer Curtis Turbyfill, suffered severe burns after he caught fire while starting a vehicle owned by Defendant, International Harvester.  Plaintiff appealed the decision to allow a note written by a now-deceased witness, Oakley Anderson, to be admitted.
+
+Synopsis of Rule of Law
+Hearsay evidence that does not fit under any particular exceptions to the hearsay rules can still be admissible under Rule 804(b)(5) of the Federal Rules of Evidence if it meets the requirements therein.
+
+Facts
+Plaintiff was looking to purchase a truck for Defendant.  The truck that Plaintiff wanted would not start, so he and his companions, along with help from Defendant’s mechanic (Anderson), tried to start the truck.  After Plaintiff poured gas into the carburetor, a companion tried to start the truck.  The truck backfired, igniting the Plaintiff and the gas canister he was holding.  A supervisor working for the Defendant company asked Anderson to go into an empty room and write a detailed account of what happened.  After he wrote it, he signed it in front of the supervisor.  Anderson died before trial, so Defendant admitted his signed statement.  The advisory jury found for Defendant.
+
+Issue
+The issue is whether the signed statement from the now-deceased witness is admissible under a hearsay exception.
+
+Held
+The United States District Court for the Eastern District Of Michigan, Southern Division, held that the written statement met all the requirements under Rule 804(b)(5) as being admissible.  The Rule stipulates that the statement should be offered as evidence of a material fact, there is no other evidence more probative in proving the points at issue, and the general purposes of justice will be served through its admission.  The facts demonstrate that the statement met these requirements.  The Court notes that the reliability of the statement is proven by the fact that it was written outside of any pressure from supervisors, and the supervisor verified that it was from Anderson.  The Court also noted that if Anderson were alive today, the evidence would have been admissible to refresh his memory.
+
+Discussion
+Rule 804(b)(5) is a catch-all rule that a court can use to admit hearsay evidence that does not fall under any other hearsay exception but still meets a set of requirements that ensure the hearsay is reliable as evidence.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.180 F.2d 537 (2d Cir. 1950)
+
+Brief Fact Summary
+In an action for refund of federal estate taxes, the trial court judge based his findings of fact on the oral testimony of a witness. The Appeals Court reasoned they had to find this case an exceptional circumstance in order to warrant reversing the lower court judge’s ruling.
+
+Synopsis of Rule of Law
+Appeals courts may only disturb findings of trial court judges where the evidence supporting the judge’s finding as to any fact issue is based entirely on oral testimony.
+
+Facts
+In an action for refund of federal estate taxes, the Decedent husband and wife each set up a trust in which the other had a life interest. The pertinent question turned on whether the trusts were set up independently or by mutual agreement, each respectively having a different tax consequence. The Plaintiff asserted that the trusts were set up independently and the trial court judge found it so.
+
+Issue
+Whether the Court of Appeals could overrule the finding of a lower court judge who based his findings of fact on an issue through oral testimony.
+
+Held
+The undisputed facts are such that we have a “definite and firm conviction” that the trial judge was mistaken in finding that Mr. and Mrs. Orvis each pursued an independent course in creating their trusts and that no reciprocity was intended. The court held that the finding was clearly erroneous and found that the trusts were made in consideration of the other.  <br/><br/><span class='heading'>Dissent.</span> This is a typical instance for the application of Federal Rule of Civil Procedure (FRCP) Rule 52(a). Though a trial judge may at times be mistaken as to facts, appellate judges are not always all knowing.
+
+Discussion
+The Court of Appeals extensively reasoned how a trial court judge’s decision could be held erroneous.  It is stressed that a trial court judge has an advantage over an appeals courts because he saw and heard witnesses as they testified. However, the finding of a trial court judge is clearly erroneous when, although there is evidence to support it, the reviewing court on the evidence is left with the firm conviction that a mistake has been committed.  The Court of Appeals reasoned as follows: When a verdict is reached by a general or special jury, the verdict must be sustained regardless of whether the evidence was oral or by deposition because there was some evidence present that the jury might have believed and there was inference from that evidence to support the finding. When an administrative agency decides a case, it was usually treated like a special verdict. However, when a judge hears a case, three scenarios develop – the appeals court may disregard the findings of the judge when he decides a fact issue on written evidence alone   and where the evidence is partly oral and the balance is written or deals with undisputed facts. But where the evidence supporting the trial judge’s finding as to any fact is entirely oral testimony, appeals courts may disturb that finding only in unusual circumstances.  In this case, the trial judge could have only relied on the testimony of the witness, Merritt as to the reasons given to him by the husband and wife respectively, during the creation of their trusts. Nothing explained why the life estates were created nor disproved the contention that the trusts could have been made by mutual agreement. There was too much inference drawn as to the intentions of the couple and such a belief based on inferences should not have been the foundation of a trial court judge’s finding on a fact issue.
+

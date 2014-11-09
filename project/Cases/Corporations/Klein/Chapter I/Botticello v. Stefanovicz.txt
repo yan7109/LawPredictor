@@ -1,0 +1,21 @@
+Citation
+177 Conn. 22, 411 A.2d 16 (1979)
+
+Brief Fact Summary
+Plaintiff, Anthony Botticello, entered a real estate leasing agreement with an option to buy with Defendant-husband, Walter Stefanovicz.  Plaintiff was unaware that Walter Stefanovicz only had an undivided half interest in the real estate, while Defendant-wife, Mary Stefanovicz, owned the other half and refused to accept the terms of the agreement.
+
+Synopsis of Rule of Law
+Ratification of an agency relationship by the principal requires full knowledge of the material circumstances, regardless of the principal receiving the proceeds or benefits of the agent’s work.
+
+Facts
+Defendants, Walter and Mary Stefanovicz each owned one half of an undivided interest in a farm.  Plaintiff and Walter discussed Plaintiff’s potential purchase of the farm, and Mary told Walter she would never sell the farm for less than $85,000.  Plaintiff entered a lease with an option to buy the farm.  Plaintiff dealt exclusively with Walter and did not know that Walter possessed only a half interest.  Mary did not know the specifics of Walter and Plaintiff’s agreement, and she never consented to the sale.   Prior to the agreement at issue, Walter handled a majority of the business but Mary always offered her signature other matters associated with the farm.
+
+Issue
+The issue is whether Mary agreed to allow Walter to act as her agent by ratifying his conduct when she received the proceeds of the agreement at issue.
+
+Held
+Walter was not acting as an agent on behalf of Mary.  No apparent authority existed because Plaintiff never knew that Mary was a principal.  There was no ratification by Mary for Walter’s conduct because she was unaware that the benefits she received from the agreement stemmed from a lease with an option to buy.
+
+Discussion
+The court holds that a marriage cannot in itself prove an agency relationship, and no agency relationship is established by a joint ownership.  One owner cannot bind the other owner through an agency relationship simply because they are joint owners.
+

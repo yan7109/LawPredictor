@@ -1,0 +1,24 @@
+Citation
+455 U.S. 603, 102 S. Ct. 1309, 71 L. Ed. 2d 490, 1982 U.S.
+
+Brief Fact Summary
+Weir (Respondent) was convicted of first-degree manslaughter for his role in a stabbing at a nightclub; that decision was affirmed on appeal by the Kentucky Supreme Court.  The U.S. District Court for the Western District of Kentucky granted a habeas corpus writ, which the Sixth Circuit Court of Appeals affirmed; that decision is reviewed here.
+
+Synopsis of Rule of Law
+A violation of due process does not occur when a suspect is impeached regarding his post-arrest silence, when there is no evidence that any Miranda warnings were given.
+
+Facts
+Weir (Respondent) was convicted of first-degree manslaughter after he stabbed Ronnie Buchanan (Victim) in the parking lot of a nightclub.  Respondent asserted, for the first time at trial, that he acted in self-defense and that the stabbing was an accidental one.  When arrested, however, Respondent did not assert that he had acted in self-defense.  Ultimately, Respondent was convicted of first-degree manslaughter.
+
+Issue
+Was it a violation of Respondent’s due process rights under the Fourteenth Amendment to the United States Constitution to use Respondent’s post-arrest silence for impeachment purposes, where there was no evidence that Respondent had received the required Miranda warnings?
+
+Held
+No; no violation of due process occurs under such circumstances when evidence of Miranda warnings being given is absent and when Respondent took the stand and was cross-examined.
+
+Dissent
+Justice Marshall dissents, but does not write separately.
+
+Discussion
+The court states that Miranda warnings, by their very nature, contain an implied assertion that one’s silence will not be used against him.  Here, since no Miranda warnings were present, when Respondent chose to take the stand he was open to cross-examination, and no violation of due process occurred.
+

@@ -1,0 +1,21 @@
+Citation
+217 Va. 688, 232 S.E.2d 745, 1977 Va. 224.
+
+Brief Fact Summary
+The Defendant, Charles Walter Lund (Defendant), was charged in an indictment with the theft of keys, computer cards, computer printouts and using, without authority, computer operation time and services of Computer Center Personnel at Virginia Polytechnic Institute (VPI) with intent to defraud, such property and services having a value of one hundred dollars ($100) or more. The Defendant was found guilty of grand larceny and sentenced to two years in the State penitentiary.
+
+Synopsis of Rule of Law
+At common law, labor or services could not be the subject of an action for false pretenses because neither time nor services may be taken or carried away.
+
+Facts
+The Defendant was a graduate student in statistics and was a candidate for a Ph.D. degree at VPI. The preparation of his dissertation required the use of a computer and the assistance of computer center personnel, but the Defendant’s faculty advisor failed to properly arrange for the Defendant to use a university computer. The Defendant acquired keys to computer center lock boxes that belonged to other persons and used the lock box accounts to access university computers and print-out research. The Defendant came under surveillance because a large amount of unauthorized charges were attributed to lock box accounts. The director of the university computer center estimated that the Defendant had accumulated $26,384.16 in unauthorized computer and print-out charges.
+
+Issue
+Can the Defendant be convicted of false pretenses and/or larceny where the objects that were used by the Defendant were labor and services?
+
+Held
+The judgment of the trial court is reversed and the indictment is quashed. The State of Virginia has no statute that provides that an action for false pretenses may be based upon the subjects of labor or services.
+
+Discussion
+The labor and services and use of computer are not subjects of Virginia’s statutory larceny or false pretenses scheme. Further, the property that could be found to be taken and carried away, namely the computer print-outs, did not have any monetary value. In fact, the university computer center director testified to the fact that the print-outs themselves had a monetary worth equivalent to scrap paper. As a result, because the computer center services and computer cannot be carried away and because the print-outs had no monetary value, the indictment of the Defendant cannot be upheld.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.192 F.3d 295 (2d Cir. 1999)
+
+Brief Fact Summary
+Bertoli, an employee of Monarch Funding Corporation (Monarch) was convicted of obstruction of justice in connection with a Securities Exchange Commission (SEC) investigation. This appeal arose out of the SEC’s contention that collateral estoppel acted to bar the relitigation of findings made during the sentencing proceedings in a separate criminal case against Bertoli.
+
+Synopsis of Rule of Law
+Precluding relitigation in a subsequent civil case of issues raised in criminal proceedings is presumptively improper, and the burden is on the plaintiff to show that it is clearly fair and efficient to preclude relitigation.
+
+Facts
+The SEC initiated this action, alleging that Bertoli violated the securities laws in connection with his involvement with Monarch. This civil action commenced after Bertoli had been tried, convicted and sentenced for obstruction of justice charges in connection with an SEC investigation. Importantly, Bertoli was acquitted of the securities fraud violations. However, during sentencing, the district court judge made certain findings that Bertoli had attempted to conceal securities fraud. Since Bertoli was not convicted of securities fraud violations, the findings were not directly relevant, and therefore not necessary, to sentencing. Nonetheless, the SEC moved for summary judgment in this pending civil suit, claiming that the sentencing findings that Bertoli violated the securities law must preclude the relitigation of that issue in this case. The district court granted the motion for summary judgment, and this appeal ensued.
+
+Issue
+May findings made in a criminal proceeding preclude relitigation of an issue in a subsequent civil case?
+
+Held
+Presumptively no, but if the plaintiff proves that precluding relitigation is clearly fair and efficient, then collateral estoppel will act to bar relitigation on the issue. The primary rationale for the doctrine of collateral estoppel, which bars the relitigation of claims already decided, is the promotion of judicial economy. Permitting the application of collateral estoppel to sentencing findings will more likely multiply rather than reduce total litigation. First, when a civil action is pending, sentencing findings will likely be more exhaustively litigated since the stakes will be higher in terms of both the sentence itself and the chance of having the issue precluded in the civil litigation. Second, this mushrooming litigation at sentencing is no guarantee that the civil case will be any less contentious. Given these considerations, however, there is no per se rule against precluding relitigation. Where the threat to fairness and/or efficiency has been minimized, collateral estoppel is available to preclude relitigation. Precluding litigation is presumptively improper, though, and the plaintiff has the burden to show that fairness and efficiency are maintained in applying collateral estoppel. In the present case, the SEC failed to prove that preclusion was fair, and the record shows that it was not efficient. Namely, the issue the SEC seeks to have precluded is whether Monarch violated the securities laws, but the finding of a violation in the criminal proceedings was not   necessary to the sentence. Hence, the issue may not have been truly disputed at sentencing since it did not really matter to sentencing. The grant of summary judgment by reason of collateral estoppel was therefore vacated.
+
+Discussion
+Collateral estoppel promotes fairness and efficiency by precluding the relitigation of issues already decided. In the sentencing context, fairness and efficiency generally require that collateral estoppel cannot be invoked to bar civil litigation on the issue unless the plaintiff proves that fairness and efficiency are served by the preclusion of relitigation.
+

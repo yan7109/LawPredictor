@@ -1,0 +1,21 @@
+Citation
+420 U.S. 332, 95 S. Ct. 1013, 43 L. Ed. 2d 232,  1975 U.S.
+
+Brief Fact Summary
+An individual’s conviction for the conversion of union funds was dismissed after a post-trial motion.  The government sought to reinstate the indictment, but the district court ruled double jeopardy barred such action.
+
+Synopsis of Rule of Law
+“[T]he constitutional protection against Government appeals attaches only where there is a danger of subjecting the defendant to a second trial for the same offense.”
+
+Facts
+The Respondent, George W. Wilson, Jr. (the “Respondent”), was tried and found guilty of converting union funds for his own use.  The Respondent’s indictment was dismissed, however, after a post-verdict motion.  The court concluded “that the delay between the offense and the indictment had prejudiced the defendant, and that dismissal was called for.”  Specifically, how certain witnesses were no longer available to testify.  The government attempted to appeal the dismissal to the Court of Appeals, but the court held the double jeopardy clause barred its review.
+
+Issue
+Whether the principles of double jeopardy are applicable?
+
+Held
+“Although the form and breadth of the [double jeopardy] prohibition varied widely, the underlying premise was generally that a defendant should not be twice tried or punished for the same offense.”  However, “[i]n the course of the debates over the Bill of Rights, there was no suggestion that the Double Jeopardy Clause imposed any general ban on appeals by the prosecution.”  “Nor does the common-law background of the Clause suggest an implied prohibition against state appeals.”  Further, “[t]he development of the Double Jeopardy Clause from its common-law origins thus suggests that it was directed at the threat of multiple prosecutions, not at Government appeals, at least where those appeals would not require a new trial.”
+
+Discussion
+In applying the rule to the facts, here, the court observed:  “[t]he jury entered a verdict of guilty against [the Respondent]. The ruling in his favor on the [Marion] motion could be acted on by the Court of Appeals or indeed this Court without subjecting him to a second trial at the Government’s behest. If he prevails on appeal, the matter will become final, and the Government will not be permitted to bring a second prosecution against him for the same offense. If he loses, the case must go back to the District Court for disposition of his remaining motions.”
+

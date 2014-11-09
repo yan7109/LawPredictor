@@ -1,0 +1,21 @@
+Citation
+186 F.R.D. 547, 1999 U.S. Dist.
+
+Brief Fact Summary
+Insolia, May, and Lovejoy (Plaintiffs), three former smokers and their spouses, brought a civil action against the Philip Morris, Inc., and two tobacco industry trade organizations (Defendants) for fraud and civil conspiracy to commit fraud. Defendant filed a Motion to Sever the claims of the three Plaintiffs into three separate actions.
+
+Synopsis of Rule of Law
+Claims not logically related to one another must be divided into separate actions.
+
+Facts
+Plaintiffs’ complaint alleged fraud and civil conspiracy to commit fraud. In order to win, Plaintiffs must demonstrate that the Defendants made false statements on which the Plaintiffs relied. Plaintiffs were recently diagnosed with lung cancer. Each smoked a pack of cigarettes a day for many years. Insolia began smoking at age of 12 and quit 40 years later. May and LoveJoy began smoking at the age of 16 and smoked for about 42 years. Plaintiffs’ complaint presented evidence in support of a class action that the tobacco companies worked together for many years to counteract scientific evidence that smoking was harmful and addictive. In 1958, the companies created a trade association, Tobacco Institute, whose purpose was to create doubt about health effects of smoking. Plaintiffs’ Motion to Certify a class of Wisconsin residents who had smoked for 20 years and been diagnosed with lung cancer was denied on ground that common questions did not predominate.
+
+Issue
+Whether Plaintiffs’ claims arose out of the same transaction or occurrence to be considered a single action?
+
+Held
+No. Defendants’ Motion to Sever the claims of the three Plaintiffs into three separate actions is granted.   Plaintiffs’ claims do not arise out of the same transaction or occurrence. Therefore, they are not similar enough to be joined as a single action. The claims were not logically related to one another for allegations of industry wide conspiracy. According to the facts, Plaintiffs began smoking at different ages, they smoked different brands of cigarettes, and they quit for different reasons. Further, a great burden would be felt on the part of the Defendant, and the risk of jury confusion would be outweighed by the benefits likely to be experienced by the parties.
+
+Discussion
+Under Rule 21 of the Federal Rules of Civil Procedure, the remedy for misjoinder of parties is not to dismiss the action, but to add or drop parties, or to sever and proceed with the claims separately.
+

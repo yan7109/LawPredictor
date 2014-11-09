@@ -1,0 +1,21 @@
+Citation
+416 U.S. 600, 94 S.Ct. 1895, 40 L.Ed.2d 406 (1974)
+
+Brief Fact Summary
+<span class="heading">Synopsis of Rule of Law.</span> Prejudgment-seizure is proper when a judge reviews the complaint that has specific facts alleging possession, a bond is posted, and a hearing is afforded to the party.
+
+Facts
+Grant sold a refrigerator, range, stereo and a washing machine to Mitchell. This was done on credit. Mitchell owed $574.00. Grant filed an affidavit of the amount and stated they had reason to believe Mitchell would alienate or destroy the property. Without a hearing, a Judge signed an order of sequestration and directed a constable to take possession after Grant posted a bond for twice that amount that was due.
+
+Issue
+Whether a sequestration statute authorizing pre-judgment seizure of property violates the Due Process Clause.
+
+Held
+No. Typically pre-judgment procedures, here sequestration, are found to violate due process. However this statute affords parties the requirements necessary for those rights not to be violated. Here it is a judge that reviews the complaint that must provide specific facts for seizure, and the defendant is awarded a hearing to dispute the complaint. Also the writ states the plaintiff will pay for any fines damages and attorney’s fees if a wrongful writ is made. These protections minimize the risk of error significantly.
+
+Dissent
+This case was not meant to overrule Fuentes that invalidates pre-judgment seizures; this case was constitutionally indistinguishable from Fuentes and the majority pushed that decision upon the whole court.
+
+Discussion
+The issue with these cases is that both seller and buyer own an interest in the property that is subject of the claim. However there needs to remain a balance between both parties interest.
+

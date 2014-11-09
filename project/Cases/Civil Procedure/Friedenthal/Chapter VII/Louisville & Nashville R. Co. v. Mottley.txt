@@ -1,0 +1,21 @@
+Citation
+22 Ill.211 U.S. 149, 29 S. Ct. 42, 53 L. Ed. 126 (1908)
+
+Brief Fact Summary
+Plaintiffs, citizens of Kentucky, sued Defendant, a Kentucky corporation, in federal court for breach of contract. The complaint stated that this breach was due to Congress passing a certain statute and that the statute did not apply to Plaintiffs situation and that it violated the Fifth Amendment to the U.S. Constitution. Defendant moved to dismiss, arguing that the federal court did not have jurisdiction because none of the issues in Plaintiffs’ complaint “arose” under federal law.
+
+Synopsis of Rule of Law
+Under the well-pleaded complaint rule, if the facts alleged in a complaint do not demonstrate an issue involving federal law pertaining to the plaintiff’s right to a cause of action, there is no question of federal law and the federal courts do not have federal question jurisdiction. An anticipated defense is not part of the plaintiff’s case and thus cannot be a basis for federal question jurisdiction.
+
+Facts
+The Mottleys, Plaintiffs and citizens of Kentucky, sued Louisville & Nashville R. Co., Defendant, and a citizen of Kentucky, for breach of contract in federal court. Plaintiffs allege that the breach of contract was due to an act of Congress, that the act of Congress did not apply to their situation, and that the act violated the Fifth Amendment. Defendant filed a motion to dismiss. The motion to dismiss was overruled, and Plaintiff was granted relief. Defendant appealed.
+
+Issue
+Does an anticipated defense contained in the plaintiff’s complaint that the plaintiff’s cause of action is not valid under the Constitution or laws under the United States establish subject matter jurisdiction in federal court based on a claim “arising from” federal law?
+
+Held
+No. Reversed and remitted with instructions to dismiss the case.
+
+Discussion
+This case articulates the well-pleaded complaint rule. Plaintiffs cannot raise anticipated defenses as a means of invoking jurisdiction. Plaintiffs must demonstrate that the cause itself arose from federal law.
+

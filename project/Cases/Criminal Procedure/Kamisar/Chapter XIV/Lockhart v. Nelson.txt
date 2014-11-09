@@ -1,0 +1,24 @@
+Citation
+488 U.S. 33, 109 S. Ct. 285, 102 L. Ed. 2d 265 (1988)
+
+Brief Fact Summary
+After being convicted under a habitual offender statute, respondent sought to have his sentence shortened because he was part of the basis for his sentence was on a conviction of which he had been pardoned.
+
+Synopsis of Rule of Law
+Retrial is not permitted when a defendant is sentenced by the use of a nullified conviction, because that does not lend toward a determination of the facts of the matter.
+
+Facts
+Respondent pled guilty to burglary and theft.  He was sentenced under the State’s habitual criminal statute which provided for an enhanced sentence.  At the sentencing hearing, the state sought to use the evidence of prior convictions, but respondent indicated that one of his convictions had been pardoned.  The prosecutor suggested he was confused and continued to move for the enhanced sentence, which was imposed.  Respondent later sought a writ of habeas corpus to the District Court arguing that the sentence was invalid because it was imposed based on a pardoned offense and that imposing such sentence would be in violation of Double Jeopardy.  Defendant requested a new sentencing hearing.
+
+Issue
+Whether the Double Jeopardy Clause allows retrial when a defendant’s conviction must be reversed because evidence should not have been admitted against him.
+
+Held
+Retrial is not permitted when a defendant does not offer evidence to prove that the evidence he wishes to strike is null.
+
+Dissent
+Retrial should be permitted when the state fails to provide sufficient evidence in support of a conviction.
+
+Discussion
+This case creates a burden of proof for a defendant, which outlines the defendant must raise the inadmissibility of evidence against him in order to seek a reversal.
+

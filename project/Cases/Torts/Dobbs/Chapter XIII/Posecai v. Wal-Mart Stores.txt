@@ -1,0 +1,21 @@
+Citation
+752 So. 2d 762 (La. 1999)
+
+Brief Fact Summary
+The Supreme Court of Louisiana granted Defendant’s application for a writ of certiorari, to review Fifth Circuit, Jefferson Parish, Court of Appeals’ decision, which found Defendant liable for Plaintiff’s injuries.
+
+Synopsis of Rule of Law
+Under the duty-risk analysis, the plaintiff must prove that the conduct in question was the cause-in-fact of the resulting harm, i.e., that the defendant owed a duty of care to the plaintiff, the requisite duty was breached by the defendant and the risk of harm was within the scope of protection afforded by the duty breached. Under the duty-risk analysis, all inquiries must be answered in the affirmative for plaintiff to recover.
+
+Facts
+Plaintiff was robbed in the parking lot of a Sam’s Club, owned by Wal-Mart Stores (Defendant). Plaintiff sued, contending that Defendant was negligent in failing to provide adequate security in the parking lot considering the high level of crime in the surrounding area. The trial judge ruled for Plaintiff. Defendant appealed.
+
+Issue
+Was the risk of harm suffered by Plaintiff foreseeable to Defendant thus imposing sole liability for damages?
+
+Held
+No. The court reversed the judgment of the court of appeals, entered judgment in favor of the Defendant. The court concluded that Defendant owed no duty to protect Plaintiff from being robbed in Defendant’s parking lot, because it was not foreseeable.
+
+Discussion
+Posecai illustrates the standard framework in analysis of tort law – that is the four elements of duty, breach, causation and harm. With regard to duty, the court offers a broad explanation: “[a] threshold issue in any negligence action is whether the defendant owed the plaintiff a duty. Whether a duty is owed is a question of law. In deciding whether to impose a duty in a particular case, the court must make a policy decision in light of the unique facts and circumstances presented. The court may consider various moral, social, and economic factors, including the fairness of imposing liability; the economic impact on the defendant and on similarly situated parties; the need for an incentive to prevent future harm; the nature of defendant’s activity; the potential for an unmanageable flow of litigation; the historical development of precedent; and the direction in which society and its institutions are evolving.”
+

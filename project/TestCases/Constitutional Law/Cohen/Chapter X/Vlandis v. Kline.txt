@@ -1,0 +1,24 @@
+Citation
+22 Ill. 412 U.S. 441, 93 S. Ct. 2230, 37 L. Ed. 2d 63 (1973)
+
+Brief Fact Summary
+Two students at a Connecticut state university who were declared nonresidents at the time of their application to college, and later made effort to become residents of Connecticut, challenge a Connecticut regulation that classified students as residents or non-residents during the application process without the ability to have this issue addressed at a later time. These students challenge this regulation on the ground that the regulation violates the Due Process Clause guarantees of the Fourteenth Amendment as it applies to their property right of in-state resident tuition rates.
+
+Synopsis of Rule of Law
+A deprivation of a significant amount of money, such as a residency requirement for university tuition, is a deprivation of a property right and as such entitles the individual deprived to the protections of the Due Process Clause.
+
+Facts
+Connecticut required non-residents enrolled in the state university system to pay higher tuition and fees than residents. It further defined an unmarried student as a non-resident if his or her legal address for any part of the one-year period before applying for admission was outside of Connecticut. The regulation defined a married student as a non-resident if his or her legal address at the time of application for admission was outside of Connecticut. It then provided that a student’s residency status at time of admission continues for the student’s entire period of attendance. Two students, one married and one unmarried, were classified as non-residents at the time of application, but later became residents. They brought suit in the federal district court challenging the conclusive presumption of non-residence as applied to force them to pay higher fees than other residents of the state. The district court agreed with the students that the presumption violated their rights,
+
+Issue
+Whether the Connecticut Statute, creating a permanent irrebuttable presumption of non-residence violates the Due Process Clause?
+
+Held
+Yes. The means adopted by Connecticut to preserve its legitimate interests is violative of the Due Process Clause because it provides no opportunity for students who applied from out of state to demonstrate that they have become bona fide Connecticut residents. The state can establish such reasonable criteria for in-state status as to make virtually certain that students who are not, in fact, bona fide residents of the state, but came solely for educational purposes can not take advantage of the in-state rates. This holding recognizes that a state has a legitimate interest in protecting and preserving the quality of its colleges and universities and the right of its own bona fide residents to attend such institutions on a preferential tuition basis. There is also no requirement in this holding to classify the two students as residents, just a requirement to provide the ability to have the residency status updated following admission to the university. Such an inquiry is require
+
+Dissent
+Believes that the Connecticut statutory scheme is a constitutionally permissible means of dealing with an increasingly acute problem facing state systems of higher education. The dissent also states that the analysis by the majority is highly theoretical and based on a notion of substantive due process that has been long dismissed by the Court.
+
+Discussion
+This case explains one instance in which a property right exists giving rise to the requirements of the Due Process Clause. In this case a significant amount of money was enough to give rise to due process rights. The question after this case is how much money is significant enough to guarantee these rights. Unfortunately this case does not provide this answer and it leaves one to assume that an analysis will be performed on a case-by-case basis, and is left up to judicial discretion.
+

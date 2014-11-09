@@ -1,0 +1,21 @@
+Citation
+163 F.3d 780 (3d Cir. 1999)
+
+Brief Fact Summary
+laimed by A.S. Goldmen& Co., Inc. (Goldmen) (Plaintiff), that the New Jersey Securities Act, N.J. S.A. § 49:3-60 (§ 60) was in violation of the federal Constitution's dormant Commerce Clause as it applied to securities that were exempt from registered or not registration in New Jersey and were sold by New Jersey brokers to out-of-state residents, where those securities meet the requirements for sale.
+
+Synopsis of Rule of Law
+The federal Constitution’s dormant Commerce Clause is not violated by a state statute to the extent that the statute allows the state securities authority to stop the sale of securities to buyers in a state other than the seller, where those securities are qualified for sale.
+
+Facts
+From its sole office in New Jersey, A.S. Goldmen& Co., Inc. sought to underwrite the initial public offering (IPO) ofImatec, Ltd. (Imatec) and requested to register the offering in New Jersey, among other states. Such registration was granted by some states, but the New Jersey Bureau of Securities (Bureau) (Defendant) took part in a Consent Order with Goldmen, allowing him to engage in unsolicited sales from New Jersey while making it illegal for him to solicit members of the public to buy stock of Imatec in the secondary market.  Goldmen only solicited sales from persons outside of New Jersey and the Bureau, thinking Goldmen was in violation of the Consent Order and the securities laws, issued a cease and desist order. A declaratory judgment action was brought against the Bureau in federal district court by Goldmen, claiming that the New Jersey Securities Act, N.J.S.A § 49:3-60 (§ 60) violated the federal Constitution’s dormant Commerce Clause.  Golden argued that § 60, which makes it illegal for any unregistered (unless exempt from registration or federally covered) security to be offered and sold in New Jersey,  was being applied to the sale of securities made from New Jersey to out-of-state individuals where the securities met the requirements of sale. Goldmen’s motion for summary judgment was granted by the district court, and the court of appeals granted review.
+
+Issue
+Is the federal Constitution’s dormant Commerce Clause violated by a state statute where the statute allows the state securities authority to stop the sale of securities to buyers in a state other than the sellers, where those securities are qualified for sale?
+
+Held
+(Garth, J.) No. The federal Constitution’s dormant Commerce Clause is not violated by a state statute to the extent that the statute allows the state securities authority to stop the sale of securities to buyers in a state other than the seller, where those securities are qualified for sale.
+
+Discussion
+Conflict of laws provisions govern jurisdiction in interstate transactions, and as in this case, a state has jurisdiction over sellers in their state regardless of if they are only selling to out-of-state customers. Jurisdiction is given to the state where the offer was made under the Uniform Securities Act, which many states have adopted, however, if the sale is preceded by an offer to purchase then both the offer and acceptance have to occur within the same state for it to have jurisdiction.  So, whenever the seller directs offers to sell from that state to individuals of another state, a state's securities laws are applicable.
+

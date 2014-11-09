@@ -1,0 +1,24 @@
+Citation
+309 N.Y. 103, 127 N.E.2d 832 (1955)
+
+Brief Fact Summary
+Plaintiff, trustee in bankruptcy of Westerlea Builders, Inc., attempts to pierce the corporate veil to hold Defendant personally liable for the contract debts of Westerlea, Defendant’s wholly owned subsidiary.
+
+Synopsis of Rule of Law
+Because the law permits the incorporation of business to for the purpose of escaping personally liability, the court will only “pierce the corporate veil” to prevent fraud or achieve equity.
+
+Facts
+Defendant, a cooperative corporation, was organized to provide low income housing for its veteran members.  Defendant formed Westerlea to undertake construction to build housing for Defendant’s members.  Due to financial difficulty, creditors took over Westerlea’s construction responsibilities, pursuant to an extension agreement.  In October 1952, Westerlea was adjudicated bankrupt.
+
+Issue
+Whether the trial court erred refusal to pierce the corporate veil was proper?
+
+Held
+Yes.  The trial court did not err in refusing to pierce the corporate veil of Westerlea’s corporate existence because Westerlea acted as a separate corporation and there was no fraud, misrepresentation or fraud.
+
+Dissent
+The corporate veil should be pierced because Westerlea was organized solely to benefit Defendant, not to operate as a separate entity.  Westerlea did not have a separate corporate identity because it was Defendant’s wholly owned subsidiary that had the same directors and management as Defendant.  Westerlea was undercapitalized because Defendant provided Westerlea with small capital and Westerlea maintained insufficient funds to cover the cost of building the homes.  Westerlea’s purpose was not to profit as a business, but to benefit Defendant’s stockholders by providing low cost housing to them.
+
+Discussion
+Although Defendant controlled Westerlea’s affairs, Westerlea maintained an outward indicia of separate corporate identity at all times.  Further, the creditors were not misled, there was no fraud, and Defendant performed no act to cause injury to the creditors of Westerlea by depletion of assets or otherwise.
+

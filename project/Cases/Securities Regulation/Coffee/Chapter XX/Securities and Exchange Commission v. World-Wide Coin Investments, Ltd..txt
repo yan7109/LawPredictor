@@ -1,0 +1,21 @@
+Citation
+567 F. Supp. 724 (N.D. Ga. 1983)
+
+Brief Fact Summary
+It was claimed by the Securities and Exchange Commission (SEC) (Plaintiff) that World-Wide Coin Investments, Ltd.'s (Defendant) internal accounting practices were in violation of the Foreign Corrupt Practices Act (FCPA), which merged accounting provisions into federal securities laws.
+
+Synopsis of Rule of Law
+Under the Foreign Corrupt Practices Act, when internal accounting records and controls are insufficient, the SEC may impose liability.
+
+Facts
+A corporation engaged in the retail and wholesale vending of precious metal, rare coins, and Coca-Cola collector items was World-Wide Coin Investments, Ltd. (World­ Wide)and they transacted sales at nationwide coin shows and at its office in Atlanta. The common stock of World-wide was registered with the SEC and up until 1981 was listed on the Boston Stock Exchange. When Hale took over control and management, mid-1979, World-wide had over $2 million in assets and had forty employees. A short time after, an independent auditor, Kanes, Benator, warned Hale that the internal accounting system at World-Wide was insufficient with regard to records and inventory but Hale ignored them. An accurate inventory was impossible to have because World-Wide employees were not required to write purchase orders and rare coins were never guarded.  Consequently, the financial troubles that World-Wide experienced were as a result of problems caused by the absence of internal accounting controls. The SEC filed suit against World-Wide and Hale in August of 1981, claiming they violated the Securities Exchange Act of 1934.
+
+Issue
+Under the Foreign Corrupt Practices Act, when internal accounting records and controls are insufficient, may the SEC impose liability?
+
+Held
+(Vining, J.) Yes. Under the Foreign Corrupt Practices Act, when internal accounting records and controls are insufficient, the SEC may impose liability.As a result of the FCPA, the SEC is permitted enforcement over the internal accounting procedures of companies with registered securities and accounting provisions are incorporated into federal securities law. Congress’ intention that the scope of federal securities laws must be extended past disclosure requirements is reflected in the FCPA. Section 13(b)(2)(a) of the FCPA includes the books and records provision where a company’s records need to show transactions with compliance with accepted accounting methods.; misstatements and concealment that cause inaccurate records are made illegal.  The prerequisite for accuracy of records expects only that the record-keeping system will be sufficient and allows the company to choose how to implement the system.  When deciding if internal accounting procedures are sufficient, the business size, and its complexity and other conditions are proper considerations. One should note that there is no scienter requirement in because even unintentional errors could allow for the utilization of corporate assets that Congress wanted to prevent via the FCPA. Independent auditors expressly warned World-Wide and Hale that the accounting system they were employing had substantial weaknesses. Subsequently, World-Wide was nearly annihilated, partly due to the absence of internal accounting controls. So, according to the FCPA, World-Wide’s accounting procedures were obviously insufficient.  Hale must return all shares of World-Wide that he holds, World-Wide needs to disclose all material information concerning its operations since July 1979 and an independent audit is ordered. Judgment for the SEC.
+
+Discussion
+Wide discretion is given to the SEC by FCPA in questioning the information process in any publically held corporation. The SEC has failed to be aggressive in going after cases due to extensive criticism of this discretion as interfering with corporate management. It has willingly limited its enforcement actions to situations in which top management is implicated and to unreasonable nonconformities that are more than intermittent, unintentional errors.
+

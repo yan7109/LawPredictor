@@ -1,0 +1,21 @@
+Citation
+114 F.2d 28 (2d Cir. 1940)
+
+Brief Fact Summary
+Stern (Defendant) claimed that Gillman's (Plaintiff) patent was invalid since Haas had secretly invented a similar "puffing machine" years earlier.
+
+Synopsis of Rule of Law
+An inventor who strictly keeps the operation and structure of his machine secret while operating it commercially is not the first inventor if another made the first public use.
+
+Facts
+Plaintiff sought an injunction for a patent infringement on a "puffing machine."  The machine operated by blowing thread or yard into packets formed in fabric to create a design.  Defendant raised several defenses, one being that there had been a prior use of the machine by Haas.  In the fall of 1929, Haas had invented a puffing machine similar to the patented one.  He kept it a strict secret and was careful to keep people out of the shop where he kept his four machines.  He had his wife and four employees join him in the strictest secrecy.  Haas did reveal how the machine performed to two investors who tried, but did not succeed in raising the money for a patent.  The lower court held Plaintiff's patent invalid.  Both sides appealed.
+
+Issue
+Is an inventor who keeps the operation and structure of his machine secret while operating it commercially always the "first inventor?"
+
+Held
+(Hand, J.)  No.  An inventor who keeps the operation and structure of his machine secret while operating it commercially is not the first inventor if another inventor made the first public use.  To receive a patent, the inventor must be a "first and original inventor."  To satisfy this part of the statute, a first inventor must make his results public as held in Gayler v. Wilder, 10 How. 447.  Just as a secret use is not a "public use," a secret inventor is not a "first inventor."  In this case, it is clear Haas's use was not public and he was not a "first inventor."  Reversed and remanded.
+
+Discussion
+According to Judge Learned Hand, it is debatable that the statute should limit prior "public uses" to the patentee only and that "first inventor" should apply to the first who conceives the invention in tangible form.  The law did not develop in that way however, and the results are as seen in Gillman.  Canada originally used a pure first-to-invent system so that if anyone in the world invented something, a second inventor would be barred from obtaining a patent on the item.  This system was created in a judicial decision, but the Canadian Parliament modified it to a more realistic system in 1935.  In 1989, Canada abandoned the first-to-invent system.
+

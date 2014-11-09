@@ -1,0 +1,21 @@
+Citation
+488 U.S. 153, 109 S. Ct. 439, 102 L. Ed. 2d 445, 1988 U.S.
+
+Brief Fact Summary
+The spouses of the plaintiffs died during flight training when their plane was unable to recover from an evasive maneuver.  The defendant, Beech Aircraft Corp. (the “defendant”) attempted to admit an investigative report that concluded the accident was caused by pilot error.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.) Rule 803(8)(c) should be construed broadly to ensure reports that contain opinions or conclusions are not automatically excluded from evidence.
+
+Facts
+The deceased spouses of the plaintiffs died during naval flight training.  The cause of the accident put forth by the plaintiffs was a malfunctioning fuel control system.  The defendant contended that pilot error caused the accident.  To support their contention, the defendant submitted a Judge Advocate General (”JAG”) investigative report that included opinions and conclusions from the investigator.
+
+Issue
+Whether statements in the form of conclusions or opinions are by their nature excluded from F.R.E. Rule 803(8)(c)? Whether plaintiff should be allowed to introduce further portions of evidence that were only partially admitted in order to clarify the admitted portions?
+
+Held
+The court allowed the investigation report to be admitted under F.R.E. Rule 803(8)(c) despite the presence of opinions and conclusions by the investigator.  The court wanted a broad interpretation of the Rule to encompass records that may have these statements and yet have a high level of trustworthiness. The plaintiff should be allowed to introduce other portions of a record under the “rule of completeness,” a doctrine that ensures that misunderstandings or distortions of partially admitted records will be clarified.<span class='heading'>Dissent.</span>  The dissenting judge believed that plaintiff’s counsel did not properly argue for the admission of the additional portions of the record that was partially admitted, and therefore the lower court decision should stand.<br />
+
+Discussion
+The court analyzed precedent, legislative history and treatises before concluding that “facts” as defined in the Federal Rule should include conclusions or inferences that are based on facts.  The chief concern is whether the record is trustworthy, and this is why the Rule includes the “escape clause” that refuses admittance of records where circumstances lead to its unreliability. The rule of completeness was used here to allow cross-examination by the plaintiff’s own attorney in order to clarify portions of the disclosed letter.  The barrier here is not the trustworthiness of the document, but rather the unfairness of allowing only selected portions of a letter to get introduced.
+

@@ -1,0 +1,18 @@
+Citation
+385 U.S. 493, 87 S. Ct. 616, 17 L. Ed. 2d 562 (1967)
+
+Brief Fact Summary
+A group of police officers were investigated by the state attorney general for fixing traffic tickets.  They were asked various questions and were not given immunity.  Some of there answers were used in subsequent conspiracy prosecutions.
+
+Synopsis of Rule of Law
+“[T]he protection of the individual under the Fourteenth Amendment against coerced statements prohibits use in subsequent criminal proceedings of statements obtained under threat of removal from office, and that it extends to all, whether they are policemen or other members of our body politic.”
+
+Facts
+The Appellants were a group of police officers from New Jersey.  The Supreme Court of New Jersey tasked the state attorney general to investigate irregularities in the handling of various cases in municipal courts.  Specifically, the fixing of traffic tickets.  Each Appellant was warned prior to being questioned, “(1) that anything he said might be used against him in any state criminal proceeding; (2) that he had the privilege to refuse to answer if the disclosure would tend to incriminate him; but (3) that if he refused to answer he would be subject to removal from office.”  The Appellants answered the questions, no immunity was granted and the state of New Jersey did not have an immunity statute relevant to this situation.  Some of the Appellants’ responses were used to prosecute them in subsequent prosecutions concerning conspiracy to obstruct the administration of the traffic laws.  The Appellants were convicted and the convictions were sustained over there Appellants’ pr
+
+Issue
+“[W]hether a State, contrary to the requirement of the Fourteenth Amendment, can use the threat of discharge to secure incriminatory evidence against an employee[?]”
+
+Held
+No.  “We conclude that policemen, like teachers and lawyers, are not relegated to a watered-down version of constitutional rights.”  “[T]he protection of the individual under the Fourteenth Amendment against coerced statements prohibits use in subsequent criminal proceedings of statements obtained under threat of removal from office, and that it extends to all, whether they are policemen or other members of our body politic.”  “The choice given petitioners was either to forfeit their jobs or to incriminate themselves.  The option to lose their means of livelihood or to pay the penalty of self-incrimination is the antithesis of free choice to speak out or to remain silent. That practice, like interrogation practices we reviewed in [Miranda v. Arizona], is ‘likely to exert such pressure upon an individual as to disable him from making a free and rational choice.’ ” We think the statements were infected by the coercion inherent in this scheme of questioning and cannot be sustained
+

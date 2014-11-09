@@ -1,0 +1,21 @@
+Citation
+210 U.S. 373, 28 S. Ct. 708, 52 L. Ed. 1103 (1908)
+
+Brief Fact Summary
+The plaintiffs challenged a tax which was assessed against their real property by the city council over plaintiffs’ written objections, without affording them a hearing.
+
+Synopsis of Rule of Law
+Due process of law as guaranteed by the Fourteenth Amendment to the Constitution of the United States requires that, where the legislature of a State authorizes a subordinate body to levy taxes, the taxpayer shall have an opportunity to be heard before the tax becomes irrevocably fixed. The taxpayer must have notice, either personal, by publication, or by a law fixing the time and place of the hearing.
+
+Facts
+The charter of the city of Denver empowered the city to make local improvements and to assess the cost upon the properties specially benefited. The plaintiffs owned corner lots and were assessed a tax for paving done to the street which their land abutted. Under the charter, the city clerk was to notify the owners of real estate to be assessed by publication for ten days in a newspaper of general circulation. In this case, the notice did not fix the time for a hearing, but stated that written complaints filed within thirty days would be heard before the city council before the passage of any ordinance assessing the cost. The plaintiffs filed a timely paper with objections, but instead of affording them an opportunity to be heard upon their allegations, the board of the city council met and adopted a resolution to assess the tax. The plaintiffs sought relief from the tax in the State Court of Colorado, claiming the process of assessing the tax denied them due process of law. The trial court granted relief to the plaintiffs, but the Supreme Court reversed, holding that the tax assessed was in conformity with the Constitution and the laws of the State.
+
+Issue
+Upon these facts, was there a denial of due process of law guaranteed by the Constitution, and was the assessment valid?
+
+Held
+Reversed. The assessment was void, as plaintiffs were not allowed an opportunity to be heard and therefore denied due process of law. The hearing requirement was not met by plaintiffs’ submission of their brief; due process required that they have the opportunity to support their allegations by argument and, if necessary, by proof. A hearing was denied to plaintiffs in error.  Dissent. None.  Concurrence. None.
+
+Discussion
+There are few constitutional restrictions on states’ power to assess, apportion and collect taxes. However, where the legislature authorizes a subordinate body to make a determination of the tax, due process of law guaranteed by the Fourteenth   Amendment requires that the taxpayer be afforded a hearing, of which he must have notice. The hearing requirement is not satisfied by the mere right to file objections.
+

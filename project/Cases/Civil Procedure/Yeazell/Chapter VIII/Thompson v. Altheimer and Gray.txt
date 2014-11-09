@@ -1,0 +1,21 @@
+Citation
+248 F.3d 621, 85 FEP Cases 897 (7th Cir. 2001)
+
+Brief Fact Summary
+The Plaintiff, Thompson (Plaintiff), brought suit against her employer, the Defendant, Altheimer and Gray (Defendant), under Title VII of the Civil Rights Act of 1964 (the Act), alleging racial discrimination. The case was tried, the jury returned a verdict for the Defendant and the Plaintiff appealed, arguing that a juror named Leiter should have been struck for cause.
+
+Synopsis of Rule of Law
+A party is entitled to a new trial, based on the court’s failure to remove a biased juror, even if the party failed to use one if its three peremptory challenges to strike the juror, where the court has failed to inquire whether the juror could issue an impartial decision unclouded by the juror’s prior held belief.
+
+Facts
+The Plaintiff brought suit against her employer the Defendant the Act, alleging racial discrimination, The case was tried, the jury returned a verdict for the Defendant and the Plaintiff appeals, arguing that a juror named Leiter should have been struck for cause. The Plaintiff failed to use any of her three peremptory challenges to remove Leiter. The Plaintiff said that she used up her peremptory challenges on jurors whom she considered even less likely to favor her cause than Leiter was.
+
+Issue
+Whether a party is entitled to have a juror struck for cause despite failing to use any of its three peremptory challenges to remove the allegedly biased juror.
+
+Held
+Yes. The Circuit reversed the trial court’s decision and ordered that the Plaintiff was entitled to a new trial.   If the juror Leiter should have been struck for cause, the Plaintiff is entitled to a new trial without having to show that Leiter’s presence on the jury caused the jury to side with the Defendant. Denial of the right to an unbiased tribunal is one of those trial errors that is not excused by being shown to have been harmless.  Bias is only one factor in deciding whether to challenge a juror. A plaintiff may have a duty to use a peremptory challenge to remove a juror whom the judge correctly or incorrectly has failed to remove for cause, in which event a plaintiff who fails to use a peremptory challenge for this purpose will have forfeited the right to appeal the denial of the challenge for cause.  A litigant can let the biased juror be seated and seek to reverse the adverse judgment (if one results) on appeal on grounds of bias.  When a prospective juror manifests a prior belief that is both material and contestable (for, to repeat an earlier point, it is not bias to cling to a belief that no rational person would question), it is the judge’s duty to determine    whether the juror is capable of suspending that belief for the duration of the trial. When as in this case the record contains no assurances that the belief is “shakable,” that the prospective juror can exercise a judgment unclouded by that belief, the verdict cannot stand.
+
+Discussion
+In reaching its decision, the court pointed out that the critical issue was whether Leiter manifested a degree of bias such that the judge abused his discretion in failing to strike her for cause. By denying the Plaintiff’s request for a new a trial, the court found that when Leiter said that she believed some people sue their employer just because they have not gotten a promotion or a raise or some other benefit, she was not manifesting bias. Instead, the court held, she was expressing a prior belief that was not only not irrational, but was undoubtedly true. However, because there was no evidence that the presiding judge inquired into whether Leiter could have rendered a fair judgment unclouded by her belief, the verdict could not be allowed to s
+

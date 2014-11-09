@@ -1,0 +1,21 @@
+Citation
+22 Ill.446 U.S. 740, 100 S. Ct. 1978, 64 L. Ed. 2d 659 (1980)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court in Oklahoma. Under the Oklahoma tolling provisions of the statute of limitations, Plaintiff’s claim had run because Defendant was not served within the time prescribed by statute. The District Court dismissed the case, holding that Oklahoma’s tolling provision applied and the time for Plaintiff to bring his claim had run.
+
+Synopsis of Rule of Law
+A state’s provision tolling its statute of limitations should be analyzed under the Erie doctrine. Consequently, a state’s tolling provisions must apply if it would have prevented the plaintiff from filing a suit in state court. In addition, Rule 3 does not conflict with tolling provisions because it only refers to the time a lawsuit commences under the Federal Rules.
+
+Facts
+Walker, Plaintiff, and a resident of Oklahoma, was injured on August 22, 1975. Plaintiff filed a complaint against Armco Steel Corp., Defendant, a foreign corporation, in federal court based on diversity of citizenship on August 19, 1977. Service of process was not made on Defendant’s agent until December 1, 1977. Defendant filed a motion to dismiss because the statute of limitations had run by the time Defendant was served. Oklahoma state law states that the action is commenced for purposes of the limitation when the complaint is filed if Defendant is notified within 60 days of filing the complaint. The 60 day limit had expired by the time Defendant was served so the statute had run. Plaintiff argued that Rule 3 of the Federal Rules of Civil Procedure governs the case. Rule 3 states: “[a] civil action is commenced by filing a complaint with the court.” The District Court dismissed the complaint because the Oklahoma statute was “an integral part of the Oklahoma statute of limitations” and under Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530, 69 S.Ct. 1233, 93 L.Ed. 1520 (1949), state law must be applied. The Court of Appeals affirmed.
+
+Issue
+Is a state statute that determines when a cause of action commences for purposes of tolling the statute of limitations applicable in a federal court under Erie where the statute is not in direct conflict with Rule 3 of the Federal Rules of Civil Procedure?
+
+Held
+Yes. Judgment of the Court of Appeals affirmed.   Ragan involved the same situation and held that since the statute of limitations barred recovery in state court then the action should not be permitted to survive in federal court.  The test in Hanna v. Plumer, 380 U.S. 460, 85 S.Ct. 1136, 14 L.Ed.2d 8 (1965), states that if the federal rule is in “direct conflict” with the state rule, there must be a determination of whether the federal rule is within the scope of the Rules Enabling Act, and therefore within a constitutional grant of power such as the Necessary and Proper Clause.     Hanna and Ragan are distinguishable from each other because in Hanna, Rule 4(d)(1) of the Federal Rules of Civil Procedure was in direct conflict with the Massachusetts law governing service of process. In Ragan, the state tolling provision was applied and not Rule 3. Rule 3 does not explicitly apply to the tolling of the state statute of limitations. Rule 3 governs the times at which limitations of federal rules begin to run, but does not establish the time at which a state statute of limitations begins to run.  The Oklahoma law requiring a suit to commence by service of process is directly linked to the state’s policy of having the statute of limitations. The statute, therefore, is not in direct conflict with Rule 3. Thus, the Erie doctrine applies.  Under the Erie doctrine, the state law must be applied because not applying the state law would allow out-of-state plaintiffs to avoid unfavorable statutes of limitations.
+
+Discussion
+Under Hanna, a federal procedural rule must directly conflict with the state law dealing with the same issue in order for the federal rule to apply. In this situation, Rule 3 was interpreted not to address the statute of limitations, and thus did not fall into “direct conflict” with the Oklahoma state tolling provisions.
+

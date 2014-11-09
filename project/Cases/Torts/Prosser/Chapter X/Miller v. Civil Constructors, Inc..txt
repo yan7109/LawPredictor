@@ -1,0 +1,24 @@
+Citation
+272 Ill.App.3d 263, 209 Ill.Dec. 311, 651 N.E.2d 239 (Ill. Ct. App. 1995)
+
+Brief Fact Summary
+Person struck by stray bullet at a quarry, where police target practice was conducted, sues in strict liability claiming the use of firearms should be considered “ultrahazardous” activity.
+
+Synopsis of Rule of Law
+If an activity is deemed “ultrahazardous”, strict liability is imposed and there is no need to prove negligence. Courts must analyze the following factors to determine whether an activity is ultrahazardous: a) existence of a high degree of risk of some harm to the person, land or chattels of others; b) likelihood that the harm that results from it will be great; c) inability to eliminate the risk by the exercise of reasonable care; d) extent to which the activity is not a matter of common usages; e) inappropriateness of the activity to the place where it is carried on; and f) extent to which its value to the community is outweighed by its dangerous attributes. The presence of more than one factor (but not all) will be necessary to declare the activity ultrahazardous as a matter of law and find strict liability.
+
+Facts
+Plaintiff Miller was shot by a stray bullet during law enforcement officer target practice near a firing range in a quarry. Plaintiff sued Defendant Civil Constructors, Inc. (as owner of the quarry) in strict liability for injuries to Plaintiff arising from “ultrahazardous” activity for which Defendant was legally responsible, based on control of the premises or the discharge of firearms from police officers conducting target practice on the premises.
+
+Issue
+Whether the use of firearms should be classified as an “ultrahazardous” activity?
+
+Held
+No, in light of the circumstances, the trial court decision is upheld.
+
+Dissent
+Relying on Section 519 of the Restatement of Torts and the rule of strict liability originated in Rylands v. Fletcher (liability “when one damages another by an activity unduly dangerous and inappropriate to the place where it is maintained, in the light of the character of that place and its surroundings”), the court examines various factors to determine whether the use of firearms should be considered an ultrahazardous activity (see synopsis rule above).
+
+Discussion
+Relying on Section 519 of the Restatement of Torts and the rule of strict liability originated in Rylands v. Fletcher (liability “when one damages another by an activity unduly dangerous and inappropriate to the place where it is maintained, in the light of the character of that place and its surroundings”), the court examines various factors to determine whether the use of firearms should be considered an ultrahazardous activity (see synopsis rule above). The central inquiry is whether the risk created is so unusual, either because of its magnitude or because of the circumstances surrounding it, as to justify the imposition of strict liability even though the activity is carried on with all reasonable care.Looking at the use of firearms, the court finds that although such use is often dangerous, it is not ultrahazardous because the exercise of reasonable or “utmost” care will eliminate virtually all risk to others. The doctrine of strict liability is normally reserved “for abnormally dangerous activities for which no degree of care can truly provide safety.” Furthermore, guns are commonly used, and any harm often comes from their misuse, rather than their inherent nature. Finally, in this case, law enforcement officers were doing the target practice, to improve their skills in handling of weapons—and this has social utility to the community which weighs against declaring it an ultrahazardous activity.The 1st Restatement of Torts classifies “ultrahazardous” activity as set forth in the case. The 2nd and 3rd Restatement of Torts, however, classifies such activities as “abnormally dangerous”, and inquiries are dependent instead on the nature of the location where the activity takes place (i.e. an otherwise acceptable activity may become abnormally dangerous when conducted near a populated area, such as blasting).
+

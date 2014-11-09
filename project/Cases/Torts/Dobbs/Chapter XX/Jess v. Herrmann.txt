@@ -1,0 +1,15 @@
+Citation
+545 F.3d 906
+
+Brief Fact Summary
+In counter-suits filed in connection with an automobile collision, the Superior Court of Los Angeles County (California) set off the parties’ respective damages as had been determined by the jury and entered a single net judgment in favor of Plaintiff. Plaintiff accident victim and Defendant accident victim both appealed<span class="heading">Synopsis of Rule of Law.</span> Where both parties in a lawsuit arising from vehicular collision carry adequate insurance to cover damages found to be payable to an injured party, public policy, financial responsibility statutes and fairness support a rule barring a setoff of one party’s recovery against the other.
+
+Facts
+Plaintiff and Defendant were involved in a car accident and both were injured. Each sought damages from the other, claiming negligence on either side. The jury found both partially at fault. The trial court, over the objection of both parties, set off the their respective damages, entering a single net judgment in favor of the Plaintiff, and denying Defendant any recovery. Both sides appealed.<span class="heading">Issue.</span> Did the trial court err in offsetting the two awards as determined by the jury in favor of a single judgment in favor of Plaintiff?
+
+Held
+Yes. The Court found the trial court erred in applying a mandatory setoff rule without first considering the parties’ insurance coverage and the potentially inequitable effect the rule would have.<span class="heading">Dissent.</span> The dissent took issue with what it saw as the Court overstepping its bounds. As the dissent stated, “In my view the majority, pursuing a course intended to assure the highest possible in-hand recovery to the negligent victims of automobile accidents, have intruded into the legislative domain in a manner which can only lead to confusion and perplexity.” In the dissent’s view, “The legislative body is peculiarly fitted not only to assess the equity and wisdom of the present law . . . but also to include in its consideration the effects.”
+
+Discussion
+Concluding that the current setoff statutes could not properly be interpreted to require setoff in cases in which a setoff would defeat the principal purpose of California’s financial responsibility law, the Court explained, “The purpose of liability insurance is not only to protect the insured against the adverse impact of liability but to assure that the victim be actually compensated for his tort loss instead of having merely an empty claim against a judgment-proof defendant.” In short, the court stated, “In an uninsured setting a setoff rule may operate to preclude an unfair distribution of loss if one of the parties is totally insolvent or is unable to pay a portion of the judgment against him.” However, where there is adequate insurance on both sides (as was the case here), the set-off rule would give rise to inequity. Thus the court concludes, “The only sensible solution from the point of view of compensation and loss spreading is to proscribe set-off under pure co
+

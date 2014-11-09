@@ -1,0 +1,21 @@
+Citation
+116 U.S. 616, 6 S. Ct. 524, 29 L. Ed. 746 (1886)
+
+Brief Fact Summary
+Certain documents were requested by the government in connection with a proceeding regarding fraud to avoid paying duties on certain items.
+
+Synopsis of Rule of Law
+The Fourth Amendment of the United States Constitution (”Constitution”) protects against the invasion into a person’s private matters and will not allow the government to compel a person to produce private papers through subpoena.
+
+Facts
+Several cases of plate glass were confiscated from the defendants by federal customs agents due to suspicion that certain documents had been falsified for the purposes of avoiding customs fees or duties.  During the course of the proceedings, the defendants were ordered by the judge to produce documents showing the quantity and value of the shipments.  The defendants protested under the theory that they could not be compelled to produce evidence against themselves, but the motion was overruled and judgment was entered for the government.
+
+Issue
+Whether a compulsory production of a person’s private papers to be used in evidence against him in a judicial proceeding is an unreasonable search and seizure within the meaning of the Fourth Amendment of the Constitution?
+
+Held
+There need not be a physical invasion of one’s home to constitute a violation of the Fourth Amendment protection against unreasonable search and seizure.  The Fourth Amendment of the Constitution protects against the invasion into a person’s private matters.  This extends to the compulsory production of a person’s papers.
+
+Discussion
+This opinion stands for the proposition that the Fourth and Fifth Amendments of the Constitution should be more liberally construed
+

@@ -1,0 +1,15 @@
+Citation
+31 Ill.App. 241 (Ill.Ct.App. 1889).
+
+Brief Fact Summary
+While hunting for wolves, Defendants came across Plaintiff’s dog and killed it. Defendants claimed it was an accident occasioned by the dog’s uncanny resemblance to a wolf, and that they should therefore not be held liable.<span class="heading">Synopsis of Rule of Law.</span> Parties are liable for damages caused by their own mistaken understanding of the facts, regardless of whether they have acted in good faith.
+
+Facts
+Plaintiff sued Defendants for the value of his dog after they killed it while hunting wolves. Defendants admitted to killing Plaintiff’s dog, but argued that they were not liable because they did so out of a good faith belief that it was a wolf. The jury found them liable for the value of the dog.<span class="heading">Issue.</span> Were Defendants entitled to relief from a jury verdict that they were liable for the value of the dog due to their good faith, mistaken belief that the dog was a wolf?
+
+Held
+No. The jury’s verdict was affirmed.
+
+Discussion
+This case focuses upon the intent relevant to liability. Defendants argued that they believed they were merely hunting a wolf, did not intend to kill anyone’s dog, and thus should not be held liable. The Court is unmoved by this argument, because the animal’s wolf status was not relevant to Defendants’ admitted intent to kill it, which is what caused the damages to Plaintiff.
+

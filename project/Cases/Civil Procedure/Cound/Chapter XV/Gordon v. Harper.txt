@@ -1,0 +1,21 @@
+Citation
+101 ER 828, Volume 101
+
+Brief Fact Summary
+Plaintiff sued Defendant in trover for furniture. Plaintiff leased a house to A with the furniture in question in the house. Defendant, the sheriff, seized the goods and then sold them in an executed judgment against B, who had previously sold the goods to Plaintiff prior to Plaintiff leasing the house.
+
+Synopsis of Rule of Law
+In order to maintain an action in trover, the party must actually have a present right to possess the property in question.
+
+Facts
+Plaintiff leased a house to A with furniture in the house. While A was in possession of the house, Defendant seized the furniture from the house based on an executed judgment against B. B had previously sold Plaintiff the furniture prior to Plaintiff leasing the house to A. Plaintiff sued Defendant, the sheriff for the furniture in trover.
+
+Issue
+Can Plaintiff sue for trover of the goods even though he does not have a present interest in the property and right to possession?
+
+Held
+No. Postea (Judgment rendered for) Defendant.  Chief Judge Lord Kenyon: Plaintiff, as landlord, does not have an interest in the property and therefore cannot recover the value of the property or the property itself. This would lead to a situation that if the property was seized due to a judgment against the tenant, the landlord could recover the property, which would leave the creditor with nothing.  Judge Ashhurst: In order to maintain trover, the plaintiff must have a right of property and a right of possession in the goods sought.  Judge Grose: Plaintiff had no authority to recover the property because he had no right of possession.  Judge Lawrence: If the seizure by the sheriff determined that the tenant’s interest terminated and reverted to the landlord, then the landlord may have an action in trover. This did not occur in the case in question. The tenant may maintain an action in trespass against the “wrong-doer.”
+
+Discussion
+This case illustrates that in order to recover personal property, the plaintiff must plead that he/she has a present right to the property in question. In addition, the different opinions show how the landlord may obtain such a present right to the property.
+

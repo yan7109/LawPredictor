@@ -1,0 +1,21 @@
+Citation
+470 U.S. 811, 105 S. Ct. 1643, 84 L. Ed. 2d 705 (1985)
+
+Brief Fact Summary
+The police brought a suspect to the station and took his fingerprints without having probable cause until after his fingerprints were taken.
+
+Synopsis of Rule of Law
+An individual cannot be brought to  a police station and fingerprinted without probable cause and a warrant.
+
+Facts
+The police interviewed various people including the Petitioner, Hayes (the “Petitioner”), about various crimes and the Petitioner became the prime suspect.  Several burglary-rapes occurred in Punta Gorda, Florida.  The police found latent fingerprints on one of the victim’s door knobs.  The police also found a footprint near the same victim’s front porch.  Police officers went to the Petitioner’s home to escort him to the police station for fingerprints.  The Petitioner was reluctant to accompany the officers to the station and one of them then said they would arrest him.  The Petitioner then said that he would rather go to the station than be arrested.  The officers also seized a pair of tennis shoes in plain view from the porch.  The Petitioner was taken to the police station and his fingerprints were found to match those left at the scene of the crime.
+
+Issue
+“[W]hether the Fourth Amendment to the Constitution of the United States, applicable to the States by virtue of the Fourteenth Amendment, was properly applied by the District Court of Appeal of Florida, Second District, to allow police to transport a suspect to the station house for fingerprinting, without his consent and without probable cause or prior judicial authorization.”
+
+Held
+No, the judgment has to be reversed.   “Here, as in [Davis v. Mississippi], there was no probable cause to arrest, no consent to the journey to the police station, and no judicial authorization for such a detention for fingerprinting purposes.”  “None of our later cases have undercut the holding in Davis that transportation to and investigative detention at the station house without probable cause or judicial authorization together violate the Fourth Amendment.”
+
+Discussion
+It is interesting to note the court “do[es] not abandon the suggestion in Davis and Dunaway that under circumscribed procedures, the Fourth Amendment might permit the judiciary to authorize the seizure of a person on less than probable cause and his removal to the police station for the purpose of fingerprinting.”
+

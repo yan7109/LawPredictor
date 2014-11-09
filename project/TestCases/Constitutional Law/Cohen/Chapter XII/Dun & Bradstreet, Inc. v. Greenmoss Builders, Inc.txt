@@ -1,0 +1,21 @@
+Citation
+22 Ill.538 U.S. 1032
+
+Brief Fact Summary
+Petitioner Dun & Bradstreet, Inc. is a credit-reporting agency that sent a report concerning Respondent Greenmoss Builders, Inc. to five subscribers that falsely misrepresented Respondent’s assets and liabilities. Respondent thus sued for defamation alleging that the false report injured Respondent’s reputation.
+
+Synopsis of Rule of Law
+The Gertz standard protecting the media does not apply in cases involving nonmedia publications, including credit reports. Rather, these nonmedia publications are held to the same standard as the normal common-law applies.
+
+Facts
+Petitioner is a credit-reporting agency that provides subscribers with financial and related information about businesses. All of the information is confidential; under the terms of the subscription agreement the subscribers may not reveal it to anyone else. On July 26, 1976 Petitioner sent a report to five subscribers indicating that respondent, a construction contractor, had filed a voluntary petition for bankruptcy. This credit report was false and grossly misrepresented Respondent’s assets and liabilities. Respondent then brought this defamation action in Vermont state court alleging that the false report injured his reputation. Respondent sought both compensatory and punitive damages. He was awarded both, and upon appeal the Supreme Court of Vermont reversed holding that Gertz does not apply to nonmedia defamation claims.
+
+Issue
+Whether the rule of Gertz applies when the false and defamatory statements do not involve matters of public concern?<br />	Whether Petitioner’s credit report involved a matter of public concern?
+
+Held
+No. The Gertz standard applies does not apply when the value of speech involving no matters of public concern. Therefore, the state interest adequately supports awards of presumed and punitive damages, even absent a showing of “actual malice.”<br />	No. Under the factors that addresses whether speech is a matter of public concern, including the “expression’s content, form, and context, as revealed by the whole record,” it is evident that the Petitioner’s credit record concerns no public issue.<br /><br /><span class='heading'>Dissent.</span>  The argument that Gertz should be limited to the media misapprehends the Supreme Court’s cases on the issue. The credit reporting at issue here involves a matter of sufficient public concern to require the comprehensive protections of Gertz. Were this speech appropriately characterized as a matter of only private concern, the elimination of the Gertz restrictions on presumed and punitive damages would still violate basic First Amendment requirements. The dissent believes that Respondent under Gertz is entitled to all actual damages it can show from the misreporting of the credit record, but must show actual malice to receive presumed or punitive damages.<br />Concurrence.<br />	Believes that Gertz is ill conceived and therefore agrees that it should be overruled.<br />	Believes that Gertz was erroneously decided. Also believes that it must be the Gertz requirement of some kind of fault on the part of the defendant that is also inapplicable in cases like this one. Finally believes that if Gertz is to be distinguished from this case on the ground that it applies only where the allegedly false publication deals with a matter of general or public importance, then when the false publication does not deal with such a matter, the common law rules would apply whether the Defendant is a member of the media or other public disseminator or a nonmedia individual publishing privately.<br />
+
+Discussion
+This case is important in that it claims nonmedia speech is different from media speech of a private figure. This is not as significant in determining actual damages, which would be awarded either way with less than actual malice, as it is in allowing punitive and presumed damages in incidents of nonmedia speech. Under Gertz, actual malice is required to award punitive damages, but this case holds that nonmedia speech does not have the Constitutional protections that media speech has in regards to punitive and passive damages.
+

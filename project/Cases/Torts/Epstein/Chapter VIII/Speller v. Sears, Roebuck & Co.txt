@@ -1,0 +1,21 @@
+Citation
+100 N.Y.2d 38, 790 N.E.2d 252,760 N.Y.S.2d 79,2003 N.Y.
+
+Brief Fact Summary
+Sara Speller (Speller) was killed in a house fire, which started in the kitchen. Plaintiff sued Sears, Roebuck & Co. (Defendant) for products liability and sought to prove her claim with circumstantial evidence.
+
+Synopsis of Rule of Law
+In order to proceed in the absence of evidence, identifying a specific flaw, a plaintiff must prove that the product did not perform as intended, and must exclude all other causes for the product’s failure that are not attributable to defendants.
+
+Facts
+Speller died in a house fire that also injured her seven-year-old son. It is undisputed that the fire originated in the kitchen. Plaintiff asserted that the fire was caused by defective wiring in the refrigerator, a product manufactured by Whirlpool and sold by Defendant. Plaintiff sued Defendant for products liability. Defendant rejected Plaintiff’s argument that the refrigerator was the source of the fire. Rather, Defendant contended that a stovetop grease fire was the cause of the fire. Plaintiff submitted excerpts from the depositions of two experts and an affidavit from a third, as well as other materials. They all rejected the stove as the source of the fire. Defendant moved for summary judgment. The supreme court denied Defendant’s motion. The Appellate Division reversed, granting Defendant’s summary judgment motion. Plaintiff appealed.
+
+Issue
+Can Plaintiff maintain a cause of action in tort for products liability with the circumstantial evidence presented?
+
+Held
+Yes. Judgment reversed.
+
+Discussion
+Product liability can be proven by circumstantial evidence with the proof in which a party proves that the event would not occur unless there was a defect and that other sources of harm can be excluded.
+

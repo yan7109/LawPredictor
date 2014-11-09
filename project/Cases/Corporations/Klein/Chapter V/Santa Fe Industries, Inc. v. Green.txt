@@ -1,0 +1,24 @@
+Citation
+469 U.S. 917, 105 S. Ct. 296, 83 L. Ed. 2d 231 (1984)
+
+Brief Fact Summary
+Plaintiffs, Green et al., were minority shareholders of Kirby Lumber Corp.  Plaintiffs brought this action to recover a greater share price after Defendant majority shareholder, Santa Fe Industries, Inc., forced Plaintiffs to sell their shares.
+
+Synopsis of Rule of Law
+Section 10(b) of the Securities Exchange Act and Rule 10b-5 prohibit conduct involving manipulation or deception, but are not so expansive as to govern incidences of fiduciary breach.
+
+Facts
+Defendant acquired a 60% share in Kirby in 1934.  By 1974, Defendant owned 95% and wanted to own the entire 100%.  Defendant utilized Delaware’s short-form merger statute that allowed a parent corporation owning at least 90% of the stock to merge with the subsidiary and force the minority shareholders to sell their shares.  The minority shareholders must be notified within ten days, and Defendant did so in this case.  Defendant offered $150 per share after it was valued by Morgan Stanley at $125.  However, Kirby’s assets were valued to be $640 per share.  Delaware law allows a minority shareholder to petition the Delaware Court of Chancery if they believe the payout is unfair.  Instead, Plaintiffs brought an action under federal law, claiming that the majority owed a fiduciary duty to the minority, and that breach violated Rule 10b-5.  The trial court believed that fiduciary duty breaches were not covered under the federal law, but the Court of Appeals reversed, concluding tha
+
+Issue
+The issue is whether a breach of fiduciary violates Rule 10b-5.
+
+Held
+The United States Supreme Court held that Rule 10b-5 will not govern breaches of fiduciary duty.  The language used by the legislature in Section 10(b) refers to manipulation and deception and there is no evidence that the legislature meant to have an expansive reading of those terms.  The Court did not want to open the door to more litigation by expanding the scope of the statute.  The states traditionally regulated the behavior at issue, and the Court reasoned that it was up to the legislature to act if they felt there was a need to have uniformity across the states.
+
+Dissent
+The dissent agreed with the appellate court.
+
+Discussion
+The Court is not getting rid of any remedy for breaches of fiduciary duty, but a plaintiff will have to use state courts.
+

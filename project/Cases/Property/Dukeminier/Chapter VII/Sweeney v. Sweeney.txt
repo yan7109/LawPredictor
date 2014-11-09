@@ -1,0 +1,27 @@
+Citation
+Conn. Sup. Ct. of Errors, 126 Conn. 391, 11 A.2d 806 (1940)
+
+Brief Fact Summary
+Maurice, Sweeney’s (P) intestate husband, deeded John Sweeney property. The deed was recorded. The property was deeded back by John to Maurice, on Maurice’s wish, lest John should predecease him, but the second deed was not recorded.
+
+Synopsis of Rule of Law
+If a deed has been formally executed and delivered, the presumption that the grantee assented to the transfer of the title or possession can be overcome only if there is evidence that no delivery or transfer was intended in fact.
+
+Facts
+Sweeney (P) is the widow and administratrix of Maurice Sweeney. Maurice gave property by deed, duly executed and delivered, to John Sweeney. This deed was recorded. In deference to Maurice’s wish, a second deed was duly executed which gave the property back to him. This deed was not recorded, and the only motive for the deed was Maurice’s concern for the property in case he should outlive John. After a week or two, Maurice took the recorded deed to John, and the unrecorded one was also given to him in a week or two after the first. John gave the second deed to his lawyer, whose office was later involved in a fire which destroyed the deed. Maurice continued to live in the property deeded to John till he died, leasing it and generally exercising full control over it. John did not attempt to exercise possession over the property. The trial court held that there was no delivery of the title or possession of property, since there was no intention to deliver John’s deed to Maurice.
+
+Issue
+If a deed has been formally executed and manually delivered, and there is no evidence of any intention not to deliver, has the deed been delivered?
+
+Held
+(Jennings, J.) Yes. Having a duly executed deed in possession is insufficient proof of legal delivery. Effective delivery mandates the intent to pass title. However, the presence of a manually delivered deed raises the presumption that the grantee agreed to the transfer of the title since it was to his benefit. Once a deed has been formally executed and delivered, this presumption can only be overcome if evidence is presented that delivery was not in fact intended. In the present case, the only motive argued by both parties for the making of the second deed was Maurice’s expressed wish to be protected in the event of John’s predeceasing him. This purpose would have failed unless the deed had been delivered with the intent to transfer the title, so the fact that there was legal delivery is established. John also argued that the deed had been meant to apply only if he died before John. This type of conditional delivery can only succeed if the deed is placed in the care of a third party who will keep it till the condition is fulfilled. The verdict is reversed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+If a title is to be transferred with respect to property, the delivery must be voluntary and must have the mutual assent of both parties to the transfer. The term “escrow” is also used as meaning any deposit of a deed to be kept till a condition is fulfilled before delivery. Unless this conditional delivery to a third person who acts as depositary occurs, there is no escrow. In this case, conditional delivery is to the grantee and acts as an absolute transfer of title to the grantee.
+

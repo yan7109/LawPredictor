@@ -1,0 +1,21 @@
+Citation
+722 F.2d 591, 1983 U.S. App. 84-1 U.S. Tax Cas. (CCH) P9132; 53 A.F.T.R.2d (RIA) 547
+
+Brief Fact Summary
+The government issued a grand jury subpoena to the attorney of William Lathan Osterhoudt (Movant-Appellant), seeking informal disclosure of the amount, form, and date of legal fees paid by Movant-Appellant to his attorney.  Movant-Appellant filed a motion to quash the subpoena, which was denied by the lower court.  Movant-Appellant appeals that denial here.
+
+Synopsis of Rule of Law
+Neither an attorney’s fee arrangements with his clients nor the identity of an attorney’s clients are confidential communications that are protected by the attorney-client privilege.
+
+Facts
+The government issued a grand jury subpoena to Movant-Appellant’s attorney, who had represented Movant-Appellant.  The subpoena was issued in connection with the government’s investigation of Movant-Appellant’s involvement with possible income tax and controlled substance violations.
+
+Issue
+Was it error for the lower court to deny Movant-Appellant’s motion to quash the government’s subpoena based on the attorney-client privilege?
+
+Held
+No; the lower court was correct to deny the motion to quash the subpoena, as an attorney’s fee arrangements and the identity of an attorney’s clients are not protected by the attorney-client privilege.
+
+Discussion
+Movant-Appellant argued that the subpoena should be quashed, despite the normal rule that, “the identity of an attorney’s clients and the nature of his fee arrangements with his clients are not confidential communications protected by the attorney-client privilege.”  Specifically, Movant-Appellant argued that an exception applied as was set forth in past cases, making information such as that sought by the government privileged when, “a strong probability exists that disclosure of such information would implicate that client in the very criminal activity for which legal advice was sought.”  The court rejected the argument, holding that:
+

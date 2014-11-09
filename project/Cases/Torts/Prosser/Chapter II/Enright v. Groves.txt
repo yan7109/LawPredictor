@@ -1,0 +1,21 @@
+Citation
+39 Colo. App. 39, 560 P.2d 851, 1977 Colo. App.
+
+Brief Fact Summary
+Defendant, a police officer spied a dog running without a leash in violation of Defendant city’s local ordinance. After determining the dog belonged to Plaintiff, the officer located Plaintiff and demanded her driver’s license, which Plaintiff refused to give. The officer told Plaintiff he would arrest her if she didn’t turn over her license, and when she failed to do so he placed her under arrest, after which she was convicted of violating the leash ordinance.
+
+Synopsis of Rule of Law
+Conviction of the crime for which one is arrested bars a subsequent claim for false imprisonment, but does not provide a defense when there was probable cause to arrest for a different crime.
+
+Facts
+When Defendant officer saw a dog running without a leash in violation of an ordinance, he searched for its owner. When he determined Plaintiff to be the owner, he located her and demanded her driver’s license without explaining why. Plaintiff refused, instead telling the officer her address. The officer told Plaintiff he would arrest her if she did not surrender her driver’s license. Plaintiff again failed to do so, and the officer placed her under arrest. Plaintiff was later convicted of violating the leash ordinance. Plaintiff brought suit for false imprisonment, and the jury awarded her $500 in actual damages and $1000 in punitive damages.
+
+Issue
+Was the jury correct in returning a verdict for Plaintiff despite her subsequent conviction for violation of the leash ordinance?
+
+Held
+Yes. The judgment was affirmed. While Plaintiff was ultimately convicted of a crime, she was not convicted of the crime for which she was arrested. As the facts elucidate, she was arrested for failing to produce her driver’s license to the officer, which is not a crime. The officer’s arrest of Plaintiff was therefore unlawful and the verdict was proper.
+
+Discussion
+In an action for false imprisonment involving police officers, the defense will often be raised that Plaintiff was ultimately convicted of a crime. This case makes it clear, however, that the conviction must mirror the basis of the arrest. Probable cause to believe that one crime has been committed does not provide blanket authority for an officer to arrest someone for any other crime. Had the officer in this case arrested Plaintiff solely for violation of the leash ordinance, the defense would have been valid.
+

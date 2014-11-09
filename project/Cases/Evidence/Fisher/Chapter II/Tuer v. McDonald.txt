@@ -1,0 +1,21 @@
+Citation
+347 Md. 507, 701 A.2d 1101, 1997 Md.
+
+Brief Fact Summary
+The Appellant, Eugene Tuer’s (”Mr. Tuer”) husband (the “Appellant”), died while awaiting heart surgery.  Mr. Tuer’s surgery was delayed when the Appelleess, Dr. McDonald and others (the “Appelleess”), Mr. Tuer’s treating physician, was called to an emergency surgery.  While awaiting surgery, Mr. Tuer died because he had not received a dose of Heparin, a coagulant which had been discontinued in anticipation of surgery.
+
+Synopsis of Rule of Law
+Pursuant to Maryland Rule of Evidence (”M.R.E.”) Rule 5-507, evidence of subsequent remedial measures is only admissible to establish feasibility or to impeach a witness’s testimony.
+
+Facts
+Mr. Tuer was a cardiac patient of the Appellees.  His cardiac surgery was scheduled for November 9, 1992.  However, prior to his scheduled surgery, he began having chest pains, so he was admitted to the hospital.  Because Mr. Tuer continued having chest pains, he was given Heparin to prevent a heart attack.  Heparin is an anti-coagulant, and his surgery was rescheduled for November 2, 1992 at 9:00 a.m.
+
+Issue
+Whether the court erred in not allowing evidence of a subsequent remedial measure when, following Mr. Tuer’s death, the hospital changed its policy by halting the practice of discontinuing Heparin with patients who had conditions similar to that of Mr. Tuer? Whether the court erred in excluding evidence of the medical records of another patient for the purpose of impeaching the physician? Whether the court erred by refusing to allow the Appellant to introduce rebuttal evidence?
+
+Held
+The appellate court ruled that the court did not err in excluding evidence of subsequent remedial measures 1) because there was no testimony that the Heparin could not have been restarted, and 2) because the change in the procedure of administering Heparin had no bearing on Dr. McDonald’s credibility.
+
+Discussion
+The Maryland Court of Special Appeals first looked at the doctrine of subsequent remedial measures to determine how it would apply to the facts before the court.  The court looked to federal law to determine the policy behind disallowing evidence of subsequent remedial measures.  The court determined that the policy behind the rule for excluding evidence of subsequent remedial measures is to increase safety by removing the disincentive to make repairs.  The court concluded that evidence of subsequent remedial measures can only be admissible 1) to establish feasibility and 2) to impeach a witness’s credibility. In examining the feasibility prong of the test to determine admissibility, the court looks at both a narrow and a broad approach to feasibility.  The narrow approach, which was adopted by the court, looks at the plain meaning of feasibility, which is:  Could the subsequent remedial measure have been instituted?   The broad meaning, which the court rejected, would be to determine if the subsequent remedial measure was possible or capable of being utilized or dealt with successfully. The court determined that impeachment evidence is used to attack the credibility of a witness, and that mere contradictory testimony is not enough to warrant admission of the evidence.  It noted that if impeachment evidence meant mere contradictory evidence, the exception to Rule 407 would swallow the rule itself.
+

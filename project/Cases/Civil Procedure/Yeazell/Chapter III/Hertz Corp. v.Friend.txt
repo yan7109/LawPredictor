@@ -1,0 +1,27 @@
+Citation
+130 S.Ct. 1181 (2010)
+
+Brief Fact Summary
+Hertz Corp. (D) had a class action suit against it. It tried to get the suti removed to federal court, citing diversity jurisdiction as the ground. However, the employees (P) raised the objection that since California was the principal source of revenue for Hertz (D), and most of its business activities were performed there, California should be deemed the principal place of business.
+
+Synopsis of Rule of Law
+The term “principal place of business” in the federal diversity jurisdiction statute means the location from which the major activities of the corporation are directed, coordinated and controlled by the high level officers of the corporation.
+
+Facts
+Hertz Corp. (D) had a class action suit brought against it by its California-based employees (P), who claimed that it had violated California’s wage and hours labor statutes. Hertz Corp. (D) attempted to have the case removed to federal court on the ground of diversity jurisdiction, which makes provision for a corporation to be deemed “a citizen of any state by which it has been incorporated and of the state in which it has its principal place of business.” The employers (P) raised the counter-claim that California was the principal place of business, because the corporation received more income from this state than any other, and also because it conducted most of its business in California.
+
+Issue
+The question is whether the phrase “principal place of business” in the federal diversity jurisdiction statute refers to the place which serves as headquarters or the center of operations planning
+
+Held
+(Breyer, J.) Yes.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The nerve center test in relation to a corporation considers a single place and not the activity of the corporate in the whole state as relevant. The Court considers that this view of the matter increases its ease of applicability and its predictability as regards result, as well as being in conformity with earlier phases of defining the phrase in law. The aim of this legislation was to prevent the determination of the citizenship of a corporate from being complex and impractical. This case is important in that it may help to make this decision as to corporate citizenship more predictable and uniform, especially removing the multifactor tests and assessment of statewide activity among several states in which the corporate had a presence, based on which the principal place of business was to be decided
+

@@ -1,0 +1,24 @@
+Citation
+260 U.S. 393, 43 S. Ct. 158, 67 L. Ed. 322 (1922)
+
+Brief Fact Summary
+Property owner brought suit to prevent Pennsylvania Coal Company from mining under their property so as to remove supports and cause a subsidence of the surface and their houses. The deeds conveyed only surface rights to the homeowners and expressly reserved the right to remove the coal underneath as a separate estate. The Kohler Act prohibited companies in Pennsylvania from mining of coal in such a way as to cause the subsidence of homes and surfaces near improved properties.
+
+Synopsis of Rule of Law
+Limitations on the use of land through the police power have limits and will be considered a taking under the eminent domain power when the diminution in value of the property reaches a certain magnitude, which depends upon the particular facts.
+
+Facts
+The Kohler Act prohibited mining that would cause subsidence of homes and surfaces near residential properties. The Pennsylvania Coal Co. had relied in contract and deeds to retain the valuable estate in the land beneath the surface. The property owners sought to enjoin the Pennsylvania Coal Co. from mining beneath their homes. The trial court found that the Pennsylvania Coal Co.’s mining would cause the subsidence damage and danger prohibited by the Kohler Act and sought prevention by injunction. The subsurface estate could not be valuably mined for profit and still support the surface above. The owner had consented to the deed with the express reservation of the coal rights. As such the deed gave Pennsylvania Coal Co. both contract and property rights which the Kohler Act rendered useless.
+
+Issue
+Whether the statute was permissible under the police power or instead constituted an exercise of eminent domain that required just compensation.
+
+Held
+Private owner had only acquired surface rights and not the right to supporting property underneath the land. The Kohler Act went beyond a regulation and became a taking. The Court considered the magnitude of diminution of the value of property and found that when a diminution reaches a certain point the government must compensate for it. The Pennsylvania Coal Co. could not exercise the only valuable right it possessed which was to mine the property for profit. The Court acknowledged that the public may have use for the support, and an interest in their safety, however, the subsurface rights to a property could not be taken for the public without just compensation.
+
+Dissent
+Justice Louis Brandeis (J. Brandeis) thought the legislature should have the power to prohibit use of land that seriously threatens public welfare without any just compensation. According to J. Brandeis, restriction upon a particular use does not become inappropriate whenever it is not compensated, even though it could alternatively be prevented through such compensation.
+
+Discussion
+Diminution in value would destroy the Pennsylvania Coal Company’s existing rights of property and contract. Court thought notice would afford the private owner adequate safety.
+

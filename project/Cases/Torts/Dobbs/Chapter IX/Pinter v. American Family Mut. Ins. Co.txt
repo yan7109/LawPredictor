@@ -1,0 +1,24 @@
+Citation
+2000 WI 75; 236 Wis. 2d 137; 613 N.W.2d 110.
+
+Brief Fact Summary
+The Circuit Court for Waukesha County (Wisconsin) granted summary judgment in favor of Appellees in a negligence action brought by Pinter (Appellant), an emergency medical technician (EMT) and firefighter. Appellant sustained injuries while providing emergency medical assistance to a passenger who was injured in an automobile accident.
+
+Synopsis of Rule of Law
+When an EMT is called to the scene of an automobile collision in his professional capacity, and he sustains an injury while performing his duty to provide emergency care, public policy prohibits the EMT from maintaining a cause of action based on the negligent driving that caused the collision.
+
+Facts
+Appellant responded to an automobile collision. Due to the passenger’s spinal cord injury, Appellant had to secure traction on her head, neck, and back to safely remove her from the automobile. In so doing he assumed an awkward position for a sustained period. As a result, he sustained an inguinal hernia, a serious and permanent injury that required surgery. He brought suit against the drivers, who caused the accident. The trial court, relying on precedent stated “[o]ne who negligently starts a fire is not liable for that negligence when it causes injury to a firefighter who comes to extinguish the blaze.” It granted Appellees’ Motions for Summary Judgment. The court noted that most jurisdictions limit liability under the theory known as the “firefighter’s rule,” a rule, rooted in public policy concerns, which limits a firefighter’s ability to recover damages for injuries sustained in the course of duty.
+
+Issue
+Were the public policy considerations in question still valid, thus applicable to Plaintiff’s negligence action?
+
+Held
+Yes. The court held, “[i]t would contravene public policy to permit a firefighter to recover damages from an individual who has already been taxed to provide compensation to firefighters.” With respect to this case, the court opined that firefighters and EMTs “know that they will be expected to provide aid and protection to others in these hazardous circumstances.”
+
+Dissent
+The dissent took issue with the majority’s assigning the firefighter’s rule within the context of an automobile accident, suggesting that the policy behind the rule was more applicable in situations involving real estate, and that the reasoning was that liability would impose too great a burden on homeowners and others similarly situated.
+
+Discussion
+The firefighter’s rule, as applied in Pinter and other circumstances is analogous to the doctrine of assumption of risk. More properly, it may be characterized as a subcategory of instances when no duty is owed. It has evolved to encompass not only firefighters but also others similarly situated, such as EMTs, police officers and lifeguards.
+

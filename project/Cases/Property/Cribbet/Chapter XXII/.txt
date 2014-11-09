@@ -1,0 +1,21 @@
+Citation
+17 Wis. 2d 89,115 N.W.2d 557, 1962 Wisc
+
+Brief Fact Summary
+Defendants agreed to an offer to purchase two commercial properties, but they were unable to obtain financing for both of the properties. The Plaintiff sued to recover $5,000 due under the promissory note.
+
+Synopsis of Rule of Law
+In cases when the meaning of a contract term, such as the term at issue here, can be found from the circumstances surrounding the execution of the contract, the courts will find that the contract is sufficiently definite. Otherwise, the contract will fail for a lack of definiteness.
+
+Facts
+Defendants agreed to an offer to purchase two commercial properties, one belonging to Plaintiff for $30,000.00 and another belonging to Putterman for $40,000.00, and the Defendants, in their offer to purchase with Plaintiff agreed to close the purchase of both properties simultaneously and to pay a promissory note of $5,000.00 due at closing to Plaintiff, subject to proper financing. The Defendants were unable to obtain financing for both of the properties and offered to finance the properties up to $45,000.00, which Plaintiff refused. The Plaintiff sued to recover $5,000.00 due under the promissory note. The case was tried by a judge that found that the “subject to financing” clause was a condition precedent to the performance of the contract on the part of the Defendants, who had, in good faith, attempted to obtain financing but were unable to do so. The lower court dismissed the complaint and the Plaintiff appealed.
+
+Issue
+Does the “subject to financing” clause in the offer to purchase prevent the recovery of the $5,000.00 due on the promissory note?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+Under the rule in this case, and in good practice, whenever an offer to purchase is conditioned on the buyer obtaining financing, it would be wise to specify what amount of financing is required, what type of financing is acceptable, how long the purchaser has to obtain the financing, and so on. The key being to make sure all the essential terms of the contract are definite.
+

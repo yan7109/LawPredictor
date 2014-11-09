@@ -1,0 +1,21 @@
+Citation
+357 U.S. 235, 78 S. Ct. 1228, 2 L. Ed. 2d 1283, 1958 U.S. 752
+
+Brief Fact Summary
+Plaintiff Donner had established a trust in Delaware and later moved to Florida where she died. Following her death, a family fight arose over whether Florida or Delaware courts had jurisdiction over the trust assets.
+
+Synopsis of Rule of Law
+The unilateral activity of a Plaintiff who claims some relationship with a non-resident Defendant cannot satisfy the requirement of contact with the forum state.
+
+Facts
+Plaintiff had established a trust in Delaware and later moved to Florida where she died. Following her death, a family fight arose over whether Florida or Delaware courts had jurisdiction over the trust assets. The issue turned on whether Florida could acquire jurisdiction over the Delaware trustee. If Florida were found to have jurisdiction, one daughter received the entire state; if it did not all three daughters shared equally.
+
+Issue
+Whether a non-resident corporation with no offices nor any business transactions in a state is subject to jurisdiction in the state by virtue of a unilateral activity of a plaintiff having some relationship with the Defendant.
+
+Held
+No. The Supreme Court of the United States said that Florida had no jurisdiction.   The unilateral activity of a Plaintiff who claims some relationship with a non-resident defendant cannot satisfy the requirement of contact with the forum state.   <br/><br/><span class='heading'>Dissent.</span> Justices Black, Burton, and Brennan joined in their dissent. Justice Douglas also dissented separately. None of the dissents appear in the casebook.
+
+Discussion
+While the Supreme Court noted the continued evolution of the requirements for personal jurisdiction over non-residents from the rigid rule of Pennoyer v. Neff, (95 U.S. 714, 1877) it also expressed a desire to halt the demise of all restrictions on the personal jurisdiction of state courts. Thus the Supreme Court re-iterated the minimum contacts prerequisite in order to exercise power over a non-resident. The Supreme Court failed to find such contacts in this case because the Defendant trust company had no office in Florida, and no business there.
+

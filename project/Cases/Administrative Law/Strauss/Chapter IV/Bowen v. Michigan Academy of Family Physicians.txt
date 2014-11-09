@@ -1,0 +1,21 @@
+Citation
+476 U.S. 667, 106 S. Ct. 2133, 90 L. Ed. 2d 623 (1986)
+
+Brief Fact Summary
+Michigan Academy of Family Physicians (Respondents) filed suit to challenge the validity of Section:405.504(b) of Title 42 of the United States Code (Code), which authorized the payment of benefits in different amounts for similar physicians’ services. The Secretary of Health and Human Services (Secretary) contended that Congress had forbidden judicial review of all questions affecting the amount of benefits payable under Part B of the Medicare program.
+
+Synopsis of Rule of Law
+The Court begins with the strong presumption that Congress intends judicial review of administrative action. This presumption will not be overcome without “persuasive reason to believe that such was the purpose of Congress.”
+
+Facts
+The Secretary contended that Section:1395ff(b), which authorized “appeal by individuals” impliedly foreclosed administrative or judicial review of Part B by failing to authorize such review while simultaneously authorizing administrative or judicial review of any determination under Part A. Second, the Secretary asserted that Section:1395ii, which made Section:405(h) of the Social Security Act (SSA) applicable to the Medicare program, expressly precluded review not otherwise provided in the statute. Both the District Court and the Court of Appeals rejected the Secretary’s contention of judicial preclusion.
+
+Issue
+Did Congress, in either Code Section:1395ff or Section:1395ii, bar judicial review of regulations promulgated under Part B of the Medicare program?
+
+Held
+Affirmed. No.   A careful analysis of the statutory provisions and legislative history of Section:1395ff revealed that Congress intended to bar judicial review only of determinations of the amount of benefits to be awarded under Part B.  A review of the legislative history of SSA Section:405(h) and Code Section:1395ii revealed that Congress intended to foreclose review only of “amount determinations.”   Dissent. None.  Concurrence. None.
+
+Discussion
+This was a unanimous decision regarding express preclusion by the Supreme Court.
+

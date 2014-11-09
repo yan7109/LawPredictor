@@ -1,0 +1,21 @@
+Citation
+309 N.W.2d 285 (Minn. 1981)
+
+Brief Fact Summary
+The Plaintiffs, a group of individual, partner or corporate farmers, brought an action against Defendant principal-creditor, Cargill, Inc., and Defendant agent-debtor, Warren Grain & Seed Co., for damages sustained when Defendant debtor defaulted on contracts made with the farmers.
+
+Synopsis of Rule of Law
+A fiduciary agency relationship merely requires a “manifestation of consent by one person to another that the other shall act on his behalf and subject to his control, and consent by the other so to act,” regardless of whether a contract was formed or the intent of the parties was to be bound by the legal obligations of that relationship.
+
+Facts
+Warren operated a grain elevator and purchased grain from farmers for resale. Cargill financed Warren for Warren’s operations to the extent that both defendants’ names appeared on drafts that Warren dispersed.  Cargill also had a significant amount of control over Warren, including approving any expenditure over $5,000, approving of any stock sale or dividends, and instructing Warren to explain the nature of any withdrawls on the account.  The defendants also contracted into unrelated agreements that clearly established a principal-agent relationship.  Warren also sold a majority of its grain to Cargill.  Warren had financial problems that worsened until Plaintiffs began questioning the ability of Warren to make payments, and Cargill reassured Plaintiffs otherwise.  Warren was forced to close, owing Plaintiffs $2 million.  Plaintiffs brought suit against both, claiming Cargill was a principal of Warren.
+
+Issue
+The issue is whether Cargill, through its control and influence over Warren, became liable as a principal over Warren.
+
+Held
+Cargill was a principal over Warren and is therefore liable for the damages sustained by Plaintiffs.  Cargill consented to be a principal once Warren agreed to implement the changes and policies that Cargill suggested.  Cargill’s subsequent interference in Warren’s internal operations further established the relationship.
+
+Discussion
+Cargill argued that they never consented to the agency relationship, and each of their actions could fall under a debtor-creditor or a buyer-seller relationship.  Alternatively, Cargill argues that they are at best an undisclosed principal because they settled with the agent and no third parties entered directly into a contract with them.  The court agrees that many of the factors, when taken individually, could fall into another category of a relationship.  But the factors need be taken as a whole.
+

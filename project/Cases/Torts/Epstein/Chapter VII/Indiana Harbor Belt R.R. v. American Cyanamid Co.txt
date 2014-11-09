@@ -1,0 +1,21 @@
+Citation
+916 F.2d 1174, 1990 U.S. App. 32 ERC (BNA) 1228; 21 ELR 20360
+
+Brief Fact Summary
+Indiana Harbor Belt R.R. (Plaintiff) sued American Cyanamid Co. (Defendant) in negligence and strict liability to recoup the clean-up cost of acrylonitrile, which spilled out of Defendant’s railroad car.
+
+Synopsis of Rule of Law
+The Restatement (Second) of Torts Section: 520, lists six factors to determine whether or not an activity is subject to strict liability: (1) the risk of harm is great; (2) the harm that would ensure is great; (3) the activity is not one of common usage; (4) the harm cannot be prevented by utmost care; (5) the activity is inappropriate for the location where it took place; and (6) the social value of the activity is not sufficient to offset the risks.
+
+Facts
+Defendant loaded 20,000 gallons of liquid acrylonitrile, a toxic substance, into a railroad car in order to ship it to New Jersey. The car was sitting in Plaintiff’s rail yard when a leak was discovered. The leak was eventually brought under control, but 5,000 gallons of the toxic substance was spilled, and it caused the evacuation of the surrounding area. The clean-up bill was $981,022.75. Plaintiff sued Defendant to recover this cost. Plaintiff claimed that Defendant was negligent, that the transportation of toxic chemicals was an abnormally dangerous activity, and Defendant should be strictly liable. The jury returned a verdict for Plaintiff. Defendant appealed.
+
+Issue
+Is Defendant strict liability for the transportation of liquid acrylonitrile?
+
+Held
+No. Judgment reversed and remanded.
+
+Discussion
+Acrylonitrile is not a sufficiently abnormally dangerous substance to impose strict liability upon the Defendant. If Defendant is liable for the clean-up cost, it will be under a negligence theory.
+

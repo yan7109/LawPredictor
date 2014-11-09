@@ -1,0 +1,21 @@
+Citation
+427 Mich. 1, 398 N.W.2d 882, 1986 Mich.
+
+Brief Fact Summary
+Beauchamp (Plaintiff) applied for workers’ compensation benefits, claiming that exposure to “agent orange” caused impairment of normal bodily functions. Plaintiff then filed a civil action against Defendant (Dow Chemical Co.).
+
+Synopsis of Rule of Law
+The exclusivity provision of the worker’s compensation act precludes a common-law civil action by an employee who alleges that his employer breached a contractual promise to provide safe working conditions.
+
+Facts
+Plaintiff worked for Defendant for two years as a research chemist. Plaintiff applied for workers’ compensation benefits, claiming that exposure to “agent orange” caused impairment of normal bodily functions. Plaintiff then filed a civil action against Defendant, claiming that Plaintiff had been physically and mentally affected by exposure to “agent orange” and that Defendant intentionally misrepresented and fraudulently concealed the potential danger. The circuit court granted summary judgment for Defendant on the basis that the complaint failed to state a claim on which relief could be granted. The court of appeals reversed in part and affirmed in part.
+
+Issue
+Does the exclusive remedy provision of the Worker’s Disability Act bar an employee from commencing a civil action against his employer when the employee alleges (1) that the employer committed an intentional tort against the employee; and (2) that the employer breached its contract to provide a safe workplace?
+
+Held
+Yes. Judgment remanded for further proceedings.
+
+Discussion
+An employee is permitted to bring a common law action in tort for those torts that are intentional as defined by the substantial certainty standard. However, an employee may not bring a worker’s compensation act and a common law tort action for an injury caused by failure to provide safe working conditions.
+

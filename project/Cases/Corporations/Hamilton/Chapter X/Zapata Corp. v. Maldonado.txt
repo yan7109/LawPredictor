@@ -1,0 +1,21 @@
+Citation
+430 A.2d 779, 1 EXC 392 (Del. 1981)
+
+Brief Fact Summary
+Plaintiff, William Maldonado, brought a derivative action against officers and directors of Defendant, Zapata Corporation.  Defendant appointed a special committee that decided not to pursue the litigation proposed by Plaintiff.
+
+Synopsis of Rule of Law
+The court should first determine if a defendant corporation proves that the appointed committee is independent, and then determine, when applying their business judgment standard, whether the motion to dismiss the derivative suit should be granted.
+
+Facts
+Maldonado brought the derivative suit against ten officers and directors of Defendant, asserting that they breached their fiduciary duties.  Plaintiff did not demand that the Defendant officers bring the action because all the directors at the time were named in the suit.  After the suit, Defendant corporation appointed an “Independent Investigation Committee” comprised of two directors who were not part of the initial suit.  The Committee decided that the derivative suits would be harmful to the company and therefore moved to dismiss the litigation.
+
+Issue
+The issue is whether the authorized committee should be permitted to dismiss pending derivative suit litigation.
+
+Held
+The court applied a two-step test to determine if the Committee should be permitted to dismiss the litigation.  First, Defendant corporation has the burden to prove that the Committee is independent and is exercising good faith and reasonable investigation.  Second, the court should apply their independent business judgment.
+
+Discussion
+The court’s two-step test shifts the burden to the corporation to prove the independence, which limits the advantage to a company of appointing an independent group to determine the merits of a derivative suit.
+

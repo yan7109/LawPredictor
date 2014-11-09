@@ -1,0 +1,24 @@
+Citation
+530 U.S. 428, 120 S. Ct. 2326, 147 L. Ed. 2d 405 (2000)
+
+Brief Fact Summary
+The petitioner, Charles Thomas Dickerson (the “petitioner”), made a statement regarding a bank robbery to the Federal Bureau of Investigations (”FBI”) without receiving his Miranda rights.  A federal law was in place that allowed the admission of statements if they were voluntarily made.
+
+Synopsis of Rule of Law
+Congress cannot overrule the Miranda v. Arizona decision because it was a decision based on the United States Constitution (”Constitution”) rather than simply court-made law.
+
+Facts
+The petitioner made a statement at the FBI field office concerning a bank robbery wherein he was a suspect.  The government agents did not notify the petitioner of his rights outlined in Miranda.  The state relied on a federal law, 18 U.S.C. Section: 3501, that allowed the admission of statements as long as the suspect was making them voluntarily.  The District Court suppressed the statement, but the United States Court of Appeals for the Fourth Circuit (the “Fourth Circuit”) allowed the statements into evidence.
+
+Issue
+The issue is whether Congress can overrule the Fourth and Fourteenth Amendment constitutional protections outlined in Miranda.
+
+Held
+The protections outlined in Miranda, are protections mandated by the Constitution.  Therefore Congress, through a federal law, can not overrule Miranda.  The United States Supreme Court is not willing to overrule Miranda, and therefore the statements should be suppressed.
+
+Dissent
+The dissent believes that the Congressional law is not unconstitutional, and that Miranda should not be interpreted as a constitutional decision.
+
+Discussion
+The decision clearly affirms Miranda, elevating it to a status of a constitutional requirement that can not be overturned by simple Congressional law.
+

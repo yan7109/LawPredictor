@@ -1,0 +1,24 @@
+Citation
+50 N.Y.2d 1060, 431 N.Y.S.2d 1032, 410 N.E.2d 760 (1980)
+
+Brief Fact Summary
+The appellee, Harold Kurtz, and the appellant, Abraham Zion, both shareholders in the corporation, “Group”, executed an agreement that no business would be conducted without the appellant’s consent.  The appellee executed two agreements on behalf of the corporation even though the appellant objected to the transactions.  The appellant seeks to cancel the two agreements.
+
+Synopsis of Rule of Law
+An agreement between shareholders of a Delaware corporation that requires the minority shareholder’s consent before conducting business is enforceable, even though the corporation has not met all of the formal statutory requirements.
+
+Facts
+The appellant held all of the Class A stock in Group while appellee owned all of the Class B stock.  The appellant and the appellee executed a shareholders’ agreement, before appellant bought shares in Group,  that no decisions would be made by Group without the consent of the holders of the Class A stock.  The appellee promised in the agreement that he would take all steps necessary to fulfill the purpose of the shareholder agreement.
+
+Issue
+Whether a shareholder agreement that gives management power to shareholders is enforceable even though the corporation has not met all of the formal statutory requirements.
+
+Held
+Yes.  A shareholder agreement that gives shareholders management powers is enforceable even though corporate formalities have not been followed, because stockholders may manage close corporations.   The agreement should not be unenforceable solely because the corporation had not completed the steps to become a close corporation.  The appellant promised to take all reasonable steps to carry out the purposes of the shareholder agreement which included giving the shareholders management power.
+
+Dissent
+The shareholders’ agreement is not enforceable because it does not comply with the statutory requirements.  Close corporations are only allowed to manage the corporation in limited cases where the board’s power is slightly abridged or the agreement itself can otherwise be upheld notwithstanding the provisions that abridge the board’s management.  Shareholders do not have a fiduciary obligation to the corporation and have limited liability. The public must be warned in the articles of incorporation if the shareholders are managing the corporation so they will be aware of the risk of harm they may undertake by entering into business with a corporation that is operated by shareholders.  The Court should not make such a wide encompassing rule based off of this limited case in which no third party is harmed.  The holding in this case leaves open the possibility that a third party will be harmed before the corporation is required to follow corporate formalities.
+
+Discussion
+Shareholder agreements that limit the board’s management power are enforceable even though it may not be included in the articles because such an act is not prohibited in statute if the corporation is a close corporation.  Group only had two shareholders and the appellee here, who was originally the sole owner of Group before the appellant bought shares in the corporation, promised to take all steps to fulfill the purpose of the agreement.   Since Group can elect to become a close corporation, a mere formal act, the agreement should be enforced because appellant may have relied on this arrangement before agreeing to buy shares in the corporation.
+

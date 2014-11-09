@@ -1,0 +1,24 @@
+Citation
+496 U.S. 292, 110 S. Ct. 2394, 110 L. Ed. 2d 243 (1990)
+
+Brief Fact Summary
+An undercover police agent was placed in jail with the suspect and got them to elicit incriminating statements.
+
+Synopsis of Rule of Law
+Miranda warnings are not required when an undercover agent asks questions that could result in incriminating statements.
+
+Facts
+After obtaining information that a murder suspect was being held in jail on an unrelated charge, police placed an undercover agent in jail with the suspect.  The agent engaged the suspect in conversations, and the suspect then made incriminating statements about the murder.  The trial court granted the respondent Lloyd Perkins’s motion to suppress the statements made at the jail at his murder trial, and the appellate court affirmed.  The state of Illinois was granted certiorari.
+
+Issue
+Are Miranda warnings required when an undercover agent is asking questions that could elicit an incriminating result?
+
+Held
+No.  Reverse the appellate court’s decision affirming the suppression of the statements.
+
+Dissent
+Justice Thurgood Marshall dissented on grounds that Miranda also included protections versus police deception, and thus the ignorance of the agent’s real identity did not eliminating the compulsive nature of the exchange.  Also, he believed this clouded the doctrine of Miranda, and established a large loophole for law enforcement in infringing on suspects’ Fifth Amendment rights.
+
+Discussion
+The key factor for the majority in this case ending up with the result that it did was that there was not much that was coercive about this questioning.  The dissent however, emphasizes that the intent of the officers is to be examined in a Miranda inquiry, even though here the majority focuses on the evaluating the resultant situation.  Some commentators think that this case has been wrongly decided if the point of Miranda is to give suspects equivalent information and the opportunity to obtain counsel.
+

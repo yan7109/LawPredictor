@@ -1,0 +1,24 @@
+Citation
+439 U.S. 128, 99 S. Ct. 421, 58 L. Ed. 2d 387 (1978)
+
+Brief Fact Summary
+Passengers in a car attempted to suppress shotgun shells found in the car.
+
+Synopsis of Rule of Law
+“Rights assured by the Fourth Amendment are personal rights [which] . . . may be enforced by exclusion of evidence only at the instance of one whose own protection was infringed by the search and seizure,” not vicariously.
+
+Facts
+Police officers stopped a car matching the description of the getaway car in a robbery.  Petitioners were passengers; neither owned the car.  A shot gun and ammunition were found in the car.  Petitioners’ motion to suppress was denied for lack of standing.
+
+Issue
+“[W]hether standing [can] be established in the absence of ownership of the property seized.”
+
+Held
+No.  Despite the petitioners’ arguments, the Court did not accept the “target” theory, and reaffirmed Jones v. United States.  The petitioners had no standing.  The Court further distinguished from Jones in that the petitioners did no have “a legally sufficient interest in a place other than his own home.”  The petitioners “could [not] legitimately expect privacy in the areas which were the subject of the search and seizure each sought to contest.”
+
+Dissent
+The dissenting justices were concerned that there was an “open season” on automobiles.  Moreover, protection from bad-faith stops was “undercut”.
+
+Discussion
+The “capacity to claim the protection of the Fourth Amendment depends not upon a property right in the invaded place, but upon whether the person who claims
+

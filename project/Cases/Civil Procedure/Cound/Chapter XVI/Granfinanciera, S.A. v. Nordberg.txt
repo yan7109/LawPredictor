@@ -1,0 +1,21 @@
+Citation
+22 Ill.492 U.S. 33, 109 S. Ct. 2782, 106 L. Ed. 2d 26 (1989)
+
+Brief Fact Summary
+Granfinanciera, S.A. (Petitioners) appeal the judgment of both the Court of Appeals for the Eleventh Circuit and the District Court, which affirmed the judgment against Petitioner without discussing Petitioners’ claim that they were entitled to a jury trial.
+
+Synopsis of Rule of Law
+A person who has not submitted a claim against the bankruptcy estate has a right to a jury trial when sued by the trustee in bankruptcy to recover damages for a fraudulent monetary transfer.
+
+Facts
+The Chase & Sanborn Corporation filed a petition for reorganization under Chapter 11 in 1983. A plan of reorganization was vested in Nordberg (Respondents) the trustee in bankruptcy. Respondents filed suit against Petitioners, Granfinanciera, S.A., alleging that Defendant had received $1.7 million from Chase & Sandborn’s corporate predecessor within one year of the date its bankruptcy petition was filed. Respondents sought to avoid what it alleged were constructive and actually fraudulent transfers and to recover damages, costs and expenses. The district court referred the proceedings to the bankruptcy court. Respondents served a summons on Petitioners. In their answer to the complaint, both Petitioners requested a trial by jury on all triable issues. The bankruptcy judge denied the requests. Following a bench trial, the court dismissed with prejudice, Respondent’s actual fraud claim, but entered judgment for Respondents on constructive fraud claim in the amount of $1,500,000 against Granfinanciera and $180,000 against Medex. The district court affirmed along with the court of appeals.
+
+Issue
+Whether a person who has not submitted a claim against bankruptcy estate has a right to a jury trial when sued by the trustee in bankruptcy to recover an allegedly fraudulent monetary transfer?
+
+Held
+Yes. Judgment is reversed and remanded for further proceedings consistent with this opinion.   The Seventh Amendment entitles persons who have not submitted a claim against a bankruptcy estate to a jury trial. In order to determine that a party is entitled to a jury trial under the Seventh Amendment, the court must first compare statutory action to common law actions brought in the court of England. The court must also examine the remedy sought and determine whether it is legal or equitable in nature.  Actions to recover fraudulent transfers were often brought in common law in the court of England and the actions were conducted before juries. Second, in the instant case, the nature of the relief Respondents seeks strongly supports the finding that the right he invokes is legal rather than equitable.     The question is whether the Seventh Amendment confers a right to a jury trial in the face of Congress’ decision to allow a non-Article II tribunal to adjudicate the claims against them. Providing jury trials in fraudulent conveyance actions may impede swift resolution of bankruptcy proceedings and increase Chapter 11 reorganizations. However, these considerations are insufficient to overcome the right to a jury trial. The court here does not decide whether the current jury trial provision permits bankruptcy courts to conduct jury trials in fraudulent conveyance actions. The court however does determine that the Seventh Amendment entitles Petitioners to the jury trial they requested.   <br/><br/><span class='heading'>Dissent.</span> Respondent’s action would have sounded in equity in England at common law. The majority’s decision may threaten the efficacy of bankruptcy courts and the Seventh Amendment should not be used as a tool to reach this result.  Concurrence. The concurrence disagrees with the majority. The federal government needs to be a party for a case to revolve around public rights.
+
+Discussion
+The majority in this case states that it must give deference to Congress’ judgment on constitutional issue, but denies the existence of evidence demonstrating that Congress had exercised any in the present case.
+

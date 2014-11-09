@@ -1,0 +1,21 @@
+Citation
+22 Ill.163 Ill. 2d 590, 657 N.E.2d 640 (1995)
+
+Brief Fact Summary
+This case involves a land contract where the buyer attempted to modify the price term and when the seller rejected his proposed modification, then elected to proceed with the original terms of the contract.
+
+Synopsis of Rule of Law
+A party may retract their repudiation unless the other party materially changed position in reliance on this repudiation or the other party indicates that he considers the repudiation to be final.
+
+Facts
+The Plaintiff, Truman L. Flatt & Sons Co. (Plaintiff), entered into a land contract with the Defendant, Lee Schupf (Defendant), to purchase a parcel of land at a price of $160,000. The contract provided that it was contingent upon the buyer obtaining permission from the City Counsel to construct and operate an asphalt plant. The Plaintiff sent a letter to the Defendant stating that it was withdrawing its zoning request because it seemed clear that the City Counsel would not approve it. In the letter, the Plaintiff asked the Defendant if he would be willing to sell the property for a reduced amount, since the Plaintiff believed the property was worth less as it was currently zoned. The Defendant rejected this offer. The Plaintiff responded that it planned to proceed with the purchase in accordance with the original terms of the contract. The Defendant contended that the Plaintiff’s failure to waive the zoning requirement and to elect to proceed under the contract when the rezon
+
+Issue
+Is a contract repudiation effective when the repudiation was retracted prior to the seller’s changing position or notifying the buyer that they believed the repudiation to be final?
+
+Held
+No. Judgment reversed and remanded.
+
+Discussion
+The court examined the language of the Plaintiff’s offer and found that it did not amount to repudiation because the offer did not clearly threaten nonperformance. The court analyzed the Restatement (Second) of Contracts to determine whether the repudiation, if there was one, was timely retracted. The court also looked to leading commentators on contract law to find that the weight of authority stood allowed a repudiating party to retract the repudiation before the aggrieved party chose to treat the contract as rescinded or before he materially changed position in reliance on the repudiation. If the aggrieved party did not change position, it must indicate to the repudiating party that it is treating the contract as rescinded. In the instant case, the court reasoned that the Defendant did not change position in that it did not sell the property to another party, nor did it even discuss selling the property to another party. Also, the Defendant never indicated to the Plain
+

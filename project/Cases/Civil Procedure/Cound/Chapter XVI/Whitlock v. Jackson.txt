@@ -1,0 +1,21 @@
+Citation
+22 Ill.754 F. Supp. 1394 (S.D. Ind. 1991)
+
+Brief Fact Summary
+This is an action brought by Eileen Whitlock (Plaintiff) as the administratrix of the estate of her late brother, Richard Gaisor (Gaisor). Plaintiff alleges that the Defendants, in the course of their arrest of Gaisor inflicted serious injuries, which eventually led to his death.
+
+Synopsis of Rule of Law
+The principle of waiver, which is found in Rule 49(b) of the Federal Rules of Civil Procedure, cannot also be found in Rule 49(a).
+
+Facts
+After trial, the jury returned a verdict in favor of the Plaintiff in the amount of $29,700.00, after finding the Defendants liable for battery. The Plaintiff now seeks an additur to that amount due to alleged inconsistencies in the jury’s answers to special interrogatories.
+
+Issue
+Did the Plaintiff’s failure to object to the alleged inconsistencies in the jury’s answers to special interrogatories constitute a waiver, thus preventing review?   If no waiver occurred, are there in fact inconsistencies in the special interrogatories, which would require a new trial?
+
+Held
+Plaintiff has not waived the right to challenge the alleged inconsistencies in the special interrogatories. The jury was given a special verdict form rather than a general verdict form and, as a result, Rule 49(a) applies. Rule 49(a) does not require a party to object to the inconsistencies in order to preserve his right to challenge the inconsistencies in a subsequent motion or on appeal.   There are no inconsistencies in the special interrogatories that would require a new trial. There are legitimate reasons why the jury chose to award damages for battery and punitive damages, but not for constitutional violations. Since, the jury’s rationale can be reconciled, the court will not conduct a further inquiry.
+
+Discussion
+Although the Plaintiff did not waive the right to object to any inconsistencies in the special interrogatories, the Plaintiff’s Motion for a New Trial was denied. The basis for this decision resides in the fact that the jury’s answers to the special interrogatories were consistent. As a result, the court would, if it chose to review the decision, be acting as the jury. This double role cannot be assumed by the court.
+

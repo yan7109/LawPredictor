@@ -1,0 +1,21 @@
+Citation
+196 U.S. 217, 25 S. Ct. 226, 49 L. Ed. 453; 1905 U.S.
+
+Brief Fact Summary
+The employee of Union Stock Yards Co. of Omaha (Plaintiff) was injured because Plaintiff and Chicago, Burlington, & Quincy R.R. (Defendant) negligently failed to inspect a defective railroad car. Plaintiff paid damages to the employee. Plaintiff then sought to recover these paid damages from Defendant in a suit of contribution.
+
+Synopsis of Rule of Law
+When two parties, acting together, commit an illegal or wrongful act, the party that is held responsible for the act cannot have indemnity or contribution from the other, because both are equally culpable, and the damage results from their joint offense.
+
+Facts
+A railroad company, Defendant, and a terminal company, Plaintiff, both failed to inspect a railroad car before putting it in use. The car had a defective nut and injured Plaintiff’s employee. Either Plaintiff or Defendant could have discovered the defective nut with a reasonable inspection. Both Plaintiff and Defendant were negligent. Plaintiff paid its employee damages. Plaintiff now seeks to recover these damages from Defendant. The lower court entered a judgment in favor of Defendant. Plaintiff appealed.
+
+Issue
+Can Plaintiff recover, from Defendant, the damages paid to its employee when Plaintiff and Defendant are both equally at fault?
+
+Held
+No. Judgment for Defendant affirmed.
+
+Discussion
+If Defendant’s fault had been greater, then Plaintiff may have been allowed to recover. However, in this case, both Plaintiff and Defendant are equally at fault.
+

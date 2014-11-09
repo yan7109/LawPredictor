@@ -1,0 +1,18 @@
+Citation
+375 Md. 21, 825 A.2d 365 (2003)
+
+Synopsis of Rule of Law
+For an injury to be compensable under the Workers’ Compensation Act, it must both “arise out of” and occur “in the course of” employment.  There is no additional requirement that the injury arise out of “unusual activity”.
+
+Facts
+Plaintiff Ms. Harris was fifty-eight years old and had been employed by the defendant for 12 years as a food service assistant.  Her duties included preparing lunches for the students, tending the cash register, cleaning the kitchen and laundering all linens used throughout the day.  Her work involved lifting boxes of food weighing 35 pounds.  On January 25, 1999, she was doing laundry and had to drag a heavy box of laundry detergent then lift the inner back of powder.  After bending to scoop some soap into a cup, she bent down a second tie to tie up the bag of powder.  At that point her back “cracked” and she screamed.  She was unable to stand upright or sit.  Her manager gave her an incident form and early release and she went to a nearby clinic and saw Dr. Jackson.  Her injury claim was allowed by Workers’ Compensation but on judicial review the jury found for the employer.  The Maryland Supreme Court reversed.
+
+Issue
+Whether an accidental injury, arising out of and in the course of employment, must also arise out of “unusual activity” for there to be Workers’ Compensation coverage.
+
+Held
+No.  The line of cases from the Maryland Supreme Court requiring that an accidental personal injury arise out of “unusual activity” for there to be coverage obviously adds a requirement not contained in the Workers’ Compensation statutory language.  The Workers’ Compensation statute requires only an “accidental injury” that “arises out of” and occurs “in the course of” employment.  No other requirements should be added.  Accordingly, the court determined that the plaintiff’s injury in this case met the statutory requirements and reversed the judgment of the lower courts, directing that the decision of the Workers’ Compensation Commission allowing benefits be affirmed.
+
+Discussion
+Some courts have held that unusual exertion or some kind of external or sudden event is required for various internal injuries such as heart attacks, strokes, hernias and general backache.  Ordinary every-day work, without unusual exertion, might contribute to a heart attack, but to determine whether work was a significant cause, the factfinder must also consider the causal effect of every-day work activities in relation to the claimant’s other, non-occupational factors.  These may include age, weight, diet, pre-existing conditions, genetic pre-dispositions, or use of drugs and alcohol.
+

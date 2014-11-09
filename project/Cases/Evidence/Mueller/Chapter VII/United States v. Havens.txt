@@ -1,0 +1,24 @@
+Citation
+130 S. Ct. 1748 176 L. Ed. 2d 214 2010 U.S.
+
+Brief Fact Summary
+The Defendant was convicted of importing and possessing cocaine.  He and a co-defendant were search when entering Miami after returning from Lima, Peru.  The co-defendant had hidden pockets of cocaine sewn into his t-shirt and a t-shirt with pieces missing was recovered from Defendant’s suitcase.
+
+Synopsis of Rule of Law
+Illegally obtained evidence may be used to impeach the testimony of a defendant when the defendant chooses to testify in his own defense.
+
+Facts
+Defendant, Havens, was convicted of importing and possessing cocaine.  Defendant and John McLeroth, attorneys from Ft. Wayne, Indiana, were caught importing cocaine after flying into Miami from Lima, Peru.  A customs officer search McLeroth and found cocaine sewed into makeshift pockets on a t-shirt he was wearing.  McLeroth implicated Defendant and he was arrested and his luggage search.  The search revealed a t-shirt that had pieces cut out of it that matched those on the shirt McLeroth was wearing.  The t-shirt was excluded as evidence prior to trial.  Defendant testified in his own defense and denied any involvement in importing or possessing cocaine, and denied knowledge of the discovery of the t-shirt in his luggage.  The prosecution impeached his testimony by offering the t-shirt and using testimony from a government agent.  The jury was instructed the rebuttal evidence should only be used to impeach Defendant’s credibility.  The Court of Appeals reversed the conviction
+
+Issue
+Was the t-shirt evidence properly allowed to impeach the Defendant’s testimony even though it was obtained pursuant to an unlawful search?
+
+Held
+Justice White delivered the opinion of the United States Supreme Court in reversing the Court of Appeals and holding that the t-shirt evidence was properly allowed.
+
+Dissent
+Justice Brennan, joined by Justices Marshall, Stewart, and Stevens, issued a dissenting opinion arguing that the Court’s ruling allows the prosecution to draw out testimony on cross examination and then impeach it with illegally seized evidence.
+
+Discussion
+A defendant’s statements in regards to lawful cross-examination may be impeached even if the impeachment evidence was obtained illegally.  The U.S. Supreme Court notes that the Court of Appeals erred in reversing the conviction by drawing a distinction between the testimony on direct or by cross examination.  Impeachment should be allowed to prevent defendant’s from lying when choosing to testify.
+

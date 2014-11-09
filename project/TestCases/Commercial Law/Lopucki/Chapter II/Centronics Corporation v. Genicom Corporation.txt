@@ -1,0 +1,21 @@
+Citation
+132 N.H. 133, 562 A.2d 187, 1989 N.H. 77
+
+Brief Fact Summary
+Centronics Corporation (Plaintiff) sued Genicom Corporation (Defendant) for breach of an implied covenant of good faith. Plaintiff appealed from a judgment granting summary judgment for the Defendant.
+
+Synopsis of Rule of Law
+Under an agreement that appears to invest one party with a degree of discretion in performance sufficient to deprive another party of a substantial proportion of the agreement’s value, the parties’ intend to be bound by an enforceable contract that raises an implied obligation of good faith to observe the reasonable limits in exercising that discretion.
+
+Facts
+The contract between the Plaintiff and Defendant provided for arbitration of any dispute about the value of the property transferred, to which the purchase price was pegged and required an escrow deposit of a portion of the price claimed by the seller pending final valuation. Plaintiff sued Defendant for breach of an implied covenant of good faith for refusing to release a portion of the escrow fund claimed to be free from dispute. Defendant moved for summary judgment on the theory that the terms of the parties’ agreements required payments out of escrow only upon completion of arbitration thus barring the implication of any duty to authorized distribution before that event. The Superior Court granted summary judgment to the Defendant. The court held that the only way funds can be released is upon final determination of the purchase price, which is in the hands of the arbitrator.
+
+Issue
+Whether the Defendant violated the implied covenant of good faith?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+In this case, there was a question of which state’s laws to apply. Although the parties agreed that the contract was to be governed by New York law, Plaintiff relied on New Hampshire cases. Many of the New York cases were at odds with New Hampshire cases. The court determined that when foreign law was not proven the court would assume that is was identical to New Hampshire.
+

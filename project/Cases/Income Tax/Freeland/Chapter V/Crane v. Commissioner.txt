@@ -1,0 +1,24 @@
+Citation
+331 U.S.1, 67 S. Ct.1047,91 L.Ed.1301,1947 U.S.3021
+
+Brief Fact Summary
+Petitioner’s husband died and she was the executrix and sole beneficiary of his will.  Her husband owned an apartment building subject to a mortgage.  Petitioner contracted with the mortagee to continue to operate the property and remit the net rental to mortgagee.
+
+Synopsis of Rule of Law
+Gain from the sale or disposition of property is the excess of the amount realized from the sale over the adjusted basis.
+
+Facts
+Petitioner was the sole beneficiary of her husband’s will.  He owned an apartment building and lot subject to a mortgage.  It was valued at $255,000.   Petitioner entered into an agreement with the mortgagee where she continued to operate the property and remit the net rentals to the mortgagee.  This continued for seven years, and Petitioner reported the gross rentals as income and claimed deductions for operating expenses paid on the property, for interest paid, and for the physical exhaustion of the building.  With the mortgagee threatening foreclosure, Petitioner sold to a third party for $3000 cash, subject to the mortgage and paid $500 in sale expenses.  She reported a taxable gain of $1,250.  Petitioner believed the property acquired was equity.  The equity had a zero value basis and no depreciation could be taken on it.  The Commissioner of Internal Revenue determined that Petitioner realized a net taxable gain of $23,767.03.  His theory was that the property was not eq
+
+Issue
+Should the property be considered equity with a zero basis or was the value of the property the actual value undiminished by the mortgage?
+
+Held
+Chief Justice Vinson issued the opinion for the Supreme Court of the United States in affirming the lower court and holding that the proper basis is the value of the property undiminished by the mortgage.
+
+Dissent
+Justice Jackson issued a dissenting opinion arguing that she acquired a right to property equal to that of equity, and she sold the equity
+
+Discussion
+The Supreme Court examined the ordinary meaning of property and found that it included the physical thing which is subject to ownership or the aggregate of the owner’s rights to control and dispose of it.  The Court found that Congress did not intend for “property” to mean “equity.”
+

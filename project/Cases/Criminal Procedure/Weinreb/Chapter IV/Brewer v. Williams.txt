@@ -1,0 +1,21 @@
+Citation
+430 U.S. 387, 97 S. Ct. 1232, 51 L. Ed. 2d 424 (1977)
+
+Brief Fact Summary
+The defendant, Robert Williams (the “defendant”), after being arraigned on charges of abducting a 10-year old girl, was traveling with an officer between Davenport and Des Moines, Iowa.  Although the defendant’s lawyers instructed that no questioning should take place outside their presence, the defendant was convinced by the officer to give directions to the body of the girl.
+
+Synopsis of Rule of Law
+Once judicial proceedings begin, the Sixth Amendment to the United States Constitution (the “Constitution”) dictates that the suspect has a right to counsel.
+
+Facts
+The defendant had recently escaped from a mental hospital and was staying at a Des Moines YMCA where the girl was last seen.  The defendant was seen leaving the YMCA with a large bundle with two small legs protruding from it.  A warrant for his arrest was issued, and his attorney in Des Moines advised the defendant to turn himself in to the nearby Davenport authorities.  The defendant had counsel in Davenport as well.  Both attorneys advised the defendant not to speak to the officers without their presence, and he indicated on several occasions to officers that he wished to talk only with the assistance of counsel.  During the ride back to Des Moines, with only an officer and the defendant in the car, the officer decided to leverage his knowledge of the defendant’s religious nature by mentioning that he hoped they found the body before snowfall so they could give her a decent Christian burial.  The defendant then gave the officer the location of the body.
+
+Issue
+Whether the officer’s conversation with the defendant constitutes an interrogation that violates the defendant’s right to counsel, and therefore requires the suppression of the evidence?
+
+Held
+The evidence should be suppressed because the defendant was denied counsel during an interrogation environment.  Once judicial proceedings begin, such as the arraignment, assistance of counsel is required.  In this case, the defendant not only did not waive his right to counsel, he affirmatively maintained it through several exchanges between the officers.
+
+Dissent
+Chief Justice Warren Burger (”J. Burger”) dissented, arguing that the defendant was reminded of his rights multiple times and chose to waive them when he disclosed the body.  Under the majority’s reasoning, a suspect can never waive his rights to counsel.
+

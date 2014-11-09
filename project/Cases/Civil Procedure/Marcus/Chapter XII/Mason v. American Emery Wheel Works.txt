@@ -1,0 +1,21 @@
+Citation
+241 F.2d 906, 1957 U.S. App.
+
+Brief Fact Summary
+While at work in Mississippi, Mason (Plaintiff) was injured by an emery wheel manufactured by American Emery Wheel Works (Defendant), a Rhode Island corporation. Plaintiff sued in the United States District Court for the District of Rhode Island, alleging that the emery wheel was unreasonably dangerous.
+
+Synopsis of Rule of Law
+A federal court may use modern dicta from an opinion of a state supreme court to overturn a previous decision made by that state court.
+
+Facts
+In its answer, Defendant raised as a defense, a lack of privity. When evidence at trial showed that the emery wheel had passed through several owners before it was sold to Plaintiff’s employer, the trial court granted Defendant’s Motion to Dismiss on the ground that Mississippi still required privity to sue a manufacturer for such injuries. This decision was supported heavily by the court’s conclusions, approximately thirty years previously in Ford Motor Co. v. Myers, 151 Miss. 73, 117 So. 362 (1928). In that decision, the court held that a manufacturer was not liable for negligence in the manufacture of appliances, which could and would become highly dangerous when put to the uses for which they are intended, when there is no privity of contract between the user and the manufacturer.
+
+Issue
+Whether a prior controlling decision may be overturned by the dicta of a more recent opinion from that same state?
+
+Held
+The United States Court of Appeals for the First Circuit vacated the order of the district court and remanded the case for further proceedings. The dicta provided by the Supreme Court of Mississippi in the more recent decision of E.I. Du Pont De Nemours & Co. v. Ladner indicates the willingness of the Supreme Court of Mississippi to overturn the Ford decision as soon as a case presents itself as squarely on the issue.  Concurrence. The concurring opinion provided by Judge Hartigan stated that the question of how clear dicta must be to prevail over a prior controlling decision does not lend itself to an easy solution.
+
+Discussion
+This case presents a very “tricky” situation for the court, comparing an old decision squarely on point with more modern dicta. Here, the court takes a great step in inferring that the Supreme Court of Mississippi would reverse its decision in a case thirty years old. This case does show, however, that there is a basis for using a modern trend, coupled with a survey of judicial history, to overrule a decision squarely on-point.
+

@@ -1,0 +1,21 @@
+Citation
+243 Va. 445, 416 S.E.2d 689 (1992)
+
+Brief Fact Summary
+Smith and her daughter (Plaintiffs) brought an action against Richmond Memorial Hospital (Defendant) claiming a violation of the Consolidated Omnibus Budget Reconciliation Act (COBRA), 42 U.S.C.S. Section: 1395dd. The Circuit Court of the City of Richmond (Virginia) sustained a demurrer on the ground that the Plaintiffs’ Motion for Judgment failed to state a cause of action. Plaintiffs appealed.
+
+Synopsis of Rule of Law
+Virginia’s statute of limitations conflicts with the federal statute, COBRA, and are thus inapplicable to claims involving COBRA.
+
+Facts
+Plaintiff was admitted to Richmond Memorial Hospital in July, 1988. Approximately thirty-three weeks pregnant, she suffered a premature rupture of the uterine membranes, and remained at the hospital for approximately one week. During her stay, she developed acute complications and as her condition worsened, the hospital brought in a physician, not her attending, who without examination transferred her to another facility. There, after she consented, she underwent and emergency caesarian section during which both mother and child sustained substantial injuries. The child sustained severe brain damage. The court found that the treatment and transfer requirements contained in COBRA applied when an emergency medical condition or active labor commenced after a patient was admitted and their condition stabilized. Thus, Plaintiff pleaded sufficient facts and allegations to state a claim pursuant to the federal statute. The court rejected Defendant’s assertion of trial court error in
+
+Issue
+Did the trial court properly sustain the demurrer without leave to amend? The Supreme Court of Virginia further examined two issues of statutory interpretation:
+
+Held
+The Supreme Court of Virginia reversed the action of the trial court in sustaining the Defendant’s demurrer, and the case was remanded. Additionally, the court held that the statute of limitations provisions conflicted with the federal requirements, and thus were not applicable to COBRA actions.
+
+Discussion
+The court in Smith focused on the plain meaning of the applicable statute and employed deliberate interpretation, noting, “[w]hen the words of the statute are plain and unambiguous the court need not resort to rules of statutory construction or legislative history.” The court further clarified that parameters of the federal statutes applicability: “COBRA establishes a separate federal cause of action, cognizable in federal and state courts, independent of any additional or pendent state claims.” Further, the court clarified that the federal guidelines under COBRA voided the applicability of local claim provisions.
+

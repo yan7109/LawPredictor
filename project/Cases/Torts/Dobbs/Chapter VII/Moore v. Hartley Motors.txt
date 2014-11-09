@@ -1,0 +1,21 @@
+Citation
+36 P.3d 628 (Alaska 2001).
+
+Brief Fact Summary
+Plaintiff purchased an ATV and attended an ATV rider safety course where she hit a rock, was thrown from the ATV and injured.  Prior to the class she had signed a release and consent form.  She sued Defendants for negligence.  The court ultimately held that the hidden rock on the ATV course was an unreasonable risk not within the scope of the release.
+
+Synopsis of Rule of Law
+An exculpatory release for a dangerous activity releases the providing party from the risks inherent in that activity and ordinary negligence associated with those inherent risks.  However, an injured party may still have recourse if her injuries were caused by unreasonable risks or unnecessary dangers that are not inherent in the activity.
+
+Facts
+Plaintiff Moore bought a Suzuki four-wheel ATV in May 1993.  At the time of the sale, the salesperson offered them a $50 rebate upon voluntary completion of an ATV rider safety class.  The Moores elected to attend the class and signed a consent form and release before the class began.  During the class, Plaintiff was thrown from her ATV when it struck a rock obscured by high grass.  She sued Hartley Motors, the dealer, the ATV Safety Institute, and the instructor of the class, alleging that Defendants negligently concealed the fact that the course was unsafe.  The superior court granted summary judgment for Defendants finding that the signed release was valid, Plaintiff appealed, and the higher court reversed and remanded.
+
+Issue
+Whether the scope of an exculpatory release for an ATV rider safety course includes liability for general negligence unrelated to the risks inherent in the safety course.
+
+Held
+No.  First, the court analyzed that the signed release did not violate public policy because the ATV safety course was voluntary for ATV purchasers, thus the class providers did not have a “decisive advantage of bargaining strength” in requiring the release for participation.  Second, the court discussed the language of the release, which released the course providers from liability and damages “arising out of participation in the ATV RiderCourse.”  Based on that language, the court held that Moore released the class provider only from the inherent risks of ATV riding and ordinary negligence associated with those inherent risks.  The court concluded that holding a safety course on an unreasonably risky course may give rise to Defendants’ liability even if encountering rocks is generally an inherent risk of ATV riding.  Reversed and remanded.
+
+Discussion
+This decision stands for the proposition that while people may contractually waive their right to sue for damages caused by the ordinary negligence of others, such pre-injury releases are unenforceable if they offend public policy, or if they are ambiguous.  Moreover, even if a release comports with public policy, a court must determine whether the risk that caused the injury was within the scope of the release, or was an unnecessary danger.
+

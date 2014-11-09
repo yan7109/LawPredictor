@@ -1,0 +1,21 @@
+Citation
+341 So. 2d 1059, 1977 Fla. App.
+
+Brief Fact Summary
+The trial court (Florida) entered an adverse final judgment pursuant to a directed verdict for Appellees in Anna Salinetro’s (Appellant) action for alleged medical malpractice. Appellants, patient and her husband, sought review.
+
+Synopsis of Rule of Law
+An element of a negligence prima facie case is cause in fact or actual cause. The plaintiff must prove, not only that she suffered legally recognized harm, but that the harm was in fact caused by the defendant. This is expressed as the “but-for” rule: but-for defendant’s conduct, the pedestrian would have avoided injury. When this statement can be shown to be true, cause in fact or actual cause has been proven.
+
+Facts
+Anna Salinetro sustained back injuries in an automobile accident and applied for personal injury benefits from her insurer, State Farm Mutual Automobile Insurance Company (State Farm). State Farm required Salinetro to submit to a medical examination and on December 10 Dr. Nystrom of her lower back and abdominal area took x-rays. He did not inquire as to whether she was pregnant. Salinetro did not know that she was pregnant at the time of the x-ray; her doctor confirmed the pregnancy after multiple tests, and she was advised to terminate pregnancy because the fetus had been exposed. She underwent a therapeutic abortion and the pathology report stated the fetus was dead at the time of the procedure. She filed suit for medical malpractice.
+
+Issue
+Did the trial court err in entering judgment for Appellee?
+
+Held
+No. The appellate court affirmed the trial court’s judgment. The appellate court found that the trial court did not err in granting Appellee’s Motion for Directed Verdict since Appellants did not make a prima facie case for medical malpractice since, even if Nystrom’s failure to inquire as to whether Salinetro was pregnant at the time of her examination, this failure was not the cause of her injury.
+
+Discussion
+Any claim for negligence requires plaintiff to establish the following elements: duty, standard of care, breach of duty, cause-in-fact, proximate cause (scope of liability) and damages. The Salinetro court focused, initially, on the issue of causation: “Liability for negligence depends on a showing that the injury suffered by plaintiff was caused by the alleged wrongful act or omission to act by the defendant. Merely to show a connection between the negligence and the injury is sufficient to establish liability.”
+

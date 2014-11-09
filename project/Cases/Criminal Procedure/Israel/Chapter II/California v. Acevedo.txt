@@ -1,0 +1,24 @@
+Citation
+500 U.S. 565, 111 S. Ct. 1982, 114 L. Ed. 2d 619 (1991)
+
+Brief Fact Summary
+The defendant, Charles Acevedo (”Mr. Acevedo”), put a container in his trunk that the police suspected contained marijuana.  The police stopped the defendant and searched the container, leading to the defendant’s arrest.
+
+Synopsis of Rule of Law
+The Fourth Amendment of the United States Constitution (”Constitution”) does not require a warrant when probable cause exists to search a container in a vehicle.
+
+Facts
+The Defendant entered the apartment of Jamie Daza (”Mr. Daza”) and left with a package.  Earlier, police were informed that Mr. Daza picked up a Federal Express package known to contain marijuana.  The package that the defendant held looked similar to the Federal Express marijuana package.  Police, concerned that the package would be compromised, followed the defendant, stopped him and searched the package to find marijuana.
+
+Issue
+Whether the police are required to obtain a warrant to search a container in a car – a car that they otherwise lack probable cause to search?
+
+Held
+The Fourth Amendment of the Constitution does not require a warrant to search a container in a vehicle if there is probable cause to search the container.  This holding applies even if there is no probable cause to search the entire vehicle.  This holding clearly negates any former rulings that would give separate treatment to searches specifically for containers in a vehicle.
+
+Dissent
+The dissent holds that even proof beyond a reasonable doubt should not allow a warrantless search unless supported by an exception to the warrant requirement.  The dissent reasons that once the police have the container under their exclusive control, there is no exigent circumstance that would require them to search the container until a warrant was issued.
+
+Discussion
+The majority’s decision makes an attempt to simplify the prior conflicting decisions and reduce illogical outcomes.  As the concurring opinion points out, there is still room for illogical outcomes, such as allowing searching of a suitcase once it enters an automobile, but not allowing the same suitcase to be searched while being carried on the street.
+

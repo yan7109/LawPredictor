@@ -1,0 +1,21 @@
+Citation
+535 A.2d 400 (Del. 1987)
+
+Brief Fact Summary
+Georges, Maurice, Armand and Paul Marciano, (Appellants) appeal the decision of the Court of Chancery validating a claim in liquidation of Gasoline, Ltd. placed in custodial status by reason of deadlock among its board of directors.
+
+Synopsis of Rule of Law
+The principle of per se voidablitity for interested transactions does not invalidate transactions determined to be intrinsically fair.
+
+Facts
+Ari, Joe, and Ralph Nakash, (Appellees), and Appellants each own fifty percent of Gasoline, Ltd. Appellees made $2.5 million in loans to Gasoline, Ltd. As officers of Gasoline, Appellees executed various documents that supported the loans and at the same time guaranteed those loans extended through their wholly owned entities. Because of deadlock within the board of directors, the transactions did not receive majority approval of the directors or shareholders. Appellants argue that the loan transactions are voidable at the option of the corporation notwithstanding its fairness or the good faith of its participants.
+
+Issue
+Whether the disputed debt is voidable as a matter of law. Whether the Nakashes failed to meet their burden of establishing full fairness.
+
+Held
+No. The principle of per se voidablitity for interested transactions does not invalidate transactions determined to be intrinsically fair. No. The Chancellor’s conclusion that the terms of the loans met the “intrinsic fairness standard” was supported by the record and the product of a logical deductive process.
+
+Discussion
+Appellants argue that Section 144(a) provides the only basis for immunizing self-interested transactions and since none of the statute’s component tests are satisfied the common law per se rule applies. Continued viability of the intrinsic fairness test is mandated not only by fact situations where shareholder deadlock prevents ratification but also where shareholder control by interest directors precludes independent review. In this case, none of the curative steps afforded under Section 144 were available because of the director-shareholder deadlock. The ratification process contemplated by Section 144 presupposes the functioning of corporate constituencies capable of providing assents. The Court of Chancery’s conclusion that the terms of the loans met the intrinsic fairness standard was supported by the record and was the product of a logical deductive process.
+

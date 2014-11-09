@@ -1,0 +1,21 @@
+Citation
+532 U.S. 913
+
+Brief Fact Summary
+Elizabeth Berman (Victim) accused Roger Boggs (Petitioner-Appellee) of sexually assaulting her one Christmas Eve.  At trial, Petitioner-Appellee attempted to cross-examine Victim concerning prior accusations she made that allegedly turned out to be false, and was disallowed from doing so.  Petitioner-Appellee, while incarcerated, sought a writ of habeas corpus, which was granted by the lower court, and Terry Collins (Respondent-Appellant), the Warden of the Warren Correctional Institute where Boggs was imprisoned, appeals here.
+
+Synopsis of Rule of Law
+A defendant is not denied a right to a full and meaningful defense, as supplied by the United States Constitution’s Confrontation Clause, by being prohibited on cross-examination from inquiring into prior false accusations made by the alleged victim, when the evidence is offered to attack the alleged victim’s general credibility.
+
+Facts
+Victim alleged that Petitioner-Appellee came to her home, asked to use her bathroom, and, after inside, repeatedly raped her and threatened her with violence.
+
+Issue
+Was it error for the lower court to disallow Petitioner-Appellee from inquiring into Victim’s past false allegations of rape through a cross-examination of Victim, and to further disallow Petitioner-Appellee to introduce testimony of two witnesses concerning Victim’s past false allegations?
+
+Held
+No; the testimony would have been an attack on the witness’s general credibility and when offered for such a use, the admissibility of the evidence is not guaranteed by the Confrontation Clause.
+
+Discussion
+The court cites past precedent and the, “vital role cross-examination can play in casting doubt on a witness’s credibility.”  However, the court goes on to state, again citing past precedent, that, “not all conceivable methods of undermining credibility are constitutionally guaranteed.”  Specifically, the court writes:No matter how central an accuser’s credibility is to a case–indeed, her credibility will almost always be the cornerstone of a rape or sexual assault case, even if there is physical evidence–the Constitution does not require that a defendant be given the opportunity to wage a general attack on credibility by pointing to individual instances of past conduct.As there is no absolute Constitutional right to impeach the general credibility of a witness, Petitioner-Appellee does not have a valid Confrontation Clause claim.
+

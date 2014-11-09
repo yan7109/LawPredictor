@@ -1,0 +1,21 @@
+Citation
+955 F. Supp. 115 (D.N.M. 1997)
+
+Brief Fact Summary
+David K. Guardia, M.D. (Defendant) was indicted for two counts of criminal sexual penetration and two counts of battery; the indictment was based on Defendant’s alleged behaviors while he was practicing as a gynecologist.  The prosecution offered into evidence the testimony of various women who claimed to have been abused by Defendant, and Defendant moved to have the evidence excluded based on the standard of Federal Rule of Evidence 403.  The lower court granted Defendant’s motion, and this appeal followed.
+
+Synopsis of Rule of Law
+In order for evidence to be admissible under Federal Rule of Evidence 413, a defendant must be on trial for, “an offense of sexual assault,” the evidence must be of and concerning, “another offense of . . . sexual assault,” the lower court must determine that the evidence is relevant, and the potential prejudicial value of the evidence must not substantially outweigh its probative value.
+
+Facts
+Defendant was indicted after two women complained that Defendant improperly touched them during gynecological exams; none of the alleged improper behaviors took place in the presence of any additional witnesses.
+
+Issues
+Does the test found in Federal Rule of Evidence 403 (that evidence, otherwise admissible, is inadmissible when the probative value of the evidence is substantially outweighed by the risk of unfair prejudice) apply to evidence introduced under Federal Rule of Evidence 413? Was the lower court correct in excluding the evidence in the present case based on its Rule 403 determination that the risk of prejudice did substantially outweigh the evidence’s probative value?.
+
+Held
+Affirmed.
+
+Discussion
+The court reasons that the decision to exclude evidence under Federal Rule of Evidence 403 lies with the court, and when the court determines that the potential for confusion of the issues substantially outweighs the probative value of the evidence offered, such evidence is properly excluded.  The court notes its desire to give the “benefit of the doubt” to the lower court, and states:
+

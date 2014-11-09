@@ -1,0 +1,21 @@
+Citation
+497 F.2d 1190,1974 U.S. App.
+
+Brief Fact Summary
+An attorney named as a defendant in a securities law violation case wants to be able to use attorney-client privileged information to demonstrate his nonparticipation in the wrongful acts alleged by Plaintiffs.
+
+Synopsis of Rule of Law
+An attorney’s right to reveal previously privileged information to insulate himself from liability for alleged wrongdoing.
+
+Facts
+Attorney Charles Goldberg was named as a defendant along with the insurance company that he had advised in this suit brought by a shareholder claiming a number of securities law violations. Goldberg argues that he was not a party to this wrongdoing, and wants to be able to use a copy of an affidavit previously submitted to the SEC to prove this. His co-defendants seek to enjoin the production of this information.
+
+Issue
+Was Goldberg justified in making this information public once he learned that he had been included as a co-defendant?
+
+Held
+Yes. An attorneys may circumvent the attorney-client privilege if the previously privileged information would protect them from allegations of wrongdoing.
+
+Discussion
+This is the only exception to the attorney-client privilege in which the attorney is allowed to waive the privilege. The privilege is otherwise solely at the client’s discretion.
+

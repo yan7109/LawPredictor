@@ -1,0 +1,21 @@
+Citation
+238 F.3d 264, 2001 U.S. App. 57 U.S.P.Q.2D (BNA) 1547
+
+Brief Fact Summary
+Action involving a trademark suit under the Anti-Cybersquatting Act.
+
+Synopsis of Rule of Law
+A person is liable under the anti-cybersquatting act if they have a bad faith intent to register and profit from a domain name that is a registered trademark associated with another company.
+
+Facts
+The Plaintiff, Virtual Works, Inc. (Plaintiff), registered the domain name vw.net with Network Solutions Company, a government authorized company. At the time the Plaintiff registered the domain name, they realized some users might associate the name with the Defendant car company, Volkswagen (Defendant). Plaintiff discussed how they could sell the name to the Defendant for a lot of money. After the Plaintiff had used the name for approximately two years, the Defendant contacted the Plaintiff about purchasing the rights to the domain name. The Plaintiff contacted the Defendant’s trademark department stating that it would sell it to Defendant, but if the Defendant did not buy the name, then the Plaintiff would sell the name to the highest bidder. The Plaintiff filed a declaratory judgment action against the Defendant and the Defendant counterclaimed alleging trademark dilution, infringement and cybersquatting. Cybersquatting is the practice of registering well known brand name
+
+Issue
+Whether the acquisition of an internet domain name violated the Act?
+
+Held
+Affirmed. The acquisition of the internet domain name violated the act.
+
+Discussion
+Trademarks are words and symbols indicating the source of a product or service. Owners of marks are protected against use of similar marks by others when such use would result in confusion. The Act deals with registered domain names in an attempt to prevent trademarks from being bought by other companies not associated with the trademark.
+

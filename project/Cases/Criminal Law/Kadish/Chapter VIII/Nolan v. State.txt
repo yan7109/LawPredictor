@@ -1,0 +1,24 @@
+Citation
+962 N.E.2d 163 (Ind. Ct. App. 2012)
+
+Brief Fact Summary
+Defendant was convicted of embezzlement and contends that evidence produced at trial makes the crime larceny and not embezzlement.
+
+Synopsis of Rule of Law
+The crime of larceny is committed when an individual steals goods while in the possession of the owner.
+
+Facts
+Defendant, Nolan was the office manager of the Federal Discount Corporation, a company in the business of making loans and collections. Payments received by customers were placed in a cash drawer. At the end of the day, Nolan would take some of the cash from the drawer, and an accomplice would prepare a false report showing the daily receipts. Nolan claims that the evidence at trial proves he was guilty of larceny and not embezzlement.
+
+Issue
+Does the crime of larceny occur only when money is placed into an employer’s cash drawer prior to its fraudulent conversion?
+
+Held
+Yes. Reversed as to the conviction on embezzlement.
+
+Concurrence
+Judge Prescott concurring: This case can be decided by reference to the present Maryland embezzlement statute. An application of the facts in the record meets every element required in the statute to prove embezzlement. The majority of the court applies English decisions and other authorities to the holding because the money went into the drawers before its fraudulent conversion. Thus, the court tells individuals that if you steal your employer’s money before it is placed in a drawer (under your charge and control) you are guilty of embezzlement, but if you place the money in the drawer while in your control and then steal it, you are guilty of larceny. The result from such a policy is to allow a criminal to escape from punishment.
+
+Discussion
+Judge Prescott feels that a court’s refinement of the differences between the elements of larceny and embezzlement in practical operation can result in the nullification of statutes.
+

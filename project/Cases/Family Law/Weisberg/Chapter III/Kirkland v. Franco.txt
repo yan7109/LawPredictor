@@ -1,0 +1,21 @@
+Citation
+92 F. Supp. 2d 578,2000 U.S. Dist.
+
+Brief Fact Summary
+Defendant placed a telephone recording device on his phone and recorded conversations between his wife and her lover without their knowledge.  Wife and her lover brought suit claiming defendant violated both state and federal wiretapping acts.
+
+Synopsis of Rule of Law
+States are confined by federal rulings on spousal immunity in relation to federal wiretapping acts.  However, the same rulings are not applicable to state acts.
+
+Facts
+Defendant Dennis Franco placed a telephone recording device in he and his wife’s bedroom because he suspected his wife, plaintiff Alice Kirkland, of having an extramarital affair.  The tape recording device recorded conversations between plaintiff and her lover, Jones.  Plaintiff and Jones brought suit against defendant claiming that defendant violated the Federal Omnibus Crime Control and Safe Streets Act and Louisiana’s Electronic Surveillance Act.  Both Acts barred intercepting electronic communications.  Defendant responded that he was entitled to summary judgment because the Fifth Circuit had created an exception for spouses to the federal Act.
+
+Issue
+Is there an exception for spouses to the federal and state Acts?
+
+Held
+A spousal exception exists for the federal Act, but not for the state Act.
+
+Discussion
+Both plaintiffs and defendant admitted that no genuine issue of material fact existed concerning liability.  Therefore, the Court’s only determination was whether interspousal immunity applied to the two Acts.
+

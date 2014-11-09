@@ -1,0 +1,21 @@
+Citation
+256 Kan. 519, 886 P.2d 845 (1994)
+
+Brief Fact Summary
+The Wyandotte District Court (Kansas) held in favor of Appellee in an action to recover damages for negligent infliction of emotional distress under the Federal Employer’s Liability Act (FELA) 45 U.S.C.S. Section: 51 et seq. Pacific Union R.R. (Appellant) company challenged the decision.
+
+Synopsis of Rule of Law
+FELA provides that every common carrier by railroad shall be liable in damages to any person suffering injury or death while he is employed by such carrier for such injury or death resulting in whole or in part from the negligence of any of the officers, agents, or employees of such carrier, or by reason of any defect or insufficiency, due to its negligence, in its cars, engines, appliances, machinery, track, roadbed, works, boats, wharves, or other equipment.
+
+Facts
+Grube (Appellee) was employed by Appellant. A train Appellee was operating collided with a car that had gotten trapped in a Kansas railroad crossing. In the accident, one person died and two were severely injured. Appellee brought a claim against his employeer, seeking recovery for negligent infliction of emotional distress. Appellee sustained no physical injuries in the collision, and attempted to render aid to the victims. He later testified that he became physically ill, and subsequently suffered emotional injury. A jury found for Appellee, and he was was awarded $121,500.00 damages. Appellant sought review.
+
+Issue
+Did the Appellee meet the “zone of danger test” outlined in Conrail v. Gottshall, 512 U.S. 532, and thus, may he successfully bring a cause of action under FELA for emotional injury when such injury was not related to any physical trauma?
+
+Held
+The court concluded that the employee failed to establish an essential element of the zone of danger test, and reversed the judgment.
+
+Discussion
+The court in Grube cites Conrail v. Gottshall, 512 U.S. 532, the primary authority with regard to FELA interpretation. As that court stated, “[t]he injury from negligent infliction of emotional distress is mental or emotional harm (such as fright or anxiety) that is caused by the negligence of another and that is not directly brought about by a physical injury, but that may manifest itself in physical symptoms.” The Conrail court prescribed three tests, to determine the viability of a claim. The court in Conrail explained, “[u]nder the physical impact test, a plaintiff seeking damages for emotional injury stemming from a negligent act must have contemporaneously sustained a physical impact (no matter how slight) or injury due to the defendant’s conduct.” With regard to the second, the zone of danger test, at issue here, the Grube court again quoted Conrail, “[u]nder this test, a worker within the zone of danger of physical impact will be able to recover for emotional inju
+

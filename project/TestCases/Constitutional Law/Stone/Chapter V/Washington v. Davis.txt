@@ -1,0 +1,21 @@
+Citation
+426 U.S. 229, 96 S. Ct. 2040, 48 L. Ed. 2d 597, 1976 U.S. 154.
+
+Brief Fact Summary
+A higher percentage of black applicants than white applicants failed a qualifying test administered by the District of Columbia Police Department. Some of the unsuccessful black applicants claimed these effects constituted unconstitutional discrimination against them.
+
+Synopsis of Rule of Law
+Proof of a disproportionate impact is not enough, standing alone, to ground a finding that a law amounts to unconstitutional discrimination.
+
+Facts
+The District of Columbia Police Department administered a test to applicants for positions as police officers. The test measured verbal ability, vocabulary, and reading comprehension. A higher percentage of the black applicants than the white applicants failed the test. Respondents, unsuccessful black applicants, claimed the test constituted a violation of equal protection, because it had the effect of disproportionately disqualifying blacks for police service. Respondents did not allege discriminatory purpose on the part of the government. The District Court ruled against the Respondents.
+
+Issue
+Was proof of the disproportionate effects of the qualifying exam sufficient to ground a finding that the exam unconstitutionally discriminated against the respondents?
+
+Held
+No. The Court of Appeals, reversing the District Court, is reversed.
+
+Discussion
+After this case, a court confronted with a law that has a disproportionate effect on a racial minority, must first determine if the law is race specific. If it is, either because the law is facially discriminatory or because the law was motivated by a racial discriminatory purpose, the law will probably be invalidated under the strict scrutiny standard of review. If the law is non-race specific, the court will apply the rational basis standard of review, regardless of the law’s impact on racial minorities.
+

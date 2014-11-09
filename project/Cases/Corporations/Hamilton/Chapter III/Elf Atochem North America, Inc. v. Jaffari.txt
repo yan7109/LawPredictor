@@ -1,0 +1,21 @@
+Citation
+727 A.2d 286 (Del. 1999)
+
+Brief Fact Summary
+Appellant, Elf Atochem North America, Inc., brought suit against Appellee, Cyrus Jaffari, for issues related to their LLC, Malek LLC.  The suit was brought in a Delaware court, but the LLC agreement called for disputes to be settled with arbitration in San Francisco, CA.
+
+Synopsis of Rule of Law
+The Delaware LLC statutes give great deference to the freedom of LLC members to contract, providing the terms do not overstep any of the mandatory statutory provisions.
+
+Facts
+In 1996, Appellant contracted with Appellee to form an LLC incorporated in Delaware that would produce more environmentally-friendly maskants for the aerospace and aviation industries.  Appellant produces solvent-based maskants which have been classified as hazardous.  Appellant provided much-needed financial backing for Appellee’s operation, while Appellee retained 70% of the profits from the newly formed LLC.  The LLC agreement called for all disputes to be settled through arbitration in San Francisco.  Appellant brought this action in 1998 in a Delaware court against Appellee for breach of contract, breach of fiduciary duty and tortuous interference.  Appellant argued that since LLC was formed prior to the formation of the LLC agreement, and because the LLC never signed the agreement then the agreement and its arbitration provision are not effective over this dispute.  Appellant also argued that the claims were derivative instead of direct, and that the Delaware Court of Ch
+
+Issue
+The first issue is whether an LLC agreement not executed by the LLC itself is valid. The second issue is whether the arbitration and choice of forum provisions are valid.
+
+Held
+It is irrelevant that the LLC itself did not assent to the agreement because the members of the LLC, the Appellant and Appellee, consented to the agreement.  This is true regardless of whether the claims are derivative or direct because the parties agreed that all claims related to the agreement should be subject to the agreement’s arbitration provisions. The arbitration and choice of forum provisions are valid.  The Delaware laws regarding LLC’s allow for parties to contractually determine how to settle disputes and where.
+
+Discussion
+LLC’s are useful because they offer flexibility not available in other entities.  If the parties are not able to effectively meet their objectives through principles of contract, then LLC’s will not retain their usefulness.
+

@@ -1,0 +1,21 @@
+Citation
+152 B.R. 61, 1993 Bankr. 345, Bankr. L. Rep. (CCH) P75,194; 28 Collier Bankr. Cas. 2d (MB) 1032
+
+Brief Fact Summary
+F.T.L., Inc., (Petitioner), filed a voluntary bankruptcy petition under chapter11. Crestar Bank, (Respondent), the primary secured creditor of Petitioner, has perfected a judgment lien against the residence Frank Lash, Jr. and Robyn Lash, officers of Petitioner and personal guarantors of the debt. Frank Lash Jr., and Robyn Lash have requested an automatic stay of judicial proceedings and enforcement of judgments pursuant to 11 U.S.C. 362
+
+Synopsis of Rule of Law
+Where the identity of the debtor and the third party guarantor are inexorably interwoven so that the debtor may be said to be the real party against whom the creditor is proceeding or where proceeding against the third party would actually reduce or diminish property the debtor could otherwise make available to the creditors as a whole, a bankruptcy court may exercise equitable jurisdiction to enjoin proceedings against non-debtor third parties under 11 U.S.C. Section: 362.
+
+Facts
+Respondent is the primary secured creditor of Petitioner. Frank Lash, Jr. and Robyn Lash, (the Lashes) personally guaranteed this debt. Respondent secured a judgment lien against the Lashes, perfected its lien against their residence and suggested garnishment on their personal bank accounts. Petitioner filed its amended plan of reorganization. The plan calls for the Lashes to contribute all the equity in their home to the reorganization. They have secured a home equity loan conditioned upon the continued ownership and management by the Lashes and their personal guarantee.
+
+Issue
+Whether this case presents the “unusual circumstances” that would allow a bankruptcy court to exercise equitable jurisdiction to enjoin proceedings against non-debtor third parties under 11 U.S.C. Section: 362.
+
+Held
+Yes. Because proceeding against the third party would actually reduce or diminish property the debtor could otherwise make available to the creditors as a whole, a bankruptcy court may exercise equitable jurisdiction to enjoin proceedings against non-debtor third parties
+
+Discussion
+Proceeding against the Lashes would actually reduce or diminish property Petitioner could otherwise make available to the creditors as a whole. Petitioner is likely to succeed on the merits by proposing a confirmable chapter 11 plan. Proposing a confirmable plan is impossible without the active involvement of the Lashes. If the Lashes filed their own bankruptcy petition, they would not be able to contribute the equity of their residence and the plan would fail. Little or no harm would be caused to Respondent if it were temporarily enjoined from collection against the Lashes. The Lashes are contributing al the equity in their home to the plan but as the primary secured creditor, Respondent will be the beneficiary of these funds. Further, the creditors as a whole are best served by giving Petitioner the opportunity to propose a plan of reorganization. Accordingly, these facts present the “unusual circumstances” that would allow bankruptcy court to exercise equitable jurisdic
+

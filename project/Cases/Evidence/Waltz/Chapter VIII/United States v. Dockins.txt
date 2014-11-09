@@ -1,0 +1,21 @@
+Citation
+510 U.S. 850
+
+Brief Fact Summary
+The defendant, Dockins (the “defendant”), was convicted of illegal possession of a firearm by a convicted felon pursuant to 18 U.S.C. Section:922(g)(1).  He was also convicted of knowingly making false statements during the purchase of a firearm pursuant to 18 U.SC. Section:922(a)(6).
+
+Synopsis of Rule of Law
+When there is no circumstantial evidence offered by the government to show that records come from where they are said to come from, “there [is] no basis for a reasonable jury to conclude that these documents [are] what they purported to be.”
+
+Facts
+The defendant was convicted of illegal possession of a firearm by a convicted felon pursuant to 18 U.S.C. Section:922(g)(1).  Also, of making knowingly false statements during the purchase of a firearm pursuant to 18 U.S.C. Section:922(a)(6).  In order to prove that the defendant was a convicted felon, the government sought to admit as Exhibit 5, a judgment of conviction of Carl Tyron Smith on robbery charges in Colorado.  Further, the government sought to link the defendant to the conviction through a fingerprint card and police record sheet, Exhibit 5a, reflecting the arrest and conviction of Carl Smith.  Testimony showed that the signature of Carl Smith on the fingerprint card was actually signed by the defendant.  Additionally, another individual testified that the fingerprints on the fingerprint card were those of the defendant.  The court admitted the evidence over the defendant’s objection on the grounds of authentication.
+
+Issue
+Did the government introduce competent evidence of the defendant’s status as a convicted felon?
+
+Held
+It was an abuse of discretion to admit these documents.  The parties agreed that the document comprising Exhibit 5a were not self-authenticating and accordingly admissibility turned on F.R.E. Rule 901.  F.R.E. Rule 901 does not require conclusive proof of authenticity.
+
+Discussion
+This case offers an interesting discussion about how documents must be authenticated before they are admissible.
+

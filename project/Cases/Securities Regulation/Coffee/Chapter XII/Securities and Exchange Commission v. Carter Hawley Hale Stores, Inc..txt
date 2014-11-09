@@ -1,0 +1,21 @@
+Citation
+760 F.2d 945 (9TH Cir. 1985)
+
+Brief Fact Summary
+The Limited, Inc. constructed a tender offer for 55% of Carter Hawley Hale, Inc. (CHH) (Defendant) stock and CHH overcame this through a stock repurchase offer.
+
+Synopsis of Rule of Law
+A stock repurchase created in reply to a tender offer is not always protected by tender offer rules.
+
+Facts
+When making a bid for control of Carter Hawley Hale, Inc. (CHH), The Limited, Inc., formed a tender offer to the shareholders of CHH. In reply, CHH management prepared a stock repurchase offer to its shareholders in addition to an offer of a large number of shares in itself to General Cinema Corporation. During the repurchase period, the market price of the shares slowly but consistently increased, seeing as this period was open-ended in time, was to conclude when The Limited’s tender offer concluded. When over half the outstanding stock was repurchased, the repurchase program concluded.  A suit for injunctive relief was brought by the SEC (Plaintiff) , stating that the repurchase program was indeed a tender offer, therefore, disclosure conditions needed to be satisfied and they were not. The district court held that the repurchase program was not a tender offer.
+
+Issue
+Do tender offer rules protect stock repurchases created in reply to a tender offer?
+
+Held
+(Skopil, J.) No. Tender offer rules do not always protect a stock repurchase created in reply to a tender offer. The character of the offer, like the offer itself, must be considered to see if the eight conditions of a tender offer are met. They are: (1) extensive and aggressive petition; (2) petition for a large portion of the issuer’s stock; (3) a premium price offered; (4) non-negotiable terms; (5) the tender of a set least quantity to be bought, which the offer is dependent upon; (6) time restrictions; (7) burden applied on the offeree and (8) the offer must be broadcast to the public. In this case, none of the conditions were met except the broadcasting of the offer to the public. It has been found by the court that there is not satisfactory evidence for this offer to constitute a tender offer and so did not have to comply with the conditions of Rule 13e-4. Affirmed
+
+Discussion
+The disclosure conditions for tender offers are found in SEC Rule 13e-4, which prevents distortion, insisting on distribution of specific facts, and attempts to assure that shareholders will be informed of pertinent information. This rule is imposed by the SEC.
+

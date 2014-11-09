@@ -1,0 +1,27 @@
+Citation
+405 F.2d 464
+
+Brief Fact Summary
+Joye (P) slipped on a banana peel and fell, at A&P’s supermarket.
+
+Synopsis of Rule of Law
+Unless a defendant has constructive notice of a dangerous condition, or is reasonably proved to have neglected his duty to inquire about or know a fact or condition of his property which could have reasonably been expected to pose a substantial risk of injury, which he could have known if he had used reasonable prudence, he cannot be held liable for falling short of a reasonable standard of care.
+
+Facts
+Joye (P) was in A&P’s supermarket when he slipped and fell on a banana peel. The duration for which the peel was on the floor is unknown. The maximum interval since the floor was last swept was 35 minutes. No other person appears to have noticed it until the fall. The banana was sticky and dark brown, with dirt and sand sticking to it. The floor was also dirty. The defendant could not prove any direct involvement of A&P in placing the banana on the floor or of its having had any knowledge of it before he slipped on it. He was awarded $10,000. In its appeal, A&P argued that they had no knowledge of the fact of the banana being on the floor despite reasonable prudence being exercised. Thus constructive notice of the dangerous condition, which could reasonably be expected to pose a significant risk of injury and render the defendant liable, was lacking.
+
+Issue
+Is it possible under law to hold a defendant liable for negligence unless he had constructive notice of the dangerous condition?
+
+Held
+(Craven, J.) No. A defendant cannot be held liable of not upholding a reasonable standard of care if he had no prior responsible knowledge of a dangerous condition. In the present case, the key point is the lack of circumstantial evidence to establish the presence of constructive knowledge on the part of the defendant. The available evidence could not prove whether the banana had been on the floor for any time sufficient to provide a basis for constructive knowledge. The verdict was reversed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The verdict seems to be at variance with the one in Anjou v. Boston Elevated Railway Co., 94 N.E.386 (1911). In both, the evidence centered on brown and dirty bananas. The defendant in Anjou was held liable perhaps on account of a higher standard of duty since it was a public or common carrier. Whereas the court contended that the proof did not run to establishing the exact duration the banana lay on the floor, the real issue would seem to be rather whether the jury could decide from the evidence whether the banana had been lying there too long to be consistent with the duty of reasonable prudence.
+

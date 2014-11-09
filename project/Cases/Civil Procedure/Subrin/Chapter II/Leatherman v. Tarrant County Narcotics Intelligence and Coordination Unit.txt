@@ -1,0 +1,21 @@
+Citation
+507 U.S. 163, 113 S. Ct. 1160, 122 L. Ed. 2d 517, 1993 U.S. 1941
+
+Brief Fact Summary
+This action arose out of two separate incidents involving the execution of search warrants by law enforcement officers.  Leatherman (Plaintiffs) sued several law enforcement officers asserting that police conduct violated the Fourth Amendment to the United States Constitution.  The United States District Court of the Northern District of Texas dismissed the complaints and the United States Court of Appeals for the Fifth Circuit affirmed the dismissal.  The Supreme Court of the United States granted to certiorari to resolve a conflict among various court of appeals regarding the heightened pleading standard.
+
+Synopsis of Rule of Law
+If Rule 9(b) of the Federal Rules of Civil Procedure does not require specific pleading of a certain type of claim, the court cannot interpose a higher standard of specificity.
+
+Facts
+Both cases involve the execution of search warrants by law enforcement officials, which arose out of the forcible entry into Plaintiffs’ homes based on the detection of odors associated with narcotics.  One of the plaintiffs alleged that he was assaulted by the police officers, and the other claimed that the police entered her home in her absence and killed her two dogs.  Plaintiffs sued law enforcement officials asserting that the police conduct violated the Fourth Amendment of the United States Constitution.  The United States District Court for the Northern Division of Texas dismissed the complaints because they failed to meet the heightened pleading standard.  The United States Court of Appeals for the Fifth Circuit affirmed the judgment and the Supreme Court of the United States granted certiorari to resolve conflict between court of appeals concerning the heightened pleading standard.
+
+Issue
+Whether a federal court may apply a heightened pleading standard in civil rights cases?
+
+Held
+No. Judgment is reversed.
+
+Discussion
+This case overturned the ruling in Cash Energy, Inc. v. Weiner, 768 F.Supp. 892 (D. Mass. 1991).  This case makes it clear that federal courts are not to interpose a requirement of fact pleading into the federal rules.
+

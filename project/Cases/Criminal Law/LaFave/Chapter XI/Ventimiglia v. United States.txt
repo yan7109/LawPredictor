@@ -1,0 +1,21 @@
+Citation
+242 F.2d 620,1957 U.S. App. 39 L.R.R.M. 2617; 32 Lab. Cas. (CCH) P70,579
+
+Brief Fact Summary
+The defendants, Parran and Ventimiglia, the general manager and labor relations adviser respectively of Weather-Mastic, Inc., were charged with violations of the Taft-Hartley Act and a conspiracy to violate the Taft-Hartley Act. They were acquitted of the Taft-Hartley Act violations but convicted of the conspiracy. They appealed said conviction.
+
+Synopsis of Rule of Law
+A person may be convicted of a conspiracy even though the substantive offense was never accomplished; however, he may not be convicted of conspiracy where the act the alleged conspirators agreed to do has not been made unlawful and is not to be accomplished in an unlawful manner.
+
+Facts
+Weather-Mastic, Inc., is a non-unionized contractor. The prevailing industry practice required that workers possess some evidence of union membership, if affiliated with a union, or “working cards,” which the union issues to a limited number of non-union men working on union jobs. While Weather-Mastic’s employees were working on a job, the business agent of the union, Joseph Martin, complained that they were carrying working cards issued by Ventimiglia rather than Martin himself. The defendants then persuaded Martin to issue working cards to their employees for $100 a month. Martin did not become a representative of the employees; he just issued working cards. The defendants were charged with violations of the Taft-Hartley Act, which forbids the payment of money by an employer to a representative of its employees, and conspiracy to violate the Taft-Hartley Act. Upon conviction for the conspiracy, the defendants appealed.
+
+Issue
+Was the evidence sufficient for the defendants to be convicted of the conspiracy charges?
+
+Held
+No. The defendants were acquitted of the substantive charges of violations of the Taft-Hartley Act, but convicted of the conspiracy offense. A person may be convicted of a conspiracy even though the substantive offense was never accomplished; however, he may not be convicted of conspiracy where the act the alleged conspirators agreed to do has not been made unlawful and is not to be accomplished in an unlawful manner. The Taft-Hartley Act forbids the payment of money by an employer to any representative of any of his employees. In the present case, Martin was not actually the representative of any of the defendants’ employees. The defendants merely used Martin to obtain cards for their employees to allow them to work on union jobs. Therefore, no violation of the Taft-Hartley act is possible since the payment of money must be to a representative of the employees. Thus, since the substantive offense could not have been committed, the conspiracy convictions cannot stand.
+
+Discussion
+A person cannot be convicted of a conspiracy where the substantive offense turns out not to be illegal. This, termed a legal impossibility, is to be distinguished from a factual impossibility, which does not act to absolve conspirators of guilt for a conspiracy. A factual impossibility occurs where a fact thought to be true by the conspirators turns out not to be true. For instance, if the conspirators intend to rob an armored car, they are still guilty of conspiracy if the armored car turns out to be empty.
+

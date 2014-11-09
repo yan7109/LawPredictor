@@ -1,0 +1,21 @@
+Citation
+22 Ill.2 F.R.D. 238 (D. Minn. 1942)
+
+Brief Fact Summary
+Plaintiffs sued Defendant for injuries sustained from eating contaminated food at Defendant’s restaurant. Defendant impleaded the manufacturer of the food seeking indemnification for any judgment paid by Defendant and the Court issued an order listing the manufacturer as a third party defendant. The manufacturer moved to vacate the order on the grounds that the applicable state law would prevent Defendant from bringing an action for indemnity until Defendant had to pay out a judgment that was more than its share.
+
+Synopsis of Rule of Law
+A defendant may implead a third party that may be liable in a lawsuit under Rule 14 of the Federal Rules of Civil Procedure even though the defendant may not be able to bring an independent action against the third party at the time the third party is impleaded. The policy behind Rule 14 is to have the rights of all parties resolved in one proceeding. If the trial court has means to prevent any prejudice ensued from impleading a third party, then impleader is permitted.
+
+Facts
+Jeub, one of several Plaintiffs, sued Defendant B/G Foods, Inc. in federal court in Minnesota for injuries sustained from eating allegedly contaminated ham at Defendant’s restaurant. Defendant then filed a third party complaint against Swift and Company (”Swift”) claiming that Defendant bought the ham from Swift. The Court issued an ex parte order naming Swift as a third party defendant. Defendant asserted that it was free from liability, and if the ham was in fact contaminated, then it was due entirely to the negligence of Swift. Defendant also sought indemnity from Swift of any recovery made by Plaintiffs from Defendant. Swift moved to vacate the order listing it as a third party defendant because Plaintiffs had refused to amend the complaint to name Swift as a defendant. Swift argued that Defendant has no right of contribution or indemnity against Swift under Minnesota law. Swift further argued that in order to have a right of contribution or indemnity, a party must actuall
+
+Issue
+Can Defendant implead a third party under Rule 14 of the Federal Rules of Civil Procedure if the applicable state law governing contribution and indemnity would require the third party to be named as a defendant in the original complaint brought by Plaintiff?
+
+Held
+Yes. The motion to vacate the order is denied.
+
+Discussion
+This case illustrates that reasons preventing invocation of Rule 14 of the Federal Rules of Civil Procedure must be compelling. The purpose of Rule 14 is to resolve the rights of all parties. The applicable state law creates the rights but does not prevent a federal court from determining when those rights are decided if there is a rule on point.
+

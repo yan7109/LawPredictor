@@ -1,0 +1,24 @@
+Citation
+22 Ill.431 U.S. 1, 97 S. Ct. 1505, 52 L. Ed. 2d 92 (1977)
+
+Brief Fact Summary
+New York and New Jersey repealed a 1962 covenant that was designed to protect bond holders.
+
+Synopsis of Rule of Law
+New York and New Jersey violated the Contract Clause when they allowed the Port Authority to use funds to subsidize public transportation in violation of a previous statutory covenant to private bondholders.
+
+Facts
+As part of an agreement with the state to allow the Port Authority’s proposed takeover of a financially troubled privately owned commuter train, the “Statutory Covenant” provided that the two states would covenant and agree with each other and with the holders of any affected bonds not to finance deficits of other future mass transit facilities with revenue pledged to pay bonds that were issued when it was formed in 1921. In 1974, both states retroactively repealed the 1962 covenant in order to permit greater use of bridge and tunnel tolls to subsidize mass transit. The trustee and holder of the Authority bonds sued saying the repeal of the 1962 covenant was prohibited by the Contract Clause.
+
+Issue
+Did the repeal of the 1962 covenant between New Jersey and New York and bond holders constitute a violation of the Contract Clause?
+
+Held
+Justice Blackmun. Yes.
+
+Dissent
+Justice Brennan, White and Marshall dissenting.
+
+Discussion
+A private contract can be modified by the legislature under its police power when necessary to serve a legitimate public interest and the regulation is reasonable and narrowly tailored to promote that interest.
+

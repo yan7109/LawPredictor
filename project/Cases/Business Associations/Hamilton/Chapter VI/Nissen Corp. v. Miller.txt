@@ -1,0 +1,24 @@
+Citation
+Md. Ct. App., 594 A.2d 564 (1991)
+
+Brief Fact Summary
+Brandt (P) was injured by a treadmill manufactured by American Tredex who later became Nissen Corp. (D). Brandt (P) brought suit on product liability against Nissen (D) and others.
+
+Synopsis of Rule of Law
+“Continuity of enterprise”, is not an exception in corporate successor liability.
+
+Facts
+Brandt (P) bought a treadmill designed, manufactured, and marketed by American Tredex Corp. who later became Nissen Corp. (D). During the takeover, Nissen Corp (D) expressly excluded assuming liability for injuries arising from any American Tredex product. Brandt (P) and his wife eventually sued American Tredex, Nissen, and the store that sold them the treadmill for negligence, strict liability, breach of express and implied warranties, and loss of consortium. The store cross claimed Nissen (D) for indemnity and contribution; Nissen (D) was granted summary judgment. On appeal, the appellate court reversed. The supreme court granted review.
+
+Issue
+Is “Continuity of enterprise”, an exception in corporate successor liability?
+
+Held
+(Chasanow, J.) No. “Continuity of enterprise”, is not an exception in corporate successor liability. The issue is whether corporate successor liability should be expanded to include this concept as a fifth exception to the four already. This concept focuses on the continuation of operation or enterprise, but not the same ownership. Inapplicable here is the exception of continuation of entity because the management is not the same. There is no contention in this case that Nissen (D) is a continuation of American Tredex, or that the sale of its assets falls within the other exceptions. To proceed, Brandt (P) must argue for the use of continuity of enterprise exception. His stance argues that this exception is necessary for the injured consumer to recover when the manufacturer no longer exists. Nissen (D) argues that current exceptions are all that is needed and sufficient to the task. Underlying the principles of strict liability is to hold the seller accountable for placing dangerous products on the market, a corporate successor is not a seller bringing these products to market. In adopting the continuity of enterprise exception, the court may spread liability unfairly to major corporations and smaller businesses who may not be in a position to spread risk or insure against it. Nissen (D) also did more than what was required of it, maintaining support services for products of the previous corporation, retaining some of its employees, assuming old commitments. Nissen (D) should not be penalized for beneficial actions. Finally, the Restatement (Second) of Torts which governs the state’s strict liability does not contemplate successor corporate liability. Continuity of enterprise theory of successor corporate liability is thereby rejected. Reversed.
+
+Dissent
+(Eldridge, J.) This exception should be added to the general rule with regards to defective products.
+
+Discussion
+Policy considerations on imposing successor liability must be carefully balanced. On one side, imposing successor liability makes alienability of assets more frustrating. On the other side, there is the risk that corporate assets will be sold for less than fair market value or that proceeds of the sale might be siphoned off by shareholders. The interest of creditors, such as tort victims, must be evenly balanced against the interest of shareholders.
+

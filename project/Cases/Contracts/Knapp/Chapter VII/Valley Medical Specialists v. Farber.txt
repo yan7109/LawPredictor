@@ -1,0 +1,21 @@
+Citation
+22 Ill.194 Ariz. 363, 982 P.2d 1277, 15 IER Cases 419 (1999)
+
+Brief Fact Summary
+This case deals with the strong public policy against upholding non-compete clauses in employment contracts, particularly when they may inhibit the physician-patient relationship.
+
+Synopsis of Rule of Law
+While a term in an agreement may not be facially unconscionable, it may still be regarded as contra bonus mores, and be considered unenforceable as such.
+
+Facts
+Defendant, an internist and pulmonologist who specialized in the treatment of AIDS and HIV-positive patients and performing brachytherapy on cancer patients, was employed by Plaintiff Valley Medical Specialists (VMS). The parties entered into an employment agreement, which contained a restrictive covenant that prohibited Defendant from competing in the practice of medicine for a period of three (3) years, anywhere within a five mile radius of any of Plaintiffs’ business locations. After several years, Defendant left Plaintiffs’ employ, and began practicing medicine within the area defined by the restrictive covenant. Plaintiff brought suit seeking an injunction enforcing the covenant. The Trial Court denied the injunction, finding the covenant to be in violation of public policy and, alternatively, too broad to be enforceable. The intermediate appellate court reversed, modifying the covenant so that it could be enforced, and Defendant appealed to the Arizona Supreme Court.
+
+Issue
+Can a restrictive covenant be enforced when doing so would inhibit the doctor-patient relationship, in violation of public policy?
+
+Held
+No. Reversed. Trial Court’s judgment reinstated.
+
+Discussion
+When a non-compete agreement applies to a physician, it can have the impact of restricting the practice of medicine, which can be adverse to a patient. Such a restrict covenant will be enforceable to the extent that it does not affect an innocent third party, but not beyond that threshold.
+

@@ -1,0 +1,21 @@
+Citation
+383 F. Supp. 696 (E.D. Pa. 1974)
+
+Brief Fact Summary
+Defendant, Donald L. Woodruff, did not appear for a set court date.  Plaintiff, The United States government, moved to question Defendant’s counsel to determine if Defendant could be indicted for jumping bail.
+
+Synopsis of Rule of Law
+A party’s counsel can be compelled to disclose whether counsel advised his client as to the time and place of the trial.
+
+Facts
+Defendant did not show up for his scheduled court date.  Plaintiff wanted to pursue charges against Defendant under 18 U.S.C.A. Section: 3150 for jumping bail.  Plaintiff moved to question Defendant’s counsel to determine whether counsel advised Defendant of the place and time of trial.  The counsel would not disclose the information, citing attorney-client privilege.
+
+Issue
+The issue is whether attorney-client privilege can prevent Defendant’s counsel from disclosing whether he advised Defendant of the place and time of trial.
+
+Held
+The United States District Court for the Eastern District of Pennsylvania held that the advising of the place and time of a trial is not information protected by the attorney-client privilege because it did not pertain to the subject matter of the legal matter originally at issue.
+
+Discussion
+The attorney-client privilege will not extend to the protect counsel’s disclosure on the procedural aspects of the trial such as time and place.
+

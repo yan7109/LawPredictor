@@ -1,0 +1,21 @@
+Citation
+204 F.2d 709, 1953 U.S. App.
+
+Brief Fact Summary
+The Plaintiff, the United States (Plaintiff), sued the Defendant, Seacoast Gas Co. (Defendant), for the difference between the contract price and the amount the Plaintiff paid to cover the contract that the Defendant gave notice that it was canceling.
+
+Synopsis of Rule of Law
+An anticipatory repudiation may be retracted at any time prior to a change of position by the nonbreaching party.
+
+Facts
+The Plaintiff and the Defendant entered into an agreement under which the Defendant would supply a federal housing project with gas. The Defendant thereafter anticipatorily breached the contract by notifying the Plaintiff in writing that it was canceling the contract due to the Plaintiff’s breach. The Plaintiff responded in writing that it did not recognize any right of the Defendant to cancel the agreement and advertised for bids on the contract to ensure continuous supply in the event that the Defendant continued to refuse performance. The Plaintiff received a low bid and notified the Defendant that the Defendant had three days to retract its repudiation, or the low bid would be accepted. The Defendant refused and the low bid was accepted. Before the signing of the new contract, though, the Defendant decided that it had no right to cancel the contract and sought to rescind its repudiation. The Plaintiff refused and initiated this action.
+
+Issue
+Did the district court err in finding that the Defendant sufficiently retracted its repudiation of the contract?
+
+Held
+Yes. A party that gives notice of an intention not to perform a contract may withdraw such notice at any time prior to the other party acting in reliance on that repudiation. Retraction cannot be accomplished, however, once the nonbreaching party performs a definite action indicating that the anticipatory breach has been accepted as final. Here, the Defendant gave the Plaintiff three days to retract the repudiation and the Plaintiff refused. The Plaintiff thereafter advertised for bids on the contract. Before accepting the lowest bid, the Defendant was again asked by the Plaintiff to rescind its repudiation and the Defendant again refused. The Defendant then gave notice in writing of its withdrawal of the cancellation of the contract before the Plaintiff signed a contract with another supplier. Even though the Defendant rescinded the cancellation before the signing of the new agreement, the Plaintiff had already changed its position by soliciting bids for a new contract. The re
+
+Discussion
+A party may retract its anticipatory repudiation before the nonbreaching party changes its position in reliance on the breach.
+

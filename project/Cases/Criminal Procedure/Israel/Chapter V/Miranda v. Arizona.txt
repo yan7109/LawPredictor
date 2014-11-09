@@ -1,0 +1,24 @@
+Citation
+384 U.S. 436, 10 Ohio Misc. 9, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966)
+
+Brief Fact Summary
+The defendants offered incriminating evidence during police interrogations without prior notification of their rights under the Fifth Amendment of the United States Constitution (the “Constitution”).
+
+Synopsis of Rule of Law
+Government authorities need to inform individuals of their Fifth Amendment constitutional rights prior to an interrogation following an arrest.
+
+Facts
+The Supreme Court of the United States (”Supreme Court”) consolidated four separate cases with issues regarding the admissibility of evidence obtained during police interrogations.
+
+Issue
+Whether the government is required to notify the arrested defendants of their Fifth Amendment constitutional rights against self-incrimination before they interrogate the defendants?
+
+Held
+The government needs to notify arrested individuals of their Fifth Amendment constitutional rights, specifically: their right to remain silent; an explanation that anything they say could be used against them in court; their right to counsel; and their right to have counsel appointed to represent them if necessary.  Without this notification, anything admitted by an arrestee in an interrogation will not be admissible in court.
+
+Dissent
+Justice Tom Clark (”J. Clark”) argued that the Due Process Clauses of the Fifth and Fourteenth Amendments of the Constitution would apply to interrogations.  There is not enough evidence to demonstrate a need to apply a new rule as the majority finds here.
+
+Discussion
+The majority notes that once an individual chooses to remain silent or asks to first see an attorney, any interrogation should cease.  Further, the individual has the right to stop the interrogation at any time, and the government will not be allowed to argue for an exception to the notification rule.
+

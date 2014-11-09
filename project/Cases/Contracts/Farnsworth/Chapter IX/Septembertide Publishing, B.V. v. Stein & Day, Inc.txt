@@ -1,0 +1,21 @@
+Citation
+884 F.2d 675, 1989 U.S. App.
+
+Brief Fact Summary
+The Plaintiff, Septembertide Publishing, B.V. (Plaintiff), sued the Defendant, Stein & Day, Inc. (Defendant), as a third party beneficiary to recover proceeds owed to the Defendant by New Library.
+
+Synopsis of Rule of Law
+“A beneficiary of a promise is an intended beneficiary if recognition of a right to performance in the beneficiary is appropriate to effectuate the intention of the parties and either (a) the performance of the promise will satisfy an obligation of the promisee to pay money to the beneficiary; or (b) the circumstances indicate that the promisee intends to give the beneficiary the benefit of the promised performance.”
+
+Facts
+The Plaintiff entered into a Hardcover Agreement with the Defendant that granted the Defendant the right to publish the hardcover edition of a book written by Harry Patterson (”the work”). The Hardcover Agreement also granted the Defendant reprint rights. Pursuant to this provision, the Defendant entered into the Paperback Agreement with New Library to publish a paperback edition of the work. After the Defendant defaulted on payments owed to the Plaintiff, the Plaintiff initiated an action against New Library as a third party beneficiary to recover amounts owed to the Defendant by New Library, which the Defendant, in turn, owed the Plaintiff.
+
+Issue
+Is the Plaintiff an intended beneficiary of the agreement between the defendant and New Library?
+
+Held
+Yes. “A beneficiary of a promise is an intended beneficiary if recognition of a right to performance in the beneficiary is appropriate to effectuate the intention of the parties and either (a) the performance of the promise will satisfy an obligation of the promisee to pay money to the beneficiary; or (b) the circumstances indicate that the promisee intends to give the beneficiary the benefit of the promised performance.” Plainly, the Defendant intended to benefit the Plaintiff by entering into the contract with New Library. Part of the proceeds from the agreement with New Library, were used by the Defendant to satisfy its obligation to the Plaintiff under the Hardcover Agreement. Further, New Library was aware of the contract between the Plaintiff and the Defendant and was aware that the Plaintiff retained rights to the work. Hence, the Plaintiff is an intended beneficiary of the agreement between New Library and the Defendant.
+
+Discussion
+An intended beneficiary may sue to enforce the agreement under which he is intended to benefit.
+

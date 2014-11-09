@@ -1,0 +1,21 @@
+Citation
+22 Ill.45 F.3d 780 (3d Cir. 1995)
+
+Brief Fact Summary
+The plaintiffs, Allan Lindsey and Randall Coughanour, sued the defendants, the Borough of West Mifflin, a West Mifflin police officer, and a mall and its security guards, after the plaintiffs were ejected from the mall. The plaintiffs initiated the action in state court, and it was removed to federal court. Upon remand to the state court, this application for writ of mandamus was filed.
+
+Synopsis of Rule of Law
+Remand of a case is governed exclusively by statute. Under Section: 1441(c), “Whenever a separate and independent claim or cause of action within the jurisdiction of [Section] 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.” Under Section: 1367(c), a district court has discretion to decline to hear certain state law claims it would have supplemental jurisdiction to entertain.
+
+Facts
+The plaintiffs alleged that security guards at a mall in West Mifflin “harassed, threatened, and assaulted” them. They requested help from the West Mifflin Police Department, but Officer Evan not only refused to rebuke the guards but also informed the plaintiffs that he would arrest them if they returned to the mall. Plaintiff Lindsey attempted for three weeks to learn why they had been thrown out of the mall. Finally, the plaintiffs returned to the mall, were accosted by security guards, and arrested by Officer Evan. The plaintiffs were convicted on charges stemming from the incident, but the convictions were overturned on appeal. They then filed this action, alleging, among other things, a federal civil rights violation under 42 U.S.C. Section: 1983. The defendants had the case removed to federal court, but the Magistrate Judge recommended a remand of the entire case. District Judge Lancaster adopted the recommendation and remanded the entire case. The defendants then sought this w
+
+Issue
+Did the district court properly remand the entire case to state court under Section: 1441(c)?<br />Even if the district court did not properly remand the entire case to state court under Section: 1441(c), is remand appropriate under Section: 1367(c)?
+
+Held
+No. Under Section: 1441(c), “Whenever a separate and independent claim or cause of action within the jurisdiction of [Section] 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.” The key language for purposes of the present case is that the federal claim must be “separate and independent” from the state law claims. In other words, the entire case is not removable if the federal claim and the state claims arise out of the same transaction or series of events. Here, the federal civil rights claim does arise out of the same series of events as the state law claims, namely, the plaintiffs being accosted and arrested. Therefore, removal under Section: 1441(c) was appropriate and remand of the case to state court is clearly forbidden. No. Under Section: 1367(c), a district court has discretion to decline to hear certain state law claims it would have supplemental jurisdiction to entertain. However, nothing in this section permits the district court to decline to hear claims it has original jurisdiction over, i.e. the federal civil rights claim. Therefore, remand of the entire case is inappropriate even if the state law claims were properly remanded. The state law claims were not even properly remanded to the state court. Section 1367(c) permits remand at the discretion of the district court. Here, the district court did not even discuss Section: 1367(c) but rather couched his decision solely upon Section: 1441(c) authority. Thus, even though Section: 1367(c) may be invoked at the discretion of the district court, the district court did not invoke such discretion here.
+
+Discussion
+Federal court removal and remand are relatively mechanically applied concepts governed by statute. If the statutory criteria are met, then removal or remand is permi
+

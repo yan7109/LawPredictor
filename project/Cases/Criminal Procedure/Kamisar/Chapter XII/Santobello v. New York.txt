@@ -1,0 +1,24 @@
+Citation
+404 U.S. 257, 92 S. Ct. 495, 30 L. Ed. 2d 427 (1971)
+
+Brief Fact Summary
+Petitioner brought appeal after he made a plea bargain and was later sentenced to a maximum sentence.
+
+Synopsis of Rule of Law
+Plea bargains are considered an important part of the judicial process and should not be dismissed.
+
+Facts
+Petitioner, Santobello, withdrew a not guilty plea to two felony counts and pleaded guilty to a lesser-included offense, after negotiations with a prosecutor.  When he appeared for sentencing, several months later, a new prosecutor recommended the maximum sentence and he was sentenced as such.  Petitioner attempted to withdraw his guilty plea; however, his conviction was upheld.  He appealed.
+
+Issue
+Whether a guilty plea can be withdrawn post-sentencing when a plea bargaining agreement has been broken.
+
+Held
+Remanded for re-decision.  Justice Burger, for the court, wrote that plea bargaining is an important step in the criminal process and ought not be dismissed.  Because he felt it was the realm of the trial court to determine sentencing, the case was remanded to the trial judge to make a determination of either re-sentencing, as per the plea agreement or whether the defendant would be allowed to withdraw his plea.
+
+Dissent
+Justice Marshall, for the dissent, felt that the majority should have been stronger on the prosecution.  When a plea bargain is broken, the defendant should automatically be allowed to withdraw a plea.
+
+Discussion
+This case is very straightforward regarding the deference that ought to be afforded to plea bargains.
+

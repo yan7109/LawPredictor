@@ -1,0 +1,24 @@
+Citation
+536 U.S. 24, 122 S. Ct. 2017, 153 L. Ed. 2d 47, 2002 U.S.
+
+Brief Fact Summary
+Kansas had a rehabilitation program for sex offenders that made use of incentives to participate in the program.
+
+Synopsis of Rule of Law
+“A prison clinical rehabilitation program, which is acknowledged to bear a rational relation to legitimate penological objective, does not violate the privilege against self incrimination if the adverse consequences an inmate faces for not participating are related to the program objectives and do not constitute atypical and significant hardships in relation to the ordinary incidents of prison life.”
+
+Facts
+Respondent Robert G. Lile was convicted of the rape of a high school student.  He was ordered to participate in a Sexual Abuse Treatment Program (SATP).  The program required a signed “Admission of Responsibility”, a sexual history form, and a polygraph examination.  The information obtained is not privileged.  The respondent’s own personal privileges as a prisoner would be reduced if he did not participate.  The respondent chose not to participate.
+
+Issue
+[W]hether the State’s [sex-offender rehabilitation] program, and the consequences for nonparticipation in it, combine to create a compulsion that encumbers the [Fifth Amendment privilege against self-incrimination].”
+
+Held
+No.  The Supreme Court first discussed the two-fold purpose of the admission’s lack of immunity:  (1) “for . . .  participants to accept full responsibility for their past actions, they must accept the proposition that those actions carry consequences” and; (2) “the State[s] . . . valid interest in deterrence by keeping open the option to prosecute a particularly dangerous sex offender.”  In the question of compulsion the Court “consider[ed] the significant restraints already inherent in prison life and the State’s own vital interests in rehabilitation goals and procedures within the prison system.”  After establishing the rational relationship between the program and its objectives, the Court concluded that respondent’s “decision not to participate . . . did not extend his term of incarceration” or any other aspect of his penalty.  Other problems, such as “loss of personal television; less access to prison organizations and the gym area; a reduction in certain pay opportunitie
+
+Dissent
+Dissenting justices focused the fact that the respondent had been directly ordered by prison authorities to participate.  They also disagreed with the assertion that the loss of privileges was insufficient.  There were available alternatives to the program that would not infringe on the Fifth Amendment.
+
+Discussion
+A rehabilitation program “serves a vital penological purpose, and offering inmates minimal incentives to participate does not amount to compelled self-incrimination prohibited by the Fifth Amendment.”
+

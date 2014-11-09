@@ -1,0 +1,24 @@
+Citation
+361 N.E. 2d 991
+
+Brief Fact Summary
+The plaintiff, Frank Halloran (the “plaintiff”), frequently serviced air conditioners as part of his job as an auto mechanic.  On June 1, 1970, he was changing the air-conditioning compressor on a Chrysler.  The plaintiff was filling the new compressor with Freon and heated one of the cans to increase the flow of the Freon, at which point the can exploded and injured him.
+
+Synopsis of Rule of Law
+A party may introduce evidence of habit or regular usage when the issue involves proving a deliberative and repetitive practice.
+
+Facts
+The plaintiff was injured while working as an auto mechanic and using a can of refrigerant.  The can of refrigerant was packaged and sold by the defendant, Virginia Chemicals (the “defendant”).  The plaintiff won a verdict in his favor after a jury trial on the issue of liability only.  The defendant attempted to offer evidence that the plaintiff was negligent for heating the can prior to its use and for ignoring the warning label which warned against such conduct.  The trial court did not allow the evidence and the Appellate Division affirmed.
+
+Issue
+Whether evidence that the plaintiff used an immersion heating coil to heat the can of refrigerant should be admitted to show his negligence, and that he failed to follow the warning labels?
+
+Held
+Chief Judge Breitel issued the opinion for the Court of Appeals of New York.  He reversed the ruling and ordered a new trial finding that evidence of habit or regular usage should be admissible to prove the plaintiff followed the same procedure the day he was injured.
+
+Concurrence
+Justices Jasen, Gabrielli, Jones, Wachtler, Fuchsberg and Cooke concurred, but did not write separately on the issue.
+
+Discussion
+Demonstrated and consistent responses under certain circumstances are more likely to be repeated when the circumstances again present themselves.  In this case, the issue involved proving a deliberate and repetitive practice.  The plaintiff serviced hundreds of automobiles and used thousands of cans of Freon, and the jury should not be precluded from hearing evidence that established a clear routine.
+

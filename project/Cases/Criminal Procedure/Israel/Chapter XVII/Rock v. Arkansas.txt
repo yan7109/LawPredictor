@@ -1,0 +1,24 @@
+Citation
+483 U.S. 44, 107 S. Ct. 2704, 97 L. Ed. 2d 37 (1987)<br />
+
+Brief Fact Summary
+Woman on trial for manslaughter underwent hypnosis to refresh certain details of the killing.
+
+Synopsis of Rule of Law
+“[R]estrictions of a defendant’s right to testify may not be arbitrary or disproportionate to the purposes they are designed to serve.”
+
+Facts
+Petitioner Rock’s longs standing dispute with her husband about living arrangements.  He refused to let her leave the apartment, eventually choking her and throwing her against the wall.  In response, she shot him.  Police arrived to find him on the floor with a bullet wound.  Because she could not remember all of the details of the night, petitioner underwent hypnosis.  She recalled that the gun went off accidentally.  The gun was shone to be defective.
+
+Issue
+“[W]hether Arkansas’ evidentiary rule prohibiting the admission of hypnotically refreshed testimony violated petitioner’s constitutional right to testify on her own behalf as a defendant in a criminal case.”
+
+Held
+Yes.  The Supreme Court of the United States first examined the history of the right to testify implicating both the Fifth and Sixth Amendments.  While the Supreme Court acknowledged that “the right to present relevant testimony is no without limitation,” and that it may be limited “to accommodate other legitimate interests,” these restrictions “may not be arbitrary or disproportionate to the purposes they are designed to serve.”  The Arkansas rule was ” a per se rule prohibiting the admission at trial of any defendant’s hypnotically refreshed testimony on the ground that such testimony is always unreliable.”  Moreover, the application of the rule “had a significant adverse effect on petitioner’s ability to testify.”  While the Supreme Court acknowledged that hypnosis is not perfect and did not “endorse” it, it nonetheless found the restriction problematic.
+
+Dissent
+The dissent noted the inherent problems with hypnosis and the lack of reliability testimony elicited under hypnosis.
+
+Discussion
+“Wholesale inadmissibility of a defendant’s testimony is an arbitrary restriction on the right to testify in the absence of clear evidence by the State repudiating the validity of all posthypnosis recollections.”
+

@@ -1,0 +1,24 @@
+Citation
+636 So. 2d 700, 37 ERC 1006 (Fla. 1993)<br />
+
+Brief Fact Summary
+Dimmitt Chevrolet, Inc. (Plaintiff) was responsible for damages resulting from oil, which leaked out of unlined bins. Plaintiff had an insurance policy that covers damage if it is “sudden and accidental.”
+
+Synopsis of Rule of Law
+Dictionaries are helpful insofar as they set forth the ordinary, usual meaning of words. However, dictionaries are imperfect yardsticks of ambiguity. It is the court’s duty to determine whether the word or phrase is ambiguous in the context of the specific document at issue.
+
+Facts
+Plaintiff operated two car dealerships and sold its used crankcase oil to Peak Oil Company (Peak) from 1974 to 1979. In 1983, the Environmental Protection Agency (EPA) determined that substantial pollution at Peak’s worksite had resulted from storage of its waste sludge in unlined bins. Plaintiff was designated as a possible responsible party. Plaintiff agreed to undertake remedial measures without conceding its liability under CERLA. Southeastern (Defendant) provided a comprehensive general liability insurance policy to Plaintiff from 1972 to 1980. The policy had numerous exclusions; but none of the exclusions would apply if the discharge were sudden and accidental. Defendant filed a declaratory judgment action against Plaintiff seeking a declaration that Defendant had no duty to defend or indemnify Plaintiff under its policy. Plaintiff filed a counterclaim seeking a contrary declaration. Both sides filed summary judgment motions. The court awarded summary judgment to Defenda
+
+Issue
+Does the word ’sudden’ mean abrupt and unexpected?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+(Justice Overton) The majority: (1) ignores key factors in determining that the term “sudden and accidental,” as used in comprehensive liability insurance polices, is not ambiguous; and (2) fails to consider the facts in this record concerning the intent of the insurance industry in using that term and, consequently, is wrong on the merits.
+
+Discussion
+Because the majority declared “sudden and accidental” to be unambiguous, it was not required to review its intent or policy. Courts will assign terms their ordinary common usage. If they are unable to do so because the phrase or term is ambiguous, then the will review the intent and policy behind the phrase or term. In this case, as pointed out in the dissenting opinion, the intent and policy reasons behind the phrase “sudden and accidental” are in conflict with the majority’s holding. However, it is irrelevant because the majority determined the “sudden and accidental” to be unambiguous.
+

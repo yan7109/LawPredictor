@@ -1,0 +1,18 @@
+Citation
+240 S.W.3d 220 (Tenn. 2007) [2007 BL 151571]
+
+Synopsis of Rule of Law
+For an injury to be compensable under the Workers’ Compensation Act, it must both “arise out of” and occur “in the course of” employment.  An injury occurs “in the course of” employment when it takes place within the period of the employment, at a place where the employee reasonably may be, and while the employee is fulfilling work duties.  To “arise out of” employment requires a causal connection between the employment conditions and the resulting injury.
+
+Facts
+Plaintiff Kristina Wait worked as an executive with the American Cancer Society (ACS).  Due to lack of office space, she was allowed to work from home.  ACS furnished office equipment and a budget to purchase office supplies.  She did all her daily work from her home office and she held meetings with her supervisor and co-workers there.  One day as she was preparing her lunch she opened her door to a neighbor, Nathaniel Sawyers, who brutally beat her for no apparent reason.  Plaintiff sought workers’ compensation benefits from Travelers Indemnity, the insurer of ACS.  The chancery court granted summary judgment for defendant on the grounds that the injuries did not arise out of or occur in the course of employment.  The Tennessee Supreme Court affirmed, finding that although the injuries were suffered in the course of employment, they did not arise out of her employment.
+
+Issue
+Whether a worker who works daily from her home office can obtain workers’ compensation benefits when she is brutally beaten in her home randomly during a work day.
+
+Held
+No.  For an injury to be compensable under the Workers’ Compensation Act, it must both “arise out of” and occur “in the course of” employment.  An injury occurs “in the course of” employment when it takes place within the period of the employment, at a place where the employee reasonably may be, and while the employee is fulfilling work duties.  Generally, injuries sustained during personal breaks are compensable.  The court concluded that the plaintiff’s injuries satisfied the “in the course of” requirement.  To “arise out of” employment requires a causal connection between the employment conditions and the resulting injury.  The court found plaintiff’s assault to be neither personal to the claimant nor distinctly associated with the employment because it was not a dispute arising out of a work-related duty nor inherently connected to the employment.  Accordingly, the court upheld the denial of benefits.
+
+Discussion
+For an injury to “arise out of” employment, it must emanate from a peculiar danger or risk inherent to the nature of the employment.  Thus, an injury purely coincidental to the employment will not cause the injury to be considered as arising out of the employment.
+

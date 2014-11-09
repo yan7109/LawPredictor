@@ -1,0 +1,21 @@
+Citation
+181 F.2d 626, 86 U.S. App. D.C. 327 1950 U.S. App.
+
+Brief Fact Summary
+A negligence claim combined with a cross-claim for contribution arose out of a car accident between the Appellee, Dreslin (Appellee) and the Appellant, Yellow Cab Co. (Appellant). A declaratory judgment allowed Appellant to receive contribution for several judgments against Appellee, except for contribution for injuries sustained by Appellee’s wife, Mrs. Dreslin.
+
+Synopsis of Rule of Law
+In order to receive contribution, joint liability must be present.
+
+Facts
+A taxicab owned by the Appellant and an automobile driven by the Appellee collided. Appellee’s wife and others in his car were injured. They sued Appellant for the resulting damages. Appellee joined in the suit, claiming loss of consortium and medical expenses for Mrs. Dreslin and damages to his automobile. Appellant claimed contributory negligence against Appellee and cross-claimed against him for damages to the taxicab and contribution for sums recovered by other plaintiffs. The jury determined that the collision was caused by concurrent negligence, with judgments being entered in favor of all plaintiffs except Appellee. A declaratory judgment was also entered allowing Appellant contribution against Appellee for several judgments except for that of his wife. Yellow cab appealed this decision.
+
+Issue
+Is contribution disallowed from a husband for damages claimed by his wife due to a lack of joint liability between the husband and the other tortfeasor as to the wife?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The common law rule that husband and wife cannot bring tortious claims against one another is based on public policy considerations of preserving “domestic peace and felicity.”
+

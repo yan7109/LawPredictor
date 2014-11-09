@@ -1,0 +1,21 @@
+Citation
+22 Ill.342 U.S. 359, 72 S. Ct. 312, 96 L. Ed. 398 (1952)
+
+Brief Fact Summary
+Plaintiff, a railroad employee, sued Defendant, a railroad, in Ohio state court under the Federal Employers’ Liability Act (FELA) for injuries sustained on the railroad. Defendant raised the defense that Plaintiff had signed a release, which Plaintiff alleged was misrepresented to Plaintiff by Defendant as a release from back wages. There was a jury verdict for Plaintiff, which the judge reversed, finding that under Ohio law, the release was binding on Plaintiff.
+
+Synopsis of Rule of Law
+In cases brought under the Federal Employers’ Liability Act (FELA), issues pertaining to the employee’s ability to enforce his/her federal right is determined by federal law. Fact issues to be decided under FELA are determined by a jury in order to comply with FELA and the Seventh Amendment to the U.S. Constitution.
+
+Facts
+Plaintiff Dice, a railroad employee, sued Defendant Akron, Canton & Youngstown R. Co. in Ohio state court under FELA for injuries sustained on the job. Defendant asserted that Plaintiff had signed a release. Plaintiff argued that Defendant told Plaintiff that the “release” was a receipt for back wages and Plaintiff never consented to release Defendant of liability. This issue as well as the issues of liability was presented to the jury.
+
+Issue
+Does state law apply to the validity of releases under FELA?
+
+Held
+No. Reversed and remanded.
+
+Discussion
+The majority illustrates the supremacy of federal law in state court action when the action is brought pursuant to a federal right, such as under FELA. In order to reach its decision, the Court had to determine that the Ohio rule permitting state court judges to determine if fraud had occurred was a substantive rule affecting the claim of the Plaintiff based on federal law. Because the effect of the application of the state court rule regarding judicial finding of fraud is to, in its application to the facts presented here, preclude the Plaintiff’s federal law claim, the state court rule may not be appli
+

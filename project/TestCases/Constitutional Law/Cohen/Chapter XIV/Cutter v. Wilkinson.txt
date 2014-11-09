@@ -1,0 +1,27 @@
+Citation
+544 U.S. 709
+
+Brief Fact Summary
+Prisoners (P) in Ohio filed suit against the prison officials (D) on the ground that a federal law violation was occurring when the prisoners were refused permission to practice their own religions including Satanism, Wicca and Asatru. The prison officials pleaded that the Act in question was equivalent to government furtherance of religion and in violation of the First Amendment’s establishment clause which forbids such advocacy or favor.
+
+Synopsis of Rule of Law
+A federal law which prevents the government from restricting prisoners in the exercise of their religion is not a violation of the establishment clause in the First Amendment.
+
+Facts
+The Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA) prohibited government, acting through prisons or prison officials, to restrict any religious exercise of the prisoners, unless the restriction was to achieve a compelling state interest. Prisoners in Ohio complained that the Act was being violated since they were not allowed to exercise religions which did not belong to the mainstream, like Satanism, Wicca or Asatru. The prison officials offered the argument that the Act itself was unconstitutional since it permitted government to further religion, in direct violation of the establishment clause of the First Amendment. The district court held that the inmates were right. The Sixth Circuit court of appeals reversed the decision, on the ground that the Act violated the Establishment Clause.
+
+Issue
+Is the federal law that prevents government from  placing limitations on the exercise of a prisoner’s religion a violation of the Establishment Clause?
+
+Held
+(Ginsberg, J.) No. A federal law which prevents any government restriction from being placed on the right of prisoners to exercise their religion does not violate the Establishment Clause. RLUIPA only accommodates the free exercise of the prisoners’ rights, which is in accordance with the First Amendment. The Act was meant to reduce the restriction already present in prison on the exercise  of religious freedom, and does not make any distinction between the mainstream and non-mainstream religions in this matter. The Act would only be unconstitutional if religious prisoners were placed in a “favored treatment” class, or if religious freedom conflicted with security enforcements, which is not the question in this case. The decision is reversed and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+(Thomas, J.) The Establishment Clause is a principle meant to strengthen the federal basis of the nation, and so does not conflict with the RLUIPA.
+
+Discussion
+The court was unanimous in reversing the sixth circuit decision. The Sixth Circuit court ruled that such a law should ordinarily undergo rational relationship scrutiny to prove the existence of a reasonable and valid connection between the imposed restriction and a strong government interest, failing which proof it would be considered unconstitutional. The other situation in which the restriction would be acceptable is if the prisoners had any other option whereby they could enjoy the free practice of religion. However, the RLUIPA was to undergo strict scrutiny. The prison officials would have to prove the existence of a very strong government interest which was served in the least restrictive way by their restriction. In effect, the Act shifted the onus on to the prison officials to prove that their rules were indeed constitutional and required obedience, rather than automatic obedience to the prison guards. The sixth circuit court took this to mean this level of scrutiny would  imply that religious rights were regarded more highly than many other rights also protected by the constitution but which could not be granted in prison, which viewpoint would violate the Establishmen t Clause.
+

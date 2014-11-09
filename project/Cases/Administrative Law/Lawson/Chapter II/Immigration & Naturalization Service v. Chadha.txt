@@ -1,0 +1,21 @@
+Citation
+462 U.S. 919, 103 S. Ct. 2764, 77 L. Ed. 2d 317 (1983)
+
+Brief Fact Summary
+Chadha remained unlawfully in the United States past the expiration of his nonimmigrant student visa and faced the possibility of deportation. The Immigration Judge ordered that his deportation be suspended, pursuant to Section:244(a)(1) of the Immigration and Nationality Act (Act). The suspension was reported to Congress, as required by the Act, and the House of Representatives unilaterally vetoed the suspension.
+
+Synopsis of Rule of Law
+Article I of the United States Constitution requires that every Bill be passed by both the Senate and the House of Representatives, and then presented to the President of the United States for approval. If the President disapproves, the Bill may be repassed by 2/3 of the Senate and the House of Representatives.
+
+Facts
+Chadha was an East Indian who was born in Kenya and held a British passport. He was lawfully admitted into the United States in 1966 on a nonimmigrant student visa, which expired June 30, 1972. On October 11, 1973, the District Director ordered Chadha to show cause why he should not be deported for remaining in the United States longer than permitted. A deportation hearing was held, and the Immigration Judge ordered that Chadha’s deportation be suspended because he met the residency, character and hardship requirements prescribed by Section:244(a)(1) of the Act. The suspension was reported to Congress, as required by Section:244(c)(2) of the Act, and the House of Representatives unilaterally vetoed the suspension. The Ninth Circuit Court of Appeals held that the House was without constitutional authority to order Chadha’s deportation, and that Section:244(c)(2) permitting either the Senate or the House to veto the suspension, violated the constitutional doctrine of separation of powers.
+
+Issue
+Did the action of one House of Congress permitted by Section:244(c)(2) violate Article I of the Constitution?
+
+Held
+Yes. Affirmed the Court of Appeals. The one-house veto permitted by Section:244(c)(2) of the Act violated the bicameral requirement set forth under Article I of the Constitution.  Dissent. The legislative veto power is a central means by which Congress secures the accountability of executive and independent agencies. Without this tool, Congress can’t delegate the necessary authority to get things done. Times have changed, and the absence of specific constitutional authorization for the mechanism does not indicate disapproval.  Concurrence. The power to override the Attorney General was judicial power that could not be exercised by a legislative body.
+
+Discussion
+The Framers of the Constitution were very conscious that the bicameral requirement and presentment clauses would serve essential legislative functions.
+

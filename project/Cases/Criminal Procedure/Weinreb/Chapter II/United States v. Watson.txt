@@ -1,0 +1,27 @@
+Citation
+423 U.S. 411, 96 S. Ct. 820, 46 L. Ed. 2d 598 (1976)
+
+Brief Fact Summary
+A federal postal inspector was informed by an informant that he was scheduled to receive stolen credit cards from the defendant, Watson (the “defendant”) in the future. Subsequently, the defendant was arrested without a warrant when the informant confirmed such allegations with the postal inspector.
+
+Synopsis of Rule of Law
+Government officers are permitted to arrest without a warrant for both misdemeanors and felonies committed in the presence of the officer or when there is probable cause to do so.
+
+Facts
+A reliable informant told a federal postal inspector that the defendant had supplied him with stolen credit cards and would do so in the future. The postal inspector was present at the scheduled meeting between the informant and the defendant and proceeded to arrest the defendant without a warrant, after the informant confirmed that he had the stolen credit cards.
+
+Issue
+May a government official make an arrest without a warrant where a felony has been committed in the official’s presence?
+
+Held
+A government official may arrest a person without a warrant upon probable cause to believe the person is guilty of a felony.
+
+Dissent
+The defendant’s warrantless arrest was valid because exigent circumstances existed at the time of arrest and therefore no warrant was necessary.
+
+Concurrence
+An arrest is like a seizure for Fourth Amendment constitution purposes. Law enforcement would be overburdened if a constitutional rule allowed felony arrests only with a warrant or in the presence of exigent circumstances.
+
+Discussion
+Any arrest which is executed must be supported by either probable cause, a warrant, exigent circumstances or an Act of Congress, which authorizes various government officials to make warrantless arrests. Acts of Congress are presumptively valid and likewise, the acts of officials making proper arrests under the authority of such laws are presumptively reasonable.
+

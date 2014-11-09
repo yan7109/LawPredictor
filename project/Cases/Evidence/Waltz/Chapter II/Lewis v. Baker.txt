@@ -1,0 +1,18 @@
+Citation
+1 A.D.3d 217, 767 N.Y.S.2d 109 (App Div, 1st Dept 2003)
+
+Brief Fact Summary
+The plaintiff was an employee of the defendant railroad company when he suffered injuries while jumping from a railroad car.  The defendant wanted to admit as evidence an accident report detailing the circumstances and condition of the relevant equipment.
+
+Synopsis of Rule of Law
+The test for business records admissibility should not automatically exclude records that are prepared for potential litigation, but rather should be broad enough to encompass any records where factors attest to their trustworthiness.
+
+Facts
+The plaintiff worked for the defendant railroad company as a brakeman.  Through some type of brake failure, resulting from the fault of the plaintiff or the brakes themselves, the plaintiff was unable to stop a runaway train car.  The plaintiff sustained injuries from the jump. The defendant railroad company prepared an accident report which they submitted as evidence.  The report was authored by an employee who did not have firsthand knowledge of the relevant facts of the accident. Evidence was admitted that asserted the brakes worked before the accident and afterwards.  The plaintiff’s falsified employment application was also admitted to question his credibility.<span class='heading'>Issue.</span><br /> Whether the accident reports are business records with the Federal Business Records Act (”FBRA”)? Whether a report prepared by someone without firsthand knowledge of the facts contained in the report affects the report’s admissibility? Whether the jury should be instructed that they could presume brake functionality from evidence that demonstrated the brakes worked immediately before and after the accident? Whether the plaintiff’s falsified employment application should be admitted to evidence to assert a lack of plaintiff credibility?
+
+Held
+The court affirmed all of the lower court decisions regarding the admissibility of evidence or statements.
+
+Discussion
+The court distinguishes their ruling from the ruling in Palmer v. Hoffman (318 U.S. 109, 87 L. Ed. 645(1943)).  The court contends that the accident report in question in Palmer was most likely solely for litigation purposes, and the engineer in Palmer had a motive to lie (possible contributory negligence).  The report in this case could be used for quality control purposes, and the parties that prepared and provided the facts of the report did not have the same incentive to lie.  By allowing the reports, the court expands the scope of the business records hearsay exception. The court makes a fine distinction between the reports filed here, utilizing forms provided by the employer, and the monthly reports that are required to be submitted to the Secretary of Transportation.  The monthly reports are not admissible per the statute.
+

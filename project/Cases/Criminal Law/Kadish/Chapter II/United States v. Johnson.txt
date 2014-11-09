@@ -1,0 +1,21 @@
+Citation
+22 Ill.964 F.2d 124 (2d Cir. 1992)
+
+Brief Fact Summary
+Defendant, after being convicted of bribery, received a reduced sentence based on the fact that she faced extraordinary parental responsibilities.
+
+Synopsis of Rule of Law
+A reduced sentence may be warranted where extraordinary family circumstances exist, such as here where the defendant is a single parent and the sole supporter of three young children.
+
+Facts
+Johnson (D) was convicted of bribery and received a reduced sentence by the district court based on the fact that she faced extraordinary parental responsibilities as she was solely responsible for raising and supporting three young children, including an infant and the young child of her institutionalized daughter. The government appeals the reduction, arguing that family circumstances should not be taken into account when determining whether a sentence should be reduced.
+
+Issue
+Can a defendant’s extraordinary family circumstances justify a downward departure in sentencing?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+This case illustrates one of the complexities that arise under the Sentencing Reform Act of 1984, under which Congress created a United States Sentencing Commission in order to establish sentencing guidelines for federal judges. These guidelines established a narrow range of authorized sentences that judges normally must impose. While the goal was to reduce unwarranted disparities in sentencing, these guidelines raise several concerns based on their rigidity including the concern that they create new kinds of disparity. For example, in this case Johnson’s co-defendant received a significantly more severe sentence based on the same conviction.
+

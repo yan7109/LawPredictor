@@ -1,0 +1,21 @@
+Citation
+192 Fed. Appx. 582
+
+Brief Fact Summary
+The Circuit Court for Howard County (Maryland) dismissed the tort claims brought by Plaintiff alleging breach of contract and tort claims, including negligence and intentional infliction of emotional distress, resulting from a sexual relationship.
+
+Synopsis of Rule of Law
+One cannot sue to recover for injuries arising from “defilement of the marriage bed” or from an interference with the marriage by simply casting the defendant’s conduct as a breach of contract, or negligence, or some other intentional tort. To recover in an action for intentional infliction of emotional distress, a plaintiff must show: (1) conduct that is intentional or reckless; (2) conduct that is also extreme and outrageous; (3) a causal connection between the wrongful conduct and the emotional distress; and (4) that the emotional distress is severe. When extreme and outrageous conduct is directed at a third person, the actor is subject to liability if he intentionally or recklessly causes severe emotional distress (1) to a member of such person’s immediate family who is present at the time, whether or not such distress results in bodily harm; or (2) to any other person who is present at the time, if such distress results in bodily harm.
+
+Facts
+According to Plaintiff’s contentions, after several years of marriage his wife was hospitalized for severe depression. During this period, she began seeing a therapist who, Plaintiff alleges, used confidential information and took advantage of her condition to seduce her. Plaintiff maintains that, as a result, his wife’s personality changed leading to their divorce. He brought suit alleging, among other things, intentional or reckless infliction of emotional distress.
+
+Issue
+* Can a Plaintiff successfully sue a therapist for adulterous actions under the banner of breach of contract?<br />* Does a psychiatrist owe a duty of care to a patient’s spouse?<br />* May a former husband recover in a third-party action for intentional infliction of emotional distress when he was not present during the conduct in question?
+
+Held
+The court held that the circuit court properly dismissed Plaintiff’s claims: 1) a psychiatrist’s professional duty is owed to the patient and not to the patient’s spouse, thus Plaintiff had no standing to sue; and 2) the of intentional infliction of emotional distress claim was unfounded because the former husband was not present when the psychiatrist allegedly seduced his wife.
+
+Discussion
+Intentional infliction of mental distress exists when the defendant, by extreme and outrageous conduct, intentionally or recklessly causes the victim severe mental distress. It should be noted that this is the only area of tort where “reckless” infers intent. Homer addresses an extended issue with regard to the intentional infliction contention: the situation where a third person is alleging the wrongful action. In other words, this is an area where transferred intent applies. As the court explained, “[w]here extreme and outrageous conduct is directed at a third person, the actor is subject to liability if he intentionally or recklessly causes severe emotional distress (1) to a member of such person’s immediate family who is present at the time, whether or not such distress results in bodily harm, or (2) to any other person who is present at the time, if such distress results in bodily harm.” Generally, courts have award a third-party victim recovery only if, in addition
+

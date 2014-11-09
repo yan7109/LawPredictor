@@ -1,0 +1,21 @@
+Citation
+18 Cal. App. 4th 936,22 Cal. Rptr. 2d 676,1993 Cal. App.93 Cal. Daily Op. Service 6866
+
+Brief Fact Summary
+Harold Evans Woodworth created a testamentary trust that terminated on the death of Mamie Barlow Woodworth.  Upon her Mamie Barlow Woodworth’s death, the estate was to be distributed to Ray B. Plass, if she survived, and if not to her heirs at law.  The court determines whether the heirs at law should be determined at Mamie Barlow Woodworth ’s death or Plass’s death.
+
+Synopsis of Rule of Law
+When a gift has been made to the heirs of named individual, the donor intends for the property to be distributed as the law would if the named person died intestate, absent any other intent manifested by the grantor?
+
+Facts
+Woodworth created a testamentary trust that terminated on the death of Mamie Barlow Woodworth.  Upon her death, the trust estate was to be distributed to Plass if she survived.  If Plass did not survive, then the estate was to be distributed to her heirs at law.  Plass died before Woodworth.  When Plass died, her heirs at law were her husband, Raymond Plass, her niece, Elizabeth Woodworth Holden, and her nephew, James V. Woodworth.  When Woodworth died, Plass’s heirs at law were Elizabeth Woodworth Holden and James V. Woodworth.  The probate court concluded that the identity of the heirs entitled to the trust assets must be determined as of the date of the life tenant.
+
+Issue
+Whether a determination of the term “heirs at law” should be determined as of the date of the life tenant or the date of the death of the named ancestor who predeceased the life tenant.
+
+Held
+The term “heirs at law” must be determined as of the date of the named ancestor who predeceased the life tenant and not at the death of the life tenant.  The grantor did not manifest any other intent and the terms of the will do not express a meaning of futurity.  None of the specific terms of the words include a reference to the future and the words “pay to” do not mean vest or otherwise constitute an expression of futurity.  The intent of the testator as to when the heirs of law should be determined is not evident in the will and it would be speculative to try and discern such intent.  The court must implement rules of construction to insure uniformity and predictability in the law.
+
+Discussion
+If the grantor’s intent regarding the distribution scheme in question is not manifested, the court will adhere to precedent.  The California Court of appeal also noted that the exception to the general rule is not inapplicable because the corpus is to be distributed to someone other than the grantor’s heirs.  Also, the court did not apply the principle that favors descent according to blood in cases of ambiguity.
+

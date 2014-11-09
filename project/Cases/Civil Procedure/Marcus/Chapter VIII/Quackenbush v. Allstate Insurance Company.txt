@@ -1,0 +1,21 @@
+Citation
+517 U.S. 706, 116 S. Ct. 1712, 135 L. Ed. 2d 1, 1996 U.S.
+
+Brief Fact Summary
+Insurance Commissioner for the State of California (Petitioner) was appointed trustee over the assets of the Mission Insurance Company and its affiliates in 1987, after those companies were ordered into liquidation by a California court. In an effort to gather the assets of the defunct companies, the Commissioner filed the instant action against Allstate Insurance Company (Respondent) in state court, seeking contract and tort damages for Respondent’s alleged breach of certain reinsurance agreements.
+
+Synopsis of Rule of Law
+An abstention-based stay order is appealable as a “final decision” under Section 1291, because it places the litigants effectively out-of-court and its effect is precisely to surrender jurisdiction of a federal suit to a state court.
+
+Facts
+Respondent removed the action to federal court on diversity grounds. Petitioner sought remand to state court. The Petitioner indicated that Respondent would be asserting its right to set-off its own contract claims against the Petitioner’s recovery under the contract and that the viability of these set-off claims was a disputed questions of state law. The district court determined that the case should be resolved in state court and concluded that it was an appropriate case for abstention. The United States Court of Appeals for the Ninth Circuit reversed, finding the case inappropriate for abstention.
+
+Issue
+Whether an abstention-based remand order is appealable as a final order under 28 U.S.C. Section: 1291?
+
+Held
+The abstention-based remand order is appealable as a final order under 28 U.S.C. Section: 1291.
+
+Discussion
+The court relies heavily on the case of Moses H. Cone Memorial Hospital v. Mercury Constr. Corp. Applying that case to the case before the court, the Supreme Court of the United States found that when a district court remands a case to a state court, the district court disassociates itself entirely from the case. To the Court, the remand order at issue has a sense of finality functionally equivalent to the stay order at issue in Moses H. Cone.
+

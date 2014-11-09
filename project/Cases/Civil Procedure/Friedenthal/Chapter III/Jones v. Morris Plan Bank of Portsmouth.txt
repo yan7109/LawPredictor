@@ -1,0 +1,18 @@
+Citation
+22 Ill.168 Va. 284, 191 S.E. 608 (1937)
+
+Brief Fact Summary
+The Plaintiff, Jones (Plaintiff), brought suit for damages when the Defendant, Morris Plan Bank of Portsmouth (Defendant), converted his car. The Plaintiff defaulted on payments due on the car’s note and the Defendant went to court to obtain judgment for two of the months. The Plaintiff defaulted again and the Defendant went back to court to collect the entire note. The Defendant repossessed the Plaintiff’s car and sold it to collect the amounts due. The Plaintiff claimed res judicata.
+
+Synopsis of Rule of Law
+In determining whether a demand is single and entire, or whether it is several, so as to give rise to more than one cause of action, one must identity the facts necessary to maintain the action. If the same evidence will support both actions, there is but one cause of action.
+
+Facts
+The Plaintiff brought suit against the Defendant in an action for damages incurred when the Defendant converted the Plaintiff’s car. The Plaintiff had purchased a car from a used car dealer and traded in his own vehicle to make the unpaid balance due in the sum of $428.40. It was to be paid in 12 monthly installments of $35.70. The note contained a provision that stated if any installment was not paid, that the whole note became due at once. The seller retained title to the car until the Plaintiff paid the balance. The Plaintiff did not pay his May and June installments and the Defendant went to court to obtain payments for those months. The Plaintiff never showed up in that case and judgment was entered for the Defendant. When the Plaintiff did not pay his July statement, the Defendant once again went to court to obtain judgment. The Defendant then took possession of the car without the Plaintiff’s consent and sold it to apply the proceeds to the note. The Plaintiff then filed this action claiming that the Defendant was precluded from bringing the July nonpayment to court because when the Defendant sought relief for the May and June payments, the whole note became due. The Defendant was estopped from bring the July claim and waived its right to the unpaid balance and therefore, was not entitled to convert the car.<br/><span class='heading'>Issue.</span>  Whether the Defendant could bring an action for the 2 payments due and then another action for payment on another installment.
+
+Held
+The issue turns on whether the contract is single or divisible. Our answer is that the note and conditional sales contract constituted one single contract. The sole purpose of the conditional sales contract was to retain the title in the seller until the note was paid. When the condition was performed, the contract ended. At the time the Defendant lost its right to institute any action for the remaining installments, the title to the automobile passed to the Plaintiff. He was the owner of the car when the Defendant converted it. Reversed and remanded.
+
+Discussion
+The answer to whether the Defendant could bring different actions for the installment due turned on whether the contract was a single or divisible transaction. If the contract was a single transaction and the breach gave rise to a single cause of action, then it could not be split into distinct parts and separate actions maintained for each. If the contract was divisible, giving rise to more than one cause of action, each could be proceeded upon separately. In this case, all of the installments were due at once according to the acceleration clause on the note. The Defendant, having chosen to collect for only two installments, was precluded from any further collection on the note.
+

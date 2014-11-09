@@ -1,0 +1,21 @@
+Citation
+178 L. Ed. 2d 502
+
+Brief Fact Summary
+The Petitioner, Tome (the “Petitioner”), was charged with felony sexual abuse of a child, his own four-year-old daughter.
+
+Synopsis of Rule of Law
+“[T]he introduction of a declarant’s consistent out-of-court statements to rebut a charge of recent fabrication or improper influence or motive [are admissible] only when those statements were made before the charged recent fabrication or improper influence or motive.”
+
+Facts
+The Petitioner was charged with felony sexual abuse of a child, his own four-year-old daughter.  The Petitioner was found guilty in the District Court for violating 18 U.S.C. Section:Section: 1153, 2241 (c) and 2245(2)(A) and (B).  The alleged sexual abuse occurred on a Navajo Indian Reservation.  The child’s mother, the Petitioner’s ex-wife, made allegations that the Petitioner sexually abused the child.  The Petitioner argued at trial that his ex-wife concocted the story so as to keep his daughter from seeing him.
+
+Issue
+“[W]hether out of court consistent statements made after the alleged fabrication, or after the alleged improper influence or motive arose, are admissible under [F.R.E. Rule 801(d)(1)(B)]?”
+
+Held
+No, the majority found that the statements were inadmissible.  Rule 801 of the F.R.E. defines prior consistent statements as nonhearsay only if they are offered to rebut a charge of “recent fabrication or improper influence or motive.”  The Advisory Committee settled on treating the consistent statements once they met the requirements of the rule as nonhearsay and admissible as substantive evidence, not just to attack a witness’s credibility.  Prior consistent statements are not admissible to counter all forms of impeachment, or to bolster the witness merely because she has been discredited.
+
+Dissent
+Justice Stephen Breyer (”J. Breyer”), Justice William Rehnquist (”J. Rehnquist”), Justice Sandra Day O’Connor (”J. O’Connor”) and Justice Clarence Thomas (”J. Thomas”) filed a dissenting opinion.  The dissenting justices stressed that the issue in this matter concerned relevancy not hearsay.  These justices would have found that F.R.E. Rule 801(d)(1)(B) has nothing to do with relevance.  Instead, it “carves out a subset of prior consistent statements that were formerly admissible only to rehabilitate a witness (a nonhearsay use that relies upon the fact that the statement was made)”. Further, that the rule specifically states that this type of statement was not hearsay.
+

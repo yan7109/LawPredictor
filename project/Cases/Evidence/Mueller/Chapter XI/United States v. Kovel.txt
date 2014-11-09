@@ -1,0 +1,21 @@
+Citation
+296 F.2d 918, 1961 U.S. App.
+
+Brief Fact Summary
+Defendant is a non-lawyer accountant who worked for a law firm whose client was being investigated for income tax violations.  He was sentenced for contempt for failing to answer a question claiming the attorney-client privileged applied to him.
+
+Synopsis of Rule of Law
+The attorney-client privilege applies to communications made in confidence while obtaining legal advice from a lawyer.
+
+Facts
+Defendant, Kovel, refused to answer a question by a grand jury investigating a client of the law firm where Defendant was employed.  The client was being investigated for Federal income tax violations.  Defendant is a non-lawyer accountant hired by the law firm Kamerman & Kamerman.  The law firm specializes in tax law.  Defendant’s law firm argued that he was subject to the attorney-client privilege and could not disclose attorney-client communications unless the client consented.
+
+Issue
+Should the attorney client privilege be allowed to prevent Defendant from answering questions even though he is not a lawyer?
+
+Held
+Justice Friendly issued the opinion for the United States Second Circuit Court of Appeals in holding that the attorney-client privilege may apply to Defendant depending on whether the communications were for  seeking legal advice or accounting advice.
+
+Discussion
+The Court of Appeals notes that each instance of deciding whether or not the attorney-client privilege applies to non-lawyers should be reviewed on a case-by-case basis.  If what is sought from the non-lawyer is not legal, then the privilege should not apply. The communication should be for the purpose of obtaining legal advice from a lawyer.
+

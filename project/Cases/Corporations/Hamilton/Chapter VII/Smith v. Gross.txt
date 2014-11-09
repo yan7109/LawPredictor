@@ -1,0 +1,21 @@
+Citation
+604 F.2d 639 (9th Cir. 1979)
+
+Brief Fact Summary
+Gerald and Mary Smith, (Appellants), brought suit against Gross, Gaddie, and two corporate defendants, (Appellees), for violation of the federal securities laws. Appellants appeal the district court decision to dismiss the suit holding that there was no security involved in the transactions between the parties.
+
+Synopsis of Rule of Law
+An investment contract type of security exists when the scheme involves 1) an investment of money 2) in a common enterprise 3) with profits to come solely from the efforts of others.
+
+Facts
+Appellees solicited buyer-investors to raise earthworms claiming that little work was required and success was guaranteed by an agreement to repurchase at $2.25 per pound. Appellants allege that the success rate was necessarily lower than promised, the selling price of $2.25 was inflated, and the only way Appellees could sell at that price was to sell the worms to new worm farmers at inflated prices. Appellees claim that this is an investment contract and therefore Appellees have sold a security. Since the security was not registered under the Securities Act of 1933, Appellants have the statutory right to rescind under Section: 12.
+
+Issue
+Whether the transaction between the parties involved an investment contract.
+
+Held
+Yes. The transaction between the parties involved an investment contract.
+
+Discussion
+The Appellees persuaded Appellants to invest by representing that the efforts required of them would be minimum. Even if Appellants exerted themselves, they would not gain the promised profits because those profits could only be achieved if Appellants secured additional investors at the inflated prices. Thirdly, the significant effort needed for success was that of Appellees in procuring new investors who would purchase the worms at inflated prices. These facts establish that an investment contract existed.
+

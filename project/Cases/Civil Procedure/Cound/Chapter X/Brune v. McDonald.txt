@@ -1,0 +1,21 @@
+Citation
+22 Ill.158 Or. 364, 75 P.2d 10 (1937)
+
+Brief Fact Summary
+Plaintiff sued Defendant for injuries sustained in a car accident. Defendant’s insurer moved to intervene on the grounds that Plaintiff and Defendant were conspiring against the insurer in order to collect on the insurance policy. The trial court denied the insurer’s motion to intervene.
+
+Synopsis of Rule of Law
+A party may not intervene in a case unless there will be a gain or loss by the party seeking intervention upon entry of the judgment.
+
+Facts
+Plaintiff Brune was injured in a car accident with Defendant McDonald when Defendant drove off the road into a tree. Plaintiff sued Defendant alleging that Defendant was speeding, failed to keep control of the vehicle, failed to heed Plaintiff’s warning and failed to keep a proper lookout. In addition, the complaint alleged that Defendant drank alcohol. This was later omitted from the complaint. Defendant’s insurer filed a motion to intervene, alleging that Plaintiff and Defendant were both drinking alcohol during the accident, that Plaintiff and Defendant were good friends, and that Plaintiff intended to falsely allege that she did not know Defendant was drinking. In addition, the insurer alleged that Plaintiff intended to seek the policy proceeds right before the statute of limitations expired to make any claim for fraud stale and to only go after the insurer for any money judgment. The insurer sought to restrain Plaintiff from further pursuing her action pending resolution of whether the insurer will be liable on the policy if judgment is rendered against Defendant. The insurer’s motion to intervene was denied.
+
+Issue
+Should the insurer be permitted to intervene in the cause of action based on the allegations that its insured, the Defendant, was in collusion with the Plaintiff in such a manner as to require the insurer to pay any potential damage award?
+
+Held
+No. Judgment affirmed.  A third party can only intervene if its interest is so direct that it will either gain or lose by “the direct legal operation of the judgment.”  The insurer did not file an answer to Plaintiff’s complaint but rather seeks equitable relief. The Defendant’s insurance company argues that resolving the insurer’s liability on the policy first will be less prejudicial to the insurer because otherwise, the insurer would be forced to pursue further litigation.  There is no case precedent allowing intervention on such grounds. Insurers in general are not usually considered real parties in interest are not permitted to intervene. This is to prevent any reference to insurance during the trial.  If the allegations of the petition are true, the insurer will not be liable on the policy whether or not Defendant prevails. Its burden of subsequent litigation to determine its rights is not a sufficient reason to allow intervention.   The issues of the case can be completely resolved without determining anything on the policy. The complaint alleges only gross negligence and does not make reference to any insurance of the Defendant.
+
+Discussion
+The case illustrates the Court’s concern for allowing an insurance company to intervene in a case in which it may be liable on the policy. Delay in deciding a question of law prior to a question of liability is not a sufficient reason if the party requesting intervention cannot demonstrate the potential harm in the delay.
+

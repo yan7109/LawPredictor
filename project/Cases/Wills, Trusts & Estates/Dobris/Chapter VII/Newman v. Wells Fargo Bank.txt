@@ -1,0 +1,24 @@
+Citation
+14 Cal.4th 126, 59 Cal.Rptr.2d 2, 926 P.2d 969 (1996)
+
+Brief Fact Summary
+Appellant Guardian ad Litem (Appellant) petitioned the court on behalf of minor A. for a share of the income of a trust. Appellant is a creditor of Jon E. Newman (Newman) and claims that even though Newman was adopted by his stepfather, he remains a child of his biological father, Earl Mitchell (Bio. Father), within the will of Helen Lathrop, Bio. Father’s sister (Sister), and is entitled to share in a testamentary trust created for the benefit of Bio. Father, who is now deceased, Bio. Father’s siblings, and children.
+
+Synopsis of Rule of Law
+California state law compels a conclusion that the law to which the court must look to find the presumed intent of a testator with regard to adopted children is the law in effect when a will is executed.
+
+Facts
+Appellant petitioned the court on behalf of minor A. for a share of the income of a trust. Appellant is a creditor of Newman and claims that even though Newman was adopted by his stepfather, he remains a child of Bio. Father within the will of Bio. Father’s Sister and is entitled to share in a testamentary trust created for the benefit of Bio. Father, who is now deceased, Bio. Father’s siblings, and children. The lower court ruled that Newman was not the child of Bio. Father for purposes of Sister’s will. The appellate court reversed, holding that the law in effect at the time of Bio. Father’s death was the law that determine whether for will purposes Newman was a child of Bio. Father. Respondents Wells Fargo Bank, trustee and income beneficiaries (Respondents), challenge the appeals court decision.
+
+Issue
+In looking at the laws of intestacy as a guide to Testator’s true intent when a will provision is ambiguous, should a court consider the law in effect at the time the will was executed rather than the law in effect at the time the will comes into effect?
+
+Held
+Yes. The court should look to the law that was in effect when the will was executed. California state law compels a conclusion that the law to which the court must look to find the presumed intent of a testator with regard to adopted children is the law in effect when a will is executed. Newman is not the child of Bio. Father for estate purposes. Absent an expression of clear contrary intent, it is presumed as a means of will construction that the court must look to California state law of intestate succession to ascertain a testator’s intent. The law in effect at the time that the will was executed stated that an adopted child’s inheritance rights were terminated as to the adopted child’s biological parent. Therefore, the testator is presumed to have known that Newman would not have been included among those children to take under the will as beneficiaries of the trust. The appellate court ruling is reversed.
+
+Dissent
+The majority asserts that the terms “issue” and “children” are inherently ambiguous whenever a child is adopted into or from a family. Given this presumed ambiguity, the place to begin the examination of Testator’s intention is by examining the ordinary meanings of the terms as they are used in the will. According to the statutes on point, the terms should be given their ordinary and grammatical meaning, unless there is a clear intention to interpret the terms otherwise. The ordinary and grammatical meaning of these terms is one who is blood-related to a parent. Adoption does not sever this relationship. In addition, a will is drafted to avoid the intestate succession laws. Absent a statutory presumption to the contrary, the Court should not presume that a testator intends that his property be distributed in accord with the intestate succession laws, as this seems to defeat the point to drafting a will in the first place.
+
+Discussion
+In the past, adopted children were completed removed from the intestate succession laws for purposes of inheriting from their biological parents. However, more modern courts have relaxed this presumption somewhat, and have permitted inheritance from biological parents after an adoption by the spouse of one of more of the biological parents. An issue arises, however, when a child is adopted at a time when adoptions terminated the right to inherit from a biological parent, but a testate death occurs at a time when the law has changed and now permits inheritance from a biological parent.
+

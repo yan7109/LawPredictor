@@ -1,0 +1,18 @@
+Citation
+22 Ill.51 Minn. 294, 53 N.W. 636 (1892)
+
+Synopsis of Rule of Law
+Even though a person may have unauthorized possession of a piece of property, his title to the property is superior against anyone except the real owner or someone who has authority from the owner to possess it.  In other words, bare possession of property, though wrongfully obtained, is sufficient title to enable the party enjoying it to maintain possession over a mere stranger.
+
+Facts
+Plaintiff Anderson cut ninety-three pine logs from trees on a parcel of land, “Section 22”, in Isanti County then hauled them to a mill.  Plaintiff did not know who owned the land at Section 22, nor did he have permission to cut the trees on that parcel.  In other words, plaintiff obtained possession of the logs by trespassing upon the land of a third party.  Defendant Gouldberg subsequently took those logs from the mill, believing that such logs had been cut from Section 26.  Section 26 was owned by the Ann River Logging Company, which had directed Gouldberg to take the logs from the mill.  Plaintiff brought an action in replevin against Defendant to recover possession of the logs or the value thereof.  The court charged the jury with determining whether the logs were cut from Section 22 or Section 26.  The jury determined that the logs were cut from Section 22 and found for plaintiff.  Defendants appealed from an order denying their motion for a new trial.
+
+Issue
+Whether a person who has stolen property from a stranger has a right to that property over another person.
+
+Held
+Yes.  Even though a person may have unauthorized possession of a piece of property, his title to the property is good against anyone except the real owner or someone who has authority from the owner to possess it.  In other words, bare possession of property, though wrongfully obtained, is sufficient title to enable the party enjoying it to maintain possession over a mere stranger.  The party in possession has superior title against all the world except those having better title.
+
+Discussion
+This theory of superior title calls into question why our justice system would assist thieves in recovering property that they obtained illegally.  Pursuant to this decision, a person has an immediate right to possession of property he or she has stolen, and that right is superior to everyone except the original owner, or someone who has the authority of the owner.  This raises serious policy concerns about whether a thief should be rewarded for his wrongdoing.
+

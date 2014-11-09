@@ -1,0 +1,24 @@
+Citation
+N.Y. Ct. App., 127 N.E.2d 832 (1955)
+
+Brief Fact Summary
+Home Owners Cooperative Inc. (D), whole owners of Westerlea Builders, Inc., a subsidiary, controlled the subsidiary’s affairs but committed not fraud or injury to Westerlea’s creditors.
+
+Synopsis of Rule of Law
+The doctrine of “piercing the corporate veil”, and holding a corporation liable for its subsidiary is inapplicable if no fraud, misrepresentation, or illegality has been committed.
+
+Facts
+Home Owners Cooperative, Inc. (Home Owners) (D) a cooperative association of mainly veterans, organized Westerlea Builders Inc. (Westerlea) to secure contractors to build low cost housing for the home owners. Westerlea ran into financial difficulties in accordance with an extension agreement, the creditors assumed construction responsibilities. Four years later, despite Home Owners’ (D) contribution of $50,000 over the years, Westerlea went bankrupt. Westerlea’s Trustees (P) in bankruptcy filed suit against Home Owners (D) for the contract debts of Westerlea. The trial court decided in favor for Home Owners (D) seeing that no fraud, misrepresentation, nor illegality was committed in the operation of Westerlea. The trial court also found that by agreeing to the extension agreement, the Trustees (P) were stopped from denying the separate identities of the two corporations.
+
+Issue
+Is the doctrine of “piercing the corporate veil”, and holding a corporation liable for its subsidiary inapplicable if no fraud, misrepresentation, or illegality has been committed?
+
+Held
+(Froessel, J.) No. The doctrine of “piercing the corporate veil”, and holding a corporation liable for its subsidiary is inapplicable if no fraud, misrepresentation, or illegality has been committed. The trial court should not have “pierced the corporate veil” of Westerlea’s background to identify Home Owners (D). The law permits the incorporation of a business precisely to escape personal liability, the “piercing” doctrine applies only to instances of fraud to achieve equity. Home Owners (D) purpose for creating Westerlea was within public policy. Affirmed.
+
+Dissent
+(Van Voorhis, J.) As a subsidiary, Westerlea is a direct extension of Home Owners (D), Westerlea was not run to make profits. The stockholders of Home Owners (D) benefited from this arrangement similarly to dividends. Westerlea, consequently, is an agent of Home Owners (D).
+
+Discussion
+“Piercing the corporate veil” is done in two ways, (1) the corporation is so dominated by its shareholders, that no separate entity is assumed to exist. Usually, this is when they treat corporation assets as their own, using company funds for personal use. (2) recognizing the corporation as a legitimate entity would sanction fraud of injustice. With this approach, the intention of incorporating was to minimize personal and tort liabilities.
+

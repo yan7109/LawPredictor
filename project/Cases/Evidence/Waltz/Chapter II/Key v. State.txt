@@ -1,0 +1,21 @@
+Citation
+129 S. Ct. 438
+
+Brief Fact Summary
+The defendant, Key (the “defendant”), brought an appeal of a class A misdemeanor assault charge on the grounds that he was not afforded his Sixth Amendment constitutional right to confront witnesses.
+
+Synopsis of Rule of Law
+Not all police interaction with witnesses who do not testify is considered testimonial.  When a police officer confronts a victim at a crime scene, the initial statements of the victim, especially when they are offered voluntarily, are not considered hearsay, but instead they fall under the exception of “excited utterance.”
+
+Facts
+The defendant and Rachel Bailey (”Ms. Bailey”) were sitting outside on the ground, when they were found by officer Keven Mobley (”Officer Mobley”) of the Tyler Police.  Ms. Bailey told the officer that she had run out of the house at around 7:00 a.m., and that the defendant had grabbed her, pulled her to the ground, and had restrained her there.  The defendant was charged with assault.  Officer Mobley and another officer, who had assisted him, testified against the defendant.  He was found guilty and sentenced to one year in jail, two years of probation, and ordered to pay a fine of $1,500.00.  The defendant appealed, stating that Ms. Bailey’s statements were testimonial, and thus, he should have been afforded the opportunity to confront her.
+
+Issue
+Whether the statements of a victim to a police officer are always inadmissible as testimonial hearsay?
+
+Held
+Initial police-victim interaction at the scene of an incident is not an interrogation and therefore any statements arising therefrom are not hearsay.  Affirmed.
+
+Discussion
+While all defendants should be afforded the right to confront witnesses who make out-of-court, testimonial statements against them, initial confrontations between police officers and victims, especially when the victim volunteers a statement, are not considered testimonial.
+

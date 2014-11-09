@@ -1,0 +1,24 @@
+Citation
+415 U.S. 800, 94 S. Ct. 1234, 39 L. Ed. 2d 771 (1974)
+
+Brief Fact Summary
+After spending the night in jail, the Respondent’s, Edwards (Respondent), clothes were exchanged for fresh clothing. The clothing that the Respondent had worn was kept by the police to be used as evidence against the Respondent.
+
+Synopsis of Rule of Law
+Evidence gathered as a result of a warrantless search incident to custodial arrest or incarceration can be used against the arrestee.
+
+Facts
+The Respondent was arrested for attempting to break into a post office. A fresh pair of clothes was given to the Respondent the morning after his arrest. The Respondent’s old clothes were retained by the police to be used as evidence connecting the Respondent to the attempted break in.
+
+Issue
+Is clothing taken 10 hours after arrest excluded from evidence as the fruits of an unlawful search?
+
+Held
+No. Searches and seizures that may occur during arrest may also be conducted when the accused arrives at the place of detention. Anything found by the police during the course of a warrantless search incident to arrest or incarceration is admissible. Additionally, anything found by the police while holding an arrestee’s property is admissible.
+
+Dissent
+Under the Fourth Amendment, warrantless searches are per se unreasonable. A person does not lose the protections of the Fourth Amendment simply because they are incarcerated. In this case, a warrant was necessary to obtain the Respondent’s clothing because the exchange of clothing was neither a search nor an inventory.
+
+Discussion
+The privacy rights protected by the Fourth Amendment are greatly reduced once a person is incarcerated.
+

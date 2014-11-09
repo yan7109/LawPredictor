@@ -1,0 +1,21 @@
+Citation
+173 F.R.D. 509, 1997 U.S. Dist. 9218
+
+Brief Fact Summary
+Plaintiff, Controlled Environment Systems, answered the counterclaim of Defendant, Sun Process CO., Inc., in a manner that was contrary to Rule 8(b).
+
+Synopsis of Rule of Law
+In order for an answer to be considered a denial under Rule 8(b) of the Federal Rules of Civil Procedure, a party has to affirmatively deny the allegations or represent a lack of information sufficient to form a belief regarding the allegations.
+
+Facts
+Plaint brought a claim against Defendant, and Defendant brought counterclaims.  In their answer to the counterclaims, Plaintiffs claimed a lack of personal knowledge of the allegations and neither admitted or denied the allegations, and demanded strict proof of the allegations.  It was uncertain to Defendant whether the answer was a denial.
+
+Issue
+The issue is whether Plaintiff satisfied Rule 8(b) to have their answer deemed a denial.
+
+Held
+The court held that Plaintiff’s answer should be stricken and should file a corrected amendment or a self-contained Amended Answer.  Rule 8(b) requires a more demanding representation in order for the answer to be considered a denial.
+
+Discussion
+Plaintiff had to either admit or deny, but they could not put forward an answer that is equivocating.  This puts Defendant in a position where they are uncertain how they are to respond to the answer.
+

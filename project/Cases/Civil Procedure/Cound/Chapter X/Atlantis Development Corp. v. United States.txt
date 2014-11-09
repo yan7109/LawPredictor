@@ -1,0 +1,21 @@
+Citation
+22 Ill.379 F.2d 818 (5th Cir. 1967)
+
+Brief Fact Summary
+The United States sued Defendants claiming Defendants trespassed on government property. Atlantis moved to intervene arguing that the property at issue in the case was owned by Atlantis. The District Court denied the motion to intervene finding that Atlantis had no interest in the case and Atlantis appealed.
+
+Synopsis of Rule of Law
+A party may intervene under Rule 24 of the Federal Rules of Civil Procedure when it has an interest in the same property or same transaction and that a decision in favor of the adverse party may require courts in a subsequent trial to follow that decision under stare decisis.
+
+Facts
+The United States brought an action against Acme General Contractors, Inc., J.H. Coppedge Co., and Louis Ray, Defendants, alleging that Defendants built caissons on reefs without a permit from the Corps of Engineers, which amounts to trespassing on governmental property. Atlantis Development Corp. (”Atlantis”), prospective intervenor, claims that it owns certain reefs and the United States cannot bring an action for trespass on property that it does not own. Atlantis told the United States that people were trespassing on the reefs. The District Court denied Atlantis’ motion to intervene on the grounds that Atlantis did not have an interest justifying intervention as of right nor of permissive intervention.
+
+Issue
+Does Atlantis have the right to intervene in an action involving trespass on property that it claims it owns?
+
+Held
+Yes. Reversed.  The goals of the Advisory Committee of the Federal Rules of Civil Procedure when amending the old intervention rule was to take into consideration the litigant’s interest in having no interference with his own lawsuit and the public interest is having as much of the controversy and as many as the parties in a single lawsuit.  Rule 24 of the Federal Rules of Civil Procedure provides the necessary connection to be analyzed to determine whether the intervenor can be enjoined under Rule 19 of the Federal Rules of Civil Procedure.  Atlantis has an interest in the case because it is claiming it owns the land involved in the case.  Atlantis’ interests will be impaired or impeded because in the event there is a ruling against its interests in this case, the Court involved with Atlantis’ subsequent lawsuit will likely follow the decision of the court in the previous case under the doctrine of stare decisis.   Atlantis’ interests are not protected in this lawsuit because the decision in the case turned on Atlantis’ purported ownership of the property.
+
+Discussion
+The opinion demonstrates that analysis under Rule 24 of the Federal Rules of Civil Procedure may focus on a Rule 19 of the Federal Rules of Civil Procedure when considering the preclusive effect of an adverse ruling. In this case, there was a high likelihood that a ruling regarding ownership of the property would give precedent to any subsequent lawsuit. Because this would significantly impair or impede Atlantis’ interest in the property, Atlantis had a right to inter
+

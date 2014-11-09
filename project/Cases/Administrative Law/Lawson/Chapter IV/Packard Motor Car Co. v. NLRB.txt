@@ -1,0 +1,21 @@
+Citation
+330 U.S. 485, 67 S. Ct. 789, 91 L. Ed. 1040, 19 LRRM 2397 (1947)
+
+Brief Fact Summary
+Packard Motor Car Company (Company) employed about 32,000 rank and file workmen, and 1,100 foremen, who were supervisors. The NLRB approved a collective bargaining unit called the “Foreman’s Association of America,” which represented supervisory employees exclusively. The Company challenged the Board’s order, claiming that the foremen were not “employees” entitled to the advantages of the National Labor Relations Act (Act).
+
+Synopsis of Rule of Law
+Section:2 (2) of the Act reads: “The term ‘employer’ includes any person acting in the interest of an employer, directly or indirectly.” The purpose of the section was to render employers responsible in labor practices for acts of any persons in their interests. The intention was not to deny the organizational privilege to employees simply because, in their supervisory position, they acted in the interest of the Company.
+
+Facts
+The responsibility of the foremen was to maintain the quality and quantity of production for the Company. The foremen, as a group, were highly paid and entitled to benefits not afforded to ordinary workmen. They formed the Foreman’s Association of America as a collective bargaining unit for supervisors.  The Board found the foremen to be “employees” under Section:9(b) of the Act, and approved the unit, but the Company asserted that they were not employees, and refused to bargain with the unit. The court below decreed enforcement of the order, and the Supreme Court granted certiorari.  The Company tried to assert that the Act’s definition of employer excluded the foremen from being employees.
+
+Issue
+Were foremen “employees” under the Act, entitled as a class to the rights of self- organization and collective bargaining?
+
+Held
+Yes, the foremen were employees of the Company. Affirmed.   The purpose of Section:2(2) defining “employer” was not to deny the organizational privilege to those with supervisory positions, simply because they act in the interest of the company.  Even those who act in the interest of the Company in some matters still have their own interests as employees of the Company.   Dissent. The majority misunderstood the Wagner Act’s use of the terms “employee” and “employer.”  Concurrence. None.
+
+Discussion
+The Court agreed with the Board’s interpretation of the Act.
+

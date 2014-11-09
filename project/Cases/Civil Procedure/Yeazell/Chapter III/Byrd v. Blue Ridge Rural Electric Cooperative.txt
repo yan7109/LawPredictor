@@ -1,0 +1,24 @@
+Citation
+356 U.S. 525 (1958).
+
+Brief Fact Summary
+Plaintiff was injured while on a construction job for defendant and sues in tort.  A conflict arises between the State’s immunity standard of Guaranty Trust Co. v. York and the Federal laws.
+
+Synopsis of Rule of Law
+The federal court is NOT always required to apply the state rule such as this State’s immunity standard of Guaranty Trust Co. v. York; and in this case the federal court shouldn’t follow the state rule.
+
+Facts
+Plaintiff was injured while on a construction job for defendant and sues in tort.  A conflict arises between the State’s immunity standard of Guaranty Trust Co. v. York and the Federal laws.  Defendant contended plaintiff was doing the same work as defendant’s regular employees and was a “statutory” employee whose exclusive remedy was under the South Carolina Workmen’s Compensation Act.  Respondent’s manager testified on direct that three of its substations were built by the respondent’s own construction and maintenance crews, however the testimony contradicted that statement.
+
+Issue
+Whether on remand the factual issue is to be decided by the judge (i.e. in the Supreme Court of South Carolina in Adams v. Davison-Paxon Co., regarding immunity) or by the jury (which immunity under the State’s Workmen’s Compensation Act §72-111 that the court is bound under Erie R. Co. v. Tompkins to follow the state court’s holding to secure uniform enforcement of the immunity created by the state).
+
+Held
+(1) That the requirement that the application in the federal court is required is merely a form and mode of enforcing the immunity, Guaranty Trust Co. v. York and not a rule intended to be bound up with the definition of the rights and obligations of the parties (2) That in the circumstances of this case the federal court shouldn’t follow the state rule. (3) That the outcome of the litigation is not so substantially affected by whether the issue of immunity is decided by a judge or jury that it would necessarily produce different results.
+
+Dissent
+
+
+Concurrence</span>   </br><span class="heading">Discussion
+Regarding (2) That in the circumstances of this case the federal court shouldn’t follow the state rule, the court based its decision on (i) the fact that there is a strong federal policy against allowing state rules to disrupt the judge-jury relationship in federal court and (ii) that in light of the Seventh Amendment, the function assigned to the jury “is an essential factor in the process for which the Federal Constitution provides.”
+

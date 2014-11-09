@@ -1,0 +1,21 @@
+Citation
+5 U.S. 137, 1 Cranch 137, 2 L. Ed. 60 (1803)
+
+Brief Fact Summary
+William Marbury was a justice of the peace appointed by John Adams during his presidency. When Adams left the White House, Marbury did not receive his commission under the new president, James Madison.
+
+Synopsis of Rule of Law
+If there is a conflict between any law and the U.S. Constitution, it is within the judicial power granted to the Supreme Court to determine whether the law is unconstitutional. This process is called judicial review.
+
+Facts
+While President of the United States, John Adams (Adams) appointed several justices, including justices of the peace, in the District of Columbia. Adams signed the Commissions for these justices, but the Commissions were not delivered before his term expired. William Marbury (Marbury) was one of the justices of the peace appointed by Adams. When Thomas Jefferson (Jefferson) became President of the United States, he ordered his Secretary of State James Madison (Madison), to withhold these Commissions. Marbury brought suit directly in the Supreme Court, asking for a Writ of Mandamus to compel Madison to deliver the Commissions.
+
+Issue
+Is Marbury entitled to his Commission, and if so, do the laws provide a remedy?
+
+Held
+Justice John Marshall (J. Marshall) held Marbury was entitled to his Commission when Adams signed the Commissions prior to leaving office. To determine whether Marbury had a remedy, J. Marshall distinguished political acts from acts specifically required by law. J. Marshall ruled the denial of the Commission fell into the latter category and was reviewable by the courts.
+
+Discussion
+The Supreme Court, rather than Congress, determines whether or not a statute is constitutional through judicial review. This was the first case to establish the Supreme Court’s judicial review powers.
+

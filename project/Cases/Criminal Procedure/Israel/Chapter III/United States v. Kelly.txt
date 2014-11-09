@@ -1,0 +1,21 @@
+Citation
+707 F.2d 1460, 228 U.S. App. D.C. 55 (D.C. Cir. 1983)
+
+Brief Fact Summary
+Congressmen, including the defendant, Richard Kelly (the “defendant”), were targeted by a Federal Bureau of Investigation (”FBI”) operation intended to unearth bribery.  The FBI did not suspect the defendant of any wrongdoing prior to the operation, but rather the defendant became a target as the operation proceeded.
+
+Synopsis of Rule of Law
+There is no due process requirement for government authorities to have a reasonable suspicion of wrongdoing prior to investigating an individual providing the government’s conduct does not reach a “demonstrable level of outrageousness”.
+
+Facts
+The FBI initiated the Abscam operation to find Congressmen who may be enticed to accept bribes in exchange for favors.  The FBI used middlemen, some of them with prior involvement in illegal activities, to spread the word that a group of Arabs were willing to pay to receive legal citizenship in America.  The FBI then waited for Congressmen to take the bait.  The defendant offered to help with the supposed immigration issues initially in return for investment in his district.  Ultimately, the defendant took a cash bribe for his help.
+
+Issue
+Whether the FBI violated the defendant’s due process rights by targeting the defendant even though there was no prior suspicion of wrongdoing by the defendant?
+
+Held
+Unless the FBI’s conduct reached a “demonstrable level of outrageousness”, the FBI is not required to have a reasonable suspicion of the defendant’s wrongdoing.  The government agents, similar to other agents that operate drug stings, simply provided an opportunity for the defendant to commit a crime.
+
+Discussion
+The majority notes that for a successful due process defense, the government conduct must be more outrageous than what would be required to prove an entrapment defense.
+

@@ -1,0 +1,24 @@
+Citation
+437 U.S. 82, 98 S. Ct. 2187, 57 L. Ed. 2d 65 (1978)
+
+Brief Fact Summary
+Respondent moved for dismissal of two counts of an indictment against him on the grounds that he had been prejudiced by preindictment delay.
+
+Synopsis of Rule of Law
+Double Jeopardy is not an absolute bar to subsequent prosecution.
+
+Facts
+Scott, a police officer, was charged with distribution of narcotics. Over the course of his trial, he moved several times to dismiss two counts of his indictment on the ground that his defense had been prejudiced by preindictment delay.  At the close of evidence, the court granted the Motion, the government appealed, and the Sixth Circuit determined that further prosecution was barred by the Double Jeopardy clause of the Fifth Amendment.  The Supreme Court granted certiorari.
+
+Issue
+Whether the Double Jeopardy clause prohibits subsequent prosecution, on appeal, of criminal counts that are dismissed.
+
+Held
+Reversed.  Double Jeopardy does not bar subsequent prosecution of a matter when it is dismissed on a ground unrelated to factual guilt or innocence.  “Where a defendant, himself, seeks to have the trial terminated without any submission to either judge or jury as to his guilt or innocence, an appeal by the government for his successful effort to do so is not barred by [the Double Jeopardy Clause].”
+
+Dissent
+Justice Brennan, for the dissent, notes that “the reasons that bar a retrial following an acquittal are equally applicable to a final judgment entered on a ground unrelated to factual innocence.”
+
+Discussion
+Double Jeopardy does not always bar subsequent prosecution of a matter.  Particularly, when factual guilt or innocence is not determined, no prosecution has been carried through.  Thus, in the case of a mistrial or when proceedings are terminated for reasons other than a final disposition, subsequent prosecution may take place.
+

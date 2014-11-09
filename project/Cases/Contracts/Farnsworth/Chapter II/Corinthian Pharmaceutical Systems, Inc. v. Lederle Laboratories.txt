@@ -1,0 +1,21 @@
+Citation
+724 F. Supp. 605, 1989 U.S. Dist. 13058
+
+Brief Fact Summary
+Defendant was a drug manufacturer that periodically issued price lists to customers like Plaintiff who purchased vaccines and distributed them the physicians. The price list stated that orders were subject to acceptance by Defendant and that orders would be priced according to price in effect at the time of shipment.
+
+Synopsis of Rule of Law
+Where a seller notifies the buyer that the shipment is only an accommodation to the buyer, the seller will not be found to have accepted the terms of the buyer’s offer. An accommodation is an arrangement made as favor to the buyer.
+
+Facts
+Defendant announced a price of vaccine would increase to $171 per vial to its sales people on May 19, 1986 effective May, 20 1986. Plaintiff received knowledge of the price increase prior to the announcement to customers which was dated May 20, 1986. Plaintiff immediately ordered 1000 vials in response and on each order and in confirmation of the order stated that it would receive the vaccine at a price of $64 per vial. Defendant shipped 50 vials at the $64 price on June 3 and informed that the balance would be shipped at $171 per vial on June 16.
+
+Issue
+Whether Defendant agreed to sell Plaintiff 1000 vials at the $64 price by acceptance of the offer by sending the first 50 vials.
+
+Held
+The transaction was a sale of goods which would be governed by Article 2 of the UCC. Under the code, acceptance need not mirror the offer and shipping conforming goods is acceptance, but there is no acceptance by shipping non-conforming goods when the seller seasonably notifies the buyer that the shipment is only offered as an accommodation. The letter accompanying the shipment told the buyer that this partial shipment at a lower price was an exception and that the remainder must be at a higher price. Furthermore, the invoice also required the buyer to assent to those terms.
+
+Discussion
+The UCC rules allowed that a non-conforming shipment would not be acceptance if accompanied by proper notice if it was an exception or accommodation. It was non-conforming since they sent 50 and not 1000 vials. The letter clearly informed Plaintiff that this was a special favor and that the rest would be at the new high price.
+

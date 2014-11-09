@@ -1,0 +1,21 @@
+Citation
+87 N.Y.2d 384, 663 N.E.2d 289, 639 N.Y.S.2d 977, 1995 N.Y.
+
+Brief Fact Summary
+Plaintiff Brian Dalton, twice took the Scholastic Aptitude Test (SAT) administered by Defendant, Educational Testing Service. Due to a large score increase on the second test over the first test, Defendant reviewed the tests, determined two different people took the exams, and offered Plaintiff options to remedy the situation. After Plaintiff submitted substantial evidence of his innocence, Defendant continued to question the score, and Plaintiff’s father commenced this action to prevent Defendant from canceling Plaintiff’s score.
+
+Synopsis of Rule of Law
+Implicit in all contracts is a covenant of good faith and fair dealing in the course of contract performance.
+
+Facts
+Plaintiff took the May SAT administered by Defendant. In November, he took the test again and scored 410 points higher. Since the increase was more than 350 points, Defendant classified the test results in the category of “Large Score Differences” or “discrepant scores.” Defendant submitted the answer sheets to a document examiner, who opined that different individuals completed the answer sheets. Defendant’s Board of Review determined that substantial evidence supported canceling Plaintiff’s November score. In registering for the November exam, Plaintiff had signed an agreement granting Defendant the right to cancel any score if Defendant has reason to question the score’s validity. The contract also provided five options for Plaintiff in the event the score is questioned. Among those options is submitting additional information, which Plaintiff chose to do. Despite substantial evidence that Plaintiff took both tests, Defendant relied exclusively on the opinions of two docume
+
+Issue
+Did Defendant exercise good faith as required by the contract?
+
+Held
+No. The implied obligation to act in good faith requires that “neither party shall do anything which will have the effect of destroying or injuring the right of the other party to receive the fruits of the contract.” When a contract states that one shall exercise discretion, this includes a promise not to act arbitrarily or irrationally. Here, Defendant was under no obligation to initiate an external investigation. However, the contract required Defendant to consider any relevant evidence supplied by Plaintiff. By refusing to consider the relevant information furnished by Plaintiff, Defendant failed to comply in good faith with its own test security procedures, thereby breaching its contract with Plaintiff.
+
+Discussion
+All contracts must be performed in good faith.
+

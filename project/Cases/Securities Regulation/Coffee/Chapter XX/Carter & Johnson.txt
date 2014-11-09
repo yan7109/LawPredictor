@@ -1,0 +1,18 @@
+Brief Fact Summary
+Attorneys for National Telephone Co. (National), Carter and Johnson (Defendants), were accused by the Securities and Exchange Commission (SEC) (Plaintiff) of aiding and abetting illegal nondisclosure by a National Telephone officer.
+
+Synopsis of Rule of Law
+Faced with illegal nondisclosure by a client, the nondisclosure is abetted by the attorney if he does not act to stop it.
+
+Facts
+Carter and Johnson were partners at the law firm representing National Telephone Co. (National) and participated in the drafting of a  the “lease maintenance plan” (LMP), a contingent financing plan, which, when triggered, would cause the dissolution of the company. National’s CEO, Hart, declined to release a Form 8-K revealing the LMP’s existence. Throughout the following year, Hart was urged by Carter and Johnsonto disclose the LMP’s terms but Hart refused. In time, the LMP was triggered and it was then that Hart, in blatant opposition to their advice, asked the attorneys to draft an opinion declaring the disclosure of the LMP was unnecessary. Johnson and Carter refused and Hart resigned soon after. An action was brought against Johnson and Carter alleging that they aided and abetted Hart's illegal nondisclosure by the SEC. An Administrative Law Judge concurred, and Carter and Johnson appealed.
+
+Issue
+Faced with illegal nondisclosure by a client, is the nondisclosure is abetted by the attorney if he does not act to stop it?
+
+Held
+[Judge not stated in casebook excerpt.] Yes. Faced with illegal nondisclosure by a client, the nondisclosure is abetted by the attorney if he does not act to stop it. Although, there needs to be intent on the attorneys behalf to have a blatant disregard to their ethical obligations with regard to disclosure and an intent to aide the violation whether via inaction or action for aiding and abetting to occur. In this case, Carter and Johnson’s regular urging of Hart to disclose the specifics of the LMP shows a lack of lack of intent to aid and abet. Regarding the obligations of the attorney’s to effect disclosure, these obligations have yet to be adequately formulated to enforce a standard aside from general obligations to fail to help in the commission of a crime. No general obligation like that was breached by Carter or Johnson based on the record. Reversed.Even though it is not able to apply to this case, the SEC is currently on notice that, with respect to disclosure, attorneys have particular obligations.  In essence, lawyers with considerable a lawyers continued participation violates professional standards unless he takes prompt steps to show that he has not been co-opted into a nondisclosure scheme, when a lawyer with considerable responsibilities in the effectuation of a company’s compliancewith the disclosure obligations of the federal securities laws is cognizant that his client participated in a substantial and ongoing failure to satiate those disclosure obligations, his ongoing engagement violates professional standards unless rapid steps to demonstrate that he has not been co-opted into the nondisclosure scheme.
+
+Discussion
+In terms of clarity, the most recent standard publicized by the SEC leaves much to be desired. It fails to state how significant “significant” actually is and just how extreme the steps to end the noncompliance must be is an issue that will undoubtedly inspire a multitude of future litigation.
+

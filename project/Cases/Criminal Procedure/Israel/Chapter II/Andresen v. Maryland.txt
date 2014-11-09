@@ -1,0 +1,24 @@
+Citation
+427 U.S. 463, 96 S. Ct. 2737, 49 L. Ed. 2d 627 (1976)
+
+Brief Fact Summary
+State authorities obtained search warrants to search the defendant, Andreson’s (the “defendant”) law office, for papers evidencing a fraudulent sale of land.
+
+Synopsis of Rule of Law
+The Fifth Amendment’s protections against self-incrimination do not apply to information obtained from papers or other documents which are properly seized.
+
+Facts
+Government officials obtained a search warrant of the defendant’s law office for specified documents related to a fraudulent sale of land.  The officials found the documents when executing the warrant and the evidence was used to convict the defendant at trial.
+
+Issue
+Does the Fifth Amendment’s protection against self-incrimination apply to incriminating papers which have been seized by law enforcement and have been subsequently admitted into evidence at trial?
+
+Held
+The Fifth Amendment’s protections against self-incrimination protects individuals from complying with a subpoena for the production of incriminating evidence, however, it does not prevent the same materials from being properly seized by law enforcement and subsequently being admitted at trial.
+
+Dissent
+Search and seizure includes elements of compulsion which constitute part of the essence of the Fifth Amendment.  The forcible compulsion of both a person’s private papers and testimony are within the protection of the Fifth Amendment.
+
+Discussion
+The lawful seizure of a person’s business records, or other documents which contain incriminating information, does not undermine the protections of the Fifth Amendment.  Compelled self-incriminating testimony is protected by the Fifth Amendment.
+

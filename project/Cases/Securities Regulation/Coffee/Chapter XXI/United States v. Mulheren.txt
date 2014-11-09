@@ -1,0 +1,21 @@
+Citation
+938 F.2d 364 (2d Cir. 1991)
+
+Brief Fact Summary
+It was alleged that Mulheren  bought stock with the intent to manipulate its cost.
+
+Synopsis of Rule of Law
+If a subjective intent to manipulate a stock price cannot be demonstrated, a person cannot be convicted of that crime.
+
+Facts
+Beosky, a high-profile Wall Street spectator and Mulherenwere acquaintances.  One day, Mulheren told Boesky, via telephone, that it would be “great” if Gulf-Western stock would rise to $45 a share, instead of its current price of just over $44 per share. No evidence existed that Boesky owned 3.4 million shares and when Boesky testified at trial, he did not imply that Mulheren was aware. Not long after that conversation, Mulheren bought 75k shares on Jamie Securities Co.’s behalf, causing Gulf-Western stock to rise to $45, whereupon Boesky sold his shares. Then, Mulheren was indicted by the Justice Department for violating § 10(b) of the Securities Exchange Act for a form of securities fraud, committed byMulheren by buying with the intent to manipulate stock prices.  Mulheren was convicted, and he appealed.
+
+Issue
+If a subjective intent to manipulate a stock price cannot be demonstrated, can a person be convicted of that crime?
+
+Held
+(McLaughlin, J.) No. If a subjective intent to manipulate a stock price cannot be demonstrated, a person cannot be convicted of that crime.It is debatable if trading in securities with intent just to affect prices is actually illegal. Assuming this is true, it is required that the Government demonstrate such intent beyond a reasonable doubt. In this case, the Government has not done this, the central portion of evidence comprised of Boesky's conversation with Mulheren where he said it would be "great" if Gulf-Western stock rose to $45 per share followed by Mulheren's buying of 75k in shares. No evidence was procured by the Government that Mulherenwas cognizant of Boesky's holdings or that any quid pro quo existed. For Mulheren to get convicted, the Government had to show that Mulheren intended to manipulate as opposed to invest, and such a showing was not provided. Reversed.
+
+Discussion
+The assumption that trading just to manipulate prices constitutes a § 10(b) is what the court premised its decision on, although, from dicta, it seems that the court was objectionable in reading § 10(b) that way.
+

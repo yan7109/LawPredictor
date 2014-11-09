@@ -1,0 +1,21 @@
+Citation
+490 U.S. 495, 109 S. Ct. 1976, 104 L. Ed. 2d 548, 1989 U.S. 2538
+
+Brief Fact Summary
+The Petitioner, Lauro Lines s.r.l. (Petitioner), moved to dismiss an action filed against it by victims of the hijacking of one of its airplanes, citing a forum selection clause printed on the plane tickets requiring litigants to pursue all claims against it in Italy.
+
+Synopsis of Rule of Law
+An order denying a motion to dismiss a civil action on the ground that a contractual forum selection clause requires that such suit be brought in another jurisdiction is not appealable under the final judgment rule, because it is not a decision on the merits that ends the litigation.
+
+Facts
+The Respondents, Chasser and others (Respondents), represent the estates of persons who were passengers aboard the cruise ship Achille Lauro, owned by Petitioner when it was hijacked by terrorists in the Mediterranean in October 1985.  Respondents filed suit against Petitioner in the Southern District of New York to recover damages for injuries sustained as a result of the hijacking and for the wrongful death of passenger Leon Klinghoffer. Petitioner moved to dismiss the action, citing a forum clause selection printed on each passenger ticket. The clause purported to obligate the passenger to institute any action arising in connection with the contract in Naples, Italy and to renounce the right to sue elsewhere.  The district court denied Petitioner’s motion to dismiss. Petitioner then sought to appeal the district court’s order to the Court of Appeals for the Second Circuit. The Second Circuit dismissed Petitioner’s appeal on the ground that the district court’s order was interlocutory and therefore not appealable under Section:1291. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+Whether an interlocutory order of a district court’s denial of a defendant’s motion to dismiss a damages action on the basis of a contractual forum-selection clause is immediately appealable under 28 U.S.C. Section: 1291 as a collateral final order.
+
+Held
+No. The Supreme Court affirmed the judgment of the Second Circuit.   Title 28 U.S.C. Section: 1291 provides for appeals to the courts of appeal only from “final decisions of the district courts of the United States.” A final judgment is generally regarded as a decision by the district court that ends the litigation on the merits and leaves nothing for the court to do but execute the judgment. An order denying a motion to dismiss a civil action on the ground that a contractual forum selection clause requires that such suit be brought in another jurisdiction is not a decision on the merits that ends the litigation.    Concurrence. Justice Antonin Scalia (J. Scalia) concurred. J. Scalia wrote separately merely to point out that the right of Petitioner to not be sued outside Italy was not sufficiently important to overcome the policies militating against interlocutory appeals.
+
+Discussion
+The court held that an order denying a motion to dismiss a civil action on the ground that a contractual forum selection clause requires that such suit be brought in another jurisdiction is not a decision on the merits that ends the litigation for the very reason that such an order explicitly ensures that litigation will continue. Thus, such an appeal is interlocutory and hence not permissible under the final judgment.
+

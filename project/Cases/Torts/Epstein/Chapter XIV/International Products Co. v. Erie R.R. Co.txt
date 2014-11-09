@@ -1,0 +1,21 @@
+Citation
+155 N.E. 662 (N.Y. 1927).
+
+Brief Fact Summary
+Erie R.R. Co. (Plaintiff) bought insurance when it was assured by International Products Co. (Defendant) that its goods were stored at a certain location, and it later learned that the goods had been stored at another location, where they were ultimately destroyed.
+
+Synopsis of Rule of Law
+A cause of action for negligent statements may be upheld when a plaintiff is harmed by relying on a defendant’s words.
+
+Facts
+Plaintiff entered into a deal with Defendant to receive and store its goods until they could be shipped. According to the terms of their arrangement, once the goods were stored, Plaintiff was to buy insurance for the goods. After Plaintiff inquired about the location of the goods, and was told where they were by Defendant, Plaintiff obtained insurance for that location. The goods actually arrived later, and were stored at a different location, where they were destroyed by fire. Plaintiff brought suit for restitution in the amount they would have received had the goods been properly insured. The trial court and appellate divisions directed verdict for the Plaintiff, and Defendant appealed.
+
+Issue
+This case considers whether liability stems from negligent language.
+
+Held
+Affirmed.
+
+Discussion
+This case overrules Derry v. Peek, and says that a cause of action for misrepresentation may be upheld when a defendant can be reasonably assured that a plaintiff is acting in reliance of his words.
+

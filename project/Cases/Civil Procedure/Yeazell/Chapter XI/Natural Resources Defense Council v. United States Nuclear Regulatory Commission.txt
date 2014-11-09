@@ -1,0 +1,21 @@
+Citation
+578 F.2d 1341, 1978 U.S. App. 10699
+
+Brief Fact Summary
+The underlying action was instituted by the Plaintiff, Natural Resources Defense Council, Inc (Plaintiff). Plaintiff sought declaratory and injunctive relief against the Defendants, the United States Nuclear Regulatory Commission and the New Mexico Environmental Improvement Agency (Defendants), prohibiting these agencies from issuing licenses for the operation of uranium mills in New Mexico without first preparing environmental impact statements. The Movants, American Mining Congress and Ker-McGee Nuclear Corporation (Movants), then also filed a motion to intervene as a matter of right or on a permissive basis, pursuant to Federal Rule of Civil Procedure (FRCP) 24(a)(2) and (b).
+
+Synopsis of Rule of Law
+In order to intervene under FRCP Rule 24, a movant need not have a direct interest in the outcome of the lawsuit. Instead a genuine threat to the movant to a substantial degree is a sufficient interest to satisfy FRCP Rule 24.
+
+Facts
+The Plaintiff instituted the underlying action. Plaintiff, sought declaratory and injunctive relief against the Defendants, prohibiting the agencies from issuing licenses for the operation of uranium mills in New Mexico without first preparing environmental impact statements. United Nuclear Corporation filed a motion to intervene, which was not opposed by the parties and was thus granted. Movants then also filed a motion to intervene as a matter of right or on a permissive basis, pursuant to FRCP Rule 24(a)(2) and (b). Movants were not potential recipients of the licenses in the underlying action. The district court denied the motion
+
+Issue
+This case concerns how much interest a person not a party to an action must have in the stake of the action in order to be allowed to intervene in the action under FRCP Rule 24(a).
+
+Held
+The Court of Appeals for the Tenth Circuit held that the interests of Movants in the subject matter was sufficient to satisfy the requirements of Rule 24 and the threat of loss of their interest and inability to participate is of such magnitude as to impair their ability to advance their interest.   The Court observed that strictly to require that the movant in an intervention have a direct interest in the outcome of the lawsuit is too narrow a construction of FRCP Rule 24(a)(2). Instead, the interest must be a significantly protectable interest. The interest asserted on behalf of the Movants is one, which is a genuine threat to Kerr-McGee and the members of the American Mining Congress to a substantial degree.
+
+Discussion
+Essentially here the court is laying down a framework regarding when to allow an unwanted party to force his way into a lawsuit. Where the party appears to have   an identifiable and specific interest in the outcome and the outcome will affect the party on an individual level, the court will allow the party to intervene if intervention is the only way for the party to protect his rights.
+

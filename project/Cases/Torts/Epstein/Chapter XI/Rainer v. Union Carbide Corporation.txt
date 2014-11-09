@@ -1,0 +1,27 @@
+Citation
+402 F.3d 608 (6th Cir. 2005)
+
+Brief Fact Summary
+Workers (P) at a uranium-enrichment plant were exposed to dangerous radioactivity which could damage their DNA and chromosomes. They were not told about the presence of this exposure. They sued the employers for damages and also argued that their claims fell under an exception in the state workers’ compensation act.
+
+Synopsis of Rule of Law
+The phrase “ deliberate intention to cause injury or death” in the state workers’ compensation statute demands proof of an employer’s determination to cause harm to an employee and his use of means to produce such harm, if it is to act as an exception to the above statute.
+
+Facts
+Union Carbide is a uranium-enrichment plant. Workers there were exposed without their knowledge to radioactivity over many years. Though they had no clinical symptoms as yet, they sued the successive operators/employers of the plant, on the ground that they had suffered invisible DNA and chromosomal damage due to prolonged radioactive exposure. The company records showed a lack of concern for worker safety as well as a lack of information or disclosure to the employees about the cancer-producing effects of their occupation. The district court dismissed the action as the state workers’ compensation act provided the exclusive legal remedy for such suits by workers against employers. The workers agreed to the normal exclusive nature of the act in providing for their legal remedy; however, they argued that the present claim fell under the exception to the act which had reference to an employer’s deliberate decision to cause injury or death to a worker. They based their argument on the ground that “deliberate intention”, as the act phrased it, referred also to actions undertaken with the moral certainty that a specific result was to be expected or highly probable. The court of appeals granted review of the case.
+
+Issue
+Does the phrase “deliberate intention to produce injury or death” in a state workers’ compensation act mean that the worker must produce proof that the employer has decided to cause harm to an employee and to use some way of so doing?
+
+Held
+(Gilman, J.) Yes. The phrase “deliberate intention to produce injury or death” in a state workers’ compensation act means that the worker must produce proof that the employer has decided to cause harm to an employee and to use some method of so doing. The workers’ argument in this case is flawed in that the phrase does not cover grossly negligent actions, which are morally certain or highly probable to cause some specific result. The “deliberate intention” covers only a decision on the part of the employer to injure the employee, rather than careless and outstanding negligence. The phrase is also not as broad as “intent” in tort law, where the definition of substantial certainty of harm is appropriate in assessing intent to cause harm. Other interpretations have interpreted this law otherwise, more in keeping with the workers’ interpretation. However, the state law is applicable to the federal courts sitting in that state, and the state law interprets this phrase in this narrow sense. The verdict is affirmed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+Some courts have interpreted this phrase “deliberate intention” with a broader scope than the court in this case. Thus they have agreement with the substantial certainty test taken from the Second Restatement of Torts. This test provides for a suit for intentional tort given that the wrongdoer performs an act despite recognizing a danger to others which is substantially certain and not just likely, even if he does not have a specific intent to cause injury.
+

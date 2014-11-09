@@ -1,0 +1,18 @@
+Citation
+535 U.S. 685, 122 S. Ct. 1843, 152 L. Ed. 2d 914 (2002)
+
+Brief Fact Summary
+Defendant in a crime-spree case used an insanity defense, but was found guilty.  The defendant’s counsel did not ask for mercy.
+
+Synopsis of Rule of Law
+A “claim that [a defendant's counsel] rendered ineffective assistance during his sentencing hearing” under the Strickland rule must show that the law had been applied unreasonably.
+
+Facts
+Respondent was involved in an elaborate crime-spree that led to the murder of an elderly couple in Tennessee.  He attempted an insanity plea that was rejected, and he was found guilty.  The sentencing phase was separate from the trial.  The prosecutor demonstrated four aggravating factors.  The respondent presented mitigating evidence, including mental and drug problems.  His counsel pled for mercy.  After the final statement from the prosecution, the defense counsel waived final statements, preventing a rebuttal.  The respondent appealed, arguing that Cronic, not Strickland, controlled.
+
+Issue
+Whether the fact that respondent’s counsel did not ask “for mercy after the prosecutor’s final argument, did not subject the State’s call for the death penalty to meaningful adversarial testing” in violation of the Sixth Amendment.
+
+Held
+No.  Strickland controls because the respondent challenged the counsel’s “failure to adduce mitigating evidence and the waiver of closing argument.”  Given that, the Supreme Court noted the generally horrible nature of the crime, and the inherent difficulty for the counsel.  Mitigating circumstances had been presented during the trial.  As for the waiver, the Court held the Court of Appeals’ application of law “unreasonable” because it did not consider the counsel’s dilemma.  “He could make a closing argument and reprise for the jury
+

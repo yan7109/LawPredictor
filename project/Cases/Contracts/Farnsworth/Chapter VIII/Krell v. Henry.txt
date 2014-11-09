@@ -1,0 +1,21 @@
+Citation
+2 K.B. 740 (1903).
+
+Brief Fact Summary
+The Plaintiff, Mr. Krell (Plaintiff), sued the Defendant, Mr. Henry (Defendant), after the Defendant refused to pay for the use of the Plaintiff’s flat. The Defendant countered that he only wished to use the flat for the Royal coronation, which was cancelled due to illness and he should not have to pay since the flat was virtually valueless if no coronation were to occur.
+
+Synopsis of Rule of Law
+Where both parties to a contract understand the contract was being formed for a specific purpose and the purpose is somehow thwarted, the contract is voidable.
+
+Facts
+The Plaintiff and the Defendant entered into an agreement for the Defendant to use the Plaintiff’s flat for two consecutive specified days. The written agreement did not mention the Royal coronation or any other purpose for which the Defendant may rent the flat. However, the Defendant had approached the Plaintiff’s flat in response to a flyer hanging on the window announcing the availability of the flat for rent to see the coronation. Hence, the court determined that the purpose of the rental of the flat was for the coronation. When the King became ill, the coronation was cancelled. The Defendant thereafter refused to pay the balance owing on the flat and the Plaintiff sued to recover.
+
+Issue
+Is the contract at issue enforceable?
+
+Held
+No. If the words of a contract do not necessarily state a purpose for the contract, but inferences drawn from surrounding circumstances understood by both parties evidence that the contract is being formed on the basis of the existence of a particular state of things, the contract is unenforceable when it becomes impossible to perform by reason of the non-existence of the state of things assumed by both contracting parties as the foundation of the contract. Here, the Plaintiff advertised the use of his premises to view the Royal coronation on two specified days. Even though the contract did not contain language to the effect that the Defendant would use the premises to view the coronation, it was clear that the coronation served as the foundation for the agreement. Hence, when the coronation was cancelled due to the King’s illness, the Plaintiff was entitled to no damages for breach since the purpose of renting the premises was frustrated.
+
+Discussion
+Frustration of purpose is a defense to breach of contract.
+

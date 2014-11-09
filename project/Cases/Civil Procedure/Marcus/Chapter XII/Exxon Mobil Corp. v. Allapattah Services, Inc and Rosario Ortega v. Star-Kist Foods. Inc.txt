@@ -1,0 +1,27 @@
+Citation
+545 U.S. 546, 125 S, Ct. 2611, 162 L.Ed.2d 502
+
+Brief Fact Summary
+This is two consolidated cases where additional plaintiffs wish to join the action but did not have the aggregated amount to satisfy the diversity requirement.
+
+Synopsis of Rule of Law
+As long as one plaintiff’s claim satisfies the minimum amount-in-controversy requirement, the court may exercise jurisdiction over additional plaintiff’s case that fall short of the requirement, when all claims arise from the same case or controversy.
+
+Facts
+The Appeals Court of the United States is split on the decision concerning supplemental jurisdiction. The Supreme Court consolidated two cases one from a court that agrees and another from a court that disagrees with supplemental jurisdiction.
+
+Issue
+Whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, even when those claims are part of the same claims that do satisfy.
+
+Held
+Yes. For this case, the Court uses the history of how courts have treated diversity jurisdiction and statutory language to support the decision that, once the court has original jurisdiction over one claim, it can have jurisdiction over supplemental claims arises from the same case and controversy. The Court discusses that up to now courts have held that each party must satisfy all requirements under diversity jurisdiction. If one party ruined diversity that party could not be added, or if one party did not have the amount-in-controversy he or she could not be added, and courts were not allowed supplemental jurisdiction over additional claims that did not meet those requirements. However this is a different circumstance. The court states that now under U.S. C § 1367 (a) when one claim satisfies the amount-in-controversy requirement allowing for original jurisdiction the district court has original jurisdiction over that claim. This is jurisdiction over the civil action…not the claim itself; therefore, jurisdiction over supplemental claims arising from that civil action is proper. The court also uses U.S.C. § 1367 (b) to support their argument. It states that when joinder is a result of indispensible party under 19, or from someone seeking to intervene under FRCP 24, the court lacks supplemental jurisdiction. Therefore supplemental jurisdiction under 20 for permissible joinder and 24 for class actions is allowed since it was not explicitly excluded.
+
+Dissent
+The court was split with this decision as well. Many of the dissenters note that the interpretation of the statute was overly ambiguous, and that a stricter reading of the rule: no supplemental jurisdiction unless there is individual jurisdiction should be the proper outcome. Also the legislative history does not show that Congress’s intent was to allow this type of jurisdiction under Diversity jurisdiction.
+
+Concurrence
+
+
+Discussion
+By not allowing courts this type of supplemental jurisdiction, it makes the theory of indivisibility a nullity. Courts need to have this jurisdiction because it is one claim that needs to be tried in one court room. The court also addresses the theory of contamination but states the issue of complete diversity is different from amount in controversy.
+

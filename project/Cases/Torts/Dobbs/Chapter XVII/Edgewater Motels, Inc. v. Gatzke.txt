@@ -1,0 +1,21 @@
+Citation
+277 N.W.2d 11 (Minn. 1979)
+
+Brief Fact Summary
+The District Court, St. Louis County (Minnesota) found for Defendants, notwithstanding a jury verdict that its employee negligently caused a fire in the motel while he was in the scope of his employment.
+
+Synopsis of Rule of Law
+The smoking of a cigarette, if done while engaged in the business of the employer, is within an employee’s scope of employment because it is a minor deviation from the employee’s work-related activities, and, thus, merely an act done incidental to general employment.
+
+Facts
+Edgewater Motels, Inc. (Plaintiff) brought an action against Gatzke and his employer, Walgreen’s (Defendants), in connection with fire damage to one of its properties caused by Gatzke’s negligently smoking a cigarette while in his motel room. The jury found Gatzke to be 60% liable, and his employer liable for the remainder. The trial judge concluded that Gatzke’s conduct did not fall within the scope of his employment, rendering a judgment notwithstanding the verdict in favor of Walgreen’s.
+
+Issue
+Was an employee’s negligence while smoking within that employee’s scope of employment thus making his employer partially liable for his negligence?
+
+Held
+Yes. On appeal, the court reversed and reinstated the jury verdict, holding that an employer could be vicariously liable for its employee’s negligent conduct if he is otherwise acting within the scope of his employment.
+
+Discussion
+As a general rule, under the doctrine of respondeat superior an employer is held vicariously liable for the tortious acts of an employee that are committed within the scope of employment. Courts have generally included those actions that are carried out in the furtherance of the employer’s business as being within the scope of employment. In this instance, as the court noted, the employee was in his motel room completing paperwork, his expense account, which was work-related. As Edgewater illustrates, what constitutes the scope of employment is a fact-based inquiry. As the court pointed out, “No hard and fast rule can be applied to resolve the ’scope of employment’ inquiry. Rather, each case must be decided on its own individual facts.”
+

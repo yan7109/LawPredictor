@@ -1,0 +1,18 @@
+Citation
+130 S. Ct. 1093
+
+Brief Fact Summary
+Alfred Trenkler (Appellant) was convicted by a jury of various charges, all related to the explosion of a bomb in Massachusetts.  Appellant appeals here, challenging the lower court’s decision to allow evidence related to Appellant’s involvement in a prior bombing to be admitted at Appellant’s trial.
+
+Synopsis of Rule of Law
+Evidence is admissible under Federal Rule of Evidence 404(b) only when the evidence is determined to have some “special relevance,” independent of its tendency to show criminal propensity, on a material issue, unless the probative value of the evidence is substantially outweighed by the danger of unfair prejudice.
+
+Facts
+Two police officers were killed in 1991 when a bomb exploded at the home of Thomas L. Shay (Shay Sr.).  After an investigation, Thomas A. Shay (Shay Jr.) and Appellant were charged; after Appellant filed a severance motion, each was tried separately and convicted.
+
+Issues
+Did the lower court error by allowing evidence of the 1986 Quincy bombing, including the EXIS database-derived evidence, to be admitted at Appellant’s trial?
+
+Held
+No; under Federal Rule of Evidence 404(b), evidence is admissible when there exists some “special relevance,” independent of its tendency to show criminal propensity, on a material issue and when the probative value of the evidence is not substantially outweighed by the danger of unfair prejudice; here, there was such a special relevance with respect to the evidence and a reasonable jury could have determined that the same person was responsible for both bombs, and
+

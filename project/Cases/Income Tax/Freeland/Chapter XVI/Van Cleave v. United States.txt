@@ -1,0 +1,21 @@
+Citation
+718 F.2d 193, 1983 U.S. App. 83-2 U.S. Tax Cas. (CCH) P9620; 52 A.F.T.R.2d (RIA) 6071
+
+Brief Fact Summary
+Taxpayer was the president and majority stockholder of a corporation.  The corporation had an agreement with him where he would return any portion of his salary that may be determined to be excessive by the IRS.  In 1974 the IRS determined he received excessive salary in the amount of $57,500 and he paid it back to the corporation.
+
+Synopsis of Rule of Law
+Section 1341 treatment provides that if a taxpayer includes an item of gross income in a tax year and in a subsequent year he is no longer entitled to that income and is entitled to a deduction, then the tax for the subsequent tax year is reduced by either the tax attributable to the deduction or the decrease in the tax for the prior year whichever is greater.
+
+Facts
+Taxpayer, Eugene Van Cleave, was president and majority stockholder of VanMark Corporation. He received $332,000 in salary and bonuses in 1974.  The IRS determined that $57,500 of this compensation was excessive and did not allow the corporation to deduct that portion of his salary.  As agreed between him and the corporation, he returned that amount in 1975.  Taxpayer reported the full amount on his 1974 income tax return.  On his 1975 return he calculated his liability using Section 1341 treatment.  The IRS disallowed the use of Section 1341.
+
+Issue
+Is Taxpayer entitled to Section 1341 treatment to provide him the tax treatment that is most favorable?
+
+Held
+Judge Brown issued the opinion for the United States Sixth Circuit Court of Appeals in holding that Taxpayer is entitled to Section 1341 treatment.
+
+Discussion
+The government argued that Taxpayer had an unrestricted right to the income in the year it was received and thus 1341 was not available to him. The Court of Appeals noted that Section 1341 treatment should not be effected just because the restriction on the taxpayer’s right to income does not arise until a subsequent year after having received the income.
+

@@ -1,0 +1,21 @@
+Citation
+868 F.2d 1251 (Fed. Cir. 1989)
+
+Brief Fact Summary
+Corning (Plaintiff) brought suit against Sumitomo's (Defendant) claiming patent infringement for Defendant's S-3 fibers that accomplished the same purpose as Plaintiff's fiber optics.
+
+Synopsis of Rule of Law
+An infringing device is an accused device that has the equivalent to another patent's claim limitation somewhere in the device.
+
+Facts
+Only short distance communications were permitted by prior fiberoptics, so efforts began to develop long-distance options.  Plaintiff then patented a fiberoptic composite made of a doped silica core and a fused silica cladding (doping optional) with the purpose to function specifically as an optical waveguide over long distances (the '915 patent).  Later, Defendant patented its S-3 fibers, which accomplished the same purpose as the fibers in the '915 patent.  The district court held the S-3 fibers infringed upon the '915 patent claims and the '915 claims were valid.  Defendant appealed.
+
+Issue
+Is an infringing device an accused device if it has the equivalent to another patent's claim limitation somewhere in the device?
+
+Held
+(Nies, J.)  Yes.  An infringing device is an accused device that has the equivalent to another patent's claim limitation somewhere in the device.  There is no dispute that the S-3 fibers perform the same function as Plaintiff's fibers.  The issue is whether or not the function is performed in "substantially the same way."  In this case, Plaintiff admits its claims do not literally read on the S-3 fibers but declares the S-3 fibers perform in the same way as its claimed invention, therefore meeting the Graver Tank test.  The district court found the S-3 fiber substitution of "fluorine dopant" negatively altered the "index of refraction of fused silica [ ] in the cladding" and was the same as Plaintiff's dopant which positively altered the index of refraction of fused silica.  Defendant argues the "All Elements" rule applies, but the equivalent limitation does not need to appear in a corresponding component making each element equivalent, just equivalent somewhere in an accused device.  Plaintiff argues that the question is whether adding a positive dopant to the core is equivalent to adding negative dopant to the cladding.  This Court has not developed a rigid test and instead uses the function/way/result equivalency analysis in line with Graver Tank.  Affirmed.
+
+Discussion
+Receiving patent protection by changing a limitation description is prohibited by the doctrine of equivalents when the limitation is almost the same as another patent's claim limitation.
+

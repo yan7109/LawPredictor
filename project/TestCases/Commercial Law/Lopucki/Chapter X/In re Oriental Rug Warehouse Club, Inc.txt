@@ -1,0 +1,21 @@
+Citation
+205 B.R. 407, 1997 Bankr. 111,31 U.C.C. Rep. Serv. 2d (Callaghan) 1187
+
+Brief Fact Summary
+Oriental Rug Warehouse Club, Inc., (Petitioner), filed for bankruptcy. Yashar Rug Co., (Respondent), filed a proof of secured claim in the amount of $64,243 representing Petitioner’s outstanding balance for the purchase of rugs from Respondent. Petitioner objects.
+
+Synopsis of Rule of Law
+The secured party has the burden of establishing that something constitutes identifiable proceeds form the sale or distribution of the secured party’s collateral. To do this, the secured party must race the claimed proceeds back to the original collateral. Proceeds of the disposition of collateral are presumed to remain in a commingled account as long as the account balance is equal to or exceeds the amounts of the proceeds.
+
+Facts
+Petitioner sells rugs and carpets at retail. Petitioner and Respondent entered into a “consignment agreement” whereby Petitioner took possession of Respondent’s rugs to resell them. In exchange, Petitioner agreed to pay a sum of money to Respondent and use the proceeds from the sale of the rugs to pay down its outstanding debt. Petitioner defaulted on that agreement. Respondent’s brother then repossessed the rugs that were supplied by Respondent. Petitioner took the proceeds from the sale into its general checking account and used funds from the account to purchase additional rugs. Petitioner filed for bankruptcy. Respondent filed a proof of secured claim in the amount of $64,243 representing the outstanding debt minus the value of the repossessed rugs. Petitioner objects.
+
+Issue
+Whether Petitioner’s current inventory constitutes “proceeds from Petitioner’s sale of the consigned rugs.
+
+Held
+No. Respondent has failed to prove that that those assets constitute identifiable proceeds arising from the disposition of its original collateral.
+
+Discussion
+The burden of tracing the proceeds back to the original collateral is on Respondent. Respondent admits that it is impossible to reconstruct exactly what Petitioner did with the proceeds of the sale of Respondent’s consigned inventory. Therefore Respondent’s secured claim is disallowed.
+

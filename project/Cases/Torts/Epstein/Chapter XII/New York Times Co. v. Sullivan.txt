@@ -1,0 +1,21 @@
+Citation
+376 U.S. 967 84 S. Ct. 1130 12 L. Ed. 2d 83 1964 U.S.
+
+Brief Fact Summary
+The Plaintiff, Sullivan (Plaintiff) sued the Defendant, the New York Times Co. (Defendant), for printing an advertisement about the civil rights movement in the south that defamed the Plaintiff.
+
+Synopsis of Rule of Law
+The constitutional guarantees require a federal rule that prohibits a public official from recovering damages for a defamatory falsehood relating to his official conduct unless he proves that the statement was made with actual malice – that is, with knowledge that it was false or with reckless disregard of whether it was false or not.
+
+Facts
+The Plaintiff was one of three Commissioners of Montgomery, Alabama, who claimed that he was defamed in a full-page ad taken out in the New York Times. The advertisement was entitled, “Heed Their Rising Voices” and it charged in part that an unprecedented wave of terror had been directed against those who participated in the civil rights movement in the South. Some of the particulars of the advertisement were false. Although the advertisement did not mention the Plaintiff by name, he claimed that it referred to him indirectly because he had oversight responsibility of the police. The Defendant claimed that it authorized publication of the advertisement because it did not have any reason to believe that its contents were false. There was no independent effort to check its accuracy. The Plaintiff demanded that the Defendant retract the advertisement. The Defendant was puzzled as to why the Plaintiff thought the advertisement reflected adversely on him. The jury found the ad libe
+
+Issue
+Is the Defendant liable for defamation for printing an advertisement, which criticized a public official’s official conduct?
+
+Held
+No. Reversed and remanded.
+
+Discussion
+In order for a public official to recover in a defamation action involving his official conduct, malice must be proved. Without the showing of malice, the Supreme Court felt that a defamation action in this case would severely cripple the safeguards of freedom speech and expression that are guaranteed in the First Amendment of the Constitution and applicable to the States via the Fourteenth Amendment of the Constitution.
+

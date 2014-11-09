@@ -1,0 +1,21 @@
+Citation
+22 Ill.306 U.S. 208, 59 S. Ct. 467, 83 L. Ed. 610, 40 U.S.P.Q. 299 (1939)
+
+Brief Fact Summary
+Film distributors were convicted of conspiring together with two movie theater chains to artificially control admission prices in violation of the Sherman Anti-Trust Act (the Act).
+
+Synopsis of Rule of Law
+Evidence of agreement between conspirators need not be direct, but may be inferred from the acts taken by conspirators.
+
+Facts
+Two movie theater chains agreed to send letters to eight movie distributors proposing business contracts that included conditions respecting the theaters in which distributors would release their films. Each letter included the addresses of all eight distributors to which the letters were sent. All of the distributors agreed to the terms in the letters.
+
+Issue
+Can an agreement to enter into a conspiracy be inferred in the absence of direct evidence of agreement?
+
+Held
+Yes. Affirmed. In order to show a violation of the Act, the Government had to prove that the eight distributors conspired with each other to control film distribution in a particular area. There was only direct evidence that each distributor individually agreed with the two movie theaters, and not each other, on price controls. However, evidence of a conspiracy among the distributors could be inferred from the unanimity of the agreements with the theaters and the distributors’ knowledge that an absence of unanimity would result in potential profit-loss. They knew that the plan proposed by the theaters, if carried out, would result in an unlawful restraint of commerce that would benefit them financially.
+
+Discussion
+This case is important principally because it establishes that a conspiracy may be present even in the absence of evidence of an express agreement to enter into a conspiracy. The law may presume a tacit agreement to enter a conspiracy based merely on circumstantial evidence.
+

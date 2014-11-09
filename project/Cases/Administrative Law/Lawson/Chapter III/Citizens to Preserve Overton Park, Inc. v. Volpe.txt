@@ -1,0 +1,21 @@
+Citation
+401 U.S. 402, 91 S. Ct. 814, 28 L. Ed. 2d 136, 2 ERC 1250 (1971)
+
+Brief Fact Summary
+Two statutes enacted by Congress to curb destruction of the country’s natural resources prohibited the Secretary of Transportation (Secretary) from authorizing the use of federal funds to finance the construction of highways through public parks if there was a “feasible and prudent” alternative route. The Secretary approved route I-40 being built through Overton Park, and a group of citizens and conservation groups (Petitioners) contended that the Secretary violated the statutes.
+
+Synopsis of Rule of Law
+APA Section:706 required the court to decide: 1] whether the Secretary acted within the scope of his authority; 2] whether the choice made was “arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;” and 3] whether the Secretary’s action followed the necessary procedural requirements.
+
+Facts
+I-40, the proposed six-lane highway, was to cut through Overton Park, a 342-acre city park located near Memphis, Tennessee. The path of the road would sever the zoo from the rest of the park.  Petitioners contended that the Secretary’s announced approval of the road was invalid because he did not indicate why he believed there were no feasible and prudent alternative routes.  In District Court, the Respondents argued that the Secretary did not have to make formal findings, and introduced affidavits specifically prepared for litigation to support the Secretary’s decision.  The District Court and the Court of Appeals held that formal findings by the Secretary were not necessary, and refused to probe the mental processes of an administrative decisionmaker. Believing the Secretary’s authority wide and the reviewing courts’ narrow, they held that the affidavits contained no basis for a determination that the Secretary exceeded his authority.
+
+Issue
+Were formal findings required?  Was judicial review based solely on affidavits adequate?
+
+Held
+Remanded to the District Court for plenary review of the Secretary’s decision.   No, formal findings were not required under APA Section:706.  A finding based solely on affidavits prepared for trial was insufficient. The review on remand was to be based on the whole administrative record that was before the Secretary at the time he made his decision.    Dissent. None.  Concurrence. (Labeled “Separate Opinion”)   The Court of Appeals decision was wrong, but the case should go back to the Secretary of Transportation, rather than the District Court, to hold hearings on the topic before making a determination.
+
+Discussion
+This case pointed toward procedural requirements in informal adjudication that are not specified in the APA. The United States Supreme Court was less deferential to agency administrators than the lower courts.
+

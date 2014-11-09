@@ -1,0 +1,21 @@
+Citation
+445 U.S. 222 (1980)
+
+Brief Fact Summary
+An employee of a printing company, Chiarella, utilized private information the company printed for profit.
+
+Synopsis of Rule of Law
+Failure to disclose private information by those who are not corporate insiders will not be able to be held as liable under Rule 10b-5.
+
+Facts
+When working for a printing company printing financial documents, Chiarella utilizing items printed by the company, he grew knowledgeable about a looming takeover attempt.  Buying shares of the takeover target and selling them following the public statement. In accordance with an SEC investigation, Chiarellawas indicted for violations of § 10(b) of the Securities Exchange Act and Rule 10b-5. Chiarella was convicted which was affirmed on appeal. The Supreme Court granted certiorari.
+
+Issue
+Can failure to disclose private information by those who are not corporate insiders hold them as liable under Rule 10b-5?
+
+Held
+(Powell, J.) No. Failure to disclose private information by those who are not corporate insiders will not be able to be held as liable under Rule 10b-5. A party in a securities case that is charged with nondisclosure must be under a duty to disclose it. The securities laws lack anything to form of a general duty to disclose all pertinent information by sellers and purchasers, however, the law places upon fiduciaries and other insiders such a duty, without that duty being offered to non-insiders. The insider’s duty comes from their responsibility to not make private use of corporate information. Chiarella, in this instance, was not an insider and so had no such duty. Reversed.
+
+Discussion
+The current case was a criminal one. It has been recommended that it may not be applicable in a civil action, as the onus of proof isdissimilar. The opinion is lacking anything signaling the onus of proof is related to the court’s decision at all.
+

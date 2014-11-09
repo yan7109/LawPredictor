@@ -1,0 +1,21 @@
+Citation
+600 A.2d 43 (Del. Ch. 1991)
+
+Brief Fact Summary
+Plaintiffs Limited Partners of USACafes, L.P. (”Plaintiffs”) brought a class action suit against Defendants USACafes General Partner, Inc and six directors of the General Partner (”Defendants”) for breach of fiduciary duty. Plaintiffs claimed that the sale of Plaintiffs’ assets to an independent entity, under which Defendants received side payments, breached Defendants’ fiduciary duty to Plaintiffs because Defendants consequentially accepted a lower offer price for Plaintiffs’ assets.
+
+Synopsis of Rule of Law
+Directors of a corporate general partner owe a fiduciary duty to a limited partnership.
+
+Facts
+Plaintiffs brought a class actions suit on behalf of themselves and all other limited partnership unitholders (except for Defendants) alleging that Defendants breached a fiduciary duty owed Plaintiffs when Defendants sold Plaintiffs’ assets to an independent entity, Metsa Acquisition Corp (”Metsa”). Pursuant to the sale, Defendants were to receive certain “side payments,” totaling between $15-17 million, including so-called non-compete compensation and loan forgiveness. Plaintiffs argued that because of these side payments, Defendants failed to secure the best offer price from Metsa. In addition, Plaintiffs argued that even if Defendants had secured the best offer, a portion of the personal side payments should have been made directly to the Partnership.
+
+Issue
+Whether directors of a corporate general partner owe a fiduciary duty to a limited partnership?
+
+Held
+Yes, directors of a corporate general partner owe a fiduciary duty to a limited partnership. Although no Corporation law precedence holds that directors have such a duty, common sense requires imposing a fiduciary duty on a director of a corporate general partner of a limited partnership because of the fiduciary duties inherent in the role of a director who sits on the board of an entity that is itself a fiduciary. In fact, two courts have found the sole shareholder and director of a corporate general partner personally liable for breach of fiduciary duty. While these authorities extend the fiduciary duty of the general partner to a controlling shareholder, they support as well, the recognition of such duty in directors of the General Partner who, more directly than a controlling shareholder, are in control of the partnership’s property. Analogy to trust law clearly indicates that directors have a fiduciary duty to a limited partnership. The extent of this fiduciary duty need n
+
+Discussion
+This case is noteworthy for its reliance on trust, rather than corporation, law. The Court emphasizes that the trust theory underlying fiduciary duties is consistent with the recognition that a director of a corporate general partner bears a fiduciary duty towards the limited partnership. The Court points to instances in which directors or officers of a corporate trustee have been personally at fault for breach of a fiduciary duty to the beneficiary of the trust and have imposed personal liability on such individuals. Here the court posits a hypothetical situation in self-dealing, in which the board of a corporate general partner forms a new entity and then causes the general partner to sell the assets of the limited partnership to the new entity at an unfairly low price. This, the Court reasons, is a blatant breach of fiduciary duty by the directors. The Court summarizes its position through this hypothetical and states, “Can it be imagined that such persons have not brea
+

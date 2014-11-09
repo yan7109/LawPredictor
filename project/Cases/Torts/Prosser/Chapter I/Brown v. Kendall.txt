@@ -1,0 +1,18 @@
+Brief Fact Summary
+Two dogs began fighting and their owners attempted to separate them. In an effort to do so, Defendant beat the dogs with a stick and accidentally injured the Plaintiff in the process. Plaintiff brought suit against the Defendant for assault and battery.
+
+Synopsis of Rule of Law
+When a Defendant unintentionally injures another while undertaking a lawful act, the Plaintiff must prove that the Defendant acted without due care as adapted to the exigencies of the circumstances.
+
+Facts
+Defendant accidentally injured Plaintiff while trying to separate two fighting dogs. At trial for Plaintiff’s action for assault and battery, the Court instructed the jury that if beating the dogs with a stick was a necessary act, Defendant was required to prove that he used ordinary care. The trial court further instructed the jury that if beating the dogs with a stick was merely a permissible act, Defendant was required to prove that he acted with extraordinary care to avoid liability.
+
+Issue
+Was the Trial Court correct in instructing the jury that there is a distinction between necessary lawful actions and permissible lawful actions such as would require different levels of care for the undertaking of each?
+
+Held
+The Court reversed the verdict and ordered a new trial due to erroneous jury instructions. The requisite standard of care is the same for accidental injuries resulting from lawful actions, whether the actions are characterized as necessary or merely permissible.
+
+Discussion
+This case shows further evolution of the fault concept in tort law. Now, not only is lack of fault a defense to such a tort action, it is the Plaintiff’s burden to prove the Defendant has acted with fault.
+

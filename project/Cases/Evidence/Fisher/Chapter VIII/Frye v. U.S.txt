@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 307
+
+Brief Fact Summary
+Mr. Frye (Appellant) was convicted of second-degree murder, after the lower court disallowed Appellant from introducing testimonial evidence relating to the results of a deception test Appellant had taken following the crime.  Appellant appeals his conviction here.
+
+Synopsis of Rule of Law
+When a test (such as a systolic blood pressure deception test) has not gained scientific recognition from psychological and physiological authorities, expert testimony regarding the results of such a test is inadmissible.
+
+Facts
+Appellant was charged with and put on trial for murder.  At his trial, Appellant attempted to call an expert witness to testify that Appellant had taken a systolic blood pressure deception test, and to further testify as to the results of the test.  The expert testimony was held inadmissible by the lower court, Appellant was convicted of second-degree murder.
+
+Issue
+Was it error for the lower court to have excluded the expert testimony regarding the systolic blood pressure deception test at Appellant’s criminal trial?
+
+Held
+No; the test results Appellant attempted to introduce into evidence did not meet the requirement that such evidence be “sufficiently established to have gained general acceptance in the particular field in which it belongs,” and therefore the test results were properly excluded by the lower court.
+
+Discussion
+The court reasoned that although the deception test at issue here has a scientific basis, “[j]ust when a scientific principle or discovery crosses the line between the experimental and demonstrable stages is difficult to define . . . [and] the thing from which the deduction is made must be sufficiently established to have gained general acceptance in the particular field in which it belongs [to be admissible].” In other words, the court held that without an established place in science, the test was still in the blurred realm between experimental science and demonstrated science, and therefore inadmissible here.  In the court’s words, as the deception test was not “sufficiently established,” the testimony related to it is inadmissible, and the lower court was correct to have excluded it.
+

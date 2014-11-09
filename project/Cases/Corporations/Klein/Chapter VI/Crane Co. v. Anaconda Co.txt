@@ -1,0 +1,21 @@
+Citation
+39 N.Y.2d 14, 382 N.Y.S.2d 707, 346 N.E.2d 507 (1976)
+
+Brief Fact Summary
+Respondent, Crane Co., brought this action to compel Appellant, Anaconda Co., to release to Respondent a list of Appellant’s shareholders in an attempt to purchase more shares in Appellant company.
+
+Synopsis of Rule of Law
+A qualified shareholder is allowed, when in good faith, to inspect a corporation’s stock register in order to notify shareholders of exchange and solicitation offers for stock.
+
+Facts
+Respondent announced a plan to purchase up to five million shares of Appellant by exchanging $100 million in subordinated debentures.  Appellant managers did not approve of the exchange.  A consent order was issued as a result of litigation between the parties that limited Respondent to 5 million shares.  Respondent requested a list of shareholders from Appellant before they owned any shares and again after they owned over 2 million shares.  Both times Appellant refused.  Respondent’s second request was accompanied by an affidavit that it wanted to inspect its stock book only for the benefit of Appellant shareholders.  Appellant offered to include the Respondent prospectus in a mailing to shareholders.  Respondent, who now owned 11% of Respondent stock, petitioned to inspect Respondent stockholder information, claiming that their request conformed to Section 1315 of the Business Corporation Law because the inspection was for no other business than for the business of Appellant
+
+Issue
+The issue is whether Respondent should be able to inspect a corporation’s stock register in order to notify them directly of an exchange offer.
+
+Held
+The court held that it was in the shareholders’ best interests to allow Respondent to inspect the stock register in order to identify shareholders who they can then notify of relevant offers for their stock.  Section 1315 of the statute requires a written demand along with an affidavit that the inspection will be for a proper purpose, which Respondent did in this case (the proper purpose being the tender offer). Once Respondent met the statutory requirements, the burden is on Appellant to prove an improper purpose.  The Appellant did not meet their burden.
+
+Discussion
+The proper purpose is determined from a shareholder’s perspective rather than the corporation.  The ability to identify other shareholders is rooted in common law where the identification of other shareholders was important in understanding the factors that affected a business.
+

@@ -1,0 +1,21 @@
+Citation
+355 U.S. 41, 78 S. Ct. 99, 2 L. Ed. 2d 80, 1957 U.S. 1598
+
+Brief Fact Summary
+Petitioner African-Americans, Conley et al., sought a declaratory judgment, injunction and damages against Respondents, Gibson et al., for Respondents’ failure to adequately represent them as members of their union.
+
+Synopsis of Rule of Law
+Rule 8 of the Federal Rules of Civil Procedure requires complaint to contain only a short and plain statement of the claim rather than a long detailed set of facts.
+
+Facts
+Petitioners worked for the railroad and belonged to the Brotherhood of Railway and Steamship Clerks, Local Union No. 28.  Local 28 was Petitioners’ bargaining agent with the railroad.  The railroad abolished 45 jobs belonging to petitioners and replaced them with whites or brought back some Petitioners except at a demoted status.  The Respondent union did nothing to protect Petitioners.  When Petitioners brought this suit, Respondents argued that the National Railroad Adjustment Board had exclusive jurisdiction, that the railroad should be made a party and that Petitioners failed to state a claim.  The District court dismissed the case because the Adjustment Board had jurisdiction, and the Appellate court affirmed.
+
+Issue
+The issue is whether Petitioners failed to state a claim upon which relief could be granted.
+
+Held
+The United States Supreme Court dismissed all three of Respondents arguments.  Specifically, the Court held that Petitioner’s complaint satisfied Rule 8 of the Federal Rules of Civil Procedure.  Their complaint contained a short and plain statement of the claim.  The complaint sufficiently stated circumstances in which there was a harm done and wherein there was a judicial remedy.  Petitioners did not have to list a set of detailed facts supporting their complaint.
+
+Discussion
+The courts intentionally take a liberal approach to pleading requirements since it occurs before discovery and pre-trial proceedings.  At this early stage it makes no sense to require a party to already prove their case to the degree that would be required later in the process.
+

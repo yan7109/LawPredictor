@@ -1,0 +1,24 @@
+Citation
+22 Ill.801 F.2d 1001 (7th Cir. 1986)
+
+Brief Fact Summary
+This case involves an exclusive distribution contract, which was cancelled when a competitor acquired the distributor.
+
+Synopsis of Rule of Law
+A contract may not be assigned to a direct competitor, or to a wholly-owned subsidiary thereof, without the obligee’s consent.
+
+Facts
+On August 2, 1979, Best Barber & Beauty Supply Company, Inc. (”Best Barber”) entered into a contract with the Defendant, Nexxus Products Company (Defendant), under which Best Barber was appointed the exclusive distributor of Nexxus hair care products to hair stylists throughout Texas. The agreement contained a provision stating that termination of the distribution relationship could only occur on the anniversary date of the appointment of distributor and only with 120 days notice. In July 1981, the Plaintiff, Sally Beauty (Plaintiff), acquired Best Barber in a stock purchase transaction. Under this transaction, the Plaintiff was to succeed to all of Best Barber’s contractual rights and interests. However, the Plaintiff was a wholly-owned subsidiary of Alberto-Culver, a direct competitor of the Defendant’s. Defendant, therefore, terminated the distribution agreement. The trial court found that the distribution was not assignable because it was a personal services agreement.
+
+Issue
+Is a contract assignable to direct competitor or a wholly-owned subsidiary of a competitor?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+The Defendant may have had reasonable grounds for insecurity when a direct competitor acquires its distributor. However, its remedy was not to cancel the contract. Instead, under the Uniform Commercial Code (UCC), the Defendant should have asked for assurances of due performance.
+
+Discussion
+The court reasoned that this contract was primarily for the sale of goods and therefore the UCC applied. While the UCC does permit delegation of contractual duties, it recognizes that there are times when “an obligor will find it convenient or even necessary to relieve himself of the duty of performance under a contract.” The UCC also requires that best efforts will be used to promote the sale of goods. The court examined the only Texas case on point, McKinnie v. Milford, 597 S.W. 2d. 953 (Tex. Civ. App. 1980), where the court found that the UCC bars delegation of duties when performance of such duties would be a “substantially different thing” than what was bargained for. In the instant case, because a direct competitor of the Plaintiff had acquired Best Barber, the court concluded that performance of the duties by the Defendant would be a substantially different thing than what was bargained for. The Defendant would not be able to rely on the Plaintiff to use its best e
+

@@ -1,0 +1,21 @@
+Citation
+185 F.3d 1364 (Fed. Cir. 1999)
+
+Brief Fact Summary
+Juicy (Plaintiff) sued Orange (Defendant), alleging it was infringing on its beverage-dispensing patent.  Plaintiff alleged the dispenser was not patentable because it lacked utility.
+
+Synopsis of Rule of Law
+The statutory requirement of utility is satisfied if one product can be altered to make it look like another because that in and of itself is a benefit.  An invention does not lack utility for patent purposes simply because it can fool the public, through imitation, in a manner that is designed to increase product sales.
+
+Facts
+Plaintiff has a patent for a post-mix beverage dispenser that is designed to look like a pre-mix beverage dispenser.  A post-mix dispenser stores beverage syrup concentrate and water in separate locations until the beverage is ready to be dispensed.  A pre-mix beverage dispenser, on the other hand, pre-mixes the syrup concentrate and water and the beverage is stored in a display reservoir bowl until it is ready to be dispensed.  A pre-mix dispenser's display bowl stimulates impulse buying, but it also creates the need to clean the bowl frequently because of bacterial build-up.  The patented dispenser has the appearance of a pre-mix dispenser but works as a post-mix dispenser avoiding the need for required maintenance.  Plaintiff sued Defendant claiming it was infringing on the patent.  The district court granted Defendant's motion for summary judgment and held the patent invalid for lack of utility.
+
+Issue
+Does the post-mix dispenser that looks like a pre-mix dispenser lack utility?
+
+Held
+(Bryson, J.)  No.  The post-mix dispenser does not lack utility.  The Patent Act provides that whoever invents any useful machine may obtain a patent for it.  An invention is useful if it provides a benefit that can be identified.  Although inventions that injure the well-being of society are considered unpatentable, the principle that inventions are invalid if they are mainly designed to serve immoral purposes has not recently been applied broadly.  The district court's reliance on the cases of Rickard v. Du Bon, 103 F. 868 (2d Cir. 1900), and Scott & Williams v. Aristo Hosiery Co., 7 F.2d 1003 (2d Cir. 1925), is misplaced as they do not represent the correct view of the doctrine of utility under the Patent Act of 1952.  The statutory requirement of utility is satisfied if one product can be altered to make it look like another, because that in and of itself is a benefit.  It is common for a product to be designed to appear to viewers to be something that it is not and there are many patents directed at making one product imitate another.  The value of such products is that they appear to be something that they are not.  In this case, the post-mix dispenser has utility because it embodies the features of a post-mix dispenser while imitating the visual appearance of a pre-mix dispenser.  Just because customers may believe that they are receiving fluid directly from the display tank does not mean the invention has no utility.  Even if it was considered deceptive, that does not mean it is not eligible for patent.  Other agencies, and not the Patent and Trademark Office, are delegated the task of protecting customers from fraud and deception in the sale of food products.  Furthermore, it is up to Congress to declare that particular types of inventions are not eligible for patent.  Reversed and remanded.
+
+Discussion
+This case centered on the reasoning that the invention was useful in and of itself because it was able to create more sales by fooling the public into believing that it was getting a certain product when it was really getting a different product.  The real utility of the product was that it was increasing sales by providing customers with the appearance of the product but eliminating the work of cleaning and maintaining the product which would have been involved in creating the actual product.
+

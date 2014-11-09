@@ -1,0 +1,15 @@
+Citation
+435 U.S. 519, 98 S. Ct. 1197, 55 L. Ed. 2d 460, 11 ERC 1439 (1978)
+
+Brief Fact Summary
+Chemical Waste Management and Waste Management of North America (Petitioners) sought review of the Environmental Protection Agency (EPA) regulations that establish informal procedures for administrative hearings concerning the issuance of corrective action orders under Section:3008(h) of the Resource Conservation and Recovery Act (RCRA), as modified by Section:6928(h) of the Hazardous and Solid Waste Amendments of 1984.<span class="heading">Synopsis of Rule of Law.</span> The Court employed the analysis set forth by the Supreme Court of the United States in Chevron for judicial review of an agency’s interpretation of a statute under its administration. First, ask whether Congress has directly spoken to the issue, and, if so, “give effect to the unambiguously expressed intent of Congress. If the statute is silent or ambiguous, then ask “whether the agency’s answer is based on a permissible construction of the statute,” and, if so, defer to the agency’s interpretation.
+
+Facts
+In the Hazardous and Solid Waste Amendments of 1984, Congress issued a new Section:3008(h) authorizing the Administrator of the EPA to issue an order requiring corrective action whenever he determined there had been a release of hazardous material into the environment. Section:3008(b) was also modified to make it clear that those subject to corrective action orders would have a right to a “public hearing.” The EPA promulgated procedural regulations to govern the Section:3008(h) hearings, which provided that the formal adjudicatory procedures of Part 22 would only be applicable to challenges to corrective action orders that included a suspension or revocation of interim status or an assessment of civil penalties for noncompliance. If the order was merely to investigate or to do so with interim corrective measures, then the agency was to use the informal adjudicatory procedures set forth under Part 24. The Petitioners argued that the informal procedures of Part 24 were inconsistent with the intent of Congress in enacting and amending Section:3008, and that formal hearings were required.<span class="heading">Issue.</span> Was the agency required to conduct formal hearings under Section:3008(h)?
+
+Held
+No. The Petition for review was denied. The regulations represented a reasonable interpretation of an ambiguous statutory provision and were not, on their face, inconsistent with the requirement of due process.  Dissent. None.  Concurrence. None.
+
+Discussion
+In accordance with Chevron, the court will evaluate the reasonableness of the agency’s interpretation using the normal tools of statutory interpretation- such as legislative history, structural inferences, or exceptional circumstances.     The agency provided a reasonable explanation for its choice of informal procedures in Part 24, based on the number and nature of factual issues expected in a typical Section:3008(h) proceeding.
+

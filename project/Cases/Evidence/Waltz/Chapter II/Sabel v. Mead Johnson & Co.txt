@@ -1,0 +1,21 @@
+Citation
+737 F. Supp. 135, 1990 U.S.
+
+Brief Fact Summary
+The plaintiff, Sabel (”plaintiff”), sued the defendant, Mead Johnson & Co. pharmaceutical company (”defendant”), after the antidepressant drug Desyrel allegedly caused a priapism, requiring surgery and leaving him impotent.
+
+Synopsis of Rule of Law
+Special care must be taken in applying exceptions to the hearsay rule, especially when the risk of unfair prejudice substantially outweighs the relevance of the evidence.  Moreover, in situations where an agency exception is to be used, a careful analysis of the alleged relationship between the parties must be performed.
+
+Facts
+The defendant corporation manufactured the antidepressant drug, Desyrel. After ingesting the drug, plaintiff experienced a priapism, a long, painful erection.  This required surgery, and plaintiff was made impotent as a result of the surgery.  He sued the pharmaceutical company as a result, and the instant proceedings involve three pieces of evidence in dispute.
+
+Issue
+Whether the tape of a meeting sponsored by the defendant was admissible?
+
+Held
+No.  With the exception of statements made by full time employees of the defendant, statements on the tape constituted inadmissible hearsay.
+
+Discussion
+The plaintiff sought to have the information in the tape admitted under the statement against interest exception to hearsay, F.R.E. Rule 801(d)(2). This was not appropriate, however, because the record was inadequate in terms of establishing an agency relationship between the defendant and the outside invitees.  Nor was it appropriate to admit the tape for non hearsay purposes, as the risk of unfair prejudice substantially outweighed the possible relevance, pursuant to F.R.E. Rule 403.
+

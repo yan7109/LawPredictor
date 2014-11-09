@@ -1,0 +1,21 @@
+Citation
+538 U.S. 468 (2003)
+
+Brief Fact Summary
+The contention between Dead Sea Bromine Co, and  Bromine Compounds Ltd (jointly, the Dead Sea Companies (D)) and others (Dole petitioners) (D) in a state-court tort action was that as subsidiaries of an instrumentality of Israel, they had the right to remove the case to federal district court under the Foreign Sovereign Immunities Act of 1976 (FSIA).
+
+Synopsis of Rule of Law
+(1) If a corporation is to be deemed an instrumentality of the states, the FSIA specifies that such a state must own majority shares of such corporation.
+
+Facts
+The allegation of injury from chemical exposure was the basis of the farm workers (P) state-court action against Dole Food Company and others (Dole petitioners). The Dead Sea Bromine Co. and Bromine Compounds Ltd (collectively the Dead Sea Companies (D)), were impleaded by the Dole petitioners. The claim by the defendants that they were instrumentalities of a foreign state (Israel) as defined by the FSIA was rejected by the court of appeals.
+
+Issue
+(1) If a corporation is to be deemed an instrumentality of the states, does the FSIA specifies that such a state must own majority shares of such corporation?
+
+Held
+(Kennedy, J) (1) Yes. If a corporation is to be deemed an instrumentality of the state, the FSIA specifies that such a state must own majority shares of such corporation. The 28 U.S.C. S1441 (d) governs the removal of actions against foreign states. Foreign state is defined by section 1603(a) to include its “instrumentality”, which in turn is defined in part as any entity “which is a …. Corporat(ion)” whose shares are majority-owned by the foreign state, and that is not U.S citizen or created under the laws of a third country.
+
+Discussion
+The Court was guided in this case by corporate principles. The court was able to determine that the fact that Israel exercised considerable control over the companies would not have changed the Court’s decision, since control and ownership are two vital concepts but it is majority ownership by a foreign state that is the benchmark of instrumentality status and not control.
+

@@ -1,0 +1,21 @@
+Citation
+181 F.3d 435, 1999 U.S. App.
+
+Brief Fact Summary
+The Plaintiff, Bel-Ray Company (Plaintiff), sued the Defendants, Lubritene, which is Chemrite (Pty) Ltd.’s (Chemrite) successor in interest (Defendant), to compel arbitration, and Lubritene claimed that the assignment from Chemrite to Lubritene was invalid.
+
+Synopsis of Rule of Law
+Unless a contract specifically limits the power to assign, i.e. by containing language to the effect that assignments shall be void or invalid, the breach of a contractual provision prohibiting assignments merely permits a recovery of damages, but does not render the assignment ineffective.
+
+Facts
+The Plaintiff entered into a series of contracts with Chemrite for the blending and distribution of the Plaintiff’s products in South Africa. Thereafter, Lubritene acquired Chemrite’s lubricant business including its rights under the contracts with the Plaintiff. The Plaintiff subsequently brought suit against Lubritene, charging, among other things, violations of the agreements. The Plaintiff sought an order compelling arbitration as required by the agreements. Lubritene countered that the agreements were not properly assigned because the assignment clauses in the agreements required the written consent of the Plaintiff before assignment.
+
+Issue
+Are the assignments at issue valid even though the Defendants did not execute them in strict compliance with the contracts?
+
+Held
+Yes. A contract provision prohibiting assignment of rights under the contract gives the obligor the right to damages for breach of the terms forbidding assignment, but does not render the assignment ineffective. However, where the contractual provision limits the power to assign, the assignment is invalid. The power to assign is only limited where the intention to do so is express, usually with language such as “all assignments are void and invalid.” Here, none of the assignments at issue contain terms stating that assignments without the Plaintiff’s written consent are void or invalid. Therefore, Chemrite’s assignment to Lubritene was enforceable and Lubritene must arbitrate the claims.
+
+Discussion
+Prohibition of assignment clauses only limit the right to assign unless it is explicitly stated that the power to assign is limited.
+

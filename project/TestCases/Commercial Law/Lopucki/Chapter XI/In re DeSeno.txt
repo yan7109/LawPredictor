@@ -1,0 +1,21 @@
+Citation
+17 F.3d 642, 1994 U.S. App. 2474,  Bankr. L. Rep. (CCH) P75,724; 30 Collier Bankr. Cas. 2d (MB) 1326
+
+Brief Fact Summary
+Midatlantic National Bank, (Appellee), holds a first purchase money mortgage, executed by Jean R. DeSeno and her ex-husband Stefano T. DeSeno on a property owned by Ms. DeSeno, (Appellant). Appellee obtained a foreclosure judgment in the Superior Court of New Jersey but Appellant filed for Chapter 11 Bankruptcy prior to the sale of the property. Appellee successfully moved for relief from the stay.
+
+Synopsis of Rule of Law
+A foreclosure judgment on a New Jersey Home mortgage terminates a debtor’s right to cure a default on that mortgage. Under Section:1123(a)(5)(E), “any lien” includes a security interest held by a New Jersey home mortgage lender in the property following the entry of a foreclosure judgment.
+
+Facts
+Appellee obtained a foreclosure judgment in the Superior Court of New Jersey on a mortgage executed by Appellant and her husband. The Superior Court of New Jersey issued a writ of execution directing the sheriff to sell the property to satisfy the judgment. Prior to the sale Appellant filed for Chapter 11 Bankruptcy. Appellee moved for relief from the stay. The bankruptcy court denied Appellee’s motion. Appellee successfully appealed to the district court. Appellant then filed this appeal.
+
+Issue
+Whether Appellant has a right to cure the default on her mortgage. Whether Section:1123(a) gives the debtor the authority to modify a foreclosure judgment created under New Jersey Law.
+
+Held
+No. Appellant’s right to cure her default on the mortgage terminated upon the entry of the foreclosure judgment. Yes. Appellant may modify the foreclosure judgment in her Chapter 11 plan under Section:1123(a)(5)(E).
+
+Discussion
+The right to cure a default on a mortgage on a home located in New Jersey terminates upon entry of a foreclosure judgment. Section:1322(b)(5) authorizes the curing of a default only in a contractual relationship, which under New Jersey law ceases to exist following a foreclosure judgment. Appellant may modify the foreclosure judgment in her Chapter 11 plan under Section:1123(a)(5)(E). A New Jersey home mortgage lender retains a security interest following the entry of a foreclosure judgment. Under Section:1123(a)(5)(E), “any lien” includes security interests.
+

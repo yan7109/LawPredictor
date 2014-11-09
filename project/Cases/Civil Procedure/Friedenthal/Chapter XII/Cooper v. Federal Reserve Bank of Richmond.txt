@@ -1,0 +1,21 @@
+Citation
+22 Ill.467 U.S. 867, 104 S. Ct. 2794, 81 L. Ed. 2d 718, 35 FEP Cases 1 (1984)
+
+Brief Fact Summary
+A class action was filed in federal court that certified a class described as all black employees of Defendant employed since January 3, 1974, that were discriminated against because of their race. The court ultimately found that Defendant did not have policies or practices of race discrimination, although it did find some intervenors to have potentially actionable race discrimination claims. When the intervenors brought individual suits, the Court of Appeals reversed the District Court’s denial of Defendant’s motion to dismiss, on the grounds that res judicata precluded the individual lawsuits.
+
+Synopsis of Rule of Law
+A District Court’s finding against individual class members regarding a claim that requires establishment of class-wide discrimination does not preclude an individual case based on race discrimination.
+
+Facts
+A federal court certified a class described as all black employees of Federal Reserve Bank of Richmond, Defendant employed since January 3, 1974, that were discriminated against because of their race. The District Court found that Defendant engaged in policies and practices of failing to pay black employees the same pay grade as white employees in Grades 4-5. In addition, the District Court found that Defendant did not engage in policies and practices of race discrimination as to other aspects alleged such as to warrant relief. Finally, the District Court found against some intervenors, but not the group of plaintiffs known as the “Baxter petitioners.”
+
+Issue
+Did the District Court’s order pertaining to its finding of Defendant’s lack of policies and practices of race discrimination such as to warrant relief preclude the Baxter petitioners’ individual lawsuits?
+
+Held
+No. Reversed and remanded.
+
+Discussion
+This case distinguishes two different kinds of employment discrimination cases: individual vs. “pattern and practice.” “Pattern and practice” requires evidence of company-wide policies and practices that demonstrate race discrimination. Because the burden of proving these elements requires establishing more than a few individual claims, a finding of “no pattern and practice” does not resolve an issue of whether there are individual actionable instances of race discrimination. Thus, it cannot have preclusive effect over an individual claim of race discriminat
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.130 S. Ct. 3324
+
+Brief Fact Summary
+Georgia created a redistricting plan based on racial considerations.
+
+Synopsis of Rule of Law
+Racially motivated redistricting plans must be supported by a compelling state interest.
+
+Facts
+Georgia’s General Assembly was empowered with an additional congressional seat and therefore, redrew the state’s congressional districts. The Eleventh District, included within the redistricting, was redrawn according to racial considerations in order to produce three majority-black districts. The District Court held the redrawing to be unconstitutional.
+
+Issue
+Whether the constitutionality of Georgia’s racial gerrymandering requires the strict scrutiny standard of review.
+
+Held
+Justice Anthony (J. Kennedy). Yes. “Just as the state may not, absent extraordinary justification, segregate citizens on the basis of race in its public parks, buses, golf courses, beaches and schools,” [a state may not] separate its citizens into different voting districts on the basis of race.” Even though the Eleventh District’s redistricting plan was not any more “irregular” or “bizarre” in its shape than other districts within the state, the racial redistricting plan is invalid for failing to past strict scrutiny standards. Georgia failed to put forth a compelling reason for the racial redistricting plan, such as addressing the harms of past discrimination. The state’s reason for creating such a plan was to satisfy rules issued by the Justice Department. The judgment of the District Court is affirmed, and the case is remanded for further proceedings consistent with this decision.
+
+Dissent
+The dissenting opinions are as follows:
+
+Discussion
+Challenges to racial gerrymandering need only show that racial considerations were “predominate factor[s]” in the creation of the district lines.
+

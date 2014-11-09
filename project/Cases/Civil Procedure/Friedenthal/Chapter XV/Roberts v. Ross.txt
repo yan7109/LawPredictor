@@ -1,0 +1,21 @@
+Citation
+22 Ill.344 F.2d 747 (3d Cir. 1965)
+
+Brief Fact Summary
+The Plaintiff, Roberts (Plaintiff), appeals a decision from the lower court dismissing his claim against the Defendant, Ross (Defendant). The claim was for money owed to Plaintiff by way of an agreement, which allegedly stated Plaintiff would receive a commission for finding a buyer of Defendant’s property in St. Thomas.
+
+Synopsis of Rule of Law
+Rule 52(a) of the Federal Rules of Civil Procedure (FRCP) requires the trier of facts to find the facts specially and state his conclusions of law thereon with clarity. The findings of fact and conclusions of law must be sufficient to indicate the bases of the trial judge’s decision.
+
+Facts
+Plaintiff brought an action against Defendant to recover $3,087.50 that was allegedly owed to the Plaintiff for services rendered in finding a buyer for a house Defendant built in St. Thomas. Defendant denied making any such promised payment and filed an amended answer in which he claimed the Statute of Frauds (SOF) defense. The trial judge entered an order stating that he had found for the Defendant on the issues and directed counsel for Defendant to file within 10 days the proposed findings of fact, conclusions of law and draft of a judgment. Counsel for the Plaintiff was given leave within 10 days to file objections, which he did. The judge then signed the Defendant’s findings of fact, conclusions of law and judgment prepared without change. It was concluded that as a matter of law the Plaintiff had failed to prove by a preponderance of the evidence that the sale of the property was procured through agency of the Defendant. And the promise not being in writing was within th
+
+Issue
+Whether a trial judge’s order, unaccompanied by any opinion which would ordinarily summarize the facts and legal conclusions that influenced his decision, would be acceptable as a final order.
+
+Held
+No. The trial judge’s conclusion is so inadequate as to afford this court an indication of the legal standard under which the evidence was considered. It has been the general practice of the district judges of the Third Circuit in the past under FRCP Rule 52(a) to formulate their findings of fact and conclusions of law in the course of, and as part of their decision-making process and to articulate and file them at the time of announcing their decision, either in an opinion if filed at that time or in a separate document. We strongly approve this practice and direct it to be followed by the courts below.
+
+Discussion
+The purpose of FRCP Rule 52(a) is to require the trial judge to formulate and articulate his findings of fact and conclusions of law in the course of his consideration and determination of the case and as a part of his decision making process. The rationale is so that he himself may be satisfied that he has dealt fully and properly with all the issues in the case before he decides it and so the parties involved and this court on appeal may be fully informed ss to the bases of his decision when it is made. Findings and conclusions prepared ex post facto by counsel, even though signed by the judge, do not adequately serve the purpose of the rule.
+

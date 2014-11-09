@@ -1,0 +1,21 @@
+Citation
+167 Ohio St. 221, 147 N.E.2d 599, 1958 Ohio 472, 4 Ohio Op. 2d 279
+
+Brief Fact Summary
+After a motorcycle accident, the owner of the motorcycle successfully sued the city in which the accident occurred for negligence in not repairing the road. The owner’s husband later brought a suit alleging personal injuries suffered by him in the same accident.
+
+Synopsis of Rule of Law
+Where a person suffers both personal injuries and property damage as a result of the same wrongful act, only a single cause of action arises because the different injuries are really separate items of damage from the single act.
+
+Facts
+The Plaintiff, Lenore Rush (Plaintiff), was riding on a motorcycle with her husband on a public roadway through the Defendant, the City of Maple Heights (Defendant). Plaintiff was thrown off their motorcycle and hit a pothole. Plaintiff, the owner of the cycle, sued the Defendant for damages to the machine in the amount of $1,000. Plaintiff prevailed in the municipal court finding that the Defendant was negligent in not repairing the road and that the negligence was the proximate cause of the accident. That judgment was affirmed by the Ohio Court of Appeals and the Ohio Supreme Court. Plaintiff then sued Defendant for disabling spinal injuries suffered in the same accident seeking damages of $1.5 million. Plaintiff sought to invoke preclusion on the issue of City’s negligence and the trial court agreed. The jury awarded Plaintiff $12,000. The Court of Appeals affirmed that judgment.
+
+Issue
+Whether a court should allow two separate causes of action, one of damages to person, the other for damages to property, stemming out of a single accident.
+
+Held
+No. The Judgment of the Court of Appeals was reversed. Where a person suffers both personal injuries and property damage as a result of the same wrongful act, only a single cause of action arises because the different injuries are really separate items of damage from the single act.
+
+Discussion
+This case expresses the general notion in civil procedure that a plaintiff who brings a case, or a defendant who defends one, should not be able to try again in a later suit if he is not satisfied with the result in the first suit. However, as this case also demonstrated, not every court agrees that a plaintiff’s claims for personal injuries and property damage arising out of the same accident are part of the same claim. The court in this case adopted this majority view, refusing to allow Plaintiff to sue for personal injuries in one action, and property damage in the later action.
+

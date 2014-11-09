@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 490
+
+Brief Fact Summary
+The defendant, Barrett (the “defendant”), was identified as having participated in the theft and subsequent sale of a stamp collection from the Cardinal Spellman museum.  The defendant appeals his conviction on the grounds that a number of pieces of evidence were improperly admitted.
+
+Synopsis of Rule of Law
+Evidence of prior criminal acts may not be admitted to show propensity to commit a crime, but it may be admitted, provided its probative value outweighs the risk of unfair prejudice, for other purposes, such as knowledge, motive or intent.
+
+Facts
+The defendant was implicated in the subsequent sale of a stamp collection stolen from the Cardinal Spellman museum.  It was suggested that he had been the one to disarm the alarm, and that it had taken fairly sophisticated knowledge of alarm systems. At trial, the defendant sought to exclude testimony by an alleged co-conspirator that he had participated in the burglary, as he was only charged with the subsequent sale of the goods.  He also sought to introduce evidence of various exculpatory conversations between other alleged co-conspirators.
+
+Issue
+Whether the testimony of Adams was properly admitted?
+
+Held
+Yes.  The testimony was not offered to show propensity, but rather to show identity and knowledge.  Nor did the danger of unfair prejudice outweigh the probative value of the evidence.
+
+Discussion
+F.R.E. Rule 804(b)(3) presents a fact intensive inquiry at trial.  Not only must a statement by determined to be against the interest of the declarant, but there must also be corroborating circumstances that go to the trustworthiness of the statement.  This is in keeping with the general concept of hearsay, in that all exceptions stem from a unique tendency for the hearsay evidence in question to be more trustworthy than hearsay testimony in general.
+

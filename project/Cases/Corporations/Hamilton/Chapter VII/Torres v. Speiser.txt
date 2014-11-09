@@ -1,0 +1,15 @@
+Citation
+2000 N.Y. App. Div.
+
+Brief Fact Summary
+Plaintiff Ruben Torres entered into a business agreement with Defendant Debra J. Speiser and sold his minority share of stock in their corporation for less than par value.<span class="heading">Synopsis of Rule of Law.</span> Section 504 of the Business Corporation Law does not apply to the re-sale of stock between shareholders.
+
+Facts
+Defendant promised to assist Plaintiff in his creation of a check-cashing business.  Plaintiff would also manage the corporation that controlled this business.  Plaintiff sold his stock for below par value and the business agreement was unclear as to the terms of this stock transfer.<span class="heading">Issue.</span> Whether a shareholder is protected under the Act when he agrees to re-transfer his stock?
+
+Held
+No.  The Act only ensures that the stock value will beat par value when it is first issued or it is paid for at full purchase price; it does not protect the stockholder when the stock is re-transferred.  Summary judgment could not be given since there was an issue of fact as to if there was partial performance of the business agreement.
+
+Discussion
+The Act is specific as to when the sale of stock by stockholders will be protected.  It is only when the stock is first issued that it cannot be sold below par value.  But the Act does not protect the transactions between stockholders such as the re-issuing of stock.
+

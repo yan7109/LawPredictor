@@ -1,0 +1,21 @@
+Citation
+414 U.S. 1027
+
+Brief Fact Summary
+A young boy was shot in the back of the head during an excursion to find whiskey.  His father asked the boy who shot him, and he named the defendant before dying.
+
+Synopsis of Rule of Law
+The admissibility of evidence is a question of law for the judge to decide, and once a statement has been admitted as a dying declaration, it is not for the jury to pass again on an issue central to the admission of the evidence in the first instance
+
+Facts
+While the deceased and a small party of other men were out looking for whiskey for one of the men, they were scared away from an area by what sounded like a gunshot. Two men who had left the vehicle, got back in and they began to drive away. Clifford Long (”Mr. Long”) was then wounded in the back of the head with a twenty two caliber rifle (the “rifle”).  About twenty five minutes after he was shot, his father asked Mr. Long who had hurt him.  Mr. Long replied that Carl Soles (”Mr. Soles”) had shot him with the rifle.  The defense objected to this statement at trial, but the objection was overruled. The defense also asked that a limiting instruction be given to the jury indicating that, should they not believe that the statement in question was made under fear of impending death, they should discount it during deliberation. The judge refused to give the instruction.
+
+Issue
+Whether a limiting instruction as suggested by the defense should have been given to the jury regarding the statement made by Mr. Long before he died?
+
+Held
+No.  The admissibility of evidence is a question of law for the judge to decide, and once a statement has been admitted as a dying declaration, it is not for the jury to pass again on an issue central to the admission of the evidence in the first instance.
+
+Discussion
+Once the judge has passed on the admissibility of evidence, the jury is free to give that evidence whatever weight they see fit.  A limiting instruction which gives the jury the option of second guessing the judge as to admissibility, misconceives this essential delineation between the court, which decides questions of law, and the trier of fact, which decides questions of fact. A jury is never to be charged with deciding issues of law, as it is ill qualified to do so.
+

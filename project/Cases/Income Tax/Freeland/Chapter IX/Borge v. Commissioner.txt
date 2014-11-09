@@ -1,0 +1,21 @@
+Citation
+405 F.2d 673, 1968 U.S. App. 69-1 U.S. Tax Cas. (CCH) P9131; 23 A.F.T.R.2d (RIA) 320
+
+Brief Fact Summary
+Petitioner was an entertainer and owned a poultry business.  He transferred the poultry business to a corporation he wholly owned.  He and the corporation agreed to an arrangement wherein his entertainment income could offset losses of the corporation.
+
+Synopsis of Rule of Law
+Gross income may be apportioned among organizations, trades or businesses if necessary to reflect income or prevent tax evasion if they are owned or controlled by the same interests.
+
+Facts
+Victor Borge, Petitioner, was a well-known entertainer in the poultry business, and he owned ViBo Farms.  He had losses each year that were deducted against income he earned as an entertainer.  Petitioner organized a corporation called Danica and transferred ViBo Farms’ assets to Danica.  Danica could not meet the losses, and Danica and Petitioner entered into a contract where Petitioner performed entertainment and promotional services for Danica for $50,000 per year.  Danica offset the losses against the entertainment profits from Petitioner’s performances.  Petitioner was only paid for his services one year.  The Commissioner allocated a portion of Danica’s income to Petitioner for the services he performed.  The Tax Court upheld the Commissioner and Petitioner appealed.
+
+Issue
+Did the Commissioner correctly attribute a portion of Danica’s income to Petitioner?
+
+Held
+Circuit Judge Hays issued the opinion for the United States Second Court of Appeals in upholding the Commissioner’s ruling that Petitioner controlled Danica.
+
+Discussion
+Petitioner wholly owned Danica and the purpose of the arrangement between the two was to allow Danica to offset losses by using Petitioners income.  The Court of Appeals found that the Commissioner had substantial evidence to support his ruling that in order to properly account for taxes a portion of that income should have been attributed to Petitioner, since he earned it.
+

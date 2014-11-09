@@ -1,0 +1,21 @@
+Citation
+604 P.2d 1090 (Alaska 1979)
+
+Brief Fact Summary
+The Superior Court of the State of Alaska, Fourth Judicial District found the Appellants, Alyeska Pipeline Service Co. (Aleyska), Clyde F. Klick, and Leslie Warren Bays (Appellants) liable in tort for intentionally interfering in the contractual relationship of the Appellee, Aurora Air Services (Appellee), with a third party and inducing a breach of contract without acting in good faith. The Appellant and individuals challenged the decision.
+
+Synopsis of Rule of Law
+A party to a contract has a cause of action against a third party who has intentionally procured the breach of that contract by the other party without justification or privilege.
+
+Facts
+Alyeska contracted with RCA to provide a communications system in connection with a pipeline in which the company was involved. RCA in turn contracted with the Appellee for use of an aircraft, pilot and parts and services to be used along the pipeline. Alyeska then had a dispute with the Appellee and the former exercised an option to take over the flight operation, thus, constructively terminating the Appellee’s contract. The Appellee sued, claiming Alyeska induced breach of contract. Alyeska moved for summary judgment, which the trial court denied. The court held that although Alyeska could terminate its contract with RCA – indirectly terminating the Appellee’s contract – it could not do so in bad faith. A jury found for the Appellee and Alyeska appealed.
+
+Issue
+Did Alyeska terminate the contract at issue in bad faith and thus interfere with the Appellee’s right to contract through inducing breach?
+
+Held
+Yes. The court held that even though a contract was terminable at will, a claim of unjustifiable interference can still be made.
+
+Discussion
+The court in Alyeska deals with a relatively recent development in tort law, a general protection against interference of contract. Analogous to where trespass and negligence within the scope of tort law intersect with various aspects of property law, this is an area of intersection between tort and contract. As the court explained, “even though a contract is terminable at will, a claim of unjustifiable interference can still be made, for the wrong for which the courts may give redress includes also the procurement of the termination of a contract which otherwise would have been continued in effect.” The court, interestingly, points out, “One is privileged to invade the contractual interest of himself, others, or the public, if the interest advanced by him is superior in social importance to the interest invaded.” There are limits, however, and the factual question of the underlying motivation for such interference comes into play: “However,” the court cautions, “if one d
+

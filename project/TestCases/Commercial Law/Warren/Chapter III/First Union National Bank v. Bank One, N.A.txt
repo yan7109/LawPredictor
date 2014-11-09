@@ -1,0 +1,21 @@
+Citation
+2002 U.S. Dist. 5670, 47 U.C.C. Rep. Serv. 2d (Callaghan) 645
+
+Brief Fact Summary
+A check was under-encoded and presented to an intermediary bank for collection.  The payor bank, upon discovering the under-encoded amount, remitted the correct amount to the intermediary bank.  The intermediary bank refused to remit payment to the depository bank on the claim that “final payment” was made for the under-encoded amount.
+
+Synopsis of Rule of Law
+Under UCC Section: 4-215(d) if a collecting bank receives settlement for an item that is final, the bank is accountable to its customer for the amount of the item and any provisional credit given to its customer becomes final.
+
+Facts
+Plaintiff, First Union National Bank (the “plaintiff”), the depository bank, under-encoded a check for the amount of $0.00.  The check had a face amount of $507,598.30.  The plaintiff then presented the check to Mellon, an intermediary bank, for collection.  Mellon then presented the check to Bank One, the payor bank, for payment.  Initially, Bank One settled the check for its encoded amount of $0.00, however, Bank One then discovered the under-encoding error and paid Mellon the full face value of the check.  Mellon never remitted the amount to the plaintiff.  Upon never receiving the payment, the plaintiff presented a photocopy of the check to Bank One and Bank One again paid the value of the check.  On the Bank One’s behalf, First Union sought to recover Bank One’s first payment from Mellon.  Plaintiff moves for partial summary judgment against Mellon.
+
+Issue
+Is Mellon entitled to the face value of the check despite the under-encoding error made by the plaintiff?
+
+Held
+Yes.  The Court held that Mellon violated UCC Section: 4-215 because it did not properly remit the full value of the check to First Union after receiving the amount from Bank One.  UCC Section: 4-215(d) provides: “If a collector bank receives a settlement for an item which is or becomes final, the bank is accountable to its customer for the amount of the item and any provisional credit given for the item in an account with its customer becomes final.”  Bank One, the drawee bank, made final payment on the check in the amount of $507,598.30.  Therefore, Mellon received settlement for an item which became final and is accountable to the plaintiff for the amount of $507,598.30.  The Court held that, “the fact that First Union encoded the item in the wrong amount is irrelevant, because once final payment occurred, the drawee bank and each collecting bank along the chain of collection is strictly accountable to its respective customer for the amount of the item, here $507,598.30.”   The Court conc
+
+Discussion
+Mellon uses First National Bank of Boston v. Fidelity Bank, N.A. to make its argument.  In First National, the plaintiff under-encoded a $100,000 check for $10,000.  The defendant, the payor bank, charged the drawer’s account for $10,000 and when plaintiff bank made demand for the remaining $90,000, the drawer’s account had insufficient funds.  The court in that case held that “the encoder is estopped from claiming more than the encoded amount of the check.”  Mellon argues that “for purposes of Section: 4-215(d) the “amount of the item” for which a collecting bank is accountable is the encoded amount of the check, as long as the encoded amount is less than the face amount of the check or, alternatively, whichever is less.”  Mellon claims that because Bank One initially settled the check for $0.00 that is the amount for which Mellon is accountable.  The court in the present case found that Mellon’s defense was available “where plaintiff’s encoding error caused the payor bank to su
+

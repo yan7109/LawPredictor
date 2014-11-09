@@ -1,0 +1,24 @@
+Citation
+132 Ariz. 180, 644 P.2d 1266, 1982 Ariz.
+
+Brief Fact Summary
+The defendant was charged with kidnapping, rape, and sexual assault after being arrested by undercover police whom he approached.  During the investigation, the police used hypnosis to refresh the memory of several victims to help aid in identification of the subject.
+
+Synopsis of Rule of Law
+Hypnotically refreshed testimony is per se inadmissible, but hypnosis does not render a witness incompetent to testify to those facts demonstrably recalled prior to hypnosis.
+
+Facts
+Over a three year period, eighteen reported rape incidents occurred in an area outside of Phoenix.  All incidents followed a similar pattern.  During the course of the investigation, police hypnotized several of the victims to obtain additional information on the identity of the attacker.  The defendant filed a motion to suppress any testimony from these victims as tainted and prejudicial.  The Arizona Supreme Court originally affirmed, but then held a rehearing after one justice retired.
+
+Issue
+Did the trial court err in ruling that testimony as a product of hypnosis was per se inadmissible?
+
+Held
+Hypnotically induced recall memory is per se inadmissible.
+
+Dissent
+Dissent to issue number 1.  It is not necessary to adopt a per se inadmissible rule.  Our system can create procedural safeguards that protect against the introduction of palpably unreliable testimony.
+
+Discussion
+If a hypnotic procedure is not capable of yielding reasonably reliable results, then its probative value may be outweighed by the risks entailed in its use in a criminal trial.  The courts have uniformly held that statements made by suspects under hypnosis are inadmissible for substantive purposes for this reason.  The threshold question of reliability must be resolved by precluding courtroom use of hypnotically refreshed testimony.  No matter how carefully safeguards are followed, the risk of unreliability is high, while the finder of fact will have been deprived of the most important tool (cross-examination) on which to base its judgment of credibility because the demeanor of the witness will be irreversibly altered.
+

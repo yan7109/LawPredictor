@@ -1,0 +1,24 @@
+Citation
+543 U.S. 1095 125 S. Ct. 961 160 L. Ed. 2d 909 2005 U.S.
+
+Brief Fact Summary
+The Petitioner, Crawford (the “Petitioner”), brought this action after he was convicted of stabbing a man who tried to rape his wife, when the prosecution was allowed to present her recorded statement against him.
+
+Synopsis of Rule of Law
+Testimonial statements cannot be used against a defendant who is not given the opportunity to confront the witness giving the statement.
+
+Facts
+In August of 1999, the Petitioner was arrested for the stabbing of Kenneth Lee (”Mr. Lee”).  The Petitioner admitted he had gone in search of Mr. Lee after Mr. Lee had tried rape his wife.  At that time, statements were taken both of the Petitioner and his wife, who witnessed the incident.  Ms. Crawford could not be called to testify against her husband, due to the marriage immunity privilege; however, her testimonial statement was later used against her husband because the facts of her statement and those in his were somewhat different-particularly, whether Mr. Lee was armed and made an advance prior to his stabbing came into question.  The Petitioner was charged with assault and attempted murder, and based on the testimonial, he was found guilty.  The Petitioner appealed.
+
+Issue
+Whether an out of court statement can be used against a defendant to assert the truth of the matter at issue?
+
+Held
+When statements are testimonial in nature, the defendant must be given the opportunity to confront the witness.  In this case, Mr. Crawford could not confront his wife due to marital immunity, and thus her statement should also have been immune from use by the prosecution.
+
+Concurrence
+While Chief Justice William Rehnquist (”J. Rehnquist”) concurred in the judgment, his statements were contrary to a concurrence.  In his opinion, J. Rehnquist maintained that the court needs to delineate what a testimonial statement is, in order to make a clear determination as to how it is to be treated.
+
+Discussion
+This case hangs on the confrontation clause of the Sixth Amendment of the United States Constitution (”Constitution”), which imbues a criminal defendant with the right to confront witnesses against him.  While there is an exception to hearsay, which says that testimonial statements can be used against a defendant for impeachment purposes, they cannot be used if the defendant is not given opportunity to confront the witness.
+

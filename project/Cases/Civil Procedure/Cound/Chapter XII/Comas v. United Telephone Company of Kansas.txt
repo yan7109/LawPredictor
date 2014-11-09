@@ -1,0 +1,21 @@
+Citation
+1995 U.S. Dist. 70 Fair Empl. Prac. Cas. (BNA) 159
+
+Brief Fact Summary
+The Plaintiff, Comas (Plaintiff), and the Defendant, United Telephone Company of Kansas (Defendant), were involved in an employment discrimination case. The parties agreed to produce all relevant documents without a formal discovery process subject to Federal Rules of Civil Procedure Rule 26(a)(1)(FRCP Rule 26(a)(1)). Defendant delayed production and refused to give certain documents pursuant to the agreement.
+
+Synopsis of Rule of Law
+Where parties agree to produce all relevant documents without formal discovery requests pursuant to FRCP Rule 26(a)(1), they must produce without delay such documents which are appropriately part of the initial disclosures.
+
+Facts
+The Plaintiff sought production of the personnel files of four individuals whose treatment was at issue in this case, from the Defendant. Plaintiff also sought an internal investigation file prepared by Defendant in response to previous Equal Employment Opportunity Commission (EEOC) charges. Pursuant to FRCP Rule 26(a)(1) both parties agreed to voluntarily produce all relevant materials rather than proceed with formal discovery. The initial disclosures in this case included the personnel files of the four individuals whose treatment was at issue and Defendant’s investigation file from previous EEOC charges. With regard to the EEOC file, both parties agreed to an appropriate protective order. Defendant claimed the personnel files of persons other than Plaintiff should not be produced under this rule, but rather through formal discovery. Defendant did agree to produce redacted copies of all files. Plaintiff sought attorney’s expenses in bringing forth this motion to compel because of Defendant’s delay in production of the documents.
+
+Issue
+Whether documents, which are appropriately part of initial disclosures mutually agreed upon by both parties, are discoverable without formal discovery processes.
+
+Held
+Yes. The parties proceeded as if the personnel files and the EEOC file were in the Defendant’s possession and control and were relevant to the disputed facts alleged with particularity in the pleadings. Thus, such documents were part of the initial disclosures.  Plaintiff will receive redacted copies of the personnel files because Plaintiff did not show that such copies would fail to comply with Defendant’s duty.  Defendant’s failure to produce the documents within the 10 day time limit under Rule 26(a)(1) subjected Defendant to sanctions under FRCP Rule 37. Defendant received a 20 day extension to produce the documents.
+
+Discussion
+Where both parties agree to bypass formal discovery procedures in the interest of time and convenience, discovery that is appropriately relevant to the initial disclosures must be turned over within the time allotted.
+

@@ -1,0 +1,21 @@
+Citation
+340 U.S. 349, 71 S. Ct. 295, 95 L. Ed. 329, 1951 U.S.
+
+Brief Fact Summary
+The Plaintiff, Dean Milk (Plaintiff), upon being denied a license to sell milk in the Defendant City, the City of Madison, Wisconsin (Defendant) because its pasteurization plants were more than five miles away, challenged the Defendant’s milk plant ordinance on grounds that it violated the Commerce Clause of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+If there are reasonable alternatives available, a local health ordinance that places a discriminatory burden on interstate commerce violates the Commerce Clause of the Constitution.
+
+Facts
+The Defendant passed an ordinance barring pasteurized milk that had not been processed within 5 miles of the City. The Plaintiff, a milk distributor bought its milk from farms in Illinois and Wisconsin, 65 and 85 miles from the Defendant city. Since the milk came from more than five miles away the Plaintiff was denied a license to sell the milk in the Defendant city. The Plaintiff contended the ordinance put an undue burden on interstate commerce.
+
+Issue
+Does a local health ordinance that places a discriminatory burden on interstate commerce violate the Commerce Clause when reasonable and adequate alternatives are available?
+
+Held
+Yes, states must consider reasonable alternatives when enacting laws intended to protect public health, but which also burden commerce. The Defendant city’s ordinance protects the in-state milk production business from out of state competition. The Supreme Court of the United States (Supreme Court) observes that the ordinance plainly discriminates against interstate commerce. The Supreme Court observed that the Defendant city could have sent its inspectors to plants that were more than five miles away or could exclude from its borders milk not produced in accordance with the Defendant city’s standards. Moreover, the local ratings could be checked by the United States Public Health Service in order to enforce the provision.
+
+Discussion
+The practical effect of the ordinance is that it excludes milk pasteurized in Illinois. “[O]ne state, in its dealings with another, may not place itself in a position of economic isolation.”
+

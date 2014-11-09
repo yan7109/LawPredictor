@@ -1,0 +1,21 @@
+Citation
+22 Ill.240 F.3d 781 (9th Cir. 2001)
+
+Brief Fact Summary
+The Plaintiff, Textile Unlimited, Inc. (Plaintiff) and the Defendant A.BMH and Company, Inc. (Defendant), had a business relationship, whereby Plaintiff would buy goods from Defendant via purchase order and Defendant would respond with an invoice which, coincidentally, contained additional terms, including an arbitration clause.
+
+Synopsis of Rule of Law
+This case stands for the proposition that Section:2-207 of the Uniform Commercial Code (U.C.C.) does not apply when additional provisions will be prejudicial to one of the parties, who was not privy to the terms before the execution of an agreement.
+
+Facts
+After dealing with one another for ten months and conducting approximately 38 transactions with one another, Plaintiff received some yarn from Defendant that it contended was defective. Defendant, in accordance with the terms of its invoices submitted the matter to arbitration in Atlanta, Georgia. Plaintiff filed suit to enjoin the arbitration, claiming it did not agree to arbitration in their original contractual arrangement and that arbitration was prejudicial to the Plaintiff. Defendant argued that Plaintiff accepted its agreement because their contract provided that Plaintiff “accepted these terms in full.”
+
+Issue
+Whether additional terms are acceptable when there are competing forms and the terms have a prejudicial affect on one of the parties.
+
+Held
+Affirmed.
+
+Discussion
+When dealing with the battle of the forms, remember that subsequent additional terms may only be added if they are not inconsistent with an original agreement and cause no prejudice to either party.
+

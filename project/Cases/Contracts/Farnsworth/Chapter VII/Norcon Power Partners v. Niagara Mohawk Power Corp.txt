@@ -1,0 +1,21 @@
+Citation
+92 N.Y.2d 458, 705 N.E.2d 656, 682 N.Y.S.2d 664, 1998 N.Y. 4045
+
+Brief Fact Summary
+The Plaintiff, Norcon Power Partners (Plaintiff), sued the Defendant, Niagara Mohawk Power Corp. (Defendant), seeking a declaration that the Defendant had no right to demand adequate assurances under New York State law.
+
+Synopsis of Rule of Law
+At common law in New York, as in the Uniform Commercial Code (UCC), where reasonable grounds arise to believe a party will breach a contract, the other party may demand adequate assurances of performance.
+
+Facts
+The parties entered into a 25-year contract for the Defendant to purchase electricity from the Plaintiff at specified pricing schedules. The Defendant presented the Plaintiff with a letter stating that it believed that substantial credits in its favor would accrue to over $610 million. Anticipating that the Plaintiff would not be able to satisfy the daily escalating credits, the Defendant demanded that the Plaintiff provide adequate assurance that it will perform its repayment obligations. The Plaintiff thereafter initiated this suit to have declared that the Defendant had no right to demand adequate assurance under New York State law.
+
+Issue
+May a party demand adequate assurances of performance when reasonable grounds arise to believe that the other party will not perform its duties under the contract, which is not governed by the UCC?
+
+Held
+Yes. The UCC clearly mandates that a party may demand adequate assurances of performance when reasonable grounds arise to believe that the other party will repudiate the agreement. However, the New York common law of contracts had never expanded this right to include non-UCC contracts except in cases where the party believed to be repudiating was insolvent. It is clear, though, that the policy behind the UCC is equally applicable here, especially in light of the similarity between the sale of goods and the sale of electricity. Therefore, the UCC rule is equally applicable to common law contracts.
+
+Discussion
+The right to demand adequate assurances of performance applies equally to contracts formed under the UCC and contracts formed at common
+

@@ -1,0 +1,21 @@
+Citation
+527 U.S. 150, 119 S. Ct. 1816,144 L. Ed. 2d 143,1999 U.S.
+
+Brief Fact Summary
+Respondent had their application for a patent denied.
+
+Synopsis of Rule of Law
+“The Federal Circuit must use the framework set forth in Section:706 when reviewing PTO findings of fact.”
+
+Facts
+Respondent Zurko applied for a patent on “a method for increasing computer security.” The Patent and Trademark Office (PTO) denied the application on the grounds that the “method was obvious in light of prior art.” The respondents eventually appealed to the Federal Circuit Court, which ruled in favor of the respondent by use of a stricter court/court standard.
+
+Issue
+“[W]hether Section:706 [of the APA] applies when the Federal Circuit reviews findings of fact made by the Patent and Trademark Office (PTO).”
+
+Held
+Yes. The Supreme Court of the United States (The Supreme Court), noted that the Circuit Court had applied the strict court/court standard in part based on precedence, which it had used in reviewing the PTO’s predecessor, before the passage of the APA. After examining this body of precedence the Supreme Court “conclude[d] that those cases do not reflect a well-established stricter court/court standard of judicial review for PTO factfinding [sic], which circumstance fatally undermines the Federal Circuit’s conclusion.” The Supreme Court also dismissed the policy reasons that the Federal Circuit set forth, concluding that “Congress has set forth the appropriate standard in the APA,” and that standard would henceforth be applied.  Dissent. The dissenting justices argued that the Supreme Court should have deferred to the Federal Circuit, “the specialized Article III court charged with review of patent appeals. In this case the unanimous en banc Federal Circuit and the patent bar both agree that these cases recognized the “clearly erroneous” standard as an ‘additional requirement’ placed on the PTO beyond the APA’s minimum procedures.”
+
+Discussion
+“[T]he Federal Circuit’s review of PTO findings of fact cannot amount to an ‘additional requiremen[t] . . . recognized by law.’”
+

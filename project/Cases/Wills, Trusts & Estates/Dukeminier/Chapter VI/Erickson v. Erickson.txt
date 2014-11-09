@@ -1,0 +1,21 @@
+Citation
+246 Conn. 359,716 A.2d 92,1998 Conn.
+
+Brief Fact Summary
+Ronald K. Erickson and the defendant, Dorothy Erickson, executed two wills before their wedding.  Extrinsic evidence revealed that Erickson’s attorney assured him his will was valid.  The trial court admitted the will to probate and the appellant, Alicia Erickson, Erickon’s daughter, appealed the decision on grounds that Erickson’s subsequent marriage revoked the will.
+
+Synopsis of Rule of Law
+Under statutory law, if a testator writes a will and later marries, the act of marriage revoke’s the testator’s will unless the will includes a provision concerning the contingency of marriage.  Extrinsic evidence is admissible to prove the testator’s intent when the writer of the will made a mistake as to the testator’s in drafting the will.  There must be clear and convincing evidence that the writer’s error induced the testator to execute a will that he intended to be valid despite his subsequent marriage.
+
+Facts
+Two days before their wedding, Erickson and the defendant executed mutual wills.  During the course of the execution, the couple extensively discussed their  wedding that was to take place two days later.  The residue of Erickson’s estate passed to the defendant in his will.  Almost seven years later, Erickson learned that he had a terminally ill disease.  He died three years later.  Before Erickson died, he had a meeting with his lawyer at the hospital.  The will was retrieved and reviewed.  Erickson’s lawyer assured him that his entire estate would pass to the defendant.  The Probate Court admitted the will when Erickson’s will even though it did not contain a provision about the contingency of marriage.  However the Probate Court ruled that the will contained a contingency clause because of the fact that the will bequeathed all of his estate to a woman that he did in fact marry two days later, and designated the defendant as his executrix and guardian of his daughters.  The
+
+Issue
+Whether extrinsic evidence is admissible if it reveals a scrivenor’s error led the testator to believe that his will was valid?
+
+Held
+Yes.   The extrinsic evidence here showed by clear and convincing evidence that the attorney made an implied assertion that the testator’s will would be valid without the contingency of marriage.  A couple of weeks before the testator died, the testator and his lawyer retrieved and reviewed the will.  The lawyer assured the testator that the will he executed approximately eight years prior was valid and that his entire estate would pass to his wife.  The testator relied on his lawyer and did nothing to change his invalid will.
+
+Discussion
+The issue in dispute in this case was not whether the testator intended to make gifts to certain beneficiaries.  This was clear from the face of the will.  However a statute operated to revoke his will and the testator was misled to believe that his will was unaffected by his subsequent marriage.  There is not a great chance of fraud in this case of rewriting the testator’s intent.  Extrinsic evidence is admissible to uphold the intent of the testator as it was expressed in his will.
+

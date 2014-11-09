@@ -1,0 +1,24 @@
+Citation
+417 U.S. 484, 94 S. Ct. 2485, 41 L. Ed. 2d 256, 1974 U.S.
+
+Brief Fact Summary
+California operated a disability insurance system that paid benefits to employees of private employers when workers compensation did not cover certain disabilities that prevented those employees from working. However, many pregnancy related disabilities were excluded from coverage because of expenses to the program.
+
+Synopsis of Rule of Law
+Underinclusive legislation is appropriate under the Equal Protection Clause, so long as the line drawn by the State is “rationally supportable.”
+
+Facts
+California operated a disability insurance system that supplemented workers compensation, in that it provided for payments for disabilities not covered by workers compensation. The list of disabilities paid for by the State of California was not exhaustive. Among those disabilities not paid for were certain pregnancy related conditions. Suit was brought challenging the system as an unconstitutional gender-based classification.
+
+Issue
+Does the exclusion of the pregnancy-related conditions violate the Fourteenth Amendment’s Equal Protection Clause?
+
+Held
+No. Appeals Court ruling affirmed.
+
+Dissent
+Justice William Brennan (J. Brennan) argues that by disallowing payments related to pregnancy, the State inevitably discriminates against women.
+
+Discussion
+The majority reaches its conclusions through viewing the problem as one of underinclusive legislation, while the dissent focuses on the inevitable connection of the unfunded conditions with a single sex.
+

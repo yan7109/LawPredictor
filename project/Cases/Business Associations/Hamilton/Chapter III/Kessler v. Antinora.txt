@@ -1,0 +1,21 @@
+Citation
+N.J. Super. Ct., App. Div., 653 A.2d 579 (1995)
+
+Brief Fact Summary
+Antinora (D) contributed labor and Kessler (P) contributed capital to a joint venture. Antinora (D) contends he is not liable for partnership losses where the partnership agreement did not address how those losses would be apportioned between them.
+
+Synopsis of Rule of Law
+Neither partner is liable to the other for loss incurred during a joint venture if no provision in the partnership agreement addresses how losses will be apportioned between them, if one partner provides capital and the other provides labor.
+
+Facts
+Kessler (P) and Antinora (D) formed a “joint venture partnership agreement”, to build a residence in which Antinora (D) would serve as general contractor and Kessler (P) would provide capital. Upon sale of the dwelling, Antinora (D) was to receive 40% of the net profits and Kessler (D) 60% as stated in their agreement. The agreement stated nothing about losses. Three years later, the building was sold at a loss. Kessler (P) incurred an estimated $79,000 loss and filed an action to recover 40% of that amount plus interest from his partner, amounting to about$85,000. No review on the value of Antinora’s (D) services was made over his three year tenure as general contractor. The trial court found in favor of Kessler (P), ruling that statutory partnership law governed and granted him an estimated $66,000. New Jersey’s intermediate appellant court granted the appeal.
+
+Issue
+Will neither partner be liable to the other for loss incurred during a joint venture if no provision in the partnership agreement addresses how losses will be apportioned, between a partner who provides capital and a partner who provides labor?
+
+Held
+(King, J.) Yes. Neither partner is liable to the other for loss incurred during a joint venture if no provision in the partnership agreement addresses how losses will be apportioned, between a partner who provides capital and a partner who provides labor. The trial court incorrectly rejected Antinora’s (D) assertion that the parties risked and lost their unrecoverable contributions, regardless if it was in the form of capitol or labor. Contrary to the trial court’s ruling, the Uniform Partnership Law’s States Applicable Section does not apply here because of the specific agreement between the parties that did not cover losses. The statue is secondary to any agreement made between parties, and the agreement made no suggestions that the partners would liable for each other’s losses. This interpretation is consistent with common law cases that have held that where one party is liable to contribute remedy to the other’s losses. With loss of both money and labor, the loss falls upon the partners proportionately without legal recourse. Antinora’s (D) loss in labor would also be difficult to quantify and speculative in nature in the court’s perspective. Reversed.
+
+Discussion
+In absence of an agreement, general common law rule of partnership law finds, “The law presumes partners and joint adventurers intent to share equally in the profits and losses of the common enterprise. Regardless of inequalities in capital contributed.” However, the general rule has been held inapplicable before, as in here, where one partner contributed money and the other labor. The reasoning here is that both parties essentially agreed to lose their own contributions or that their respective contributions were to be valued equally.
+

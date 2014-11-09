@@ -1,0 +1,21 @@
+Citation
+318 U.S. 799
+
+Brief Fact Summary
+The respondent-plaintiff (the “respondent”) brought several claims of negligence against the petitioner-defendant (the “petitioner”) railroad, and a wrongful death action on behalf of his deceased wife.  The petitioner attempted to admit, as evidence, statements made by the since-deceased train engineer.
+
+Synopsis of Rule of Law
+Business records admissible under the hearsay exception rules do not include accident reports prepared for litigation even if the reports are prepared in a routine, systematic process.
+
+Facts
+The respondent and his spouse were injured at a railroad crossing.  The jury deliberated whether the train failed to blow a whistle, ring a bell or have a light burning in the front of a train.  The petitioner attempted to admit statements from the train engineer made in an interview two days after the accident.  The engineer died before the trial.  The petitioner attempted to admit the engineer’s statements as a business record, arguing that they were made in the course of a routine accident report.  The trial court did not allow the statements to be admitted and found the petitioner liable.
+
+Issue
+Whether the business record hearsay exception encompasses accident reports that, although not the inherent nature of the business, are nonetheless recorded in a routine manner?
+
+Held
+The Supreme Court of the United States (”Supreme Court”) affirmed the trial court’s decision to not admit the engineer’s statements.  The Supreme Court reasoned that the statements were not in a record inherent for a railroad company.  The Supreme Court was concerned that the legislature had no intention to make the business record exception so broad in scope that any business could abuse the rule by declaring that preparation for litigation was a routine practice of the business.
+
+Discussion
+The decision came shortly after the business record exception was amended to broaden the scope.  The former rule required authentication from a person who personally entered the information into the record. The Supreme Court did not want to expand the exception to anything outside the day-to-day routine records unless expressly authorized by the legislature.  The accident report in this case does affect the business, but the importance the report has to the business does not negate the fact that the report was prepared in lieu of potential litigation. The engineer had a motive to be untrustworthy in the interview.  As noted in the decision, the petitioner attempted to claim contributory negligence, and the engineer would have been liable as well.
+

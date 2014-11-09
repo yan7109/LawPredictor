@@ -1,0 +1,21 @@
+Citation
+465 U.S. 783, 104 S. Ct. 1482, 79 L. Ed. 2d 804, 1984 U.S. 41
+
+Brief Fact Summary
+Respondent, Shirley Jones, brought a libel suit in a California state court against Petitioners, Calder et al.  Petitioners South and Calder are Florida residents who argue that California courts lack personal jurisdiction over them.
+
+Synopsis of Rule of Law
+A state has personal jurisdiction over any party whose actions intentionally reach another party in the state and are the basis for the cause of action.
+
+Facts
+Petitioners South is a reporter, and Petitioner Calder is president and an editor, of Petitioner National Enquirer.  South wrote an article that accused Respondent of a drinking problem that was so severe that it affected her acting career.  Calder reviewed the article and edited it to its final form for publication.  Respondent brought a suit for libel, and South and Calder challenged California’s personal jurisdiction since neither had any physical contacts with California, particularly as it pertained to this article.  South did rely on sources from California, and Respondent’s life and career were centered in California.  The district court cited Petitioner’s rights under the First Amendment to the United States Constitution as trumpeting Due Process Clause concerns.  The appellate court reversed because First Amendment arguments are irrelevant to jurisdictional analysis.
+
+Issue
+The issue is whether California has personal jurisdiction over South and Calder through their targeting of Respondent with this article.
+
+Held
+The United States Supreme Court held that California had personal jurisdiction over Petitioners.  The first step in the analysis is to determine the focal point of the harm suffered, and that was in California.  The Court then determined that Petitioners’ actions intentionally aimed at a California resident, and the injuries suffered would be in that state.
+
+Discussion
+Petitioners argued that, because they were merely employees of the libelous newspaper, their case was analogous to a welder who works on a boiler in Florida that subsequently explodes in California.  The Court distinguishes this by noting that unlike the welder they intentionally targeted the California contact.
+

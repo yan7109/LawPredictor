@@ -1,0 +1,21 @@
+Citation
+799 F.2d 265, 1986 U.S. App.
+
+Brief Fact Summary
+The Plaintiff, Northern Indiana Public Service Co. (Plaintiff), brought suit against the Defendant, Carbon County Coal Co. (Defendant), to have its obligations under the contract excused under the force majeure clause of the agreement.
+
+Synopsis of Rule of Law
+A force majeure clause does not protect against the ordinary risks of a contract, but rather, it excuses performance where something beyond the parties’ control occurs that prevents performance.
+
+Facts
+The Plaintiff and the Defendant entered into a 20-year contract wherein the Plaintiff would buy 1.5 million tons of coal from the Defendant every year for $24 a ton subject to various escalation provisions. The Plaintiff’s rates were regulated by the Indiana Public Service Commission (IPSC) and it ordered the Plaintiff to make a good faith effort to buy electricity at lower prices than it cost to generate electricity internally. As a result of the effort, the Plaintiff was able to buy electricity more cheaply than it could produce it. This made the coal largely unnecessary and the Plaintiff was not permitted to pass the cost of the coal on to its customers. Therefore, the Plaintiff sought to have its obligations excused under the force majeure clause of the contract.
+
+Issue
+Does the contract’s force majeure clause excuse the Plaintiff’s performance under the contract?
+
+Held
+No. The force majeure clause at issue states that the Plaintiff can stop receiving coal from the Defendant for any cause beyond its reasonable control, including but not limited to orders or acts of civil authority which wholly or partly prevent the utilizing of the coal. The Plaintiff argues that the IPSC’s “economy purchase orders” prevented it from using the coal it agreed to buy. The orders actually prevent the Plaintiff from passing on fuel costs to its ratepayers. Since the coal cost is higher than other, more efficient sources, the end result of the orders is that the Plaintiff does not use the coal, but this is because of its imprudent dealings rather than a direct order forbidding the use of coal. The force majeure clause cannot be invoked to protect a party against normal risks of a contract, i.e. higher energy costs due to the duration of the contract and cost of coal versus other sources. Therefore, the Plaintiff cannot escape liability under the contract because of
+
+Discussion
+Force majeure clauses protect against uncontrollable circumstances affecting performance of the agreement.
+

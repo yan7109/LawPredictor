@@ -1,0 +1,21 @@
+Citation
+865 N.E.2d 608 (Ind. 2007).
+
+Brief Fact Summary
+During Plaintiff Mullins’ surgery, a medical student performed an intubation that lacerated Mullins esophagus, requiring additional surgery and recovery time.  Mullins had not consented to student involvement in her surgery.  She sued for battery and lost.
+
+Synopsis of Rule of Law
+Battery requires a harmful or offensive touching, without consent, with the intent to cause the resulting harm or offense.
+
+Facts
+Plaintiff Mullins, before undergoing a hysterectomy at a teaching hospital, crossed out the portion of the consent form that consented to “the presence of healthcare learners” and received assurance from the attending anesthesiologist that she would personally handle the anesthesia.  During the surgery, as soon as Mullins was unconscious, the anesthesiologist permitted a student, VanHoey, to practice intubation.  It was VanHoey’s first day practicing on a live patients and she lacerated Mullins’ esophagus.  As a result, Mullins required additional surgery and recuperation time.  Mullins sued VanHoey, the gynecologist, the anesthesiologist, and both doctors’ practices for battery, among other claims.   The trial court granted summary judgment for all defendants on all counts, the Court of Appeals held that Mullins had an actionable battery claim, and the Indiana Supreme Court reversed, finding that Mullins did not have an actionable battery claim.
+
+Issue
+Whether the tort of battery requires the intent to cause harm in addition to the intent to touch or make contact.
+
+Held
+Yes.  Although VanHoey “touched Mullins in a harmful and offensive manner without permission”, Mullins could not show that VanHoey “acted intending to cause” harm.  VanHoey had no reason to suspect that Mullins had not consented to the touching.  As a student, she properly relied on her previous experience and the doctor’s authority in believing that she had permission to perform the intubation.  In addition, she was under no obligation to obtain consent herself or to inquire into the consent under which the anesthesiologist was acting.  Accordingly, the court found that there was no genuine issue of material fact as to VanHoey’s intent to cause a harmful contact, and that VanHoey was entitled to summary judgment on Mullins’ battery claim.
+
+Discussion
+This opinion shows that an actor’s intent to touch or make contact, such as his decision to put his arm in motion throwing an object, is not enough to give rise to battery.  The actor must have specifically intended to cause the harm or offense which results from the touching.
+

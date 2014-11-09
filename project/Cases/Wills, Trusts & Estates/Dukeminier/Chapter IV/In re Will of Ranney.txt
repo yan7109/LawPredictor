@@ -1,0 +1,21 @@
+Citation
+124 N.J. 1, 589 A.2d 1339, 1991 N.J.
+
+Brief Fact Summary
+Two people intending to serve as witnesses to a will signed a sworn affidavit stating they had previously signed their names as witnesses on a will.  The attorneys facilitating the will execution ceremony believed the affidavit was sufficient to meet the statutory requirements.  The Appellate Court held that the affidavit literally satisfied statutory requirements even though the will did not have an attestation clause.
+
+Synopsis of Rule of Law
+A statute that allows a signed affidavit by attesting witnessed to be submitted along with the will requires that the witnesses have first signed the actual will.  If a will is not formally executed in compliance with statutory requirements, then that will may still be admitted to probate if its substantially complies with those requirements.
+
+Facts
+During the execution of Russell G. Ranney’s will, the two persons serving as witnesses did not sign the will.  Instead, they signed an affidavit swearing they had previously witnessed Ranney sign his will.  The lawyer executing the ceremony was not aware that the will itself needed an attestation clause.  He believed that the affidavit alone without the witnesses’ signature on the will was sufficient.  The Appellate court ruled that the affidavit literally satisfied the statutory requirements.
+
+Issue
+If a statue allows for an affidavit to be submitted along with a duly executed will, may the will be probated if the will itself is not signed by the witnesses. Whether a will if not formally executed in compliance with a statute may be probated if it substantially complies with the statutory requirements?
+
+Held
+No.  The will may not be probated unless it is signed by attesting witnesses, even though the witnesses may have signed the affidavit.  Affidavits and attestation clauses serve different purposes.  The legislature expressed an intent that the affidavit be submitted along with a duly executed will.  A will without an attestation clause is not duly executed. Yes.  A will may be probated if the proponents of the document can prove by clear and convincing evidence that the testator intended the document to be his will.  Statutory formalities exist for the purposes they serve.  The purpose of a signature is to provide reliable evidence that the will and its terms reflect the testamentary intent of the deceased.
+
+Discussion
+Courts will not allow procedural requirements to defeat the purposes the statutes are intended to fulfill.  The purpose of a signature is to provide reliable evidence of testamentary intent and attestation clause help to prevent fraud and undue influence.  Here, an affidavit is reliable.  It may be admitted to probate without the witness appearing in court.  Because it is sworn testimony, persons are deterred from committing fraud because of the penalties for lying under oath.
+

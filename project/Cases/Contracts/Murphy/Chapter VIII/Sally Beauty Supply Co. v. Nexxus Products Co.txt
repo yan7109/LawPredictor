@@ -1,0 +1,21 @@
+Citation
+22 Ill.801 F.2d 1001 (7th Cir. 1986)
+
+Synopsis of Rule of Law
+A contract is assignable except when there is some reason why the non-assigning party would find performance by the other party unsatisfactory.
+
+Facts
+Defendant, a manufacturer of hair care products, made a contract with Best Barber & Beauty Supply Company, Inc. (Best Barber). Best Barber was bought by Sally Beauty Supply Company (Plaintiff), which is a wholly owned subsidiary of Alberto Culver, a direct competitor of Defendant. Defendant canceled the contract with Plaintiff. Plaintiff sued Defendant. The trial court ruled in favor of the plaintiff on the basis that contracts for personal services cannot be assigned.
+
+Issue
+Is the contract between Best Barber and Defendant binding now that Best Barber has been subsumed by on of Defendant’s direct competitors?
+
+Held
+No.
+
+Dissent
+Plaintiff distributes many brands of hair care products that are direct competitors with Alberto Culver. Sally beauty is not in the business of making and selling one kind of hair care products but of selling many different brands.
+
+Discussion
+Here, the court uses the UCC as a guide for deciding a case involving a contract for personal services. They determined that a contract with Plaintiff, a subsidiary of Defendant’s direct competitor, which is substantially different from the original contract.
+

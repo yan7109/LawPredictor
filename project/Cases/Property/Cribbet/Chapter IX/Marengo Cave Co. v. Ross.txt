@@ -1,0 +1,18 @@
+Citation
+212 Ind. 624
+
+Synopsis of Rule of Law
+A record title may be defeated by adverse possession, which requires that the possession must be actual, visible, notorious, exclusive, hostile to the true owner, and continuous for the full statutory period.
+
+Facts
+Appellant Marengo Cave Co. owned land on which stood the opening to a cave.  Appellee Ross owned land adjacent to Appellant’s land, and the cave’s passages extended underground into Appellee’s land.  Beginning in 1883 when the opening to the cave was first discovered, Appellant’s predecessors took complete possession of the entire cave and began using it for exhibition purposes, charging an admission fee.  Over the next 46 years, the Appellant (and its predecessors) advertised the cave in various media, made improvements within the cave, and excluded therefrom the “whole world” except those who paid admission.  Appellee, however, did not know that the cave’s passages extended underneath his land until 1929, when Appellee had a survey made by a civil engineer.  After making this discovery, Appellee brought an action to quiet title to those subterranean passages under his land.  The trial court ruled for Ross, the Marengo Cave Co. appealed, and the Supreme Court of Indiana affirmed.
+
+Issue
+Whether a 46-year possession of a subterranean cave that extends beneath another person’s land is open, notorious, and exclusive to obtain title to the cave by adverse possession.
+
+Held
+No.  A record title may be defeated by adverse possession, which requires that the possession must be actual, visible, notorious, exclusive, hostile to the true owner, and continuous for the full statutory period.  In this case, that period was 20 years.  The issue here was whether the cave was sufficiently open, notorious, and exclusive.  The court explained that open possession must be visible so that the owner knows, or should have known, of it.  Notorious means that possession must be manifest to the community.  The court found that because the cave was underground, possession was neither open nor notorious because there was no way the owner or public could know that the cave’s passages extended into Appellee’s land.  Moreover, for possession to be exclusive, it must operate as an ouster to the owner.  In this case, the court found that the Appellee still maintained actual possession of the land above ground apart from Appellant’s trespass into the passages of the cave.   Because the elements of adverse possession could not be satisfied, the court affirmed the trial court’s judgment for the Appellee.
+
+Discussion
+This decision points out that the taking of another’s property without his knowledge is similar to a trespass, and to support that method of taking would be against public policy.  This is why adverse possession requires that the owner knew, or should have known, of another’s possession, which arguably gives the owner an opportunity to do something about it prior to running of the statutory period.
+

@@ -1,0 +1,21 @@
+Citation
+498 N.W.2d 720 (Iowa 1993)
+
+Brief Fact Summary
+The Iowa District Court for Pottawattamie County determined the amount of the State’s lien in the Appellee, Sourbier (Appellee) a highway patrol officer’s recovery against a third party tortfeasor in the officer’s declaratory judgment action. The Appellants, the State of Iowa and the Iowa Industrial Commissioner (Appellants), challenged the decision.
+
+Synopsis of Rule of Law
+An employer is fully entitled to be reimbursed from third-party recoveries for pain and suffering, even when the portion of an award attributable to pain and suffering is clearly separable from the portion attributable to economic losses.
+
+Facts
+The Appellee was injured in February 1989 when, in the scope of his employment, a vehicle struck his parked patrol car. His employer the Appellants, paid him worker’s compensation benefits. The Appellee brought an action against Robert and Betty Miller, the occupants of the vehicle that struck him, to recover for personal injuries. Pursuant to Iowa statute, the Appellants filed a lien against any recovery. The Appellee also filed a workers’ compensation claim with the Commissioner for additional benefits, a request the Commissioner granted. In connection with his personal claim, a jury awarded the officer damages. The Appellee then filed a declaratory judgment action against the Appellants to determine the Appellants’ right to his third-party award, which the district court did, reducing that award in lien to the State. The Appellee appealed on the ground that, while the State had a legitimate interest in much of the third-party judgment, it had no interest in that portion of
+
+Issue
+Did the State have a right to a lien on that portion of the officer’s judgment compensating him for pain and suffering?
+
+Held
+Yes. The court reversed the judgment, holding that the district court erred in finding that the Appellants did not have a lien on the portion of the officer’s judgment for pain and suffering. The court also concluded that the Appellants’ lien should not have been limited to the amount awarded by the jury, nor should it have been reduced by 20 percent for the Appellee’s comparative fault.
+
+Discussion
+Employer subrogation essentially protects an employer by allowing recovery of compensation paid to its employee when the employee files an independent action against the responsible third party. The right of subrogation usually does not mature into an enforceable claim or lien unless, as was the case in Sourbier, and until the employer perfects the right, i.e., properly files within the statutory period. As the Sourbier court succinctly stated, “[W]orkers’ compensation law provides that an employer, or the employer’s insurer, who has paid compensation to an employee, shall be indemnified out of the recovery of damages paid to the injured employee by a third party and shall have a lien on the claim for such recovery and the judgment thereon for the compensation for which the employer or insurer is liable.” The court then explained, as per the relevant statute (which mirrors comparable statutes in most jurisdictions), “An employer’s statutory right to be indemnified and to
+

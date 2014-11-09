@@ -1,0 +1,21 @@
+Citation
+1 Queen’s Bench 346 (QBD 1892) 2003 Daily Journal DAR 3429<br />
+
+Brief Fact Summary
+Plaintiff, Watteau, sold goods to a pub manager, Humble, under the belief that Humble was actually the pub owner.  Plaintiff learned that Defendant, Fenwick, was the actual owner and sought to collect from Defendant for the unpaid balance of goods purchased by Humble.
+
+Synopsis of Rule of Law
+An undisclosed principal can be held liable for the actions of an agent who is acting with an authority that is reasonable for a person in the agent’s position regardless of whether the agent has the actual authority to do so.
+
+Facts
+Defendant owned a hotel-pub that employed Humble to manage the establishment.  Humble was the exclusive face of the business; Humble’s name was on the bar and the license of the pub.  Defendant explicitly instructed Humble not to make any purchases outside of bottled ales and mineral waters, but Humble still entered into an agreement with Plaintiff for the purchase of cigars.  Plaintiff discovered that Defendant was the actual owner and brought an action to collect from Defendant.
+
+Issue
+The issue is whether Defendant is liable for damages resulting from an agreement between Plaintiff and Humble, who is knowingly acting outside his actual authority as an agent for Defendant.
+
+Held
+Defendant is liable for damages.  Humble was acting with an authority that was inherently reasonable for an agent in that position.  The situation is analogous to a partnership wherein one partner is silent but is still liable for actions of the partnership as a whole.
+
+Discussion
+The decision could not be based on apparent authority because the principal is disclosed under that doctrine. The principal is held liable for actions by an agent that are expressly forbidden, but the case limits a principal to actions of an agent that are reasonable under the circumstances.
+

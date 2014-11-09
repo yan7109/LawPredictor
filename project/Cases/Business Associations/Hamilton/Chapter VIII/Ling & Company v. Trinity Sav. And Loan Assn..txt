@@ -1,0 +1,21 @@
+Citation
+Tex. Sup. Ct., 482 S.W.2d 841 (1972)
+
+Brief Fact Summary
+Bowman (D), to secure a loan from Trinity Sav. And Loan Assn. (P) pledged 1,500 shares of Ling & Company (D) stock which Ling contends that the transfer  was subject to certain restrictions.
+
+Synopsis of Rule of Law
+Corporations may impose restrictions upon the transfer of their stock so long as they are reasonable restrictions.
+
+Facts
+Trinity Sav. And Loan Assn. (Trinity) loaned Bowman (D) money in exchange for 1,500 shares of Class A Common Stock in Ling & Company, Inc. (D). Bowman (D) defaulted on the loan, so Trinity (P) sued to recover damages and foreclose on the stock. Trinity (P) made Ling (D) a party in the suit when Ling (D) objected to foreclosure and public sale of its stocks alleging that they were subject to transfer restrictions. Ling’s (D) charter required stockholders to obtain approval from the NYSE before selling or encumbering the shares and also required that Ling’s (D) and all shareholders be given the right of first refusal when a stockholder sold their shares. the trial court entered summary judgment for Trinity (P), appellate court ruled that Ling’s (D) stock restrictions were invalid, but affirmed the trial court’s decision. Trinity (P) appealed to the supreme court.
+
+Issue
+May corporations place limitations upon the transfer of their stock?
+
+Held
+(Reavley, J.) Yes. Corporations may impose restrictions upon the transfer of their stock so long as they are reasonable restrictions. As the court of appeals noted, these restrictions must be laid out in the charter, and on the stock certificate themselves, conspicuous and present. Ling (D) did not place reasonable notice of this, but this deficiency does not entitle Trinity (P) to summary judgment sans conclusive proof of the fact that Trinity (P) lacked actual notice of the limitations on transfers. The lower court found unreasonably, that Ling’s (D) restrictions were unsound. The provisions requiring right of first refusal and NYSE approval are not unreasonable. The court of appeals was in error for finding that the right of first refusal violated a statute of buy and sell agreements only permitting such a limit if there were 20 or fewer shareholders. Ling’s (D) restriction (D) pertained to options, inapplicable to buy and sell agreements. Since the lower courts lack valid reasons to invalidate Ling’s (D) transfer restrictions, the order granting summary judgment for Trinity (P) is reversed and the case remanded.
+
+Discussion
+The Model Business Corporation Act lacks direct provisions affecting share transfer restrictions. Many states have opted to enact statutes that do. They usually require that restrictions be conspicuously placed and specifically referred to on all stock certificates to which they apply. Transfer restrictions impose upon each shareholder contractual obligations possibly enforceable by the corporation.
+

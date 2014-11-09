@@ -1,0 +1,21 @@
+Citation
+422 U.S. 590, 95 S. Ct. 2254, 45 L. Ed. 2d 416 (1975)
+
+Brief Fact Summary
+Suspect was arrested without probable cause, given Miranda twice, and confessed to murder twice.
+
+Synopsis of Rule of Law
+Miranda warnings “by themselves, [do not] assure that . . . statements . . . [are] of sufficient free will as to purge the primary taint of . . . unlawful arrest.”
+
+Facts
+Petitioner Richard Brown was arrested for murder, without probable cause.  He was taken to the station and Mirandize twice.  He confessed first after 90 minutes, and again seven hours later.
+
+Issue
+Whether a Miranda warning sufficiently breaks the causal chain between an illegal arrest and a confession.
+
+Held
+No.  Under the rule of Wong Sun, a Miranda warning is “an important factor . . . in determining whether the confession is obtained by exploitation of an illegal arrest.”  In the matter at hand, the first statement came “less than two hours” after his illegal arrest, with “no intervening event of significance whatsoever.”  The arrest “appear[ed to have] have been calculated to cause surprise, fright, and confusion.”
+
+Discussion
+“The apt question in such a case is ‘whether, granting establishment of the primary illegality [of the arrest], the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.’”
+

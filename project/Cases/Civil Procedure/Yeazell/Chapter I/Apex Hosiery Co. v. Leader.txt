@@ -1,0 +1,21 @@
+Citation
+102 F.2d 702, 1939 U.S. App. 3927, 3 L.R.R.M. 682
+
+Brief Fact Summary
+Defendant appealed an order of the court below made under Federal Rule of Civil Procedure 34 that certain documents be turned over to the Plaintiff for discovery purposes.
+
+Synopsis of Rule of Law
+A discovery order by a trial court is interlocutory, and therefore not appealable.
+
+Facts
+Plaintiff filed an action for treble damages under the Sherman Anti-Trust Act. Apex then made a discovery request of the Defendant for the discovery and production by them of documents for inspection, copying and photographing for the Plaintiff’s use at trial. After Defendant refused to produce the requested documents, the District Court ordered the production of the documents pursuant to Fed. R. Civ. Pr. 34. Defendant now appeals that order.
+
+Issue
+Whether an order issued by the trial court pertaining to discovery is appealable.
+
+Held
+No. The Third Circuit dismissed the appeal and upheld the order for production.   An order of this nature is interlocutory, and therefore, not appealable. It is only when refusal to comply with a discovery order happens to result in an order punishing criminally for contempt that a party may have review by appellate proceedings before a final judgment is issued.
+
+Discussion
+The Court found that the disposition of the discovery motion would determine the conduct of the trial and likely the outcome as well. Thus, like other motions made prior to or during trial to secure or to suppress evidence, unless the court order results in the opposing party being held in contempt, the Court will not review an appeal of a discovery order so long as the order is carefully drawn so as not to unduly pry into the opposing party’s affa
+

@@ -1,0 +1,27 @@
+Citation
+550 U.S. 330.
+
+Brief Fact Summary
+There is an ordinance requiring all trash haulers to deliver solid waste to a particular waste facility. The plaintiffs (trash haulers) brought suit stating this was unconstitutional.
+
+Synopsis of Rule of Law
+Flow control ordinances that favor the government instead of a private facility are constitutional as long as they do not violate the Dormant Commerce Clause.
+
+Facts
+This State’s legislature put into affect a flow control ordinance. It favored the Oneida-Herkimer Solid Waste Management Authority’s site and requiring all haulers to bring sold waste to their facility only. When this occurs the cost is shifted to the haulers to go to that site, whether convenient or not. This group is a state-created public benefit corporation.
+
+Issue
+Whether a flow ordinance favoring a government entity is constitutional, when the Supreme Court has previously ruled flow ordinances are not constitutional under the Dormant Commerce Clause.
+
+Held
+Yes. Previously the Supreme Court has held that ruled flow ordinances are not constitutional under the Dormant Commerce Clause. However with this case there is a major factual difference. In the first case the facility was privately owned, and in this case it is owned by the state. Disposing of trash is a traditional government activity, and the state has the right to legislate for the health safety and welfare of its citizens. This ordinances does not discriminate against out-of state versus in-state businesses, everyone must use this facility. Since it does not discriminate, and it is a government entity it does not violate the constitution. This court does not wish to regulate a government entity with the same respect it does a private entity.
+
+Dissent
+In the earlier case the facility was going to be owned by the town, the fact that this facility already is owned by a town is a technical difference not a salient one. Also this is the first time the court allowed the state to be favored when the market participant exception did not apply. Also other laws that favor the state but burden interstate commerce have been held unconstitutional, and this is no different.
+
+Concurrence
+
+
+Discussion
+The biggest issue with a flow ordinance is increase cost. However it is noted that the cost would be shifted to the people who voted for the ordinance. Discrimination under the Dormant Commerce Clause is found when there is a cost-shift to out-of state business and citizens, not when the burden falls upon all parties equally.
+

@@ -1,0 +1,24 @@
+Citation
+483 U.S. 203, 107 S. Ct. 2793, 97 L. Ed. 2d 171 (1987)
+
+Brief Fact Summary
+A federal law withheld federal highway funds from states with a drinking age of less than 21 years.
+
+Synopsis of Rule of Law
+The Spending Power of Congress has three general restrictions: (1) the spending power must be used for the general welfare; (2) the conditions must be unambiguous, allowing the states to make a knowing choice and be aware of the consequences of the choice; and (3) the conditions must be related to a federal interest in nationwide programs or projects.
+
+Facts
+Congress passed legislation allowing the Secretary of Treasury to withhold 5% of federal highway funds from those states that failed to set the legal drinking age at 21 years. South Dakota claimed this rule was an unconstitutional exercise of the Congressional spending power.
+
+Issue
+May Congress regulate activities in areas traditionally reserved to the states by using its spending power?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+The legislation is not a condition on spending reasonably related to the expenditure of federal funds. Instead, Congress is attempting to regulate the sale of alcohol, which is outside of its power to regulate commerce. That power is reserved for the states. A national minimum drinking age is not sufficiently related to interstate highways to justify the conditions of the legislation.
+
+Discussion
+Congress’ indirect use of its spending power to achieve an objective through the states is constitutional. However, the regulatory action of the state cannot violate individuals’ constitutional rights.
+

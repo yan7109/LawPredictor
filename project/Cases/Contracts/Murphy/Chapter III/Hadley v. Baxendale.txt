@@ -1,0 +1,21 @@
+Citation
+156 ER 145
+
+Brief Fact Summary
+Plaintiffs, who run a mill, needed a new crank shaft because the old one was broken. They hired Defendant to deliver the old crank shaft to Greenwich to be used as a pattern for a new crank shaft. Defendant did not deliver the crank shaft in a timely fashion and, thus, Plaintiff’s mill could not operate and lost money.
+
+Synopsis of Rule of Law
+If the special circumstances are communicated by the plaintiffs to the defendants and are known to both parties, the damages resulting from the breach of contract, which they would reasonably contemplate would ordinarily follow from a breach of contract under these special circumstances. If the special circumstances are unknown to the breaching party, then the damages are what the breaching party would reasonably contemplate in a general situation.
+
+Facts
+Plaintiffs run a mill in Gloucester. They discovered a fracture in their crank shaft of the steam engine that ran the mill. The engineering company that made the steam engine was located in Greenwich. They needed to send the old, cracked crank shaft to Greenwich for the engineers to use as a pattern in making a new crank shaft. Plaintiffs hired Defendants, curriers, to take the crank shaft to Greenwich. Defendants told Plaintiffs that if they delivered the crank shaft to them by noon it would arrive in Greenwich the next day. Plaintiffs did not tell Defendants that the mill was stopped because of the missing crank shaft. Because of some neglect, the crank shaft was not delivered for several days and, as a result, the mill could not operate and lost profits.
+
+Issue
+Should the loss of profits Plaintiffs suffered because the mill could not operate without the crank shaft be counted among damages Plaintiff receive for Defendant’s breach of contract.
+
+Held
+No. When there is a breach of contract, the injured party may be compensated for losses that are natural and probable consequences of the breach-losses that both parties could expect from such a breach. In cases when there are special circumstances that add more losses that might be expected, these losses may be counted if Plaintiff tells the defendant about the special circumstances. In this case, Plaintiff did not tell Defendants that they had only the one crank shaft and that the mill could not operate until they got a new one. A reasonable person would suppose that a mill had more than one crank shaft and was still operating. Thus, the loss of profits Plaintiffs incurred because of the fact that the mill could not operate is not a natural and probable consequence both parties could expect.
+
+Discussion
+If a reasonable person would foresee a loss resulting from a breach of contract, then the loss may be counted when calculating damages. If circumstances exist which would cause more loss-one that is not immediately foreseeable, it is the responsibility of the potential plaintiff to tell the potential defendant if the plaintiff hopes to get those losses recouped.
+

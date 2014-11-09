@@ -1,0 +1,21 @@
+Citation
+219 Kan. 550, 549 P.2d 927,1976 Kan. 398, 19 U.C.C. Rep. Serv. (Callaghan) 869
+
+Brief Fact Summary
+Appellant, Kaw Valley State Bank & Trust (the “appellant”), held two notes and two security agreements to construction equipment purchased by the appellee, John Riddle (the “appellee”). The trial court determined that the appellant was not a holder in due course of one of the notes because the construction equipment secured by the note was never delivered to the appellee.
+
+Synopsis of Rule of Law
+A holder in due course is one that purchases an instrument for value, in good faith and without notice.  A valid holder in due course takes subject to any and all defenses that can be raised against the original party.
+
+Facts
+The appellee purchased construction equipment from dealer, Co-Mac.  A number of the purchases were made on credit and Co-Mac discounted and sold the notes to the appellant.  In May 1971, the appellee negotiated for the purchase of two pieces of equipment.  The appellee was informed it would be necessary for Co-Mac to have a signed note and security agreement to complete the sale. Ten days after the note was signed, the machinery had still not arrived.  The appellee then contacted Co-Mac and negotiated the purchase of two more pieces of equipment in place of those previously ordered.  Co-Mac agreed to the new purchase and agreed to destroy the May 11, 1971 papers and sell other machinery to appellee.  However, the May 11, 1971 papers were never destroyed and the note was discounted and assigned to the appellant.  The sale of this substitute machinery was completed and the machinery was delivered after the execution of an additional note and security agreement. Thereafter Co-Mac
+
+Issue
+Is the appellant the holder in due course on the note dated May 11, 1971 and as such entitled to payment of the note?
+
+Held
+No, the judgment of the trial court was affirmed.  The appellant did not sustain its burden of proving that it was a holder in due course.  A holder in due course is one that takes the instrument (1) for value, (2) in good faith, and (3) without notice. “Good faith” is defined in K. S. A. 84-1-201 (19) as “honesty in fact in the conduct or transaction concerned.”  A person has ‘notice’ of a fact when “(a) he has actual knowledge of it; or (b) he has received a notice or notification of it; or (c) from all the facts and circumstances known to him at the time in question he has reason to know that it exists.”  There was no evidence in the case that indicated that the appellant acted dishonestly or “not in good faith” when it purchased the note of May 11, 1971. However, as to “notice of defense” the court found from all the facts and circumstances known to the appellant at the time in question it had reason to know a defense existed. The court found that the appellant had notice o
+
+Discussion
+“A holder of an instrument is a holder in due course if he takes the instrument subject to the defenses of want or failure of consideration, nonperformance of any condition precedent, nondelivery or delivery for a special purpose.”  It was undisputed in this case that appellee received no consideration after executing the note because the machinery was never delivered.  Therefore, even if the appellant was a holder in due course, the appellee’s defense is a bar to recovery.
+

@@ -1,0 +1,27 @@
+Citation
+556 U.S., 129 S. Ct. 1886, 173 L.Ed.2d 853 (2009)
+
+Brief Fact Summary
+Flores-Figueroa (Flores) (D) was convicted of the predicate crimes of illegal entry into the U.S. without inspection and misusing immigration documents, and aggravated identity theft. He pleaded that he could not be convicted of the latter crime since the government (P) had not proved his knowledge that he was using someone else’s identification at the time of the crime.
+
+Synopsis of Rule of Law
+If an individual is to be convicted of aggravated crime under 18 U.S.C. Section  1028(a)(1), the government must first prove his knowledge  that he was using someone’s else’s identification for the predicate crimes.
+
+Facts
+Figueroa-Flores (D) was a Mexican who was convicted of the predicate crimes of entering the U.S. without inspection and without proper immigration documents, as well as of aggravated identity theft under 18 U.S.C. Section  1028(a)(1). This section imposes a mandatory consecutive sentence of 2 years if convicted of certain predicate crimes accompanied by the knowing and unlawful use of another person’s means of identification. He had given his employer false social security and alien registration cards which showed his name followed by other people’s registration numbers. Flores appealed his conviction on this charge on the grounds that the Government (P) could not prove that he knew the numbers on the cards belonged to other people. The district court convicted him on all counts, and the verdict was affirmed on appeal. The Supreme Court granted certiorari
+
+Issue
+If an individual is to be convicted of aggravated crime under 18 U.S.C. Section  1028(a)(1), must the government must first prove his knowledge  that he was using someone’s else’s identification for the predicate crimes?
+
+Held
+(Breyer, J.) Yes. If an individual is to be convicted of aggravated crime under 18 U.S.C. Section  1028(a)(1), the government must first prove his knowledge  that he was using someone’s else’s identification for the predicate crimes. In ordinary English, the descriptive word “knowingly” is automatically applied to all following elements. A transitive verb which has an object is modified by the word “knowingly” in such a way that the entire action is changed. The Government could not provide any alternative usage of this kind of sentence which would illustrate its argument. Legal and criminal statutes are in the usual course meant to be understood as ordinary English would lead them to be understood. A phrase in a criminal law which uses the word “knowingly” before different elements of a crime would be read as applying the word to every separate element. Another argument of the Government is that in such a case a neighboring statute regarding terrorism would have to be understood separately though it used the same language, or that the language use in that statute was superfluous. However,  the use of the word “knowingly” in relation to “other people” would not be unnecessary in the other statute. Finally, the Government argues that the purpose of the statute is served by its interpretation, and that using any other interpretation would pose implementation problems. This argument is not strong enough to overcome the ordinary meaning of the statute, which is to protect the rights of individuals whose identification is used by others to commit crimes, but this protection is not to be achieved by allowing a person to be wrongly convicted if he does not know that the identification he is using belongs to another real person. The language of the statute in using “knowingly” followed by a list of elements which are criminal, is also evidence that the intention was not to make practical enforcement easier.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The concurrent opinions made the point that the use of the words “courts ordinarily read a phrase in a criminal statute that introduces the elements of a crime with the word “knowingly” as applying that word to each element,” should not be taken to mean that this is the unchangeable rule in construing such sentences in statutes. Justice Scalia stated that this is a description of general judicial procedure rather than prescriptive rule of law. Justice Alito also recognized the general use of this principle without thinking it too rigid a rule, but also exempted those cases in which the context could prove this a wrong rule of construction if rigidly held.
+

@@ -1,0 +1,24 @@
+Citation
+497 U.S. 177, 110 S. Ct. 2793, 111 L. Ed. 2d 148 (1990)
+
+Brief Fact Summary
+The police were invited into the apartment of the respondent, Edward Rodriguez (the “respondent”), by a third party.  Without a warrant, the police entered the apartment and found drugs and related materials.
+
+Synopsis of Rule of Law
+Warrantless searches of a premises are permitted when police have a reasonable belief that voluntary consent was obtained from a party who possesses common authority over the premises.
+
+Facts
+An acquaintance of the respondent, Gail Fischer (”Ms. Fischer”), phoned police after the respondent supposedly beat her.  She escorted the police to the respondent’s apartment, and Ms. Fischer maintained that it was “our apartment” and that she had belongings there.  She opened up the apartment with a key that, unbeknownst to the police, was never given to Ms. Fischer by the respondent.  Once inside the apartment, the police found several items of drugs and related material.
+
+Issue
+Whether the warrantless search is prohibited under the Fourth Amendment of the United States Constitution (”Constitution”) because the police did not actually receive consent from someone who legitimately possessed common authority over the premises?
+
+Held
+The search is permissible because the police had a reasonable belief that a responsible party consented to the search.  The Supreme Court of the United States (”Supreme Court”) emphasized that test was not whether the party actually had any authority over the premises, but rather whether it was reasonable for the police to believe that consent was granted from a party with authority.
+
+Dissent
+The dissent believes that exigent circumstances are required before any warrantless search, and they challenge the majority to cite cases saying that third-party consent searches are generally reasonable.
+
+Discussion
+The majority holds that the test is whether a right to be free from unreasonable searches has been violated rather than whether a party waived the right.  The majority notes that some circumstances may favor a finding of an unreasonable search even when the police are given express permission.  Further, the burden is on the state to establish common authority.
+

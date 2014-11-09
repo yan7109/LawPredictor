@@ -1,0 +1,24 @@
+Citation
+369 U.S. 186, 82 S. Ct. 691, 7 L. Ed. 2d 663 (1962)
+
+Brief Fact Summary
+Appellants brought suit, challenging malapportionment of state legislatures under the Equal Protection Clause of the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+An apportionment case may be reviewed on Fourteenth Amendment grounds, so long as these grounds are independent from political question elements.
+
+Facts
+Apportionment cases had often been brought under the Guaranty Clause of Article IV, Section: 4 of the United States Constitution (Constitution), in which the United States guarantees to the individual states a republican form of government. The Supreme Court of the United States (Supreme Court) has long held that such challenges present a political question, not addressable by the courts. In the current case, Appellants challenged the state apportionment of legislatures under the Equal Protection Clause of the Fourteenth Amendment.
+
+Issue
+Is it possible to bring a malapportionment claim without raising a nonjusticiable political issue?
+
+Held
+Yes. Reversed and remanded.
+
+Dissent
+In a vigorous dissent, Justice Felix Frankfurter (J. Frankfurter) argues the political question is inseparable from the equal protection claim and that the Supreme Court has effectively overturned a century of apportionment jurisprudence. In particular, the dissent argues that the Supreme Court has opened up all state districting to judicial oversight.
+
+Discussion
+Baker v. Carr is the first of the cases developing the Supreme Court’s “one person, one vote” legislation. This line of cases helped equalize representation between country and city dwellers in an increasingly urbanized nation.
+

@@ -1,0 +1,21 @@
+Citation
+59 F.3d 212, 313 U.S. App. D.C. 216 (D.C. Cir. 1995)
+
+Brief Fact Summary
+Robert D. Rapaport was the majority shareholder of a savings and loan association that failed. The Office of Thrift Supervision (OTS) ordered Rapaport to pay approximately $1.5 million pursuant to his agreement to personally maintain a balance in the institution at or above the minimum required by regulation.
+
+Synopsis of Rule of Law
+Deference is not owed to an agency’s interpretation of a statute that it shares with other agencies.
+
+Facts
+In order for OTS to take any “affirmative action to correct conditions resulting from violations or practices,” it had to show either that the party was “unjustly enriched,” or the party’s “conduct involved a reckless disregard for the law or any applicable regulations or prior order of a Federal banking agency” under Section:1818 of the banking statute.  The sole reason OTS concluded Rapaport was unjustly enriched was that he retained some funds belonging to Great Life (the contested capital contribution) while Great Life received the benefits of deposit insurance. Rapaport claimed that this was insufficient proof of unjust enrichment, and the court agreed.
+
+Issue
+Could OTS enforce judgment against Rapaport in an administrative proceeding, pursuant to Section:1818?
+
+Held
+No. The Court granted Rapaport’s petition for review and set aside OTS’s order.   Because OTS did not show Rapaport was unjustly enriched, it could not enforce the agreement against him in an administrative (as opposed to a judicial) proceeding.   Dissent. None.  Concurrence. When the court made the assertion in Wachtel that it need not accord deference to an agency interpretation of a shared statute, it relied on distinguishable case law. It appears to facile to conclude that deference is inappropriate simply because more than one agency is involved-the question more likely depends on the nature of the statute and how Congress has decided it should be administered.
+
+Discussion
+The agency claimed that the court should afford its interpretation of Section:1818 deference under Chevron. The Court said it already decided that issue in Wachtel, and it owed no such deference because OTC shared administration of the statute with at least three other agencies.
+

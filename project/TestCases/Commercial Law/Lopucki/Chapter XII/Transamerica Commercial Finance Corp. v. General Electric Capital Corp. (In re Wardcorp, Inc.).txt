@@ -1,0 +1,21 @@
+Citation
+133 B.R. 210,1990 Bankr. 291516 U.C.C. Rep. Serv. 2d (Callaghan) 1242
+
+Brief Fact Summary
+Transamerica Commercial Finance Corp, (Plaintiff) entered into a security agreement with Wardcorp, Inc. and filed a financing statement with the Secretary of State listing Wardcorp, Inc. as Ward Corporation Inc. When Wardcorp, Inc. filed for Bankruptcy, Plaintiff filed this proceeding naming as defendants those parties who may assert an interest in the collateral in which Plaintiff claims a secured interest.
+
+Synopsis of Rule of Law
+Under Indiana Law, an error in a debtor’s legal name is minor and not seriously misleading only if a properly executed search of the correct legal name by the Secretary of State’s office would disclose the filing without depending on the discretion of the clerk conducting the search.
+
+Facts
+Plaintiff entered into a security agreement with Wardcorp, Inc. giving it a security interest in Wardcorp, Inc.’s inventory, equipment, accounts receivable, contract rights and general intangibles. Plaintiff filed a financing statement with the Secretary of State listing Wardcorp, Inc. as “Ward Corporation, Inc., DBA Wills Furniture and Appliances” and giving three addresses. When Wardcorp, Inc. filed for Chapter 11 Bankruptcy, Plaintiff initiated this proceeding by filing its Complaint to Determine Secured Status. Plaintiff named Wardcorp, Inc. and other parties who may assert an interest in the collateral as defendants.
+
+Issue
+Whether Plaintiff’s filing under Ward Corporation, Inc. was a minor error.
+
+Held
+No. Plaintiff’s filing under Ward Corporation, Inc., was not a minor error but was seriously misleading and thus ineffective to perfect its security interest.
+
+Discussion
+A search under the correct legal name of Wardcorp, Inc., even with a special request for unspecified name variations, would not have reliably produced Plaintiff’s first filing under Ward Corporation, Inc. It would have been up to the discretion of the clerk finding the filing to note or produce it. Further, since it is not in close proximity to filings under the correct legal name, the clerk may not have even run across it in searching under the correct legal name.
+

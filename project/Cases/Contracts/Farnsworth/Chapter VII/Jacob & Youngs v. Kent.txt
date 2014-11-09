@@ -1,0 +1,24 @@
+Citation
+230 N.Y. 239, 129 N.E. 889, 1921 N.Y. 828, 23 A.L.R. 1429
+
+Brief Fact Summary
+Plaintiff Jacob & Youngs, built a house for Defendant Kent for a price of $77,000, and sued to recover the balance due of $3,483.46. Defendant specified that all pipe in the house must be Reading pipe, but inadvertently, Plaintiff installed pipe that was not Reading pipe. When Defendant discovered this defect, he demanded that the work be redone, which would have required the demolition and reconstruction of substantial parts of the house, but Plaintiff refused.
+
+Synopsis of Rule of Law
+The measure of damages for a trivial and innocent omission is not the cost of replacement but the difference in value.
+
+Facts
+Plaintiff built a house for Defendant for the price of $77,000 and sued to recover the balance due of $3,483.46. One of the specifications for construction was that all wrought iron pipe used must be Reading pipe. By the inadvertence of Plaintiff, not all pipe installed in the house was Reading pipe. When Defendant realized this, he had already begun to occupy the house. Nevertheless, he demanded that Plaintiff replace the pipe with Reading pipe. Doing so would have required Plaintiff to demolish substantial parts of the house and reconstruct it, which would have been a great expense to Plaintiff. He therefore refused and billed Defendant for the remaining amount due for the construction. Defendant refused to pay, and Plaintiff initiated this action.
+
+Issue
+Is Defendant entitled to the cost of replacement of the pipe for Plaintiff’s breach of contract?
+
+Held
+No. Equity and fairness dictate that one who unintentionally commits a trivial wrong will not be condemned to a fate so clearly out of proportion with the transgression. To permit Defendant to recover the cost of replacement of the pipe would be unduly oppressive. Instead, Defendant will be adequately compensated by recovering the difference in value of a home with the Reading pipe and the value of the home, as it exists, with a different kind of pipe.
+
+Dissent
+Plaintiff, either intentionally or grossly negligently, failed to perform the contract. Defendant had the right to have it performed correctly. Therefore, he is entitled to replacement cost.
+
+Discussion
+A person is entitled to damages that will permit him to complete that which he contracted for as he intended it to be completed. However, where the cost of completion is grossly and unfairly disproportionate to the good to be attained, the measure of damages is the difference in value.
+

@@ -1,0 +1,24 @@
+Citation
+132 S. Ct. 593, 181 L. Ed. 2d 435 (2011) [2011 BL 291324]
+
+Brief Fact Summary
+Defendant Staples was convicted under the National Firearms Act, which criminalizes the possession of a weapon that is capable of automatically firing. Defendant argued that he did not know that the gun would fire automatically.
+
+Synopsis of Rule of Law
+Absent a clear Congressional statement that mens rea is not required, the public welfare/strict liability rationale should not be applied to interpret any statute that fails to mention mental state as an element of the offense.
+
+Facts
+Defendant possessed a rifle that originally had a piece that precluded the gun from automatically firing, however that piece had bee filed down and was no longer effective. Defendant was convicted of violating the National Firearms Act, which makes possession of an unregistered firearm – a weapon capable of automatically firing more than one shot with a single pull of the trigger – punishable for up to 10 years in prison. At trial Defendant requested that the jury be instructed that the government had to prove that Defendant “knew that the gun would fire automatically”. The trial judge refused to give that instruction and Defendant was convicted. Defendant appealed and the conviction was affirmed. The Supreme Court of the United States granted review.
+
+Issue
+Did the Court err in dismissing with the intent requirement based on congressional silence in the statute with regard to the element of intent?
+
+Held
+Yes. Judgment reversed.
+
+Concurrence
+The concurring opinion focuses on the question of what level of knowledge is to be inferred into the statute as opposed to the majority’s approach which questions whether knowledge is required at all.
+
+Discussion
+This holding in this case reinforces the holding in Morrisette v. United States, 342 U.S. 246 (1952), that the mere omission from a criminal statute of the element of intent will not be construed, but for in limited cases where public welfare and safety is at stake, as eliminated the intent requirement from the crime.
+

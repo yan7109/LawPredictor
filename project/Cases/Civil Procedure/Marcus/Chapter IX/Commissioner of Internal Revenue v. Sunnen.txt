@@ -1,0 +1,21 @@
+Citation
+333 U.S. 591, 68 S. Ct. 715, 92 L. Ed. 898, 1948 U.S.
+
+Brief Fact Summary
+Sunnen (Respondent) licensed a corporation, which he controlled, and he entered into a series of agreements to use his patents in exchange for a payment of 10% royalty. He assigned his rights to these agreements to his wife, without consideration. Income from these agreements was reported on his wife’s income, and taxes were paid by her. The Commissioner of Internal Revenue (Plaintiff) contends that this income was taxable to Defendant, so a deficiency was assessed against him.
+
+Synopsis of Rule of Law
+If the relevant facts in the two cases at issue are separable, even though they be similar or identical, collateral estoppel does not govern the legal issues which recur in the second case.
+
+Facts
+The Tax Court held that all royalties paid to the wife from 1937 to 1941 were income taxable to Defendant. The one exception was royalties of $4,881.35 paid in 1937 pursuant to a 1928 agreement. There was an earlier proceeding in 1935, when the Board of Tax Appeals held that payments made to the wife from 1929 through 1931 under the 1928 agreement were not taxable to Defendant. However, as to the second suit concerning the 1928 contract, the Tax Court held that it was bound by res judicata to follow the earlier 1935 decision. Therefore, the payments were not income, and not taxable to Defendant. The United States Court of Appeals for the Eighth Circuit affirmed in part and reversed in part. It was affirmed, in that it determined that the use of res judicata was proper to exclude the payments made in 1937 pursuant to the 1928 agreement as income to the Defendant. However, the decision was reversed, in that the payments made to his wife from 1937 to 1941 were not income.
+
+Issue
+When two cases involve taxes assessed in different taxable years, should res judicata be confined to situations when the matter raised in the second case is identical in all respects with that decided in the first proceeding and when the controlling facts and applicable legal rules remain unchanged?
+
+Held
+In cases, which involve income taxes in different taxable years, collateral estoppel must be used to avoid injustice. However, its use must be confined to situations when the matter raised in the second suit is identical in all respects to the first proceeding, and when the controlling facts and applicable laws remain the same. However, if the second proceeding concerns a similar claim in a different tax year, collateral estoppel is used only to those matters in the second proceeding, which were actually decided in the first suit. The purpose of collateral estoppel is to prevent redundant litigation. The Supreme Court of the United States reversed the decision of the court of appeals and remanded for proceedings consistent with its decision.   On the issue of the payments made to the wife from 1937 to 1941, the Court found that the royalty payments were not involved in the earlier action before the Board of Tax Appeals, nor did they involve the same    year. The Court found that collateral estoppel was not proper in this case, even though the contracts were identical.  On this issue of the $4,881.35 royalties paid to his wife in 1937 pursuant to the 1928 contract, the facts, issues, and parties were identical to the earlier proceeding. However, legal principles have changed since the original decision. The Court found that there had been a significant change with the Clifford-Horst line of cases, which would have produced a different result in this case. Therefore, it found that collateral estoppel was not appropriate in this situation.   <br/><br/><span class='heading'>Dissent.</span> Justices Frankfurter and Jackson found that the judgment of the Tax Court was based on substantial evidence and was consistent with the law.
+
+Discussion
+Subsequent modifications of the significant facts or a change or development in the controlling legal principles may make that determination obsolete, or erroneous, at least for future years. As a result, the “Subsequent Facts Doctrine” applies to prevent disparate treatment to taxpayers of the same tax class.
+

@@ -1,0 +1,21 @@
+Citation
+286 F.3d 388 (5th Cir. 1961).
+
+Brief Fact Summary
+The government of Dallas County (Appellant) sued Commercial Union Assurance Co., its liability insurance carrier (Appellee), claiming that Appellee owed Appellant for damages to an insured building.  At trail, the lower court allowed Appellee to introduce into evidence a newspaper article.  Ultimately, the jury found in favor of Appellee, and Appellant appeals here.
+
+Synopsis of Rule of Law
+When an event at issue during litigation occurred so long ago that there are likely no trustworthy eyewitnesses, and when the question posed would be known throughout the community, a newspaper, although normally hearsay, is nonetheless admissible when it is a necessary, trustworthy, relevant, and material piece of evidence.
+
+Facts
+The clock tower at the Dallas County Courthouse in Alabama fell into the courtroom one Sunday morning in 1957; because it was a Sunday, nobody was hurt, but the courthouse nonetheless suffered over $100,000.00 in damages from the tower’s collapse.
+
+Issue
+Was the newspaper evidence properly admissible to show that the Dallas County Courthouse was damaged by fire in 1901?
+
+Held
+Yes; affirmed.
+
+Discussion
+The court reasoned that although the newspaper did not fall under any, “readily identifiable and happily tagged species of hearsay exception,” it was nonetheless properly admissible because it of its necessity, trustworthiness, relevance, and materialness, and because the lower court judge has the discretion to admit it as such.  Federal Rule of Civil Procedure 43(a), the court reasoned, “is a rule of admissibility, not exclusion . . . [and] [a]lthough the rule specifies three categories of evidence that shall be admitted, it does not prohibit the receipt of probative evidence outside the three categories.”  The court goes on, “[t]he trial judge may exercise his discretion, if he keeps the hearing within reasonable bounds.”  Because, the court reasoned, “evidentiary rules are to aid the search for truth,” the newspaper was properly admissible evidence.
+

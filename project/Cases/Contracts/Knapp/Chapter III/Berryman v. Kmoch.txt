@@ -1,0 +1,21 @@
+Citation
+22 Ill.221 Kan. 304, 559 P.2d 790 (1977)
+
+Brief Fact Summary
+Plaintiff Berryman, filed a declaratory judgment action seeking to have an option contract between himself and Defendant Kmoch, declared null and void. Defendant seeks damages for Plaintiff’s failure to convey the land.
+
+Synopsis of Rule of Law
+An option contract without consideration is an offer to sell which may be withdrawn at any time before acceptance.
+
+Facts
+Plaintiff signed a written option agreement drawn up by Defendant. The agreement stated that “[f]or $10.00 and other valuable consideration” an option would be granted for 120 days. However, the $10.00 was not paid. Prior to the duration of the 120 days, Plaintiff contacted Defendant and asked to be released from his obligation under the option agreement. The parties were unable to work out anything definite. Plaintiff then sold the land to another person. After Plaintiff sold the land, Defendant attempted to exercise the option. Defendant was informed that the land had already been sold. Defendant continued in his attempts to exercise the option.
+
+Issue
+Can Defendant enforce the option agreement?
+
+Held
+No. Defendant cannot enforce the option agreement under either theory
+
+Discussion
+To have a valid option contract there must be consideration. Without consideration the offer to sell may be revoked at any time before it is accepted. At times it may be possible to use promissory estoppel to substitute for consideration and limit the revocability of the offer. However, for promissory estoppel to apply all of the elements must be met, including reasonability of reliance on the promise.
+

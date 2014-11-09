@@ -1,0 +1,21 @@
+Citation
+918 F.2d 38, 1990 U.S. App. 31 Fed. R. Evid. Serv. (Callaghan) 998
+
+Brief Fact Summary
+The Mills’ family residence, which was insured by the Maryland Casualty Company, was completely destroyed by fire.  After inspecting the site, the insurance company refused to pay the claim, concluding the fire was a product of arson.
+
+Synopsis of Rule of Law
+The district court acted correctly both in admitting the contents of the telephone call to the Mills’ residence and in denying plaintiff’s motion for j.n.o.v.
+
+Facts
+The Mills’ family residence was insured by the Maryland Casualty Company and was subsequently destroyed by fire.  About fifteen minutes after the fire began, a police dispatcher called the Mills’ new residence and was informed that they were not at home.  Neighbors had seen lights on in the home earlier in the day despite the property being uninhabited, and one stated they had seen a pickup truck on the access road to the house.  Mr. Mills owned a pickup truck.  The insurance company concluded the fire had been intentionally set and refused to pay on the policy.
+
+Issue
+Did the trial court abuse its discretion by failing to sustain an objection that the police dispatcher’s testimony about the phone call was both unauthenticated and hearsay?
+
+Held
+The trial court did not abuse its discretion by overruling the authentication objection.
+
+Discussion
+All that is necessary in authenticating a phone call is that the proponent offer sufficient authentication to make a prima facie case that would allow the issue of identity to go to the jury. This burden was met here.
+

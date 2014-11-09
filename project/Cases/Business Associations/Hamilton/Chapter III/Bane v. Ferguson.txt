@@ -1,0 +1,21 @@
+Citation
+890 F.2d 11 (7th Cir. 1989)
+
+Brief Fact Summary
+Ferguson (D) and other firm managers (D) are being sued by Bane (P) who claims they negligently breached fiduciary duties when they cancelled his retirement benefits.
+
+Synopsis of Rule of Law
+No liability attaches to a dissolution of a company if it was motivated by good faith judgment for the corporation’s benefit and not the personal gain of the officers.
+
+Facts
+Bane (P) was a former partner in a law firm which he receives pension pursuant to a noncontributory company retirement plan. The plan stipulated that payments would end if the firm dissolved without a successor entity. Several months later, the firm merged with another Chicago firm. The merger failed and the firm dissolved without a successor, leading to the end of Bane’s (P) retirement benefits. Bane (P) filed a suit claiming negligent mismanagement on Ferguson (D) and the other members’ (D) parts in deciding to merge, making certain purchases, and leaving the firm before its dissolution. The district court dismissed, so Bane (P) appealed.
+
+Issue
+Does liability attach if the dissolution of a company was motivated by good faith judgment for the corporation’s benefit and not the personal gain of the officers?
+
+Held
+(Posner, J.) No. Liability does not attach if the dissolution of a company was motivated by good faith judgment for the corporation’s benefit and not for the personal gain of the officers. Here, competence, not good faith, was complained of. Ferguson (D) owes no fiduciary duty to Bane (P) because he is no longer an active partner. Even if fiduciary duty did exist, business judgment rule would protect Ferguson (D). Affirmed
+
+Discussion
+The court examined Bane’s (P) four different theories of liability. As an inactive partner, the Uniform Partnership Act was inapplicable since its purpose is to protect active partners. Fiduciary duty did not exist either, nor was there breach of contract, nor tort liability either.
+

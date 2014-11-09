@@ -1,0 +1,21 @@
+Citation
+22 Ill.139 F. Supp. 408 (E.D. Pa. 1956)
+
+Brief Fact Summary
+Plaintiff sued Defendant, alleging Plaintiff was injured by a forklift owned Defendant and operated by Defendant’s employee, which Defendant generally denied in its answer to the complaint. After the statute of limitations had passed, discovery revealed that Defendant did not own the forklift and Defendant’s employee was not operating the forklift. Plaintiff sought a pretrial order that Defendant admitted ownership of the forklift and agency of the operator of the forklift, on the grounds that Defendant’s general denial was ineffective.
+
+Synopsis of Rule of Law
+Under Rule 8(b) of the Federal Rules of Civil Procedure, allegations in a complaint that are not specifically denied are deemed admitted.
+
+Facts
+Plaintiff Zielinski sued Philadelphia Piers, Inc., Defendant, alleging that a forklift, owned by Defendant, caused Plaintiff’s injuries that occurred when Plaintiff was in a collision with another forklift on a pier. Defendant generally denied this section of the complaint. Carload Contractors, Inc., the employer of the operator of the other forklift, filed a claim with their insurance company regarding the accident. Defendant sent a letter to its insurance company stating that Plaintiff was injured by a forklift. In addition, Defendant asked the insurance company to answer that the complaint should be filed against Carload Contractors and not Defendant because the forklift was operated by Sandy Johnson, an employee of Carload Contractors. Defendant was also aware of this error and investigated whether Defendant and not Carload Contractors, owned the forklift. Johnson stated he was Defendant’s employee in his deposition. At a pre-trial conference over two and a half years later, Plaintiff first found out that over a year before the accident, the business of moving freight on the pier was sold from Defendant to Carload Contractors. Johnson was thus transferred to Carload Contractors’ payroll, but was unaware of the change. Defendant admitted that it owned the forklift, which was leased to Carload Contractors. Plaintiff sought a declaration that Defendant owned the forklift and that the employee driving the forklift was Defendant’s employee.
+
+Issue
+Was the general denial by Defendant to Plaintiff’s allegations that Plaintiff was injured by a forklift owned by Defendant effective to deny that Defendant owned the forklift?
+
+Held
+No. Ownership of the forklift and Johnson’s agency are deemed admitted by Defendant.  The general denial of Plaintiff’s allegations that Plaintiff was injured by a forklift owned, operated, and controlled by Defendant was ineffective because Defendant admitted in its letter to the insurance company that Plaintiff was injured by a forklift. In order to be effective, Defendant must have specifically denied ownership of the forklift.   Under Pennsylvania law, an allegation of agency is deemed admitted if the Defendant seeks to amend the answer after the time limitation for doing so has expired.  Under the doctrine of equitable estoppel, Defendant cannot take advantage of Plaintiff’s mistake when the mistake was perpetuated by Defendant’s inaccurate responses regarding ownership and agency.
+
+Discussion
+This case illustrates the consequences of generally denying allegations in a complaint. In this situation, estoppel is an additional ground for deeming the facts to be admitted because Defendant knew that it did not own the forklift yet failed to apprise Plaintiff of this fact. In practice, a complaint should always be answered paragraph by paragraph.
+

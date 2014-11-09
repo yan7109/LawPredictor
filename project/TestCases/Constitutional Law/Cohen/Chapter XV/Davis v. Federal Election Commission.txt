@@ -1,0 +1,24 @@
+Brief Fact Summary
+Jack Davis (P) was a wealthy candidate of the Democratic Party who sued the Federal Election Committee, citing the law which raises the ceiling for campaign contributions for any political candidate whose rival has spent a specified amount from  his own personal wealth as unconstitutional.
+
+Synopsis of Rule of Law
+The Millionaire’s Amendment to the 2002 law on campaign finance, which raises the ceiling for campaign contributions for any candidate who is contesting against a rival financing his own campaign by his own wealth, is a violation of the First Amendment.
+
+Facts
+Jack Davis (P) was a rich candidate for the Democratic Party who was standing for Congress from the 26th Congressional District of New York. He filed against the constitutional standing of the Millionaire’s Amendment, as it was called, an amendment to the Bipartisan Campaign Reform Act of 2002, which increases the permissible amount of contributions for a candidate who is contesting against a rival who spends a certain specified amount from his own personal wealth. He sued on the grounds that it was unconstitutional in that it violated the First Amendment as well as the Equal Protection clause which may be read into the Fifth Amendment. The suit was dismissed on both grounds by the district court.
+
+Issue
+Is the Millionaire’s Amendment, which allows a candidate to receive more campaign contributions if he is running against a rival who spends a specified amount from his own funds on his own campaign, a violation of the freedom of speech guaranteed by the First Amendment?
+
+Held
+(Alito, J.) Yes. The Millionaire’s Amendment to the 2002 campaign finance reform statute which raises the ceiling for contributions for candidates contesting against a self-financed candidate is in violation of the First Amendment. The law in question is discriminatory in not raising the contribution ceiling all around, but only for the candidate who is not using his own wealth to finance his campaign, and then only under condition that the self-financing rival’s spending reaches a specified limit. In such a case the choices of Davis are limited by the law. He can spend his own money to run his campaign only if he is willing to let another candidate have an increased contribution limit; or he can spend less than he really wants to and  thusbe compelled by the law to curb his speech. This law thus puts a significant restriction on his freedom of speech. The government will have to show a compelling interest to be served which justifies this provision. The interests here sought to be served are providing a level electoral playing field for all candidates irrespective of personal wealth,  avoiding corruption, and reducing the harm done by the tight limits on campaign contributions, and these are not substantial enough to justify such a high level of burden. Imposing different levels of contribution ceilings on candidates contesting the same office is the opposite of the freedom protected by the First Amendment and the decision of the lower court is reversed. The case is remanded.
+
+Dissent
+(Stevens, J.) Davis has standing on the issue. However, the First Amendment is not in issue here. Putting a cap on expenditure incurred during an electoral campaign could have several aims, like removing the burden of fundraising, raising the quality of communication of ideas and  so on. The purpose of the law considered in this case is a bona fide reduction of the importance of  a candidate’s personal wealth in his electoral campaign, an attempt made in good faith by Congress to fairly put to rest the public idea that any one with sufficient wealth can get into Congress. The law does not attack the rich candidate’s speech or limit his speech in anyway, but only helps his rival to make his opinions public to the same extent.
+
+Concurrence
+(Ginsberg, J.) I agree with Justice Stevens, except in that he refers to Buckley and Stevens, which makes difference between campaign spending and the limit on contribution, and eventually ended in the ruling that a limit on expenditure necessarily means a limit on the quantity of political speech. In the present case the court was not required to overrule this holding, so the question should be addressed in some other case.
+
+Discussion
+The  Court usually reverses campaign finance laws if they limit political speech or ignore a question of corruption which can be marked. On the contrary,  a law which is challenged because of their wording is usually let alone. In this case there was an inhibition on the speech of a political candidate but no corruption of issue to be corrected.
+

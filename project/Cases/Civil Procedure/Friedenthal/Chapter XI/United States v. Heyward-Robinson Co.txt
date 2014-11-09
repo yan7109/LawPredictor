@@ -1,0 +1,21 @@
+Citation
+22 Ill.430 F.2d 1077 (2d Cir. 1970)
+
+Brief Fact Summary
+Plaintiff sued Defendant for breach of a contract performed for the Navy under the Miller Act, which names the United States as the party plaintiff. Defendant counterclaimed against Plaintiff for overpayments on both the Navy contract and a private contract and Plaintiff filed a reply counterclaim against Defendant on the private contract. Judgment was rendered against Defendant on the reply counterclaim and Defendant appealed arguing lack of subject matter jurisdiction.
+
+Synopsis of Rule of Law
+Counterclaims need only have similar circumstances to the subject matter of the litigation in order to be compulsory. There need not be identical facts.
+
+Facts
+Plaintiff D’Agnostino Excavators, Inc. sued Defendant Heyward-Robinson Co. in federal court under the Miller Act (which names the United States as the party Plaintiff) for breach of contract involving a Navy job. Defendant counterclaimed for overpayments made on the Navy contract and another contract involving a private party (”the Stelma job”). Plaintiff filed a reply counterclaim against Defendant on the Stelma job to recover money due from Defendant on that job. Both the Navy job and the Stelma job were treated together in the lawsuit. Progress payments were to be made on both jobs in a lump sum. There was one insurance policy covering both jobs. Defendant had the right under the contract to withhold payment for both jobs if there were any damages suffered on either job. Plaintiff claimed that Defendant breached both contracts by not making progress payments and Defendant claimed Plaintiff breached both contracts by allowing its insurance to lapse. The jury found Defendant
+
+Issue
+Did the counterclaims involving the Stelma job arise out of the same transaction or occurrence of the Navy job in order to make them compulsory under Rule 13(a) of the Federal Rules of Civil Procedure?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The majority opinion gives specific examples of how counterclaims can be considered “compulsory.” The factual similarities and the parties’ treatment of the two contracts as one hinged on the Court’s finding that the claims were compulsory. Compare with Judge Friendly’s concurring opinion that notes that the factual similarities should not be the focus of the analysis but whether a party would have to bring the counterclaim in response to the original pleading.
+

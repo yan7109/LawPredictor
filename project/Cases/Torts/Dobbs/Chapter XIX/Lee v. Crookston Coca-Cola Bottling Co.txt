@@ -1,0 +1,24 @@
+Citation
+290 Minn. 321, 188 N.W.2d 426 (1971)
+
+Brief Fact Summary
+The Polk County District Court (Minnesota) returned a general verdict in favor of Crookston Coca-Cola Bottling Co. (Defendant) in suit brought by Plaintiff to recover damages for injuries she sustained from the alleged explosion of a soda bottle that had been bottled by defendant bottling company. Plaintiff appealed.
+
+Synopsis of Rule of Law
+When it could be inferred from circumstantial evidence that it is more probable than not that a product was defective when it left the manufacturer’s hands the issue of liability should be submitted to the jury on strict liability theory.
+
+Facts
+Plaintiff, a waitress in a Minnesota restaurant, was injured when a Coca-Cola bottle exploded in her hand. The evidence submitted showed that the bottle had in fact exploded, that it had not been exposed to extremes of temperature, and that it had not struck anything. The judge refused to permit a claim under strict tort liability; instead he submitted the case to a jury on the theories of breach of implied warranty and negligence under the doctrine of res ipsa loquitur. The jury found no negligence or breach of warranty and found for the Defendant. The Plaintiff appealed, asserting that the judge improperly precluded the strict liability claim in his instruction to the jury.
+
+Issue
+Is circumstantial evidence sufficient to submit a case to a jury on the theory of strict liability as well as on a negligence theory?
+
+Held
+The Supreme Court of Minnesota reversed and remanded for a new trial because the trial court committed reversible error by submitting the contributory negligence issue to the jury when the record was devoid of any evidence upon which a finding of contributory negligence could be sustained. A new trial was also necessary because the trial court erroneously refused to submit Plaintiff’s requested strict liability theory to jury.
+
+Dissent
+The dissent takes the view that in its decision, the majority virtually precludes a defense on the part of the manufacturer: “[t]he practical result is to impose absolute liability upon the manufacturer, as an insurer, in bottle explosion cases. It now is only theoretically necessary for the injured consumer to establish the existence of a dangerous defect in the exploded bottle for, by resort to the doctrine of res ipsa loquitur, the mere happening of the event is held sufficient to prove the defect. Res ipsa, moreover, no longer gives rise merely to a permissible inference but will compel a favorable finding for the injured consumer.”
+
+Discussion
+The court begins with a general examination of the Restatement Section: 402A, which provides for strict liability in tort for anyone “who sells a product in a defective condition unreasonably dangerous to the user or consumer or his property.” “To recover under the rule of strict liability, an injured party must present evidence, direct or circumstantial, from which a jury can justifiably find that (1) the product was in fact in a defective condition, unreasonably dangerous for its intended use; (2) such defect existed when the product left defendant’s control; and (3) the defect was the proximate cause of the injury sustained.” The court stated that the critical element is the second, noting “[t]he mere fact of injury during use of a product usually is insufficient proof to show existence of a defect at the time a defendant relinquished control.” The manner of proving was the central issue in this case, and as the court pointed out, “[w]hen a plaintiff has proved that he was in
+

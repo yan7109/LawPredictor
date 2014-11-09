@@ -1,0 +1,21 @@
+Citation
+22 Ill.717 F.2d 413 (7th Cir. 1983)
+
+Brief Fact Summary
+A contractor’s work was rejected due to a provision in the construction contract stating that all matters relating to “artistic effect” were subject to the final approval of the owner.
+
+Synopsis of Rule of Law
+An objective standard of reasonableness is the proper standard to employ in a construction contract for commercial building.
+
+Facts
+General Motors hired the Defendant, Baystone Construction, Inc. (Defendant), to build an addition to one of its factories. The Defendant hired the Plaintiff, Morin Building Products Company (Plaintiff), to supply and construct the aluminum walls of the factory. The contract required the Plaintiff to supply aluminum with a mill finish that would match the existing metal siding. It also contained a clause providing that “all work shall be done subject to the final approval of the Architect or Owner’s authorized agent, and his decision in matters relating to artistic effect shall be final.” After the completion of the walls, General Motor’s agent rejected the work on the ground that the building did not have a uniform finish, as required by the contract. The Defendant refused to pay the Plaintiff the balance of the contract price. The lower court issued judgment for the Plaintiff. The Defendant appealed on the basis that an objective standard was used to find that General Motor’s
+
+Issue
+Is an objective standard the proper standard to invoke in contract cases involving the construction of commercial buildings?
+
+Held
+Yes. Judgment affirmed. An objective standard is the appropriate standard to employ in a contract for the construction of a commercial building. Therefore, General Motor’s rejection of the Defendant’s work on aesthetic grounds was unreasonable.
+
+Discussion
+The court arrived at its conclusion by performing a textual analysis of the contract. While the contract explicitly referred to “artistic effect,” it found that this was a form contract and the term was qualified in such a way that limited its effect to cases where a buyer is specifically trying to achieve a certain aesthetic, such as when buying a painting. The court also examined the intentions of the parties. It reasoned that the parties would not have intended to allow the work to be rejected on artistic grounds, as this would have resulted in an extremely high, almost impossible standard that would have caused the Plaintiff to demand higher compensation. The court also reasoned that if a uniform finish was important to the Defendant, it would have specified the use of a painted finish instead of aluminum, which is extremely difficult to make un
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.480 U.S. 102, 107 S. Ct. 1026, 94 L. Ed. 2d 92 (1987)
+
+Brief Fact Summary
+Zurcher (Plaintiff), a motorcyclist, sued various defendants in a California state court alleging that the tire on his motorcyclist was defective, causing his injury and the death of his wife. One defendant filed a cross-complaint against another defendant, Asahi, the manufacturer of the tire valve assembly. Asahi is a Japanese corporation that does no business in the United States. Asahi moved to dismiss for lack of personal jurisdiction.
+
+Synopsis of Rule of Law
+A state cannot exercise personal jurisdiction over a foreign defendant when it would impose a serious burden on the defendant to litigate in the forum state and the interests of the plaintiff are slight.
+
+Facts
+Zurcher filed a product liability action in a California state court, alleging that a tire on the motorcycle blew out and that the tire, along with its tube and sealant, were defective. Zurcher settled with the manufacturer of the tube, a Taiwanese company named Cheng Shin Rubber Industrial Co. Cheng Shin then filed a cross complaint against Ashahi Metal Industry Co., the manufacturer of the tire valve assembly, seeking indemnification. Asahi is located in Japan. Sales between Cheng Shin and Asahi typically took place in Taiwan and products were be shipped from Japan to Taiwan. An affidavit from Cheng Shin stated that Asahi knew that the tire tubes containing Asahi’s product would be shipped to the United States and would be subject to lawsuits in California. The trial court denied a motion to quash the summons because Asahi does business on an international scale. The Court of Appeals issued a writ of mandate commanding the trial court to quash summons, holding that jurisdict
+
+Issue
+In order to establish the minimum contacts required for a state to assert personal jurisdiction, must jurisdiction arise out of an action purposefully directed toward the forum state, or is the foreseeability of the product entering the forum state through a stream of commerce sufficient?
+
+Held
+Yes. (Plurality)
+
+Discussion
+This case reinforces the requirement of “purposeful availment” in order to establish minimum contacts with the forum state. In addition, the concurring opinions range from a broad interpretation of the minimum contacts (Justice Brennan’s stream of commerce theory) to a strict interpretation by Justice Stevens (there is no need for a minimum contacts analysis if exercising jurisdiction would be unfair). Be sure to note that this is only a plurality decision, making this case persuasive but not mandatory authority.
+

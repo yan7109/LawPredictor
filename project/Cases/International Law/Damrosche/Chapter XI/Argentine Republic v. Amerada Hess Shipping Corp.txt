@@ -1,0 +1,21 @@
+Citation
+488 U.S. 428 (1989)
+
+Brief Fact Summary
+By basing its suit under the Alien Tort Statute, a pair of Liberian corporations (P) sought to sue the Argentine Republic (D) in the United States courts.
+
+Synopsis of Rule of Law
+Jurisdiction over foreign states is not conferred under the Alien Tort Statute.
+
+Facts
+A Liberian corporation named United Carriers Inc (P) chartered a vessel known as the Hercules, to Amerada Hess Shipping Corporation (P), which was another Liberian corporation. Transportation of fuel was the rationale behind the charter of the ship. During the 1983 Falkland Islands Wars, the vessel was irreparably damaged while it was off the South American coast and it had to be scuttled.
+
+Issue
+Is jurisdiction over foreign states conferred under the Alien Tort Statute?
+
+Held
+(Rehnquist, C.J) No. Jurisdiction over foreign states is not conferred under the Alien Tort Statute. What the statute confers is jurisdiction in district courts over suits brought by aliens’ n tort for contravening the international law or U.S. treaties. The law does not categorically state its applicability to suits against foreign states
+
+Discussion
+Although it might seem that the focus of the FSIA is commercial in nature, scores of commercial activities occur beyond the United States which can lead to a foreign state’s being sued in a U.S. court. This is however not applicable in the tort arena.
+

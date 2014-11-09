@@ -1,0 +1,21 @@
+Citation
+50 F.3d 644 (9th Cir. 1995)
+
+Brief Fact Summary
+During a buyout, an MCA insider, Wasserman, promised his stock to Matsushita (Defendant) however, the promise was dependent on a fruitful tender offer and the consideration paid to Matsushita being higher than the tender offer price.
+
+Synopsis of Rule of Law
+If a stock contract is a vital part of a tender offer and the consideration paid for the stock varies from that in the tender offer then the contract violates Rule 14d-10.
+
+Facts
+Matsushita wanted to obtain MCA Corp. in a tender offer, requiring an MCA insider, Wasserman, to pledge his shares to Matsushita ahead of time, partially to keep his employment with MCA after it changed hands. An arrangement was drafted where after the tender offer closed, Wasserman would exchange his shares. In consideration for the pledge, Wasserman was to obtain shares ina holding company with the value of the shares being connected to the tender offer price by a systemguaranteeing that the value would be higher than the tender offer price. The entire arrangement between Wasserman and Matsushita would diffuse if the tender offer went unfulfilled.  Previous shareholders of the MCA filed suit, claiming discrimination in a tender offer in violation of Rule 14d-10. The case was appealed.
+
+Issue
+Does a stock that is a vital portion of a tender offer, whose consideration paid is higher than that of the offer price, violate Rule 14d-10?
+
+Held
+(Norris, J.) Yes.     When the consideration paid for a stock varies from that in the tender offer, if the stock transaction is a vital portion of that tender offer, then the transaction violates Rule 14d-10. Tender offers not open to all shareholders or offered at varying prices are prohibited by Rule 14d-10.  Although Matsushita contends that the Rule is only applicable during a set timeframe, and that in this case the time frame expired, the Rule’s antidiscrimination goals would be easily evaded by individuals if the aforementioned were true. No detriment would have befallen Matsushita or Wasserman if the offer was unsuccessful, they could have just backed out, and therefore, without the assumption of extra burden, the offer extended to Wasserman established a special premium over the tender offer. Reversed and remanded.
+
+Discussion
+Much like many rules issued by theSEC , the court construction of Rule 14d-10 has been criticized with the concern being that the application is too uncertain.  The ambiguity in the scope of the Rule makes it hard for individuals involved in tender offers need to know the entire extent of their legal rights with reasonable certainty.
+

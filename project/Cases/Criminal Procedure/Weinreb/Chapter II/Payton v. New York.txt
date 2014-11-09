@@ -1,0 +1,24 @@
+Citation
+445 U.S. 573, 100 S. Ct. 1371, 63 L. Ed. 2d 639 (1980)
+
+Brief Fact Summary
+The Supreme Court of the Untied States (”Supreme Court”) consolidated two cases in this decision. The police entered the homes of the defendants, Theodore Payton (”Mr. Payton”) and Obie Riddick (”Mr. Riddick”)(the “defendants”), without a warrant and subsequently confiscated evidence found on the premises.
+
+Synopsis of Rule of Law
+The Fourth and Fourteenth Amendments of the United States Constitution (”Constitution”) prohibit warrantless entries for searches of homes, absent exigent circumstances, even when there is probable cause.
+
+Facts
+New York police believed that Mr. Payton was responsible for murdering a gas station manager two days prior to his arrest. Six officers went to Mr. Payton’s apartment and, when no one answered their knock, forcibly entered. Upon entering, they saw a shell casing in plain view that would later be admitted into evidence.<br /> New York police arrested Mr. Riddick in 1974, three years after the two robberies that he was charged for were committed. Again, the police entered his home without a warrant, and they found narcotics in a drawer two feet from where Mr. Riddick was arrested.<br /><br /><span class='heading'>Issue.</span> Whether there is an illegal search and seizure when, without a warrant, police search a home during the course of an arrest and seize evidence where there is probable cause, but no exigent circumstances?
+
+Held
+It is unconstitutional, under the Fourth Amendment of the Constitution, to search a home during an arrest when there is no arrest warrant and there are no exigent circumstances. The Supreme Court holds that the entrance to a person’s home is a critical point where constitutional safeguards are heightened. This is true even when probable cause exists or when there is statutory authority permitting the searches.
+
+Dissent
+The dissent reasons that the common law rule that puts four main restrictions on house arrests (it has to involve a felony, the police need to knock and announce their presence, the arrest needs to be in the daytime, and their needs to be stringent probable cause), satisfy the constitutional safeguards. The dissent found that all four restrictions were met in both cases at issue, including the likelihood that the defendants were home at the time, and therefore the convictions should stand.
+
+Concurrence
+Justice Harry Blackmun (”J. Blackmun”) emphasized that the majority opinion here was not contrary to his earlier opinion in United States v. Watson (423 U.S. 411 (1976)), wherein he condoned a warrantless arrest in a public space.
+
+Discussion
+The Supreme Court, in both the majority and concurring opinions stress the sanctity of the home in distinguishing Watson, which allowed a warrantless arrest in a public space, from the current case. The Supreme Court still allows the arrest under exigent circumstances, such as the high probability that a suspect would flee or if lives were in danger. The dissent argues that the term exigent circumstances is vague and will only bring more litigation.
+

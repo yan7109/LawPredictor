@@ -1,0 +1,21 @@
+Citation
+212 F.3d 210, 2000 U.S. App.
+
+Brief Fact Summary
+Appellants owned and operated a business and faced significant financial difficulties. As a result, Appellants arranged an insurance fraud scheme which involved a portion of their warehouse to be damaged so that funds received by an insurance company could be used to recoup financial losses. The Court of Appeals affirmed the trial court’s convictions of the defendants for, conspiracy to defraud an insurance company, mail fraud, and wire fraud.
+
+Synopsis of Rule of Law
+A District Court is to grant a new trial based on allegedly newly discovered evidence only when the following five part test is met: a. the evidence must be in fact newly discovered (i.e., discovered since trial); b. facts must be alleged from which the court may infer diligence on the part of the movant; c. the evidence relied on must not be merely cumulative or impeaching; d. it must be material to the issues involved; and e. it must be such, and of such nature, as that, on a new trial, the newly discovered evidence would probably produce an acquittal.
+
+Facts
+Appellants, Isaac Saada, and his son, Neil, owned and operated a business named Scrimshaw Handicrafts (Scrimshaw).  Appellants faced significant financial difficulties and so contacted Ezra Rishty, Isaac’s cousin, for help in an insurance fraud scheme.  Rishty was a public insurance adjuster who conspired with various clients in over 200 prior fraudulent insurance schemes. Then, Rishty enlisted the help of Morris Beyda and Sal Marchello who assured Rishty that Chubb Insurance Group would handle the Scrimshaw claim.
+
+Issue
+Was the standard applied by the trial court in denying a motion for new trial under Federal Rule of Criminal Procedure 33 correct? Did the trial court properly interpret the vouching by the prosecutor for the credibility of witnesses?
+
+Held
+The allegedly newly discovered evidence relating to government witnesses did not warrant a new trial. Evidence of specific instances of prior misconduct of a declarant who was unavailable to testify at trial was improper, but its admission was harmless. Evidence that one defendant participated in another, uncharged insurance fraud scheme was admissible and not unduly prejudicial. Prosecutor did not improperly vouch for the credibility of witnesses.
+
+Discussion
+Rulings to admit or exclude evidence are reviewed for an abuse of discretion if they are based on a permissible interpretation of the Rules of Evidence.  An error is harmless if “it is highly probable that the error did not contribute to the judgment.”  United States v. Gibbs, 190 F.3d 188, 213 (3d Cir. 1999).  Also, a decision can be revered only if there is “error in the prosecutor’s comments so serious as to undermine the fundamental fairness of the trial and contribute to a miscarriage of justice.”  United State v. Walker, 155 F.3d 180, 188 (3d Cir. 1998).
+

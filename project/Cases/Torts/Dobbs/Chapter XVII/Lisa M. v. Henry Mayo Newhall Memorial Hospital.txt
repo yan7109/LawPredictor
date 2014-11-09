@@ -1,0 +1,24 @@
+Citation
+12 Cal.4th 291, 48 Cal.Rptr.2d 510, 907 P.2d 358 (1995)
+
+Brief Fact Summary
+The trial court granted summary judgment in favor of Defendant in an action brought by Plaintiff after an ultrasound technician employed by Henry Mayo Newhall Memorial Hospital (Defendant) sexually molested her. The Court of Appeals of California reversed, and Defendant appealed.
+
+Synopsis of Rule of Law
+The rule of respondeat superior is applied when an employer is vicariously liable for the torts of its employees committed within the scope of the employment. An employee’s willful, malicious and even criminal torts may fall within the scope of his or her employment for purposes of respondeat superior, even though the employer has not authorized the employee to commit crimes or intentional torts.
+
+Facts
+Plaintiff, a 19 year-old pregnant woman, was injured in a fall and went to an emergency room for treatment. The examining physicians directed a technician to perform obstetrical and upper-right quadrant ultrasound exams. The technician sexually molested the young woman under the guise of examination. The patient sued both the technician and the hospital. The trial court granted summary judgment in favor of the hospital and the court of appeals reversed.
+
+Issue
+Did the ultrasound technician’s tortious actions fall within the scope his of employment thus making the hospital liable?
+
+Held
+No. The court overturned the appellate court’s reversal of the trial court’s grant of summary judgment in favor of Defendant, and remanded for further proceedings. The court concluded that the trial court did not err in granting summary judgment; the Defendant could not have been held vicariously liable under the doctrine of respondeat superior for the ultrasound technician’s actions in sexually assaulting Plaintiff during an exam.
+
+Dissent
+* The first of two dissents in the Lisa M. case centered on whether summary judgment, a question of law, was proper. Asserting that it was not, the dissent stated that it was a question for the trier of fact. The dissent concluded that the opportunity for sexual assault may well have arisen due to the circumstances of the technician’s employment.<br />* The second dissent echoes the questioning of the majority’s reasoning in reversing the court of appeals decision to overturn the lower court’s summary judgment. This dissent concluded that respondeat superior is a broad rule, which may encompass those acts, which do not benefit the employer. “Scope of employment in this case, as in most cases, is a question of fact to be resolved by the trier of fact.”<br />
+
+Discussion
+The Lisa M. case illustrates the complexity inherent in fulfilling the causation requirement for a negligence claim within the framework of the respondeat superior doctrine. Generally, an employer will not be held liable for an assault or other intentional tort that did not have a causal nexus to the employee’s work. In this case, the court was reluctant to find that a sexual tort was within the scope of someone’s employment. It further found that the connection between the hospital’s interests and the technician’s tortious acts is too tenuous.
+

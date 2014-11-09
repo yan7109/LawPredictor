@@ -1,0 +1,24 @@
+Citation
+2007 WL 496612.
+
+Brief Fact Summary
+Plaintiff was struck by someone driving a Budget Rental Car.
+
+Synopsis of Rule of Law
+A person’s domicile is decided by several factual considerations the court will take into consideration, and a federal court must have complete diversity between parties in order to have jurisdiction over the case.
+
+Facts
+Angela Ochoa was driving a Ford Explorer. She was rear-ended by Paul Gaully who was driving a Budget rental car. Ms. Ochoa brought suit in state court against Mr. Gaully, Budget Rent A Car Systems Inc, and PV Holdings Corp (the Corporation in charge of Budget). When Ms Ochoa filed suit Mr. Gaully lived in Texas with family, having evacuated after Hurricane Katrina. PB Holding Corp filed a motion to remove the case to federal court, and Ms. Ochoa filed a motion to remand the case back to state court.
+
+Issue
+Whether the court has subject matter jurisdiction over the case when a defendant was domicile in the same state as the plaintiff state, but has since evacuated.
+
+Held
+No. In order for the federal court to have subject matter jurisdiction over a case that is not based on a federal question the court must find complete diversity under 28 U.S.C. 1332. Complete diversity is only present if the damage amount is 75,000.00 or more and the plaintiff has a different domicile from all of the defendants. It is clear Ms. Ochoa has a different domicile than Budget and PV Holdings, the issues is whether she had a different domicile than the driver Mr. Gaully. When a court is determining the domicile of a person they look to the actual residence and the person’s intent to permanently stay in that state. In order to determine intent, the court will consider many factual circumstances none of which are determinative of the result. Factual considerations are; where the actual residence is, where the person exercises political rights, where he or she pays taxes, where he or she owns real estate, where a driver’s license is registered, where bank accounts are located, or where the person belongs to clubs and churches. Here Mr. Gaully was born and lived in New Orleans his whole life. After the Hurricane he went to visit relative in Texas, according to his testimony. While he did recently secure a new job in Texas, the court felt that was not enough to establish he has the intent to permanently reside in Texas. Everything else was still in New Orleans.
+
+Dissent
+
+
+Discussion
+When there is a dispute because someone has moved, the court looks at the domicile at the time the complaint was filed.
+

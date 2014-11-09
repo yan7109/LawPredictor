@@ -1,0 +1,24 @@
+Citation
+509 U.S. 688, 113 S. Ct. 2849, 125 L. Ed. 2d 556, 1993 U.S.
+
+Brief Fact Summary
+This case arises from the consolidation of two cases which both deal with the Double Jeopardy clause.
+
+Synopsis of Rule of Law
+Double Jeopardy arises when a defendant is prosecuted twice on the same offense, or is subsequently prosecuted for a lesser-included offense which could have been prosecuted the first time.
+
+Facts
+There are two distinguishable fact situations which the Court is dealing with:
+
+Issue
+This case questions whether a criminal can be later charged in contempt for committing the same crime of which he is already being prosecuted.
+
+Held
+Dixon’s secondary indictment was dismissed because it was found that it was double jeopardy; however, Foster was still indicted on three of four counts because double jeopardy did not apply to subsequent greater offenses.
+
+Dissent
+According to Justice Rehnquist, double jeopardy should not apply to contempt charges because it is a separate and distinguishable offense, and the elements of contempt are entirely different from the elements of the substantive crimes from which the contempt charges arose.
+
+Discussion
+While, at first, Double Jeopardy may seem confusing, it is simply the rule that a defendant cannot be prosecuted more than once for the same crime or for a crime arising out of the same course of action.
+

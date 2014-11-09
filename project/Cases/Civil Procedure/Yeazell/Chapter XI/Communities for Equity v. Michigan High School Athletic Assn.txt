@@ -1,0 +1,21 @@
+Citation
+192 F.R.D. 568, 1999 U.S. Dist.43 Fed. R. Serv. 3d (Callaghan) 1078
+
+Brief Fact Summary
+An association brought a class action suit against a High School Athletic Association alleging gender discrimination in violation of Title IX. The High School opposed class certification.
+
+Synopsis of Rule of Law
+Before certifying a class, a district court must conduct a “rigorous analysis” into whether the prerequisites of Fed. R. Civ. P. 23 are met such that a class is not maintainable merely because the complaint parrots the legal requirements of Rule 23.
+
+Facts
+Plaintiffs brought this suit against the Michigan High School Athletic Association (Defendant), alleging that they were excluded form opportunities to participate in interscholastic athletic programs and received unequal treatment and benefits in those programs.  Plaintiffs filed a motion for class certification, asking the court to define the class as “all present and future female students” enrolled in Defendant’s schools that participate in interscholastic athletics or are deterred from participating because of Defendant’s discriminatory conduct.
+
+Issue
+This case concerns when a district court should grant a plaintiffs’ motion for class certification.
+
+Held
+The Plaintiff’s motion for class certification was granted.   Before certifying a class, a district court must conduct a “rigorous analysis” into whether the prerequisites of Fed. R. Civ. P. 23 are met. A class is not maintainable merely because the complaint parrots the legal requirements of Rule 23. A hearing prior to the class determination is not always required.  Rule 23(a)(1)’s numerosity requirement is satisfied by numbers rendering joinder impracticable.  Rule 23(a)(2)’s requirement that there are questions of law and fact common to class members requires common issues the resolution of which will advance the litigation. When the nature of the legal claims are such that individuals would have to submit separate proofs to establish liability, class actions are disapproved. However, the presence of individual questions need not defeat certification. Once it is determined that there are common questions of law and fact as to a legal claim, differences in damages sustained by class members will not usually defeat certification.     Rule 23(a)(3)’s typicality requirement mandates that the class representative’s claim be typical of other claims against the defendant. Associations may act as class representatives. The mere fact of some distinctions between the particular claims of named plaintiffs and diverse manifestations of discrimination alleged her is insufficient to extinguish typicality.  Rule 23(a)(4) requires that the class members and their counsel be prepared to provide fair and adequate representation to the class. Representatives must have common interests with unnamed members of the class, and it must appear that the representatives will vigorously prosecute the interests of the class through qualified counsel. Adequacy of representation is also measured by the quality of class counsel.  Injunctive relief is an appropriate request for relief in a class action.
+
+Discussion
+This case can be read plainly as an example of the analysis a district court will render in assessing an application for class certification.
+

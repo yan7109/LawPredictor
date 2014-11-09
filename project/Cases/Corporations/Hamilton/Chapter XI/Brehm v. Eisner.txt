@@ -1,0 +1,21 @@
+Citation
+746 A.2d 244, 1 EXC 381 (Del. 2000)
+
+Brief Fact Summary
+Plaintiffs, William Brehm et al., filed a shareholder derivative complaint against Defendant corporation, Walt Disney Company, and its Board of Directors after the Board approved a compensation package for former president, Michael Ovitz, that paid Ovitz more if he was terminated than if he fulfilled the entire term of the employment agreement.
+
+Synopsis of Rule of Law
+In order to determine demand futility, there must be reasonable doubt that the directors are disinterested or independent, or the transaction was the product of valid business judgment.
+
+Facts
+Disney’s CEO, Michael Eisner, wanted to hire a personal friend, Ovitz, to the position of president. Ovitz had no prior experience for that position but was sought after by other companies because of his other successes in the entertainment business.  Eisner personally and exclusively negotiated an employment agreement with Ovitz.  The 5-year agreement gave Ovitz a $1 million annual base pay plus stock options that accrued annually (”A” options) or came due if Ovitz finished the term of employment under the agreement (”B” options).  There was a non-fault termination clause (termination not based of gross negligence or malfeasance) that would pay Ovitz $10 million plus $7.5 million for every year remaining in the agreement.  3 million A options would also immediately vest.  This agreement was reviewed and endorsed by a corporate compensation expert who later said that no one actually calculated out the compensation that Ovitz would get if there was a non-fault termination.  The
+
+Issue
+The issue is whether the directors should be held personally liable for a lack of due care in their approval of the agreement ad their waste of corporate assets.
+
+Held
+[ Please provide a description of the decision(s) of this case ]
+
+Discussion
+Plaintiffs are trying to level the same lack of duty of care that was presented in Smith v. Van Gorkom, but the pleading standards are so stringent that it is almost insurmountable.  The court is comfortable with this because they feel there are other alternatives for a remedy (shareholders vote out the Board, or sell their stock).  But the concurring judge is more sympathetic.  The business decision at issue is analogous to a res ipsa loquitor claim in that there is evidence of a harm and it should naturally stem from someone’s negligence.
+

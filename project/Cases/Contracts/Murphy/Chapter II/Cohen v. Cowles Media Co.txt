@@ -1,0 +1,21 @@
+Citation
+22 Ill. 501 U.S. 663, 111 S. Ct. 2513, 115 L. Ed. 2d 586, 18 Med. L. Rptr. 2273 (1991)
+
+Brief Fact Summary
+The Defendant, Cowles Media Co. (Defendant), promised the Plaintiff, Cohen (Plaintiff), confidentiality in order to receive certain information to be published. Defendant failed to adhere to the agreement and as a result the Plaintiff lost his employment and received a damage award by the trial court.
+
+Synopsis of Rule of Law
+Compensatory damages are a proper remedy to avoid the injustice under a promissory estoppel claim.
+
+Facts
+A newspaper owned by Defendant published a story reporting that a nominee for Lieutenant Governor had been charged with three counts of unlawful assembly and previously convicted of shoplifting. The newspapers revealed Plaintiff as the source and named the firm he worked for. It is undisputed that Plaintiff gave this information in return for the reporters’ promises to keep his identity secret. As a result Plaintiff was fired.
+
+Issue
+Is the award sustainable under the theory of promissory estoppel?
+
+Held
+Yes. Under the restatement, the reporters promise was expected to induce and did induce the disclosure necessary for the story. A breach of that promise should result in damages to avoid injustice.
+
+Discussion
+The Second Restatement Section:90 eliminates the requirement that reliance be definite and substantial and provides that the remedy granted for breach may be limited as justice requires. Damages then might be limited to restitution or measured to the extent of plaintiff’s reliance.
+

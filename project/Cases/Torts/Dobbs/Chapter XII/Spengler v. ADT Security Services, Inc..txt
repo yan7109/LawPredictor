@@ -1,0 +1,18 @@
+Citation
+505 F.3d 456 (6th Cir. 2007) [2007 BL 117742]
+
+Synopsis of Rule of Law
+Where an actor’s only violation is that of a broken promise to perform a contract, and there exists no independent duty outside the contract to perform, liability, if any, must rest solely upon the breach of the contract and a tort cause of action is not available.
+
+Facts
+In May 2004, Plaintiff Spengler signed a contract with Defendant ADT to install and monitor a security alarm at the home of his mother Veronica Barker.  The agreement included a call button alarm that Barker could activate when in distress, which he requested due to her cancer of the larynx leaving her unable to speak.  In October 2005, ADT received an alarm from Barker, but due to an error in the address that ADT gave to the ambulance dispatchers in response to the alarm, the ambulance was delayed 16 minutes.  By the time they got there, Barker’s heart rhythm was asystolic, she never regained consciousness, and died in the hospital.  Spengler sued ADT alleging that by providing an erroneous address to the dispatcher, ADT committed misfeasance subjecting it to tort liability.  The district court granted summary judgment for ADT on the tort claim, finding that ADT breached no duty independent of the contract.  The court also granted summary judgment to Spengler on the contract claim, finding that ADT breached the contract and limiting damages to the $500 amount stated in the contract.  Spengler appealed arguing that the court erred in finding the case sounded in contract instead of tort, and that the $500 limitation of liability clause was unconscionable and unenforceable.
+
+Issue
+Whether a breach of contract may also give rise to a tort claim where an actor’s duty to perform arises purely under the contract.
+
+Held
+No.  Where an actor’s only violation is that of a broken promise to perform a contract, and there exists no independent duty outside the contract, liability, if any, must rest solely upon the breach of the contract.  The court of appeals determined that in this case, ADT’s obligation to promptly and correctly dispatch emergency medical services to Barker’s home emanated only from the contract, not Michigan common law, and thus ADT did not have an independent legal duty to perform.  Accordingly, no tort claim was available to Spengler.  Moreover, the court of appeals declined to consider Spengler’s argument related to the unconscionability of the $500 liability cap because it was raised for the first time on appeal, and thus was not proper on appeal.
+
+Discussion
+According to this case, it does not appear that Michigan common law follows the Restatement approach.  The Restatement 3d of Torts: Liability for Physical Harm § 42 (2005) states that an actor who undertakes to render services to another, when the actor knows or should know that the services will reduce the risk o physical harm to the other, owes a duty of reasonable care in carrying out that undertaking if (a) the failure to exercises care increases the risk of harm beyond that which would have existed without the undertaking, or (b) the other person relies on the undertaking.  This provision might have helped Spengler.
+

@@ -1,0 +1,21 @@
+Citation
+546 U.S. 1010
+
+Brief Fact Summary
+The defendant, Patrick Vigneau (the “defendant”), was convicted at trial for his participation in a drug distribution scheme.
+
+Synopsis of Rule of Law
+Documents which contain statements by third parties not involved in the business, may not be entered into evidence unredacted as records of regularly conducted business activities, as they do not contain the indicia of reliability required of exceptions to the hearsay rule.
+
+Facts
+The defendant was part of a scheme to buy marijuana and steroids in the southwestern part of the United States and distribute them in the Northeast.  Drugs and money were transported both by mail, and over the roads.  During one trip in which drugs were concealed in a U-Haul truck behind some inexpensive furniture, police stopped the van and the drugs were uncovered.  The driver and passenger of the van thereafter began cooperating with federal officials.  A third participant also began to cooperate, though this was unknown to the defendant.  As a result, this third participant was able to aid the federal agents in gaining incriminating statements made by the defendant on tape.
+
+Issue
+Whether unredacted copies of forms used by Western Union to send money were properly admitted at trial against defendant in support of the charges against him for money laundering under Federal Rules of Evidence (”FRE”) Rule 803(6) dealing with records of regularly conducted business activities.
+
+Held
+No.  The Western Union forms were filled out in part by someone not affiliated with the business, and then admitted for all purposes, including the identity of the person that filled out the “sender” information on the form.  These documents were improperly admitted.
+
+Discussion
+This document might have been admissible if Western Union had used a procedure for verifying the identity of the sender, but at the time of this trial, Western Union had no such procedure, making it impossible to prove that the person who filled out the “sender” information on the forms was who he said he was.
+

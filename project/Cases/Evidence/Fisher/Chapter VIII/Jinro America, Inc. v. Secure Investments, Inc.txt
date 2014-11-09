@@ -1,0 +1,24 @@
+Citation
+272 F.3d 1289 2001 U.S. App.
+
+Brief Fact Summary
+Jinro America, Inc. and JR International Corp. (Appellants) sued various parties, including Brian Bishop, Brian W. Bishop, Inc., and Landmark Forward Companies (Appellees) over an international deal for the sale of frozen chicken that had gone bad.  At trial, an expert witness testified that Korean companies, such as some Appellees, have a propensity to deal fraudulently; the lower court allowed the testimony as expert testimony under Federal Rule of Evidence 702.  Appellants appeal the lower court’s grant of summary judgment in Appellee’s favor.
+
+Synopsis of Rule of Law
+When the testimony of a witness is unreliable under Federal Rule of Evidence 702 and unduly prejudicial under Federal Rule of Evidence 403, the testimony is inadmissible.
+
+Facts
+Appellants are a group of companies involved in international trade; Appellees are a group lead by Brian Bishop, a businessman who entered into an agreement with Appellants for the international sale of frozen chicken.  Appellants claim the contract was a legitimate one, and brought suit to when Appellees were in breach.  Appellees claim Appellants entered into the agreement to engage in a “roll program,” an illegal investment scheme.
+
+Issue
+Was it error for the lower court to have allowed Appellee’s private investigator witness to testify as an expert?
+
+Held
+Yes; the testimony was unreliable under Federal Rule of Evidence 702 and unduly prejudicial under Federal Rule of Evidence 403, and therefore should not have been admitted.
+
+Concurrence
+Justice Wallace concurred in the result, but wrote separately to express that he, “disagree[d] with the majority’s visitation to issues unnecessary for our disposition of this appeal.”  Specifically, Justice Wallace stated that, “the analysis used by the majority is too troubling for me to join . . . Pelham’s testimony regarding Korean businessmen and Korean business practices was inadmissible because it was not relevant . . . the majority unnecessarily invades a field of its choice in order to discuss the sensitive and difficult issue of race and ethnicity.”  In sum, the concurrence argued that the irrelevancy of the testimony was all that needed to be addressed, and the case reversed on grounds that irrelevant testimony was admitted.  Specifically, the concurrence explains:
+
+Discussion
+The court focuses on the Federal Rules of Evidence and past precedent, and reasoned that the testimony at issue was not proper expert testimony, because Pelham did not establish himself as an expert.  The court explained:
+

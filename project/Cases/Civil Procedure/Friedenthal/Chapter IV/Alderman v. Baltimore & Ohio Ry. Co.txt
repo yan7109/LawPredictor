@@ -1,0 +1,21 @@
+Citation
+22 Ill.113 F. Supp. 881 (S.D. W. Va. 1953)
+
+Brief Fact Summary
+Plaintiff received a free pass to ride on Defendant railroad company’s train. During the ride, Plaintiff suffered personal injuries and later sued the Defendant for negligence based on the injuries sustained. Defendant moved for summary judgment on the grounds that Plaintiff had not shown a genuine issue as to whether Defendant engaged in willful or wanton conduct.
+
+Synopsis of Rule of Law
+Upon a motion for summary judgment pursuant to Rule 56 of the Federal Rules of Procedure, the moving party must present admissible evidence that demonstrates that there is no factual issue in dispute. If such evidence is not rebutted by the non-moving party, the moving party is entitled to summary judgment.
+
+Facts
+Alderman (Plaintiff) was a passenger on a train operated by Baltimore & Ohio Ry. Co. (Defendant). Plaintiff received a free pass from Defendant that stated she accepted the free pass on the condition that she released the company from all liability for personal injury or property damage. The train derailed during Plaintiff’s trip and Plaintiff sustained personal injuries. Plaintiff sued Defendant based on a theory of negligence, alleging that the derailment was caused by a crack in old tracks and that Defendant failed to replace the old tracks because the derailment was cheaper. Plaintiff then filed an amended complaint alleging Defendant engaged in willful and wanton conduct. Defendant moved for summary judgment.
+
+Issue
+Based on the terms of Plaintiff’s free pass releasing Defendant from liability for any injuries sustained by Plaintiff, must Plaintiff prove that Defendant’s conduct was willful and wanton?<br /> Assuming that Plaintiff must prove Defendant engaged in willful and wanton conduct, has Defendant satisfied the standard for summary judgment in its favor on this issue?
+
+Held
+Yes to both issues. Defendant’s motion for summary judgment sustained.
+
+Discussion
+The court’s decision illustrates the burdens that the moving and non-moving parties face on a motion for summary judgment. The moving party must present evidence sufficient to show that no fact is disputed and they are entitled to judgment in their favor. If the moving party meets this burden, then the non-moving party must rebut this with evidence showing that there is a disputed fact to avoid summary judgment.
+

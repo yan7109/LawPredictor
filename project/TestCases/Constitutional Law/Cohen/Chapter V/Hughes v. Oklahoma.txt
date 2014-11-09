@@ -1,0 +1,24 @@
+Citation
+22 Ill.441 U.S. 322, 99 S. Ct. 1727, 60 L. Ed. 2d 250, 12 ERC 2106 (1979)
+
+Brief Fact Summary
+Hughes bought and shipped a load of natural minnows (small fish) from Oklahoma to Wichita Falls. Oklahoma restricted the transportation of minnows procured from waters within the State. Hughes was arrested, convicted, and fined. He then filed suit against the State, arguing the statute violated the Commerce Clause.
+
+Synopsis of Rule of Law
+If a statute is facially discriminatory against interstate commerce, it is a per se violation of the Commerce Clause unless the State has a strong justification and there are no alternative means that would be less discriminatory. A State may protect and conserve wild animal life within their borders, but only in ways consistent with the Commerce Clause.
+
+Facts
+Oklahoma had a statute which provided that “No person may transport or ship minnows for sale outside the state which were seined or procured within the waters of this state”. William Hughes had a Texas license to operate a commercial minnow business near Wichita Falls, Texas. He Bought natural minnows from a minnow dealer licensed to do business in Oklahoma and then shipped the minnows to Texas. He was arrested by a Oklahoma Game Ranger, convicted and fined.
+
+Issue
+Did the statute prohibiting transportation or shipment of minnows outside the state violate the Commerce Clause?
+
+Held
+Justice Brennan: Yes. Oklahoma Court of Criminal Appeals judgment reversed.
+
+Dissent
+Justice Rehnquist and the Chief Justice dissent.
+
+Discussion
+The crux of this decision is the Court’s holding that the statute was discriminatory because it foreclosed an interstate market in one of the state’s natural resources. The dissent, by contrast, would have held that the statute was nondiscriminatory because all persons, whether Oklahoma residents or not, were banned from such activity.
+

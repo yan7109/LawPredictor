@@ -1,0 +1,21 @@
+Citation
+22 Ill.64 F.2d 344 (2d Cir. 1933)
+
+Brief Fact Summary
+Plaintiff used a bid submitted by Defendant, in creating a bid. Plaintiff seeks to enforce Defendant’s bid.
+
+Synopsis of Rule of Law
+A general contractor cannot enforce a bid made by a subcontractor as a bilateral contract when the general contractor is under no obligation to use the subcontractor’s bid if awarded the job and the general contractor did not accept the subcontractor’s bid before it was revoked. A general contractor is also unable to enforce the subcontractor’s bid based on promissory estoppel when there is no consideration
+
+Facts
+Plaintiff received a bid from Defendant for supplying linoleum needed in the construction of a public building. Plaintiff used Defendant’s bid in computing the bid submitted to the public authorities. Defendant realized that a mistake had been made in computing the amount of linoleum needed and that the job would require a greater amount. The public authorities accepted Plaintiff’s bid. Plaintiff received Defendant’s written confirmation of withdrawal the day after the public authorities accepted Plaintiff’s bid.
+
+Issue
+Can Plaintiff enforce Defendant’s bid?
+
+Held
+No. Plaintiff cannot enforce Defendant’s bid under either theory.
+
+Discussion
+A general contractor cannot enforce a subcontractor’s bid when the general contractor is not required to use the subcontractor if the job is awarded and the subcontractor’s bid is revoked before the general contractor accepted.<br />	This Court does not allow the general contractor to enforce the subcontractor’s bid using promissory estoppel. The Court does not allow the Plaintiff to recover under promissory estoppel where there is no consideration. The Court’s holding on the promissory estoppel claim may be explained in part by the limited use of promissory estoppel at the time of the decision (1933).
+

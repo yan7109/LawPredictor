@@ -1,0 +1,21 @@
+Citation
+573 P.2d 443 (Cal. 1978).
+
+Brief Fact Summary
+Barker (Plaintiff) was injured at a construction site while operating a high-lift loader manufactured by Lull Engineering Co. (Defendant). Plaintiff claimed that his injuries were proximately caused by the defective design of the loader.
+
+Synopsis of Rule of Law
+A product is defective in design if either: (1) the product has failed to perform as safely as an ordinary consumer would expect when used in an intended or reasonably foreseeably manner; or (2) the benefits of the challenged design do not outweigh the risk of danger, inherent in such design.
+
+Facts
+Plaintiff was injured at a construction site while operating a high-lift loader manufactured by Lull Engineering Co. (Defendant), and leased to Plaintiff’s employer by George M. Philpott Co. (Defendant). Plaintiff sued Defendant in tort to recover damages for his injuries. Plaintiff claimed that his injuries were proximately caused by the defective design of the loader. The jury found for Defendant. Plaintiff appealed, claiming that the trial court erred in instructing the jury “that strict liability for a defect in design of a product is based on a finding that the product was unreasonably dangerous for its intended use.”
+
+Issue
+Should a jury be instructed that in order to hold one strictly liable for defective design, it must be found that the product was unreasonably dangerous for its intended use?
+
+Held
+No. Judgment reversed.
+
+Discussion
+This case describes the two ways in which a product can be defective. It also points out the distinction between intended use and reasonably foreseeable use. If a manufacturer produces a product for an intended use, but a consumer is injured by a defect while using the product for a foreseeable use, the manufacturer will not be absolved of liability.
+

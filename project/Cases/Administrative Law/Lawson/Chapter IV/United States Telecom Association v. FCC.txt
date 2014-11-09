@@ -1,0 +1,21 @@
+Citation
+227 F.3d 450, 343 U.S. App. D.C. 278, 20 CR 1285, 6 ILRD 79 (D.C. Cir. 2000)
+
+Brief Fact Summary
+The Communications Assistance for Law Enforcement Act of 1994 (”CALEA” and “Act”) requires telecommunications carriers to ensure their systems are technically capable of aiding law enforcement agencies (LEAs) to intercept telephone calls and obtain “call-identifying information.” In this case, the United States Telecom Association challenged parts of the FCC’s implementing order that required carriers to make the following available to LEAs: the location of antenna towers, signaling information from custom calling features, telephone numbers dialed after calls are connected, and data containing to digital “packet-mode” communications.
+
+Synopsis of Rule of Law
+Chevron’s Two-Step Analysis Applied.
+
+Facts
+The Act defines “call identifying information” as “dialing or signaling information that identifies the origin, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.”  The Act did not alter the existing legal framework for obtaining a wiretap or pen register authorization, as it was intended to “preserve the status quo.”  The Justice Department and FBI petitioned the Commission to modify its J-Standard, arguing it did not include all of the CALEA’s required assistance capabilities, and provided an FBI “punch list” of nine additional surveillance capabilities it wanted added. After notice and comment, the Commission added four to the J-Standard, and two in part.  Petitioners claimed that the definition of “call identification information” under the Act was limited to telephone numbers, and that there was no statutory basis for location information to have been included in the J-Standard or for the Commissioner to have mandated the punch list capabilities.
+
+Issue
+Was the Commission’s interpretation of “call identification information unreasonable” and therefore not entitled to Chevron deference?  Did the Commission’s decision to modify the J-Standard and include the punch list reflect a lack of reasoned decision-making?
+
+Held
+The Court vacated the portions of the Order regarding custom calling features and dialed digits and remanded for further proceedings; but denied the petitions for review with respect to the tower location information and packet-mode data.   The Commission failed to explain its reasoning with respect to the punch list, which was particularly serious in view of the Act’s unique structure.    Congress gave the telecommunications industry first crack at developing standards, and the Commission was only authorized to alter them if it found them “deficient.”  The Commission also never explained how its order would satisfy the cost- effective requirements under the Act, and this omission reflected a “classic arbitrary and capricious agency action.”   Dissent. None.  Concurrence. None.
+
+Discussion
+An agency must cogently explain why it has exercised its discretion in a given manner, and the Commission did not satisfactorily explain how CALEA’s terms could encompass such a wide range of information.
+

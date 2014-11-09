@@ -1,0 +1,21 @@
+Citation
+22 Ill.188 F. Supp. 474 (E.D. La. 1960)
+
+Brief Fact Summary
+Plaintiff insurance company filed an interpleader action against potential claimants on an insurance company arising from a car accident allegedly caused by Plaintiff’s insured. Plaintiff denied that its insured was liable but alleged that it had no interest in the proceeds and posted $100,000 (the limit of the policy) with the court.
+
+Synopsis of Rule of Law
+Rule 22 of the Federal Rules of Civil Procedure and the Interpleader Act permit an interpleader action to be maintained concerning the management of unliquidated claims on one insurance policy.
+
+Facts
+Pan American Fire & Cas. Co’s (Plaintiff’s) insured collided with a school bus. Four people were killed and many others were injured. Plaintiff’s insured had a policy limit of $100,000. Three suits were pending and claims had been filed when Plaintiff filed an interpleader action seeking a determination of the distribution of the insurance proceedings and a suspension of the current legal proceedings pending the court’s determination regarding the proceeds. Plaintiff posted bond in the amount of the policy. Plaintiff claimed “no interest” in the property but denied its insured was liable on the ground that anything contrary may be deemed an admission of liability by both Plaintiff and the insured.
+
+Issue
+Should the Court allow the interpleader action to be maintained in order to determine the rights of potential claimants to the limited fund of the insurance proceeds under Rule 22 of the Federal Rules of Civil Procedure?
+
+Held
+Yes. All concerned claimants are enjoined from instituting or continuing with claims concerning the accident. Claimants must file a claim within 30 days of receiving notice of the judgment. A joint trial will be held regarding liability and damages. The court will appropriate the fund if the aggregate amount of the verdict exceeds the policy limits.  A bill “in the nature of interpleader” is not a strict interpleader action but must conform to more lenient requirements. The function of interpleader is to protect the plaintiff from multiple liability from the same fund and the nature of interpleader requirements are designed to further that function.  Rule 22 of the Federal Rules of Civil Procedure permits interpleader when the plaintiff “may be” exposed to multiple liability. The plaintiff need only be exposed. Therefore, even though the possibility of multiple liability is remote, it still exists, which satisfies Rule 22.  The claimants at issue could potentially be considered “adverse” because any award of the proceeds to one provides less money available to the other claimants.  Plaintiff is not guilty of unclean hands.   Using interpleader to resolve unliquidated tort claims is not impractical. Although it may be difficult to determine the amount of total liability, it is not so much more difficult than contract claims that are routinely subject to interpleader actions. In addition, the actions are not premature against the insurer because under Louisiana law, a plaintiff can sue an insurer directly.  The Court has the means to provide a jury for trying issues of fact on the actual merits of the claims. However, it is up to the Court to decide how the fund is distributed in the event the aggregate verdicts exceed the amount of the policy.  The Court is permitted to enjoin state court proceedings if it is “necessary in aid of its jurisdiction.” The Court must enjoin these proceedings in order to have jurisdiction over the cases subject to the interpleader action. Therefore, the Court is permitted to enjoin such proceedings.  The Interpleader Act allows venue to be proper wherever one defendant resides. Therefore, the suit is maintainable under the Interpleader Act alone.
+
+Discussion
+The Court’s liberal construction of Rule 22 of the Federal Rules of Civil Procedure and the Interpleader Act allows the court to consolidate many claims that have the potential to be uncompensated. This case is an example of the way modern interpleader actions are used.
+

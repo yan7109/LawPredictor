@@ -1,0 +1,21 @@
+Citation
+504 U.S. 555, 112 S. Ct. 2130, 119 L. Ed. 2d 351, 34 ERC 1785 (1992)
+
+Brief Fact Summary
+The Secretary of Interior (Secretary) promulgated a rule interpreting Section:7 of the Endangered Species Act (Act) as applicable only to actions within the United States or on the high seas. The Defenders of Wildlife (Respondents) brought a challenge to the rule, and the District Court granted summary judgment against them for lack of standing.
+
+Synopsis of Rule of Law
+Article III, Section:1 of the United States Constitution limits the jurisdiction of federal courts to “cases” and “controversies,” known as the doctrine of standing. To have standing, a plaintiff must have an injury-in-fact; there must be a causal connection between the injury and the conduct complained of; and it must be likely, rather than speculative, that the injury will be redressable by a favorable court decision.
+
+Facts
+Respondents filed this action against the Secretary seeking a declaratory judgment that the new regulation was in error as to the scope of Section:7(a)(2) of the Act, and an injunction requiring the Secretary to promulgate a new regulation restoring its initial interpretation that the obligations imposed by the section extended to actions taken in foreign nations.  The District Court granted the Secretary’s motion to dismiss for lack of standing, and the Court of Appeals reversed and remanded. On remand, the District Court denied the Secretary’s motion for summary judgment and ordered the Secretary to publish a revised regulation. The Court of Appeals then affirmed.
+
+Issue
+Did the Respondents have standing to seek judicial review of the rule?
+
+Held
+No.   The Court of Appeals failed to apply the proper standing principles. Respondents had not made the requisite demonstration of at least injury and redressability.  The affidavits of two female members submitted by Respondents contained no facts showing how damage to the species would produce “imminent” injury. The women “had visited” Egypt in the past, and hoped to again “some day.” That was insufficient to support an injury-in-fact.  The agencies funding the projects were not parties to the case, so the Court could only afford relief against the Secretary. This would only remedy Respondents’ alleged injury if the funding agencies were bound by the Secretary’s regulations, which was questionable.  A further impediment to redressability was that the agencies generally supplied only a fraction of the funding for a foreign project, and Respondents    produced nothing to indicate that the projects named would be suspended or do less harm to the species without that fractional contribution.   Dissent. The Respondents raised genuine issues of fact as to injury and redressability, sufficient to survive summary judgment. The Court was overly broad in rejecting standing for “procedural injuries.”  Concurrence.   Justices Kennedy and Souter agreed with the result, but wrote to made several observations. Since the Court concluded that Respondents had not demonstrated a concrete injury, they would not have reached the issue of redressability. Also, Congress has power to define injuries and articulate chains of causation, but must at least identify the injury and class of persons entitled to bring suit. The citizen-suit provision of the Act did not meet these minimal requirements.  Justice Stevens, while concurring in the judgment, disagreed with the Court’s conclusion that Respondents lack standing because the threatened injury to their interest in protecting the environment was not “imminent.” Stevens also disagreed that the injury was not redressable.
+
+Discussion
+The party invoking federal jurisdiction bears the burden of proof with respect to standing, and Respondents in this case failed to provide sufficient proof of injury or redressability.
+

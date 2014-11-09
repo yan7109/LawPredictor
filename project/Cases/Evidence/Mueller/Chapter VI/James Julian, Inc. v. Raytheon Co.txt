@@ -1,0 +1,21 @@
+Citation
+93 F.R.D. 138, 1982 U.S. Dist. 33 Fed. R. Serv. 2d (Callaghan) 509; 1982-1 Trade Cas. (CCH) P64,599
+
+Brief Fact Summary
+Plaintiff sought return of documents disclosed during discovery arguing that were privileged.  The documents were used to prepare witnesses for deposition and Defendants argue that such use constitutes a waiver of any privilege.
+
+Synopsis of Rule of Law
+Using privileged documents to prepare a witness for a deposition may cause the documents to become discoverable.
+
+Facts
+James Julian, Inc., Plaintiff, sought injunctive relief against the Raytheon Co., Defendant, to have certain documents returned to Plaintiff. The documents were provided to Defendant during discovery with a court order that said privilege claims would not be waived.  At issue is a binder with materials prepared by attorneys for the Plaintiff for review in preparation for depositions.  It is clear that the arrangement of the documents in the binder did constitute work product protection.
+
+Issue
+Did the Plaintiff lose any applicable privileges by using the documents to prepare witnesses for deposition?
+
+Held
+Justice Schwartz issued the ruling for the United States District Court for the District of Delaware in holding that the binders should have been disclosed and any privileges were lost.
+
+Discussion
+The District Court notes that such issues must be reviewed on a case by case basis.  However, in this instance Plaintiff chose to use the binder and documents within to educate the witnesses for deposition.  The Defendant was entitled to receive those documents to determine if witnesses were influenced by counsel’s presentation of the fact
+

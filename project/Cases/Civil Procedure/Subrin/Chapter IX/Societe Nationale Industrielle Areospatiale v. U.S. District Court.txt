@@ -1,0 +1,21 @@
+Citation
+482 U.S. 522, 107 S. Ct. 2542, 96 L. Ed. 2d 461 (1987)
+
+Brief Fact Summary
+Plaintiffs brought action against manufacturer for a personal injury arising from the crash of an aircraft that was made in France.
+
+Synopsis of Rule of Law
+The United States, France, and 15 other countries have agreed to The Hague Evidence Convention, which provides procedures by which a judicial authority in one contracting state may request evidence located in another.
+
+Facts
+Plaintiffs brought suit for personal injuries resulting from the crash of an aircraft built and sold by two corporations owned by France. Initially, the Defendants answered the complaints without inquiring about the court's jurisdiction, and cooperated in initial discovery without objection. However, when plaintiffs served successive discovery requests under the Federal Rules of Civil Procedure, the manufacturer filed a motion for a protective order, claiming that the Convention dictated the exclusive procedures that must be adhered to since petitioners are French and the discovery sought must be conducted in France. A Magistrate denied the motion, and the Court of Appeals denied the manufacturers mandamus petition and certiorari was granted.
+
+Issue
+Whether Hague Evidence Convention provides exclusive and mandatory procedures for obtaining documents and information located in a foreign signatory’s territory
+
+Held
+No. The Supreme Court, Justice Stevens, held that: (1) Hague Evidence Convention applied to request for information from foreign national which was a party to the litigation; (2) Hague Evidence Convention did not provide exclusive and mandatory procedure for obtaining documents and information located within territorial foreign signatory; (3) first resort to Hague Convention was not required; and (4) Hague Convention did not deprive district court of jurisdiction it otherwise possessed to order foreign national party before it to produce evidence physically located within a foreign signatory nation. Vacated and remanded.
+
+Discussion
+When a district court has jurisdiction over a foreign litigant, the Convention does not apply even though the information sought may be physically located within the territory of a foreign signatory to the Convention.
+

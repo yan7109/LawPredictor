@@ -1,0 +1,27 @@
+Citation
+339 F.3d 1347, 67 U.S.P.Q.2d 1858 (Fed. Cir. 2003)
+
+Brief Fact Summary
+This is an infringement action concerning the “831” patent of Nystrom, where multiple claims and counterclaims were filed by both parties.
+
+Synopsis of Rule of Law
+Federal Appellate Courts must have jurisdiction to hear a case, regardless if parties raise jurisdiction as an issue.
+
+Facts
+Nystrom filed an infringement action against Trex. Then Trex filed a counterclaim for declaratory judgment of non-infringement, invalidity and unenforceability of the 831 patent and antitrust violations of Nystrom. The parties filed several motions to dismiss and amendments to claims, after which the trial court held a Markman hearing in which Nystrom conceded he could not win his case of infringement.  However he wished the court to dismiss the invalidity and unenforceability claims of Trex. After summary judgment motions were filed and the court held a conference, the court decided to enter summary judgment for non-infringement, denied sanction relief, but stayed a decision on the invalidity and unenforceability of the patent. Nystrom appealed.
+
+Issue
+Whether an appellate court may hear a case when some claims are decided and other claims to the same action are stayed, and when parties do not dispute jurisdiction?
+
+Held
+No. If there are multiple claims to one action all claims and counterclaims must be resolved and a final judgment must be entered on those claims. Unless there is a full final judgment an Appellate court does not have jurisdiction over that case. Whether the parties raise the issue or not, it is the appellate court’s duty to insure they have jurisdiction over that case. Here the district court stayed the decision on several counter- claims. The parties agree that not all claims are settled yet. A final judgment is when there are no claims of merit left for the court, which is not the case here. The issue here is that the court gave a construction ruling. When this occurs sometimes an appellate court will allow interlocutory review when the case handles infringement and invalidity issues. The district court had several avenues it could have taken; 1 went to trial, 2 dismissed the counterclaims without prejudice, 3 made an entry for final judgment. The district did not choose any of those options but instead specifically stayed their decision and this court will honor that.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+Another option Nystrom could have chosen was to file for permission for an immediate appeal, like writs of certiorari, the appeals court can choose to take the case or not.
+

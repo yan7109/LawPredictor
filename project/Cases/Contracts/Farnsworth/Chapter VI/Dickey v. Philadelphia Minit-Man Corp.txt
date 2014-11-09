@@ -1,0 +1,21 @@
+Citation
+377 Pa. 549, 105 A.2d 580,1954 Pa.
+
+Brief Fact Summary
+Plaintiff Samuel Dickey, leased a piece of vacant land to Defendant Philadelphia Minit-Man Corporation, for the purpose of operating a business of washing and cleaning automobiles. The lease specified a rent of 12.5% of annual gross sales but no less than $1,800 and further specified that if Defendant used the premises for any other purpose, Plaintiff could terminate the lease. Defendant ceased operating the business of washing and cleaning automobiles, and Plaintiff sought to reenter the premises.
+
+Synopsis of Rule of Law
+A provision requiring that the premises are to be used only for a certain purpose does not impose an obligation that the lessee continues to use the premises for that purpose.
+
+Facts
+Plaintiff leased a vacant piece of land to Defendant. Defendant agreed to erect all buildings on the land and place all equipment on the premises for the purpose of conducting the business of washing and cleaning automobiles. The lease specified that the premises were to be used for this purpose and no other. Plaintiff reserved the right to reenter the premises for violation of this covenant. The lease further dictated that rent was to equal 12.5% of the annual gross sales of Defendant’s business, but the minimum must be $1,800 per year. Defendant eventually discontinued the business of washing and cleaning automobiles but did not use the premises for any other purpose. Nevertheless, Plaintiff sued in ejectment, averring that Defendant breached the terms of the lease.
+
+Issue
+Is there an implied obligation of the part of the lessee to continue to conduct the business of washing and cleaning cars on the premises if his failure to do so would result in a diminution of rent paid to the lessor?
+
+Held
+No. A lease provision specifying that the premises be used for a certain purpose and no other purposes is a covenant against nonconforming use, not a covenant to use. In other words, a lessee can cease to use the premises altogether and not violate the covenant of the lease. The lease is only violated if the lessee uses the premises for some purpose other than that specified in the covenant. Here, Plaintiff is asserting that there arises an implied obligation to continue using the premises in a way conforming to the lease since the amount of rent paid is a percentage of gross sales from the business with a floor of $1,800 per year. The Court rejects this contention, though, as imposing an obligation on the lessee that is vague, uncertain, and generally impracticable.
+
+Discussion
+Where the amount of rent paid is a percentage of gross sales, there is no implied covenant that a lessee must continue to use the premises in a manner allowed by the lease.
+

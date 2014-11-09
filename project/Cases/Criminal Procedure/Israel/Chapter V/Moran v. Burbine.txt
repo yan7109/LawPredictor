@@ -1,0 +1,24 @@
+Citation
+475 U.S. 412, 106 S. Ct. 1135, 89 L. Ed. 2d 410 (1986)
+
+Brief Fact Summary
+The police detained the respondent, Brian Burbine (the “respondent”), and the respondent waived his right to counsel.  The respondent, unaware that his sister obtained counsel for him, confessed to the crime.  His counsel was told by police that they were not questioning him when they actually were acquiring his confession.
+
+Synopsis of Rule of Law
+Fifth Amendment constitutional rights embodied by Miranda do not require police to notify the suspect of the presence of counsel, nor does it require police to notify counsel of interrogations with his or her client.
+
+Facts
+The respondent was apprehended by police for murder.  While in custody, but before any arraignment proceedings, the respondent waived his right to counsel and confessed to the crimes.  Unbeknownst to the respondent, his sister found an attorney to represent him.  The attorney contacted the police and informed them of his representation, and the police responded that they were not questioning him at that time.  Therefore, the police did not inform the respondent that he had counsel, and they misinformed his counsel concerning the timing of their interrogation.
+
+Issue
+Whether the police violated the respondent’s Fifth Amendment rights by not informing the respondent of the presence of his counsel?
+
+Held
+The court declined to extend the current rights that have been developed under the Miranda line of cases.
+
+Dissent
+The dissent viewed the deception of the police in lying to counsel as a deception of the respondent himself that amounted to a Fifth Amendment constitutional violation.  The concern, therefore, is that in the future police could withhold counsel from suspects without any consequences.
+
+Discussion
+Both the majority and the dissent agreed that the police conduct in this case was very questionable.  But the majority did not see a constitutional safeguard against this practice under the Fifth or Sixth Amendments of the United States Constitution (”Constitution”).
+

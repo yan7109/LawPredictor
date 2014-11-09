@@ -1,0 +1,18 @@
+Citation
+224 Wis. 2d 644, 590 N.W.2d 282 (Ct. App. 1999)
+
+Brief Fact Summary
+Plaintiff, New Horizons Supply Co-op, brought an action against Defendant limited liability company (LLC), Kickapoo Valley Freight, and one of its members, Allison Haack. Plaintiff wanted to hold Haack personally liable for the debt Kickapoo Valley Freight owed t Plaintiff.
+
+Synopsis of Rule of Law
+Members of an LLC can be held personally liable for the debts of their LLC if they fail to properly dissolve the LLC under the relevant statutes.
+
+Facts
+Haack entered into business with her brother Robert Koch, forming Kickapoo Valley Freight LLC.  Haack filled out an application for a gas card from Defendant, but she argued that she was signing on behalf of the LLC.  When the gas card balance was overdue, Plaintiff contacted Defendant LLC for payment.  Plaintiff was directed to Haack, who said payment would come shortly.  After there still was no payment, Haack explained that the LLC was dissolving but that she would try to provide monthly payments  – which she never did.  At trial, Haack was unable to provide proof that Kickapoo Valley Freight actually filed for LLC status except for Haack’s assertion that she used an attorney to file but never kept the records.  Haack also admitted that she never properly dissolved the LLC.  With the missing documentation, the lower court decided that Kickapoo Valley Freight should be considered a partnership, and therefore held Haack personally liable.
+
+Issue
+The issue is whether Haack took the appropriate steps to shield herself from liability upon the dissolution of the Defendant LLC.
+
+Held
+Haack is personally liable for the debt incurred by Defendant LLC owed to Plaintiff.  The Court of Appeals of Wisconsin, District Four, held that the lower court’s reasoning of holding Haack liable was faulty, but the result was correct.  The facts could have provided evidence that Haack and her brother formed an LLC, and hence the LLC should not be considered a partnership, but there is little doubt that the Defendant LLC was not properly dissolved.  The creditors were not properly notified of the dissolution, and creditors have priority over former partners of the LLC for the assets of the dissolving LLC.  Because Haack took assets of the dissolving LLC, and evidence showed that the assets could have covered the debt owed to Plaintiff, Haack personally owes Plaintiff the outstanding gas card balance. <span class="heading">Discussion.</span>  The proper dissolution of an LLC is one area where the statutory requirements are not flexible.  The requirements are in place to ensure that third parties are protected from dealing with the LLC.
+

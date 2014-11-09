@@ -1,0 +1,24 @@
+Citation
+434 U.S. 357, 98 S. Ct. 663, 54 L. Ed. 2d 604 (1978)
+
+Brief Fact Summary
+Hayes was indicted on charges of forgery.  He and his counsel met with the prosecutor who offered a lesser sentence if he pled guilty.  Hayes decided not to plead guilty and the prosecutor asked that he be tried under the Kentucky Habitual Criminal Act.  Hayes was found guilty and sentenced to life as a habitual offender.  He appealed from this judgment.
+
+Synopsis of Rule of Law
+It is not vindictive prosecution to charge someone with something they are guilty of.
+
+Facts
+Respondent, Hayes, was charged with forgery of a check, I the amount of $88.30, an offense which carried a two-to-ten year prison sentence.  During plea negotiations, the prosecutor offered to pursue a five year sentence if Hayes would plead guilty.  The prosecutor also made it clear that, if Hayes did not, he would seek indictment under the Kentucky Habitual Crime Act because Hayes had two prior felony convictions on his record.  Hayes chose not to plead, was found guilty and was sentenced to life in prison.  The Kentycky Court of Appeals rejected Hayes objections and he took habeas corpus to the District Court.  The Sixth Circuit court of appeals reversed on the ground that the prosecutor’s conduct was vindictive.
+
+Issue
+Whether it is unreasonable for a prosecutor to ask for an enhanced sentence when a defendant refuses to take a guilty plea.
+
+Held
+Reversed.  According to the majority, plea bargaining has an important role in the judicial system and has been accepted by all courts.  The prosecutor has a legitimate interesting persuading a defendant to relinquish his or her right to plead not guilty and “threatening a stiffer sentence is permissible and part of any legitimate system which tolerates and encourages the negotiation of pleas.”
+
+Dissent
+Justice Blackmun dissented, noting that the prosecutor’s admission that his reason for the new indictment was to discourage the respondent from exercising his right to trial, thus his only reason for asking for an enhanced sentence was in vindication.  Justice Powell dissented, maintaining that while the plea-bargaining process is essential to the functioning of the criminal-justice system, it normally affords benefits to defendants as well as to society; in this case respondent was denied any benefits.
+
+Discussion
+Plea-Bargaining is recognized as a valuable tool for both prosecutors and defense counsel; however, when a defendant chooses not to take a plea, he cannot complain when charged with a crime of which he is guilty.  In this case, the defendant was a habitual offender in the eyes of the prosecution and he had a right to bill him as such.
+

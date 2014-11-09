@@ -1,0 +1,27 @@
+Citation
+145 F.3d 1032 (9th Cir. 1998)
+
+Brief Fact Summary
+Immigrants challenge the constitutionality of Immigrant and Naturalization Systems (INS)’s forms in document fraud proceedings.
+
+Synopsis of Rule of Law
+The commonality of a claim between class members in a class action can be an overall policy issue rather than specific issues with each class member.
+
+Facts
+Under the Immigration and Naturalization Act, any alien that violates the laws concerning documentation fraud will be offered a hearing and possible sanction of deportation. The issue with this case is that when someone is accused of such actions they are sent two forms that are dense and have confusing legalize, explaining the rights of the Aliens. Many Aliens waive their rights and do not request a hearing because of the confusing nature of the forms, and many Aliens have been deported without ever having a hearing. A group of Aliens that were subject to these forms and charges filed a class action suit against the INS alleging they were deprived of their due process of law because of these forms. The lower court granted summary judgment and ordered the INS to give a hearing to all possible class members, to re-vamp the forms, and contact anyone that potentially was affected by these forms. The INS appealed arguing that the lower court erred in granting summary judgment and more importantly argue that the Aliens were not a proper class given class certification for this case.
+
+Issue
+Whether INS forms deprive all Aliens accused of documentation fraud of their constitutional right of due process of law, and whether all aliens may receive class certification for such a case.
+
+Held
+Yes. This court states the forms securing waivers against hearings are confusing and are likely to result in erroneous deportation.  This court agreed with the lower court finding that the density and language of the forms does lead to much confusion where an Alien would not understand they are waiving their rights or how to request a hearing. When ever the government takes a right from an individual, a balancing test of the person interest versus the government’s interest must be weight. When there is an alternative measure to fix erroneous deprivation of a right that is not unduly burdensome the government is responsible to take on that burden. Here the government can simply grant hearings to all individuals being accused of documentation fraud, and re-create the form so that any Alien can understand his or her rights under those forms. Due to this, the court found the plaintiff proved a due process right violation and that summary judgment was appropriate. The second issue is whether the Aliens are a proper class for a class action. In order for a court to grant class certification there must be commonality amongst the class members, and adequate representation. The INS argues mainly that because each individual case is very fact specific that there is no common issue between them, they also argue some Aliens had valid defenses while others did not. The INS misses the point; all Aliens were harmed by the forms used by the INS whether or not the hearing results would change. Also for class certification you must show a civil action which would prevent multiple cases. Any Alien may bring suit for the constitutionality of these forms. Even if it affects each class member differently that does not change the overall issue; the forms the INS uses for these charges. After a court finds a constitutional violation and proper class certification for the plaintiff the court has broad discretion in fashioning a remedy. This court also agrees that a permanent injunction is proper as well to fix those forms.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+An alien’s interest in a deportation is a weighty one because the right to stay in this county greatly impacts the lives of Aliens. This is not a right the INS should take lightly.
+

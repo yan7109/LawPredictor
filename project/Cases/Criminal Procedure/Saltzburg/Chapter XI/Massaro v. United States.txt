@@ -1,0 +1,18 @@
+Citation
+538 U.S. 500, 123 S. Ct. 1690, 155 L. Ed. 2d 714, 2003 U.S.
+
+Brief Fact Summary
+Defendant a racketeering case filed a motion to vacate his conviction for ineffective assistance after a direct appeal was denied.
+
+Synopsis of Rule of Law
+“An ineffective-assistance-of-counsel claim may be brought in a collateral proceeding under [28 U.S.C] Section: 2255, whether or not the petitioner could have raised the claim on direct appeal.”
+
+Facts
+Petitioner Massaro was indicted for racketeering and murder in aid of racketeering.  The day before the trial started, prosecutors learned a bullet was recovered from a car where the victim’s body found, but didn’t inform the defense until later in the trial.  The defense counsel refused the trial court’s offer for a continuance.  Petitioner was convicted and sentenced to life.  He appealed directly with new counsel, but did not raise any claim relating to ineffective assistance of trial counsel.  The conviction was affirmed.  Petitioner then filed a motion under 28 U.S.C. Section: 2255, claiming that the counsel had been ineffective for failing to accept the trial court’s offer for continuance.  The District Court found the claim “procedurally defaulted” because it could have been raised on direct appeal.  The Court of Appeals for the Second Circuit affirmed, citing precedent that “when defendant is represented by new counsel on appeal and the ineffective assistance claim is based s
+
+Issue
+Whether “claims of ineffective assistance of counsel need not be raised on direct appeal, whether or not there is new counsel and whether or not the basis for the claim is apparent from the trial record.”
+
+Held
+Yes.  The Supreme Court first concluded that the Court of Appeals rule “requiring a criminal defendant to bring ineffective-assistance-of-counsel claims on direct appeal does not promote [the] objectives” of finality of judgment.  The Supreme Court referenced the Strickland rule:  “a defendant claiming ineffective counsel must show that counsel’s actions were not supported by a reasonable strategy and that the error was prejudicial.”  The Court noted the essential problem with the direct appeal rule:  “the evidence introduced at trial
+

@@ -1,0 +1,21 @@
+Citation
+123 F.R.D. 437, 1988 U.S. Dist. 14036
+
+Brief Fact Summary
+Plaintiff, John Doe, sought allowance to prosecute this action under a pseudonym because the facts of the case were very personal and could expose him to ridicule or professional harm.
+
+Synopsis of Rule of Law
+Federal Rule of Civil Procedure 10(a) generally requires parties to proceed under their real names unless there are severe privacy concerns such as being labeled as a homosexual.
+
+Facts
+Plaintiff attempted to get a life insurance policy from Defendant, United Services Life Insurance Company.  Plaintiff’s blood test indicated strong alcohol consumption, and Defendant asserted that the test was why they gave him a high payment for the policy.  Plaintiff believes that the high premium was due to his living with another male in Greenwich Village and therefore fitting the profile of a homosexual during the start of the AIDS epidemic.  Plaintiff brought this case alleging discrimination, but he asked that his name not be released with the action for fear that he would be labeled a homosexual.  He was also concerned because he was a clerk for a federal judge.  Defendant sought to dismiss the action under Fed. R. Civ. P. 10(a) for failure to name the plaintiff, arguing that they are at a disadvantage in the court of public opinion because the nameless Plaintiff is hard to defend against.
+
+Issue
+The issue is whether Plaintiff is required under Rule 10(a) to use his real name in the suit.
+
+Held
+The court held that normally Plaintiff would have to reveal his name, but because there was a danger of being labeled a homosexual that his privacy right outweighed the benefit of releasing his name.
+
+Discussion
+The court emphasized that they allowed Plaintiff to keep his name private because of the concern over being labeled as a homosexual and not because he worked for a federal judge.  There is no right not to be named to protect their professional life.
+

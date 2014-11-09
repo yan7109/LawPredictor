@@ -1,0 +1,21 @@
+Citation
+92 Misc. 2d 802, 401 N.Y.S.2d 952, 1977 N.Y. Misc. 2614, 23 U.C.C. Rep. Serv. (Callaghan) 385
+
+Brief Fact Summary
+Plaintiff was given two certified checks which became lost.  The bank on which the checks were drawn refused to honor any checks that were reissued until the plaintiff placed an indemnity bond in twice the amount of the original checks.
+
+Synopsis of Rule of Law
+The UCC states that, “the court shall require security, in an amount fixed by the court not less than twice the amount allegedly unpaid on the instrument, indemnifying the defendant, his heirs, personal representatives, successors and assigns against loss…”
+
+Facts
+The plaintiff, Diaz (the “plaintiff”), posted the sum of $37,000.00 as security for a bond in behalf of a defendant in a criminal proceedings.  The security was posted with the respondent Newman, a licensed bail bondsman.  The criminal proceeding concluded and the plaintiff made a demand on Newman for the return of the $37,000.  Newman delivered to plaintiff two certified checks in the amount of $12,000 and $25,000, drawn on the defendant, Manufacturers Hanover Trust (the “defendant”).  Shortly thereafter, the checks became lost, their whereabouts unknown.  The plaintiff notified Newman who, in turn, notified the defendant who stopped payment on the checks.  The plaintiff contacted the defendant and was told that the defendant would not honor any replacement checks issued unless an indemnity bond was posted in twice the amount of the original checks.
+
+Issue
+May the court order payment on a lost negotiable instrument without requiring the payee to post security as required in the Uniform Commercial Code, Section: 3-804?
+
+Held
+No.  The court stated that when a bank certifies a check, it accepts that check and has an obligation to pay the amount for which it is drawn.  Therefore, when the defendant certified the original checks, the defendant assumed liability on the instruments.  UCC Section: 3-804 states, “The court shall require security, in an amount fixed by the court not less than twice the amount allegedly unpaid on the instrument, indemnifying the defendant, his heirs, personal representatives, successors and assigns against loss..”  The New York version of UCC Section: 3-804 changed the word “may” to “shall,” and the Legislature further amended the section to fix the amount of security to be not less than twice the amount of the originally unpaid instrument.  Therefore, the court found that the Legislature considered the matter and “amended the statue to make the furnishing of security not only mandatory but has also set the minimal amount at not less than twice the amount allegedly unpaid on the instrumen
+
+Discussion
+The court stated that if it was to have authority to determine the amount of security to be posted, it seemed on the basis of legislative history of the section of the Code that the change must come from the Legislature.  Additionally, while the Legislature sets the requirement and amount of security, it fails to set a limit as to the amount of time the security shall remain posted.  The court felt that further revision of the section of the UCC is mandated, or legislation dealing with the valid life of certified checks should be enacted.
+

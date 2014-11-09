@@ -1,0 +1,24 @@
+Citation
+67 U.S. 635
+
+Brief Fact Summary
+Police officers sought a bombing suspect and evidence of the bombing at the petitioner, Miss Mapp’s (the “petitioner”) house.  After failing to gain entry on an initial visit, the officers returned with what purported to be a search warrant, forcibly entered the residence, and conducted a search in which obscene materials were discovered.  The petitioner was tried and convicted for these materials.
+
+Synopsis of Rule of Law
+All evidence discovered as a result of a search and seizure conducted in violation of the Fourth Amendment of the United States Constitution (”Constitution”) shall be inadmissible in State court proceedings.
+
+Facts
+Three Cleveland police officers arrived at the petitioner’s residence pursuant to information that a bombing suspect was hiding out there and that paraphernalia regarding the bombing was hidden there.  The officers knocked and asked to enter, but the petitioner refused to admit them without a search warrant after speaking with her attorney.  The officers left and returned approximately three hours later with what purported to be a search warrant.  When the petitioner failed to answer the door, the officers forcibly entered the residence.  The petitioner’s attorney arrived and was not permitted to see the petitioner or to enter the residence.  The petitioner demanded to see the search warrant and when presented, she grabbed it and placed it in her shirt.  Police struggled with the petitioner and eventually recovered the warrant.  The petitioner was then placed under arrest for being belligerent and taken to her bedroom on the second floor of the residence.  The officers then co
+
+Issue
+Whether evidence discovered during a search and seizure conducted in violation of the Fourth Amendment of the Constitution shall be admissible in a State court?
+
+Held
+Justice Tom Clark (”J. Clark”) filed the majority opinion.  No, the exclusionary rule applies to evidence obtained in violation of the Fourth Amendment’s search and seizure clause in all State prosecutions.  Since the Fourth Amendment’s right of privacy has been declared enforceable against the States through the Due Process Clause of the Fourteenth Amendment, the same sanction of exclusion is also enforceable against them.  The purpose of the exclusionary rule is to deter illegally obtaining evidence and to compel respect for the constitutional guarantee in the only effective manner.  Otherwise, a State, by admitting illegally obtained evidence, disobeys the Constitution that it has sworn to uphold.  A federal prosecutor may make no use of illegally obtained evidence, but a State prosecutor across the street may, although he supposedly is operating under the enforceable prohibitions of the same Amendment.  If the criminal is to go free, then it must be the law that sets him fr
+
+Dissent
+Justice John Harlan (”J. Harlan”) filed a dissenting opinion joined by Justice Felix Frankfurter (”J. Frankfurter”) and Justice Charles Whittaker (”J. Whittaker”).  A recent study shows that one half of the States still adhere to the common-law non-exclusionary rule.  The main concern is not the desirability of the rule, but whether the States should be forced to follow it.  This Court should continue to forbear from fettering the States with an adamant rule which may embarrass them in coping with their own peculiar problems in criminal law enforcement.
+
+Discussion
+This case explicitly overrules Wolf v. Colorado, 338 U.S. 25 (1949).  The federal exclusionary rule now applies to the States through application of the Fourteenth Amendment of the Constitution.  All illegally obtained evidence under the Fourth Amendment of the Constitution must now be excluded.
+

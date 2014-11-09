@@ -1,0 +1,21 @@
+Citation
+53 U.S. 299,13 L. Ed. 996,1851 U.S.12 HOW 299
+
+Brief Fact Summary
+A state law enacted to regulate commerce by requiring ships entering and leaving the state’s harbor to engage a local pilot to guide those ships was held valid under a federal law despite its incidental regulation of commerce.
+
+Synopsis of Rule of Law
+The mere grant to Congress of the power to regulate commerce does not deprive the states of power to regulate pilots. Although Congress has regulated on this subject, its legislation manifests an intention, with a single exception, not to regulate this subject, but to leave it to the individual states.
+
+Facts
+Cooley violated an 1803 Pennsylvania law that regulated pilots of ship and thus, commerce, by entering the harbor without employing the guidance of a local pilot. A 1789 congressional statute empowered such a state law to regulate this type of commerce.
+
+Issue
+Whether the grant of commercial power to Congress deprived the states of all power to regulate pilots.
+
+Held
+No. Judgment affirmed. Pennsylvania had the power to regulate pilots, even though such pilots constituted commerce, because those pilots were unique to the state and did not require uniform regulation by Congress. Further, although Congress has regulated on this subject, its legislation manifests an intention, with a single exception, not to regulate this subject, but to leave it to the individual states. Therefore, the regulation of pilots here is a valid state action.
+
+Discussion
+If the object(s) being regulated are “of such a nature” as to require a single uniform rule, Congress must regulate. However, as seen here, other objects being regulated are local and unique to the state. In such cases, the state may regulate the objects. The determinative factor is the “subject” of regulation rather than its purpose.
+

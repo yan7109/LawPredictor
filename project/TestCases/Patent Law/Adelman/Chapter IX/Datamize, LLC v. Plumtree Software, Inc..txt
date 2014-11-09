@@ -1,0 +1,21 @@
+Citation
+417 F.3d 1342 (Fed. Cir. 2005)
+
+Brief Fact Summary
+Datamize's (Plaintiff) only independent claim in its '137 patent, requires the patented interface software to produce interface screens that are "aesthetically pleasing."  The district court granted summary judgment to Plumtree (Defendant) determining the claims were invalid for indefiniteness because Plaintiff failed to define "aesthetically pleasing" in its claims.
+
+Synopsis of Rule of Law
+If a patent's written description does not include a defined standard for an element of the invention, the patent will be valid for indefiniteness.
+
+Facts
+Plaintiff held the '137 patent related to a software program allowing a person to create user interfaces for electronic kiosks by choosing from limited options of interface screens.  The only independent claim of the '137 patent requires the interface screens to be uniform and "aesthetically pleasing."  Plaintiff sued Defendant for infringement of its '137 patent.  Defendant moved for summary judgment arguing the '137 patent claims were invalid for indefiniteness.  The district court granted Defendant summary judgment because the phrase "aesthetically pleasing" is indefinite.  Plaintiff appealed.
+
+Issue
+Can a patent's written description include an undefined standard for an element of the invention?
+
+Held
+(Prost, J.)  No.  A patent's written description cannot include an undefined standard for an element of the invention or the patent will be invalid for indefiniteness.  The patent specification claims must distinctly claim the subject matter of the invention according to 35 U.S.C. § 112 paragraph 2.  The purpose of the requirement is to differentiate the claim from prior art, and to inform the public of what is to be excluded from public domain in the future.  Issued patents are entitled to the assumption of statutory validity unless the construction of the claim proves unsuccessful.  The construction cannot be only difficult but must prove useless with a showing of evidence of invalidity that is clear and convincing.  In this case, Plaintiff argues correctly that "aesthetically pleasing" must be interpreted in the context of the only independent claim of the '137 patent.  However, the written description of the claim only identifies elements of the invention that must be aesthetically pleasing rather than a true definition for the phrase that would allow a person skilled in the art to know what the interface objectively has become aesthetically pleasing.  Without a definition, the requirement of "aesthetically pleasing" is only a subjective determination with no guidance on which colors are more pleasing than others, which button styles are more pleasing, and so on.  Because the phrase "aesthetically pleasing" renders the entire '137 patent indefinite and therefore invalid, the district court appropriately awarded summary judgment to Defendant.
+
+Discussion
+By requiring the limitation "aesthetically pleasing" to be defined, Plaintiff is protected, as well as alleged infringers.  Future patent applicants can work around the undefined term with the simple claim that their interface screens do not have to be "aesthetically pleasing" but consist of specific styles and colors.  The Patent Act's objectives are to protect the patent holders and accurately inform the public of the foreclosed invention's elements.  Patent specifications with an undefined term accomplish neither
+

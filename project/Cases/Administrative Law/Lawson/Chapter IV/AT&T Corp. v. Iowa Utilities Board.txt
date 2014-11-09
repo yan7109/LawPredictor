@@ -1,0 +1,21 @@
+Citation
+525 U.S. 366, 119 S. Ct. 721, 142 L. Ed. 2d 834, 14 CR 1120 (1999)
+
+Brief Fact Summary
+The Telecommunications Act of 1996 (Act) fundamentally restructured the local telephone markets: States could no longer enforce laws that impeded competition, and local exchange carriers (LECs) were made obligated to share their network with competitors through unbundled access-a requirement the LECs challenged in this case.
+
+Synopsis of Rule of Law
+The reasonableness of an agency’s interpretation depends on its fit with the relevant statute
+
+Facts
+The LECs challenged Rule 319, the primary unbundling rule, claiming that the FCC had ignored the Act’s requirement that it consider whether access to nonproprietary elements was “necessary,” and whether lack of access would “impair” an entrant’s ability to provide service, pursuant to Section:251(d)(2).  The unbundling rules did not impose a requirement of facility ownership on carriers who sought to lease network elements, and the effect was to allow competitors to provide local phone service relying solely on the elements in the incumbent’s network. The LECs argued that this undermined the Act’s goal of encouraging entrants to develop their own facilities.  The Commission, MCI and AT&T petitioned for review, and the LECs cross-petitioned.
+
+Issue
+Did the FCC have authority to implement pricing and non-pricing provisions of the Telecommunications Act of 1996?  Were the Commission’s rules consistent with the Act?
+
+Held
+Yes. The grant in Section:201(b) meant what it said: The FCC has rulemaking authority to carry out the provisions of the Act, which included Section:Section:251 and 252, added by the Telecommunications Act of 1996.  No. FCC did not adequately consider the “necessary and impair” standards of Section:251(d)(2) when it gave blanket access to these networks, and others, in Rule 319. The Court vacated the Rule 319 because the Commission did not interpret the terms of the statute in a reasonable fashion.   Justice Souter, Concurring in Part and Dissenting in Part.    Souter agreed that the FCC had authority to interpret the disputed provisions of the Act, and that Chevron deference to the Commission’s reasonable interpretation was owed.  Souter disagreed that the Commission was unreasonable in its interpretation of Section:251(d)(2), thinking the Commission reasonably interpreted its duty to consider necessity and impairment.
+
+Discussion
+The majority has assumed, thus far, that an interpretation’s reasonableness depends on its fit with the relevant statute. The agency’s reasoning process is generally regulated by a separate doctrine. Chevron is the most controversial doctrine in modernadministrative law.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.980 F.2d 865 (2d Cir. 1992)
+
+Brief Fact Summary
+Defendant, a debt collection agency, mailed a notice of collection to Plaintiff at his former address in Pennsylvania, which was then forwarded to his present address in New York. Plaintiff sued Defendant for violation of the Fair Debt Collection Act in New York federal court. Defendant argued that venue was improper because none of the events that gave rise to the claim occurred in the district where the claim was filed.
+
+Synopsis of Rule of Law
+Venue is proper under 28 U.S.C. 1391(b)(2) wherever a substantial part of events that gave rise to the claim occurred, regardless of whether the defendant entered that venue.
+
+Facts
+C&S Adjusters, Inc. (Defendant) mailed a collection notice to Bates (Plaintiff) at his former address in Pennsylvania. The notice was forwarded to Plaintiff’s current address in New York. Plaintiff sued Defendant for violation of the Fair Debt Collection Act in the United States District Court for the Western District of New York. Defendant argued that venue was improper because none of the events that gave rise to the claim occurred in the district where the claim was filed. The District Court granted Defendant’s motion to dismiss for improper venue and Plaintiff appealed.
+
+Issue
+Was venue proper, under 28 U.S.C. 1391(b)(2), in the United States District Court for the Western District of New York where a collection notice was forwarded to the debtor’s current residence even though Defendant did not intend to mail it there?
+
+Held
+Yes. Reversed and remanded.
+
+Discussion
+The court’s decision demonstrates that the determination of where venue is proper is fact specific.
+

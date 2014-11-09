@@ -1,0 +1,21 @@
+Citation
+100 F.R.D. 78, 1983 U.S. Dist. 38 Fed. R. Serv. 2d (Callaghan) 398
+
+Brief Fact Summary
+The Save the Dunes Council (”Council”) moved to intervene as a Plaintiff in a case between Plaintiff, the United States, and Defendant, Northern Indiana Public Service Company, in a condemnation proceeding against Defendant.
+
+Synopsis of Rule of Law
+In order to intervene under Fed. R. Civ. P. 24(a)(2), a party must demonstrate that their application was timely and that they have a significantly protectable interest relating to the property at issue.
+
+Facts
+Council is an environmental organization interested in saving the Indiana Dunes.  In August of 1978, Plaintiff filed a notice of condemnation against Defendant to leave an area containing the dunes.  On April 4, 1982, the council moved to intervene.  The first mention of a potential settlement occurred on January 12, 1982, and the parties entered a motion to dismiss on September 7, 1983.  Defendant argued that the motion to intervene should be denied because it was untimely and that Council had no interest relating to the property.  Council contends that their response was timely and that, as an environmental organization, they have an interest in protecting the dunes.
+
+Issue
+The issue is whether Council is qualified to intervene.
+
+Held
+The court held that the motion to intervene was timely (they filed within four months after the first mention of a settlement).  However, the court cited the United States Supreme Court decision, Donaldson v. United States, 400 U.S. 517 (1971), that requires an intervening party to have a “significantly protectable” interest.  Council has no legal interest in the property, and certainly the interest is less than Defendant’s paramount interest.  The litigation has been ongoing for over four years and it to continue it at this point to further a secondary interest would be unfair to Defendant.
+
+Discussion
+A party should have a direct property right, or at least a right that could be considered paramount to the issue before the court before they could intervene.
+

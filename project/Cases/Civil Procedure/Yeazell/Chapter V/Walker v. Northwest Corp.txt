@@ -1,0 +1,21 @@
+Citation
+108 F.3d 158, 1997 U.S. App. 3574, 37 Fed. R. Serv. 3d (Callaghan) 39
+
+Brief Fact Summary
+Jimmy Lee Walker III, along with his guardian, Cynthia Walker (Plaintiffs), and their attorney, James Harrison Massey, appealed from a district court’s award of sanctions against Massey for filing a diversity case in which he failed to plead complete diversity of citizenship. The district court instead found that Massey had pleaded facts which tended to show there was not complete diversity.
+
+Synopsis of Rule of Law
+Sanctions in the form of attorney’s fees pursuant to Federal Rule of Civil Procedure Rule 11 are justified for failing to file proper pleadings in a diversity case.
+
+Facts
+Massey filed a complaint in the District Court for the District of South Dakota on behalf of Plaintiffs, alleging breach of fiduciary duty and other state law causes of action against the Northwest Corp., Northwest Bank and others (Defendants) in connection with the administration of a trust fund held for Jimmy Lee Walker at a Northwest Bank located in South Dakota. The complaint stated that jurisdiction was based on diversity since “the Plaintiff and some of the Defendants” were citizens of different states. Both plaintiffs were citizens of South Dakota. The complaint averred that one of the defendants, Norwest Corporation, was a Minnesota corporation. The complaint did not allege the other defendants’ citizenship precisely, but stated that many of them were South Dakota “residents.” Defendant moved to dismiss and for an award of sanctions. The court held that there was no diversity jurisdiction because there was not complete diversity among plaintiffs and defendants, since plaintiffs were South Dakotans and numerous defendants were alleged to be South Dakota “residents.” Additionally, the district court awarded sanctions against Massey for failing to properly plead complete diversity. Plaintiffs appealed from the district court’s award of sanctions against Massey. Plaintiffs contended that the district court erred in awarding sanctions at all, in determining the amount of sanctions, and in not allowing the Defendant to amend his complaint before instituting sanctions.
+
+Issue
+Should attorney’s fees be awarded as a sanction for failing to plead complete diversity of citizenship in a diversity case?
+
+Held
+Yes. The Eighth Circuit Court of Appeals affirmed the district court’s order awarding attorney’s fees. The fact that the Walkers did not allege the citizenship of the defendants convinced the Appeals Court that the district court did not abuse its discretion in determining that Rule 11 sanctions were appropriate.
+
+Discussion
+The general rule is that the complaint must plead the existence of the diversity jurisdiction; if the plaintiff fails to allege the citizenship grounding diversity jurisdiction, the defendant may bring a 12(b) motion to dismiss. Here, the district court went one step further, issuing sanctions in the form of attorney fees, in addition to granting the motion to dismiss. Students should recall that even if the appeals court on its   own would have been inclined to allow Walker to amend his complaint rather than issue Rule 11 sanctions, the appeals court’s review was limited to abuse of discretion.
+

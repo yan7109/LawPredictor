@@ -1,0 +1,24 @@
+Citation
+412 Mich. 1, 312 N.W.2d 585 (1981)
+
+Brief Fact Summary
+The Court of Appeals of Michigan dismissed a doctor’s causes of action for negligence and abuse of process in connection with the litigation of a medical malpractice action against him. The doctor appealed.
+
+Synopsis of Rule of Law
+An attorney who initiates a civil proceeding on behalf of his client or one who takes any steps in the proceeding is not liable if he has probable cause for his action and even if he has no probable cause and is convinced that his client’s claim is unfounded, he is still not liable if he acts primarily for the purpose of aiding his client in obtaining a proper adjudication of his claim.
+
+Facts
+The Plaintiff, Doctor Friedman (Plaintiff), performed surgery on a Mrs. Serafin and in the course of surgery she began to hemorrhage uncontrollably. She died five days later and the Defendant attorneys, Dozorc and Golden (Defendants), acting on behalf of Anthony Serafin, Jr., brought suit against the doctor for wrongful death. No evidence was submitted at trial establishing professional negligence and the trial judge directed a verdict in the Plaintiff’s favor. The Plaintiff then brought suit against the Defendants alleging malicious prosecution, negligence and abuse of process. The trial court dismissed the actions and the court of appeals affirmed, but reversed with regards to the action for malicious prosecution. In this action, the Plaintiff argued that the Defendants owed him a duty to reasonably investigate and examine facts to establish that their client had an actionable claim.
+
+Issue
+Do attorneys have a duty to adequately investigate claims in order to protect the opposition from a frivolous lawsuit and, if failing to do so, open themselves up to a malicious prosecution claim?
+
+Held
+No. The court concluded that imposing a duty on an attorney to protect an opposition plaintiff from frivolous lawsuit by extending his duty to adequately investigate claims would present a conflict of interests and would be detrimental to free access to the courts.
+
+Dissent
+The dissent takes the view that the majority does not go far enough in safeguarding access to the courts, and takes particular issue with its attention to the special injury issue: “[T]his Court’s concern should be for preserving free access to the courts for meritorious claims. The majority, by protecting meritorious and frivolous claims alike, has denied free access to the courts for all those who have suffered harm but no “special injury” from wrongful litigation.”
+
+Discussion
+Breach of duty is the defendant’s failure to act as a reasonable person would have under the same or similar circumstances. More simply, breach is unreasonable conduct by the defendant. The threshold issue in any negligence case is whether the defendant owed a duty to the plaintiff in the first place. The Friedman court begins with a standard analysis concerning this issue: “In a negligence action the question whether the defendant owes an actionable legal duty to the plaintiff is one of law which the court decides after assessing the competing policy considerations for and against recognizing the asserted duty.” Following from this premise, “Only if the law recognizes a duty to act with due care arising from the relationship of the parties does it subject the defendant to liability for negligent conduct.” This delineation of duty takes on a different patina within the context of litigation, and the court noted, “Assuming that an attorney has an obligation to his client t
+

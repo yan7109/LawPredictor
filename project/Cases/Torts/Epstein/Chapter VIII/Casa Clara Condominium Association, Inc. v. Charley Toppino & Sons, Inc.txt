@@ -1,0 +1,24 @@
+Citation
+620 So. 2d 1244, 1993 Fla.
+
+Brief Fact Summary
+Casa Clara (Plaintiff) installed defective concrete, which was manufactured by Charley Toppino & Sons (Defendant). Plaintiff suffered only economic loss, but sought to recover in tort.
+
+Synopsis of Rule of Law
+For recovery in tort, there must be a showing of harm above and beyond disappointed expectations.
+
+Facts
+Plaintiff was a condominium association, which hired Defendant to supply concrete to its buildings. The concrete contained too much salt, which in turn caused reinforcing steel inserted into the concrete to rust. This ultimately caused the concrete to crack and fall off. Plaintiff sued Defendant for a common law breach of implied warranty, products liability, negligence, and violation of building codes. The circuit court dismissed all counts. Defendant did not violate building codes, because it was only a supplier. Applying the economic loss rule, the court of appeals held that because no person or property was injured, there was no cause of action against Defendant. Plaintiff appealed.
+
+Issue
+Can Plaintiff maintain a products liability claim in tort for economic loss?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+(Chief Justice Barkett) Plaintiff is left without a remedy, but the majority was unsympathetic to this problem. (Justice Shaw) The economic loss theory should not be used to deny a third party, that the defendant knew or should have known would be injured by tortious conduct. Defendant knew Plaintiff would use the concrete.
+
+Discussion
+In order for Plaintiff to maintain a products liability action in tort, they must have suffered damage that is more than economic in nature. The proper cause of action in this case is under contract law because contract law protects the expectations of plaintiffs. Here, Plaintiff received poor quality concrete and suffered damage to their property because of it.
+

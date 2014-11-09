@@ -1,0 +1,21 @@
+Citation
+22 Ill.724 F. Supp. 605 (S.D. Ind. 1989)
+
+Brief Fact Summary
+The Plaintiff, Corinthian Pharmaceutical Systems, Inc., (Plaintiff) and the Defendant, Lederle Laboratories (Defendant), had an ongoing business relationship, whereby Plaintiff would place orders of DTP vaccine from Defendant and would be invoiced for the vaccine after the fact. Upon learning of an impending price increase, Plaintiff placed a large order of DTP and confirmed this order in writing with the office of Defendant. Defendant partially filled Plaintiff’s order, and refused to fill the rest of the order, citing the price increase and lack of proper acceptance of Plaintiff’s offer as reasons for doing so.
+
+Synopsis of Rule of Law
+This case stands for the proposition that an offer is not accepted by shipment of non-conforming goods.
+
+Facts
+On May 19, 1986, Defendant’s Price Manager prepared “Price Letter No. E-48″, which indicated that, effective the following day, the price of DTP Vaccine would be raised form $51.00 to $171.00 per vial, due to rising insurance premiums, resulting from product liability suits, concerning the vaccine. Plaintiff, as a customer of Defendant, was not to be notified of the price increase until May 20, 1986. However, somehow, Plaintiff found out about the impending increase on May 19, 1986. After finding out about the price increase, Plaintiff placed an order of 1000 vials, at the price of $64.32, on “Telgo”, Defendant’s telephone computer ordering system. Additionally, the same day, Plaintiff confirmed its order by writing two letters which outlined the price terms. On June 3, 1986, Defendant shipped 50 vials to Plaintiff at the price of $64.32, which were accepted. The same day, Defendant sent letters to its customers, explaining that additional shipments, including any balance on o
+
+Issue
+The issue here is whether a contract was formed when Plaintiff placed its order for 1000 vials of DTP vaccine at $64.32, which was partially filled by Defendant.
+
+Held
+Defendant’s Motion for Summary Judgment was granted.
+
+Discussion
+This case stands for two propositions. First, acceptance cannot be made by a computer, in lieu of actual communication. Second, an accommodation by a buyer, in response to a seller’s offer to buy is not to be construed as an acceptance of that offer when the goods are nonconforming and the buyer clearly communicates to the seller that he does not intend to accept their offer.
+

@@ -1,0 +1,27 @@
+Citation
+Fla. Dist. Ct. App., First Dist., 453 So. 2d 1383 (1984)
+
+Brief Fact Summary
+Eglin National Bank (D) argued that it had no notice of the condominium being owned by Waldorff Insurance and Bonding, Inc., and that it obtained good title on foreclosure.
+
+Synopsis of Rule of Law
+A successor to legal title, in the time after a contract to convey title has been duly executed, takes title subject to all equitable interests which he has legal knowledge of.
+
+Facts
+Chocktaw Partnership took out a mortgage on its condominium project with Eglin (D). It sold one unit to Waldorff (P) which moved into the unit, paid all expenses and the rent. Chocktaw then took out a second mortgage with Eglin, but defaulted. Eglin foreclosed on the condo, including the unit occupied by Waldorff. Waldorff filed against Eglin on the ground that it had better title to the unit. The trial court held that Eglin had no legal notice of Waldorff’s ownership simply because it occupied the unit. Waldorff appealed the verdict.
+
+Issue
+Does a successor to legal title, in the time after a contract to convey title has been duly executed, take title subject to all equitable interests which he has legal knowledge of?
+
+Held
+(Shivers, J.) Yes. A successor to legal title, in the time after a contract to convey title has been duly executed, takes title subject to all equitable interests which he has legal knowledge of. Once a contract to transfer legal title on payment of a purchase price has been made, the purchaser obtains an equitable interest in the property. The interest of the purchaser is that of a beneficiary in a property kept in trust for him. The seller has only the bare title while the purchaser has beneficial ownership. He has no legal title but has the interest of property as though kept in trust for him. The fact that Waldorff occupied the unit was sufficient notice to Eglin of Waldorff’s interest, and so Waldorff had a better title to the unit. The ruling was reversed and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+Choctaw had a pending debt to Waldorff amounting to $35,000 in insurance premiums on the condo project. The two parties agreed that Waldorff would own full title to a unit in return for cancelling the debt. The argument advanced by Eglin that no consideration supported the transfer of title, since Waldorff wrote off the bad debt of Choctaw for tax deduction purposes, was held by the court to be invalid. The receipt of cancellation of the debt held by Choctaw was sufficient proof that value-based exchange had occurred in the transaction.
+

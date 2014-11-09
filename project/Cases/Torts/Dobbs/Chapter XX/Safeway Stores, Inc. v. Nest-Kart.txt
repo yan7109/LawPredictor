@@ -1,0 +1,24 @@
+Citation
+21 Cal.3d 322, 146 Cal.Rptr. 550, 579 P.2d 441 (1978)
+
+Brief Fact Summary
+The Superior Court of Santa Clara County (California) apportioned liability in a judgment, pursuant to the relevant statute, between Appellant and Respondent corporation on a pro rata basis, contravening a jury finding of comparative fault. Appellant manufacturer challenged.
+
+Synopsis of Rule of Law
+Consistent with the equitable indemnity doctrine, liability among joint tortfeasors may be apportioned on a comparative fault basis. Such apportionment may properly be distributed between a strictly liable defendant and a negligent defendant, as well as between multiple negligent defendants.
+
+Facts
+In January 1972, Plaintiff was injured when a shopping cart, owned by Defendant, fell on her foot causing server injuries requiring surgery. In addition to Safeway stores, Nest-Kart, the manufacturer of the carts, and Technibilt Corporation, the company that did repairs on the carts, were named in her personal injury action. She alleged that the various Defendants were responsible for her injures, citing both product liability and negligence principles. In response, Defendants claimed that Plaintiff’s own negligence was the proximate cause of her injuries. At trial, a jury returned a judgment for $25,000 against Safeway and Nest-Kart, absolving Plaintiff and Defendant Technibilt of responsibility. Specifically, the jury found Safeway responsible on both negligence and strict liability grounds; Nest-Kart the jury found liable solely on strict liability. Comparative fault was assessed at 89% against Safeway, and 20% against Nest-Kart. Safeway then moved for a contribution judgme
+
+Issue
+Was the trial court’s order, which apportioned liability on a pro rata basis in contravention of the jury’s special finding on the comparative fault issue, proper?
+
+Held
+No. Reversed. The California Supreme Court reversed the trial court’s order apportioning liability on a pro rata basis in contravention of the jury’s special finding on the comparative fault issue.
+
+Dissent
+Judge Stanley Mosk, the venerable lion of the California Supreme Court, took issue with the majority holding. Taking issue with the majority, he stated, “The majority take one more step toward the total infusion of negligence theories into the previously independent doctrine of products liability.” He noted, ironically, that the ‘pure concept of products liability so pridefully fashioned and nurtured by this court for the past decade and a half is reduced to a shambles.’” He then cautioned, “This trend can have no result other than to emasculate the doctrine of strict products liability,” and striking a populist note added, “Indeed, in practice negligence and strict products liability are becoming virtually indistinguishable, a result long resisted by courts concerned with protection of consumers, and a result long sought by manufacturers and insurance carriers.”
+
+Discussion
+In explaining the general principles underlying comparative fault analysis, the California Supreme Court stated, “Principles of comparative negligence should be utilized as the basis for apportioning liability among multiple negligent tortfeasors pursuant to a comparative indemnity doctrine. Comparative fault principles are also to be applied to apportion responsibility between a strictly liable defendant and a negligent plaintiff in a product liability action.” Further, with regard to equitable apportionment, the court stated, “Liability on a comparative fault basis can and should appropriately be apportioned between two tortfeasors in conformity with the comparative fault findings rendered by the jury at trial.” The court also noted that, as it deemed apt in the instant case, “[the relevant statute] provides that such a right of contribution may be enforced only after one tortfeasor, by payment, discharges the joint judgment or pays more than his pro rata share thereof.
+

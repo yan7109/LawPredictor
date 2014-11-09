@@ -1,0 +1,21 @@
+Citation
+536 F.2d 1388 (2d Cir. 1976)
+
+Brief Fact Summary
+Feeling thatthe Securities and Exchange Commission (SEC) was reporting rules differently than what they were, Dixon (Defendant), manipulated particular accounts so that they were compatible with what he believed were legal standards.
+
+Synopsis of Rule of Law
+Once a defendant unsuccessfully manipulates accounts to meet standards of legality, then the intent component of a criminal securities law violationhas been met.
+
+Facts
+AVM Corporation, a "reporting" company under the Securities Exchange Act, had a president called Dixon, and during 1970, AVM loaned Dixon amounts in excess of$65,000. SEC reporting requirements mandated disclosure on Form 10-K of any indebtedness from an officer in excess of $20,000, at the time. Due to Dixon’s belief that this amount fell under the reporting requirement only if over $20,000 at the end of the year, Dixon manipulated particular accounts in order to transfer his loan debt to others.  SEC reporting regulations required that any indebtedness, at any time, over $20,000 be reported and so, Dixon was convicted for not disclosing the loan. Dixon appealed.
+
+Issue
+Once a defendant unsuccessfully manipulates accounts to meet standards of legality, then has the intent component of a criminal securities law violation been met?
+
+Held
+(Friendly, J.) Yes.Once a defendant unsuccessfully manipulates accounts to meet standards of legality, then the intent component of a criminal securities law violation has been met. As provided by Section 32(a) of the 1934 Act, if he can demonstrate that he had no knowledge of the law or regulation, no one shall be imprisoned for violation of a securities law. In this case, Dixon contends that he has not met the intent standard of § 32(a) because he tried to meet what he thought was the legal standard, which is not correct.  In stating that he tried to meet his incorrect view of the requirement proves that he was cognizant of the pertinent regulation, and his attempt at “cooking the books” shows an awareness that he was not being genuine, which also is satisfactory to meet the component of intent of § 32(a).Affirmed.
+
+Discussion
+An offender is not absolved of criminal liability by Section 32(a), it simply offers that a defendant cannot be imprisoned if he is not cognizant of the rule or law he violates.  The applicable effect is that a guilty defendant will still be looking at a hefty fine even though he is spared prison time.
+

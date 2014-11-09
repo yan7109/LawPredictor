@@ -1,0 +1,24 @@
+Citation
+411 U.S. 778, 93 S. Ct. 1756, 36 L. Ed. 2d 656 (1973)
+
+Brief Fact Summary
+The respondent, Scarpelli (the “respondent”), a felony probationer, was arrested after committing a burglary.  The respondent’s probation was revoked without a hearing and he was not represented by counsel.  He filed a petition for habeas corpus and the District Court concluded that revocation of probation without a hearing and without counsel was a denial of due process.  The Court of Appeals affirmed.
+
+Synopsis of Rule of Law
+The probationer was entitled to a hearing, but the State is not constitutionally required to appoint an attorney to indigent defendants at parole and probation revocation hearings.
+
+Facts
+The respondent pleaded guilty in July 1975 to a charge of armed robbery in Wisconsin.  He was sentenced to fifteen years in prison, but the sentence was suspended and he was placed on probation for seven years.  On August 6, 1975, the respondent and another man were apprehended in the course of committing a burglary of a house. The respondent’s probation was revoked without a hearing and without being represented by counsel.  The respondent filed a petition for habeas corpus.
+
+Issue
+Whether a previously sentenced probationer is entitled to a hearing when his probation is revoked and, if so, whether he is entitled to be represented by appointed counsel at such a hearing?
+
+Held
+Probationer is entitled to a hearing, but the constitution does not obligate the State to provide appointed counsel for probation and parole revocation hearings.  A determination of whether a probationer/parolee is entitled to court appointed counsel at revocation hearings should be evaluated on a case by case basis.
+
+Dissent
+Justice William Douglas (”J. Douglas”) observed, “I believe that due process requires the appointment of counsel in this case because of the claim that respondent’s confession of the burglary was made under duress.”
+
+Discussion
+In first discussing whether a probationer is entitled to a hearing before his probation is revoked, the Supreme Court of the United States (”Supreme Court”) discussed its recent holding that, even though the revocation of parole is not a part of the criminal prosecution, the loss of liberty entailed is a serious deprivation requiring that the parolee be accorded due process.  The Supreme Court’s majority ultimately concludes that the same reasoning applies to probation revocation proceedings and that a defendant on probation is entitled to a preliminary hearing and a final revocation hearing.
+

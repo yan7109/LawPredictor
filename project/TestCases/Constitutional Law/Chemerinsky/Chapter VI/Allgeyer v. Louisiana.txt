@@ -1,0 +1,21 @@
+Citation
+165 U.S. 578, 17 S. Ct. 427, 41 L. Ed. 832, 1897 U.S.
+
+Brief Fact Summary
+An insurance company contracted to insure property within the Plaintiff state, Louisiana (Plaintiff) with a citizen of the state. The contract was formed in New York, but a notification of coverage was written in the Plaintiff state. The Plaintiff state’s constitution prohibited foreign insurance companies from doing business in the state if they were not incorporated in the state.
+
+Synopsis of Rule of Law
+A state may not legislate in such a way as to deprive its citizens of liberties guaranteed by the Due Process Clause of the United States Constitution (Constitution).
+
+Facts
+The Plaintiff state had an article in its constitution prohibiting foreign corporations from doing business in the Plaintiff state, unless they had a place of business and an authorized agent within the state.
+
+Issue
+Is Article 236 of the Louisiana state constitution a violation of the Fourteenth Amendment of the Constitution?
+
+Held
+Yes. The statute as written does not provide due process of law because it prohibits an act that the Plaintiff had a right to do under the Constitution. The term “liberty” in the Due Process Clause embraces “the right of the citizen to be free in the enjoyment of all his faculties; to be free to use them in all lawful ways; to live and work where he will; to earn his livelihood by any lawful calling; to pursue any likelihood or avocation, and for that purpose to enter into all contracts which may be proper, necessary and essential to his carrying out to a successful conclusion the purposes above mentioned.” This is an improper and illegal interference with the conduct of a citizen’s right to contract and carry out the terms of the contract.
+
+Discussion
+Here the Supreme Court of the United States (Supreme Court) chose to analyze the problem from the standpoint of the citizen rather than the corporation. The state maintains policing power in relationship to the corporation. But, it cannot legislate in such a manner as to deny an individual’s liberty. The Supreme Court defines liberty to include the right to contract.
+

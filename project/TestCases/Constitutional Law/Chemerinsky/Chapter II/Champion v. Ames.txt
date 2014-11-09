@@ -1,0 +1,21 @@
+Citation
+188 U.S. 321
+
+Brief Fact Summary
+Appellant is an express carrier challenging the constitutionality of an act of Congress prohibiting the carriage of lottery tickets across state lines.
+
+Synopsis of Rule of Law
+Congress has the ability to regulate transport of goods in interstate commerce when such regulation does not affect the internal affairs of the states.
+
+Facts
+Defendant was indicted under an 1895 act criminalizing the interstate shipment of lottery tickets and similar instruments. Defendant argues that the act overreaches Congress’s commerce powers, as the mere transport of the tickets is not interstate commerce.
+
+Issue
+May Congress regulate shipment of lottery tickets from one state to another?
+
+Held
+Yes. Appeals court judgment affirmed. Congress is not prohibiting the sale of lottery tickets, only their shipment across state lines.
+
+Discussion
+The Supreme Court of the United States’ decision in Champion v. Ames would appear to be at odds with the majority opinion in Hammer v. Dagenhart, 247 U.S. 251 (1918). Note that the statute criminalizes the shipment of lottery tickets, not the carrying of parcels in general. The majority in Hammer ruled that this is not regulating interstate transport but Congress’ attempt to regulate an intrastate activity (in Hammer, the Supreme Court ruled that prohibiting the interstate transport of products of child labor is not regulating interstate commerce per se). A cynical (or practical) view would explain the difference between the holdings by saying the morally conservative Supreme Court had no problem extending the commerce power to quash gambling but could not extend it to injure the cause of big business.
+

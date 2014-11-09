@@ -1,0 +1,21 @@
+Citation
+22 Ill.373 Ill. 567, 27 N.E.2d 451 (1940)
+
+Brief Fact Summary
+The Plaintiff, Corcoran (Plaintiff), appealed an appellate decision reversing judgment in her favor. The Plaintiff argued that the appeals court did not have the authority to reverse her judgment because the findings of fact were entered by a jury.
+
+Synopsis of Rule of Law
+Common law practice authorizes appellate courts to set aside verdicts on the grounds that the evidence does not support the findings of fact.
+
+Facts
+The Plaintiff brought suit against the Defendant, the City of Chicago (Defendant), to recover damages for personal injuries sustained by the Plaintiff, due to the Defendant’s alleged negligence in permitting certain streets to be and remain in unsafe conditions for travel. A jury heard the case and held for the Plaintiff in the amount of $5000. A motion for a new trial has denied and judgment was entered. On appeal, the Appellate Court reversed and remanded for a new trial citing that the verdict was against the weight of the evidence. The Plaintiff filed a motion to have the remand part struck from the order and that motion was granted.
+
+Issue
+Whether the Appellate Court had the authority to reverse a judgment based on facts decided by a jury, thereby unconstitutionally striking the Plaintiff’s right to a jury trial.
+
+Held
+Yes. We conclude that there was a practice at common law, which authorized courts exercising appellate jurisdiction to set aside verdicts on the grounds the findings of fact were not supported by the evidence. Judgment affirmed.
+
+Discussion
+The power of the Appellate Court in setting aside verdicts was found in the Illinois Civil Practice Act Section: 92(3b), which asserted that the Appellate Court could review error of fact in judgments, decrees, or orders appealed from, which were not sustained by the evidence or were against the weight of the evidence.<br />The Court also cited common law and precedent. An 1837 Act provided that new trials could be allowed for error. Citing precedent, judges of an appellate court had as much power over the facts as the jury had because appellate courts undeniably had the power to set aside verdicts if the facts failed to satisfy the judgment.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.478 U.S. 804, 106 S. Ct. 3229, 92 L. Ed. 2d 650 (1986)
+
+Brief Fact Summary
+Plaintiffs, non-U.S. residents, sued Defendants, U.S. corporations, in Ohio state court, for negligence per se (among other counts), alleging that Defendants violated the Food, Drug and Cosmetic Act. Defendants removed the case to federal court because the count of negligence per se “arose” under federal law.
+
+Synopsis of Rule of Law
+In order for a federal court to have federal question jurisdiction, the law that the claim “arises” from must be a private cause of action for which Congress intended to provide a remedy.
+
+Facts
+Plaintiffs, residents of Canada and Scotland, sued Defendants, one of whom was Merrell Dow, for negligence in Ohio stateState Court based on injuries allegedly sustained by ingesting the drug Bendectin. One of the counts alleged that the conduct was negligence per se in violating the federal Food, Drug and Cosmetic Act. Defendant filed a petition for removal to federal court claiming there was federal question jurisdiction over the cause of action because the negligence per se count “arose” from federal law. The case was removed to federal court. Plaintiffs filed a motion to remand back to state court, which was denied. The federal court granted Defendants’ motion to dismiss for forum non conveniens. The Court of Appeals reversed, stating the action should be in state court. Defendants appealed.
+
+Issue
+Does a federal court have subject matter jurisdiction when proving violation of a federal statute is an element of one count of the action, but the cause of action itself arises from state law, and under the statute at issue Congress specifically abrogated a private federal cause of action?
+
+Held
+No. Judgment of the Court of Appeals affirmed.
+
+Dissent
+Since Plaintiffs’ right to relief is dependent on whether Defendant’s conduct was negligence per se, and the statute violated was a federal one, this is a federal question. The fact that Congress stated that there was no federal private cause of action means that there is no federal remedy, not necessarily no federal jurisdiction. The only way to show that Congress did not want federal jurisdiction over this statute is that the reasons for denying jurisdiction are the same reasons for withholding the remedy.
+
+Discussion
+The majority’s opinion illustrates how the analysis of federal question jurisdiction and the analysis of federal preemption of state law can merge. For there to be federal question jurisdiction, the federal law must be more than an issue in the case. The federal law must actually provide a remedy for the individual the statute intends to protect. This is known as the “modern implied remedy” doctrine.
+

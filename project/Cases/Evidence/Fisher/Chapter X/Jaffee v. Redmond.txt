@@ -1,0 +1,24 @@
+Citation
+518 U.S. 1, 116 S. Ct. 1923, 135 L. Ed. 2d 337, 1996 U.S.
+
+Brief Fact Summary
+The administrator of decedent Ricky Allen’s (”Mr. Allen”) estate filed suit alleging Mr. Allen’s constitutional rights were violated when he was killed by the Respondent, Redmond (the “Respondent”), an on-duty police officer.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.”) Rule 501 authorizes the federal courts to define new privileges following the principles of common law.
+
+Facts
+On June 27, 1991, the Respondent, responded to a fight at an apartment complex.  The Respondent shot Mr. Allen believing he was about to stab a man he was chasing.  The administrator of Mr. Allen’s estate, the Petitioner, filed suit in Federal District Court alleging the Respondent violated Mr. Allen’s constitutional rights by using excessive force.  During discovery, the Petitioner learned that the Respondent participated in 50 counseling sessions with a clinical social worker, Karen Beyer (”Ms. Beyer”).  The Petitioner sought access to the notes taken by Ms. Beyer during those sessions and the Respondent resisted their discovery arguing that disclosure should be prevented because of a psychotherapist-patient privilege.  The district judge allowed the discovery, but neither Ms. Beyer nor the Respondent complied with the request.  The judge advised the jury that the refusal to turn over Ms. Beyer’s notes could be considered a presumption that the content of the notes would hav
+
+Issue
+Is it appropriate for federal courts to recognize a psychotherapist privilege under F.R.E. Rule 501?
+
+Held
+Justice John Paul Stevens (”J. Stevens”) delivered the opinion for the United States Supreme Court (”Supreme Court”) in holding that the federal courts should recognize a psychotherapist privilege.
+
+Dissent
+Justice Antonin Scalia (”J. Scalia”) issued a dissenting opinion in which Justice William Rehnquist (”J. Rehnquist”) joined.  J. Scalia asserted that the privilege could prevent finding the truth and lead to injustice.  Further, he argued that the Supreme Court should have addressed whether or not there is a clear need for the privilege, and whether it is appropriate to address the parameters of that privilege in common-law.
+
+Discussion
+All fifty states and the District of Columbia have enacted some form of psychotherapist privilege.  Further, the Supreme Court notes that they believe allowing this new privilege is good public policy because of the need for confidence in mental health treatment.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.390 U.S. 102, 88 S. Ct. 733, 19 L. Ed. 2d 936 (1968)
+
+Brief Fact Summary
+Three individuals were in a car accident involving a car whose owner was not present at the time and another truck. Three of the people were killed, including the driver of the truck, and one survived. One decedent’s estate brought an action to enforce a previous judgment against the driver’s estate and the car owner’s insurance company but not the car owner, on the grounds that the driver was covered under the car owner’s policy because the driver had permission to drive the vehicle.
+
+Synopsis of Rule of Law
+The interests articulated in Rule 19(b) of the Federal Rules of Civil Procedure must be evaluated by the Court prior to disposition of the case in order to determine whether a case should be dismissed for failure to join an indispensable party. The decision rendered should always be consistent with “equity and good conscience.”
+
+Facts
+Dutcher let Cionci borrow his car. Cionci, Harris and Lynch were in Dutcher’s car when it collided with a truck driven by Smith. Cionci, Lynch and Smith were killed and Harris was badly injured. All individuals as Plaintiffs or Plaintiff’s decedents (Lynch, Harris, Smith) as well as Dutcher were residents of Pennsylvania. Provident Tradesmen Bank, the administrator of Lynch’s estate and Plaintiff in the present action sued Cionci’s estate and settled for $50,000. The settlement was unsatisfied because Cionci’s estate did not have any money. Smith and Harris’ estates brought state court actions against Cionci’s estate and Lynch’s estate, which were still pending. Dutcher has an insurance policy with Lumbermens Mutual Casualty Company (”Lumbermens”) with a limit of $100,000. The insurance company refused to defend on the grounds that Cionci was not covered as an insured under the policy because he did not have permission from Dutcher to drive the car. Plaintiffs’ decedents sued
+
+Issue
+Should the court have dismissed an action if joinder of Dutcher was not feasible?
+
+Held
+First issue: No. Second issue: Yes, by rendering some of the issues, such as efficiency of ordering joinder, the issue is obsolete. Third issue: Yes because it gives Plaintiffs’ interest in the forum greater consideration rather than if the evaluation were just whether Plaintiffs had an interest in choosing between the state and federal courts.
+
+Discussion
+The Court’s evaluation shows that whether a party is indispensable requires a careful analysis requiring an application of each articulated factor to the facts and circumstances of the case. The Court emphasizes that such an evaluation should be made prior to the disposition of the case. The fact that judgment had been entered before the Court of Appeals found Dutcher indispensable was disapproved of by the Court, as some of the factors considered under Rule 19(b) of the Federal Rules of Civil Procedure became less relevant. The theme of the Court’s decision expresses a reluctance to dismiss a case for failure to join a party. The court should dismiss the case only it cannot dispose of a case without disposing of the rights of the absent party.
+

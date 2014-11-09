@@ -1,0 +1,21 @@
+Citation
+22 Ill.41 N.Y.2d 71, 390 N.Y.S.2d 875, 359 N.E.2d 384 (1976)
+
+Brief Fact Summary
+Plaintiff and Defendant, formerly husband and wife, were involved in substantial divorce litigation in New York state courts until 1972, when final judgment was affirmed by the Appellate Division. Two years later, Defendant brought suit to attack the final judgment, claiming that it was void because the Supreme Court (trial court in New York) did not have subject matter jurisdiction. Defendant claims that because Plaintiff had not met the residency requirements when the action started, the court lacked subject matter jurisdiction.
+
+Synopsis of Rule of Law
+Unless an issue is clearly one of subject matter jurisdiction, it is one of procedural or substantive law that a court of general jurisdiction can evaluate and bind parties thereto.
+
+Facts
+Plaintiff and Defendant, formerly husband and wife, were in contentious divorce litigation. At the time the action was started, Defendant claims Plaintiff had not lived in New York for over a year. A New York statute requires that both parties be residents of New York in order for the Supreme Court to render a divorce decree. Defendant filed suit two years after final judgment was affirmed to attack the final judgment. Defendant claims that the Supreme Court never had subject matter jurisdiction because Plaintiff did not meet the residency requirements. The Supreme Court disagreed and the Appellate Division affirmed. The Special Term agreed with Defendant and vacated the final judgment.
+
+Issue
+Did the Supreme Court have the competence to enter a divorce decree that would bind the parties?
+
+Held
+Yes.
+
+Discussion
+State courts are courts of general jurisdiction. Therefore, collateral attacks on the judgment based on lack of subject matter jurisdiction are not valid unless there is a law specifically limiting the court’s jurisdiction.
+

@@ -1,0 +1,21 @@
+Citation
+422 U.S. 659 (1975)
+
+Brief Fact Summary
+Gordon (Plaintiff)  alleged that the Sherman Act antitrust laws were violated by the New York Stock Exchange (NYSE) (Defendant)by the utilization ofstatic rates of commission on securities sales as detailed by the Securities Exchange Act of 1934 § 19.
+
+Synopsis of Rule of Law
+§ 19 of the Securities Exchange Act of 1934 allowing for fixed rates of commission for securities sales is invulnerable to federal antitrust laws.
+
+Facts
+On behalf of himself and a group of small investors, Gordon filed suit questioning a myriad of guidelines and procedures of the American Stock Exchange, the NYSE, and two member firms of the exchanges.  One of the procedures mentioned was the use of static rates of commission for sales and securities which Gordon purported violated the Sherman Act’s antitrust requirements. The district court granted summary judgment to the defendants, with the court of appeals affirming. The Supreme Court granted certiorari to assess the questioning of the static commission rate only.
+
+Issue
+Are static rates of commission for securities sales protected from federal antitrust laws under § 19 of the Securities Exchange Act of 1934?
+
+Held
+(Blackmun, J.) Yes. Static rates of commission for securities sales are protected from federal antitrust laws under § 19 of the Securities Exchange Act of 1934.  Prior to the Act’s adoption, exchanges were self-regulating and existed without much supervision. Upon its enactment, although the concern of fixing rates of commission for securities sales was not disregarded, the Commission was permitted to propose “reasonable” rates. The Commission sometimes asked that the exchange raise the rates and other times to reduce them, however, for specific transactions competitive rates were always permitted. As in other areas, here, antitrust laws and the Act seem to clash. In Silver v. New York Stock Exchange, 373 U.S. 341 (1963) the Court considered the relationship between the antitrust laws and the Act, however in that case, the Commission failed to use direct regulatory power and so no conflict was apparent. In this case, because § 19 of the Act utilizes that type power, a very different case exists. As in Silver, to allow the Act to work, an implicit repeal of antitrust laws is needed. In this case, the implicitrepeal is necessary to inhibit the antitrust statutes from hindering the Act. § 19 of the Act allowing for static rates of commission for sales of securities is protected from federal antitrust laws. Failing to imply repeal would nullify the legislative stipulation for supervisory agency administration of exchange commission rate. Affirmed.
+
+Discussion
+In this case, the exercise of the Commission establishing commission rates was valued heavily by the Court. The aforementioned combined with the fact that Congress failed to take note of the strain between the two forms of law showed that the legislative intent was to allow regulation of commission rates by the Commission without interruption of antitrust laws.
+

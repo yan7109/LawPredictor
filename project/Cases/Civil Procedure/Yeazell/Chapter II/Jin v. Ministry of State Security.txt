@@ -1,0 +1,21 @@
+Citation
+254 F. Supp. 2d 61 (D.D.C. 2003)
+
+Brief Fact Summary
+A group of 51 visiting Chinese Nationals, U.S. residents and U.S. citizens filed a defamation suit against the People’s Republic of China, in Federal District Court.
+
+Synopsis of Rule of Law
+To determine when assertion of supplemental jurisdiction is appropriate, District Court must determine whether state and Federal claims derive from common nucleus of operative fact and, if so, whether judicial economy, convenience and fairness to litigants weigh in favor of doing so
+
+Facts
+Plaintiffs, a group of 51 visiting Chinese Nationals, U.S. residents, and U.S. citizens, alleged violations of their rights under the United States Constitution and Federal and State law by persons associated with the People’s Republic of China. The Plaintiffs practice Falun Gong, a self-improvement discipline. Plaintiffs allege that in an effort to eradicate Falun Gong, the government of the People’s Republic of China published a series of negative articles about the practice in state-run newspapers. Over the next few years, the government issued a ban on Falun Gong literature, and began a media campaign describing it as a cult whose members advocated criminal activity. They further allege that the government ultimately killed 1,500 practitioners, and imprisoned 50,000 more. Plaintiffs further alleged that the Chinese government began a negative media campaign in the U.S. to vilify the Falun Gong practice among Chinese nationals living in the U.S. Ultimately, Plaintiffs filed a defamation suit against the Defendant Ministry of State Security of China, following a news event put on by the Chinese government in which Falun Gong members lit themselves on fire. Plaintiffs alleged supplemental jurisdiction over the Ministry as the defamation suit arose under state law. Defendants moved to dismiss the defamation claim under Federal Rule of Civil Procedure 12b (1) and (6).
+
+Issue
+When is supplemental jurisdiction appropriate?
+
+Held
+The Supreme Court of the United States held that although the exercise of supplemental jurisdiction was warranted, the claim was dismissed because it was time barred by the statute of limitations.   When a Federal court has an independent basis for exercising Federal jurisdiction, it may in certain circumstances, also exercise supplemental jurisdiction over related claims under state law. To determine when assertion of supplemental jurisdiction is appropriate, district court must determine whether state and Federal claims derive from common nucleus of operative fact and, if so, whether judicial economy, convenience and fairness to litigants weigh in favor of doing so     Ultimately the Supreme Court held that the exercise of supplemental jurisdiction over the Falun Gong members’ state law defamation claims against the Chinese television corporation was warranted even though the practitioners were domiciled in different states, because the defamation claims formed a key part of the alleged overarching campaign to abridge and nullify the practitioners’ rights and liberties.
+
+Discussion
+In reading the Supreme Court’s opinion students should keep in mind that, unlike an general assertion of subject matter jurisdiction, in considering whether it has jurisdiction over the case, the Court may consider materials outside the pleadings. Students should also keep in mind that when deciding state-law claims under supplemental jurisdiction, Court applies choice-of-law principles of forum jurisdiction. Ultimately, the Supreme Court decided the matter on practical grounds, finding that the defamation claim did not raise complex issues of state law that outweighed the court’s interest in promoting judicial economy
+

@@ -1,0 +1,24 @@
+Citation
+580 F.2d 1179, 1978 U.S. App.
+
+Brief Fact Summary
+Following a fight onboard a ship between two employees, Mr. Lloyd (Plaintiff) and Mr. Alvarez (Alvarez), the Coast Guard held a hearing to determine whether Plaintiff’s merchant marine rights should be revoked.  Plaintiff gave testimony during that hearing and, at a subsequent action brought by Alvarez against the shipper, American Export Lines (Defendant), Defendant attempted to introduce that testimony to show Alvarez had started the fight.  The lower court excluded the evidence and the jury returned a verdict for Alvarez.
+
+Synopsis of Rule of Law
+Under Federal Rule of Evidence 804(b)(1), when a “sufficient community of interest” exists between a prior litigant and a party against whom prior testimony is offered, the prior litigant is a “predecessor in interest,” as that term is used in the Rule.
+
+Facts
+A violent altercation occurred between Alvarez and Plaintiff while their ship was docked at a port in Japan.  Following the fight, a hearing was held by the Coast Guard concerning the potential revocation of Plaintiff’s license, and Plaintiff gave testimony about the alleged assault during the hearing.  Subsequent to the Coast Guard hearing, Alvarez brought his own suit under the Jones Act, claiming negligence on the part of Defendant in employing Plaintiff.  At that trial, Defendant offered Plaintiff’s testimony from the hearing into evidence to show that Alvarez had initiated the fight.  Plaintiff was “unavailable” under the Federal Rules of Evidence, as he was unable to be found, even by his own counsel.  The lower court excluded the evidence, holding that the requirements of Federal Rule of Evidence 804(b)(1) were not met.
+
+Issue
+Should Plaintiff’s testimony from the prior hearing regarding the revocation of his license have been admitted in Alvarez’s Jones Act claim under Federal Rule of Evidence 804(b)(1)’s exception to the hearsay rule for prior testimony?
+
+Held
+Yes; the testimony was admissible under Rule 804(b)(1), as the Coast Guard and Alvarez shared a “community of interest,” which meets the Rule’s “predecessor in interest” requirement, and because both the Coast Guard and Alvarez had a “similar motive” to develop Plaintiff’s prior testimony.
+
+Concurrence
+Judge Stern concurs, but argues that it would be more appropriate to permit the testimony at issue under the “residual exception” to the hearsay rule, rather than under Rule 804(b)(1).  He argues that the majority’s decision makes the term, “predecessor in interest” equivalent to the term, “similarity of motive,” which is already included in the Rule, and that therefore the majority’s decision is redundant.
+
+Discussion
+The court first points out that Congress, in drafting the Rules of Evidence, did not define “predecessor,” and then goes on to note that although testimony given on the stand under an oath is preferred to hearsay, hearsay is nevertheless preferred to no evidence at all.  As the interest advanced by both parties was the same, the Coast Guard and Alvarez are properly categorized as “predecessors in interest,” and the evidence should have been admitted.
+

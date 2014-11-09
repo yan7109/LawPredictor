@@ -1,0 +1,21 @@
+Citation
+482 U.S. 691, 107 S. Ct. 2636, 96 L. Ed. 2d 601 (1987)
+
+Brief Fact Summary
+New York state statute permits police to inspect junkyards without a warrant.  One operator was found to have stolen parts on his lot.
+
+Synopsis of Rule of Law
+Warrantless inspections of a commercial entity are permitted if the entity is part of a “closely regulated industry”, is a “substantial government interest”, the inspections are “necessary to further [the] regulatory scheme’, and the inspection provides “the two basic functions of a warrant:  it must advise the owner of the commercial premises that the search is being made pursuant to the law and has properly defined scope, and it must limit the discretion of the inspecting officers.”
+
+Facts
+As per New York state law, four police officers entered respondent Burger’s lot.  The respondent did not have the proper documentation of vehicles as required by law.  The officers announced their intention to inspect the lot, and took down several VINs.  Checking the numbers, the officers determined that certain vehicles on the lot were stolen.
+
+Issue
+“[W]hether the warrentless search of an automobile junkyard, conducted pursuant to a statute authorizing such a search, falls within the exception to the warrant requirement for administrative inspections of pervasively regulated industries.”<br /> [W]hether an otherwise proper administrative inspection is unconstitutional because the ultimate purpose of the regulatory statute pursuant to which the search is done . . . is the same as that of penal laws.”
+
+Held
+Yes.  Junkyards are a “closely” regulated industry.  The state has a “substantial interest in regulating” it because the threat of “motor theft”, and “regulation of the . . . industry” can control “the receiver of, or market in, stolen property.”  That statute provides a “constitutionally adequate substitute for a warrant” by informing the operator “that inspections will be made on a regular basis.”<br />   Yes.  “A State can address a major social problem both by way of an administrative scheme and through penal sanctions.”<br /><br /><span class='heading'>Dissent.</span>   The dissent disputed that the junkyard business was sufficiently regulated.  It also argued that the searches were insufficiently restricted, and that the search was purely for collecting evidence of criminal wrongdoing.<br />
+
+Discussion
+“An owner or operator of a business . . . has an expectation of privacy in commercial property . . . this expectation is particularly attenuated in . . . ‘closely regulated’ industries.”
+

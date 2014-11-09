@@ -1,0 +1,21 @@
+Citation
+162 F.2d 36 (3d Cir. 1947)
+
+Brief Fact Summary
+Plaintiff Zahn brought this suit after Defendant Transamerica Corp., as the majority shareholder of Axton-Fisher (”A-F”), decided to redeem Plaintiff’s Class A shares at $80.80 per share prior to the liquidation of A-F.  The value of the shares would have been substantially higher at the point of liquidation.
+
+Synopsis of Rule of Law
+Unlike a director, a shareholder, majority or otherwise, is entitled to vote in a manner that is most beneficial to their interests.
+
+Facts
+A-F was a tobacco company that had as its principal asset leaf tobacco which they bought in late 1942 and early 1943 for $6,361,981. By April of 1943 the value of the tobacco was about $20 million.  Defendant, a holding company, was the majority shareholder which entitled them to control nearly every aspect of A-F’s operations.  Defendant converted all of their Class A stocks to class B stocks, and then called for a redemption of outstanding Class A stocks at $80.80 per share.  The company’s charter allowed for the redemption, but the timing of it was suspicious because right after the redemption Defendant liquidated A-F.  As a result, owners of Class A shares lost out on what Plaintiff valued to be a $240 per share return.  Plaintiff redeemed some Class A shares, so Plaintiff sought equitable relief to turn in outstanding shares at $240 per share and sought the difference between the $80.80 and $240 for the redeemed shares.  Defendant argued that they followed the corporate c
+
+Issue
+The issue is whether Plaintiff is entitled to equitable relief for a decision made by the majority shareholder that was otherwise allowable under the corporate charter.
+
+Held
+The court differentiated between a decision made by a shareholder and a director, and determined that the Plaintiff was entitled to equitable relief if, as Plaintiff maintains, the directors were acting on Defendant’s behalf when they decided to redeem Class A shares. Defendant is entitled as a shareholder to vote their interests, but their capacity as director (if the directors are acting as an extension of the majority shareholders) is limited because they owe a fiduciary duty to every shareholder.
+
+Discussion
+The important factor in this case was Defendant’s alleged control over the Board, and the fact that the decision to redeem the shares was a decision granted to the directors and not the shareholders.
+

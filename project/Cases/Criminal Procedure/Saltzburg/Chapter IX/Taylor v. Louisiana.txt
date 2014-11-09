@@ -1,0 +1,24 @@
+Citation
+419 U.S. 522, 95 S. Ct. 692, 42 L. Ed. 2d 690 (1975)
+
+Brief Fact Summary
+Taylor appealed from conviction when his jury did not include any women, on the basis that Art. 402 of the Louisiana Code of Criminal Procedure, which precluded women from jury service, was unconstitutional.
+
+Synopsis of Rule of Law
+Jury pools, from which juries are selected, should represent an accurate cross-section of the community.
+
+Facts
+Taylor, a male, made an objection to the petit jury which convicted him when his jury was made up of all men.  His argument was that he was “constitutionally entitled to a jury drawn from a venire constituting a fair cross section of the community and that the jury that tried him was not such a jury by reason of the exclusion of women.”  The state argued that he was not prejudiced because he was not a member of the excluded class.  Taylor too his appeal to the United States’ Supreme Court.
+
+Issue
+Whether a state law, maintaining that women need not serve on juries, is facially unconstitutional and whether a defendant may argue that his right to a fair jury has been affected by such a law.
+
+Held
+Reversed and Remanded.  “if the fair cross-section rule is to govern the selection of juries, as we have concluded it must, women cannot be systematically excluded from jury panels from which petit juries are drawn.”
+
+Dissent
+Justice Rehnquist dissented, noting that the Judgment was grounded more in mysticism than law and the court has failed to prove how the Louisiana system undermines the operation of the law.
+
+Discussion
+While defendants are not entitled to a jury of any particular composition, the pools of names or venires from which juries are drawn must not systematically exclude distinctive groups in the community.
+

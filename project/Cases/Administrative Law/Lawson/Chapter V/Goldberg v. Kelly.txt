@@ -1,0 +1,21 @@
+Citation
+397 U.S. 254, 90 S. Ct. 1011, 25 L. Ed. 2d 287 (1970)
+
+Brief Fact Summary
+Appellees were financial aid recipients whose benefits were terminated without being afforded a pre-termination hearing, which they challenged as a denial of due process.
+
+Synopsis of Rule of Law
+The extent to which procedural due process must be afforded is influenced by the extent to which he may be “condemned to suffer grievous loss.” Due process required a pre-termination hearing prior to termination of welfare benefits.
+
+Facts
+This case was brought by residents of New York City who received financial aid under the federally assisted program of Aid to Families with Dependent Children (AFDC) or under New York State’s Home Relief Program. Their complaint alleged that City officials administering these programs terminated such aid without prior notice and hearing, denying them due process of law.  After the suit was filed, the City adopted procedures for notice and hearing, which the plaintiff-appellees then challenged as constitutionally inadequate. The procedure allowed the recipient to challenge the proposed termination of benefits within seven days and submit a written statement for the reviewing official to make a final determination. Appellees’ challenged the procedures’ lack of an opportunity to personally appear before the reviewing officer for oral testimony and cross-examination of adverse witnesses. The procedure did allow for a post-termination “fair hearing,” however.  The District Court held that only a pre-termination hearing would satisfy the constitutional due process requirement.
+
+Issue
+Does a State that terminates public assistance benefits to a particular recipient without affording him an opportunity for an evidentiary hearing prior to termination deny the recipient due process of law?
+
+Held
+Yes. Affirmed.   Where welfare is concerned, only a pre-termination evidentiary hearing provides the recipient with procedural due process. For qualified recipients, welfare provides the only means to obtain essential food, clothing, housing and medical care.  The crucial factor is that the termination of aid pending resolution of a controversy might deprive an eligible recipient of the very means by which to live while he waits.   Dissent. No provision in the Constitution should paralyze the government’s efforts to protect itself against making payments to people who are not entitled to them. There are   large numbers of undeserving welfare recipients, and States should be able to fight back against them.  Concurrence. None.
+
+Discussion
+The interest of the eligible recipient in uninterrupted receipt of public assistance, coupled with the State’s interest that payments not be erroneously terminated, clearly outweigh the State’s competing interest to prevent administrative and fiscal burdens.  The pre-termination hearing need not take the form of a judicial or quasi- judicial trial, as the “fair hearing” will afford full administrative review later on. It need only produce an initial determination that the welfare’s grounds for termination of benefits are valid.
+

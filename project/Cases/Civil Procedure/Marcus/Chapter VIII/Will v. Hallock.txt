@@ -1,0 +1,27 @@
+Citation
+546 U.S. 345, 126 S. Ct. 952, 163 L. Ed. 2d 836 (2006)
+
+Brief Fact Summary
+The Hallocks’ computer software was destroyed by Government agents during an investigation, and was subsequently bared from bringing suit against the Government and the agents for these torts.
+
+Synopsis of Rule of Law
+A court of appeals may only review collateral orders if; the court conclusively determines the disputed question, they can resolve an important issue completely separate from the merits of the action, and that issue is effectively un-reviewable on appeal from a final judgment.
+
+Facts
+Susan and Richard Hallock owned and operated a computer software business from home. Richard’s credit card was stolen and used to purchase child porn. The United States Customs Service investigates people that logged onto this child porn website. During the investigation the agents destroyed the equipment, software and disk drives so badly that the Hallocks were forced out of business. No criminal charges were brought against Richard, but the Hallocks chose to sue the government under the Federal Tort Claim Act to abrogate the Government’s immunity from suit. Meanwhile Susan also brought suit against the actual agents that caused the harm. When the district court decided not to waive immunity, the agents filed a motion to dismiss the case and to bar judgment based on the first case as well but the court denied that motion. The Court of appeals found collateral jurisdiction and affirmed the district courts ruling.
+
+Issue
+Whether refusal to apply the judgment bar of the Federal Tort Claims Act is open to a collateral appeal.
+
+Held
+No.  The Court of Appeals has the authority to review all final decisions of the district court.  Also the Court of appeals has jurisdiction of a narrow class of decisions that are sufficiently important and collateral to the merits that they should nonetheless by treated as final, this is the collateral order doctrine. In this instance the court felt the Court of appeals erred in finding it had jurisdiction to hear this issue. The Collateral order doctrine can only be used if; the court conclusively determines the disputed question, they can resolve an important issue completely separate from the merits of the action, and that issue is effectively un-reviewable on appeal from a final judgment. This court refuses to broaden the scope of this doctrine. Doing so would destroy the finality in judgment rule.  The judgment bar works much like a collateral estoppel defense. The court of appeals will not entertain a review of every defensive attempt to avoid litigation.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+This court states that only in certain circumstances immunity decisions are immediately reviewable, only those that avoidance of trial would imperil a substantial public interest i.e. double jeopardy and 11th amendment immunity.
+

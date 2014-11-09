@@ -1,0 +1,21 @@
+Citation
+500 A.2d 1346 (Del. 1985)
+
+Brief Fact Summary
+D-K-M and its chairman, Moran, (Appellants), brought suit after the Board of Directors of Household Int’l Inc., (Appellee), adopted the Preferred Share Purchase Rights Plan as a preventative measure against future takeover attempts. Appellants appeal the Court of Chancery holding in favor of Appellees.
+
+Synopsis of Rule of Law
+The board of directors is authorized to adopt a “poison pill.” The decision to adopt a poison pill shall be evaluated under the business judgment rule.
+
+Facts
+The Board of Directors of Appellees adopted the Preferred Share Purchase Rights Plan, (Plan), as a preventative measure against future takeover attempts. Subsequently, Appellants brought suit. The Plan provides that Appellee’s common stockholders are entitled to the issuance of one Right per common share under two triggering conditions. The triggers are, first, a tender offer for 30% of the shares and second, the acquisition of 20% of the shares by any single entity or group. Once triggered, the Right authorizes the holder to purchase $200 of common stock of the offeror or purchaser for $100 thereby causing massive dilution of the value of the aggressor’s shares. Prior to the triggering event, the right is automatically fixed to the shares and can’t be traded separately form the shares.
+
+Issue
+Whether the business judgment rule is the standard to be applied to the adoption of the Plan by the board. Whether Delaware General Corporation Law authorizes the issuance of the Plan. Whether the Board is authorized to usurp stockholder’s rights to receive hostile tender offers. Whether the Board is authorized to fundamentally restrict stockholders’ rights to conduct a proxy contest.
+
+Held
+Yes. The business judgment rule is the standard by which to evaluate the adoption of a defensive mechanism adopted to ward off possible future advances. Yes. Sufficient authority exists in 8 Del.C. Section: 157 to authorize the issuance of the Plan. Yes. The Plan does not prevent stockholders from receiving tender offers and the change of Household’s structure was less than that which results form the implementation of other defensive mechanisms upheld by various courts. Yes. There was sufficient evidence at trial to support the finding that the effect upon proxy contests will be minimal.
+
+Discussion
+This case deals with a defensive mechanism adopted to ward off possible future advances and not adopted in reaction to a specific threat. The business judgment rule applies here particularly because the pre-planning reduces the risk that management will fail to exercise reasonable judgment under the pressure of a takeover bid. Sufficient authority exists in 8 Del.C. Section: 157 to authorize the issuance of the Plan. Appellants are unable to demonstrate that the legislature meant to limit the applicability of Section: 157 to only the issuance of Rights for the purposes of corporate financing. The Plan is distinguishable from sham securities. Lastly, there is insufficient nexus to the state for there to be state action that may violate the Commerce Clause or Supremacy Clause. Under the Plan a corporation can still be acquired by a hostile tender offer. Further, the Directors cannot arbitrarily reject the offer because they would still be held to the business judgment rule. The Plan itself is no different from any other defense mechanism. While the Plan does deter the formation of proxy efforts of a certain magnitude, it does not limit the voting power of individual shares. Evidence at trial established that proxy contests can and have been won with an insurgent ownership of less than 20% and even large holdings do not guarantee success.
+

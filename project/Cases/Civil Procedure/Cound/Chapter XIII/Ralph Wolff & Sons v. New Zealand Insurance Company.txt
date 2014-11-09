@@ -1,0 +1,21 @@
+Citation
+22 Ill.248 Ky. 304, 58 S.W.2d 623 (1933)
+
+Brief Fact Summary
+In a prior action, the Plaintiff, Ralph Wolf & Sons (Plaintiff), sued nine of its twelve insurance carriers for damages sustained to its property. The jury awarded the Plaintiff an amount and made it proportional to the amounts in those nine policies. The Plaintiff then brought the present action against another two of its insurance carriers who defended that the Plaintiff was estopped from bringing the action by reason of the previous action.
+
+Synopsis of Rule of Law
+As essential element to prove collateral estoppel is to show that the parties in the prior action were in some kind of privity with the parties in the present action.
+
+Facts
+The Plaintiff suffered a partial loss to their candy factory due to a fire. Twelve insurance policies existed on the property for the total amount of $19,500. In one action brought against nine of the insurers for the amount of those policies totaling $14,500, a jury awarded the Plaintiff $2,500. The award was reduced to $1,858.90, the fractional amount of the 9 insurers’ liability ($14,500 divided by $19,500). The Plaintiff then brought action against the Defendants, New Zealand Insurance Company and another insurer (Defendants), for the amount of $1,000. The Defendants claimed that the Plaintiff was estopped to a claim greater than $2,500, the amount that the jury awarded in the first action and that if Defendants were liable at all, that it was for their fractional amount $128.20 each ($1,000 divided by $19,500). The trial court held the Defendants liable for that amount. The Plaintiff appealed.
+
+Issue
+Whether the Plaintiff was bound in the present suits by the judgment in their cases against the other nine insurance companies.
+
+Held
+No. There was no contract or privity of contract among the insurance companies to find that the prior judgment was binding on the present Defendants. The judgment holding the Defendants to be bound by the judgment in the former suit is erroneous. Reversed and remanded.
+
+Discussion
+The Court held that the stipulations in the respective contracts of the insurance companies on the Plaintiff’s property was that the company would only be liable for its proportionate share of any losses sustained in the event other insurance contracts were made. The purpose of this was to avoid duplication of indemnity and to prevent overinsurance. However, there was no privity between the insurance companies, themselves. Further, insurance companies could not avail themselves of an adjustment by the insured with another company to defeat recovery or reduce the amount of liability under their own contracts.
+

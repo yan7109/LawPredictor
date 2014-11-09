@@ -1,0 +1,21 @@
+Citation
+510 P.2d 198 (Kan. 1973).
+
+Brief Fact Summary
+After Plaintiffs learned that the soil of their properties had a saline condition, they brought suit against Byers Construction Co. of Kansas, Inc. (Defendant), based on breach of implied warranty of fitness and fraud in concealment of a material matter.
+
+Synopsis of Rule of Law
+When a defendant is aware of a material condition that will affect a plaintiff’s buying condition, and he conceals that condition, he may be guilty of fraudulent concealment, in tort, as well as breach of implied warranty of fitness.
+
+Facts
+Defendant developed and advertised a subdivision as a residential area. Prior to development of the subdivision, the land was a part of an abandoned oil field, which contained saltwater disposal areas. Despite the saline content of the soil, Defendant marketed and developed the land in such a manner that a purchaser could not discover the presence of the areas of salt. After houses were constructed, attempts to landscape the land failed, and the homeowners brought suit based on the fact that Defendant knew or should have known of the content of the soil and fraudulently concealed that fact. The district court entered summary judgment for Defendant, and Plaintiffs appealed.
+
+Issue
+This case explores whether concealment of the condition of land, which was known by Defendant, was fraudulent concealment in tort.
+
+Held
+The Supreme Court of Kansas affirmed the summary judgment regarding the implied warranty of fitness, and reversed the summary judgment as to the claim of fraud in concealment.
+
+Discussion
+The implied warranty of fitness can only be breached if the vendor knows of the particular use the vendee plans for the property. Because the vendee did not specify that they would landscape, the warranty was not breached. However, because the vendor was aware of a material defect of the land, which caused it to be unfit for ordinarily use, their failure to disclose that defect was actionable under fraudulent concealment.
+

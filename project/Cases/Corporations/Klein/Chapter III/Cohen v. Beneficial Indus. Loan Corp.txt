@@ -1,0 +1,24 @@
+Citation
+337 U.S. 541, 69 S. Ct. 1221, 93 L. Ed. 1528 (1949)
+
+Brief Fact Summary
+Plaintiff brought a stockholder’s derivative action in federal court. Defendant, Beneficial Industrial Loan Corporation, argued that a New Jersey state law requiring parties to secure a bond for payment of the opposing party’s legal fees should be followed.
+
+Synopsis of Rule of Law
+A shareholder’s derivative suit will follow state non-procedural laws regarding the derivative suits when possible.
+
+Facts
+Plaintiff, now deceased and represented by the executor of his estate, filed this action in 1943 in federal court due to diversity.  The complaint asserts that since 1929 the managers and directors of Defendant corporation have abused their positions to enrich themselves personally at the expense of the corporation.  In 1945, New Jersey passed a law that required shareholders who held less than 5% of the total shares and less than $50,000 to pay the legal bills of the defendant corporation if the suit was unsuccessful.  Defendant wanted Plaintiff to post a $125,000 bond to ensure they would meet that potential burden.  Plaintiff argued that applying the statute to them would be unconstitutional because it was enacted after they initially brought suit and because it was an unconstitutional hindrance to bring a suit.  They also argue that it is a procedural issue that should not be followed by the federal courts.
+
+Issue
+The issue is whether New Jersey’s statute requiring the payment of legal fees in the event of an unsuccessful derivative suit should be followed by the federal courts.
+
+Held
+The New Jersey statute should be followed because the statute is not a procedural matter than would preempt federal rules.  The statute is constitutional, and can be used on ongoing litigation, as long as the attorney’s fees covered are solely the fees accrued post-enactment of the statute.  Further, the statute does not violate the Contract clause of the United States Constitution because the requirement to pay opposing legal fees is a justifiable necessity to prevent frivolous lawsuits.
+
+Dissent
+The dissent argued that the statute was aimed at procedural matters, and as such should be preempted by Federal Rules of Procedure.
+
+Discussion
+Shareholder derivative suits will still have to follow applicable state laws.  States are within their rights to determine how they want to resolve competing interests, and plaintiffs are not going to be able to avoid the state statutes by claiming diversity and using the federal courts.
+

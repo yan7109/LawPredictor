@@ -1,0 +1,21 @@
+Citation
+171 Fed. Appx. 842, 2006 U.S. App.
+
+Brief Fact Summary
+The Appellant, Davidson (the “Appellant”), was injured after being attacked by a steer which had escaped from an overturned truck owned by the Appellee, Folkens Brothers Trucking (”Folkens”) and driven by the Appellee, Prince (the “Appellees”).
+
+Synopsis of Rule of Law
+Utah Rules of Evidence (U.R.E.) Rule 704 prohibits expert testimony as to whether a person is negligent because that opinion requires a legal conclusion, which is the responsibility of the jury.  U.R.E. Rule 408 similarly prohibits testimony concerning statements made in the course of settlement negotiations.
+
+Facts
+The Appellee, Prince, was driving a truck owned by the Appellee, Folkens.  The vehicle overturned, allowing the cattle in the truck to escape.  The Appellant was injured by a steer that had escaped from the overturned truck.  The jury found in favor of the Appellant, but found that he was forty percent contributorily negligent because they felt the Appellant had cornered the steer, contributing to his own injuries.  The Appellant appeals after the trial court denied the Appellant’s motion for new trial.
+
+Issue
+Whether the court erred in instructing the jury regarding the tax consequences of their verdict? Whether the court erred in excluding expert opinion testimony regarding the negligence of the Appellant? Whether the court erred in allowing testimony regarding statements made in a letter from the Appellant to the Appellees, after it found that the statements were not a part of settlement negotiations between the parties?
+
+Held
+In a case of first impression to the Utah Court of Appeals (the “Court”), the court held that the trial court should not have instructed the jury regarding the tax consequences of its verdict. The Court held that the lower court did not err when it excluded the opinion testimony of an expert regarding the negligence of the Appellant, because such testimony would be a legal conclusion, which is the ultimate duty of the jury to decide. The Court held that the trial court did not err allowed testimony regarding statements made by the Appellant in a letter written to the Appellees, because the statements were not made in the course of settlement negotiations.
+
+Discussion
+The Court initially addressed the issue of whether or not it was proper for the trial court to instruct the jury on the tax consequences of its verdict.   Because this was a case of first impression with the Court, it looked to the law in other jurisdictions and found that the majority view in the United States was that a court should not instruct the jury on the issue of tax consequences of a verdict.  The Court based this holding on several factors:  1) that to so instruct the jury is to interject a collateral or irrelevant matter; 2) that to give an instruction regarding taxation of a verdict would unnecessarily complicate the trial; and 3) the tax consequences of a jury award are solely the concerns of the recipient of the award and the IRS. At trial, the Appellant’s expert was asked to give his opinion regarding the negligence of the Appellant.  The trial court refused to allow that testimony.  The Appellant argued to the Court that such testimony was admissible because opinion testimony is allowed under U.R.E. 704.  However, the Court found that such testimony was not admissible because the testimony would merely be advising the jury what result they should reach. Relying on U.R.E. Rule 408, the Appellant argued that the Court should not have allowed evidence concerning statements the Appellant made in a letter to the Appellees.  The Appellant contended the statements were part of settlement negotiations and were therefore not admissible under U.R.E. Rule 408.  The trial court found that the statements were admissible because the letter from the Appellant to the Appellees merely contained facts about the accident and was therefore admissible.  The Court found that the trial court did not err in admitting that testimony.
+

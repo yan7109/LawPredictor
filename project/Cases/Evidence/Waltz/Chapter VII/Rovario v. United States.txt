@@ -1,0 +1,24 @@
+Citation
+353 U.S. 53, 77 S. Ct. 623, 1 L. Ed. 2d 639, 1957 U.S.
+
+Brief Fact Summary
+The defendant, Rovario (the “defendant”), convicted on heroine possession charges, sought to overturn his conviction because the government, at trial, did not have to produce the undercover informant that formed a great part of the government’s case.
+
+Synopsis of Rule of Law
+The government must disclose the identity of its undercover informants, if the informant is relevant and helpful to the defense and necessary for the defendant to receive a fair trial.
+
+Facts
+The defendant was convicted of possessing and transporting controlled substances, namely heroine.  The government based its case on evidence provided by an undercover informant who was present when the crime was committed and could have testified as to whether the defendant had knowledge of the crime required by the statute. Aside from the defendant, only the informant could have testified for the defense.  The informant had set up the criminal act and had played a prominent role in it.  Because the defendant could not present a case-in-chief without waiving his Fifth Amendment constitutional rights, the Supreme Court of the United States (”Supreme Court”) reversed his conviction.
+
+Issue
+Is the government’s failure to disclose an undercover informant’s identity reversible error? Yes, depending on the circumstances.
+
+Held
+Yes, depending on the circumstances.  If the identify of an undercover informant is helpful to a defendant and necessary for a fair trial, the government must disclose the name of the informant.
+
+Dissent
+Such a ruling will have a destructive effect on prosecuting narcotics traffickers because this case will lead to fewer informants.  Narcotics crimes cannot be reliably prosecuted without informants because drugs are easily concealed. The circumstances of the instant case do not merit disclosure because the officers’ testimony shows the intimacy between the informant and the defendant.  Also, the statute requires only proof of possession.
+
+Discussion
+The Supreme Court did not want to make a bright line rule that would have effectively scrapped the government’s “informer privilege.”  Because the informer was the only person who could have testified for the defense other than the defendant, and because the government had to prove the defendant’s mens rea (mental state) was knowledge of transporting controlled substances, the circumstances required disclosure of the informant.
+

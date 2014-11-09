@@ -1,0 +1,21 @@
+Citation
+409 Mass. 371, 566 N.E.2d 603, 1991 Mass.
+
+Brief Fact Summary
+The Plaintiff, Chase Precast Corp. (Plaintiff), sued the Defendant, John J. Paonessa Co. (Defendant), when the need for the median barriers supplied by the Plaintiff was eliminated and the Defendant thereafter refused to perform the remainder of the contract.
+
+Synopsis of Rule of Law
+“[W]hen an event neither anticipated nor caused by either party, the risk of which was not allocated by the contract, destroys the object or purpose of the contract, thus destroying the value of performance, the parties are excused from further performance.”
+
+Facts
+The Department of Public Works of the Commonwealth of Massachusetts (the Department) contracted with the Defendant to work on a highway reconstruction project. The Defendant then contracted with the Plaintiff for the Plaintiff to supply median barriers for the project. After receiving complaints regarding the barriers, the Department elected to cease using barriers and communicated this to the Defendant. The Defendant then notified the Plaintiff that it would not need any more barriers under the contract. The Plaintiff then initiated this suit for breach of contract.
+
+Issue
+Was the purpose of the contract frustrated, rendering the remainder of the contract voidable?
+
+Held
+Yes. “[W]hen an event neither anticipated nor caused by either party, the risk of which was not allocated by the contract, destroys the object or purpose of the contract, thus destroying the value of performance, the parties are excused from further performance.” In the present case, the Department eliminated the need for median barriers in the project. The Defendant bore no responsibility for the elimination of the barriers and the contract between the parties did not allocate the risk to either party that the barriers would be eliminated. The Defendant’s contract with the Department contained a standard provision permitting the Department to eliminate items or portions of work. The Plaintiff supplied barriers to the Department in the past and was aware of the standard provision contained in its contracts. Therefore, the Plaintiff has no recourse against the Defendant for breach of contract, as the purpose of the contract was frustrated by an event caused by unallocated risk.
+
+Discussion
+If a contingency occurs that is neither caused by either party, nor the risk of the occurrence of which was allocated to either party, the purpose of the contract is frustrated and performance is excused.
+

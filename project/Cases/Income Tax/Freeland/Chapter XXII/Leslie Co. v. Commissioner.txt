@@ -1,0 +1,21 @@
+Citation
+539 F.2d 943, 1976 U.S. App. 76-2 U.S. Tax Cas. (CCH) P9553; 38 A.F.T.R.2d (RIA) 5458
+
+Brief Fact Summary
+Taxpayer bought land in order to build a new manufacturing plant.  After failing to find financing, Taxpayer entered into an arrangement with Prudential Life Insurance wherein they bought the building and leased it back to Taxpayer.
+
+Synopsis of Rule of Law
+A like-kind exchange is a reciprocal transfer of property, and a sale is a transfer of property for monetary consideration only.
+
+Facts
+Leslie Company, Taxpayer, is a New Jersey corporation involved in the manufacture and distribution of pressure and temperature regulators and instantaneous water heaters.  Taxpayer purchased land for a new facility to construct a new manufacturing plant.  Unable to find financing for the plant, Taxpayer entered into an agreement with Prudential Life Insurance where Taxpayer would build the plant and Prudential would purchase it from them.  Prudential would lease the facility back to Taxpayer.  Taxpayer reported a loss on the sale of the property to Prudential.  The Commissioner of Internal Revenue did not allow the loss claiming that the sale and leaseback constituted an exchange of like-kind properties.  The Tax Court found that the sale was not an exchange.
+
+Issue
+Does the sale and leaseback arrangement constitute an exchange of like-kind properties?
+
+Held
+Circuit Judge Garth issued the opinion for the United States Third Court of Appeals in affirming the Tax Court and holding that the arrangement was a sale and not a like-kind exchange.
+
+Discussion
+The Court of Appeals found that this was a transfer of property for monetary consideration only.  The rent charged was at fair market rates, there was not compensation for the leasehold interest in the event of condemnation, and there was not substantial right of control over the property for the Taxpayer.
+

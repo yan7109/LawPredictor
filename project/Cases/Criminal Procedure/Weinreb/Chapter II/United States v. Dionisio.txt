@@ -1,0 +1,21 @@
+Citation
+410 U.S. 1, 93 S. Ct. 764, 35 L. Ed. 2d 67 (1973)
+
+Brief Fact Summary
+A number of people asked to provide voice exemplars in connection with a grand jury investigation moved to quash the subpoenas on the grounds that it would violate their Fourth and Fifth Amendment constitutional rights.
+
+Synopsis of Rule of Law
+A subpoena to produce a voice exemplar before a grand jury does not violate a person’s Fourth or Fifth Amendment constitutional rights.
+
+Facts
+Certain individuals were subpoenaed by a grand jury and asked to provide voice exemplars for comparison to intercepted voice recordings obtained during the course of an investigation into violations of federal criminal statutes involving gambling. The individuals refused, citing Fourth and Fifth Amendment concerns.  The District Court denied the motion to quash, holding that they were not testimonial evidence subject to the Fifth Amendment of the Constitution (”Constitution”) and that the facts did not rise to the level of a Fourth Amendment violation, holding the individuals in civil contempt when they continued to refuse to produce the voice exemplars.  The Court of Appeals reversed, holding that the Fourth Amendment of the Constitution was, in fact implicated by the subpoenas.  The Supreme Court of the United States (”Supreme Court”) granted certiorari to resolve a split in the circuits.
+
+Issue
+Whether a voice exemplar violates a person’s Fourth Amendment constitutional right against unreasonable search and seizure?
+
+Held
+A subpoena to produce a voice exemplar is not an illegal search and seizure pursuant to the Fourth Amendment of the Constitution?
+
+Discussion
+The Fourth Amendment provides no protection of something that a person knowingly and regularly exposes to the public, like one’s voice.
+

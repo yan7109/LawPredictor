@@ -1,0 +1,21 @@
+Citation
+22 Ill.327 U.S. 645, 66 S. Ct. 740, 90 L. Ed. 916 (1946)
+
+Brief Fact Summary
+Petitioner, the administrator of the estate of L.E. Haney (Haney), brought suit under the Federal Employers’ Liability Act (Act) against the trustees of the St. Louis-San Francisco Railway Company and the Illinois Central Railroad Company (Respondents). Under the act, recovery is permitted for personal injuries to an employee of a railroad engaged in interstate commerce.
+
+Synopsis of Rule of Law
+An appellate court’s function in reviewing a jury verdict is exhausted when an evidentiary basis for that jury’s decision becomes apparent, it being immaterial that the court might draw a contrary inference or feel that another conclusion is more reasonable.
+
+Facts
+Haney was a switch operator for a train company, who was found dead on train tracks. The Petitioner presented evidence that Haney was killed as a result of a mail hook hanging loosely down on the outside of a mail car. Under the theory advanced by the Petitioner, recovery would be allowed under the Act. Respondent’s theory was that Haney was murdered, pointing to the fact that his empty wallet was found near his body. Under Respondent’s theory, no recovery would be allowed under the Act. The jury returned a verdict for Petitioner. The Supreme Court of Missouri vacated the jury verdict. It found that there was insufficient evidence for the conclusion to find for Petitioner.
+
+Issue
+Was there a sufficient evidentiary basis from which the jury could have sustained a verdict in favor of the Petitioner?
+
+Held
+There was sufficient evidence of negligence on both the part of the St. Louis-San Francisco trustee and the Illinois Central trustee to justify the submission of the case to the jury and to require appellate courts to abide by the verdict rendered by the jury. There was evidence presented in which a jury could infer that the end of the mail hook struck Haney in the back of the head. This inference was not unreasonable because Haney fell forward toward the main track so that his head was five and one-half feet north of the rail. The inferences made were not so unreasonable, so as to remove the case from the jury.
+
+Discussion
+In this case there was evidence tending to show both that it was impossible for the hook to strike Haney and that it might reasonably be inferred that Haney was murdered. Because there was a reasonable basis in the record for the jury’s conclusion that the hook struck Haney, it would be an undue invasion of the jury’s function for an appellate court to weigh the conflicting evidence and arrive at a conclusion opposite the one reached by the jury.
+

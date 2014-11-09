@@ -1,0 +1,21 @@
+Citation
+49 N.Y.S.2d 2 (Sup. Ct. 1944)
+
+Brief Fact Summary
+Plaintiffs, Bayer et al., filed a derivative shareholder action against Defendant directors, Beran et al., contesting their decision to pay for radio advertising that employed a director’s wife.  Plaintiffs also argued that Defendants needlessly renew the employment contract of Dr. Henri Dreyfus.
+
+Synopsis of Rule of Law
+A director has a fiduciary duty to support the corporation’s interest over his or her own conflicting interests, and any competing interests renders the business judgment rule inapplicable.
+
+Facts
+Defendants are the directors of Celanese Corporation of America.  Celanese is a product that is similar to rayon, but the corporation makes the effort to distinguish the two in order to generate a market for their products.  When the Federal Trade Commission (FTC) ruled that celanese would need to be designated as rayon, there was a need to expend more resources to make the distinction between celanese and competing products.  The former advertising budget was $683,000 per year, but the president (who is also a director), Dr. Camille Dreyfus, suggested a $1 million radio campaign built around a radio musical program.  One of the stars of the program is also his wife.  The Board approved the campaign, and it has subsequently been renewed.  The Board also continues to approve an employment agreement for Dr. Camille Dreyfus’ brother, Dr. Henri Dreyfus, who was a co-founder with his brother of the technology behind the company’s products.  Henri does not participate in the company
+
+Issue
+The issue is whether the Board, through Dr. Camille Dreyfus’ ties with his wife and his brother, breach their fiduciary duty of loyalty to the corporation by approving the radio deal and employee contract at issue.
+
+Held
+The court did give heightened scrutiny to the decisions of the Board that normally would be safely insulated under the business judgment rule.  The radio agreement and the employee contract both withstand the scrutiny of analysis under the duty of loyalty standard.  The radio advertising made sound business sense because the company had to increase their profile due to the FTC’s designation of celanese as a type of rayon.  There was nothing exorbitant about the amount paid to Camille’s wife, and there was evidence, through the ratification by the board by renewing the advertising, that it worked.  The employment agreement for Henri Dreyfus made sense as well because the agreement ensured that he would not work for any other company, and when the deal was considered as one part of the package paid to both Dreyfus brothers it was clear that the company received adequate compensation.
+
+Discussion
+The court emphasized that business decisions that would not typically merit an analysis under the normal business judgment rule will undergo more careful scrutiny when there is a conflict of interest.  The duty of loyalty trumps the business judgment rule.
+

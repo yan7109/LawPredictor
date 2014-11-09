@@ -1,0 +1,27 @@
+Citation
+525 U.S. 959
+
+Brief Fact Summary
+A tire on a vehicle driven by the Patrick Carmichael (”Mr. Carmichael”) blew out and caused an accident killing one passenger and injuring others.  The Respondents, the survivors and the decedent’s representative (the “Respondents”), sued the Petitioners, the tire maker and distributor, (the “Petitioners”), claiming that the tire was defective.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.”) Rule 702 gives a district judge discretion to determine reliability of evidence in regards the circumstances and facts of a particular case.
+
+Facts
+The Respondents sued the Petitioners alleging that a tire defect caused the blowout which led to an accident killing one and injuring others.  A significant portion of the case rested on the depositions of a tire failure analyst, Dennis Carlson, Jr. (”Mr. Carlson”).  Mr. Carlson intended to testify that in his expert opinion a defect in the tire’s manufacture or design caused the blow out.  His opinion was based on a visual and tactile inspection of the tire, and upon a theory that this sort of tire failure was the result of a defect, and not tire abuse.  The Petitioners moved to exclude Mr. Carlson’s testimony on the ground that his methodology failed to satisfy F.R.E. Rule 702, which states: “If scientific, technical, or other specialized knowledge will assist the trier of fact…a witness qualified as an expert…may testify thereto in the form of opinion.” The District Court granted the Petitioner’s summary judgment motion arguing that in examining the factors set out in Daubert v Merrell Dow Pharmaceuticals, Inc., Mr. Carlson’s methodology is not reliable. The Eleventh Circuit Court of Appeals (”Eleventh Circuit”) reversed, and held that the District Court erred as a matter of law in applying Daubert, and held that the Daubert factors did not apply to Mr. Carlson’s testimony.
+
+Issue
+How should Daubert apply to the testimony of non-scientific experts?
+
+Held
+Justice Stephen Breyer (”J. Breyer”) delivered the opinion for the United States Supreme Court (”Supreme Court”) holding that the Daubert factors may apply to the testimony of engineers and other experts who are not scientists.
+
+Dissent
+J. Stevens concurred in part and dissented in part. J. Stevens concurred with the majority’s decision regarding whether a trial judge may consider the factors set out in Daubert. However, J. Stevens dissented because he believed deciding whether the trial judge abused his discretion by excluding the testimony should have been remanded to the
+
+Concurrence
+Justice Antonin Scalia (”J. Scalia”) issued a concurring opinion, in which Justice Sandra Day O’Connor (”J. O’Connor”) and Justice Clarence Thomas (”J. Thomas”) joined. J. Scalia argued that the trial court’s discretion endorsed by the majority is the discretion to choose reasonable means of excluding certain expert testimony.
+
+Discussion
+A trial court may consider the Daubert factors when doing so will help determine the reliability of testimony. The list of factors does not apply to all experts in every case, and trial courts will continue to be granted broad discretion in determining reliability.
+

@@ -1,0 +1,21 @@
+Citation
+275 Ore. 97, 550 P.2d 1185, 1976 Ore.
+
+Brief Fact Summary
+Forty-eight property owners consolidated an action against a home building company following a fire. Because several other plaintiffs had already received judgments against the defendant building company, the forty-eight plaintiffs sought to collaterally estop the defendant from litigating the issue of liability.
+
+Synopsis of Rule of Law
+Where there are several lawsuits with varying and inconsistent verdicts, issue preclusion should not apply.
+
+Facts
+The fire giving rise to this litigation occurred in the summer of 1968. The Defendant, Century Home (Defendant), had constructed prefabricated housing in a large shed. The Plaintiffs’, forty-eight property owners, consolidated into a single action as State Farm Fire & Casualty Co. (Plaintiffs) property was stored in a warehouse, which was located sixty feet from Defendant’s shed and which was connected thereto by a wooden loading dock. On the side of Defendant’s shed was a wooden box, into which Defendant’s janitor had dumped a mix of linseed oil and dry sawdust the night before the fire. No employees were present at the time the fire started. The cause and point of origin of the fire were in dispute, but it was clear that the fire spread via the loading dock and caused substantial damage to Defendant’s shed, the warehouse and its contents.  Shortly thereafter, this action was filed against Defendant to recover losses from the fire. Three of these actions proceeded separately through trial to final judgment. In each case the plaintiffs alleged that Defendant was negligent with respect to both the start and spread of the fire. Two of the cases found in favor of the plaintiffs, one by jury verdict and the other by the court sitting without a jury. Both were affirmed on appeal. The third verdict found in favor of Defendants, the jury in that case finding them not liable.  Following those two judgments, the present Plaintiffs filed amended and supplemental complaints, conforming their allegations to those in the foregoing cases and asserted that the judgments therein should operate to preclude Defendant from again litigating the question of liability. The trial court ruled in favor of Plaintiffs.
+
+Issue
+Whether current plaintiffs may use two favorable prior judgments against the current defendant to collaterally estop the present defendant from litigating liability, when there have also been two favorable prior judgments rendered in favor of the current defendant.
+
+Held
+No. The trial court’s decision was reversed.   Where it is apparent that the verdict was the result of jury compromise, the losing party should not be precluded by the judgment.  Where outstanding determinations are actually inconsistent on the matter sought to be precluded, it would be patently unfair to estop a party by the    judgment it lost. Where there are extant determinations that are inconsistent on the matter in issue, it is a strong indication that the application of collateral estoppel would work an injustice.
+
+Discussion
+Central to the court’s reasoning in this case is the inconsistency of the prior judgments involving Defendant. Recall that one jury and another court sitting without a jury found Defendants liable. However, a third court found Defendants not liable. Ultimately, this court concluded that where there are several lawsuits with varying verdicts, issue preclusion should not apply. Thus the court’s statement that “there seems to be something fundamentally offensive about depriving a party of the opportunity to litigate the issue again when he has shown beyond a doubt that on another day he prevailed.”
+

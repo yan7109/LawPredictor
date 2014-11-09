@@ -1,0 +1,21 @@
+Citation
+164 Conn. 45, 316 A.2d 757 (1972).
+
+Brief Fact Summary
+The Plaintiffs sued for a return of their deposit for the purchase of the Defendants’ premises after the Plaintiffs were unable to secure financing within the agreed-upon parameters of the contract.
+
+Synopsis of Rule of Law
+A contract is not binding where a condition precedent to performance of the agreement was not met.
+
+Facts
+The Plaintiffs agreed to buy the Defendants’ premises for $85,000 and paid an $8,500 deposit. The contract was “subject to and conditional upon the buyers obtaining first mortgage financing on said premises from a bank or other lending institution in an amount of $45,000 for a term of not less than twenty (20) years and at an interest rate which does not exceed 8 1/2 per cent per annum.” The Plaintiffs agreed to use due diligence in obtaining said financing. The parties also agreed that all sums would be refunded in the event the Plaintiffs could not obtain financing. The Plaintiffs’ attorney only attempted to obtain financing through one lending institution. He was familiar with the lending practices in the area at the time and knew that this institution was the only one that would possibly lend money within the contract parameters. The Plaintiffs were unable to obtain financing at the agreed-upon interest rate and the Defendants initiated this suit, averring a lack of due diligence on the Plaintiffs’ part in obtaining financing.
+
+Issue
+Did the Plaintiffs exercise due diligence in seeking a mortgage in order to satisfy the condition precedent to performance of the contract?
+
+Held
+Yes. The contract stipulated that the Plaintiffs’ purchase of the Defendants’ premises was conditioned upon the Plaintiffs’ ability to procure financing in the amount of $45,000 for a term of at least twenty years and at an interest rate of less than 8.5%. The Plaintiffs’ attorney sought financing at the only lending institution in and around the area that might satisfy the condition precedent, but was unable to secure the mortgage at the desired rate. His failure to look elsewhere does not constitute a lack of due diligence. He was knowledgeable about lending practices in the area. Therefore, seeking another lender would have been a futile act and the law imposes no duty to undertake a futile act. Hence, since the condition precedent was not met, the contract is not binding and the plaintiffs are entitled to a refund of their deposit.
+
+Discussion
+A condition precedent to performance must be met before performance is required on a contract.
+

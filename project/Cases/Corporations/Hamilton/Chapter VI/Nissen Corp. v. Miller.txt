@@ -1,0 +1,24 @@
+Citation
+323 Md. 613, 594 A.2d 564 (1991)
+
+Brief Fact Summary
+American Tredex Corporation, AT Corporation, and Nissen Corporation, (Petitioners), appeal a trial court decision holding them liable for personal injuries sustained by Frederick Brandt and allegedly caused by a treadmill manufactured by American Tredex Corporation.
+
+Synopsis of Rule of Law
+Successor corporations do not acquire the debts and liabilities of the predecessor even where there is a continuation of the business operation or enterprise but no continuation in ownership.
+
+Facts
+Frederick Brandt purchased a treadmill from Atlantic Fitness Products (Atlantic) that was designed, manufactured, and marketed by American Tredex Corporation, (Tredex). Nissen Corporation, (Nissen) purchased Tredex’s assets. That contract required that the predecessor corporation continue in existence as AT Corporation after the sale presumably so that it would be subject to suit in cases such as this. The contract also required that the predecessor retain all liability for injuries caused by defective products sold by it before the asset purchase. Five years after his purchase, Brandt was injured by the treadmill. One year later, AT Corporation dissolved. Brandt and his wife filed a personal injury suit against Tredex, AT Corporation, Nissen, and Atlantic.
+
+Issue
+Whether this court should adopt a fifth exception for continuity of enterprise to the general rule of nonliability of successor corporations.
+
+Held
+No. The court rejects the continuity of enterprise exception to the general rule of nonliability of successor corporations.
+
+Dissent
+The court should adopt the continuity of enterprise exception to the general rule of nonliability of successor corporations.
+
+Discussion
+A corporate successor is not a seller and bears no blame in bringing the product and the user together. It is unfair to require such a party to bear the cost of unassumed and uncontemplated products liability claims because it is still in business. The fact that Nissen maintained a network to service American Tredex customers does not give rise to successor liability. Further, Nissen should not be penalized for retaining some of the American Tredex’s employees or assuming some of American Tredex’s obligations. The continuity of enterprise theory proposes an ill-considered extension of liability to an entity having no causal relationship with the harm.
+

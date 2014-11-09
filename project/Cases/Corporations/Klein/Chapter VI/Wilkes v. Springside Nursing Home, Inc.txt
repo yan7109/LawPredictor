@@ -1,0 +1,21 @@
+Citation
+370 Mass. 842, 353 N.E.2d 657 (1976)
+
+Brief Fact Summary
+Plaintiff, Stanley Wilkes, brought this action to recover lost wages due to his termination by Defendants, Springside Nursing Home, Inc. et al., which violated either the partnership agreement between the parties or the fiduciary duty that Defendants owed to Plaintiff.
+
+Synopsis of Rule of Law
+Shareholders in a close corporation owe each other a duty of acting in good faith, and they are in breach of their duty when they terminate another shareholder’s salaried position, when the shareholder was competent in that position, in an attempt to gain leverage against that shareholder.
+
+Facts
+Plaintiff was locally renowned for his profitable real estate dealings, and in 1951 when Defendants heard about Plaintiff’s option to purchase a particular building, they agreed to partner with Plaintiff on developing a business venture around that option.  The parties agreed to allow each to receive money from the corporation as long as they actively participated in running the business.  The parties then agreed to open a nursing home at the location, and by 1952 the profit from the business was large enough for them to each draw a salary from the business.  One of the Defendants wanted to purchase part of the property for his own business use, and Plaintiff forced a higher price for the property than what was expected.  This created bad feelings between the partners until finally, in 1967, Plaintiff notified the other shareholders that he wanted to sell his share.  A month later, but prior to the sale of his shares, Defendants voted to terminate Plaintiff from his position a
+
+Issue
+The issue is whether Defendants violated a fiduciary duty when they removed Plaintiff from his position after a falling-out between the parties.
+
+Held
+Shareholders have a duty of loyalty to other shareholders in a close corporation, and in this case the duty owed to Plaintiff by Defendants was violated.  Therefore Plaintiff is entitled to lost wages.  In close corporations, a minority shareholder can be easily frozen out (depriving the minority of a position in the company) by the majority since there is not a readily available market for their shares.  Although this is traditionally an issue of management, the test for close corporations, should be whether the management decision that severely frustrates a minority owner has a legitimate business purpose.  In the case at issue, Defendants’ decision would assure that Plaintiff would never receive a return on the investment while offering no justification.
+
+Discussion
+The court is reversing a prior line of thought that management decisions are not within the scope of review of the courts.  The court notes at the negative effects that the prior line of reasoning had wrought, such as the freezing out or the oppression of minority shareholders.
+

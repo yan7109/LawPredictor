@@ -1,0 +1,21 @@
+Citation
+304 Fed. Appx. 579, 2008 U.S. App.
+
+Brief Fact Summary
+Defendant, Frank Earl Scott, was convicted of first degree murder.  A crucial component of the prosecution’s case was the location of the victim’s wallet.  The location of the wallet was revealed by Defendant Scott is his attorney, and he seeks to have such communication protected as privileged.
+
+Synopsis of Rule of Law
+The attorney-client privilege allows certain disclosures of information “reasonably necessary” to accomplish the purpose for which the attorney was hired.
+
+Facts
+Frank Earl Scott and Michael Meredith, Defendants, were convicted of first degree murder.  They robbed, shot and killed David Wade.  Defendant Scott’s conviction is dependent on the theory that he conspired with Defendant Meredith and a third defendant.  The prosecution sought to introduce the location of the victim’s wallet, which was found in a barrel behind Defendant Scott’s house.  Defendant Scott revealed the location of the wallet to his attorney.  His attorney hired an investigator who retrieved the wallet and it was eventually turned over to police.  Defendant Scott’s attorney was forced to testify that his client revealed the location of the wallet.  Defendant Scott appeals arguing that the communication should have been privileged.
+
+Issue
+Does the attorney-client privilege protect facts observed as a direct result of confidential communication if the defense removed or altered evidence preventing the prosecution from discovering the evidence?
+
+Held
+Justice Tobriner issued the opinion for the California Supreme Court in holding that when defense counsel removes or alters evidence, the attorney-client privilege does not bar revealing the original condition or location of the evidence.
+
+Discussion
+The Court notes that had the defense left the wallet, and merely observed its location, then the observations would not have to be revealed because they were derived from privileged communications.
+

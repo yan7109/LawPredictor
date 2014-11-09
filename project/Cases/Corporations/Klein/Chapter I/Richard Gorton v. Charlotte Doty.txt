@@ -1,0 +1,21 @@
+Citation
+57 Idaho 792, 69 P.2d 136 (1937)
+
+Brief Fact Summary
+The Respondents, Richard Goty and his father R.S. Goty, attempted to establish that Appellant, Charlotte Doty, was a principal in order to claim damages suffered by the Goty son in a car accident.  Appellant loaned her car to the agent driver who was determined to be negligent in the accident.
+
+Synopsis of Rule of Law
+An agency relationship is created once a party agrees to act on behalf of a second party subject to the second party’s control.
+
+Facts
+The Respondent son was a high school football player who was traveling to a high school football game.  The coach of the team was driving Respondent son in a car owned by Appellant teacher.  The car was in an accident wherein Respondent son suffered injuries, and the coach was deemed negligent.  Respondents claimed that Appellant was liable for the damages because a principal-agent relationship was formed between Appellate teacher and the coach once she loaned him the car.
+
+Issue
+The issue is whether the driver coach was acting as an agent of Appellate car owner when the accident occurred.
+
+Held
+Appellate is liable for damages because a principal-agent relationship was established between Appellate and the driver of her car.  The agency was created once the agent coach consented to act on the behalf of Appellate teacher, and in turn Appellate consented to have the coach act on her behalf.  In this case, Appellate consented for the coach to drive on her behalf, and she instructed that the coach drive. <br/><br/><span class='heading'>Dissent.</span> There is no agency relationship in this case because agency requires more than “passive permission”; it requires a command or instruction.  In this case, there was no connection between the parties other than a nice gesture on Appellant’s part to loan her car to the coach.  Appellant’s instructions to the coach to personally drive were nothing more than a restatement of common sense that would not rise to the level of instruction normally considered a part of an agency relationship.
+
+Discussion
+The Supreme Court of Idaho found an agency relationship despite the lack of a contract or a working, business-like relationship between agent and principal.  Further, Appellant’s ownership of the vehicle established a presumption that the driver was acting as an agent.
+

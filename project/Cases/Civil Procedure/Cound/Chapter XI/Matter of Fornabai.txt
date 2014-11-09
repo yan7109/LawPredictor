@@ -1,0 +1,21 @@
+Citation
+22 Ill.227 F. Supp. 928 (D.N.J. 1964)
+
+Brief Fact Summary
+The order of priority of judgment creditors was to be determined in a bankruptcy case.
+
+Synopsis of Rule of Law
+The priority of a lien created by state law over a tax lien of the federal government depends on the time it attached to the property in question and becomes choate. The liens are perfected as choate when the identity of the lienor, the property subject to the lien and the amount of the lien are established.
+
+Facts
+Fornabai filed for Chapter XI bankruptcy individually, and d/b/a Fornaby Equipment Co. on May 2, 1962. His realty was sold and valid liens against the realty were transferred to the proceeds of the sale. The amount held by the Trustee in Bankruptcy was insufficient for full satisfaction of all valid liens. Truck Equipment Corp. recovered a judgment against the bankrupt on December 8, 1960. Pak-Moi Manufacturing Co. recovered its judgment against the bankrupt on March 10, 1961. Both judgments were docketed as of the dates of recovery. The US filed notice of tax liens against the bankrupt April 10, 1961.
+
+Issue
+Whether the liens of the two judgment creditors were perfected, in that they became choate liens on the realty of Fornabai prior to the date which the US filed its notice of tax liens.
+
+Held
+The two judgment creditors have priority of lien over the federal tax liens.
+
+Discussion
+Taxes assessed against a taxpayer pursuant to the provisions of the Internal Revenue Code of 1954 become liens in favor of the United States upon all property and rights to property belonging to the taxpayer. But the liens for taxes are not valid as against any mortgagee, pledgee, purchaser, or judgment creditor until notice thereof has been filed.  Each of the judgments was recovered in a court of record and docketed within. Their identity, the property, and amounts were establish
+

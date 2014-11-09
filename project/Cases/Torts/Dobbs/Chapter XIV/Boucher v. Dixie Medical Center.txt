@@ -1,0 +1,24 @@
+Citation
+850 P.2d 1179 (Utah 1992)
+
+Brief Fact Summary
+The Fifth District Court, Washington County (Utah) dismissed claims against Defendant doctors for negligent infliction of emotional distress and loss of filial consortium in relation to injuries sustained by Mr. and Ms. Bouchers’ son (Plaintiffs), Daniel Boucher, following surgery. Plaintiffs appealed.
+
+Synopsis of Rule of Law
+Plaintiffs, who suffered emotional distress because of another’s negligence, though they do not suffer any physical impact, may recover damages only if they are placed in actual physical peril and fear for their own safety.<br />Loss of consortium claims are based on the recognition of a legally protected interest in personal relationships. Accordingly, if one member of the relationship is tortiously injured, the non-injured party has a cause of action to recover for damage to their relational interest, the loss of the injured party’s company, society, cooperation, and affection.<br />
+
+Facts
+Daniel Boucher was admitted to the hospital with a severely damaged hand. After surgery, he lapsed into a coma from which he emerged with severe brain damage and quadriplegia that required extensive medical care for the rest of his life. Plaintiffs brought actions against the hospital for negligent infliction of mental distress and loss of consortium.
+
+Issue
+* Was the harm suffered by the parents of a severely injured child the type recognized so as to fulfill the elements of a claim for negligent infliction of emotional distress?<br />* May parents bring a cause of action for loss of consortium in connection with the tortious injury of their child?
+
+Held
+The decision of the lower court was affirmed. The court concluded that the parents did not allege sufficient facts to state a claim of negligent infliction of emotional distress as the claim was defined in Utah. The court declined to extend loss of consortium rights to parents of a tortiously injured child.
+
+Dissent
+The dissent takes issue with the majority’s rationale for precluding parent’s recovery on the theory of loss of consortium for tortious injury to their children. To adopt such a cause of action would open the floodgates of litigation. The dissent asserts,
+
+Discussion
+Courts almost universally permit a spouse to recover against a person who seriously injures the other spouse, usually known as a “loss of consortium” claim. Such claims were eventually extended to include recovery for more than the economic loss of the of the injured spouse’s household services. Loss of consortium claims presently allows a plaintiff to recover damages for such things as loss of companionship and other forms of emotional support. As the court in Boucher observed, “[a]t common law, the father of a tortiously injured child did have a cause of action to recover the value of the child’s loss of services and the medical expenses incurred on the child’s behalf.” The court drew a distinction as to basis for such recovery. “However, this action was based on a father’s right to his minor children’s services and a father’s obligation to pay his minor children’s medical expenses. This right of recovery, therefore, did not extend beyond these two elements of damages, nor did it ex<br />tend to injuries involving adult or emancipated children,” and, the court concluded, “no widely accepted development has occurred that allows recovery in cases involving adult children, nor has any widely accepted development occurred that allows recovery for the loss of a child’s society and affection.”<br />The issue surrounding the negligent infliction of emotional distress claim was more straightforward. The court applied the zone of danger test, i.e., allowing a claim only if the plaintiffs are placed in actual physical peril and fear for their own safety.
+

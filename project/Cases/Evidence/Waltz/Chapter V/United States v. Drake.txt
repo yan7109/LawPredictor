@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 1562
+
+Brief Fact Summary
+Drake and a co-defendant were tried before a jury on six counts of wire fraud under 18 U.S. C.  Section 1343.  The trial court declared a mistrial concerning the co-defendant, and the trial court returned a guilty verdict on all counts as to Drake.  Drake appealed his conviction on the grounds that: 1. the verdict of the jury was not supported by the evidence presented, 2. the trial court improperly permitted prejudicial cross-examination of him.
+
+Synopsis of Rule of Law
+Cross examination questions, which may be improper because facts are assumed that are not in evidence, does not constitute extrinsic evidence, and does not substantially affect an individual’s rights after answers were previously given to almost identical questions.
+
+Facts
+Drake was Vice President in charge of day-to-day operations of Agrictultural Technology International Marketing, Inc. (”ATIM”).  In need of additional financing for ATIM, Drake obtained credit from the William R. Payne Company, which lent money to ATIM based on individual accounts receivable.  When the Payne Company failed to receive several payments due on the account, the line of credit for ATIM was limited.  Consequently, Drake, on behalf of ATIM, sought financing through United California Factors (”UCF”) through an option called “factoring.”  “Factoring” is the direct sale of accounts receivable at a discount.  Drake submitted an application form to UCF for “factoring” but did not identify Payne Company as a creditor of ATIM. Based on the application provided by Drake, UCF decided to factor some ATIM accounts and provided ATIM $56,183.53 in six payments by wire transfer.  While making these payments, UCF discovered Payne Company’s interest in ATIM’s accounts receivable and
+
+Issue
+Is the evidence presented sufficient to support a criminal conviction if, viewing all the evidence, both direct and circumstantial, in the light most favorable to the government, so that a reasonable trier of fact could find the essential elements of the crime beyond a reasonable doubt? Was the subject matter of the cross examination question to Drake appropriate?
+
+Held
+The evidence presented at trial was sufficient to sustain a jury finding that a scheme to defraud by false representations existed within the meaning of 18 U.S.C. Section 1343. The subject of the prosecutor’s cross examination of Drake was not inappropriate, because attempting to elicit admissions that testimony is incorrect is a permissible tactic that can be utilized to probe a witness’ credibility through contradiction.
+
+Discussion
+If a defendant has already been effectively impeached on a closely related issue by the use of inconsistent statements, and the defendant’s attorney previously permitted (or did not object to) to those questions being asked and answered, then the trial court did not abuse its discretion in permitting similar questions to be subsequently asked by the prosecution in the cross examination and impeachment of the defendant witness.  As a result, no substantial right of the defendant is negatively affected or harmed by the court’s decision to permit the questioning.
+

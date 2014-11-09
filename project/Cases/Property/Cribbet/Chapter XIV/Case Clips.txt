@@ -1,0 +1,33 @@
+Citation
+406 Ill. 565, 94 N.E.2d 302 (1950)
+
+Facts
+A deed drawn by his parents gave Kost a life tenancy with the remainder in his children. One child was bankrupt. Local law allowed the trustee in bankruptcy to sell vested but not contingent remainders. The trustee sold the bankrupt son’s remainder. The parties disputed whether the remainder was vested or contingent.
+
+Issue
+How should a court determine whether a remainder is vested or contingent?
+
+Rule
+Whether a remainder is vested or contingent depends upon the grammatical structure employed.
+
+Facts
+The Amstutzes conveyed a life estate to their children, with contingent remainders in their grandchildren, the defendants. The parents retained a reversionary interest. Later, the parents purported to convey the same property in fee simple absolute to their children. The children subsequently attempted to convey fee simple interests to the predecessors of the Abo Petroleum Corporation (plaintiff). The defendants argued that the first deed gave their parents only life estates.
+
+Issue
+Under the doctrine of destructibility of contingent remainders, when a grantor conveys land and creates a contingent remainder in a third party, but reserves a reversionary interest in himself, will that remainder be destroyed by a subsequent conveyance in fee simple by the same grantor to the same grantee?
+
+Rule
+The doctrine of destructibility of contingent remainders is obsolete. Therefore, a conveyance of property in fee simple will not destroy contingent remainders which have been created previously.Sybert v. Sybert (1953)
+
+Facts
+The testator, J. Sybert, bequeathed a life estate to his son, Fred Sybert (the defendant’s husband), “to vest in fee simple in the heirs of his body.” The son died intestate without issue. The life tenant’s brothers (plaintiffs) contended that they should inherit the testator’s reversion. The defendant contended that the Rule in Shelley’s Case converted the heir’s contingent remainder into a fee simple in her husband.
+
+Issue
+Is the Rule in Shelley’s Case applicable to Testator’s devise?
+
+Rule
+Unless language qualifying the words “heirs of his body” establishes that a testator did not intend the words to be used in their technical sense, the Rule in Shelly’s case will apply.Braswell v. Braswell (1954)
+
+Facts
+James Braswell conveyed land to his son, Nathaniel Braswell, “during his natural life . and if said (son) should die leaving no lawful heir . then the land herein conveyed shall revert back to the grantor or to his lawful heirs.” Nathaniel died without issue, devising all his real property to Charles Braswell. Charles was not a lawful heir of James Braswell Charles brought suit against the lawful heirs of James Braswell for partition.
+

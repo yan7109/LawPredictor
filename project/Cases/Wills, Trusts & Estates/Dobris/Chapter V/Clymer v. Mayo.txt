@@ -1,0 +1,21 @@
+Citation
+754, 473 N.E.2d 1084 (1985)
+
+Brief Fact Summary
+Clara A. Mayo and the appellee, James P. Mayo, executed wills and trusts in which each made the other their beneficiary.  After the couple divorced, the appellee executed another will in favor of his new wife.  When Mayo died, the appellee was the named beneficiary of Mayo’s trust.
+
+Synopsis of Rule of Law
+Under statutory law, unfunded trusts that are intended to be funded by a pour-over will are valid if the trust agreement is executed before the testator’s death.  If a spouse remarries, any interests a former spouse may have under a will are revoked.  This will statute revoking interests of a former spouse applies to a revocable pour-over trust where considering the time and manner in which the trust was created and funded, the decedent’s will and trust were integrally related components of one testamentary scheme.
+
+Facts
+Mayo executed a will where the bulk of her estate was to pour over into a revocable trust.  She named the appellee as the beneficiary of the revocable trust.  She designated the trustees as the beneficiaries of her Boston University group life insurance policy and her TIAA-CREF pension retirement plans.  After Mayo and the appellee divorced, she changed the beneficiary of her Boston University group life insurance to Marianne LaFrance.  However she left the trustees beneficiary of her pension plans and the appellee was the main beneficiary of the trust.  Mayo consolidated all of her property into her revocable trust.  The revocable trust was unfunded during Mayo’s lifetime.
+
+Issue
+Whether unfunded trusts that are intended to be funded by a pour-over will are valid? Whether a statute that revokes a former spouse’s gift and powers under a will can also be applied to that former spouse’s interests under a trust if the will and trust are a part of one testamentary scheme?
+
+Held
+Yes.  A trust that receives property from a will is valid even though the trust had been unfunded during the settlor’s lifetime if the residuary clause of the testator’s will identified the trust and the terms of the trust were set out in a written instrument executed contemporaneously with the will. Yes.  A will and pour-over trust are a part of one testamentary scheme where the trust is a revocable pour-over trust that is funded entirely at the time of the decedent’s death.  Because the trust and will were made as one scheme, the trust was also revoked as to the former spouse under the will statute. Furthermore, the legislature did not intend under the statute to allow the former spouse to receive a gift or power through a trust.
+
+Discussion
+In this case, the decedent left virtually all of her property to her former spouse.  Because the legislature determined that former spouses should not be able to receive under their former spouse’s will, the court determined that it should also apply to testamentary trusts.
+

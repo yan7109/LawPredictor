@@ -1,0 +1,21 @@
+Citation
+721 F.2d 1540 (Fed. Cir. 1983)
+
+Brief Fact Summary
+TEFLON tape, developed by a secret process, is sold prior to one year before Gore (Plaintiff) applied for a patent on the process.
+
+Synopsis of Rule of Law
+Under § 102(b), it is not "public use" for a third party to commercially use a process in secret.
+
+Facts
+Dr. Gore, Vice President of W.L. Gore and Associates (Plaintiff), discovered that stretching TEFLON (a du Pont invention) tape very quickly and at high heat would not break the tape as traditionally thought.  On the contrary, it created a soft, flexible, but strong material.  On May 21, 1970, Plaintiff filed a patent application with twenty-four claims related to this process.  In 1966 in New Zealand, Cropper created a machine for producing stretched and unstretched TEFLON tape and offered the machine for sale to a company in Massachusetts.  After being turned down, Cropper sold the machine to Budd with a secrecy agreement attached.  A former Budd employee claimed that Budd made no effort to keep the machine secret.  Budd offered and sold tape that was created by the process outlined in Plaintiff's claim.  Plaintiff brought an action against Garlock (Defendant) for infringement, but Defendant argued "public use" was made over one year prior to Plaintiff's application for patent.  The lower court held for Defendant, and Plaintiff appealed
+
+Issue
+Under § 102(b), is it "public use" for a third party to commercially use a process in secret?
+
+Held
+(Markey, C.J.)  No.  Under § 102(b), it is not "public use" for a third party to commercially use a process in secret.  Assuming that Cropper's machine used the patented process, there is no evidence that someone could figure out the process by viewing Cropper's machine, even while in operation.  There is no evidence that by examining the tape product that the public could discover the process.  The district court therefore erred in holding that Budd's use of the machine in secret and sale of the tape made the patent invalid.  Judgment reversed and remanded.
+
+Discussion
+It appears Chief Judge Market combined § 102(a) and (b).  Section 102(a) requires that the invention not be "known or used by others," and § 102(b) uses the term "public use" in creating the public use bar.  Most analysts discuss the "public use" clauses together.  The difference is that § 102(a) applies to the inventor only, while § 102(b) applies to both the inventor and third parties.
+

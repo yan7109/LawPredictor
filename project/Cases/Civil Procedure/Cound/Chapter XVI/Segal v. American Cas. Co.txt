@@ -1,0 +1,21 @@
+Citation
+22 Ill.250 F. Supp. 936 (D. Md. 1966)
+
+Brief Fact Summary
+This case involves the Defendants, American Casualty Company and another insurance company’s (Defendants), motion to strike the Plaintiffs, Mr. and Mrs. Segal’s (Plaintiffs) demand for a jury trial.
+
+Synopsis of Rule of Law
+Under the Federal Rules of Civil Procedure (FRCP), a party seeking a jury trial must, after removal, make a formal demand for the jury trial, if the court from which the case was removed would have made that party take some action to exercise his right to a jury.
+
+Facts
+The Plaintiffs claimed they were entitled to a jury trial notwithstanding the fact that the action had been removed from the Circuit Court of Worcester County in 1963, that the answer was filed in 1964 and the demand for jury trial was not made until 1965. Plaintiffs claimed that under state law, they would be entitled to a jury trial even in the absence of the 1965 demand. The rule of the court from which the case was removed stated that if request for a jury trial was not made at the preliminary call of the docket, a jury trial could not be had.
+
+Issue
+Whether the rule of court in a state county is state law in the court from which the case was removed.
+
+Held
+Yes. Motion to strike Plaintiff’s demand for a jury trial granted. The rule in the Circuit Court for Worcester County was not contrary to or conflicting with any statute or any rule of the Maryland Court of Appeals. Nor did the rule conflict with the Maryland Constitution article that preserved the right to a jury trial. Rather, the local rule, like the corresponding Federal Rules of Civil Procedure (FRCP), merely stated the manner in which the right to a jury trial must be exercised. The local rule, having the force and effect of law, is state law within the meaning of the FRCP.
+
+Discussion
+The procedure in the Circuit Court for Worcester County was different from other Maryland counties in that the filing of a case on the law side of the court in the other counties automatically resulted in the setting of the case for a jury trial, with no further action being required of the litigants.   Though this court had discretion to allow the jury trial notwithstanding the lateness of the demand, it declined to do so. The opinion also stated a list of similar grounds in which the court would refuse to grant a jury trial.
+

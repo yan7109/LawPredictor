@@ -1,0 +1,21 @@
+Citation
+70 U.S. 564
+
+Brief Fact Summary
+The Petitioner, Ms. Anderson (Petitioner), sued the Respondent, Bessemer City (Respondent), alleging discriminatory intent, after it failed to hire her for the position of Recreation Director.
+
+Synopsis of Rule of Law
+Findings of fact shall not be set aside unless clearly erroneous and due regard shall be given to the opportunity of the trial court to judge the credibility of the witnesses, such that when there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous.
+
+Facts
+The Respondent sought a new Recreation Director. The Petitioner was the only woman to apply for the job. A five-member committee interviewed the eight applicants and chose a male. The Plaintiff sued under Title VII of the Civil Rights Act of 1964 (the Act) alleging discriminatory intent. After a 2-day trial, during which the court heard testimony from the Petitioner, Mr. Kincaid, the successful applicant and the five members of the selection committee, the court issued a brief memorandum of decision setting forth its finding that Petitioner had been denied the position on account of her sex. The Court of Appeals for The Fourth Circuit reversed, holding that the district court’s crucial findings were clearly erroneous. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+What is the appropriate standard of review of a trial court’s findings of facts.
+
+Held
+The Supreme Court reversed because it was convinced that the Fourth Circuit misapprehended and misapplied the clearly erroneous standard.   A district court’s finding of discriminatory intent in an action brought under the Act may be overturned on appeal only if it is clearly erroneous.  Because a finding of intentional discrimination is a finding of fact, the standard governing appellate review is that set forth in Federal Rule of Civil Procedure Rule 52(a), stating that “findings of fact shall not be set aside unless clearly erroneous, and due regard shall be given to the opportunity of the trial court to judge the credibility of the witnesses. A finding is clearly erroneous when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” When there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous. This is so even when the district court’s findings do not rest on credibility determinations, but are based instead on physical or documentary evidence or inferences from other facts.    <br/><br/><span class='heading'>Dissent.</span> Justice Harry A. Blackmun (J. Blackmun) dissented. His dissent is omitted by the casebook.  Concurrence. Justice Lewis F. Powell (J. Powell) concurred. His concurrence is omitted by the casebook.
+
+Discussion
+One way students should understand this case is to realize that even if a final decision of a lower court is flawed, the error must fall into a specific category for an appellate court to disturb the judgment. Here, the Supreme Court seems to be relying on the belief that the trial judge is more likely than an appellate court to be correct in his judgment about which witnesses are telling the tru
+

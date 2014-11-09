@@ -1,0 +1,24 @@
+Citation
+527 U.S. 41, 119 S. Ct. 1849, 144 L. Ed. 2d 67, 1999 U.S. 4005.
+
+Brief Fact Summary
+Under Chicago’s Gang Congregation Ordinance, “criminal street gang members” are prohibited from “loitering” with one another or with other persons in any public place. According to the ordinance, a police officer may order anyone he reasonably believes to be a gang member loitering in a public place with another person or persons to disperse. Failure to disperse after such an order is a violation of the ordinance.
+
+Synopsis of Rule of Law
+A statute violates the Due Process Clause of the Fourteenth Amendment of the United States Constitution (Constitution) if it is “so vague and standardless that it leaves the public uncertain as to the conduct it prohibits.”
+
+Facts
+A committee established by the Chicago City Council (the Council) conducted hearings and issued findings detailing the negative consequences of gang members loitering in public places around Chicago. As a result of the hearings, the Council enacted the Gang Congregation Ordinance, which states in pertinent part, “Whenever a police officer observes a person whom he reasonably believes to be a criminal street gang member loitering in any public place with one or more other persons, he shall order all such persons to disperse and remove themselves from the area. Any person who does not promptly obey such an order is in violation of this section.” The ordinance was enforced for approximately three years. In that time, over 89,000 dispersal orders were issued, and over 42,000 arrests were made.
+
+Issue
+Does Chicago’s Gang Congregation Ordinance violate the Due Process Clause of the Fourteenth Amendment of the Constitution?
+
+Held
+Yes. Judgment affirmed. The term “loiter,” defined under the ordinance as “to remain in any one place with no apparent purpose,” is impermissibly vague. Further, police officers are granted a vast amount of discretion in ordering dispersal. Hence, the ordinance violates the Due Process Clause of the Fourteenth Amendment of the Constitution in that it is impermissibly vague on its face and an arbitrary restriction on personal liberties.
+
+Dissent
+Justice Antonin Scalia (J. Scalia) dissents. J. Scalia opines that the statute is not impermissibly vague nor are police officers granted any more discretion in its enforcement than in numerous other measures. Rather, the people of Chicago have willingly traded the freedom to “hang out” with gang members in order to eliminate gang crime. Justice Clarence Thomas (J. Thomas), with whom Chief Justice William Rehnquist (J. Rehnquist) and Justice Antonin Scalia (J. Scalia) join, dissents. J. Thomas opines that the ordinance does not violate the Due Process Clause of the Fourteenth Amendment of the Constitution. The ordinance is not vague, as the citizens of Chicago would know what is prohibited conduct.<span class='heading'>Concurrence.</span><br /> Justice Sandra Day O’Connor (J. O’Connor), with whom Justice Stephen Breyer (J. Breyer) joins, concurs in part and concurs in the judgment. J. O’Connor agrees with the majority that the ordinance is unconstitutionally vague, but she shares J. Thomas’s concern regarding gang violence. J. O’Connor specifically finds the phrase “no apparent purpose” in the definition of loitering to be overbroad. She would more narrowly tailor the definition to serve the purpose of deterring gang violence without criminalizing innocent behavior. Justice Anthony Kennedy (J. Kennedy) concurs in part and concurs in the judgment. J. Kennedy opines that the ordinance simply reaches a broad range of innocent conduct. Justice Stephen Breyer (J. Breyer), concurs in part and concurs in the judgment. J. Breyer also opines that police officers are granted far too much discretion in enforcing the ordinance, and “no apparent purpose” is not sufficiently defined.
+
+Discussion
+The Due Process Clause of the Fourteenth Amendment of the Constitution requires that prohibited conduct be sufficiently specific to allow the public to understand how to avoid violating the law.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.81 N.Y.2d 470, 600 N.Y.S.2d 433, 616 N.E.2d 1095 (1993)
+
+Brief Fact Summary
+Defendant, Prudential-Bache Securities (Defendant), purchased the Plaintiffs Apfel and another’s (Plaintiffs) idea for selling and issuing bonds when the idea was in the public domain. Plaintiff lacked a property right in the system. Defendant seeks to avoid the contract.
+
+Synopsis of Rule of Law
+A contract is enforceable and has valid consideration even if the idea surrounding the contract is not novel.
+
+Facts
+Plaintiffs devised an idea for a new computerized municipal securities system. Plaintiffs conveyed to Defendant their rights to the techniques and certain trade names. Defendant agreed to pay specific rate based on use of Plaintiff’s techniques. The Defendant tried to patent and get trademarks for the techniques, but there applications were denied. The Defendant said the ideas they bought had already been in the public domain at the time of agreement. Plaintiffs promised they had not previously disclosed the techniques. After several years, Defendant refused to continue payments.
+
+Issue
+Can an idea be legally sufficient consideration if it is not novel?
+
+Held
+Yes. Showing of novelty is not required to validate the contract for purchase of idea, only that the idea is valuable. It is sufficient to prove that the party to whom the idea was disclosed was not aware of the idea. Lack of novelty does not in and of itself demonstrate a lack of value. The buyer can reap benefit from such a contract in a number of ways, such as not having to expend resources pursuing the idea through other channels.
+
+Discussion
+The court examined if the terms of the contract had value to the parties entering the contract. The fact that one does not own the subject of the contract will not result in the contract being unenforceable.
+

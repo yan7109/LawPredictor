@@ -1,0 +1,21 @@
+Citation
+340 U.S. 474, 71 S. Ct. 456, 95 L. Ed. 456, 27 LRRM 2373 (1951)
+
+Brief Fact Summary
+The Court of Appeals for the Second Circuit granted enforcement of an order directing Universal Camera Corporation (Petitioner) to reinstate an employee with back pay who was discharged because he gave testimony under the Wagner Act (Act), and cease and desist from discriminating against any employee who files charges or gives testimony under the Act. The views of that court conflicted with those of the Court of Appeals for the Sixth Circuit, and clash of opinions required settlement by the United States Supreme Court.
+
+Synopsis of Rule of Law
+The “substantial evidence test” was the standard of review under all three statutes.
+
+Facts
+The Wagner Act was one of the principle New Deal statutes, and heavily regulated the collective bargaining process and, in many cases, required employers to deal with the unions. That Taft-Hartley Act was enacted in 1947 to amend some features of the Wagner Act that were deemed to tilt the balance too far against employers. The lower courts were reaching different conclusions about the application of the Act, so settlement was required by the Supreme Court. The Petitioner claimed that the Court of Appeals erred in holding that it was barred from taking into account the report of the examiner on questions of fact insofar as that report was rejected by the board.
+
+Issue
+What was the effect of the Administrative Procedure Act and the Taft-Hartley Act on the duty of the Court of Appeals when called upon to review orders of the National Labor Relations Board (NLRB)?  Was the Court of Appeals bound by the Board’s rejection of an examiner’s findings?
+
+Held
+Remanded to the Court of Appeals to accord the findings of the trial examiner the relevance they reasonably command in answering the comprehensive question whether the evidence supporting the Board’s order was substantiated.   The APA and Taft-Hartley Act direct that courts assume more responsibility for the reasonableness and fairness of Labor Board decisions than in the past. The Board’s findings are entitled to respect; but they must still be set aside when a record before the Court of Appeals clearly precludes the decision from being justified by a fair estimate of the worth of the testimony of the witnesses, its informed judgment on the matters, or both. The substantial evidence test applies.     The responsibility placed on the Board by the Labor Management Relations Act does not make its decision unreviewable. Nothing in the statutes suggest that the Board should not be influenced by the examiner’s opportunity to observe the witnesses he hears and sees and the Board does not. Nothing suggests that courts should not give an examiner’s report such probative force as it commands. The substantial evidence test is not modified in any way when the examiner and the Board disagree.   Dissent. None.  Concurrence. None printed.
+
+Discussion
+This was the leading case on the meaning of the Administrative Procedure Act’s “substantial evidence” test for review of agency factual conclusions in formal proceedings.
+

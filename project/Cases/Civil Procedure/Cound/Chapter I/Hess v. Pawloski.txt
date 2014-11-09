@@ -1,0 +1,21 @@
+Citation
+274 U.S. 352, 47 S. Ct. 632,71 L. Ed. 1091, 1927 U.S.
+
+Brief Fact Summary
+Plaintiff sued Defendant, a resident of Pennsylvania, for injuries that occurred in a car accident in Massachusetts. A Massachusetts statute stated that driving through Massachusetts constitutes implied consent to have the state registrar accept service of process for non-residents, provided a copy of the summons was sent to the defendant. Defendant objected for lack of personal jurisdiction and eventually appealed a verdict in favor of Plaintiff.
+
+Synopsis of Rule of Law
+States can require that motorists give implied consent to service of process on an agent within the state.
+
+Facts
+Pawloski (Defendant) is a resident of Pennsylvania. In Massachusetts, Hess (Plaintiff) sued Defendant, alleging that Defendant negligently and wantonly drove on a public highway in Massachusetts. Under the Massachusetts statute, by driving on a Massachusetts highway, a nonresident-motorist designates the state registrar as her lawful attorney who may be served with process in relation to a cause of action arising out of the non-resident’s use of the highway, provided that notice of such service be sent to the Defendant. The service of process was made in compliance with the statute, but no personal service or attachment of property was made to Defendant. Defendant filed a motion to dismiss arguing that the statute violated the Due Process Clause of the 14th Amendment to the U.S. Constitution. The motion to dismiss was denied by the lower court, who stated that statute was valid exercise of police power. There was a subsequent verdict for Plaintiff. D appealed.
+
+Issue
+For purposes of claims arising out of motor vehicle accidents or collisions on state highways, does a state law that makes driving on state highways implied consent to the appointment of the registrar as one who may be served all lawful processes violate the due process clause of the 14th amendment?
+
+Held
+No. Judgment affirmed.   The general rule of Pennoyer v. Neff, 95 U.S. (5 Otto) 714, 24 L.Ed. 565 (1877), is that process cannot run to one state where the person served is domiciled in another other state. Notice sent to the party outside the state is unavailing to give jurisdiction.  The state has a public interest to protect all those who use its public highways. Since it has the power to regulate its highways, this power extends to nonresidents as well as residents. The relevant statute only confers specific jurisdiction over causes of action arising from use of the highways, and thus does not make “hostile discrimination against nonresidents.” Implied appointment is not substantially different from formal appointment so far as due process is concerned.
+
+Discussion
+The Court’s opinion shows that the state’s interest in protecting its residents against auto accidents between a resident and a non-resident occurring within the state necessitates the long-arm statute at issue.
+

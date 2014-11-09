@@ -1,0 +1,21 @@
+Citation
+22 Ill.363 U.S. 335, 80 S. Ct. 1084, 4 L. Ed. 2d 1254, 125 U.S.P.Q. 553 (1960)
+
+Brief Fact Summary
+Plaintiffs, citizens of Illinois, brought suit for patent infringement against a Texas corporation in the District Court of Texas. Defendant moved to transfer the case to the District Court of Illinois pursuant to 28 U.S.C. Section: 1404(a), and the case was so transferred. Plaintiff appealed, arguing that the District Court abused its discretion in transferring the case.
+
+Synopsis of Rule of Law
+A case can only be transferred under 28 U.S.C. Section: 1404(a) to a district where the case “may have been brought.” If the plaintiff could not have properly served the defendant in the transferee district, then transfer is not proper under the statute.
+
+Facts
+Plaintiffs, citizens of Illinois, brought a patent infringement action against Howell and a Texas corporation, in Federal District Court in Texas. After being served process and filing an answer, Defendant filed motion to remove the action to District Court in Illinois pursuant to 28 U.S.C. Section: 1404(a)(transferring from one district to another). Plaintiffs objected on the ground that the Texas corporation did not reside, or maintain a place of business in Illinois; nor could it have been served process in Illinois. Plaintiffs therefore argued that the Texas court did not have the power to transfer the action there. The District Court granted the motion “for the convenience of the parties and the witnesses in the interest of justice.” Plaintiffs filed a petition for a writ of mandamus, asking the District Court in Illinois to vacate the Texas court’s order.The Illinois court denied the motion. Plaintiffs also argued that the Texas court did not have the power to transfer the venue. The judge favored the retransfer but denied Plaintiffs motion. The Plaintiffs then filed a petition for writ of mandamus in the Circuit Court. The Circuit Court granted the writ, holding that 28 USC Section: 1404(a) restricts transfer to districts where the plaintiff has the right to bring the action, and thus transfer was inappropriate here because the plaintiff could not have brought the original action in Illinois. Judge Hoffman of the Northern District of Illinois (Defendant) appealed the writ.
+
+Issue
+Does the federal statute 28 U.S.C. Section: 1404(a) that states the defendant may remove the action to any district “where it might have been brought” refers to jurisdictions where the action could have been brought at the time of filing?
+
+Held
+Yes. Affirmed.   The power of the District Court to transfer an action under the statute is limited to places where the plaintiff could have brought the action at the time it was filed, regardless of whether the defendant consents to the transfer.  By broadening the meaning of the statute’s words in the manner requested, the defendants would be able to transfer venue to anywhere where subject matter jurisdiction exists, and the plaintiff would not be able to do the    same without the defendant’s consent. There is no evidence that the drafters intended this result.   <br/><br/><span class='heading'>Dissent.</span> (This dissent only applies to Sullivan v. Behimer. Another dissent that applies only to Hoffman v. Blaski has been omitted from the casebook). Convenience and justice should always factor into “where the action might have been brought.” Congress has the intention to make venues comply with convenience and justice. Therefore, this rule should be qualified to take convenience and justice into consideration. This would comply with the doctrine of forum non conveniens.
+
+Discussion
+When evaluating whether a transfer of venue is proper, the focus is on the location of the defendants and the propriety of exercising personal jurisdiction and service of process.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.249 Mont. 282, 815 P.2d 1135 (1991)
+
+Brief Fact Summary
+Plaintiff Sherrodd, Inc. was a subcontractor on a project for which Defendant Morrison-Knudsen Co. was the general contractor. Plaintiff’s bid was based on a miscalculation. Allegedly, Plaintiff was told that compensation for the additional work would be provided.
+
+Synopsis of Rule of Law
+The fraud exception to the statute of frauds only applies where the fraud does not directly relate to the subject of the contract.
+
+Facts
+Plaintiff was a subcontractor of COP and COP was a subcontractor of Defendant, the general contractor on the project. Plaintiff alleges that Defendant stated that the job would involve excavating 25,000 cubic yards. Plaintiff submitted a bid based on this information. COP and Plaintiff entered into a written contract based on the price in Plaintiff’s bid. Plaintiff discovered that the job would involve more than 25,000 cubic yards, but signed the contract anyway because work had already been started and COP threatened not to compensate Plaintiff for the work that had already been performed. Plaintiff claims COP stated that Plaintiff would receive more than the contract price to compensate for the additional work. COP claims to have only offered to assist Plaintiff with another claim. The contract included a provision that it could not be modified by a verbal agreement.
+
+Issue
+Was evidence of the verbal agreement properly excluded?
+
+Held
+Yes. Evidence of the verbal agreement was properly excluded.
+
+Dissent
+The dissent is concerned that parties with greater bargaining power will not be held accountable for their fraud. The dissenting opinion expresses several reasons why it does not agree with the majority’s holding that the fraud exception does not apply when the fraud directly relates to the subject of the contract. One reason is that it rewards the fraudulent party creating injustice.
+
+Discussion
+In the present case, the Court does not allow Plaintiff to present extrinsic evidence of fraud because the evidence directly relates to the subject of the contract.
+

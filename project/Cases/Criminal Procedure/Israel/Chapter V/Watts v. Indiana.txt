@@ -1,0 +1,21 @@
+Citation
+338 U.S. 49, 69 S. Ct. 1357, 69 S. Ct. 1347, 93 L. Ed. 1801 (1949)
+
+Brief Fact Summary
+Petitioner Robert Watts was interrogated for four straight days during the day, and two of the days were spent in solitary confinement.  He ended up making incriminating statements resulting in his conviction for murder.
+
+Synopsis of Rule of Law
+Use of a confession obtained by relentless police interrogation is a deemed involuntary and thus a violation of the due process clause of the Fourteenth Amendment.
+
+Facts
+The petitioner was arrested for an alleged criminal assault.  On the same day, a woman’s dead body was found in the same area as the assault allegedly occurred.  The petitioner was questioned during the day for four straight days, the first two days being held in solitary confinement, and he ended up giving statements implicating himself in the murder.  He was given no prompt hearing during the questioning, contrary to Indiana law and was also not given aid of counsel.  He was convicted of murder and the Supreme Court of Indiana affirmed his conviction, and he was then granted certiorari.
+
+Issue
+Is a confession procured after four straight days of interrogation made voluntarily and this valid under the due process clause of the Fourteenth Amendment?
+
+Held
+No.  Reverse the judgment of the Indiana Supreme Court.
+
+Discussion
+The Supreme Court would, in later decisions, echo the sentiments of Justice Douglas in not only emphasizing the trustworthiness of the confessions, but also closely examining the methods the police used in obtaining the inculpating statements.  The concern that police must obey the law is strong here as evidenced by the majority’s language that “brutal methods of law enforcement are essentially self-defeating.”  These are sentiments the Supreme Court would continue to expound under Chief Justice Earl Warren.
+

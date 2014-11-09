@@ -1,0 +1,21 @@
+Citation
+511 U.S. 164 (1994)
+
+Brief Fact Summary
+After Central Bank (Defendant) suspended an evaluation of land in connection with a construction project concerning two bond issues, First Interstate (Plaintiff), a bond buyer, sued when the issuer defaulted on the bonds, claiming Central Bank was vicariously liable for aiding and abetting a fraud.
+
+Synopsis of Rule of Law
+A private plaintiff may not uphold a § 10(b) aiding and abetting suit under the federal securities law.
+
+Facts
+Central Bank served as an indenture trustee for two bond issues made by the Colorado Building Authority with the bond covenants necessitating that the land value be 160% of the bonds outstanding principal and interest, minimum. Once the underwriter voiced concern that the 160% test was not being fulfilled, Central Bank’s in-house appraiser recommended maintaining an outside appraiser. At the request of the provider of the last appraisal, AmWest, Central Bank agreed to suspend the independent review. Prior to the independent review finished, the Authority defaulted on the bonds. Buyer of substantial bulk of the second bond issue, First Interstate, brought suit, claiming principal violations of § 10(b) of the Securities Exchange Act of 1934 and that Central Bank was vicariously liable for aiding and abetting the deception. The district court granted summary judgment to Central Bank. The court of appeals reversed. Central Bank appealed.
+
+Issue
+May a private plaintiff uphold a § 10(b) aiding and abetting suit under the federal securities law?
+
+Held
+(Kennedy, J.) No. A private plaintiff may not uphold a § 10(b) aiding and abetting suit under the federal securities law. Had Congress wanted to enforce aiding and abetting liability, it would have clearly stated that in legislative text. A plaintiff must show dependence on the defendant’s fabrication or omission to recover under Rule 10b-5. Had the aiding and abetting action offered here were permitted,  Central Bank could be liable lacking demonstration that First Interstate depended upon Central Bank’s activities or statements. The lacking of § 10(b) aiding and abetting liability does not indicate that vicarious actors in the securities markets are never liable, there is a chance they will be found so as primary violators under Rule 10b-5, presuming all obligations for that type of liability are met. First Bank admits that Central Bank failed to execute a manipulative or misleading act as defined by § 10(b). The judgment of the court of appeals is reversed.
+
+Discussion
+The Securities Act of 1933 controls the first disbursement of securities, while a majority of the Securities Exchange Act of 1934 controls post-disbursement trading.  Combined, the Acts contain a central resolution to exchange the attitude of full disclosure for the attitude of caveat emptor. The Acts contain express and implied private rights of action which form a broad scheme of civil liability.
+

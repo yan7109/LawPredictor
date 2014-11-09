@@ -1,0 +1,21 @@
+Citation
+184 Miss. 483, 186 So. 625, 1939 Miss.
+
+Brief Fact Summary
+The Plaintiff, Wilkins (Plaintiff), received a cut on his forehead due to the negligence of the Defendant, Kramer Service, Inc. (Defendant). The cut did not heal and developed into skin cancer. The Plaintiff seeks damages for the resultant cancer.
+
+Synopsis of Rule of Law
+In cases where the causal link between negligence and injury is based on subject matter that is beyond the experience and observation of laypersons, expert testimony must be considered to determine whether the link is sufficient to attach liability.
+
+Facts
+The Plaintiff was injured while staying in the Defendant’s hotel as a guest. The injury occurred when the Plaintiff opened a door and a piece of glass fell from a broken transform. The condition of the transform had existed long enough to assume the Defendant had notice of it. The accident resulted in a cut on the Plaintiff’s forehead that did not heal and eventually became cancerous. At trial, two medical experts testified. One said there was only a one in one hundred chance that the Plaintiff’s original injury would result in cancer and the other said it was impossible.
+
+Issue
+Whether the jury can consider the expert testimony on whether the Defendant’s negligence caused the Plaintiff’s cancer.
+
+Held
+Expert testimony must be considered by the fact finder when deciding if a substantial a link exists between the negligence and the injury when the subject matter is beyond the scope of lay knowledge.
+
+Discussion
+It is not enough that negligence and injury occur at the same time, there must be a causal link between them. The possibility of an injury occurring as a result of negligence is also not enough of a link. In cases where the subject matter is beyond the experience or observation of laymen, courts must depend on medical testimony to determine whether the causal link has a substantial enough foundation to find liability. The jury must be allowed to consider the expert testimony when deciding whether to award damages for the Plaintiff’s cancer in addition to his original injury.
+

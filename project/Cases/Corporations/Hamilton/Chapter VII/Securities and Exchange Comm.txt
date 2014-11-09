@@ -1,0 +1,21 @@
+Citation
+346 U.S. 119, 73 S. Ct. 981, 97 L. Ed. 1494, 1 EXC 178 (1953)
+
+Brief Fact Summary
+The Securities and Excahnge Commission, (Petitioner), brought this complaint seeking to enjoin unregistered offerings of treasury stock by Ralston Purina Co., (Respondent).
+
+Synopsis of Rule of Law
+Whether a transaction by an issuer involves a public offering depends on the need of the offerees for the protections afforded by registration.
+
+Facts
+Respondent has facilities scattered throughout the nation staffed by 7,000 employees. The company has a policy of encouraging stock ownership among its employees. Selling nearly $2,000,000 of stock to them without registration. The company offers stock to “key employees.” This characterization is not based on an organization chart. It includes an individual eligible for promotion, one who influences others, whom the employees look to in a special way, or who is sympathetic to management among other factors. The Securities and Exchange Commission brought this complaint seeking to enjoin Respondent’s unregistered offerings. The District Court held the exemption applicable and dismissed the suit. The Court of Appeals affirmed.
+
+Issue
+Whether Respondent’s offerings of treasury stock to its “key employees” are exempt as transactions by an issuer not involving any public offering.
+
+Held
+No. Respondent’s purpose in singling out key employees for stock offerings does not make the transaction exempt as not involving any public offering.
+
+Discussion
+The remedial purposes of federal securities legislation impose the burden of proof on an issuer to prove its transaction is exempt. The question of exemption turns on the knowledge of the offerees, not the motivations of the issuer. Here, the employees were not shown to have access to the kind of information which registration would disclose. The opportunities for pressure and imposition make it advisable that the transaction not be entitled to exemption.
+

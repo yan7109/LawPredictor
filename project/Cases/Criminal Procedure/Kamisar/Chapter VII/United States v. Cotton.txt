@@ -1,0 +1,21 @@
+Citation
+535 U.S. 625, 122 S. Ct. 1781, 152 L. Ed. 2d 860 (2002)
+
+Brief Fact Summary
+Cotton and others brought appeal of their convictions for narcotics charges when they received enhanced sentences based on quantities of drugs not alleged in their indictments.
+
+Synopsis of Rule of Law
+When a defendant fails to raise an issue, such as an indictment omission, at trial, he cannot later raise that issue.
+
+Facts
+Respondent, Cotton, and others were charged with conspiracy to distribute and with possession with intent to distribute a detectable amount of cocaine and cocaine base.  After they were convicted they received a sentence based on the District Court’s finding that they possessed a large drug quantity, which implicated enhanced sentencing.  At sentencing, the respondents did not raise the inhancement of the sentence but, on appeal, they argued that their sentencing was invalid under Apprendi, which had been decided after their indictment.  In Apprendi, the U.S. Supreme Court decided that “other than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proven beyond a reasonable doubt.”  The appellate court vacated the sentences, and the government appealed to the Supreme Court.
+
+Issue
+Whether a fact that causes enhanced sentencing must be included in an indictment in order to be used against a defendant.
+
+Held
+Reversed.  In a unanimous opinion, the Court held that omission of a fact that may cause enhanced sentencing does not justify vacation of a sentence.
+
+Discussion
+While the respondents attempted to rely on the holding in Apprendi, a fact that only enhances sentencing but does increase the level of punishment (i.e. prison time is still prison time), should be raised by a defendant at trial if he intends to raise it as an issue for sentencing.
+

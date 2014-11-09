@@ -1,0 +1,21 @@
+Citation
+22 Ill.332 U.S. 46, 67 S. Ct. 1672, 91 L. Ed. 1903 (1947)
+
+Brief Fact Summary
+Appellant was convicted of first-degree murder in California state court after his refusal to take the stand and testify was commented on by opposing trial counsel.
+
+Synopsis of Rule of Law
+The Fifth Amendment privilege against self-incrimination is not a part of the right to a fair trial protected by the Due Process clause of Fourteenth Amendment.
+
+Facts
+At murder trial, appellant chose the strategy of not taking the stand and subjecting himself to cross-examination regarding former crimes of burglary, larceny and robbery that he had committed.  Under a California statute, his attempt to protect himself from impeachment of his veracity nonetheless allowed prosecution to make reference to his refusal to testify, and he was convicted.  Appellant argues that the California statute’s allowing opposing counsel to comment on his refusal to testify ran counter to the Fifth Amendment’s ban on a defendant’s compulsion to testify, and that the Fifth Amendment applied to the states through the Fourteenth Amendment.
+
+Issue
+Is the Fifth Amendment privilege against self-incrimination incorporated into the Fourteenth Amendment and thus applicable to the states?
+
+Held
+No.  The court affirms the appellant’s conviction.
+
+Discussion
+Although this case embraced selective incorporation in stating that the Fifth Amendment privilege against self-incrimination did not apply to the states through the Fourteenth, subsequent cases held that comment upon a defendant’s failure to take the stand was a violation of the Fourteenth Amendment.
+

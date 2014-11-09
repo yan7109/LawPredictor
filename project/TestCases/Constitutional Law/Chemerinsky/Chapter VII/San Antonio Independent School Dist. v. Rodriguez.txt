@@ -1,0 +1,24 @@
+Citation
+411 U.S. 1, 93 S. Ct. 1278, 36 L. Ed. 2d 16, 1973 U.S.
+
+Brief Fact Summary
+A Texas system of financing public education was held constitutional by the Supreme Court of the United States (Supreme Court) even though it produced substantial inter-district disparities in per-pupil expenditures, stemming from the differences in property values among the district.
+
+Synopsis of Rule of Law
+Education-based classifications are not fundamental rights. Therefore, the proper judicial standard to test such classifications is minimum rationality.
+
+Facts
+Mexican-American parents of children in the Edgewood School District in San Antonio sued on behalf of children of poor families residing in districts having a low property tax base. The challengers attacked the constitutionality of the Texas system of financing public education, which relied heavily on such property taxes. Specifically, the challengers claimed that the system violated equal protection because it produced substantial inter-district disparities in per-pupil expenditures, stemming from the differences in property values among the district. Although contributions from a statewide “minimum foundation school program” served to reduce inter-district disparities, district spending continued to vary considerably on the basis of property wealth. The District Court, exercising strict scrutiny, held that the Texas scheme violated equal protection.
+
+Issue
+Whether the Texas system of financing public education operates to the disadvantage of some suspect class?
+
+Held
+No. Judgment of the District Court reversed. The system of alleged discrimination and the class it defines have none of the traditional indicia of suspectness: the class is not saddled with disabilities, or subjected to a history of purposeful unequal treatment, or relegated to such a position of political powerlessness as to command extraordinary protection from the majoritarian political process. Therefore, the Texas system does not operate to the peculiar disadvantage of any suspect class
+
+Dissent
+Requiring the state to establish only that unequal treatment is in the furtherance of a permissible goal, without also requiring the state to show that the means chosen to effectuate that goal are rationally related to its achievement, makes equal protection analysis no more than an empty gesture.
+
+Discussion
+This case is important because it holds that education is not a fundamental right. Therefore, minimum rationality is the test in cases where there are education-based classifica
+

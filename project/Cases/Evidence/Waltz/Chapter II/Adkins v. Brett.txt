@@ -1,0 +1,21 @@
+Citation
+184 Cal. 252, 193 P. 251, 1920 Cal.
+
+Brief Fact Summary
+A husband sued his wife’s lover for alienating her from him.
+
+Synopsis of Rule of Law
+Federal Rule of Evidence (”F.R.E.”) Rule 803(3) says a statement of the declarant’s then existing . . .state of mind, emotion . . ., but not including a statement of memory or belief can be used to prove the fact remembered or believed unless it relates to the execution , revocation, identification, or terms of declarant’s will.
+
+Facts
+A husband sued his wife’s lover for alienating her from him.  The husband sought to introduce evidence of a conversation that he had with his wife, wherein his wife said that she was going to keep on accepting his attentions and that he could do whatever he wanted about it, because she thought he was “distasteful.”
+
+Issue
+Whether the court erred in admitting the testimony of the wife’s conversations with the plaintiff?
+
+Held
+No; the evidence was admissible, but the verdict must be overturned because the defendant was not properly protected through an instruction to the jury on what issues they could consider the evidence relevant to.
+
+Discussion
+The conversations were relevant because they went to the wife’s feelings at the time toward her husband.  This is a difficult rule to apply in cases where the testimony falls within this exception, but contains information that is not admissible on its own grounds and is very prejudicial to the other side.  This particular evidence is quite prejudicial to the defendant because it contains information relevant to the issue at hand. This secondary problem does not destroy the admissibility of the evidence for the purpose it was offered for. (It proved his state of mind as well as hers
+

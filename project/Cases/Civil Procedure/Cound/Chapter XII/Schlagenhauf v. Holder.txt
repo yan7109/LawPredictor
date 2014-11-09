@@ -1,0 +1,21 @@
+Citation
+22 Ill.375 U.S. 983, 84 S. Ct. 516, 11 L. Ed. 2d 471 (1964)
+
+Brief Fact Summary
+The Petitioner, Schlagenhauf (Petitioner), was one of several named defendants in a negligence lawsuit stemming from a bus and tractor-trailer collision brought by passengers of a Greyhound bus, of which Petitioner was the driver. One of the other defendants, the owner of the trailer, moved to have mental and physical examinations done on Petitioner whose negligence, they claimed, caused the accident.
+
+Synopsis of Rule of Law
+Federal Rules of Civil Procedure (FRCP) Rule 35 allows a movant to compel mental and physical examinations for party-opponents as well as persons under their legal control through a showing of good cause and when a person’s physical or mental condition is at issue.
+
+Facts
+A Greyhound bus and tractor-trailer were involved in an accident. Petitioner was driving the bus at the time and was consequently sued by the passengers, as were Greyhound and the owners of the tractor (Contract Carriers, Inc.) and the trailer (National Lead Company). Greyhound cross-claimed against Contract Carriers and National Lead for damages sustained to the bus, alleging the accident was caused due to their negligence. In its answer, Contract Carriers asserted the accident was due to the negligence of the Petitioner. Contract Carriers and National Lead petitioned the District Court for an order to have Petitioner submit to physical and mental exams. Nine physicians’ names were submitted to give the District Court a choice of specialists. The petition, based on the allegations in Contract Carriers’ answer, alleged that Petitioner’s mental and physical condition were at issue. National Lead then filed its own answer to Greyhound’s cross-claim. The District Court, on the basis of the petition filed by Contract Carriers, ordered Petitioner to submit to 9 examinations, without a hearing. Petitioner filed a Writ of Mandamus to the Court of Appeals against the Respondent, District Court Judge Holder (Respondent), to set aside the order requiring the mental and physical exams. The Court of Appeals denied mandamus.
+
+Issue
+Whether application of FRCP Rule 35 to a defendant would be an unconstitutional invasion of his privacy.  Whether Rule 35 should be applied to Petitioner, as he was not a party in relation to Contract Carriers and National Lead at the time the examinations were sought.  Whether Petitioner’s mental or physical conditions were “in controversy” and whether Contract Carriers and National Lead made a showing of “good cause”.
+
+Held
+Vacated and remanded.  FRCP Rule 35 applies to defendants as well as plaintiffs. The court found no basis to apply the doctrine in favor of one class of litigants and not the other.   FRCP Rule 35 only requires that the person to be examined be a party to the “action”, not that he be an opposing party of the movant. Petitioner was clearly a party to the action.  Contract Carriers and National Lead failed to show that Petitioner’s physical or mental condition were in controversy and that there was good cause for the examinations requested.  The only specific allegation made in support of the four examinations was impairment of Petitioner’s eyes and vision. On remand, the District Judge should reconsider this order in light of the guidelines set forth in the decision.  <br/><br/><span class='heading'>Dissent.</span> United States Supreme Court Justice Douglas (J. Douglas) dissented and thought FRCP Rule 35 should not be applicable to defendants as the guidelines are unfair to defendants in lawsuits such as this.  Concurrence. United States Supreme Court Justice Clark (J. Clark) concurred that in an accident such as this, the mental or physical health that may affect the ability to drive, is of the highest relevance.
+
+Discussion
+Petitions made on a showing of good cause in cases where a party’s physical or mental conditions are in controversy are justifiable. The person to be submitted to such examinations may be a plaintiff, defendant, or any other person under the legal control of these parties.  The persons who are submitting to physical or mental examinations by movant’s petitions need not be party-opponents, just parties to the action.
+

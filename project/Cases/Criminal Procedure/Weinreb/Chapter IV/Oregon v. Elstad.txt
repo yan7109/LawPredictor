@@ -1,0 +1,21 @@
+Citation
+470 U.S. 298, 105 S. Ct. 1285, 84 L. Ed. 2d 222 (1985)
+
+Brief Fact Summary
+An individual was convicted of burglary.  A signed confession was used to convict him.  He was questioned without the benefit of Miranda warnings.
+
+Synopsis of Rule of Law
+“[A] suspect who has once responded to unwarned yet uncoercive questioning is not thereby disabled from waiving his rights and confessing after he has been given the requisite Miranda warnings.”
+
+Facts
+The Respondent, Michael James Elstad (the “Respondent”), was arrested for burglary after a witness contacted the police.  After obtaining the witness’ tip, two officers went to the Respondent’s home with a warrant for his arrest.  The Respondent’s mother answered the door and led the officers to her son’s bedroom.  The officers asked the Respondent to get dressed and accompany them to the living room.  After one of the officers took the Respondent’s mother into another room, the other officer, without giving the Respondent his Miranda warnings, got him to say he was present during the robbery.
+
+Issue
+“[W]hether an initial failure of law enforcement officers to administer the warnings required by [Miranda v. Arizona], without more, ‘taints’ subsequent admissions made after a suspect has been fully advised of and has waived his Miranda rights[?]”
+
+Held
+The majority first observed “[t]he Oregon court assumed and respondent here contends that a failure to administer Miranda warnings necessarily breeds the same consequences as police infringement of a constitutional right, so that evidence uncovered following an unwarned statement must be suppressed as “fruit of the poisonous tree.” [The majority] believes this view misconstrues the nature of the protections afforded by Miranda warnings and therefore misreads the consequences of police failure to supply them.”
+
+Discussion
+This is an interesting case, showing that although Miranda warnings are necessary, they are not the be all and end all if an individual continues to speak and is not coerced to do so.
+

@@ -1,0 +1,18 @@
+Citation
+64 P.3d 214 (Colo. 2003)
+
+Synopsis of Rule of Law
+A tort is considered “permanent” where it would continue indefinitely absent extraordinary measures, and its permanency is encouraged because it would benefit state development, such as irrigation ditches or railway lines.  If the tort is deemed permanent, the claim accrues when the plaintiff learned or should have learned of the injury.  A tort is considered “continuing” where a defendant fails to cease his invasion or to remove the harmful condition therefrom, such as in the case of smells and noises emanating from a nearby slaughterhouse.  If the tort is continuing, the plaintiff’s claim is not barred by the statute of limitations because a claim would only accrue once the defendant has abated the nuisance and removed the cause of damage.
+
+Facts
+In 1993, Plaintiff Hoery bought a residence with a groundwater well.  It was seven blocks north of Lowry Air Force Base where the United States was dumping toxic chemicals, which migrated north underneath Hoery’s property.  The dumping stopped in 1994 and the Hoery family sued the United States in 1998.  The trial court dismissed on the ground that the statute of limitations had run.  The Colorado Supreme Court reversed on the continuing tort theory.
+
+Issue
+Whether the United States’ chemical dumping is a continuing tort such that Plaintiff’s claim continues to accrue and is not barred by the statute of limitations.
+
+Held
+Yes.  For “continuing” intrusions, either by way of trespass or nuisance, each repetition or continuance amounts to another wrong, giving rise to a new cause of action.  The practical significance of the continuing tort concept is that for statute of limitations purposes, the claim does not begin to accrue until the tortious conduct has ceased.  By contrast, a “permanent” intrusion, often found in the context of irrigation ditches and railways, the trespass or nuisance continues indefinitely absent extraordinary measures, and in fact is encouraged to remain because it benefits the development of the state.  Under the permanent intrusion theory, an action to recover for damages would accrue when the lands where first visibly affected.  Because the record did not reflect that the continued presence of toxic pollution under Plaintiff’s land would continue indefinitely, and could be, but had not yet been, remediated by the United States, the court declined to apply a permanent theory and instead deemed the violation a continuing one.  Accordingly, Plaintiff’s claim was not barred by the statute of limitations.
+
+Discussion
+To classify an intrusion as “permanent” is to create three effects.  First, the cause of action accrues when the intrusion first occurs, or at least when the plaintiff discovered or should have discovered it.  Second, the classification affects damages, because a plaintiff can recover all damages, present and future.  Third, the suit is res judicata and the plaintiff cannot sue again later.  Once the defendant has satisfied the judgment, he has in effect bought the right to continue the intrusion indefinitely.  To classify an intrusion as continuing is to say that since the intrusion can be abated or remedied, each day’s intrusion is like a new cause of action.  If the statute has run on the first day’s intrusion, it has not necessarily run on the second day’s intrusion.  Damages, however, are limited, as the plaintiff does not recover the first day’s damages, since the statute has run out on that cause of action.  Nor does the plaintiff recover future damages, only those up to the time of trial.
+

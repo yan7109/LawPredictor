@@ -1,0 +1,21 @@
+Citation
+904 F.2d 677 (Fed. Cir. 1990)
+
+Brief Fact Summary
+Wilson (Plaintiff) won an infringement suit regarding the design patent on its golf balls, and Dunlop (Defendant) and David Geoffrey & Associates (Defendant) appealed.
+
+Synopsis of Rule of Law
+There can be no infringement if the scope of equivalency necessary to find infringement would cover prior art.
+
+Facts
+Plaintiff brought suit against both Defendants for infringement on its golf ball patent.  The patent concerned the placement of dimples on the golf ball.  The patent divided the ball into an icosahedrons (20 triangles) and then drew lines between the midpoints of each triangle, making 80 triangles.  The 80 dimples were then arranged so no dimple was on a line.  Plaintiff's Claim 1 described this process and the other twenty-six claims were dependent on it.  The prior art was the British Pugh patent and several Uniroyal patents.  Both considered dividing the ball into a polygon, including an icosahedrons, and either subdividing the ball into 320 triangles or placing the dimples based on the icosahedrons' lines.  The jury found for Plaintiff, and both Defendants appealed, claiming the prior art covered their inventions, and therefore could not infringe.
+
+Issue
+Can there be infringement if the scope of equivalency necessary to find infringement would cover prior art?
+
+Held
+(Rich, J.)  No.  There can be no infringement if the scope of equivalency necessary to find infringement would cover prior art.  Prior art limits what an inventor could have claimed, and therefore it limits the possible range of allowed equivalents of a claim.  To simplify analysis, imagine a hypothetical patent that literally covers the accused product.  The question then becomes whether the Patent and Trademark Office would have permitted the hypothetical patent over the prior art.  The patent owner, or Plaintiff, bears the burden of proving the range of equivalents it seeks would not capture the prior art.  Given the Uniroyal prior art, the hypothetical claim, similar to Plaintiff's Claim 1 but enough to cover the Dunlop (Defendant) balls, would not have been patentable.  Though the dependent claims must be examined separately, neither are they infringed.  Reversed.
+
+Discussion
+As a result of Wilson, the burden was clearly put on both patentees to  create and prove the validity of the hypothetical claim.  This resulted  in widespread criticism, and the Federal Circuit in Key Manufacturing  Group, Inc. v. Microdot, Inc., 925 F.2d 1444, 17 U.S.P.Q.2d 1806 (Fed.  Cir. 1991), pointed out the hypothetical claim analysis was not  "obligatory" in the determination of every doctrine of equivalents.  The  Wilson court had actually only characterized the hypothetical claim  analysis as "helpful," not necessary
+

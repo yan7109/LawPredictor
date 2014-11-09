@@ -1,0 +1,21 @@
+Citation
+56 F.3d 592 (5th Cir. 1995)
+
+Brief Fact Summary
+Professionals and Patients for Customized Care (Plaintiff- Appellant) contended that the District Court erred in its determination that the Food and Drug Administration (FDA) Compliance Policy Guide (Guide) was not a substantive rule.
+
+Synopsis of Rule of Law
+The APA requires agencies to afford interested parties notice and an opportunity to comment to proposed substantive rules.
+
+Facts
+The FDA was aware of a problem in the pharmaceutical industry where pharmacies were purchasing large quantities of drug substances in bulk, combining them into other drug substances, and then marketing them (”compounding”). In order to combat this problem, it issued CPG 7132.16, a policy statement, to be used for internal agency guidance. The Guide outlined factors the FDA would consider in determining whether to bring an enforcement action.  Plaintiff-Appellant claimed that the Guide was a substantive rule, and that notice and an opportunity to comment should have been afforded.  The District Court concluded that the Guide was not a substantive rule, and therefore not subject to the APA’s notice and comment requirement.
+
+Issue
+Was the Guide a substantive rule, making it subject to the APA’s notice and comment requirement?
+
+Held
+No, the Guide was not a substantive rule, and notice and comment was not required. Affirmed.   The FDA treated the factors in CPG 7132.16 as guidelines to help identify whether a particular pharmacy might be engaged in unlawful compounding, not as binding norms.  The language of CPG 7132.16 made it clear that it was not intended to foreclose the agency’s discretion in bringing an enforcement proceeding.   Dissent. None.  Concurrence. None.
+
+Discussion
+A general statement of policy (falling outside the notice and comment requirement) is “a statement by an administrative agency announcing motivating factors the agency will consider, or tentative goals toward which it will aim, in determining the resolution of a substantive question of regulation.” This definition fits CPG 7132.16 exactly.
+

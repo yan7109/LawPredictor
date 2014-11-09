@@ -1,0 +1,18 @@
+Citation
+549 U.S. 1147 127 S. Ct. 1016 166 L. Ed. 2d 766 2007 U.S.
+
+Brief Fact Summary
+The defendant, Chan Ian Saelee (the “defendant”), was indicted on three counts of violating the federal drug laws.<span class="heading">Synopsis of Rule of Law.</span> The testimony of the handwriting expert does not satisfy either Federal Rules of Evidence (”F.R.E.”) Rule 701 or 702.
+
+Facts
+The defendant was indicted on three counts of violating the federal drug laws.  The third count alleged that the defendant imported opium from Thailand in violation of 21 U.S.C. Section:Section: 952 and 960(b)(3).  The opium was concealed in Butterfinger candy bars that were express mailed from the United States.  A forensic document analyst with the United States Postal Inspection Service National Forensic Laboratory compared “hand printing exemplars provided by defendant with the hand printing on the address labels on the packages in question.”  The expert concluded that the defendant was the writer of one of the writings and probably the writer of the other.  The government sought to have the expert testify to his conclusions at trial and the defendant filed a motion to exclude all of such testimony.
+
+Issue
+“[W]hether the forensic document analyst’s testimony about the similarities and differences between the known documents and the questioned documents was admissible under either Rule 701 or 702[?]”
+
+Held
+No to both F.R.E. Rule 701 and 702.  F.R.E. Rule 701 concerns the admissibility of opinion testimony by lay witnesses.  The court observed that F.R.E. Rule 701 was amended in 2000 to “expressly limit lay opinion testimony to that which is not based on scientific, technical, or other specialized knowledge within the scope of Rule 702.”  The purpose of the amendment was to “eliminate the risk that the reliability requirements set forth in Rule 702 will be evaded through the simple expedient of proffering an expert in law witness clothing.”  The court then observed that is exactly what the government was attempting to do in this case.  Further, that the government’s expert “is not a lay person who proposes to offer testimony based on sensory impression.”  Instead, “he makes reference to handwriting principles and scientific examinations.”  The expert would have testified that he was a trained forensic document analyst.  Accordingly, any testimony he would offer would have to be an
+
+Discussion
+This case offers an interesting comparison about the admissibility of expert testimony and lay person opinion testimony under the F.R.E.
+

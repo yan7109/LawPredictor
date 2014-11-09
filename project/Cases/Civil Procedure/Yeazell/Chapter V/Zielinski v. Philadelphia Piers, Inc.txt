@@ -1,0 +1,21 @@
+Citation
+139 F. Supp. 408, 1956 U.S. Dist. 3625
+
+Brief Fact Summary
+Zielinski (Plaintiff) filed a complaint in 1953 for personal injuries received from a forklift while he was working on a pier in Philadelphia. Plaintiff alleged that one of the forklifts was owned, operated and controlled by the agents and employees of the Philadelphia Piers, Inc. (Defendant). Defendant issued a general denial of the complaint, but did not specifically deny that it controlled the forklift at the time of the accident.
+
+Synopsis of Rule of Law
+Compliance with Federal Rule of Civil Procedure 8(b) regarding denials may require that the defendant file a more specific answer clearly identifying which aspects of the complaint they are admitting and which aspects they are denying, rather than a mere general denial of all allegations in the complaint.
+
+Facts
+Plaintiff filed a complaint in April of 1953 for personal injuries received in February of 1953 while he was working on Pier 96 in Philadelphia for McCarthy as a result of a collision of two forklifts. Plaintiff alleged that one of the forklifts was owned, operated and controlled by the agents and employees of the defendant, Philadelphia Piers, Inc. Defendant’s answer denied the allegation. No bad faith was found on the part of Defendant, nor intent to deceive. The forklift that collided with Zielinski’s forklift carried the initials P.P.I. however. It later turned out that a year before the accident, the business of moving freight on Defendant’s piers had been transferred to Carload Contractors, Inc. At the time Defendant was leasing both the forklift in question and the pier on which the accident occurred to Carload Contractors. Plaintiff sought an order from the court stating the forklift in question belonged to the defendant at the time of the accident.
+
+Issue
+What degree of specificity is required in under Fed Rule Civ. P. 8(b) regarding the denial of allegations in the other party’s complaint?
+
+Held
+Finding that compliance with Fed. R. Civ. P. 8(b) regarding denials may require that the defendant file a more specific answer than a mere general denial, the district Court ruled that the defendant be estopped from denying agency over the forklift, because, otherwise, its inaccurate statements and statements in the record, which it knew were inaccurate, would have deprived the plaintiff of his right of action.
+
+Discussion
+The Court found that the defendant’s answer contained an ineffective denial of the part of paragraph 5 alleging the defendant’s ownership and control over the forklift. The Court further held that the Defendant could have cleared up the confusion easily by making it known to the plaintiff and the Court that it did not deny each and every aspect of the complaint. In such a case, the Court reasoned, the defendant must make clear just what he is denying and what he is admitting.
+

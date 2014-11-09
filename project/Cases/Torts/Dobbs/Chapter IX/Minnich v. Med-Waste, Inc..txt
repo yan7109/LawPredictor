@@ -1,0 +1,21 @@
+Citation
+564 S.E.2d 98 (S.C. 2002).
+
+Brief Fact Summary
+Plaintiff public safety officer was helping load medical waste onto a truck when the unoccupied truck started rolling towards a public street.  He ran to catch it, jumped in, then stopped it and claimed he was injured in the process.  He sued the Defendant truck company.  The Defendant contended that his claim was barred by the firefighter’s rule but they were unsuccessful in that argument as the court held South Carolina does not follow that rule.
+
+Synopsis of Rule of Law
+The “firefighter’s rule”  is a common law doctrine still applied in some states that precludes a firefighter (and certain other public employees, including police officers and public safety officers) from recovering against a defendant whose negligence caused the firefighter or officer’s on-the-job injury.
+
+Facts
+Plaintiff Minnich was employed by the Medical University of South Carolina as a public safety officer.  While working in this capacity, Plaintiff assisted in loading medical waste from the premises onto a tractor-trailer truck owned by Defendant Med-Waste, Inc.  Plaintiff noticed the unoccupied truck begin to roll forward, toward a public street.  Plaintiff ran to the truck, jumped inside, and stopped the truck.  In the course of this feat, Plaintiff alleged he suffered serious injuries proximately caused by Defendants’ employees and sued in federal court.  Defendants contended the Plaintiff’s claims were barred by the “firefighter’s rule”.  The federal district court certified a question to the South Carolina Supreme Court asking whether the firefighter’s rule barred a claim for injury to emergency professionals.  The South Carolina Supreme Court answered no.
+
+Issue
+Whether South Carolina adopts the firefighter’s rule, thus barring Plaintiff’s claim.
+
+Held
+No.  The “firefighter’s rule”  is a common law doctrine that precludes a firefighter (and certain other public employees, including police officers and public safety officers such as here) from recovering against a defendant whose negligence caused the firefighter’s on-the-job injury.  The court discussed several rationales for the rule, such as that firefighters and police officers are aware of the risks inherent in their chosen professions and therefore have assumed those risks.  Moreover, as a policy matter, injuries to police and firemen are compensable through workers’ compensation and liability should be borne by the public rather than by individual property owners.  Courts have, however, allowed policemen and firefighters to recover for injuries resulting from an act of negligence unrelated to the specific reason for which the officer or firefighter was originally summoned.  However, the Supreme Court found that the rule is riddled with exceptions and criticisms, has been abolished in many jurisdictions, and was not part of South Carolina’s case law.  Accordingly, the court held that the firefighter’s rule did not apply under South Carolina state law and answered the certified question in the negative.
+
+Discussion
+In some states which still adhere to the firefighter’s rule, courts reason that the public pays to train and compensate firefighters and police officers via taxes.  If these public employees were permitted to bring suit against the taxpayers whose negligence proximately caused injury, the negligent taxpayer would incur multiple penalties in exchange for the protection provided to them.
+

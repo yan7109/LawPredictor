@@ -1,0 +1,21 @@
+Citation
+989 P.2d 203, 1999 Colo. App. 129, 40 U.C.C. Rep. Serv. 2d (Callaghan) 1048; 1999 Colo. J. C.A.R. 2657
+
+Brief Fact Summary
+Kimberly A. Allen Trust, (Petitioner), brought suit to recover funds charged back to its bank account with FirstBank of Lakewood, N.A., (Respondent). Respondent successfully moved for summary judgment and Petitioner appeals.
+
+Synopsis of Rule of Law
+If an item is presented to and received by a payor bank, that bank is “accountable” for the amount of the demand item if it “retains the item beyond midnight of the banking day of receipt without settling for it or, whether or not it is also the depositary bank, does not pay or return the item or send notice of dishonor until after its midnight deadline.”
+
+Facts
+Petitioner deposited into its account with Respondent a check drawn on Bank One in the amount of $110,737.50. A hold was placed on the account pending payment of the check. The first business day after deposit, Respondent presented the check to Bank One for collection and was given provisional credit. Three days later, Bank One notified Respondents that it was returning the check for insufficient funds. Respondent then charged back the amount of the check and a return fee to Petitioner’s account. Petitioner filed suit claiming that Respondent was precluded from revoking the provisional credit and the charge-back was therefore improper.
+
+Issue
+Whether a collecting bank that receives a settlement for an item which is or becomes final is accountable to its customer for the amount of the item and any provisional credit given for the item in an account with its customer.
+
+Held
+Yes. When a payor bank becomes “accountable” on a check, the settlement becomes final and the collecting bank’s right to charge-back against its depositor’s account is terminated.
+
+Discussion
+The U.C.C. requires strict compliance with the midnight deadline even if the item is not properly payable. The rule promotes efficiency and places the risk of loss on the one who can most cheaply avoid the loss. The final settlement occurs when an item is deemed finally paid as a result of the payor bank’s failure to revoke a provisional settlement. Here, the payor bank, Bank One, failed to return the item before its midnight deadline and thus the provisional settlement became final. Final payment solidifies the provisional credits made in the collection process and makes each collecting bank accountable to its customer for the amount of the item. The relationship between the depositary bank and its customer then changes from one of agency-principal to debtor-creditor. Therefore, summary judgment against Plaintiff is not proper.
+

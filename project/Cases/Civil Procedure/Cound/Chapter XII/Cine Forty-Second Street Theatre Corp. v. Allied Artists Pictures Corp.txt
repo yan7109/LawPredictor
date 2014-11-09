@@ -1,0 +1,21 @@
+Citation
+22 Ill.602 F.2d 1062 (2d Cir. 1979)
+
+Brief Fact Summary
+The Plaintiff, Cine Forty-Second Street Theatre Corp (Plaintiff), brought an antitrust lawsuit against a rival theatre. The Plaintiff was extremely negligent with respect to following orders to compel discovery. As a result, the Magistrate Gershon (Magistrate) recommended Plaintiff be precluded from introducing evidence with respect to damages.
+
+Synopsis of Rule of Law
+Grossly negligent failure to obey orders compelling discovery justifies the severest disciplinary measures available under the Federal Rules of Civil Procedure Rule 37 (FRCP Rule 37).
+
+Facts
+Plaintiff brought an antitrust lawsuit against the Defendant, Allied Artists Pictures Corp. and others (Defendants) claiming that these owners of a neighboring theatre, conspired with certain motion picture distributors to cut off Plaintiff’s access to first-run, quality films. Plaintiff sought $3 million in treble damages and an injunction against Defendant’s alleged anticompetitive prices. After receiving Defendants’ interrogatories in November 1975, Plaintiff secured Defendants’ consent to defer discovery on the issue of damages until Plaintiff could find an expert to review the Defendants’ box office receipts. Four months after the deadline on the damages discovery was set, Plaintiff inadequately answered the remaining interrogatories. Plaintiff then filed equally inadequate supplemental answers to the interrogatories and refused to obey two subsequent orders from the Magistrate to compel discovery. At an October 1977 hearing, the Magistrate fined Plaintiff $500 and warned that further disobedience would result in dismissal. By the summer of 1978, Plaintiff still had not retained the expert it needed to review Defendant’s box office receipts so it could answer the damages interrogatories. The Magistrate asked Plaintiff to produce a plan to answer and when it did not, she directed an answer to the damages interrogatories. Plaintiff then filed two sets of answers that were late and seriously deficient. In October 1978, the Magistrate concluded that the Plaintiff’s non-compliance was willful and recommended to the district court that Plaintiff be precluded from introducing evidence with respect to damages. Judge Goettel, the district judge who had to approve the magistrate’s order agreed that Plaintiff was grossly negligent, however, could not find Plaintiff to be “willfully” noncompliant. The court fined Plaintiff $1000, but certified an interlocutory appeal on his own motion to review his decision.
+
+Issue
+Whether a grossly negligent failure to obey an order compelling discovery may justify the severest disciplinary measures available under FRCP Rule 37.
+
+Held
+Yes. The judge’s order declining to adopt the magistrate’s recommendation that proof of damages be precluded was reversed. In light of the fact Plaintiff, through its undeniable fault, had frozen this litigation in the discovery phase for nearly 4 years, the Magistrate’s original recommendation stood.   Concurrence. Circuit Court Judge Oakes would not punish the Plaintiff for the sins of its counsel absent the client’s knowledge, condonation, compliance, or causation.
+
+Discussion
+FRCP Rule 37 has a threefold purpose: (1) preclusionary orders make sure no party will benefit from its own failure to comply, (2) specific deterrents seek to ensure compliance, and (3) drastic sanctions may not serve as mere penalties.  Courts are free to consider the deterrent effect of their orders on the instant case and on other litigation, as long as the party is at fault in some sense. When a party makes a good faith effort to comply and is affected by circumstances out of his control, this is not a good enough reason to impose sanctions.  In this case, the court had to decide whether gross negligence amounting to a “total dereliction of professional responsibility,” but not a conscious disregard of court orders, constituted “fault.” Negligence, no less than an intentional wrong, is a fit subject for general deterrence. Where gross professional negligence has been found, the full range of sanctions may be marshaled.   CHAPTER XII. Pretrial Management And The Pre
+

@@ -1,0 +1,21 @@
+Citation
+589 N.W.2d 395 (Wis. 1999).
+
+Brief Fact Summary
+Store security officers believed Peters shoplifted a power drill.  Upon questioning him in the parking lot, he fled on foot, and they pursued him off store premises for seven minutes.  Peters ran into the river and drowned.  His estate sued the store in wrongful death and lost.
+
+Synopsis of Rule of Law
+Merchants generally have the right to detain suspected shoplifters assuming the detention is (1) with reasonable cause to believe a violation has occurred; (2) in a reasonable manner, and (3) for a reasonable length of time.
+
+Facts
+Menard’s store security officer Wright observed Peters take a power drill out of the store and put it in his car without paying for it.  Wright followed Peters out to his car and asked him to get out for questioning.  Peters fled on foot and Wright and another officer named Kind pursued him on foot.  Peters ran into the flooded La Crosse River and the fast-moving current pulled him under, drowning him.  Peters’ estate and family brought a wrongful death suit against the store, Defendant Menards, Inc.  The Wisconsin Supreme Court found that Peters’ conduct was more unreasonable than the store’s, barring plaintiff’s recovery under Wisconsin law.  Although not the deciding factor, the court also discussed whether a Wisconsin store can be immune from liability for actions taken by security officers in pursuing suspects off-premises, which is the primary purpose of this case study in the textbook.
+
+Issue
+Whether a merchant or its agents are immune from liability under Wisconsin law for actions taken in pursuit of a suspected shoplifter that occur off of the merchant’s premises.
+
+Held
+Yes, so long as three reasonableness requirements are met.  Wisconsin statute § 943.50(3) permits merchants to detain suspected shoplifters (1) with reasonable cause to believe a violation has occurred; (2) in a reasonable manner, and (3) for a reasonable length of time.  To interpret whether this statute also limits liability for actions taken off-premises, the court examined the statute’s construction.  The court found that the legislature specifically excluded from the statute language from the Restatement of Torts § 120A that extends immunity only to those detentions occurring “on the premises.”  That the Wisconsin statute contains no such phrase plainly suggests that the legislature intended to allow merchants to follow suspects off the store’s premises to detain them.  Public policy supports this construction, because to limit merchants from off-premises pursuits would increase shoplifting and result in stores having to charge higher prices to make up for losses.  Furthermore, shoplifters would be encouraged to dash out of stores off-premises, increasing injuries to innocent shoppers in the way.
+
+Discussion
+This decision introduces the concept of the common law “shopkeepers privilege” which allows merchants to effect reasonable detentions of suspected shoplifters.  The shopkeeper’s privilege can also be used as a defense against a false imprisonment claim made against a store by a detained suspected shoplifter.
+

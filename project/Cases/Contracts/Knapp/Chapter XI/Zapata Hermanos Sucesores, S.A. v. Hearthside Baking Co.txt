@@ -1,0 +1,21 @@
+Citation
+540 U.S. 1068, 124 S. Ct. 803, 157 L. Ed. 2d 732 (2003)
+
+Brief Fact Summary
+Plaintiff, a Mexican company, brought suit against Defendant, an American company, to recover for nonpayment of invoices and attorneys’ fees associated with their suit.
+
+Synopsis of Rule of Law
+When a party breaches in bad faith, the party seeking to recover may be able to collect attorneys’ fees if they are forced to litigate as an only option to recovery.
+
+Facts
+Defendant contracted to buy tin cans from Plaintiff. After Defendant fell behind in its payments, Plaintiff refused to make further delivery until its account was brought up to date. At that point, Defendant threatened that Plaintiff would not be paid if it stopped shipment, and Plaintiff was forced to bring suit to recover over $800,000 in past due invoices. Plaintiff additionally made a claim for attorneys’ fees, based on the fact that it was forced to litigate as its only means of recover. Defendant acknowledged the debt, but relied on the American rule, which precluded the payment of attorneys’ fees to Plaintiff as a non-recoverable damage. Plaintiff countered, arguing that it was forced to litigate due to Defendant’s bad faith and was entitled to attorneys’ fees.
+
+Issue
+May the American rule regarding apportionment of attorneys’ fees be applied to a foreign party, when the foreign party is forced to litigate due to another party’s bad faith breach of contract?
+
+Held
+No. In these circumstances, an aggrieved party may recover attorney’s fees.
+
+Discussion
+As a general rule, attorneys’ fees are not recoverable in an action for breach of contract. The caveat to the rule is that attorneys’ fees may be recoverable in an international contract, when dealing with a party whose laws would allow it to recover. Additionally, when a party breaches in bad faith, and causes another party to go additional lengths, including litigation, that party may be liable for attorneys’ fees.
+

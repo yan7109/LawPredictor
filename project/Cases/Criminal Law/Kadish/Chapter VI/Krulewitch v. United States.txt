@@ -1,0 +1,24 @@
+Citation
+22 Ill.336 U.S. 440, 69 S. Ct. 716, 93 L. Ed. 790 (1949)
+
+Brief Fact Summary
+A hearsay statement of co-conspirator was admitted at trial against the Defendant, Krulewitch (Defendant), for conspiracy to promote prostitution in violation of federal law.
+
+Synopsis of Rule of Law
+Hearsay statements by a co-conspirator not made in furtherance of an objective of the conspiracy charged in the indictment are not admissible as evidence against a defendant.
+
+Facts
+The Defendant was convicted of inducing a woman to travel from New York to Miami for purposes of prostitution, in violation of federal law. Evidence of a conspiracy to commit this crime included hearsay testimony that implicated the Defendant. The testimony was permitted as a hearsay exception because it purportedly involved statements made in furtherance of the conspiracy.
+
+Issue
+Is a hearsay declaration concerning a co-conspirators’ intent to conceal crime from authorities, after they have been arrested for the subject crime, admissible as a hearsay exception because made in furtherance of the conspiracy?
+
+Held
+No. Reversed. If the declaration were made in furtherance of the criminal transportation conspiracy charged in the indictment, it would be admissible against the defendant co-conspirator because made in furtherance of the conspiracy. However, the declaration was in fact made after the indicted offense had already occurred, successfully or not, and the Defendants’ were in federal custody. The conspiracy, which the declaration furthered, was that to conceal the crime to authorities after it had been committed, not a conspiracy to commit the crime itself.
+
+Concurrence
+The Government’s theory that the law will impute to co-conspirators an ongoing “implied” conspiracy to defeat prosecution has no logical limit and radically expands this hearsay exception. This theory could conceivably hold a co-conspirator criminally liable for the actions of other co-conspirators, including that individual’s commission of perjury or bribery of a witness.
+
+Discussion
+This case illustrates the broad reach conspiracy prosecutions sometimes involve. Here, the court limited hearsay exceptions to declarations that advance the actual conspiracy in the indictment, not an implied conspiracy to evade conviction, which might be present in any crime involving multiple defendants.
+

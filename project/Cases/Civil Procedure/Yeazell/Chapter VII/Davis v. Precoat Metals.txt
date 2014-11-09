@@ -1,0 +1,24 @@
+Brief Fact Summary
+In a discrimination suit filed against Precoat Metals (Precoat) (D), Davis (P) who was an employee of their Chicago plant from a minority community, with others, moved for discovery respecting similar complaints made by other employees, Precoat argued that the request was not proper in law regarding such information.
+
+Synopsis of Rule of Law
+Any request for discovery of information specifically related to the claims of the case is proper.Davis (P) as well as other African-American and Latino employees at the Chicago plant of Precoat Metals (Precoat) (D) filed a discrimination suit against their employer on the grounds of discrimination and revengeful action on the basis of race and national origin in violation of Title VII of the Civil Rights Act of 1964, which prohibits discrimination in employment based on race, color, religion and sex and nationality of origin. In their complaint they made the allegation that their working environment was hostile and they were forced to endure insulting comments about their race from management-level employees of Precoat (D). Davis moved the court to request discovery regarding complaints of the same class by lower-class employees (non-clerical and non-administrative staff) of the Chicago plant. Precoat (D) argued that this was information of a type which could not properly be discovered.
+
+Facts
+Davis (P) as well as other African-American and Latino employees at the Chicago plant of Precoat Metals (Precoat) (D) filed a discrimination suit against their employer on the grounds of discrimination and revengeful action on the basis of race and national origin in violation of Title VII of the Civil Rights Act of 1964, which prohibits discrimination in employment based on race, color, religion and sex and nationality of origin. In their complaint they made the allegation that their working environment was hostile and they were forced to endure insulting comments about their race from management-level employees of Precoat (D). Davis moved the court to request discovery regarding complaints of the same class by lower-class employees (non-clerical and non-administrative staff) of the Chicago plant. Precoat (D) argued that this was information of a type which could not properly be discovered.
+
+Issue
+Is a request for pretrial information regarding specific claims of the case under consideration proper in law?
+
+Held
+(Nolan, J.) Yes. A request for pretrial discovery of information specifically relevant to the matter under dispute in the main case is proper. Here the plaintiffs asked for discovery limited to (i) the time period when discrimination was alleged to have taken place (ii)complaints by other employees at the same workplace, the Chicago plant, as the plaintiffs (iii) complaints regarding discrimination of the same type as alleged by the plaintiffs. This information is discoverable. The plaintiff (P) was right to argue that knowing about other similar complaints may be relevant in establishing that an employer’s general policy and practice are discriminatory to minority employees, and in establishing pretext in the employer’s defensive arguments. Since the motion was so narrowly limited to information specifically tailored to the case, the motion to compel discovery was granted.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+Federal Rules of Civil Procedure 26(b) is aimed at allowing any relevant and non-privileged information to be discovered. Relevance may be for the claim or the defense. Relevance means that it seems to be reasonably sure to lead to the discovery of evidence admissible in court, even if the information itself is not admissible.
+

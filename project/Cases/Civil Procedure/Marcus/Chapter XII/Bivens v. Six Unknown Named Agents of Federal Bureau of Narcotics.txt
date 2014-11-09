@@ -1,0 +1,21 @@
+Citation
+403 U.S. 388, 91 S. Ct. 1999, 29 L. Ed. 2d 619, 1971 U.S.
+
+Brief Fact Summary
+This case involved a search and arrest carried out on the morning of November 26, 1965. Bivens’ (Petitioner) complaint alleged that agents of the Federal Bureau of Narcotics (Respondents) acting under claim of federal authority, entered his apartment and arrested him for alleged narcotics violations. The agents manacled Petitioner in front of his wife and children, and threatened to arrest his entire family. They searched the entire apartment and, thereafter, Petitioner was taken to the federal courthouse in Brooklyn, New York, where he was interrogated, booked and subjected to a visual strip search.
+
+Synopsis of Rule of Law
+Just as state law may not authorize federal agents to violate the Fourth Amendment, neither may state law undertake to limit the extent to which federal authority can be exercised. The inevitable consequence of this dual limitation on state power is that the federal question becomes not merely a possible defense to the state law action, but an independent claim both necessary and sufficient to make out the plaintiff’s cause of action.
+
+Facts
+Petitioner brought suit in federal district court, alleging, in addition to the above, that the arrest and search were conducted without a warrant, that unreasonable force was employed, and that probable cause was lacking. Petitioner sought $15,000 in damages from each of the agents. The district court dismissed the action for failing to state a cause of action. The court of appeals affirmed on that basis.
+
+Issue
+Should the petitioner be limited to an award of money damages following an action in tort, under state law?
+
+Held
+No. The court reversed the decisions of the district court and court of appeals. Petitioner is not limited to an award of money damages when filing an action under tort law in state court. Federal court is available to redress the injuries suffered by individuals such as the Petitioner in this action.  <br/><br/><span class='heading'>Dissent.</span> Separate dissenting opinions were offered by Chief Justice Burger and Justice Black.   J. Burger: Congress, not the courts, should create a quasi-judicial remedy for those who have suffered Fourth Amendment violations.  J. Black: If Congress wanted to create a cause of action against federal officials, such as it has against state officials, then it should do so. It is not the courts’ place to create such an action.   Concurrence. The concurring opinion was offered by Justice Harlan. J. Harlan noted that the federal courts do have the power to award damages for violations of constitutionally protected interests. Furthermore, the possibility of “frivolous claims”   should not preclude a federal cause of action for those who have suffered Fourth Amendment violations.
+
+Discussion
+The dual limitation on state power provides that it be necessary for individuals such as the Petitioner to have access to the federal courts. As a result of that limitation, those harmed in violation of their Fourth Amendment rights need not seek redress through a state court action on
+

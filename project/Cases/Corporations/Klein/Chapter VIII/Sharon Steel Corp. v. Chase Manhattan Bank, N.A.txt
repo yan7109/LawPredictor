@@ -1,0 +1,21 @@
+Citation
+691 F.2d 1039 (2d Cir. 1982)
+
+Brief Fact Summary
+Appellants, Sharon Steel Corp. and UV Industries, Inc., appealed a summary judgment that prevents UV Industries (”UV”) from liquidating and assigning its debt to Sharon Steel.
+
+Synopsis of Rule of Law
+Boilerplate successor obligor clauses, like other boilerplate contractual clauses, should be interpreted in a manner that balances the rights of all interested parties.  In particular, an assignment of debt in a successor obligor clause that requires substantially all of the assets of the company to be transferred with the debt obligation should be read to require a transfer of substantially all assets.
+
+Facts
+UV operated similarly to a holding company, wherein it was comprised of three separate smaller companies.  UV issued five debt instruments that were payable by UV over time.  The debentures had clauses that would require the acceleration of payments in cases of default with their agreement.  The agreements also contained successor obligor clauses that would define the circumstances where an acquiring entity could have the debts transferred to them.  UV then started liquidating its assets by selling off the companies that comprised UV at the time it acquired the debentures.  UV attempted to sell one portion of the company to Sharon Steel, and through the sale Sharon Steel would acquire UV’s debt obligations.  At first, there was an agreement to put cash in a separate account to ensure timely payment on the debts, but Sharon argued that they could withdraw from the account.  As part of the sale, shareholders of UV were to receive $18 per share.  Defendants, Chase Manhattan Bank
+
+Issue
+The issue is whether UV properly assigned the debt obligations to Sharon Steel.
+
+Held
+The United States Court of Appeals for the Second Circuit agreed that Sharon Steel did not satisfy the elements to be considered a successor obligor, and therefore UV could not assign its debentures to Sharon Steel.  The boilerplate provisions defining successor obligors as an entity that is acquiring all or substantially all of UV’s assets should be given the same scope as other successor obligor provisions.  Boilerplate provisions should be given uniform scope to ensure reliance and continuity in contracting.  Because Sharon Steel acquired, at most, 51% of UV’s assets, they could not be considered a successor obligor.
+
+Discussion
+The decision ensures that parties who lend money to companies can be assured that the debt will not be transferred to an entity that had little to do with the original debtor.  Companies could still use their contract to agree to an alternate arrangement, but it needs to be clear that it is the parties’ intention to do so.
+

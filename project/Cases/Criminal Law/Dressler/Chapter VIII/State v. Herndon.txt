@@ -1,0 +1,21 @@
+Citation
+145 Wis. 2d 91, 426 N.W.2d 347,1988 Wisc. App. 461.
+
+Brief Fact Summary
+The constitutionality of rape shield laws is discussed.
+
+Synopsis of Rule of Law
+Rape shield laws prohibiting the defendant from examining the victim concerning her prior sexual conduct or reputation are not prohibited by the Sixth Amendment to the United States Constitution (Constitution), which guarantees the right of the accused to confront his accuser.
+
+Facts
+No specific facts of the case are given. The Court of Appeals of Wisconsin discussed four approaches to rape shield laws. The Michigan approach prohibits prior sexual conduct or reputation evidence, but this evidence is admissible where it is highly relevant and material to the presentation of a defense and therefore constitutionally required. Under the Texas approach, the laws are purely procedural and involve “untrammeled judicial discretion.” In other words, provided that certain procedural requirements are met, the evidence is admissible if the trial court determines that the evidence’s probativeness outweighs its prejudicial effect. The federal approach has three key features: (1) a general prohibition against sexual conduct or reputation evidence; (2) exceptions allowing for this evidence when it is “undeniably relevant” to an effective defense; and (3) a general “catch-basin” provision allowing for the introduction of relevant evidence on a case-by-case basis. Finally,
+
+Issue
+Are rape shield laws, which prohibit the defendant from cross-examining the victim regarding prior sexual conduct or reputation, valid under the Sixth Amendment’s right to confront adverse witnesses?
+
+Held
+Yes. Because the probative value of the evidence of prior sexual conduct or reputation does not outweigh the potential for prejudice toward the victim, rape shield laws do not violate the Sixth Amendment of the Constitution. However, the defendant may show prior consensual sex if that evidence (i) shows the victim’s unique pattern of conduct similar to the case at hand; or (ii) shows the victim has a motive to fabricate the charges or (iii) may be biased.
+
+Discussion
+While rape shield laws are constitutional in criminal cases, rape shield laws do not prevent the defendant from examining the accused about prior sexual conduct and reputation at civil trials.
+

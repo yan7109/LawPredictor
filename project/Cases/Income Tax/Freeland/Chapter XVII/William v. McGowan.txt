@@ -1,0 +1,24 @@
+Citation
+152 F.2d 570, 1945 U.S. App. 46-1 U.S. Tax Cas. (CCH) P9120; 34 A.F.T.R. (P-H) 615
+
+Brief Fact Summary
+Taxpayer entered into a partnership arrangement wherein he owned two-thirds of the business.  After his partner died he sold the business to another company and claimed the gain as ordinary income and not as a capital asset.
+
+Synopsis of Rule of Law
+All property is capital assets except stock in trade or inventory property, property held primarily for sale to customers, and property used in the trade or business of a character which is subject to an allowance for depreciation.
+
+Facts
+Taxpayer, Williams, and Reynolds were in the hardware business for many years in Corning, New York.  In 1926 they formed a partnership and Williams was entitled to two-thirds of the profits and Reynolds one-third.  The capital invested in the business was $118,025.  The business continued until Reynolds death in 1940.  Taxpayer sold the business to Corning Building Company for $63,926 plus an amount of gross sales for brief period of time.  Taxpayer suffered a loss on the sale but a small gain on the one-third he had bought from Reynolds’ estate.  He entered both as ordinary income on his tax return and not as capital assets.  The Commissioner disallowed and assessed a deficiency.
+
+Issue
+Is the business considered capital assets?
+
+Held
+Judge Hand issued the opinion for the United States Second Circuit Court of Appeals in holding for Taxpayer and finding that the business is not a capital asset as a whole.
+
+Dissent
+Circuit Judge Frank issued a dissenting opinion noting that the sale of the business was done as a whole and was not carved up into cash, receivable, fixtures, trucks, and merchandise as the majority opinion did.
+
+Discussion
+The Court of Appeals found that when a business is sold it should not be viewed as one single piece of property.  Rather each segment of the business should be taken into account in determining capital assets.
+

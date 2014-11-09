@@ -1,0 +1,21 @@
+Citation
+2 Cal.3d 956, 88 Cal.Rptr. 188, 471 P.2d 988 (1970)
+
+Brief Fact Summary
+Superior Court of Los Angeles County (California) entered a judgment in favor of Westinghouse Electric Co. (Defendant) after a jury verdict and from an order denying Motions for Judgments Notwithstanding the Verdict in negligence action. Hinman (Plaintiff), who was a victim of an auto injury, and intervenor, the City of Los Angeles, appealed the judgment
+
+Synopsis of Rule of Law
+The losses caused by the torts of employees, occurring in the conduct of the employer’s enterprise, are placed upon that enterprise itself, as a required cost of doing business.
+
+Facts
+While standing on the center divider of a freeway inspecting a possible road hazard, Plaintiff, a Los Angeles policeman, was struck by a car driven by an employee of the Defendant. He sustained permanent injuries, and the city paid his medical expenses and disability claims. The driver was returning from work at the time of the incident. Under a union contract, the driver was paid for travel time to and from job sites. The trial judge instructed the jury to consider several factors to determine whether the driver acting within the scope of his employment for Defendant. Per that instruction, the jury found for Defendant. Plaintiff and City appealed.
+
+Issue
+Should the employer, Defendant be held vicariously liable for the Plaintiff’s injuries?
+
+Held
+Yes. The court found that the doctrine of respondeat superior should have applied, and that the trial court erred in its instructions to the jury.
+
+Discussion
+The doctrine of respondeat superior holds that an employer may be held vicariously liable for the tortious acts of an employee if it is determined that such acts are committed within the scope of employment. Vicarious liability automatically imposes tort responsibility on a defendant because of his relationship with the tortfeasor. As the court in Hinman explained, “[t]he modern and proper basis of vicarious liability of the master is not his control or fault but the risks incident to his enterprise. The court is not looking for the master’s fault but rather for risks that may fairly be regarded as typical of or broadly incidental to the enterprise he has undertaken.” This axiom may extend, as in this case, to an employee’s travel, the so-called “going and coming” rule. As the court stated, “[u]nder the ‘going and coming’ rule, an employee going to and from work is ordinarily considered outside the scope of employment so that the employer is not liable for his torts. The
+

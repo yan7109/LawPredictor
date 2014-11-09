@@ -1,0 +1,24 @@
+Citation
+531 U.S. 32, 121 S. Ct. 447, 148 L. Ed. 2d 333 (2000)
+
+Brief Fact Summary
+Indianapolis set up a series of checkpoints to intercept drugs.  Two motorists sued.
+
+Synopsis of Rule of Law
+Police must have the “usual requirement of individualized suspicion where [they] seek to employ a checkpoint primarily for the ordinary enterprise of investigating crimes.”
+
+Facts
+The City of Indianapolis instituted a series of traffic checkpoints.  At each checkpoint location, the police stopped a predetermined number of vehicles, an officer approached the vehicle, advised the driver to produce a license and registration, and watched for signs of impairment and conducts an open-view examination of the vehicle.  They could only do so with consent.  A narcotics officer walked around the car with a dog.  The whole stop was to be only two or three minutes.
+
+Issue
+Whether “a highway checkpoint program whose primary purpose is the discovery and interdiction of illegal narcotics” is constitutional.
+
+Held
+No.  First, the court reaffirmed that “a vehicle stop at a highway checkpoint effectuates a seizure within the meaning of Fourth Amendment.”  The court also noted that it had “never approved a checkpoint program whose primary purpose was to detect evidence of ordinary criminal wrongdoing.”  In response to Indianapolis’ assertion that the checkpoints “had the same ultimate purpose of arresting those suspected of committing crimes,” the Court held that “there would be little check on the ability of the authorities to construct roadblocks for almost any conceivable law enforcement purpose.  Without drawing the line at roadblocks designed primarily to serve the general interest in crime control, the Fourth Amendment would do little to prevent such intrusions from becoming a routine part of the American life.”  The Court also dismissed Indianapolis’ assertion that the drug problem was a social harm of the “first magnitude,” instead, opting to consider “the nature of the interests th
+
+Dissent
+Three justices dissented, citing several precedents that said that because there were valid reasons for the checkpoints, the dual purpose of criminal prevention did not make the system unconstitutional J. Thomas was dubious about the correctness of previous decisions that influenced the Court’s decision here.
+
+Discussion
+“We cannot sanction stops justified only by the generalized and ever-present possibility that interrogation and inspection may reveal that any given motorist has committed some crime.”
+

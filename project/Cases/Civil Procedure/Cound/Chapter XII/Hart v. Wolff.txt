@@ -1,0 +1,21 @@
+Citation
+22 Ill.489 P.2d 114 (Alaska 1971)
+
+Brief Fact Summary
+Plaintiff, Hart (Plaintiff), brought a defamation suit against the Defendant, Wolf (Defendant). Defendant obtained an order to subpoena records of the corporation for whom Plaintiff was employed. Plaintiff argued the order could not be justified because the records were not within his control, custody, or possession.
+
+Synopsis of Rule of Law
+A prima facie case of control is all that need be established to justify issuance of an order under Federal Rules of Civil Procedure Rule 34.
+
+Facts
+The Plaintiff appealed from a dismissal of a complaint for failure to produce records for Defendants inspection. Plaintiff brought a defamation suit against Defendant concerning statements of alleged misappropriation of funds from Artic Bowl, Inc. (Arctic), a corporation that both Plaintiff and Defendant helped found which operated a bowling alley. From 1958-1959 Defendant served as the corporation’s vice-president until Metropolitan Mortgage and Securities, Inc. purchased control of Artic. Defendant then left the company. Plaintiff, who had served as Arctic’s president from 1958-59, remained with the new corporation and served as manager of the bowling alley.
+
+Issue
+Whether Plaintiff had control over records that Defendant sought to be produced.
+
+Held
+Yes. The order to produce the records of the corporation was proper.  Plaintiff failed to rebut the prima facie showing of control made by Defendant.  Dismissal of the complaint was proper because Plaintiff made no timely effort to comply with the order to produce, nor offered any explanation as to why the documents had not been produced.  <br/><br/><span class='heading'>Dissent.</span> There were neither policy considerations nor any precedential bases for the majority to substitute an “influence” test for the “possession, custody, or control” standards of Federal Rule of Civil Procedure (FRCP) Rule 34.   Questioned why Defendant never attempted to use any other discovery procedures to obtain the corporation’s documents, such as FRCP Rule 45(d)(1), concerning a subpoena directed to a nonparty.
+
+Discussion
+Courts favor liberal construction of the civil rules concerning discovery. FRCP Rule 34 only requires a prima facie showing of control to establish justification for an order to produce. Here, the court found Plaintiff’s managerial role and influence within the corporation sufficient to show control.
+

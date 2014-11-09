@@ -1,0 +1,21 @@
+Citation
+890 F.2d 1215 (D.C. Cir. 1989)
+
+Brief Fact Summary
+The district court order First City Financial (Defendant) to surrender earnings gained from its violation of § 13(d) of the Securities Exchange Act.
+
+Synopsis of Rule of Law
+As a resolution for a § 13(d) of the Securities Exchange Act violation, a court may order surrender of earnings.
+
+Facts
+Belzburg, principal of First Financial Corp., spoke with Greenburg, CEO of a brokerage firm, on the phone, the outcome of which was an informal put-and-call arrangement for the broker to buy 20,500 shares of Ashland Oil. Belzburg denied that was the intent of the phone call. When combined with First City’s prior Ashland holdings, this new purchase pushed the shares to over 5%. As obligated by § 13(d) of the Securities Exchange Act, disclosures of interest must be filed within 10 days with the SEC, which First Financial failed to do. In the period of a week, 333,700 extra shares were bought, with disclosures not made until 12 days had passed. It was at this time that First City publicized a tender offer and Ashland stock started to increase. The offer was removed, and First City resold the recently obtained shares for a substantial profit. The SEC filed an action against First City arguing that they violated §13(d). The district court concurred and ordered unlawful gains be surrendered and to pay back the profit acquired. First City appealed.
+
+Issue
+Could a district court order surrender of earnings as a resolution for a violation of § 13(d) of the Securities Exchange Act?
+
+Held
+(Silberman, J.) Yes.A district court could order surrender of earnings as a resolution for violating S 13(d) of the Securities Exchange Act. Although the section fails to explicitly offer a resolution for a violation of this type, it is not necessary. Surrender is an equitable resolutioncalculated to remove all illegally gotten goods from an offender and to discourageimpendingtransgression. Under a district court’s jurisdiction, it may employ all obtainable equitable powers. The district court’s jurisdiction over this dispute is the foundation of its ability to order surrender. An equivalent to this is a district court’s abilities in cases based on 10b-5 violations. Surrender is arecognized resolution though it is not statutorily authorized, which is the case here. [The court went on to discuss First City’s task to the degree of gains, with the court holding that issues of proof prohibited a trial court from attaining a inevitably accurate degree of unlawful gains, however, such accuracy was not needed.] Affirmed.
+
+Discussion
+§ 13(d) was added to the Securities and Exchange Act by the 1968 Williams Act, the latter’s objective was mainly to control tender offers while the former’s is to stop a prospective acquirer from covertly amassing a bulk of the target’s stock.
+

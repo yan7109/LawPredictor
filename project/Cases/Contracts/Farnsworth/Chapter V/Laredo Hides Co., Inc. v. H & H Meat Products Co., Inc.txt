@@ -1,0 +1,21 @@
+Citation
+513 S.W.2d 210 (Civ.App. Tex. 1974).
+
+Brief Fact Summary
+Plaintiff Laredo Hides Co., Inc. and Defendant H & H Meat Products Co., Inc., entered into a contract for the sale of cattle hides, which the Court found Defendant had repudiated. Plaintiff purchased substitute hides for substantially more than the contract price and requested damages for purchasing more expensive hides to cover its loss.
+
+Synopsis of Rule of Law
+Damages for breach by the seller are measured by subtracting either the market price at the time the buyer learned of the breach or the actual cost of cover from the contract price, plus incidental and consequential damages.
+
+Facts
+Plaintiff entered into a contract with Defendant to buy its entire cattle hide production during a specified period. A check for $9,000 was sent by Plaintiff but was delayed in the mail. Before it arrived, Defendant gave Plaintiff an ultimatum demanding payment within a few hours. When Plaintiff failed to meet the demand, Defendant notified Plaintiff that it considered this a breach justifying cancellation of the contract. The Court of Civil Appeals of Texas held, however, that Defendant’s actions were a breach by repudiation of the contract. In order to meet its requirements for hides, Plaintiff had to purchase them on the open market. The market price for hides had risen so sharply that Plaintiff incurred costs above the contract price of $142,254.48 plus incidentals of $3,448.95.
+
+Issue
+What is the proper measure of damages for Defendant’s breach of contract?
+
+Held
+The Uniform Commercial Code states that the proper measure of damages is the difference between the market price at breach or the cost of cover and the contract price plus incidental and consequential damages. Where cover has actually been obtained, there is no need to prove the market price at the time of breach, but rather, the price is presumed proper. The burden is on the seller to prove that cover was not properly obtained. Here, Plaintiff obtained cover, and Defendant offered no evidence that cover was not properly obtained. Hence, the damages were set at $152,960.04.
+
+Discussion
+(Damages for breach of contract) = (market price at breach or actual cost of cover) – (contract price) + (incidental and consequential damages)
+

@@ -1,0 +1,21 @@
+Citation
+466 U.S. 920; 104 S. Ct. 1700;80 L. Ed. 2d 173; 1984 U.S.
+
+Brief Fact Summary
+Respondent challenges his murder conviction on the grounds that his counsel’s representation of his co-defendants presented an unacceptable conflict of interests that denied him effective assistance of counsel.
+
+Synopsis of Rule of Law
+Defendants alleging a conflict of interest in cases in which multiple defendants are being represented by the same attorney in the same matter must demonstrate an “actual conflict” that “adversely affected” the outcome.
+
+Facts
+Respondent, John Sullivan, was convicted of a double murder relating to a union dispute and sentenced to life imprisonment. He had been indicted with two other defendants, and all three were represented by two privately retained attorneys. Sullivan’s trial, however, occurred before the other two defendants, and there was evidence on the record to suggest that his attorneys may have purposely rested their case earlier than necessary in order to avoid exposing too much of their strategy in advance of the two remaining trials. Sullivan is now seeking a federal writ of habeas corpus, claiming that his retained defense counsel represented potentially conflicting interests.
+
+Issue
+Must a state trial judge inquire into the propriety of of multiple representation even if no party raises an objection? When do attorneys representing multiple criminal defendants in charges arising from the same incident truly face a conflict of interests?
+
+Held
+The possibility of conflict isn’t enough; defendant must show that he there was an actual conflict that “adversely affected” his case. Reversed and remanded for further proceedings.
+
+Discussion
+Contrast this holding with the familiar Strickland v. Washington “ineffective assistance of counsel” standard. What is the difference, if any, between “adversely affected” and “prejudice”?
+

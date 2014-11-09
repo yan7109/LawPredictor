@@ -1,0 +1,21 @@
+Citation
+254 Kan. 411, 867 P.2d 281 (1994)
+
+Brief Fact Summary
+Appellants sought to garnish payments made for the benefit of a beneficiary of a trust.  The trial court held that although they could garnish payments made to the beneficiary they could not reach payments made for the benefit of the beneficiary.  They now appeal this decision.
+
+Synopsis of Rule of Law
+If a creditor has a right to reach payments made to a beneficiary they also have a right to reach payments made in a trustee’s discretion for the benefit of the beneficiary.
+
+Facts
+Frank Gentry created a revocable trust for which he was the beneficiary during his lifetime.  Upon Gentry’s death the trust property was to be distributed to named individuals with one fifth remaining in trust for Isabell Gentry.  The trust specified that the trustee was to make distributions on her behalf deemed advisable after considering all sources available to her.  Ron and Nancy Wilcox, Appellants, obtained a judgment against Isabell Gentry which they sought to garnish payments from the trust to satisfy.  The trial court held that any trustee payments directly to Isabell Gentry were subject to garnishment but trustee payments for Isabell’s benefit were not.  The Appellants now appeal this decision.
+
+Issue
+If a trustee exercises discretion and makes payments on behalf of the beneficiary are such payments subject to the creditor’s garnishment?
+
+Held
+Yes.  Reversed.  Payments to a beneficiary should be treated the same as payments made on behalf of the beneficiary as far as creditors are concerned.  Therefore payments on behalf of the beneficiary are subject to creditor’s garnishment.
+
+Discussion
+The Court adopts the Restatement (Second) of Trust Section:155(2) in finding that if the creditor has the right to reach payments made to the beneficiary they also have the right to reach payments made for the benefit of the beneficiary.  They reason that drawing a distinction between such payments is arbitrary and without any basis in public policy.
+

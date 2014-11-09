@@ -1,0 +1,24 @@
+Citation
+22 Ill.462 U.S. 919, 103 S. Ct. 2764, 77 L. Ed. 2d 317 (1983)
+
+Brief Fact Summary
+The Supreme Court of the United States held that it is unconstitutional to allow one house of Congress to unilaterally veto a decision of the executive branch.
+
+Synopsis of Rule of Law
+The one-house veto is unconstitutional because a law must be approved by a majority of both the Senate and the House of Representatives, pursuant to the principles of bicameralism. Then the law must be introduced to the President who will then approve or veto the law pursuant to the Presentment Clause.
+
+Facts
+Plaintiff, Mr. Chadha, challenged a provision of the Immigration and Nationality Act (”Act”) that allowed one house of Congress, by resolution, to invalidate and thus, veto the decision of the Executive branch to allow a particular deportable alien to remain in the United States. The Act authorized the Attorney General to suspend deportation if the alien met certain conditions, deportation would result in “extreme hardship,” and the Attorney General reported to Congress. The Attorney General suspended Plaintiff’s deportation pursuant to the Act and notified Congress. A year and a half later, the House of Representatives passed a resolution stating that Plaintiff’s deportation should not be suspended. The House resolution was not submitted to the Senate or presented to the President. The Court of Appeals held that the House action was unconstitutional as a violation of the separation of powers.
+
+Issue
+Whether a provision authorizing one house of Congress to veto a decision of the Executive branch, pursuant to authority delegated by Congress to the Attorney General, to suspend the deportation of a deportable alien where certain conditions are met and deportation would result in “extreme hardship” is unconstitutional.
+
+Held
+Yes. Judgment of the Court of Appeals affirmed. Since explicit and unambiguous provisions of the Constitution’s Article I prescribe and define the respective functions of Congress and the Executive branch in the legislative process, those provisions must be applied to resolve the issue here. The decision to provide the Presentment Clause wherein the President has a limited power to veto proposed legislation was based on the framers’ conviction that the powers of Congress must be constrained. Therefore, lawmaking was a power to be shared by both houses and the President. The bicameral requirement of Article I, by requiring a law’s approval by a majority in both houses of Congress, represents the framers’ decision that the legislative power of the federal government be exercised in accordance with a systematic procedure. Here, Congress made a deliberate choice to delegate to the Executive branch the authority to suspend the deportation of deportable aliens. Congress must abide by
+
+Dissent
+The legislative veto is very important and has not been used by Congress to usurp power, but rather as a defense mechanism. The Court’s analysis appears to invalidate all legislative vetoes. Further, bicameralism and the Presentment Clause do not answer the issue at hand. The legislative veto is a necessary check on agencies as they exercise power delegated from Congress. This holding will make it more difficult to insure that the fundamental policy decisions will be made by a body immediately responsible to the people rather than an agency.
+
+Discussion
+The majority looks to Article I of the Constitution to address the issue in this case. The nature of the veto is legislative in purpose and effect, and therefore subject to Article I standards.
+

@@ -1,0 +1,21 @@
+Citation
+522 F.2d 33, 1975 U.S. App. 13766, 17 U.C.C. Rep. Serv. (Callaghan) 447
+
+Brief Fact Summary
+Plaintiff Laclede Gas Co., contracted with Defendant, Amoco Oil Co., to supply its customers of central propane gas systems with propane. After a disagreement, Defendant attempted to terminate the agreement, stating that the agreement lacks mutuality. Plaintiff sued for specific performance, and the trial court held that there was no binding contract.
+
+Synopsis of Rule of Law
+Specific performance may be ordered under the proper circumstances where the remedy at law is not adequate.
+
+Facts
+Plaintiff installed central propane gas systems in residential developments, and Defendant was a supplier of propane. The parties contracted for the defendant to provide Plaintiff’s customers with propane gas. Plaintiff had the right to cancel the agreement, provided certain conditions are met. However, the contract contained no provision under which Defendant could cancel the agreement. Subsequently, Defendant notified Plaintiff that it was terminating the agreement because “the Agreement lacks ‘mutuality.’” The District Court agreed with this argument of Defendant, but the Eighth Circuit Court of Appeals reversed, holding that there was a binding contract even though Plaintiff had the right to arbitrarily cancel, but Defendant did not.
+
+Issue
+Is specific performance the proper remedy here?
+
+Held
+Yes. Specific performance may be ordered under the proper circumstances where the remedy at law is not adequate. Contrary to Defendant’s assertions, there is not a requirement that both parties be mutually entitled to the remedy of specific performance in order for one of them to be given that remedy by the Court. Further, where the public interest is involved, a court may ignore the rule that a decree of specific performance is inappropriate where constant and long-continued court supervision is required. Given that the contract is long-term and the future of worldwide energy supplies is uncertain, specific performance is appropriate here.
+
+Discussion
+Specific performance may be ordered when money damages will not adequately compensate the non-breaching party.
+

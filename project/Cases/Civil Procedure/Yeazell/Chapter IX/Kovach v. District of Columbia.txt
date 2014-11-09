@@ -1,0 +1,21 @@
+Citation
+805 A.2d 957 (D.C. Ct. App. 2002)
+
+Brief Fact Summary
+Kovach contends that the trial court erred in ruling that his previous payment of a traffic violation, recorded by an automatic camera at a stoplight, precluded him from contesting the District’s subsequent decision to forgive only unpaid fined for violations recorded by this camera.
+
+Synopsis of Rule of Law
+Although there are “circumstances where res judicata and collateral estoppel may be overcome,” unless there is some element of unfairness or entrapment, the matter cannot be challenged, particularly when there is an earlier admission of liability and the challenge is not timely, nor was there a “manifest error”.
+
+Facts
+Donald Kovich appeals the trial court’s grant of judgment under Super. Ct. Civ.R.12(b)(6), on res judicata grounds. Kovach contends that the trial court erred in ruling that his previous payment of a traffic violation, recorded by an automatic camera at a stoplight, precluded him from contesting the District’s subsequent decision to forgive only unpaid fined for violations recorded by this camera.  Kovach previously admitted liability and paid the ticket, however now argues the fine should be refunded.
+
+Issue
+Whether the principles of collateral estoppel preclude appellant from alleging facts necessary to state a claim.
+
+Held
+That because the principles of collateral estoppel preclude the appellant in this case from alleging a fact necessary to stating a claim, the trial court correctly granted the motion to dismiss.
+
+Discussion
+Appellant’s complaint claimed that the District’s decision to forgive some fines and enforce others of “similarly situated” motorists who were “unfairly and confusingly” entrapped by the camera was facially discriminatory under D.C. Code §4-139 (1994) and violated the Fifth and Fourteenth Amendments of the Constitution, seeking return of $1.5 million in paid fines, including costs and interest, and attorney’s fees.  However, the adjudication of appellant’s liability collaterally estops him from now asserting that he is part of a class of people who were confused by the stoplight’s placement- a necessary and essential part of his claim, because he had admitted liability.
+

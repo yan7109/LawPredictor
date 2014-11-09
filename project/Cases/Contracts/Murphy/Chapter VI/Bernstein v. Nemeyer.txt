@@ -1,0 +1,21 @@
+Citation
+22 Ill.213 Conn. 665, 570 A.2d 164 (1990)
+
+Brief Fact Summary
+Plaintiffs and Defendant formed a partnership to renovate apartment buildings. Defendant, as part of the partnership contract, agreed to lend the partnership any money it needed to cover operating costs beyond what profits would cover. Defendants defaulted on their agreement and Plaintiffs lost their entire investment.
+
+Synopsis of Rule of Law
+Restitution damages are damages that keep the breaching party from enjoying unjust enrichment. In cases when the breaching party does not enjoy unjust enrichment, restitution damages are not proper.
+
+Facts
+Plaintiff and Defendants entered into a partnership agreement when Plaintiffs invested $1,050,000.00 to renovate two apartment buildings in Houston, Texas. As part of the agreement, Defendants, made a negative cash flow guaranty. They promised to lend the partnership any money it required, to cover operating costs, beyond cash receipts. The guaranty was limited in time and scope and the agreement provided that Defendants would get their money back out of the sale of the two buildings. Defendants did not keep their agreement. The partnership could not meet its operating costs, their lenders foreclosed on them, and the parties lost their entire investment. Plaintiffs sued Defendants for breach of contract and restitution. The trial court ruled in favor if Defendants, because the court determined Defendants breach of the guaranty agreement was not material.
+
+Issue
+Was the trial court correct in denying Plaintiff’s prayer for restitution damages.
+
+Held
+No.
+
+Discussion
+Here, it seems, Plaintiffs were improperly using the theory of restitution damages. Instead of using restitution as a way of curing unjust enrichment, they were using restitution to get damages without proving they suffered any loss, specifically because of Defendant’s breach. Plaintiffs were unable to show that Defendant’s breach caused the partnership to fail, so they were trying a different approach to get damages.
+

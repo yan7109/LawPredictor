@@ -1,0 +1,21 @@
+Citation
+137 N.J. 238, 645 A.2d 100, 1994 N.J. 640
+
+Brief Fact Summary
+Plaintiff Wasserman’s Inc, entered into a commercial lease with Defendant Township of Middletown that contained a clause providing that if Defendant cancelled the lease, it would pay Plaintiff a pro-rata reimbursement for any improvement costs and damages of twenty-five percent of Plaintiff’s average gross receipts for one year. Defendant subsequently cancelled the lease but refused to pay the damages.
+
+Synopsis of Rule of Law
+Liquidated (or stipulated) damages clauses are enforceable if the amount of damages fixed by the contract is a reasonable prediction of the actual harm caused by the breach.
+
+Facts
+Plaintiff entered into a commercial lease with Defendant. The contract contained a liquidated damages clause that provided that if Defendant cancelled the lease, it would pay Plaintiff a pro-rata reimbursement for any improvement costs and damages of twenty-five percent of Plaintiff’s average gross receipts for one year. Subsequently, Defendant cancelled the lease. When Defendant refused to pay, Plaintiff sued to recover under the agreement.
+
+Issue
+Is the liquidated damages clause enforceable?
+
+Held
+Not determined; remanded to the Law Division for resolution of factual issues. A liquidated damages clause is a predetermined sum that a contracting party agrees to pay if he breaches, said sum being a good faith estimate of the actual damages in the event of a breach. By contrast, a penalty clause is a predetermined sum that a contracting party agrees to pay if he breaches, said sum being a fixed amount, not meant to be an estimate of actual damages, but rather a punishment intended to prevent breach. Liquidated damages clauses are enforceable if “the amount so fixed is a reasonable forecast of just compensation for the harm that is caused by the breach.” Such clauses are presumed to be reasonable, and the burden is on the party challenging the clause to prove its unreasonableness. Notably, the parties’ own characterization of the clause is in no way controlling, but rather, the courts must look to the circumstances of the case. Here, even though the Supreme Court of New Jerse
+
+Discussion
+Liquidated damages clauses must be a reasonable forecast of actual damages to be enforc
+

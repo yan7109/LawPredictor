@@ -1,0 +1,21 @@
+Citation
+464 U.S. 840 104 S. Ct. 133 104 S. Ct. 134 78 L. Ed. 2d 128
+
+Brief Fact Summary
+Vinko Logarusic and five co-defendants were convicted of violating the Racketeer Influenced and Corrupt Organizations Act in 1978, and  Logarusic challenged the admission of a letter linking him to an unindicted co-racketeer.
+
+Synopsis of Rule of Law
+A letter may be properly admitted as evidence once properly authenticated, and circumstantial evidence may be used to authenticate.
+
+Facts
+Six individuals were convicted of violations of the Racketeer Influenced and Corrupt Organizations Act (RICO).  Logarusic, Defendant, challenges the admission of evidence linking him to an unindicted co-racketeer, Baresic.  A letter was discovered in Defendant’s home after his arrest during a search in which he consented.  The letter was addressed to Defendant and was signed by Baresic, and contained incriminating statements.
+
+Issue
+Was the letter properly admitted into evidence since it was authenticated by the circumstantial evidence?
+
+Held
+Justice Kaufman issued the opinion of the United States Second Circuit Court of Appeals and held that the letter was properly admitted.
+
+Discussion
+The letter was addressed to Defendant and postmarked from Asuncion, Paraguay, where Baresic resided.  The letter’s salutation addressed Defendant and ended signed by an alias of Baresic.  There were other references in the letter logically linking Defendant to Baresic.  Thus, the Court of Appeals found that there was enough evidence to determine that the letter was from Baresic to Defendant.
+

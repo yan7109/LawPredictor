@@ -1,0 +1,21 @@
+Citation
+603 A.2d 818 (Del. 1992)
+
+Brief Fact Summary
+Plaintiff, Alfred Roven, sought advancement of money from Defendant, Citadel Holding Corp., to cover legal expenses as outlined in his indemnification agreement with Defendant.
+
+Synopsis of Rule of Law
+An agreement between a corporation and its officer to advance an officer money to cover legal expenses that arise from his position with the company is independent of whether the company is required to indemnify the officer and is consistent with other statutory provisions.
+
+Facts
+Plaintiff served as the director of Defendant company from 1985 to 1988.  In 1987, Plaintiff requested, and Defendant agreed to, an amendment to strengthen his indemnification rights.  The amendment provided for an advancement to Plaintiff for legal expenses he may incur for litigation stemming from his position with the company.  Defendant brought an action under Section: 16(b) of the Securities Exchange Act after Plaintiff purchase shares of Defendant stock.  Plaintiff then sought an advance for the legal expenses, but Defendant refused, arguing that the indemnification agreement was not meant to include Section: 16(b) actions.  The trial court ruled that Defendant should advance Plaintiff the money but did not force Defendant to pay the accrued interest.
+
+Issue
+The issue is whether Defendant is required to advance Plaintiff for legal expenses incurred under the Section: 16(b) litigation.
+
+Held
+The Supreme Court of Delaware held that Defendant was required to advance Plaintiff the cost of the legal expenses, and is now responsible for the interest that has accrued.  The issue is not whether Defendant is indemnifying Plaintiff, but rather whether the agreement requires Defendant to advance the costs of Plaintiff’s attorney’s fees.  The plain language of the agreement does not exclude Section: 16(b) litigation.
+
+Discussion
+The court’s opinion is consistent with Waltuch v. Conticommoditiy Services, Inc. because the court is not demanding that Defendant indemnify Plaintiff
+

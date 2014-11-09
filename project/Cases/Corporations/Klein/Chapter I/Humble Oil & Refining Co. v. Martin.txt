@@ -1,0 +1,24 @@
+Citation
+421 U.S. 943, 95 S. Ct. 1670, 44 L. Ed. 2d 97 (1975)
+
+Brief Fact Summary
+Plaintiff, George Martin, brought an action against Defendants, Humble Oil & Refining Co. and A.C. Love, when Plaintiff and his children were hit from behind by Love’s car after she left it for Humble Oil to service.
+
+Synopsis of Rule of Law
+Determining whether a master-servant relationship exists, rather than an independent contractor relationship, is a question of fact that will be answered in the affirmative when the master exerts a considerable amount of control over the responsibilities of the servant.
+
+Facts
+Love left her car at a service station to get the brakes repaired.  The station was operated by W.T. Schneider through a “Commission Agency Agreement” with Humble.  Love did not correctly secure the car before handing control to the station, and the station did not check the car immediately to secure it.  Love’s car rolled downhill, out of the station lot and into Plaintiff’s property, striking Plaintiff and his two children.  Humble maintained that they were not liable because Schneider was an independent contractor.
+
+Issue
+The issue is whether Schneider is an independent contractor or whether a master-servant relationship exists between Humble and Schneider.
+
+Held
+A master-servant relationship exists between Humble and Schneider.  Humble maintained considerable control over Schneider by dictating several important aspects of Schneider’s business.  Humble had significant financial control and supervision, rendering Schneider’s station a retail marketing enterprise for Humble’s products.
+
+Dissent
+The dissent disagreed with the court’s decision to hold Love responsible for any damages since Love transferred control to the station.
+
+Discussion
+The court distinguished this case from other master-servant cases that were somewhat similar but illustrated more control by the servant over the operations.  This emphasizes the importance of providing a body of facts to establish the relationship.  The court will not allow a master to have it both ways: substantial control without any liability.
+

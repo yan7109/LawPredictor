@@ -1,0 +1,21 @@
+Citation
+22 Ill.21 Cal.4th 543, 87 Cal.Rptr.2d 886, 981 P.2d 978 (1999)
+
+Brief Fact Summary
+Plaintiffs contracted with Defendant, a general contractor, to build their dream home. After the rains came, it was discovered that the house was defective. There were leaks in every room and major structural problems. Plaintiffs brought suit for the full costs associated with repair of the home, and for emotional distress.
+
+Synopsis of Rule of Law
+Tort remedies are not available in breach of contract actions.
+
+Facts
+At trial of this matter, the court found that the Defendant had not acted with intent, and that he was not guilty of fraud and negligent misrepresentation. The trial court, however, did find that he breached his contract and he was assessed the cost of repairs on the house. Additionally, Plaintiffs were awarded damages for emotional distress. The Court of Appeals affirmed the judgment, noting in their opinion that a breach of contract action may support a tort claim as well. Defendant appealed.
+
+Issue
+Are tort remedies available in a breach of contract action, when a plaintiff can prove the elements of the tort?
+
+Held
+No. Reversed.
+
+Discussion
+As a general rule, tort remedies are not available in breach of contract actions. The exception to this rule is when the breaching party breaches an additional or special duty, or acts with intent and malice. In this case, Defendant was negligent, but he was not guilty of fraud and had no duty to insure that Plaintiffs’ emotional stability remained in the status quo.
+

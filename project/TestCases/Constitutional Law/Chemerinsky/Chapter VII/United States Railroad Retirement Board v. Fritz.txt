@@ -1,0 +1,24 @@
+Citation
+449 U.S. 166, 101 S. Ct. 453, 66 L. Ed. 2d 368, 1980 U.S.
+
+Brief Fact Summary
+The retirement fund for railroad employees originally provided a windfall for those who were eligible for social security and railroad benefits. But, in 1974, Congress determined that the system would be bankrupt by 1981 if it continued to pay the windfall. Therefore, legislation was enacted to reduce the costs and make the program financially viable.
+
+Synopsis of Rule of Law
+Congress needs just a rational basis for its social and economic legislation.
+
+Facts
+The original railroad retirement fund allowed workers who had worked for the railroad at some point in their careers to receive a pension, plus social security, plus a pension available from another employer. This created a windfall payment to retired railroad workers. In 1974, Congress became concerned that the system would be bankrupt if payments continued in this manner. So, it enacted the Railroad Retirement Act of 1974 that classified all railroad workers based on years of service and retirement status. Some of these individuals were allowed to continue to receive windfall payments, while others were limited to the lesser amount of the retirement fund or social security.
+
+Issue
+Was the classification of railroad workers by Congress arbitrary and irrational resulting in a violation of the Equal Protection Clause of the United States Constitution (Constitution)?
+
+Held
+No. Congress could properly determine that those who had acquired entitlement to the retirement benefits while still employed in the railroad industry had a greater equitable claim to those benefits than those who became eligible only once they qualified for social security benefits. The “current connection” test is not arbitrary and has been used before.
+
+Dissent
+Agrees that the proper test is the rational basis test, but insists that the actual original reason for the classification must be presented. It is improper to simply accept the reasons now provided by government attorneys.
+
+Discussion
+The majority shows that extreme deference is given to the legislature when analyzing social or economic acts. Any classification is presumed valid as long as there is some plausible reason for the act. The legislature never has to state the reasoning for a law under the rational basis test.
+

@@ -1,0 +1,27 @@
+Citation
+22 Ill.527 U.S. 41, 119 S. Ct. 1849, 144 L. Ed. 2d 67 (1999)
+
+Brief Fact Summary
+The Illinois Supreme Court held that Chicago’s Gang Congregation Ordinance was unconstitutionally vague and the Supreme Court of the United States granted certiorari.
+
+Synopsis of Rule of Law
+A law that directly prohibited gangs from loitering would not violate the due process clause, however, where an ordinance either fails to provide notice as to what behavior is prohibited or authorizes arbitrary and discriminatory enforcement, it may be invalidated as unconstitutionally vague.
+
+Facts
+The Chicago City Council enacted the Gang Congregation Ordinance which prohibits gang members from loitering with one another or with other persons in any public place. Commission of the offence involves four things: (1) The police officer must reasonably believe that at least one of the two or more loiterers is a gang member; (2) the persons must be loitering, which is defined as “remaining in any one place with no apparent purpose”; (3) the officer must order all of the persons to disperse; (4) a person must disobey the order. Any person who disobeys the order, regardless of whether he/she is a gang member, is guilty of violating the ordinance. The Illinois Supreme Court held the ordinance to be unconstitutionally vague and the Supreme Court of the United States granted certiorari.
+
+Issue
+Is the gang loitering ordinance impermissibly vague such that it violates the Due Process Clause of the Fourteenth Amendment of the United States Constitution?
+
+Held
+Yes. Judgment of the Illinois Supreme Court affirmed.
+
+Dissent
+The dissent construes the ordinance as penalizing a loiterer’s failure to obey a police officer’s order to move rather than penalizing the act of loitering. Therefore, as opposed to the majority view that the ordinance vests too much authority in the police, the dissent sees the ordinance as enabling police officers to carry out their authority to order groups of people who threaten the public peace to move. Furthermore, the dissent sees nothing vague about an order to disperse and therefore believes that the ordinance does afford notice consistent with the Due Process Clause.
+
+Concurrence
+The Illinois Supreme Court could have construed the gang ordinance more narrowly in order to avoid the vagueness problem and therefore, the concurring opinion points out the narrow application of the majority opinion.
+
+Discussion
+This case addresses the two aspects of legality that are embodied in the Due Process Clause: (a) notice & opportunity and (b) abuse of law enforcem
+

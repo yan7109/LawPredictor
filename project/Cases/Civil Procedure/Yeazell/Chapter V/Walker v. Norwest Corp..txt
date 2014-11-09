@@ -1,0 +1,24 @@
+Citation
+108 F.3d 159 (8th Cir. 1996)
+
+Brief Fact Summary
+Jimmy Lee Walker, III, his guardian, Cynthia Walker and their attorney James Harrison Massey appeal from the district court’s award of sanctions against Massey for filing a diversity case in which he failed to plead complete diversity of citizenship and pleaded facts which tended to show there was not complete diversity.
+
+Synopsis of Rule of Law
+Rule 11 does not require the court to identify diversity and allege citizenship for defendants.  The attorney representing the plaintiffs should identify citizenship of the defendants and establish diversity.
+
+Facts
+In a dispute over Jimmy Lee Walker, III’s trust fund, his guardian, Cynthia Walker and their attorney James Harrison Massey appeal from the district court’s award of sanctions against Massey for filing a diversity case in which he failed to plead complete diversity of citizenship and pleaded facts which tended to show there was not complete diversity.  Mr. Massey had not alleged a citizenship for many of the defendants and did not identify which defendants should be dismissed to create diversity jurisdiction.  Upon receiving the complaint the attorney for Norwest Corporation informs Mr. Massey that his complaint showed on its face that there was no diversity jurisdiction and asked him to dismiss or face sanctions.  Massey did not dismiss and merely acknowledged Norwest’s correspondence.
+
+Issue
+Whether Rule 11 requires the kind of “complicated, in-depth, and possibly impossible inquiry” that would have been necessary to determine the defendants’ citizenship before filing a complaint based on diversity of citizenship.
+
+Held
+This court affirmed the district court’s entry of Rule 11 sanctions which granted the Fed. R. Civ. P. 12(b)(1) motion to dismiss for lack of jurisdiction and sanctioned attorney Massey under Fed. R. Civ. P. 11, awarding $4,800 in fees and expenses.  The district court did not abuse its discretion in determining that Rule 11 sanctions were appropriate.
+
+Dissent
+
+
+Concurrence</span>   </br><span class="heading">Discussion
+Finding out the defendants’ citizenship is a burden the plaintiffs desire in order to invoke diversity jurisdiction.  Massey failed to show diversity and also failed to argue the point of Massey’s financial circumstances, allowing for an award of monetary sanctions- there was no abuse of discretion.
+

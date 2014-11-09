@@ -1,0 +1,21 @@
+Citation
+478 U.S. 833, 106 S. Ct. 3245, 92 L. Ed. 2d 675 (1986)
+
+Brief Fact Summary
+The Commodity Futures Trading Commission (CFTC) issued a regulation permitting itself to adjudicate counterclaims brought by brokers in reparations proceedings. Schor brought suit against his broker, who then filed a counterclaim against him. Schor then challenged the CFTC’s authority to adjudicate the counterclaim as violating Article III of the United States Constitution.
+
+Synopsis of Rule of Law
+Article III, Section:1 of the Constitution provides that the “judicial power of the United States shall be vested in one Supreme Court and in such inferior Courts as the Congress may from time to time ordain and establish.” However, Courts must apply the principle that “practical attention to substance rather than doctrinal reliance on formal categories should inform application of Article III.”
+
+Facts
+The Commodity Futures Trading Commission (CFTC) is an independent agency that enforces the Commodity Exchange Act (CEA). The CFTC was authorized to adjudicate claims for damages, or reparations, brought by customers of brokers for brokers’ violations of the CEA or CFTC regulations. The CFTC also issued a regulation permitting itself to adjudicate counterclaims brought by brokers in reparations proceedings. Schor sued his broker, ContiCommodity Services of America (Conti), claiming it was responsible for the negative balance in his trading account with Conti. Conti counterclaimed, and the CFTC ruled in its favor. Schor then questioned the CFTC’s authority to adjudicate the counterclaim, and the agency rejected the challenge. The Court of Appeals reversed.
+
+Issue
+Did CFTC’s assumption of jurisdiction over common law counterclaims violate the Constitution?
+
+Held
+No. The limited jurisdiction that CFTC asserts over state law claims as a necessary incident to the adjudication of federal claims willingly submitted by the parties for initial agency adjudication does not contravene separation of powers principles or Article III. The CFTC’s powers departed from the traditional agency model only in respect to its ability to adjudicate counterclaims arising from the same transaction. This did not impermissibly intrude on the providence of the judiciary.  Dissent. Article III, Section: I seems to prohibit the vesting of any judicial functions in the Legislative and Executive branches, but the court has recognized three narrow exceptions: territorial courts, courts-martial, and courts that adjudicate certain disputes concerning public rights. The judicial authority of non-Article III federal tribunals should be limited to these few, long-established exceptions.  Concurrence. None.
+
+Discussion
+The CFTC’s assertion of common law counterclaims is incidental to, and dependent upon, adjudication of reparations claims created by federal law, so any intrusion on the Judicial Branch is de minimus.
+

@@ -1,0 +1,21 @@
+Citation
+Ill. App. Ct., 586 N.E.2d 661 (1991)
+
+Brief Fact Summary
+A director usurped a corporate opportunity of Ebro Foods, Inc. Abreu (P) filed a shareholder’s derivative action which resulted in the court’s removal of one of Ebro Inc.’s directors and the appointment of a provisional director to stabilize the factions.
+
+Synopsis of Rule of Law
+The court may appoint provisional directors and retain jurisdiction as an alternative to judicial dissolution of the corporation.
+
+Facts
+Abreu (P) held half interest and presidency of Ebro Foods, Inc. Ralph (D) and William Steinbarth (D) held the other half interest via La Preferida, Inc. (D). They were also owners and directors of Unica Industrial Sales, Inc (Unica) (D), which distributed Ebro products. Abreu (P) filed suit against usurping. The court found that Ralph (D) created Unica (D) to directly compete with Ebro and removed him as a director. Abreu (P) was awarded monetary and injunctive relief. The court also appointed Vega, Abreu’s (P) son in law as a provisional director to break deadlocks between the directors. The Steinbarths (D) appealed Vega’s appointment.
+
+Issue
+May the court appoint provisional directors and retain jurisdiction as an alternative to judicial dissolution of the corporation?
+
+Held
+(Greiman, J.) Yes. The court may appoint provisional directors and retain jurisdiction as an alternative to judicial dissolution of the corporation. In making the appointment of a provisional director, only the best interests of the corporation are considered even if it means appointing a director with biases. No findings were made that Vega’s actions oppressed or excluded La Preferida from participating in Ebro’s management. However, Vega’s unilateral decision to hire a new auditor and his method of approval of Abreu’s (P) attorney fees are not conisistent with the duties instructed to him by the trial court, which is to vote in matters of dead lock. Affirmed in part, reversed in part, and remanded.
+
+Discussion
+The court used Statute 12.55(b) of the Illinois Business Corporation Act (IBCA) when appointing the new director. Illinois’s statute unlike other state statutes requires no impartial director to be appointed. In considering a provisional director, other factors such as quality of past involvement in the corporation, need for an immediate appointment, and the candidate’s interest in the well being of the corporation should all be considered in appointments
+

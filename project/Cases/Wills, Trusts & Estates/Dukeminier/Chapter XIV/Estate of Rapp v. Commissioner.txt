@@ -1,0 +1,21 @@
+Citation
+140 F.3d 1211,1998 U.S. App.98-1 U.S. Tax Cas. (CCH) P60,304; 81 A.F.T.R.2d (RIA) 1151
+
+Brief Fact Summary
+Mr. Bet Rapp died in February 1988 survived by his wife Laura Rapp, and two children, Richard and David Rapp.  Laura Rapp petitioned the probate court to reform the trust in her husband’s will so that it would qualify as a “qualified terminable interest property,” (hereinafter “QTIP”) trust.  The probate court reformed the will and the tax court held the reformation was improper and that the trust property is a part of the decedent’s estate.
+
+Synopsis of Rule of Law
+The value of property passed directly from a testator to a surviving spouse is deducted before computing federal estate taxes.  If the interest passing to the spouse consists only of a life estate or other terminable interest, the value of that interest is not deducted when determining the tax owed.  If the terminable interest qualifies as a QTIP, the surviving spouse can elect the marital deduction as if the interest passed directly and without restraint to him or her.  A probate court decision may be ignored when determining federal tax consequences if the decision is contrary to state law, even when that order is final.
+
+Facts
+Rapp’s will included a trust that gave the trustees power to use the funds for the proper health, education, and support of his wife Laura B. Rapp, if in the absolute discretion of the trustee such funds were needed.  Mrs. Rapp asked the probate court to modify this portion of her husband’s will so that the trust created by the will would qualify for the marital deduction as a QTIP trust.  Rapp alleged that it was her husband’s intent to create the trust to qualify for the deduction and that he believed that the trustees would pay all of the income of the trust at least annually to or for the benefit of the petitioner during her lifetime.  She claimed that the trust was a part of the marital deduction gift as defined by section 21520(b) of the California Probate Code.  At oral argument, no witnesses were called and no documents were admitted into evidence.  The IRS did not receive notice of the petition and did not appear.  The petition relied upon the probate’s power to modif
+
+Issue
+Whether the California probate court’s reformation of the will is binding on a tax court for the purpose of determining the amount of federal estate taxes if the California Supreme Court did not decide the matter nor affirm the result?
+
+Held
+No.  The California probate court’s reformation is not binding because the issue before the state court is a federal issue.  The state court proceedings were brought for the purpose of directly affecting federal estate tax liability.  Mrs. Rapp sought to modify the testamentary trust so that it would qualify as a QTIP trust under federal estate tax laws.  Without a decision by the California Supreme Court, the probate court’s reformation was not binding on the tax court.  The tax court was not bound by the California probate court’s reformation of Mr. Rapp’s will.
+
+Discussion
+The reformation of the probate court was not binding because the petitioner attempted to have the trust qualify as a QTIP trust for a federal estate tax exemption.  Also, the IRS was not given proper notice to appear for trial.
+

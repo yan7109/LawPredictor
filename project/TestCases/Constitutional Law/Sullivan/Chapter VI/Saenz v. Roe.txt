@@ -1,0 +1,24 @@
+Citation
+526 U.S. 489,119 S. Ct. 1518,143 L. Ed. 2d 689,1999 U.S.
+
+Brief Fact Summary
+A statute limiting the maximum welfare benefits available to newly arrived citizens was held by the Supreme Court of the United States to violate the right to travel implicit in the Privileges and Immunities Clause of the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+A newly arrived citizen of a state has the same privileges and immunities (including welfare benefits) enjoyed by other citizens of the same state.
+
+Facts
+In 1992, the California legislature enacted a statute that limited the maximum welfare benefits available to newly arrived residents. The statute limited the amount payable to a family that has resided in California for less than one year to the amount payable by the state where the family had previously lived. The Plaintiffs successfully challenged the validity of the statute. The District Court concluded that the statute placed “a penalty” on residents choosing to move to California. In 1996, Congress passed the Personal Responsibility and Work Opportunity Relocation Act that authorizes any state that receives a block welfare grant to “apply to a family the rules of a welfare program of another state if the family has moved to the state from another state and has resided in the new state for less than one year.” The District Court concluded that the existence of the federal statute did not affect the legal analysis of its opinion. The Court of Appeals affirmed.
+
+Issue
+Whether a newly arrived citizen has a right to the same privileges and immunities enjoyed by other citizens of the same state.
+
+Held
+Yes. Judgment of the Court of Appeals affirmed. The “right to travel” embraces at least three different components: the right of a citizen of one state to enter and leave another state; the right to be treated as a welcome visitor; and the right to be treated like other citizens of that state once a person elects to become permanent resident. Citizens of the United States, whether rich or poor, have the right to choose to be citizens “of the state wherein they reside,” but the states do not have any right to select their citizens. Thus, the statute here violates the right to be treated like other citizens of that state once a person elects to become a permanent resident by limiting amounts payable to new welfare benefits recipients within the state.
+
+Dissent
+The right to travel ends once a person makes his home in the state. The durational residence requirement is a permissible exercise of the state’s power to “assure that services provided for its residents are enjoyed only by residents.”
+
+Discussion
+The right to travel is not an Equal Protection fundamental right, but rather a Privileges and Immunities right found in the Fourteenth Amendment.
+

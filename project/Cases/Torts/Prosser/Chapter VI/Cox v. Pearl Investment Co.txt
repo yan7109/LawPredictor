@@ -1,0 +1,21 @@
+Citation
+168 Colo. 67, 450 P.2d 60 (1969).
+
+Brief Fact Summary
+The Plaintiffs, Mr. and Mrs. Fox (Plaintiffs) sued the Defendant, Pearl Investment Company, (Defendant) for injuries sustained when Mrs. Cox fell on property owned by Defendant. At trial, it was shown that the tenant of the property had paid the Plaintiffs in exchange for a covenant not to sue. The trial court found in favor of the Defendant on a summary judgment motion based on the covenant not to sue.
+
+Synopsis of Rule of Law
+The court will look to the intent of the parties to the contract when determining if a covenant not to sue releases all tortfeasors who may have liability.
+
+Facts
+Plaintiffs sought recover for injuries sustained when Mrs. Cox fell on property owned by the Defendant. At trial, it was shown that the tenant, Goodwill Industries, had previously paid Plaintiffs $2,500 in consideration of plaintiffs’ execution of a Covenant Not to Proceed with Suit. The trial court found in favor of Defendant on a motion for summary judgment based on the common law rule that the release of one tortfeasor releases all others who may have liability.
+
+Issue
+Does a covenant not to sue release all other tortfeasors who may have liability, regardless of the wording of the covenant?
+
+Held
+No. Judgment reversed and cause remanded.
+
+Discussion
+Under a covenant not to sue the right to sue is retained, but there is an agreement not to enforce it. If the plaintiff sues, the defendant has a counterclaim for breach of covenant.
+

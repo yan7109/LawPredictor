@@ -1,0 +1,21 @@
+Citation
+538 U.S. 1055
+
+Brief Fact Summary
+The wife of the defendant, Carlson (the “defendant”), made certain statements in the presence of the police.  After those statements were made, the defendant shook his head back and forth.
+
+Synopsis of Rule of Law
+“[D]efendant’s nonverbal reaction is so ambiguous that it cannot reasonably be deemed sufficient to establish that any particular interpretation, consistent with the trial judge’s ruling, is more probably correct.”  Accordingly, “there was insufficient evidence to find that the defendant intended to adopt, agree with, or approve the contents of his wife’s accusatory statement.”
+
+Facts
+Officer Lewis was dispatched to an apartment in response to a report of a domestic dispute between the defendant and his wife Lisa.  Officer Lewis thought Lisa was coming down off of methamphetamine.  Officer Lewis asked Lisa whether there was methamphetamine in the house and Lisa said the defendant probably took it all, but go ahead and look around because “I don’t care anymore”.  Officer Lewis found traces of methamphetamine.  Shortly thereafter, Officer Lewis accompanied by a second officer, confronted the defendant in the parking lot of the apartment complex.  Officer Lewis noticed needle marks on the defendant’s arms.  Without advising the defendant of his constitutional rights, Office Lewis asked him about the needle marks and the defendant answered “Yeah, I got a few tracks”.  The defendant then changed his story and said he received them from working on a car.  Lisa overheard the conversation and stated “[y]ou liar, you got them from shooting up in the bedroom with all
+
+Issue
+“Whether the intent to adopt, agree or approve is a preliminary question of fact for the trial judge to decide under of Section:104(1) of the Oregon Evidence Code (”OEC”), or a question of relevancy under Section:104(2) of the OEC?
+
+Held
+The court concludes that the intent to adopt, agree or approve is a preliminary question of fact for the trial judge to decide under of Section:104(1) of the OEC.  The court relies on the wording of the statute, the Legislative Commentary behind the statute, and how Rule 104 “divides the determination of preliminary facts between judge and jury along the rough line between ‘competence’ and ‘relevance’ ” The court then observes that the issue facing it is one of competency.  The court also found that its conclusion furthers “an important legal policy of preventing the trier of fact from considering the possible truthfulness of out-of-court statements, unless the statements have sufficient guarantees of trustworthiness.”
+
+Discussion
+“The purpose of the hearsay rule is to guard against the risks of misperception, misrecollection, misstatement, and insincerity, which are associated with statements of persons made out of court.  Safeguards in the trial procedure, such as the immediate cross-examination of the witness and the opportunity of the trier of fact to observe the demeanor of the witness who swears or affirms under the penalty of perjury to tell the truth, are designed to reduce these risks.”
+

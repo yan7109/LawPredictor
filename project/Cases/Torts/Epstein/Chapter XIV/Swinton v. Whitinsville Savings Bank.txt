@@ -1,0 +1,21 @@
+Citation
+311 Mass. 677, 42 N.E.2d 808 (1942)
+
+Brief Fact Summary
+Plaintiff brought suit after he bought a house from Defendant, which was later found to be infested by termites.
+
+Synopsis of Rule of Law
+This case fails to extend tort liability for nondisclosure in a contract situation.
+
+Facts
+Plaintiff bought a house from Defendant, which he intended to occupy with his family. After learning the house was infested by termites, Plaintiff brought suit based on nondisclosure, claiming that Defendant breached its duty to Plaintiff when it knowingly failed to disclose the condition of the property. Plaintiff sought damages in tort, based on a duty-breach negligence standard. The lower court demurred Plaintiff’s declaration, and Plaintiff appealed.
+
+Issue
+This case considers whether nondisclosure in a contractual situation can also lead to tort damages.
+
+Held
+Affirmed.
+
+Discussion
+While a seller is contractually obligated to disclose non-apparent defects, he may not be held liable, in tort, for nondisclosure, without a showing of malice.
+

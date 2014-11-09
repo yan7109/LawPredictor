@@ -1,0 +1,21 @@
+Citation
+789 F.2d 589, 1986 U.S. App. 24754
+
+Brief Fact Summary
+Plaintiff, Car Carriers, Inc. et al., brought a federal antitrust claim and state claims against Defendants, Ford Motor Company et al.  After the antitrust claim was dismissed with prejudice, Plaintiffs brought a second set of federal and state claims.
+
+Synopsis of Rule of Law
+The courts will apply the res judicata doctrine to prohibit a second filing when the second action arises from the same transaction that the first filing arises from.
+
+Facts
+Plaintiffs were car carriers that moved cars at some point for Defendant Ford.  Plaintiffs alleged that Ford worked with the other Defendants in harming Plaintiffs by first forcing Plaintiffs to upgrade their operations with the promise of higher payment by Ford, and then never providing the higher payments once the upgrades have been completed.  Ford also prevented Plaintiffs from merging or acquiring other carrier companies.  Finally, Ford solicited bids for work which allowed Defendant Nu-Car to put in a predatory bid and undercut Plaintiffs.  Plaintiffs then filed a federal antitrust claim against Defendants as well as some state claims.  The district court dismissed the antitrust claim with prejudice because the harm complained of is not the type that antitrust law was designed to prevent.  The court dismissed the suit since the antitrust claim was the only federal claim.  Plaintiffs then refiled in federal court with state claims as well as federal racketeering claims.
+
+Issue
+The issue is whether Plaintiffs’ suit is barred under the doctrine of res judicata.
+
+Held
+The doctrine of res judicata does bar Plaintiffs’ second set of federal racketeering claims.  The court explained the importance of the doctrine as ensuring that all litigation arising from a set of facts is litigated in one case to ensure that the litigation does not tie up the courts and parties are able to rely on a finality of the litigation.  This is why Rule 13(a) of the Federal Rules of Civil Procedure requires Defendants to submit all counterclaims at the same time.  Plaintiffs can not rely on the new production of facts either, because the understanding is that they would have finished their homework prior to filing their case.  Once the court affirmed the transactional test, they applied it to this case and affirmed that the antitrust and racketeering actions relied on the same fact situation.
+
+Discussion
+The court did not accept right-duty test and said there was a reason that most courts follow the same transaction test as it better protects the concerns that are at the root of res judicata.
+

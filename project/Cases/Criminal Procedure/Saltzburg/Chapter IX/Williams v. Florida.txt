@@ -1,0 +1,24 @@
+Citation
+399 U.S. 78, 90 S. Ct. 1893, 26 L. Ed. 2d 446, 1970 U.S.
+
+Brief Fact Summary
+Petitioner, Williams, appealed from an action denying him relief from a Florida statute which required he divulge information regarding his alibi prior to trial, on the grounds that it was testimony in violation of his Fifth Amendment rights.
+
+Synopsis of Rule of Law
+Information requested in pretrial discovery is not considered testimony under the Fifth Amendment.
+
+Facts
+Prior to being tried for robbery, Petitioner filed a Motion for Protective Order, seeking to be excused from 1.200 of the Florida Rules of Criminal Procedure, which required him to give up his alibi to prosecutors prior to trial.  Petitioner felt this rule to be in violation to his Fifth Amendment right against self-incrimination because he was being forced to give evidence to the prosecution prior to trial and giving them an opportunity to determine whether his story was accurate.  Thus he was being made to testify by way of the divulged information.  Petitioner’s Motion was denied and he went forth with trial.  Petitioner went on to appeal.
+
+Issue
+Whether a defendant can refuse to participate in pre-trial discovery, construing it as testimony under the Fifth Amendment’s prohibition against self-incrimination.
+
+Held
+Pre-Trial discovery is not testimony in the sense of the Fifth Amendment, and a defendant must participate if he intends to use evidence that is to be discovered at trial.
+
+Dissent
+Justice Black, for the dissent, argues that by requiring a defendant to plead “alibi” before the trial of a case forces him to give the prosecution an unfair advantage.
+
+Discussion
+Pre-trial discovery, while considered as testimony in the context of a deposition, is not testimonial insofar as divulging required information.
+

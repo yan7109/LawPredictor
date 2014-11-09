@@ -1,0 +1,21 @@
+Citation
+211 U.S. 149, 29 S. Ct. 42, 53 L. Ed. 126, 1908 U.S. 1533
+
+Brief Fact Summary
+Defendants, the Mottleys, were issued a free lifetime pass for use on the Louisville and Nashville Railroad. Several decades later, Defendants sued Plaintiff Louisville for refusing to honor the free pass pursuant to an act of Congress making free passes unlawful.
+
+Synopsis of Rule of Law
+Subject matter jurisdiction, based on a suit arising under the Constitution and laws of the United States is established only when the plaintiff’s statement of his own cause of action shows that it is based upon those laws or the Constitution.
+
+Facts
+Defendants were injured in a railway accident. To settle their claims, Plaintiffs, in 1871 gave them a lifetime pass for free transportation on the line.  Several decades later Congress made free passes unlawful. Plaintiffs therefore refused to honor the Defendant’s passes, citing the new federal legislation.  Defendants sued in federal court seeking specific performance of the contract.  The trial court ruled in favor of the Defendants and this appeal followed.
+
+Issue
+Whether federal question jurisdiction is established where the only reference to federal law in the complaint is the plaintiff’s allegation of what he anticipates will be the defense to his cause of action.
+
+Held
+No. The judgment of the trial court was reversed and the case was remanded to the circuit court with instructions to dismiss for want of jurisdiction.
+
+Discussion
+There are two ways to establish federal court subject matter jurisdiction. One is through diversity of jurisdiction. The other is federal question jurisdiction, i.e. the complaint must allege some violation of Constitution or some federal statute. Although the court found that the defendant’s allegations show that in the course of litigation a question under the United States Constitution would arise, this did not satisfy the court’s requirement for federal question jurisdiction that the plaintiff’s original cause of action arise under the Constitution.
+

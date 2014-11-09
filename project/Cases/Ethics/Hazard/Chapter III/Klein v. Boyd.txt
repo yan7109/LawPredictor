@@ -1,0 +1,21 @@
+Citation
+527 F.3d 299
+
+Brief Fact Summary
+Following the failure of a limited partnership, four investors in the partnership are bringing suit against the partnership’s law firm, asserting violations of Section:10b-5 and RICO as well as fraud for the firm’s part in knowingly omitting key facts about the partnership.
+
+Synopsis of Rule of Law
+Lawyers may become primary violators in securities cases if they knowingly assisted in the creation of false or misleading documents which they knew would be relied upon by investors.
+
+Facts
+Drinker, Biddle & Reath (”Drinker”) was retained by William Coleman to assist in the formation and management of a new business entity, known as Mercer LP. Partner Robert Strouse, the attorney assuming responsible for the oversight of Mercer’s interests, became aware of Coleman’s long history of securities fraud and other serious violations, and prepared a disclosure letter to be read and signed by all of the partership’s investors that carefully outlined Coleman’s background. Although Coleman did not deliver it to all of the investors, Strouse only advised that it should be and continued the representation. When Plaintiffs-who never received the original letter-renewed their investment in November 1993, Strouse prepared another disclosure letter which purposely omitted the information regarding Coleman’s history. The partnership subsequently collapsed due to fraud and mismanagement, and the investors are now attempting to reclaim their money.
+
+Issue
+May a lawyer be held primarily liable to an investor for his part in knowingly assisting a corporate client to prepare a fraudulent securities document?
+
+Held
+Yes. Even though the firm never endorsed or signed the documents in such a way that the investors would have been aware of its part in the fraud, they are liable to the investors for their actions. (The RICO claim is dismissed due to the law firm’s lack of participation in the operation or management of the partnership.) The following test was used:
+
+Discussion
+This test was later adopted by the 10th Circuit to determine primary violators in the Enron litigation.
+

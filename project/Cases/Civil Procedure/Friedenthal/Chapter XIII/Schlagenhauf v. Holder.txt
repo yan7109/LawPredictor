@@ -1,0 +1,24 @@
+Citation
+22 Ill.375 U.S. 983, 84 S. Ct. 516, 11 L. Ed. 2d 471 (1964)
+
+Brief Fact Summary
+The Petitioner, Schlagenhauf (Petitioner), was one of several named defendants in a negligence lawsuit stemming from a bus and tractor-trailer collision brought by passengers of a Greyhound bus, of which Petitioner was the driver. One of the other defendants, the owner of the trailer, moved to have mental and physical examinations done on Petitioner whose negligence, they claimed, caused the accident.
+
+Synopsis of Rule of Law
+Federal Rules of Civil Procedure (FRCP) Rule 35 allows a movant to compel mental and physical examinations for party-opponents as well as persons under their legal control through a showing of good cause and when a person’s physical or mental condition is at issue.
+
+Facts
+A Greyhound bus and tractor-trailer were involved in an accident. Petitioner was driving the bus at the time and was consequently sued by the passengers, as were Greyhound and the owners of the tractor (Contract Carriers, Inc.) and the trailer (National Lead Company). Greyhound cross-claimed against Contract Carriers and National Lead for damages sustained to the bus, alleging the accident was caused due to their negligence. In its answer, Contract Carriers asserted the accident was due to the negligence of the Petitioner. Contract Carriers and National Lead petitioned the District Court for an order to have Petitioner submit to physical and mental exams. Nine physicians’ names were submitted to give the District Court a choice of specialists. The petition, based on the allegations in Contract Carriers’ answer, alleged that Petitioner’s mental and physical condition were at issue. National Lead then filed its own answer to Greyhound’s cross-claim. The District Court, on the ba
+
+Issue
+Whether application of FRCP Rule 35 to a defendant would be an unconstitutional invasion of his privacy.
+
+Held
+Vacated and remanded.
+
+Dissent
+United States Supreme Court Justice Douglas (J. Douglas) dissented and thought FRCP Rule 35 should not be applicable to defendants as the guidelines are unfair to defendants in lawsuits such as this.
+
+Discussion
+Petitions made on a showing of good cause in cases where a party’s physical or mental conditions are in controversy are justifiable. The person to be submitted to such examinations may be a plaintiff, defendant, or any other person under the legal control of these parties.
+

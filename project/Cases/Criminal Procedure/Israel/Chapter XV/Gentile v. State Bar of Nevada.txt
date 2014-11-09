@@ -1,0 +1,24 @@
+Citation
+501 U.S. 1030, 111 S. Ct. 2720, 115 L. Ed. 2d 888 (1991)
+
+Brief Fact Summary
+The attorney for a man accused of theft made certain remarks against the police that violated Nevada’s Supreme Court rules.
+
+Synopsis of Rule of Law
+In considering statements under Trial Publicity rules, the court must “examine for [itself] the statements in issue and the circumstances under which they were made to see whether or not they do carry a threat of clear and present danger to the impartiality and good order of the courts or whether they are of a character which the principles of the First Amendment.”
+
+Facts
+When money and used by the Las Vegas Police Department in stings went missing from its safety deposit box, suspicion immediately went to the owner of the vault, Sanders.  Suspicion also fell on two detectives who were eventually cleared.  Sanders was indicted.  His attorney, Petitioner Gentile, issued a statement that impugned the integrity of the investigating officers and the detectives that had been cleared.  He also implied that other evidence existed that incriminated the police officers.  Sanders was later acquitted.  A state disciplinary board then brought proceedings against Petitioner and concluded that he had violated Nevada Supreme Court Rule 177 on Trial Publicity.
+
+Issue
+[W]hether [Nevada Supreme Court Rule 177] is so imprecise that discriminatory enforcement is a real possibility,” and so violated the First Amendment.
+
+Held
+Yes.  The Supreme Court of the United States stated first that “nothing inherent in Nevada’s formulation fails First Amendment review,” but that the Nevada Supreme Court did not interpret the rule in conformance with either the “serious and imminent threat” or the “substantial likelihood of material prejudice” standards.  Moreover, the record did not show Petitioner had a bad motive; that his investigation of Rule 177 was adequate; that “much of the information provided by petitioner had been published in one form or another, obviating any potential for prejudice,” and; that “Petitioner’s judgment that no likelihood of material prejudice would result from his comments was vindicated by events at trial.”
+
+Dissent
+The dissenting justices took issue with the third part of the decision.  The statements Petitioner made about the possible corruption of one of the detectives, as Petitioner knew that the detective was to be a witness for the prosecution.
+
+Discussion
+“The prohibition against vague regulations of speech is based in part on the need to eliminate the impermissible risk of discriminatory enforcement.”
+

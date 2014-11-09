@@ -1,0 +1,21 @@
+Citation
+956 F.2d 309, 294 U.S. App. D.C. 23 (D.C. Cir. 1992)
+
+Brief Fact Summary
+Prior to 1988, States were required to inspect their highway bridges at least every two years. The Federal Highway Administration (FHA) then amended the regulations to authorize less frequent inspections in limited circumstances, and to require the inspection of bridges’ underwater support every five years. Two individuals and an organization (Appellants) devoted to highway safety challenged both provisions.
+
+Synopsis of Rule of Law
+APA Section:706(2)(A) forbids “arbitrary or capricious” agency action. Step 2 of the Chevron analysis requires courts to defer to affirm reasonable agency interpretations of statutes administered by the agencies.
+
+Facts
+The Secretary of Transportation delegated his responsibility under Title 23 USC Section:151 to establish “national bridge inspection standards” to the FHA. The FHA initially required bridge inspections every two years, but then amended the regulations to authorize less frequent inspections in limited circumstances, and to require the inspection of bridges’ underwater support every five years.  The Appellants sought injunction and declaratory relief in the District Court, claiming that the availability of exemptions from the general two-year inspection rule violated Section:151(b)(2); and that both the exemption provision and the five-year rule were promulgated arbitrarily and capriciously. The District Court granted summary judgment to the agency.
+
+Issue
+Did the FHWA violate its statutory obligation under Section:151(b)(2) to establish a maximum time between inspections?  Did the FHWA act arbitrarily and capriciously in promulgating either amendment?
+
+Held
+Affirmed in part and reversed in part.   FHWA’s rule allowing for exemptions from two year inspections under certain circumstances violated the Act’s Section:151(b)(2) requirement that it set a maximum time between inspections. The District Court erred in that it failed to find the regulation inconsistent with the statute. However, the rule was not enacted arbitrarily or capriciously because FHWA had the reasonable justification of providing states with greater flexibility and saving money on inspections to be put toward repairs instead.  The District Court correctly held that the FHA did not act arbitrarily and capriciously. The FHA lacked the sort of national database of information to    make a fully formed factual determination because underwater bridge inspections had been done so rarely in the past, and was forced to rely on policy considerations, rather than factual ones, in promulgating its standard. The agency did the best it could with what little information it had, and the arbitrary and capricious standard requires no more than that.   Dissent. None.  Concurrence. None.
+
+Discussion
+The Court applied Step 2 of Chevron, in looking at the reasonableness the FHA’s interpretations of the statute, as well as the “arbitrary or capricious” standard of the APA.
+

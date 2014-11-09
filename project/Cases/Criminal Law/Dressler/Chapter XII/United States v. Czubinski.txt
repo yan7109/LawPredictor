@@ -1,0 +1,21 @@
+Citation
+106 F.3d 1069, 1997 U.S. App. 3077, 97-2 U.S. Tax Cas. (CCH) P50,622; 79 A.F.T.R.2d (RIA) 1664.
+
+Brief Fact Summary
+The Defendant, Richard Czubinski (Defendant), appealed his jury conviction on nine counts of wire fraud and four counts of computer fraud in connection with his improper use of the Internal Revenue Service (IRS) computer database.
+
+Synopsis of Rule of Law
+To support a conviction for wire fraud, the government must prove: (1) the defendant’s knowing and willing participation in a scheme or artifice to defraud with the specific intent to defraud and (2) the use of interstate wire communications in furtherance of the scheme. Additionally, to be in violation of Section:1034(a)(4) of the Computer Fraud and Abuse Act (the Act), a defendant must be found to have knowingly and with the intent to defraud, accessed a Federal interest computer without authorization, or exceeded authorized access and by means of such conduct furthered the intended fraud and obtained anything of value.
+
+Facts
+The Defendant was employed as a contact service representative with the Boston office of the IRS. In his official duties, the Defendant would routinely answer taxpayer questions over the telephone. To perform those duties, the Defendant had access to the IRS computer database known as IDRS. That database contained personal income tax information regarding virtually every taxpayer. In 1992, the Defendant carried out numerous unauthorized searches of IDRS files. A government witness testified that the Defendant had told him at a social gathering that the Defendant intended to use the personal information obtained to build a database regarding local KKK members. The Defendant did not perform any unauthorized searches of the IDRS system after 1992. He was employed by the agency until his indictment in June of 1995.
+
+Issue
+Can the Defendant’s jury convictions on charges of wire and computer fraud stand?
+
+Held
+The jury convictions on counts of wire and computer fraud cannot stand.
+
+Discussion
+In the conclusion to the case, the First Circuit Court of Appeals noted that the computer and wire fraud statutes can be both a blessing and a curse. The court stated that the statutes can be used to halt fraudulent schemes in the very early inchoate stage. However, as happened in the case before the court, the statutes are often used to prosecute morally reprehensible behavior that is, nevertheless, not felonious.
+

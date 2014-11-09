@@ -1,0 +1,27 @@
+Citation
+11 F.3d 399 (3d Cir. 1993)
+
+Brief Fact Summary
+Plaintiff was hired by another company to help the defendant with investment banking. After being unsuccessful the company hired another company to complete the job. This led to a multi suit and multi party action.
+
+Synopsis of Rule of Law
+In order for a court to find a party is indispensible to the action, it must first find the party necessary to that action. The mere possibility that the first suit will affect another pending suit does make a party necessary or indispensible to the first suit.
+
+Facts
+Janney is an investment banking corporation who was hired by Underwood to advise Underwood and its subsidiaries and to assist them in obtaining private placement financing. One of the subsidiaries is Shepard Niles. A banking investment agreement was signed in January. By February it did not appear that Janney had any concrete results for Shepard Niles. So Underwood entered in negotiations with another company called UniBank. UniBank help Shepard receive financing. Janney alleges that they gave substantial advice to Underwood and Shepard, and thus deserved the fee under the agreement, Underwood disagreed. Janney filed a state action against Underwood and Shepard for lack of payment, and then filed another federal action against UniBank for tortious interferences with contractual relations. In the federal this suit Janney tried to join Shepard and the court denied the joinder. So then Janney filed a separate federal action against Shepard and Shepard contended that the case should be dismissed because Underwood is an indispensible party that was not joined to that action. The court agreed and dismissed that case, Janney appealed.
+
+Issue
+Whether the court could give complete relief to the parties without prejudices them or the absent party.
+
+Held
+Yes. Under 19 (b) in order for a court to find it can not give complete relief to the parties it must find the party is indispensible to the case. However before that can occur the court must find the party is necessary to the case under 19 (a). This court finds that Underwood was not necessary to the case. Under Rule 19(a) a party is necessary to the action if absence will create prejudices against the parties, or threaten the parties to duplicative and or inconsistent judgments. Here the court felt the district court erred in its decision that Underwood was a necessary party, and a party must be necessary before they can be considered indispensible. The district court makes the point that this action may be used for collateral estoppel grounds in the state action. The court states that the possibility that a decision in one case will affect another is not enough to consider the party to necessary to the case, actual collateral estoppel grounds must be shown. This case only affects Shepard who is jointly and severally liable for the contract. Shepard will be free to seek indemnity or contribution from Underwood whether in this suit or another.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+The initial reason the lower court made an indispensible argument is because under certain sections of 19a if joining a party will destroy diversity jurisdiction, as it would here, then the court must make sure the party is not indispensible to the suit. However this court felt the lower court relied to much on the issue of how this suit would
+

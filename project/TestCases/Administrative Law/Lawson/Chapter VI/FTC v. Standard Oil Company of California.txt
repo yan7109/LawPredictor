@@ -1,0 +1,21 @@
+Citation
+449 U.S. 232, 101 S. Ct. 488, 66 L. Ed. 2d 416 (1980)
+
+Brief Fact Summary
+The Federal Trade Commission (FTC) issued a complaint upon Standard Oil Company of California (Socal) averring that the Commission had “reason to believe” and Socal the company was violating Section:5 of the Federal Trade Commission Act (Act). Soscal filed a complaint in the District Court for the Northern District of California while administrative action was pending.
+
+Synopsis of Rule of Law
+Agency action must be final before it is reviewable by the courts.
+
+Facts
+The FTC’s complaint was issued under Section:5 of the Act, which authorized the Commission to serve its complaint and notice of a hearing if it had “reason to believe” the company was “using any unfair method of competition or unfair or deceptive act or practice in or affecting commerce.”  Soscal’s complaint in District Court alleged that the Commission had issued its complaint without having reason to believe Soscal was violating the Act. In short, Socal claimed that political pressure for a public explanation of the gasoline shortages of 1973 forced the Commission to issue a complaint against the major oil companies, despite insufficient investigation.  The District Court dismissed the complaint, but the Court of Appeals reversed.
+
+Issue
+Was the FTC’s issuance of a complaint upon the oil companies a “final agency action” subject to judicial review before the administrative adjudication concluded?
+
+Held
+No. Reversed and remanded for a dismissal of the complaint. Because the Commission’s issuance of a complaint averring reason to believe that Socal had violated the Act was not a “final agency action” under Section:10(c) of the APA, it was not judicially reviewable before administrative adjudication concluded.  Dissent. None.  Concurrence. The initiation of a complaint is not “agency action” within the meaning of APA Section:551.
+
+Discussion
+The Commission’s issuance of a complaint was not a definitive ruling or regulation. It had no legal force or practical effect upon Sosal’s daily operation of business, other than the disruptions that accompany any litigation. Immediate judicial review would have served neither efficiency nor enforcement of the Act.
+

@@ -1,0 +1,21 @@
+Citation
+293 F.3d 707, 2002 U.S. App. 1174563 U.S.P.Q.2D (BNA) 1389; Copy. L. Rep. (CCH) P28,446
+
+Brief Fact Summary
+Plaintiff, ALS Scan, Inc., was based in Maryland and brought an action for copyright infringement against a Georgia Defendant, Digital Service Consultants, Inc.  Defendant argued that Plaintiff could not establish personal jurisdiction over Defendant.
+
+Synopsis of Rule of Law
+A state has jurisdiction over a party when that party directs electronic activity within the state for the purpose of engaging in business, and that engagement would establish a cause of action for a person within the state.  Merely placing information on the internet that is viewable for all will not establish personal jurisdiction.
+
+Facts
+Defendant is an internet service provider used by a third party, Alternative Products, Inc.  Alternative Products put pictures on their site that were owned by Plaintiff, and they charged a fee to customers to view the pictures.  Plaintiff sued Defendant under Maryland state law because, as the internet service provider, Defendant enabled Alternative Products to post the copyrighted material and are therefore infringing as well.  Defendant argued that they are Georgia-based with no contacts within the state of Maryland that would traditionally establish personal jurisdiction with Maryland.  Plaintiff argued that by providing a service that allows people everywhere, including Maryland, to view content, personal jurisdiction was established.  The district court dismissed for lack of personal jurisdiction.
+
+Issue
+The issue is whether Plaintiff can establish personal jurisdiction over Defendant based upon Defendant’s placement of information on the internet.
+
+Held
+The court held that mere placement of information on the internet does not establish personal jurisdiction.  Personal jurisdiction can be established through electronic activity, but the activity must be placed within the state for the purpose of engaging in business, and the engagement would establish a cause of action for a Maryland entity.
+
+Discussion
+The court reasoned that if Plaintiff’s argument became the rule, it would effectively grant every state jurisdiction over nearly every case.  The court wanted to preserve the traditional limits of state’s judicial reach while still acknowledging the ability of electronic contacts to still establish the state jurisdiction.
+

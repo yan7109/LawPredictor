@@ -1,0 +1,21 @@
+Citation
+22 Ill.449 N.W.2d 139 (Minn. 1989)
+
+Brief Fact Summary
+Plaintiff and Defendant made a contract that included an arbitration clause. Plaintiff seeks to set aside the arbitration clause on the ground that there was fraud in the inducement of making the contract
+
+Synopsis of Rule of Law
+For an Arbitration clause to apply to a certain kind of dispute, it must either mention the kind of dispute it applies to or be broad enough to cover the kind of dispute at hand.
+
+Facts
+Plaintiff and Defendant made a contract with an arbitration clause. The clause provided that “[a]ny controversy or claim arising out of or relating to. . .the making [of this contract].” Plaintiff moved to have the arbitration clause revoked because it claimed the contract was induced by fraud and was, therefore, void.
+
+Issue
+May the arbitration clause be revoked?
+
+Held
+No
+
+Discussion
+This case turns on the fact that the contract was to be construed according to Minnesota law, which will favor arbitration if all arguments for and against are equal. Minnesota law provides that an arbitration clause will apply if the nature of the claim is mentioned in the clause or it is sufficiently broad to include the nature of the claim
+

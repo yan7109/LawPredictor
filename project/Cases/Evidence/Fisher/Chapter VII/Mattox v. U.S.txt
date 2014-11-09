@@ -1,0 +1,24 @@
+Citation
+534 U.S. 1032
+
+Brief Fact Summary
+John Mullen (Victim) was killed, and Mr. Mattox (Appellant) was convicted of his murder; that conviction was set aside and a second trial held.  At the second trial, the lower court allowed into evidence a court reporter’s notes that recorded the testimony of prosecution witnesses in the first trial who had since died, and disallowed Appellant to introduce, as impeachment evidence, testimony that the deceased witness had made statements contradicting his earlier testimony.  Appellant appeals here.
+
+Synopsis of Rule of Law
+When a defendant is convicted of murder and then has that conviction set aside and a new trial is held, a court reporter’s stenographic notes of the testimony of a prosecution witness made at the first trial may be properly read into evidence at the second, so long as the notes are properly verified; also, the Confrontation Clause is not violated by disallowing a defendant from introducing evidence offered to impeach a witness that has died since the trial.
+
+Facts
+Appellant was convicted of murder, but that conviction was set aside and a new trial ordered.  At the second trial, the prosecution sought to introduce the testimony of one of its witnesses from the first trial, but since that witness had died between the first trial and the second, the prosecution offered the record kept by the stenographer from the first trial.  Over Appellant’s objection, the lower court allowed the evidence.
+
+Issues
+Was it error for the lower court to allow into evidence the court reporter’s record of the testimony of witnesses who were deceased at the time of Appellant’s trial? Was it error for the lower court to exclude the evidence offered by Appellant for the purpose of impeaching one of the deceased witnesses?
+
+Held
+Affirmed.
+
+Dissent
+Justices Shiras (writing), Gray, and White dissent.
+
+Discussion
+As to the first issue, whether the lower court should have allowed into evidence the court reporter’s record, the Court looked to the purpose of the Confrontation Clause, and reasoned that: The primary object of the [Confrontation Clause] was to prevent depositions or ex parte affidavits . . . being used against the prisoner in lieu of a personal examination and cross-examination of the witness in which the accused has an opportunity . . . of compelling him to stand face to face with the jury in order that they may look at him, and judge by his demeanor upon the stand and the manner in which he  gives his testimony whether he is worthy of belief. The Court concluded, “[t]o say that a criminal, after having once been convicted by the testimony of a certain witness, should go scot [sic] free simply because death has closed the mouth of that witness, would be carrying his constitutional protection to an unwarrantable extent.” As to the second issue, whether it was error for the lower court to exclude the evidence offered by Appellant for the purpose of impeaching one of the deceased witnesses, the Court again looks to the practical effect of its holding, and states that while its holding: may work an occasional hardship by depriving the party of the opportunity of proving the contradictory statements, a relaxation of the rule in such cases would offer a temptation to perjury, and the fabrication of testimony, which, in criminal cases especially, would be almost irresistible.  If it were generally understood that the death of a witness opened the door to the opposite party to prove that he had made statements conflicting with his testimony, the history of criminal trials leads one to believe that witnesses would be forthcoming with painful frequency to make the desired proof.
+

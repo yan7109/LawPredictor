@@ -1,0 +1,24 @@
+Citation
+535 U.S. 1080
+
+Brief Fact Summary
+Petitioner, Green, was convicted of the rape and murder of Teresa Carol Allen.  During the sentencing phase, Petitioner attempted to admit testimony from a witness who was told by a second man that he alone killed Allen.
+
+Synopsis of Rule of Law
+A state evidentiary rule can not violate a defendant’s right to due process under the Fourteenth Amendment to the United States Constitution.
+
+Facts
+Petitioner was convicted of the rape and murder of Allen.  A second man, Carzell Moore, was already convicted of the same charges and sentenced to death.  During Moore’s trial, a witness, Thomas Pasby, testified that Moore confessed to killing Allen while Petitioner was away on an errand.  Petitioner attempted to introduce Pasby’s testimony during his sentencing phase to avoid a death sentence.  The trial court denied the request, citing state evidentiary hearsay rules that only allow statements against pecuniary interests.
+
+Issue
+The issue is whether the states narrow evidentiary rules that does not allow declarations against penal interests violates Defendant’s due process.
+
+Held
+The United States Supreme Court held that the state’s evidentiary rules can not restrict a defendant’s rights under the Fourteenth Amendment.  Here the evidence was highly relevant to the severity of the punishment, and the source is reliable.  Pasby is a close friend of Moore, and he made the statement shortly after the murder.  The evidence was also deemed reliable enough to present at Moore’s own trial.
+
+Dissent
+Justice William Rehnquist dissented on the grounds that the Court has no power to override state evidentiary rules.  Rehnquist believes that the Court is simply trying to justify their reversal of a case that had an unjust outcome through the lower courts.
+
+Discussion
+The Court notes that the same evidence could come in against one defendant and therefore it should come in against another.  They do not go so far as to say that that would be a determining factor.  The test is still how relevant and reliable the evidence is before it is admissi
+

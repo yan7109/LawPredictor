@@ -1,0 +1,21 @@
+Citation
+18 N.C. 371, 1835 N.C.
+
+Brief Fact Summary
+Defendant entered Plaintiff’s land to perform a survey, but did not mark trees or cut timber. Plaintiff sued for trespass. The trial court instructed the jury that no trespass had occurred and the jury found for Defendant.
+
+Synopsis of Rule of Law
+Every unauthorized entry upon another’s land qualifies as a trespass, regardless of the degree of damage done in the process.
+
+Facts
+Defendant and his survey team entered Plaintiff’s land for the purpose of conducting a survey. Defendant and his team did not do any damage to or mark the trees or shrubbery upon the property. Plaintiff sued Defendant for trespass. The trial court instructed the jury that no damage had been inflicted and thus no trespass occurred. The jury returned a verdict for Defendant.
+
+Issue
+Did the Trial Court properly instruct the jury that no trespass had occurred because there was no palpable damage to the land?
+
+Held
+No. The case was reversed for a new trial. The actions taken upon the land and the effects of those actions are relevant in calculating damages, but the entry upon another’s land without authorization always qualifies as a trespass.
+
+Discussion
+This case demonstrates the distinction between liability and damages in tort. Although the Court acknowledges that the actual damages suffered by the Plaintiff were probably minimal, this has no bearing upon whether a trespass was committed in the first place. The Court also noted that the law infers some damage results from such a wrong, and will grant it once liability is proven.
+

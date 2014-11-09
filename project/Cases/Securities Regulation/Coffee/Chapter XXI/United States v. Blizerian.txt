@@ -1,0 +1,21 @@
+Citation
+926 F.2d 1285 (2d Cir. 1991)
+
+Brief Fact Summary
+Without waiving his attorney-client privilege, Bilzerian (Defendant) argued that he should be permitted to testify with regard to his subjective belief as to the legality of specific stock transactions.
+
+Synopsis of Rule of Law
+Attorney-client privilege may be waived when a person testifies regarding his subjectivebelief as to the legality of a transaction.
+
+Facts
+Engaging in questionable transactions with publically traded shares in four various corporations, Bilzerianparticipated specifically in fraudulent secret amassing of stock and misrepresenting particular purchases. He was indicted on multiple counts of stock fraud and just before trial, he moved for permission to testify in regard to his subjective belief in the legality of the transactions without being cross-examined about discussions he and his attorney had on the subject. The motion was denied, and Bilzerian decided not to testify about his claimed good faith. Convicted, he appealed, arguing he had been denied the constitutional right to deny a component of the charge brought against him.
+
+Issue
+May attorney-client privilege be waived when a person testifies regarding his subjective belief as to the legality of a transaction?
+
+Held
+(Cardamone, J.) Yes.Attorney-client privilege may be waived when a person testifies regarding his subjective belief as to the legality of a transaction. Realizing the significance of free and full communication betwixt a client and attorney, the law allows otherwise pertinent evidence to be omitted with regard to such communications. A defendant may not use this privileged as a weapon, prejudicing his opponent’s case or, for self-serving reasons, to reveal some communications.  An allegation, in fairness, proclaiming required questioning into attorney-client communications will get the inquiry requested. In this case, Bilzerian sought to allege a good faith defense but was not permitted to be questioned as to how he arrived at this belief. The district court was proper in denying this motion, seeing as this was not a suitable expectation. Affirmed.
+
+Discussion
+A "knowing" violation is required by most securities laws to be criminally sanctionable, also a defense of advice of counsel will often be an option. Like any area of law where advice of counsel is a defense, using it could constitute a waiver of attorney-client privilege, deciding if the privilege has been waived is at the trial courts discretion.
+

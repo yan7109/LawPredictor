@@ -1,0 +1,21 @@
+Citation
+441 Pa. Super. 194, 657 A.2d 17, 1995 Pa. Super. 891, 26 U.C.C. Rep. Serv. 2d (Callaghan) 474
+
+Brief Fact Summary
+Samuel Rappaport Family Partnership, (Appellant), brought suit after Meridian Bank, (Appellee), refused to honor a sight draft. Appellant appeals the trial court holding that Appellee properly dishonored the sight draft due to the presentment’s failure to comply with the strict terms of the letter of credit.
+
+Synopsis of Rule of Law
+The death of a person mentioned in a letter of credit does not cause an ambiguity in the provisions of the letter but rather renders performance of the letter of credit impossible.
+
+Facts
+McKlan, Inc. agreed to lease property from several individuals. Marvin Orleans subsequently purchased the property. The lease required that McKlan, Inc. provide a $100,000 letter of credit drawn on a reputable bank and made payable to an escrow agent upon the presentation of his sight draft and other documentation. The documentation included the escrow agent’s certification that McKlan Inc. had been given notice of the presentment and the landlord’s certification regarding the existence of an uncured default. McKlan requested that Central Penn National Bank issue the letter of credit. Central Penn National Bank merged with Appellee. The letter of credit provided that it would remain in effect for one year and that payment was contingent upon the Appellee’s receipt of certain documentation. It required that the escrow agent, Mr. Pincus, present a sight draft along with his certification that McKlan, Inc. had received notice of the presentment. The letter also required submissio
+
+Issue
+Whether the death of Marvin Orleans rendered ambiguous the question of the continuing vitality of the requirement of the letter of credit regarding the presentation of a certificate signed by him.
+
+Held
+No. Marvin Orleans’ death did not render the requirement ambiguous but rather rendered performance impossible.
+
+Discussion
+The purpose of letters of credit is to assure prompt payment upon the presentation of conforming documents. Finding an ambiguity due to death of a person mentioned in the letter would require issuers to determine whether all such people are living and adjust the requirements of the letter accordingly. This would result the assurance of prompt payment and lead to uncertainty regarding the requirements necessary to obtain payment. Thus it would impair the basic utility of letters of credit
+

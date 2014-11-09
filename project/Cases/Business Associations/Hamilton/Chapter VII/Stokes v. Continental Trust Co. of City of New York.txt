@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 78 N.E. 1090 (1906)
+
+Brief Fact Summary
+Stokes (P), a shareholder of Continental Trust Co. of City of New York (D), demanded that a number of newly issued shares be sold to him equal to the shares he holds now.
+
+Synopsis of Rule of Law
+Corporations must allow shareholders to purchase newly issued stocks at the fixed price so that they may keep the share they currently have.
+
+Facts
+Continental (D) had 500,000 shares of which Stokes (P) currently owned 221 of those shares. The market value of the shares was $550, but the par value was $100. A third party offered to buy 500,000 newly issued shares of Continental (D) if those shares were issued at $450. At Continental’s (D) shareholders’ meeting the issue was voted on. Stokes (P) demanded that enough shares be sold to him so that he could keep the same percentage of stock ownership. He also demanded they be sold to him at par value; both demands were turned down.
+
+Issue
+Must corporations allow shareholders the opportunity to purchase newly issued stocks at the fixed price so that they may keep the share they currently have?
+
+Held
+(Vann, J.) Yes. Corporations must allow shareholders to purchase newly issued stocks at the fixed price so that they may keep the share they currently have. Stockholders have this option as a matter of right. This opportunity must be extended to all shareholders, or else liability incurs. However, stockholders must buy at the fixed sales price, not the par value price as it would inflate the shareholder’s proportionate interest. Stokes (P) suffered damages here, but his damages must be re measured on this price difference. Reversed and judgment modified.
+
+Discussion
+This case contains the common law view on preemptive rights, or also known as the right of first refusal of new issues of stock. Predominantly, it is believed these rights apply only to common stock.
+

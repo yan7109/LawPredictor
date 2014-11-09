@@ -1,0 +1,21 @@
+Citation
+359 U.S. 520, 79 S. Ct. 962, 3 L. Ed. 2d 1003, 1959 U.S.
+
+Brief Fact Summary
+The Plaintiff, Navajo Freight Lines, Inc. (Plaintiff), a trucking company, challenged the constitutionality of Illinois’ mudguard law on the ground that it interfered with interstate commerce.
+
+Synopsis of Rule of Law
+In determining whether a state’s nondiscriminatory highway safety law violates the dormant Commerce Clause of the United States Constitution (Constitution), the Supreme Court of the United States (Supreme Court) must look to the total effect of the law as a safety measure. If it is too slight, or problematic, so that it does not outweigh the national interest in keeping interstate commerce free from interferences that seriously impede it, then it cannot stand.
+
+Facts
+The state of Illinois passed a law requiring trucks to have contoured mudguards. In Arkansas, states were required to have straight mudguards, while in all other states either shape was acceptable. The Plaintiff challenged the Illinois law arguing that it violated the Commerce Clause because it unduly burdened interest commerce and enforcement should be enjoined.
+
+Issue
+Is this Illinois statute requiring a special mudguard constitutional?
+
+Held
+Justice William Douglas (J. Douglas) first observed that States have an important interest in providing for the safety of their highways. Moreover, safety measures carry a strong presumption of validity. However, here, the costs of doing business would be greatly increased. The Supreme Court observed that trucks could not enter Illinois and Arkansas without stopping at the border to change their mudguards. Moreover, the Illinois regulation would seriously interfere with “interline trucking”, which is the changing of trailers between carriers. The Supreme Court also determined that contoured mudguards have no real safety advantages over straight mudguards and in actuality actually caused additional hazards.
+
+Discussion
+States have the power to regulate their highways, however, these mudguards create operational delays and costs. The statute also seriously interferes with the “interline” operations of motor carriers. The carriers will not be able to switch cargo that does not allow certain mud flaps. The clearly violates the dormant Commerce Clause.
+

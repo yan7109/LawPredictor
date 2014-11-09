@@ -1,0 +1,21 @@
+Citation
+182 F.3d 578,1999 U.S. App.52 Fed. R. Evid. Serv. (Callaghan) 741
+
+Brief Fact Summary
+Defendant applied to act as counsel for bankruptcy proceedings without disclosing that one of the filing corporations primary creditors was a client of his firm’s.
+
+Synopsis of Rule of Law
+Rule 2014 of the Federal Rules of Bankruptcy Procedure.
+
+Facts
+Defendant, attorney John Gallene, assisted Bucyrus, a Wisconsin corporation, in filing for bankruptcy. He then applied to the federal bankruptcy court to act as counsel for bankruptcy proceedings without disclosing that Bucyrus’s primary creditors was already a client of his firm’s. He was sentenced to 15 months and $15,000 for bankruptcy fraud and perjury, and now appeals.
+
+Issue
+Was there sufficient evidence presented at trial to established that Defendant’s failure to disclose his firm’s prior relationship with his client’s creditor was fraudulent?
+
+Held
+Yes. Defendant’s knowing omission of material facts met the statute’s requirements, and the government provided sufficient evidence (including the Defendant’s own testimony as to his mental state at the time) to establish that Defendant was guilty.
+
+Discussion
+This is a rather extreme example of the consequences of non-disclosure, as criminal charges for this kind of behavior are extremely rare. In his trial, Gallene (testifying as the only defense witness) argued that his behavior was “stupid, but not criminal.” Do you agree?
+

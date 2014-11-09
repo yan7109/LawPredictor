@@ -1,0 +1,21 @@
+Citation
+435 U.S. 247, 98 S. Ct. 1042, 55 L. Ed. 2d 252 (1978)
+
+Brief Fact Summary
+The United States Court of Appeals for the Seventh Circuit held that students who were suspended from public elementary and secondary schools without procedural due process were entitled to recover substantial nonpunitive damages. The Petitioners, Carey and others (Petitioners), appealed and the United States Supreme Court (Supreme Court) granted certiorari.
+
+Synopsis of Rule of Law
+Substantial damages should be awarded only to compensate actual injury or, in the case of exemplary or punitive damages, to deter or punish malicious deprivations of rights.
+
+Facts
+The Respondents, Piphus and others (Respondents), boys in Chicago schools were suspended from school. The first for smoking what his principal suspected was marijuana and the second for wearing an earring in violation of the school dress code. Neither was granted a hearing before suspension. Both brought actions pursuant to 42 U.S.C.S. Section: 1983. The trial court, having found a denial of due process, declined to award damages as none had been proven. The 7th Circuit held that the students were entitled to substantial damage awards.
+
+Issue
+In an action under Section: 1983 for the deprivation of procedural due process, must a plaintiff prove that he actually was injured by the deprivation before he may recover substantial “nonpunitive” damages?
+
+Held
+No. The Supreme Court remanded for further proceedings with the instruction that if, upon remand, the federal district court were to determine that the students’ suspensions were justified, the students would be entitled to recover nominal damages not to exceed one dollar from the Petitioners.
+
+Discussion
+Writing for the Supreme Court, Justice Lewis Powell (J. Powell) begins his analysis with an examination of the aims of 42 U.S.C.S. Section: 1983 (the federal statute that provides for civil action for deprivation of rights). The purpose of which, J. Powell writes, “was intended to create a species of tort liability in favor of persons who are deprived of rights, privileges, or immunities secured to them by the United States Constitution,” and specifically, he noted, “that damages are available under that section for actions found to have been violative of constitutional rights and to have caused compensable injury.” With regard to the type and breadth of damages, J. Powell wrote, “To the extent that Congress intended that awards under 42 U.S.C.S. Section: 1983 should deter the deprivation of constitutional rights, there is no evidence that it meant to establish a deterrent more formidable than that inherent in the award of compensatory damages.” Thus, J. Powell stated, “The purpose of
+

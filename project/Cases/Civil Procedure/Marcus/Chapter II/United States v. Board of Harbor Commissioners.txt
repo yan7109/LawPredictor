@@ -1,0 +1,21 @@
+Citation
+73 F.R.D. 460, 1977 U.S. Dist. 10 ERC (BNA) 1878
+
+Brief Fact Summary
+The SICO Company and North American Smelting Company (Defendants) filed a Motion for More Definite Statement on grounds that the Complaint filed against them was so vague and ambiguous that they were unable to frame a responsive pleading.
+
+Synopsis of Rule of Law
+Motion for More Definite Statement is applicable in situations where pleadings are unintelligible.
+
+Facts
+The Complaint filed by the United States Government (Plaintiff) alleged that Defendants owned and operated facilities near the Wilmington Marine Terminal from which oil was discharged into the Delaware River. The discharge of oil into navigable rivers is prohibited by the Federal Water Pollution Control Act. The owner of the facility responsible for the discharge of oil can be held liable to Plaintiff in the amount of actual costs incurred for the removal of such oil. Defendants contend that the Complaint is deceptively vague because it fails to state which Defendants are responsible for the discharge of oil, the amount of oil discharged, and the removal costs incurred, and the actions which are alleged to have caused the discharge. The Defendants moved for a more definite statement under Rule 12 (e) of the Federal Rules of Civil Procedure, which is typically restricted to situations when pleadings are unintelligible rather than lacking detail.
+
+Issue
+Can a party make a Motion for a More Definite Statement based on want of detail?
+
+Held
+No. Motion for more definite statement denied.   If the requirements of Rule 8 are satisfied and the opposing party is notified of the nature of the claim, the Rule 12(e) motion is inappropriate. A complaint need not be more specific if it is sufficient on its face and notifies the defendant of the nature of the cause of action.  In the instant case, the Complaint on its face can be read to charge each of the Defendants with owning and operating facilities that discharged oil into the Delaware River. These allegations and other facts in the Complaint fairly notify the Defendant of the cause of action against them. Defendants’ use of Rule 12(e) is really an effort to flush out the government’s case.
+
+Discussion
+This case is an example of notice pleadings, which serve the primary function of providing notice to the other party. More specifically, notice pleadings provide the defendant with the cause of action.
+

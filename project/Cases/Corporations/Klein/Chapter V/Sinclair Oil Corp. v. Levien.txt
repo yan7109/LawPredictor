@@ -1,0 +1,21 @@
+Citation
+280 A.2d 717 (Del. 1971)
+
+Brief Fact Summary
+Plaintiff, Francis Levien, brought suit as a minority shareholder of Sinclair Venezuelan Oil Company (”Sinven”) which was a subsidiary of Defendant, Sinclair Oil Corporation.  Plaintiff alleged that Defendant caused Sinven to pay out excessive dividends, and that Defendant breached their contract with Sinven.
+
+Synopsis of Rule of Law
+A standard of intrinsic fairness will be applied in any self-dealing transaction by a parent corporation whose majority ownership places a fiduciary duty upon the parent corporation, but the transaction only be self-dealing if the transaction is to the detriment of minority shareholders.
+
+Facts
+Sinven was a subsidiary of Defendant with operations exclusively in Venezuela.  Defendant, as the majority shareholder of Sinven, caused Sinven to pay dividends that were so large that the amount exceeded the earnings of Sinven.  The dividends provided cash to Defendant as well as minority shareholders, but it left no resources fro Sinven to expand its operations.  Defendant also neglected to meet the terms of the contract between them and Sinven.  The agreement required Sinven to sell all of its products to Defendant at specified prices, but Defendant was late in payments and did not fulfill their minimum purchasing obligations.  Plaintiff therefore brought this action, claiming the dividends were excessive and that Defendant breached the contract with Sinven.
+
+Issue
+The issue is whether Defendant was improperly engaging in self-dealing when they issued excessive dividends and breached their contract with Sinven.
+
+Held
+Defendant did not engage in self-dealing by issuing large dividends but it did engage in self-dealing when they breached the agreement.  Defendant complied with Delaware statute 8 Del.C. Section:  170, concerning the payment of dividends, and Defendant’s motives are not a factor when all shareholders benefit from the transaction (not self-dealing).  However, the contract breach was to the detriment of Sinven and its minority shareholders with the positive effect being exclusive to Defendant, so the breach is self-dealing.
+
+Discussion
+Majority shareholders are held to a different standard than officers or directors such as in Lewis v. S.L & E, Inc.  In Lewis, any conflict of interest between a director and the corporation is voidable unless the transaction is proven to be fair.  In this case, a plaintiff has to prove that the majority shareholders enjoyed an exclusive benefit to the detriment of the minority shareholders before the burden is shifted to the defendants.
+

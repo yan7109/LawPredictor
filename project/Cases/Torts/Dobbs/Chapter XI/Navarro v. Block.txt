@@ -1,0 +1,21 @@
+Citation
+72 F.3d 712 (9th Cir. 1995)
+
+Brief Fact Summary
+Maria Navarro (Navarro) was shot and killed by her estranged husband on her birthday after she called 911 to request emergency assistance. She had a restraining order against him. The dispatcher at the Sheriff’s office, relying on the county’s policy and practice of not treating 911 requests for assistance relating to domestic violence as “emergency” calls, did not send a police unit to Navarro’s residence. The Navarro family (Plaintiffs) filed suit against Los Angeles County and the Sheriff (Defendants), who handled 911 calls. The trial court granted summary judgment for the Defendants on all claims. The appellate court affirmed in part, and reversed and remanded in part.
+
+Synopsis of Rule of Law
+Municipalities may not be held liable under 42 U.S.C.S. Section: 1983 unless action pursuant to official municipal policy of some nature causes a constitutional tort. In addition to an official policy, a municipality may be sued for constitutional deprivations caused by governmental custom even though such custom does not receive formal approval through the governmental body’s official decision-making channels.
+
+Facts
+Navarro was celebrating her birthday when she received a call from her brother-in-law warning her that her estranged husband, Raymond, was on his way to her house to kill her. Navarro called 911 to request help. She told the dispatcher that she had a restraining order against her husband, but the dispatcher stated that nothing could be done until he showed up. Fifteen minutes later, he showed up and shot and killed Navarro and four other people.
+
+Issue
+Did the district court err in granting summary judgment in favor of the municipal agents?
+
+Held
+Yes. The appellate court affirmed a portion of the judgment, but held that there were genuine issues of material fact as to whether there was a custom of not classifying the domestic violence calls as emergencies. The court held that the testimony of a dispatcher, if proven, could have established that the municipal agents had a policy in treating domestic violence calls differently and therefore the district court erred in granting summary judgment to them.
+
+Discussion
+The Equal Protection Clause of the Fourteenth Amendment states: “[n]o state shall
+

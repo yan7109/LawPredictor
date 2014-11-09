@@ -1,0 +1,24 @@
+Citation
+395 U.S. 621, 89 S. Ct. 1886, 23 L. Ed. 2d 583, 1969 U.S.
+
+Brief Fact Summary
+The Petitioner, Kramer (Petitioner), was refused the right to vote in school district elections, under a New York statute requiring property ownership in the district or children attending district schools to vote in such elections.
+
+Synopsis of Rule of Law
+Statutes limiting the right to vote must be narrowly tailored to achieve a compelling state interest.
+
+Facts
+New York Education Law requires the ownership of real property within a school district or custody of children attending the district to be eligible to vote in school district elections. The Petitioner is currently living with his mother within the school district. His denial of voting rights was based solely on his lack of real property ownership or custody of children. He brought suit, seeking to invalidate the statute as unconstitutional under the Fourteenth Amendment of the United States Constitution (Constitution.
+
+Issue
+Is the New York statute narrowly tailored to serve a compelling government interest?
+
+Held
+No. Appeals Court ruling reversed. Chief Justice Earl Warren (J. Warren) notes that the State’s legitimate interest seems to be restricting a voice in school matters to those “directly affected.” J. Warren notes that the system of exclusion excludes some members that have a direct interest (individuals whose children are not yet school age) and includes some with little interest (individuals with no children who just incidentally own real property in the district). As such, it cannot be narrowly tailored.
+
+Dissent
+Justice Potter Stewart (J. Stewart) argues that the classification is valid, as the State has “broad powers to determine the conditions under which the right to suffrage may be exercised.” As the classification in the present case is not of a suspect class, J. Stewart argues that the classification is constitutional.
+
+Discussion
+The right to vote is a fundamental right. Notice that J. Warren does not say that the State cannot discriminate as to who gets to vote in a school district election, only that such discrimination must be tailored to the compelling interest sought to be advanced.
+

@@ -1,0 +1,24 @@
+Citation
+452 N.W.2d 138 (S.D. 1990)
+
+Brief Fact Summary
+Kenny and Peggy Baatz (Baatz) attempt to pierce the corporate veil of Arrow Bar, Inc., to hold the individual shareholders, Defendants, Edmond and LaVella Neuroth personally liable for their injuries.
+
+Synopsis of Rule of Law
+A summary judgment motion will be granted only there exists no genuine issues of material fact.  A corporation is considered a separate legal entity until there is a sufficient reason to indicate that the corporate veil should be pierced.
+
+Facts
+The Baatz were riding a motorcycle when they were struck by an automobile driven by Roland McBride, who was intoxicated at the time.  Baatz alleges that Defendant, Arrow Bar, Inc., is contributory negligent because it served alcoholic beverages to McBride prior to the accident despite the fact that he was already intoxicated.
+
+Issue
+Whether there is a genuine issue of material fact based on the above four arguments that supports that the corporate veil should be pierced making Edmond and LaVella personally liable to Baatz?
+
+Held
+No.   The trial court’s grant of summary judgment to dismiss the individual defendants is affirmed because there are no facts to support that the corporate veil should be pierced based on the four arguments above.
+
+Dissent
+The corporation is an instrumentality of “three shareholders, officers, and employees.”  Thus, the “corporation has no separate existence,” but was incorporated as a “shield against individual liability.”
+
+Discussion
+Factors that courts will consider to determine whether to pierce the corporate veil are:  “1) fraudulent representation by corporation directors; 2) undercapitalization; 3) failure to observe corporate formalities; 4) absence of corporate records, 5) payment by the corporation of individual obligations; or 6) use of the corporation to promote fraud, injustice, or illegalities.”
+

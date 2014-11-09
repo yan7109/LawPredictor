@@ -1,0 +1,18 @@
+Brief Fact Summary
+The suitability of Ira Haupt& Company’s (Defendant) sale of 93,000 shares of Schulte’s (Defendant) stock in Park and Tilford was revised by the Securities and Exchange Commission.
+
+Synopsis of Rule of Law
+Transactions by underwriters performed through the Exchange in association with a delivery for a controlling stockholder must comply with registration and prospectus requests of the Securities Act.
+
+Facts
+The president and director of Park &Tilford, Schulte, owned 92% of the company’s outstanding common stock. Schulte declared that dividends would be distributed to Park &Tilfords shareholders at cost, and in an attempt to stabilize the market, Schulte instructed his broker, Ira Haupt&Co. to sell 100 – 300 shares of his stock every quarter or half a point the stock gained in value. Haupt sold 93,000 shares. A proceeding was started to verify if Haupt was in violation of the Securities Act by distributing securities without a registration statement.
+
+Issue
+Must transactions by underwriters completed through the Exchange in association with a delivery for a controlling stockholder comply with the registration and prospectus obligations of the Securities Act?
+
+Held
+(Commissioner not stated in casebook excerpt) Yes. Transactions by underwriters completed over the Exchange in connection with a delivery for a controlling stockholder must comply with prospectus and registration obligations of the Securities Act. As defined by § 2(11) of the Securities Act, an underwriter aids in the sale of security for an issuer with a distribution arrangement.  By distributing securities but failing to register and make the proper disclosures, which can potentially damagethe public, an underwriter deliberately violates requests in the Securities Act and their membership is revoked. This stipulation exists to control the potential detriment of an ancillary delivery of shares that arises when a controlling stockholder wants to dispose of a bulk of stock. Haupt argues that it does not fall under the definition of an underwriter due to it lacking intention and awareness to the fact that Schulte generating a bulk distribution of his stock. The court has long held the definition of “distribution” to include circumstances where a bulk of stock is distributed to the public, although the Securities Act fails to define “distribution”.   Here, shares were delivered under an inclusive scheme permitting, if conditions are right, the sale of possibly 165,000 shares of stock. The fact that delivery was dependent on such distributions doesn’t change the transaction in its entirety. For that reason, it was determined that Haupt was acting as an underwriter for Schulte and had an obligation to put a registration statement for securities delivery in place. Upon finding a § 5(a) violation, the court must then decide if it is in the best interest of the public to revoke Haupt’s registration as a dealer-broker and also whether the violation was “willful”.  The court determined the answer to the aforementioned questions is affirmative. Haupt’s membership in the NASD is suspended for twenty days, as per the order issued.
+
+Discussion
+An exemption to § 5(a) for customer requested broker transactions is granted by        § 4(2) of the Securities Act, providing these transactions are not petitioned by the broker. Even though public deliveries by controlling shareholders are realized through underwriters, they must comply with the Act’s registration and prospectus obligations. The deciding factor is whether such transactions aredeemed as trading or whether it considereddispersal.
+

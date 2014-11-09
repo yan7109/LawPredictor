@@ -1,0 +1,21 @@
+Citation
+27 A.D.2d 931 278 N.Y.S.2d 770, 1967 N.Y. App. Div.
+
+Brief Fact Summary
+The Plaintiffs, five passengers injured in a two car accident (Plaintiffs), brought a negligence action against Defendants for an automobile accident. The Defendants were the drivers of the two cars and a contractor repairing the highway obstructing a stop sign (Defendants). Defendants moved to amend their answers to add the defense of discharge and satisfaction because Plaintiffs recovered a judgment against the state for the same injuries.
+
+Synopsis of Rule of Law
+The defense of discharge and satisfaction provides that multiple judgments cannot be satisfied against multiple defendants for the same tort.
+
+Facts
+This case involves an action by five plaintiffs, who were passengers in one of two automobiles that collided. Actions were brought against the drivers, as well as a contractor repairing the highway who negligently obstructed a stop sign. Defendants moved to amend their answers to add the defense of discharge and satisfaction because Plaintiffs recovered a judgment for the same injuries against the State of New York.
+
+Issue
+Is the defense of discharge and satisfaction applicable to prevent multiple judgments from being satisfied against different tortfeasors when one judgment has already been satisfied?
+
+Held
+Yes. Leave to amend granted to Defendants.
+
+Discussion
+The defense of discharge and satisfaction prevents double recovery from a single injury. While states are immune as sovereign at common law, states are free to waive this immunity and grant courts jurisdiction to determine claims against it.
+

@@ -1,0 +1,21 @@
+Citation
+114 F.3d 1410 (3d Cir. 1997)
+
+Brief Fact Summary
+Burlington Coat Factory Warehouse Corporation’s (BCF) (Defendant) year-end profits and income results for 1994 were lower than market expectancies. Investors (Plaintiff) alleged that BCF had a duty to correct an expression of comfort with specialists’ predictions that BCF had prepared in November 1993.
+
+Synopsis of Rule of Law
+The intentional revelation of regular income prediction fails to elicit any duty to update.
+
+Facts
+In September 1994 BCF broadcast its fourth quarter and full fiscal year-end profits and income results for the year, which were lower than the market’s expectancies and BCF’s stock plummeted, reporting losses of 30% in one day. A few days later, BCF attempted to explain itself and stock fell even lower. Investors brought suit, alleging that BCF had a duty to correct an expression of comfort with specialists’ predictions that BCF had prepared in late 1993. For instance, in early 1994, BCF’s CEO had declined to comment on specialists’ income predictions for both the third quarter of 94 and the entire year. The district court dismissed for not stating claims where relief could be granted and for not pleading those claims with ample accuracy. The court of appeals granted review.
+
+Issue
+Is there a duty to revise after the intentional revelation of regular income predictions?
+
+Held
+(Alito, J.) No. There is no duty to revise after the intentional revelation of regular income predictions. A duty to update and a duty to correct are very different claims and the investors appear to be emphasizing both. The duty to correct necessitates a business fix previous substantial statements that were true when created but have since become false due to ensuing events. In this case, the error(s) that were said to be present in the 1993 prediction were never alleged in any detail by the investors, they never stated how, what or when the errors were found. So, the investors are lacking in sufficiently pleading their duty to correct claims. Regardless, the claims are more properly described as “duty to update” claims.
+
+Discussion
+The courts are still at odds over if a firm has a duty to update a statement that was factual when created but after ensuing events became false, as evident in this case. Finding that this duty fails to exist under Rule 10b-5 for forward-looking statements seems to be the inclination of the courts as of late.
+

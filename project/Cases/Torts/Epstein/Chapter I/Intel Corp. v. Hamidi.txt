@@ -1,0 +1,24 @@
+Citation
+2003 Cal.
+
+Brief Fact Summary
+Intel Corp. (Plaintiff) brought suit against Hamidi (Defendant), claiming that by communicating with Plaintiff’s employees on Plaintiff’s email system, Defendant committed the tort of trespass to chattels.
+
+Synopsis of Rule of Law
+Under California law, the tort of trespass to chattels does not encompass an electronic communication that neither damages the recipient computer system nor impairs its functioning.
+
+Facts
+Plaintiff brought an action of trespass to chattels against Defendant. Plaintiff maintains an electronic mail (e-mail) system. On this mail system, messages between employees and those outside the company can be sent and received. Employers can make reasonable non-business use of this system.
+
+Issue
+May Plaintiff maintain an action for trespass to property if Defendant sends an unauthorized electronic communication over Plaintiff’s electronic mail system, which neither damages the recipient computer system nor impairs its functioning?
+
+Held
+No. In this case, electronic communication does not constitute an actionable trespass to personal property (the computer system) because it does not interfere with the possessor’s use or possession of, or any other legally protected interest in, the personal property itself.
+
+Dissent
+(J. Brown) Plaintiff’s objection is directed not toward Defendant’s message but toward his use of Plaintiff’s property to display his message. Plaintiff deserves an injunction even if its objections are based entirely on the e-mail’s contents. Plaintiff is entitled to allow its employees Internet access without incurring any simultaneous obligation to allow access to pornographic websites.
+
+Discussion
+In this case the court refused to hold that the objectionable e-mail messages distributed to a company’s employees constituted a trespass. An action for trespass to chattels will not lie if there are is no damage to the chattels. Here, the e-mails were only a momentary disturbance to the employees.
+

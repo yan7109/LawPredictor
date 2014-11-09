@@ -1,0 +1,15 @@
+Citation
+833 S.W.2d 52
+
+Brief Fact Summary
+The Plaintiff, Harry McIntyre (Plaintiff) and the Defendant, Clifford Balentine (Defendant), were involved in a car accident, with both parties being partially responsible. The jury found for the Defendant based on the contributory negligence doctrine. Plaintiff appealed and requested that the court adopt comparative negligence.<span class="heading">Synopsis of Rule of Law.</span> Tennessee adopts modified comparative negligence, allowing plaintiffs to recover so long as their negligence does not exceed the negligence of the defendant.
+
+Facts
+The Plaintiff and Defendant were involved in a motor vehicle accident, with severe injuries resulting to Plaintiff. As Defendant traveled south on Highway 69 in Savannah, Tennessee, Plaintiff pulled out of a truck stop. Shortly thereafter, Plaintiff’s truck struck Defendant’s tractor. Both men had consumed alcohol the evening of the accident. Plaintiff’s blood alcohol content was measured at .17 and testimony suggested that Defendant was speeding. Plaintiff brought a negligence action against Defendant and the lessee of the truck. Defendant answered that Plaintiff was contributorially negligent, in part due to operating his vehicle while intoxicated. The jury found the Plaintiff and Defendant equally at fault, therefore, they ruled in favor of the Defendant. Plaintiff appealed, alleging the trial court erred by refusing to instruct the jury regarding the doctrine of comparative negligence. The Court of Appeals affirmed.<span class="heading">Issue.</span> Should Tennessee adopt the doctrine of comparative negligence?
+
+Held
+Yes. Judgment reversed in part and affirmed in part (on a separate issue) and remanded.
+
+Discussion
+Only four states continue to apply the common law doctrine that contributory negligence as a complete bar to recovery.
+

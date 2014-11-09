@@ -1,0 +1,21 @@
+Citation
+1994 U.S. Dist. 5820.
+
+Brief Fact Summary
+This case involved a maritime action in which the Plaintiff, Chiquita International Ltd. (Plaintiff), a shipper, sued the Defendant, International Reefer Services, S.A., (Defendant), a carrier, for cargo loss and damage onboard the M/V Bolero Reefer, owned by Defendant. Defendant submitted a letter in support of an application to compel discovery of Joseph Winer (Winer), a marine surveyor who examined the vessel and loading gear at Plaintiff’s request shortly after the vessel arrived in Germany.
+
+Synopsis of Rule of Law
+In determining whether a person is a non-testifying expert witness, for the purpose of precluding discovery related to facts known or opinions held by him, the relevant distinction is not between fact and opinion testimony, but between those witnesses whose information was obtained in the normal course of business and those who were hired to make an evaluation in connection with the expected litigation.
+
+Facts
+Plaintiff sued Defendant for cargo loss and damage onboard the M/V Bolero Reefer, owned by Defendant. Plaintiff alleged that Defendant was engaged to transport bananas from Ecuador to Germany. Due to alleged malfunctions of the vessel’s loading cranes, 43,000 boxes of bananas due to be shipped, were left on the wharf. Defendant submitted a letter in support of an application to compel discovery of Winer, a marine surveyor who examined the vessel and loading gear at Plaintiff’s request shortly after the vessel arrived in Germany. Defendant sought Winer’s deposition and production of the file he assembled in connection with his inspection. Plaintiff objected to those demands on the grounds that Winer was a non-testifying expert, as to whom discovery is closely circumscribed by Federal Rule of Civil Procedure Rule 26(b)(4)(B). Defendant replied that Winer is a fact witness rather than an expert.
+
+Issue
+This case focuses on the distinction between a fact witness and a non-testifying expert, where information held by the latter is largely precluded from discovery.
+
+Held
+After ruling that Winer was a non-testifying expert, the court denied Defendant’s application to receive the deposition of Winer, while Plaintiff was ordered to produce Winer’s files that did not reflect his observations and opinions.   Under FRCP Rule, a non-testifying expert is generally immune from discovery. The rule precludes discovery of facts known or opinions held by a non-testifying expert. The relevant distinction is not between fact and opinion testimony but between those witnesses whose information was obtained in the normal course of business and those who were hired to make an evaluation in connection with the expected litigation.
+
+Discussion
+In determining whether a person qualifies as a non-testifying expert, as opposed to a fact witness, the court focuses on how the potential witness came about his information. Here, the court found that Winer qualified as a non-testifying expert because   he was specifically engaged by Plaintiff to examine the vessel in connection with the cargo loss claim.
+

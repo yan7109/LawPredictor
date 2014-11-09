@@ -1,0 +1,21 @@
+Citation
+446 U.S. 635, 100 S. Ct. 1920, 64 L. Ed. 2d 572, 1980 U.S. 104
+
+Brief Fact Summary
+Plaintiff Carlos Rivera Gomez brought an action against Defendant Toledo, the Superintendent of the Police of the Commonwealth of Puerto Rico. He alleged that Defendant had violated his right to procedural due process by terminating his employment with the Police Department’s Criminal Investigation Bureau.
+
+Synopsis of Rule of Law
+A plaintiff is not required to anticipate in his complaint a defense that a defendant might raise in order to state a claim for relief.
+
+Facts
+Plaintiff brought an action against Defendant, the Superintendent of the Police of the Commonwealth of Puerto Rico. In 1976 criminal charges had been brought against Plaintiff, and he was fired without a hearing. Plaintiff asserted that he is entitled to his old job back because the District Court of Puerto Rico found no probable cause that he was guilty of the criminal charges. Following a hearing, Plaintiff was reinstated with the Criminal Bureau and given back pay. He then filed suit alleging that his initial discharge had caused him anxiety, embarrassment and damage to his reputation. Defendant moved to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6). The district court granted the motion, observing that Defendant was entitled to qualified immunity for acts done in good faith within the scope of his official duties, such that Plaintiff was required to assert bad faith in his pleadings to survive the motion. After the First Circuit Court of Appeals affirmed, the Supreme Court of the United States granted certiorari.
+
+Issue
+Whether, in an action against a public official whose position might entitle him to qualified immunity, a plaintiff must allege that the official has acted in bad faith, or alternatively, whether the defendant must plead good faith as an affirmative defense.
+
+Held
+No. The decision of the Court of Appeals was reversed and the case remanded.   Nothing in the language of Section: 1983 suggest that an action against a public official who might receive qualified immunity must allege bad faith in order to state a valid claim for relief.  Since qualified immunity is a defense, the burden of pleading it rests with the defendant.
+
+Discussion
+Students should be aware that under Section: 1983, public officers are entitled to qualified immunity from damages liability for acts done on the basis of an objectively reasonable belief that those acts were lawful. The Supreme Court relied however, on the fact that nothing the in the language of Section: 1983 suggest that an action against a public official who might receive qualified immunity must allege bad faith in order to state a valid claim for relief. Furthermore, the court noted that qualified immunity is an affirmative defense available to a defendant subject to a claim under Section: 1983.
+

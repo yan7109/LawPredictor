@@ -1,0 +1,24 @@
+Citation
+22 Ill.484 U.S. 400, 108 S. Ct. 646, 98 L. Ed. 2d 798 (1988)
+
+Brief Fact Summary
+Taylor took appeal after his trial judge refused to allow a witness, who had not been disclosed in pre-trial discovery, to testify.
+
+Synopsis of Rule of Law
+An accused does not have an unfettered right to have all witnesses admitted, when their testimony proves to be questionable.
+
+Facts
+Petitioner, Taylor, was convicted of attempted murder, resulting from a street fight in the south side of Chicago in 1981.  On the second day of trial, after the prosecution’s two principal witnesses had completed their testimony, defense counsel asked to amend his answer to discovery to include two more witnesses, who had likely seen the “entire incident.”  Through examination, it later became evident that defense counsel already knew the identity of the witness and could have introduced it into discovery.  As a means of sanctioning defense counsel for precluding this evidence, the trial judge concluded it was not as trustworthy and precluded the witness from testifying.  Taylor appealed.
+
+Issue
+Whether refusal to allow an undisclosed witness to testify, after trial had began, violates a defendant’s constitutional right to obtain favorable testimony.
+
+Held
+Affirmed.
+
+Dissent
+Justice Brennan, for the dissent, maintains that the “compulsory process clause requires courts to conduct a searching substantive inquiry whenever the government seeks to exclude criminal defense evidence.”  In this case, the Justice feels, that was not done, and the defendant should not be punished because his attorney did not disclose information pre-trial.
+
+Discussion
+Although the mistake that was committed was actually that of defendant’s attorney, when he failed to disclose the witness identity, all defendants cannot compel that all witnesses be heard, especially when their testimony is, at best, doubtful.
+

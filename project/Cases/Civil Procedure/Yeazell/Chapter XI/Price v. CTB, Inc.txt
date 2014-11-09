@@ -1,0 +1,21 @@
+Citation
+168 F. Supp. 2d 1299, 2001 U.S. Dist. 17076
+
+Brief Fact Summary
+The Defendants, CTB Inc, Latco, Inc. and other building contractors (Defendants), in a suit alleging defects in the quality of its workmanship, attempted to implead a nail manufacturer by filing a third party complaint.
+
+Synopsis of Rule of Law
+A defendant may implead a third party under Federal Rule of Civil Procedure (FRCP) Rule 14(a) so long as the third party’s liability is derivative of the original claim and the original defendant is trying to pass all or part of the liability onto the third party.
+
+Facts
+Defendants were the original defendants in an action by the Plaintiff, John Price (Plaintiff), concerning the quality of its workmanship when the constructed various chicken houses for Alabama farmers. Defendants moved to file a Third Party Complaint against ITW on February 21, 2001, approximately six months after the case had been removed to the Middle District of Alabama. It failed in its attempt to properly serve ITW until July 19 because it did not name the appropriate agent for service. In the Third Party Complaint, Defendants alleged that ITW, a nail manufacturer, defectively designed the nails used in the construction of the chicken houses. ITW argued that it was improperly impleaded under FRCP Rule 14, or, alternatively, that the Third Party Complaint was barred by the equitable doctrine of laches.
+
+Issue
+Whether a defendant can implead a third party defendant where the third party will be liable only if the original defendant is first found liable.
+
+Held
+Yes. ITW’s motion to dismiss was denied.   Under FRCP Rule 14(a), a defendant may assert a claim against anyone not a party to the original action, if that third party’s liability is in some way dependent upon the outcome of the original action. Even though it may arise out of the same general set of facts as the main claim, a third party claim will not be permitted when it is based upon a separate and independent claim. Rather, the third party liability must in some way be derivative of the original claim. A third party may be impleaded only when the original defendant is trying to pass all or part of the liability onto that third party
+
+Discussion
+The main concept to be gleaned from this case concerns when a court will allow a defendant to introduce a prior non-party into the original suit as a derivatively liable defendant. Courts will only allow this in situations where the third party is only liable if the original defendant is liable.
+

@@ -1,0 +1,24 @@
+Citation
+482 U.S. 400,107 S. Ct. 2433,96 L. Ed. 2d 332,1987 U.S.
+
+Brief Fact Summary
+Father and grandfather traveled to Louisiana and picked up his children without the knowledge of mother after attempts to enforce a custody decree failed.  Mother instituted a criminal action for kidnapping, Father petitioned the California court to issue a writ of habeas corpus to prevent extradition.
+
+Synopsis of Rule of Law
+The Extradition Clause leaves only four issues open for consideration prior to a fugitive being delivered: 1) whether the extradition documents on their face are in order; 2) whether the petitioner has been charged with a crime in the demanding state; 3) whether the petitioner is the person named in the request for extradition; and 4) whether the petitioner is a fugitive.
+
+Facts
+Richard and Judith Smolin were divorced in California in 1978, with sole custody of their two children being awarded to Judith, subject to reasonable visitation rights for Richard.  In August 1979 Judith married James Pope, and in November his work required the family to relocate to Oregon.  The Popes moved without informing Richard.  Richard alleged, and the California courts found, the Popes deliberately attempted to defeat Richard’s visitation rights and preclude him from a meaningful relationship with his children by moving from Oregon to Texas to Louisiana.  In February 1981 the Popes obtained a decree from a Texas court granting full faith and credit to the original California custody order.  Richard was served but did not appear.  Before the Texas decree was issued, Richard sought and obtained in California a modification of the California decree, awarding joint custody.  The Popes were properly served but did not appear or comply with the terms of the order.  In Januar
+
+Issue
+Does the Extradition Clause of the United States Constitution and the Federal Extradition Act prevent the California Supreme Court from refusing to permit extradition in this case?
+
+Held
+The California court erred by preventing jurisdiction.
+
+Dissent
+Three reasons compel the conclusion that we should reject the notion that a parent who holds custody as determined by the Federal Parental Kidnapping Prevention Act must by extradited as a charged kidnapper.  First, By allowing the custodial parent under federal law to be branded as a fugitive, the Court implicitly approves non-adherence to the uniform federal rule governing custody determinations.  Second, requiring extradition is at cross purposes with Congress’ intent to discourage continuing interstate controversies over child custody and to deter interstate abductions and other unilateral removals of children undertaken to obtain custody and visitation awards.  Third, the Extradition Clause should be construed consistently with the Parental Kidnapping Prevention Act.  The reasoning of the Court adopts an overly restrictive view of the questions that the habeas courts of a rendering State must pose.
+
+Discussion
+The majority acknowledged that the charges the Smolins faced were weak, but found that the Extradition Act limited the inquiry that could be made to prevent jurisdiction.  The dissent argued for a more expansive view.
+

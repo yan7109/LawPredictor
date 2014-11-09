@@ -1,0 +1,21 @@
+Citation
+140 Conn. 311, 99 A.2d 115, 1953 Conn.
+
+Brief Fact Summary
+Celestine Dupre executed a codicil to her will but only change a minor detail.  She clarified the name of her nephew in the codicil.  The codicil was invalid because it did not have the proper number of witnesses and the court considers whether the codicil revoked the first will.
+
+Synopsis of Rule of Law
+A codicil that revokes a prior will but only makes a change to refer to a beneficiary in a manner so that there is no mistake about his identity, is only effective as a revocation if the codicil is valid.
+
+Facts
+Dupre executed a will making a disposition to “my nephew, Nelson Lamoth of Taftville, Connecticut.”  Less than a month later, Dupre executed a codicil but she only changed the manner in which she referred to her nephew.  She wrote, “to my nephew Marcisse Lamoth of Taftville, Connecticut, also known as nelson Lamoth.”  The distribution of her estate remained the same.  One of the witnesses to the codicil was Dupre’s wife.  A statute invalidates a witness who is the spouse of the testator.  Therefore the codicil was invalid.  The court considers whether the codicil revoked Dupre’s first will.
+
+Issue
+Whether a testator executes a codicil that revokes a prior will, only upon the condition that the codicil is valid where the only change the codicil makes to the will is to clarify the name of a beneficiary to the testator
+
+Held
+Yes.  Where a testator executes a codicil to revoke a prior will, the revocation is dependent upon the validity of the codicil if the codicil only clarifies the relationship of a beneficiary to the testator.  The only change the testator made in the codicil to her prior will is that she referred to nephew by the name in the will and also an additional name by which he was also known.
+
+Discussion
+Though the testator only made a minor change in her codicil, she didn’t give her nephew another name.  She clarified that the nephew named in the first was also known by another name.  There was no confusion as to the identity of the beneficiary.
+

@@ -1,0 +1,21 @@
+Citation
+329 U.S. 495, 67 S. Ct. 385, 91 L. Ed. 451, 1947 U.S.
+
+Brief Fact Summary
+In anticipation of litigation, the attorney for John M. Taylor, Fortenbaugh (Respondent), interviewed the survivors. Hickman (Petitioner) representing the deceased, brought an action and tried by means of discovery to obtain copies of statements from Respondent’s attorneys, which were obtained from the survivors.
+
+Synopsis of Rule of Law
+Materials prepared and information developed by a party or an attorney that is prepared in anticipation of trial is subject to discovery only if the discovering party can show substantial need and an inability to obtain the material by other means.
+
+Facts
+Respondent sank the tugboat, while towing a car float across the Delaware River. Five of the nine crew members drowned. The tug owners and underwriters employed a law firm, of which Fortenbaugh is a member, to defend them against potential suits by representatives of deceased crew members and to sue the railroad for damages to the tug. Four of the survivors’ testimony was recorded and shortly thereafter, Fortenbaugh privately interviewed the survivors and took statements from them in anticipation of litigation. Four of the claims of the deceased were settled, while the fifth claimant brought suit in federal court under the Jones Act, naming as Respondents, the two tug owners, individually and as partners, and the railroad. Petitioner filed interrogatories, the thirty-eighth of which requested the statements of survivors of the incident, and supplemental interrogatories requested any oral or written statement, records, reports or other memorandum that had been made concerning any matter relevant to the incident. The Respondents answered all interrogatories except number thirty-eight and the supplemental interrogatories on the ground that the requests were for privileged matter obtained in the preparation of the litigation. The District Court for the Eastern District of Pennsylvania held that the requested material was not privileged. Respondents refused to produce the material and the court adjudged them in contempt and ordered them to prison until they complied. The United States Court of Appeals for the Third Circuit reversed and held that the information was part of the work product of the lawyer and privileged from discovery. The Supreme Court of the United States granted certiorari.
+
+Issue
+Whether a party may inquire into oral and written statements of witnesses obtained by an adverse party’s counsel in preparation of trial after the claim has arisen?
+
+Held
+No. Judgment of the court of appeals is affirmed.   A party may not seek information, which is produced by the adversary party’s attorney in preparation of litigation without a showing of necessity and the inability to gain access to the documents. Petitioner is attempting to secure the production of written statements and mental impressions contained in the attorney’s files without the showing of necessity, and without any indication that the inability to obtain this information will    prejudice the preparation of their case. If such materials were open to opposing counsel, an attorney’s trial strategy and his thoughts would not be his own. However, discovery may be allowed where relevant and non- privileged facts remain hidden in an attorney’s file, and are necessary to the preparation of one’s case. Petitioner did not demonstrate any of these exceptions and thus the statements are protected as work product of Respondent’s attorney.   Concurrence. The primary effect of the production of the requested information would be on the legal profession. The purpose of discovery was not to enable a learned profession to perform its function without wits. It is demoralizing to the bar to require a lawyer to write out and deliver to his adversary statements that a witness told him. The practice advocated by the Petitioner would force the attorney to become a witness.
+
+Discussion
+According to Rule 26 of the Federal Rules of Civil Procedure, in order to obtain information that would be covered by the work product doctrine, the moving party must show substantial need and the inability to obtain the information without undue hardship.
+

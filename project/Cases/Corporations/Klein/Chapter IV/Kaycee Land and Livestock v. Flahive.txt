@@ -1,0 +1,21 @@
+Citation
+2002 WY 73, 46 P.3d 323 (Wyo. 2002)
+
+Brief Fact Summary
+Plaintiff, Kaycee Land and Livestock, wanted to hold Defendant, Roger Flahive, personally liable for damages stemming from an agreement made Defendant’s LLC, Flahive Oil & Gas.  The District Court of Johnson County presented a certified question to the Supreme Court of Wyoming to determine if Defendant could be held personally liable.
+
+Synopsis of Rule of Law
+For the purposes of piercing the corporate veil, there is no law or policy that would require treating limited liability companies (LLC’s) different from corporations.
+
+Facts
+Plaintiff contracted with Flahive Oil & Gas in order to use the surface of the land to raise Plaintiff’s livestock.  Plaintiff alleges that Flahive Oil & Gas contaminated the surface area, rendering it useless for Plaintiff’s needs.  Flahive Oil & Gas does not have any assets, and is controlled by Defendant.  Therefore, Plaintiff wants to use general corporate veil-piercing principles to hold Defendant personally liable for damages that the LLC could be held responsible for.  Defendant argued that although the legislature passed a statute for piercing the corporate veil as pertaining to corporations, they have been silent on LLC’s, and therefore there is no express intention to allow for the remedy.
+
+Issue
+The issue is whether corporate veil-piercing principles can be applied to a limited liability company.
+
+Held
+There is no statute or common law that expressly prohibits veil-piercing to be inapplicable to LLC’s.  Although the legislature has not expressly provided for veil-piercing to apply with LLC’s, piercing the corporate veil has traditionally been a judicially created remedy to avoid an otherwise unjust result.  As a matter of public policy, it would be illogical to allow persons to abuse LLC’s in a manner that has been prohibited for corporations.
+
+Discussion
+The court notes that every other jurisdiction that has looked at veil-piercing as applied to LLC’s has decided to allow the remedy against LLC’s.  The factors determining whether an LLC should be pierced are similar to corporate veil-piercing factors.
+

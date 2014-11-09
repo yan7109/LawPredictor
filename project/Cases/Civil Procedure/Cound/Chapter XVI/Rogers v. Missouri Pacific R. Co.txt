@@ -1,0 +1,21 @@
+Citation
+22 Ill.352 U.S. 500, 77 S. Ct. 443, 1 L. Ed. 2d 493 (1957)
+
+Brief Fact Summary
+The Petitioner, Rogers (Petitioner), sought personal injury damages against the Respondent, Missouri Pacific R.Co. (Respondent), under the Federal Employers’ Liability Act (the Act) and was awarded them by the District Court. The Court of Appeals reversed on the ground that Petitioner’s evidence did not support a finding of Respondent’s liability. Petitioner appealed.
+
+Synopsis of Rule of Law
+When the probative facts of a case could support a verdict for either litigant, a jury must hear the case.
+
+Facts
+Petitioner was employed by Respondent as a laborer. On the day of the accident, Petitioner was assigned for the first time to burn off the weeds and vegetation that were on slopes adjacent to the railroad tracks. His foreman testified that customarily the vegetation was burned off with a flame thrower, but other witnesses testified that the Respondent stopped using that method a year prior because the fires would burn past Respondent’s property. The Petitioner was instead given a crude hand torch with instructions that when a train was coming near, to step off the tracks and observe the journals of the passing train for hotboxes. Petitioner was warned of safety precautions as to where to stand when a train was approaching. He heard a train coming and stepped off the track and stopped firing his torch. He stood a few feet from where he was, to observe the passing train for hotboxes. The train fanned the flames of the burning vegetation and enveloped the Petitioner. As he tried to make his way to the safe area, he slipped and suffered serious injuries. The Circuit Court of St. Louis jury found for Petitioner and the Supreme Court of Missouri overruled, stating that Petitioner’s evidence did not support the finding of Respondent’s liability.
+
+Issue
+Whether the evidence at trial was sufficient for the jury to reach a verdict.
+
+Held
+Yes. The evidence was sufficient to support the jury finding for the Petitioner. Judgment reversed.
+
+Discussion
+The Supreme Court of Missouri based its reversal on the motion that as a matter of law, the Petitioner’s conduct was the sole cause of his injuries. But the United States Supreme Court (Supreme Court) opined that the trial jury was instructed to return a verdict for the Respondent if it found the accident was solely due to Petitioner’s own negligence. It was the jury’s role to determine from the facts whether the accident was due in part to Respondent’s negligence. And thus, in finding that Respondent was at least somewhat negligent, the jury followed the directions of the trial court judge and held for the Petitioner.   The test that the jury had to apply was whether the evidence justified, with reason, the conclusion that Respondent’s negligence played any part in producing the injury for which damages were sought. It did not matter that    the jury could reasonably find that the accident happened because of other causes such as Petitioner’s own contributory negligence. Judges are bound to find that the jury case is final whether or not the evidence allows the jury a choice of other possible outcomes.
+

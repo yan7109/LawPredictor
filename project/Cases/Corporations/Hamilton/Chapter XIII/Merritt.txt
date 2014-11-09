@@ -1,0 +1,21 @@
+Citation
+321 A.2d 138 (Del. Super. Ct. 1974)
+
+Brief Fact Summary
+Louis Wolfson, Elkin Gerbert, Joseph Kosow, and Marshal Staub, (Plaintiffs), seek indemnification by Merritt – Chapman & Scott Corp., (Defendant), against expenses incurred in a criminal action. Both parties move for summary judgment.
+
+Synopsis of Rule of Law
+Corporate officers are entitled to partial indemnification if successful on a count of an indictment, which is an independent criminal charge even if unsuccessful on another related count.
+
+Facts
+Plaintiffs were charged with participation in a conspiracy to violate federal securities laws, perjury and filing false annual reports with the SEC and New York Stock Exchange. After several trials, Wolfson entered a plea of no contest to filing false annual reports, was fined $10,000, and the other charges against him were dropped. Gerbert agreed not to appeal his conviction for perjury, was fined $2,000, and other charges against him were dropped. The charges against Kosow and Staub were also dropped. Plaintiffs seek indemnification by Defendant, against expenses incurred in these criminal proceedings.
+
+Issue
+Whether a corporate officer is entitled to indemnification in the absence of vindication by a finding or concession of innocence.
+
+Held
+Yes. A corporate officer is entitled to indemnification to the extent of success in defense of any claim, issue, or matter.
+
+Discussion
+Claimants are entitled to partial indemnification if successful on a count of indictment even if unsuccessful on another related count. Wolfson and Gerbert were both convicted and sentenced on charges of perjury and filing a false annual report. These convictions establish that both were judged to be derelict in the performance of their duty, as director or officer and they are therefore not entitled to indemnification against expenses incurred in connection with those counts.
+

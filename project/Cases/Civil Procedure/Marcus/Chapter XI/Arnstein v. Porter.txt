@@ -1,0 +1,21 @@
+Citation
+154 F.2d 464, 1946 U.S. App. 68 U.S.P.Q. (BNA) 288
+
+Brief Fact Summary
+Arnstein (Plaintiff) appealed summary judgment, which was granted to Cole Porter (Defendant). Plaintiff alleged that Defendant stole tunes for several popular songs that Defendant had written.
+
+Synopsis of Rule of Law
+Summary judgment is improper when credibility of the parties is an issue.
+
+Facts
+Plaintiff sued Defendant for copyright infringement, alleging that numerous songs of the Defendant were taken from a number of songs copyrighted by Plaintiff. Plaintiff alleged that Defendant had lived with Plaintiff, and had the opportunity to take this material from the Plaintiff. Defendant denied ever hearing or seeing any of Plaintiff’s compositions. The trial court granted Defendant’s motion for summary judgment and Plaintiff appealed.
+
+Issue
+Whether the lower court properly deprived the Plaintiff of a trial on his copyright infringement action?
+
+Held
+No. Judgment is reversed.   There are two separate elements essential to a copyright infringement action: 1) the Defendant must have copied the Plaintiff’s work; and the copying of Plaintiff’s work rose to the level of improper appropriation.  There are similarities in the Plaintiff’s and Defendant’s compositions, but they do not compel the conclusion that Defendant copied Plaintiff’s compositions. However, the similarities are enough to allow the case to go to the jury, and the jury may determine whether the similarities resulted from coincidence.  Summary judgment then would have been proper if Defendant did not have access to Plaintiff’s compositions. This also presents an issue of fact and even though part of Plaintiff’s testimony does seem extreme, the Plaintiff’s credibility should be determined by the jury. If the jury does not believe the Defendant’s, the jury could infer that Defendant had access to Plaintiff’s compositions. Thus, as the issue of credibility is involved, a genuine issue of material fact is presented. Plaintiff must not be deprived of the right to a trial by jury.   <br/><br/><span class='heading'>Dissent.</span> The majority relies on the trial to develop the facts of the case, however a trial cannot construct a case without some facts on which to start. The case is based on two premises: 1) belief that the jury has the ability to settle issues of plagiarism; 2) and a dislike of rules established by the Supreme Court of the United States as to summary   judgments. The dissent continues to defend summary judgment as an integral and useful part of the procedural system.
+
+Discussion
+This case addresses the issue of what constitutes sufficient evidence to meet the party’s burden of production. The court determines that issues of credibility constitute sufficient issues of fact for the case to proceed to the jury.   This case is overruled by
+

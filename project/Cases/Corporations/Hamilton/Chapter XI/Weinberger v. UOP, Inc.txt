@@ -1,0 +1,21 @@
+Citation
+457 A.2d 701 (Del. 1983)
+
+Brief Fact Summary
+Plaintiff, William Weinberger, brought this action to challenge the shareholder vote for a cash-out merger between Defendant, UOP, Inc., and the Defendant majority shareholder, The Signal Companies, Inc.  Plaintiff asserted that Signal breached their fiduciary duty to the minority shareholders by withholding relevant information and not disclosing conflicts of interest.
+
+Synopsis of Rule of Law
+A majority shareholder owes a fiduciary duty to minority shareholders to provide all relevant information that would pertain to a proposed cash-out merger.
+
+Facts
+Signal sold off a subsidiary company for $420 million in cash and desired to turn around and reinvest the money.  In 1975, Signal decided to purchase a majority stake in UOP.  Signal paid $21 per share (it was trading at around $14) to obtain 50.5% of UOP’s shares.  In 1978, Signal still had a great deal of money left over, and with no other attractive investments they decided to acquire all remaining shares of UOP.  At this point, Signal had placed seven directors, including the president and CEO James Crawford, on the 13-member board.  Two directors that served on both the board of Signal and of UOP, Charles Arledge and Andrew Chitiea, performed a study using information obtained from UOP that determined it would be in Signal’s interest to get the remaining shares of UOP stock for anything under $24 per share.  The Signal board decided to offer between $20-21.  Signal discussed the proposal with Crawford, and he thought the price was generous, provided that employees of UOP
+
+Issue
+The issue is whether the majority shareholder breached their fiduciary duty to the minority shareholders by withholding relevant information from non-Signal UOP directors and minority shareholders.
+
+Held
+The Supreme Court of Delaware held that the shareholder vote was not an informed vote and that Signal breached their duty as a majority shareholder to the minority shareholders.  Therefore the minority shareholders are entitled to a greater value (to be determined by weighing all relevant factors such as the Arledge-Chitiea study value).  The evidence indicated a lack of fair dealing by the majority, such as withholding the Arledge-Chitiea report from the UOP board and the shareholders.  The only information the outside directors of UOP had at their disposal was a hurried fairness opinion by an arguably interested party.  The board members that served with Signal and UOP breached their duty as UOP directors as well by not providing Arledge-Chitiea study.  They are not exempt from their duties because the entities are a parent and a subsidiary.
+
+Discussion
+The court places the same burden on majority shareholders for mergers as they would place on them for inside information.  A majority shareholder can not gain in a purchase by withholding information to a party whom they owe a fiduciary duty.
+

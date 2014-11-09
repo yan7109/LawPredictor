@@ -1,0 +1,27 @@
+Citation
+447 U.S.530 (1980)
+
+Brief Fact Summary
+The Public Service Commission (D) issued an order preventing utility companies from including inserts with their bills which represented their viewpoint on certain debatable issues concerning public policy. The Consolidated Edison Co. (P) sued against this order in court.
+
+Synopsis of Rule of Law
+Orders preventing utility companies from expressing their views on public policy matters which are debatable, through inserts included in their monthly bills, are against the constitution.
+
+Facts
+When a complaint came to light against the Consolidated Edison Co.’s inclusion of a bill insert describing its views promoting nuclear power, the Public Service Commission passed an order prohibiting the use of inserts along with the monthly bills, expressing the utility company’s opinions on controversial aspects of public policy. The company filed against the order, seeking review. The court of appeals affirmed the order on the basis that it was an appropriate measure which  regulated the time, place and manner of speech by the utility company, and was designed to protect the privacy of the company’s customers.
+
+Issue
+Is it constitutional to bar utility companies from including inserts along with their bills so as to describe their views on debatable public policy issues?
+
+Held
+(Powell, J.) No. The prohibition against utility companies including bill inserts to promote their views on some controversial public policy questions is a violation of the First Amendment as seen in the light of the Fourteenth Amendment. A regulation which restricts the time, place and manner of speech may not restrict the content of the speech as this order does. This applies not just to restricting a particular viewpoint but to any form of narrowing the entire public discussion of a topic. Any privacy invasion  here is so trivial as to be easily mitigated by the simple act of the customer discarding the insert as trash without reading it. The broadness of the order prevents it from being appropriate treatment in order to serve an interest which the state is compelled to protect.
+
+Dissent
+(Blackmun, J.) The inclusion of such inserts is a form of compelling the company’s speech to be paid for by ratepayers. This is because the monthly billing cost falls on the customer even if the cost of the inserts is met by the company stockholders.
+
+Concurrence
+(Stevens, J.) The failure of this statute to differentiate between an offensive content of speech (which is protected by law) and an offensive manner of speech (which can be regulated by law) means that it is a violation of the constitution.
+
+Discussion
+The state is not free to regulate corporations chartered by it to the extent of restricting corporate speech to specific issues, as was decided in the case of First National Bank of Boston v. Bellotti, 435 U.S.765 (1978). The state still has freedom to enact restrictions on corporate speech by specifically tailored limiting orders which can be shown to serve such interests as the state is bound to protect.
+

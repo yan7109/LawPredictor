@@ -1,0 +1,24 @@
+Citation
+501 U.S. 496, 111 S. Ct. 2419, 115 L. Ed. 2d 447, 1991 U.S.
+
+Brief Fact Summary
+The Respondent, New Yorker Magazine (Respondent), published an article that purported to quote the Petitioner, Jeffrey Mason (Petitioner). The evidence suggested that the purported quotes were in fact interpretive summaries of the Respondent’s and other subjects’ statements. The Respondent brought suit for defamation.
+
+Synopsis of Rule of Law
+A deliberate alteration of words does not equate with knowledge of falsity, unless the alteration results in a material change in the meaning conveyed by the statement.
+
+Facts
+The Petitioner worked as Projects Director of the Sigmund Freud Archives. After giving a speech acknowledging his disillusionment with Freudian psychology, the Petitioner was fired. The Petitioner then granted Janet Malcolm, a contributor to the Respondent magazine, a series of interviews. Based on these interviews, Malcolm wrote an article about the Petitioner and his work at the archives. In the article Malcolm used quotation marks to enclose long passages that reported general statements of the Petitioner, his boss and other subjects. Both parties agreed that the Petitioner was a public figure and the Respondent was granted summary judgment by the District Court. The Court of Appeals affirmed.
+
+Issue
+Was the District Court correct in its determination that the deliberate alteration of the Petitioner’s words did not result in a material change in meaning, thus knowledge of falsity was not proven under the actual malice standard?
+
+Held
+No. Judgment reversed and remanded.
+
+Dissent
+Justices Byron White (J. White) and Antonin Scalia (J. Scalia) concurred in part and dissented in part. The material change in meaning standard ignores the fact that reporting a known falsehood is sufficient to prove actual malice.
+
+Discussion
+The use of quotation marks implies that an author is directly conveying his subject’s statement rather than engaging in interpretation. Therefore, slight changes in syntax may in fact result in a material change in meaning.
+

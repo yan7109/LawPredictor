@@ -1,0 +1,24 @@
+Citation
+103 F.3d 1140, 1997 U.S. App.
+
+Brief Fact Summary
+The Third Circuit Court of Appeals (”Third Circuit”) considered a case from the Virgin Islands and a case from Delaware together, to decide whether a parent-child privilege should be recognized.  The case from the Virgin Islands involved a grand jury seeking to force the testimony of a father against a son.  The case from Delaware involved a grand jury seeking to have a daughter testify against her father.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.”) Rule 501 provides that witness privileges are to be governed by the principles of common law as interpreted by the United States courts in light of reason and experience.
+
+Facts
+The Third Circuit considered a case from the Virgin Islands and one from Delaware together.  In the Virgin Islands case, the grand jury subpoenaed the father of the target of the investigation as a witness.  The target was eighteen years old and involved in illegal transactions.  The father moved to quash the subpoena arguing that his conversations with his son were privileged under F.R.E. Rule 501.  The district court entered an order denying a motion to quash, but stayed the order pending an appeal.
+
+Issue
+Should a parent-child privilege be recognized?
+
+Held
+Circuit Judge Garth issued the opinion for the Third Circuit Court in declining to recognize a parent child privilege.
+
+Dissent
+Circuit Judge Mansmann issued an opinion concurring in part and dissenting in part which is omitted from the text.
+
+Discussion
+In its holding the Third Court noted that an overwhelming majority of federal and state courts have declined to recognize the privilege, F.R.E. Rule 501 does not support creating the privilege, and Congress would be better suited to recognize such a privilege instead of the courts.  Further, such a privilege could hurt the parent-child relationship if a parent is allowed to waive the privilege because the child’s assurances of confidence only exist as long as the parent chooses.
+

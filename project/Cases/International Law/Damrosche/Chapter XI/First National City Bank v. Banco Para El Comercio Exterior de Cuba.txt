@@ -1,0 +1,21 @@
+Citation
+462 U.S. 611 (1983)
+
+Brief Fact Summary
+First National City Bank (now Citibank) (D) claimed that the payment on a letter of credit issued before the Cuban government nationalized all assets would be settled with the value of its assets seized in Cuba against a claim by Banco Para El Comercio Exterior de Cuba (Bancec) (P).
+
+Synopsis of Rule of Law
+Attributing liability among instrumentalities of a foreign state is not affected by the Foreign Sovereign Immunities Act of 1976 (FSIA).
+
+Facts
+In 1960, Bancec (P) was established by the Cuban government which later sued Citibank (D) on a letter of credit. This led the Cuban government to seize all of Citibank’s (D) assets in Cuba. Bancec (P) was subsequently dissolved and the Cuban government was substituted as plaintiff. With the assertion of its right to set off the value of its seized assets in Cuban, Citibank (D) counterclaimed. However, the plaintiff claimed immunity from suit as an instrumentality owned by a foreign government under the FSIA. Certiorari was however granted by the U.S. Supreme Court.
+
+Issue
+Does the attribution of liabilities among instrumentalities of a foreign state affected by the Foreign Sovereign Immunities Act of 1976?
+
+Held
+(O’Connor, J) No. Attributing liability among instrumentalities of a foreign state is not affected by the Foreign Sovereign Immunities Act of 1976.  The FSIA was not enacted to alter the substantive law of liability. When a claim is asserted by a foreign sovereign in the U.S court, the state is barred from asserting a defense of sovereign immunity to defeat a setoff or counterclaim due to the consideration of a fair dealing. Hence, the amount sought by Bancec (P) can be setoff with the value of its assets seized by the Cuban government.
+
+Discussion
+The notion that Cuban bank could claim sovereign immunity was summarily dismissed by the court by the application of the principles of both international and federal law. Any judgment entered in favor of an instrumentality of the Cuban government as stated under the Cuban Assets Control Regulations, would be confiscated pending settlement of claims between Cuba and the U.S.
+

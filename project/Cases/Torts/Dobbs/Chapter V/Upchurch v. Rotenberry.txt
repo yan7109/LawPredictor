@@ -1,0 +1,24 @@
+Citation
+761 So. 2d 199, 2000 Miss.
+
+Brief Fact Summary
+The Oktibbeha County Circuit Court (Mississippi) entered judgment in favor of appellee Rotenberry in connection with a car accident in which appellant’s son died. Appellant, the decedent’s mother challenged the judgment denying her motion for judgment notwithstanding the verdict or for a new trial in her personal injury action.
+
+Synopsis of Rule of Law
+The jury is the judge of the weight of the evidence and the credibility of the witnesses. An appellate court will not intrude into the realm of the jury by determining the credibility of a witness and making findings of fact. The jury is the judge of the weight of the evidence and the credibility of the witnesses.
+
+Facts
+In October 1992 Teresa Rotenberry was driving a car in which Timothy Upchurch was the sole passenger. Rotenberry lost control of the vehicle, veered off the road, and struck a tree. Upchurch dies from resulting injuries. Rotenberry was the only witness. She claimed that a large animal had darted in front of her car, causing her to lose control. A jury concluded that Rotenberry’s explanation was factual and thus found in defendant’s favor.
+
+Issue
+May an appellate court grant motion for judgment notwithstanding the verdict when the issue is the determination of fact?
+
+Held
+The court held that a reasonable and fair-minded jury could reach different conclusions of fact, and that it is the jury, not the court, which properly makes such determinations.
+
+Dissent
+The dissent questioned the manner in which the majority framed the issue, i.e., if the matter of factual determination properly rests with a jury. Rather, the dissent focused on the matter of culpability: “The question is, was there any negligence on her part in the one-car crash? Since there was absolutely no negligence on the part of the passenger, a finding of 1% negligence or more by Rotenberry would warrant recovery.” Thus, the dissent took the view that “[a] directed verdict should have been granted as to liability and the jury should have only determined damages.”
+
+Discussion
+In its opinion the Upchurch court provides a textbook explication of the respective roles of the court and jury with respect to determination of fact: “The resolution of disputed facts is a duty that devolves upon the jury sitting as finders of fact. They are charged with listening to the witnesses, observing their demeanor, and coming to their own conclusions of which evidence they find more credible. The system of jurisprudence has determined that citizen jurors, employing their native intelligence and collective life experiences, are best qualified to make those judgments. Absent some clear indication that the jurors in a particular case somehow ignored that duty, neither the trial court, nor an appellate court reviewing the record on appeal, are permitted to interfere in the conclusions reached by these jurors.”
+

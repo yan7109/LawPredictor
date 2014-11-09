@@ -1,0 +1,24 @@
+Citation
+260 U.S. 393, 43 S. Ct. 158, 67 L. Ed. 322 (1922)
+
+Brief Fact Summary
+Mahon (Plaintiff) owned a house with surface rights to the land. Pennsylvania Coal Co. (Defendant) owned the mining rights, and was the grantor of Plaintiff’s estate. Plaintiff waived all claims arising from damages due to the mining of the coal beneath the land. The Kohler Act (Act) forbid the mining of coal when it causes the subsistence of any structure. Exceptions occur when the surface is owned by the owner of the underlying coal, and is more than hundred and fifty feet from any improved property belonging to any other person.
+
+Synopsis of Rule of Law
+The general rule is that while property may be regulated to a certain extent, if the regulation goes too far it will be considered a taking.
+
+Facts
+Plaintiff sued the Defendant to prevent the mining of coal under Plaintiff’s house. The mining removed the supports and caused the house to subsist. Plaintiff contends that the Act eliminates any rights the Defendant might have had. The lower state court found that the Act was not constitutional as applied to this Defendant even though the potential injury claimed by Plaintiff is the type of injury the Act seeks to prevent. The Supreme Court of Pennsylvania found that the Defendant did have contract and property rights, which were protected by the United States Constitution, however, the Act was constitutional as a legitimate exercise of the police power by the state. Defendant appealed.
+
+Issue
+Is the Kohler Act a legitimate exercise of the police power?
+
+Held
+No. The decision of the Supreme Court of Pennsylvania is reversed.
+
+Dissent
+The mining under Plaintiff’s house is dangerous and constitutes a public nuisance.
+
+Discussion
+The effect of the court’s decision is not to strike down the Act, but requires the taking under the act to be constitutional, and just compensation for the coal company be provided.
+

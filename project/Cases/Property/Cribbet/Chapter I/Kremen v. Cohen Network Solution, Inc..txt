@@ -1,0 +1,21 @@
+Citation
+337 F.3d 1024
+
+Brief Fact Summary
+Plaintiff Kremen sued Defendant Network Solution, Inc. for conversion to recover losses related to Defendant’s improperly reassigning Plaintiff’s domain name “sex.com” to another person.
+
+Synopsis of Rule of Law
+To establish the tort of conversion, a plaintiff must show (1) ownership or right to possession of property, (2) wrongful disposition of the property right, and (3) damages.  To determine whether a “property right” exists in satisfaction of element (1) of conversion, there must be (1) an interest capable of precise definition, (2) it must be capable of exclusive control, and (3) the putative owner must have established a legitimate claim to exclusivity.
+
+Facts
+In 1994, Plaintiff Kremen (“Kremen”) obtained the domain name “sex.com” from the Defendant, domain name registrar Network Solution, Inc. (“NSI”).  Because the internet had not yet gained mass popularity as a vehicle for commercial profit, obtaining domain names at that time was free.  At the time, NSI had a government cooperative agreement with the National Science Foundation making NSI the .com registrar.  Kremen registered the domain name to his business, Online Classifieds, and listed himself as the contact.  Con man Stephen Cohen (“Cohen”) desired to obtain the name sex.com for himself, so he sent a forged letter to NSI claiming that Online Classifieds had been forced to dismiss Kremen and that the company wished to abandon the domain name sex.com.  NSI made no attempt to contact Kremen and instead transferred the domain name to Cohen, who went on to turn sex.com into a lucrative online porn empire.  Kremen sued Cohen seeking return of the domain name and disgorgement of profits.  The district court ruled in Kremen’s favor, but due to Cohen’s cunning, leaving the country, and other judgments on his property, Kremen was unable to located Cohen or collect on his judgment.  Accordingly, he sued NSI instead.
+
+Issue
+Whether a registrant of an internet domain name has an intangible property right in that domain name such that wrongful disposition of that property can constitute the tort of conversion.
+
+Held
+Yes.  To establish the tort of conversion, a plaintiff must show (1) ownership or right to possession of property, (2) wrongful disposition of the property right, and (3) damages.  Thus, the preliminary question posited by the first element of conversion is whether a plaintiff in fact has property rights in the item allegedly converted.  Accordingly, to determine whether a property right exists, there must be (1) an interest capable of precise definition, (2) it must be capable of exclusive control, and (3) the putative owner must have established a legitimate claim to exclusivity.  The court held that internet domain names satisfy all property right criteria because (1) a domain registrant decides where on the internet those who invoke that particular name are sent, (2) ownership is exclusive because the registrant alone makes that decision, and (3) registering a domain name informs others that the domain name is the registrant’s and no one else’s. In addition, the court rejected the Restatement’s strict requirement that intangible property rights must be merged in a document in order to succeed on a conversion claim.  The court referenced a leading case, Payne v. Elliot, 54 Cal. 339 (1880), in which the California Supreme Court held that shares in a corporation could be converted because they are a “species of personal property” and therefore protected.  Accordingly, the Ninth Circuit reversed the decision of the district court on the conversion count and remanded it for further proceedings.
+
+Discussion
+This decision stands for the proposition that a claim of conversion can be based on the disposition of almost every species of personal property, including intangible property such as domain names.  It also explains how most courts have departed from the Restatement’s requirement that some document must actually represent the owner’s intangible property right.
+

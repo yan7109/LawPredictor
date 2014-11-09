@@ -1,0 +1,21 @@
+Citation
+861 F.2d 29 (2d Cir. 1988)
+
+Brief Fact Summary
+Plaintiff, Lillian Rauch, challenged a merger between Defendants, RCA Corp. et al., because it avoided paying Plaintiff the share value outlined in the redemption provision of RCA’s certificate of incorporation.
+
+Synopsis of Rule of Law
+A conversion of shares to cash to complete a merger is legally distinct from a redemption of shares and therefore redemption provisions or laws governing redemption are inapplicable.
+
+Facts
+Plaintiff owned 250 preferred shares of RCA.  Defendant General Electric Company (”GE”) sought to acquire RCA, and set up a subsidiary, Gesub, Inc., to carry out the acquisition.  RCA and Gesub shares were converted to cash and Gesub then merged into RCA.  The terms of the merger priced Plaintiff’s stock at $40.00 per share.  A provision in RCA’s certificate of incorporation provided a $100 per share value if Plaintiff’s shares were ever redeemed by RCA.  Plaintiff’s argument is that the merger acts as an end-around to avoid paying Plaintiff her $100 per share.
+
+Issue
+The issue is whether the merger between Defendant corporations that resulted in a $40 per share payout to Plaintiff was invalid because it violated the redemption provision of RCA’s certificate of incorporation.
+
+Held
+The United States Court of Appeals for the Second Circuit held that the merger is valid and therefore Plaintiff’s action is dismissed under the doctrine of independent legal significance.  The merger complied with Delaware’s merger statute, and Defendants had the right to choose to merge rather than redeem shares.  Delaware has given different corporate statutes equal dignity which allows a company to pursue different avenues without having to worry about violating other alternatives.
+
+Discussion
+The doctrine of independent legal significance simplifies the complexity of corporate law because a corporation can be assured that as long as they satisfy the elements of one provision then they will not have to worry about the large amount of other provisions that could possibly be applicable to a transaction.
+

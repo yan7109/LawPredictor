@@ -1,0 +1,21 @@
+Citation
+22 Ill.174 Misc. 2d 451, 664 N.Y.S.2d 698 (Sup. Ct. 1997)
+
+Brief Fact Summary
+A beverage supplier and marketer terminated a contract with a distributor after a problematic course of business dealings.
+
+Synopsis of Rule of Law
+One party may demand assurances from another party when there are reasonable grounds for insecurity regarding that party’s performance and the demanding party may suspend its performance until it has received such assurances.
+
+Facts
+The Plaintiff, Hornell Brewing Co. (Plaintiff), granted the Defendant, Spry (Defendant), an exclusive right to distribute Plaintiff’s beverages in Canada. Throughout the parties’ relationship, the Defendant failed to remit timely payment for shipments of the beverage. The Plaintiff asked the Defendant to obtain a line of credit to secure their relationship. Payment in the amount of $79,316.24 was due to the Plaintiff by May 2, 1994, upon receipt of which the Plaintiff agreed to ship up to $300,000 worth of product to the Defendant. The Plaintiff did not receive payment until May 9, 1994, at which time the Defendant ordered a shipment in excess of the authorized amount of $300,000. Meanwhile, the Plaintiff learned that the Defendant’s Canadian operation was essentially a sham. The Plaintiff informed the Defendant that they would not ship any more goods to the Plaintiff until they received a letter confirming the existence of the Defendant’s line of credit. The Defendant did not
+
+Issue
+Is a party entitled to assurances when they have reasonable circumstances to believe that the other party will not meet its contractual obligations?
+
+Held
+Yes. Declaratory judgment granted. The Defendant has no continuing rights with respect to the Plaintiff’s products.
+
+Discussion
+Because this case involves the sale of goods, the court looked to the UCC, which allows one party to demand assurances of due performance where they have reasonable grounds for insecurity. In the instant case, the court found that the Plaintiff had sufficient grounds for insecurity, based on the troublesome business relationship and the Defendant’s poor payment history. The court rejected the Defendant’s argument that the Plaintiff may not suspend performance after receiving adequate assurances and that there was no change of circumstances warranting further assurances. Instead the court reasoned that there was a change of circumstances in that the Defendant demanded a shipment of product in excess of the authorized limit. Also, the Defendant’s failure to respond to the Plaintiff’s request for assurances amounted to a repudiation, which entitled the Plaintiff to terminate the agreement.
+

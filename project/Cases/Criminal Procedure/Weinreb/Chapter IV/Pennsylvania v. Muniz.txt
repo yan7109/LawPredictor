@@ -1,0 +1,24 @@
+Citation
+496 U.S. 582, 110 S. Ct. 2638, 110 L. Ed. 2d 528 (1990)
+
+Brief Fact Summary
+A police officer found two individuals in a car parked on the side of a highway.  The officer thought he smelled alcohol on one of the individual’s breath and began sobriety tests.
+
+Synopsis of Rule of Law
+There is not a single rule that comes from this case.
+
+Facts
+The Respondent, Inocencio Muniz (the “Respondent”), and a passenger were parked in a car on the shoulder of a highway.  A police officer saw them and asked if they needed any assistance.  The officer smelled alcohol on the Respondent’s breath and thought he was exhibiting other signs of intoxication.  The Respondent drove off after the officer told him to stay put and the officer pulled him over.  He then had the Respondent perform three field sobriety tests.
+
+Issue
+“[W]hether various incriminating utterances of a drunken-driving suspect, made while performing a series of sobriety tests, constitute testimonial responses to custodial interrogation for purposes of the Self-Incrimination Clause of the Fifth Amendment.”
+
+Held
+The majority observed “[t]his case implicates both the ‘testimonial’ and ‘compulsion’ components of the privilege against self-incrimination in the context of pretrial questioning. Because Muniz was not advised of his Miranda rights until after the videotaped proceedings at the booking center were completed, any verbal statements that were both testimonial in nature and elicited during custodial interrogation should have been suppressed.”
+
+Dissent
+Justice Rehnquist, Justice White, Justice Blackmun and Justice Stevens concur and dissent in part.  The justices concur that the “that the seven ‘booking’ questions should not be suppressed.”  However, they dissent “from the Court’s conclusion that Muniz’s response to the ’sixth birthday question’ should have been suppressed.”
+
+Discussion
+This case is a good example of how the court construes whether something is testimonial.
+

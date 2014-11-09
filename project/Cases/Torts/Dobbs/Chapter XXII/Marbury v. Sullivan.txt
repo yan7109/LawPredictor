@@ -1,0 +1,21 @@
+Citation
+957 F.2d 837 (11th Cir. 1992)
+
+Brief Fact Summary
+The United States District Court for the Middle District of Alabama affirmed the Social Security Appeals Council’s decision to deny the Plaintiff, social security claimant Marbury’s (Plaintiff) benefits, holding that the decision was supported by substantial evidence. The Plaintiff social security claimant appealed the judgment.
+
+Synopsis of Rule of Law
+The Office of the Secretary of Health and Human Services must consider a claimant’s subjective testimony of pain if he finds evidence of an underlying medical condition, and either (1) objective medical evidence to confirm the severity of the alleged pain arising from that condition, or (2) that the objectively determined medical condition is of a severity that can reasonably be expected to give rise to the alleged pain.
+
+Facts
+The Social Security Appeals Council denied benefits to the Plaintiff social security claimant, having affirmed the findings of an administrative law judge (ALJ) that the Plaintiff could do unlimited types of light work. The ALJ had characterized the Plaintiff’s seizure disorder as questionable, as well as dismissing the Plaintiff social security claimant’s testimony of recurring pain. The district court, concluding the decision was supported by substantial evidence, affirmed.
+
+Issue
+Did the administrative law judge err in his evaluations of the Plaintiff’s claims?
+
+Held
+The court reversed the denial of benefits to the Plaintiff. The Court of Appeals held that the ALJ erred in his evaluation of claimant’s testimony and also erred when he characterized the Plaintiff’s seizures as questionable without medical evidence to the same effect.
+
+Discussion
+The issues in Marbury are primarily evidentiary in nature, specifically the types of proof to be evaluated when applying the standard by which a claimant’s case is to be reviewed by the Secretary of Health and Human Services (or usually, more accurately, by his/her proxy). The court, employing a highly critical tenor, first points out that “Because the ALJ made no factual findings supporting an inference that the treating physicians were incompetent or otherwise failed to perform their duties in a professional manner, the ALJ’s decision not to credit seriously the medical diagnoses indicating psychogenically caused seizures cannot stand.” The court then takes the opportunity to outline the proper standard, noting, “After considering a claimant’s complaints of pain, the ALJ may reject them as not creditable, and that determination will be reviewed for substantial evidence.” The court found the ALJ’s evaluative process sorely lacking, and stated, “In this case, the ALJ has
+

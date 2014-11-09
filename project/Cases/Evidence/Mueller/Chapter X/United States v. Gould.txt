@@ -1,0 +1,21 @@
+Citation
+131 S. Ct. 18, 178 L. Ed. 2d 348, 2010 U.S.
+
+Brief Fact Summary
+Defendants were convicted of importing and conspiracy to import drugs after attempting to smuggle cocaine into the United States in hollowed-out shoes.
+
+Synopsis of Rule of Law
+Federal Rule of Evidence 201(g) which provides that in criminal cases, the court shall instruct the jury that it may, but is not required to, accept as conclusive any fact judicially noticed, only applies to adjudicative facts and not legislative.
+
+Facts
+Charles Gould and Joseph Carey, Defendants, were convicted of conspiracy to import drugs and importing cocaine from Colombia South America.  Defendants, David Miller, and Barbara Kenworthy went to Columbia together and smuggled the cocaine in two pairs of hollowed-out platform shoes.  The cocaine was discovered in Kenworthy’s shoes at the Miami airport.  The District Court instructed the jury that if they find the substance in the shoes in cocaine, then they are instructed that cocaine is a schedule II controlled substance under the laws of the United States.  Defendants claim that it was error for the District Court to take judicial notice of the fact that cocaine is on the schedule II controlled substance.  Further, the Defendants claim that it was error for the District Court to instruct the jury that the judicially noticed fact must be accepted by them.
+
+Issue
+Was it error for the District Court to take judicial notice of the fact that cocaine is a  schedule II controlled substance?
+
+Held
+The United States Eighth Circuit Court of Appeals found that it was not error to take judicial notice that cocaine is a schedule II controlled substance.
+
+Discussion
+Adjudicative facts are those that relate to the parties and the case and that normally go to a jury in a case.  Legislative facts are established truths that would not change from case to case.  Here, the District Court took judicial notice of a legislative fact and thus was not obligated to inform the jury that it could disregard the fact based on Federal Rule of Evidence 201(g)
+

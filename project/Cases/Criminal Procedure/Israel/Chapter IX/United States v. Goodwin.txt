@@ -1,0 +1,24 @@
+Citation
+457 U.S. 368, 102 S. Ct. 2485, 73 L. Ed. 2d 74 (1982)
+
+Brief Fact Summary
+Prosecutors intensify charges against respondent Goodwin after he first agrees to plea bargain, and then refuses to plead guilty.
+
+Synopsis of Rule of Law
+A prosecutor changing the charges against a defendant pretrial does not result in a presumption that a defendant’s Fifth Amendment due process rights have been violated through prosecutorial vindictiveness.
+
+Facts
+After being charged with many misdemeanor and petty offenses after an assault, the respondent said he wanted to plea bargain on these charges.  He later refused to and sought a jury trial, and the prosecutor responded by seeking and receiving an indictment for a felony count of assaulting a federal officer on the same facts.  The respondent was convicted of the felony, and then sought reversal on grounds of prosecutorial vindictiveness.  The District Court denied the motion, and the Fourth Circuit Court of Appeals reversed on due process grounds.  The government then was granted certiorari.
+
+Issue
+If a prosecutor intensifies the charges pretrial against a defendant after they first agree to and then refuse to plead guilty, does a presumption arise that they have violated that defendant’s due process rights?
+
+Held
+No.  Reverse the conviction and remand.
+
+Dissent
+Justice William Brennan believed that the facts of this case could easily support the inference of a realistic likelihood of vindictiveness.
+
+Discussion
+In looking at this case on a policy level moreso than its specific facts, a strong motivation for the majority in this case seems to be the fact that prosecutors often come to view an offense more seriously during the course of pretrial investigation regardless of what the defense has done.  The majority view this result as an important grant of leeway to prosecutors, a grant that overcomes the relatively much smaller of risk of prosecutorial vindictivenes
+

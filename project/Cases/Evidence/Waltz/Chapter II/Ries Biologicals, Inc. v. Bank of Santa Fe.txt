@@ -1,0 +1,21 @@
+Citation
+780 F.2d 888, 1986 U.S. App.
+
+Brief Fact Summary
+The plaintiff, Ries Biologicals, Inc. (the “plaintiff”) had stopped shipping equipment to Dialysis Management Systems, Inc. (”Dialysis”) because of non payment. They resumed sending supplies upon the oral promise by Bank of Santa Fe (the “Bank”) that payment was guaranteed for all shipments approved in advance.
+
+Synopsis of Rule of Law
+Evidence introduced to prove the existence of guarantee arrangements is not hearsay.
+
+Facts
+When Dialysis failed to pay a $42,000 debt to plaintiff, plaintiff stopped sending supplies except for cash on delivery.  They resumed sending supplies on credit after receiving an oral promise from the vice president of the Bank, to the effect that all pre approved shipments would be guaranteed by the Bank. Despite that promise, payment was not forthcoming, and plaintiff sued the Bank for payment.  The trial court awarded damages and attorney’s fees.  The Bank appealed.
+
+Issue
+Whether statements made by the vice president of the Bank regarding the alleged agreement to guarantee payments were hearsay and thus improperly admitted?
+
+Held
+No.  Under the Federal Rules of Evidence (”F.R.E”) Rule 801(d)(2)(D), the statements were not hearsay and thus properly admitted.  The vice president had substantial authority to manage the Bank’s affairs and the documents were offered to establish evidence of guarantee arrangements.
+
+Discussion
+The documents in question were not admitted to prove the truth of the matters contained therein, but rather to prove the existence of the arrangements.  As a result, they were not hearsay and properly admitted.
+

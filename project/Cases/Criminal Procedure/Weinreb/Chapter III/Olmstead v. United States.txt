@@ -1,0 +1,27 @@
+Citation
+277 U.S. 438, 48 S. Ct. 564, 72 L. Ed. 944 (1928)
+
+Brief Fact Summary
+The conversations of various individuals involved in illegal liquor sales were tapped.
+
+Synopsis of Rule of Law
+“A standard which would forbid the reception of evidence, if obtained by other than nice ethical conduct by government officials, would make society suffer and give criminals greater immunity than has been known heretofore. In the absence of controlling legislation by Congress, those who realize the difficulties in bringing offenders to justice may well deem it wise that the exclusion of evidence should be confined to cases where rights under the Constitution would be violated by admitting it.”
+
+Facts
+Various individuals were convicted of liquor related crimes, including conspiracy.  The operation grossed a substantial amount of money.  The leading conspirator and the general manager of the business was one of the Petitioners, Olmstead (the “Petitioner”).  The main office of the business was in Seattle and there were three telephones in the office, each on a different line.  There were also telephones in an office the Petitioner had in his own home, at the home of his associates and various other places in Seattle.  A lot of communication occurred between Seattle and Vancouver, British Columbia.
+
+Issue
+“[W]hether the use of evidence of private telephone conversations between the defendants and others, intercepted by means of wire tapping, amounted to a violation of the Fourth and Fifth Amendments[?]”
+
+Held
+“The [Fourth] amendment does not forbid what was done here. There was no searching. There was no seizure. The evidence was secured by the use of the sense of hearing and that only. There was no entry of the houses or offices of the defendants.  By the invention of the telephone 50 years ago, and its application for the purpose of extending communications, one can talk with another at a far distant place.  The language of the amendment cannot be extended and expanded to include telephone wires, reaching to the whole world from the defendant’s house or office. The intervening wires are not part of his house or office, any more than are the highways along which they are stretched.”
+
+Dissent
+Justice Holmes filed a dissenting opinion and argued “that apart from the Constitution the government ought not to use evidence obtained and only obtainable by a criminal act. There is no body of precedents by which we are bound, and which confines us to logical deduction from established rules. Therefore [the Court] must consider the two objects of desire both of which [the Court] cannot have and make up our minds which to choose. It is desirable that criminals should be detected, and to that end that all available evidence should be used. It also is desirable that the government should not itself foster and pay for other crimes, when they are the means by which the evidence is to be obtained. If it pays its officers for having got evidence by crime I do not see why it may not as well pay them for getting it in the same way, and I can attach no importance to protestations of disapproval if it knowingly accepts and pays and announces that in future it will pay for the fruits
+
+Dissent
+Justice Brandeis filed a dissenting opinion and argued “[a]pplying to the Fourth and Fifth Amendments the established rule of construction, the defendants’ objections to the evidence obtained by wire tapping must, in my opinion, be sustained. It is, of course, immaterial where the physical connection with the telephone wires leading into the defendants’ premises was made. And it is also immaterial that the intrusion was in aid of law enforcement. Experience should teach us to be most on our guard to protect liberty when the government’s purposes are beneficent. Men born to freedom are naturally alert to repel invasion of their liberty by evil-minded rulers. The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding.”
+
+Discussion
+This is an interesting case, demonstrating how the Supreme Court thinks in certain situations a bright line rule will not cover every situation.
+

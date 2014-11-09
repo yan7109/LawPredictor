@@ -1,0 +1,21 @@
+Citation
+598 F.2d 1357, 1979 U.S. App. 12976
+
+Brief Fact Summary
+In 1975, the Plaintiff, Theresa Plant (Plaintiff), executed a note in favor of the Defendant, Blazer Financial Services, Inc. (Defendant), for $2,520 to be paid in monthly installments of $105.00. No payments were made on the note. After Plaintiff filed a suit based on an alleged violation of the Federal Truth-In-Lending Act (the Act), Defendant counterclaimed based on Plaintiff’s failure to pay the promised debt.
+
+Synopsis of Rule of Law
+A permissive counterclaim must have an independent jurisdictional basis, while it is generally accepted that a compulsory counterclaim falls within the ancillary jurisdiction of the federal courts even if it would ordinarily be a matter for state court jurisdiction. A counterclaim is compulsory where the obvious interrelationship of the claims and rights of the parties, coupled with the common factual basis of the claims, demonstrates a logical relationship between the claim and counterclaim.
+
+Facts
+In 1975 Plaintiff executed a note in favor of Defendant for $2,520 to be paid in monthly installments of $105.00. No payments were made on the note. In 1976 Plaintiff commenced a civil action under the Act, for failure to make disclosures required by the Act. Defendant counterclaimed on the note for the unpaid balance. The trial court held Defendant violated the Act and awarded Plaintiff the statutory penalty of $944.76 and $700.00 in attorney’s fees. The trial court ruled that Defendant’s counterclaim on the underlying debts was compulsory. The issue was jurisdictional.
+
+Issue
+Whether a counterclaim regarding default on loan payments is a compulsory counterclaim on a truth-in-lending cause of action such that the default counterclaim need not have an independent federal jurisdictional basis.
+
+Held
+Yes. An action on an underlying debt in default is a compulsory counterclaim that must be asserted in a suit by the debtor on a truth-in-lending cause of action.   A permissive counterclaim must have an independent jurisdictional basis, while it is generally accepted that a compulsory counterclaim falls within the ancillary jurisdiction of the federal courts even if it would ordinarily be a matter for state court jurisdiction.  Federal Rule of Civil Procedure (FRCP) Rule 13(a) provides that a counterclaim is compulsory if it arises out of the same transaction or occurrence that is the subject matter of plaintiff’s claim. The obvious interrelationship of the claims and rights of the parties, coupled with the common factual basis of the claims, demonstrates a logical relationship between the claim and counterclaim.
+
+Discussion
+The main concept in this case is an understanding of the practical effect of the difference between a permissive and compulsory counterclaim. In this case, if Defendant’s counterclaim were to be treated as permissive, Defendant’s action on the default of the debt would have to be pursued in state court in a separate action. Here, because the court choose to apply the logical relationship test, Defendant’s action was a compulsory counterclaim, since a single occurrence, the loan transaction, gave rise to both Plaintiff’s and Defendant’s claim.
+

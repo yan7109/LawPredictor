@@ -1,0 +1,24 @@
+Citation
+105 Wn.2d 366, 715 P.2d 514, 1986 Wash.
+
+Brief Fact Summary
+TheBrowns (Plaintiffs) brought an action to remove obstructions placed on a private road access to their properties parcel B and parcel C. The Voss family (Defendants) owned the servient estate, parcel A on which there was private road easement to access the dominant estate, parcel B. Defendants sought to prevent Plaintiffs use of that easement because the road was being used to access a third piece of property, parcel C, that was not part of the dominant estate.
+
+Synopsis of Rule of Law
+Based on the equities, Plaintiffs would not be enjoined from using the easement to access parcel C, although it was a technical misuse of the easement which by express grant only to gave access the residence on parcel B.
+
+Facts
+When Plaintiffs acquired parcel B there was a single-family dwelling. Plaintiffs planned to remove that house and build another single family house that would straddle the boundary of parcel B and parcel C. In the express grant of the easement creating the private road, Parcel B was the dominant estate which benefited from the easement over Defendant’s servient estate, Parcel A. Parcel C thus was not technically involved or contemplated in the original easement and was not in title part of the dominant estate. The Trial Court found there was no increase in the volume of travel to reach a single family dwelling whether it was strictly on parcel B or on parcel B and parcel C. Defendants sought to enjoin the plaintiffs from using the private road to access their home being constructed on the boundary of parcel B and parcel C. The trial court had found parcel C would be landlocked if an injunction were granted.
+
+Issue
+Whether the holder of a private road easement can cross the servient estate to access both the dominant estate and an additional estate that was acquired later if the two estates are used in such a way that there is no increase in burden on the servient estate.
+
+Held
+The Supreme Court of Washington agreed with the trial court and held that no injunction should issue based on the equities. Since the trial court found that there was no increase in burden on the servient estate since it was being used for the same purpose, and the Plaintiffs acted reasonably in the development of the property, the trial court acted within its discretion to deny the injunction, even though it was technically a misuse of the easement to access parcel B expressly.
+
+Dissent
+Justice Dore (J. Dore) found that use of the easement was improper under the Restatement of Property and that the injunction should be issued. Plaintiffs were responsible if parcel C was landlocked without an easement. In spite of the lack of hardship to the servient estate, J. Dore thought that the Plaintiffs should have to obtain statutory way of necessity to access parcel C.
+
+Discussion
+Nondominant property may also enjoy use of an easement, although technically improper, if it is found to be the more equitable solution in a proceeding for an injunction, which is based on the discretion of the trial court.
+

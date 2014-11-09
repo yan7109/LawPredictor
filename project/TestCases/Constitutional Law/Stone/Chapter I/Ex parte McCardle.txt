@@ -1,0 +1,21 @@
+Citation
+74 U.S. 506, 7 Wall. 506, 19 L. Ed. 264 (1869)
+
+Brief Fact Summary
+McCardle filed an appeal to the Supreme Court of the United States (Supreme Court) by invoking a habeas corpus statute enacted by Congress. While the case was still pending, Congress repealed the statute.
+
+Synopsis of Rule of Law
+Congress may make exceptions to cases in which the Supreme Court has appellate jurisdiction under Article III, Section 2 of the United States Constitution (Constitution).
+
+Facts
+McCardle was arrested for publishing articles in a newspaper in Mississippi, which was under the control of the national army pursuant to the post Civil War reconstruction plan adopted by Congress. McCardle sought habeas corpus relief from a federal court in Mississippi on the ground that the reconstruction plan under which he was arrested was unconstitutional. After losing in the trial court, McCardle appealed to the Supreme Court under a habeas corpus statute enacted by Congress in 1867, which conferred jurisdiction on appeal to the Supreme Court over habeas corpus matters. While the case was still pending, prior to the Court announcing a decision, Congress repealed its 1867 act.
+
+Issue
+May Congress withdraw jurisdiction from the Supreme Court after jurisdiction has been given?
+
+Held
+Yes.
+
+Discussion
+This case is really about the extent to which Congress can restrict access to appellate review by the Supreme Court. It is worth noting that Congress did not remove all channels of obtaining Supreme Court review when it repealed the Act of 1867.
+

@@ -1,0 +1,27 @@
+Citation
+547 U.S. 410 (2006)
+
+Brief Fact Summary
+Richard Ceballos (P) sued the government (D) for disciplining his communications which opposed government interests, on the ground that the government’s action violated the First Amendment.
+
+Synopsis of Rule of Law
+A public official may exercise protected freedom of speech only during private speech, ie, as part of his life as a private citizen, and not during his official duties.
+
+Facts
+Richard Ceballos (P) was an employee of the Los Angeles District Attorney’s office. When he found that a sheriff had wrongly presented the facts in an affidavit for a search warrant, he made the matter known to the prosecuting attorneys in the case. They agreed with him that the affidavit was likely not correct. However, the D.A.’s office refused to dismiss the case. Following this, he revealed his belief to the defense counsel, and was subpoenaed by the defense. Later he sued the D.A.’s office on the ground that the D.A.s in his office were treating him badly in repayment for his cooperation with the defense, which cooperation formed part of his right to freedom of speech under the First Amendment. The district court found for the D.A. under the plea of qualified immunity, but this decision was reversed by the Ninth Circuit Court of Appeals, which held that qualified immunity did not apply since the speech by Ceballosconcerned  matters  which concerned the public and  was therefore protected by the First Amendment.
+
+Issue
+Can a public official’s speech only be guaranteed protection  under the First Amendment if he speaks in his capacity as a private citizen and not under his public duty?
+
+Held
+(Kennedy, J.) Yes. Speech by a public official can on ly be guaranteed freedom under the First Amendment if he speaks as a private individual and not in the course of his public duties. When their speech is made as a result of engaging in or as a part of performing their public responsibilities, the officials are not treated as citizens as far as freedom of speech goes, so that their freedom of speech is constrained by the employer’s interests. Ceballos’ employers took  justifiable action against him based on his cooperation with the defense in court, because this speech was made as part of his official duties.
+
+Dissent
+(Stevens, J.) The distinction between a private speech as a citizen and a speech while performing public duties is a false one, and a government employee is also entitled at times to free speech protected from employer discipline by the First Amendment, depending on the particular situation.
+
+Concurrence
+N/A
+
+Discussion
+In this case the ruling in Pickering v. Board of Education, 391 U.S. 563, where it was decided that the government can justly discipline or let go of employees who speak about public matters provided their speech counter to employer policy is shown to hinder administrative efficiency. In this case, additionally, the court ruled that a public official’s speech is not protected unless made as a private citizen, and not while he is performing public duties.
+

@@ -1,0 +1,21 @@
+Citation
+656 F.2d 1147, 1981 U.S. App.
+
+Brief Fact Summary
+Decedent driver collided with Defendant’s truck parked on the right shoulder of the road.  At trial, a motion in limine was granted to exclude evidence of a blood test that indicated decedent’s blood alcohol level was .24%.
+
+Synopsis of Rule of Law
+Evidence with a high probative value will be admissible even if it is prejudicial.
+
+Facts
+Plaitniffs, Yolanda and Terrence Ballou and Lula Mae LeBlanc, were representatives for the decedents, Jesse Ballou and Leonard Herman Clay.  Jesse Ballou drove his car into the rear of a truck owned by Defendant, Henri Studios, Inc. The truck driver pulled the truck on to the right shoulder and set up hazard signals behind the truck.  Evidence at trial was presented to determine if the signals were set up according to Texas law.  Prior to trial, Plaintiffs filed a motion in limine to prevent a blood alcohol test administered to Jesse Ballou from being produced at trial.  The test indicated Jesse’s blood alcohol level to be .24%.  Plaintiffs argued that the chain of custody for the blood sample was insufficient, and there was no other evidence of Jesse’s drinking that day.    The trial judge granted the motion, and the jury found Defendant 55% negligent in rewarding damages.
+
+Issue
+The issue is whether the blood alcohol level should have been admitted as evidence under Rule 403 of the Federal Rules of Evidence.
+
+Held
+The blood test should have been admitted as evidence under Rule 403.  The evidence that both sides presented in determining whether the blood sample was reliable was evidence that should be weighed by a jury.  The jury should be responsible for the weight given to the blood sample.  Further, the weight of the probative value exceeds the prejudicial value of the blood sample because it goes directly to the ultimate question of Decedent driver’s degree of fault.
+
+Discussion
+The evidence in this case demonstrates the concept that evidence will always look prejudicial when it bears directly on the ultimate questions before the jury.  Here, the evidence of the decedent driver’s intoxication should be considered strong evidence rather than prejudicial evidence because it has direct weight to the ultimate question of comparative fau
+

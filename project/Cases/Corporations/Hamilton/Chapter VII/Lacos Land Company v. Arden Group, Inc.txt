@@ -1,0 +1,21 @@
+Citation
+517 A.2d 271 (Del. Ch. 1986)
+
+Brief Fact Summary
+Lacos Land Company, (Plaintiff), brought suit against board of directors of Arden Group Inc., (Arden) to enjoin the issuance of Class B Common Stock.
+
+Synopsis of Rule of Law
+A vote of the shareholders cannot satisfy the mandate of Section 242(b) requiring shareholder consent to charter amendments when it is made under threat by the director and chief executive officer of a corporation that if approval is not given he will thwart future corporate transactions
+
+Facts
+Plaintiff is a stockholder of Arden owning 4.5% of Class A Common Stock. Briskin, Arden principal shareholder and chief executive officer joined Arden when it was in desperate condition. During his tenure, the stock price rose from $1to $25 per share. Briskin presented an idea for a dual common stock voting structure to the board of directors. The board established a committee to consider the matter. The committee’s report was presented to the board and approved. The dual common stock voting structure will result in the issuance of Class B stock, which will have enhanced voting power, diminished dividend rights, and restrictions upon its transfer.
+
+Issue
+Whether the Arden shareholders have effectively exercised their will to amend the Company’s restated certificate of incorporation so as to authorize the implementation of the dual class common stock structure.
+
+Held
+No. The vote was inappropriately affected by an explicit threat of Mr. Briskin therefore the amendments to Arden’s restated certificate of incorporation purportedly authorized by that vote are voidable.
+
+Discussion
+As a director and officer Briskin has a duty to act with complete loyalty to the interests of the corporation and its shareholders. His position in demanding the amendments under threat of thwarting corporate transactions is inconsistent with that obligation. The stockholder vote was fatally flawed by the threats. Shareholders were inappropriately placed in a position in which they were told that if they refused to vote affirmatively Briskin would not support future transactions that might be beneficial to the corporation. A vote of the shareholders under such circumstances cannot satisfy the mandate of Section 242(b) requiring shareholder consent to charter amendments.
+

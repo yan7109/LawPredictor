@@ -1,0 +1,24 @@
+Citation
+509 U.S. 764 (1993)
+
+Brief Fact Summary
+An action under the Sherman Act against Hartford (D) was filed by the California (P) on the ground that Hartford Fire Insurance Co. (D) and other London-based reinsurers (D) had allegedly engaged in unlawful conspiracies to affect the market for insurance in the United States, but the reinsurers (D) sought to dismiss this allegation under the principle of international comity.
+
+Synopsis of Rule of Law
+Jurisdiction may be exercised over foreign conduct since no conflict exists in a situation where a person subject to regulation by two states can comply with the laws of both.
+
+Facts
+An action against Hartford Fire Insurance Co. (D) and other London-based reinsurers (D) was filed by California (P) on the premise that they had engaged in unlawful conspiracies to affect the market for insurance in the United States and that their conduct in fact produced substantial effect, thus violating the Sherman Act. In Hartford (D) view and argument, the district court should have declined to exercise jurisdiction under the principle of international comity. The court of appeals agreed that courts should look to that principle in deciding whether to exercise jurisdiction under the Sherman Act but that other factors, including Hartford’s (D) express purpose to affect U.S. commerce and the substantial nature of the effect produced, outweighed the supposed conflict, requiring the exercise of jurisdiction in this case. Hartford (D) appealed.
+
+Issue
+May jurisdiction be exercised over foreign conduct since no exist in a situation where a person subject to regulation by two states can comply with the laws both?
+
+Held
+(souter, J.) Yes. Jurisdiction may be exercised over foreign conduct since no conflict exists in a situation where a person subject to regulation by two states can comply with the laws of both. The Sherman Act is applicable to foreign conduct meant to produce and in fact produce some substantial effect in the United States. Even assuming that a court may decline to exercise Sherman Act jurisdiction over foreign conduct, international comity would not prevent a U.S. court from exercising jurisdiction in the circumstances alleged here. Since there is no irreconcilable conflict between domestic and British law, the reinsurers (D) may not invoke comity. Affirmed.
+
+Dissent
+(Scalia, J.) The district court had subject matter jurisdiction over the Sherman Act claims, and it is now well established that the Sherman Act applies extraterritorially, despite the presumption against extraterritoriality. Under the McCarran-Ferguson Act S 2(b), states regulatory statutes are allowed to override the Sherman Act in the insurance field subject only to a narrow exception suggesting that the importance of regulation to the United States is slight.
+
+Discussion
+“Comity of nations” is defined by Black’s Law Dictionary, p. 242 (5th ed. 1979) as “(t)he recognition which one nation allows within its territory to the legislative, executive, or judicial acts of another nation, having due regard both to international duty and convenience and to the rights of its own citizens or of other persons who are under the protection of its laws.” The Congress did not express any view on the question of whether a court with Sherman Act jurisdiction should ever decline to exercise such jurisdiction on grounds of international comity, an issue that the Court declined to address in this case when it enacted the Foreign trade Antitrust Improvements Act of 1982 (FTAIA). Justice Scalia advocated that a nation having some basis for jurisdiction should nonetheless refrain from exercising that jurisdiction when the exercise of such jurisdiction is unreasonable when he endorsed the approach of the Restatement (Third) of Foreign Relations Law.
+

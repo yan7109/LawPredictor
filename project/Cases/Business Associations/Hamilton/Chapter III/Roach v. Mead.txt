@@ -1,0 +1,21 @@
+Citation
+Or. Sup. Ct., 722 P.2d 1229 (1986)
+
+Brief Fact Summary
+Berentson (D) claims he cannot be vicariously liable for the negligent acts of his partner Mead (D), because they were carried outside of the scope of the partnership’s business.
+
+Synopsis of Rule of Law
+A partner is responsible to third parties for the acts of another partner when the third party can reasonably assume those acts fall within the purpose of the partnership.
+
+Facts
+Mead (D) has acted as Roach’s (P) attorney on previous occasions. Mead (D) became partners with Berentson (D). Roach (P) wanted to invest $20,000, so he consulted with Mead (D). Roach (P) loaned the money to Mead (D) with a stated interest rate. Later, Mead (D) couldn’t repay the loan, so Roach (P) sued the partnership, alleging that they owed him money based on a theory of vicarious liability. Berentson (D) argues that the loan was outside the scope of the partnership and he therefore was not vicariously liable. The trial court found that Roach (P) acted reasonably in believing that he was receiving legal advice from Mead (D) in regards to the investment of his money, therefore, the court could find and did find Berentson (D) vicariously liable. The court of Appeals affirmed the lower court’s decision. Berentson (D) then appealed to Oregon’s Supreme Court.
+
+Issue
+Is a partner responsible to third parties for the acts of another party when the third party can reasonably believe the acts fall within the purpose of the partnership?
+
+Held
+(Jones, J.) Yes. A partner is responsible to third parties for the acts of another party when the third part can reasonably believe the acts fall within the purpose of the partnership. The liability of partners is based off of the principal-agency relationship. The reasonable belief of a third party when dealing with a partnership that such acts fall within the scope of regular conduct for the partnership, all partners are responsible for damages resulting from negligent acts. When a lawyer borrows money from a client, a client can reasonably assume that the act falls under the scope of the law partnership, because of the attorney/client relationship. Thusly, Berentson (D) can be held vicariously liable for Mead’s (D) acts. Affirmed.
+
+Discussion
+Pivotal to this case is the factual determination of whether or not particular acts fall under the scope of regular partnership business. Each case needs to be determined individually, as factual information may change the result. The court found as fact that Roach (P) had a reasonable expectation that Mead (D) was acting as his attorney when he borrowed the money. Since the partnership is a law partnership, and since Mead (D) acted like a lawyer, Berentson (D) is fully responsible for Mead’s (D) actions.
+

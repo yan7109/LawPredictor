@@ -1,0 +1,21 @@
+Citation
+974 F.2d 863 (7th Cir. 1992)
+
+Brief Fact Summary
+The United States District Court for the Northern District of Illinois denied Plaintiff’s motion for a new trial. Plaintiff appealed that a new trial on the issue of damages was mandated where the jury’s verdict was inconsistent.
+
+Synopsis of Rule of Law
+In order to allow a witness to testify as an expert, the court must be convinced that the witness will rely only upon evidence that a reasonable expert in the field would rely.
+
+Facts
+Brian Mercado, age 6, was severely injured when struck by a taxi. He required institutionalization, and it was predicted that he would remain so for the rest of his life. At trial, a jury found for Plaintiff and awarded damages for pain and suffering and for medical expense. The trial court had conducted intensive voir dire to evaluate the methods employed by the putative expert and concluded that his testimony was insufficient to meet the criteria for experts. Plaintiff’s mother, dissatisfied with the judgment on the grounds that the trial court had excluded proffered expert testimony, appealed.
+
+Issue
+Did the trial court err in its exclusion of Defendant’s proffered expert testimony thus precluding the jury from awarding additional nonpecuniary damages?
+
+Held
+No. Affirmed. The Court of Appeals agreed with the trial court’s conclusions in excluding the testimony in question on the grounds the 1) no consensus among experts supported the opinion under consideration; and 2) the opinion was arrived at by analyzing the behavior of non-experts.
+
+Discussion
+The focus of this case is the manner by which expert testimony is evaluated and the subsequent impact its inclusion, or here, exclusion, will have on pecuniary damages assessments. The Court offered instructive articulation of the applicable standards for such evaluation. It stated first the proper grounds for ordering a new trial. “Appellate review of a district court’s denial of a plaintiff’s motion for a new trial is governed by federal law. The district court’s decision to deny a motion for a new trial will be reversed only upon exceptional circumstances showing a clear abuse of discretion. A jury verdict will not be set aside if a reasonable basis exists in the record to support that verdict.” Then, turning to the evidentiary issues, the court explained, “Damages evidence is reviewed in the light most favorable to the verdict, and a verdict will be allowed to stand unless there is no rational connection between the evidence on damages and the verdict.”
+

@@ -1,0 +1,21 @@
+Citation
+524 U.S. 38, 118 S. Ct. 1862, 141 L. Ed. 2d 32, 1998 U.S. 3734
+
+Brief Fact Summary
+In assembling the lands for a National Seashore, the Petitioners, the federal government of the United States (Petitioners), in 1979 brought an action to quiet title in federal district court against the Respondents, Beggerly and others (Respondents). After agreeing to a settlement judgment, twelve years later Respondents filed suit alleging that they had new evidence and sought to re-open the original judgment.
+
+Synopsis of Rule of Law
+An independent action, under Federal Rule of Civil Procedure (FRCP) Rule 60(b), for purposes of re-opening a prior judgment beyond the statutory period for re-opening, should be available only to prevent a grave miscarriage of justice.
+
+Facts
+In assembling the lands for a National Seashore, the Petitioners in 1979 brought an action to quiet title in federal district court against the Respondents. The case turned on whether, before the Louisiana Purchase in 1803, the land had been deeded to a private individual. If so, it would belong to Respondents and Petitioner would have to purchase it. If not the Petitioners would already own it. That case settled for a small sum, and judgment was entered based on the settlement.  Twelve years later, after finding new information showing that the land was in fact deeded to a private party in 1781, Respondents sued in district court to set aside the settlement agreement and obtain a damage award for the dispute land from Petitioner. The district court concluded it was without jurisdiction to hear the suit and dismissed the complaint. The court of appeals reversed. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+Whether a court should re-open a 12-year-old judgment based on new evidence.
+
+Held
+No. The Supreme Court held that the Court of Appeals erred in concluding that this was a sufficient basis to justify the reopening of the judgment from the earlier litigation.   An independent action, under FRCP Rule 60(b) should be available only to prevent a grave miscarriage of justice.   Concurrence. Justice John Paul Stevens (J. Stevens) concurred. His concurring opinion is omitted by the casebook.
+
+Discussion
+The court implicitly held that the only possible way for Respondents to have the district court re-open or set aside the earlier judgment was through a FRCP Rule 60(b) motion. Essentially the court is saying the availability of evidence that would have caused the earlier suit to come out differently, is not by itself a sufficient basis to re-open a judgment, absent proof that some grave injustice would result by not opening the judgmen
+

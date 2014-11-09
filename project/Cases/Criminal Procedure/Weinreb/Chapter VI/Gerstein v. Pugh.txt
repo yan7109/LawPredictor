@@ -1,0 +1,21 @@
+Citation
+420 U.S. 103, 95 S. Ct. 854, 43 L. Ed. 2d 54 (1975)
+
+Brief Fact Summary
+A county in Florida allowed prisoners to be held for a substantial amount of time without a hearing, based solely on the decision of a prosecutor.
+
+Synopsis of Rule of Law
+“Whatever procedure a State may adopt, it must provide a fair and reliable determination of probable cause as a condition for any significant pretrial restraint of liberty, and this determination must be made by a judicial officer either before or promptly after arrest.”
+
+Facts
+The Respondents, Pugh and Henderson (the “Respondents”), were arrested in Dade County Florida and charge under a prosecutor’s information with various offenses.  One was denied bail and the other could not post bail.  In Florida, an indictment is only needed if a crime is a capital offense.  An information is sufficient for all other crimes. The law in Florida forbid a suspect from having a preliminary hearing if they are charged via an information.  Also, a habeus corpus was only available in extraordinary circumstances.  The only way to obtain a judicial determination of probable cause was a statute allowing a preliminary hearing after 30 days and arraignment, which is often delayed about a month after an arrest.  Based on these procedures, an individual charged on an information can be detained for a long period of time solely based on what a prosecutor does.
+
+Issue
+“[W]hether a person arrested and held for trial under a prosecutor’s information is constitutionally entitled to a judicial determination of probable cause for pretrial restraint of liberty[?]”
+
+Held
+“To implement the Fourth Amendment’s protection against unfounded invasions of liberty and privacy, the Court has required that the existence of probable cause be decided by a neutral and detached magistrate whenever possible.”  “[T]he Fourth Amendment requires a judicial determination of probable cause as a prerequisite to extended restraint of liberty following arrest.” “At common law it was customary, if not obligatory, for an arrested person to be brought before a justice of the peace shortly after arrest.  The justice of the peace would ‘examine’ the prisoner and the witnesses to determine whether there was reason to believe the prisoner had committed a crime. If there was, the suspect would be committed to jail or bailed pending trial. If not, he would be discharged from custody.  The initial determination of probable cause also could be reviewed by higher courts on a writ of habeas corpus. This practice furnished the model for criminal procedure in America immediately fo
+
+Discussion
+This case establishes that “a timely judicial determination of probable cause [i]s a prerequisite to detention.”
+

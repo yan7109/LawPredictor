@@ -1,0 +1,24 @@
+Citation
+383 U.S. 663, 86 S. Ct. 1079, 16 L. Ed. 2d 169, 1966 U.S.
+
+Brief Fact Summary
+A state-imposed poll tax of $1.50 as a precondition to vote was found unconstitutional by the Supreme Court of the United States as a violation of equal protection.
+
+Synopsis of Rule of Law
+Payment of a poll tax, as a precondition to vote, is a violation of equal protection. The right to vote is a fundamental right. Since the right to vote in a free and unimpaired manner is preservative of other basic political and civil rights, any alleged infringement of the right of citizens to vote must be carefully and meticulously scrutinized. To introduce wealth or payment as a fee as a measure of a voter’s qualifications is to introduce a capricious or irrelevant factor that violates equal protection.
+
+Facts
+Virginia imposed an annual $1.50 poll tax on all residents over twenty-one years of age. The state made payment of this poll tax a precondition to voting. Appellant’s suit to have the poll tax declared unconstitutional was dismissed by a three-judge District Court on the authority of Breedlove v. Suttles, where the Court had unanimously rejected an equal protection attack on the Georgia poll tax.
+
+Issue
+Whether Virginia’s requirement of payment of a poll tax as a precondition to vote violates equal protection.
+
+Held
+Yes. Judgment of the District Court reversed. A state violates equal protection when it makes the affluence of voters or payment of any fee an electoral standard. Voter qualifications have no relation to wealth, nor paying or not paying this or any other state tax. To introduce wealth or payment of a fee as a measure of a voter’s qualifications is to introduce a capricious or irrelevant factor that violates equal protection. Since the right to vote in a free and unimpaired manner is preservative of other basic political and civil rights, any alleged infringement of the right of citizens to vote must be carefully and meticulously scrutinized. Further, notions of what constitutes equal treatment for purposes of equal protection do change; thus, Breedlove v. Suttles is no longer binding precedent. Therefore, this poll tax, as a precondition to vote, violates equal protection.
+
+Dissent
+Poll tax legislation can “reasonably,” “rationally,” and without “invidious” or evil purpose to injure anyone, be found to rest on a number of state policies including 1) the state’s desire to collect revenue and 2) its belief that voters who pay a poll tax will be interested in furthering the state’s welfare when they vote.
+
+Discussion
+This case rests on dual grounds — “fundamental interests” and “suspect classifications” analyses both played a role in the Courts decision process.
+

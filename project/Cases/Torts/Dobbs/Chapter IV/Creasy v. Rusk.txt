@@ -1,0 +1,24 @@
+Citation
+730 N.E.2d 659, 2000 Ind.
+
+Brief Fact Summary
+Carol Creasy (Plaintiff), a certified nursing assistant, sued Rusk (Defendant), an Alzheimer’s patient, for injuries she suffered when Defendant kicked her while she was trying to put him to bed.
+
+Synopsis of Rule of Law
+A person with mental disabilities is generally held to the same standard of care as that of a reasonable person under the same circumstances without regard to the alleged tortfeasor’s capacity to control or understand the consequences of his or her actions. However, exceptions to this general rule that a person with mental disabilities is generally held to the same standard of care as that of a reasonable person under the same circumstances will arise when the factual circumstances negate the factors supporting imposition of a duty, particularly with respect to the nature of the parties’ relationship and public policy considerations.
+
+Facts
+Plaintiff, a certified nursing assistant, sued Defendant, an Alzheimer’s patient, for injuries she suffered when he kicked her while she was trying to put him to bed. Plaintiff filed a civil negligence suit against Defendant seeking monetary damages for the injuries she suffered as a result of Defendant’s conduct. Defendant moved for summary judgment, which was granted by the trial court. Creasy appealed. The court of appeals reversed, holding “that a person’s mental capacity, whether that person is a child or an adult, must be factored [into] the determination of whether a legal duty exists.”
+
+Issue
+Is the general duty of care imposed upon adults with mental disabilities the same as that for adults without mental disabilities?
+
+Held
+Judgment of the trial court was affirmed and summary judgment was granted in favor of Defendant because the relationship between the parties and public policy considerations were such that Defendant owed no duty of care to Plaintiff.
+
+Dissent
+Associate Justice Dickson of the Indiana high court filed both a dissent and a concurrence. In the former, rejecting the majority’s reasoning, the Associate Justice, citing an Indiana precedent, rejected the notion that the Plaintiff had “impliedly assumed the risk of injury in the primary sense, based upon (her) choice of occupation.” Instead, the dissent argued, such a standard would place at risk any number of individuals who by dint of their professional status are placed in potentially volatile situations. He notes: “It is not only unfair but also extremely unwise social policy to deprive, as a matter of law, such professionals of the tort remedy to which other victims of negligence are entitled.”
+
+Discussion
+To establish a prima facie case for negligence, a plaintiff must, by a preponderance of the evidence establish each of the following elements (that is, by more than 50%): duty, standard of care, breach of duty, cause-in-fact, proximate cause (scope of liability) and damages.
+

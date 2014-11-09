@@ -1,0 +1,15 @@
+Citation
+69 Cal.2d 108, 70 Cal.Rptr. 97, 443 P.2d 561
+
+Brief Fact Summary
+The Superior Court of the City and County of San Francisco (California) granted summary judgment in favor of Nancy Christian (Defendant). Roland (Plaintiff), a social guest, had brought an action to recover damages for personal injuries caused by a defective bathroom fixture in an apartment occupied by Defendant. Plaintiff appealed.<span class="heading">Synopsis of Rule of Law.</span> The proper test to be applied to the liability of a landowner is whether in the management of his property, he has acted as a reasonable man in view of the probability of injury to others. A guest is reasonably entitled to be warned of any dangerous condition, so that he may take necessary precautions.
+
+Facts
+Plaintiff was a guest in Defendant’s apartment. The porcelain handle of the bathroom faucet broke while Plaintiff was using it. He suffered severed tendons and nerves. Defendant had known about the damaged fixture and had reported it to her lessors, yet did not warn Plaintiff. Plaintiff brought suit for recovery and the trial court granted Defendant summary judgment.<span class="heading">Issue.</span> Had the trial court, in granting summary judgment in favor of Defendant, applied the proper standard for duty of care?
+
+Held
+No. The Supreme Court of California held that a social guest such as Plaintiff was entitled to a warning of a dangerous condition so that he, like the host, could take proper precautions.<span class="heading">Dissent.</span> The dissent took issue with what he viewed as a departure from an established and workable framework. He noted, “[i]n determining the liability of the occupier or owner of land for injuries, the distinctions between trespassers, licensees and invitees have been developed and applied by the courts over a period of many years.” It was not a proper function of the court to overturn this system, which had predominated tort law for years. Instead, it is the job of the legislature to enact statutes to provide guidelines for the modern society.
+
+Discussion
+In common law, the degree of liability assigned an owner or occupier of land was assessed according to the status of persons entering the property. The law evolved in such a manner as to place primary importance on land ownership, and thus the standards of liability were, literally, “status” conscious. Thus, whether the entrant of a property was a “trespasser”, a “licensee” or an “invitee” determined the degree of care owed.
+

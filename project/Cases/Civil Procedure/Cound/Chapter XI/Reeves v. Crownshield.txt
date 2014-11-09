@@ -1,0 +1,21 @@
+Citation
+22 Ill.274 N.Y. 74, 8 N.E.2d 283 (1937)
+
+Brief Fact Summary
+The Appellant was jailed for refusal to comply with a court order that garnished his wages in installments for collection of a debt against him.
+
+Synopsis of Rule of Law
+New York Civil Procedure Law Rule (NYCPLR) 5226 states that in addition to the garnishee provisions of the old law, the court may make an order directing a judgment debtor to make payments in installments out of the income he receives.
+
+Facts
+There was an attempt to collect a $400 judgment against the Appellant by taking payments in installments from his wages. At the time, the Appellant was working for the federal government as a steamship inspector and earned $230 a month. He only had a small amount reduced from his monthly income for pension and spent $48 for living expenses. Otherwise he had no children and his wife was estranged. The trial court ordered him to pay in $20 installments until the judgment was satisfied. Upon his failure to pay, he was held in contempt and fined $20.
+
+Issue
+Whether it was constitutional to jail the Appellant for failure to pay a judgment in fixed installments garnished from his wages.
+
+Held
+Yes. There can be no doubt that imprisonment for failure to obey an order of a court to make a payment out of income, with regard to his expenses, did not violate the due process clause. The Appellant, the judgment debtor, did not complain that the order directing the payment of $20 a month was unjust, inequitable, or harsh. His position was an arbitrary refusal to pay. It was based on the ground that the courts were powerless to compel him to pay out of his income a fixed amount after deducting the amount necessary for his living expenses. Orders affirmed.
+
+Discussion
+The court asserted that the legislature saw fit to provide a creditor with a direct remedy for the collection of his legitimate debts. A refusal to recognize such an order by the judgment debtor entitled the creditor to move to have him punished for contempt. Without this right, there would be no power in the court to enforce its order. To compel the judgment debtor to obey the order of the court was not imprisonment for debt, but only punishment for the disobedience of an order with which he was able to comply. His refusal to obey the garnishment order was the same as refusal to obey any other lawful order of the court.
+

@@ -1,0 +1,27 @@
+Citation
+545 U.S. 913 (2005)
+
+Brief Fact Summary
+MGM brought suit against Grokster, Ltd. on the ground that Grokster was responsible for the use of its software by third parties to obtain copyrighted materials unlawfully.
+
+Synopsis of Rule of Law
+If a party distributes a device with the aim of advertising its use to unlawfully obtain copyrighted materials, it is responsible for the consequent acts of copyright breach committed by third parties using the device.
+
+Facts
+Grokster (D) is a distributor of software products that actively promote the sharing of electronic files through peer-to-peer networks, without using servers, and so increasing the speed of transfer and lowering costs. Using their “FastTrack”technology allows the users to share files directly with other computers using compatible software. MGM (P) alleged that Grokster distributed their software with the intention of promoting the replication and dissemination of copyrighted works and thus infringing the Copyright Act. MGM experts testified that their analysis showed 90 percent of files offered for download with FastTrack were in fact copyrighted material. The district court agreed that Grokster’s software could be used to download copyrighted files, which infringed on MGM’s copyrights. However, it held that the use of Grokster software by third parties did not prove that the distributors had actual knowledge of infringement in particular. Thus it granted summary judgment in favor of Grokster. This was affirmed in the appellate court, and MGM appealed the verdict.
+
+Issue
+If a party distributes a device with the aim of advertising its use to unlawfully obtain copyrighted materials, is it responsible for the consequent acts of copyright breach committed by third parties using the device?
+
+Held
+(Souter, J.) Yes. If a party distributes a device with the aim of advertising its use to unlawfully obtain copyrighted materials, it is responsible for the consequent acts of copyright breach committed by third parties using the device. This doctrine of secondary liability was derived from common law. The rule is now well-established that when one party deliberately induces or promotes direct copyright infringement, it is liable for contributory infringement. When one party profits from direct infringement but does nothing to stop or limit it, it is liable for vicarious infringement. If a product is useful only for copyright infringement, there is no public interest to be served by making it available freely, and there is every right to presume that the intention behind its distribution is to promote infringement. The earlier case of Sony Corp. v. Universal City Studios,  464 U.S. 417 (1984) in this court ended with the prevention of fixing secondary liability because of a supposed intention to infringe, even though the product had substantial lawful use. In this case, Grokster’s software does not pass this test though it has a 10 percent lawful use capacity. The internal memos of the company show clearly that it was fully cognizant of its illegal use and intended to cater to the demand for that illegal use. It did not try to curb this illegal use by developing any mechanism to stop or limit it. It is also clear that Grokster had profited by this illegal use, since its advertisement revenue soared when computers using their software were targeted by its ads. The district court was thus mistaken to grant summary judgment in favor of Grokster since Grokster knew about the infringement and was interested in increasing its extent. The verdict is reversed and the case remanded.
+
+Dissent
+NA
+
+Concurrence
+(Ginsburg, J.) The Ninth Circuit Court of Appeals was mistaken in granting summary judgment to Grokster when there was more than sufficient evidence that the products of the defendant were being used predominantly for copyright infringement, with this illegal use being the major source of revenue for these products.   The expectation that lawful uses not involving infringement would develop was unreasonably low in the light of the available evidence. Thus the remanded case should end in summary judgment being granted in favor of MGM.
+
+Discussion
+In Sony, the Court held that Sony was not guilty of contributory infringement just because they were producing VCRs which could be used to copy protected works. The opposite party failed to show any limitation of their commercial copyright value because of the practice of using the VCRs to record their television shows. In this case the Court did not adopt an economic test to assess infringement. Instead it used the test of potential non-infringing uses to decide the question of intent. This is more subjective and it can also be argued that the actual profits made by the music and movie industry will not be significantly affected by the use of peer-to-peer software. There will be much more development of judicial ruling in this field since digital recording technology is experiencing a boom in production and distribution.
+

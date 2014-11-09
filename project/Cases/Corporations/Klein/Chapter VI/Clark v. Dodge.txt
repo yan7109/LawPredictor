@@ -1,0 +1,21 @@
+Citation
+286 N.Y. 733, 36 N.E.2d 917 (1941)
+
+Brief Fact Summary
+Plaintiff, David Clark, and Defendant, John Dodge, are the lone shareholders of Defendant corporations.  Plaintiff brought this action to be reinstated as a director of one of the Defendant companies pursuant to an agreement between the parties.
+
+Synopsis of Rule of Law
+An agreement between shareholders, wherein the shareholders entering the agreement are the only shareholders of the company, is valid even if the agreement contemplates controlling management decisions.
+
+Facts
+Defendant companies, Bell & Company, Inc. and Hollings-Smith Company, Inc., were co-owned by Plaintiff (25% of shares) and Defendant (the remaining 75% of shares).  The companies manufactured medicine, the formulae that were known only by Plaintiff.  Plaintiff entered into an agreement with Defendant wherein Plaintiff agreed to disclose the formulae to the son of Defendant in return for a promise that Defendant would keep Plaintiff as a director and would be entitled to 25% of all net income providing that Plaintiff was competent in his position.  Afterwards, Defendant did not vote Plaintiff in as director, stopped delivering 25% of the income to Plaintiff.  Plaintiff sought reinstatement and money owed from the stopping of payments and money wasted by Defendant.  Defendant countered, citing McQuade v. Stoneham (263 N. Y. 323), that the agreement was invalid because it required Defendant as a shareholder to usurp the directors’ judgment.
+
+Issue
+The issue is whether the agreement between Plaintiff and Defendant was invalid as an over-reaching agreement between shareholders to control powers of the directors.
+
+Held
+The Court of Appeals of New York held that the agreement was not invalid.  The McQuade court invalidated a similar agreement because it affected the rights of others that were not part of the agreement, and therefore it fell under the public policy argument.  In this case, the only shareholders were Defendant and Plaintiff, and therefore the agreement between the two did not have any, or at least negligible, consequences on the public.
+
+Discussion
+The court distinguished McQuade, noting that McQuade will be controlling when there agreements are between shareholders who do not have 100% ownership of a company.  In this case it would be against public policy to allow Defendant to simply cite McQuade to avoid his obligation to pay 25% of net income to Plaintiff who already disclosed a trade secret to Defendant.
+

@@ -1,0 +1,21 @@
+Citation
+146 Minn. 430, 179 N.W. 45, 1920 Minn.
+
+Brief Fact Summary
+A forest fire resulted in the destruction of the Plaintiff, Anderson’s (Plaintiff), property. The fire had two origins, one cause was due to the negligence of the Defendant, Minneapolis, St. P. & S. St. M.R.R. Co. (Defendant), the other cause was unknown.
+
+Synopsis of Rule of Law
+When the injury is caused by multiple acts of negligence, but only one tortfeasor is known, that party is still liable for the injury.
+
+Facts
+A forest fire resulted from the negligence of the Defendant. The fire combined with another of unknown origin and together the fires caused damage to the Plaintiff’s property.
+
+Issue
+Whether the Defendant’s negligence was a substantial or material cause of the damage to Plaintiff’s property.
+
+Held
+The Defendant is still liable for its negligence even though the fire it caused combined with another to result in damage to the Plaintiff’s property.
+
+Discussion
+The jury instructions directed the jury to determine that if they found the fire set by the Defendant’s train to be materially or substantially responsible for the Plaintiff’s damage, either alone, or in connection with the other fire, then the defendant is liable. The Defendant’s argued, based on [Cook v. Minneapolis, St. P. & S.S.M. Ry. Co., 74 N.W. 561], the jury should have been instructed that if they found the unknown fire was of more superior force, then the Defendant would not be liable since the fire it was responsible for would not have caused the damage to Plaintiff’s property, but for the negligence of someone else. The court rejected this argument reasoning that the Cook case makes sense if you have two fires from known origins because the result is joint and several liability. However, Cook does not work in cases where the other fire is from an unknown source because it leaves the Plaintiff with no possible recovery.
+

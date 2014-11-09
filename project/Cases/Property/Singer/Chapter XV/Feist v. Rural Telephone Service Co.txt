@@ -1,0 +1,21 @@
+Citation
+499 U.S. 340, 111 S. Ct. 1282, 113 L. Ed. 2d 358,1991 U.S.
+
+Brief Fact Summary
+A publishing company used information from a telephone directory to publish its own directory.
+
+Synopsis of Rule of Law
+To qualify for copyright protection, a work must be original to the author, which means that the work was independently created by the author, and it possesses at least some minimal degree of creativity. A work may be original even thought it closely resembles other works so long as the similarity is fortuitous, not the result of copying.
+
+Facts
+Rural Telephone Service Company, Inc. (Plaintiff) provides telephone service to several communities. Due to a state regulation, it must issue an annual telephone directory, so it published a directory consisting of white and yellow pages. The yellow pages have advertisements that generate revenue. Feist Publications, Inc. (Defendant) is a publishing company whose directory covers a larger range than a typical directory. Defendant distributes their telephone books free of charge, and they also generate revenue through the advertising in the yellow pages. Plaintiff refused to give a license to Defendant for the phone numbers in the area, so Defendant used them without Plaintiff’s consent. Rural sued for copyright infringement.
+
+Issue
+Are the names, addresses, and phone numbers in a telephone directory able to be copyrighted?
+
+Held
+No.
+
+Discussion
+Facts cannot be subject to copyright laws; otherwise there would be no spreading of information or learning. Subjecting facts to copyright laws would mean that any time a person used a fact found in a book, be it in a school paper, newspaper, or another book, that person would be guilty of piracy.
+

@@ -1,0 +1,24 @@
+Citation
+549 U.S. 1295
+
+Brief Fact Summary
+Following a jury trial, David W. Kirsch (Defendant) was convicted of various sexual offenses committed against minors.  At trial, the court allowed testimonial evidence to be heard by the jury of other alleged sexual assaults unrelated to the present charge, and allegedly committed against various other young women.  Defendant appeals his conviction here.
+
+Synopsis of Rule of Law
+New Hampshire’s equivalent to Federal Rule of Evidence 404(b) prohibits the admission of evidence of “other crimes, wrongs, or acts . . . in order to show the person acted in conformity therewith,” and only allows evidence of prior bad acts to be admitted when it is offered to prove such things as motive, intent, or a common plan.
+
+Facts
+Defendant was a member of the Granite State Baptist Church in Salem, and drove the church bus that drove the victims to church; Defendant also attended overnight sleep-overs at the church.
+
+Issue
+Was the testimony from the alleged victims of the uncharged crimes properly admitted under Rule 404(b) as evidence of Defendant’s motive, intent, and/or common plan or scheme?
+
+Held
+Reversed and remanded.
+
+Concurrence
+Justices Thayer and Horton concur in part and dissent in part, arguing that the evidence offered was relevant to show Defendant’s plan, and should have been admitted.
+
+Discussion
+The majority argues that the, “ostensible purpose for which the prosecution sought to admit evidence of a multitude of other uncharged sexual assaults was to show the defendant’s predilection for molesting young females over whom he was able to gain control through engendering trust. At most, this is evidence of the defendant’s disposition to commit the offenses with which he was charged, impermissible under Rule 404(b).”  The dissent, on the other hand, argues that, “[t]he majority’s narrow reading of the common plan exception essentially requires the State to show the defendant’s state of mind before he started on his spree of criminal conduct, limiting the exception to a mutually dependent series of events.”  The dissent cites other New Hampshire precedent to support its contention that, “the rule should not be so limited.”
+

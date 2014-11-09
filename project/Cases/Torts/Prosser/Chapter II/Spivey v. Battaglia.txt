@@ -1,0 +1,21 @@
+Citation
+258 So. 2d 815, 1972 Fla.
+
+Brief Fact Summary
+Defendant put his arm around Plaintiff and pulled her head toward him in a “friendly, unsolicited hug” that ultimately caused Plaintiff to suffer from partial facial paralysis. Plaintiff brought suit for assault and battery and negligence. Because the suit was brought after the statute of limitations for intentional torts had run, Defendant argued that the acts complained of were strictly intentional and the suit was barred.
+
+Synopsis of Rule of Law
+With respect to assault and battery, one is deemed to intend that which is substantially certain to follow from his actions but need not intend to cause actual injury or harm. Knowledge of a risk of harm is not sufficient to establish the requisite intent.
+
+Facts
+During a break at work, Defendant put his arm around Plaintiff and pulled her toward him. Plaintiff experienced sharp pains that culminated in partial facial paralysis. She sued Defendant under negligence and assault and battery theories. Relying upon a similar case, Defendant argued that his actions were strictly intentional, constituted assault and battery as a matter of law, and warranted dismissal of the case because it had been filed after the statute of limitations for assault and battery had expired. The trial court agreed and granted summary judgment for Defendant.
+
+Issue
+Was the trial court correct in granting summary judgment for Defendant on the theory that his actions constituted assault and battery as opposed to negligence as a matter of law?
+
+Held
+No. The grant of summary judgment was reversed to allow Plaintiff to proceed with her claim for negligence.
+
+Discussion
+Again, multiple issues of intent are implicated in this case. Defendant intended to touch Plaintiff, but certainly did not intend to cause her facial paralysis. Once again, the critical issue is Defendant’s knowledge of the likelihood that injury would result. Later, a Defendant’s knowledge of the likely extent of any potential damage also becomes important.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.594 A.2d 1106 (Me. 1991)
+
+Brief Fact Summary
+This case involves an assignment of proceeds from a personal injury claim to a physician to pay for medical expenses.
+
+Synopsis of Rule of Law
+Proceeds to be received from pending litigation may be validly assigned.
+
+Facts
+Gary Jones (Jones) was injured in a motorcycle accident and retained the Defendant, Irace (Defendant), to represent him. Jones then injured his shoulder and went to see the Plaintiff, Dr. Herzog (Plaintiff), who determined that Jones needed surgery on his shoulder. Jones wrote a letter stating that he “request[ed] payment to be made directly from settlement of a claim currently pending for an unrelated incident to John, Herzog, D.O.” Plaintiff informed Defendant about this assignment and performed the surgery. Thereafter, Jones instructed Defendant not to disburse the proceeds to Plaintiff. Jones sent a check to Plaintiff. However, the check was returned for insufficient funds. Plaintiff sued to enforce the assignment.
+
+Issue
+Can future proceeds from pending litigation be validly assigned to a third-party?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The court noted that an assignor must not retain any control over the right of the assigned funds. It found that Jones did not retain any such control when he requested that the payment be made to Plaintiff. Also, Defendant had notice of the assignment and therefore was obligated to enforce it. The court also examined the Maine Bar rules and found no ethical rule barring a lawyer from assigning his client’s proceeds from a pending lawsuit to a third party.
+

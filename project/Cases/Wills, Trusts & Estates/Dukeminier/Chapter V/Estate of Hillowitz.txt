@@ -1,0 +1,21 @@
+Citation
+22 N.Y.2d 107,238 N.E.2d 723,291 N.Y.S.2d 325,1968 N.Y.
+
+Brief Fact Summary
+Abraham Hillowitz was the partner in an investment club.  He executed a partnership interest with the club and named his wife the beneficiary of the interest at his death.  The District Court held the agreement was valid but the Appellate Division reversed the decision.
+
+Synopsis of Rule of Law
+A partnership agreement that provides for a payment of the partner’s interest to a beneficiary upon his death is valid even though it does not comply with the statue of wills.
+
+Facts
+Hillowitz was a partner in an investment club.  A provisioning in the partnership agreement transferred his partnership interest to his wife in the event of his death.   The executors of Hillowitz’s estate challenged the agreement claiming that it was an invalid testamentary disposition.  The District Court held that the agreement was valid but the Appellate reversed.  Hillowitz’s widow appealed.
+
+Issue
+Whether a partnership agreement that transfers a partner’s interest to a beneficiary upon his death is valid even though it does not comply with the statute of wills.
+
+Held
+Yes.  Partnerships are third party beneficiary contracts.  They are similar to other instruments which are contractual in nature but need not conform to the statute of wills to dispose of gifts at death.  Examples of such agreements include (1) a contract to make a will, (2) an inter vivos trust in which the settler reserves a life estate, and (3) an in insurance policy.
+
+Discussion
+The courts will enforce agreements where the agreement is not solely testamentary.  The Court is likely to enforce contractual agreements where the parties undertake a business venture separate from the testamentary disposition, and beneficiaries have reason to expect a gift.
+

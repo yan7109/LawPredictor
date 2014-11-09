@@ -1,0 +1,21 @@
+Citation
+497 S.W.2d 620 (Tex. Civ. App. 1973)
+
+Brief Fact Summary
+Matthews, (Appellee), brought suit after an appointed inspector of elections invalidated its proxies and votes during a proxy contest. Appellee seeks to compel the inspector of elections to validate the proxies and votes and declare his faction elected as directors. The district court held in favor of Appellee directing the inspector to accept the rejected proxies and approve the election of Appellee’s candidates to the board.
+
+Synopsis of Rule of Law
+An election inspector has discretion to determine the validity of proxies.
+
+Facts
+There was a proxy contest at General Electrodynamic’s Corporation and an Inspection Supervisor was appointed. The insolvent Pioneer Casualty Company held a large block of General Electrodynamics Corporation’s stock. The Texas trial court appointed a receiver and ordered him to surrender the proxy to Pioneer Casualty Company, instructing him to deliver the proxy to Appellee. The inspector of elections invalidated the proxies and votes prompting Appellee to file suit.
+
+Issue
+Whether the court’s order was proper and must be recognized by the company.
+
+Held
+No. Injunctive Relief was improper since an election inspector’s discretion to determine the validity of proxies is not subject to judicial control.
+
+Discussion
+The role of an inspection supervisor is to conduct a hearing, take evidence from both sides and issue a certificate declaring the winner. It is in the supervisor’s discretion to determine the validity of the proxies and there is a presumption that he is correct. A mandatory injunction invades the responsibility of the supervisor.
+

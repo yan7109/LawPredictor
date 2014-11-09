@@ -1,0 +1,21 @@
+Citation
+375 F.3d 35, 2004 U.S. App. 14182
+
+Brief Fact Summary
+Plaintiff, Minerva Velez, was awarded summary judgment for her sexual harassment claim against Defendants, Awning Windows, Inc. et al.  Defendants appealed the judgment.
+
+Synopsis of Rule of Law
+A party’s repeated disregard for court-imposed deadlines will merit an adverse holding, despite the party’s eventual filing to oppose the holding.
+
+Facts
+Plaintiff was an employee of Ismael Nieves-Valle (the owner of Awning Windows) had a romantic affair until she ended the relationship.  Afterwards, Nieves-Valle harassed her until he finally fired her in March of 2000.  Plaintiff then filed a Title VII claim against Defendants, as well as several Puerto Rican discrimination claims.  Defendants repeatedly missed court-imposed deadlines and extensions for filing, and this resulted in the lower court’s decision to grant Plaintiff partial summary judgment.  A jury then awarded Plaintiff $750 thousand.  Defendants appealed, arguing that the court should have considered their late-filed opposition to the summary judgment motion.
+
+Issue
+The issue is the trial court’s granting of Plaintiff’s summary judgment was premature.
+
+Held
+The court affirmed the lower court’s summary judgment because Defendants did not timely respond to Plaintiff’s motion, nor did they file an appropriate extension of time per Rule 56(f) of the Federal Rules of Civil Procedure that explained why they needed more time.  The reasons given by Defendants on appeal still do not merit a need for extension.
+
+Discussion
+The court outlined the long and habitual late filings and lack of cooperation by Defendants as the background for their reasoning as to why they would not consider their late filings for the summary judgment.  The moral of the case, as the court noted, was that a party should not take court-imposed deadlines lightly.
+

@@ -1,0 +1,21 @@
+Citation
+486 U.S. 531, 108 S. Ct. 1954, 100 L. Ed. 2d 531, 1988 U.S.
+
+Brief Fact Summary
+Berkovitz received polio from the vaccine Orimune. Berkovitz alleged that the United States was liable for his injuries because it had acted wrongfully in licensing the production of Orimune and because the Bureau of Biologics of the Food and Drug Administration (FDA) had acted wrongfully in approving release to the public of the particular lot of vaccine containing Berkovitz’s dose.
+
+Synopsis of Rule of Law
+The discretionary function exemption in government torts actions bars suits against the government for liability only if the act complained about involves exercise of the government’s policy judgment.
+
+Facts
+Kevan Berkovitz, then a 2-month-old infant, ingested a dose of Orimune, an oral polio vaccine manufactured by Lederle Laboratories. Within one month, he contracted a severe case of polio. It was determined that Berkovitz had contracted polio from the vaccine. Berkovitz and his parents (Plaintiffs) sued the United States in Federal District Court. The complaint alleged that the United States was liable for his injuries under the FRTCA because the Division of Biologic Standards (DBS) had acted wrongfully in licensing Lederle Laboratories to produce Orimune and because the Bureau of Biologics of the Food and Drug Administration (FDA) had acted wrongfully in approving release to the public of the particular lot of vaccine containing Berkovitz’s dose. The Government moved to dismiss the suit for lack of subject-matter jurisdiction on the ground that the agency actions fell within the discretionary function exception of the FTCA. The District Court denied this motion.
+
+Issue
+Does the discretionary function exception of the Federal Tort Claims Act bar a suit against the government if the act complained about does not involve the government’s permissive policy judgment?
+
+Held
+No. Judgment for Plaintiffs. Reversed and remanded.
+
+Discussion
+In this case, the court envisioned a kind of two-part test for the discretionary immunity. (1) Did the government have room fro choice? (2) If so, did the choice depend upon decisions grounded in social, economic, and political policy? If the answer to either question is no, then the discretionary function does not protect the government. The first part of the test asks whether any discretion was involved at all. The second part of the test asks whether the discretion is the kind that is protected-discretion in decision making that involves social, economic, or political policy judgment.
+

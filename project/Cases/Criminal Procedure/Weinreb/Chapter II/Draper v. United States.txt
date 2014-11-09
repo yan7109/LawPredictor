@@ -1,0 +1,21 @@
+Citation
+358 U.S. 307, 79 S. Ct. 329, 3 L. Ed. 2d 327 (1959)
+
+Brief Fact Summary
+Without a warrant, a federal narcotics agent (agent) arrested the Petitioner, Draper (Petitioner), as he disembarked a train. Probable cause for the arrest was based on an informant’s tip, which was corroborated with an accurate, predictive description of the facts surrounding the Petitioner’s return.
+
+Synopsis of Rule of Law
+Probable cause exists where the known facts and circumstances would cause a reasonable person to believe that an offense had been, or is being, committed.
+
+Facts
+A federal narcotics agent was given information from a reliable informant that the Petitioner was dealing drugs from his apartment. The informant stated that the Petitioner had gone to Chicago to purchase heroin. The informant told the agent the date the Petitioner would return to Denver from Chicago, the clothes he would be wearing, and the color of the bag he would be carrying. Based on this information, the agent waited for the Petitioner at Denver’s Union Station on the Petitioner’s expected date of return. When the Petitioner disembarked the Chicago train, he was wearing clothes and carrying a bag fitting the informant’s description. Based on this information, the agent arrested the Petitioner without a warrant.
+
+Issue
+Did the surrounding facts and circumstances give the federal agent probable cause to believe that the Petitioner had committed, or was committing a crime.<br /> Can probable cause be based on hearsay?
+
+Held
+Yes. The informant’s past reliability, accurate description of the Petitioner’s clothing, bag, and date of arrival gave the agent probable cause to arrest the Petitioner without a warrant.<br /> Yes. Hearsay is an evidentiary rule dealing with guilt beyond a reasonable doubt. Excluding facts that are hearsay from probable cause confuses the common sense standard of probable cause from the technical, legal standards of proving guilt beyond a reasonable doubt.<br />
+
+Discussion
+A tip from a reliable informant, which is corroborated by predicting facts unknowable to a stranger, gives rise to probable cause.<br /> In determining what facts and circumstances will give rise to probable cause, one must view the facts and circumstances as a reasonable person would view them, and not how they would be viewed in a courtroom.
+

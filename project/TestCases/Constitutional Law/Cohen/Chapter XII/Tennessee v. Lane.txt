@@ -1,0 +1,27 @@
+Citation
+541 U.S. 509 (2004)
+
+Brief Fact Summary
+George Lane (P) and Beverly Jones (P) both used wheelchairs. They were not able to enter several courthouses because of non-availability of wheelchair entrances. They sued Tennessee (D) on the ground of Title II of the Americans with Disabilities Act of 1990 (ADA). Tennessee (D) argued that the law was unconstitutional.
+
+Synopsis of Rule of Law
+Title II of the ADA which prohibits discrimination against disabled persons by public entities is constitutional.
+
+Facts
+George Lane (P) and Beverly Jones (P) are both paraplegics who use wheelchairs. George Lane (P) had to attend the courthouse to answer to criminal charges. Since the place had no wheelchair accessibility, he had to crawl up several flights of stairs on hands and knees. Beverly Jones (P) was a court reporter but could not attend several hearings because the county courthouses in which they were held had no access facilities for the disabled. She had lost both her work and the chance to take part in the court process. Both of them sued Tennessee on the ground that it had violated Title II of the ADA, by not giving them access to the state judicial system or to its services because of their disability. The federal district court denied the motion filed by Tennessee to dismiss the case. The circuit court of appeals affirmed the decision. Tennessee appealed.
+
+Issue
+Is Title II of the ADA constitutional in prohibiting discrimination against disabled persons by public entities?
+
+Held
+(Stevens, J.) Yes. Title II of the ADA which prevents discrimination against disabled persons by public entities is constitutional. It makes provision for disabled persons to be able to participate in or take part in the benefits of any service, program or activity conducted by a public body without discrimination because of their disability. This title was enacted because of a systematic and widespread system of discrimination against disabled persons in state services and programs, whether public education, the penal system or the voting system. This discrimination amounted in many cases to depriving disabled persons of their fundamental rights. This is so in the present case as well. The evidence before Congress shows that many disabled persons in many states were denied the opportunity to take part in courthouses or court proceedings because of their medical condition. Three-fourths of all public services or programs operating from premises owned by the state and therefore under its control were not made accessible to these persons, and were hence not available for their use. The record shows that the list of these violations is far greater than many other types of constitutional violations in which this Court has awarded damages as a fitting remedy. Congress has the authority to enforce the right guaranteed under the constitution, of having access to the courts. The way it has chosen to enforce this right, through Title II of the ADA, and to provide remedy for the present case of exclusion from the exercise of a fundamental right and of discrimination against disability, is both fitting and proportional in regard to its aim. The decision of the lower court is affirmed.
+
+Dissent
+(Rehnquist, J.) The pattern of systematic constitutional violations by the states in real life as regards the rights of disabled persons is not suggested by the very few infringements actually seen outside the context of “access to the courts”.
+
+Concurrence
+(Souter, J.) The judiciary itself has given approval for some of the very thinking which has given rise to the discrimination for which Congress provided remedy in Title II, thus showing how appropriate and constitutional this measure is.
+
+Discussion
+The Supreme Court clarifies in this case that Title II of the ADA has as its object the enforcement of the fundamental rights including the right to have access to courthouses. This should ensure that the judicial review of alleged violations of these rights on the part of public entities toward the disabled should be deep and probing, more so than that now applied in the case of gender-based discrimination.
+

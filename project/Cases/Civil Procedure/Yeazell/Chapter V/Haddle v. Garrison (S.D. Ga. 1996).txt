@@ -1,0 +1,18 @@
+Brief Fact Summary
+Plaintiff, an at-will employee, sued his employer, Defendant, for allegedly firing him in an attempt to deter his participation as a witness in a Federal trial.
+
+Synopsis of Rule of Law
+In determining the merits of a 12(b) (6) motion, a court must assume that all of the factual allegations of the complaint are true.
+
+Facts
+Plaintiff is a former employee of Healthmaster Home Health Care, Inc. He claims that he was improperly discharged from his employment by Defendants in an attempt to deter his participation as a witness in a Federal criminal trial. Plaintiff conceded he was an at-will employee at the time of the litigation. Plaintiff brought suit under Section: 1985(2) of Title 42 of the U.S. Code. The Defendant filed four motions to dismiss for failure to state a claim upon which relief could be granted under Rule 12(b) (6).
+
+Issue
+Whether a court must assume all of the Plaintiff’s factual allegations are true in ruling on a 12(b) (6) motion.
+
+Held
+Yes. Nevertheless, the Court granted the defendant’s motion to dismiss for failure to state a claim upon which relief could be granted.   In determining the merits of a 12(b) (6) motion, a court must assume that all of the factual allegations of the complaint are true. A court should not dismiss a complaint for failure to state a claim unless it is clear that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief.
+
+Discussion
+Here the student should keep in mind the true meaning of a Rule 12(b) (6) motion, i.e. even if everything you say is true, the law affords you no relief. Unfortunately for the Plaintiff, even if he was fired for attempting to testify in a Federal trial, his admission that he was an at-will employee renders him without legal recourse due to prior case law binding on the District Judge, stating that an at-will employee has no constitutionally protected interest in continued employment.
+

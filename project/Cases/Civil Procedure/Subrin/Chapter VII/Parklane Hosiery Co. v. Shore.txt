@@ -1,0 +1,24 @@
+Citation
+439 U.S. 322, 99 S. Ct. 645, 58 L. Ed. 2d 552, 1979 U.S. 50
+
+Brief Fact Summary
+The plaintiff in a securities fraud stockholder’s class action suit against a defendant sought collateral estoppel following an SEC action against the same defendant in which the district court reached a factual decision on the merits.
+
+Synopsis of Rule of Law
+A plaintiff should be allowed to employ offensive collateral estoppel unless it would have been easy for the plaintiff to have joined in the earlier action, or collateral estoppel would be unfair given the circumstances.
+
+Facts
+The Respondent, Shore (Respondent), brought a stockholder’s class action suit against the Petitioner, Parklane Hosiery Co. (Petitioner), in a federal district court, alleging that Petitioner and 13 of its officer and directors issued a materially false and misleading proxy statement in connection with a merger.
+
+Issue
+Whether a party who has had issues of fact adjudicated adversely to it in an equitable action may be collaterally estopped from relitigating the same issues before a jury in a subsequent legal action brought against it by a new party.
+
+Held
+Yes. Petitioner was collaterally estopped from relitigating the issue of whether the proxy statement was materially false and misleading.
+
+Dissent
+Justice William H. Rehnquist (J. Rehnquist) dissented.  He based his dissent on the ground that preclusion under these circumstances violated the Seventh Amendment constitutional right to a jury trial.
+
+Discussion
+The issue the court had to decide is whether a litigant who was not a party to a prior judgment may nevertheless use that judgment offensively to prevent a defendant from relitigating issues resolved in the earlier proceeding.  Because the Supreme Court found that none of the circumstances that might render offensive collateral estoppel unfair were present, it answered that question in the affirmative. Such circumstances include situations where the application of offensive collateral estoppel would reward a private plaintiff who could have joined in the previous class action, but refrained from doing so in order to see the outcome of the class action suit before filing. Students should keep in mind that the federal government may not be held to non-mutual issue preclusion.
+

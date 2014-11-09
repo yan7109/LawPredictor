@@ -1,0 +1,21 @@
+Citation
+22 Ill.217 F.R.D. 309, 13 ILRD 578, 2003 ILRC 1815, 91 FEP Cases 1574 (S.D.N.Y. 2003)
+
+Brief Fact Summary
+Plaintiff, Laura Zubulake, brought gender discrimination and wrongful termination suits against Defendants, UBS Warburg LLC et al., and she sought access to emails that were stored and archived by Defendants.
+
+Synopsis of Rule of Law
+A court will weigh the cost of accessing the electronic data using a comprehensive set of factors, and will determine whether the data should be available for discovery, and which party to place the cost of the discovery.
+
+Facts
+Plaintiff was hired in 1999 as a senior salesperson for Defendant company.  Plaintiff was passed over for a promotion, and the person who ended up with the job, Matthew Chapin, proceeded to harass Plaintiff.  Plaintiff filed a charge of gender discrimination with the EEOC, and she was fired shortly thereafter.  Plaintiff then filed federal, state and city charges of gender discrimination.  Plaintiff requested all of Defendants’ email correspondence concerning Plaintiff as part of discovery, and they initially agreed to a scope of discovery.  Defendants did not turn over archived emails because they claim that it would cost $175,000 not including attorney’s fees to gather the data.
+
+Issue
+The issue is whether Defendant is required to produce the electronic data to comply with discovery.
+
+Held
+The court looked at the proportionality test of Rule 26(b)(2) of the Federal Rules of Civil Procedure and applied it to the electronic communication at issue.  Any electronic data that is as accessible as other documentation should have traditional discovery rules applied.  For less accessible data, a cost-shifting analysis will be used, and Defendants should take a representative sample to determine the value of the information in that data.  The court offered a seven-factor test that is based on traditional discovery rules.
+
+Discussion
+The court listed an extensive amount of factors, such as the amount in controversy, the stakes in the litigation, etc., which emphasizes the case-by-case nature of the analysis.
+

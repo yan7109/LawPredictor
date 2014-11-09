@@ -1,0 +1,21 @@
+Citation
+504 U.S. 607 (1992)
+
+Brief Fact Summary
+A suit filed in a U.S. court on the premise that Argentina (D) defaulted on the bonds it had issued was strongly contended by Argentina (D).
+
+Synopsis of Rule of Law
+When a foreign government defaults on its bonds, such foreign government may be amenable to suit in a U.S. court.
+
+Facts
+The problem Argentina was having in participating in foreign transactions was attributable to currency instability. In order to rectify this problem, the Argentine government (D) instituted a program in which it agreed to sell to domestic borrowers U.S. dollars in exchange for Argentine currency. The dollars where to be used to finance foreign creditors of Argentine businesses. To reflect its obligations towards its creditors, Argentina (D) issued bonds called “Bonods”.
+
+Issue
+When a foreign government defaults on its bonds, can such foreign government may be amenable to suit in a U.S. court?
+
+Held
+(Scalia, J) Yes. When a foreign government defaults on its bonds, such foreign government may be amenable to suit in a U.S. court. An exception to foreign sovereign immunity “commercial” activities’ has been created by the Foreign Sovereign Immunity of 1976. An activity falls within the exception in line of FSIA if (1) it so happens outside the shores of the United States, (2) is in tandem with commerce and (3) has a direct impact on the United States. Based on these three premises, th commercial activity exception to the FSIA applies because the activities of Argentina (D) with respect to the bonds were commercial in nature. Affirmed.
+
+Discussion
+Whether the government has entered the marketplace is very important in determining if the commercial activity exception applies in any given case. If it is applicable, it is to be treated under the FSIA as a private player. The exception will however not be applicable if it undertakes an activity that is peculiar to a sovereign.
+

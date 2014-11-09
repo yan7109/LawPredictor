@@ -1,0 +1,21 @@
+Citation
+449 U.S. 456, 101 S. Ct. 715, 66 L. Ed. 2d 659, 1981 U.S.
+
+Brief Fact Summary
+A Minnesota law banning the sale of milk in plastic nonreturnable, nonrefillable containers was challenged on the ground that it had a discriminatory purpose.
+
+Synopsis of Rule of Law
+A facially neutral state law will violated the United States Constitution’s (Constitution) Commerce Clause if the incidental burden imposed on interstate commerce is clearly excessive in relation to the putative local benefits.
+
+Facts
+The Defendant, Minnesota (Defendant), enacted a statute banning the retail sale of milk in plastic nonreturnable, nonrefillable containers. However, the state allowed the sale of milk in paperboard cartons. The express purpose was to address the problem of solid waste management in the state. The Plaintiff, Clover Leaf Creamery Co. (Plaintiff) filed suit to enjoin the statute, arguing that the actual basis for it was to promote the economic interest of certain segments of the local dairy and pulpwood industry and to harm the plastics industry.
+
+Issue
+Can a facially neutral state law violate the Constitution’s Commerce Clause if the incidental burden imposed on interstate commerce is clearly excessive in relation to the putative local benefits?
+
+Held
+Yes. Here, however, the law banning plastic milk containers is not a “clearly excessive burden” on out of state interests. The Supreme Court of the United States (Supreme Court) observed that the statute at issue did not discriminate between intrastate and interstate distributors because both were prohibited from selling milk in disposable plastic containers. The Supreme Court also observes that this statute was not a protectionist measure, but aimed at protecting the environment. Moreover, the Supreme Court determined that the change of containers is not an excessive burden upon out-of-state producers.
+
+Discussion
+If a state law purporting to promote environmental purposes is in reality enacted as a means of economic protectionism, a virtually per se rule of invalidity applies. Here, the burden imposed in interstate commerce was minor, since milk products may continue to move freely across the State border and changes in packaging will be only a slight inconvenience. Pulpwood producers are the only Minnesota industry likely to benefit significantly from the statute at the expense of out-of-state firms. This degree of burden on the out-of-state plastic industry has been exaggerated. The burden is not “clearly excessive” in the light of the substantial state interest in promoting conservation of energy and other natural resources and easing solid waste disposal problems, which we have already reviewed in the context of equal protection analysis.
+

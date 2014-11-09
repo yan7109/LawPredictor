@@ -1,0 +1,21 @@
+Citation
+22 Ill.248 Cal.App.2d 220, 56 Cal.Rptr. 435 (Ct. App. 1967)
+
+Brief Fact Summary
+This case involves a contract to buy stock where the buyer repeatedly did not render payment by the due date, causing the seller to repudiate the contract.
+
+Synopsis of Rule of Law
+Repudiation of a contract is justified only where the breaching party’s breach constituted a total or material breach, not merely a partial breach.
+
+Facts
+The Plaintiff, Sheldon Sackett (Plaintiff), entered into a contract to buy stock from the Defendant, Paul Spindler (Defendant). The contract stipulated that the Plaintiff was to make three payments due on specified dates. The Plaintiff made the first payment on time and the second payment a few days after it was due. He rendered a check for the third payment prior to its due date, but this check was drawn on insufficient funds. The Plaintiff informed the Defendant that he would be able to pay the balance by September 22. The Defendant notified the Plaintiff that if he did not receive the funds by that date, he would not consider completing the sale and he would assess damages for the Plaintiff’s breach of contract. Plaintiff failed to make the payment on September 22 and the Defendant extended the due date until September 29. Again, the Plaintiff failed to make the payment on time. On October 4, the Plaintiff sent a telegram to the Defendant stating that he was now “ready, eag
+
+Issue
+Is repudiation of a contract justified where the other party has materially breached the contract?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The court examined The Restatement of Contracts to determine whether the breach was material. It reasoned that although, the Plaintiff did make the first two payments, the Plaintiff’s failure to remit the third payment when due was a material breach because it was caused by gross negligence or willful conduct. It also examined the facts to determine that the Defendant was justified in repudiating because the Plaintiff’s behavior gave rise to uncertainty that he would fulfill his obligations and the evidence was sufficient to infer that the Plaintiff never intended to remit the payment as required by the contract.
+

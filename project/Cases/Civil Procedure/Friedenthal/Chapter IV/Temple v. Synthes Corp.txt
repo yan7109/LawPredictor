@@ -1,0 +1,21 @@
+Citation
+22 Ill.498 U.S. 5, 111 S. Ct. 315, 112 L. Ed. 2d 263 (1990)
+
+Brief Fact Summary
+Plaintiff, a resident of Mississippi, underwent surgery in Louisiana in which a “plate and screw device” was surgically implanted and broke off after the surgery. Plaintiff sued the manufacturer of the device in federal court in Louisiana and sued the doctor and hospital in Louisiana state court. Plaintiff’s federal case was dismissed after Plaintiff refused to obey the District Court’s order to join the doctor and hospital in the federal action.
+
+Synopsis of Rule of Law
+A joint tortfeasor is a permissive party to an action under Fed.R.Civ.P. 19(b), not a “necessary and indispensable party” under Fed.R.Civ.P. 19(a).
+
+Facts
+Temple (Plaintiff), a resident of Mississippi, underwent surgery in Louisiana in which a “plate and screw device” was surgically implanted and broke off after the surgery. Plaintiff sued Synthes Corp. (Defendant), the manufacturer of the device, in federal court in Louisiana and sued the doctor and hospital involved in Louisiana state court. Defendant moved to dismiss Plaintiff’s case for failure to join necessary parties under Federal Rule of Civil Procedure 19(a). The District Court ordered Plaintiff to join the doctor and hospital in the interest of judicial economy or face dismissal of Plaintiff’s case. Plaintiff did not join the doctor or hospital and the District Court dismissed Plaintiff’s case. The Fifth Circuit affirmed the District Court’s decision. Plaintiff appealed.
+
+Issue
+May the District Court dismiss the plaintiff’s case for failure to join necessary and indispensable parties pursuant to Fed.R.Civ.P. 19(a)?
+
+Held
+No. Judgment reversed and remanded
+
+Discussion
+Failure to join a necessary party is almost never grounds for dismissal in a tort case brought in federal court based on diversity of citizenship mainly because potential defendants are consider “permissive,” as opposed to “necessary” parties.
+

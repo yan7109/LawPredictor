@@ -1,0 +1,21 @@
+Citation
+470 U.S. 753, 105 S. Ct. 1611, 84 L. Ed. 2d 662 (1985)
+
+Brief Fact Summary
+A robbery suspect armed with a gun was shot by a storeowner when he attempted to rob his store.  The bullet was lodged in the suspect’s chest, and the Commonwealth wanted a doctor to surgically remove the bullet.
+
+Synopsis of Rule of Law
+“[T]he Commonwealth has failed to demonstrate that it would be “reasonable” under the terms of the Fourth Amendment to search for evidence of this crime by means of the contemplated surgery.”
+
+Facts
+The Respondent, Lee (the “Respondent”), attempted to rob a store while armed with a gun.  The storeowner, who was locking up at the time, was also armed when he saw the Respondent coming at him with a gun.  The store owner fired hitting the Respondent and the Respondent also hit the store owner.  The store owner identified the Respondent as the man who shot him while at the hospital.
+
+Issue
+“[W]hether a State may consistently with the Fourth Amendment compel a suspect to undergo surgery of this kind in a search for evidence of a crime[?]”
+
+Held
+“A compelled surgical intrusion into an individual’s body for evidence [ ]  implicates expectations of privacy and security of such magnitude that the intrusion may be ‘unreasonable’ even if likely to produce evidence of a crime.”
+
+Discussion
+This case should be compared and contrasted with [Schmerber v California].
+

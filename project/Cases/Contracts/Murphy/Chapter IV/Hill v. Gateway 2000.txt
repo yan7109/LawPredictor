@@ -1,0 +1,21 @@
+Citation
+22 Ill.522 U.S. 808, 118 S. Ct. 47, 139 L. Ed. 2d 13 (1997)
+
+Brief Fact Summary
+The Plaintiffs, Rich and Enza Hill (Plaintiffs), bought a Gateway 2000 computer system from the Defendant, Gateway (Defendant). When the Plaintiffs became aware of the computer’s shortcomings, they brought suit in Federal Court. Defendant appealed on the basis that an arbitration clause was contained in Plaintiffs’ computer box and that they had accepted this agreement when they kept the computer for more than thirty days.
+
+Synopsis of Rule of Law
+This case was among the first to consider contracts that are not complete until products are received, when doing mail order business.
+
+Facts
+This facts of this case consider the situation of terms-in-the-box contracts. Mr. and Mrs. Hill ordered a Gateway 2000 computer system. When they received this computer system, along with the packet of warrantees was an arbitration agreement, which precluded Plaintiffs from bringing any action against Defendant, other than in the forum of arbitration. Plaintiffs filed suit in federal court, arguing that the problems with their computer amounted to racketeering, which allowed them federal question jurisdiction under RICO. Defendant answered with a Motion to Compel Arbitration, based on the in-the-box agreement. The District Court allowed the Plaintiffs to bring suit, noting the record was insufficient to support a finding that an arbitration agreement existed. Gateway appealed.
+
+Issue
+The issue is whether consumers are subject to contractual terms provided within the packing of electronics, when they order them by mail.
+
+Held
+Reversed and Vacated.
+
+Discussion
+While this case is straight forward on its face, it stands for several important contract principals.
+

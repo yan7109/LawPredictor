@@ -1,0 +1,24 @@
+Citation
+419 U.S. 345,95 S. Ct. 449,42 L. Ed. 2d 477,1974 U.S.
+
+Brief Fact Summary
+The Respondent, Metropolitan Edison Co. (Respondent), a private utilities company was held not to be a state actor and therefore, the Petitioner, Catherine Jackson (Petitioner), was not entitled to continuous electrical service nor did the company’s termination of electrical services constitute a deprivation of her property without procedural due process.
+
+Synopsis of Rule of Law
+A private company that does not have specific authorization by the state to act, is not acting on behalf of the state.
+
+Facts
+The Petitioner brought a federal civil rights action under 42 U.S.C. Section:1983 against the Respondent, a private company subject to extensive state regulation because it held a certificate public convenience from the Pennsylvania Public Utilities Commission (PPUC) empowering it to deliver electricity to a specific area. Petitioner sought damages and injunctive relief against Respondent for terminating her electrical service for alleged nonpayment, claiming she had not been afforded notice, hearing and an opportunity to pay amount due. She claimed that under state law, she was entitled to reasonably continuous electrical service and that the Respondent’s termination constituted state action without procedural due process. The lower courts dismissed her claim.
+
+Issue
+Whether Respondent’s termination of Petitioner’s electricity constituted state action?
+
+Held
+No. Judgment of the lower state courts affirmed. Although Respondent had a monopoly, that fact is not determinative in considering whether Respondent’s termination of service constituted state action. Approval by a state utility commission of such a request from a regulated utility, where the PPUC has not put its weight on the side of the proposed practice by ordering it, does not transform a practice initiated by the utility and approved by the PPUC into “state action.” All of Petitioner’s arguments taken together show no more than that the Respondent was a heavily regulated private utility, enjoying a partial monopoly and that it elected to terminate service to Petitioner in a manner which the PPUC found permissible under state law.
+
+Dissent
+The state’s involvement with the utility company was sufficient enough to satisfy state action.
+
+Discussion
+This case shows that the public function doctrine is not to be read broadly.
+

@@ -1,0 +1,29 @@
+Citation
+495 U.S. 604 (1990)
+
+Brief Fact Summary
+Dennis Burnham (P) and his wife decided to separate while residing in New Jersey. At that time Mrs. Burnham shifted her residence to California with the children. There she filed for divorce, and served the papers on Mr. Burnham (P) while he was visiting California.
+
+Synopsis of Rule of Law
+The jurisdiction of a state court can be extended to nonresidents who are bodily present in the state.
+
+Facts
+Dennis Burnham (P) and his wife, both residents of New Jersey, decided to separate. Mrs. Burnham moved to California with the children and there filed for divorce. While visiting his children in January 1988, he was served with a summons to a California court and a copy of the divorce petition filed by his wife. He moved the California Superior Court (D) to declare the service of the court summons and legal petition on him void. His ground was that the Court(D) did not have personal jurisdiction over him as he had no systematic contact with the state, save brief visits to his children or for business purposes. This was rejected by the court(D), and he failed to obtain mandamus relief from the California Court of Appeals, which held the physical presence of Mr. Burnham (P) in the state and his being physically served with the summons as sufficient ground for personal jurisdiction. The U.S. Supreme Court granted an order for judicial review or certiorari.
+
+Issue
+The issue here is whether state courts can exercise jurisdiction over non-residents who happen to be present in person in the state.
+
+Held
+(Scalia, J.). Yes. State courts do have jurisdiction based only on the physical presence, even in the case of  nonresidents. Jurisdiction based on physical presence is one of the historical traditions which define the due process standard, that is, that none of the rights of any citizen shall be abrogated without sufficient intimation and fair opportunity to defend themselves in law. This being so, physical presence is of a necessity enough to ensure jurisdiction. The decision of the State court was affirmed.
+
+Dissent
+N/A
+
+Concurrence
+(Brennan, J.) Thehistorical value of all jurisdiction principles are important, including the physical presence in jurisdiction ruling, but this traditional importance is not sufficient on its own to arrive at a fixed conclusion of their continuous constitutional value.
+
+Discussion
+The case of HelicopterosNacionales de Columbia v. Hall, 466 U.S. at 414 (1984)  was referred to by Justice Scalia. In this case the Supreme Court held that due process was served even if a state exercised jurisdiction over a corporation provided that there were sufficient systematic organized contacts between the state and the foreign corporation. But only one holding supported this statement, that is, a corporate president present and acting as such in the forum state was served with a summons, in Perkins v. Benguet Consolidated Mining Co., 342 U.S. 437 (1952). This rule may be a special rule permitting jurisdiction over corporations in the presence of continuous and organized contacts with the state, even with regard to claims unrelated to the activities in the forum. This kind of jurisdiction is different from the case of jurisdiction based only on the state’s power over the person of the defendant.
+
+dent present and acting as such in the forum state was served with a summons, in Perkins v. Benguet Consolidated Mining Co., 342 U.S. 437 (1952). This rule may be a special rule permitting jurisdiction over corporations in the presence of continuous and organized contacts with the state, even with regard to claims unrelated to the activities in the forum. This kind of jurisdiction is different from the case of jurisdiction based only on the state’s power over the person of the defendant.</span>
+

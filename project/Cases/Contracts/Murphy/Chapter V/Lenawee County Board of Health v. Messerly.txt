@@ -1,0 +1,21 @@
+Citation
+22 Ill.417 Mich. 17, 331 N.W.2d 203 (1982)
+
+Brief Fact Summary
+The Appellees/vendees, Mr. and Mrs. Pickles (Appellees), purchased a 600 square-foot tract of land with rental property upon it, from the Appellants/Vendors, Mr. and Mrs. Messerly (Appellants). Shortly after buying the property, the Lenawee County Board of Health (BOH) brought suit against the Appellees and Appellants of the property and condemned it because there was a defective sewage system on the property.
+
+Synopsis of Rule of Law
+While mutual mistake can serve to void a contract, the determination of rescission must be undertaken on a case-by-case basis, taking into consideration the full terms of any agreement.
+
+Facts
+The court allowed an injunction in favor of the BOH, which disallowed human habitation of the property until it was brought into conformance with the sanitation code. Thereafter, the Appellants filed a cross-claim against Appellees, seeking foreclosure based on non-payment and Appellees alternatively prayed for rescission, based on mutual mistake. The trial judge found that Appellees had no cause of action because there had been no fraud or misrepresentation and that the property was purchased “as is”, after inspection, and allowed foreclosure and judgment against Appellees. The court of appeals reversed the no cause of action, based on mutual mistake claim and the Appellants appealed.
+
+Issue
+The Court is required to determine whether a land contract can be rescinded on the basis of mutual mistake.
+
+Held
+Reversed.
+
+Discussion
+This case delves into the issue of risk-allocation, noting that parties can contractually determine what will happen in the case of mutual mistake. In particular, because the Appellees bought the property as is, they assumed the risk that there may be a defect and rescission was not available to them as a remedy.
+

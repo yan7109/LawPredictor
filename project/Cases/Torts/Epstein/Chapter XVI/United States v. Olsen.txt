@@ -1,0 +1,27 @@
+Citation
+546 U.S. 43 (2005)
+
+Brief Fact Summary
+Mine workers and a spouse (P) filed for tort against the U.S.(D) under the Federal Torts Claims Act for injuries suffered due to the alleged negligence of federal mine inspectors, arguing that the U.S had agreed to waive sovereign immunity under the Act.
+
+Synopsis of Rule of Law
+Under theFederal Torts Claims Act, the U.S. waives sovereign immunity only in such circumstances as would make a “private person”  liable in tort under local law, and not where local law would make a “state or municipal entity” liable.
+
+Facts
+Two injured mine workers and a spouse (P) sued the U.S. under the Federal Torts Claims Act, on the ground that the mine accident was due to the negligence of the mine inspectors. The Act permits private tort actions to be filed against the federal government, if the circumstances are such as to render the U.S. liable for tort against the claimant, under local law, if the U.S. were  a private person (28 USC  Section 1346 (b)(1)). The action was partly dismissed by the district court on the basis that the allegations did not prove that local law would have imposed liability on a private person in similar circumstances. The court of appeal reversed the decision on two grounds: (1) Where functions unique to a government are at stake, the Act would waive sovereign immunity on the part of the federal government if a state or municipal body would have incurred liability under the law of the place where the act or breach of duty occurred. (2) Federal mine inspections are a unique governmental function such that there is no similar liability in the private sector. From these arguments, the Ninth Circuit determined that the U.S. waived its sovereign immunity in this case. The U.S. Supreme Court granted review.
+
+Issue
+Under the Federal Torts Claims Act, does the federal waiver of sovereign immunity from tort claims apply only if local law makes a private person liable in like circumstances, and not if a state or municipal entity would be liable under local law?
+
+Held
+(Breyer, J.) Yes. Under the Federal Torts Claims Act, the U.S. waives its sovereign immunity only if local law would make a private person liable in tort, and not where a state or municipal entity would be liable. The Appellate court made too broad a reading in its first premise, working into the Act a non-existent meaning. 28 USC  Section 1346 (b)(1) provides for waiver of sovereign immunity only if the U.S. would be liable in the case that it was a private person. This does not state that if local law would make a state or municipal entity liable, the U.S. would be liable. The Supreme Court has always upheld this standard, which is not altered by the fact that the government function addressed here is unique. The history of the Act, its aims and context all add support to this standard of interpretation. The second ground taken by the appellate court is too narrow, in contrast. The Act states that the U.S. would be liable if a private person under like (and not the same) circumstances. This means that the court should have widened its field of enquiry to find a suitable private sector analogy to the conduct of the federal mine inspectors. A relevant analogy would have been private mine inspections, which was agreed to by counsel for the U.S. The final point is that the case does not make clear exactly which tort law of the state was invoked here. The case is therefore remanded so that the lower courts may be able to decide on the applicable state tort law doctrine. The verdict is vacated and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The private person who might have been analogous to the federal mine inspectors whose conduct was under scrutiny in this case, and who was conceded to be a possible analogy by the U.S., was the private mine inspector. The analogy is doubtful in that a federal mine inspector has a statutory duty unlike the voluntary inspector. On the other hand, both types of inspectors cause the mine operators to rely on their safety reports for mine operation. Even in the case of such reliance, the ultimate responsibility to ensure a safe workplace might be said to rest with the operator and not with the inspectors, so that the government is not liable for the accident.
+

@@ -1,0 +1,21 @@
+Citation
+810 F.2d 336 (2d Cir. 1987)
+
+Brief Fact Summary
+A buyer of Oryx (Defendant) stock, Akerman (Plaintiff), alleged that an unintended inaccuracy on a registration statement resulted in the diminishing of the stock’s value
+
+Synopsis of Rule of Law
+Demonstrating that the decline in the stock’s value occurred due to supplementary reasons allows one to lessen or evade liability under § 11 for substantialdistortions in registration statements.
+
+Facts
+A business that produced and sold video tapes and dvds, Oryx, filed a registration statement for initial public offering of 700,000 shares of stock. The stock sold at $4.75. An inaccuracy was included in the prospectus within the registration statement where Oryx reported a substantial transaction by a subsidiary one month later than usual. Therefore, the profits listed in the financial statement were exaggerated in the prospectus. The distortion was revealed to the SEC by Oryx months later, when the stocks selling price was $4.00. The day prior to Oryx revealing the error to the public, a month after the reveal to the SEC, the stock was selling at $3.25. Akermanbrought suit still a month after that, when the stock’s price was at $3.50, hoping to recoup the variance in value between the initial purchase price and the value at the time the suit was started under § 11 of the Securities Act. Oryx replied that the diminishing value of the stock occurred due to reasons other than distortion in the registration statement. The district court granted summary judgment to Oryx and Akerman appealed.
+
+Issue
+Is it true that demonstrating that the decline in a stock’s value occurred due to supplementary reasons allows for lessening or evasion of liability under § 11 for substantial distortions in registration statements?
+
+Held
+(Meskill, J.) Yes. Liability under § 11 for substantialdistortions in registration statements may be evaded or lessened by demonstrating that the decline in the stock’s value occurred due to supplementary reasons. § 11 of the Securities Act enforces civil liability for damages caused to buyers of the securities on the issuer and signatories of a registration statement that includes substantial distortions or missing data. Under § 11(e) though, defendants may lessen their liability by demonstrating the diminished value of the stock was not a result of the substantial distortions. Under § 11 (e) the defendants carry a heavy burden of demonstrating that supplementary reasons caused the stock value to diminish due to Congress wanting to distribute the risk of uncertainty to the issuers as opposed to the buyers. Oryx showed confirmation that the error made in the registration statement was hardly substantial due to prospectus incorporating a negative forecast of the performance of its subsidiary. Therefore, perceptions about performance are not likely to have changed due to the accounting mistake and Oryx’s stock price actually rose once the mistake was publicly revealed. Akerman’s evidence that other stocks did much better than Oryx holds no weight due to it failing to take into account the innumerable variables that have the potential to affect stock performance. So, the burden of proving that reasons aside from registration statement mistake resulted in the devaluation of the stock is met by Oryx. Affirmed.
+
+Discussion
+Akerman contended that the revelation date of the mistake to the SEC  should have restrained damages due to Oryx’s insiders being able to sell  their stock prior to the public revelation.  The court discarded this  contention, stating there was no proof of insider trading. Universally,   § 11 produces a conjecture in favor of rescission damages established  on the variance in worth, at the time of the suit, between the offering  price and the market value
+

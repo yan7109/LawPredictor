@@ -1,0 +1,21 @@
+Citation
+417 U.S. 156, 94 S. Ct. 2140, 40 L. Ed. 2d 732, 1974 U.S.
+
+Brief Fact Summary
+Eisen (Petitioner), filed a class action on behalf of himself and odd-lot traders on the New York Stock Exchange alleging that Carlisle & Jacquelin (Respondent), violated antitrust and securities laws. The Supreme Court of the United States granted certiorari to resolve whether Petitioner can maintain the suit as a class action.
+
+Synopsis of Rule of Law
+Individual notice must be sent to all class members who can be identified with reasonable efforts, and Petitioner should be responsible for the cost of the notice.
+
+Facts
+In Petitioner’s class action lawsuit against Respondent for violating antitrust and securities laws, the district court permitted Petitioner to proceed with using advertisements in the Wall Street Journal and in the New York and California newspapers as notice to the class members. The district court also held that the cost of such notice should be assumed by the Respondents.
+
+Issue
+Whether the Petitioner’s class action provided proper notice and if it was proper to impose cost of notice on the Respondent?
+
+Held
+No. Judgment reversed and remanded with instructions to dismiss the class action as so defined.   Individual notice must be given to those class members who can be identified with reasonable effort. Rule 23 of the Federal Rules of Civil Procedure states that each class number should be advised that he has the right to exclude himself from the action and the judgment will bind all class members not requesting exclusions. Rule 23 also states that class members must be given the best notice practicable under the circumstances including individual notice to all members who can be reasonably identified. Publication notices do not satisfy due process where the names and addresses of the beneficiaries were known. In order for such notices to satisfy due process, the method must be reasonably certain to inform those affected by the suit in order to satisfy reasonableness and constitutional validity. In the instant case, individual notice should have been given to those class members that the Petitioner could have exercised reasonable efforts to obtain their names and addresses.  The Petitioner must bear the cost of notice to the members of the class action. The District Court’s decision to impose the costs of notice on the Respondent was predicated on the court’s finding that the Petitioner was likely to prevail on his claims. Nothing in the language or history of Rule 23 gives the court the authority to conduct a preliminary inquiry into the    merits of such suit to determine whether it can be maintained. In the absence of such support, the Petitioner’s effort to impose cost of notice on Respondents fails. Thus, the Petitioner must bear the cost of the notice to the class.
+
+Discussion
+With a class of 6million, this case demonstrates the problems of implementation of class actions. One of the purposes of a class action is to make it feasible to correct group wrongs where no one individual would have the financial capability to litigate. However, this case makes very large class suits nearly impossible because the cost of identifying and providing individual notice to the class members is so high that attorneys, who are typically retained on contingency fee basis and bare the cost of litigation, could not afford to pro
+

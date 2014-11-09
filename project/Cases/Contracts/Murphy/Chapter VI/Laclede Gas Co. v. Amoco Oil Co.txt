@@ -1,0 +1,21 @@
+Citation
+22 Ill.522 F.2d 33 (8th Cir. 1975)
+
+Brief Fact Summary
+Plaintiff and Defendant entered into a contract when Plaintiff would buy and Defendant would supply propane. The contract contained a clause, which stated that Plaintiff could terminate the contract at any time, provided that it was thirty days before the end of each year. There was no such clause for Defendant. Defendant decided to back out of the contract.
+
+Synopsis of Rule of Law
+Specific performance is appropriate when the terms of the contract are express, so that the court can determine what specific performance should be, the contract has a definite end, and remedy at law is inadequate.
+
+Facts
+Plaintiff and Defendant formed a contract that Plaintiff agreed to buy and Defendant agreed to sell all the propane it needed to supply certain subdivisions in Jefferson County, Missouri. The price was to be the Wood River Area Posted Price. The contract also contained a clause allowing Plaintiff to terminate the contract after one year if Plaintiff so desired, and leaving that option open in the future. There was no such clause for Defendant. After some disagreements and problems, Defendant informed Plaintiff that Defendant would not supply propane for Plaintiff any more. Plaintiff sued Defendant. The trial judge ruled in favor of Defendant on the basis of lack of mutuality (consideration). The court claimed that since Plaintiff could rescind the contract at will, but Defendant could not, the contract was not binding.
+
+Issue
+Can Plaintiff get specific performance on the contract?
+
+Held
+Yes
+
+Discussion
+Usually, specific performance is only available for a breach of contract to sell real estate because each piece of real estate is unique and it is unlikely that money damages would put the injured party in the same position they would have been in if the contract had been performed. Here, is an example of when specific performance can be used in a case involving personal property.
+

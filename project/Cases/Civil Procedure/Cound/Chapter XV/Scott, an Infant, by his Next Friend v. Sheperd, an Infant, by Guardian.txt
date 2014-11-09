@@ -1,0 +1,21 @@
+Citation
+95 ER 1124, Volume 95
+
+Brief Fact Summary
+Plaintiff lost his eye when Defendant threw a lighted squib at another person, who threw it at another out of fear, who threw it at Plaintiff out of fear. Plaintiff sued Defendant for trespass and assault.
+
+Synopsis of Rule of Law
+If an act causes direct and immediate danger and injury ensues, Defendant is responsible in trespass for all consequences of the act. The action need not be pled in case.
+
+Facts
+Sheperd, Defendant, threw a lighted squib (firecracker) into a marketplace. It landed on a salesman’s stand. One Willis picked it up and tossed it towards Ryal’s stand to prevent harm to his goods. Ryal picked up the squib and tossed it. The squib exploded in front of Scott’s (Plaintiff’s) face. Plaintiff lost an eye. Subsequently, Plaintiff sued Defendant for trespass and assault. The jury returned a verdict for Plaintiff of 100 pounds with Judge Nares presiding, subject to the opinion of the court en banc.
+
+Issue
+Was the action of Defendant throwing the squib in the marketplace sufficient to sustain an action in trespass?
+
+Held
+Yes. Postea (judgment entered for) Plaintiff.  Judge Nares: Defendant’s action in tossing the squib into the marketplace was such that the “natural and probable” consequence was to cause injury. Thus, Defendant is responsible for all consequential injuries that ensue from tossing the squib. Trespass will lie because it was the act of tossing the squib in the first place. The trespass continued until the squib exploded.  Judge Gould: Defendant’s action in throwing the squib was an action in trespass and one that is responsible for an act in trespass is responsible for all the consequences of the act. Ryal was acting in self-defense and cannot be held responsible for trespass on Plaintiff.  Chief Judge De Grey: The act of throwing the squib was a continuing act as the squib was tossed around the marketplace. The trespass for which Defendant was responsible for continued until the squib exploded. The acts of innocent bystanders acting for their own safety cannot be considered intervening agents such that the action was no longer trespass.  <br/><br/><span class='heading'>Dissent.</span> Judge Blackstone: An action in trespass does not lie against Defendant. Defendant can only be held responsible in trespass for the immediate act that ensued from him tossing the squib, i.e., it landing on the cart. Once Willis and Ryal picked up the squib, Defendant was no longer responsible in trespass. Ryal would be a proper defendant in trespass because it was his act that caused the injury and he could have tossed the squib elsewhere. Both Willis and Ryal intervened and in their own judgment decided to toss the squib around the marketplace. This stopped any trespass between   Plaintiff and Defendant. Finally, an action in case may lie against Defendant, because the injury was only consequential.
+
+Discussion
+The majority’s opinion illustrates that an action in trespass can lie even if the injuries were consequences of the actual “act” if the “act” is considered continuous. In this situation, the act was throwing the squib into the marketplace and such act continued until the squib exploded. This should be compared with Blackstone’s strict interpretation finding the “act” stopped when the squib landed on the first cart. The case illustrates that the distinction between actions in trespass and actions in case can hinge on subtle facts.
+

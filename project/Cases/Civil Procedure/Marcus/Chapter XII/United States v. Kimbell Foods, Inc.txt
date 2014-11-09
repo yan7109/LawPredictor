@@ -1,0 +1,21 @@
+Citation
+3440 U.S. 715, 99 S. Ct. 1448, 59 L. Ed. 2d 711, 1979 U.S.
+
+Brief Fact Summary
+This case involves two competing security interests in the property of O.K. Super Markets, Inc. Both interests were perfected pursuant to the Texas Commercial Code.
+
+Synopsis of Rule of Law
+When there is little need for a nationally uniform body of law, state law may be incorporated as the federal rule of decision.
+
+Facts
+In 1968, O.K. Super Markets, Inc., borrowed $27,000.00 from Kimbell Foods, Inc., pursuant to two security agreements. Kimbell Foods, Inc., (Plaintiff) properly perfected its security interests by filing financing statements with the Texas Secretary of State. In 1969, O.K. Super Markets, Inc., obtained a $300,000.00 loan from the Republic National Bank of Dallas (Republic), and a financing statement evidencing this agreement was also filed with the Texas Secretary of State. The SBA guaranteed 90% of this loan under the Small Business Act. Subsequently, Plaintiff initiated suit to recover a balance due of $18,258.57. However, before Plaintiff filed suit, O.K. Super Markets defaulted on the SBA loan. Republic assigned its security interest to the SBA. The district court found for the government, but the court of appeals reversed, finding that the Kimball security agreement was dated before the federal lien arose.
+
+Issue
+Whether contractual liens arising from certain federal loan programs take precedence over private liens, in the absence of a federal statute setting priorities?
+
+Held
+The source of law is federal, but a national rule is unnecessary to protect the federal interests underlying the loan programs. As a result, the court adopted the state law as the appropriate federal rule for establishing the relative priority of the competing federal and private liens.
+
+Discussion
+The court found that nationwide standards are not necessary for the protection of the federal treasury from defaulting debtors. The court based its rationale on the fact that sufficient state codes exist to furnish convenient solutions that in no way are inconsistent with the protection of federal interests. Furthermore, the court based its decision, in part, on the fact that SBA employees are instructed to follow state laws carefully in the administration of their programs.
+

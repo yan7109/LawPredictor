@@ -1,0 +1,21 @@
+Citation
+604 F.2d 639 (9th Cir. 1979)
+
+Brief Fact Summary
+The Smiths’ (P) suit against Gross (D) on violation of federal securities law was dismissed on the finding that there was no security involved in the parties transactions.
+
+Synopsis of Rule of Law
+An investment contract type of security requires (1) an investment of money (2) in a common enterprise (3) with profits to come exclusively from the efforts of others.
+
+Facts
+The Smiths (P) entered into an agreement with Gross (D) in which buyer-investors raised earthworms that Gross (D) assured would double every 60 days. Gross would buy back all the worms at $2.25 a pound. The Smiths’ (P) suit was dismissed on the finding that no “security” was involved. In the appeal, The Smiths’ (P) argued there was an investment contract type security with their agreement. Their claim was that profit was unreachable because the worms did not multiply at the promised rate via and that Gross (D) would have to buy back the entire production at a higher price than the market value of $2.25. As it turned out, Gross (D) could only pay that price by selling the worms to new buyer-investors at inflated prices.
+
+Issue
+Is there an investment contract type of security when the following occurs? (1) an investment of money (2) in a common enterprise (3) with profits to come exclusively from the efforts of others.
+
+Held
+(Per curiam) Yes. An investment contract type of security exists when the following occurs, (1) an investment of money (2) in a common enterprise (3) with profits to come exclusively from the efforts of others. Since the three criteria are met, a security was involved. Reversed.
+
+Discussion
+The definition of “security” has a wide reach in this line of cases. The result has allowed investors to recover from unscrupulous investment schemes via securities laws. A notable exception is in International Brotherhood of Teamsters v. Daniel, 439 U.S. 551 (1979), in which the United States Supreme Court found that a noncontributory pension plan was not a “security”.
+

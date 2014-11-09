@@ -1,0 +1,21 @@
+Citation
+18 Cal. 3d 150,554 P.2d 330,133 Cal. Rptr. 10,1976 Cal.
+
+Brief Fact Summary
+One party to a joint tenancy leased the property to third party without the other’s knowledge or consent.
+
+Synopsis of Rule of Law
+A joint tenancy will not be severed by a lease to a third party, and sole ownership of the property will vest in the co-tenant upon the death of the other tenant unencumbered by the lease.
+
+Facts
+Hazel Tenhet (Plaintiff) and Raymond Johnson owned land as joint tenants. Johnson leased the property to Boswell (Defendant) without Plaintiff’s knowledge or consent. Johnson died three months after the execution of the lease. Plaintiff sought her right of survivorship, demanded Defendant vacate the property, and brought an action to have the lease declared invalid.
+
+Issue
+Can a lease made to a third party sever a joint tenancy?
+
+Held
+No.
+
+Discussion
+A lease conveys only a partial interest in property, so it does not destroy the unity of interest that is needed to create a joint tenancy. When the joint tenant who leased the property dies, his ability to convey an interest dies with him, so even if time remains on the lease, it will be deemed invalid.
+

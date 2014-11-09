@@ -1,0 +1,21 @@
+Citation
+22 Ill.459 U.S. 1036, 103 S. Ct. 446, 74 L. Ed. 2d 602 (1982)
+
+Brief Fact Summary
+The Defendant, Hilton Hotels Corp. (Defendant), was involved in an association in Portland that collectively agreed to give preferential treatment to suppliers who contributed money to the association. Though it was against corporate policy for the Defendant corporation to be involved in such a scheme, a purchasing agent for the corporation threatened a loss of business to suppliers if they did not contribute to the association.
+
+Synopsis of Rule of Law
+A corporation is criminally liable for the acts of its agents in the scope of their employment, even where agents have acted against the express policy of the corporation.
+
+Facts
+A group of businesses in Portland set up an association whereby their suppliers were encouraged to contribute money to the association in order to retain their business. The association was established to fund activities to attract conventions to Portland. The Defendant corporation expressly notified its agents not to participate in the association, as it contravened corporate policy. Nonetheless, a purchasing agent for the Defendant threatened a supplier with loss of the corporation’s business unless it contributed money to the association.
+
+Issue
+Is a corporation criminally liable under the Sherman Act, 15 U.S.C. Section:1 (the Act), for actions taken by its agents in the scope of their authority, but counter to corporate policy?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+This case represents a further step taken in law to hold corporations accountable for their unlawful actions, even when done by an agent acting against corporate policy and procedures. It attempts to maximize the deterrent effect by encouraging corporations to be more diligent in supervising the business activities of its agents done on behalf of the corporation.
+

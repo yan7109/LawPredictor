@@ -1,0 +1,21 @@
+Citation
+22 Ill.302 U.S. 319, 58 S. Ct. 149, 82 L. Ed. 288 (1937)
+
+Brief Fact Summary
+Defendant Palko is tried and convicted of murder for a second time after state appeals previous murder conviction on same events.
+
+Synopsis of Rule of Law
+The double jeopardy prohibition provision included in the Fifth Amendment is not applied to the states through the Fourteenth Amendment.
+
+Facts
+Defendant was indicted for murder in the first degree.  The jury returned a conviction of murder in the second degree, for which he received a life sentence.  Pursuant to state law, the State of Connecticut appealed and the Connecticut Supreme Court of Errors reversed the judgment and ordered a new trial.  This court found harmful error to the state as a result of the exclusion of testimony as to a confession by the defendant, the exclusion of cross-examination testimony to impeach the defendant, and faulty jury instructions as to the difference between first and second degree murder.  They ordered a second trial at which the jury sentenced the defendant to death.  The defendant was granted certiorari to have the second conviction overturned.
+
+Issue
+Does the entire Fifth Amendment double jeopardy prohibition apply to the states through the Fourteenth Amendment?
+
+Held
+No.  The Supreme Court of the United States affirms the first degree murder conviction and the accompanying death sentence.
+
+Discussion
+The Supreme Court’s decision here embracing selective incorporation in stating that the Fifth Amendment double jeopardy prohibition was not entirely applicable to state law through the Fourteenth Amendment was overruled in Benton v. Maryland in 1969.  That later case held that the double jeopardy prohibition was a fundamental concept in our constitutional heritage, and thus definitely applied to the states through the Fourteenth Amendment.
+

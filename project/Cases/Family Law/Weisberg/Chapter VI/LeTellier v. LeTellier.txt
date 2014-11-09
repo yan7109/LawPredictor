@@ -1,0 +1,21 @@
+Citation
+40 S.W.3d 490,2001 Tenn.
+
+Brief Fact Summary
+Teresa, a resident of Tennessee, attempted to enroll a District of Columbia order and modify a child support award in Tennessee against a Steven, a resident of Virginia.  He challenged the subject matter jurisdiction of the Tennessee Court.
+
+Synopsis of Rule of Law
+A resident of Tennessee could not use the Tennessee courts to modify a support order issued in a foreign state against a nonresident of Tennessee.
+
+Facts
+In 1989 the District of Columbia entered an order adjudging Steven LeTellier to be the father of Teresa LeTellier’s son, Nicholas.  The court awarded custody to Teresa and ordered Steven to pay child support.  Teresa and Nicholas later moved to Tennessee, and Steven moved to Virginia.  In 1998 Teresa filed petitions in the Juvenile Court in Tennessee seeking to enroll the District Court of Columbia order and to modify the child support award.  The court granted Steven’s motion to dismiss on grounds that the Tennessee court lacked subject matter jurisdiction and ordered that the case be transferred back to Virginia.  The Court of appeals reversed, finding that the jurisdictional provisions of Tennessee’s Uniform Interstate Family Support Act (UIFSA) conflict with the Federal Full Faith and Credit for Child Support Orders Act (FFCCSOA) and that FFCCSOA preempted UIFSA.
+
+Issue
+Does the UIFSA conflict with the FFCCSOA such that the FFCCSOA is controlling and grants subject matter jurisdiction in Tennessee?
+
+Held
+The statutes are not in conflict and Tennessee does not have subject matter jurisdiction over this case.
+
+Discussion
+The Court used statutory construction to determine that the FFCCSOA and UIFSA were not in conflict, and that a resident of Tennessee could not use the Tennessee courts to modify a support order issued in a foreign state against a nonresident of Tennessee.
+

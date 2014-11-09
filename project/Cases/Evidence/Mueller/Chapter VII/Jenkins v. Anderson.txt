@@ -1,0 +1,27 @@
+Citation
+476 U.S. 1141 106 S. Ct. 2248 90 L. Ed. 2d 694 1986 U.S.
+
+Brief Fact Summary
+Defendant was charged with killing a man in retaliation for a robbery.  Defendant claimed it was self-defense but failed to contact police for two weeks after the killing.  The prosecution attempts to use Defendant’s silence before contacting police to impeach his credibility.
+
+Synopsis of Rule of Law
+The right to testify in one’s own defense does not allow a defendant to commit perjury.
+
+Facts
+Defendant was charged with stabbing and killing Doyle Redding, which he claims was self-defense. Defendant claimed Redding robbed him, his sister, and her boyfriend the night before Redding was killed.  Defendant encountered Redding the next day, a confrontation ensured, and Redding was killed.  Defendant claimed Redding attacked him with a knife.  The prosecution cross-examined Redding on why he took two weeks to contact the police, and the prosecution commented on Defendant’s silence in closing arguments.  Defendant was convicted of manslaughter and sentenced to 15 years in prison.
+
+Issue
+Did the use of pre-arrest silence to impeach Defendant violate the Fifth or Fourteenth Amendments?
+
+Held
+Justice Powell issued the opinion for the United States Supreme Court holding that use of pre-arrest silence to impeach does not violate the Fifth or Fourteenth Amendments.
+
+Dissent
+Justices Marshall and Brennan dissented but the text omits the opinions.
+
+Concurrence
+Justice Steward issued a concurring opinion which the text omits.
+
+Discussion
+Once a defendant decides to testify, he has an obligation to tell the truth and failure to do so invites impeachment.  It is not unfair to a defendant to allow impeachment when, as in this case, defendant’s silence was prior to his arrest or being taken into custody.
+

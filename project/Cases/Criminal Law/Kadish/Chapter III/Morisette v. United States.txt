@@ -1,0 +1,21 @@
+Citation
+22 Ill.342 U.S. 246, 72 S. Ct. 240, 96 L. Ed. 288 (1952)
+
+Brief Fact Summary
+Defendant was a junk dealer who took old bomb casings that had been lying unused at an Air Force practice bombing range and sold them for a profit. Defendant was subsequently indicted and convicted of violating a statute that made it a crime to knowingly convert government property but that made no mention of intent.
+
+Synopsis of Rule of Law
+The mere omission from the language of the statute of any mention of intent is not to be construed as eliminating the element of intent from the crime.
+
+Facts
+Defendant, a junk dealer, openly entered an Air Force practice bombing range and took from the range old bomb castings that had been lying unused for years. Defendant flattened the casings and sold them for a profit. Defendant was subsequently indicted and convicted of violating a statute that criminalized the act of “knowingly converting” government property. At trial, Defendant’s defense was that he believed the casings had been abandoned. The Act made no mention of intent and at the trial; the Judge instructed the Jury that the question of intent was whether or not Defendant had intended to take the property. D’s conviction was affirmed on appeal and the Supreme Court of the United States granted review.
+
+Issue
+Did the court err in instructing the jury that the statute required a showing of intent to take the property rather than a showing that Defendant had knowledge of the fact that the property had not been abandoned by its owner?
+
+Held
+Yes. Judgment reversed.
+
+Discussion
+This case illustrates the difference between strict liability type offenses that do not require a certain mindset or intent from offenses where the intent requirement is implied regardless of statutory silence on the element of intent.
+

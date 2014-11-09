@@ -1,0 +1,21 @@
+Citation
+5545 F.2d 893
+
+Brief Fact Summary
+Plaintiff, William Doran, brought this action under the Securities Exchange Act after he bought an interest in a limited partnership from Defendants, Petroleum Management Corporation, et al.  Defendants claimed that the sale was a private offering exempted from the Act.
+
+Synopsis of Rule of Law
+Absent a registration statement, factors that determine whether an offering is private include “the number of offerees and their relationship to each other and the issuer, the number of units offered, the size of the offering, and the manner of the offering”.
+
+Facts
+Plaintiff was an educated investor with a degree in petroleum engineering.  A broker contacted Plaintiff to propose a sale of a participant interest in an LLC Wyoming oil drilling operation from Defendants to Plaintiff.  Eight other entities were offered an interest, and three declined.  Plaintiff paid for his interests through a down payment and a promissory note to take over payments on a debt held by the LLC.  Shortly after Plaintiff purchased an interest, the wells were closing down for almost a year, and the operation was never as profitable as it was prior to his investment.  Plaintiff sought to rescind his obligations to the LLC, citing violations by Defendants under the Securities Exchange Act.  Defendants countered that the investment was a personal offering that was exempt from the Act.
+
+Issue
+The issue is whether the sale of the LLC interest to Plaintiff was a private offering exempt from the Securities Exchange Act.
+
+Held
+The court reversed the district court’s determination that the investment was exempt from the Act and remanded.  The court reasoned that there were no facts that demonstrated that there was a disclosure of relevant information, and there was not enough evidence to demonstrate that Plaintiff had access to the relevant information.  To determine if this was a private offering that would be exempt from the Act’s requirements, the court looked at the relationship between Defendants and Plaintiffs, size and number of units offered, and the manner of the offering.  The court decided that Plaintiff presented enough facts to argue that there were enough offerees (he and eight others), and the size was a factual determination.  The relationship factor was also debatable because no matter how well-versed Plaintiff was in the field, he still potentially did not have the information that would have been disclosed in a registration statement.  The case was remanded to determine whether that
+
+Discussion
+The court notes that there is a difference between disclosure and access to information.  A disclosure is when the information has been given to Plaintiff, and then the issue is the offeree’s knowledge in the filed.  If Defendants provided access, they would still have to demonstrate how accessible the information was for Plaintiff.
+

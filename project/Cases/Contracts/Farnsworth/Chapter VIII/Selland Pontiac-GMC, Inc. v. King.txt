@@ -1,0 +1,21 @@
+Citation
+384 N.W.2d 490, 1986 Minn. App. 4143, 1 U.C.C. Rep. Serv. 2d (Callaghan) 463
+
+Brief Fact Summary
+The Plaintiff, Selland Pontiac-GMC, Inc. (Plaintiff), sued the Defendant, George King (Defendant), for breach of contract after the Defendant was unable to complete his duties under the contract on time due to a cessation in production by his supplier.
+
+Synopsis of Rule of Law
+A party to a contract does not assume the risk that his supplier, not a party to the contract, will cease production.
+
+Facts
+The Plaintiff contracted with the Defendant to buy four school bus bodies. The Defendant was to supply the bus bodies and they were to be built on top of chassis provided by the Plaintiff. The written contract specified that the bodies would be manufactured by Superior Manufacturing (Superior). The writing contained no escape clause excusing the Defendant from performing should his supply source fail. Superior subsequently went into receivership and the bodies were never manufactured. The Plaintiff thereafter sued to recover its losses.
+
+Issue
+Did the trial court err in holding that the Defendant did not breach the contract when his supplier ceased production, which rendered the Defendant’s performance impossible?
+
+Held
+No. As a general rule, where the seller’s supplier fails to produce the needed materials for the completion of the contract, the risk of this failure is allocated to the seller unless otherwise specified in the contract. However, in the present case, there was no breach by the seller due to impossibility of performance when the seller’s supplier stopped production. First, the supplier, Superior, was specified in the contract, and second, neither party had any knowledge of Superior’s questionable financial circumstances. The Defendant further did not expressly assume the risk of Superior’s ceasing production. Therefore, the Defendant did not breach the agreement.
+
+Discussion
+A party to a contract is not responsible for the nonperformance of one of its suppliers unless he expressly assumes the risk of nonperformance.
+

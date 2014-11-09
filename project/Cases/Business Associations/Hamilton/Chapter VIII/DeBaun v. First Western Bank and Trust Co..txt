@@ -1,0 +1,21 @@
+Citation
+Cal. Ct. App., 46 Cal. App. 3d 686, 120 Cal. Rptr.
+
+Brief Fact Summary
+First Western Bank and Trust Co. (D) (First Western), the trustee of a controlling number of shares in Johnson Corporation, sold those shares to the S.O.F. fund in which Mattison was trustee whom First Western did not scrutinize for past controversial financial practices.
+
+Synopsis of Rule of Law
+Controlling shareholders owe a duty to the corporation when selling control in the corporation when they possibly possess knowledge of the likeliness that the purchaser of the controlling shares intends to loot the corporation.
+
+Facts
+First Western (D) held 70 shares of Johnson Corporation which was run under DeBaun (P) and Stephens (P) guidance who between them owned 20 shares as directors. First Western did not want the 70 shares and secretly decided to sell them to Mattison, the settlor and trustee of S.O.F. fund who had a number of bankruptcies, tax liens, and a personally unsatisfied judgment with First Western’s (D) predecessor. As soon as Mattison acquired control of the corporation, he intercepted incoming funds, stopped paying creditors, and looted the corporation for his own benefit. With Johnson Corporation in further debt by this, DeBaun (P) and Stephens (P) filed suit against First Western (D) for breach of duty as majority shareholder. Trial court found against First Western (D) for $473,836 and an appeal followed.
+
+Issue
+Do controlling shareholders owe a duty to the corporation when selling control in the corporation when they can possess knowledge of the likeliness that the purchaser of the controlling shares intends to loot the corporation?
+
+Held
+(Thompson, J.) Yes. Controlling shareholders owe a duty to the corporation when selling control in the corporation when they possibly possess knowledge of the likeliness that the purchaser of the controlling shares intends to loot the corporation. The duty of good faith and fairness of a majority stockholder encompasses an obligation of prudency and guard when in possession of questionable facts. First Western (D) placed the corporation and its assets in peril for selling to Mattison. It had duty to both the corporation and minority shareholders. The measure for damages is correct, total damage to the corporation was the sum necessary to restore its net worth, plus the value of its tangible assets, plus its going business value determined with reference to future profits reasonably estimated. Derivative actions are equitable, therefore it was reasonable to frame damages in terms of an obligation dependent upon future contingencies rather than a fixed amount. Affirmed and remanded.
+
+Discussion
+Early case law did not recognize duty of the controlling shareholder to minority shareholders in the sale of controlling stock. Since then, it has been recognized that misuse can occur from a majority of shares. The applicable philosophy now is a standard of good faith and fairness from the viewpoint of the corporation and those interested therein. Most looting cases appear to involve investment companies whose principal or sole assets constituted cash and readily marketable securities.
+

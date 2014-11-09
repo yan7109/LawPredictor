@@ -1,0 +1,24 @@
+Citation
+388 U.S. 307, 87 S. Ct. 1824, 18 L. Ed. 2d 1210, 1967 U.S. 2837
+
+Brief Fact Summary
+Petitioners, Walker et al., challenged a judgment finding them in contempt of court for violating an injunction.  Petitioners argue that the injunction stems from their violation of unconstitutional ordinances.
+
+Synopsis of Rule of Law
+Once an injunction is issued, a party needs to challenge the constitutionality of the law in court rather than violate the injunction and be in contempt.
+
+Facts
+Petitioners wanted to march on Good Friday and Easter in protest for their civil rights in Respondent Birmingham, Alabama.  They applied for a parade permit but were refused on the grounds that the full City Commission.  The city only applied that process to Petitioners, and not to other parties.  Knowing that they were not going to receive a permit, but believing that Respondent was violating their rights under the United States Constitution, Petitioners continued to organize the marches.  Respondents, knowing that Petitioners would still march, asked for, and received, an injunction against Petitioners from the state circuit court.  Once petitioners marched, they were charged and sentenced with contempt.  The Alabama Supreme Court affirmed the ruling.  Petitioners argue that they were able to violate an unconstitutional law.
+
+Issue
+The issue is whether Petitioners can be sentenced for contempt for violating an injunction based upon an ordinance that may be unconstitutional.
+
+Held
+The majority of the United States Supreme Court affirmed the contempt ruling, arguing that cities and states should have the freedom to maintain order through injunctions.  If Petitioner wanted to challenge the constitutionality of the ordinances at issue, they should have done so through the courts.
+
+Dissent
+The First dissent written by Supreme Court Chief Justice Earl Warren argued that violating an injunction that was based on an ordinance that was arguably unconstitutional is no different than when a party gains standing to challenge a law by violating that law.  Chief Justice Warren believed that this reasoning was especially true here because the ordinance was patently unconstitutional. The second dissent by Justice Douglas notes the destructive potential of giving a party a procedural tool to circumvent the traditional pathway to challenging an unconstitutional law.  Here, the majority is allowing the law to be placed in an injuctive order which now grants a party the authority to hold the violating party in contempt.
+
+Discussion
+The injunction itself would give standing to Petitioners, but the ruling gives an additional, powerful procedural roadblock to states and municipalities to uphold unconstitutional laws.
+

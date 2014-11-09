@@ -1,0 +1,24 @@
+Citation
+923 S.W.2d 575 (Tex. 1996)
+
+Brief Fact Summary
+Plaintiff grandchildren contend that they should be able to maintain a lawsuit for legal malpractice against the Defendant attorney who allegedly negligently drafted a trust agreement for which they were beneficiaries.
+
+Synopsis of Rule of Law
+Intended beneficiaries of a will or trust will be denied a cause of action for legal malpractice against the attorney retained by the testator as there is no professional duty of care owed to such persons.
+
+Facts
+Frances Barcelo retained Defendant, David Elliot, to assist her with estate planning.  Defendant drafted a will and inter vivos trust agreement for her.  Barcelo signed the will and trust agreement in September 1990 and passed away in January 1991.  Two of Barcelo’s children contested the validity of the trust and it was declared invalid and unenforceable.  Plaintiffs, Barcelo’s grandchildren, who were the intended remainder beneficiaries under the trust, settled for an amount substantially smaller than they would have received under the trust.  Plaintiffs subsequently filed a malpractice action against the Defendant alleging his negligence caused the trust to be invalid.  The trial court granted the Defendant’s motion for summary judgment and Plaintiffs now appeal.
+
+Issue
+Whether an attorney who negligently drafts a will or trust agreement owes a duty of care to person intended to benefit under the will or trust, even though the attorney never represented the intended beneficiaries?
+
+Held
+No.  Affirmed.  An attorney retained by a testator or settlor to draft a will or trust owes no professional duty of care to persons named as beneficiaries under the will or trust.
+
+Dissent
+Justice Spector:  It is sound public policy to recognize a limited cause of action for intended beneficiaries of wills or trusts.  Such a cause of action would require attorneys to exercise due care in implementing estate plans, otherwise they will be accountable to no one. Justice Cornyn:  Intended beneficiaries of a will or trust may bring a cause of action against an attorney that caused them to lose a legacy in whole or in part.  Intended beneficiaries are foreseeable plaintiffs.  In addition lawyers wishing to protect themselves for what might be the testator’s wishes rather than a lawyer’s mistake can do so by documenting the testator’s intentions.
+
+Discussion
+At common law an attorney owes a duty of care only to his or her client and not to third parties.  This “privity barrier” helps to protect the attorney- client relationship.  Although many courts have relaxed the barrier in the estate planning context this Court was unwilling to do so.  The Court believes that the greater good is served by preserving a bright line “privity barrier” in order to ensure that attorneys can represent their clients without threat of suit from third parties.
+

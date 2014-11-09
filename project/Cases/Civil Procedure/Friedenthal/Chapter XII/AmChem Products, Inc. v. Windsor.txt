@@ -1,0 +1,24 @@
+Citation
+22 Ill.521 U.S. 591, 117 S. Ct. 2231, 138 L. Ed. 2d 689 (1997)
+
+Brief Fact Summary
+The District Court certified a class of those who were or might be affected by asbestos manufactured by Defendants. The certification was for settlement purposes only. Objectors to the settlement appealed, arguing that absent class members were not adequately notified of the settlement nor were their interests adequately represented.
+
+Synopsis of Rule of Law
+The District Court must determine whether all class members’ interests are adequately represented when determining the fairness of a class action settlement. Common questions of law and fact must still predominate in the context of a settlement, especially if the settlement disposes of claims prior to the realization of an injury.
+
+Facts
+The District Court certified a class of people for settlement purposes only who were, or who might be affected by asbestos manufactured by AmChem and others, Defendants. The certification enjoined the class members from pursuing any separate litigation pending the final order. The Court of Appeals reversed, saying the certification did not comply with Rule 23 of the Federal Rules of Civil Procedure. The Panel of Multidistrict Litigation transferred all the asbestos cases then filed but not yet on trial to one district for pretrial proceedings. A settlement as the result of negotiation was reached between Defendants and Plaintiffs who had already filed suit. This suit was instituted to determine the interests of potential plaintiffs who had not yet filed lawsuits. Plaintiffs moved to certify a class of people who had been exposed to asbestos but had not yet sued. All named Plaintiffs claimed to have been exposed to asbestos. A settlement was proposed.
+
+Issue
+Have the qualifications of predominance and superiority been met under Rule 23(b)(3) of the Federal Rules of Civil Procedure such that the class of those injured and exposed to asbestos should be certified for settlement purposes?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+Justices Breyer and Stevens, concurring in part and dissenting in part:
+
+Discussion
+A class action settlement must be evaluated in the context of not just present claims but future claims. The Court’s opinion demonstrates that when there is a potential conflict among class members within the class, class certification for a settlement that disposes of absent class members’ claims is not appropriate.
+

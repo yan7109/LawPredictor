@@ -1,0 +1,24 @@
+Citation
+861 P.2d 531, 1993 Wyo. 155, 9 I.E.R. Cas. (BNA) 554
+
+Brief Fact Summary
+Plaintiff Dr. Glenna Hopper worked for Defendant All Pet Animal Clinic as a veterinarian, and as part of her contract for employment, she agreed not to compete with Defendant Clinic for a period of three years after she left its employ. Subsequently, Plaintiff purchased a competing clinic and began directly competing with Defendant Clinic.
+
+Synopsis of Rule of Law
+Contracts in restraint of trade are disfavored and therefore construed against the party seeking to enforce them by burdening said party with proving that the covenant is reasonable and has a fair relation to, and is necessary for, the business interests for which protection is sought.
+
+Facts
+Plaintiff worked at the Defendant Clinic as a veterinarian. Her employment agreement stated that either she or her employer may terminate the agreement upon 30 days notice, and upon termination, Plaintiff agreed not to practice small animal medicine for a period of three years from the date of termination within 5 miles of the corporate limits of the City of Laramie, Wyoming. The president of Defendant Clinic, Dr. R.B. Johnson, heard a rumor that Plaintiff was considering purchasing a competing clinic and suggested that she buy out of the covenant not to compete. She declined and was therefore dismissed. Shortly thereafter, Plaintiff purchased the other practice, and Defendant Clinic sued for an injunction and damages.
+
+Issue
+Is the covenant not to compete enforceable?
+
+Held
+Yes but only for one year rather than three years. A covenant not to compete is valid if it (1) is no greater than necessary to protect the employer, (2) does not impose undue hardship on the employee, and (3) is not injurious to the public. Here, the restriction was not unreasonable under the first two elements. The restriction was for only a five-mile radius and only for small animal practice. The fact that Defendant lost 187 clients to Hopper shows that Defendant was harmed. An undue hardship was not imposed on Plaintiff, as she could practice relatively nearby or practice large animal medicine. Further, the public will not suffer injury by the covenant not to compete. However, the three-year restraint of trade was a partially unreasonable restraint of trade. One year is sufficient.
+
+Dissent
+The majority improperly reduced the term of the covenant not to compete to one year. The one-year injunction should run from the date the trial court, on remand, enters its modified judgment.
+
+Discussion
+A covenant not to compete is enforceable provided it is a reasonable restraint on trade.
+

@@ -1,0 +1,21 @@
+Citation
+175 B.R. 762, 1994 U.S. Dist. 7951,  Bankr. L. Rep. (CCH) P76,074; 26 U.C.C. Rep. Serv. 2d (Callaghan) 182
+
+Brief Fact Summary
+Thomas William Slamans, (Slamans), obtained a letter of credit from First National Bank in favor of Sun Company, (Sun). When Slamans filed for bankruptcy, Sun drew on the letter of credit in the amount of Slamans’ outstanding debt. CCF, Inc., (Appellant), appeals the Bankruptcy Court decision to subrogate First National Bank into Slamans’ shoes and award it $111,053.41 that Sun owed Slamans.
+
+Synopsis of Rule of Law
+An issuer of a letter of credit is liable with a debtor on a claim of a creditor against the debtor and is subrogated to the rights of such a creditor to the extent that it pays the claim.
+
+Facts
+Slamans operated gas stations. Slamans’ gave First Capital Corporation a revolving note for $750,000. CCF, Inc., (Appellant) is the successor in interest to First Capital Corporation. Slamans obtained a letter of credit from First National Bank as part of a distribution agreement with Sun for the purchase of oil products. When Slamans filed for bankruptcy, Sun drew on the letter of credit in the amount of Slamans’ debt, $192,433.15. Sun filed an interpleader complaint with the Bankruptcy Court when First National Bank requested that Sun turn over to it $111,053.41 that Sun owed Slamans. The Bankruptcy Court awarded that amount to First National Bank.
+
+Issue
+Whether an issuer of a letter of credit is liable with the debtor on a claim of a creditor against the debtor such that it may be subrogated to the rights of that creditor to the extent it has paid the claim.
+
+Held
+Yes. An issuer of letters of credit like a guarantor is eligible for subrogation.
+
+Discussion
+Issuers of letters of credit and guarantors should both be eligible for subrogation. While a letter of credit may require conformity with certain formalities not required with a guaranty, precluding the assertion of subrogation rights to issuers of letters of credit while allowing guarantors to assert them would be no more than an exercise in honoring form over substan
+

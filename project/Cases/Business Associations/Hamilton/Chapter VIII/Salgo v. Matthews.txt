@@ -1,0 +1,21 @@
+Citation
+Tex. Ct. Civ. App., 497 S.W.2d 620 (1973)
+
+Brief Fact Summary
+A corporate election inspector (D) appointed by Salgo (D) refused to accept several proxies, because if they had been accepted, it would have enabled Matthews (P) to win his proxy fight with Salgo (D).
+
+Synopsis of Rule of Law
+Only an authorized representative of the party who legally owns the stock may vote on shares of that party’s stock.
+
+Facts
+Matthews (P) was head of faction that wanted to take control of General Electrodynamics Corporation from the president, Salgo (D). Matthew intended to win via a proxy war. At a special stockholder meeting, Salgo (D) appointed Meer (D) as election inspector. Matthews (P) submitted numerous proxies, but Meer (D) refused, certain that some had been executed in Matthew’s (P) favor by another corporation with stock in General Electrodynamics. The other corporation, Pioneer Casualty was in receivership and beneficial title to its shares were in ownership of Shepherd who was also bankrupt. Court order authorized Pioneer’s receiver to give Shepherd proxy vote of Pioneer’s shares, Meer (D) refused to accept proxies executed by Shepherd on the grounds that only Shepherd’s bankruptcy trustee had the right to vote for shares. Matthews (P) filed suit, and trial court mandated Salgo (D) to reconvene the shareholder’s meeting for the purpose of declaring Matthew (P) and his faction election winners. Salgo followed the mandate, but also appealed.
+
+Issue
+Can a corporation require that the beneficial owner of stock also be the stock’s voter?
+
+Held
+(Guittard, J.) No. Only an authorized representative of the party who legally owns the stock may vote on shares of that party’s stock. With nearly 30,000 shares owned by Pioneer, Meer (D) had no standing to insist that they be voted on by their beneficial owner. Pioneer was entitled to vote on those shares, through insolvency, its receiver became the authorized representative. The receiver as authorized representative and owner, did in fact act, via Shepherd. Meer (D) did not have the right to go beyond corporate records and determine the identities of shareholders entitled to have a vote. Although Meer (D) exceeded his authority, the remedy for his abuse is a proceeding quo warranto. Since Matthews (P) should have availed himself of that statutory remedy, the court does not have the standing to compel mandatory relief. Reversed and rendered.
+
+Discussion
+Shareholders of record on a specified date are the only ones with a right to vote in corporate elections. Interested parties into who is a shareholder of record may inspect the lists and bookkeeping to see if statutory requisites have been met. Shareholders of record also enjoy the privilege of being able to bring derivative suits against the corporation and receive dividends when they are declared.
+

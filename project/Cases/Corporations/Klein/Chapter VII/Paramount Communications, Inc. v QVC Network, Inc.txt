@@ -1,0 +1,21 @@
+Citation
+637 A.2d 828, 637 A.2d 34 (Del. 1993)
+
+Brief Fact Summary
+Defendants, Paramount Communications, Inc. et al., are appealing an order enjoining the merger agreement between Paramount and Viacom Inc.  Plaintiffs, QVC Network Inc. et al., sought to enjoin the agreement because the agreement’s defensive measures prohibited QVC from competing for a merger.
+
+Synopsis of Rule of Law
+A merger agreement between a target company and an acquiring company that restricts the target company’s directors from upholding their fiduciary duties owed to their shareholders is invalid.
+
+Facts
+Paramount was looking for possible merger or acquisition targets in order to remain competitive in their field.  The CEO of Paramount had a meeting with the CEO of Viacom wherein they discussed Paramount merging into Viacom.  The discussions hit a dead end until QVC sought to acquire Paramount.  The discussions between QVC and Paramount were renewed, and the parties entered a merger agreement that had several defensive measures to prevent other companies, namely QVC, from bidding against Viacom.  There was a no-shop provision that prevented Paramount from soliciting other bidders; a termination fee provision that paid Viacom $100 million if they were eventually outbid; and a stock option provision that allowed Viacom to purchase 19.9% of Paramount’s shares at $69.14 per share.  The stock option provision also allowed Viacom to pay for the stock in subordinated notes or Viacom could elect to get a cash payout for the difference between the option price and market price.  The st
+
+Issue
+The issue is whether the Paramount board violated their fiduciary duty to shareholders by not fully considering the QVC offer.
+
+Held
+The Delaware Supreme Court held that the merger between Defendants should be enjoined, and that the merger agreement between Paramount and Viacom was invalid.  Defendants argued that they were under no obligation to seek the maximum value for shareholders under the Revlon rule because there was no breakup of the company, but the court determined that the company was shifting its control to another entity and therefore the sale of Paramount reached the point to where the prime concern for the Paramount directors was to maximize shareholder value.  Paramount was under no contractual obligation to avoid discussions with QVC because the merger agreement between Viacom and Paramount was invalid.  Paramount could not contract to remove their fiduciary duties to shareholders, and the defensive provisions had that effect.
+
+Discussion
+The court looked at what the shareholders would be losing if Paramount was acquired, and with Viacom, unlike the case between Time and Warner in Paramount Communication, Inc. v. Time, Inc., the Paramount shareholders would lose complete control.  Therefore there was a heightened scrutiny of the directors’ actions when seeking a merger.
+

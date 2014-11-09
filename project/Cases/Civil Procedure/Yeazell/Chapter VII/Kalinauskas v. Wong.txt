@@ -1,0 +1,21 @@
+Citation
+151 F.R.D. 363, 1993 U.S. Dist. 14526, 28 Fed. R. Serv. 3d (Callaghan) 472
+
+Brief Fact Summary
+The Plaintiff, Ms. Lin T. Kalinauskas (Plaintiff), a former employee of Caesars Palace Hotel and Casino (Caesars), sued Caesars for sexual discrimination. She sought to depose Donna R. Thomas (Thomas), who had previously entered into a confidential settlement agreement with Caesars stemming from her own sexual harassment claim against Caesars.
+
+Synopsis of Rule of Law
+The court will not prevent a plaintiff from deposing a non- party witness merely because the witness previously signed a confidentiality agreement with the current defendant, where the plaintiff was not a party to that earlier agreement.
+
+Facts
+The Plaintiff, a former employee of Caesars, sued Caesars for sexual discrimination. As part of discovery, Plaintiff sought to depose Thomas, a former Caesars employee who filed a sexual harassment suit against Caesars the year before. Thomas’ suit settled without trial pursuant to a confidential settlement agreement, which the court sealed upon a stipulated agreement of the parties. Caesars filed a protective order to prohibit the deposition of Thomas.
+
+Issue
+Whether a Plaintiff is entitled to depose a non-party witness who previously entered into a confidential settlement agreement with the defendant in the plaintiff’s current suit.
+
+Held
+Yes. The court allowed the deposition of Thomas.   With respect to contracts containing explicit guarantees of confidentiality, such contracts, of course, cannot bind parties who do not sign them and may have little effect on the capacities of a non-party to discover or introduce at trial the settlement communications covered by the contract.
+
+Discussion
+In reaching its decision, while noting that public interest favors judicial policies which promote the completion of litigation, the court noted that public interest also seeks to protect the finality of prior suits and the secrecy of settlements when desired by the settling parties. Thus, the court felt that allowing Plaintiff to depose Thomas could discourage similar settlements. However, the court also felt that preventing the deposition could result in terrible consequences whereby defendants would buy the silence of a witness with a settlement agreement. Moreover, the court relied on the fact that the deposition was likely to lead to relevant evidence.
+

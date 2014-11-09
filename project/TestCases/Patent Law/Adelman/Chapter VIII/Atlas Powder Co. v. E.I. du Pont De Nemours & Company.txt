@@ -1,0 +1,21 @@
+Citation
+750 F.2d 1569 (Fed. Cir. 1984)
+
+Brief Fact Summary
+Atlas (Plaintiff) brought suit against Du Pont (Defendant) for patent infringement on a blasting agent which Defendant claimed was an invalid invention under 35 U.S.C. § 112 stating that Plaintiff's patent disclosure did not enable one of ordinary skill in the art to make and use the claimed invention.
+
+Synopsis of Rule of Law
+A patent must contain a description that enables one skilled in the art to make and use the claimed invention in order to be enabling under § 112.
+
+Facts
+Plaintiff developed the '978 patent for a blasting agent.  Plaintiff sued Defendant claiming infringement when Defendant began to market a agent that was similar.  Defendant argued at trial that Plaintiff's patent was invalid because the patent disclosure did not enable one of ordinary skill in the art to make and use the claimed invention according to 35 U.S.C. § 112.  The court ruled for Plaintiff on the grounds that Plaintiff's '978 patent was different enough from the prior art and provided a solution to a detonation problem which others had not considered with the patent being non-obvious.  Defendant appealed.
+
+Issue
+To be enabling under § 112, is a patent required to contain a description that enables one skilled in the art to make and use the claimed invention?
+
+Held
+(Baldwin, J.)  Yes.  To be enabling under § 112, a patent is required to contain a description that enables one skilled in the art to make and use the claimed invention.  To make something better is not prohibited if some experimentation is required.  However, the amount of experimentation must not be overly extensive.  This determination is a question of law.  In this case, Defendant argues that Plaintiff's disclosure is nothing more than a list of "candidate ingredients" from which one skilled in the art would have to select and then do extension experiments to find an emulsion this operable.  The district court held that it would have been impossible for Plaintiff to list all operable emulsions and exclude the ones that were inoperable.  Also, such a list would not be necessary as one skilled in the art would know how to select a salt and fuel and then apply "Bancroft's Rule" to determine the proper emulsifier.  The district court's holding was correct.  The claims were not necessarily invalid even if some of the combinations were not operative.  It is not a function of the claims to specifically exclude possible inoperative substances.  Defendant failed to persuade this court that the district court was clearly mistaken in its findings.  Affirmed.
+
+Discussion
+A specification will be sufficient even if a skilled person makes several trials or experiments before making and using the invention with success.  However, only ordinary skill is required in making the invention.  It is enough if the invention can be made operative by adjustments or corrections which would occur naturally to a worker skilled in the art.
+

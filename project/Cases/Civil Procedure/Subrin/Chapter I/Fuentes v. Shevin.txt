@@ -1,0 +1,24 @@
+Citation
+407 U.S. 67, 92 S. Ct. 1983, 32 L. Ed. 2d 556, 1972 U.S. 42
+
+Brief Fact Summary
+Two cases involving similar issues of due process considerations were joined.   Plaintiffs challenged the constitutionality of prejudgment replevin statutes on the grounds that the denial of notice and a hearing was a violation of their right to due process.
+
+Synopsis of Rule of Law
+Prejudgment replevin statutes, which deprive individuals of their property must comply with procedural due process.
+
+Facts
+In the first case, Margarita Fuentes (Plaintiff), a resident of Florida, purchased a gas stove and service policy from Firestone Tire and Rubber Company (Defendant), under a conditional sales contract.  A few months later, Plaintiff also purchased a stereophonic phonograph from the Defendant.  Defendant retains title to the merchandise, while Plaintiff was entitled to possession of the items until she defaulted on her payments.  With about $200 remaining to be paid, a dispute developed between the Plaintiff and the Defendant over the servicing of the stove.  Plaintiff refused to make payments and the Defendant instituted an action in small claims court for repossession of the stove and stereo.  When the Defendant filed that action, it also obtained a writ of replevin ordering a sheriff to seize the disputed goods.  Plaintiff then filed suit in a federal district court challenging the constitutionality of the Florida prejudgment replevin procedures under the Due Process Clause
+
+Issue
+Do state replevin statutes that fail to provide property owners with notice and an opportunity to challenge the seizure of their property violate the Fourteenth Amendment’s guarantee that no state shall deprive any person of property without due process of law?
+
+Held
+Yes.  Judgment is vacated and remanded.
+
+Dissent
+The decision depends on one’s perception of the practical considerations involved.  One should pay attention to the seller’s interest, while also looking at those of the buyer.  Here, the buyer’s risk of harm is not as large as the majority concludes.
+
+Discussion
+In order to have a due process violation, there must be state action and a deprivation of property.  The court concludes that both of these requirements were not present, and therefore, both the Florida and Pennsylvania statutes were unconstitutional.
+

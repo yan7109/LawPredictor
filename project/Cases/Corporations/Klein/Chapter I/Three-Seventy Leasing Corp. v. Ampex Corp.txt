@@ -1,0 +1,21 @@
+Citation
+528 F.2d 993 (5th Cir. 1976)
+
+Brief Fact Summary
+Plaintiff, Three-Seventy Leasing Corp., sought damages from Defendant, Ampex Corp., for a breach of contract to sell Plaintiff computer hardware.
+
+Synopsis of Rule of Law
+An agent has the apparent authority to act in a manner that is reasonable for a person in the agent’s position, and a third party can rely on those actions when a principal indicates through its actions that an agent had the appropriate authority.
+
+Facts
+Plaintiff was a leasing company that approached Defendant company’s representative, Thomas Kays, to purchase computer hardware.  Plaintiff was going to act as a middle-man between Defendant and a second purchaser of the hardware that Plaintiff found.  Defendants submitted an unsigned purchasing agreement to Plaintiff, and Plaintiff signed the agreement.  Kays followed the exchange with a letter indicating that part of Plaintiff’s order would be shipped directly to the second purchaser.
+
+Issue
+The issue is whether Kays entered Defendant into a contract with Plaintiff under an apparent authority to act in that capacity.
+
+Held
+The United States Court of Appeals for the Fifth Circuit held that Kays had apparent authority to act on behalf of Defendant in contractual matters with Plaintiff, and that Kays did enter into an agreement when he promised shipment of the hardware.  It was reasonable for Plaintiff to rely on Kays, a salesman, to conduct a sales transaction with Plaintiff.  Defendant agreed to continue negotiations through Kays, and any evidence to demonstrate that Kays did not have that authority was never relayed to Plaintiff.
+
+Discussion
+This case is similar to Lind v. Schenley Industries, Inc., in that the plaintiffs relied upon a representative of the principal that acted as the face of the principal in dealings with the plaintiffs.  In both cases, the courts could not justify forcing the plaintiffs to comply with the actual authority established by the principals that was unknown to the plaintiffs.
+

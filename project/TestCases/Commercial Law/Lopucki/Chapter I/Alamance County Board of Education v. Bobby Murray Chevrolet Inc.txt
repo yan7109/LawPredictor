@@ -1,0 +1,21 @@
+Citation
+121 N.C. App. 222, 465 S.E.2d 306, 1996 N.C. App. 2, 28 U.C.C. Rep. Serv. 2d (Callaghan) 1220
+
+Brief Fact Summary
+The Appellant, Bobby Murray Chevrolet, Inc. (Appellant), appeals the trail court’s entry of summary judgment in favor of the Appellees, Alamance County Board of Education, (Appellees). Appellant alleges that his performance under the contract was excused under the theory of commercial impracticability.
+
+Synopsis of Rule of Law
+When Defendant’s ability to perform depends upon cooperation of third party, Defendant cannot rely on third party’s later refusal to cooperate to claim impossibility.
+
+Facts
+Appellant is a franchisee of General Motors. Appellees accepted Appellant’s bid to supply 1200 bus chassis to be manufactured by General Motors. Prior to completing this order, the EPA changed the standards for emissions rendering the engine described in Appellant’s bid out of compliance. Then, General Motors indicated to Appellant that the chassis orders would not be filled due to unavailability of Allison automatic transmissions. Appellant notified Appellees that the chassis could not be supplied. Appellees then filed suit against Appellant for difference between the bid price and the actual amounts spent by Appellees in purchasing similar chassis. The trial court granted Appellees’s motion for summary judgment.
+
+Issue
+Whether there exists a genuine issue of material fact as to Appellees’s claim of breach of contract against Appellant.
+
+Held
+No. There is no genuine issue of material fact as to Appellees’s claim of breach of contract against Appellant.
+
+Discussion
+When an exclusive source of supply is specified in a contract or may be implied by circumstances to have been contemplated by the parties, failure of that source may excuse the promisor from performance. However neither contingency is reflected in the record. The terms of Appellant’s bid implied more than one source of supply and Appellant did not elect to include a Single Source Clause to limit his liability. Further even if the parties contemplated a single source of supply, failure to make an express provision for a foreseeable contingency implicitly placed the burden of loss on the seller, Appellant.  Here, not only was it foreseeable that Appellant’s source might fail, but Appellant had actual notice that GM was experiencing shortages. Therefore, Appellant bears the burden of loss. Governmental regulations do not excuse performance under a contract where a party assumed the risk of such regulation. Here, by the terms of the parties’ agreement, Appellant assumed the responsibility of the regulations. Further, Appellant was on notice of the new emissions standards but did not explore alternative methods of meeting its obligation with the Appellees. No actual agency relationship existed between Appellant and General Motors. Merely extending the date by which Appellant could place orders for the chassis did not constitute an exercise of day-to-day control necessary to constitute an actual agency relationship. In addition, no apparent agency relationship existed because there is no evidence that General Motors represented Appellant to be its agent nor permitted Appellant to represent itself as such.
+

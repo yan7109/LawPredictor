@@ -1,0 +1,18 @@
+Citation
+322 Ill. App. 3d 768, 255 Ill. Dec. 907, 751 N.E.2d 1 (App. Ct. 2001)
+
+Synopsis of Rule of Law
+One who voluntarily undertakes to render services to another is liable for bodily harm caused by his failure to perform such services with due care or with such competence and skill as he possesses.
+
+Facts
+Michael and Brian Mraz, 21 and 18 years old, provided a quart of Goldschlager alcohol to 16-year-old Elizabeth Wakulich and offered her money as a prize if she could drink the entire bottle without losing consciousness or vomiting.  After drinking the entire bottle, Elizabeth lost consciousness.  According to the complaint, the boys put her in the downstairs family room where they observed her vomiting profusely and making gurgling sounds.  They later checked on her and removed her vomit-soaked blouse and put a pillow under her head to prevent aspiration.  They did not seek medical attention and prevented others from calling 911 or seeking medical attention.  Later their father ordered she be removed from the home, so they took her to a friend’s home then to the hospital where she was pronounced dead.  The complaint was dismissed on the ground that Illinois case law eliminated liability of social hosts for providing alcohol.  Plaintiff, however, appealed on the ground that the complaint stated sufficient facts to establish a cause of action based on defendants’ failure to exercise due care after voluntarily undertaking to care for plaintiff’s decedent after she became unconscious.  The court of appeals agreed.
+
+Issue
+Whether defendants’ actions demonstrated a voluntary undertaking concerning decedent’s well-being such that they had a duty to exercise due care in the performance of that undertaking.
+
+Held
+Yes.  One who voluntarily undertakes to render services to another is liable for bodily harm caused by his failure to perform such services with due care or with such competence and skill as he possesses.  Although the defendants claimed that none of their acts indicated a voluntary assumption of responsibility for the decedent, the court disagreed.  The court found that Michael and Brian Mraz demonstrated an undertaking concerning decedent’s well-being by carrying decedent downstairs, placing her on a couch, checking on her, changing her vomit-saturated shirt, and placing a pillow under her head.  Accordingly, the court of appeals held that the trial court erred in dismissing counts based on voluntary undertaking.
+
+Discussion
+The Restatement Third of Torts § 43 recognizes that an actor who undertakes to render services to another, when the actor knows or should know that those services will reduce the risk of harm to the other, has a duty to exercise reasonable care in rendering those services if the failure to exercise reasonable care would increase the risk of harm beyond which would have existed without the undertaking; or if the other person relies on the actor’s using reasonable care in the undertaking.
+

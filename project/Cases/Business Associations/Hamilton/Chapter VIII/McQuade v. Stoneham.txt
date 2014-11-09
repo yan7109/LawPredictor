@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 189 N.E. 234 (1934)
+
+Brief Fact Summary
+McQuade (P) alleges that his removal as officer and director from the New York Giants Baseball Club violates an agreement between the parties to use best efforts in maintaining everyone’s current positions.
+
+Synopsis of Rule of Law
+Contracts are illegal and void so far as they preclude the board of directors, at the risk of liability, from changing officers, wages, or policies.
+
+Facts
+Stoneham (D) the majority stockholder in the National Exhibition Company/ New York Giants Baseball Club held 1,306 shares. The other two stockholders were McQuade (P) and McGraw (D) and each of them held 70 shares paid to Stoneham (D) for the total of $50,338.10. The three entered into an agreement to use their “best endeavors” to continue to retain themselves as significant members and officers in the club. Stoneham (D) was president at $45,000 annually, McGraw (D) vice president at $7,500 annually, and McQuade (P) as treasurer at $7,500 annually. The agreement needed consent from all parties to be changed. The board of directors held four other members directed by Stoneham (D). In the next shareholder’s meeting, Stoneham (D) and McGraw (D) abstained from voting which led to a failure to reelect McQuade (P) for his position. The trial court gave McQuade (P) an award for damages but would not reinstate him to his position through specific performance.
+
+Issue
+Are contracts illegal and void so far as they preclude the board of directors, at the risk of liability, from changing officers, wages, or policies?
+
+Held
+(Pound, C.J.) Yes. Contracts are illegal and void so far as they preclude the board of directors, at the risk of liability, from changing officers, wages, or policies. McQuade (P) argued the agreement should be enforceable so long as the officer remains dutiful to his position, but finding it unenforceable is more agreeable in the court’s eyes then having to rule on the motives of directors in the lawful exercise of their trust. The decision should also be reversed because statute finds that city magistrates cannot engage in other businesses besides the duties of their office. McQuade’s (P) engagement with the club was substantial and he received a significant salary. Reversed and complaint dismissed.
+
+Discussion
+Usually, an agreement where a person can put pressure on how the others vote is illegal and void, except in certain cases if all the shareholders are parties. Also, any agreement on shareholders that deprive them of functions as a shareholder or officer if they were to become one are illegal. Such an agreement would be, under Delaware law, valid if it concerns a close corporation and stockholders that hold majority voting share.
+

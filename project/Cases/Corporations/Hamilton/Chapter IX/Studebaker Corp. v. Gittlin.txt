@@ -1,0 +1,21 @@
+Citation
+360 F.2d 692 (2d Cir. 1966)
+
+Brief Fact Summary
+Richard Gittlin, (Petitioner), appeals the District Court ruling in favor of Studebaker Corporation, (Respondent), enjoining the use of other stockholders’ authorizations in a New York State Court proceeding to obtain inspection of Studebaker’s shareholders list.
+
+Synopsis of Rule of Law
+A letter which does not request the giving of any authorization was subject to the Proxy Rules if it was part of “a continuous plan” intended to end in solicitation and to prepare the way for success.
+
+Facts
+Petitioner began a proceeding to inspect the record of Respondent’s shareholders. He indicated that he was acting on behalf of himself and on the written authorization from 42 other shareholders owning shares that constituted over 5% of the company’s stock. Petitioner and his associates were trying to get management to agree to certain changes in its board of directors and had announced their intention to solicit proxies for the annual meeting if the request was not met. When these talks had broken down he had requested access to the stockholders list and been refused. Respondent’s complaint alleges that Petitioner obtained the authorization from the other stockholders in violation of the Proxy Rules. Specifically, he had authorization prior to filing proxy material with the SEC. The District Court enjoined the use of other stockholders’ authorizations to obtain inspection of Respondent’s shareholders list.
+
+Issue
+Whether Petitioner’s demand for inspection of the stockholders list and his solicitation of authorizations were part of a continuous plan intended to end in solicitation and to prepare the way for success.
+
+Held
+Yes. This was Petitioner’s declared purpose.
+
+Discussion
+The copy of a stockholders list is a valuable instrument to a person seeking to gain control and therefore shareholders must have full information before they aid in its procurement. Presumably the stockholders who gave authorizations were told something and one need only spread misinformation adequately before beginning to solicit and the Commission would be powerless to protect shareholders.
+

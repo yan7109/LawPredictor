@@ -1,0 +1,24 @@
+Citation
+489 U.S. 288, 109 S. Ct. 1060, 103 L. Ed. 2d 334 (1989)
+
+Brief Fact Summary
+The petitioner, Teague (the “petitioner”) was convicted in an Illinois state court of attempted murder and other offenses.  The prosecutor used all ten of his peremptory challenges to exclude blacks from the jury.  The petitioner twice unsuccessfully moved for a mistrial arguing that he was entitled to a jury of his peers.
+
+Synopsis of Rule of Law
+An individual may not seek to enforce a new rule of law in federal habeas corpus proceedings if the new rule was announced after the petitioner’s conviction became final, or if the petitioner is seeking to establish a wholly new rule or to apply a settled precedent in a novel way that would result in the creation of a new rule.
+
+Facts
+The petitioner, a black man, was convicted in an Illinois state court for three counts of attempted murder, two counts of armed robbery, and one count of aggravated battery by an all white jury.  During jury selection, the prosecutor used all ten of his peremptory challenges to exclude blacks.  The petitioner’s attorney used one of his ten challenges to exclude a black woman married to a police officer.  The petitioner’s  attorney moved for a mistrial after six blacks were struck, but the trial court denied the motion.  Teague again moved for a mistrial after an additional four blacks were struck.  The prosecutor defended the challenges by stating that he was trying to achieve a balance of men and women on the jury.  The trial court again denied the motion.
+
+Issue
+Is the petitioner prevented from benefiting from the rule in Batson since his conviction became final before Batson was decided?
+
+Held
+Justice Sandra Day O’Connor (”J. O’Connor”) delivered the opinion of the Court in regards to Parts I, II, and III.  The Supreme Court of the United States (”Supreme Court”) held that the Petitioner was procedurally barred from benefiting from the Batson rule since his conviction was final before Batson was decided.
+
+Dissent
+Justice William Brennan (”J. Brennan”), joined by Justice Thurgood Marshall (”J. Marshall”), issued a dissenting opinion arguing that the Supreme Court should grant certiorari in another case raising the same issue and have a full briefing and oral argument.   J. Brennan believes the Supreme Court’s decision will preclude federal courts from considering on collateral review a vast range of important constitutional challenges.
+
+Discussion
+The Supreme Court decided that an individual may not seek to enforce a new rule of law in federal habeas corpus proceedings if the new rule was announced after the individual’s conviction became final, or if the individual is seeking to establish a wholly new rule or to apply a settled precedent in a novel way that would result in the creation of a new rule.  The Supreme Court identified two exceptions: (1) rules prohibiting punishment for “private, primary individual conduct beyond the power of the criminal law-making authority to proscribe”; and (2) rules that are “implicit in the concept of ordered liber
+

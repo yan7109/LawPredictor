@@ -1,0 +1,21 @@
+Citation
+267 Or. 645, 518 P.2d 656 (1974)
+
+Brief Fact Summary
+Grandmother Testrix Kate Webb (Testrix) devised certain real property to Daughter Ada W. Sacrison (Daughter) and Grandsons Franklin Browning and Robert Stanley Browning (Grandsons). Testrix’s daughter was granted a life estate, and her grandsons a contingent remainder in the real property. Plaintiff, the wife of deceased Grandson Franklin (Plaintiff), brought this action to determine the status of Grandson Franklin’s remainder.
+
+Synopsis of Rule of Law
+If a devise is made to a life tenant with a remainder conditioned upon an ambiguous form of survivorship, the remainderman must survive the life tenant rather than merely the testator in order to take the remainder.
+
+Facts
+Testrix devised certain real property to Daughter Ada and Grandsons. Testrix’s daughter was granted a life estate, and her grandsons a contingent remainder in the real property. Plaintiff, the wife of Grandson Franklin, brought this action to determine the status of Grandson Franklin’s remainder. Plaintiff argues that the trial court improperly ruled that the remainder was contingent at the time of Testrix’s death. Plaintiff argues that the remainder vested at the death of Testrix. Defendant Sacrison argues that the grandsons each took a remainder contingent upon surviving the life tenant, Daughter. Grandson Franklin did not survive Daughter, who is still living.
+
+Issue
+Must a remainderman survive a life tenant and a testator in order to take a remainder that is conditioned upon an ambiguous form of survivorship?
+
+Held
+Yes. The proper tool of construction in this case states that a will reading which confirms most closely with the intent commonly prevalent among conveyers similarly situated is most reasonable. When a devise is made to a life tenant with a remainder conditioned upon an ambiguous form of survivorship, the intent commonly prevalent among conveyors similarly situated is deemed to require that the remainderman survive the life tenant rather than merely the testator. Taking this view, it is clear that Grandson Franklin’s contingent remainder did not vest before his death because he did not survive the life tenant, Daughter. Therefore, the trial court properly held that Plaintiff’s argument is without foundation and that Grandson Franklin’s interest was subject to the condition that he survive his mother, Testrix’s daughter and the life tenant of the property.
+
+Discussion
+The Court discusses the Property principle which favors early vesting of contingent remainders. Although the Court cites criticism of this rule on the basis that it is outdated, the Court nonetheless finds this rule of construction potentially persuasive. However, the Court actually depends instead on the principle of construction that a reading which, “confirms more closely with the intent commonly prevalent among conveyers similarly situated,” as most reasonable.
+

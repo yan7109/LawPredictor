@@ -1,0 +1,21 @@
+Citation
+973 S.W.2d 301 (Tex. 1998)
+
+Brief Fact Summary
+The parents of two children who were sexually abused at their day care center filed a complaint against friends of the alleged abusers for failing to report the abuse. In failing to report, the defendants violated a section of the Family Code.
+
+Synopsis of Rule of Law
+A cause of action in negligence per se requires that there be an underlying duty at common law.
+
+Facts
+The plaintiffs allege that the defendants were negligent per se because they failed to report the defendant’s sexual and physical abuse of the plaintiff’s children to child welfare agencies as required by the Family Code. The defendants, friends of the alleged child abuser and day care operator, allegedly witnessed the abuse of the plaintiffs and other children, but said nothing to authorities. In failing to report, they violated the Family Code. The code requires a person to file a police report if they have reason to believe that a child’s physical or mental health is at risk due to abuse.
+
+Issue
+Whether the defendants breached a duty to the plaintiffs when they violated the Family Code.
+
+Held
+There cannot be negligence per se without an underlying common law duty.
+
+Discussion
+Although the plaintiff’s children are within the class of persons the legislation is intended to protect and the harm they suffered is of the type the legislation intended to prevent, the defendants here are not negligent per se for their violation of the Family Code. To sustain a cause of action for negligence per se, the defendant must owe the plaintiff a pre-existing duty of care in common law of which the violation of legislation is evidence of the negligence. In this case, the duty extends solely from the Family Code and there is no preexisting duty at common law between these defendants and the plaintiffs. To hold a person liable for a duty that is only imposed by legislation would create a new type of tort liability.
+

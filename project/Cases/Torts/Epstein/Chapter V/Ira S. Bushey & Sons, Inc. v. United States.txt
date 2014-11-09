@@ -1,0 +1,21 @@
+Citation
+417 U.S. 976 94 S. Ct. 3182 41 L. Ed. 2d 1146 1974 U.S.
+
+Brief Fact Summary
+Ira S. Bushey’s (Plaintiff’s) drydock sustained damage when United States Coast Guard’s (Defendant’s) drunken employee, Lane, opened a valve. Defendant argues that it should not be liable because his employee acted outside the scope of employment.
+
+Synopsis of Rule of Law
+Even if an employee’s conduct is not motivated by his employer’s interests, an employer is still vicariously liable for an employee’s negligent acts if the employee’s conduct was reasonably foreseeable and within the scope of his employment.
+
+Facts
+Plaintiff was a private drydock owner. Lane was a seaman for the Defendant, who was walking back to the ship drunk one night and opened a valve. The valve controlled the drydock. As a result, the ship and part of the drydock both partially sank into the water. Plaintiff sued Defendant for damages. The district court granted Plaintiff compensation. Defendant appealed.
+
+Issue
+In this case, is an employer (Defendant) liable for the tortious acts of Lane, his employee?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+In this case, the court found that the damage done to the dock was foreseeable. When Defendant grants access and quarters on the boat to drunken sailors, it is predictable that damage will be done to nearby surroundings, such as Plaintiff’s dock. The imposition of vicarious liability is appropriate in this case because damage done to a dock is within the possible normal and everyday actives of a ship owner.
+

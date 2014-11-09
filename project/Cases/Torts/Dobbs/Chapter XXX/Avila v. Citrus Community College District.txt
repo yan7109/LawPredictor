@@ -1,0 +1,18 @@
+Citation
+38 Cal.4th 148, 41 Cal.Rptr.3d 299, 131 P.3d 383 (2006)
+
+Synopsis of Rule of Law
+In determining whether primary assumption of the risk bars liability in a sporting context, the court must evaluate the fundamental nature of the sport and the defendant’s role in that sport in order to determine whether the defendant owes a duty to protect a plaintiff from the particular risk of harm.  In general, a defendant does not have a duty to protect a plaintiff from injuries arising from risks deemed inherent in a sport.
+
+Facts
+Plaintiff Avila, a Rio Hondo Community College student, played baseball for the school’s team.  On January 5, 2001, he was playing a preseason game against Citrus Community College.  During the game, a Rio Hondo pitcher hit a Citrus College batter with a pitch; when Avila came to bat in the next inning, the Citrus College pitcher hit him in the head with a pitch, cracking his batting helmet.  Avila alleges it was an intentional “beanball” throw in retaliation for the previous hit batter.  Avila staggered, felt dizzy, and complained to his manager of being in pain.  Nevertheless, his manager told him to go to first base and to stay in the game.  At second base, he was still in pain, so a Citrus College player yelled to the Rio Hondo dugout that they needed a pinch runner.  Avila walked off the field and went to the bench.  No one tended his injuries.  He sued both colleges, his manager, the helmet manufacturer, etc.  The trial court dismissed the action, the court of appeals reversed, and the California Supreme Court reversed, holding that the action was barred by assumption of the risk.
+
+Issue
+Whether Avila’s head injury was an inherent risk of the sport such that Defendants did not owe a duty to protect him from it.
+
+Held
+Yes.  Assumption of the risk applies in the sporting context when a defendant owes no duty to protect a plaintiff from particular harms.  A court must evaluate the fundamental nature of the sport and the defendant’s role in that sport in order to determine whether the defendant owes a duty to protect a plaintiff from the particular risk of harm.  The court found that none of Avila’s allegations showed that Defendant breached a duty to him: (1) nothing about the District’s hosting the game enhanced the ordinary inherent risks of baseball; (2) failure to supervise and control the Citrus College pitcher was barred by Avila’s primary assumption of the risk, as being hit by a pitch, even intentionally, is an inherent risk of baseball; (3) failing to provide umpires likewise did not increase the risks inherent in the game, and Defendants did not have a duty to decrease the risks in the game; (4) the District had no duty to provide medical care after he was injured and his own Rio Hondo coaches and trainers were present to assist him.  Reversed and remanded.
+
+Discussion
+This decision stands for the proposition that where primary assumption of the risk exists, there is no liability to the plaintiff because there is no negligence on the part of the defendant to begin with.  The danger to the plaintiff is not one which defendant is required to extinguish or warn about.  A growing number of courts now say that personal injury cases arising out of an athletic event must be predicated on reckless disregard of safety.
+

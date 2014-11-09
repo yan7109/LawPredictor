@@ -1,0 +1,21 @@
+Citation
+528 U.S. 119, 120 S. Ct. 673, 145 L. Ed. 2d 570 (2000)
+
+Brief Fact Summary
+Defendant William Wardlow was stopped and frisked after looking towards police officers and then running in an area known for heavy narcotics trafficking.
+
+Synopsis of Rule of Law
+Nervous, evasive behavior and location in a high crime area are relevant factors in determining the reasonable suspicion necessary for a Terry stop under the Fourth Amendment.
+
+Facts
+While holding an opaque bag in an area known for heavy narcotics trafficking, the defendant flees on seeing police officers patrolling, and two officers catch up to him and conduct a pat-down weapons search finding a .38 caliber handgun on his person.  Trial court denied the defendant’s motion to suppress, but the appellate court reversed.  The Illinois Supreme Court upheld the lower appellate court’s result stating that the combination of sudden flight and presence in a high crime area did not reach the status of reasonable suspicion necessary to justify a Terry stop.  The Supreme Court granted certiorari to the State of Illinois.
+
+Issue
+Are officers justified in suspecting that a defendant was involved in criminal activity based on the combination of their presence in an area of frequent narcotics trafficking and the defendant’s unprovoked flight on noticing them?
+
+Held
+Yes.  Reverse and remand the judgment.
+
+Discussion
+This case shifts the balance in the direction of police freedom as opposed to individual rights.  The question remains however, to what extent this case restricts the ability of citizens to avoid the police and yet not still be stopped.  May walking into a convenience store when police drive up become the basis for a Terry stop?  It seems unlikely, but these are the issues that this result creates.
+

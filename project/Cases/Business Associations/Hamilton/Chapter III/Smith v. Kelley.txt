@@ -1,0 +1,21 @@
+Citation
+Ky. Ct. App., 465 S.W.2d 39 (1971)
+
+Brief Fact Summary
+Kelley and Galloway (D), partners in an accounting firm hired Smith (P). Smith (P) later claims to be a partner, with a right to share in the firm’s profits.
+
+Synopsis of Rule of Law
+Partnerships cannot exist without the intention to create them, the exception is if the rights of third parties become involved.
+
+Facts
+Smith (P) worked for an accounting firm as a salaried employee. Kelley (D) and Galloway (D) were partners in the firm. Smith put not assets into the firm, held no authority to make purchases, nor hire or fire personnel, nor execute promissory notes for the firm, nor hold managerial authority, and was not liable to bear losses of the firm. According to Kelley (D), another employee, and Galloway (D), there was no agreement that Smith (P) would be a partner and/or share in the firm’s profits. Smith (P) however was introduced to members of the public, listed on the firm’s tax returns, and mentioned in a statement to a state agency as a partner in the firm. He was also listed as a partner in a contract the firm entered, and a lawsuit the firm filed. At the end of a three year tenure with the firm, Smith (P) claimed to have been a partner of the firm and entitled to 20% of its profits. Kelley (D) and Galloway (D) disputed his entitlement, so Smith (P) sued for an accounting. The Chancellor dismissed the action, concluding that no partnership had existed. Smith (P) filed an appeal.
+
+Issue
+If there was no intention to create a partnership arrangement, may one still be established later?
+
+Held
+(Clay, Comm.) No, a partnership cannot exist if the was no intention for one, unless the rights of third parties dispute it. Partnerships are a contractual relationship. The chancellor, after reviewing witness testimony, found that no agreement of partnership existed. A suit by an outsider might remove the parties ability to deny Smith (P) as a partner, because conduct treated him like one. An action for an accounting however, requires actual intent for partnership. The evidence presented justified the Chancellor’s conclusion that Smith (P) was not intented to be a partner. Affirmed.
+
+Discussion
+There are exceptions to the rule applied in Smith v. Kelley. Certain factors can be deemed sufficient to establish partnership even without the intention for one. For example, in common law, agreement to share profits was often considered sufficient evidence. This arrangement is deemed Prima Facie evidence under the Uniform Partnership Act. As acknowledged in Smith v. Kelley, third parties may find it easier to establish a partnership relationship than might would-be partners.
+

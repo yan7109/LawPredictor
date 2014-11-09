@@ -1,0 +1,21 @@
+Citation
+326 U.S. 99, 65 S. Ct. 1464, 89 L. Ed. 2079, 1945 U.S.
+
+Brief Fact Summary
+Guaranty Trust Company (Petitioner) served as trustee for some of the noteholders of the Van Sweringen Corporation (Van Sweringen). In 1930, Petitioner loaned money to corporations affiliated with Van Sweringen. When Petitioner began having financial problems, it agreed to purchase notes for $500 and twenty shares of Van Sweringen stock for each $1000.00 note. York (Respondent) received $6000.00 worth of the notes from a donor who had not accepted Petitioner’s offer.
+
+Synopsis of Rule of Law
+When there is diversity jurisdiction, the federal court should use the outcome-determinative test to ensure that the outcome of the federal court’s application of law would not be different than the outcome if the state had tried the case. In this case, the federal court sitting with diversity jurisdiction must follow a state statute of limitations.
+
+Facts
+Respondent brought a diversity suit alleging that Petitioner had breached its fiduciary duties. His complaint alleged fraud and misrepresentation. Petitioner filed a Motion for Summary Judgment in the district court, due to the fact, that the New York statute of limitations had run. The district court granted this motion. The United States Court of Appeals for the Second Circuit reversed this decision when it held that the district court did not have to follow the New York statute of limitations even though jurisdiction was based on diversity. The Supreme Court of the United States granted certiorari.
+
+Issue
+When no recovery can be had in a state court because the action is barred by the statute of limitations, can a federal court in equity take cognizance of the suit because there is diversity of citizenship between the parties?
+
+Held
+No. The Supreme Court of the United States essentially created an “outcome- determinative test” to be followed in cases involving diversity jurisdiction. What is important under this test is that the outcome of the litigation in the federal court should be substantially the same as it would be if tried in the state court. Therefore, the judgment of the court of appeals is reversed. The federal district court is required to follow the applicable New York statute of limitations.
+
+Discussion
+As a result of the outcome-determinative test, a party should not be able to manipulate the state and federal court systems solely to bring a claim in federal court that would, otherwise, be defeated by a statute of limitations if brought in state court. This test is designed to prevent forum shopping between federal and state courts. The state’s interest in controlling the outcome is very important as it seeks to protect its citizens. Alternatively, the federal interest is relatively weak, and there is very little to be gained from uniformity between federal districts.
+

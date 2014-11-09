@@ -1,0 +1,21 @@
+Citation
+975 F.2d 871, 298 U.S. App. D.C. 8 (D.C. Cir. 1992)
+
+Brief Fact Summary
+The Critical Mass Energy Project (CMEP) sought FOIA access to safety reports issued by an entity that monitored nuclear power.
+
+Synopsis of Rule of Law
+“Financial or commercial information provided to the government on a voluntary basis is ‘confidential’ for the purpose of Exemption 4 if it is the kind that would customarily not be released to the public by the person from whom it was obtained.
+
+Facts
+The CMEP’s FOIA request for reports provided by the INPO to the NRC was denied. Judicial review led to two separate reversals and remands. The consequence was two rulings that conflicted with precedence on Exemption 4 (National Parks) inquiries that led to reconsideration in the present case.
+
+Issue
+Whether the previous precedence can be reconciled with the present case.
+
+Held
+The Court of Appeals for the D.C. Circuit overruled Critical Mass I, and the rule it announced, instead “recognize[ing] a private interest in preserving the confidentiality of information that is provided the Government on a voluntary basis.” Further, while it affirmed National Parks, it also carved out the rule of law. The Court was unsympathetic to CMEP’s arguments that the test “may lead government agencies and industry to conspire to keep information from the public by agreeing to the voluntary submission of information that the agency haw the power to compel.” The Court relied on the fact that there is “no provision of FOIA that obliges agencies to exercise their regulatory authority in a manner that will maximize the amount of information that will be made available with the NRC’s exercise of its own discretion in determining how it can best secure the information it needs.”  Dissent. The dissenting justices argued that this ruling did not uphold stare decisis.
+
+Discussion
+“[W]hen dealing with a FOIA request for information the provider is required to supply, the governmental impact inquiry will focus on the possible effect of disclosure on its quality.”
+

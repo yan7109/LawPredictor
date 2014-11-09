@@ -1,0 +1,21 @@
+Citation
+24 Cal. 4th 83, 6 P.3d 669, 99 Cal. Rptr. 2d 745, 2000 Cal.
+
+Brief Fact Summary
+Plaintiffs Marybeth Armendariz and Dolores Olague-Rodgers, were employees of Defendant, Foundation Health Psychcare Services, Inc. Plaintiffs had completed an application form containing an arbitration clause pertaining to wrongful termination. After Plaintiffs were terminated, Defendant tried to compel arbitration pursuant to the arbitration clause.
+
+Synopsis of Rule of Law
+A court may exercise its discretion to refuse to enforce a contract or clause under the doctrine of unconscionability only where both procedural (”oppression” or “surprise” due to unequal bargaining power) and substantive (”overly harsh” or “one-sided” results) unconscionability are present.
+
+Facts
+As a condition of employment with Defendant, Plaintiffs each completed and signed an application containing an arbitration clause pertaining to any future claim of wrongful termination. Plaintiffs also executed a separate employment arbitration agreement containing the same arbitration clause. Said clause stated that Plaintiffs agreed to submit any matter regarding wrongful termination to binding arbitration, and the clause also stated that Plaintiffs’ exclusive remedy for wrongful termination is equal to the wages they would have earned from the date of discharge until the date of the arbitration award. Plaintiffs were subsequently terminated from their employment, and they sued for violations of California’s Fair Employment and Housing Act.
+
+Issue
+Is the arbitration clause enforceable?
+
+Held
+No. The arbitration agreement is a contract of adhesion. A court may exercise its discretion to refuse to enforce a contract or clause under the doctrine of unconscionability only where both procedural (”oppression” or “surprise” due to unequal bargaining power) and substantive (”overly harsh” or “one-sided” results) unconscionability are present. Here, signing the arbitration agreement was a condition of employment, and there was no opportunity to negotiate. Further, only the employees are required to arbitrate their wrongful termination claims against the employer; the employer does not have to arbitrate its claims against the employee.
+
+Discussion
+One-sided arbitration agreements are unconscionable. Such agreements must have an element of mutuality.
+

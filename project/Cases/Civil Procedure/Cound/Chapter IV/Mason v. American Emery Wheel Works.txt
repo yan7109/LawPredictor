@@ -1,0 +1,21 @@
+Citation
+22 Ill.241 F.2d 906 (1st Cir. 1957)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court based on diversity of citizenship for injuries allegedly cause by Defendant’s product. The District Court applied Mississippi law, the law of the state where the injury occurred. Because the only Supreme Court of Mississippi case that addressed the issue required privity of contract between the parties for the cause of action, the Court dismissed Plaintiff’s case for lack of privity.
+
+Synopsis of Rule of Law
+The District Court does not have to apply the state law to be applied pursuant to the Erie doctrine if it is clear that the highest court of that state would not follow the case precedent that addresses the issue.
+
+Facts
+Plaintiff Mason, a citizen of Mississippi, sued Defendant American Emery Wheel Works, a Rhode Island corporation, in a federal district court in Rhode Island for negligent manufacture of an emery wheel. Defendant filed motion to dismiss because Plaintiff and Defendant were not in privity of contract. The District Court dismissed the complaint reasoning that because the accident causing the injury took place in Mississippi, the District Court must apply the law of Mississippi. Mississippi requires privity of contract for a manufacturer to owe a duty of care to someone who uses its product. The District Court granted the motion relying on [Ford Motor Co. v. Myers, 117 So. 362 (Miss. 1928)], while noting that the holding in Ford Motor Co. is the exception to the majority rule. Plaintiff appealed.
+
+Issue
+Must the District Court apply the case law of the Supreme Court of Mississippi pursuant to the Erie doctrine even though the Court’s holding is dated and contrary to the majority rule?
+
+Held
+No. Reversed and remanded.   The Supreme Court of Mississippi would not decide a case like Ford Motor Co. the same way if the issue were presented again.  It is not necessary that a case be explicitly overruled in order to lose its persuasive force as an indication of the law.  In E.I. Dupont De Nemours & Co. v. Ladner, 73 So.2d 249 (Miss. 1954), the Supreme Court of Mississippi, in dicta, approved of the modern doctrine of MacPherson v. Buick, 111 N.E. 1050 (1916), which does not require privity of contract in order to sue the manufacturer.  Because the Supreme Court of Mississippi would probably overrule Ford Motor Co. when it was presented with such an opportunity, the District Court should not have applied the old case law to the case at hand.    Concurrence. It is clear that the dicta in E.I. Dupont implies that the Supreme Court of Mississippi no longer approves of the holding in Ford Motor Co. However, when the situation is less clear, applying the rule of this case will cause problems.
+
+Discussion
+The majority’s opinion demonstrates a situation where the federal court does not have to apply a state’s case law under the Erie doctrine. However, the court as well as the concurring opinion, emphasize that the highest court of the state’s intent not to follow the relevant case law must be clear.
+

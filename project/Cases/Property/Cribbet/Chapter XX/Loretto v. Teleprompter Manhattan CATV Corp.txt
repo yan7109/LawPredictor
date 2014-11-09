@@ -1,0 +1,24 @@
+Citation
+458 U.S. 419, 102 S. Ct. 3164, 73 L. Ed. 2d 868, 8 Med. L. Rptr. 1849 (1982)
+
+Brief Fact Summary
+A New York law authorized a cable television company to install its components on the property of a landlord, who may not interfere with the installation and may not demand payment from any tenant for permitting CATV, or demand payment from any CATV company in excess of an amount found to be reasonable by the state, which is set at $1. The landlord may require the CATV company or the tenant to bear the cost of the installation and to indemnify for any damage caused.
+
+Synopsis of Rule of Law
+A permanent physical occupation authorized by government is a taking without regard to the public interests it may serve.
+
+Facts
+A New York law authorized the cable television company to install its components on the property of a landlord, who may not interfere with the installation and may not demand payment from any tenant for permitting CATV, or demand payment from any CATV company in excess of an amount found to be reasonable by the state, which is set at $1. The landlord may require the CATV company or the tenant to bear the cost of the installation and to indemnify for any damage caused. Appellant did not discover the existence of cable until after she had purchased the building. She brought a class action against Teleprompter in 1976 on behalf of all owners of real property in the State upon which Teleprompter had placed CATV components, alleging that Teleprompter’s installation was a trespass, and insofar as it relied on the New York law, a taking without just compensation. Appellant requested damages and injunctive relief.
+
+Issue
+Did the actions of the CATV company, taken under the authority of the New York law, amount to a taking which requires just compensation?
+
+Held
+Yes. Judgment of New York Court of Appeals is reversed and case remanded.
+
+Dissent
+The dissent would not hold that there has been a taking because the invasion is slight and does not amount to a large physical intrusion.
+
+Discussion
+This case announces a simple bright-line rule regarding physical invasions as takings. A permanent physical occupation authorized by government is a taking.
+

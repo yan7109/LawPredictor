@@ -1,0 +1,21 @@
+Citation
+22 Ill.57 Ill. App. 3d 16, 14 Ill. Dec. 667, 372 N.E.2d 946 (App. Ct. 1978)
+
+Brief Fact Summary
+A construction company submitted a bid on a contract and then attempted to withdraw the bid when it discovered its calculations were based on a subcontractor’s error.
+
+Synopsis of Rule of Law
+Rescission is proper where a unilateral mistake concerns a material feature of the contract, the mistake occurred despite the fact that reasonable care was used and the mistake was so grave that it would be unconscionable to enforce the contract.
+
+Facts
+The Plaintiff, Wil-Fred’s, Inc. (Plaintiff), submitted a bid and a $100,000 security deposit in response to the Defendant, Metropolitan Sanitary District’s (Defendant), advertisement seeking contractors for the rehabilitation of sand drying beds at its plant. The estimated cost of the work, as stated in the advertisement was $1,257,000.00. Plaintiff submitted the low bid of $882,600. Plaintiff’s bid included the bid of a subcontractor with whom Plaintiff had worked several times and whose work Plaintiff found to be performed skillfully. The proposal form that Defendant sent to Plaintiff contained a clause stating that the proposal was not be withdrawn or cancelled or the Defendant will retain the security deposit. Plaintiff then learned that its subcontractor made an error in submitting its bid to Plaintiff and that performing the contract at that price would force the subcontractor into bankruptcy. With this information, Plaintiff attempted to withdraw its bid. Defendant reje
+
+Issue
+Can a unilateral mistake justify rescission of a contract?
+
+Held
+Yes. Judgment granting the preliminary injunction and return of the security deposit affirmed.
+
+Discussion
+The court made its decision based on the facts surrounding the error. It examined the trial court’s record to conclude that Plaintiff met the above standard for rescission with clear and positive evidence. The evidence showed that the error was grave since the subcontractor would lose $150,000. Also, the Defendant had not changed its position since Plaintiff promptly notified Defendant of the error and Defendant could still accept the next lowest bid. Furthermore, because the discrepancy between Plaintiff’s offer and the estimated cost in the advertisement and the offers made by other contractors, Defendant should have been put on notice of the error. In addition, the court reasoned that Plaintiff acted in good faith and was reasonable in relying on the subcontractor’s estimation based on their past business relationship. Finally, the amount of money that either the subcontractor or Plaintiff stood to lose if the contract was enforced was substantial, causing the unilater
+

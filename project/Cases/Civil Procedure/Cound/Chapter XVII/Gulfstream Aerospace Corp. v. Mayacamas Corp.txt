@@ -1,0 +1,21 @@
+Citation
+22 Ill.485 U.S. 271, 108 S. Ct. 1133, 99 L. Ed. 2d 296 (1988)
+
+Brief Fact Summary
+The Petitioner, Gulfstream Aerospace Corp. (Petitioner) sued the Respondent, Mayacamas Corp. (Respondent), in state court for breach of contract. The same suit was brought in federal court and the District Court refused to stay or dismiss the action before it. The Court of Appeals affirmed and the United States Supreme Court (Supreme Court) granted certiorari.
+
+Synopsis of Rule of Law
+Orders granting or denying stays of legal proceedings on equitable grounds are not automatically appealable under Section:1292(a)(1). The Enelow- Ettelson doctrine was repudiated.
+
+Facts
+The Petitioner sued the Respondent in state court for breach of contract. A month later, the Respondent filed a diversity action against the Petitioner in the Federal District Court for breach of the same contract. The District Court denied the Petitioner’s motion to stay or dismiss the action before it. The Court of Appeals dismissed the Petitioner’s appeal for lack of jurisdiction, holding that neither 28 U.S.C. Section: 1291 nor Section:1292(a)(1) allowed an immediate appeal from the District Court’s order. The Court of Appeals also denied the Petitioner’s notice of appeal as an application for a writ of mandamus under the All Writs Act. The Petitioner asserted that the order in this case, which denied a motion for a stay of the federal-court action pending the resolution of a concurrent state- court proceeding, was appealable under Section: 1292(a)(1) pursuant to the Enelow-Ettelson doctrine.
+
+Issue
+Whether a District Court order denying a motion to stay or dismiss an action when a similar suit is pending in state court is immediately appealable.
+
+Held
+The Supreme Court overturned the cases establishing the Enelow-Ettelson rule and held that orders granting or denying stays of “legal” proceedings on “equitable” grounds are not automatically appealable under Section:1292(a)(1). This holding will not prevent interlocutory review of district court orders when such review is truly needed. It merely prevents interlocutory review of district court orders on the basis of historical circumstances that have no relevance to modern litigation. Because the Supreme Court repudiated the Enelow-Ettelson doctrine, it rejected the Petitioner’s claim that the District Court’s order in this case was appealable under Section: 1292(a)(1) pursuant to that doctrine.
+
+Discussion
+The Court repudiated the Enelow-Ettelson doctrine, holding that the distinctions it drew between equitable and legal actions and defenses, was lost to the actual practice of the federal courts.  The Enelow-Ettelson doctrine asserted that an order by a federal court staying or refusing to stay its own proceedings was appealable under Section: 1292(a)(1) as the grant or denial of an injunction if two conditions were met. First, the action in which the order was entered had to be one at law. The second condition was that the order had to arise from or be   based on some matter that would have been considered an equitable defense or counterclaim. Thus, unless a stay order was made in a historically legal action on the basis of a historically equitable defense or counterclaim, the order could not be appealed under Section:1292(a)(1) pursuant to the Enelow-Ettelson doctrine.
+

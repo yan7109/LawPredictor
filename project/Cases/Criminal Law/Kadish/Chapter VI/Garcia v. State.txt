@@ -1,0 +1,21 @@
+Citation
+PD-1516-11, 2012 BL 139366 (Tex. Crim. App. June 06, 2012)
+
+Brief Fact Summary
+The Defendant, Garcia (Defendant), conspired with another individual to hire a person to killer her husband. The individual whom which she conspired was in fact a police informant who never had any intention of actually assisting the Defendant in carrying out her plans.
+
+Synopsis of Rule of Law
+Under Indiana law, conspiracy conviction does not require that the conspirators actually agreed to carry out the conspiracy. So long as the Defendant believes herself that there is agreement among the conspirators to carry out the conspiracy, the conviction must stand.
+
+Facts
+The person whom the Defendant contacted to assist her in finding someone to kill her abusive husband was in fact a police informant who only feigned agreement in the conspiracy. The informant alerted police about the Defendant’s unlawful intentions and assisted authorities in tape-recording conversations with her in which she implicated herself in conspiring to kill her husband. The informant testified that he never had any intention of carrying out the conspiracy.
+
+Issue
+Does a conspiracy conviction fail if one of the parties to the conspiracy is actually a police informant that has no intention of carrying out the conspiracy?
+
+Held
+No. Affirmed. The inclusion in the Indiana conspiracy statute that “it is no defense that the person with whom the accused person is alleged to have conspired: (5) cannot be prosecuted for any reason” necessarily means that a defendant can be convicted of conspiracy even when his/her co-conspirator could not be so convicted because of a lack of criminal culpability. A co-conspirator who was actually a police informant, and who never intended to carry out the unlawful scheme agreed upon, could not be prosecuted for conspiracy because, as an informant, he lacked the requisite intent to commit a crime. Therefore, the fact that the Defendant’s co-conspirator cannot be prosecuted for conspiracy because of a lack of intent is no bar to prosecution of the Defendant herself for conspiracy since, under the statute that is “no defense” to a conspiracy charge.
+
+Discussion
+This case illustrates a state conspiracy statute that does not require actual “meeting of the minds” among conspirators for any one conspirator to be prosecuted. The traditional approach has required that charges be dismissed when defendant’s only other conspirator was feigning their intent to commit the crime.
+

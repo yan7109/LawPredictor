@@ -1,0 +1,24 @@
+Citation
+308 F. Supp. 2d 43
+
+Brief Fact Summary
+A fire broke out in a RI nightclub during a show where over a 100 people died and several more were injured.
+
+Synopsis of Rule of Law
+Under the Multiparty, Multiform, Trial Jurisdiction Act, (MMTJA) cases arises from a local disaster where state law will apply, and a majority of the plaintiffs are from that state, and the primary defendant is from that state, the federal court will abstain from hearing the case.
+
+Facts
+On February 20, 2003 a band called the Great White hosted a show in a Rhode Island Club called “The Station.” As part of their show the band members and their manager lit pyrotechnics, also called stage fireworks. The sparks from the fireworks ignited ceiling and wall insulation and flames engulfed the small club in less than three minutes. There were reportedly 412 people present that night, 100 died and over 200 were left injured. The people that left the building unharmed have considerable emotional damage from that night. In the first law suit many parties where joined as defendants; the nightclub owners, the band, the band manager, the management company, record label, nightclub owner’s corporation, a real estate company, manufactures of the insulation and pyrotechnics […] etc. The defendants moved to remove the case to federal court under the MMTJA. Plaintiffs filed a remand action in response.
+
+Issue
+Whether the federal court has subject matter jurisdiction over this case under the MMTJA when the case may fit into the abstention requirements of the statute.
+
+Held
+Yes. In an effort to expand the federal courts original jurisdiction, Congress passed the MMTJA. Under this statute, when there was more than 75 deaths occur and there is minimal diversity between adverse parties the federal court has jurisdiction over the case. Minimal diversity is fine as long as a defendant does not reside in the state where the accident occurred, or two defendants reside in two different states, or the accident occurred in more than one state. Here the defendants reside in many different states. The parties do not disagree that this case was properly removed to federal court based on the initial requirements. The dispute is whether the abstention exception applies.  Congress made an exception when there is a local disaster; in the interest of justice that case should be tried in the state where the accident occurred not in federal court. The requirements are that a substantial majority of all plaintiffs and the primary defendant must all reside in a single state. Here less than 50 percent of the potential victims are not residents of the state of Rhode Island and the Band and Manager are not from Rhode Island. Therefore the abstention exception has not been met and the court will dismiss the motion to remand the case back to state court.
+
+Dissent
+
+
+Discussion
+Right now only five potential victims have filed suit. The federal court in an effort to promote efficiency is going to join all cases, and also allow time for other victims to also join in on this action. This will promote easier Discovery of the facts which was also stayed.
+

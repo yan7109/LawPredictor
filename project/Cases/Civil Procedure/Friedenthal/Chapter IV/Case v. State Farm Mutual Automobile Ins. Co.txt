@@ -1,0 +1,21 @@
+Citation
+22 Ill.294 F.2d 676 (5th Cir. 1961)
+
+Brief Fact Summary
+Plaintiff, a former independent contractor, sued Defendants, insurance companies, and Plaintiff’s employers for wrongful termination of his employment contract. The contract stated that it could be terminated for any or no reason. The trial court granted Defendant’s motion to dismiss for failure to state a claim upon which relief can be granted, which Plaintiff appealed.
+
+Synopsis of Rule of Law
+A complaint must allege facts that can be reasonably interpreted to state a claim for the relief that the plaintiff has requested.
+
+Facts
+Case (Plaintiff) filed a complaint against his former employers (Defendants) alleging that Defendants “interfered and meddled” with Plaintiff’s exercise of his employment contract by telling Plaintiff that he would no longer be able to perform services for Defendants if he ran for a county office. The contract stated that it could be cancelled “with or without cause.” Plaintiff requested compensatory and punitive damages. The District Court granted Defendants’ motion to dismiss and Plaintiff appealed.
+
+Issue
+Shall a lawsuit be dismissed if the clear and unambiguous language of a complaint cannot be reasonably interpreted to state a claim for the relief that the plaintiff has requested?
+
+Held
+Yes. The District Court’s order granting Ds’ motion to dismiss is affirmed.
+
+Discussion
+A complaint that clearly and unambiguously alleges facts that do not state a claim for relief or does not tie the facts to the relief requested is defective and should be dismissed.
+

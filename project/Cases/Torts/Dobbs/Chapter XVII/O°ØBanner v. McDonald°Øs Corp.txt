@@ -1,0 +1,24 @@
+Citation
+173 Ill. 2d 208, 218 Ill. Dec. 910, 670 N.E.2d 632 (1996)
+
+Brief Fact Summary
+The appellate court (Illinois) reversed a grant of summary judgment in favor of the McDonald’s Corp. (Defendant) in O’Banner’s (Plaintiff’s) personal injury action to recover damages when he allegedly suffered during a slip and fall in the bathroom of a McDonald’s restaurant. Defendant challenged the decision
+
+Synopsis of Rule of Law
+Apparent agency, also known as apparent authority, is a long-recognized doctrine (based on principles of estoppel) that holds that if a principal creates the appearance that someone is his agent, he should not then be permitted to deny the agency if an innocent third party reasonably relies on the apparent agency and is harmed as a result.
+
+Facts
+Plaintiff slipped and fell at a McDonald’s restaurant and brought a personal injury action against the company, and unknown others”, seeking damages. Defendant moved for summary judgment, maintaining that the restaurant was actually owned by a franchisee, thus, it neither owned, operated, maintained, or controlled the restaurant. Accepting that argument, the Circuit Court for Cook County, Illinois entered summary judgment on behalf of Defendant. Plaintiff appealed, arguing 1) that McDonald’s should be liable as the franchisee served as McDonald’s actual agent; or 2) the corporation’s vicarious liability under the doctrine of apparent agency. The appellate court rejected the first argument, but concluded that there were issues of material fact with respect to the second. The appellate court reversed and remanded. The issue came before the Supreme Court of Illinois.
+
+Issue
+Did the appellate court err in its reversal of summary judgment based on apparent agency theory?
+
+Held
+Yes. The court held that in order to recover on an apparent agency theory, patron had to show that he actually did rely on the apparent agency in going to the restaurant where he was allegedly injured. As no evidence of such reliance was present in the record, the appellate court erred in reversing the circuit court’s entry of summary judgment in Defendant’s favor based on the apparent agency doctrine.
+
+Dissent
+The dissent found that a court should only grant summary judgment when the resolution of a case hinges on a question of law and the moving party’s right to judgment is clear and free from doubt. If further stated that the majority’s ruling was “drastic” and asserted that “the court has a duty to construe the record strictly against the movant and liberally in favor of the nonmoving party.” As the court did not do so, but instead issued its ruling as a matter of law, the dissent believes the majority erred.
+
+Discussion
+The core issue in O’Banner, and a necessary element of “apparent agency” theory, is the degree of reliance the Plaintiff invested in the corporation when he entered its premises. Adhering rigidly to the record, the court notes that in his pleadings, Plaintiff does not expressly state his reliance. Thus, the court reasoned, no such reliance was present and therefore the appellate court erred in its finding that there was a material issue of fact that precluded a summary judgment ruling.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.64 F.2d 344 (2d Cir. 1933)
+
+Brief Fact Summary
+The Defendant, Gimble Brothers, Inc. (Defendant), was a New York merchant in the business of selling building supplies. The Plaintiff, James Baird Co. (Plaintiff), was a contractor, preparing a bid for the construction of a public building in Pennsylvania. Defendant received the specifications for linoleum needed for the building and sent a bid to Plaintiff, which erroneously quoted roughly half of the linoleum which was needed to complete the job. After Plaintiff won the contract, it sued Defendant for breach after it refused to perform, declining to recognize the existence of a contract.
+
+Synopsis of Rule of Law
+An offer cannot always be accepted through partial performance. The intention of the parties needs to be taken into consideration.
+
+Facts
+After receiving Defendant’s quote for linoleum, the Plaintiff used it in compiling its bid which was presented to the Pennsylvania Department of Highways for construction of a new public building. Defendant realized that it had been misquoted the specifications for the building and telegraphed the plaintiff, notifying them of their mistake and withdrawing their linoleum quote. At the same time, the Department of Highways accepted Plaintiff’s bid for the project. Plaintiff sought performance from Defendant based on the fact they used their quote in formulating their bid and thus partially performed, which they argued manifested assent. Defendant contended that it withdrew its quote and because they could not have known that Plaintiff’s bid was accepted in reliance of their quote, the quote was merely an offer which was revocable because it was not properly accepted. The trial court found for the Defendant, agreeing that no contract existed. Plaintiff appealed.
+
+Issue
+The issue presented in this case is whether partial performance constitutes an acceptance, when that performance is not timely communicated to the offeror.
+
+Held
+Affirmed.
+
+Discussion
+When studying the doctrine of partial performance, the intention of the parties and equity should also be considered. It would not have been just to hold the Defendant to a quote that was based on misinformation. Additionally, partial performance does not necessarily constitute an acceptance if the offeror has no way of knowing that the performance has taken place.
+

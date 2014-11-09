@@ -1,0 +1,18 @@
+Citation
+186 N.J. 563, 897 A.2d 1034 (2006)
+
+Synopsis of Rule of Law
+Although an employer is generally not liable for the negligent acts of an independent contractor, there is an exception to this rule where an independent contractor is incompetent.  To prevail against the principal for hiring an incompetent contractor, a plaintiff must show that the contractor was, in fact, incompetent or unskilled to perform the job for which he was hired, that the harm that resulted arose out of that incompetence, and that the principal knew or should have known of the incompetence.
+
+Facts
+In 1998, Kevin and Alecia Puckrein were killed when their automobile was struck by an unregistered and uninsured tractor-trailer with seriously defective brakes.  The tractor-trailer was owned by ATI transport, Inc. (ATI) and at the time of the accident had been transporting a load of glass residue for Browning-Ferris Industries of New York, Inc. (BFI).  The trial court granted summary judgment for BFI on the ground that ATI was an independent contractor.  Plaintiff appealed, arguing that BFI should be liable for hiring an incompetent independent contractor because ATI did not have liability insurance at the time of the accident.  The New Jersey Supreme Court agreed with Plaintiff and reversed the trial court’s judgment.
+
+Issue
+Whether BFI can be held vicariously liable for the actions of an independent contractor.
+
+Held
+Yes.  Although an employer is generally not liable for the negligent acts of an independent contractor, there are exceptions to this rule, such as the incompetent contractor exception.  To prevail against the principal for hiring an incompetent contractor, a plaintiff must show that the contractor was, in fact, incompetent or unskilled to perform the job for which he was hired, that the harm that resulted arose out of that incompetence, and that the principal knew or should have known of the incompetence.  BFI argued that the failure to have liability insurance is not a competency issue.  The court disagreed, reasoning that a tractor-trailer’s basic competency includes valid liability insurance.  The court also found that a company such as BFI whose core purpose is the collection and transportation of materials on the highways has a duty to use reasonable care in the hiring of an independent trucker, including a duty to make an inquiry into that trucker’s ability to travel legally on the highways.
+
+Discussion
+As this case indicates, virtually all states hold that a defendant cannot insulate itself from liability by selecting or retaining an incompetent independent contractor.  Incompetence can take many forms, such as being unskilled to perform the job or being financially incompetent such that the contractor is judgment proof, as in this case.
+

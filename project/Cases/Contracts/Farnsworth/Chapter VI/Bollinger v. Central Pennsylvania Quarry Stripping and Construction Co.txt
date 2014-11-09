@@ -1,0 +1,21 @@
+Citation
+425 Pa. 430, 229 A.2d 741, 1967 Pa.
+
+Brief Fact Summary
+Plaintiffs Mahlon and Vinetta Bollinger entered into a written contract with the Defendant Central Pennsylvania Quarry Stripping and Construction Company, that permitted Defendant to deposit construction waste on Plaintiffs’ property. Plaintiffs claim that the parties agreed that Defendant would cover the waste with topsoil, but such a provision was, by mistake, not included in the written agreement.
+
+Synopsis of Rule of Law
+Equity permits a court to reform a written contract to make it correspond to the understanding of the parties, provided that the mistake is mutual.
+
+Facts
+Plaintiffs and Defendant entered into a contract. The agreement allowed the Defendant to deposit construction waste on Plaintiffs’ property. Plaintiffs claimed that the parties agreed that Defendant would remove the topsoil on Plaintiffs’ property, deposit the waste material, and replace the topsoil on top of the waste. Plaintiffs stated that they signed the contract without reading because they assumed the condition had been incorporated in the writing. When Defendant first began depositing the waste, it removed the topsoil, deposited the waste, and replaced the topsoil, seemingly in compliance with the contract. However, Defendant ceased doing this after a period, insisting that it was not required by the agreement to do as Plaintiffs wished. Plaintiffs thereafter sued to have the contract reformed due to a claimed mutual mistake in the drafting of the contract.
+
+Issue
+Can the court reform the contract to correct a mutual mistake in the integration of the agreement?
+
+Held
+Yes. Equity permits a court to reform a written contract to make it correspond to the understanding of the parties, provided that the mistake is mutual. Here, Plaintiffs satisfied the heavy burden of proving mutual mistake by introducing evidence that the defendant initially complied with the terms omitted. Further, Defendant performed a similar practice with regard to the land of a neighbor of Plaintiffs. Hence, the contract should be reformed and enforced according to the missing terms.
+
+Discussion
+A court, acting in equity, may reform a contract to correct a mutual mistake in the integration of the agreement.
+

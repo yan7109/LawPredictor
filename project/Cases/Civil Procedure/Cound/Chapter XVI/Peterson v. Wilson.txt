@@ -1,0 +1,21 @@
+Citation
+22 Ill.141 F.3d 573 (5th Cir. 1998)
+
+Brief Fact Summary
+The Plaintiff, Peterson (Plaintiff), filed suit in district court after he was fired as grant director at Texan Southern University (TSU). The jury found for Plaintiff. Four months later, the district granted a new trial, not for insufficient evidence, but instead based on comments the jurors made to the court after returning the verdict
+
+Synopsis of Rule of Law
+Under the Federal Rules of Evidence (FRE) Rule 606(b) a court may not impeach a jury’s verdict based on the judge’s belief that the jurors misunderstood the court’s instructions.
+
+Facts
+Plaintiff filed suit in district court after he was fired as grant director at TSU. He claimed that his property interest in his employment at TSU was damaged when he was arbitrarily and capriciously terminated. The jury found for Plaintiff. Four months later, the district granted a new trial, not for insufficient evidence, but instead based on comments the jurors made to the court after returning the verdict. The court concluded that the jury had “completely disregarded the Court’s instructions.”
+
+Issue
+Whether a trial judge may overturn a verdict based on his conclusion that the jury based its decision on a misunderstanding of the judge’s instructions.
+
+Held
+The court reversed the district court’s grant of a new trial and reinstated the original verdict in favor of Plaintiff.   Review of the district court’s grant of a new trial is for abuse of discretion. Courts cannot grant a new trial simply because the court would have come to a different conclusion than the jury did.  FRE Rule 606(b) tightly controls impeachment of jury verdicts. Receiving testimony from the jurors after they have returned their verdict, for the purpose of ascertaining that the jury misunderstood its instructions, is absolutely prohibited by FRE Rule 606(b).
+
+Discussion
+Students should be aware that this case is based largely on an interpretation of the FRE, which frequently go hand in hand with the Federal Rules of Civil Procedure (FRCP). The specific evidentiary rule in this case, FRE Rule 606(b), stands for the belief that jurors’ mental processes should have no bearing on an assessment of a jury’s verd
+

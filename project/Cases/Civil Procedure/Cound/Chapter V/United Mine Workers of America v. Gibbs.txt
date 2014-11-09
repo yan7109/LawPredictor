@@ -1,0 +1,21 @@
+Citation
+22 Ill.383 U.S. 715, 86 S. Ct. 1130, 16 L. Ed. 2d 218, 61 LRRM 2561 (1966)
+
+Brief Fact Summary
+Plaintiff sued Defendant, asserting claims under both the Labor Management Relations Act and various provisions of state law. The jury returned a verdict in favor of Plaintiff on the federal and state law claims. The trial court reversed the jury’s verdicts but upheld a remitted award on the state law claims to which Defendant appealed.
+
+Synopsis of Rule of Law
+Under the doctrine of pendent jurisdiction, if the federal claim and the state claim arise from the same “case or controversy,” the federal court can exercise jurisdiction over the state claim as well. If the federal and state claims arise from a “common nucleus of operative fact,” then they comprise the same case or controversy. The court should not exercise jurisdiction if there would be high risk of jury confusion, the federal claims are dismissed, or it would otherwise preserve judicial expenses.
+
+Facts
+Tennessee Consolidated Coal Company hired Gibbs, Plaintiff, to be a mine superintendent and to haul coal from one of the company’s mines. When Plaintiff went to the mine, members of United Mine Workers of America (a rival union of the current mine workers’ union) blocked the mine and beat up Plaintiff. Plaintiff was then fired and never started the haulage contract. Plaintiff also lost other mining and trucking contracts after the incident. Plaintiff sued the union, alleging that the loss of his jobs was part of a union conspiracy, which was unlawful under Section 303 of the Labor Management Relations Act of 1947. Plaintiff also asserted a state law claim, which was granted jurisdiction based on the doctrine of pendent jurisdiction. The jury returned a verdict for Plaintiff. Damages recovered were the amount of the employment contract and the haulage contract, plus punitive damages. The trial court set aside the damages relating to the haulage contract (because damages were not proved) and the employment contract (finding this contract was between Tennessee Coal and Plaintiff, not Defendant, and therefore did not violate Section 303). The trial court did find a claim under state law, and remitted the award on a state law claim. Defendant appealed. Court of Appeals affirmed. The Supreme Court granted certiorari.
+
+Issue
+If the federal claim and the state claim are joined in federal court, and the federal claim and the state claim come from a common nucleus of operative fact, there is a low risk of jury confusion, and the federal claim is not dismissed before trial, can the district court exercise jurisdiction over the state claim?
+
+Held
+Yes. Judgment reversed.   State law claims are appropriate for federal jurisdiction if “they form a separate but parallel ground for relief also sought in a substantial claim based on federal law.”     The federal court can dispose of the nonfederal claim, even if the federal claim is not established. However, if there are two separate causes of action that are not based upon a common nucleus of operative fact, only one of which is asserted on federal grounds, the federal court may not dispose of the nonfederal cause of action.  To determine whether there is a common cause of action, the court does not determine how many sets of facts would warrant relief, but whether a right is violated for which the law provides a remedy.  Pendent jurisdiction exists when the federal court has subject matter jurisdiction on the federal claim and the relationship between the federal and state claims permits a conclusion that the entire action before the court comprises one constitutional case. It in the trial judge’s discretion to exercise pendent jurisdiction, and the plaintiff does not have the right to bring such a case.
+
+Discussion
+This case articulates the general rule for exercising pendent jurisdiction over state claims in federal court.
+

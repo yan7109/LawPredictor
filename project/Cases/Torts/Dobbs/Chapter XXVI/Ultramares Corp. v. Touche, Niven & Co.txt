@@ -1,0 +1,21 @@
+Citation
+255 N.Y. 170, 174 N.E. 441 (1931)
+
+Brief Fact Summary
+The Appellate Division of the Supreme Court in the First Judicial Department (New York) modified and affirmed judgment in favor of the Defendants, George A. Touche and Touche, Niven & Co (Defendants), setting aside the Plaintiff, Ultramare Corp’s (Plaintiff) verdict and dismissing the complaint in the Plaintiff’s action for negligent and fraudulent misrepresentations respecting an audit.
+
+Synopsis of Rule of Law
+Accountants owe to their employer a duty imposed by law to make their certificate of audit without fraud and a duty growing out of contract to make it with the care and caution proper to their calling.
+
+Facts
+The Defendants, public accountants, had been employed by a third-party to prepare and certify a balance sheet exhibiting that party’s financial health. The Defendants certified capital and surplus to be in excess of $1 million. The business, however, was actually close to insolvency. Relying on the Defendant’s independent assessment of the third-party’s finances, the Plaintiff extended several loans and when the third-party’s business collapsed the Plaintiff was unable to secure repayment. The Plaintiff sued, alleging damages arising from the Defendants’ misrepresentations, negligence and fraud. The Defendants were aware third-party would use its certificate of audit to obtain credit for the operation of its business and in other financial dealings. Following judgment, the parties cross-appealed the appellate court’s dismissal of the Plaintiff’s complaint.
+
+Issue
+Do accountants owe a duty to submit audits in a thorough, accurate manner and in failing to do so face liability for fraud?
+
+Held
+Yes. The court concluded that the Defendants made a statement as true to their own knowledge when they had no knowledge on the subject and thus were liable.
+
+Discussion
+Writing for the New York Court of Appeals, Judge Cardozo examined the quality and degree of duty owed by accountants when certifying the financial health of business the records of which will be proffered to potential lenders.
+

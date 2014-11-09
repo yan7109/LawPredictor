@@ -1,0 +1,21 @@
+Citation
+494 U.S. 26, 110 S. Ct. 929, 108 L. Ed. 2d 23, 14 OSHC 1425 (1990)
+
+Brief Fact Summary
+The Department of Labor (DOL) promulgated a hazard communication standard that imposed various requirements on manufacturers aimed at ensuring their employees were informed of hazards in their workplace; and then subsequently issued a revised standard that applied to work sites in all sectors of the community. DOL submitted the standard to the Office of Management and Budget (OMB) for review of any paperwork requirements, and OMB disapproved three provisions based on its determination that the requirements were not necessary to protect employees.
+
+Synopsis of Rule of Law
+On a pure question of statutory construction, the Court’s first job is to try to determine congressional intent, using traditional tools of statutory construction.
+
+Facts
+The DOL promulgated a hazard communication standard that imposed various requirements on manufacturers aimed at ensuring their employees were informed of hazards in their workplace; and then subsequently issued a revised standard that applied to work sites in all sectors of the community.  OMB disapproved of three provisions, claiming that the exemptions were too narrow and the standard, therefore, applied to situations in which disclosure did not benefit employees.  United Steelworkers of America (the Respondent Union) filed suit, and the Third Circuit ordered DOL to reinstate the OMB-disapproved provisions. The Third Circuit held that OMB lacked authority under the Paperwork Reduction Act (Act) to disapprove the provisions, and Petitioners sought review.  The Act authorized OMB to develop uniform policies for efficient information processing, storage, and transmittal systems within and among agencies.
+
+Issue
+Did the Act authorize OMB review and countermand agency regulations mandating disclosure by regulated entities directly to third parties?
+
+Held
+No, the Act did not grant OMB that authority. Affirmed.   All information requests to OMB shared one common characteristic: The requested information was being provided to a federal agency, either directly or indirectly. In contrast, DOL’s disclosure rules do not result in information being made available for agency personnel use.  The Act stated that it applied to “information collection requests;” no part expressly declared whether Congress intended it to apply to disclosure rules, as well. However, the Court found that the language, structure and purpose of    the Act revealed that Congress did not intend for it to encompass third-party disclosure rules.   Dissent. The Act was not clear on the issue, and the majority refused to give any deference to OMB’s interpretation, which it should have pursuant to Chevron.  Concurrence. None.
+
+Discussion
+There was no question that the OMB was the agency charged with administering the PRA. The Court construed this case as being purely an issue of statutory construction.
+

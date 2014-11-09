@@ -1,0 +1,21 @@
+Citation
+297 U.S. 278, 56 S. Ct. 461, 80 L. Ed. 682 (1936)
+
+Brief Fact Summary
+Two individuals were convicted of murder, the only evidence of which was their own confessions that were procured after violent interrogation.
+
+Synopsis of Rule of Law
+The Fourteenth Amendment Due Process Clause is violated when a confession obtained via physical torture is used to convict a defendant.
+
+Facts
+The Petitioners were indicted for a murder that occurred on March 30, 1934.  The Petitioners were indicted on April 4, 1934, arraigned thereafter and then pleaded not guilty.  The Petitioners were found guilty after a trial solely on the basis of their confessions.  During the trial, the Petitioners testified that the confessions were untrue and procured after physical torture.  The Petitioners appealed to the Supreme Court of Mississippi arguing that their Fourteenth Amendment rights were violated.  The Supreme Court of Mississippi affirmed the trial court’s judgment.
+
+Issue
+“[W]hether convictions, which rest solely upon confessions shown to have been extorted by officers of the state by brutality and violence, are consistent with the due process of law required by the Fourteenth Amendment of the Constitution of the United States[?]”
+
+Held
+The state argued that pursuant to Twining v. New Jersey the “exemption from compulsory self-incrimination in the courts of the states is not secured by any part of the Federal Constitution”.  The state also relied on Snyder v. Massachusetts where the Supreme Court of the United States (”Supreme Court”) found “the privilege against self-incrimination may be withdrawn and the accused put upon the stand as a witness for the state.”  The majority disregarded these arguments and observed “[b]ut the question of the right of the state to withdraw the privilege against self-incrimination is not here involved. The compulsion to which the quoted statements refer is that of the processes of justice by which the accused may be called as a witness and required to testify. Compulsion by torture to extort a confession is a different matter.”
+
+Discussion
+This case illustrates how federal constitutional rights also often times apply to the states through the Fourteenth Amendment Due Process Clause.
+

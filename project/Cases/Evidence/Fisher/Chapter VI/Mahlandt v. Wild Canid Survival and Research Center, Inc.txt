@@ -1,0 +1,21 @@
+Citation
+588 F.2d 626, 1978 U.S. App.
+
+Brief Fact Summary
+A 4 year old child was walking to his neighbor’s house to get his brother.  A neighbor heard screams, looked out his window, and saw that the boy was in an enclosure in which Mr. Poos, a neighbor, kept a wolf that he used in his educational trips to neighborhood schools, and that the head of the wolf was near the child.  Nobody saw the wolf bite the child.
+
+Synopsis of Rule of Law
+A statement made against a party that is the party’s own statement, is admissible under Federal Rule of Evidence (”F.R.E”) Rule 801(d)(2)(B) as an admission by a party opponent, and it is not necessary for the party to have had personal knowledge about the events described in his statement.
+
+Facts
+Mr. Poos, an employee of the Wild Canid Survival and Research Center (the “Center”), kept a wolf that had been entrusted to the Center by the Children’s Zoo in his backyard.  Mr. Poos kept the wolf there because he brought the wolf on numerous trips he took to area schools for the Center.  One day, Daniel, a 4 year old boy, was sent by his mother to get his older brother at a neighbor’s house.  While she was not watching, he got into the enclosure in which Sophie the wolf was kept.  A neighbor saw the boy lying on the ground, and the wolf’s head near his, but could not see what the wolf was doing.  The wolf then started wailing.  Mr. Poos son then arrived and brought the child inside and an ambulance was called.  Mr. Poos then went to the Center and left a note for his superior indicating that Sophie had bit a child and that he needed to talk to him.  Later that day, Mr. Poos did see his superior and told him that Sophie bit a child.  The same statement later appeared in the C
+
+Issue
+Whether the note that Mr. Poos left and the statement he later made to his superior were inadmissible as hearsay?
+
+Held
+No.  The note left by Mr. Poos and the statement that he later made were admissible under the statement of a party opponent exception to the hearsay rule. Moreover, they are admissible against the corporate defendant because Mr. Poos was an agent of the corporate defendant at the time.
+
+Discussion
+It is not necessary that the declarant have person knowledge of the things about which he makes statements, as it is up to the jury to give appropriate weight to those statements. This goes to weight, not admissibility.
+

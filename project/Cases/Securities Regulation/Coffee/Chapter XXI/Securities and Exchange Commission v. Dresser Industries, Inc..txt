@@ -1,0 +1,24 @@
+Citation
+628 F.2d 1368 (D.C. Cir. 1980)
+
+Brief Fact Summary
+Dresser Industries, Inc. (Defendant) (Dresser) was issued subpoenas from both the Securities and Exchange Commission (SEC) (Plaintiff) and the Justice Department involving illegal corporate payments to domestic and foreign government figures intended to influence them and on the ground that the SEC subpoena abused the discovery procedure in considering the parallel investigation by the Justice Department.
+
+Synopsis of Rule of Law
+Separate government agencies parallel investigations do not need to be stopped or paused in the absence of special circumstances which cause considerable prejudice to the rights of the party being investigated.
+
+Facts
+Once scandals were discovered in 1973 involving corporate payments to domestic and foreign government officials crafted to influence them, a series of practices were brought by the SEC to stop such practices and implemented a "Voluntary Disclosure Program." The purpose of this program is to encourage corporations to instruct that no future payments be made and to disclose unsuitable payments made in the past, post internal investigations. Protecting a participant from enforcement action or investigation were not why disclosure was represented, the SEC was less inclined to proceed upon compliance.  Making particular disclosures, Dresser Industries, Inc. began to comply, however the SEC still asked for access to documents fundamental to Dresser’s report. After being denied access, the SEC began a formal investigation, with the program files being handed over to the Justice Department, which was conducting its own investigation into similar improprieties. Dresser’s case was presented to the grand jury by the Justice Department, which subpoenaed the Dresser documents.  The SEC issued a subpoena ducestecum covering these documents and others around the same time. Dresserrefused a response to the SEC subpoena, and an order requiring compliance over Dresser’s motion to quash was acquired by the SEC. Dresser appealed.
+
+Issue
+Do separate government agencies parallel investigations need to be stopped or paused in the absence of special circumstances which cause considerable prejudice to the rights of the party being investigated?
+
+Held
+(Wright, C.J.) No. Separate government agencies parallel investigations do not need to be stopped or paused in the absence of special circumstances which cause considerable prejudice to the rights of the party being investigated.  The possibilities of parallel proceedings are present when civil and criminal laws overlap, either simultaneous or successive. The Constitution usually does not require a stay of proceedings depending on the outcome of parallel proceedings; however it could be done under the courts discretion. Where a party is under indictment for a serious offense and is required to defend a civil action regarding the same matter is a strong case for relief such as that. Self­ incrimination, discovery, and the basis for a defense are significant rights that can be forfeited in such situations. In this case, self-incrimination rights are not jeopardized, no indictment has been returned,discovery is not abused, and the defense theories of Dresser are not requested. As a result, the denial of the motion to quash the subpoena was proper. The alteration of it by the court ordering the SEC bot to offer information obtained by it to the Justice Department after the latter's choice to prosecute is rejected. The transmittal of evidence like that by the SEC is authorized by the federal securities laws, and the alterationcould interfere with the enforcement of the securities laws. Affirmed.
+
+Concurrence
+(Edwards, J.)  I concur but would like to mention that when an indictment has been issued, any law involving the widening of the scope of criminal discovery via the summons authority of the SEC becomes relevant. Resolution of the associated queries must wait.
+
+Discussion
+A tested rule regarding when a parallel investigation or a parallel legal proceeding must be stayed or stopped is an impossibility. Criminal investigations growing out of civil ones are always a possibility with any SEC investigation. It is suitably handed to the courts to draw the line in each case betwixt an abuse of dual power and the defendant’s evasion of the lawful consequences of his behavior.
+

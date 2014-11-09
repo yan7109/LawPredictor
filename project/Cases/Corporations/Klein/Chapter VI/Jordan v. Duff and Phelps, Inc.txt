@@ -1,0 +1,24 @@
+Citation
+815 F.2d 429, 1 EXC 424 (7th Cir. 1987)
+
+Brief Fact Summary
+Plaintiff, James Jordan, sought damages or a rescission of the sale of his shares sale to his former employer, Defendant Duff and Phelps, Inc., because Defendant did not disclose to Plaintiff information about a potential buyout.
+
+Synopsis of Rule of Law
+A closely held corporation has a duty to disclose a potential merger or buyout when attempting to buy shares from an unwary shareholder, even if the deal has yet to reach an agreement as to price or structure of the deal.
+
+Facts
+Plaintiff was a securities analyst for Defendant.  Due to a falling-out between his wife and mother, Plaintiff believed that it would best to relocate.  Because Defendant could not use his services except in the office he was currently in, Plaintiff landed a job with another company in late 1983.  While he was employed with Defendant, Plaintiff bought 188 (out of 20,100) shares at book value and could have bought 62 more shares if he wanted them.  Per the agreement, Plaintiff was to receive book value of the shares upon the termination of his employment, and the book value would be determined as the value of the prior December 31st.  Plaintiff stayed with the company an extra period of time in order to get the book value for December 31, 1983 instead of 1982.  He received a check for $23,225, but before he cashed it he noticed that Defendant had been in merger talks with another company (talks that took place before Plaintiff’s resignation) that would have put the shares he wa
+
+Issue
+The issue is whether Defendant had a duty to disclose to Plaintiff, and employee minority shareholder, talks of a possible merger.
+
+Held
+The court held that Defendant was obligated, under a fiduciary duty to close corporation shareholders, to disclose the talks of a possible merger that would greatly affect the share price.  Although in publicly traded companies there is no duty to disclose confidential merger talks because it would be impractical and injurious to shareholders, close corporations do not have to worry about the same issues because there is no third party market.  At the same time, other shareholders in close corporations have no resources other than the shareholders that are participating in the merger talks to find out about the value of the stock.  Plaintiff did not forfeit his ability to use that information by resigning.  Therefore the court declined to dismiss the case and remanded it back for a jury trial.
+
+Dissent
+The dissent argues that Plaintiff’s status as an at-will employee does not allow him a right to change his mind about his resignation.  Not only did the shareholding agreement not confer any rights, but it provided for the ability to buy back the shares if the employee is terminated.
+
+Discussion
+The dissent views this case as the majority did so in Ingle v. Glamore Auto Sales, Inc., which is to view the issue as an employee right first and a shareholder right second.  In both cases a shareholder provision allowed the employer to buy back the shares at the point of termination for any reason.
+

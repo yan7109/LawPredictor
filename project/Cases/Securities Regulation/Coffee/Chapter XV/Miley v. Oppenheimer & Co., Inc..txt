@@ -1,0 +1,21 @@
+Citation
+637 F.2d 318 (5th Cir. 1981)
+
+Brief Fact Summary
+Oppenheimer (Defendant) contended that a jury award of real damages and the interest and commission paid by his client Miley (Plaintiff) as a result of Oppenheimer’s extreme trading, as well as damages due to the drop in the worth of Miley’s portfolio, established double recovery.
+
+Synopsis of Rule of Law
+In a churning based action, the client may recover for the commission and interest paid because of extreme trading on the account, and also for the drop in worth of the portfolio over the normal drop in the stock market while the account was managed.
+
+Facts
+Broker Oppenheimer & Co. was sued by their client Miley for churning in violation of federal securities laws and state common laws delegating the fiduciary duty of investment brokers. The jury found Oppenheimer liable and granted Miley $54,000 in actual damages, on top of commissions and drop in portfolio price. Oppenheimer appealed.
+
+Issue
+In a churning based action, may the client recover for the commission and interest paid because of extreme trading on the account, and also for the drop in worth of the portfolio over the normal drop in the stock market while the account was managed?
+
+Held
+(Goldberg, J.) Yes. In a churning based action, the client may recover for the commission and interest paid because of extreme trading on the account, and also for the drop in worth of the portfolio over the normal drop in the stock market while the account was managed. A churning violation represents two separate injuries to a victimized investor. Initially, the investor is damaged by extreme commissions charged on the unwarranted trading of the account, then, the investor is damaged by the inappropriate dealings entered into by the broker in an attempt to produce such fees. Both of these damages are compensable, regardless of if the investor compensated the broker. Courts have usually held that extreme trading results in a broker entering into inappropriate trades hoping to producegreater commissions. While the trouble of approximating the proper measure of damages is implicit, the court must still try to set a reasonable award of damages. Churning is an ongoing offense, thus necessitating the court to measure damages founded on the complete handling of the client’s account, in comparison to how it would have prospered in the absence of misconduct. In this case, the proper measure of damages in an action based on churning is the dissimilarity between Miley’s initial investment plus dividends made less any withdrawals, minus the average percentage drop in worth of the Dow Jones Industrials and the Standard and Poor’s index for the pertinent time span.
+
+Discussion
+The suitable gauge of damages is not discussed in either § 10 or Rule 10b-5. Usually, courts have held in churning cases that the plaintiff investor may recover both the loss in worth of his account as well as extreme brokerage commissions paid. In estimating the correct drop in portfolio cost, the defendant broker is not held liable to the degree he can show that additional elements factored in to the drop in the worth of the account. To award damages for both the reduction in worth of the account and an additional recovery founded on the quantity of paid commissions, it appears as though the plaintiff is being awarded with damages in surplus of his loss, with courts choosing to be erroneous in favor of the investor instead of awarding the broker unwarranted commissions and consequently compensate him for his misbehavior.
+

@@ -1,0 +1,21 @@
+Citation
+86 Misc. 2d 809, 383 N.Y.S.2d 807 (Sup. Ct. 1976)
+
+Brief Fact Summary
+Plaintiffs, Howard Kamin et al., filed a shareholder derivative suit against Defendant corporation, American Express, and their officers after Defendants allegedly negligently decided to issue a dividend.
+
+Synopsis of Rule of Law
+A court will not interfere with the decision of a company’s directors unless there is evidence of fraud or dishonest practice.
+
+Facts
+Defendant corporation purchased common stock for $29.9 million, and now the stock has a market value of $4 million.  The directors decided to declare a special dividend, giving the shares of stock to the shareholders.  Plaintiff demanded that Defendants sell the stock on the open market and use the $25.9 million capital gains loss to offset other capital gains.  The offset would save Defendant corporation $8 million in taxes.  Plaintiffs decided not to pursue Plaintiff’s demand, reasoning that the significant loss would adversely affect the value of Defendant’s stock.  Plaintiff then brought suit, classifying the directors’ decision as negligent decision-making.
+
+Issue
+The issue is whether Plaintiffs can bring a derivative action challenging the business decision of the directors of the corporation.
+
+Held
+The court will not overrule a business decision of the directors of a company unless there is evidence of fraud or some other dishonest dealing.  The decision to declare a dividend may be an unwise judgment, but it is a judgment that is outside the scrutiny of the court.  The only accusation of dishonest dealing was a general assertion that four of the twenty directors had a financial interest in the outcome.
+
+Discussion
+This decision is a restatement of the business judgment rule.  The courts do not want to invest significant resources into second-guessing business judgments of corporate directors.  Going to court for corporate decisions is expensive and can often be avoided through other avenues.
+

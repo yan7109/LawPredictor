@@ -1,0 +1,21 @@
+Citation
+472 U.S. 181 (1985)
+
+Brief Fact Summary
+As a result of Lowe (Defendant) and company not being unregistered investment advisers, the Securities and Exchange Commission (SEC) (Plaintiff) sought to enjoin them from publishing general investment advice and commentary in a newsletter.
+
+Synopsis of Rule of Law
+Being an unregistered investment adviser does not bar a person from publishing a non-personalized investment newsletter.
+
+Facts
+Lowe Management Corp., a registered investment adviser, was operated by Lowe and in 1981 its registration was revoked following a series of convictions against Lowe. Afterwards, Lowe Management starting publishing investment related newsletters in general circulation. Due to its prior registration revocation, an action was filed by the SEC seeking to stop Lowe Management from participating in this activity. It was found by the district court that the Investment Advisers Act permits a publisher who conforms to the reporting and disclosure requirements to engage in publishing. The court of appeals reversed. The Supreme Court granted review.
+
+Issue
+Does being an unregistered investment adviser bar a person from publishing a non-personalized investment newsletter?
+
+Held
+(Stevens, J.) No. Being an unregistered investment adviser does not bar a person from publishing a non-personalized investment newsletter. The SEC is provided broad regulatory authority over those engaged in the investment advice business by the Investment Advisers Act of 1940. The Act was created for application only to those giving personalized advice catering to a particular client and excludes a "publisher of any bona fide newspaper, news magazine, or business or financial publication of regular or general circulation." Single-issue “touts” or “tips” instead of regular newsletters were regulated by the apparent insertion of the term "bona fide." In this case, because Lowe Management’s newsletters had regular publication dates, they appear bona fide and so are covered by the statutory exclusion. So, the SEC could not regulate them because they lacked jurisdiction. Reversed.
+
+Discussion
+The SEC would have regained its authority to impose sanctions, if the  content of the publications had contained false or misleading  information or had violated securities laws in some way but this case  was only concerned with the power of restraint.
+

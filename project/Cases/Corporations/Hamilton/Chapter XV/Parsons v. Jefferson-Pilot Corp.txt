@@ -1,0 +1,21 @@
+Citation
+333 N.C. 420, 426 S.E.2d 685 (1993)
+
+Brief Fact Summary
+Louise Parsons, (Plaintiff), brought suit against Jefferson-Pilot Corporation, (Defendant) seeking to compel Defendant to allow her to inspect its accounting records and records of shareholder and director action.
+
+Synopsis of Rule of Law
+Shareholders are entitled to the information concerning the identity of the shareholders that is possessed by the corporation in order that they may have the same opportunity as the corporation to communicate with the other shareholders. The test for whether a shareholder has described with reasonable particularity the purpose and the records s/he would like to inspect is a relative one turning on the degree of knowledge that a shareholder has about the documents requested.
+
+Facts
+Defendant refused to allow Plaintiff to inspect and copy a list of beneficial owners of its stock or accounting records so she might determine any possible mismanagement of the company or misappropriation of the company’s assets. Plaintiff then brought suit seeking an order directing Defendant to give her access to its accounting records and a list of beneficial owners of its stock. The Court of Appeals affirmed the Trial Court ruling that Defendant was not required to obtain the names of non-objecting beneficial owners (NOBO), where Defendant had neither the names nor a list of such individuals in its possession. Plaintiff’s written demands to inspect other corporate records described her purpose and the records she sought with reasonable particularity. However the Court of Appeals reversed the trial court ruling that Plaintiff had the right to inspect Defendant’s accounting records.
+
+Issue
+Whether N.C.G.S. Section: 55-16-02(b), where it denies shareholders of public corporations from inspecting or copying accounting records of the corporation, abrogates a common law right to inspect a public corporation’s accounting records. Whether a corporation’s shareholders should be granted the right to compel the production of a NOBO list on the same terms as the issuer of the shares. Whether Plaintiff described her purpose and the desired records with the reasonable particularity required by the statute.
+
+Held
+No. N.C.G.S. Section: 55-16-02(e)(2) preserves a shareholder’s common law rights of inspection, including the right to make reasonable inspections of the accounting records of a public corporation for proper purposes. No. A corporation does not have to provide the shareholder with a NOBO list if it does not have the information needed to create such a list and does not use such a list in communicating with its shareholders. Yes. Plaintiff described her purpose and the desired records with the reasonable particularity required by the statute.
+
+Discussion
+Under common law, a shareholder of a corporation has a right to make reasonable inspection of its books and records. N.C.G.S. Section: 55-16-02(e)(2) preserves all existing common law rights of inspection of corporate records. Further, a shareholder wishing to exercise her common law right also has a common law right to utilize the mandamus power of the courts to compel a reluctant corporation to disclose its corporate records pertinent to that purpose. Here Defendant did not have in its possession a NOBO list or nor the information necessary to compile a NOBO list. Therefore it was not required to obtain that information simply because Plaintiff shareholder has requested that it do so for an otherwise proper purpose. Although Plaintiff’s demand was broad, there is nothing to show that Plaintiff could have described the desired records with any greater particularity than she did and Defendant should not have had any trouble understanding what Plaintiff desired. Therefore, Plaintiff described both her purpose and desired records with the reasonable particularity required by that statute.
+

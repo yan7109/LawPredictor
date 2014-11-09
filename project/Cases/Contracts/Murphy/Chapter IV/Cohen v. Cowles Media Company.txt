@@ -1,0 +1,21 @@
+Citation
+798806, 1987 BL 244, 14 Med. L. Rptr. 1460 (D. Minn. June 19, 1987)
+
+Brief Fact Summary
+The Defendant, Cowles Media Company (Defendant), promised the Plaintiff, Cohen (Plaintiff), confidentiality in order to receive certain information to be published. Defendant failed to adhere to the agreement and as a result the Plaintiff lost his employment and received a damage award by the trial court.
+
+Synopsis of Rule of Law
+Contract law should not impose a legal obligation on a moral and ethical obligation.
+
+Facts
+A newspaper owned by Defendant published a story reporting that a nominee for Lieutenant Government had been charged with three counts of unlawful assembly and previously convicted of shoplifting. The newspapers revealed Plaintiff as the source and named the firm he worked for. It is undisputed that Plaintiff gave this information in return for the reporters’ promises to keep his identity secret. As a result Plaintiff was fired.The case was submitted to jury on the theory of breach of contract and misrepresentation. The jury found liability on both counts and awarded $200,000 in compensatory damages and $250,000 in punitive against each newspaper for misrepresentation. The court of appeals set aside the misrepresentation damages, but affirmed compensatory damages.
+
+Issue
+Whether the law should impose a legal obligation on a moral and ethical obligation?
+
+Held
+No. Contract law is not a proper fit for a promise regarding news source confidentiality. Courts should not put legal rigidity on a special ethical relationship.
+
+Discussion
+The Court addresses both the subjective and objective standards to decide this case. Subjectively, the court looks at the actual intent of the parties. However, the court moves to a more objective view of the case and states that reporters and their sources don’t usually think they are entering into a binding contract. The court also uses the non-commercial nature of the arrangement to find against the enforceability of the promise.
+

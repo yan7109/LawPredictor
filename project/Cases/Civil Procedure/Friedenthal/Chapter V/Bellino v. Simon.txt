@@ -1,0 +1,21 @@
+Citation
+99-2208, 1999 BL 753, 4 ILRD 197 (E.D. La. Nov. 22, 1999)
+
+Brief Fact Summary
+The defendants, Richard Simon and James Spence, Jr., allegedly separately defamed the plaintiff, James Bellino, by telephone and email. Neither defendants are residents of the forum state, and they challenged jurisdiction.
+
+Synopsis of Rule of Law
+A court may exercise personal jurisdiction of an individual in satisfaction of due process “when (1) the defendant has purposefully availed himself of the benefits and protections of the forum state by establishing ‘minimum contacts’ with that state; and (2) the exercise of jurisdiction over the defendant comports with ‘traditional notions of fair play and substantial justice.’”
+
+Facts
+The plaintiff, a California resident, through his business, Forensic Document Services, sold two autographed baseballs to Christopher Aubert, a resident of Louisiana. Aubert attempted to learn more about the baseballs by visiting the Richard Simon Sports website on the Internet. Said website was maintained by defendant Simon, a New York resident. Aubert initiated contact with Simon by completing a visitor form on the website. Simon responded, and the two men exchanged several emails. Aubert then invited Simon to call him regarding the baseballs, and Simon called. During their conversation, Simon allegedly made several defamatory statements about the plaintiff. The two continued to exchange emails, and several from Simon contained additional defamatory remarks about the plaintiff. On Simon’s recommendation, Aubert consulted defendant Spence, a Pennsylvania resident, regarding authentication of the baseballs. Spence allegedly defamed the plaintiff during that phone call. The pla
+
+Issue
+Can a Louisiana court exercise jurisdiction over defendant Simon, a New York resident? Can a Louisiana court exercise jurisdiction over defendant Spence, a Pennsylvania resident?
+
+Held
+Yes. To determine whether jurisdiction exists, the court must decide whether the defendant purposefully directed his activities toward the forum state or purposefully availed himself of the privilege of conducting activities therein, and the cause of action arose out of those activities. Minimum contacts exist where a nonresident defendant defames a plaintiff within the state or the defendant acts outside the state and the effects of the defamation are felt within the state. In the present case, the telephone call, during which Simon defamed the plaintiff, was solicited by Simon in several emails exchanged between Aubert and Simon after Aubert submitted a visitor form to Simon’s website. Further, Simon initiated several subsequent emails that defamed the plaintiff. These contacts were sufficient for the Louisiana court to exercise personal jurisdiction over Simon. No. With regard to Spence, the Louisiana court will not exercise personal jurisdiction over him. Spence allegedly defamed the plaintiff in one unsolicited telephone call from Aubert to Spence. This is certainly insufficient to support personal jurisdiction over Spence. However, where a cause of action does not, as here, arise out of a nonresident’s purposeful contacts with the forum state, jurisdiction may still be exercised, but due process requires continuous and systematic contacts between the defendant and the forum. Here, Spence’s contacts are still insufficient to establish jurisdiction. The plaintiff’s argued that Spence’s maintenance of a website and advertising in a national trade magazine establish continuous and systematic contacts with the state, but the court found that both methods of advertising were done by Spence Vintage Autographs, not Spence personally.
+
+Discussion
+Personal jurisdiction may be exercised over any person who establishes minimum contacts with a forum. Such minimum contacts are not precisely defined, but generally, the contact is sufficient if it directly constitutes the wrong alleged or the contact is continuous and systematic, i.e. routinely conducting business in the forum.
+

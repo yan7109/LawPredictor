@@ -1,0 +1,21 @@
+Citation
+22 Ill.22 N.Y.2d 171, 292 N.Y.S.2d 86, 239 N.E.2d 189 (1968)
+
+Brief Fact Summary
+The Defendant, C. Schmidt & Sons, Inc. (Defendant), breached the oral agreement allowing Plaintiff, North Shore Bottling Co. (Plaintiff), to be the exclusive distributor of its product. Defendant asserts the Statute of Frauds (SOF) as an affirmative defense.
+
+Synopsis of Rule of Law
+A contract must be in writing if by its terms it is not to be performed within one year from the making thereof.
+
+Facts
+Plaintiff and Defendant entered into an agreement whereby Plaintiff became the exclusive wholesale distributor of Defendant’s beer for so long as Defendant sold beer in New York City. Defendant breached the oral agreement. Defendant asserts the SOF as an affirmative defense.
+
+Issue
+Does the power by Defendant to put an end to the contract within one year, make the agreement fall under the SOF and be unenforceable?
+
+Held
+No. The terms of the contract made it possible for performance to occur within one year. The “one year” provision of the SOF only covers contracts which parties cannot perform within one year.
+
+Discussion
+The SOF one year provision applies only to agreements that are, by expressed stipulation, not to be performed within one year. If it is possible for contract performance to be completed within one year, then the contract is not covered by the SOF.
+

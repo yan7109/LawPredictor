@@ -1,0 +1,21 @@
+Citation
+375 U.S. 106, 84 S. Ct. 242, 11 L. Ed. 2d 186, 1963 U.S. 129
+
+Brief Fact Summary
+Two property owners contested ownership of a piece of land situated along the Missouri River on the Nebraska and Missouri border. A Nebraska court ruled that the land in question was located in Nebraska and issued judgment as to the ownership of the land. The losing party then filed suit in Missouri, seeking to quiet title to the land.
+
+Synopsis of Rule of Law
+A judgment is entitled to full faith and credit, for res judicata purposes, even as to questions of jurisdiction, where the second court’s inquiry disclosed that those questions have been fairly and fully litigated and finally decided in the court which rendered the original judgment.
+
+Facts
+The Petitioners, Durfee and others (Petitioners) brought an action against the Respondent (Duke) in a Nebraska court to quiet title to certain land situated on the Missouri river. The Nebraska court had jurisdiction over the subject matter only if the land in question was in Nebraska. The river forms the boundary between Nebraska and Missouri, whether the land was in Nebraska depended entirely upon a factual question – whether a shift in the river’s course had been caused by avulsion or accretion. After a hearing, the court found in favor of Petitioners. The Supreme Court of Nebraska affirmed the judgment, finding that the land in question was in Nebraska and that Nebraska courts therefore had subject matter jurisdiction over the land. Two months later Respondent filed suit in a Missouri court to quiet title to the same land. The suit was removed to federal district court on diversity grounds. Although the district court found the land to be in Missouri, it also found that it was bound by the judgment of the Nebraska Supreme Court under res judicata. The court of appeals reversed holding that the district court was not required to give full faith and credit to the Nebraska judgment. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+Whether a state court judgment is entitled to full faith and credit for res judicata purposes even though a later court finds that the initial state court lacked jurisdiction over the suit.
+
+Held
+Yes. The Supreme Court reversed the judgment of the court of appeals.   Full faith and credit requires every state to give to a judgment at least the res judicata effect which the judgment would be accorded in the state which rendered it. A judgment is entitled to full faith and credit, even as to questions of jurisdiction, where the second court’s inquiry disclosed that those questions have been fairly and fully litigated and finally decided in the court which rendered the original judgment. Since the question of subject matter jurisdiction had been fully litigated in the original forum, the issue could not be retried in a subsequent action between the parties.    Concurrence. Justice Thomas C. Black (J. Black) concurred. J. Black’s concurrence stated that he would not uphold the judgment of the Nebraska court if it were later found that the land in question was actually located in Nebraska because no state has power to make a determination binding on the other as to which state the land is in.
+
+Discussion
+Here the court is stating the perplexing rule that even if it is later determined that a state court lacked subject matter jurisdiction or personal jurisdiction, so long as those jurisdictional issues were contested and ruled upon by the state court, the state court’s judgment will stand. The court noted however, that this rule is subject to doctrines of federal pre-emption, or sovereign immunity.
+

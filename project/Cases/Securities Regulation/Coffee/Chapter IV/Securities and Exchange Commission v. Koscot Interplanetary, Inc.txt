@@ -1,0 +1,21 @@
+Citation
+497 F.2d 473 (5th Cir. 1974)
+
+Brief Fact Summary
+Koscot Interplanetary, Inc. (Defendant) created a pyramid style “sales campaign” for cosmetics where shares were dispersed internally for which buyers brought in new product “sellers”.
+
+Synopsis of Rule of Law
+Investment contracts exist when the managerial efforts, not the investor’s, aresubstantial and critical, and the success or failure of the business is contingent upon them.
+
+Facts
+Koscot Interplanetary, Inc. organized a tri-level pyramid operation for the sale of cosmetics, the difference between each level being the amount of investment and amount of discounts on cosmetics sold to the lower tiers at a greater price. When a current investor brings in a new financier, they get a percentage of the amount the new investor pays to Koscot. Current investors beseeched potential investors to attend meetings where Koscot employees would read from scripts. Once a potential investor decided to invest, the promoting investor was not obligated to perform additional work. The district court found that the Koscot agreement did not involve a sale of investment contract and therefore refused to grant an injunction.
+
+Issue
+If the efforts of those other than the investor are integral to the triumph or collapse of a business, does that constitute an investment contract?
+
+Held
+(Gewin, J.) Yes. Following theHowey test, an investmentcontract is comprised of three factors: (1) a monetary investment (2) in a common enterprise with (3) profits gleaned exclusively from efforts of others. In this case, money is obviously invested in a common enterprise in which the profits of investors are reliant on the acts and accomplishments of those pursuingthe investment. With regard to the third component, the issue is whether or not to apply a literal or functional approach. Case law succeeding Howey has warned against a literal approach, stating that the appropriate test is whether the efforts of those other than the investor are integral to the success/failure of business. If the latter is applied, the roles of investors in Koscot are similar to those in SEC v. Glen Turner Enterprises, translating to following: investor participation was severely limited, with closing the sale requiring no effort whatsoever. Hence, the investors return was restricted to the promoters efforts, who maintained control over managerial procedures upon which the profits were contingent, proving this is not a standard licensing agreement. Reversed and remanded.
+
+Discussion
+This case characterizes an endeavor by a lower court to apply the Supreme Court test in Howey. The issue explored here is, what extent and level of effort is necessitated by the investor so that the business’ profits are not totally reliant upon others acts. The facts presented are indicative of the Howey test was being appropriatelyapplied while the test the court devised to ascertain the third component appears complicated and is subject to the facts of each case. As mentioned previously, whether the acts of others are the vital and compelling managerial endeavors is a matter of degree. Nonmanagerial efforts were not mentioned by the court.
+

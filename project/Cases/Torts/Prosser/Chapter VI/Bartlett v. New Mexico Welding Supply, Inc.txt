@@ -1,0 +1,21 @@
+Citation
+98 N.M. 336 648 P.2d 794 1982 N.M.
+
+Brief Fact Summary
+The Plaintiff, Jean Bartlett (Plaintiff), sued the Defendant, new Mexico Welding Supply, Inc. (Defendant), for damages that occurred during a car accident. The jury found that Defendant was 30% responsible for the damages, with another unknown driver being 70% responsible. Plaintiff moved that the full judgment should be entered against Defendant. Defendant applied for an interlocutory appeal.
+
+Synopsis of Rule of Law
+Under New Mexico comparative negligence law, joint and several liability is not applicable to force one concurrent tortfeasor to pay the entire amount of damages.
+
+Facts
+This case revolves around an automobile accident involving three vehicles. The lead car signaled a right turn, then turned into and pulled out of a service station in a quick motion. Plaintiff slammed on her brakes to avoid hitting the lead car. The Defendant’s truck was behind Plaintiff. Defendant applied his brakes, but skidded into Plaintiff’s car. The driver of the lead car was unknown. Plaintiff sued Defendant on a negligence theory and Defendant claimed that the negligence of the lead car caused or contributed to the damage. The jury, in response to special questions, determined that Plaintiff’s damages were $100,000 and that Defendant’s negligence contributed to the damages to the extent of 30%. Plaintiff moved that judgment be entered in their favor for $100,000. The trial court denied the motion and ordered a new trial. The appellate court granted Defendant’s application for an interlocutory appeal.
+
+Issue
+In a New Mexico comparative negligence case, is a concurrent tortfeasor liable for the entire damage caused by concurrent tortfeasors under a joint and several liability theory?
+
+Held
+No. Judgment reversed. Case remanded with instructions to enter judgment against Defendant for 30% of Plaintiff’s damages.
+
+Discussion
+This case represents a different approach to determining damages in a comparative negligence case involving multiple tortfeasors. In jurisdictions that retain joint and several liability, defendants that pay more than their fair portion may recover from other joint tortfeasors on either a pro-rata or comparative-fault basis.
+

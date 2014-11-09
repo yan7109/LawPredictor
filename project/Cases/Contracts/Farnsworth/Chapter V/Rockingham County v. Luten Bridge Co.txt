@@ -1,0 +1,21 @@
+Citation
+35 F.2d 301, 1929 U.S. App. 2948, 66 A.L.R. 735
+
+Brief Fact Summary
+Defendant Rockingham County contracted with Plaintiff Luten Bridge Co. to construct a bridge. After Plaintiff had only expended about $1,900 for labor and material, Defendant gave notice that it would not honor the contract. Plaintiff continued to build the bridge anyway and sued to recover $18,301.07 from Defendant.
+
+Synopsis of Rule of Law
+A nonbreaching party has a duty to minimize damages.
+
+Facts
+The Board of County Commissioners of Defendant entered into a contract with Plaintiff for the construction of a bridge. Due to considerable public opposition to the bridge, the board notified Plaintiff not to proceed any further with the construction of the bridge. At that time, Plaintiff had expended about $1,900 on labor and material. Despite Defendant’s (unjustified, as the court found) repudiation of contract, Plaintiff continued to build the bridge and after completion, sued Defendant for $18,301.07.
+
+Issue
+Must a nonbreaching party mitigate the damages for breach of contract?
+
+Held
+Yes. Once notice is given that the contract has been repudiated, the nonbreaching party must desist from further performance and can only recover damages including lost profit and any other losses sustained up to the time of breach. Failure to mitigate damages results in limited recovery for a plaintiff.
+
+Discussion
+A nonbreaching party cannot recover for damages beyond that already incurred at the time of breach; he must mitigate damages once notified of the breach.
+

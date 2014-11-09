@@ -1,0 +1,21 @@
+Citation
+663 A.2d 1194 (Del. Ch. 1995)
+
+Brief Fact Summary
+The Plaintiffs brought a class-action suit against Defendant corporation, Wheelabrator Technologies, Inc., and its directors to oppose the merger of Wheelabrator into a wholly owned subsidiary of Waste Management Corp.  Plaintiffs alleged that Defendant directors did not disclose material information regarding the merger.
+
+Synopsis of Rule of Law
+A shareholder ratification does not automatically extinguish a duty of loyalty claim, but it does make the business judgment rule the applicable standard that a plaintiff would have to overcome.
+
+Facts
+Defendant corporation was in the waste management field, specifically in the refuse-to-energy field.  This field was shared in part by Waste Management.  At one point, Waste management became the largest stockholder of Defendant, and they were eager to streamline both companies through a merger.  Waste Management offered to pay a ten percent premium to acquire 55% of Defendant’s shares.  Defendant directors (which did not include directors appointed by Waste Management) voted to accept the offer.  A majority of shareholders other than Waste Management voted in favor of the merger as well.  Plaintiffs accused Defendant directors of breaching a fiduciary duty when they withheld pertinent information regarding a merger of Defendant target corporation Wheelabrator into Waste Management.  Plaintiffs also accused Defendant directors of breach of loyalty and care in negotiating the merger by misrepresenting the time the directors took to deliberate about the merger.  Defendants claim
+
+Issue
+The issue is whether the shareholders, by voting in favor of the merger, ratified the directors’ decision which in turn extinguished any claims of a fiduciary breach by the directors.
+
+Held
+The shareholders’ approval did not automatically extinguish the breach of loyalty claims.  The ratification should be viewed together with other pertinent factors.  The ratification did impose a burden of proof on to Plaintiffs using the business judgment rule standard.  Therefore the duty of loyalty claim was not extinguished here, and summary judgment on that count was denied.
+
+Discussion
+The court made a distinction between different types of ratification. There is the shareholder ratification that is absolutely required or else the directors’ actions are void, and there is ratification that merely acts as an affirmance of the director decisions while not being legally required.  In neither case does a shareholder ratification automatically extinguish breach of duty of loyalty claims.
+

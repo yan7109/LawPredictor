@@ -1,0 +1,24 @@
+Citation
+342 U.S. 165, 72 S. Ct. 205, 96 L. Ed. 183 (1952)
+
+Brief Fact Summary
+The Appellant, Rochin (Appellant), alleged that the Due Process Clause had been violated when police forced him to vomit two capsules that he had swallowed.
+
+Synopsis of Rule of Law
+The police cannot extract evidence from inside of a person’s body by force.
+
+Facts
+Three officers entered the Appellant’s home and saw two capsules on a nightstand. When they inquired as to who owned the capsules, the Appellant swallowed them. After an unsuccessful attempt to dislodge the capsules from Appellant’s mouth, the officers took the Appellant to a hospital. At the hospital, the Appellant’s stomach was pumped against his will to induce vomiting. Two capsules containing morphine were found within the vomited material.
+
+Issue
+Can the police forcibly extract evidence from a person’s stomach?
+
+Held
+No. The Due Process Clause of the Fourteenth Amendment of the United States Constitution (Constitution) prohibits the use of coerced confessions. There is no distinction between a coerced verbal confession and a coerced physical confession. To hold otherwise would be to sanction police brutality in obtaining physical evidence, while prohibiting police brutality in obtaining a verbal confession.
+
+Concurrence
+Justice Black: The Supreme Court of the United States (Supreme Court) used the nebulous standard of the Fourteenth Amendment instead of the specific standards of the Bill of Rights to invalidate California’s (Appellee) use of the evidence. By using a nebulous standard, the Supreme Court substitutes its own judgment for the Constitution. A nebulous standard changes, and a changing standard endangers civil liberties. Justice Douglas: The Fifth Amendment should have been used to invalidate the Appelee’s use of this evidence. Freeing the states from the Bill of Rights, while nullifying state laws which offend the Supreme Court through the use of the Fourteenth Amendment, has led to an erosion of civil rights by allowing states to do what the Federal government cannot.
+
+Discussion
+Obtaining confessions by beating or torture was one practice that the right against self incrimination was intended to prevent. Because the value of the confession was its evidentiary value, the police cannot beat or torture a person to obtain evidence contained in a person’s body.
+

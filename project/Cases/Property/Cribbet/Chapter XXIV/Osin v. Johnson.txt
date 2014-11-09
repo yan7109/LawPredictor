@@ -1,0 +1,21 @@
+Citation
+22 Ill.243 F.2d 653, 100 U.S. App. D.C. 230 (D.C. Cir. 1957)
+
+Brief Fact Summary
+The Appellant, Osin (Appellant), agreed to sell a parcel of land to the Appellee, Johnson (Appellee) and to that end executed and delivered a deed, taking back a note for $30,000 representing the purchase price. The Appellee fraudulently represented to the Appellant that he would prepare, execute and record a trust on the property to secure the Appellee’s purchase money note, which the Appellee failed to do. The Appellee later borrowed $11,000 against the property by executing deeds of trust on the property to Perpetual Building Association (Perpetual), which Perpetual took without notice of the prior debt to the Appellant.
+
+Synopsis of Rule of Law
+A constructive trust is a purely equitable device, which can be applied with great flexibility. It arises by operation of law from the occurrence of an unconscionable act for which no traditional relief is available. The acquisition of property through the fraudulent misrepresentation of a material fact has been held sufficient grounds to fasten a constructive trust on the property.
+
+Facts
+The Appellant agreed to sell a parcel of land to the Appellee and to that end executed and delivered a deed, taking back a note for $30,000 representing the purchase price. The Appellee fraudulently represented to the Appellant that he would prepare, execute and record a trust on the property to secure the Appellee’s purchase money note, which the Appellee failed to do. The Appellee later borrowed $11,000 against the property by executing deeds of trust on the property to Perpetual, which Perpetual took without notice of the prior debt to the Appellant. The Appellee also borrowed $3,300 from Glorius, secured by second deeds of trust on the property. Thereafter, creditors of the Appellee obtained judgments, which became liens on the real estate by operation of statute. Foreclosure proceedings were brought under the trust deeds executed by the Appellee and the Appellant brought this suit for equitable relief, joining the trust holders, and the judgment creditors subsequently int
+
+Issue
+There are two basic issues:
+
+Held
+No to a. and yes to b. Judgment affirmed as to the trust holders and reversed and remanded as to the judgment creditors.
+
+Discussion
+It is important to understand why trust holders would be treated differently than judgment creditors. In the facts here, the trust holders loaned money and presumably, took the steps to check the record of title. Thus, the trust holders were acting in the ordinary course of business. The judgment creditors, on the other hand, made loans for the purchase of autos and would have had no reason to examine the status of the debtor’s title to real estate.
+

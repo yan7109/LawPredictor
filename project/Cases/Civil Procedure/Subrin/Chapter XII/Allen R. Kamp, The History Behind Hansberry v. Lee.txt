@@ -1,0 +1,21 @@
+Citation
+20 U.C. Davis L. Rev 481/ 311 U.S. 32.
+
+Brief Fact Summary
+This is an article about the famous Hansberry v. Lee case, and the case of Hansberry v. Lee. There is a racially restrictive covenant that does not allow African Americans to move into a neighborhood. Plaintiffs were bared from suit because of an earlier case on res judicata grounds and class action theories.
+
+Synopsis of Rule of Law
+If the only commonality between litigants is a single fact or law, that is not enough to make them members of a class action as to which will bind all members to an earlier judgment on res judicata grounds.
+
+Facts
+Between 1900 and 1934 the city of Chicago through its Real Estate Board, in order to promote segregation, created restrictive covenants. These covenants stated that owners of land in certain areas of Chicago were not allowed to sell, rent, or lease property to people of color. The Board organized efforts to make such covenants legal in most areas of Chicago. This was quiet effective for a long time. A model was created and made legal through litigation and that model was used in an area of town where Mr. Burke owned property. In an earlier case Burke’s wife sued to have the covenant enforced when she found her husband tried to sell to an African American. Subsquently, Mr. Burke made a plan to sell the property to a white man for Mr. Hansberry an African American. Another suit was filed and the lower court enjoined Mr. Burke from selling to an African American, or anyone for the purpose of giving to an African American, and even bared a mortgage company from giving a loan to an African American for a house in a neighborhood with such a covenant. The lower courts stated that Mr. Hansberry was a member of a class of persons that sued in the earlier case where Burke was unsuccessful and that Mr. Hansberry was bound to that judgment.  Then suit was filed in the United States Supreme Court.
+
+Issue
+Whether plaintiffs’ due process rights where violated when a court bared litigation on the merits under res judicata grounds after finding the plaintiffs to be members to a class of plaintiffs from an earlier case.
+
+Held
+Yes. The lower court bared litigation on res judicata grounds. It stated those plaintiffs are bound to an earlier decision based on class action status. Defendants claim that plaintiffs are raising the same issues as an earlier suit; therefore, they are actually class members of the earlier action. The main argument is that in both cases the validity of a restrictive covenant is being question, so the court should not hold a case on the merits to determine its validity for a second time and they allege that these plaintiffs were adequately represented in the earlier case. If this is so, the affirmative defense of res judicata would be proper. However the United State Supreme Court found that in order for parties who are not part of the original suit to be bound to that suit, more than a simple fact or law must create that commonality among plaintiffs. In fact these plaintiffs in both cases have dual and potentially conflicting interests.  In one case the party wishes to sell property, Mr. Burke, and in the second case the party was not allowed to purchase property, Mr. Hansberry. The purpose of class actions is for equitable purpose, not to bind people to an original suit. Without more, the court will not put people in a class. Since plaintiffs were not adequately represented, their case should not be bared on res judicata grounds, but in fact litigated.
+
+Discussion
+The main contention with the earlier case was that an essential fact that would determine validity of the covenant was stipulated on fraudulent grounds. The covenant required 95 percent of the owners to sign the agreement, when only a little more than 50 percent actually did sign the agreement. Res Judicata can not be found a proper defense when the earlier case contained such fraud.  The constitutionality of the covenant was not raised in earlier suits, so the United States Supreme Court did not discuss the issue.
+

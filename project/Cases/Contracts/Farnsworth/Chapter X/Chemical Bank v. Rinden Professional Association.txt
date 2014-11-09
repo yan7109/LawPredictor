@@ -1,0 +1,21 @@
+Citation
+126 N.H. 688, 498 A.2d 706, 1985 N.H. 394, 41 U.C.C. Rep. Serv. (Callaghan) 1035
+
+Brief Fact Summary
+The Plaintiff, Chemical Bank (Plaintiff) sued the Defendant, Rinden Professional Association (Defendant), for failure to make payments on a lease.
+
+Synopsis of Rule of Law
+A waiver of defenses clause is valid if there was an agreement by a buyer, who is not a consumer, to waive defenses against an assignee and that the assignment was made for value, in good faith and without notice of any claim or defense.
+
+Facts
+The Defendant contracted with Intertel to install an office telephone system. The contract required the Defendant to make monthly payments. The Defendant received notice that the Plaintiff intended to purchase the payment rights from Intertel. The Defendant assented to the assignment of the lease by signing an agreement with the Plaintiff that contained a waiver clause stating that the Defendant’s obligation to pay the plaintiff “shall be absolutely unconditional and shall be payable whether or not the Lease is terminated,” and the promise to pay cannot be defeated by any defense, set-off, or counterclaim. After three years of payments to the Plaintiff, the phone system malfunctioned and the Defendant replaced it and ceased making payments to the Plaintiff. This lawsuit ensued.
+
+Issue
+Was the waiver clause enforceable?
+
+Held
+Yes. A waiver of defenses clause is valid if there was an agreement by a buyer, who is not a consumer, to waive defenses against an assignee and that the assignment was made for value, in good faith, and without notice of any claim or defense. Here, the Defendant is a buyer who is not a consumer. The Plaintiff took the assignment from Intertel for value equal to $8,800. The assignment appears to have been made in good faith. To wit, the Plaintiff and Intertel were not related corporations, and they seem to have dealt at arms’ length. Finally, there was no evidence that the Plaintiff took the assignment with notice of any claim or defense. Thus, the waiver clause was enforceable.
+
+Discussion
+A waiver of defenses clause is valid if there was an agreement by a buyer, who is not a consumer, to waive defenses against an assignee and that the assignment was made for value, in good faith and without notice of any claim or defense.
+

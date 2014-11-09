@@ -1,0 +1,21 @@
+Citation
+51 Misc. 2d 373, 273 N.Y.S.2d 299 (Sup. Ct. 1966)
+
+Brief Fact Summary
+711 Kings Highway Corp., (Plaintiff), brought suit against F.I.M.’s Marine Repair Serv., Inc., (Defendant), to set aside a contract as ultra vires. Defendant moves for summary judgment.
+
+Synopsis of Rule of Law
+Ultra vires may not be invoked as a sword in support of a cause of action any more than it can be utilized as a defense except (1) in an action brought by a shareholder to enjoin a corporate act or (2) in an action by or in the right of a corporation against an incumbent or former officer or director of the corporation or (3) in an action or special proceeding brought by the Attorney General.
+
+Facts
+Plaintiff leased property to Defendant for the purpose of operating a motion picture theater. The operation of a motion picture theater business for profit is an act that falls outside the powers and authority conferred by Defendant’s corporate charter. On this ground, Plaintiff seeks declaratory judgment declaring the lease to be invalid or in the alternative for rescission and that Defendant be enjoined from performing or exercising any rights under the lease.
+
+Issue
+Whether ultra vires may be asserted in support of a cause of action.
+
+Held
+No. Ultra vires may not be invoked as a sword in support of a cause of action any more than it can be utilized as a defense.
+
+Discussion
+Plaintiff may not assert ultra vires because this case does not fall within any of the three statutory exceptions. Although the statute is entitled “Defense of ultra vires,” ultra vires may not be invoked in support of a cause of action any more than it can be utilized as a defense. To do so would render the exceptions meaningless. Further ultra vires may not be invoked even though the contract the contract claimed to be ultra vires is executory.
+

@@ -1,0 +1,21 @@
+Citation
+18 F.3d 1132, 1994 U.S. App.
+
+Brief Fact Summary
+The Appellant, Tran Trong Cuong (the “Appellant”), a physician, was convicted of illegally prescribing controlled substances to thirty patients over several years.  The Appellant gave the prescriptions in exchange for money, and the evidence indicated that the prescriptions were often unnecessary and administered without a thorough exam.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.”) Rule 703 provides that facts or data relied on by an expert may be those perceived or known by the expert.  The facts or data relied on do not have to be admissible if they are of the type reasonably relied on by experts in a particular field.
+
+Facts
+The Appellant is a physician educated in Paris, France and admitted to practice medicine in Virginia.  He is accused of unlawfully prescribing controlled substances to thirty patients between 1989 and 1992.  The government presented seven former patients who testified that the Appellant did not give them thorough physicals and that they faked their symptoms in order to obtain prescriptions.  There was testimony that indicated the Appellant was actively involved in helping the patients obtain the prescriptions.  The government called Dr. Alan MacIntosh (”Dr. MacIntosh”), a Board certified family physician who had practiced for thirty two years.  His opinion was that after a few days, the continued use of narcotics for most of the patients would not be medically necessary and could do harm, and that this was not the appropriate care for a family physician.  Dr. MacIntosh further testified that Dr. Stevenson, who had prepared a report on some of the Appellant’s patients, was qual
+
+Issue
+Was it error to allow Dr. MacIntosh to testify that his conclusions regarding the Appellant’s actions were “essentially the same” as those of Dr. Stevenson?
+
+Held
+Senior Circuit Judge Chapman issued the opinion for the Fourth Circuit Court of Appeals (”Fourth Circuit”) in holding that it was error to allow Dr. MacIntosh to testify that his conclusions were essentially the same as Dr. Stevenson.
+
+Discussion
+By allowing the objectionable testimony, Dr. Stevenson’s opinion was put before the jury without him being subjected to cross examination, which denies the Appellant a fundamental constitutional right.  There is no evidence that Dr. Stevenson’s medical report was of the type reasonably relied upon in a particular field under F.R.E. Rule 703.
+

@@ -1,0 +1,21 @@
+Citation
+329 U.S. 495, 67 S. Ct. 385, 91 L. Ed. 451, 1947 U.S. 2966
+
+Brief Fact Summary
+Petitioner, Hickman, sought discovery of statements or interrogatories made to Respondent Taylor’s counsel.  Respondent objected to the request as an attempt to receive privileged information.
+
+Synopsis of Rule of Law
+The work product of an attorney, particularly opposing counsel’s thoughts and impressions of witnesses or information relating to the claims, is not discoverable.
+
+Facts
+Respondent’s tug boat sank and killed four men.  Petitioner brought this action on behalf of one of the men who drowned.  Petitioner filed 39 interrogatories directed to Respondent, and one of the interrogatories asked if Respondent’s counsel interviewed the witnesses, and if so, Petitioner wanted a copy of any statements.  Respondent objected to Petitioner’s request on the grounds that the information was unavailable under an attorney-client privilege.  Petitioner argued that the statements were not between the client and the lawyer and therefore should not be protected.
+
+Issue
+The issue is whether Petitioner can discover the statements and work product of opposing counsel.
+
+Held
+The United States Supreme Court held that the work product of opposing counsel is not discoverable.  If the witnesses or information is available for the opposing side, then they are not prejudiced and can not demand the work product of opposing counsel.  And the thoughts, impressions and strategic material of an attorney is never discoverable.
+
+Discussion
+The U.S. court system is adversarial, and it would discourage attorneys to write down or do anything that would threaten their ability to represent their client adequately.  There is a very significant public policy concern at issue, and the court declines to change the status quo to help a party avoid legwork to collect information from witnesses.
+

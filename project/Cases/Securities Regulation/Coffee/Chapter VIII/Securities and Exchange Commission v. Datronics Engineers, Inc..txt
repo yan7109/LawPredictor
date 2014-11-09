@@ -1,0 +1,24 @@
+Citation
+490 F.2d 250 (4th Cir. 1973)
+
+Brief Fact Summary
+The Securities and Exchange Commission (Plaintiff) argued that the regulations stipulations of the Securities Act were violated when Datronic Engineers, Inc. (Defendant) began buying and merging private businesses.
+
+Synopsis of Rule of Law
+A corporation has the potential to violate the Securities Act by buying and merging private companies.
+
+Facts
+Datronics Engineers, Inc., a publicly traded company, arranged a transaction where a private company merged into a subsidiary of Datronics, giving the private companies former owners a bulk of the subsidiary’s stock. This occurred on nine different occasions.  The remaining stock was to be distributed among shareholders within Datronics. The SEC alleged violations of the registration provisions of the Securities Act and brought an action against Datronics. The SEC’s application for preliminary injunction was denied by the district court and the SEC appealed.
+
+Issue
+Are regulations requirements of the Securities Act violated when a corporation buys and merges private companies?
+
+Held
+(Bryan, J.) Yes. Regulations requirements of the Securities Act may be violated when a corporation buys and merges private companies. As stated in § 5 of the Act, utilizing mails to dispense unregistered securities “for the purpose of a sale or for delivery after sale” is banned. While Datronics argued that the merger transactions were not sales, a sale, as defined in § 2(3) of the Act, is inclusive of dispersion of securities for sale. In these merger transactions, a small percentage of the shares were dispersed among Datronics shareholders, seeing as the shares were marketable, they had value. Therefore, it is true that the mergers used mails as a means to distribute unregistered sales, establishing a violation of § 5. Future harm is likely, seeing as nine mergers have occurred thus far, which is satisfactory to justify an injunction. Vacated and remanded.
+
+Concurrence
+(Widener, J.) It appeared that no business purpose existed other than forming a market for the merged corporations’ interests, which is one of the most convincing reasons for finding a § 5 violation.
+
+Discussion
+Stock dividends are the form of transaction witnessed in this case. Datronics eluded registration provisions by giving their shareholders additional shares of pre-issued stock, referred to as a “back-door” offering. This case shows that substance may triumph over formin securities laws enforcement actions.
+

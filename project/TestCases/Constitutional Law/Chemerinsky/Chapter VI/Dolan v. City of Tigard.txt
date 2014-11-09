@@ -1,0 +1,24 @@
+Citation
+512 U.S. 374, 114 S. Ct. 2309, 129 L. Ed. 2d 304, 1994 U.S.
+
+Brief Fact Summary
+The Petitioner, Dolan (Petitioner), applied for a permit to expand the size of her commercial building. The Respondent, City of Tigard (Respondent), approved the permit on the condition that Petitioner dedicate 10% of the total land area to the city for a bike path and drain.
+
+Synopsis of Rule of Law
+Generally, a required easement will result in a taking because it is a permanent physical invasion of the private property. But, no taking will result if the government can show that the requirement is roughly proportional to the impact of the development on the community.
+
+Facts
+Respondent codified a development plan in its land use regulations. In particular, the code requires that businesses located within the Central Business district devote 15% of their land to open space and landscaping. Respondent later noted that automobile traffic was increasing and decided to encourage alternative methods of transportation by building a bicycle and walking path along the business corridor. This goal was achieved by requiring new business development to donate land for the pathway. Respondent also adopted a Master Drainage Plan for the flood plain located around the creek.
+
+Issue
+Does this specific required right-of-way easement amount to a taking?
+
+Held
+No.
+
+Dissent
+The burden of demonstrating that the property owner has been unreasonably impaired should stay with the property owner. It is not the state’s responsibility to go beyond showing a rational, impartial reasoning for its land use specifications.
+
+Discussion
+The majority shuns the use of a strict “specific and uniquely attributable” test because it is too rigorous given the nature of the interests. On the other hand, it finds the “reasonable relationship” test is too easily confused with the low level of scrutiny required for the “rational basis” test. So, the majority chooses a compromise that is more closely akin to a rational relationship.
+

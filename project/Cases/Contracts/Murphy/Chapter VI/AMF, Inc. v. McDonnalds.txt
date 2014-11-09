@@ -1,0 +1,21 @@
+Citation
+22 Ill.536 F.2d 1167 (7th Cir. 1976)
+
+Brief Fact Summary
+McDonalds (Defendant), contracted with AMF Inc. (Plaintiff) to build automated cash registers for its stores. After the prototype kept breaking down and Plaintiff and Defendant could not agree on performance and reliability standards for the new cash registers, Defendant canceled the order.
+
+Synopsis of Rule of Law
+One acts in accordance with the Uniform Commercial Code (UCC) when, upon finding reason to doubt the other party will perform a contract, one communicates the wish for assurance, even if it is not a written request for assurance. If assurance is not given, one has the right to back out of the contract.
+
+Facts
+Plaintiff and Defendant entered into a contract to build automated cash registers for the Defendant’s stores. Plaintiff installed the prototype in one of Defendant’s stores.
+
+Issue
+Was trial court correct in finding that Defendant was justified in canceling the contract according to the UCC?
+
+Held
+Yes.
+
+Discussion
+To justify canceling a contract, one must 1) justifiably doubt the other party’s ability to perform; 2) ask for assurance; and 3) not get assurance.
+

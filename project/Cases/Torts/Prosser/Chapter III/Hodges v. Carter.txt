@@ -1,0 +1,21 @@
+Citation
+306 Fed. Appx. 332
+
+Brief Fact Summary
+The Plaintiff, Hodges (Plaintiff), is suing the Defendants, his former attorneys (Defendants), alleging that they negligently prosecuted his insurance claims against out of state insurance companies when the attorneys failed to properly serve the complaints.
+
+Synopsis of Rule of Law
+Attorneys are not liable for errors in judgment or mistakes of law if they are made in good faith and the attorney uses reasonable care and diligence that other attorneys similarly situated would use.
+
+Facts
+The Plaintiff lost his drug store in a fire in 1948 and subsequently filed four separate insurance claims pursuant to policies he held. The four claims were denied and the Plaintiff then sought recovery in the courts. In four separate actions, the Defendants served each insurance company through the Commissioner of Insurance. The insurance companies claimed improper service of process and the trial courts concluded that service was proper. However, that decision was appealed and reversed by the Supreme Court of North Carolina. In 1952, the Plaintiff then filed this suit against the Defendants alleging they were negligent in prosecuting his actions. The trial court found for the Defendants and the Plaintiff now appeals.
+
+Issue
+Whether Plaintiff’s attorneys were negligent in failing to properly serve the Plaintiff’s complaints against his insurance companies.
+
+Held
+The Defendants were not negligent in the prosecution of Plaintiff’s cases against the insurance companies.
+
+Discussion
+An attorney is not liable for an error of judgement or for a mistake made on a point of law, when that point of law has not been settled by the highest court in the jurisdiction. An attorney is liable for loss to the client that results from a lack of knowledge or skill that would ordinarily be possessed by others in the profession, failure to use reasonable care and diligence and failure to exercise good faith. Because the Defendants followed a custom that had been in place in North Carolina regarding service of process for twenty years and because the Defendants had obtained a judicial declaration from the Superior Courts that the Commissioner’s acceptance of service subjected the insurance companies to the court’s jurisdiction, they did not act negligently in prosecuting the Plaintiff’s case.
+

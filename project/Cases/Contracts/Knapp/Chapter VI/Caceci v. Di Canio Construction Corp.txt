@@ -1,0 +1,21 @@
+Citation
+22 Ill.72 N.Y.2d 52, 530 N.Y.S.2d 771, 526 N.E.2d 266 (1988)
+
+Brief Fact Summary
+Plaintiffs Mary and Thomas Caceci brought suit against Defendant builder of their home five years after the home was constructed. Plaintiffs alleged that Defendant builders violated the implied warranty of merchantability by building on an unstable foundation which caused the kitchen floor to dip.
+
+Synopsis of Rule of Law
+New York courts recognize the Housing Merchant warranty, which imposes a contractual liability to build new homes with skillful performance and quality. Thus, the common law rule of Caveat Emptor may not be invoked in the context of new home construction.
+
+Facts
+Defendants entered into a $50,000 construction agreement with Plaintiff to build a new home. The construction contract, which contained a standard integration clause, gave Plaintiffs an express warranty for one year from title closing for replacement or repair of any defects or defective parts. Although the contract did contain several other limited warranties pertaining to workmanship, the contract explicitly held that such warranties would not survive past the date of closing.
+
+Issue
+Whether an implied warranty of merchantability exists with respect to newly constructed homes.
+
+Held
+The Court of Appeals affirmed the lower court’s decision that Defendants breached the implied warranty of merchantability by erecting the house on poor soil. The Court of Appeals held that with respect to new houses, construction must be done in a skillful manner free from any material defects. The Court of Appeals departed from the lower court’s ruling and said that it is immaterial whether the Defendant builders had actual knowledge of the defect. The Court held that since builders are in a much better position than buyers to ensure the proper quality of the home, the burden should fall on such builders. Thus, any material defect in the quality of a home will be a breach of the implied warranty of merchantability irrespective of whether the builder has actual notice of the defect or not.
+
+Discussion
+An implied warranty of merchantability will be read into all construction contracts for new homes. The burden for furnishing a new home without material defect will fall on the builder, and thus the builder’s actual knowledge of the defect is not necessary in order for a breach to o
+

@@ -1,0 +1,21 @@
+Citation
+247 Conn. 293, 721 A.2d 526, 1998 Conn.
+
+Brief Fact Summary
+The Plaintiff, Joseph Grigerik (Plaintiff), sued the Defendant, Gary Sharpe (Defendant), to recover for breach of a contract entered into by the Defendant and the Plaintiff’s predecessor in title.
+
+Synopsis of Rule of Law
+In order for a third party to be a third party beneficiary under a contract, both parties to the contract must intend that the third party be a third party beneficiary.
+
+Facts
+The Plaintiff contracted to buy a tract of undeveloped land from Edward Lang (Lang). Before the sale, Lang contracted with the Defendant to prepare a site plan for drainage, including the design of a septic sewage-disposal system. The site plan was completed and approved by the town sanitarian and the sale of the land went through. However, when the Plaintiff applied for a building permit, it was denied. A new town sanitarian and state authorities concluded that the tract was unsuitable for a septic system. The Plaintiff thereafter sued the Defendant for negligence and breach of contract.
+
+Issue
+Can the Plaintiff sue the Defendant for breach of contract even though the Plaintiff was not a party to the contract?
+
+Held
+No. A third party is only a third party beneficiary of a contract if both parties to the contract intend that he be a beneficiary of the contract. Being a foreseeable beneficiary is insufficient. The third party must be an intended beneficiary. In the present case, the Plaintiff purchased land from the person who contracted with the Defendant to prepare a site plan for the land. While it is foreseeable that the seller of the property would sell the land to the Plaintiff, the seller and the Defendant did not intend that the Plaintiff would be a beneficiary of the contract. Thus, the Plaintiff’s breach of contract claim is barred.
+
+Discussion
+A third party to a contract cannot recover under the agreement unless he is an intended beneficiary of the agreement.
+

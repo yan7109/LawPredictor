@@ -1,0 +1,21 @@
+Citation
+22 Ill.227 N.W.2d 169 (Iowa 1975)
+
+Brief Fact Summary
+Plaintiff C & J Fertilizer, Inc. purchased a burglary policy from Defendant Allied Mutual Insurance Co. After Plaintiff’s premises were burglarized, Defendant denied coverage under the policy on the basis that there were no visible marks or physical damage to the exterior of the premises.
+
+Synopsis of Rule of Law
+To apply the reasonable expectations doctrine, the Court looks at the reasonable expectations of the parties when there is an adhesion contract and interprets any non-bargained for terms according to the reasonable expectations of the non-drafting party
+
+Facts
+Plaintiff had a burglary policy issued by Defendant. In April of 1970, equipment was stolen from Plaintiff’s premises. There were no signs of forced entry on the outside of the building, but there were signs of forced entry on the inside of the building. However, there were tread marks near a door to the warehouse that could be forced open without leaving visible marks or damage. The burglary policy stated that it only covered where there are “visible marks made by tools, explosives, electricity or chemicals upon, or physical damage to, the exterior of the premises at the place of . . . entry.” Prior to the purchase of the policy, an agent of Defendant informed Plaintiff during their conversation about coverage that there needed to be visible evidence of burglary for a burglary to be covered under the policy. Defendant denied coverage for the burglary under the policy. Defendant’s agent who sold Plaintiff the policy was surprised.
+
+Issue
+Did the burglary definition in the policy violate Plaintiff’s reasonable expectations?
+
+Held
+Yes. The burglary definition in the policy violated Plaintiff’s reasonable expectations.
+
+Discussion
+In the present case, Defendant’s definition of burglary in the policy violated Plaintiff’s reasonable expectations of what would be covered under the policy.
+

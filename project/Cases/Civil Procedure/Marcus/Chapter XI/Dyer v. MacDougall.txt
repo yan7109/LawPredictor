@@ -1,0 +1,21 @@
+Citation
+201 F.2d 265 (2d Cir. 1952)
+
+Brief Fact Summary
+Dyer (Plaintiff) appeals from a judgment dismissing two counts of Plaintiff’s complaint for libel and slander.
+
+Synopsis of Rule of Law
+In opposing a motion for summary judgment, the opposing party cannot rely on credibility evidence alone to ensure that the case goes to the jury.
+
+Facts
+Plaintiff appeals from the granting of a Motion for Summary Judgment on the libel and slander counts in the complaint. The first count, which was not the subject of summary judgment, alleged that Albert E. MacDougall (Defendant) told the Plaintiff in front of a meeting of the Queensboro Corporation that Plaintiff was stabbing him in the back. The second count, which was also not the subject of the decision, alleged that Defendant wrote a letter to Plaintiff’s wife stating that the Plaintiff made false representations to clients and presented bills for work not done. The first of the counts that is subject to summary judgment, alleges that Defendant said to a lawyer that a letter sent out by the Plaintiff to shareholder of Queensboro Corporation was a blackmailing letter. The final count alleged that Mrs. MacDougall, Defendant’s wife who is also a Defendant, said to the Plaintiff’s wife that the Plaintiff had written and sent out a blackmailing letter. Defendants moved for summary judgment dismissing the second, third and fourth counts. Each of the Defendants denied the utterance of the slanders. Defendants filed an answer denying the defamatory utterances. The judge decided Defendant’s Motion for Summary Judgment, and dismissed the third and fourth count on the ground that upon the trial, the Plaintiff would have no evidence to offer in support of the slanders except the testimony of witnesses.
+
+Issue
+Whether there was any genuine issue of fact as to the utterance of the slanders?
+
+Held
+No. Judgment affirmed.   Summary judgment in a defamation action was granted in favor of Defendants due to the production of evidence that everyone whom the alleged defamation was published denied receiving such statements. Defendants had the burden of proving that there was no issue of fact, however at trial, the Plaintiff will have the burden of proving the utterances; and thus if Defendants succeeded in proving that the Plaintiff would not have enough evidence to go to the jury on the issue, the judgment granting the Defendant’s Motion for Summary Judgment would be correct. If the case went to trial, the Plaintiff would have no witnesses by whom he could prove slander. Even though it may be possible that the party having the affirmative might succeed in convincing a jury of the truth of his allegations in spite of the fact that all the witnesses denied them, a verdict would still have to be directed against him.     The likelihood that an examination in open court will provide the Plaintiff with information from four witnesses’ admissions that he would not have obtained from the depositions that he refused is remote.
+
+Discussion
+This case overrules Arnstein v. Porter, 154 F.2d 464 (2nd Cir. 1946), which held that when credibility of the parties is at issue, summary judgment is improper and a trial is indispensable.   CHAPTER VII. Judicial Supervision Of Pretrial And Promoti
+

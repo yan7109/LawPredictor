@@ -1,0 +1,21 @@
+Citation
+22 Ill.501 U.S. 1, 111 S. Ct. 2105, 115 L. Ed. 2d 1 (1991)
+
+Brief Fact Summary
+John DiGiovanni applied for attachment of real estate owned by Respondent in connection with a complaint filed by DiGiovanni against Respondent for assault. The attachment was made pursuant to a Connecticut statute. Respondent filed suit in federal court claiming the statute was unconstitutional.
+
+Synopsis of Rule of Law
+A statute that allows for a prejudgment remedy via attachment of property in connection with a lawsuit upon a showing of probable cause that the  applicant will prevail in the lawsuit is unconstitutional in that it deprives the property owner of his property without due process of law.
+
+Facts
+DiGiovanni applied for attachment of property owned by Respondent Doehr in connection with a complaint DiGiovanni instituted against Respondent alleging assault and battery. A Connecticut statute allowed for such attachment prior to a hearing so long as there was probable cause for the basis of attachment. In addition, the statute provided that the property owner be notified, that he had a right to a hearing, and that the probable cause decision was subject to judicial review. Respondent filed a petition in federal court claiming that the Connecticut statute violated the due process clause of the 14th amendment. The District Court upheld the statute. On appeal, the Second Circuit  reversed. Connecticut appealed from that ruling.
+
+Issue
+Does the Connecticut statute that allows a person to attach the property of another prior to a hearing based on a civil lawsuit that does not relate to the property violate the due process clause of the Fourteenth Amendment?
+
+Held
+Yes. The Second Circuit’s decision is upheld and the case remanded for further proceedings.    Prejudgment remedy statutes must have adequate procedural safeguards to protect the deprivation of the  individual’s property and there must be a low risk of erroneous deprivation in order to be constitutional. The  risk of erroneous deprivation is high in that the standard of “probable cause” is likely to diverge from an  actual verdict by a judge or jury that would justify attachment. The procedural safeguards are inadequate in  light of the high risk of erroneous deprivation. There are not exigent circumstances suggesting that the  property would be disposed of if not attached prior to a hearing. A bond is not sufficient to remedy the deficient prejudgment remedy statute.    Concurrence. Justice Rehnquist: The discussion regarding exigent circumstances and requirement of a bond is unnecessary in light of the “deprivation” that occurred and the lack of procedural safeguards protecting the person. (The concurring opinion of Justice Scalia is omitted from the casebook).
+
+Discussion
+The majority’s opinion demonstrates that statutes allowing for the taking of property by a private citizen from another prior to a hearing have significant due process implications. Such statutes are unlikely to be upheld if the reason for the attachment does not pertain to the property attached.
+

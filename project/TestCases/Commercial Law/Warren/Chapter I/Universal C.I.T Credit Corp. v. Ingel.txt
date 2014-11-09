@@ -1,0 +1,21 @@
+Citation
+347 Mass. 119, 196 N.E.2d 847,1964 Mass. 728, 2 U.C.C. Rep. Serv. (Callaghan) 82
+
+Brief Fact Summary
+This is an appeal from a directed verdict in favor of the plaintiff.  The plaintiff is the assignee of the payee of a promissory note.  The defendant refuses to pay on the note due to a contract dispute between the defendant and the payee on the note.
+
+Synopsis of Rule of Law
+“Any writing to be a negotiable instrument must contain an unconditional promise or order to pay a sum certain in money and no other promise, order, obligation or power given by the maker or drawer except as authorized by this Article”
+
+Facts
+The defendant, Ingel (the “defendant”), excepted to a finding of a directed verdict in favor of the plaintiff, Universal C.I.T Credit Corp., (the “plaintiff”) in the amount of $1,630.12.  The defendant also excepted to the exclusion of certain evidence.
+
+Issue
+Was the trial court correct in finding that the note is a negotiable instrument and that the exclusion of certain evidence was proper?
+
+Held
+Yes. The court found that the note was a negotiable instrument, therefore, payment on the note was required. Massachusetts General Laws Section: 3-104 (1) (b) states, “Any writing to be a negotiable instrument within this Article must . . . contain an unconditional promise or order to pay a sum certain in money and no other promise, order, obligation or power given by the maker or drawer except as authorized by this Article.” The court found that the provision in the note for “interest after maturity at the highest lawful” rate does not render the note nonnegotiable for failure to state a sum certain as required by Section: 3-104 (1) (b). The interest rate after maturity would be the interest rate indicated in the Annotated Laws of Massachusetts.  Therefore, the note would be treated no differently from a negotiable note payable “with interest.” The court further found that the alteration on the face of the note had no effect on the case because the alteration had no effect on the sum owed o
+
+Discussion
+The interest rate indicated in the Annotated Laws of Massachusetts is, “If there is no agreement or provision of law for a different rate, the interest of money shall be at the rate of six dollars on each hundred for a year, but, except as provided in sections seventy-eight, ninety, ninety-two, ninety-six and one hundred of chapter one hundred and forty, it shall be lawful to pay, reserve or contract for any rate of interest or discount. No greater rate than that before mentioned shall be recovered in a suit unless the agreement to pay it is in writing.”
+

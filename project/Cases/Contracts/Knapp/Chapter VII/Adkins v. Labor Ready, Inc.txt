@@ -1,0 +1,21 @@
+Citation
+22 Ill.303 F.3d 496, 8 WH Cases2d 7 (4th Cir. 2002)
+
+Brief Fact Summary
+Adkins, individually and on behalf of 63 other employees, brought suit against Labor Ready in Federal Court, alleging violations of federal and state labor laws.
+
+Synopsis of Rule of Law
+An arbitration agreement that is conditional to employment is not necessarily unconscionable. Particularly, if an arbitration agreement cannot be proven to be flawed, a disparity in bargaining position, alone, will not support a finding of unconscionability.
+
+Facts
+In response to Adkins’ suit, which was proposed as a class action under the Fair Labor Standards Act (FLSA), Labor Ready filed a Motion to Compel Arbitration, based on an agreement which was signed by all employees, upon employment. Adkins countered, arguing that the employees did not receive consideration for their agreement to arbitrate, that said agreement was unconscionable, and unenforceable as it was a condition to employment. The District Court granted the motion and Adkins appealed alleging the agreement was unenforceable.
+
+Issue
+Is an arbitration clause, which is conditional to employment, binding upon employees of a temporary labor agency?
+
+Held
+Yes. Affirmed. In Affirming the ruling of the District Court, the Fourth Circuit outlined several rules for considering an arbitration agreement:
+
+Discussion
+When considering the enforceability of Arbitration agreements, it is important to consider that there is a strong presumption in favor of enforcement. An arbitration agreement will fail only if the challenging party can show that it did not understand and thereby did not consent to the agreement. And, even then, a showing of unconscionability must usually be coupled with the existence of the agreement.
+

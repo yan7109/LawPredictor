@@ -1,0 +1,27 @@
+Citation
+532 U.S. 1009
+
+Brief Fact Summary
+A number of members of a New York City criminal organization were indicted on charges relating to conspiracy in the construction industry. Two individuals testified at a grand jury proceeding under a grant of immunity, but later refused to testify at trial, citing their Fifth Amendment constitutional right not to incriminate themselves.
+
+Synopsis of Rule of Law
+Federal Rule of Evidence (”F.R.E.”) Rule 804(b)(1) requires that proof be made that there was a prior opportunity to cross examine the witness, and that a similar motive to so cross examine was present.
+
+Facts
+At trial, the District Court judge did not allow the testimony from the grand jury proceedings to be read into the record, holding that the Government’s motivation in examining someone at a grand jury proceeding was much different than the motivation of a prosecutor at trial. The Second Circuit Court of Appeals (”Second Circuit”) reversed, holding that the motivation of the cross examiner should be irrelevant when the government examines someone at a grand jury proceeding under a grant of immunity and they then refuse to testify at trial. The Supreme Court of the United States (”Supreme Court”) granted certiorari.
+
+Issue
+Whether F.R.E Rule 804(b)(1) allows a criminal defendant to introduce the grand jury testimony of someone who asserts their Fifth Amendment constitutional privilege at trial?
+
+Held
+No.  Proof of a similar motive is required, and that proof was not presented in this case.
+
+Dissent
+Justice John Paul Stevens (”J. Stevens”) dissented on the grounds that the government had an adequate opportunity and similar motive to cross examine at the grand jury proceeding, and that the government’s choice not to conduct a rigorous cross examination is no reason not to later hold them accountable for having had the opportunity.
+
+Concurrence
+Justice Harry Blackmun (”J. Blackmun”) concurred to reiterate that proof of a similar motive was not the same as proof of an identical motive, and that it should require a case by case factual inquiry in each case.
+
+Discussion
+The case is remanded to the District Court for further consideration of whether a similar motive existed in the grand jury proceedings and the subsequent trial. Adversarial fairness requires that a similar motive be shown, else the prior opportunity to cross examine is a hollow one that did not contain in it the protections against erroneous evidence that the hearsay rule is designed to protect against.
+

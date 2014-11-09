@@ -1,0 +1,21 @@
+Citation
+412 U.S. 291, 93 S. Ct. 2000, 36 L. Ed. 2d 900 (1973)
+
+Brief Fact Summary
+An individual was convicted of murdering his wife.  The police took samples of physical evidence without the permission of the individual.
+
+Synopsis of Rule of Law
+“On the facts of this case, considering the existence of probable cause, the very limited intrusion undertaken incident to the station house detention, and the ready destructibility of the evidence, we cannot say that this search violated the Fourth and Fourteenth Amendments.”
+
+Facts
+The Respondent, Daniel Murphy (the “Respondent”), was convicted of the second degree murder of his wife.  After learning of the murder, the Respondent called the police and voluntarily submitted to questioning.  During the questioning, the police noticed a dark spot on the Respondent’s finger.  The police thought the spot could have been dried blood and during the questioning asked the Respondent if they could have a sample of what was under his fingernail.  He refused.  Irrespective of his protests, the police took a sample.  It turned out that there were traces of skin, blood and fabric from the deceased’s nightgown in the sample.  The evidence was admitted at trial.
+
+Issue
+Whether the taking of trace evidence from beneath the Respondent’s fingernails without the permission of the Respondent was unlawful?
+
+Held
+“[T]his search was constitutionally permissible under the principles of [Chimel v. California].”  “Chimel stands in a long line of cases recognizing an exception to the warrant requirement when a search is incident to a valid arrest.  The basis for this exception is that when an arrest is made, it is reasonable for a police officer to expect the arrestee to use any weapons he may have and to attempt to destroy any incriminating evidence then in his possession.  The Court recognized in Chimel that the scope of a warrantless search must be commensurate with the rationale that excepts the search from the warrant requirement.  Thus, a warrantless search incident to arrest, the Court held in Chimel, must be limited to the area ‘into which an arrestee might reach.’ ”
+
+Discussion
+This case further elaborates on the concept of a search incident to an arrest.
+

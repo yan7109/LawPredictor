@@ -1,0 +1,24 @@
+Citation
+486 U.S. 35, 108 S. Ct. 1625, 100 L. Ed. 2d 30 (1988)
+
+Brief Fact Summary
+The respondent, Greenwood (the “respondent”), was arrested for narcotics trafficking based upon evidence obtained as a result of a police search of his trash.  The California Supreme Court upheld the dismissal of charges on the ground that the California Constitution declared such searches as unconstitutional.  The State petitioned for review.
+
+Synopsis of Rule of Law
+An expectation of privacy does not give rise to Fourth Amendment constitutional protection unless society is prepared to accept that expectation as objectively reasonable.
+
+Facts
+Police with the Laguna Beach Police Department received information that the respondent might be trafficking narcotics.  The police asked the regular trash collector to gather the respondent’s trash and keep it separate from the other trash in the neighborhood, so that it might be examined for evidence of narcotics trafficking.  Evidence was found in the garbage, and a search warrant was issued to search the respondent’s house based upon that evidence.  Police searched the respondent’s house and arrested him after discovering narcotics.  Respondent posted bail.  The police continued to receive reports of narcotics trafficking at the respondent’s house.  A second search of the respondent’s trash was conducted and again a search warrant was issued in which more narcotics were found in the house.  The respondent was again arrested.  The Superior Court dismissed the charges stating that warrantless searches of trash violated the Fourth Amendment and the California Constitution.  T
+
+Issue
+Whether a person has a subjective expectation of privacy in their garbage that society accepts as objectively reasonable?
+
+Held
+Justice Byron White (”J. White”) held that no such subjective expectation of privacy existed.  An expectation of privacy does not give rise to Fourth Amendment constitutional protection unless society is prepared to accept that expectation as objectively reasonable.  The respondent exposed his garbage to the public to sufficiently defeat the claim to Fourth Amendment constitutional protection.  Garbage left at the side of the road is readily accessible to animals, children, scavengers, snoops, and other members of the public.  Moreover, the garbage was placed at the curb for the purpose of conveying it to a third party.  Therefore, the respondent could have had no reasonable expectation of privacy in the items discarded.  What a person knowingly exposes to the public, even in his home or office, is not a subject of Fourth Amendment constitutional protection.
+
+Dissent
+Justice William Brennan (”J. Brennan”) filed a dissenting opinion joined by Justice Thurgood Marshall (”J. Marshall”).  So long as a package is closed against inspection, the Fourth Amendment protects its contents, wherever they may be, and the police must obtain a warrant to search it.  The respondent deserves no less protection just because he used the bags to discard rather than transport his personal effects.  Their contents are not any less private, and the respondent’s desire to discard them in the manner in which he did does not diminish his expectation of privacy.  Had the respondent flaunted his intimate activity by strewing his garbage over the curb for all to see, or had some governmental intruder done the same, the resulting belief would be that this is unreasonable.  However, the mere possibility that unwelcome meddlers might open and rummage through the containers does not negate the expectation of privacy.
+
+Discussion
+The expectation of privacy must be reasonable for Fourth Amendment constitutional protection to stand.
+

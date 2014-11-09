@@ -1,0 +1,21 @@
+Citation
+104 Wash.2d 677, 709 P.2d 782 (Wash. 1985).
+
+Brief Fact Summary
+Defendant American Smelting and Refining Co. operated a smelter near the Plaintiff Bradley’s property. As a result of its operations, Defendant’s smelter caused various gases and particulate matter, imperceptible to the naked eye, to be deposited upon Plaintiffs’ property. Plaintiff sued to recover for trespass and nuisance.
+
+Synopsis of Rule of Law
+Trespass is the interference of one’s right to exclusive possession of land, while nuisance is the interference with one’s right to exclusive use and enjoyment of land. Accordingly, particles that quickly dissipate may give rise to a nuisance action while particles that are deposited and do not pass away may give rise to an action in trespass. However, the prior rule that any trespass whatsoever entitles a landowner to nominal or punitive damages is no longer appropriate or workable in these circumstances. Actual damages must now be proven to sustain a trespass claim.
+
+Facts
+Plaintiffs, an association of landowners on an island, sued Defendant, the operator of a nearby smelter, for trespass and nuisance due to gaseous and particulate emissions. The parties filed cross-motions for summary judgment, and the United States District Court for the Western District of Washington certified the matter for the Supreme Court of Washington.
+
+Issue
+Are Plaintiffs entitled to nominal or punitive damages as a matter of law due to the interference with their exclusive possession, use, and enjoyment of their land by gaseous and particulate emissions?
+
+Held
+No. The matter was remanded with instructions that actual damages needed to be shown for recovery.
+
+Discussion
+The Court is clearly mindful that the common law rule would require recovery of at least nominal damages for any trespass, no matter how minimal. Based upon these facts, however, and paying particular attention to policy considerations of safeguarding industries against widespread and unnecessary litigation, the Court requires that actual and substantial damages be shown for one to recover for trespass.
+

@@ -1,0 +1,24 @@
+Citation
+479 U.S. 367, 107 S. Ct. 738, 93 L. Ed. 2d 739 (1987)
+
+Brief Fact Summary
+The respondent, Steven Lee Bertine (the “respondent”), was arrested for driving under the influence, and a routine inventory of his impounded car revealed drug paraphernalia.
+
+Synopsis of Rule of Law
+There is no warrant requirement, under the Fourth Amendment of the United States Constitution (”Constitution”), to search a vehicle under a routine inventory search.
+
+Facts
+An officer performed a routine inventory search of the respondent’s vehicle before the vehicle was towed to an impoundment lot.  During the search, the officer found drug paraphernalia that led to charges of unlawful possession.  The respondent moved to suppress the evidence, and the Supreme Court of Colorado agreed.
+
+Issue
+Whether a warrant is required to perform a routine inventory search?
+
+Held
+The Supreme Court held that inventory searches were reasonable under the Fourth Amendment of the Constitution.  The Supreme Court noted that there were several policy reasons that would support the searches, namely to protect the owner’s property as well as to guard the police from not only accusations of lost property, but also to guard against any physical danger from anything in the vehicle.
+
+Dissent
+The dissenting opinion finds faults in the majority’s application of the standard procedures requirement to the facts of this case.  In this case, the officer had three options on how to handle the vehicle, and the option this officer chose gave him unbridled discretion to search.
+
+Discussion
+The Supreme Court notes that the inventory searches should be in good faith, and that there was a standard procedure that was followed.  However, as the dissenting opinion indicated, “standard procedure” is a vague term that encompassed, in their opinion, too much.  The majority counters that the police should not be required to have the best procedure possible, just a reasonable one.
+

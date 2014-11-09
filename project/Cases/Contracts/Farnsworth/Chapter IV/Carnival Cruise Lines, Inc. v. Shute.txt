@@ -1,0 +1,24 @@
+Citation
+499 U.S. 585, 111 S. Ct. 1522, 113 L. Ed. 2d 622 (1991)
+
+Brief Fact Summary
+Appellees Eulala and Russel Shute, purchased tickets to take a cruise on a vessel owned by Appellant Carnival Cruise Lines, Inc. The tickets contained language stating that the tickets were subject to the conditions of the contract, which contained a forum selection clause. When Eulala Shute was injured on the cruise ship, Appellees sued, and the forum selection clause was challenged.
+
+Synopsis of Rule of Law
+Forum selection clauses contained in form passage contracts are subject to judicial scrutiny for fundamental fairness.
+
+Facts
+Appellees purchased tickets for a cruise on one of the petitioner’s ships from a travel agent in the state of Washington. The agent then forwarded the payment to the petitioner’s headquarters in Florida. On the face of each ticket was a statement indicating that the plaintiffs were subject to the conditions of the contract, which included a forum selection clause stating that all disputes shall be litigated in Florida. During the cruise, Appellee Eulala Shute fell and hurt herself. Appellees filed suit against Appellant in the Federal court in Washington. Appellants challenged the suit on the ground that the forum selection clause forbids litigation in any venue except Florida.
+
+Issue
+Is the forum selection clause valid and enforceable?
+
+Held
+Yes. A forum selection clause is to be examined for fundamental fairness. Here, Appellant did not arbitrarily set Florida as a forum to discourage suits against it. Appellant has its principal place of business in Florida, and many of its cruises depart from and return to Florida ports. Further, there is no evidence that Appellant procured Appellees accession to the forum selection clause by fraud or overreaching. Appellees were made aware of the clause and accepted the contract. Hence, the forum selection clause is valid.
+
+Dissent
+Appellees could not have read the forum selection clause before they received the tickets they purchased. However, once they received the tickets, they were nonrefundable. Hence, Appellees had to agree to the forum selection clause or not travel. Further, contract provisions that limit the place or court in which an action may be brought are invalid as against public policy.
+
+Discussion
+Forum selection clauses must be scrutinized for fundamental fairness but are generally valid.
+

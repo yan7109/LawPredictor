@@ -1,0 +1,24 @@
+Citation
+967 S.W.2d 410, 1998 Tex. Crim. App.
+
+Brief Fact Summary
+At the murder trial of Arnold E. Johnson (Appellant), the prosecution introduced evidence that implicated Appellant in a previous murder, even though Appellant was ultimately acquitted of that crime.  Also during Appellant’s trial, a prosecution witness’s previously recorded statement was read into evidence, despite the witness’s indication that he had no recollection of the events to which his statement referred.  At the conclusion of the trail, Appellant was found guilty of murder and sentenced to death; Appellant appeals that conviction here.
+
+Synopsis of Rule of Law
+At a defendant’s murder trial, evidence of extraneous offenses for which the defendant was acquitted is inadmissible; also, evidence is inadmissible under the Texas equivalent of Federal Rule of Evidence 803(5) when there is no evidence that a witness had firsthand knowledge of an event and there is no testimony given that the witness’s memory was correctly transcribed or that the factual assertions contained in the statement were true.
+
+Facts
+Frank Johnson, Jr. (Victim) was killed during a robbery that allegedly involved Appellant and various other men, one of which was Reginald Taylor (Witness).  Witness gave a statement to police following the crime; in the statement, Witness indicated that Appellant was responsible for the murder of Victim.
+
+Issue
+Did the lower court commit reversible error by:
+
+Held
+Reversed and remanded.
+
+Concurrence
+Judges Baird, Meyers, and Holland concur in the result; Judges Keller and Womack concur as to point of error one and otherwise join the opinion of the Court.
+
+Discussion
+As to the court’s holding regarding the extraneous offenses, the court points out that although evidence of extraneous offenses may, under certain circumstances, be admitted, when a defendant is acquitted, such evidence will not be admissible.  The court pointed out the harm of prejudice in allowing such evidence, and stated that, “the introduction of this extraneous offense [was] highly prejudicial . . . [and the] limiting instruction given to the jury regarding their ability to consider the extraneous offense . . . did not sufficiently diminish the harm.” As to the court’s holding regarding the admission of the past recollection recorded evidence, the court argued out that in order for evidence to be admissible under the state equivalent of Federal Rule of Evidence 803(5), four elements must be met.  Here, the court reasoned, two of those elements were not present, namely that the witness have firsthand knowledge of the event, and that the witness vouch for the accuracy of the written memorandum.  The court pointed out that the witness here, “did not testify regarding the basis of the allegations contained in his statement, i.e., whether he was present during the commission of the offense . . . [nor did the witness] guarantee[] that his memory was correctly transcribed or that the factual assertions contained in the statement were true.”  As a result, the court concluded, the evidence was inadmissible hearsay and should not have been admitted.
+

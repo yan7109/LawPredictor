@@ -1,0 +1,24 @@
+Citation
+433 U.S. 186, 97 S. Ct. 2569, 53 L. Ed. 2d 683, 1977 U.S.
+
+Brief Fact Summary
+Plaintiff Shaffer filed a class action suit in Delaware against 28 non-residents and simultaneously filed a motion to sequester property owned by those defendants located in the state of Delaware.
+
+Synopsis of Rule of Law
+The minimum contacts standard for jurisdiction applies to proceedings in rem as well as proceedings in personam.
+
+Facts
+Defendant Heitner, a non-resident of Delaware, is the owner of one share of stock in the Greyhound Corporation, a business incorporated in Delaware with its principal place of business in Arizona.  In 1974, Defendant filed a shareholder’s derivative suit in the Court of Chancery in Delaware against 28 present or former officers or directors (including Plaintiff) of the Greyhound Corporation. The activities which led to the suit being filed took place in Oregon.  Simultaneous with the suit Defendant filed a motion for sequestration of the property owned by the 28 individual defendants within the state of Delaware. A motion to sequester was ordered, and approximately 82,000 shares of Greyhound common stock belonging to 21 of the defendants was attached.  Those defendants filed a motion to quash service of process and to vacate the sequestration order. The Delaware courts rejected all of the defendants’ arguments, and this appeal followed.
+
+Issue
+Whether a court may take jurisdiction of a lawsuit by sequestering property of the non-resident defendant that happens to be located within the forum state, i.e.:
+
+Held
+No, the judgment of the Delaware Supreme Court upholding jurisdiction was reversed.
+
+Dissent
+Justice Brennan dissented in part. While fully agreeing that the minimum contacts standard should apply to actions in rem, he disagreed over what constituted such minimum contacts. Specifically, he found that as a general rule a state forum should have jurisdiction to adjudicate a shareholder derivative action centering on the conduct and policies of the directors and officers of a corporation chartered by that state.
+
+Discussion
+The Supreme Court in this case is essentially considering whether the standard of fairness and substantial justice, exemplified by minimum contacts, developed in International Shoe (362 U.S. 310, 1945) as applicable to in personam suits, should apply to actions in rem as well as in personam.
+

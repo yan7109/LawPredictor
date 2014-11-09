@@ -1,0 +1,21 @@
+Citation
+342 U.S. 519, 72 S. Ct. 509, 96 L. Ed. 541 (1952)
+
+Brief Fact Summary
+An individual convicted of murder filed a petition for Habeus Corpus.  Prior to being put on trial, the individual was forcibly seized, handcuffed, blackjacked in another state.
+
+Synopsis of Rule of Law
+If an individual is illegally seized out of state, an in state court can still try and convict.
+
+Facts
+The Respondent, Shirley Collins (the “Respondent”), filed a petition for Habeus Corpus in United States District Court.  The Respondent was in jail for murder.  The Respondent alleged that while he was living in Chicago, police officers from Michigan forcibly seized, handcuffed, blackjacked and brought him to Michigan.  The Respondent argued that this conduct violated the Fourteenth Amendment Due Process Clause and the Federal Kidnapping Act.  The District Court denied the writ.  The Court of Appeals reversed.
+
+Issue
+“[Whether] the Federal Kidnapping Act had changed the rule declared in prior holdings of this Court, that a state could constitutionally try and convict a defendant after acquiring jurisdiction by force?”
+
+Held
+The majority observed, “[t]his Court has never departed from the rule announced in [Ker v. Illinois], that the power of a court to try a person for crime is not impaired by the fact that he had been brought within the court’s jurisdiction by reason of a ‘forcible abduction.’ ”  “There is nothing in the Constitution that requires a court to permit a guilty person rightfully convicted to escape justice because he was brought to trial against his will.”
+
+Discussion
+This case provides an interesting example of how the Supreme Court accounts for law enforcement’s interests.
+

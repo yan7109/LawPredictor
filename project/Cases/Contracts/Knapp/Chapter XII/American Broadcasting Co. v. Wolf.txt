@@ -1,0 +1,24 @@
+Citation
+22 Ill.52 N.Y.2d 394, 438 N.Y.S.2d 482, 420 N.E.2d 363 (1981)
+
+Brief Fact Summary
+This case involves a personal service contract containing a good faith-negotiation and first-refusal provision, which barred the employee from negotiating with other prospective employers for a specified period of time prior to the expiration of his contract. It also required the employee to inform his employer of any other employment offers he received.
+
+Synopsis of Rule of Law
+Courts will only use injunctive relief to remedy a breach of a personal service contract where there is an existing non-competitive agreement and where an injunction is necessary to protect the employer from irreparable economic harm.
+
+Facts
+Defendant, Warner Wolf, was a sportscaster with Plaintiff, American Broadcasting Companies. The parties had entered into an employment agreement, which was to terminate on March 5, 1980. The agreement contained a renewal option, which required Defendant to negotiate in good faith with Plaintiff for the 90-day period from December 6, 1979 through March 4, 1980, the first 45 days of which were to be exclusive. Upon termination of the agreement, Defendant was required to give Plaintiff a right of first refusal until June 3, 1980, which meant that Defendant was to either refrain from accepting any job offers during this period or inform Plaintiff of the offer before he accepted. Without Plaintiff’s knowledge, Defendant began negotiations with CBS in October and ultimately entered into an agreement with CBS in February, after the exclusive period with Plaintiff had terminated. Defendant then resigned from his employment with Plaintiff and Plaintiff sued, claiming that Defendant bre
+
+Issue
+Is Plaintiff entitled to equitable relief where Defendant breached a good faith negotiation provision of his expired employment contract with Plaintiff?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+[Fuchsberg, J.]. The right of first refusal provision amounted to an express conditional covenant, which Defendant breached by entering into an employment agreement with CBS before the termination of Defendant’s employment agreement with Plaintiff.
+
+Discussion
+The majority bases its decision on the fact that courts have historically refused to force an individual to work for a particular employer. It particularly looks to the Thirteenth Amendment and policy considerations that favor free competition and an individual’s right to earn a living. The court notes that negative injunctive relief, preventing the employee from working for a particular employer, may be permissible where there is an express anticompetitive covenant and such relief is absolutely necessary to prevent the employer from facing irreparable harm. However, there is no such anticompetitive covenant in the instant case since the employment agreement has terminated.
+

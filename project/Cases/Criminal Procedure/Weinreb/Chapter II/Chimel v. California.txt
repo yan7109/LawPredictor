@@ -1,0 +1,27 @@
+Citation
+395 U.S. 752, 89 S. Ct. 2034, 23 L. Ed. 2d 685 (1969)
+
+Brief Fact Summary
+The defendant, Chimel (the “defendant”), was arrested inside his home and police asked him for consent to search the home.  The defendant refused the request.  The police proceeded nonetheless, incident to the lawful arrest and searched in different rooms.  The police also had the defendant’s wife open various dresser drawers and remove their contents.
+
+Synopsis of Rule of Law
+Incident to a lawful arrest, a search of any area beyond the arrestee’s immediate control, is unlawful under the Fourth Amendment of the United States Constitution (”Constitution”), unless there is a clear danger that evidence may be destroyed or concealed or there is an imminent threat of harm to the arresting officers.
+
+Facts
+The police came to Defendant’s home with an arrest warrant for an alleged burglary.  The police asked permission to “look around” the house.  The defendant refused the request and the police proceeded to search the home anyways.  The police also made the defendant’s wife remove contents of various dresser drawers.  The police seized coins and medals which were later used to convict the defendant of burglary.
+
+Issue
+Where a defendant is lawfully arrested inside his home, is a warrantless search of the area beyond the defendant’s immediate control constitutional?
+
+Held
+Any search in an arrestee’s home beyond arrestee’s person and the area within his immediate control is unreasonable under the Fourth Amendment of the Constitution.
+
+Dissent
+Where there is probable cause to search and there is a clear danger that the items which are the subject of the search may be removed prior to police obtaining a search warrant, a warrantless search of the area beyond an arrestee’s immediate control is reasonable under the Fourth Amendment of the Constitution.
+
+Concurrence
+Given the variety of circumstances which police encounter, this decision will create additional burdens on law enforcement.  Whether or not the warrant requirement will protect individual rights in each and every local situation is uncertain.
+
+Discussion
+Contemporaneous searches incident to a lawful arrest are reasonable to seize weapons as well as prevent the destruction or concealment of evidence.  Searches beyond the scope of these justifications are unreasonable under the Fourth Amendment of the Constitution.
+

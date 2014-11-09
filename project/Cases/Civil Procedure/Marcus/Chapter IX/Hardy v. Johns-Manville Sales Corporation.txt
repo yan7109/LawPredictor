@@ -1,0 +1,21 @@
+Citation
+681 F.2d 334, 1982 U.S. App. 11 Fed. R. Evid. Serv. (Callaghan) 99; CCH Prod. Liab. Rep. P9343
+
+Brief Fact Summary
+Insulators, pipefitters, carpenters, factory workers and others exposed to asbestos suffering from asbestos-related diseases sued various manufacturers, sellers and distributors of asbestos (Plaintiffs/Appellees) Plaintiffs asserted causes of action including negligence, breach of implied warranty and strict liability.
+
+Synopsis of Rule of Law
+Collateral estoppel is inappropriate when the prior judgment is ambivalent.
+
+Facts
+The district court entered a collateral estoppel order, because certain issues had been determined in Appellee’s favor by a judgment for unrelated Plaintiffs against six manufacturers of asbestos in Borel v. Fibreboard Paper Products Corp. The Appellants argued that Borel did not necessarily decide that asbestos-containing insulation products were unreasonably dangerous because of the failure to warn. The special interrogatories answered by the Borel jury were general and not specifically directed toward the failure to warn.
+
+Issue
+Can the doctrine of collateral estoppel be applied to preclude a subsequent action where the fact-finder in the previous action based its ultimate conclusion on one of several possible theories?
+
+Held
+No. Collateral estoppel should not apply to the case before the court because the Borel decision is, ultimately, ambiguous as to several key areas. The court noted that there is no way to know when the duty to warn attaches. Further, the court found that there was no way to know what particular failure in the duty to warn was the key element.
+
+Discussion
+The court stated that collateral estoppel only applies to issues of fact or law necessarily decided by a prior court. Since Borel did not ultimately decide that all manufacturers of asbestos-containing insulation products knew or should have known of the dangers of their products at all relevant times, collateral estoppel is an inappropriate remedy in this particular case.
+

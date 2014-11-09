@@ -1,0 +1,21 @@
+Citation
+22 Ill.336 F.2d 431 (2d Cir. 1964)
+
+Brief Fact Summary
+The Appellees, the Cross’s (Appellees), claimed they were entitled to an income tax refund on their joint returns for expenses Professor Cross incurred during foreign travels. The Appellees presented several affidavits from Professor Cross’s colleagues citing that the travel was necessary for a professor of languages. The district court granted summary judgment. The Appellant, the United States Government (Appellant), appealed citing triable issues of fact existed.
+
+Synopsis of Rule of Law
+Federal Rule of Civil Procedure Rule 56(c) (FRCP 56(c)) states that Summary Judgment is permitted only where there is no genuine issue as to any material fact.
+
+Facts
+The Appellees sought a tax refund of expenses they incurred while traveling to various Mediterranean and European countries. They stated the refund was due because the purpose of the trip was for Professor Cross to study the languages he taught. Several of the Professor’s colleagues submitted affidavits to the district court stating that foreign travel was necessary for a professor of romance languages. The district court, having reviewed the evidence, granted the Appellees summary judgment. The Appellant appealed. Appellees relied on Section 162(a) of the Internal Revenue Code of 1954 (IRC). The Appellees argued they were allowed a refund because Section 162(a) of the IRC allowed deductions to be taken for expenses for education. The Appellant disagreed, claiming the Appellees’ trip was a personal vacation and a personal living expense, not subject to any deductions. Hence, the Appellant argues a triable fact existed and the lower court erroneously granted summary judgment
+
+Issue
+Whether triable issues of fact existed to render a granting of summary judgment erroneous.
+
+Held
+Yes. Issues of triable fact existed in this case. The Appellant had a right to cross- examine Appellees as to the nature of their expenses and the educational benefits allegedly sought. Also the Appellant had a right to cross examine the professors who submitted affidavits. Reversed and remanded for trial.
+
+Discussion
+Summary judgment is inappropriate in cases where inferences are drawn as to motive, intent and subjective feelings and reactions. The court opined that before travel expenses could be treated as deductable, factual determinations had to be made as to whether the expenses were part of a vacation or for educational purposes. Also, factual determinations had to be made as to the amounts attributed to either the vacation or for educational purposes.
+

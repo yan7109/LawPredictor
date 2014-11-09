@@ -1,0 +1,21 @@
+Citation
+160 So. 831, 1935 La. App.
+
+Brief Fact Summary
+Plaintiff was injured after a gasoline container delivered by Defendant exploded while he was trying to remove its cap. The explosion occurred as a result of a spark caused by worn threads on the cap. Plaintiff sued to recover for his personal injuries.
+
+Synopsis of Rule of Law
+Foreseeability of a harm is the existence of such a likelihood of damage so as to induce action to take care against it on the part of a reasonably prudent person.
+
+Facts
+The Defendant delivered a gasoline container to Plaintiff for use in refueling a tractor. The container had been in use for about nine years and was in a state of considerable disrepair. When Plaintiff went to refuel the tractor, he removed the container’s cap and the gasoline exploded, causing him great injury. The jury found Defendant liable for Plaintiff’s injuries. Defendant appealed, arguing that the explosion was so unusual, extraordinary, and unforeseeable that they cannot be held liable for damages resulting from its occurrence.
+
+Issue
+Was the damage inflicted upon Plaintiff foreseeable so as to give rise to a claim for negligence based upon the failure to take steps to safeguard against it?
+
+Held
+Yes. The judgment was affirmed. The state of the gasoline container, as was known to Defendant, was such that a reasonable person should have anticipated that its disrepair could cause an explosion and thus should have taken care to safeguard against such a result. Defendant’s failure to do so subjected it to liability.
+
+Discussion
+This case attempts to define the concept of foreseeability. As the Court explains, such foreseeability as can give rise to negligence can be found when there exists sufficient likelihood of damage to induce a reasonably prudent person to take care against it.
+

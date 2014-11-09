@@ -1,0 +1,24 @@
+Citation
+169 F.3d 1210, 1999 U.S. App. 50 Fed. R. Evid. Serv. (Callaghan) 1453; 99 Cal. Daily Op. Service 1745
+
+Brief Fact Summary
+Ernestine James’s (Defendant-Appellant’s) boyfriend, David Ogden (decedent) was killed by Defendant-Appellant’s daughter, Jaylene Jeffries (Jeffries), and, as a result, Defendant-Appellant was convicted by a Federal District Court of the crime of aiding and abetting manslaughter.  At trial, Defendant-Appellant raised the defense of self-defense in the original action.  A dividend panel of the 9th Circuit Court of Appeals affirmed her conviction in her first appeal, and she appeals that decision here.  The 9th Circuit Court of Appeals reverses the conviction.
+
+Synopsis of Rule of Law
+Where a Defendant raises self-defense as a defense to a charge of manslaughter, it is improper under the Federal Rules of Evidence to exclude extrinsic evidence of the decedent’s violent nature that would have corroborated the Defendant’s testimony.
+
+Facts
+At the time of the homicide, Defendant-Appellant was the girlfriend of the deceased; there was a long and violent history between Defendant-Appellant, the deceased, and Defendant-Appellant’s daughter, Jeffries.  The homicide occurred outside a party Defendant-Appellant attended with Jeffries, the deceased, and Jeffries’ boyfriend, Michas Tiatano (Tiatano), after the deceased assaulted Tiatano and knocked him unconscious.  The gun that was used in the homicide was given to Jeffries by Defendant-Appellant, as admitted by both parties.  Jeffries asserted in her testimony, but Defendant-Appellant denied, that Defendant-Appellant showed Jeffries how to turn the “safety” mechanism off the gun.   The charge of aiding and abetting manslaughter was based on Defendant-Appellant’s action of handing the gun to Jeffries, when Defendant-Appellant was seated in a car and the decedent was outside the car.  Defendant-Appellant’s attorney was disallowed from showing the following to the jury a
+
+Issues
+Is corroboration of a prosecution witness by admission of criminal records permissible, even when such an admission may prejudice a defendant on trial? Did the District Court abuse its discretion under Federal Rule of Evidence 403 by not admitting the corroborating evidence based on the danger of unfairly prejudicing the jury against the decedent?
+
+Held
+The 9th Circuit Court of Appeals reverses the conviction, and holds as follows:
+
+Dissent
+The dissenting opinion is based on the discretion afforded the trial judge; the dissent argues that the instant court must “defer to the trial judge’s discretion, when the trial judge had a sensible reason for exercising his discretion as he did.”
+
+Discussion
+The majority holds that because the, “crux of [Defendant-Appellant's] defense rested on her credibility and because her credibility could be directly corroborated through the excluded documentary evidence, exclusion of the documents was prejudicial” to Defendant-Appellant.  The majority’s decision to reverse, therefore, was based on what it perceived as an error by the lower court in considering the prejudicial value of the evidence as it relates to the decedent, not to Defendant-Appellant.  Evidence of the decedent’s violent past behavior would have corroborated Defendant-Appellant’s testimony, and should have been admitted.<br />The dissent does not hold that the trial judge should have admitted or not admitted the evidence; rather, the dissent points out that the trial judge’s decision to not admit the evidence was based on “good reasons,” and therefore, that decision should be upheld.
+

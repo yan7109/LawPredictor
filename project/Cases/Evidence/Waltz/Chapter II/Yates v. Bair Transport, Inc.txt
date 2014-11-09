@@ -1,0 +1,21 @@
+Citation
+249 F. Supp. 681, 1965 U.S. Dist.
+
+Brief Fact Summary
+Before proceeding to trial, the parties involved in the case requested a decision on the admissibility of medical and police records.
+
+Synopsis of Rule of Law
+Business records will fall under the business records hearsay exception if there are factors, other than simply labeling the records as business records, regarding the preparation and purpose of the records that heighten the degree of trustworthiness.
+
+Facts
+The plaintiff was in an accident that required medical attention.  A police officer prepared an accident report, and medical personnel from both parties examined the plaintiff.  The plaintiff wanted the medical reports admitted, while the defendant wanted the police report admitted into evidence.
+
+Issue
+Whether a police report can be admitted into evidence under the business records hearsay exception? Whether medical reports prepared on behalf of the admitting party can be admitted into evidence under the business records hearsay exception? Whether medical reports prepared on behalf of the opposing party can be admitted into evidence under the business records hearsay exception?
+
+Held
+Although police reports are prepared routinely by officers in the course of their business, they cannot be admitted under the business record exception.  Contents of the report may be admissible under another hearsay exception, but the parties providing information in a police report are not as reliable as parties in a more traditional business record.  The parties here voluntarily gave the information to officers, information that would be considered hearsay if the officer testified at trial. Medical reports prepared on behalf of the admitting party are not admissible under the business records exception because they are prepared in lieu of litigation on behalf of that party.  There are no factors that lend credibility to the record. Medical reports prepared on behalf of the opposing party are admissible because there are factors that give weight to it’s credibility, namely that it was prepared for the opposing party
+
+Discussion
+The court asserts that nearly all legal commentators have advocated the inadmissibility of police records under the business records exception.  The court distinguishes prior cases that allowed police reports under the business records hearsay exception by arguing that those records could have been admitted under an alternative hearsay exception.  The prior courts, according to this court, were generally correct in admitting the evidence, but their reasoning was faulty. The statements made by parties to an officer are voluntary and lack the reliability of traditional information providers of business records.  The officer also acts in a capacity that is more substantial than a typical business record preparer because he assesses the statements to form his own conclusion.  The court emphasizes that the statements recorded in the report would not be admissible if the officer himself testified in court, and therefore a mere recordation of the statements should not change the outcome. The court cites Palmer v. Hoffman as precedent for not allowing records prepared solely for litigation.  Therefore the court does not admit reports from the plaintiff’s own doctors.  The plaintiff is allowed to admit the reports prepared by the defendant’s doctors.  The court reasons that these are similar to nature as admissions against party interest and are therefore trustworthy.
+

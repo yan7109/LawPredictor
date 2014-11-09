@@ -1,0 +1,21 @@
+Citation
+507 U.S. 170, 113 S. Ct. 1163, 122 L. Ed. 2d 525 (1993)
+
+Brief Fact Summary
+An organized crime control statute’s provision required clarification regarding whether nonparticipation in an organized crime could protect one from liability.
+
+Synopsis of Rule of Law
+To conduct or participate, directly or indirectly, in the conduct of an enterprise or affairs falling under Rackateer Influenced and Corrupt Organizations (RICO) one must participate in the operation or management of the enterprise itself.
+
+Facts
+The RICO chapter of the Organized Crime Control Act of 1970 was designed to control organized crime or criminal acts. A conflict in cases regarding RICO’s operation and management provision prompted this Court to grant certiorari. The district court ruled in favor of the Defendants. The court of appeals affirmed the judgment of the district court, but reversed the damage award and remanded for a new trial.
+
+Issue
+Whether one must participate in the operation or management of an enterprise to be liable under the RICO?
+
+Held
+(Justice Blackmun). Yes. One must participate in the operation or management of an enterprise to be liable under RICO. The legislative history confirms what is provided for by the Act, that one is not liable under that provision unless one has participated in the operation or management of the enterprise itself. The judgment of the court of appeals is affirmed.
+
+Discussion
+The court in this case determines that RICO does not allow actions against one not in operation or management of the enterprise because the legislature wanted the statute to apply to fewer cases.
+

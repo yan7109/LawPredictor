@@ -1,0 +1,21 @@
+Citation
+698 A.2d 959, 2 EXC 21 (Del. Ch. 1996)
+
+Brief Fact Summary
+The parties to this case, shareholders who brought an initial derivative suit and the Defendant Board, submitted a settlement proposal to the Delaware Court of Chancery.  The settlement called for more oversight by Defendants to ensure the corporate employees abide by laws regarding relationships with outside health care professionals.
+
+Synopsis of Rule of Law
+Directors are potentially liable for a breach of duty to exercise appropriate attention if they knew or should have known that employees were violating the law, declined to make a good faith effort to prevent the violation, and the lack of action was the proximate cause of damages.
+
+Facts
+Defendant corporation, Caremark International, Inc., provides health care services and products to patients who are often referred to them by a physician.  Since the business is reliant on referrals, there is a temptation by companies such as Caremark to compensate physicians.  A federal law, the Anti-Referral Payments Law (”ARPL”) is in place to prevent such a system, and in 1991 the Department of Health and Human Services began investigating potential ARPL violations.  The Department of Justice joined the investigation soon thereafter, and by 1992 Caremark instituted several new policies and procedures in attempt to find any internal wrongdoings.  But in 1994, Caremark was indicted for violating the ARPL.  Plaintiffs initiated this suit that year, alleging that the Board of Directors did not exercise the appropriate attention to this problem.
+
+Issue
+The issue is whether the Board exercised an appropriate level of attention to the possibility of ARPL violations.
+
+Held
+There was no evidence that the directors knew that there were ARPL violations, and there was no systemic or sustained failure to exercise oversight.  However, the terms of the settlement merely required Caremark to institute policies to further assist in monitoring for violations.  Therefore the settlement was approved.
+
+Discussion
+A breach of duty to exercise appropriate attention, as the court notes, is more difficult for Plaintiffs to prove than a breach of the duty of loyalty.  Most decisions that would come under this duty will resemble many decisions shielded by the business judgment rule.
+

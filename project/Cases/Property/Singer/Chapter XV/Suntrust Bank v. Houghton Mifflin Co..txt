@@ -1,0 +1,24 @@
+Citation
+268 F. 3d. 1257.
+
+Brief Fact Summary
+SunTrust Bank filed suit and a preliminary injunction against the publication of a book that Houghton Mifflin Co. has rights to. The book in question is a critique of a book that SunTrust Bank has copyrights to.
+
+Synopsis of Rule of Law
+A person under the Fair-Use and Dichotomy Doctrines may critique another persons writing and publish that writing without violating any copyright laws.
+
+Facts
+Houghton Mifflin has rights to a book called The Wind Done Gone (TWDG), a critique of Gone with the Wind’s (GWTW) depiction of slavery and Civil-War era American South. Gone with the Wind is one of the worlds best selling books, and SunTrust Bank is the trustee of the Michelle Trust that holds the copyrights to that book. The author of TWDG, Alice Randall, in her critique of the book used several characters, plots, and major scenes in the first half of her book. SunTrust first asked Houghton to refrain from publication and they refused. So SunTrust filed a copyright action claiming the book violated the Lanham act and also sought a preliminary injunction to stop the book from publication.
+
+Issue
+Whether the court should enjoin publication of a fictional book which critiques another non-fictional book based on alleged copyright violations.
+
+Held
+No. The United States Constitution copyright clause is made for the promotion of learning, protection of the public domain and for exclusive rights of authors. Originally an author only had copyright protection against published works, then that changed to works that were fixed in any tangible medium but also created the fair-use doctrine. The purpose was to promote authors to share their ideas to the public, and for those books to remain public once copyrights extinguished, and to encourage creativity of authors. The drafters had a fine balance between copyrights and freedom of speech. To promote that balance the doctrine of dichotomy and fair use where derived. Dichotomy states a person’s copyright only extends to the expression of an idea not the idea itself. Therefore the public may freely discuss an idea but through his or her original expression. The fair-use doctrine promotes freedom of speech by allowing criticism, comment, news reporting, teaching and research on another persons work and to publish those ideas. In order for SunTrust to prevail they would have to show they have proper copyrights and that the book used original elements from the book they have those rights to. It is not disputed that SunTrust held copyrights. However the issue is whether the book used original elements. In order to use the fair use exception to copyright laws the court discusses; the purpose of and characters of a book, the nature of the book, the amount and substantiality of the portion of the book used and the effect on the market value of the original. The court found that this parody on the book was appropriate and did qualify for the fair-use exception.
+
+Dissent
+
+
+Discussion
+The defendants properly raised the defense of fair-use of published works which allows critiques of published works and thus the court will not enjoin publication of the book.
+

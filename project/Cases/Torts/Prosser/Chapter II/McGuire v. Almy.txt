@@ -1,0 +1,15 @@
+Citation
+297 Mass. 323, 8 N.E.2d 760
+
+Brief Fact Summary
+Plaintiff was employed as a caregiver for Defendant, a mentally ill but physically fit woman. During one of Plaintiff’s shifts, Defendant caused a loud disturbance and told Plaintiff she would kill her if she entered her room. Plaintiff entered the room anyway, was physically attacked by Defendant, and sued for assault and battery.<span class="heading">Synopsis of Rule of Law.</span> The insane are liable for their torts to the same extent as the sane, except for certain torts requiring malice of which they are incapable.
+
+Facts
+Plaintiff sued Defendant for assault and battery for damages inflicted during a physical attack. Plaintiff was working as a nurse for Defendant, an insane person, at the time, and was aware of Defendant’s propensity for violent behavior. The general rule for the insane at the time was that the insane were liable for their torts to the same extent as the sane. The jury returned a verdict for the Plaintiff.<span class="heading">Issue.</span> Did the trial court err in refusing to direct a verdict for Plaintiff for assault and battery because Defendant was insane when she attacked Plaintiff?
+
+Held
+No. The verdict was upheld and the award sustained.
+
+Discussion
+Much like [Garratt v. Dailey, 46 Wash.2d 197, 279 P.2d 1091 (Wash. 1955)] held with respect to children, the Court in this case declines to carve out a specific exception to general conceptions of intent for the insane. Rather, the Court applies general standards of intent to the insane, with the caveat that insanity could preclude one’s capacity to intend certain types of actions in certain circumstances.
+

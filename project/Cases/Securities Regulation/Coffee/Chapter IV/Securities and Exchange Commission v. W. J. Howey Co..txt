@@ -1,0 +1,21 @@
+Citation
+328 U.S. 293 (1946)
+
+Brief Fact Summary
+Howey (Defendant) sold small strips of citrus grove to buyers who also signed a service contract for cultivation of said land. The Securities and Exchange Commission (Plaintiff) wanted an injunction prohibiting Howey’s use of interstate commerce to market the contract on the grounds that it established the sale of unregistered securities.
+
+Synopsis of Rule of Law
+A “security” is a document that provides proof of a monetary investment in a common enterprise with profits earned exclusively through the work of others.
+
+Facts
+Howey owned a large citrus grove and solicited investors to participate in his business venture. Howey would implement a land sale contract for a small portion of the grove to the investor while also having them enter into a service contract for cultivation of that land. The service contract granted Howey the complete right to possession due to the investor not taking part in cultivation of any sort. Once harvested, the investor would get an account for the produce yielded by the strip they invested in, however the fruit was marketed exclusively by Howey. Howey utilized various agencies of interstate commerce when endorsing this arrangement but failed to register the contracts and “securities” with the SEC. This led to the SEC bringing an action seeking an injunction against the use of interstate commerce on the grounds that Howey established sales of unregistered securities, violating § 5(a) of Securities Act of 1933. Trial court denied the injunction, saying that the contract arrangement did not provide sales of securities. The court of appeals affirmed. The SEC sought certiorari.
+
+Issue
+Is the term security referencing any document(s) that provide evidence of a monetary investment in a common enterprise whose profits come only through the labors of others?
+
+Held
+(Murphy, J.) Yes. As defined by § 2(a)(1) of the Act, a “security” includes the documents traded for investment or conjecture, having substance over form, regulating the type of a specific document or agreement. Howey is offering an arrangement to invest money in and obtain a portion of the profits of a large citrus fruit operation. Therefore, the documents in this case are representative of shares in the company. The court rejects the court of appeals’ idea that due to the business being unpredictable and promotional in nature, that this deal did not represent the sale of securities. Transference of something with tangible value is not enough to exclude the agreementfrom the 1933 Act. Reversed.
+
+Discussion
+This case has been quoted for its defining of the terms “investment contracts” and “securities”. A common enterprise is required to bring a promotional investment deal within the scope of § 5(a). In this case, it is obvious that investors were purchasing the land in order to receive a larger payout down the line without having to do any work. This mirrors the sale of stock.
+

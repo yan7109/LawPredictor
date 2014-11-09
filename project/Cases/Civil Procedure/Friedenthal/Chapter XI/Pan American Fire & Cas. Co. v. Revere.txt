@@ -1,0 +1,21 @@
+Citation
+22 Ill.188 F. Supp. 474 (E.D. La. 1960)
+
+Brief Fact Summary
+Plaintiff insurance company filed an interpleader action against potential claimants on an insurance company arising from a car accident allegedly caused by Plaintiff’s insured. Plaintiff denied that its insured was liable but alleged that it had no interest in the proceeds and posted $100,000 (the limit of the policy) with the court.
+
+Synopsis of Rule of Law
+Rule 22 of the Federal Rules of Civil Procedure and the Interpleader Act permit an interpleader action to be maintained concerning the management of unliquidated claims on one insurance policy.
+
+Facts
+Pan American Fire & Cas. Co’s (Plaintiff’s) insured collided with a school bus. Four people were killed and many others were injured. Plaintiff’s insured had a policy limit of $100,000. Three suits were pending and claims had been filed when Plaintiff filed an interpleader action seeking a determination of the distribution of the insurance proceedings and a suspension of the current legal proceedings pending the court’s determination regarding the proceeds. Plaintiff posted bond in the amount of the policy. Plaintiff claimed “no interest” in the property but denied its insured was liable on the ground that anything contrary may be deemed an admission of liability by both Plaintiff and the insured.
+
+Issue
+Should the Court allow the interpleader action to be maintained in order to determine the rights of potential claimants to the limited fund of the insurance proceeds under Rule 22 of the Federal Rules of Civil Procedure?
+
+Held
+Yes. All concerned claimants are enjoined from instituting or continuing with claims concerning the accident. Claimants must file a claim within 30 days of receiving notice of the judgment. A joint trial will be held regarding liability and damages. The court will appropriate the fund if the aggregate amount of the verdict exceeds the policy limits.
+
+Discussion
+The Court’s liberal construction of Rule 22 of the Federal Rules of Civil Procedure and the Interpleader Act allows the court to consolidate many claims that have the potential to be uncompensated. This case is an example of the way modern interpleader actions are used.
+

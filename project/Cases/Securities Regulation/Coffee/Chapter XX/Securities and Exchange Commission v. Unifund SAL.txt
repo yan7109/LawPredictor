@@ -1,0 +1,21 @@
+Citation
+910 F.2d 1028 (2d Cir. 1990)
+
+Brief Fact Summary
+Unless provided with the source of the purported traders’ inside information, violations of § l0(b) of the Securities Exchange Act the are barred by an injunction obtained by the Securities and Exchange Commission (SEC) (Plaintiff).
+
+Synopsis of Rule of Law
+A purported inside trader cannot be subject to a preliminary injunction against violating § l0(b) of the Securities Exchange Act without providing the source of the purported inside information.
+
+Facts
+An action was brought against Unifund SAL (Unifund) and Tamanaco Saudi & Gulf Investment Group (Tamanaco) by the SEC for purported insider trading in Rorer Group, Inc. (Rorer), a U.S. pharmaceutical company, stock. Secret merger phone discussions were conducted by Rorer and Rhone-Poulenc, Inc.  Large number of shares was bought by both Unifund and Tamanacoof Rorer stock prior to the discussions being announced publically, shares that became considerably more valuable post announcement. An action was initiated by the SEC against the two firms for purported insider trading in violation of § 10(b) of the Securities Exchange Act. Civil procedure and injunctive relief were sought.  The SEC speculated about potential sources but was never able to provide the source of the firms' purported inside information. The district court issued a preliminary injunction preventing Unifund and Tamanaco from violating § 10(b) in the future and freezing ample assets to handle any potential civil penalties. Unifund and Tamanaco appealed.
+
+Issue
+Can a purported inside trader be subject to a preliminary injunction against violating § l0(b) of the Securities Exchange Act without providing the source of the purported inside information?
+
+Held
+(Newman, J.) No. A purported inside trader cannot be subject to a preliminary injunction against violating § l0(b) of the Securities Exchange Act without providing the source of the purported inside information. The amount of proof needed of the SEC in order to attain a preliminary injunction is different based on the onerousness of the entreated relief. An order preventing § 10(b) violations is quite onerous due to it subjecting a defendant to contempt if any trading thereafter is found illegal. An order like that accomplishes more than the mere status quo, and injunctions of an obligatory nature usually need more evidence than prohibitory injunctions. The SEC must make a considerable showing of likelihood of success as to current and future violations for this form of relief. In cases in which the SEC is unable to identify the source of the purported inside information, it is hard to imagine a considerable likelihood of success on the merits as to future violations. In this case, the SEC failed to do more than speculate about where Unifundand Tamanacoreceived their information.  So, the showing of likelihood of success requirement has not beenmet.  [The court affirmed the order freezing assets, but modifiedthe district court's calculations.] Reversed in part; affirmed in part and remanded.
+
+Discussion
+10(b) violations carry heavy penalties via federal law securities, in specific, a § 21A gives penalties equal to three times the amount obtained in profits by insider trading. The SEC may procure orders freezing assets to stop asset dissipation.
+

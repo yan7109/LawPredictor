@@ -1,0 +1,33 @@
+Citation
+954 F.2d 1054 (5th Cir. 1992)
+
+Brief Fact Summary
+Plaintiffs sought to recover clean-up costs under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) from defendant corporations (Defendants).
+
+Synopsis of Rule of Law
+A complaint alleging environmental claims has a high specificity of pleading requirement.
+
+Facts
+Cash Energy, Inc. (Plaintiff) filed a complaint against Weiner (Defendant) to recover cleanup costs under CERCLA. The compliant alleged that Weiner contaminated property in North Andover, Massachusetts, owned and operated by Plaintiffs. Defendant corporations engaged in the storage and transfer of chemical solvents on a site adjacent to Plaintiff’s property. Plaintiff also sued four individuals who were officers of the defendant corporations alleging that these individuals participated in and exercised control over the activities of defendant corporations. Since corporate officers are not personally liable for the activities of their corporate employers, the judge concluded that the Plaintiff must show that each of the individuals actively participated in the tortious activities.
+
+Issue
+Is there a high specificity requirement for environmental claims?
+
+Held
+Yes. Claims against individual Defendants will be dismissed unless Plaintiff files an amended complaint that pleads a factual basis for its claim.   CERCLA involves many circumstances that has led courts to invoke higher standard of specificity in other contexts. Rule 9(b) of the Federal Rules of Civil Procedure recognizes an exception for allegations of fraud and mistake and applies a higher standard of particularity. This exception for fraud has been extended to a number of similar areas, for example, civil rights litigation. The trend toward requiring higher standards of particularity is due to the rising costs of litigation and the caseload crisis. The most widely accepted area of extension of Rule 9(b) is in the area of securities law. Therefore, since the consequences of individual liability for an environmental violation may be severe and due to the increased costs of litigation, the court extended specificity of pleading requirements to CERCLA cases.
+
+Discussion
+This case was subsequently overruled by Leatherman v. Tarrant County Narcotics, 507 U.S. 163 (1993). The Supreme Court of the United States in Leatherman held that a federal court may not apply a more stringent pleading standard in civil rights cases. The Federal Rules require “a short and plain statement of the claim that will give the defendant notice of what the plaintiff’s claim is and the grounds upon which it rests” (Conley v. Gibson, 355 U.S. 41, 47 (1957).) Since the Federal Rules only require notice   pleading, it does not make sense that federal courts would require more stringent requirements.   Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit  <b>Citation.</b> 507 U.S. 163 (1993).
+
+Brief Fact Summary
+This action arose out of two separate incidents involving the execution of search warrants by law enforcement officers. Leatherman (Plaintiffs) sued several law enforcement officers asserting that police conduct violated the Fourth Amendment to the United States Constitution. The United States District Court of the Northern District of Texas dismissed the complaints and the United States Court of Appeals for the Fifth Circuit affirmed the dismissal. The Supreme Court of the United States granted to certiorari to resolve a conflict among various court of appeals regarding the heightened pleading standard.
+
+Synopsis of Rule of Law
+If Rule 9(b) of the Federal Rules of Civil Procedure does not require specific pleading of a certain type of claim, the court cannot interpose a higher standard of specificity.
+
+Facts
+Both cases involve the execution of search warrants by law enforcement officials, which arose out of the forcible entry into Plaintiffs’ homes based on the detection of odors associated with narcotics. One of the plaintiffs alleged that he was assaulted by the police officers, and the other claimed that the police entered her home in her absence and killed her two dogs. Plaintiffs sued law enforcement officials asserting that the police conduct violated the Fourth Amendment of the United States Constitution. The United States District Court for the Northern Division of Texas dismissed the complaints because they failed to meet the heightened pleading standard. The United States Court of Appeals for the Fifth Circuit affirmed the judgment and the Supreme Court of the United States granted certiorari to resolve conflict between court of appeals concerning the heightened pleading standard.
+
+Issue
+Whether a federal court may apply a heightened pleading standard in civil rights cases?
+

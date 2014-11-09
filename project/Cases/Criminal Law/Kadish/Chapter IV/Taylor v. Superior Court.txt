@@ -1,0 +1,24 @@
+Citation
+22 Ill.3 Cal.3d 578, 91 Cal.Rptr. 275, 477 P.2d 131 (1970)
+
+Brief Fact Summary
+Petitioner Taylor was charged with the murder of his co-felon who was shot by the victim in the course of an attempted robbery
+
+Synopsis of Rule of Law
+An accomplice to a robbery is vicariously liable for any killing attributable to the intentional acts of his co-felons that are committed with a conscious disregard for life.
+
+Facts
+Petitioner and co-defendant Daniels were charged with the murder of John H. Smith. Daniels and Smith attempted to rob a liquor store that was operated by Jack and Linda West. During the attempted robbery, Daniels repeatedly threatened that both him and Smith were armed and threatened to shoot if the store owners did not cooperate. Mrs. West, in an attempt to resist, fired several shots, hitting and killing Smith. Petitioner was waiting outside the store in a getaway car and was later connected with the crime and charged with the murder of Smith. Petitioner moves to set aside the murder count.
+
+Issue
+Can the petitioner be held accountable for the death of his co-felon where the decedent was killed by the hand of the robbery victim?
+
+Held
+Yes. Motion denied.
+
+Dissent
+The dissent disagrees with the majority’s interpretation and distinction of People v. Washington, 62 Cal. 2d 777 (1965), which stands for the proposition that the act of pointing a gun at the victim, unlike initiating a gun battle, is not an act done with wanton disregard for human life and therefore such an act does not fulfill the malice requirement. The majority distinguishes People v. Washington by saying that in that case the defendant merely pointed a gun and the robbery victim, without further provocation, shot and killed him unlike this case where the pointing of the gun was accompanied by verbal threats. The dissent does not recognize the distinction between the threat implicit in furnishing a gun and the express threats made by Defendants in this case.
+
+Discussion
+This case allows the doctrine of malice based on recklessness, as opposed to the felony-murder rule, to support a charge of murder where the killing was committed by a victim in response to provocation by on of the felons.
+

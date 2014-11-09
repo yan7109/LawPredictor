@@ -1,0 +1,24 @@
+Citation
+497 U.S. 261,110 S. Ct. 2841,111 L. Ed. 2d 224,1990 U.S.
+
+Brief Fact Summary
+Cruzan was on life support in a persistent vegetative state after a car wreck.  Her parents requested that the hospital remove her life support, and the hospital refused to do so without court approval.
+
+Synopsis of Rule of Law
+Missouri’s requirement to prove an incompetent’s wish to be removed from artificial life support by clear and convincing evidence is constitutional.
+
+Facts
+Nancy Cruzan was involved in a serious car wreck which resulted a persistent vegetative state.  After finding that Cruzan had virtually no chance of recovery, her parents (Petitioners) requested that the hospital remove terminate her artificial nutrition and hydration procedures.  It was understood that this would lead to her death.  The hospital employees refused to honor the request without court approval.  Under Missouri law, evidence of the incompetent’s wishes to withdraw the treatment must be proved by clear and convincing evidence.
+
+Issue
+Does the United States Constitution forbid the procedural requirements established by Missouri?
+
+Held
+A state may require heightened evidentiary requirements under such circumstance due to the state’s interest in protecting life.
+
+Dissent
+States may impose procedural requirements to ensure the accuracy of the patient’s wishes, but the clear and convincing evidentiary burden in Missouri is unconstitutional<span class='heading'>Concurrence.</span> Today’s decision only decides that Missouri’s practice does not violate the Constitution, the Court does not decide if a State must also give effect to the decisions of a surrogate decisionmaker.
+
+Discussion
+The majority finds that laws favoring the treatment of traditional family relationships cannot be turned around to create a constitutional requirement that a State must recognize such relationships as primary in such situations.
+

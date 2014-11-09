@@ -1,0 +1,24 @@
+Citation
+432 U.S. 98, 97 S. Ct. 2243, 53 L. Ed. 2d 140, 1977 U.S.
+
+Brief Fact Summary
+A suggestive identification was challenged as violative of the due process clause of the Fourteenth Amendment of the United States Constitution (”Constitution”).
+
+Synopsis of Rule of Law
+The criteria laid out below are to be applied to witness identifications.
+
+Facts
+A trooper and an informant went to the apartment of a suspected narcotics dealer to purchase heroin, which they did.  The suspected dealer was charged with dealing heroin.  No lineup was ever conducted, and the respondent was identified on the strength of one photograph.  No objection was registered by the defense to the identification procedures, but after sentencing the Court of Appeals reversed the District Court’s denial of a writ for habeas corpus.
+
+Issue
+Whether the due process clause of the Fourteenth Amendment of the Constitution compels the exclusion, in a state criminal trial, apart from any consideration of reliability, of pretrial identification evidence obtained by a police procedure that was both suggestive and unnecessary?
+
+Held
+Reliability is the linchpin in determining the admissibility of identification testimony.  Factors to be considered include the opportunity of the witness to view the criminal at the time of the crime, the degree of attention paid by the witness, accuracy of the prior description, level of certainty, and the time between the crime and the confrontation.  These factors should be weighed against the effect of the suggestive identification itself.
+
+Dissent
+The dissent emphasized the point that the right to be free from confrontations that are unnecessarily suggestive are embodied in the right to due process.
+
+Discussion
+Issues of identification in the future will be subject to a multi-factor balancing test aimed at ascertaining the reliability of eye witness identificat
+

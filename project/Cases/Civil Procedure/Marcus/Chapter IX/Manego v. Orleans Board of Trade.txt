@@ -1,0 +1,21 @@
+Citation
+773 F.2d 1, 1985 U.S. App. 1985-2 Trade Cas. (CCH) P66,758; 82 A.L.R. Fed. 815
+
+Brief Fact Summary
+In late 1978 and early 1979, Manego (Plaintiff) applied to the Orleans Board of Selectmen for entertainment and liquor licenses for a disco, which he wanted to build on a vacant lot. The lot was located in a commercial district a few hundred feet from an ice skating rink that was owned by Cape Cod Five Cents Savings Bank (Bank). The Bank opposed Plaintiff’s application and, eventually, the Orleans Board of Selectmen denied Plaintiff’s applications for both the liquor and amusement licenses. The Bank had plans of its own to offer live music, roller-skating, and dancing at the rink.
+
+Synopsis of Rule of Law
+Under the doctrine of res judicata, a final judgment on the merits of an action precludes the parties or their privies from relitigating issues that were or could have been raised in that action. This bar is limited, however, to cases arising out of the same cause of action or claim.
+
+Facts
+Plaintiff brought a lawsuit in federal district court naming the Board of Selectmen, the Bank and David Willard (Willard), the vice president of the bank as Defendants, claiming they had conspired to deny him the licenses because of his race. The district court dismissed the state law claims for failure to state a cause of action and granted the Defendants’ Motion for Summary Judgment as to the remaining claims. However, Plaintiff brought another lawsuit, this time against the Bank, Willard and the Orleans Board of Trade alleged antitrust violations under the Sherman Antitrust Act. Willard and the Bank moved for summary judgment on the grounds that the new claims were barred by the doctrine of res judicata. The district court held that the facts forming Plaintiff’s claim of antitrust violations were the same as those which formed the basis of his earlier civil rights claims and that they were, therefore, barred by the final judgment against Plaintiff on the civil rights claims.
+
+Issue
+Is Plaintiff barred from bringing a second lawsuit involving some of the defendants in a prior action, when the claims are based upon the same facts as those that formed the basis for the first suit?
+
+Held
+Yes. Since each alleged conspiracy had the same practical end, keeping Plaintiff from operating the disco, and each used essentially the same means, denial of the licenses, the difference in motive for the conspiracy did not create separate transactions. As a result, Plaintiff’s antitrust claim is barred by res judicata as to the Bank and Willard. Even though the doctrine of res judicata was found to not apply as to the Orleans Board of Trade, the court found that Plaintiff did not fall under an exception to the Noerr- Pennington doctrine. Therefore, summary judgment is also affirmed as to the board, but as a result of different rationale.
+
+Discussion
+The court adopted a “transactional” definition of the underlying claim or cause of action. However, the mere fact that different legal theories are presented in each   case does not mean that the same transaction is not behind each. So, in the case before the court, it does not matter that one suit alleged a conspiracy with a racial animus and one alleged an antitrust theory. Further, it does not matter that the named defendants were not identical.
+

@@ -1,0 +1,21 @@
+Citation
+2 F.3d 110 (5th Cir. 1993)
+
+Brief Fact Summary
+The Federal Deposit Insurance Corporation, (Appellant) filed a declaratory judgment action against Fidelity and Deposit Company of Maryland, (Appellee), to determine whether Appellee provided coverage under a directors’ and officers’ liability policy. The district court granted summary judgment to Appellee finding no coverage under Appellee’s policy.
+
+Synopsis of Rule of Law
+Notice of an institution’s worsening financial condition is not notice of an officer’s or director’s act, error, or omission.
+
+Facts
+Appellee issued four directors’ and officers’ liability policies to four affiliate banks. The policy covered claims against the insured if the required notice is given to the insurer during the policy period. The banks furnished Appellee with information about their lending activities that described increasing loan losses and delinquencies and the issuance of a cease and desist order by the Office of the Comptroller of the Currency. In response to the increasing loan losses Appellee informed the banks that it would cancel their policies. The banks merged and then became insolvent. Appellant was declared receiver. Appellant sued the banks’ directors and officers for improperly or illegally making, administering, or collecting loans. Appellee denied coverage and this suit followed.
+
+Issue
+Whether the policy allows notice in the broader form of any act, error, or omission that may give rise to a claim for specified wrongful acts. Whether the insureds gave adequate notice of specified wrongful acts.
+
+Held
+No. The policy requires the insured to give the insurer notice of specified wrongful acts to trigger coverage. No. The insureds did not give adequate notice of specified wrongful acts.
+
+Discussion
+Notice in a “claims made policy” serves a different function than prejudice-preventing notice required under an “occurrence policy.” Notice triggers coverage. If the policy requirement for notice of specified wrongful acts is relaxed, then policy coverage actually expands. Therefore the policy requires the insured to give the insurer notice of specified wrongful acts to trigger coverage and cannot be read to allow notice in the broader form of any act, error, or omission which may give rise to a claim.
+

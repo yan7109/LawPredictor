@@ -1,0 +1,21 @@
+Citation
+164 Conn. 56,316 A.2d 777,1972 Conn.
+
+Brief Fact Summary
+The plaintiff was terminally ill of cancer.  Therefore, she transferred her real property in join tenancy with herself, to the defendant, her son, and daughter.  She orally agreed with the transferees that if she would no longer be in risk of cancer, the transferees would reconvey their portion of the property.
+
+Synopsis of Rule of Law
+If an owner of an interest in land transfers real property inter vivos in trust for the benefit of the transferor but there is no proper memorandum to satisfy the Statute of Frauds, the transferee holds the property in constructive trust for the transferor if there was a confidential relationship between the transferor and the transferee
+
+Facts
+The plaintiff transferred title to certain real property from herself alone to herself in joint tenancy with the defendant and her daughter because she was fearful of a return of cancer and wanted to avoid probate.  She agreed that the defendant and her daughter would reconvey the property to her once the danger of recrudescence had passed.  The plaintiff and the grantees orally agreed that the arrangement would be temporary.  Five years later, the plaintiff asked the defendant to recovery the property, but he refused.
+
+Issue
+Whether a constructive trust may be imposed on an oral transfer of real property if the transferee is in a confidential relationship with the transferor.
+
+Held
+Yes.  Though the oral transfer of real property in trust is unenforceable, defendant holds the property in constructive trust for the plaintiff because of their confidential relationship.  The plaintiff is the defendant’s mother and she transferred the property at a time when she was terminally ill.  Furthermore, the defendant reassured her that he would be faithful to their agreement.
+
+Discussion
+Real property transfers must be in writing.  However the court will impose a constructive trust on an oral transfer if the evidence shows that the two parties were in such a relation that the transferor reasonably believed that the transferee would honor the agreement.
+

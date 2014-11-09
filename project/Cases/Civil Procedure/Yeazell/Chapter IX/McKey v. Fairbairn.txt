@@ -1,0 +1,24 @@
+Brief Fact Summary
+Mrs. Littlejohn (P) was a tenant of an apartment on lease. She slipped and fell on water which had leaked through the roof. She sued her landlord for damages and later moved to amend her complaint to bring in some housing regulations after her counsel had agreed orally with the judge that the case was one in negligence.
+
+Synopsis of Rule of Law
+A judge has wide powers of discretion to refuse to allow evidence in favor of a theory of recovery of damages which is not in the complaint.
+
+Facts
+Mrs. Littlejohn (P) had a leak in her apartment roof. She notified her landlord (D). Before it could be repaired, a heavy storm occurred which resulted in significant leaking of water on her bedroom floor. Mopping the water twice the next morning still left the floor wet. As a result when she re-entered the room she slipped and fell injuring herself. She sued for damages, and at trial her counsel verbally agreed with the judge that the theory of recovery was negligence in her case. After this, Mrs. Littlejohn (P) moved to cite certain housing regulations which were claimed by her to be relevant to her complaint, but the motion was denied. The judge also directed the verdict to be in favor of the defendant. She appealed the decision.
+
+Issue
+Does the trial judge have wide powers of discretion to exclude evidence supporting a theory of recovery which has not been mentioned in the complaint?
+
+Held
+(Miller, J.) Yes. The questions raised on appeal are whether a mistake was made in directing the verdict in the presence of evidence of a leak and of a promise to repair it, and secondly if an error was made in denying the motion to include citations to allegedly relevant housing regulations. The first question is answered in the negative. Since the landlord had no duty to repair the roof, it was proper to direct the verdict on liability for negligence. In the same sense it was proper to refuse to allow inclusion of evidence not in the original complaint, so that the plaintiff (P) could change her theory of recovery from negligence after the complaint had already been pleaded and responded to. The judge did not abuse his discretionary powers as to excluding evidence for a new theory of negligence apart from that in the complaint. As to negligence, Mrs. Littlejohn (P) showed contributory negligence which was also responsible for her accidental injuries, since she entered a room which she knew to contain a slippery wet spot. The decision was affirmed.
+
+Dissent
+(Fahy, J.) The evidence supporting a claim should be allowed to be modified during trial to prevent obvious injustice from being done. The court had previously held that a landlord has a duty to his tenant which is covered partially by housing regulations. This means that the landlord’s duty to McKey (P) would be proved in part by allowing the plaintiff to modify her complaint and include the regulations as a basis for her recovery of damages.  Another point of dissent is that the issue of contributory negligence on the part of the plaintiff is one to be covered by the district court and not by the appeal court.
+
+Concurrence
+N/A
+
+Discussion
+The Federal Rules of Civil Procedure 15 provide for amendment of pleadings after a case is answered only if the trial judge permits it or the opposing party gives written consent. If an issue has not been presented in the pleadings but is to be tried, the parties to the suit must give their consent, either expressly or by implication. In such a case the pleadings may be later modified to include the new evidence. McKey (P) could not plead any of these options in this case and so she failed to win her motion.
+

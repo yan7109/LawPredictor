@@ -1,0 +1,24 @@
+Citation
+386 U.S. 523, 87 S. Ct. 1199, 18 L. Ed. 2d 270 (1967).
+
+Brief Fact Summary
+A bus accident that occurred in California resulted in one person being killed and 33 being injured. The insurance company that covered the truck driver involved with the collision filed an interpleader action by paying $20,000 (the policy limits) into federal court located in Oregon and asked the court to require prospective claimants to file claims in said court and no other court and to release the insurance company of all liability. The District Court issued an injunction barring pending claims against the driver of the truck as well as the bus owner and the bus driver, to which claimants appealed.
+
+Synopsis of Rule of Law
+The Interpleader Act should only be used in mass tort situations when the target of the potential claims is a common fund that is of such a small amount as to make the Plaintiffs have little interest in the potential aggregate amount of claims. Moreover, the court should only control the underlying litigation in very rare circumstances.
+
+Facts
+An accident involving a Greyhound bus and a truck occurred in California. The accident resulted in one death and 33 injured persons. Four passengers filed suit in California against the bus driver (Nauta), Greyhound, the truck driver (Clark) and the owner of the truck (Glasgow) requesting damages in excess of $1,000,000. Clark’s insurer, State Farm, brought an interpleader action in federal court located in Oregon. State Farm alleged that it had a policy covering Clark that had a $20,000 limit. State Farm asked the court to order that all claimants establish their claims against Clark in that court alone and to discharge State Farm of all liability. State Farm joined Greyhound, Nauta, Clark and potential claimants as defendants. All defendants except for Greyhound, the claimants and State Farm were residents of Oregon. Jurisdiction was based on diversity and the Interpleader Act. A temporary restraining order was issued, and claimants filed for a change of venue to where the c
+
+Issue
+Do interpleader actions based on diversity of citizenship require complete diversity in order to comply with Article III of the U.S. Constitution?<br />Is interpleader appropriate for distribution of one insurance policy covering one potential defendant in a mass tort action when there are other potential defendants and sources of assets to compensate the potential plaintiffs?
+
+Held
+Both issues: No. The judgment is reversed and remanded.
+
+Dissent
+Justice Douglas: Because both California and Oregon do not permit direct actions against the insurer and the policy at issue does not permit such action, the potential claimants cannot be considered “claimants” under the Federal Interpleader Act.
+
+Discussion
+The majority’s opinion expresses a policy against consolidating mass tort proceedings in one court under the guise of interpleader. The Court focused on the size of the insurance policy, the size of potential claimants’ claims and the availability of other sources of funds.
+

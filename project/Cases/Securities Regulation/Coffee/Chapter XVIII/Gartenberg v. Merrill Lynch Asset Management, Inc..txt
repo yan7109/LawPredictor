@@ -1,0 +1,21 @@
+Citation
+694 F.2d 923 (2d Cir. 1982)
+
+Brief Fact Summary
+The quantity of fees paid by the Merrill Lynch Assets Trust (Defendant) to the fund manager and advisor, Merrill Lynch Assets Management, Inc. (Defendant), in accordance with § 36(b) of the Investment Company Act, was challenged by Gartenberg (Plaintiff).
+
+Synopsis of Rule of Law
+In accordance with § 36(b) of the Investment Company Act, the correct standard to assess if a fund manager accomplished its fiduciary duty is a reasonableness standard.
+
+Facts
+A money market fund, Merrill Lynch Ready Assets Trust (RAT) was advised and managed by Merrill Lynch Asset Management, Inc. (AM). An advisory fee was charged by AM which dropped as the fund assets rose. When compared to like funds, the fund performed above average. A shareholder in RAT, filed a derivative action, alleging the fees were so high they were considered a breach of fiduciary duty in violation of § 36(b) of the Investment Company Act. Following a nonjury trial, the action was dismissed once the court found AM’s fee to be comparable to fees charged in other parts of the market and so a fair one. Gartenberg appealed.
+
+Issue
+In accordance with § 36(b) of the Investment Company Act, is the correct standard to assess if a fund manager accomplished its fiduciary duty is a reasonableness standard?
+
+Held
+(Mansfield, J.) Yes. In accordance with § 36(b) of the Investment Company Act, is the correct standard to assess if a fund manager accomplished its fiduciary duty is a reasonableness standard. The advisor-manager must charge a fee so outrageously immense that it has no reasonable association to the services performed and too large to be the product of arms-length bargaining in order to violate § 36(b). In order to decide this, all relevant facts must be given thought. What the court did here, comparing fees charged by other funds advisors to figure out compliance with fiduciary duties is not a suitable tactic for determining compliance. Funds are usually captives of their advisors and in theory the whole industry could be in violation of § 36(b). Here, it is proposed by evidence that the management and advice was of the highest quality with returns being above average in the fund. Practices of other fund managers can advocate an industry standard, but the final examination must be the reasonableness of the fees concerned. Affirmed.
+
+Discussion
+Philosophy and reality differ where a plaintiff challenges a fee as unreasonable.  Defendants usually prevail in cases like this. While plaintiffs may assert pro-industry bias, the reality may merely be that serious competition among funds preserves the fees at competitive levels.
+

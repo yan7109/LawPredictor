@@ -1,0 +1,21 @@
+Citation
+15 Cal. 2d 531, 102 P.2d 1081, 1940 Cal.
+
+Brief Fact Summary
+Grayson executed a will making reference to another document that would explain how to distribute $4,000 of his estate.  The will indicated that the document would be dated March 25, 1932.  Instead the document was dated July 3, 1933.  The testator executed a codicil on November 25, 1933 and the court considers whether to include the document as a part of the will.
+
+Synopsis of Rule of Law
+A document may be incorporated into a will that was in existence at the time a later codicitl was made but not in existence at the time the will was written.  A will makes sufficient refernce to a document outside of the will to be incorporated by reference even though the will states the date on the document is different to the date referenced in the will as long as the document serves the same function as the one stated in the wil.
+
+Facts
+Grayson executed a will making reference to a document that would be dated March 25, 1932 and would tell his executors how to give away a gift of $4,000.  The letter was found at Grayson’s death but it was dated July 2, 1933.  The letter instructed the executors to give $4,000 to Ester Cohn.  Grayson also executed a codicil dated November 25, 1933.
+
+Issue
+Whether a document may be incorporated by reference to a will if was created after the will but before a later codicil was executed.
+
+Held
+Yes.  A document may be incorporated by reference in the will where it is in existence at the date of a codicil to the will.<br />Yes.  A document written in July of 1933 can be validly incorporated into a will and codicil with its latest date at November of 1933 since it informs the testator’s executors how to pay $4,000 and the document tells the executors to give $4,000 to a beneficiary named Ester Cohn.<br />
+
+Discussion
+Because a codicili republishes a will, a document meets the time reuriemetn of the incorporation by reference doctrine if it was in existence at the time the codicil was written. Furthermore, the document referred to does nothave to specifcallhy match the description in the will, as long as the will describes the substance fo the docmetn and its purpose.
+

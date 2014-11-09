@@ -1,0 +1,21 @@
+Citation
+22 Ill.294 F.3d 668, 18 IER Cases 1373 (5th Cir. 2002)
+
+Brief Fact Summary
+Plaintiff and Defendant, acting according to their contract, sought to resolve a conflict by using arbitration. During the process of selecting an arbitrator, the American Arbitration Association (AAA) deviated from the contract.
+
+Synopsis of Rule of Law
+Arbitration is a contractual agreement to settle disputes without going to court. For an arbitration to be binding, it must be done in compliance with the contract. It is the duty of participants to object in a timely fashion.
+
+Facts
+Plaintiff had an employment contract with Defendant. Less than a year after Plaintiff began work, Defendant terminated Plaintiff. The contract stated that all conflicts were to be resolved through arbitration. During the process of selecting an arbitrator, the AAA greatly deviated from the selection process outlined in the contract. The arbitrator ruled in favor of Defendant. Plaintiff sued to have the arbitration set aside. He did not mention the selection process until the judge suggested that that would be a ground to set aside the arbitration.
+
+Issue
+Should the arbitration be set aside?
+
+Held
+No, on both counts.
+
+Discussion
+Arbitration is a process when the parties contractually agree to resolve disputes by appearing before an arbitrator, instead of going to court. Thus, the process and policies used in the arbitration are determined by the con
+

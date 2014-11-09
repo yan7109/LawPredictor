@@ -1,0 +1,21 @@
+Citation
+261 N.C. 392, 134 S.E.2d 705 (1964)
+
+Brief Fact Summary
+The plaintiff filed a lawsuit to recover damages for personal injuries sustained when the defendant rear-ended her in an automobile accident.  The jury found for the plaintiff and awarded damages.
+
+Synopsis of Rule of Law
+Hypothetical questions may only include facts which are already in evidence or which a jury might logically infer.
+
+Facts
+The plaintiff sued to recover for personal injuries from a car wreck in the City of Charlotte.  The defendant ran into the plaintiff’s car, and caused her to strike the car immediately in front of it.  The defendant alleged the plaintiff stopped suddenly, while the plaintiff says it was a gradual stop.  The jury issued a verdict in favor of the plaintiff and awarded damages.  The plaintiff, in order to establish the cause of her injuries, used hypothetical questions posed to Dr. Miller, an orthopedic specialist.  The defendant objected, but was overruled.  The purpose of the first hypothetical was to determine whether the collision could have produced the five percent disability in the plaintiff.  The second was to find whether the plaintiff suffered any permanent mental or emotional injury.
+
+Issue
+Were the hypothetical questions offered by the plaintiff inappropriate because they were based on facts which were not in evidence?
+
+Held
+Justice Sharp issued the opinion for the Supreme Court of North Carolina, which reversed the lower court, and ordered a new trial because the hypothetical questions assumed facts not in evidence.
+
+Discussion
+Justice Sharp’s opinion described several facts used in the exhaustive hypotheticals, which were not part of the record.  There was no evidence to show that the plaintiff was in excellent physical, emotional, or psychological health, that the plaintiff had suicidal tendencies, or that the plaintiff was permanently disabled in the lumbar spine.  All of these facts were assumed in the hypothetical.  A hypothetical may only include facts already in evidence or which may be logically inferred.  The opinion criticizes the use of hypotheticals, because the questions are often too long, confusing, and slanted.
+

@@ -1,0 +1,24 @@
+Citation
+807 F.2d 1102, 1986 U.S. App. 6 Fed. R. Serv. 3d (Callaghan) 815
+
+Brief Fact Summary
+Plaintiffs suffered injuries in an accident, while riding an escalator. Defendants were granted a directed verdict when the lower court held that the doctrine of res ipsa loquitur did not apply.
+
+Synopsis of Rule of Law
+For res ipsa loquitur to apply: (1) the accident must be of a kind which ordinarily does not occur in the absence of someone’s negligence; (2) it must be caused by an agency or instrumentality within the exclusive control of defendant; and, (3) it must not be due to any voluntary action on the part of plaintiff. If these three requirements are met, then the jury may infer that defendant was negligent even though there is not direct evidence to that effect.
+
+Facts
+Jose Colmenares Vivas (Husband) and his wife, Dilia Arreza de Colmenares (Wife), (Plaintiffs) arrived at the international airport in Puerto Rico. They took the escalator on their way to the Immigration and Customs checkpoint. Wife was riding on the escalator, holding on to the handrail one step above Husband. The handrail stopped but the steps continued moving. Wife lost her balance and Husband grabbed her from behind to prevent her fall. In doing so, Husband lost his balance and tumbled down the stairs of the escalator. Plaintiffs filed suit against Sun Alliance Insurance Company (Defendant), who is the liability insurance carrier for the airport’s owner and operator. Defendant brought a third-party action against Westinghouse Electric Corporation (Westinghouse) based on a maintenance contract. The trial court ruled there was no evidence that Defendant had been negligent and that the case could not go to the jury based on res ipsa loquitur because at least one of the require
+
+Issue
+Does the doctrine of res ipsa loquitur apply?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+The mere reason that the handrail stopped and Plaintiffs fell, without further evidence as to why the handrail malfunctioned, does not give rise to an inference of negligence by Defendant. The majority applied a strict liability rule incorrectly.
+
+Discussion
+This case sets the three requirements necessary for res ipsa loquitur. As to the second requirement, the court determined that the duty to maintain an escalator was important enough that it could not be contracted out to avoid tort liability.
+

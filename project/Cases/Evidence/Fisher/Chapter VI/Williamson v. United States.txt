@@ -1,0 +1,24 @@
+Citation
+<script type="text/javascript">						googletag.display("div-gpt-ad-1368647497155-5");						</script>						</div>					<br /><span class='heading'>Facts.</span>  After Harris was pulled over for driving erratically, he consented to a search of his car.  Police uncovered several kilos of cocaine.  During his first interview with the police, Harris indicated that he had received the drugs from a Cuban in Fort Lauderdale, that they belonged to Williamson, and that he was to deliver them later that evening to a particular dumpster.  However, when agents sought to arrange a controlled delivery of the cocaine, Harris changed his story, indicating instead that Williamson had been driving ahead of him in another rented car, had witnessed the search, and knew the drugs had been uncovered.  Harris refused to testify at trial, despite a grant of immunity, and he was eventually held in contempt by the court for his refusal.  The agent was allowed to relate the statements made by Harris, and after appeal, the Eleventh Circuit Court of Appeals affirmed the conviction.<br /><br /><span class='heading'>Issue.</span>  Whether Harris’s statements to law enforcement were admissible under F.R.E Rule 804(b)(3) dealing with statements against interest?</p>										<div class="clear"></div>				<div style='float: none; clear: both;'></div>																		<div id="wp_page_numbers">					<div style="float: none; clear: both;"></div>					<div id="wp_page_numbers"><ul><li class="page_info">« Previous</li><li class="active_page"><a href="http://www.casebriefs.com/blog/law/evidence/evidence-keyed-to-fisher/the-rule-against-hearsay/williamson-v-united-states/" class="paginate">1
+
+Brief Fact Summary
+Harris was pulled over by the police for erratic driving, and a subsequent search revealed several kilos of cocaine.  He gave one version of how he got the drugs during his first interview with the police, but subsequently changed his story.
+
+Synopsis of Rule of Law
+Federal Rule of Evidence (”F.R.E.”) Rule 804(b)(3) provides that certain statements against interest may be admitted even though they are hearsay, because they contain certain guarantees of trustworthiness not contained in hearsay generally.  The Supreme Court of the United States (the “Supreme Court”) defines “statement” in this case narrowly, and would exclude all statements in a larger contextual narrative that are not explicitly self-inculpatory.
+
+Facts
+After Harris was pulled over for driving erratically, he consented to a search of his car.  Police uncovered several kilos of cocaine.  During his first interview with the police, Harris indicated that he had received the drugs from a Cuban in Fort Lauderdale, that they belonged to Williamson, and that he was to deliver them later that evening to a particular dumpster.  However, when agents sought to arrange a controlled delivery of the cocaine, Harris changed his story, indicating instead that Williamson had been driving ahead of him in another rented car, had witnessed the search, and knew the drugs had been uncovered.  Harris refused to testify at trial, despite a grant of immunity, and he was eventually held in contempt by the court for his refusal.  The agent was allowed to relate the statements made by Harris, and after appeal, the Eleventh Circuit Court of Appeals affirmed the conviction.
+
+Issue
+Whether Harris’s statements to law enforcement were admissible under F.R.E Rule 804(b)(3) dealing with statements against interest?
+
+Held
+Justice Sandra Day O’Connor (”J. O’Connor”) found that some of the statements were admissible and some were not.  Only those statements that were directly inculpatory fell under the exception to the hearsay rule dealing with statements against interest.  All other statements in the larger narrative should have been excluded.
+
+Concurrence
+Justice Antonin Scalia (”J. Scalia”) concurs, adding that there will be some statements that will name other people, but also indicate guilt, and thus be admissible under the standard enunciated by the Court.
+
+Discussion
+The opinions of J. O’Connor and J. Kennedy differ in procedure more then in substance.  J. O’Connor would start with the presumption that no part of a narrative was admissible under F.R.E. Rule 804(b)(3), and would then parse out the statements that were clearly self-inculpatory for admission under the exception to the hearsay rule, excluding all other portions of the larger narrative.  J. Kennedy would do the opposite, presuming the inclusion of an entire narrative that included self-inculpatory statements, and then proceed to parse out those statements that were clearly self-exculpatory for exclusion, leaving in everything “in the middle,” or neutral collateral statements that would provide context for the main self-inculpatory statements.
+

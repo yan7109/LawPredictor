@@ -1,0 +1,21 @@
+Citation
+22 Ill.92 Misc. 2d 739, 401 N.Y.S.2d 156 (Sup. Ct. 1978)
+
+Brief Fact Summary
+The Defendant, Arzon (Defendant), was charged with the murder of a fireman who had received fatal injuries when, responding to an arson that Defendant committed, he encountered a separate arson fire in the same building.
+
+Synopsis of Rule of Law
+An individual is criminally liable for the death of another if his conduct is a sufficiently direct cause of death that could have been reasonably foreseen as a consequence of his actions.
+
+Facts
+The Defendant set fire to a couch on the fifth floor of an abandoned building. Firemen attempted to put out the blaze, but decided to give up when they saw they were having no effect. In retreating from the building, they encountered another fire on the second floor of the building and one of the fireman received fatal injuries from this blaze. The second fire was also determined to be caused by arson, but there was no evidence that it had been committed by Defendant. He was nonetheless charged with the fireman’s murder.
+
+Issue
+Was Defendant criminally liable for the fireman’s death notwithstanding that the victim’s fatal injuries were received by an independent intervening cause not attributable to Defendant?
+
+Held
+Yes. Motion to Dismiss denied.
+
+Discussion
+This case stands for the principle that a defendant may be charged with murder even in situations where there is an intervening act that causes death. Provided defendant, as in this case, could reasonably have known that he was exposing another to life-threatening danger by his conduct, he may be held criminally responsible for other independent harms that befall the victim in the course of confronting the danger attributable to defendant.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.512 U.S. 186, 114 S. Ct. 2205, 129 L. Ed. 2d 157 (1994)
+
+Brief Fact Summary
+A Massachusetts statute required all milk “dealers” in the state to pay a monthly “premium payment” into the MA Dairy Equalization Fund. Every month the fund was distributed to MA milk producers (dairy farmers) so they could compete with lower cost dairy farmers from other states.
+
+Synopsis of Rule of Law
+State taxation of interstate commerce is allowed so long as the tax does not discriminate against or cause an undue burden on interstate commerce. The Dormant Commerce Clause prohibits economic protectionism.
+
+Facts
+Between 1980 and 1990, Massachusetts dairy farmers began to lose market share to lower cost dairy farmers in neighboring States. In response, Massachusetts passed a statute that required milk dealers to pay a monthly “premium payment” based on the amount of fluid milk products sold into a fund. Then the State distributed money from that fund to in-state dairy farmers (producers) to help them compete against out of state farmers. West Lynn Creamery is a milk dealer licensed to do business in Massachusetts. It purchased raw milk and then processed, packaged and sold it to wholesalers, retailers and other milk dealers. About 97% of the raw milk it purchased is produced by out-of-state farmers. As a result the tax on Massachusetts farmers is returned to them, but the tax on the milk from out-of-state farmers is not. The net effect was to raise the after-tax price paid by the dealers such that Massachusetts farmers who produce at a higher cost can sell at or below the price charged
+
+Issue
+Does the pricing order unconstitutionally discriminate against interstate commerce?
+
+Held
+Justice Stevens. Yes. Massachusetts state court judgment reversed.
+
+Dissent
+Chief Justice Rehnquist and Justice Blackmun dissenting.
+
+Discussion
+J. Rehnquist, J. Blackmun, J. Thomas, and J. Scalia were all concerned about regular subsidies that are given from a general fund. The majority of the court addressed the regular subsidy problem and said it was not considering it. Many would argue that this case has a very narrow holding, namely, that a tax that primarily effects out-of-state producers and is redistributed directly to in-state producers of the same product is unconstitutional under the Dormant Commerce Clause.
+

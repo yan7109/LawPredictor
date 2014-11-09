@@ -1,0 +1,24 @@
+Citation
+129 S. Ct. 747
+
+Brief Fact Summary
+The Petitioner, Otis Trammel (the “Petitioner”), and his wife, Elizabeth Trammel (”Ms. Trammel”), were involved in importing heroin into the United States from Thailand and the Philippine Islands.  Ms. Trammel was arrested during one of the imports.  She agreed to cooperate with Government and testify against her husband in exchange for leniency.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (F.R.E.) Rule 501 allows federal courts to continue to develop testimonial privileges in light of reason and experience.
+
+Facts
+The Petitioner was indicted with two others for importing heroin and for conspiracy to import heroin.  The Petitioner’s wife, Ms. Trammel, was an unindicted co-conspirator.  Ms. Trammell was arrested during one of the heroin transports into the United States.  She agreed to cooperate with the Government.  The Petitioner moved to sever his case from the two other co-defendants.  He advised the trial court that he intended to claim a privilege to prevent his wife from testifying.  The trial court ruled that Ms. Trammel could testify to any act she saw during her marriage and on any communications made in the presence of a third person.  However, communications between her and the Petitioner were privileged and not admissible.  The Petitioner was found guilty on all charges.  The Court of Appeals affirmed the conviction.
+
+Issue
+Whether a defendant may invoke the privilege against adverse spousal testimony in order to exclude the voluntary testimony of his wife?
+
+Held
+Chief Justice Warren Burger (”J. Burger”) delivered the opinion for the United States Supreme Court (”Supreme Court”) in affirming the lower courts, and holding that a spouse may voluntarily testify.
+
+Concurrence
+Justice Potter Stewart (”J. Stewart”) issued a concurring opinion, but it is omitted from the text.
+
+Discussion
+The Supreme Court found that the witness spouse should not be foreclosed from testifying.  Such a rule continues to support the public interest of the spousal privilege and does not burden the needs of law enforcement.
+

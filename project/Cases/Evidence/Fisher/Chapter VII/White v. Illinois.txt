@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 59 175 L. Ed. 2d 23 2009 U.S.
+
+Brief Fact Summary
+Randall D. White (Petitioner) was charged with and convicted of aggravated sexual assault of a child.  At Petitioner’s trial, the lower court allowed the testimony of various parties, including the child’s mother, babysitter, doctor, and nurse, as well as a police officer, all under exceptions to the hearsay rule.  Petitioner challenges, on certiorari, the admission of that evidence here.<span class="heading">Synopsis of Rule of Law.</span> The Confrontation Clause of the 6th Amendment does not require that the prosecution introduce the declarant at trial, nor that the declarant be available, in order for testimony to be admissible under the hearsay exceptions for spontaneous statements or statements made in the course of medical examinations.
+
+Facts
+Just past midnight, Tom DeVore (DeVore) heard 4-year-old S.G. (Victim) scream; DeVore was Victim’s babysitter, and went to Victim’s room after hearing the scream.
+
+Issues
+Is it necessary that a declarant be unavailable in order for statements of the declarant to be admissible under the hearsay exceptions for spontaneous declarations (under Federal Rule of Evidence 803(2)) and/or for statements made in the course of obtaining medical treatment (under Federal Rule of Evidence 803(4))?Is it necessary that a party seeking to introduce a declarant’s statements produce the declarant at trial in order for the declarant’s statements to be admissible under the hearsay exceptions for spontaneous declarations (under Federal Rule of Evidence 803(2)) and/or for statements made in the course of obtaining medical treatment (under Federal Rule of Evidence 803(4))?
+
+Held
+Affirmed.
+
+Concurrence
+Justices Thomas (writing) and Scalia concur in part and concur in the judgment.  The concurring opinion points out that the 6th Amendment’s Confrontation Clause, “provides simply that ‘in all criminal prosecutions, the accused shall enjoy the right . . .  to be confronted with the witnesses against him . . . .’”  The concurring opinion goes on, “[i]t is plain that the critical phrase within the Clause for purposes of this case is ‘witnesses against him.’”  Therefore, the concurrence argues, attempting to, “draw a line between statements made in  contemplation of legal proceedings and those not so made would entangle the courts in a multitude of difficulties,” and concludes that the Court should therefore, “reconsider how the phrase ‘witness against’ in the Confrontation Clause pertains to the admission of hearsay.”
+
+Discussion
+The Court discusses the basis for the Confrontation Clause, and the reasoning behind the applicable precedent in making its decision.  Specifically, the Court argues that requiring that a declarant be available or that a party seeking to introduce a declarant’s statements produce the declarant would be counter-intuitive.  The Court writes, “given a declarant’s likely change in status by the time the trial occurs, simply calling the declarant in the hope  of having him repeat his prior out-of-court statements is a poor substitute for the full evidentiary significance that flows from statements made when the conspiracy is operating in full force.”  The Court goes on, “there is little benefit, if any, to be accomplished by imposing an ‘unavailability rule.’ . . . [s]uch a rule will not work to bar absolutely the introduction of the out-of-court statements . . . [nor would it be] likely to produce much testimony that adds meaningfully to the trial’s truth-determining process.”
+

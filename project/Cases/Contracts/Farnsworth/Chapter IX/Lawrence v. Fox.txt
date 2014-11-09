@@ -1,0 +1,24 @@
+Citation
+20 N.Y. 268, 1859 N.Y.
+
+Brief Fact Summary
+The Plaintiff sued to recover for a promise made by the Defendant to one Holly, that the Defendant would pay the Plaintiff $300.
+
+Synopsis of Rule of Law
+A promise made for the benefit of another may be enforced by the person for the benefit of whom the promise was made.
+
+Facts
+Holly owed the Plaintiff $300. The Defendant asked to borrow $300 from Holly, and Holly assented. In exchange for the loan, the Defendant promised to pay $300 to the Plaintiff the next day to satisfy Holly’s debt to the Plaintiff. The Defendant did not pay the Plaintiff and the Plaintiff sued to recover the benefit promised to him under the contract between Holly and the Defendant.
+
+Issue
+Can a third party maintain an action to enforce a benefit promised to him in a contract not entered into by him directly?
+
+Held
+Yes. The law is clear “that a promise made to one for the benefit of another, he for whose benefit it is made may bring an action for its breach.” Here, Holly owed money to the Plaintiff and entered into a contract with the Defendant whereby Holly would loan the Defendant money if the Defendant agreed to pay the Plaintiff what Holly owed him. This agreement was not lacking in consideration, because the consideration does not have to be between the Plaintiff and the Defendant. There simply has to be consideration between the parties to the contract. Hence, the Plaintiff can maintain this action against the Defendant.
+
+Dissent
+The Plaintiff did not have anything to do with the promise, and no consideration was given by him. Therefore, the Plaintiff has no right to enforce the agreement for his benefit.
+
+Discussion
+A third party beneficiary may sue to enforce a promise made for his benefit.
+

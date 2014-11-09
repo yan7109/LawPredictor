@@ -1,0 +1,15 @@
+Citation
+178 L. Ed. 2d 503 2010 U.S.
+
+Brief Fact Summary
+The defendant, Carrillo (the “defendant”), was convicted for the distribution of heroin and cocaine.  The plaintiff, the United States’ Government (the “plaintiff”), was allowed to present evidence of two other previous sales by the defendant.  A jury found the defendant guilty despite the defendant’s objection to the admission of the previous sales.<span class='heading'>Synopsis of Rule of Law.</span>  Character evidence is admissible, but may be excluded not because it has no probative value, but because it sometimes may lead jury to convict accused on ground of bad character deserving punishment regardless of guilt.
+
+Facts
+The defendant is charged with the sale of narcotics to undercover officers in the form of balloons.  The defendant argued that this is a case of mistaken identify and that the officer mistook him as the seller.  The court allowed the plaintiff to present evidence of two other sales of a controlled substance by the defendant.  Overall, the plaintiff argued that these past sales were similar to the sale that took place on the night in question and that this operated as a modus operandi.  In other words, that it establishes the defendant’s identity as the drug seller in the present case.  The defendant appeals his conviction.<span class='heading'>Issue.</span> Whether the sale of drugs by using digestible balloons operated as a modus operandi (trademark) of the defendant and should therefore be allowed as similar acts evidence?
+
+Held
+The extrinsic acts of the defendant were not sufficient to mark them as the handiwork of the defendant and thus were not admissible under the modus operandi method of identification.
+
+Discussion
+The admissibility of extrinsic act evidence under Federal Rules of Evidence (”F.R.E.”) Rule 404(b) is determined by application of a two-part test.  First, it must be determined that the extrinsic offense evidence is relevant to an issue other than the defendant’s character.  Second, the evidence must possess probative value that is not substantially outweighed by its undue prejudice.  Character evidence is not excluded because it has no probative value, but because it sometimes may lead a jury to convict the accused on the ground of bad character deserving punishment regardless of guilt.  The court stated an extrinsic offense is not admissible under F.R.E. Rule 404(b) to show identity “merely because it is similar, but only if it bears such a high degree of similarity as to mark it as the handiwork of the accused.”  In the present case, the fact that defendant made prior sales of drugs in the form of digestible balloons is not a modus operandi.  Further, showing that the
+

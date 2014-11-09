@@ -1,0 +1,21 @@
+Citation
+481 U.S. 69, 107 S. Ct. 1637, 95 L. Ed. 2d 67 (1987)
+
+Brief Fact Summary
+Appellee, Dynamics Corporation of America, challenged the validity of an Indiana state law that granted additional shareholder rights, claiming that it was preempted by federal law and violated the Commerce Clause of the United States Constitution.
+
+Synopsis of Rule of Law
+States, as the creators of corporate entities, have the ability to define the protections afforded to shareholders providing that it is possible to comply with the state law and federal law.
+
+Facts
+Appellee owned 9.6% of Appellant, CTS Corporation and announced a tender offer to increase their ownership to 27.5%.  Six days before their announcement, an Indiana law, Indiana’s Control Share Acquisitions Act, came into effect.  The Act allows for disinterested shareholders to hold a shareholders’ meeting to discuss the merits of a tender offer for controlling shares.  Appellee argues that the Act is preempted by a federal law, the Williams Act.  The Williams Act provides guidelines that offerors need to follow when making a tender offer.  Appellee also argues that the Indiana Act violates the Commerce Clause because it treats in-state entities differently from out-of-state entities.
+
+Issue
+The first issue is whether the Williams Act preempts the Indiana Act. The second issue is whether the Indiana Act violates the Commerce Clause due to unequal treatment between in-state and out-of-state entities.
+
+Held
+The Indiana Act is not preempted by the federal law because entities can comply with both federal and state law without frustrating the federal law.  The state law furthers the federal law’s goal of protecting shareholders from tender offer abuses but does not tip the balance between management and acquirers.  Instead, the rights of shareholders are strengthened in a situation where many believe shareholders are traditionally at a disadvantage. The Indian Act does not violate the Commerce Clause because corporations by definition are entities created by state law, and therefore it is only logical that states would define the rights and characteristics of corporations.  The United States Supreme Court noted that there are several instances where states have laws regulating the powers of acquiring entities, such as supermajority voting requirements.<span class='heading'>Dissent.</span> The dissent believed that the law prevented shareholders to act in their best interests by forcing them to act only after the shareholder meeting.<br />Concurrence. The concurring opinion would simplify the Commerce Clause analysis by just examining whether the state law discriminates against interstate commerce, and simply holds that state corporation codes should rarely if ever be preempted by federal law.<br />
+
+Discussion
+The decision illustrates that states can offer further protection, in particular for shareholders, in response to the deluge of questionable tender offers.
+

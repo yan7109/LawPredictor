@@ -1,0 +1,21 @@
+Citation
+510 U.S. 1090
+
+Brief Fact Summary
+Plaintiff was killed when Defendant’s automobile crashed into Plaintiff’s buggy. Defendant requested a ruling that the lack of lights on Plaintiff’s buggy was prima facie evidence of contributory negligence.
+
+Synopsis of Rule of Law
+Jurors have no dispensing power by which they may relax the duty that one traveler on the highway owes under the statute to another.
+
+Facts
+The decedent (Plaintiff) was killed when Defendant’s automobile crashed into Plaintiff’s buggy. The accident was at night, when it was dark, and Plaintiff was operating his buggy without any lights, in violation of a statute. Defendant requested a ruling that the absence of lights on Plaintiff’s buggy was prima facie evidence of contributory negligence. The trial court refused Defendant’s request. The jury found Defendant liable and Plaintiff free from contributory negligence. The appellate court reversed the trial court’s judgment. Plaintiff appealed the appellate court’s ruling.
+
+Issue
+Does the jury have the dispensing power by which they may relax the duty that one traveler on the highway owes under the statute to another?
+
+Held
+No. The appellate court’s verdict is sustained.
+
+Discussion
+The jury may not discount a breach of a statutory duty. The question of duty is a question of law. The jury is the trier of facts. Plaintiff wrongfully violated a statute intended for the protection of Defendant. Plaintiff is negligent per se. The only thing left to determine is causation and injury. If Plaintiff’s failure to light the buggy was the cause of the accident, then it is contributory negligence.
+

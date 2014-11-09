@@ -1,0 +1,21 @@
+Citation
+223 Md. 305, 164 A.2d 451, 1960 Md.
+
+Brief Fact Summary
+K & G Construction Co. (Plaintiff) sued Harris (Defendant), a subcontractor, for damage done to a construction site and for breach of the subcontract. Defendant counter-sued for the work Plaintiff had not paid for, and for lost profits.
+
+Synopsis of Rule of Law
+The failure of one party to render substantial performance on an agreement may allow the other party to refuse to perform some or all of his obligations under the contract.
+
+Facts
+Plaintiff subcontracted with Defendant to provide excavation work for a housing development. Payment for Defendant’s work was to be made in installments. The contract further provided that Defendant would carry adequate insurance, and would perform the work in a satisfactory manner. One of the excavations caused a wall to collapse. Defendant and his insurer refused to pay for the damage. Plaintiff was otherwise satisfied with Defendant’s work for several months. When Defendant submitted a bill for payment, Plaintiff refused to pay because he had not been compensated for the bulldozer damage. Defendant continued work for another month, after which time it stopped excavation because Defendant had not been paid. Plaintiff was forced to hire another subcontractor to complete the work, and sued Defendant for the bulldozer damage and the increased cost of hiring another subcontractor. The Defendant counterclaimed for the work not paid for, and for lost profits. The trial court found
+
+Issue
+Whether Plaintiff was justified in refusing to make the installment payments to Defendant?
+
+Held
+Yes.
+
+Discussion
+This case should be compared with the Restatement’s approach to a material breach of contract. This case also suggests that there is risk associated with a party determining that a material breach of contract, sufficient to stop performance, has occurred. A party’s decision to engage in self-help may prove to be wrongful, and that party may find itself liable for damages.
+

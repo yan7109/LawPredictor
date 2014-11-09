@@ -1,0 +1,21 @@
+Citation
+437 U.S. 365, 98 S. Ct. 2396, 57 L. Ed. 2d 274, 1978 U.S. 114
+
+Brief Fact Summary
+The Respondent-Plaintiff, Kroger (Plaintiff), a citizen of Iowa, filed suit against Omaha Public Power district, a Nebraska citizen, in federal district court. The basis of federal court jurisdiction was diversity. Respondent amended the complaint naming the Petitioner-Defendant, Owen Equipment & Erection Co. (Defendant), an Iowa corporation, as an additional defendant.
+
+Synopsis of Rule of Law
+Diversity jurisdiction does not exist unless each defendant is a citizen of a different state from each plaintiff, even where the non-diverse defendant is impleaded through ancillary jurisdiction.
+
+Facts
+Plaintiff, a citizen of Iowa, filed suit against Omaha Public Power district, a Nebraska citizen, in federal district court, where the basis of federal court jurisdiction was diversity. Respondent amended the complaint naming Defendant, an Iowa corporation, as an additional defendant.
+
+Issue
+Whether a federal court has ancillary jurisdiction over a third-party defendant named in an amended complaint in a suit in which complete diversity exists between the plaintiff and the original defendant, but where the newly named third-party defendant is a citizen of the same state that the plaintiff is.
+
+Held
+No. The judgment of the court of appeals was reversed.   The relevant statute in this case, 28 U.S.C. Section: 1332(a)(1), confers upon federal courts jurisdiction over civil actions where the matter in controversy exceeds $75,000 and is between citizens of different states. This statute and its predecessors have consistently been held to require complete diversity of citizenship. That is, diversity jurisdiction does not exist unless each defendant is a citizen of a different state from each plaintiff. When the Plaintiff amended her complaint to assert a claim against the Defendant, complete diversity was destroyed just as surely as if she had sued Defendant initially.  If a common nucleus of operative facts were the only requirement for ancillary jurisdiction in a diversity case, there would be no principled reason why the Plaintiff in this case could not have joined her cause of action against Defendant in her original complaint as ancillary to her claim against Omaha.   <br/><br/><span class='heading'>Dissent.</span> Justice Byron R. White (J. White) dissented, in which he was joined by Justice William J. Brennan (J. Brennan). Their dissent viewed Section: 1332 as only requiring complete diversity between the plaintiff and the parties he initially brings into the suit. Thus they held that in a diversity case a federal court has power to entertain all claims among the   parties arising from the same nucleus of operative facts as the plaintiff’s original claim against the defendant.
+
+Discussion
+This case was decided primarily out of respect for the limits of the reach of the federal government, particularly federal court jurisdiction. In reaching its decision the Supreme Court of the United States (Supreme Court) recognized that federal courts are courts of limited jurisdiction and that these limits must neither be disregarded nor evaded. Thus, by requiring complete jurisdiction between all parties, whether initial parties or third-parties later impleaded under ancillary jurisdiction, the Supreme Court is staying true that premise.
+

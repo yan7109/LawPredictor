@@ -1,0 +1,24 @@
+Citation
+304 U.S. 64, 58 S. Ct. 817, 82 L. Ed. 1188 (1938)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court for negligence for an accident that occurred in Pennsylvania. Under Pennsylvania law, Plaintiff was a trespasser and would have to prove Defendant was wantonly negligent. Under the general rule, however, Defendant only owed a duty of ordinary care to Plaintiff. The District Court applied the general rule and the jury returned a verdict for Plaintiff that was upheld by the Court of Appeals.
+
+Synopsis of Rule of Law
+The term “laws” in Section 34 in the Judiciary Act of 1789 (the “Rules of Decision Act”) refers to the decisions of local tribunals as well as state statutes, their interpretations by the courts, and the rights and titles to things having a permanent locality.
+
+Facts
+Tompkins (Plaintiff) was walking along a path next to railroad tracks in Pennsylvania when an object protruding from a train struck him. Plaintiff sued Erie Railroad Company (Defendant), the owner of the property, for negligence in federal court. Defendant is based in New York. Under Pennsylvania law, Plaintiff was a trespasser and Defendant only owed a duty to avoid wanton negligence. The majority rule, however, is that a railroad owes a duty of ordinary care to a traveler on a footpath. The District Court applied the general law and found for Plaintiff. The Court of Appeals affirmed.
+
+Issue
+Under Section 34 of the federal Judiciary Act of 1789, should Pennsylvania law apply to Plaintiff’s case?
+
+Held
+Yes.
+
+Dissent
+Justice Butler: The Court considered a question that was not raised. Furthermore, the case cited as grounds for overruling Swift v. Tyson was a single dissent authored 50 years after the Tyson decision was announced. The Court does find Section 34 unconstitutional, and it did not give counsel a chance to argue the constitutional question. Finally, the constitutionality of Section 34 need not have been considered because the evidence shows that Plaintiff was guilty of contributory negligence. Therefore, the judgment should be reversed.
+
+Discussion
+This case articulates what is known as the “Erie doctrine”: a federal court sitting in diversity applies substantive state law. Erie expanded the definition of Section 34 of the Judiciary Act of 1789 to include state court decisions. The two policies emphasized in Erie: uniformity of state court decisions and prevention of discrimination between residents and non-residents, are mentioned frequently in subsequent decisions that support and refine Erie.
+

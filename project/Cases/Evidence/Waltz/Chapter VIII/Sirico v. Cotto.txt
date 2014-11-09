@@ -1,0 +1,21 @@
+Citation
+67 Misc. 2d 636, 324 N.Y.S.2d 483, 1971 N.Y. Misc.
+
+Brief Fact Summary
+In a personal injury lawsuit, plaintiff’s attorney called as a witness an X-ray expert.  The expert attempted to testify about what X-ray photos showed of plaintiff’s injuries without having the X-rays on the witness stand.  The Court barred his testimony.
+
+Synopsis of Rule of Law
+If the best evidence rule excludes evidence, opinion testimony based on that evidence is also inadmissible.
+
+Facts
+To support her damages claim in a personal injury case, plaintiff called a radiology specialist to provide expert testimony as to the cause of plaintiff’s spinal problems.  The radiology specialist attempted to provide his testimony using only a written report to refresh his recollection.  The X-rays on which his opinion was based were not in his possession.  Defense counsel objected, citing the best evidence rule, when the expert attempted to provide testimony based on the missing X-rays.  The Court sustained the objection because the expert attempted to testify about evidence outside the record.
+
+Issue
+If the best evidence rule bars evidence, is expert testimony based on that evidence also inadmissible?
+
+Held
+Yes.  If the best evidence rule excludes testimony that forms the foundation of an expert’s testimony, then any expert testimony based on that excluded evidence is also inadmissible because the testimony is based on evidence outside the record.
+
+Discussion
+Courts allow expert testimony in order to help the jury understand uncommon or technical evidence, such as what X-rays show regarding spinal injuries. However, if there are no X-rays admitted into evidence, there is nothing about which the expert can testify.  The expert cannot help a jury understand evidence that, to the jury, does not exist.  The best evidence rule requires that the content of a document, which is any physical embodiment of information, be proved by the introduction of the original document, unless its absence can be satisfactorily accounted for.
+

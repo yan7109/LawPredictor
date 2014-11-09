@@ -1,0 +1,24 @@
+Citation
+428 U.S. 465, 96 S. Ct. 3037, 49 L. Ed. 2d 1067 (1976)
+
+Brief Fact Summary
+Lloyd Powell (”Mr. Powell”) was convicted of murder by a California court.  Mr. Powell claimed that the search uncovering the murder weapon was unlawful, and such evidence should have been inadmissible at trial.
+
+Synopsis of Rule of Law
+A state prisoner may not  be granted federal habeas corpus relief challenging the admission of evidence obtained through an unconstitutional search and seizure when the state provides a full and fair opportunity to litigate a Fourth Amendment constitutional claim.
+
+Facts
+Mr. Powell was convicted of murder in a California state court in June 1968.  Mr. Powell and three companions entered the Bonanza Liquor Store in San Bernardino, California around midnight on February 17, 1968.  Mr. Powell became involved in an altercation with the store manager over the theft of a bottle of wine.  Mr. Powell shot and killed the store manager’s wife.  Ten hours later, an officer of the Henderson, Nevada, Police Department arrested Mr. Powell for violation of the Henderson vagrancy ordinance.  In the search incident to the arrest, the officer discovered a .38 caliber revolver with six expended cartridges in the cylinder.  A criminologist’s testified that the revolver found on Mr. Powell was the murder weapon.  The store manager and Mr. Powell’s accomplices testified against him.  The trial court rejected Mr. Powell’s contention that the testimony of the criminologists should have been excluded because the ordinance was unconstitutional, and the arrest invalid.
+
+Issue
+Whether federal courts are obligated to consider claims of illegal searches and seizures after such claims have been decided by state courts?
+
+Held
+Where the State has provided the opportunity for full and fair litigation of a Fourth Amendment constitutional claim, a state prisoner may not be granted federal habeas corpus relief on the ground that evidence obtained through an unconstitutional search and seizure was introduced at his trial.
+
+Dissent
+Justice William Brennan (”J. Brennan”) issued a dissenting opinion, in which Justice Thurgood Marshall (”J. Marshall”) concurred, asserting that the majority’s decision usurps congressional authority to reassign federal judicial responsibility for reviewing state prisoners’ claims.  Further, J. Brennan argues that the decision will cause state prisoners’ claims of constitutional violations to not be reviewed by federal courts.  He believes this decision is watering down constitutional rights.
+
+Discussion
+The Supreme Court of the United States (”Supreme Court”) reasoned that the primary concern in a criminal proceeding should be the guilt or innocence of the individual.  While the exclusionary rule is used to deter unlawful police conduct, the history of the application of the rule has had the effect of freeing the guilty in some situations.  The Supreme Court does not believe that the effect of applying the rule would be diminished by not allowing federal habeas review of state convictions wherein the convicted has had the opportunity for full and fair litigation at the state level.
+

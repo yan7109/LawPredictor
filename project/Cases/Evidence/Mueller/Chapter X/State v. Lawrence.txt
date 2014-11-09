@@ -1,0 +1,27 @@
+Citation
+235 P.2d 600
+
+Brief Fact Summary
+The defendant appealed his conviction for grand larceny after stealing a car.  He argued that the trial court should not have taken judicial notice of the value of the car.
+
+Synopsis of Rule of Law
+Judicial notice may not be taken on any fact which is a necessary element of the crime with which the accused is charged.
+
+Facts
+The defendant was convicted of grand larceny for stealing an automobile.  The defendant moved for a directed verdict on the ground that no evidence was offered on the value of the stolen car.  The State argued that judicial notice could be taken of the value of the car.  The trial court denied the motion and instructed the jury that grand larceny is committed when the property is over $50, and in this case the value is over $50.
+
+Issue
+Where there is no evidence of value except a description of the property, is it error for the court to instruct the jury that the value of the property is greater than $50 and that if defendant is guilty, he is guilty of grand larceny?
+
+Held
+Justice Crockett issued the opinion for the Supreme Court of Utah in reversing the lower court and remanding for a new trial.  The majority held that there was prejudicial error by instructing the jury to assume a fact that was not in evidence
+
+Dissent
+Chief Justice Wolff dissents arguing that it is common and general knowledge that the value of the car was more than $50, and judicial notice could be taken.
+
+Concurrence
+Justices Wade and McDonough concurred, but did not write separately.
+
+Discussion
+All facts in a criminal case should be submitted to a jury for them to decide.  Allowing a court to take away one element of an offense from the jury could erode the integrity of the jury system and constitutional protections.
+

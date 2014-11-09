@@ -1,0 +1,21 @@
+Citation
+160 F.2d 482 (2d Cir. 1947)
+
+Brief Fact Summary
+A district court held Appellant (Conners Co.) partly liable for damage to a barge and for lost cargo by not having an attendant aboard the barge when it broke free from a pier. Appellant sought review.
+
+Synopsis of Rule of Law
+There is no general rule to determine when the absence of an attendant will make the owner of the barge liable for injuries to other vessels if she breaks away from her moorings. If he is found to be liable for injuries to others, then he must reduce his damages proportionately, if the injury is to his own barge. Vessels invariably suffer accidents. The owner’s duty, as in other similar situations, to prevent against resulting injuries is a function of three variables: (1) The probability of the kind of incident in question; (2) the gravity of the resulting injury; and (3) the burden of adequate precautions.
+
+Facts
+Appellant owned a barge, which was chartered by a railroad company. The barge, with a cargo of flour owned by the United States, was moored to the end of the pier. Appellant chartered a tug company, Carroll Towing Co. (Appellee) to drill out one of the barges. Appellee went aboard the barge and readjusted its mooring lines. The barge broke free of the mooring lines due to this readjustment. The Barge hit a tanker, and the tanker’s propeller broke a hole in the barge. The barge careened, dumped her cargo, and sank. No one was aboard at the time. Appellee argued that is someone was aboard the barge to observe it leaking after it broke free, the cargo and the barge could have been saved.
+
+Issue
+At issue is whether the Appellants should be held partly liable for damage to the barge and for the lost cargo by not having an attendant aboard the barge when it broke free from the pier.
+
+Held
+Appellants held partly liable. The court applied the “burden was less than the injury multiplied by the probability” formula and found that the burden of having an attendant aboard the barge was less than the gravity of injury of a runaway barge multiplied by the probability that the barge would break free if unattended.
+
+Discussion
+The Carroll case is noteworthy in that it utilizes a balancing test to determine whether a breach of the duty of ordinary care occurred. Most courts employ Judge Hand’s formulation: a comparable risk-benefit model. The Hand formulation provides that an actor is in breach if the burden of taking measures to avoid the harm would be less than the multiple of the probability of the kind of incident in question times the gravity of the harm should it occur, or B<PxL.
+

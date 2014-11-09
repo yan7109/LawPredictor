@@ -1,0 +1,18 @@
+Citation
+267 Ga. 574, 481 S.E.2d 518 (1997)
+
+Synopsis of Rule of Law
+Compliance with a statute is not a complete defense to a products liability claim.  Risk-utility balancing is the standard for whether a product is manufactured or designed reasonably.  Under the risk-utility test, compliance with federal standards is a factor for the jury to consider in deciding the question of reasonableness, but it does not render the manufacturer’s choices immune from liability.
+
+Facts
+Victoria Doyle was seriously injured when her new 1989 Volkswagen Jetta was struck in the rear by another vehicle.  An expert testified that her injuries were caused by the absence of a lap belt.  The Jetta had automatic shoulder belts but no lap belts, a design which was authorized by federal standards.  The Doyles sued Volkswagen for negligence, strict liability, and breach of warranty.  Defendant moved for summary judgment arguing that they had no duty to exceed federal standards.  The trial court granted defendant’s motion and the Georgia Supreme Court reversed.
+
+Issue
+Whether Georgia law precludes a personal injury product liability claim against an auto manufacturer when the car is in compliance with the National Automobile Safety Act.
+
+Held
+No.  The notion that compliance with statute is complete defense is inconsistent with risk-utility analysis.  Under the risk-utility test, compliance with federal standards is a factor for the jury to consider in deciding the question of reasonableness, but it does not render the manufacturer’s choice of design immune from liability.  Evidence of such compliance is a significant piece of the evidentiary puzzle, but it does not bar manufacturer liability for design defect as a matter of law.
+
+Discussion
+This case expresses the conventional view that compliance with a statute does not conclusively demonstrate the absence of negligence.  Compliance may be relevant, however, as one fact among many tending to indicate that the defendant was not negligent.
+

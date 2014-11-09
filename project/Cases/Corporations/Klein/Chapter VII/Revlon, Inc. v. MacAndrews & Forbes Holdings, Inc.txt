@@ -1,0 +1,21 @@
+Citation
+506 A.2d 173 (Del. 1985)
+
+Brief Fact Summary
+Defendants, Revlon, Inc. and its directors, appealed a decision by the lower court to enjoin an option granted by Defendants to another Defendant, Forstmann Little & Co.  Revlon sought to avoid a takeover by Pantry Pride, Inc. by offering the option to Forstmann.
+
+Synopsis of Rule of Law
+When a takeover is inevitable, the directors’ duty is to achieve the best price for the shareholder.
+
+Facts
+Pantry Pride’s CEO approached Revlon’s CEO and offered a $40-42 per share price for Revlon, or $45 if it had to be a hostile takeover.  The CEO’s had personal differences, and the court noted this as a potential motivation for Revlon to turn elsewhere.  Revlon’s directors met and decided to adopt a poison pill plan and to repurchase five million of Revlon’s shares.  Pantry Pride countered with a $47.50 price which pushed Revlon to repurchase ten million shares with senior subordinated notes.  Pantry Pride continued to increase their bids, and Revlon decided to seek another buyer in Forstmann.  Revlon offered $56.25 with the promise to increase the bidding further if another bidding topped that price.  Instead, Revlon made an agreement to have Forstmann pay $57.25 per share subject to certain restrictions such as a $25 million cancellation fee for Forstmann and a no-shop provision.  Plaintiffs, MacAndrews & Forbes Holdings, Inc., sought to enjoin the agreement because it was no
+
+Issue
+The issue is whether Revlon’s agreement with Forstmann should be enjoined because it is not in the best interests of the shareholders.
+
+Held
+The Delaware Supreme Court affirmed the lower court’s decision to enjoin the agreement.  Revlon’s directors owed a fiduciary duty to the shareholders and the corporation, but once it was evident that Revlon would be bought by a third party the directors had a duty solely to the shareholders to get the best price for their shares.  Any duty to the noteholders is outweighed by the duty to shareholders.  By preventing the auction between Pantry Pride and any other bidders, the directors did not maximize the potential price for shareholders.
+
+Discussion
+The court held that the Unocal doctrine that outlined a director’s duty to the corporation and the shareholder no longer extended to the corporation once it was determined that the corporation would be sold.
+

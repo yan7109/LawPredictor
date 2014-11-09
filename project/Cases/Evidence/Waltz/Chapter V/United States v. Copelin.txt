@@ -1,0 +1,21 @@
+Citation
+996 F.2d 379, 302 U.S. App. D.C. 113 1993 U.S. App.
+
+Brief Fact Summary
+Copelin was arrested after he sold drugs to an undercover police officer.  He was charged with unlawful distribution and possession with intent to distribute, and was subsequently convicted of the distribution charge, but was acquitted of the possession charge.
+
+Synopsis of Rule of Law
+Evidence of prior bad acts is allowable for impeachment purposes.
+
+Facts
+An undercover police officer purchased drugs from Copelin, using marked bills. The man who sold the drugs to the officer got the drugs from a brown medicine bottle.   At the time Copelin was arrested, officers found that he possessed marked bills and they also found a brown medicine bottle containing cocaine in his car.  At trial, Copelin denied that he had sold drugs to the officer.  The jury convicted Copelin of possession with unlawful distribution, but did not convict Copelin of possession with intent to distribute.
+
+Issue
+Whether Federal Rules of Evidence (”F.R.E”) Rule 404(b) permits testimony of prior bad acts when the evidence is being used to impeach, rather than for the purpose of the character of the witness?
+
+Held
+Copelin testified that he had only seen drugs on television.  Therefore, evidence of positive drug tests was proper because the evidence was used to show that Copelin’s testimony was false.
+
+Discussion
+The prior bad acts of Copelin were admissible at trial because the government used them solely to impeach Copelin’s testimony that he had only seen drugs on telephone.  Evidence of positive drugs tests was admitted merely to show that his testimony was false.  Despite the government’s proper use of that testimony, the conviction had to be overturned because the judge did not give a proper limiting instruction.  Even though defense counsel failed to request the instruction, the court, on its own motion, should have given the instruction.
+

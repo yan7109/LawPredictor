@@ -1,0 +1,21 @@
+Citation
+430 U.S. 313, 97 S. Ct. 1192, 51 L. Ed. 2d 360, 1977 U.S.
+
+Brief Fact Summary
+The Social Security old-age insurance benefits are calculated differently for men and women, with the result that women’s benefits are skewed slightly toward their later (higher earning) years, qualifying women for slightly greater benefits.
+
+Synopsis of Rule of Law
+The government may enact remedial legislation to benefit women in areas where they have been traditionally discriminated against.
+
+Facts
+Prior to 1972, there was a difference between the method for calculating old-age insurance benefits for men and women. In particular, the benefits were calculated based on the use of “average monthly wages,” which were calculated during the period from 1950 until a male turned 65 or a female turned 62. Therefore, a female averages three fewer years than a male in the calculation, resulting in a slightly higher average than a male.
+
+Issue
+Is this disparity of methods between sexes proper under the Fifth Amendment of the United States Constitution (Constitution)?
+
+Held
+No. The Supreme Court of the United States (Supreme Court) reiterates the holding of Craig v. Boren, 429 U.S. 190 (1976), saying that a classification based on gender must serve an important government interest and be substantially related to achieving that interest. Citing the historical wage gap between men and women, the Supreme Court views that allowing women to eliminate three low-wage years from their calculation, remedies some part of this discrimination.
+
+Discussion
+At first glance, Califano seems at odds with Croson, 488 U.S. 469 (1989), where the Supreme Court ruled that a generalized allegation of past racial discrimination is not enough to justify remedial legislation. However, racial classification is subject to strict scrutiny, while gender classification is subject to intermediate scrutiny. Hence, the governmental action here is not required to be narrowly tailored to meet the sought end.
+

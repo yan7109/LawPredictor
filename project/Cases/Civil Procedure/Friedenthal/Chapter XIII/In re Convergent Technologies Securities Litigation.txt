@@ -1,0 +1,21 @@
+Citation
+22 Ill.108 F.R.D. 328 (N.D. Cal. 1985)
+
+Brief Fact Summary
+Defendants filed a motion to compel Plaintiffs to respond to contention interrogatories, while Plaintiffs wanted to respond once the period of discovery was nearly finished.
+
+Synopsis of Rule of Law
+Determining the timing of contention interrogatories requires a balancing of factors that would determine if the timing should be early in discovery (to clarify issues and identify frivolous claims) or later (value of information will be slight compared to the expense of litigation).
+
+Facts
+Plaintiffs brought a securities action against Defendants.  The key areas of contention concerned the conduct of Defendants, and therefore when Defendants proposed contention interrogatories early in discovery, Plaintiffs thought that they were unwarranted at that time.  Plaintiffs argued that without additional information obtained through discovery that the interrogatories were of very limited value.  Defendants countered that the information obtained could limit the issues going forward.
+
+Issue
+The issue is whether contention interrogatories should occur at the beginning of discovery or near the end.
+
+Held
+The court held that contention interrogatories should only occur at the initial phase of discovery if the party serving the interrogatories can justify that the early timing can actually clarify the issues, promote early settlement discussion or any other positive purpose without causing undue expense.  In this case, the action concerned the conduct of the litigants and there was evidence to believe that the action was not frivolous.  Therefore the interrogatories should be postponed until further into discovery.  The ruling does not extend to interrogatories seeking the identity of witnesses or other tangible evidence.
+
+Discussion
+The court expressed amazement at how much time and money was spent by the parties at such an early stage in the case.  The court’s holding was meant to reduce the burden of the discovery process.
+

@@ -1,0 +1,21 @@
+Citation
+81 N.J. 548, 410 A.2d 674 (1980)
+
+Brief Fact Summary
+The Superior Court (New Jersey) upheld a jury verdict that found Defendants, including manufacturer, negligent and entered a judgment in favor of Plaintiff restaurant in a products liability action. Defendant distributor challenged the decision.
+
+Synopsis of Rule of Law
+The effect on the Plaintiff of a joint tortfeasor’s settlement will depend upon the percentage of fault found against him. When one Defendant settles, the remaining co-defendant or co-defendants are chargeable with the total verdict less that attributable to the settling Defendant’s percentage share.
+
+Facts
+Plaintiff restaurant purchased a fire extinguishing system from Defendant distributor that was produced by Defendant manufacturer. A fire developed at Plaintiff’s restaurant. The fire extinguishing system failed to operate automatically or manually. Plaintiff filed suit against Defendants alleging strict liability and/or negligence. A jury found the servicer of the system negligent, and the product itself defective, allocating fault to all three parties. One co-defendant, however, had settled with the Plaintiff, requiring the Court to address the question of remaining damages, for contribution, to be assessed against the nonsettling Defendants.
+
+Issue
+What is the effect of a joint tortfeasor’s settlement on co-defendants’ apportionment of liability?
+
+Held
+The Court remanded, ordering judgment for the restaurant against the distributor. The court held that Defendants’ fault, including Defendant manufacturer, of 59 percent amounted to total fault, thus Defendants’ were liable for the entire judgment and that, as a matter of law, there was no contributory negligence.
+
+Discussion
+This case involves contribution among joint tortfeasors. Joint tortfeasors are two or more individuals who either (1) act in concert to commit a tort, (2) act independently but cause a single indivisible tortious injury, or (3) share responsibility for a tort because of vicarious liability.
+

@@ -1,0 +1,24 @@
+Citation
+406 U.S. 404, 92 S. Ct. 1628, 32 L. Ed. 2d 184, 1972 U.S.
+
+Brief Fact Summary
+Three defendants were convicted in Oregon by less-than-unanimous juries, per Oregon law.  The appealed on Sixth Amendment grounds.
+
+Synopsis of Rule of Law
+“The Sixth Amendment guarantee of a jury trial, made applicable to the states by the Fourteenth Amendment, does not require the jury’s vote to be unanimous,” and “jury unanimity is not mandated by the Fourteenth Amendment requirements that racial minorities not be systematically excluded from the jury-selection process.”
+
+Facts
+Defendants Robert Apodaca, Henry Morgan, Jr., and James Arnold Madden were “convicted respectively” of three seperate, non-capital felonies.  Apodaca and Madden were convicted by a jury vote of 11-1, Morgan by 10-2, “the minimum requisite vote under Oregon law for sustaining a conviction.”
+
+Issue
+“[W]hether the Sixth Amendment’s right to trial by jury requires . . . unanimity.”
+
+Held
+No.  The requirement of unanimity is based in custom, rather than in the Constitution of the United States.  In contemporary society, “the essential feature of a jury . . . lies in the interposition between the accused and his accuser of the commonsense judgment in a group of laymen”, able to deliberate on the defendant’s guilt, “free from outside attempts at intimidation.”  The court saw “no difference between juries required to act un-animously” and those of majority rule.  Further, unanimity does not satisfy reasonable doubt because, when this burden of proof was formulated, “the Court purported to draw no support from the Sixth Amendment.”  As to the argument that the Fourteenth Amendment requirement that a jury “reflect a cross section of the community” is furthered by unanimity, the court held that not “every distinct voice in the community has a right to be represented on every jury and a right to prevent conviction of a defendant in every case,” and that it would not as
+
+Dissent
+Note:  * indicates that the dissenting opinion from previous ruling, Johnson v. Louisiana, 406 U.S. 356 (1972) was applied to this ruling.
+
+Discussion
+“As to juries, whether they be unanimous in conviction or a majority rule, “the interest of the defendant in having the judgment of his peers interposed between himself and the officers of the State who prosecute and judge him is equally well served.”
+

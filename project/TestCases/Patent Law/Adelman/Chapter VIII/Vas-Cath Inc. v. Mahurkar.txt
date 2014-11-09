@@ -1,0 +1,21 @@
+Citation
+935 F.2d 1555 (Fed. Cir. 1991)
+
+Brief Fact Summary
+Mahurkar's (Defendant) original application including drawings of his catheter invention, and he later attempted to attach written descriptions.
+
+Synopsis of Rule of Law
+Drawings may be adequate to provide the written description of the invention.
+
+Facts
+Defendant designed a double-lumen catheter that allowed blood to be removed from an artery and then returned close to the place of removal.  All other catheters were made obsolete by the invention.  The design application consisted of three somewhat detailed drawings and was filed on March 8, 1982, but was later abandoned on November 30, 1984.  Defendant received a Canadian patent on August 9, 1982.  He then filed two utility applications including these drawings, but with additional written descriptions.  The most significant description was that one cylindrical portion must have a diameter substantially greater than one-half, but substantially less than one-half of the first cylindrical portion.  Mahurkar 9D0 wanted the two utility applications, filed in 1984 to date back to the original filing date of 1982 as continuations of the prior application.  Vascath (Plaintiff) sued Defendant for a declaratory judgment that its catheters did not infringe on Defendant's utility patents, and Defendant counterclaimed for infringement.  Since the drawings of the original application failed to meet the "written description" requirement, the district court found the continuations did not date back.  Defendant appealed.
+
+Issue
+<p>Are drawings adequate to provide the written description of the invention?
+
+Held
+(Rich, J.)  Yes.  Drawings may be adequate to provide the written description of the invention.  Compliance of a written description is a question of fact and is to be reviewed under the clearly incorrect standard.  The purpose is broader than to explain only how to "make and use."  With reasonable clarity, the applicant must also get across to those skilled in the art, that as of the filing date, he or she was in possession of the invention.  The claim before the court, and what Defendant eventually patented, was exactly as shown in the picture.  More troubling is the written explanations that may not inevitably follow from the diagrams.  Defendant provided expert testimony that one skilled in the arts would understand that the catheter must have the range specified in the claims, but later patents refuted this, as observed by the district court.  The district court must also look solely to one skilled in the art on the date of filing, not afterwards.  Therefore, the second issue must be resolved.  Reversed and remanded.
+
+Discussion
+On remand, the court found that the drawings showed Defendant was in possession of the invention at the date of filing.  Judge Easterbrook observed that the utility applications only lay out what the drawings show, and, if anything, they explain the features of the drawing that are important, but do not add anything.  See In re Mahurkar Patent Litigation, 831 F. Supp. 1354 (N.D. Ill. 1993).
+

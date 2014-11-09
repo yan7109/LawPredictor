@@ -1,0 +1,21 @@
+Citation
+503 U.S. 140, 112 S. Ct. 1081, 117 L. Ed. 2d 291 (1992)
+
+Brief Fact Summary
+John J. McCarthy (Petitioner) was a prisoner who filed a complaint against four prison employees, solely for money damages, in the District Court for the District of Kansas. The District Court dismissed the complaint on the ground that Petitioner had failed to exhaust prison administrative remedies.
+
+Synopsis of Rule of Law
+The general rule is that parties must exhaust administrative remedies before seeking relief from federal courts. However, administrative remedies need not be pursued if the litigant’s interests in immediate judicial review outweigh the government’s interests in the efficiency or administrative autonomy that the exhaustion doctrine is designed to further.
+
+Facts
+The general “Administrative Remedy Procedures for Inmates,” promulgated by the Federal Bureau of Prisons allows prisoners to “seek formal review of a complaint which relates to any aspect of imprisonment.” The review process does not provide for any kind of hearing.  Petitioner did not go through the prison administrative remedy, but filed suit in District Court, alleging respondents violated his Eighth Amendment constitutional rights by their deliberate indifference to his needs relating to a back injury and psychiatric problems.  The District Court dismissed, and Petitioner filed a motion for reconsideration, arguing that he was not required to exhaust administrative remedies because he was seeking money damages, which the Bureau could not provide. The Court denied the motion, and the Court of Appeals affirmed. The Court of Appeals held that since Bivens actions are a creation of the judiciary, the courts can impose reasonable conditions on their filing to determine whether there is a possible Bivens cause of action. Requiring prisoners to exhaust the administrative remedy first, even absent the ability to award money damages, was permissible because it would create a record to aid the court in determining liability.
+
+Issue
+Was Petitioner required to exhaust the prison system’s administrative remedies prior to bringing suit in a federal court, solely for money damages?
+
+Held
+No. Reversed and remanded.   Given the type of claim raised and the particular characteristics of the Bureau’s grievance procedures, Petitioner’s interests outweighed the countervailing institution’s interests favoring exhaustion. Petitioner did not have to exhaust his constitutional claim for money damages.  Turning to congressional intent, Congress neither enacted nor mandated the general grievance procedure promulgated by the Bureau. Further, the grievance procedure did not include any monetary relief. Nor did the interests    of the Bureau weigh heavily in favor of exhaustion in terms of the remedial scheme.   Dissent. None.  Concurrence. The concurrence agreed with the holding based solely on the fact that the general grievance procedures did not provide for the award of money damages.
+
+Discussion
+The Court employed a balancing test, and found an absence of supporting material in the regulations, the record, and the briefs that the general grievance procedure was crafted with any thought toward the principles of exhaustion of claims for money damages. Petitioner’s interests outweighed those of the Respondents in this case, and exhaustion was not required.
+

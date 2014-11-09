@@ -1,0 +1,21 @@
+Citation
+22 Ill. 239 F.3d 1334, 17 IER Cases 434 (Fed. Cir. 2001)
+
+Brief Fact Summary
+Janice Bohac (Petitioner) successfully challenged her termination under the Whistleblower Protection Act (Act). She asked for pecuniary and non-pecuniary damages. The court denied non-pecuniary damages. Petitioner appealed
+
+Synopsis of Rule of Law
+Section 1221 of the Whistleblower’s Protection Act does not allow for damages for pain and suffering. The government has not waived its right to sovereign immunity with respect to such claims
+
+Facts
+Petitioner appealed her termination from her job as a research geneticist with the United States Department of Agriculture to the Merit Systems Protection Board. She alleged that her termination violated the Act, which was designed to protect government employees from being fired for revealing embarrassing information about the department that employs them.
+
+Issue
+Should the Merit Systems Protection Board’s decision not to award non-pecuniary damages to Petitioner stand?
+
+Held
+Yes
+
+Discussion
+The court established that situations when breach of contract cases can result in damages for emotional distress are specific and narrowly drawn, and applies this concept to the interpretation of the federal statute. Overall, the court upholds the common law concept that damages for breach of contract do not include damages for emotional distress.
+

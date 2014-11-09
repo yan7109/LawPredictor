@@ -1,0 +1,21 @@
+Citation
+22 Ill.588 N.W.2d 420 (Iowa 1999)
+
+Brief Fact Summary
+Defendant was hired by MidAmerica Savings Bank (MidAmerica) to monitor the progress of construction for a new home for the Plaintiffs, Mr. and Mrs. Vogan. When the contractor defaulted on his contract, and construction expenses overran the agreed-upon price, Plaintiffs brought suit against Defendant for negligent monitoring of the funds, as they were the third party beneficiaries of Defendant’s agreement with MidAmerica.
+
+Synopsis of Rule of Law
+A third party beneficiary can recover damages when a party in breach has reason to know that the beneficiary will be harmed by their negligence.
+
+Facts
+Plaintiffs obtained a mortgage from MidAmerica for the construction of their new home. After some time had passed, it became apparent that the appraisal of the property did not encompass all of the contracting costs and Plaintiffs were forced to sign another mortgage and expend more of their personal funds. Later, the contractor who had been hired to construct the house defaulted on the agreement. Plaintiffs brought suit to recover the funds they had spent in reliance of the appraisals and progress reports made by Defendant. Plaintiffs recovered judgment in the trial court, which was reversed by the intermediate appellate court. Plaintiffs then appealed to the Iowa Supreme Court.
+
+Issue
+May a third party beneficiary, here the Plaintiffs, recover damages from the breach of the contract which was to their benefit?
+
+Held
+Yes. Reversed.
+
+Discussion
+Generally a third party cannot recover against a party with whom they do not have a contract. However, if the negligent party has reason to know that a third party will be injured by their breach, and that their performance is being rendered directly to benefit another party, a third party may be able to recover damages spent as a third-party beneficiary.
+

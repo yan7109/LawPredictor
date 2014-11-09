@@ -1,0 +1,21 @@
+Citation
+500 N.W.2d 799,1993 Minn. App.<br /><br /><span class='heading'>Brief Fact Summary.</span>  This is an action for breach of lease, instituted when Defendant, a chemical distributor, vacated Plaintiff/Lessor’s premises after city officials informed Defendant that it could not store all of its materials on the leased premises.<br /><br /><span class='heading'>Synopsis of Rule of Law.</span>  This case stands for the proposition that a contract can only be avoided under the idea of frustration of purpose, when an obligee’s entire purpose for entering into a contract is frustrated.<br />
+
+Brief Fact Summary
+This is an action for breach of lease, instituted when Defendant, a chemical distributor, vacated Plaintiff/Lessor’s premises after city officials informed Defendant that it could not store all of its materials on the leased premises.
+
+Synopsis of Rule of Law
+This case stands for the proposition that a contract can only be avoided under the idea of frustration of purpose, when an obligee’s entire purpose for entering into a contract is frustrated.
+
+Facts
+Di-Chem entered into a three-year agreement with Mel Frank to lease a storage and distribution facility. Roughly one year into the lease, the fire chief, for the City of Council Bluffs, inspected the property and informed Di-Chem that it was in violation of a city ordinance prohibiting the storage of hazardous materials. Because Di-Chem was a chemical company, Di-Chem felt the ordinance (which was enacted after the signing of the lease) frustrated its business needs for the facility, and vacated the premises. Mel Frank brought suit for breach of lease and property damage, which Di-Chem answered, asserting several defenses including mutual mistake, illegal contract, failure to mitigate damages, fraud in inducement and impossibility. The court found that Mel Frank could not have known that the chemicals were classified as hazardous, and found for Plaintiff. Defendant appealed.
+
+Issue
+Is a contract subject to rescission, under the rationality of frustration of purpose, when only part of the contractual performance is made unlikely by a supervening cause?
+
+Held
+No. Affirmed.
+
+Discussion
+When a party asserts the defense of frustration of purpose, they must also be able to prove that their particular purpose was encompassed in the making of the agreement.
+

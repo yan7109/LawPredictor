@@ -1,0 +1,21 @@
+Citation
+584 P.2d 1, 1978 Alas.
+
+Brief Fact Summary
+This case involved a wrongful death suit brought by the representatives of passengers (Appellants) killed in a plane cash. The trial court (Alaska) returned a verdict by jury in favor of Appellees, airline and pilot. Appellants sought review.
+
+Synopsis of Rule of Law
+The doctrine of res ipsa loquitur, meaning “the thing or transaction speaks for itself,” permits a finding of negligence from the circumstances surrounding the injury. It does not allow negligence to be established from the mere fact of injury itself.
+
+Facts
+A Southeast aircraft crashed in the midst of a snow squall and no passengers survived. An accident reconstruction expert testified that the crash was due to pilot error, and that the pilot had been in violation of Federal Aviation Administration (FAA) rules. The airline contended that the crash was due to foul weather. The jury returned a verdict for the Appellees. At trial, the Appellants requested a jury instruction informing the jury that they could draw an inference from the evidence that negligence was more likely than not the cause of the accident. Instead, the judge instructed the jury that the mere happening of an accident did not necessary warrant a finding of negligence.
+
+Issue
+Did the trial court err in its instruction regarding the particular duty of care of a common carrier and the doctrine of res ipsa loquitur?
+
+Held
+Yes. The court did not find “that a complete factual explanation was offered” and thus Appellants should be precluded from employing the res ipsa loquitur doctrine. The court concluded that the trial court erred in failing to give the instruction on the duty of a common carrier and on res ipsa loquitur.
+
+Discussion
+The doctrine of res ipsa loquitur concerns an important form of circumstantial evidence. This may be used to establish a defendant’s unreasonable conduct. In most negligence cases, the plaintiff specifies what the defendant allegedly did unreasonably. The doctrine is most critical in cases where the plaintiff is unable to make specific allegations about what the defendant did wrong.
+

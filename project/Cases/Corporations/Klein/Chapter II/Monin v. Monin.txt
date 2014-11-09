@@ -1,0 +1,24 @@
+Citation
+785 S.W.2d 499 (Ky. Ct. App. 1989)
+
+Brief Fact Summary
+Appellant, Charles Monin, alleged that his former partner, Appellee Joseph “Sonny” Monin, violated his fiduciary duty to the business when he independently sought to contract with a third party once the partnership dissolved.
+
+Synopsis of Rule of Law
+A partner’s fiduciary duty to the partnership applies during the period when a partnership is dissolving and winding up its affairs.
+
+Facts
+Appellant and Appellee were brothers who ran a milk-hauling business.  A high percentage of the business’ value was comprised of an agreement with a third party, Dairymen Incorporated (”DI”) to haul their milk.  After 17 years Appellee sought a dissolution of the business once the brothers’ relationship soured.  The next day Appellee notified DI that the partnership was dissolving and he wanted to continue to haul milk for them.  Both partners agreed to auction the assets of the company to the higher bidder between the two, with the results conditional upon DI’s approval.  Appellant’s bid of $86,000 was successful, but DI decided to use Appellee’s newly formed business.  The lower court then put the value of the business at $22,000 to equal the value of the milk-hauling equipment.  The lower court reasoned that DI has no obligation to honor the partners’ auction results and therefore the business could not count the contract with DI as part of their assets.  Appellant argued t
+
+Issue
+The issue is whether Appellee breached his fiduciary duty to the partnership by bargaining for DI’s business while the partnership was in the process of dissolving.
+
+Held
+Appellee did violated his fiduciary duty to the partnership.  Although DI was under no obligation to do business with the higher bidder, Appellee had an obligation to not bid against the partnership.  This duty is present while the business is winding up the business.  There was no evidence to suggest that DI would have gone to a different hauler if Appellee did not offer his services, and his behind-the-back dealings devalued the business by $64,000.  Therefore Appellee is liable for the difference in value.
+
+Dissent
+The dissent argues that Appellee tried in good faith to work with Appellant but Appellee was disagreeable.  Evidence was presented to show that all but one of the members of DI would choose to do business with Appellee over Appellant.  Evidence also indicated that Appellant was hard to work with, and some drivers were ready to quit rather than work with him.  The auction was not genuine in that both parties knew the bid was subject to DI’s approval.  Therefore Appellee fulfilled any fiduciary obligations.
+
+Discussion
+Given the evidence, Appellee could have avoided the issue by dissolving the business citing the poor relationship while keeping Appellant in the loop in conversations with DI if it was so certain that they would not work with Appellee.
+

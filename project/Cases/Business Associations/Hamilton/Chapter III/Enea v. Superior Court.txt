@@ -1,0 +1,21 @@
+Citation
+Cal. App. Ct., 34 Cal. Rptr. 3d 513 (2005)
+
+Brief Fact Summary
+Enea (P) alleges that the Daniels (D) breached fiduciary duty of loyalty to their partnership, the purpose of which was to hold and rent real estate, by renting partnership property to themselves at less than fair market value, notwithstanding that the partnership agreement did not prohibit such conduct.
+
+Synopsis of Rule of Law
+Even though such conduct is not expressly prohibited by the partnership agreement, partners breach their fiduciary duty when they engage in deliberate conduct that reduces partnership profits.
+
+Facts
+Enea (P) and the Daniels’ (D) partnership consisted of a sole asset in the form of a building in which offices were rented out. The Daniels (D) rented out office space to themselves at less than fair market value, So Enea (P) filed an action for breach of fiduciary duty. The Daniels (D) contend that there was no provision in the partnership agreement to rent out at fair market value, and no provision among partners to maximize rental profits. The trial court granted summary judgment to the Daniels (D) based off of a statue that asserts that partners do not breach duty if their conduct only furthers their own interest. The appellate court allowed the appeal.
+
+Issue
+If the conduct is not expressly prohibited by the partnership agreement, do partners breach their fiduciary duty when they engage in deliberate conduct that reduces partnership profits?
+
+Held
+(Rushing, J.) Yes. Even though such conduct is not expressly prohibited by the partnership agreement, partners breach their fiduciary duty when they engage in deliberate conduct that reduces partnership profits. The Daniels (D) occupation of partnership property at below-market rates caused loss of rent. Partners cannot engage in self-dealing at the partnership’s expense. The trial court’s statute is inapplicable as it was intended to excuse partners from accounting for incidental benefits obtained during the partnership and not detriments. The Daniels (D) conduct benefited them at the expense of the partnership. The trial court ruled in error that the Daniels (D) had no duty to collect market value rents in the absence of a contract that expressly requires them to do so. The ruling goes against the fundamental tenants of partnership law, fiduciary duties are imposed by law even if not expressly written into the partnership agreement. Even if the Daniels (D) anticipated eventual capital gains that might flow into the partnership, it still does not entitle them to divert for themselves benefits that would already flow to the partnership. Either way, such an assumption does not justify summary adjudication. A peremptory writ of mandate shall be issued to the respondent court to vacate its judgment. Reversed and vacated.
+
+Discussion
+The statute debated here was section 404 of the Uniform Partnership Act  (1997) which is also known as the Revised Uniform Partnership Act or  RUPA. It contains explicitly exclusive enumeration of the partner’s  duties. After noting that a partner needs to hold a standard of loyalty  and care in their fiduciary duties towards one another, the uniform Act  declares those duties are “limited to” the obligations listed there.  RUPA statute 404(b), (c). The court however decided to reject Daniels  (D) theory instead finding that when legislature adopted RUPA, they  intended to leave the articulation of the duty of loyalty to traditional  common law practices and not exclusive fiduciary duties. The court also  found that even if the duties were exclusive, it would not entitle the  Daniels (D) to their conduct as the first duty listed in the statute is  to account to the other partner for said conduct.
+

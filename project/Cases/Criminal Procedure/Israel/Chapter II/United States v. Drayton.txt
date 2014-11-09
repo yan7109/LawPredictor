@@ -1,0 +1,24 @@
+Citation
+536 U.S. 194, 122 S. Ct. 2105, 153 L. Ed. 2d 242 (2002)
+
+Brief Fact Summary
+Two police officers were allowed to board a bus as part of a routine drug and weapons search, and after identifying himself as a police officer, one procured the separate consent of each of the respondents to search their luggage and person and found contraband.
+
+Synopsis of Rule of Law
+The Fourth Amendment does not require police officers to advise bus passengers of their right not to cooperate and to refuse consent to searches.
+
+Facts
+Two police officers were allowed to board a bus as part of a routine drug and weapons search and after identifying himself as a police officer, one asked the two passenger respondents who were seated together to identify their luggage.  The respondents identified one piece of luggage as theirs and consented to its search which yielded no evidence.  One of the officers then asked if he could check the person of respondent Clifton Brown and he consented, allowing the officer to pat him down, finding packets typically used to carry illegal drugs.  The second passenger Christopher Drayton then was asked if he could be checked, and after his consent he was searched as well, with the officer finding cocaine.  The respondents’ motion to suppress the evidence at trial based on invalid consent to search was denied, and then the Eleventh Circuit reversed that holding, expressing the view that passengers do not feel free to disregard officers’ request absent some indication consent can b
+
+Issue
+Does the Fourth Amendment protection against unreasonable searches and seizures require police officers to advise bus passengers of their right not to cooperate or to refuse consent during a routine drug and weapons search?
+
+Held
+No.  Reverse and remand the lower court decision.
+
+Dissent
+Justice David Souter dissented by writing that the real standard to be applied was whether the person questioned was free “to ignore the police presence and go about his business.”   The police officer stated that he “would like cooperation,” and therefore this standard was not met, making this unreasonable police conduct under the Fourth Amendment.
+
+Discussion
+In this 6-3 decision the main substantive discrepancy seems to be in how to view the facts, as evidenced by the fact that Justice Souter’s dissent claims that the majority did not use the “totality of the circumstances” test properly.  It really seems to be a fairly arbitrary decision considering that each side emphasizes facts in their favor with equal aptitude.  The implication of this case though seems to be that such routine stoppages of buses for drugs and weapons will continue to be an effective law enforcement tool, despite Justice Souter’s apparent wish that they would be less coercive in nature.
+

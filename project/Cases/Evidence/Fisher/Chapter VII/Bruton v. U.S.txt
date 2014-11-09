@@ -1,0 +1,21 @@
+Citation
+391 U.S. 123, 88 S. Ct. 1620, 20 L. Ed. 2d 476 (1968)
+
+Brief Fact Summary
+Petitioner was tried with Mr. Evans (co-defendant) for armed postal robbery; both were convicted by a jury.  At trial, the court allowed testimony of a witness, who indicated that co-defendant confessed to the crime and to having the help of Petitioner in committing the crime, to be admitted against co-defendant, but instructed the jury not to consider it in determining Petitioner’s guilt.  On appeal, the Circuit Court of Appeals upheld Petitioner’s conviction, and Petitioner challenges, on certiorari, his conviction here.
+
+Synopsis of Rule of Law
+When a co-defendant’s confession implicates a criminal defendant, and the co-defendant does not testify at trial, the admission of the confession violates the criminal defendant’s rights under the 6th amendment Confrontation Clause, even when jury instructions are given that instruct the jury to disregard the co-defendant’s confession in deciding the criminal defendant’s guilt.
+
+Facts
+After a postal robbery occurred and Petitioner and co-defendant were put on trial, a postal inspector (Witness) was called to testify; Witness stated that during an interrogation of co-defendant, co-defendant orally confessed to the robbery and stated that Petitioner had joined him in committing it.
+
+Issue
+Was it reversible error for the trial court to allow co-defendant’s confession into evidence at the joint trial of Petitioner and co-defendant and instruct the jury to not consider the evidence in determining Petitioner’s guilt?
+
+Held
+Reversed and remanded. Yes; Petitioner’s rights under the Confrontation Clause were violated by the admission of the evidence, despite the judge’s instructions, because there was a substantial risk that the jury looked to the evidence in determining Petitioner’s guild in contradiction of the instructions.
+
+Discussion
+The Court reasoned that even though the jury was instructed by the trial judge to not consider the alleged confession of co-defendant in determining Petitioner’s guilt, the jury would likely nonetheless at least bear it in mind in deciding Petitioner’s fate.  The Court quotes Judge Learned Hand, who stated that such a limiting instruction, “is a ‘recommendation to the jury of a mental gymnastic which is beyond, not only their powers, but anybody’s else . . . .’”  The Court acknowledged that it was not possible to unequivocally know whether the jury considered the statement in deciding the guilt of Petitioner, but that the risk was so substantial that the jury did, that Petitioner’s Confrontation Clause rights were violated by allowing the jury to physically hear the statements and to only protect Petitioner through an impossible to follow limiting instruction.
+

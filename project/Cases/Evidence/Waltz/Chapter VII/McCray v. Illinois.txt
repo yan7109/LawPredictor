@@ -1,0 +1,24 @@
+Citation
+131 S. Ct. 162
+
+Brief Fact Summary
+Two Chicago police officers made a warrantless drug arrest of the defendant, McCray (the “defendant”), based on probable cause provided by an undercover informant.  The officers testified the informant was credible because of his past information.  The Supreme Court of the United States (”Supreme Court”) upheld the arrest.
+
+Synopsis of Rule of Law
+When an informant’s testimony goes to probable cause, and not to guilt or innocence, the government need not disclose the informant’s identity.
+
+Facts
+An undercover informant told Chicago police that the defendant was selling drugs and had drugs in his possession.  The police found the defendant with drugs on him in the area where the informant said he would be.  The officers further testified that during the past two years, the informant had proved to be reliable regarding other drug dealers.  The informant pointed out the defendant to the officers, then left the scene before the arrest.
+
+Issue
+Must the government identify an undercover informant whose testimony went only to probable cause, not guilt?
+
+Held
+The government need not identify an undercover informant whose testimony goes only to probable cause.
+
+Dissent
+Previous decisions of the Supreme Court encourage the police to obtain warrants.  This decision goes against that trend.  Arrests with warrants are weighed more heavily than those without because a neutral magistrate controls whether the police have met their probable cause burden.  This decision allows the police themselves to make that decision.  Disclosure of informants is necessary to determine the validity of a probable cause affidavit.
+
+Discussion
+The majority distinguished the instant case from the earlier Rovario case because in Rovario, the informant’s role went to the defendant’s guilt.  In the instant case, the informant’s role went only to probable cause. The majority also relied on the fact that several states, including Illinois, had specific statutes protecting an informant’s identity. The dissenters argued that because Mapp v. Ohio bound states to requiring warrants absent exigent circumstances, the fact that states had informant privileges was irrelev
+

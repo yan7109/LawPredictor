@@ -1,0 +1,21 @@
+Citation
+459 U.S. 1025, 103 S. Ct. 484, 74 L. Ed. 2d 628 (1982)
+
+Brief Fact Summary
+The Court of Appeals of Tennessee upheld a lower court decision granting Appellee psychiatrist’s motion for a new trial after a jury returned a verdict in favor of the injured nurse and her spouse in their suit for injuries sustained when a mentally ill patient attacked her. The nurse and her spouse sought review.
+
+Synopsis of Rule of Law
+A plaintiff whose negligence is less than that of a defendant may recover damages in an amount reduced in proportion to the percentage of the plaintiff’s own negligence.
+
+Facts
+A psychiatric in-patient attacked and severely beat a nurse at the hospital where she worked. The nurse and her spouse filed suit against a psychiatrist, the patient’s attending physician, for medical negligence. Plaintiffs alleged that he violated his duty to use reasonable care in the treatment of his patient. The jury returned a verdict in favor of the nurse and her spouse, but the trial court, concluding the allocation of fault unjustified, granted the psychiatrist’s motion for a new trial. The Tennessee Supreme Court held, first, that the psychiatrist owed the nurse a duty of care and that he had breached that duty. The Court then addressed the issue of comparative negligence.
+
+Issue
+Should the psychiatrist’s negligence have been compared with the intentional conduct of the non-party patient in determining the extent of Defendant’s liability?
+
+Held
+No. Reversed and remanded. The Court held that the lower courts erred in ruling that the psychiatrist’s negligence should have been compared with the intentional conduct of the non-party patient in allocating fault, but such error was harmless, as the jury had assessed 100% fault to Defendant. The court remanded for entry of judgment.
+
+Discussion
+While the outcome in this case is relatively straightforward, i.e., although the lower courts court incorrectly compared the psychiatrist’s negligence and the intentional act of the patient, the error was harmless as the jury attributed 100% fault for the former and awarded damages accordingly, exploration of the issue is instructive.
+

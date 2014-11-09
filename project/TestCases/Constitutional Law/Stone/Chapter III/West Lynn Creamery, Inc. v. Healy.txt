@@ -1,0 +1,24 @@
+Citation
+512 U.S. 186, 114 S. Ct. 2205, 129 L. Ed. 2d 157, 1994 U.S. 4638.
+
+Brief Fact Summary
+Massachusetts imposed a non-discriminatory tax on in-state producers and out-of-state producers of milk sold in Massachusetts. Thereupon, the proceeds of the tax were given to in-state producers.
+
+Synopsis of Rule of Law
+A tax scheme that raises revenue and benefits local producers by burdening their out-of-state competitors is a violation of the dormant Commerce Clause.
+
+Facts
+Massachusetts used a non-discriminatory sales tax on milk. Under the tax system, both in-state producers and out-of-state producers paid the same tax for the milk they sold in Massachusetts. Thereupon, the proceeds of the tax were distributed to Massachusetts milk producers. An out-of-state producer challenged the constitutionality of the non-discriminatory-tax-plus-local-subsidy program on Commerce Clause grounds.
+
+Issue
+Was the non-discriminatory tax and subsidy program unconstitutional as against the dormant Commerce Clause?
+
+Held
+Yes.
+
+Dissent
+Chief Justice Rehnquist (J. Rehnquist) stated that the Court’s reasoning that the tax and subsidy distorts the political process is the wrong basis upon which to interpret the dormant Commerce Clause.
+
+Discussion
+At issue in this case is an impermissible discriminatory subsidy. While subsidies are similar in economic effect to tax exemptions, subsidies are usually held constitutional where tax exemptions are not. The Supreme Court reasons, as between subsidies and tax exemptions, that the form a State chooses matters.
+

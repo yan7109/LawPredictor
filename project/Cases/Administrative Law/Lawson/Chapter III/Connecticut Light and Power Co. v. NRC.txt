@@ -1,0 +1,21 @@
+Citation
+673 F.2d 525, 218 U.S. App. D.C. 134 (D.C. Cir. 1982)
+
+Brief Fact Summary
+Connecticut Light and Power Company (Connecticut Light) challenged a decision by the Nuclear Regulatory Commission (NRC) to adopt a more stringent fire protection program for nuclear power plants in service before January 1, 1979, claiming NRC’s rulemaking procedure was inadequate.
+
+Synopsis of Rule of Law
+The Administrative Procedure Act (APA) requires agencies to give notice and an opportunity to comment to proposed rules.
+
+Facts
+Following a damaging fire in 1976, the Commission developed technical guidelines for evaluating fire safety of both new and operating nuclear plants. Due to ongoing disputes involving the evaluation process, the NRC decided to embark on rulemaking for a more stringent program in 1979.  Connecticut light challenged the NRC’s new rule, claiming: 1) the notice of proposed rulemaking was inadequate because it gave no indication of the technical basis on which the Commission relied in formulating the proposed rules, and also because the final adopted rules differed in major respects from the proposed rules; 2) the Commission failed to offer technical justification for the final fire protection rules it adopted; and 3) the Commission failed to comply with its own regulations concerning new regulations for existing nuclear plants.
+
+Issue
+Was the procedure employed by NRC in adopting its new rule inadequate?
+
+Held
+The Court reluctantly upheld the NRC’s adoption of the fire protection program.   The administrative record contained adequate support for the Commission’s determination that the adoption of a more stringent rule was urgently needed to protect public safety.  The procedure employed by the NRC was less than exemplary-the notice of proposed rulemaking was cursory and gave the industry the minimal acceptable opportunity to respond.  The final rules were strictly more stringent versions of the proposed rules.  The rule was tempered by the exemption procedure allowing power plants to show that alternative fire protection systems protect public safety at the same high level as that chosen by the Commission. The failure of plants to make such a showing would prove the Commission was indeed correct that public safety urgently required a more stringent fire protection program for nuclear power plants.    Dissent. None.  Concurrence. None.
+
+Discussion
+The court was not happy with the lax procedure employed by the NRC, but weighed out all of the factors, including public safety, in upholding the new rule.
+

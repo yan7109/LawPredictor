@@ -1,0 +1,24 @@
+Citation
+446 Mass. 785, 847 N.E.2d 1080, 2006 Mass.
+
+Brief Fact Summary
+Frederick Weichell (Appellant) was convicted of first-degree murder by a jury, based in large part on a composite drawing a witness had made; the witness claimed to have seen Appellant running away from the body of the victim.  Appellant appeals his conviction here, claiming that the admission of the composite drawing into evidence under the Massachusetts equivalent of Federal Rule of Evidence 801(d)(1)(C) as a prior identification, was reversible error.
+
+Synopsis of Rule of Law
+A composite drawing made with a “kit” that uses transparent overlays is admissible as substantive evidence of identification under Rule 801(d)(1)(C), so long as its creation was not “tainted” and the procedures used in its creation were not unnecessarily suggestive.
+
+Facts
+Appellant and his friend, Thomas Barrett (Barrett), were involved in a fight with Francis Shea (Shea) and Shea’s friends.  Following the fight, Robert W. LaMonica (Victim), a friend of Shea’s, allegedly uttered threats to numerous persons concerning Appellant, and Shea saw Appellant and LaMonica arguing the day following the fight.
+
+Issue
+Was the composite drawing prepared by Foley with the aid of an Identikit properly admitted into evidence as substantive evidence of identification under Rule 801(d)(1)(C)?
+
+Held
+Yes; a composite prepared by an Identikit that is not shown to be prepared under suggestive circumstances is admissible as substantive evidence of identification under Rule 801(d)(1)(C).
+
+Dissent
+Justice Liacos dissents, stating that the, “degree to which composites are a reliable means of identifying the perpetrators of crimes has not been established.”  Liacos goes on to point out that there is a risk of suggestive behavior by police officers that have identified a potential suspect when making the composites, stating, “the weaker the contemporaneous impression, the more likely the witness will be influenced by the identification process.” Citing the witness’s mere one second view of Appellant, the dissent concludes that, “we should hold that composite drawings are inadmissible as probative evidence of guilt or as corroborative evidence . . . .”<br />Justice O’Connor also dissents, pointing to another opinion from Massachusettes and stating, “I do not agree with the court’s holding that the composite was properly admitted into evidence.”<br />
+
+Discussion
+In reaching its decision, the court likens the use of a composite to other means of admissible identification evidence and states, “[t]here is no logical reason to permit the introduction of a witness’s out-of-court identification and to exclude statements identifying the various physical characteristics of a person perceived by the witness, or the composite of all those physical characteristics, which is no more than the sum of the parts perceived.” (emphasis added).
+

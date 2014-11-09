@@ -1,0 +1,21 @@
+Citation
+283 F. Supp. 643 (S.D.N.Y. 1968)
+
+Brief Fact Summary
+Plaintiffs, Escott et al., held debentures of Defendant corporation.  Plaintiffs brought this action against Defendants, BarChris Const. Corp. and several of its officers and directors, for misstatements and omissions on Defendant’s registration statement.
+
+Synopsis of Rule of Law
+Defendant corporate officers will be held liable for false or misleading statements when they materially affect the purpose of the registration statement.
+
+Facts
+BarChris built bowling alleys during the pinnacle of bowling popularity, the fifties and sixties.  BarChris had different arrangements with customers when building an alley.  They would either be paid to simply build an alley for customer, or they would sell the interior and lease the exterior of the building.  They also offered financing options that were risky for BarChris.  BarChris instituted a public offering to raise money since their financing plans left them short of actual cash.  BarChris, and competing companies overpopulated the country with bowling alleys, and many alleys closed.  Many customers of BarChris were defaulting on the financing, and BarChris sold more debentures to keep afloat.  The registration statements filed with the public offerings listed extensive assets liabilities that were later found to be inaccurate.  BarChris eventually declared bankruptcy.  Plaintiffs accused Defendants of misstating or omitting facts in the registration statements.
+
+Issue
+The issue is whether any misstatements or omissions were made by Defendant officers in the registration statement that were material under the Securities Exchange Act.
+
+Held
+The court reviewed many of the statements contained in the registration statement filed by Defendants.  Some of the statements were within normal accounting standards, and some of the figures were only slightly different from what the court calculated.  However, other statements were misleading or omitted figures altogether, and the difference was significant enough to be considered material under the Act.  The case was remanded to determine which of the officers were responsible for the material omissions or misstatements to determine who should be considered the defendants moving forward.
+
+Discussion
+A plaintiff does not have a cause of action by just providing evidence of a misstatement in a registration statement.  The misstatements need to be material enough to cause an investor to rely on the statement when they otherwise would not have.
+

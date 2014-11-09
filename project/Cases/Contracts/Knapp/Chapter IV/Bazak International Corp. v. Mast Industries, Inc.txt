@@ -1,0 +1,24 @@
+Citation
+22 Ill.73 N.Y.2d 113, 538 N.Y.S.2d 503, 535 N.E.2d 633 (1989)
+
+Brief Fact Summary
+Plaintiff, Bazak International Corp., and Defendant, Mast Industries, Inc., entered in to an oral agreement whereby Defendant agreed to sell close out textiles to Plaintiff. Plaintiff sent purchase orders, but Defendant never delivered the textiles.
+
+Synopsis of Rule of Law
+Explicit words of confirmation are not required under the merchant exception to the UCC’s statute of frauds.
+
+Facts
+Defendant approached Plaintiff with an opportunity to purchase close out textiles. The parties orally negotiated all of the terms except price. The next day the parties agreed to a price of $103, 330. Defendant indicated that Plaintiff would receive written invoices the next day and that the ordered textiles would be delivered shortly. No invoices arrived, but Defendant told Plaintiff that the invoices were on their way.
+
+Issue
+Do the documents qualify as confirmatory writings within the merchant exception to the statute of frauds?
+
+Held
+Yes. The documents meet the requirements of the merchant exception to the UCC’s statute of frauds.
+
+Dissent
+The dissent is concerned that not requiring explicit words of confirmation will unfairly burden merchant sellers. However, the dissenting opinion does not think the court even needs to address this issue in the current case because the plain reading of the purchase orders indicates that they are offers. The dissent argues that setting aside the language indicating the purchase orders are offers, the remaining language is ambiguous. Also, the dissent notes that Plaintiff never indicated to Defendant that the disclaimer on the purchase orders should be disregarded.
+
+Discussion
+In the present case, the Court found that the documents met the requirements for confirmatory writings under the merchant exception. The Court did not require that the documents contain explicit words of confirmation. Because the merchant exception applied, the Court allowed Plaintiff to proceed with the breach of contract and fraud
+

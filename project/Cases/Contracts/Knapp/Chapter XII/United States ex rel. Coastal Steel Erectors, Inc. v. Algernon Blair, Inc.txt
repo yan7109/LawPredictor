@@ -1,0 +1,21 @@
+Citation
+22 Ill.479 F.2d 638 (4th Cir. 1973)
+
+Brief Fact Summary
+A subcontractor justifiably breached a construction contract due to lack of payment and then brought suit to recover the cost of labor and equipment it furnished.
+
+Synopsis of Rule of Law
+A subcontractor may recover in quantum meruit for the value of labor and equipment furnished, regardless of whether he would be entitled to recover for suit on the contract.
+
+Facts
+The Defendant, Algernon Blair (Defendant), entered into a construction contract with the United States for the construction of a naval hospital. The Defendant subcontracted with The Plaintiff, Coastal Steel Erectors (Plaintiff), to perform steel erection and supply certain equipment in conjunction with Defendant’s contract with the United States. The Plaintiff rented cranes in order to fulfill its contractual obligations, but the Defendant refused to pay for the crane rental. After completing approximately twenty-eight percent of the job, the Plaintiff terminated its performance because of the Defendant’s refusal to pay for the crane rental. The Plaintiff filed suit to recover for labor and equipment furnished. The district court found that the Defendant’s refusal to pay for the crane rental was a material breach of the contract and that the Defendant owed the Plaintiff $37,000. However, the district court found that the Plaintiff was precluded from recovering because it would
+
+Issue
+Is a subcontractor permitted to recover for the value of services rendered, even if he could not have recovered in a breach of contract suit?
+
+Held
+Yes. Judgment reversed.
+
+Discussion
+The court examined case law of other jurisdictions to find that the non-breaching party has a right to recovery in quantum meruit. The court examined the policy behind restitution in contract law and reasoned that its purpose is to prevent unjust enrichment. Therefore, recovery in quantum meruit is permitted even if the party would have lost money on the contract. Otherwise, the Defendant would have benefited from the very services for which it refused to pay.
+

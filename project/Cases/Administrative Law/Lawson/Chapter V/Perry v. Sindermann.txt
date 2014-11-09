@@ -1,0 +1,21 @@
+Citation
+408 U.S. 593, 92 S. Ct. 2694, 33 L. Ed. 2d 570, 1 IER Cases 33 (1972)
+
+Brief Fact Summary
+Robert Sindermann (Respondent) taught for ten years at in the state college system in Texas under a series of contracts. After a disagreement with the college administration, Respondent’s last one-year contract was not renewed without opportunity for a hearing. Respondent brought this action in Federal District Court, alleging that the failure to afford him a hearing violated his Fourteenth Amendment guarantee of procedural due process.
+
+Synopsis of Rule of Law
+“A person’s interest in a benefit is a “property” interest for due process purposes if there are rules or mutually explicit understandings that support his claim of entitlement to the benefit and that he may invoke at a hearing.”
+
+Facts
+The State of Texas did not have a formal tenure system in place, but did have an official Faculty Guide that Respondent claimed established a de facto tenure system. Respondent claimed legitimate reliance that employment for seven years or more at his particular college created some form of tenure that was no less a property interest than a formal tenure system at another university.  The District Court granted summary judgment against Respondent.
+
+Issue
+Did Respondent’s lack of tenure or contractual right to re-employment, taken alone, defeat his claim that nonrenewal violated his First and Fourteenth Amendment rights?  Did Respondent have de facto tenure, sufficient to afford him procedural due process?
+
+Held
+No. The grant of summary judgment against Respondent was improper. A teacher, like the Respondent, who has held his position for many years, might be able to show from the circumstances of his service and other relevant facts that he has a legitimate claim of entitlement to job tenure.  Proof of such a property interest would obligate college officials to grant him a hearing at his request, where he could be informed of the grounds for nonretention and challenge their sufficiency.   Dissent. The District Court should be directed to enter summary judgment for respondent entitling him to a statement of the reasons why his contract was not renewed and a hearing on the disputed issues of fact.   Concurrence. None.
+
+Discussion
+Although the Texas college system had no formal tenure program, its guidelines and standard practices, coupled with the length of Respondent’s employment, were sufficient that an “entitlement” could be found to procedural due process.
+

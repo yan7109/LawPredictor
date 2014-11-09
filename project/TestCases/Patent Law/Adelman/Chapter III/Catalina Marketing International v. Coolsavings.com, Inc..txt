@@ -1,0 +1,21 @@
+Citation
+289 F.3d 801 (Fed. Cir. 2002)
+
+Brief Fact Summary
+Catalina (Plaintiff) brought suit against Coolsavings (Defendant) claiming infringement on its patent for a coupon dispensing machine.  Defendant argued that there was no infringement as Plaintiff's patent application included limiting language.
+
+Synopsis of Rule of Law
+The introductory phrase does not limit the claim's scope if it does not define the invention, include important steps in the specification, or distinguish the invention from the prior art.
+
+Facts
+The introductory phrase does not limit the claim's scope if it does not define the invention, include important steps in the specification, or distinguish the invention from the prior art.
+
+Issue
+Did the court rely in error on nonlimiting language in the introduction of Claim 1?
+
+Held
+(Rader, J.)  Yes.  The district did rely in error on nonlimiting language in the introduction of Claim 1.  The district court's analysis only focused on the phrase "located at predesignated sites such as consumer stores."  An introduction is nonlimiting where a patentee defines in the body a structurally complex invention and uses the introduction only to state a purpose or intended use for the invention.  If the introductory phrase does not define the invention, include important steps in the specification, or distinguish the invention from the prior art, then the introduction does not limit the scope of the claim.  Introductory language that only praises the benefits of the claimed invention does not limit the scope of the claim without clear reliance on those benefits or features significant to eligibility for patent.  In this case, the claims, specification, and prosecution history of the patent demonstrate that the introductory phrase "located at predesignated sites such as consumer stores" is not a limitation of Claim 1.  Plaintiff did not rely on this phrase to define its invention and the phrase is also not essential to understand terms in the body of the claim.  The specification does not make the location of the terminals an additional structure for the claimed terminals.  Plaintiff also did not rely on the introductory phrase to differentiate over a prior patent.  By deleting the location phrase, the structural definition or operation of the terminal itself is not affected.  However, Claim 25 is limited by the use of this language in Claim 25.  Therefore, Claim 25 is not literally satisfied by Defendant's system.  Affirmed in part and reversed in part.
+
+Discussion
+The Jepson claim uses the introduction as a tool to recite limitations to structural claims.  Therefore, the introduction is admitted to be prior art unless it reflects the actual work of the inventor.
+

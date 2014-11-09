@@ -1,0 +1,21 @@
+Citation
+398 U.S. 144, 90 S. Ct. 1598, 26 L. Ed. 2d 142, 1970 U.S. 31
+
+Brief Fact Summary
+In a civil rights action in which a conspiracy between the police and S.H. Kress & Company (Defendant) was alleged, summary judgment was granted when Adickes (Plaintiff) could not produce any evidence to support a conspiracy.
+
+Synopsis of Rule of Law
+In an action based on conspiracy, summary judgment may not be granted unless the nonmoving party can show that there is no genuine issue of fact.
+
+Facts
+Plaintiff sued the Defendant in federal court alleging that there was a conspiracy between the Defendant and the police to arrest the Plaintiff when she entered Defendant’s store because she was in the company of African Americans.  Defendant moved for summary judgment on the grounds that Plaintiff could not produce any evidence in support of a conspiracy.  The district court granted summary judgment ruling that Plaintiff failed to produce any facts to allege that a conspiracy might be inferred.  The Court of Appeals affirmed.  On appeal, the Supreme Court held that Plaintiff had to prove state action by showing that Defendant’s employee and a policeman reached an understanding to cause her arrest because she was a white person in the company of African Americans.
+
+Issue
+Whether a moving party has the burden of showing the absence of any genuine issue of fact in a motion for summary judgment?
+
+Held
+Yes.
+
+Discussion
+Please note that this decision was subsequently overruled by Celotex v. Catrett, 477 U.S. 317 (1986).  That decision held that the moving party has the initial responsibility of informing the court of the basis for its motion, and that party must recognize those portions of the record that demonstrate the absence of a genuine issue of fact.
+

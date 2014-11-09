@@ -1,0 +1,24 @@
+Citation
+447 U.S. 557, 100 S. Ct. 2343, 65 L. Ed. 2d 341, 6 Med. L. Rptr. 1497 (1980)
+
+Brief Fact Summary
+In the winter of 1973-74 there existed an electricity shortage in the State of New York. Accordingly the Appellee, the Public Service Commission (Appellee), imposed a ban on all advertising that promotes the use of electricity. By 1976 the electricity shortage subsided, causing the Appellee to determine whether or not to continue the ban. Upon further inquiry, the Appellee decided to continue the ban, causing the Appellant, Central Hudson Gas and Electric Corp. (Appellant), to file suit claiming that the regulation of the Appellee was infringing on their First and Fourteenth Amendment constitutional rights involving commercial speech.
+
+Synopsis of Rule of Law
+This case established a four-part analysis for commercial speech cases. (1) Whether the expression is protected by the First Amendment of the United States Constitution (Constitution). To be protected, it must concern lawful activity and not be misleading. (2) Whether the asserted governmental interest is substantial. If both part one and part two are satisfied then (3) A court must determine whether the regulation directly advances the governmental interest asserted. (4)Whether it is not more extensive than is necessary to serve that interest.
+
+Facts
+In December 1973, the Appellee ordered electric utilities in New York State to cease all advertising that promotes the use of electricity. The Appellee based this regulation on a finding that the interconnected utility system in New York State does not have sufficient fuel stocks to continue furnishing all customer demands for the 1973-74 winter. In 1976, the fuel shortage ended, causing the Appellee to request public comment on its proposal to continue the ban on advertising. The Appellant opposes the ban on First Amendment constitutional grounds and filed this suit after the Appellee decided to continue the ban. The 1976 order from the Appellee was that information advertising, used to encourage shifts of consumption of electricity from peak use times to periods of low electricity demand would be allowed because it does not increase aggregate consumption, but would promote the leveling of demand throughout the day. The Appellee also offered to review specific proposals by co
+
+Issue
+Whether a regulation of the Appellee of the State of New York violates the First and Fourteenth Amendments of the Constitution because it completely bans promotional advertising by an electrical utility?
+
+Held
+Yes. The Appellee’s ban is unconstitutional even though the United States Constitution (Constitution) accords a lesser protection to commercial speech than to other constitutionally guaranteed expression. The protection available for particular commercial expression turns on the nature both of the expression and of the governmental interests served by the regulation. There is a four-part analysis for commercial speech cases. (1) Whether the expression is protected by the First Amendment of the Constitution. To determine if it is protected, the speech must concern lawful activity and not be misleading. (2) Whether the asserted governmental interest is substantial. If both parts one and part two are satisfied then (3) A court must determine whether the regulation directly advances the governmental interest asserted. (4)Whether it is not more extensive than is necessary to serve that interest.
+
+Dissent
+The Supreme Court’s decision fails to give due deference to the subordinate position of commercial speech. The dissenting judge feels the court has gone back to the days of Lochner, feeling that it can strike down regulations of a State through its own notions of what is the most appropriate means of regulation.
+
+Discussion
+This case is most significant because it clearly provides a four-part test to be used in cases involving commercial speech. The Supreme Court in this case also provides a clear use of this test through its analysis. This case builds on the definition of commercial speech provided in Virginia State Board of Pharmacy. That case defined commercial speech as expression related solely to the economic interests of the speaker and its audience, which is to be used to determine whether or not part one of the test in this case is satisfied. Part two of the test, looks at whether the State’s interest is substantial and is similar to all other First Amendment analysis, except as stated in this case and Virginia State Board of Pharmacy, the state possess an elevated standard of interest in regulating commercial speech, as does part three determining whether the regulation furthers the interest. This leads to part four of the test, where it seems most commercial speech cases will be d
+

@@ -1,0 +1,24 @@
+Citation
+219 F.2d 173 (2d Cir. 1955)
+
+Brief Fact Summary
+Plaintiffs, Jane Perlman et al., were minority shareholders in Defendant Newport Steel Corp.  Plaintiffs brought this action to recover their share of the premium paid to Defendants, C. Russell Feldmann et al., by Wilport Company.
+
+Synopsis of Rule of Law
+A majority shareholder, particularly when they also are the president and chairman of the board, who sells his shares to a third party who then obtains a controlling interest, owes the minority shareholder their share of the premium paid by the third party for the controlling interest.
+
+Facts
+Plaintiffs and Defendants were shareholders in Newport Steel.  Newport Steel provided steel sheets typically to regional customers because their facilities were outdated.  Due to the Korean War, steel was at a premium and it turned Newport Steel into a more profitable venture.  Newport began updating their facilities, but a third party, Wilport Company, bought Defendants’ shares in an effort to secure more steel output.  The over-the-counter price for the shares was $12 and the book value was $17.03, but Wilport paid $20 per share to Defendants.  Plaintiffs sued to receive the same premium (attributable to the sale of corporate power) for their shares, and the trial court denied their claims.  The trial court ruled that the premium was an inherent benefit of having a controlling ownership, and alternatively, the burden was on Plaintiffs to prove the lesser value of the stock.
+
+Issue
+The issue is whether Plaintiffs are entitled to a share of the premium paid by Wilport attributed to the sale of corporate power.
+
+Held
+Plaintiffs are entitled to a share of the premium paid to Defendant shareholders.  Feldmann was the president and dominant shareholder, and in both positions he owes a fiduciary duty to minority shareholders not to let a personal interest override the interests of all the shareholders.  The burden is on the shareholder to prove that this is not the case.  The court is not holding that the dominant shareholder is not able to sell his shares, but in this case Feldmann did not meet his duty in the sale of his shares.  The court noted that there only had to be a possibility that Defendants misappropriated a corporate opportunity and not an absolute certainty.  The facts demonstrate that there was a shortage of steel and Defendants took advantage of this to obtain a market premium for their shares.
+
+Dissent
+The dissent does not argue that Feldmann owed Plaintiffs a fiduciary duty, but he argues that Feldmann did not violate any duty here.  As a majority shareholder, Feldmann is entitled to sell his shares for the best price he can receive.  There was no evidence that Wilport was going to abuse their control or not act in the best interests of the other shareholders.
+
+Discussion
+The dissent takes the position provided in Zetlin v. Hanson Holdings, Inc. which allows for a majority shareholder to get the best price for their shares without having to account for any premium to the minority shareholders.
+

@@ -1,0 +1,24 @@
+Citation
+N.Y. Ct. App., 405 N.E.2d 681 (1980)
+
+Brief Fact Summary
+Zion (P) sought the enforcement of  a shareholder’s agreement that prohibits the corporation from contracting a business transaction without his approval.
+
+Synopsis of Rule of Law
+Shareholder agreements that require minority shareholder approval of corporate enterprises are enforceable.
+
+Facts
+Kurtz (D) was the principal/majority shareholder of a corporation. Zion (P) was a minority shareholder in the corporation. They entered into an agreement that prevented the corporation from entering into any transaction without Zion’s (P) approval. When the corporation breached the agreement, Zion (P) sued for enforcement. The trial court found for Zion (P), and Kurtz (D) appealed on the theory that the agreement violated state law, giving control over corporate affairs from the board of directors to a minority shareholder. The appellate court reversed, the court of appeals granted certiorari.
+
+Issue
+Are Shareholder agreements between the original parties that require minority shareholder approval of corporate enterprises enforceable?
+
+Held
+(Meyer, J.) Yes.  Shareholder agreements between the original parties that require minority shareholder approval of corporate enterprises are enforceable. It is not against public policy or statute to impose reasonable restrictions on the director’s activities. Also, since all the stockholders agreed to it, it is enforceable. Reversed.
+
+Dissent
+(Gabrielli, J.) Shareholder agreements like these are illegal for transferring control of corporate activities from board director to minority shareholder.
+
+Discussion
+This case’s type of agreement is usually found in closely held corporations. Although the corporation in this case was not a closely held one, the court found this irrelevant. The court reasoned that because the articles of incorporation were intended to give enough power to take all steps necessary to enforce the terms of the agreement, the corporation could easily gain closely held status in order to grant the shareholder agreement validity.
+

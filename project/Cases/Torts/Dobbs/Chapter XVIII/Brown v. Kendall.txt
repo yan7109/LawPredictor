@@ -1,0 +1,18 @@
+Brief Fact Summary
+The Court of Common Pleas (Massachusetts) granted judgment to the Plaintiff, a personal injury claimant, in his action of trespass for assault and battery.
+
+Synopsis of Rule of Law
+A plaintiff must show either that the intention was unlawful, or that the defendant was in fault; for if the injury was unavoidable, and the conduct of the defendant was free from blame, he will not be liable.
+
+Facts
+Kendall (Defendant) was attempting to separate two fighting dogs, using a four-foot stick to beat them. He was raising the stick over his shoulder when he accidentally hit Plaintiff in the eye. At trial, Defendant requested that the judge give the jury an instruction stating that if Defendant was exercising ordinary care and Plaintiff was not, the latter could not recover. The judge declined, instead charging the jury that if Defendant’s actions were necessary or duty bound and he was exercising reasonable care, then he was not liable. The jury found for plaintiff.
+
+Issue
+Did the trial court err in its jury instruction?
+
+Held
+The court reversed the judgment in favor of the claimant and ordered a new trial. The court referred to the circumstances in this case as an inevitable accident. An inevitable accident cannot be avoided even when exercising the care of a prudent person. The jury should have been charged that if the dog owner accidentally hit the claimant in his eye while he was using due care and all proper precautions necessary, then the incident was an unavoidable accident, and Plaintiff could not recover. Generally, the standard of care is that kind and degree of care, which prudent and cautious men would use, such as may be required by the exigency of the case.
+
+Discussion
+Brown marks the shift from strict liability to fault-based liability.
+

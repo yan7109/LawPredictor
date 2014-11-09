@@ -1,0 +1,21 @@
+Citation
+35 F.3d 1407 (9th Cir. 1994)
+
+Brief Fact Summary
+
+
+Synopsis of Rule of Law
+(1) If the document sufficiently reveals the dangers implicated, future economic predictions in a prospectus are not actionable when the relevance of the information is of concern. (2) When financial statements are certified by definition of § 11,a “reliance defense” may be recognized by demonstrating a belief that no relevant distortions or omissions were created and a “low causation” defense may be recognized by demonstrating that the decline in worth was not due to the defendant’s fabrications.
+
+Facts
+In 1986, after posting two of the most successful toys of the Christmas season WOW wanted to expand so in June of 1987, they organized a public offering of 9% unsecured “junk bonds”, procuring $80 million.  WOW filed for bankruptcy after a 1987 Christmas season comprised of price drops and layoffs which made the bonds worthless. A class of investors (Plaintiff) brought suit against WOW’s directors, officers, underwriters, auditors and main shareholders. The district court granted summary judgment to WOW on all allegations, reporting: (1) with the potential exclusion of the 1987 financial statements, its debenture prospectus included no inaccurate statements or omissions and (2) each defendant had an favorable defense to § 11 liability as a matter of law even if the 1987 statements were inaccurate. The class appealed.
+
+Issue
+(1) If the document sufficiently reveals the dangers implicated, are future economic predictions in a prospectus not actionable when the relevance of the information is of concern? (2) When financial statements are certified by definition of § 11, may a “reliance defense”  be recognized by demonstrating a belief that no relevant distortions or omissions were created and a “low causation” defense may be recognized by demonstrating that the decline in worth was not due to the defendant’s fabrications?
+
+Held
+(Hall, J.) Yes. If the document sufficiently reveals the dangers implicated, future economic predictions in a prospectus are not actionable when the relevance of the information is of concern. Known as the “bespeaks caution” doctrine, it signifies the practical use of two essential ideas in securities fraud: relevance and dependence, it has been established to focus on circumstances where positive predictions in a prospectus are combined with language cautioning that the predictions are not dependable. Seeing as only projections where caution is specifically mentioned are defended by the doctrine, taking the utmost care to prevent deliberate misrepresentations from being safeguarded. Groundless suits where a plaintiff may conduct comprehensive discovery in hopes of obtaining a larger settlement are prohibited by the bespeaks caution doctrine. As it involves relevance and dependence on a prospectus, the bespeak caution doctrine applies to § 11, S 12(2) and § 10(b) claims. Here, a class argues that WOW’s debenture prospectus was lacking relevancy or deceiving in four areas: fluidity, internal controls, profit recognition, and sales performance.  Although, any purported inaccuracies, aside from the potential of the 1987 certified financial report, are either sufficiently cautioned against (for future predictions), or the class has failed to give proof of their presence. In short, at that time of the Debenture Prospectus, WOW sufficiently revealed its knowledge of the state of affairs.
+
+Discussion
+This case is an exceptional sample of how the public looks at securities fraud cases. A lot of effort is spent to demonstrate distortions, omission and scienter to snag the “big fish” yet, usually, the work is ultimately utilized to prosecute the certifying defendants, for example, the auditors. Although they are able to utilize the § 11(e) loss causation defense, the onus of proof is on them to demonstrate that as deliverers of negative information, they did not attempt to sugar coat it to please all.
+

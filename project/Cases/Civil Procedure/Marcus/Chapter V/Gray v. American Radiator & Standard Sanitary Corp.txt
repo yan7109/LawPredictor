@@ -1,0 +1,21 @@
+Citation
+22 Ill. 2d 432, 176 N.E.2d 761, 1961 Ill.
+
+Brief Fact Summary
+Phyllis Gray (Plaintiff) was injured when a water heater exploded. This took place in Cook County, Illinois. Subsequently, Plaintiff brought suit in Illinois against both Titan Valve Manufacturing Company (Titan) and American Radiator & Standard Sanitary Corporation (Defendant). The suit alleged that the safety valve had been negligently constructed for use in the water heater.
+
+Synopsis of Rule of Law
+In a products liability action, a defendant who sells products that he knows will be used within a given forum may be required to defend an action within that forum state, if the product sold in fact causes injuries within the state.
+
+Facts
+The water heater, which was the subject of this action was assembled in Pennsylvania by the Defendant. The valve that exploded was manufactured in Cleveland, Ohio by Titan. Titan had no connection to the State of Illinois, except that its valves were used in conjunction with water heaters sold to consumers within the state. Defendant filed a cross-claim against Titan, alleging that Titan made certain warranties to Defendant; and that if a judgment was given against it, it should be indemnified by Titan. The court granted Titan’s Motion to Dismiss both Plaintiff’s complaint and Defendant’s cross-claim.
+
+Issue
+Whether the Illinois Long-Arm Statute violates the due process guarantees of the United States Constitution?
+
+Held
+The Illinois Long-Arm Statute does not violate the Constitutional guarantees of due process. The test established in International Shoe has now been relaxed so that it is sufficient to satisfy due process if the act or transaction itself has a substantial connection with the forum state. The courts located where the injury occurred, provide the most convenient forum. Since the injury occurred in Illinois, Illinois substantive law will govern, witnesses who will testify regarding the extent of the injury are most likely to reside in Illinois, and other evidence is more likely to be found in the forum state. Therefore, Defendant’s connections to the state are sufficient to satisfy due process.
+
+Discussion
+The jurisdictional requirements have been eroded substantially since the decision in Pennoyer v. Neff. In large part this is due to the evolving nature of interstate commerce. Now, with the growing interdependence of business enterprises, a manufacturer seldom deals directly with consumers in foreign states. However, this fact should make the manufacturers aware that their products are being used within foreign states on a greater basis than ever before.
+

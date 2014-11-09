@@ -1,0 +1,21 @@
+Citation
+90 F.3d 1483 (10th Cir. 1996)
+
+Brief Fact Summary
+A securities salesman, Lehl (Defendant), requests reconsideration of the determination that he violated the National Association of Securities Dealers (NASD) Rules of Fair Practice by failing to make the proper revelations and imposingdisproportionate and imbalancedcharges to his customers as the SEC (Plaintiff) stated.
+
+Synopsis of Rule of Law
+Comprehending the foundation and equality of prices charged to customers is requisite of a registered securities representative.
+
+Facts
+As a securities salesman at First Choice Securities Lehl sold 285,000 shares of stock via 11 transactions, charging 6.5 cents a share, the “execution price” determined by First Choice. First Choice purchased the stock at prices between 3.1 and 3.5 cents a share. Lehl was found to have violated the NASD Rules of Fair Practice due to his assumed imposing of disproportionate and imbalanced prices to his clientele without the proper disclosures. Lehl was censured by the NASD District Business Conduct Committee, with that censure affirmed by the NASD National Business Conduct Committee. The SEC affirmed in part. Lehl appealed.
+
+Issue
+Are registered securities representatives required to comprehend the foundation and equality of prices charged to customers?
+
+Held
+(Anderson, J.) Yes. Registered securities representatives are required to discern the foundation of and equality of prices being charged to customers. The NASD Rules of Fair Practice, Article III, demand its members to sell securities at a “fair” price, explicitly barring the selling of stock at amounts not realistically correlated to the securities market value. NASD determined a 5% markup as being the ceiling of fairness, seeing as most transactions take place at less than that. The guideline is meant to protect the trusting consumer against price extortion but fails to prevent a finding of fairness if the price rises less than 5%. The universal rule in defining the fair value of a security is the stocks cost to the dealer. While Lehl did not know the cost of the stock to First Choice, he did know the discrepancy between the “strike price” and the “execution price” and that the total commission received on the sale was roughly 23%. He was also cognizant of the 5% markup policy. Therefore, the court determined that Lehl had satisfactory warning that First Choice’s prices were imbalanced with his lack of additional questioning regarding the disproportionate pricing caused him being sanctioned. Affirmed.
+
+Discussion
+In addition to the 5% markup, the court recognizes there are other items to take into consideration when deciding the equality of a security’s cost, such as; the type, availability and cost of security as well as the total sum involved, relevant disclosures made and finally, establishing a pattern with regard to disproportionate amount charged and the member’s degreeof assistance to the customer.
+

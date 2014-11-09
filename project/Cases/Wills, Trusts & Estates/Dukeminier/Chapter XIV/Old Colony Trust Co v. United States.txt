@@ -1,0 +1,21 @@
+Citation
+423 F.2d 601,1970 U.S. App.70-1 U.S. Tax Cas. (CCH) P12,667; 25 A.F.T.R.2d (RIA) 1549
+
+Brief Fact Summary
+A settlor created a trust and reserved to himself the power to increase the income at his discretion and cease making payments to the beneficiary whenever he believed that it was in the beneficiary’s best interests.  When the settlor died, the executor paid taxes on the trust principal and sued to recover the amount in district court.
+
+Synopsis of Rule of Law
+The corpus of a trust is included in the settlor’s estate where he reserves to himself a power that is inconsistent with the full termination of ownership.  Trust property subject to a trustee’s power that goes beyond the court’s control must be included in the settlor’s estate.
+
+Facts
+The settlor created a trust in which he was the trustee and his son was the beneficiary.  The settlor reserved to himself the power to increase the percentage of income to his son when in his absolute discretion; such an increase was desirable in view of changed circumstances, or in case of sickness. The settlor also had the power to cease paying the income to the son when he believed that it was in the son’s best interests.  After the settlor’s death, the executor paid tax for the trust principal and sued for its recovery in the district court.
+
+Issue
+Whether a settlor and trustee of a trust who reserves to himself the right to increase the percentage of income payable to a beneficiary without any ascertainable standard, must include the value of the principal contributed to the trust in the estate tax.
+
+Held
+Yes.  The settlor and trustee must include the principal in his tax because he reserved to himself a power that did not have any ascertainable standard and was inconsistent with the full termination of ownership.  The settlor and trustee were allowed to increase the percentage of income to the beneficiary whenever in his opinion such an increase was desirable in view of changed circumstances.  The settlor and trustee also reserved to himself the power to cease paying income when he felt it was in the son’s best interests.  These powers go beyond the power of the court and are like those of ownership.   Furthermore, the direction to the trustee to act in the best interests of the beneficiary does not establish an external standard because trustees have this duty under statutory law.
+
+Discussion
+The corpus of the trust is a part of the settlor’s estate because the power to decide when to increase income and cease making payments from trust property, at the absolute discretion of the trustee, is a power no different from that of full ownership if property.
+

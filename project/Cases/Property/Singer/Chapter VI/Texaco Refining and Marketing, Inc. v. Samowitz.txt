@@ -1,0 +1,21 @@
+Citation
+213 Conn. 676,570 A.2d 170, 1990 Conn.
+
+Brief Fact Summary
+A provision in a lease gave a lessee the option to purchase commercial property at any time in the duration of the lease. The lessor refused to sell the property after the lessee gave notice of his intent to exercise his option and claimed that it violated the rule against perpetuities.
+
+Synopsis of Rule of Law
+An option to purchase contained in a commercial lease, if the option to must be exercised within the leasehold term, is valid without regard to the rule against perpetuities.
+
+Facts
+Texaco Refining and Marketing, Inc. (Plaintiff) executed a lease for a fifteen-year term, subject to renewal by Plaintiff for three additional five-year periods. Plaintiff exercised two of these renewal options. A provision in the lease gave Plaintiff the option to purchase the property at any time during the lease, including the renewal periods. Plaintiffs gave the lessor, who is succeeded in interest by Jack Samowitz (Defendant), notice of its exercise of the option to purchase. Defendant refused to transfer the property, and so Plaintiff brought an action for specific performance.
+
+Issue
+Is an option to purchase in a commercial lease, when the option must be exercised within the leasehold term, valid without regard to the rule against perpetuities?
+
+Held
+Yes.
+
+Discussion
+Though an option to purchase may limit the lessor’s ability to transfer the property in the future, it will encourage the lessee to agree to the leasehold, which makes the property more marketable.
+

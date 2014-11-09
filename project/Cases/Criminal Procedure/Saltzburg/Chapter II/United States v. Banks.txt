@@ -1,0 +1,21 @@
+Citation
+540 U.S. 31, 124 S. Ct. 521, 157 L. Ed. 2d 343 (2003)
+
+Brief Fact Summary
+Law enforcement officials arrived at the defendant’s home, announced their presence and their warrant, knocked loudly, waited, and then broke open the door.
+
+Synopsis of Rule of Law
+“[W]here the officers knocked and announced their presence, and forcibly entered after a reasonable suspicion of exigency had ripened, their entry satisfied Section:3109 as well as the Fourth Amendment, even without refusal of admittance.”
+
+Facts
+Las Vegas Police and FBI agents arrived at the defendant’s home with a warrant to search his apartment for drugs.  Police officers in front announced that they had a warrant, and then knocked loudly enough to be heard by police officers at the back door.  After waiting 15-20 seconds, and with no indication as to whether or not the defendant was home, the police opened the door with a battering.  The defendant was in the shower, and claimed not to have heard anything until the door was broken open.
+
+Issue
+“[W]hether their 15-to-20-second wait before a forcible entry satisfied the Fourth Amendment and 18 U. S. C. Section:3109.”
+
+Held
+Yes.  The court noted that the case turned on “the significance of exigency revealed by circumstances known to the officers, for the only substantive difference between the two situations goes to the time at which the officers reasonably anticipated some danger calling for action without delay.”  Specifically at issue was whether it was reasonable for the officers “to suspect imminent loss of evidence” in the period prior to their forced entry.  The court countered the defendant’s arguments that the fact that the defendant was in the shower, and that 15-20 seconds was insufficient for the defendant to reach the front door were inconsequential to “the very risk that justified prompt entry.”  The court also held 18 U.S.C. Section:3109 is subject to the same exigency exceptions that the Fourth Amendment is.
+
+Discussion
+“If circumstances support a reasonable suspicion of exigency when the officers arrive at the door [with a warrant], they may go straight in.”
+

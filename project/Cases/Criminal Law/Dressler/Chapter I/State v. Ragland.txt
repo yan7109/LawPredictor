@@ -1,0 +1,15 @@
+Citation
+105 N.J. 189, 519 A.2d 1361, 1986 N.J. 1259
+
+Brief Fact Summary
+Defendant Ragland was convicted by jury of, among other things, armed robbery and possession of a weapon by a convicted felon. The trial judge instructed the jury that it “must” convict of the possession charge if it found that the Defendant possessed a weapon during the robbery.<span class="heading">Synopsis of Rule of Law.</span> The jury’s right to acquit despite overwhelming evidence of guilt is not a right of the accused but rather a power of the jury.
+
+Facts
+The Defendant was charged with various offenses, including armed robbery and possession of a weapon by a convicted felon. At the conclusion of trial, the judge instructed the jury that it “must” convict of the possession charge if it found that the Defendant possessed a weapon during the commission of the robbery. The jury convicted the Defendant of, among other things, armed robbery and possession of a weapon by a convicted felon, and this appeal ensued on the issue of whether the judge’s use of the word “must” deprived the Defendant of the jury’s nullification power, an essential attribute of his constitutional right to a jury trial.<span class="heading">Issue.</span> Did the trial court improperly instruct the jury that it must convict of possession of a weapon by a convicted felon if it finds that the defendant possessed a weapon during the robbery?
+
+Held
+No, but the conviction for possession was reversed and a new trial ordered on other grounds not recounted in the opinion. A jury may acquit a defendant despite overwhelming proof of guilt. This practice, commonly referred to as jury nullification, is certainly a power the jury has. However, jury nullification is not desirable. The legislature has defined criminal conduct, and while twelve people picked as jurors may see a law as unjust or a particular application of a law as unfair, they are not in the best position to revise the law. The legislature is elected to perform such a duty. Therefore, the New Jersey Supreme Court concluded that jury nullification is not, as the defendant argues, a constitutionally protected attribute of the right to trial by jury. A jury simply has the power to nullify the law by acquitting a person believed to be guilty. Hence, it was not error for the judge to instruct the jury as he did.
+
+Discussion
+The chance that the jury will nullify the law by acquitting a defendant the jury believes to be guilty is one benefit for the defendant of trial by jury. However, the jury has no more than the power to nullify. The Defendant does not have a right to have the judge “advertise” the power to the j
+

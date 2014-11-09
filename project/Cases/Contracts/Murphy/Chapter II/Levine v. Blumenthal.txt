@@ -1,0 +1,15 @@
+Citation
+232 F.3d 162,2000 U.S. App.51 ERC (BNA) 1513; 31 ELR 20251
+
+Brief Fact Summary
+The Defendant, Blumenthal (Defendant) asks to have a rent increase abated and the Plaintiff Levine, (Plaintiff) agreed orally. Plaintiff sues for difference, due in the second year.<span class="heading">Synopsis of Rule of Law.</span> A preexisting duty cannot count as consideration for the purposes of contract formation.
+
+Facts
+Defendant agreed to pay a certain amount of rent for two years, with an increase in the second year. Defendant was unable to pay for the increase. It was found as a fact in district court that there was a verbal agreement to allow the defendants to pay the original year’s amount of rent for the second year.<span class="heading">Issue.</span> Can the promise to perform a preexisting duty count as consideration?
+
+Held
+No. Affirmed. A promise to do what the promisor is already bound to do is an unreal consideration. A creditor’s mere fear that the debtor will fall into bankruptcy is not enough to form sufficient consideration.
+
+Discussion
+The court adopts the preexisting duty rule, which results in the promisor being bound to what he is already obligated to do, unless there is a new consideration to replace the prior agreement.
+

@@ -1,0 +1,21 @@
+Citation
+190 F. Supp. 116, 1960 U.S. Dist.
+
+Brief Fact Summary
+The parties entered into two contracts for the sale of chickens. The parties did not specify what types of chickens would satisfy the contract. After Plaintiff received a shipment of “stewing chickens,” which are of lesser quality than young chickens suitable for broiling and frying, Plaintiff initiated this suit.
+
+Synopsis of Rule of Law
+Where a party to a contract is not a member of the trade and the usage of a term, common to the trade, is challenged, the party that is in the trade has the burden of proving that the party not in the trade had actual knowledge of the usage or that the usage is “so generally known in the community that his actual individual knowledge of it may be inferred.”
+
+Facts
+Plaintiff Frigaliment Importing Co. is a Swiss corporation that sought to purchase chickens from the Defendant B.N.S. International Sales Corp., a New York sales corporation. The first contract between the parties specified that Plaintiff would receive “US Fresh Frozen Chicken, Grade ‘A’, Government Inspected, Eviscerated.” The second contract was identical except that heavier chickens were called for. When the first shipment arrived, Plaintiff realized that the birds were not “young chicken” suitable for broiling or frying but rather stewing chicken or “fowl.” Plaintiff thereafter initiated this suit averring that there was a trade usage that “chicken” meant “young chicken.” Defendant, which was new to the trade at the time of contracting, countered that “chicken” referred to all classes of chicken, not just young chicken.
+
+Issue
+What is chicken, or more specifically, how is an ambiguous term in a contract construed?
+
+Held
+The party that asserts that there is a trade usage of a term undefined in the contract has the burden of proving that the party not in the trade had actual knowledge of the usage or that the usage is “so generally known in the community that his actual individual knowledge of it may be inferred.” Here, Plaintiff attempted, through testimony and other evidence, to show that the common trade usage of “chicken” meant young chicken suitable for broiling and frying. However, Defendant’s evidence proved to be more compelling. Through testimony and United States Department of Agriculture regulations, Defendant managed to show that “chicken” is commonly used to encompass all types of chicken, not just young chicken. Hence, Plaintiff was not able to meet its burden of proving that “chicken” was used in the narrow sense that it advocated.
+
+Discussion
+Where an ambiguous term has a specific trade usage, the burden is on the party in the trade to prove that the party outside the trade knew or should have known the accepted trade usage.
+

@@ -1,0 +1,21 @@
+Citation
+972 S.W.2d 260 (Ky. 1998)
+
+Brief Fact Summary
+A Kentucky statute was modified to replace the common law standard permitting a jury to determine an award for punitive damages.
+
+Synopsis of Rule of Law
+The doctrine of jural rights is deeply rooted within Kentucky law and careful considerations need to be made before it can be declared unconstitutional.
+
+Facts
+The Kentucky legislature enacted a statute intended to modify Kentucky law as it related to punitive damages and to redefine how punitive damages were awarded. “Departing from the traditional common law standard which permitted a jury to impose punitive damages upon a finding of gross negligence as measured by an objective standard, the new statutory [s]tandard, . . . requires a determination that the defendant acted with ‘flagrant ignorance to the rights of the plaintiff and with a subjective awareness that such conduct will result in human death or bodily harm.’” Patricia Wilson (Plaintiff) was struck by a vehicle being driven by Teri Williams (Defendant). Defendant had been driving drunk. Plaintiff filed a negligence claim against the Defendant claiming damages, but was denied punitive damages pursuant to the Kentucky statute. The trial judge declared that statute unconstitutional and gave a jury instruction based on the common law standard, which required proof of “wanton
+
+Issue
+Whether the Kentucky statute regarding jural rights is constitutional?
+
+Held
+(Justice Lambert). It depends. “By the literal language of the statute, proof of ’subjective awareness that such conduct will result in human death or bodily harm’ is required. Ordinarily, such proof could only be obtained from the party who inflicted the harm, but in the instance case the defendant did not participate and her testimony could not be taken. As such, there was no way to prove essential elements of the statute. From this a new litigation strategy might well emerge. In cases of gross negligence, but where compensatory damages for wrongful death or personal injury would otherwise be modest, a defendant might elect to forego any participation, relying on the court to prevent an excessive award of compensatory damages, safe in the knowledge that despite his gross negligence, no award of punitive damages could be made.” The case is further remanded to the circuit court for further proceedings.
+
+Discussion
+The court does not provide a concrete holding in this case but remands the case for consideration of the doctrine of jural rights and the fact that they are deeply ingrained in Kentucky law. The court seems hesitant to make a decision regarding the constitutionality of the jural rights doctrine because the decision could cause an extraordinary change in Kentucky law.
+

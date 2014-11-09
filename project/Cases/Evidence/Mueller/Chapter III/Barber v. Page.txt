@@ -1,0 +1,24 @@
+Citation
+390 U.S. 719, 88 S. Ct. 1318, 20 L. Ed. 2d 255, 1968 U.S.
+
+Brief Fact Summary
+Jack Barber and Charles Woods were tried for armed robbery in Oklahoma state court.  At issue during trial was whether a transcript of Woods could be admitted in place of his actual testimony.
+
+Synopsis of Rule of Law
+A witness is not unavailable for the purposes of an exception to the confrontation clause requirement unless the prosecution makes a good-faith effort to obtain his presence at trial.
+
+Facts
+Jack Barber and Charles Woods were tried for armed robbery in Oklahoma state court.  A lawyer named Park represented both Defendants during a preliminary hearing. Defendant Woods waived his privilege against self-incrimination during the hearing. Parks withdrew as his attorney but continued to represent Defendant Barber.  Woods incriminated Barber but Parks did not cross-examine him, but a lawyer for a different defendant did.  Barber was tried seven months later while Woods was in a Texas federal prison 225 miles away.  The state introduced a transcript of the Woods testimony at the preliminary hearing over Barber’s objection.
+
+Issue
+Did Defendant Barber waive his right to confront Woods at trial by not cross-examining him at the preliminary hearing?
+
+Held
+Justice Marshall issued the opinion for the United State Supreme Court in reversing the lower court and holding that the Defendant Barber did not waive his right to confront Woods by not cross examining him during the preliminary hearing.
+
+Concurrence
+Justice Harlan issued a concurring opinion but it is not in the text.
+
+Discussion
+The right to confrontation is a trial right, and examining a witness during a preliminary hearing does not cause one to lose that right.  The right to confront at trial not only is an opportunity to cross examine, but is also an opportunity for the jury to see and hear the witness and weigh their testimony accordingly.
+

@@ -1,0 +1,21 @@
+Citation
+N.Y. Ct. App., 249 N.E.2d 359 (1969)
+
+Brief Fact Summary
+Two out of three directors of a closed corporation voted to purchase another issue of stock, but the third refused. When the assets were sold, and the profits were distributed according to proportion of stock owned, the third director sought to have the distribution nullified.
+
+Synopsis of Rule of Law
+Where new shares are offered in a closed corporation, and existing shareholders do not purchase a share, the shareholders are not estopped from bringing a suit based off of fraudulent distribution of their interest when the price for the shares was inadequate.
+
+Facts
+Katzowitz (P), Sidler (D), and Lasker (D) were the sole shareholders and owners of Sulburn Corporation. Sidler (D) and Lasker (D) wanted to oust Katzowitz (P) from his position, and Katzowitz (P) agreed to withdraw from active participation. At the time of his withdrawal, the corporation owed $2,500 to each director. Sidler (D) and Lasker (D) proposed an issuance of stock. Despite Katzowitz’s (P) objections, the two (D) passed their proposal whereby each of them could purchase 25 shares at $100 per share when in actuality, the shares were worth $1,800 each. Katzowitz (P) did not want to purchase shares and received $3,147.59 in the dispersal. The others (D) received $18,885.52. Katzowitz’s suit seeks to dismiss the distribution, to return their (D) purchase price of the 25 shares, and force an equal distribution of the remaining assets.
+
+Issue
+Where new shares are offered in a closed corporation, and existing shareholders do not purchase a share, are shareholders estopped from bringing a suit based off of fraudulent distribution of their interest when the price for the shares was inadequate?
+
+Held
+(Keating, J.) Yes. Where new shares are offered in a closed corporation, and existing shareholders do not purchase a share, the shareholders are not estopped from bringing a suit based off of fraudulent distribution of their interest when the price for the shares was inadequate.
+
+Discussion
+Courts do not want to fix prices of corporate stock, however, they find little justification in issuance far below fair value. Generally, this can only occur when regular book value does not reflect the actual worth of the corporation or where it is experiencing new difficulties. In the Model Corporations Act, Statute 26, preemptive rights exist if provided for in the articles of incorporation.
+

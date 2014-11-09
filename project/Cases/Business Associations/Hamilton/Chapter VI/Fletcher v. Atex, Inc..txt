@@ -1,0 +1,21 @@
+Citation
+68 F.3d 1451 (2d Cir. 1995)
+
+Brief Fact Summary
+Fletcher (P) brought suit against Atex, Inc (D) and its parent company Eastman Kodak (D) for injuries from use of Atex’s (D) keyboards.
+
+Synopsis of Rule of Law
+Under applicable state law the court will pierce the corporate veil and find shareholders individually liable in cases involving fraud, or where the subsidiary doesn’t count as a separate entity from the parent company.
+
+Facts
+Atex, Inc. (D) was a wholly owned subsidiary of Eastman Kodak (Kodak) (D) until 1992, when another party bought all of Atex’s (D) assets. Atex (D) changed names to 805 Middlesex Corp. (Middlesex) while Kodak (D) remained its sole shareholder. Fletcher (P) and other claimants (P) filed suit against both corporations for injuries incurred from use of Atex’s (D) keyboards. Fletcher (P) contends that Kodak (D) employed dominant control over Atex (D) via a cash management system, deciding major expenditures, and influencing Atex’s (D) board of directors. The lower court dismissed Kodak (D) as a defendant on the summary judgment. Fletcher et al. (P) filed an appeal.
+
+Issue
+Under applicable state law, will the court pierce the corporate veil and find shareholders individually liable in cases involving fraud, or where the subsidiary doesn’t count as a separate entity from the parent company?
+
+Held
+(Cabranes, J.) Yes. Under applicable state law the court will pierce the corporate veil and find shareholders individually liable in cases involving fraud, or where the subsidiary doesn’t count as a separate entity from the parent company. New York state law looks to the law of the state of incorporation to determine when “piercing the veil” is appropriate. Atex (D) therefore falls under Delaware law. Delaware law finds two companies as one economic entity if it would be unjust or inequitable to treat them separately. Summary Judgment may be granted to defendant parent company when insufficient evidence is found. In this case, Kodak’s (D) cash management system did not create the level of intermingling inappropriate to the statute, nor did the overlap in the board of directors between the two create domination over the subsidiary. Fletcher (P) found insufficient evidence. Affirmed.
+
+Discussion
+Subsidiaries are often established to operate in areas outside the parent’s main business, or in areas that need more organization. Atex’s (D) business in manufacturing keyboards lay outside of Kodak’s (D) primary business. Although Atex (D) received support on significant transactions, it does not fall under unusually controlling conduct of a parent corporation.
+

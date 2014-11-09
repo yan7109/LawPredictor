@@ -1,0 +1,15 @@
+Citation
+3d 18, 627 N.E.2d 1053
+
+Brief Fact Summary
+Snyder, a nurse, (Plaintiff) brought an action against Turk, a doctor, (Defendant) for intentional infliction of emotional distress, civil battery, and slander. The trial court (Ohio) dismissed her complaint with prejudice and granted a directed verdict. The Plaintiff sought review.<span class="heading">Synopsis of Rule of Law.</span> An actor is subject to liability to another for battery if (a) he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and (b) an offensive contact with the person of the other directly or indirectly results.
+
+Facts
+The Defendant was performing an operation to remove a patient’s gall bladder. The Defendant became increasingly frustrated with the Plaintiff’s performance, raising his voice and castigating her for being incompetent. When Plaintiff handed Defendant the incorrect surgical tool, he grabbed her by the shoulder and gown and pulled her face toward the patient’s open surgical wound. The Plaintiff did not suffer any physical injury. She later filed an action against him for intentional infliction of emotional distress, civil battery, and slander. The trial court granted the Defendant’s Motion for a Directed Verdict and dismissed the Plaintiff’s complaint. The court reversed the order, holding that the Defendant was not entitled to a directed verdict. The court held that reasonable minds could have concluded that he was guilty of battery, and that he intended to commit an offensive contact with the Plaintiff.<span class="heading">Issue.</span> Could a reasonable jury conclude that there was intent to commit a battery?
+
+Held
+Yes. Since a reasonable mind could infer intent on the Defendant’s part, the issue was one of fact for a jury. The lower court thus erred in its directed verdict. The court reversed and remanded the lower court’s order.
+
+Discussion
+Snyder v. Turk draws the fine distinction between the intent to cause actual harm and the intent to cause either harmful or offensive contact. The element of intent becomes an issue for the trier of fact thus rendering a directed verdict improper.
+

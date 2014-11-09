@@ -1,0 +1,24 @@
+Citation
+424 U.S. 319, 96 S. Ct. 893, 47 L. Ed. 2d 18, 1976 U.S. 141.
+
+Brief Fact Summary
+A State agency terminated Eldridge’s disability benefits prior to affording him a hearing on his continued eligibility for benefits. Eldridge challenged the constitutionality of the government’s termination procedures as not sufficiently protecting his right to due process under the Fourteenth Amendment to the United States Constitution.
+
+Synopsis of Rule of Law
+An evidentiary hearing is not constitutionally required prior to the termination of disability benefits.
+
+Facts
+Eldridge was receiving disability benefits. After making a determination that Eldridge was no longer so eligible, the relevant agency informed him that benefits would be terminated, gave him a statement of reasons, and offered him an opportunity to submit a written response. Eldridge did respond in writing. Nevertheless, Eldridge’s benefits were terminated. Eldridge challenged the constitutionality of the government’s termination procedures as not providing for due process in accordance with the Fourteenth Amendment to the United States Constitution. The lower courts found that the government’s termination procedures were inadequate and the government appealed.
+
+Issue
+Did the termination of Eldridge’s disability benefits without affording him an evidentiary hearing violate the Due Process Clause of the Fourteenth Amendment?
+
+Held
+No. Reversed.
+
+Dissent
+Justice Brennan: The Supreme Court of the United States’ consideration that a discontinuance of disability benefits may cause the recipient to suffer only a limited deprivation is speculative. Indeed, in this case, because benefits were terminated, Eldridge’s house and furniture were repossessed.
+
+Discussion
+The Supreme Court of the United States was primarily influenced in this case by the fact that disability benefits were at issue. The Supreme Court distinguished this case from Goldberg v. Kelly, 397 U.S. 254 (1970), (involving the deprivation of welfare benefits from a recipient without a pre-termination hearing, which the Supreme Court found unconstitutional), and stressed that disability benefits are different from welfare benefits, because they are not based on financial need. Thus, “the risk of an erroneous deprivation” to the interests of the beneficiary of the government program, which is a key concern of the Supreme Court in these types of cases, is not as high.
+

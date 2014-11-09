@@ -1,0 +1,21 @@
+Citation
+467 U.S. 504, 104 S. Ct. 2543, 81 L. Ed. 2d 437 (1984)
+
+Brief Fact Summary
+A prosecutor offered defendant George Johnson a plea deal and then when defendant’s attorney notified the prosecutor they would accept the deal, the prosecutor withdrew it and offered a substantially less appealing deal.
+
+Synopsis of Rule of Law
+A criminal defendant’s acceptance of a prosecutor’s proposed plea bargain does not create a constitutional right to its enforcement.
+
+Facts
+After being convicted of other charges, the defendant’s murder conviction was set aside.  The prosecutor proposed a concurrent sentence in exchange for a guilty plea to accessory after the fact to felony murder.  The defendant’s attorney went to accept the offer and the prosecutor said the offer was a mistake and that a consecutive sentence would be the new offer.  Defendant rejected this offer and stood trial, at which a mistrial was declared.  After this, the defendant accepted the offer, and the trial court sentenced him in accordance with the deal.  The District Court rejected the defendant’s habeas request, but the Eighth Circuit Court of Appeals reversed.  Arkansas was granted certiorari.
+
+Issue
+If a criminal defendant accepts a prosecutor’s proposed plea deal, are they constitutionally protected from having that offer subsequently withdrawn?
+
+Held
+No.  Reverse the Court of Appeals.
+
+Discussion
+A unanimous court agreed as a baseline that a voluntary plea of guilty by an accused person advised by competent counsel cannot be collaterally attacked and viewed this defendant under these facts as not deserving any different treatment just because the prosecutor may have misleading.  They wanted this plea to stand regardless of whether the prosecutor was guilty of any ethical violations.
+

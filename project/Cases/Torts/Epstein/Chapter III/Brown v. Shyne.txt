@@ -1,0 +1,24 @@
+Citation
+242 N.Y. 176, 151 N.E. 197 (1926)<br />
+
+Brief Fact Summary
+Plaintiff was paralyzed after Defendant performed nine chiropractic treatments without a license. The jury was permitted to infer negligence from the violation of the statute.
+
+Synopsis of Rule of Law
+If violation of the statute by the defendant was the proximate cause of the plaintiff’s injury, then the plaintiff may recover upon proof of violation. If violation of the statute has no direct bearing on the injury, proof of the violation becomes irrelevant.
+
+Facts
+Plaintiff hired Defendant to give her chiropractic treatment. Defendant was not licensed to practice medicine, yet he held himself out as being able to diagnose and treat disease. Defendant was guilty of a misdemeanor for holding himself out as a licensed to practice medicine. Plaintiff received a jury award in the sum of $10,000.00. For the purposes of appeal, the court assumes Plaintiff’s paralysis was caused by Defendant’s treatment. Defendant appealed.
+
+Issue
+If a violation of statute has no direct bearing on the injury, does proof of that violation become irrelevant?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+(Justice Crane) Defendant is liable irrespective of negligence. The prohibition against practicing medicine without a license was for the very purpose of protecting the public from what occurred in this case. The violation was the direct and proximate cause of the injury. If Defendant, in violation of the statute, takes his chances in trying to cure a disease, and his acts result directly in injury, he should not complain if the law says that his violation of the statute is some evidence of his incapacity.
+
+Discussion
+The court held that it was not required that Defendant be licensed in order to avoid liability for negligence. Defendant could have treated Plaintiff with all the skill and care required of a licensed professional, and Plaintiff could have nonetheless suffered injuries. In such a case, Defendant would not be liable. The lack of care and skill is evidence of Defendant’s negligence, not the failure of Defendant to obtain a license.
+

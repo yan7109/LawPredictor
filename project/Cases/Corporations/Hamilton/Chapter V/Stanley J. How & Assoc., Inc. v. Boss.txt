@@ -1,0 +1,21 @@
+Citation
+222 F. Supp. 936 (S.D. Iowa 1963)
+
+Brief Fact Summary
+Stanley J. How & Assoc., Inc., (Plaintiff) brought suit against Edwin A. Boss, (Defendant), to recover on a contract for the performance of architectural services. Defendant claims that the parties intended that Boss Hotel Co., Inc. be the sole obligor on the contract.
+
+Synopsis of Rule of Law
+The promoter though he may assume to act on behalf of the projected corporation and not for himself, will be personally liable on his contract unless the other party agreed to look to some other person or fund for payment.
+
+Facts
+Defendant, a promoter of a corporation, hired Plaintiff to perform architectural services. The agreement was originally written as between Boss Hotels Company, Inc. and Stanley J. How and Associates, Inc. At signing Defendant, with the consent of How, erased the words “Boss Hotel Co., Inc.” and inserted the language “By: Edwin A. Boss, agent for a Minnesota corporation to be formed who will be the obligor.” The checks set to Plaintiff for partial payments under the contract bore the name of Boss Hotel Co., Inc. The project was ultimately abandoned after substantial work had been performed. Plaintiff brought suit to seek unpaid fees on the contract.
+
+Issue
+Whether the contract was an agreement that Defendant was a present obligor.
+
+Held
+Yes. The contract was an agreement that Mr. Boss was a present obligor.
+
+Discussion
+The words “who will be the obligor,” are not enough to offset the rule that the person signing for the nonexistent corporation is normally to be personally liable. In this case, Defendant was the principal promoter, acting for himself personally and as President of Boss Hotels, Inc. The promoters abandoned their purpose of forming the corporation. This would make the promoter liable to the plaintiff unless the contract be construed to mean: 1) that the plaintiff agreed to look solely to the new corporation for payment, and 2) that the promoter did not have any duty toward the plaintiff to form the corporation and give the corporation the opportunity to assume and pay the liability.
+

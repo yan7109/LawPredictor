@@ -1,0 +1,21 @@
+Citation
+22 Ill.80 N.Y.2d 184, 590 N.Y.S.2d 1, 604 N.E.2d 63 (1992)
+
+Brief Fact Summary
+Plaintiff railroader sued Defendant railroad company for injuries sustained on the job. During pretrial discovery, Plaintiff moved to compel and the district court ordered production of surveillance tapes. The Appeals Court modified the order to disclosure only of those tapes Defendant intended to use at trial and Defendant appealed.
+
+Synopsis of Rule of Law
+Surveillance tapes, being material prepared in anticipation of litigation, is protected by the work product privilege. The party in possession of the surveillance tapes must produce them if the moving party can demonstrate a substantial need for the tapes and an undue hardship if they do not have the tapes before trial.
+
+Facts
+Dimichel (Plaintiff), a railroad employee, sued South Buffalo (Defendant), a railroad company and Plaintiff’s employer under the Federal Employee’s Liability Act (FELA) and various federal safety statutes for injuries sustained on the job. During pretrial discovery, Plaintiff moved to compel and the trial court ordered production of all surveillance tapes Defendant had of Plaintiff. Defendant appealed the trial court’s order and the Appeals Court modified the order to disclosure only of those tapes Defendant intended to use at trial. Defendant appealed.
+
+Issue
+Should Plaintiff be required to demonstrate a substantial need for Defendant’s surveilance tapes and that Plaintiff will suffer undue hardship if the tapes are not produced?
+
+Held
+Yes to both issues as to tapes that D intends to use at trial. The order of the Appellate decision is affirmed.
+
+Discussion
+The general rule is that although surveillance tapes are subject to a qualified privilege, the party seeking production can easily overcome the burden due to the unique nature of video tape.
+

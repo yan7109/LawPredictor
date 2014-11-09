@@ -1,0 +1,21 @@
+Citation
+143 Ill. App. 3d 1013, 97 Ill. Dec. 760, 493 N.E.2d 423 (App. Ct. 1986)
+
+Brief Fact Summary
+Plaintiff, Pav-Saver Corporation, formed a business with Defendant, Vasso Corporation, to sell concrete paving machines.  Plaintiff moved to dissolve the partnership and sought a return of the trademarks and patents associated with the business or payment for the intellectual property.
+
+Synopsis of Rule of Law
+A party responsible for the dissolution of a partnership is not entitled to collect for the value of goodwill.
+
+Facts
+Plaintiff had the intellectual property and know-how for designing the machines, and Defendant was responsible for the financing.  The partnership agreement stipulated that Plaintiff would contribute the relevant trademarks and patents, and that the agreement was permanent unless there is a mutual agreement between the two parties to terminate the partnership.  The agreement also stated that in the event of termination, the terminating party would pay four times the amount the company made in the 1974 fiscal year, with equal payments over a ten-year period.  The business operated at a profit, but an economic downturn made the business unprofitable.  Plaintiff moved to terminate the agreement.  Defendant took over the business, continued to use the patents and trademarks, and refused to reimburse Plaintiff for the use of the property.  Plaintiff moved to reacquire the patents and trademarks, or alternatively to receive the value of the patents and trademarks.  Plaintiff also co
+
+Issue
+The first issue is whether Plaintiff is entitled to the intellectual property, or the fair value of said intellectual property. The second issue is whether Plaintiff should be required to pay the liquidated damages immediately or over a ten-year period.
+
+Held
+Plaintiff is not entitled to the patents and trademarks because they are necessary to continue the business.  The partnership agreement stated that the partnership was for a permanent length of time, and therefore the business is entitled to the intellectual property to continue; otherwise the business is worthless.  However, Plaintiffs are not entitled to collect for the value of the property because the value of the intellectual property is primarily good will, and under the Uniform Partnership Act a party can not collect for good will. The liquidated damage clause is enforceable, but only because the payments are stretched over a ten-year period.  Defendant has no claim that payment should be immediate because he agreed to the 10-year provision.<span class='heading'>Dissent.</span> The dissent argues that the partnership agreement provides the patents and trademarks for the life of the partnership, and since the partnership is now over Defendant is no longer entitled to their use.  The agreement provision should take precedent over the Uniform Partnership Act.<br />
+
+Discussion
+The majority offers no precedent to support their finding that the patents and trademarks should be available to the remaining partners after dissolution.  The real-world effect of prohibiting the business to use the patents and trademarks would be to make the operation of the business impossible, so the court may have hesitated to allow what they thought would be an unjust outcome.
+

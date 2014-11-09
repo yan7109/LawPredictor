@@ -1,0 +1,24 @@
+Citation
+410 U.S. 458, 93 S. Ct. 1066, 35 L. Ed. 2d 425 (1973)
+
+Brief Fact Summary
+After a mistrial was declared, against defendant’s objections, defendant was later indicted and tried for the same crime.  From conviction, defendant appealed, alleging the subsequent indictment was a violation of double jeopardy.
+
+Synopsis of Rule of Law
+Double Jeopardy only attaches after a judgment has been rendered.
+
+Facts
+In March of 1964, respondent, Somerville, was indicted for theft.  After the jury was empanelled, but before the trial had begun, the prosecutor realized that his indictment was deficient because it did not include an allegation that of the respondent’s intent.  At that point, the prosecution moved for a mistrial.  In November of the same year, the grand jury indicted respondent of the same crime, but with the appropriate allegations in the indictment.  Defendant was later convicted and appealed on the grounds that double jeopardy had attached at the moment when jury was empanelled because it was a step in his prosecution.
+
+Issue
+Whether a prosecution-requested mistrial leads to double jeopardy when the prosecutor later requests a new indictment on the same charges.
+
+Held
+Because the defective indictment deprives the trial court of jurisdiction, a mistrial was proper and Double Jeopardy had not attached because the defendant had not been tried of the crime of which he was accused.
+
+Dissent
+In two dissents, written by Justices Marshall and White, the opposing opinion argues that a mistrial should not have been called because, when a prosecutor fails to properly construct an indictment it is not an error that the defendant should have to bear by being forced to sustain another, later indictment.  In other words, when an indictment has been handed down and trial begins, a prosecution-requested mistrial based on the language of the indictment is improper and the duty should be incumbent upon the prosecutor to determine how to solve the defects in his case.
+
+Discussion
+This case shows a close division of the court.  The gist of the majority is that double jeopardy does not attach until trial has begun.  The dissent, on the other hand, focuses on the prosecutor’s error in indictment and argues that the defendant should not have to bear a mistrial for such a mistake and that causing a defendant to undergo such a mistrial is double jeopardy.
+

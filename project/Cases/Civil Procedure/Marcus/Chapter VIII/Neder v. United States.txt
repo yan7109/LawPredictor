@@ -1,0 +1,24 @@
+Citation
+527 U.S. 1, 119 S. Ct. 1827, 144 L. Ed. 2d 35, 1999 U.S.
+
+Brief Fact Summary
+In the mid-1980’s, Ellis E. Neder, Jr. (”Mr. Neder”) was convicted of filing false federal income tax returns and of federal mail, wire and bank fraud for engaging in a number of real estate transactions financed by fraudulently obtained bank loans in Jacksonville, Florida.
+
+Synopsis of Rule of Law
+The harmless-error rule applies to a jury instruction that omits an element of an offense.  Also, materiality is an element of the federal mail, wire and bank fraud statutes.
+
+Facts
+In the mid-1980’s, Mr. Neder engaged in a number of real estate transactions financed by fraudulently obtained bank loans and schemes involving land development fraud.  He was indicted on numerous counts of federal mail, wire, and bank fraud and for filing false federal income tax returns.  At trial, the District Court instructed the jury that it need not consider the materiality of any false statements, or whether Mr. Neder’s actions caused others to be defrauded in order to convict on the bank and tax offenses.  Mr. Neder objected to the jury instruction on mail and wire fraud because the court did not include materiality as an element of either offense.  In affirming Mr. Neder’s convictions, the Court of Appeals held that the trial court erred in failing to submit the materiality element of the tax offense to the jury.  However, the appeals court concluded the error was harmless, and determined that materiality is not an element of mail, wire, and bank fraud.
+
+Issue
+Does the District Court’s omission of the element of materiality from a jury instruction on tax fraud constitute harmless error?
+
+Held
+In an opinion delivered by Chief Justice William H. Rehnquist (”J. Rehnquist”), the Supreme Court of the United States (”Supreme Court”) held 6-3 that under the harmless-error rule, which applies to a jury instruction that omits an element of an offense, the trial court’s error did not render Mr. Neder’s trial “fundamentally unfair.”
+
+Dissent
+Justice Antonin Scalia (”J. Scalia”) issued an opinion concurring and dissenting in part, in which Justices David Souter (”J. Souter”) and Ruth Bader Ginsburg (”J. Ginsburg”) joined.  J. Scalia argued that depriving a criminal defendant of the right to have a jury determine his commission of every element of the crime charged could not constitute a harmless error.
+
+Discussion
+An instruction that omits an element of the offense, as in this case, differs from constitutional violations which should not be subject to a harmless error analysis.  Mr. Neder underreported his income on his tax returns, failed to contest materiality at trial, and did not offer any evidence on this issue.
+

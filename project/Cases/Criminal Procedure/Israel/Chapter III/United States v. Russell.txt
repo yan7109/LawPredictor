@@ -1,0 +1,24 @@
+Citation
+411 U.S. 423, 93 S. Ct. 1637, 36 L. Ed. 2d 366 (1973)
+
+Brief Fact Summary
+The Respondent, Richard Russell (the “Respondent”), manufactured methamphetamine using an essential chemical provided by an undercover federal agent.  The chemical is difficult to acquire, and without the chemical it is impossible to manufacture the drug.
+
+Synopsis of Rule of Law
+In order to determine whether the defense of entrapment is applicable, a subjective test should be applied that focuses on the intentions and conduct of the defendant.
+
+Facts
+The Respondent, together with the help of two other men and the undercover agent, manufactured methamphetamine.  The undercover agent provided a key ingredient, propanone, that was required to complete the manufacturing.  The Respondent was able to acquire propanone without the agent, but he still accepted the agent’s offer of the propanone in exchange for half of the product.  The Respondent conceded that they would likely have made the drug without the agent’s assistance, but the government’s conduct should be the test to determine entrapment.  The United States Court of Appeals for the Ninth Circuit agreed with the Respondent.
+
+Issue
+Whether the government authorities’ conduct should be the determining factor, as opposed to the conduct of the defendants, when deciding the merits of an entrapment defense?
+
+Held
+The conduct of the defendants, rather than the conduct of any government agents, is the test to determine whether there is a defense of entrapment.  The court affirmed prior holdings in Sorrells v. United States, 287 U.S. 435 (1932) and Sherman v. United States, 356 U.S. 369 (1958) and declined to accept the concurring reasoning in both cases.
+
+Dissent
+The dissent agreed with the concurring opinions in Sorrels and Sherman, which argued that an objective test that reviewed the conduct of the government to determine entrapment would be more consistent and fair.
+
+Discussion
+The dissent notes that a defendant that has a prior record of poor conduct is at a disadvantage when an official attempts to entrap them.  But an objective test of the government’s conduct may not consider the unique circumstances of every case.  There are other instances, such as when deciding if permission was given to search a premises by someone with controlling authority, where the emphasis is on the conduct of the officer.
+

@@ -1,0 +1,18 @@
+Citation
+552 U.S. 1069
+
+Brief Fact Summary
+Knapp is the (D).  He claims self defense and had been told the victim actually killed a different person.  In this case the prosecution was allowed to prove that the victim did not cause the other person’s death.
+
+Synopsis of Rule of Law
+Relevancy is determined on a specific item of evidence by proof of the relevancy could reasonably help to resolve the main issue at trial
+
+Facts
+Knapp (D) killed a deputy sheriff in Hagerstown who attempted to arrest him and D claimed that he murdered in self-defense.  People around the town had told D that the deputy killed the old man.  The prosecutor then showed that the deputy did not kill the old man, that the old man died of natural causes.  D was convicted of murder and he then appealed, claiming that the real issue was whether D had heard that the deputy had killed the old man.<span class='heading'>Issue.</span>  Is evidence relevant of a particular item if it tends to support whether proof of that evidence would assist to resolve the  to a central issue of a case?
+
+Held
+Yes, the judgment is affirmed.
+
+Discussion
+The court shows that admissibility of evidence in this case indicates that if even a slight inference can be made, then the court should admit the evidence of a collateral fact.  In actual practice, the courts tend to weigh the value of the evidence against the amount of time that will be consumed by its introduction.  The more there is a direct connection to the case; the court will be more liberal.
+

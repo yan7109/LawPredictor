@@ -1,0 +1,21 @@
+Citation
+840 F.2d 596, 1988 U.S. App. 5 U.C.C. Rep. Serv. 2d (Callaghan) 871
+
+Brief Fact Summary
+The Plaintiffs, Worthen Bank & Trust Co. and the National Bank of Commerce of El Dorado, Arkansas (NBC) (Plaintiffs) were both creditors of the Defendant, Hilyard Drilling Co. (Defendants). This dispute centers on the priority of the creditors’ perfected interests.
+
+Synopsis of Rule of Law
+Under the Uniform Commercial Code (UCC), a perfected security interest is effective for only five years unless a continuation statement is filed.
+
+Facts
+The Defendant granted a security interest in all of the Defendant’s existing and future accounts receivable to NBC. NBC thereafter perfected the interest by filing financing statements. Four years later, the Defendant granted a secondary security interest in its existing and future accounts receivable to the Plaintiff, which the Plaintiff perfected. Within a month of the Plaintiff’s filing, NBC filed an additional financing statement that would have perfected its interest if it had been the only one filed. However, NBC had missed a deadline. Under the UCC, a first filing is effective for only five years. NBC could have maintained its perfected interest by filing a continuation statement, but it had failed to do so. Therefore, this action was commenced to determine the priority of the creditors’ interests.
+
+Issue
+Did NBC’s perfected security interest lapse due to the failure to file a continuation statement?
+
+Held
+Yes. Under Article 9 of the UCC, a first filing of a financing statement is effective for only five years. However, the perfection can be maintained by filing a continuation statement before the expiration date. In the event that the perfection does lapse, all other perfected security interests advance in priority. Hence, since NBC failed to timely file a continuation statement, its perfected interest lapsed. When it finally did file after the deadline, it was essentially a re-filing of the security interest, which left NBC lower in priority than the Plaintiff, because the Plaintiff filed first.
+
+Discussion
+Under the UCC, a perfected security interest is effective for only five years unless a continuation statement is filed.Contracts Keyed to Knapp, Crystal & Prince (Fifth Edition)CHAPTER I.
+

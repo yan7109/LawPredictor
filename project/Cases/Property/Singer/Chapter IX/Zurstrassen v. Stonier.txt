@@ -1,0 +1,21 @@
+Citation
+786 So. 2d 65 (Fla. 4th DCA 2001)
+
+Brief Fact Summary
+Brother Rolf forged his brother Klaus’s signature on a deed and then sold that property Stonier. Klaus brought suit to quiet title upon learning of the forgery. Stonier claims Klaus should be estopped from doing so.
+
+Synopsis of Rule of Law
+A person needs actual or constructive knowledge that a forgery occurred in order to have waived his right to claim forgery or to have ratified such actions. In order to be estopped from claiming forgery that particular party must have been part of representations made to injured party.
+
+Facts
+Two Brothers Klaus and Rolf purchased two vacant lots in the Indian River County. Klaus is a German citizen and in September of 1997 he left his brother in charge of the lots. Later that September it appears a deed was recorded conveying Klaus’s interest in the land to Rolf. That October the brothers agreed to sell the lot and Klaus meet with a broker who discovered that Klaus no longer held an interest in the property. Klaus went to his brother who claimed he has no idea why and the brothers executed an agreement that Klaus owned half of the property but that title was in Rolf name alone, and it described how they would sell the property. In June of 1998 Rolf sold the property to Stonier by quitclaim deed. Then in August Stonier sold the property to Wihlborgs. Before Wihlborgs could record his deed, Klaus found out about the transaction and investigated the title. Upon finding that Rolf had forged the deed Klaus instituted a suit to quiet title and for rescission and recorded a lis pendins. Then Wihlborgs recorded his deed. Stonier and Wihlborgs then brought suit against Klaus.
+
+Issue
+Whether a person should be estopped, waives his claim, or ratifies a forgery of a real estate transaction when he agrees to sell the property and failed to take timely action to quiet title.
+
+Held
+No. When a deed is void due to a forgery it creates no legal title and anyone claiming protections under that deed will not be afforded any. Stonier and Wihlborgs conceded that the deed was a forgery by Klaus’s brother; however, they claim that Klaus either waived his rights or should be estopped due to untimely action. The elements of estoppel are; when a party makes representation of a material fact to a party, and then later asserts facts that are contrary to that representation, reliance of that representation, and the injured party detrimentally changes his or her position due to such reliance. Here there were no representations made by Klaus to either party, and there is no evidence that when Klaus signed the agreement that he knew his brother had forged the deed. The elements of waiver are; the existence at the time of waiver of a right, privilege, advantage or benefit to be waived, actual or constructive notice of that right, and intention to relinquish that right. Klaus possibly should have investigated once the realtor told him there was a problem but he left immediately for Germany and investigated the matter upon his return. Therefore he did not make any waiver or his rights. The court holds that because Klaus did not know about the forgery he could not possible have ratified such. Ratification requires; full knowledge of all material facts, and makes an affirmative showing or his express or implied intent to adopt such actions, which didn’t occur here.
+
+Discussion
+Klaus did not have any interaction with either party and did not know that a forgery existence until investigation. Therefore, it is unfair to state he ratified such actions of forgery.
+

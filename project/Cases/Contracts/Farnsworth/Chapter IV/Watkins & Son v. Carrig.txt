@@ -1,0 +1,21 @@
+Citation
+91 N.H. 459, 21 A.2d 591, 1941 N.H. 55, 138 A.L.R. 131
+
+Brief Fact Summary
+Plaintiff Watkins & Son agreed to excavate a cellar for Defendant Carrig, but Plaintiff encountered solid rock shortly after the work began. The parties then orally agreed that Plaintiff would remove the rock for a stipulated price.
+
+Synopsis of Rule of Law
+A contract changed to meet changes in circumstances and conditions is valid.
+
+Facts
+Plaintiff agreed by written contract to excavate a cellar for Defendant for a stated price. After Plaintiff began the work, solid rock was encountered. At Plaintiff’s insistence, the parties met and orally agreed that Plaintiff would remove the rock at a stipulated price. A referee determined that this oral agreement superseded the written contract.
+
+Issue
+Was the original written contract superseded by the subsequent oral agreement?
+
+Held
+Yes. The parties rescinded the written contract and entered into an oral one as though it were the sole agreement. Despite Defendant’s contention that the oral contract was not supported by consideration since the plaintiff did not take on any additional duties, the New Hampshire Supreme Court held that the original contract was rescinded and a new contract was formed. This is to be distinguished from the contract being modified to include new terms without consideration.
+
+Discussion
+There is a fine line between being coerced into modifying a contract for no consideration, e.g. Alaska Packers’ Ass’n v. Domenico, 117 Fed. 99 (9th Cir. 1902) (Workmen stopped working and demanded more money upon reaching Alaska, and the employer acquiesced knowing the availability of other workers was limited), and rescinding a contract and forming a new one substantially the same save for a new duty being imposed for no consideration. The difference seems to be purely factual.
+

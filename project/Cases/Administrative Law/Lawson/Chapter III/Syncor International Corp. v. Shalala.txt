@@ -1,0 +1,21 @@
+Citation
+127 F.3d 90, 326 U.S. App. D.C. 422 (D.C. Cir. 1997)
+
+Brief Fact Summary
+Syncor International Corporation (Appellant) appealed from the District Court decision that the 1995 “Notice” issued by the Food and Drug Administration (FDA) regarding positron emission tomography (PET) was a “non- substantive” rule not subject to notice and comment rulemaking.
+
+Synopsis of Rule of Law
+APA Section:553(b)(3)(A) exempts from notice and comment interpretive rules or general statements of policy.
+
+Facts
+PET drugs are manufactured by physicians and pharmacists in nuclear pharmacies very close to the place of administration to patients due to the drugs’ short half-life.  The 1984 FDA Guidelines specifically stated that PET radiopharmaceuticals were not subject to the Act. However, the 1995 “Notice” issued by the FDA provided that the PET radiopharmaceuticals “should be regulated” under the drug provisions of the Food, Drug, and Cosmetic Act (Act). The FDA indicated that its 1995 publication was to supersede its prior 1984 publication.  The FDA characterized its 1995 publication as merely “guidance” (a general statement of policy), and an interpretive rule.  The Petitioner claimed that the publication was a substantive regulation, and that the FDA violated the APA’s notice and comment requirements.  The district judge granted summary judgment in FDA’s favor.
+
+Issue
+Was the 1995 publication an interpretive rule?
+
+Held
+No. Reversed and remanded to the district court with instructions to vacate the FDA’s rule and enter summary judgment in Syncor’s favor.   The 1995 regulation was as far removed from the typical policy statement or interpretive rule. It did not purport to interpret anything; but rather, was a fundamentally new regulation.  The sort of changes the FDA made in issuing the new regulation and making the Act applicable to PET drugs were exactly the sort of changes in fact and circumstance for which notice and comment are intended.   Dissent. None.  Concurrence. None.
+
+Discussion
+An agency policy statement does not seek to impose, elaborate on or interpret a legal norm-it merely represents an agency’s position with respect to how it will treat the governing legal norm.  An interpretive rule typically reflects an agency’s construction of a statute that has been entrusted to the agency to administer.  A substantive rule has characteristics of both a policy statement and an interpretive rule; and is in part an exercise of policy and a rule. The distinction is that a substantive rule modifies or adds to a legal norm based on the agency’s own authority.
+

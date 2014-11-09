@@ -1,0 +1,21 @@
+Citation
+2001 WL 1518242 (Bkrtcy.E.D.Pa. 2001)<br />
+
+Brief Fact Summary
+Cashback Liquidation Company, (Plaintiff), brought suit against Technology Crossover Ventures, LP, some of its investors, and Technology Crossover Ventures, Inc., (Defendants) for damaging statements made to a reporter from the Wall Street Journal about Plaintiff’s business.  These statements damaged Plaintiff’s ability to raise necessary capital resulting in the need to file for bankruptcy protection.
+
+Synopsis of Rule of Law
+A fiduciary duty is breached by knowingly declaring damaging statements to the press that result in injury.
+
+Facts
+Defendants made several statements about Spree.com Corp. (Spree) in the presence of a reporter from the Wall Street Journal. These statements then became the basis of an article published in the Wall Street Journal. The article quoted Defendant’s as saying Spree’s cash runs out soon. Plaintiff claims that this and other similar statements were made in violation of a confidentiality agreement and resulted in Plaintiff’s inability to secure new funding.
+
+Issue
+Whether the statements made to the reporter contained confidential material as defined by the agreement.
+
+Held
+No. The statements made to the reporter did not contain any confidential material because such information was already available to potential and existing investors.
+
+Discussion
+Defendants’ statements regarding Spree’s cash position were not confidential information. Spree had embarked on a road show to solicit additional investors. Such solicitation of funds requires a complete disclosure of Plaintiff’s financial condition. Since these statements were made after the acknowledged road show, they cannot possibly have breached a confidence.
+

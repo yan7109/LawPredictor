@@ -1,0 +1,21 @@
+Citation
+86 N.Y.2d 685, 636 N.Y.S.2d 734, 660 N.E.2d 415 (1995)<br />
+
+Brief Fact Summary
+A sublease agreement contained an express condition precedent that the subleasing party must obtain the landlord’s written consent before the sublease would be valid.
+
+Synopsis of Rule of Law
+The doctrine of substantial performance is not available to excuse the failure to perform an express condition precedent as required by contract.
+
+Facts
+The Plaintiff, Oppenheimer & Co. (Plaintiff), entered into a sublease agreement with the Defendant, Oppenheim, Apel, Dixon & Co (Defendant). The agreement contained a provision stating “there would be no sublease between the parties unless and until plaintiff delivered to defendant the prime landlord’s written consent to certain tenant work.” This written consent was to be received by February 25, 1987. On February 25, the Plaintiff informed the Defendant’s attorney by telephone that the landlord consented to the tenant work. The landlord’s written consent was not received until March 20, 1987. On February 26, the Defendant informed the Plaintiff that the sublease agreement was invalid because the condition requiring written consent was not met. The Plaintiff brought suit arguing that it had substantially performed the required conditions.
+
+Issue
+Is substantial performance available to a defendant who failed to perform an express condition precedent as required by a contract?
+
+Held
+No. Judgment reversed. Substantial performance is not applicable to excuse the nonoccurrence of an express condition precedent.
+
+Discussion
+The court reasoned that policy considerations support the freedom to contract where contract language is clearly stated. The condition that the Defendant obtain the landlord’s written consent was unambiguously stated through language of condition (”if…then”) in the contract. The court examined the case law and found that it supported the fact that substantial performance should not be available to excuse the nonoccurrence of an express condition precedent. The court noted that substantial performance may be available in cases where the Plaintiff would suffer forfeiture, but that this was not the case here.
+

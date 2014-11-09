@@ -1,0 +1,21 @@
+Citation
+673 A.2d 148 (Del. 1996)
+
+Brief Fact Summary
+Defendant, Robert Broz, was the sole stockholder of RFB Cellular, Inc. (”RFBC”) while also acting as an outside director for Plaintiff Cellular Information Systems, Inc. (”CIS”).  Plaintiff brought an action against Defendant when Defendant purchased a cellular license for RFBC over a bid by CIS.
+
+Synopsis of Rule of Law
+The corporate opportunity doctrine holds that an officer or director of a corporation can take a corporate opportunity if the opportunity is presented to them in their individual capacity, the opportunity is nonessential to the corporation, the corporation has no expectation for the opportunity, and they have not wrongfully utilized corporate resources to take advantage of the opportunity.
+
+Facts
+Defendant was presented an opportunity by Mackinac Cellular Corp. that targeted RFBC as a potential buyer of a cellular license, Michigan-2, which was adjacent to another license held by RFBC.  At the time of the offer, CIS was undergoing a Chapter 11 reorganization after they came into financial straits from being overaggressive in other acquisitions.  Another company, PriCellular, was also bidding for the license while also trying to purchase CIS.  PriCellular was eventually successful at acquiring CIS, but only after several delays and shaky financing.  Meanwhile, Defendant outbid PriCellular for the Michigan-2 license.  CIS, now owned by PriCellular, brought this action against Defendant, claiming he usurped a corporate opportunity belonging to Plaintiff.  Plaintiff also argued that Defendant had a fiduciary duty to PriCellular since they were trying to acquire CIS.  Defendant countered that he held a fiduciary duty only to CIS, and they did not have the resources or the d
+
+Issue
+The issue is whether Defendant usurped a corporate opportunity from Plaintiff when he outbid them for the Michigan-2 license.
+
+Held
+Defendant did not personally take advantage of a corporate opportunity for Plaintiff.  Mackinac did not consider CIS to be a legitimate bidder for the Michigan-2 license due to their financial condition, and when Mackinac approached Defendant about the purchase, they were approaching him in his capacity as the president of RFBC.  Defendant never hid the transaction from other CIS board members, and they testified that CIS would have no interest in the license.  CIS was actually selling the licenses it already had.  Defendant did would have been better-served if he formally presented his purchase to the Board, but the omission was harmless error.  CIS’ interest only came about after PriCellular acquired CIS, but PriCellular also had financial troubles.  Defendant also had no fiduciary duty to a company that had yet to acquire CIS at the time of his purchase of the license.
+
+Discussion
+The speculative nature of PriCellular’s acquisition of CIS, and the uncertain future business strategy of CIS after it reorganized under Chapter 11, were strong factors in Defendant’s favor.  Businesses and their officers would be severely limited in their capacities if they had to consider how every present-day decision could adversely affect future dealings with the company they owe a fiduciary duty.  This holding balances the interests of both sides.
+

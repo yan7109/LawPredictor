@@ -1,0 +1,27 @@
+Citation
+455 F.3d 628 (6th Cir. 2006)
+
+Brief Fact Summary
+After having an accident, Veach resisted arrest and threatened federal law enforcement officers. He was convicted for resisting a federal law enforcement officer under 18 U.S.C. Section 111(a)(1), and for threatening to assault and murder a federal law enforcement officer in order to prevent the officer from carrying out his official duties under 18 U.S.C. Section 115(a)(1)(B). He argued that the trial court should have included his defense of voluntary intoxication.
+
+Synopsis of Rule of Law
+(1) Voluntary intoxication is  not a permissible defense to the crime of resisting a federal law enforcement officer, 18 U.S.C. Section 111(a)(1).
+
+Facts
+Veach’s automobile collided with another vehicle in a national park. The U.S. Park Rangers suspected and tested for intoxication by field tests and a portable breath analysis, which all confirmed it. While  he was being made ready for transport, he tried to pull away from them which made one of the officers fall, and also repeatedly threatened to kill them and chop off their heads, both then and while he was being taken from hospital to the detention center. The jury found that he was guilty of resisting a federal law enforcement officer under 18 U.S.C. Section 111(a)(1), and for threatening to assault and murder a federal law enforcement officer in order to prevent the officer from carrying out his official duties under 18 U.S.C. Section 115(a)(1)(B).the trial court allowed the government motion to ban the introduction of evidence citing voluntary intoxication. The court of appeals granted review.
+
+Issue
+1) Is voluntary intoxication a permissible defense to the crime of resisting a federal law enforcement officer, 18 U.S.C. Section 111(a)(1)?
+
+Held
+(Daughtrey, J.)
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+Many states now follow a trend to disallow voluntary intoxication as a trend. In such cases, the defendant will have to prove involuntary intoxication to prove the absence of intent. The Model Penal Code Section 2.08 (1) provides for intoxication as a defense if it eliminates some element of the crime, and thus it does not differentiate between specific and general intent as in this case.
+

@@ -1,0 +1,24 @@
+Citation
+459 U.S. 857, 103 S. Ct. 127, 74 L. Ed. 2d 110 (1982)
+
+Brief Fact Summary
+Plaintiffs seek to be compensated by Defendant as a result of working in hazardous conditions.
+
+Synopsis of Rule of Law
+An employer cannot immunize himself from liability of intentional torts.
+
+Facts
+Plaintiffs, eight current or former employees of Cincinnati Milacron Chemicals, Inc., (Defendant) brought an action against Defendant, alleging that as a result of failing to warn of, report, and correct hazardous conditions in their work environment, they had been exposed to “to fumes of certain chemicals” which “rendered them sick, poisoned, and permanently disabled.” The Plaintiffs also allege that the Defendant’s “omissions were intentional, malicious, and in willful and wanton disregard of the duty to protect the health of employees.” The trial court dismissed on the ground that the action was barred by a relevant section of the Ohio Constitution and the Ohio Workers’ Compensation Act, which offered an employer and his employees total immunity from civil suit. Plaintiffs appealed and the court of appeals affirmed the lower court ruling.
+
+Issue
+Whether the Workers Compensation Act was intended to cover an intentional tort committed by employers against their employees?
+
+Held
+(Justice Brown). No. “[w]here an employee asserts in his complaint a claim for damages based on an intentional tort, . . . the substance of the claim is not an injury . . . received or contracted by any employee in the course of or arising out of his employment within the meaning of Ohio law.” Intentional and unintentional torts occurring on the job can be categorized into two completely different risks. An unintentional tort is a natural risk of employment. The Workers’ Compensation Act does not immunize employers from civil liability for their intentional torts and an employee may resort to a civil suit for damages.
+
+Dissent
+The dissenting opinions are as follows:
+
+Discussion
+The court states that the Ohio Workers’ Compensation Act can only apply to unintentional torts.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.3166 F.R.D. 353 (D. Md. 1996)
+
+Brief Fact Summary
+Plaintiff sued Defendant and mailed the complaint and summons via first class mail to an address taken off of Defendant’s letterhead. Defendant did not respond to the complaint and the clerk entered a judgment of default against Defendant. The clerk sent Plaintiff a notice asking Plaintiff to explain why service is effective.
+
+Synopsis of Rule of Law
+Under Rule 4 of the Federal Rules of Civil Procedure, the defendant must either consent to waive service or be personally served. Service be affected by mail only if the defendant does not waive service or accept personal service.
+
+Facts
+Maryland State Firemen’s Association, Plaintiff, sued Chaves, Defendant. Plaintiff mailed Defendant the summons by first class mail to an address from Defendant’s letterhead. Defendant did not respond to the complaint and Plaintiff filed motion for judgment by default. The clerk entered the default against Defendant. The court sent Plaintiff a request to explain why they believed service was effective.
+
+Issue
+Is service of process effective under Rule 4 of the Federal Rules of Civil Procedure if the plaintiff mails the defendant the complaint and summons via first class mail and the defendant has actual notice of the lawsuit?
+
+Held
+No. Judgment of default vacated.   Under the old Rule 4, service could be effective only if the complaint was mailed and the defendant replied to the summons. If the defendant did not reply, the plaintiff had to find another way to serve Defendant. The Fourth Circuit held in [Armco, Inc. v. Penrod-Stauffer Bldg. Sys., Inc., 733 F.2d 1087 (4th Cir. 1984),] that the validity of service by mail is dependent on an appropriate response from the plaintiff. In addition, the Fourth Circuit has a policy of strict compliance with Rule 4’s requirements.  Under the new Rule 4, if the defendant does not reply, there is no basis for defaulted judgment, except that the defendant has to pay for normal service. Although the Fourth Circuit has not interpreted Rule 4 yet, they still follow the strict compliance rule. This rule invalidates the service here, even though the defendant had actual notice.  Under Maryland rules, service is effective by certified mail, not first class mail.
+
+Discussion
+The mechanics of serving process under Rule 4 of the Federal Rules of Civil Procedure are very strict. As the court illustrates, service is not effective if the complaint is mailed via first class mail. The plaintiff must attempt to have the defendant waive service or accept personal service. Only then should service by mail be attempted.
+

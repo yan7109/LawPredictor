@@ -1,0 +1,21 @@
+Citation
+259 U.S. 20, 42 S. Ct. 449, 66 L. Ed. 817, 1922 U.S.
+
+Brief Fact Summary
+Congress passed a law that imposed a federal excise tax on employers of child labor. A company brought a suit for refund of taxes paid.
+
+Synopsis of Rule of Law
+Congress cannot use their power to tax in order to regulate.
+
+Facts
+Congress passed the Child Labor Tax Law of 1919 (the Law). The Law imposed a federal excise tax of 10% on annual net profits, of those employers who used child labor in certain businesses. The statute created a standard, limiting the employment of children in certain industries. If an employer knowingly failed to comply with the standard, then the tax would be imposed. A company that paid $6000 under this statute brought suit challenging its constitutionality.
+
+Issue
+May Congress impose a tax as a penalty for failure to comply with regulatory standards?
+
+Held
+No. Congress is not validly exercising its taxing power when it imposes a tax with a prohibitory and regulatory effect and purpose. It is irrelevant that the taxes are also generating revenue. Attempting to regulate local behavior, such as the employment of children under certain conditions, through a tax is an impermissible use of power.
+
+Discussion
+Not all revenue-generating measures passed by Congress are valid taxes. A regulation under the guise of a tax is an improper use of the taxing power and will be held invalid.
+

@@ -1,0 +1,21 @@
+Citation
+305 F.2d 572 (2d Cir. 1962)
+
+Brief Fact Summary
+Plaintiff, Essex Universal Corp., brought this action to recoup damages stemming from a contract breach by Defendant, Herbert Yates.  The contract provided for Defendant to sell Plaintiff shares of Republic Pictures Corp. and allow Plaintiff to replace members of the board upon purchase.
+
+Synopsis of Rule of Law
+An agreement to sell the control of management along with the sale of a substantial percentage of shares is not against public policy.
+
+Facts
+Plaintiff offered to purchase between 566,223 shares at $8 per share ($2 more per share than the market value) of Republic Pictures shares from Defendant.  This represented 28.3% of the outstanding shares of Republic Pictures.  Plaintiff was going to pay 37.5% of the total price up front and pay the rest over 24 monthly payments, during which time Defendant would hold on to the certificates as security.  Defendant agreed that once Plaintiff closed on the transaction that Defendant would have 8 of the 14 board members resign so Plaintiff could replace them with their own members.  When the parties met to close the deal, Defendant refused.  Plaintiff then brought this action for $2.7 million to recover the difference between their price and what the shares were worth.  Defendant argued that the agreement was invalid because it called for terminating management.
+
+Issue
+The issue is whether the stock purchase agreement is invalid because it provided for the termination of prior board members and subsequent control of management for Plaintiff.
+
+Held
+Chief Judge Lumbard held that the agreement is valid and does not violate public policy.  Plaintiff was receiving a sizable portion of the shares which would have eventually entitled them to elect representatives to the board.  The agreement only accelerated that process.  It was also acceptable for the majority shareholder to obtain a premium for selling the control of the company in this case because, unlike Perlman v. Feldmann, there was no breach of a fiduciary duty to minority shareholders.  On remand, the burden would be on Defendant to prove that a voting block greater than Plaintiff’s size would have not approved of the deal.
+
+Discussion
+There was no majority consensus on whether a stock purchase agreement that gave management control to the purchaser was valid, although two of the three judges did not rule it out.
+

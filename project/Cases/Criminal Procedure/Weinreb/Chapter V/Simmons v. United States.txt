@@ -1,0 +1,21 @@
+Citation
+390 U.S. 377, 88 S. Ct. 967, 19 L. Ed. 2d 1247 (1968)
+
+Brief Fact Summary
+A suitcase was found in the basement of an individual’s home after a robbery.  The suitcase contained the gun used in the robbery and certain items taken during the robbery.  There were three suspects in the robbery.
+
+Synopsis of Rule of Law
+“[E]ach case must be considered on its own facts, and that convictions based on eyewitness identification at trial following a pretrial identification by photograph will be set aside on [due process] ground[s] only if the photographic identification procedure was so impermissibly suggestive as to give rise to a very substantial likelihood of irreparable misidentification.”
+
+Facts
+Two individuals robbed a bank in Chicago.  After the robbery, a bank employee rushed into the street and saw one of the two men sitting on the passenger side a white 1960 Thunderbird, with a scrape on the right door.  The police found a car matching the description in an hour.  They learned that the car belonged to the Petitioner, Simmons’ (the “Petitioner”) sister-in-law.  She informed the police that she loaned the car to her brother William Andrews (”Andrews”).  On the same day, two FBI agents went to Andrews’ mother’s home (”Ms. Andrews”).  The agents did not have a warrant.  During trial, it was disputed as to whether Andrews’ mother gave the FBI consent to search the home.  During a search, the FBI found two suitcases in the basement that Ms. Andrews said she did not own.  The suitcases contained various items taken and used during the robbery including a gun, holster, coin cards and bill wrappers.
+
+Issue
+Whether the Petitioner’s “pretrial identification by means of photographs was in the circumstances so unnecessarily suggestive and conducive to misidentification as to deny him due process of law, or at least to require reversal of his conviction in the exercise of [the court's] supervisory power over the lower federal courts[?]”
+
+Held
+No.  The Petitioner “does not contend that he was entitled to counsel at the time the pictures were shown to the witnesses. Rather, he asserts simply that in the circumstances the identification procedure was so unduly prejudicial as fatally to taint his conviction. This is a claim which must be evaluated in light of the totality of surrounding circumstances.”  “Despite the hazards of initial identification by photograph, this procedure has been used widely and effectively in criminal law enforcement, from the standpoint both of apprehending offenders and of sparing innocent suspects the ignominy of arrest by allowing eyewitnesses to exonerate them through scrutiny of photographs. The danger that use of the technique may result in convictions based on misidentification may be substantially lessened by a course of cross-examination at trial which exposes to the jury the method’s potential for error.  [The Court] unwilling to prohibit its employment, either in the exercise of our
+
+Discussion
+This case deals with both identifications, and how testimony during a suppression hearing is not admissible against an individual during the case in chief.
+

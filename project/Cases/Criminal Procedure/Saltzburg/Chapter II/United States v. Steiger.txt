@@ -1,0 +1,21 @@
+Citation
+318 F.3d
+
+Brief Fact Summary
+An anonymous tip, combined with substantial evidence, led federal agents to a sexual predator via the internet.
+
+Synopsis of Rule of Law
+1. “A search by a private person does not implicate the Fourth Amendment unless he acts as an instrument or agent of the government.” 2. The Wiretap Act permits evidence so long as “the anonymous source did not intercept electronic communications” and “if so, whether any of the Act’s provisions require suppression.”
+
+Facts
+The Montgomery, Alabama Police Department received an e-mail from an anonymous source containing an explicit photograph of a nude male sexually abusing a child.  The police pursed the matter and contacted the source, who was adamant about retaining his anonymity, but willing to continue sending evidence, which he admitted gaining through the use of a Trojan horse program.  This information led investigators to the online account of petitioner Steiger.
+
+Issue
+Whether the Fourth Amendment warrants suppression of evidence collected by an anonymous party. Whether the Wiretap Act, 18 U.S.C. Section:Section: 2510-2522 warrants suppression of such evidence.
+
+Held
+No.  The Court noted that the finding of probable cause for the warrant was based on “the information provided in the anonymous source’s first and second e-mails.” No.  After painstakingly defining “interception” to be one of “real time” acquisitions “contemporaneous with transmission”; and “electronic communications” as “any transfer of signs, signals, writing, images, sounds, date, or intelligence of any nature transmitted in whole or in party by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce.”  Based on this very narrow reading of the statute, the source’s efforts to hack into Steiger’s computer is not suppressible.  Further, there were no other means under the statute to suppress the evidence.
+
+Discussion
+“Under [a] narrow reading of the Wiretap Act . . ., very few seizures of electronic communications from computers will constitute ’seizures.’”
+

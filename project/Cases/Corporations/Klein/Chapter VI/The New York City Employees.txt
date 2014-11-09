@@ -1,0 +1,21 @@
+Citation
+795 F. Supp. 95, 15 EBC 1463 (S.D.N.Y. 1992)
+
+Brief Fact Summary
+Plaintiff, the New York City Employees’ Retirement System, sought an injunction against Defendant, Dole Food Co., in order to insert a proposal in a proxy statement concerning the research of congressional health plan proposals.
+
+Synopsis of Rule of Law
+A registrant’s proposal can not be denied insertion into a proxy statement if the registrant has met the burden of demonstrating that the proposal pertains to a significant strategic business decision.
+
+Facts
+Plaintiff held a significant amount of shares in Defendant company.  Plaintiff submitted a proposal, under Rule 14(a)-8(a) for an upcoming proxy statement that would ask for the board to nominate a committee to review three different health care options that the U.S. Congress was considering at the time.  Plaintiff supported the proposal by noting that health care costs can sometimes represent half of a company’s costs and that the problem was worsening each year, and therefore the health care option chosen by Congress could significantly impact Defendant’s revenues.  Defendant decided not to include the information because it fell into the Rule 14(a)-8(c) exceptions because the proposal concerned ordinary business operations outside of shareholder control, it was an insignificant relation to Dole’s business and the shareholders were beyond the power to effectuate.  Defendant’s decision was affirmed by counsel for the SEC.  Plaintiff then sought an injunction to prevent a prox
+
+Issue
+The issue is whether Plaintiff’s proposal can be denied insertion into a proxy statement under Rule 14(a)-8(c) exceptions.
+
+Held
+The court held that Plaintiff met their burden in proving that their proposal would be successful in being required insertion into the proxy statement, and therefore the injunction was ordered.  Although health care issues are typically issues under the ordinary business operations, this proposal concerned the research of the impact of various proposals, wherein the impact could be significant.  Because the impact could be significant, there is no question that there is a nexus between Dole’s business and the proposal, and there is no question that the costs at issue would be greater than the 5% statutory requirement to be with the power to effectuate.
+
+Discussion
+The court understood that there were political implications, but the court felt it was outweighed by actual significance to the company.  The court was also dismayed that Defendant offered no rebuttal other than a conclusory rejection under Rule 14(a)-8(c).
+

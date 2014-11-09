@@ -1,0 +1,21 @@
+Citation
+58 F.R.D. 444, 1973 U.S. Dist. 16 Fed. R. Serv. 2d (Callaghan) 1442
+
+Brief Fact Summary
+Crompton & Knowles Corporation (Defendant) seeks to amend his answer to deny the allegations that it designed, manufactured and sold the machine that injured David (Plaintiff).
+
+Synopsis of Rule of Law
+A motion to amend should be denied if the plaintiff would be prejudiced and the defendant was aware of this information prior to filing his answer.
+
+Facts
+Plaintiff was involved in an accident with a shredding machine and brought the following products liability action. Defendant seeks to amend its answer, which alleges that Defendant designed, manufactured and sold the shredding machine to Plaintiff’s employer. Defendant argued that it was without sufficient knowledge to admit or deny the allegation, and it now wants to deny that it designed, manufactured and sold the machine. Defendant further argues that the machine was designed, manufactured and sold by James Hunter Corporation prior to its purchase of the company and that it did not assume the liabilities for the negligent design, manufacture or sale of machines by James Hunter Corporation prior to its purchase of the company. On the issue of whether a denial based on a defendant’s lack of information is deemed an admission if the denying party has knowledge, the court held that Defendant’s denial of the Plaintiff’s allegation, that it designed, manufactured and sold the machine that injured Plaintiff was ineffective and was held to be an admission.
+
+Issue
+Whether the Defendant should be permitted to amend its answer to deny the allegations?
+
+Held
+No. Defendant’s Motion to Amend is denied.   A court may deny a request to amend an answer if it bases such denial on a valid ground. Some likely reasons to deny a motion to amend are that the amendment would result in undue prejudice to the plaintiff or that plaintiff has been unduly delayed.  In the instant case, Defendant knew the basic facts surrounding the manufacture and delivery of the machine prior to filing its answer to the complaint. The effect of this delay would be highly prejudicial to the Plaintiff since Plaintiff would now be barred by the statute of limitations from instituting this action against another party. To allow an amendment here would penalize the Plaintiff, who is without fault and leave him with no remedy.
+
+Discussion
+This portion of the case determines whether the Defendant should be permitted to amend his answer to deny Plaintiff’s allegations, whereas the first case   determined whether Defendant’s denial based on lack of information constituted an admission if the Defendant was in control or had knowledge of applicable facts.
+

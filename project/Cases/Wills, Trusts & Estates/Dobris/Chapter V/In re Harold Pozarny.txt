@@ -1,0 +1,21 @@
+Citation
+177 Misc. 2d 752, 677 N.Y.S.2d 714 (Sur Ct 1998)
+
+Brief Fact Summary
+Petitioner sought to have Decedent’s will admitted to probate.  The Respondents argued that the doctrine of merger rendered a trust in the will ineffective and that a pour-over will was not intended.
+
+Synopsis of Rule of Law
+A trust is not merged or invalid because a person, including its creator, is or may become sole trustee or sole holder of the present beneficial interest.
+
+Facts
+Decedent left a will which was a compilation of several pre-printed forms, left his entire estate to the “Harold Pozarny Revocable Living Trust.”  Petitioner beneficiary filed a petition to have the will admitted to probate.  The trial court found the will and trust were so ambiguously worded that it is was impossible to determine the Decedent’s wishes regarding the nomination of the fiduciary and the Decedent’s dispositive intent.  The Respondents, Decedent’s intestate distrubutees, argued that the merger of legal and equitable interest rendered the trust ineffective and that the pour-over of the estate into the trust was not the Decedent’s intent.
+
+Issue
+Does merger render the trust invalid? Are the assets meant to be held in continuing trust after the Decedent’s death? Is the pour-over provision effective and if not is the attempted incorporation of the trust into the will viable? Did the decedent mean to exclude the Respondents from any share in the estate or trust?
+
+Held
+No.  The merger of the trust’s legal and equitable interests in Harold Pozarny during his lifetime does not render the Petitioner’s interest invalid.  Although the Settlor was the trust’s sole trustee and sole lifetime beneficiary, he did not possess the fee simple.  Therefore the remainder interest in the Petitioner must be given effect. No.  The will is construed as though the balance of the trust principal remaining after the decedent’s death is to be distributed outright to the Petitioner with the remainder to pass to the Petitioner’s descendants only if he had not survived the Settlor. No.  The trust is not a valid receptacle to receive the pour-over of assets from the decedent’s estate and therefore the will distributing the decedent’s probate estate to the trust cannot be given effect.  Incorporation also cannot be given effect because of the absence of safeguards assuring the integrity and validity of the document. No.  Respondents are not barred from sharing in the estate and estate assets pass under the will to the Respondents as the decedent’s intestate distributes.
+
+Discussion
+Merger is the idea that an individual is the sole lifetime trustee and beneficiary and therefore beneficial and legal interest merge in him and terminate the trust.  However the Court notes that a trust is not merged or invalid because a person, including its creator, is or may become sole trustee or sole holder of the present beneficial interest.  There only need be one or more other person have a beneficial interest in the trust. According to state statute a valid receptacle for a pour-over must be “executed and acknowledged by the parties thereto in the manner required by the laws of this state for the recording of a conveyance of real property, prior to or contemporaneously with the execution of the will, and is identified in such will.”  The Court finds that the trust in this case does not meet these standards and therefore cannot be given effect.
+

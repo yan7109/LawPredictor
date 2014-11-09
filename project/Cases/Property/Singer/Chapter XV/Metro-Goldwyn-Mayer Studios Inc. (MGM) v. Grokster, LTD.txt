@@ -1,0 +1,24 @@
+Citation
+545 U.S. 913, 125 S. Ct. 2764, 162 L. Ed. 2d 781, 75 U.S.P.Q.2d 1001, 18 ILRD 79, 2005 ILRC 2031, 33 Med. L. Rptr. 1865 (2005)
+
+Brief Fact Summary
+The defendant’s distributed free software that allowed private individuals to share copyrighted electronic files without authorization. Some of those files shared are movies and songs that MGM hold copyrights to.
+
+Synopsis of Rule of Law
+When a distributor takes affirmative steps to foster infringement through the use of its product, the distributor will be liable for that infringement conducted by 3rd parties.
+
+Facts
+Grokster, LTD and StreamCast Network distributed fee software that allowed the sharing of files in a peer to peer network. This avoided the need for central servers and costly server storage and works faster. Since files can go from computer to computer and not through the server it is safer and cost efficient. This program was used by universities, government agencies, corporations, libraries and then private users. Private users began sharing copyrighted music and video files without authorization. Grokster used technology called FastTrack and Stream Cast used Gnutella. The files shared do not go to a central location so Grokster and StreamCast did not know when the files were being copied but if they had searched there software they would see the type of files being shared. It was shown that StreamCast gave software called OpenNap labeled the best alternative to Napster in the hopes to take all the Napster users that had to stop using that software after Napster was sued. Grokster had a program called OpenNap that allowed users to search for Napster files. Grokster and StreamCast received revenues from posting advertising all over its program software. MGM was able to show that some 90 percent of the files being shared where copyrighted files. Also there is no evidence that either company tried to filter or stop copyright infringement. The district court granted summary judgment in favor of Grokster and Stream Case because although users of the software did infringe MGM’s property there was no proof there the distributors had actual knowledge of specific acts of infringement. MGM appealed.
+
+Issue
+Whether a distributor of a product that is capable of lawful and unlawful use is liable for copyright infringement by a 3rd party using that product.
+
+Held
+Yes. The appeals court stated that since these distributors did not have actual knowledge, did not partake in, or monitor the file sharing they are not directly liable for the infringement. However the court erred in finding they were not secondarily liable for the actions of the users of its products. There is a balance between growing technologies and copyright protection, but to not make distributors liable will make copyright protections meaningless. The lower court looked to the commerce doctrine now codified which states that a product must be capable of commercially significant noninfridging uses and if so, no secondary liability would follow.  This court finds that interpretation too narrow. Here this court considers the doctrine of inducement to also be relevant. When a distributor promotes using its device to infringe copyright material, shown by affirmative steps to foster infringement this is inducement and the distributor will be liable for 3rd party infringement. All the actions of the companies is enough to show a genuine issue of material fact, thus the court reversed the summary judgment ruling and remanded the case upon those findings.
+
+Dissent
+Justice Breyer states this case is no different from Sony where time-shifting was the main purpose of users copying shows by VCRS (so they could watch later). The court did not find Sony responsible there. Also there is such a major market for non-infringement uses for this software that they shouldn’t be stopped from distributing the software. The standard in Sony should not be adapted as we did it here to add inducement.
+
+Discussion
+When a distributor takes affirmative steps to foster infringement through the use of its product, the distributor will be liable for that infringement.
+

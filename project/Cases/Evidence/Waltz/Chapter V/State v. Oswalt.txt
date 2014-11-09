@@ -1,0 +1,21 @@
+Citation
+129 274 Fed. Appx. 348, 2008 U.S. App.
+
+Brief Fact Summary
+On July 14, 1961, two armed men entered a residence, held several people in the home, and took another man to a retail store.  The man was forced to open the safe and give the money to the intruders.
+
+Synopsis of Rule of Law
+A witness cannot be impeached on matters which are collateral to the issue being tried.
+
+Facts
+On July 14, 1961, two armed men entered the residence of Frank Goodell (”Mr. Goodell”) in Seattle, Washington.  One man stayed at the residence where he held several persons.  Mr. Goodell was taken to a retail store, where he was forced to open the safe and give the money to the armed man.
+
+Issue
+Whether the trial court erred in allowing testimony from a witness as to the location of the defendant, Oswalt (the “defendant”), in the days preceding July 14, 1961, when that testimony was collateral to the issue being tried?
+
+Held
+The Washington Supreme Court (the “Court”) held that the trial court erred when it admitted testimony from a witness who testified that the defendant was in Portland, Oregon in the months preceding July 14, 1961.  The Court found that such testimony was irrelevant and collateral, and was therefore not admissible at trial.  The Court further concluded that the admission of the testimony was prejudicial to the defendant and remanded the case for new trial.
+
+Discussion
+The Court relied on the well-settled premise that a witness cannot be impeached by matters that are collateral to the issue being tried.  Relying on state law and treatises, the court reasoned that the purpose of this rule of law was:  1) to avoid undue confusion of the issues; and 2) to prevent unfair advantage over a witness who is not prepared to testify concerned remote or unrelated issued.  The Court stated that the test for collateralness is whether the fact as to which error is predicated, has been shown in evidence for any purpose independently of the contradiction.
+

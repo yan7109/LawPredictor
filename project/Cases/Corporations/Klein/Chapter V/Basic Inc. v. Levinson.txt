@@ -1,0 +1,21 @@
+Citation
+485 U.S. 224, 108 S. Ct. 978, 99 L. Ed. 2d 194, 4 EXC 10 (1988)
+
+Brief Fact Summary
+Respondents, Max Levinson et al., held shares in Petitioner Corporation, Basic Inc.  Respondents brought this action after misleading statements concerning a potential merger induced them to sell their shares at a depressed price.
+
+Synopsis of Rule of Law
+Misleading statements during merger discussions will be material under Rule 10b-5 if the misstatements would have changed the view of the total information by a reasonable investor.
+
+Facts
+Petitioners made chemical refractories for the steel industry.  A second business, Combustion Engineering, Inc., targeted Petitioner as a good acquisition.  During merger discussions, the volume of trading for Petitioner’s stock increased and the price was increasing, seemingly due to rumors of a potential acquisition.  Petitioner publicly refuted the rumors of a merger.  Shortly thereafter Petitioner requested to suspend trading because of merger talks.  Respondents sold their shares before the suspension but after the public denials of merger discussions.  Therefore Respondents claimed that Petitioners violated Section 10(b) of the Securities Exchange Act and of Rule 10b-5.
+
+Issue
+The issue is whether the misleading statements regarding ongoing merger discussions were material enough to alter the decision of a reasonable investor.
+
+Held
+The court determined that determining whether misleading statements or omissions were material under Rule 10b-5 would require a fact-based assessment.  The court did not adopt Petitioner’s “agreement-in-principle” test that would have considered only misstatements after an agreement was made in principle.  The court did not think that the probability of a failed merger outweighed the importance of providing the information to the investor.  The court instead took a fact-based approach, reasoning that the probability would be weighed against the magnitude of the facts.  In this case, a merger has a high magnitude on investor decisions and therefore the probability of a successful merger does not have to be as absolute as more trivial topics.  The misstatements would still need to be material.
+
+Discussion
+The court does not want the investors to be treated as a group that is incapable of understanding corporate goings-on.  However, they still require that the misstatements be material.  At one point, they note in Footnote 17 that a “no comment” may be a safe alternative for corporate officers who would otherwise feel the need to offer a misleading statement.
+

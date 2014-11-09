@@ -1,0 +1,18 @@
+Citation
+2008 ND 147, 752 N.W.2d 618
+
+Synopsis of Rule of Law
+Children may not bring loss of consortium claims arising out of personal injury to a parent in North Dakota, but a loss of consortium claim may be brought by a spouse.  If the parent dies, however, the deceased’s heirs at law may recover for loss of consortium and emotional distress under the wrongful death act.
+
+Facts
+Darlyne Rogers died shortly after being admitted to a “regular” room in a hospital despite being critically ill.  The Weigels sued Dr. Lane Lee and the hospital pursuant to the North Dakota wrongful death statute.  The complaint sought damages for the Weigels’ own emotional distress and loss of consortium.  The trial court dismissed the entire case, reasoning that under Butz v. World Wide, children do not have a cause of action for either loss of parental consortium or their own emotional distress damages.  The North Dakota Supreme court held that the trial court erred by relying on Butz and reversed and remanded.
+
+Issue
+Whether the North Dakota wrongful death act entitles a decedent’s heirs at law to damages for emotional distress and loss of consortium.
+
+Held
+Yes.  The Supreme Court held that the trial court erred by relying on the Butz case.  That case did not involve a claim under the wrongful death act because the tortious conduct in that case resulted in severe injury, not death.  Therefore Butz, which disallowed emotional distress and consortium damages, did not apply to the Weigels’ claim.  The court clearly explained the three types of claims for tortious conduct: (1) loss of consortium arising out of personal injury actions, (2) survival actions, and (3) wrongful death actions.  Loss of consortium claims may be brought by either spouse, but children may not bring loss of consortium claims arising out of personal injury to a parent in North Dakota, unless recovery is allowed under the wrongful death act.  Survival actions are intended to permit recovery by the representatives of the deceased for damages the deceased could have recovered had he lived.  Finally, wrongful death claims are permitted per North Dakota statute, which allows recovery for damages related to emotional distress and loss of consortium.  Accordingly, the court held that the Weigels, because they brought their claim under the wrongful death statute, were entitled to seek compensation for Rogers’ wrongful death.
+
+Discussion
+A wrongful death claim, unlike a survival action, does not involve a claim by the estate.  Any recovery does not pass through the estate, but instead goes directly to the remaining family members who have brought the claim.
+

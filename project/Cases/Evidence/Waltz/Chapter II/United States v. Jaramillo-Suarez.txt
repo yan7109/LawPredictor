@@ -1,0 +1,21 @@
+Citation
+950 F.2d 1378, 1991 U.S. App.
+
+Brief Fact Summary
+Police conducted surveillance of defendant over a matter of days. At the conclusion of which he was found to be in possession of large quantities of cash, cash and cocaine were found in his apartment, and his companions were found with cash and cocaine residue.
+
+Synopsis of Rule of Law
+A document is admissible if it is not offered to prove the truth of the matter asserted therein, but to prove that where it was found was the kind of place in which drug related documents were to be found.
+
+Facts
+In 1986, federal agents began a surveillance operation concerning defendant.  On the day in question, they observed defendant make several telephone calls from a payphone at a gas station nearby his home.  He then met with a man named Eliott; thereafter the two made a number of stops, returning eventually to an inn where Eliott was staying.  The next day, the two met again, switching vehicles a number of times and eventually loading some items into Eliott’s truck.  Agents stopped Eliott as he was checking out of the inn.  He consented to a search, and the agents found cocaine. They then conducted a search of defendant’s apartment, finding cocaine and large quantities of cash, among other items.
+
+Issue
+Whether a pay/owe sheet recovered from the defendant’s apartment was hearsay that did not fall into any exception and was thus improperly admitted?
+
+Held
+No.  The pay owe sheet was offered to show the character of the place in which it was found, not to prove the truth of the contents.
+
+Discussion
+Because this document was offered for a purpose other than to show the truth of the contents contained therein, it was admissible as non hearsay.  The jury was given an instruction to ensure that they did not consider the evidence for any purpose, other than the character of the apartment in which it was found. As a result, the evidence was admissible to show that the apartment was the kind of place in which drug related documents were to be found.
+

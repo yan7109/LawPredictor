@@ -1,0 +1,21 @@
+Citation
+22 Ill. 474 U.S. 327, 106 S. Ct. 677, 106 S. Ct. 662, 88 L. Ed. 2d 662 (1986)
+
+Brief Fact Summary
+Petitioner Daniels slipped on a pillow allegedly left on the stairs of the Richmond City Jail by Respondent Williams. Petitioner suffered back and ankle injuries from this fall. Petitioner claims that not allowing a suit for negligence, barred because of sovereign immunity, is a deprivation of his liberty under the Due Process Clause of the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+Mere negligence by a government official does not give rise to a deprivation of life, liberty or property protected by the Due Process Clause.
+
+Facts
+Petitioner seeks to recover damages for back and ankle injuries allegedly sustained when he fell on a prison stairway. Petitioner claims that while an inmate at the Richmond, Virginia City Jail, he slipped on a pillow negligently left on the stairs by respondent a correctional deputy stationed at the jail. He claims that Respondent’s negligence deprived him of his liberty interest in freedom from bodily injury. This arises because Respondent claims that he is entitled to protection under the defense of sovereign immunity in a state tort suit. Therefore, Petitioner claims he is without an adequate state remedy, and this causes a deprivation of liberty without due process of law. This led to petitioner filing this 42 U.S.C. Section:1983 action.
+
+Issue
+Is the Due Process Clause implicated by a negligent act of an official causing unintended loss of or injury to life, liberty or property?
+
+Held
+No. Affirmed.
+
+Discussion
+This case explains how tort claims against governmental officials do not give rise to deprivation of life, liberty or property under the Due Process Clause. In this case the Court explains that they do not want the Due Process Clause to supplant normal tort law when it comes to negligence by governmental officials. The Court further explains that the Due Process Clause is meant to protect from arbitrary exercise of power from government, and not all actions of all governmental officials like the negligence of the prison guard in this case. This case is important in a long line of cases that place certain definable limits on the reach of the Due Process Clause.
+

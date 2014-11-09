@@ -1,0 +1,24 @@
+Citation
+369 U.S. 186, 82 S. Ct. 691, 7 L. Ed. 2d 663 (1962)
+
+Brief Fact Summary
+The General Assembly had failed to reapportion the states voting districts since 1901, despite changes in population. Tennessee voters sought an injunction against further elections and a reapportionment of voting districts.
+
+Synopsis of Rule of Law
+The political question doctrine requires courts to refuse to adjudicate certain issues that do not lend themselves to judicial standards or remedies.
+
+Facts
+Tennessee voters claimed their equal protection rights were being violated due to a debasement of their votes. This claim was based on the fact that voting districts had not been reapportioned since 1901, despite population growth and redistribution since then. Additionally, they claimed redress through changes in state law was impossible due to the election of the present legislature under the malapportioned voting districts. They sought an injunction against further elections and reapportionment. The lower court denied relief, finding the claim to be a nonjusticiable political question.
+
+Issue
+Was the lower court correct in determining that a state’s voter apportionment scheme was a political question, and therefore nonjusticiable?
+
+Held
+No. Judgment reversed and remanded for further proceedings.
+
+Dissent
+The current case involves all of the elements that have made previous claims under the Guarantee Clause nonjusticiable. Attempting to invoke the Constitution’s Fourteenth Amendment Equal Protection Clause does not change the nature of the controversy. Therefore, the courts should not determine this case.
+
+Discussion
+Constitutional questions are rarely found to be nonjusticiable, partially due to current limitations on standing.
+

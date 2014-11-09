@@ -1,0 +1,24 @@
+Citation
+N.Y. Ct. App., 118 N.E.2d 590 (1954)
+
+Brief Fact Summary
+President (D) of a corporation refused to call a special stockholder’s meeting sought by the Stockholders (P) to vote on amendments to the bylaw.
+
+Synopsis of Rule of Law
+Corporate management must call a special stockholder’s meeting when enough voting shares back such a vote and if the purpose of the meeting is proper.
+
+Facts
+The Stockholders of Hoe & Co. Inc. (P) sought a special stockholder’s meeting after more than 50 percent of the required voting class compelled the President (D) to call for one. The President (D) refused claiming he didn’t have the information to verify authenticity of the required number. He also claimed the meeting was improper, and did not follow four stated purposes for meetings. (1) a purpose for reinstating the former president, (2) a purpose to amend the by laws so that vacancy on the board be filled up only by those stockholders that director represented, (3) to vote upon charges against four specific directors, (4) to amend the by laws regarding the number of directors needed for a quorum. The court ordered the President (D) to call the meeting, and he subsequently appealed.
+
+Issue
+Must corporate management call a special stockholder’s meeting when enough voting shares back such a vote and if the purpose of the meeting is proper?
+
+Held
+(Desmond, J.) Yes. Corporate management must call a special stockholder’s meeting when enough voting shares back such a vote and if the purpose of the meeting is proper. In this case, there is no reason why the stockholders could not show their approval of the corporation’s former president. For purpose (2), stockholders who already have the power to elect directors also inherently have the power to remove them with cause. In addition, stockholders of one class can influence the vacancy of another director-less class when that director only represents one particular class. Stockholders have an important right to have such meetings which would be of little practical value if corporate management can ignore their requests, forcing lengthy and costly legal proceedings when knowledge of stockholdings and rights are already known by the corporate officers. Affirmed.
+
+Dissent
+(Van Voorhis, J.) The President (D) had justification if none of the proposals could be acted upon by the stockholders if a meeting was called. It would have been a frivolous gesture of support for the former president when control rests with the directors. As for class A stockholders filling class A director vacancy, class A voters could not prevent other class voters from influencing their vote by removing candidate choices. Furthermore, stockholders can recall directors for cause, but not simply to change corporate policy.
+
+Discussion
+The case held a level of unfairness and impracticability allegedly unmentioned by the majority that forced the stockholders to act as a tribunal and deliver decisions via proxy rather than easy direct means. The Dissent feared that the directors would be adjudged guilty of fraud or breach of duty by shareholders without knowledge of the evidence against them or in their behalf. The majority found that this question was not presented to this court on appeal, and that directors who believed they were illegally removed should seek remedies in court.
+

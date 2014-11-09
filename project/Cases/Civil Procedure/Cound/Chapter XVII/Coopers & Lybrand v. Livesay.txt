@@ -1,0 +1,21 @@
+Citation
+22 Ill.437 U.S. 463, 98 S. Ct. 2454, 57 L. Ed. 2d 351 (1978)
+
+Brief Fact Summary
+The Respondents, Mr. and Mrs. Livesay (Respondents), appealed from a District Court’s order that decertified their class action without there being a final judgment ruling.
+
+Synopsis of Rule of Law
+Appeals of right may not be made from non-final orders. Orders that decertify a class are not final judgments.
+
+Facts
+The Respondents alleged that the Petitioner, Coopers & Lybrand (Petitioner), an accounting firm and other defendants had violated various sections of the Securities Act of 1933 and the Securities Exchange Act of 1934. The District Court first certified and then, after further proceedings, decertified the class.   The Respondents did not request the District Court to certify its order for interlocutory review under 28 U.S.C. Section:1292(b), rather, Respondents filed a notice of appeal pursuant to Section:1291. The Court of Appeals based its jurisdiction over this case on the question of whether the decertification order had sounded the “death knell” of the action. The Court of Appeals concluded that the Respondents could not pursue their claims individually after examining the amount of their claims in relation to their financial resources and the probable cost of litigation. The Court of Appeals had determined that it had jurisdiction and reversed the District Court’s order decertifying the class.
+
+Issue
+Whether a District Court’s determination, that an action not determined to be a class action pursuant to Federal Rule of Civil Procedure (FRCP) Rule 23, could be a final decision within the meaning of 28 U.S.C. Section:1291 and appealable as a matter of right.
+
+Held
+Such an order is not appealable under 28 U.S.C. Section:1291. Allowing appeals of right from nonfinal orders that turn on the facts of a particular case thrusts appellate courts indiscriminately into the trial process and defeats the purpose of the final judgment rule – maintaining the appropriate relationship between the respective courts, an important rule worth preserving. Judgment of the Court of Appeals reversed with directions to dismiss the appeal.
+
+Discussion
+Federal appeals generally depend on the existence of a final judgment order from the District Courts. An order that refuses to certify or decertifies a class, does not end the litigation because the individual members are free to litigate on their own. The order only becomes appealable if it comes within an exception to the final judgment rule.   This case discussed two exceptions to the final judgment rule. The first, the collateral order exception, requires that the order must conclusively determine the disputed question, resolve an important issue completely    separate from the merits of the action, and be effectively unreviewable on appeal from a final judgment. The court held that this case did not fall within this exception. The second exception, the death knell doctrine, assumes that without the incentive of group recovery, an individual plaintiff may find it unwise to pursue his lawsuit to a final judgment and then seek appellate review of an adverse class determination. The court reasoned that allowing such an exception precluded the relationship between trial courts and appellate courts.
+

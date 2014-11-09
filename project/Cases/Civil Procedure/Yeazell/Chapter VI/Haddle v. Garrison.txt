@@ -1,0 +1,27 @@
+Citation
+525 U.S. 121 (1998)
+
+Brief Fact Summary
+An employer allegedly conspired to lay off his employee, Haddle (P) to prevent him from giving testimony at a federal criminal trial, upon which Haddle sued him.
+
+Synopsis of Rule of Law
+A property interest which is protected by the constitution does not have to sustain harm if a Civil Rights claim under section 1985 (2) is to be filed.
+
+Facts
+Healthmaster (D) was the employer. It was indicted by a federal grand jury in 1995 with two of its officers, Garrison (D) and Kelly (D). one of the employees, Haddle (P), had given information during the trial and was to be a witness at the criminal trial to take place as a result. However, he claimed, Garrison (D) and Kelly (D) conspired with other Healthmaster (D) officers to fire Haddle (P) in revenge. Haddle filed a case in the district court on the ground of violation of Section 1985 of the Civil Rights Act. The officers named (D)  in the case and Healthmaster (D) sought to have the case dismissed because it did not state a claim as the basis for relief to be granted. The district court gave as its decision that Haddle suffered no actual injury as visualized in Section 1985, since he was an at-will employee. The case was thus dismissed in accordance with the motion sought by the company and officers. This was later affirmed by the Eleventh Circuit Court of Appeals. But since the affirming decision differed materially from those in two other circuits, the U.S. Supreme Court granted certiorari or a writ for the lower court records for the purpose of judicial review.
+
+Issue
+The issue faced here was whether the Civil Rights claim under Section 1985 (2) require a constitutionally protected property right to be violated in order to apply.
+
+Held
+(Rehnquist, C.J.) No. It is not necessary that a property right or interest which is constitutionally protected should be hurt in order to prefer a Civil Rights Act claim under Section 1985 (2). The section states that it is punishable for one or more persons to conspire to prevent, frighten away or threaten another person from attending and testifying at a federal court trial. The Eleventh Circuit was of the opinion that no injury had been done to Haddle (P) because he had lost no property interest by the loss of his at-will employment, of the kind for which compensation could be claimed. This interpretation cannot be read into the concerned section or its remedial provisions. Rather than loss of property, the section deals with the intimidation or revengeful acts against witnesses. Such an act is to be seen in this case, as the loss of employment at-will is a compensable injury under tort law, just like breach of contract. Thus Haddle’s claim did not deserve to be dismissed on the ground that he failed to state a claim. The decision was reversed and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The term “at-will employment” is ambiguous, and this issue was dealt with in only a few Supreme Court cases at the period of this case. Amici, or unsolicited testimony and legal counsel, in this case, included the National Whistleblowers Association. The Supreme Court’s decision to reverse this decision may well have stimulated a jump in the number of similar cases in federal courts.
+

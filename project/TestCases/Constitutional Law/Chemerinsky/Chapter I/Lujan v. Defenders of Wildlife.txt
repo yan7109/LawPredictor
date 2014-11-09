@@ -1,0 +1,24 @@
+Citation
+504 U.S. 555, 112 S. Ct. 2130, 119 L. Ed. 2d 351, 1992 U.S.
+
+Brief Fact Summary
+The Respondents, various wildlife conservation organizations (Respondents), brought suit against the Secretary of the Interior (Secretary), seeking a declaratory judgment on regulations promulgated by Department of Interior agencies regarding the Endangered Species Act of 1973 (”ESA”).
+
+Synopsis of Rule of Law
+Constitutional minimum standing requires three elements: (a) plaintiff must have suffered injury in fact; (b) there must be a causal connection between the injury and the conduct complained of and (c) it must be likely that a favorable decision would redress the injury.
+
+Facts
+In 1978, the Fish and Wildlife Service and the National Marine Fisheries Service promulgated a joint regulation stating that the obligations imposed by Section: 7 of the ESA extended to actions taken in foreign nations. A revised regulation was promulgated in 1986, which required consultation under the ESA only for actions taken in the United States and on the high seas. Several conservation groups brought suit, seeking a declaratory judgment that the new regulations were in error regarding the geographic scope of Section: 7 and restoring the initial interpretation.
+
+Issue
+Do Respondents have standing to bring this suit?
+
+Held
+No. Appeals court ruling reversed and remanded.
+
+Dissent
+Justice Harry Blackmun (J. Blackmun), dissenting, challenges the majority’s ruling, arguing that the majority misapplied the summary judgment standard. Only a “genuine issue of material fact,” need be alleged in a suit to survive a motion for summary judgment.
+
+Discussion
+Although the dissent focuses on what they see as a misapplication of the summary judgment standard, the majority insists that when the plaintiff is indirectly harmed by government action, standing law requires the plaintiff to show that independent parties’ choices will produce causation and permit redressability.
+

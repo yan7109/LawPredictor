@@ -1,0 +1,21 @@
+Citation
+519 U.S. 1006
+
+Brief Fact Summary
+A number of members of the Chicago Mob were indicted on various charges related to a conspiracy.  They were convicted, and appeal on a number of grounds.
+
+Synopsis of Rule of Law
+Under Federal Rule of Evidence (”F.R.E”) Rule 801(d)(2)(E), statements made by a conspirator against a co-conspirator are admissible as exceptions to the hearsay rule, but they must be made in furtherance of the conspiracy, not as an attempt to keep it from collapsing.  In that situation, the statements are not admissible.
+
+Facts
+After various members of the Chicago mob were indicted and convicted of various conspiracy related charges, defendants appealed on a number of grounds.  One of these involved a conversation between two of the conspirators in which the first man sought to reassure the second man about doubts related to a killing that had occurred. Defendants objected on the grounds that the statements were hearsay.
+
+Issue
+Whether statements made by one conspirator to another that were not, strictly speaking, made in furtherance of the conspiracy, were admissible under the co-conspirator exception to the hearsay rule?
+
+Held
+No.  Only statements made in furtherance of the conspiracy, or in order to cover it up, fall under this exception.  An attempt to keep it from collapsing is not sufficient.
+
+Discussion
+The statement made by the first conspirator was admissible as a statement against interest.  It would only be admissible against the person it was said to if the co-conspirator exception applied.  It does not satisfy the exception in this case, because the statement was not made in furtherance of the conspiracy.  As a result, the statement may not be admitted against the second conspirator.
+

@@ -1,0 +1,24 @@
+Citation
+27 F.3d 751
+
+Brief Fact Summary
+The Gonzalez family sued Banco Cent. Corp. for selling them a house that they could not live in.  They sued for violation of Interstate Land Sales Full Disclosure Act (“ILSFDA”) the Securities Exchange Act of 1934 and the Racketeering Influenced and Corrupt Organizations Act (“RICO”).  A previous family (Rodriguez) had already sued the same bank with a similar claim.
+
+Synopsis of Rule of Law
+Res Judicata applies when there is a final judgment entered on the merits by the court on an action, it stops the initial plaintiff and anyone that is privy to them from bringing the same issues to court that were decided upon or should have been raised during that action.  Accordingly, the elements of res judicata are (1) a final judgment on the merits in an earlier suit, (2) sufficient identicality between the causes of action asserted in the earlier and later suits, and (3) sufficient identicality between the parties in the two suits.
+
+Facts
+In the 1970s, a group of real estate developers sold subdivided lots of undeveloped land to approximately 3,000 purchasers, most of who resided in Puerto Rico. The land was found to be Florida swampland, which was inappropriate for development. In 1982, a group of purchasers (“the Rodriguez plaintiffs”) started a civil action in the United States District Court for the District of Puerto Rico. They sued the sellers, including Banco Central Y Economias. The Rodriguez plaintiffs alleged violations of the Interstate Land Sales Full Disclosure Act (“ILSFDA”), the Securities Exchange Act of 1934, 15 U.S.C. § 78j, Rule 10b–5, and the Racketeering Influenced and Corrupt Organizations Act (“RICO”).  In April of 1987, the Rodriguez plaintiffs tried to form a class action; however the district court did not allow them to. Thereafter, several plaintiffs formed a new group of claimants (“the Gonzalez plaintiffs”) whom were represented by the same attorney’s who represented the Rodriguez plaintiffs. They sued the same defendants and had a similar complaint.  The Rodriguez plaintiffs ultimately lost their case. After comparing the Gonzalez plaintiffs' suit against the Rodriguez litigation, Judge Laffitte dismissed the Gonzalez action in its entirety on grounds of res judicata. The Gonzalez plaintiffs appealed.
+
+Issue
+Whether res judicata applies when a new group of plaintiffs sue the same defendants with a similar issue after a final judgment has already been entered on a previous claim?
+
+Held
+No.  The court held that it did not meet the 3 part test (1) a final judgment on the merits in an earlier suit, (2) sufficient identicality between the causes of action asserted in the earlier and later suits, and (3) sufficient identicality between the parties in the two suits.  The appellants were neither party to the initial action nor in privy to the Rodriguez plaintiffs.  While there was a final judgment on the previous case, there was not sufficient identicality between the causes of action and the parties in the two suits.  The district court erred in dismissing their suit under the principles of res judicata.   Reversed and remanded for further proceedings.
+
+Dissent
+
+
+Discussion
+Had the court allowed the plaintiffs to join the original suit, res judicata may have been appropriate.
+

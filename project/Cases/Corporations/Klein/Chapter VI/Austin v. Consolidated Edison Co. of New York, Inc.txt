@@ -1,0 +1,21 @@
+Citation
+788 F. Supp. 192, 15 EBC 1261 (S.D.N.Y. 1992)
+
+Brief Fact Summary
+Plaintiffs, Stewart Austin et al., sought an injunction against Defendant, Consolidated Edison Company of New York, to insert a proposal in an upcoming proxy statement that would allow for retirement from Defendant after 30 years of service.
+
+Synopsis of Rule of Law
+Pension issues are typically considered to be exempt from Rule 14(a)-8(a) proposal submission requirements as they are considered ordinary business operations.
+
+Facts
+Plaintiffs are agents of the union that represent the employees of Defendant, but they brought this action in their capacity as shareholders of Defendant.  They submitted a proposal to amend pension rights with the most significant being to allow employees to retire after thirty years of service regardless of age.  Defendant believed that the proposal was under a Rule 14(a)-8(c) exception because it concerned an ordinary business operation that benefited Plaintiffs but not shareholders generally.  Therefore Defendant sought a no-action letter from the Securities & Exchange Commission (SEC) to ensure that the SEC would not legally force Defendant to include the proposal.  The SEC granted Defendants a no-action letter because they agreed that the proposal concerned only general compensation issues.  Plaintiffs then sued to compel the proposal to be inserted.
+
+Issue
+The issue is whether Plaintiff’s proposal can be denied entry into a proxy statement because it falls under the ordinary business operations exception in Rule 14(a)-8(c).
+
+Held
+Summary judgment was granted to Defendant because the proposal does fall under Rule 14(a)-8(c) governed by the Securities Exchange Act.  In order to succeed in obtaining an injunction, a party must show that they would be successful on the merits and Plaintiffs did not meet their burden.  Pension issues have been traditionally considered normal business operations as evidence by the fifty-plus no-action letters issued by the SEC on the subject.
+
+Discussion
+Unlike the court in The New York City Employees’ Retirement System v. Dole Food Co., this court here is deferential to SEC no-action letters, particularly since there were so many on this issue.
+

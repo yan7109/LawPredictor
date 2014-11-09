@@ -1,0 +1,21 @@
+Citation
+22 Ill.929 F.2d 482 (9th Cir. 1991)
+
+Brief Fact Summary
+An employee was wrongfully terminated, but the employer subsequently offered that employee a new position in the company, which the employee refused.
+
+Synopsis of Rule of Law
+A wrongfully terminated employee has a duty to mitigate damages by accepting an offer of employment only if the new position is substantially similar to the employee’s previous position.
+
+Facts
+The Defendant, American Broadcasting Co. (Defendant), wrongfully terminated the Plaintiff, Boehm (Plaintiff). Following his termination, the Defendant offered the Plaintiff another, newly created position. The base salary in the new position was equivalent to the Plaintiff’s previous salary. However, the parties disagreed as to whether the total compensation would be equivalent to the Plaintiff’s total previous compensation and whether the job responsibilities were equivalent. The new position was never filled. The Plaintiff sued and his contract claims consisted of breach of implied employment contract and breach of the covenant of good faith and fair dealing. A jury found in favor of the Plaintiff.
+
+Issue
+Does an employee who has been wrongfully terminated have a duty to mitigate damages by accepting new employment?
+
+Held
+Yes, where the new employment is substantially similar to the previous position. Judgment affirmed.
+
+Discussion
+The court examined California law, which requires an employee to mitigate damages by taking reasonable efforts to seek alternate employment. However, under California law, the Defendant had the burden to prove that the Plaintiff failed to accept a position that was equivalent or substantially similar to the position from which he was terminated. Whether the two positions were equivalent in terms of compensation and responsibilities was in dispute and therefore a question for the jury. At the lower court, the jury found for the Plaintiff, which implies that the jury found that the positions were not substantially similar. In the instant case, the court agreed with the jury that the Defendant did not meet its burden. The court was also satisfied that the jury’s decision was supported by the record.
+

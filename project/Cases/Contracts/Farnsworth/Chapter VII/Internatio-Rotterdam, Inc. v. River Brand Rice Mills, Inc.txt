@@ -1,0 +1,21 @@
+Citation
+259 F.2d 137 (2nd Cir. 1958).
+
+Brief Fact Summary
+The Plaintiff, Internatio-Rotterdam, Inc. (Plaintiff) and the Defendant, River Brand Rice Mills, Inc. (Defendant), contracted for the Defendant to deliver rice to the Plaintiff for exportation. The agreement required that delivery must be made in December upon two weeks’ notice by the Plaintiff. The Plaintiff sued for a failure to give notice of the place of delivery when the Defendant refused shipment on December 18.
+
+Synopsis of Rule of Law
+The nonoccurrence of a condition precedent to be performed by a party to a contract acts to permit the other party to rescind the agreement or treat the contractual obligations as discharged.
+
+Facts
+The Defendant agreed to sell 95,600 pockets of rice to the Plaintiff. Under the terms of the agreement, shipment was to be made by the Defendant with two weeks’ notice from the Plaintiff regarding where to ship the rice. The Defendant delivered 50,000 pockets at Lake Charles, but by December 17, the Plaintiff had not yet instructed on where delivery was to be made for the remaining 45,600 pockets of rice. Since after December 17th the Defendant would not be able to satisfy the contract by shipping in December within two weeks, the Defendant cancelled the contract. The Plaintiff thereafter initiated this appeal.
+
+Issue
+Does the Plaintiff’s failure to perform a condition precedent permit the Defendant to rescind the contract?
+
+Held
+Yes. The Defendant’s obligation to ship the rice in December was conditioned upon the Plaintiff giving the Defendant two weeks’ notice of the place of delivery. Hence, the last day in December that the Defendant could have performed on the agreement given the notice required was December 17th. When December 17th passed and the Defendant did not hear from the Plaintiff, it had the right to rescind the agreement. In other words, the Plaintiff giving two weeks’ notice of the place of delivery to the Defendant was a condition precedent to the Defendant’s delivery of the rice. The failure to give sufficient notice for the Defendant to complete delivery in December as required by the contract, constituted a failure to perform a condition precedent. Therefore, the Defendant properly rescinded the contract.
+
+Discussion
+A condition precedent must be performed in such a way as to allow adequate time for the other party to fully perform under the contract.
+

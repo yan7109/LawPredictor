@@ -1,0 +1,21 @@
+Citation
+806 A.2d 113 (Del. 2002)
+
+Brief Fact Summary
+Saito, (Plaintiff), brought a stockholder’s derivative suit against McKesson HBOC, Inc. (Defendant). The Court of Chancery and Court of Appeals
+
+Synopsis of Rule of Law
+The source of documents and the manner in which the corporation obtains them have little or no bearing on a stockholder’s inspection rights. If activities that occurred before the purchase date are reasonably related to the stockholder’s interest as a stockholder, then the stockholder should be given access to records necessary to an understanding of those activities.
+
+Facts
+Plaintiff brought a stockholder’s derivative suit to examine the conduct of Defendant with regard to certain accounting irregularities. Plaintiff wished to investigate wrongdoing that may have occurred prior to his stock ownership. Plaintiff sought to examine documents the corporation had obtained from financial and accounting advisors and documents of its subsidiary in order to understand what the company’s directors knew and why they failed to recognize the accounting irregularities.
+
+Issue
+Whether a stockholder may access records that predate the purchase of the stockholder’s interest. Whether the source of the documents in a corporation’s possession should control a stockholder’s right to inspection under Section: 220. Whether stockholders of a parent corporation are entitled to inspect a subsidiary’s books and records absent a showing of fraud or establishing that the subsidiary is actually the alter ego of the parent.
+
+Held
+Yes. The date of stock purchase should not be used as an automatic cut-off date in a Section: 220 action. No. The source of the documents in a corporation’s possession should control a stockholder’s right to inspection under Section: 220. No. The stockholders of a parent corporation are entitled to inspect a subsidiary’s books and records only after establishing fraud or that the subsidiary is actually the alter ego of the parent.
+
+Discussion
+The date of stock purchase should not be used as an automatic cut-off date in a Section: 220 action. The potential claim may involve a continuing wrong or a wrong that has its roots in events that transpired earlier. Here, due diligence documents generated before the merger agreement was signed may be essential to an investigation of accounting irregularities discovered after the merger was consummated. If such activities are reasonably related to the stockholder’s interest as a stockholder, than the stockholder should be given access to records necessary to an understanding of those activities even though they occurred prior to the purchase date. Here, Plaintiff wants to investigate possible wrongdoing relating to McKesson and McKesson HBOC’s failure to discover HBOC’s accounting irregularities. Since they relied on financial and accounting advisors to evaluate HBOC’s financial position, the documents generated would be critical to Plaintiff’s investigation. Stockholders of a parent corporation are not entitled to inspect a subsidiary’s books and records unless there is a showing of fraud or that the subsidiary is the alter ego of the parent. However, documents HBOC gave to McKesson before the merger or McKesson HBOC after the merger are relevant to understand what the company’s directors knew and why they failed to identify HBOC’s accounting irregularities.
+

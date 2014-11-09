@@ -1,0 +1,21 @@
+Citation
+128 S. Ct. 2161
+
+Brief Fact Summary
+Taylor’s friend filed a lawsuit seeking information and was denied. Then Taylor filed a similar action and the court bared suit based on the previous case.
+
+Synopsis of Rule of Law
+The Supreme Court holds that the doctrine of virtual representation is not a constitutionally approved method of nonparty preclusion.
+
+Facts
+Greg Herrick owned a plane and wanted information from the Fairchild Engine and Airport Corporation (FEAC) on how to restore his plane. They refused to submit documents and Herrick filed a lawsuit against the Federal Aviation Administration (FAA) under the Freedom on Information Act (FOIA) which allows any person the right to request records held by a federal agency. Much of the ligation surrounded around the claim that the documents requested were trade secrets. Herrick upon many appeals did not prevail. Taylor, Herrick’s friend, filed a suit seeking the same documents, this time covering all issues the Appeals court told Herrick he had missed in his litigation.  In this litigation FEAC intervened and filed a motion to dismiss based on virtual representation, and the court agreed. Taylor filed an appeal
+
+Issue
+Whether a person is bound to a judgment by virtual representation as an appropriate nonparty preclusion.
+
+Held
+No. Parties are only held to a judgment when they are either a designated party to the litigation and were served process to that case. However there are a few exceptions to this rule, virtual representation is one that some courts have chosen to use. This court does not accept such an exception and thus extinguishes this doctrine. The defendants argue that when parties and cases are close enough, the court should find virtual representation. This court disagrees and cites the fundamental rule that a litigant is not bound by a judgment to which he was not a party. The court reviews all valid forms of nonparty preclusion and states that this is different from all acceptable versions. The court also states under adequate representation grounds that the interest must be the same, and the previous litigant must know he or she was acting in a representative capacity for future parties in future lawsuit, which is not the case here. The other issue is allowing this doctrine would allow judges to make “de facto” class actions at will to bind others. Also this type of exception will create more headaches for courts than help.
+
+Discussion
+The defendant argues they will be open to vexatious litigation; however, the court states that the doctrine of stare decisis will prevent such harm.
+

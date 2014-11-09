@@ -1,0 +1,24 @@
+Citation
+553 U.S. 1001
+
+Brief Fact Summary
+After a jury trial, Mia McCoy (Defendant) was found negligent and, pursuant to the jury’s verdict, Joanne C. Williams (Plaintiff) was awarded $3,000 in damages for her injuries, which stemmed from an automobile collision between the two parties.  After the verdict, Plaintiff filed a motion for a new trial, which was denied, and the trial court entered judgment in Plaintiff’s favor for the above amount.  Plaintiff appeals the judgment entered in her favor here.
+
+Synopsis of Rule of Law
+Evidence of whether a plaintiff has hired an attorney is admissible for the purposes of impeachment as to a litigious plaintiff, and is relevant to rebut the existence of a plaintiff’s injuries.  Under Rule 411, testimony offered to prove the existence of insurance coverage is inadmissible when offered to show whether the insured party acted negligently, but when offered for another purpose, as was the case here, such testimony is not per se inadmissible.
+
+Facts
+Plaintiff brought suit against Defendant for injuries allegedly suffered as a result of a automobile accident.  At trial, Plaintiff admitted she did not visit a chiropractor until four days subsequent to the collision.
+
+Issue
+In a negligence action, is evidence of whether the plaintiff has hired an attorney admissible to impeach the plaintiff, and is such evidence relevant to rebut the existence and extent of the plaintiff’s injuries? Was it error, under North Carolina Rule 411, for the lower court to not permit Plaintiff to explain an answer given in testimony concerning the reason Plaintiff hired an attorney prior to visiting a physician?
+
+Held
+The court reverses the trial court’s judgment and remands the case for a new trial.
+
+Concurrence
+Two justices concur in the opinion, but do not write separately.
+
+Discussion
+The court bases its decision on North Carolina precedent and the text and meaning of North Carolina Rule 411.  The court reasons that an inquiry into whether a plaintiff has hired an attorney is admissible, under state precedent, to impeach a litigious plaintiff, and further provides that such evidence is relevant to rebut the existence and extent of a plaintiff’s injuries.  Plaintiff’s argument on appeal, that the question was merely a “cold question” to show she was litigious, is rejected by the court.  The court also points out that the since the extent of Plaintiff’s injuries was at issue, the evidence is relevant under the controlling standard.  As to the second issue, the court reasons that although allowing Plaintiff to explain her answer as to why she hired an attorney would have some prejudicial effect on the jury, the probative value of Plaintiff’s explanation outweighs the danger of such unfair prejudice, and therefore Plaintiff should have been permitted to ela
+

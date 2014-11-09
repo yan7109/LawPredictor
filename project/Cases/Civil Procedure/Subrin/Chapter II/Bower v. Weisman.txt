@@ -1,0 +1,21 @@
+Citation
+639 F. Supp. 532, 1986 U.S. Dist. 23446
+
+Brief Fact Summary
+Plaintiff, Bower, brought seven claims against Defendant, Weisman stemming from his alleged breached agreements and subsequent conduct.  Defendant responded with a series of procedural motions attacking each claim.
+
+Synopsis of Rule of Law
+A complaint needs to specifically define which defendant is the subject of each claim, and any claims that lack the factual allegations to satisfy each element will be dismissed.
+
+Facts
+After fifteen years, Plaintiff and Defendant severed their personal and business relationships.  After the severance, Defendant took over the townhouse that he owned but she lived in.  Plaintiff filed seven claims against Defendant Weisman and two others, some related to Defendant’s breach of an agreement he made with her to provide certain benefits to her and her daughter, and some relating to his conversion of the townhouse.  Defendant responded with procedural motions to dismiss her claims
+
+Issue
+The first issue is whether Defendants motion per Federal Rule of Civil Procedure 12(e) that the complaint was lacking a definite statement should be granted. The second issue is whether Defendant’s Fed. R. Civ. P. 9(b) motion to dismiss for failure to state fraud with particularity should be granted. The third issue is whether any of the claims should be dismissed for a failure to state a claim upon which relief can be granted.
+
+Held
+Defendant’s motion for a more definite statement was granted because Plaintiff’s complaint did not specify which Defendant she was referring to in each of the claims. Defendant’s 9(b) motion should be granted and therefore Plaintiff’s fraud claims are dismissed with leave to replead.  For claims of fraud, Plaintiff is normally required to state the time, place and content of the fraud and the nature of the reliance on the fraud.  Plaintiff did not offer this information. The court would not dismiss any part of the complaint for failure to state a claim unless it is beyond doubt that Plaintiff can not prove the facts to support a claim.  With this in mind, the court went through the elements of each claim, and the claims that had facts to satisfy all of the elements were allowed.  The court then dismissed the false imprisonment and private nuisance claims.
+
+Discussion
+The court followed the liberal pleading allowances of Federal Rule of Civil Procedure 8(a)(2) except for the fraud claims.  Plaintiff still did not meet the requirements for a couple of her claims.
+

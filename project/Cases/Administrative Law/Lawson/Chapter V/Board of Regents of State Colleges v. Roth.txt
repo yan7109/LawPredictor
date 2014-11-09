@@ -1,0 +1,21 @@
+Citation
+408 U.S. 564, 92 S. Ct. 2701, 33 L. Ed. 2d 548, 1 IER Cases 23 (1972)
+
+Brief Fact Summary
+David Roth (Roth) was hired as an assistant professor at Wisconsin State University-Oshkosh (University) for a fixed term of one academic year. After the end of the term, Roth was informed he would not be rehired for another year, and brought an action in the Federal District Court alleging his Fourteenth Amendment rights were violated.
+
+Synopsis of Rule of Law
+The Fourteenth Amendment’s procedural protection of property is a safeguard of security interests that a person has already acquired in specific benefits-it does not extend to future interests they hoped to get but didn’t.
+
+Facts
+Roth was hired for one year, and had no tenure rights to continued employment, nor statutory rights. Under Wisconsin statute, a State university professor could acquire tenure as a “permanent” employee after four continuous years of employment.  Roth was notified by the President of the University that he would not be rehired for another year, but no reason was given, nor any method for review or appeal.  Roth brought an action claiming that he had a constitutional right to a statement of reasons and a hearing on the University’s decision not to rehire him for another year.
+
+Issue
+Was the University required to give Roth a statement of reasons and provide him a hearing under the Fourteenth Amendment?
+
+Held
+No. Roth was not deprived of liberty or property protected by the Fourteenth Amendment.   The requirements of procedural due process apply only to the deprivation of interests encompassed by the Fourteenth Amendment’s protection of liberty and property.  The State, in declining to rehire Roth, did not make any charge against him that would harm his reputation; nor did it preclude him from obtaining other employment.  “It stretches the concept too far to suggest that a person is deprived of “liberty” when he simply is not rehired in one job but remains free as before to seek another.”   Dissent.   Justice Douglas: Nonrenewal of a teacher’s contract, whether or not he has tenure, is an important interest entitled to due process.     Justice Marshall: The right of every citizen to work is a “property” right and a “liberty- liberty to work- which is the very essence of the personal freedom and opportunity secured by the Fourteenth Amendment.”   Concurrence. None.
+
+Discussion
+All that the University did was decide not to rehire Roth for another year. Although Roth had an abstract interest in being rehired, he did not have a property interest sufficient to require the University to give him a hearing when they decided not to renew his contract of employment.
+

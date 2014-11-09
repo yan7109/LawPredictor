@@ -1,0 +1,21 @@
+Citation
+32 N.J. 358, 161 A.2d 69, 1960 N.J. 213, 75 A.L.R.2d 1
+
+Brief Fact Summary
+Plaintiffs Claus and Helen Henningsen sued Defendant Bloomfield Motors, Inc., for breach of an implied warranty of merchantability imposed by the Uniform Sales Act after Helen Henningsen was injured when the steering mechanism of the car Plaintiffs purchased from Defendant malfunctioned. Defendant asserted that the warranty had been disclaimed by the fine print on the back of the purchase contract.
+
+Synopsis of Rule of Law
+A disclaimer or limitation of liability shall not be given effect if “unfairly procured,” that is, the consumer was not made understandingly aware of it or it was not clear and explicit.
+
+Facts
+Plaintiff Claus Henningsen bought an automobile from the Defendant. On the back of the purchase contract was a provision consisting of eight and a half inches of fine print that purported to limit liability for breach of warranty to replacement of defective parts for a period of 90 days after delivery or 4,000 miles, whichever was shorter. Although most of the language on the front of the purchase contract was in twelve point type, the language on the front referring to the language on the back was in six point type. Plaintiff Helen Henningsen was injured when the steering mechanism on the automobile failed, and Defendant denied liability, invoking the limited liability clause of the purchase contract.
+
+Issue
+Is the limited liability clause of the purchase contract valid and enforceable?
+
+Held
+No. The general rule states that, in the absence of fraud, one cannot seek relief from the terms of a contract that he fails to read before signing it. However, due to the gross inequality in bargaining positions occupied by an automobile dealer and a consumer, a disclaimer of liability will not be enforced if it is not brought to the purchaser’s attention or it is not clear and explicit. Here, Defendant did not make Plaintiffs aware of the language on the back of the purchase contract, and Defendant never addressed the language with Plaintiffs.
+
+Discussion
+Disclaimers are not enforceable where the waiver language is not explicit in the contract nor mentioned specifically by the salesperson.
+

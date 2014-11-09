@@ -1,0 +1,27 @@
+Citation
+22 Ill. 432 U.S. 197, 97 S. Ct. 2319, 53 L. Ed. 2d 281 (1977)
+
+Brief Fact Summary
+Appellant was charged with and convicted of the second-degree murder of his estranged wife. Under New York law, the state permits a person to raise an affirmative defense that he “acted under the influence of extreme emotional disturbance.” The defendant bears the burden of persuasion by a preponderance of the evidence. Appellant sought to invalidate the statutory scheme by claiming it violated due process because it improperly shifted the burden of persuasion from the prosecutor to the defendant.
+
+Synopsis of Rule of Law
+In a criminal case, the defendant who raises an affirmative defense shall bear the burden of persuasion unless the affirmative defense is a presumed element of the offense under the statute.
+
+Facts
+Appellant, Patterson was charged with and convicted of the second-degree murder of his estranged wife. In December of 1970, Patterson borrowed a rifle and went to his father-in-laws house where he witnessed his wife through a window half-dressed in the presence of another man. Patterson entered the house and killed the man by shooting him in the head. At trial, Appellant raised the defense of extreme emotional disturbance. The jury was instructed on the elements of the crime of murder. Appellant sought to invalidate the statutory scheme by claiming it violated due process because it improperly shifted the burden of persuasion from the prosecutor to the defendant. Appellant based his argument on Mullaney v. Wilbur, where the court held a Maine statute in violation of the Due Process Clause.
+
+Issue
+Were the defendant’s due process rights violated when he was required under state law to bear the burden of persuasion for his affirmative defense to the crime of murder?
+
+Held
+No. Judgment Affirmed.
+
+Dissent
+Justice Powell, Justice Brennan and Justice Marshall dissenting:
+
+Concurrence
+Justice Harlan concurring. Due process does not require that every conceivable step be taken to eliminate the likelihood of convicting an innocent person. The state is not required to prove the nonexistence of a mitigating circumstance in each case in which the fact is at issue. The state may judge this process too overwhelming, expensive and inaccurate. This viewpoint may cause state legislatures to reallocate burdens of proof by characterizing affirmative defenses as some elements of crimes now defined in statutes. However, states are limited by constitutional boundaries. The difference between the case at hand and the Mullaney case lies in the statutory language. The malice in Mullaney was presumed under the statute and could only be rebutted by the defendant by a preponderance of the evidence that he acted with heat of passion upon sudden provocation.
+
+Discussion
+Due process does not require that every conceivable step be taken to eliminate the likelihood of convicting an innocent person. The effect of the Court’s rule may be to allow legislatures to shift the burden of persuasion with regard to any factor in a criminal case, so long as it does not mention the nonexistence of that factor in the statutory language defining the crime.
+

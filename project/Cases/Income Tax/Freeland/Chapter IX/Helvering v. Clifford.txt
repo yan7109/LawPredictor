@@ -1,0 +1,24 @@
+Citation
+309 U.S. 331, 60 S. Ct. 554, 84 L. Ed. 788, 1940 U.S.
+
+Brief Fact Summary
+Respondent created a trust for the benefit of his wife and family.  He maintained control of the corpus of the trust but did not claim it as income on his return.
+
+Synopsis of Rule of Law
+Gross income includes all gains, profits, and income derived from whatever source including interest income arising from ownership of property.
+
+Facts
+Respondent established a trust wherein he was trustee and his family members were the beneficiaries.  The trust consisted of certain securities that he owned.  The trust was for a term of five years and would terminate on the death of Respondent or his wife.  He maintained control of almost all aspects of the corpus of the trust.  In 1934, Respondent paid a federal gift tax on the transfer and his wife included the income on her tax return.  The Commissioner of Internal Revenue found that the income should have been on Respondent’s return.  The Board of Tax Appeals sustained that ruling but the Circuit Court of Appeals reversed.
+
+Issue
+Should the corpus of the trust established by Respondent still be treated as his for income tax purposes?
+
+Held
+Justice Douglas issued the opinion for the Supreme Court of the United States in reversing the Circuit Court of Appeals and holding that the trust income was attributable to Respondent.
+
+Dissent
+Justice Roberts, joined by Justice McReynolds, issued a dissenting opinion arguing that the Court’s ruling was legislating from the bench.
+
+Discussion
+The Supreme Court noted that Respondent continued to own the corpus of the trust after it was created, that the trust was short in duration, and he retained control.  The Court found that allowing the Respondent to avoid income taxes on the corpus of the trust while he continued to maintain full control was an attempt to avoid taxes.
+

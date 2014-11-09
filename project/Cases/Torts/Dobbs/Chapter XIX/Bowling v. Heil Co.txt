@@ -1,0 +1,24 @@
+Citation
+31 Ohio St. 3d 277, 511 N.E.2d 373 (1987)
+
+Brief Fact Summary
+The Court of Appeals for Butler County (Ohio) affirmed jury verdict finding appellee manufacturer negligent and strictly liable for Mr. Bowling’s death, but remanded the case for reduction of money judgment to that percentage of fault assigned to appellee by jury. Ms. Bowling (Appellant), administratrix of husband’s estate, sought review.
+
+Synopsis of Rule of Law
+Contributory negligence of a plaintiff is not a defense when such negligence consists merely in a failure to discover the defect in the product, or to guard against the possibility of its existence.
+
+Facts
+Appellee manufactured a dump hoist used on dump trucks, and one such hoist was installed on a vehicle used by Mr. Bowling and a friend. When the hoist appeared to malfunction, Mr. Bowling investigated, leaning under the truck chassis. He manipulated the control lever of the truck’s pump assembly and the truck bed suddenly fell on him, killing him instantly. In a subsequent action, a jury found that Mr. Bowling was contributorily negligent but had not assumed the risk. As the trial court and subsequently the appeals court interpreted the effect of contributory negligence differently, the Supreme Court of Ohio had to address the question on appeal.
+
+Issue
+What is the effect of contributory fault in a products liability case?
+
+Held
+Reversing the judgment of the court of appeals, the Supreme Court of Ohio reinstated the judgment of the trial court, which had assessed the entire money judgment against appellee, having found comparative negligence and comparative fault were did not apply a strict products liability action and upholding the doctrine of joint and several liability.
+
+Dissent
+The dissent takes the view that the framework for application of contributory negligence employed by the majority creates both equitable and policy problems. Further, the dissent contends that an unfair onus is placed on a manufacturer without proper apportionment of responsibility. He notes, “Even supposing a defect in the hydraulic system, the manufacturer’s warning was sufficient to protect the reasonably prudent person even in the extreme case of a complete failure of the hoist.” He takes issue also, on policy grounds, of the impracticability such application creates for manufacturers, stating, “[i]t is not possible for the manufacturer to be physically present to enforce what should be obvious safety concerns. It becomes clear, then, that the proximate cause of decedent’s demise was his own deliberate assumption of a risk, which he had been warned of, expressly and circumstantially, and which peril he voluntarily entered into, notwithstanding the danger, when he easily
+
+Discussion
+The Restatement defines contributory negligence as conduct on the part of the plaintiff, which falls below the standard of conduct to which he should conform for his own protection, and which is a legally contributing cause in bringing about the plaintiff’s harm. In most jurisdictions, however, some form of comparative negligence, often called comparative fault, has replaced contributory negligence.
+

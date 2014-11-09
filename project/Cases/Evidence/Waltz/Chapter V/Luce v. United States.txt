@@ -1,0 +1,24 @@
+Citation
+469 U.S. 38, 105 S. Ct. 460, 83 L. Ed. 2d 443, 1984 U.S.
+
+Brief Fact Summary
+Petitioner was indicted on charges of conspiracy and possession of cocaine with intent to distribute in violation of a federal statute.  During his trial, Petitioner moved to preclude the Government from using a previous State conviction to impeach him if he testified, even though the petitioner never made a commitment to testify and never proffered to the court what his testimony would be.  After the Court of Appeals refused to consider the petitioner’s contentions., the court granted certiorari and determined it would be a matter of conjecture as to whether the District Court would have allowed the government to attack the credibility of the petitioner at trial by means of the prior conviction.
+
+Synopsis of Rule of Law
+The denial of a motion to exclude a prior conviction offered for impeachment is not reviewable on appeal if the defendant fails to testify.
+
+Facts
+Petitioner was indicted on charges of conspiracy and possession of cocaine with intent to distribute, in violation of 21 U.S.C. Sections 846 and 841(a)(1).  During his trial, Petitioner moved for a ruling to preclude the Government from using a 1974 State conviction to impeach him if he testified.  There was no commitment by the petitioner he would testify, nor did he make a proffer to the court as to what his testimony would be. The District Court ruled that if the petitioner testified and denied any prior involvement with drugs, he could be impeached by the 1974 conviction.  Petitioner did not testify and the jury returned guilty verdicts.  The Court of Appeals decision, which did not consider the petitioner’s contentions and held that when the defendant does not testify that the court will not review the District Court’s in limine ruling, was affirmed.  The Court reasoned that when a court is directed under Rule 609(a)(1) to weigh the probative value of a prior conviction a
+
+Issue
+Is the defendant, who did not testify at trial, entitled to review of the trial court’s ruling that denied his motion to forbid the use of a prior conviction to impeach his credibility?
+
+Held
+To raise and preserve for review the claim of improper impeachment with a prior conviction, a defendant must testify.   When the defendant does not testify, the reviewing court also has no way of knowing whether the Government would have sought to impeach with the prior conviction.
+
+Concurrence
+(J. Brennan, with whom J. Marshall joins in concurring.)  The Court correctly identifies two reasons for precluding appellate review unless the defendant testifies at trial.   The caeful weighing of probative evidence and prejudical effect that Rule 609(a) requires of a trial court can only be evaluated adequately on appeal in the specific factual context of a trial as it unfolds.  Also, if the defendant fails to testify, the reviewing court is handicapped in making the required harmless-error determination should the trial court’s in limine ruling prove to have been incorrect.  In cases in which the determinative question turns on legal and not factual considerations, a requirement that the defendant actually testify at trial to preserve the admissibility issue for appeal might not be appropriate.
+
+Discussion
+Requiring a defendant to testify to preserve Rule 609(a) claims will enable the reviewing court to determine the impact of any erroneous impeachment may have in light of the record as a whole, and will discourage making such motions for the sole purpose of obtaining a reversal of a conviction.  [T]he preferred method for raising claims such as [the petitioner's] would be for the defendant to take the stand and appeal a subsequent conviction….Only in this way may the claim be presented to a reviewing court in a concrete factual context.”  New Jersey v. Portash, 440, U.S. 450, 462 (1979).
+

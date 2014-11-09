@@ -1,0 +1,21 @@
+Citation
+54 N.J. 585, 258 A.2d 697 (1969)
+
+Brief Fact Summary
+The Superior Court, Appellate Division, (New Jersey) reversed the judgment of the trial court, holding that Gimbel’s, Inc. (Defendant) was not liable for damage to Plaintiff’s hair and scalp allegedly caused by a product used in giving a permanent wave. Defendant appealed.
+
+Synopsis of Rule of Law
+One, who in the regular course of a business sells or applies a product (in the sense of the sales-service hybrid transaction) that is in such a dangerously defective condition as to cause physical harm to the consumer-patron, is liable for the harm.
+
+Facts
+Plaintiff went to a beauty shop owned by Defendant where she had an appointment and, on the recommendation of her usual stylist underwent a permanent. One more than one occasion, she had felt a burning sensation on her scalp. Subsequently, she developed blistering on her forehead and her hair fell out. It was later determined by a dermatologist that she had contacted dermatitis caused by the permanent solution. Plaintiff, along with her husband, brought an action alleging negligence and breach of express and implied warranties. The trial court dismissed the warranty theories of liability stating that Defendant was providing a service. A jury returned a verdict for Defendant on the negligence claim. The appellate court reversed, holding that an existing factual issue required a jury to decide whether there was an implied warranty of fitness for the lotion applied to Plaintiff’s hair and scalp.
+
+Issue
+May retailers be held liability in strict liability for services rendered?
+
+Held
+Yes. In affirming the appellate court order, the Supreme Court of New Jersey remanded the case for a new trial stating that strict liability may be imposed on retailers such as Defendant if a jury found that the product in question was defective and was the proximate cause of Plaintiff’s injury.
+
+Discussion
+Generally, courts have not extended strict liability to those providing services. The reasoning being the limited reach of personal service, in contrast to the broad reach of mass-produced goods that flow into the stream of commerce. When the reach of strict liability has been extended, it is usually in circumstances, like here, where there was a defective product involved.
+

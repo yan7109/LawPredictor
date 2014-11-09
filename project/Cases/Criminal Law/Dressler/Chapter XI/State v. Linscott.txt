@@ -1,0 +1,21 @@
+Citation
+520 A.2d 1067, 1987 Me. 603.
+
+Brief Fact Summary
+The Defendant, William Linscott (Defendant), appeals from a judgment following a jury-waived trial convicting him of one count of murder and one count of robbery. The Defendant contends that his conviction of intentional or knowing murder as an accomplice under the applicable accomplice liability statute violated his constitutional right to due process of law in that he lacked the requisite intent to commit murder.
+
+Synopsis of Rule of Law
+Accomplice liability for a primary crime (i.e. robbery) is established by proof that the actor intended to promote or facilitate that crime. Liability for a secondary crime (i.e. murder) that may have been committed by the principal is established upon a two-part showing: (1) that the actor intended to promote the primary crime and (2) that the commission of the secondary crime was a “foreseeable consequence” of the actor’s participation in the primary crime.
+
+Facts
+On December 12, 1984, the Defendant, along with Phillip Willey (Willey), Jeffrey Colby (Colby) and Joel Fuller (Fuller), decided to drive to the house of Norman Grenier (Grenier), a reputed cocaine dealer, and rob him. The group of men was armed and knew that Grenier had made a drug sale earlier that day and as a result, had $50,000 in cash on his person. Upon arriving at Grenier’s house, the Defendant broke the living room window with his body, without otherwise entering the home. Fuller immediately fired a shot through the broken window that hit Grenier in the chest. Fuller, after having removed about $1,300 from Grenier’s body, exited through the broken window. At trial, the Defendant testified that he knew Fuller to carry a firearm on his person, but the Defendant also testified that he had no intention of causing anyone’s death during the course of the robbery. The court concluded that Grenier’s death was a reasonably foreseeable consequence of the Defendant’s participati
+
+Issue
+Whether the Defendant’s conviction, pursuant to the applicable accomplice liability statute, unconstitutionally violated his right to due process under Article I of the Maine Constitution and the Fourteenth Amendment of the United States Constitution (Constitution)?
+
+Held
+The Supreme Judicial Court of Maine finds no constitutional defect in the statutory provision assigning liability to the Defendant as an accomplice in this matter. Furthermore, there is no fundamental unfairness in the application of the relevant statutory provision.
+
+Discussion
+The court noted that they have consistently upheld application of the accomplice liability statute as it pertains to reasonably foreseeable consequences. Further, the court stated that life imprisonment for murder under an accomplice liability theory is not so severe as to shock the conscious. Therefore, due to the statute’s historical application and due to its reasonable punishment, the conviction was upheld and not deemed to be in violation of the Defendant’s constitutional rights.
+

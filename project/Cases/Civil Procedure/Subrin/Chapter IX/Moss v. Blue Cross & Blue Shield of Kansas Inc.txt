@@ -1,0 +1,21 @@
+Citation
+241 F.R.D. 683
+
+Brief Fact Summary
+Plaintiff brought action under the Family and Medical Leave Act (FMLA) against her employer, claiming that employer interfered with, restrained, and denied her use or attempt to exercise her right to use protected leave. Employee moved to compel responses to her interrogatories and production of documents.
+
+Synopsis of Rule of Law
+When a party is seeking discovery and that discovery appears to be relevant, the party resisting the discovery has the burden to establish the lack of relevance by demonstrating that the requested discovery: (1) does not come within the scope of relevance as defined under discovery rule, or (2) is of such marginal relevance that the potential harm occasioned by discovery would outweigh the ordinary presumption in favor of broad discovery.
+
+Facts
+Plaintiff has brought her claims under the Family and Medical Leave Act (“FMLA”), 29 U.S.C. 2601 et seq. specifically, plaintiff contends that defendant “violated the FMLA [by] interfering with, restraining and denying the Plaintiff's exercise or attempt to exercise her right to use protected leave.” The plaintiff is requesting information from the plaintiff that would require a review of all employees.  Defendant objects to this interrogatory as being overly broad, unduly burdensome, and not reasonably calculated to lead to the discovery of admissible evidence. The defendant claims that there is no way to identify the designated employees other than by assessing the personnel files of every employee who works or has worked for the defendant during the past ten years. That would include thousands of employees, and the time commitment necessary to review of the personnel files would be quite burdensome.
+
+Issue
+Whether the interrogatories which would require the employer to review over 1,000 personnel files were relevant, overbroad and/or burdensome?
+
+Held
+No in part and yes in part. The District Court, held that information that would allow employee to determine whether employer was a continuous violator of federal law was relevant, for purposes of discovery rule. The court also ruled that interrogatories seeking review of 1,800 personnel files were not in and of themselves overly broad and unduly burdensome on their face, as would relieve employer of its obligation to respond to employee's interrogatories seeking information that would allow employee to determine whether employer was a continuous violator of federal law. Also the interrogatory seeking information regarding identity of persons who had filed lawsuits, complaints, administrative charges, or claims of violation of the FMLA was reasonably calculated to lead to discovery of admissible evidence. And personnel files of individuals who were alleged to have been involved either directly or indirectly in decision to terminate employee were relevant and discoverable. However the court did find that document requests for all correspondence of any kind sent either to or from employee were overly broad and unduly burdensome on their face, and, thus, since employee failed to provide sufficient guidance as to what extent requests were not objectionable, employer was relieved of its obligation to respond to requests.
+
+Discussion
+One of the requests was for all settlement agreements defendant made with other employees when the FMLA was possibility violated. The court ruled that because these agreements were meant to be confidential that there was no relevancy to the outcome of this case and therefore not discoverable.
+

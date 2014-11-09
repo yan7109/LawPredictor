@@ -1,0 +1,18 @@
+Citation
+22 Ill.193 F. Supp. 293 (S.D.N.Y. 1961)
+
+Brief Fact Summary
+The Plaintiff, Mathews (Plaintiff), attempted to bring a suit against the Defendants, New York Racing Association, Inc. and its private detective agency, Thoroughbred Racing Protective Association Inc. (Defendants), that was similar to a previous one which had been adjudged. The Defendant invoked the defense of res judicata.
+
+Synopsis of Rule of Law
+The doctrine of res judicata operates as a bar to subsequent suits involving the same parties, or those in privity with them, based on a claim, which has once reached a judgment on the merits.
+
+Facts
+The Plaintiff brought suit against the Defendants. The Plaintiff alleged that on April 4, 1958 he was assaulted, kidnapped, falsely arrested and falsely imprisoned by employees of Thoroughbred. The Plaintiff also alleged that the Defendants maliciously caused him to be prosecuted and imprisoned on April 10, 1958. He asked for money damages and an injunction restraining the Defendants form interfering with his presence at the racetracks, from publication of libelous statements and from acting as peace officers. The Defendants brought a defense of res judicata asserting that a prior judgment dated June 30, 1960 dismissed his similar complaints. In that case, the Plaintiff alleged on April 4, 1958 he was assaulted and libelous statements were made about the Plaintiff. In that action the Plaintiff also asked for monetary damages and an injunction from further interference with his attendance at the tracks.<br/><span class='heading'>Issue.</span>  Whether the claim alleged in this complaint is the same as that in the suit concluded earlier.
+
+Held
+Yes. The Plaintiff could not be allowed to split his claim into multiple suits and try them at his convenience.
+
+Discussion
+Res judicata is claim preclusion. The term claim refers to a group of facts limited to a single occurrence or transaction without reference to the legal rights. It is the facts surrounding the occurrence, not the legal theory, which make up the claim. The same facts were the basis of liability in each suit. The Plaintiff had his day in court. The previous judge had found that upon the facts and law the Plaintiff had shown no right to relief. Therefore, the Plaintiff was estopped from maintaining this action.
+

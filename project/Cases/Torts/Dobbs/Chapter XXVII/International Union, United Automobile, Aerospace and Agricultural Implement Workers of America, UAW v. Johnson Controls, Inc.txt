@@ -1,0 +1,21 @@
+Citation
+499 U.S. 187, 111 S. Ct. 1196, 113 L. Ed. 2d 158, 14 OSHC 2102, 55 FEP Cases 365 (1991)
+
+Brief Fact Summary
+The United States Court of Appeals for the Seventh Circuit affirmed the summary judgment in favor of the Respondent, Johnson Controls, Inc. (Respondent), employer under its defense that employer’s discriminatory fetal-protection policy was a business necessity and under a bona fide occupational qualification (BFOQ) analysis. The Petitioner, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (Petitioner), on behalf of class of female employees, sought a writ of certiorari from the United States Supreme Court (Supreme Court).
+
+Synopsis of Rule of Law
+Pregnancy Discrimination Act (PDA), 42 U.S.C.S. Section: 2000e(k), explicitly provides that, for purposes of Title VII, discrimination “‘on the basis of sex’” includes discrimination because of or on the basis of pregnancy, childbirth, or related medical conditions. The PDA has now made clear that, for all Title VII purposes, discrimination based on a woman’s pregnancy is, on its face, discrimination because of her sex.
+
+Facts
+The Respondent manufactured batteries. The assembly process entailed exposure to high levels of lead. After discovering that eight of its female employees became pregnant while maintaining blood lead levels in excess of those thought safe by the Occupational Safety and Health Administration (OSHA), the Respondent barred all its female employees, with the exception of those with medically documented infertility, from engaging in tasks that required exposure to lead in excess of recommended OSHA levels. The Petitioner challenged the Respondent’s fetal-protection policy as sexually discriminatory in violation of Title VII of the 1964 Civil Rights Act (Act). The Seventh Circuit affirmed a district court decision in favor of the Respondent and the Petitioner appealed. The Supreme Court granted certiorari.
+
+Issue
+Did the Respondent’s policy barring the participation of potentially fertile and pregnant women in occupations that could be harmful to their reproductive abilities constitute sexual discrimination in violation of Title VII of the Act?
+
+Held
+Yes. In a unanimous decision, the Supreme Court held that even well intentioned proposals are not allowed if they are discriminatory. The Respondent’s fetal-protection plan discriminated against women. Despite evidence about the debilitating effect of lead exposure on the male reproductive system, employer’s policy only addressed female employees.
+
+Discussion
+Johnson underscores how workplace discrimination on the basis of sex is not limited to sexual harassment. As Title XI, U.S.C.A. Section: 1681 states, ” No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.” This statute has been interpreted as creating an implied private right of action. Johnson relies on a related statute, Title VII of the Act, which prohibits employment discrimination based on race, color, religion, sex and national origin. (The Civil Rights Act of 1991 (Pub. L. 102-166) (CRA) amends several sections of Title VII.)
+

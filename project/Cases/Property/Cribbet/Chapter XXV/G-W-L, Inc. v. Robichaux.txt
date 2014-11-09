@@ -1,0 +1,24 @@
+Citation
+22 Ill.643 S.W.2d 392 (Tex. 1982)
+
+Brief Fact Summary
+In this case, the Plaintiffs, John and Merila Robichaux (Plaintiffs) entered into a contract with the Defendant, G-W-L, Inc., d/b/a Goldstar (Defendant), for the construction of a house, for which, under the contract, the Defendant would design, build and provide materials. The Defendant completed the construction, but the roof had a sag in it, which caused the Plaintiffs to sue for breach of express and implied warranties. The lower court found in favor of Plaintiffs and the Defendant appealed.
+
+Synopsis of Rule of Law
+The language required to waive the implied warranty must be clear and free from doubt.
+
+Facts
+In this case, the Plaintiffs entered into a contract with the Defendant for the construction of a house, for which, under the contract, the Defendant would design, build and provide materials. The Defendant completed the construction, but the roof had a sag in it, which caused the Plaintiffs to sue for breach of express and implied warranties. The Supreme Court of Texas had adopted a rule, which provided in real estate transactions of this type, an implied warranty that the house was constructed in a good workmanlike manner and was suitable for human habitation applied. The contract between the parties here stated, “there being no oral agreements, representations, conditions, warranties, express or implied.” The lower court found in favor of the Plaintiffs and Defendant appealed.
+
+Issue
+What language in a contract is sufficient to waive the implied warranty of fitness?
+
+Held
+Language, which is clear and free from doubt. Reversed.
+
+Dissent
+The dissent would have required the language of waiver to be clear and unequivocal and specifically refer to the implied warranty being waived. The dissent pointed out that other jurisdictions required specificity in order for a waiver of implied warranty to be effective.
+
+Discussion
+This case is interesting insofar as the Plaintiffs may not have been aware of the rights that they were waiving under the contract. In a purchase, which is of the magnitude of a home, the Court gave scant protection to the purchaser and doubtless, every homebuilder in Texas quickly inserted a clause of waiver in every subsequent contract for building.
+

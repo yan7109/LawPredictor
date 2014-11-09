@@ -1,0 +1,18 @@
+Citation
+100 N.Y.2d 208, 762 N.Y.S.2d 1, 792 N.E.2d 151 (2003)
+
+Synopsis of Rule of Law
+Res ipsa loquitur is a doctrine of ancient origin which means “the thing speaks for itself.”  It derives from the understanding that according to common knowledge, some events ordinarily do not occur in the absence of negligence, and thus negligence may be inferred from the mere happening of an event.  Expert testimony is frequently necessary in a medical malpractice case brought on a res ipsa loquitur theory.
+
+Facts
+Plaintiff Kathleen States underwent surgery for removal of an ovarian cyst.  She believed that during the operation the anesthesiologist negligently hyperabducted her right arm beyond a 90-degree angle for an extended period of time, causing right thoracic outlet syndrome and reflex sympathetic dystrophy.  She sued the hospital.  At the close of discovery, Defendant Hospital moved for summary judgment on the ground that there was no direct evidence that the plaintiff’s arm was hyperabducted during surgery.  Conceding the absence of direct evidence of negligence, Plaintiff opposed the motion, submitting expert medical opinion that her injuries would not have occurred in the absence of negligence.  Plaintiff claimed this testimony could be used by a jury in support of a res ipsa loquitur theory.  The trial court denied defendant’s motion for summary judgment and permitted plaintiff to rely on the expert medical opinion for a res ipsa theory.  A divided appellate division reversed, but the New York Court of Appeals affirmed the trial court
+
+Issue
+Whether a jury can rely on expert medical opinion in the absence of direct evidence of negligence to support a res ipsa loquitur theory.
+
+Held
+Yes.  Res ipsa loquitur is a doctrine of ancient origin which means “the thing speaks for itself.”  It derives from the understanding that according to common knowledge, some events ordinarily do not occur in the absence of negligence. The defendant in this case argued that res ipsa could not apply because to establish that the hyperabduction of plaintiff’s arm would not have occurred in the absence of negligence, the jury would have to rely on expert medical opinion rather than their own common knowledge and everyday experience.  The court concluded that expert testimony may be used to help the jury “bridge the gap” between its own common knowledge, which does not encompass the specialized knowledge necessary, and the common knowledge of physicians, which does.  The court reasoned that expert opinion does not negate the jury’s ultimate responsibility as finder of fact to determine whether an event would normally occur in the absence of negligence.
+
+Discussion
+The normal basis for medical res ipsa loquitur is that, as a matter of common knowledge, the plaintiff’s injury is more likely than not to have resulted from negligence.  The clearest cases are those in which instruments or towels are left inside the patient’s abdomen after surgery and those in which injury is inflicted upon a part of the body not being treated.  This decision stands for the proposition that expert testimony is frequently necessary in a medical malpractice case brought on a res ipsa loquitur theory.
+

@@ -1,0 +1,21 @@
+Citation
+387 U.S. 158, 87 S. Ct. 1520, 18 L. Ed. 2d 697 (1967)
+
+Brief Fact Summary
+Toilet Goods Association (Petitioners) sought pre-enforcement review of certain regulations promulgated by the Commissioner of Food and Drugs (Commissioner) on the ground that he exceeded his authority under the Color Additive Amendments to the Federal Food, Drug and Cosmetic Act (Act).
+
+Synopsis of Rule of Law
+Nothing in the Food, Drug and Cosmetic Act bars a pre- enforcement suit under the APA and the Declaratory Judgment Act.
+
+Facts
+The Petitioners, an organization of cosmetics manufacturers and 39 individual cosmetics manufacturers and distributors, brought this action in the United States District Court for the Southern District of New York seeking declaratory relief and an injunction against the Commissioner and the Secretary of Health, Education and Welfare (Secretary).  The challenged regulation permitted the Commissioner to temporarily suspend certification service if it appeared that anyone involved in the manufacture of color additives refused to grant entry to an FDA employee.  The District Court held that the Act did not prohibit pre-enforcement review, that a case and controversy existed, that the issues were justiciable, and no reasons were presented by the Government to warrant declining jurisdiction on discretionary grounds. The Court of Appeals affirmed as to three of the challenges to the regulations, but sustained the Government’s contention that review was improper as to the fourth.
+
+Issue
+Was pre-enforcement review permissible?
+
+Held
+Nothing in the Food, Drug and Cosmetic Act bars a pre-enforcement suit under the APA and the Declaratory Judgment Act.  However, the Supreme Court agreed with the Court of Appeals that judicial review of that particular regulation in that particular context was not ripe for adjudication.  Primary conduct was not affected. The regulation merely stated that the Commission could authorize inspectors to examine certain processes of formulae. He had not yet done so, and the worst that might have happened if a manufacturer refused to admit an inspector would have been a temporary suspension of their license, which could then be promptly challenged through administrative proceedings.   Dissent. None applicable to this case.   Concurrence. None applicable to this case.
+
+Discussion
+The question of ripeness involves a two-fold inquiry: 1] determine whether the issues tendered are appropriate for judicial resolution; and 2] assess the hardship if judicial review is denied at that stage.   Pre-enforcement review was not precluded under the Act, but was precluded on ripeness grounds. Petitioners were merely speculating as to the difficulty that would take place if the Commissioner chose to act pursuant to the regulation, which he had not yet done.
+

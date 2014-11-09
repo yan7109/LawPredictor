@@ -1,0 +1,21 @@
+Citation
+318 U.S. 80, 63 S. Ct. 454, 87 L. Ed. 626 (1943)
+
+Brief Fact Summary
+The Respondents were officers, directors and controlling shareholders of the Federal Water Service Corporation (Corporation), a holding company registered under the Public Utility Holding Company Act (Act). The Respondents brought this proceeding to review an order of the Securities Exchange Commission (SEC) approving a plan of reorganization of their Corporation, but penalizing Respondents for stock purchases made while the reorganization was pending.
+
+Synopsis of Rule of Law
+The usual remedy when an agency decision cannot be supported by the grounds advanced by the agency is to remand it back to the agency for further consideration, rather than reverse the decision outright. If there are grounds the agency could have relied upon but didn’t, courts usually give the agency the option of relying on those grounds. The rationale for an agency’s decision must be clear to the court before it can consider whether the reasons are adequate.
+
+Facts
+The Respondents purchased a total of 12,407 shares of the Corporation’s stock while the reorganization plans were before the Commission. They admitted their purpose was to protect their interest in the company by increasing their holdings.  In ascertaining whether the terms of issuance of new common stock were “fair and equitable,” the Commission would not approve the proposed plan if the newly acquired stock would be permitted to share on parity with other preferred stock. The Commission did not find fraud or lack of disclosure, but concluded that Respondents were fiduciaries, and under an obligation not to trade in the securities of the Corporation while reorganization was pending. The Commission determined that the preferred stock acquired by Respondents would not be converted into stock of the reorganized company, but could only be surrendered at cost plus 4%.  The Commission approved the reorganization plan, as thus amended, over the Respondents’ objections, and the Respondents sought review.
+
+Issue
+Should the Respondents have been denied the benefits to be received by the other preferred stockholders, simply because they were reorganization managers?
+
+Held
+Remanded to the Court of Appeals with directions to remand to the Commission for further proceedings.   Although the Commission did not find dishonesty, it imposed a punishment upon Respondents based upon purported judicial principles of equity and fairness.  Since the Commission’s decision was explicitly based upon the applicability of principles of equity announced by the courts, its validity also had to be    judged on that basis. The Court could not find sufficient grounds in the record to support the Commission’s decision.   Dissent. There was nothing improper in the Commission’s findings. The Act gives the Commission wide powers to evolve policy standards, and this may be done case-by-case.  Concurrence. None.
+
+Discussion
+Judicial review of agency decisions differs from review of lower court decisions in one respect. Parties seeking to defend a lower court judgment are not bound to defend the reasoning of the lower court. Lower court judgments can be sustained on any grounds properly supported by the record, even if the lower court specifically rejected those grounds. On the other hand, agency decisions can only be sustained on the grounds specifically relied on by the agency.
+

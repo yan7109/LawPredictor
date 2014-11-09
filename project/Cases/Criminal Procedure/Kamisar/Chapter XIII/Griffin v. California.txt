@@ -1,0 +1,24 @@
+Citation
+380 U.S. 609, 85 S. Ct. 1229, 14 L. Ed. 2d 106 (1965)
+
+Brief Fact Summary
+Petitioner appealed after being convicted when the trial judge gave a jury instruction that failure to testify should be construed against him.
+
+Synopsis of Rule of Law
+The fifth Amendment, as incorporated against the states in the Fourteenth Amendment, forbids comment on the accused’s silence as evidence of guilt.
+
+Facts
+Petitioner was convicted of First Degree Murder.  He chose to invoke his Fifth Amendment Privilege against self incrimination and remained silent throughout the trial.  At the closing of trial, the court instructed the jury that it may infer that the defendant’s silence was a probable indication of guilt.  The death penalty was imposed, and it was upheld by the California Supreme Court.  Under a writ of certiorari, the United States’ Supreme Court decided to take the case at hand.
+
+Issue
+Whether a jury instruction on the accused’s silence is reversible error.
+
+Held
+Reversed.  Writing for the court, Justice Douglas notes that a jury instruction as to the accused’s silence which instructs the jury to infer that silence was a probable indication of guilt was in violation of the Fifth Amendment rights of the defendant.  To break this down further, the holding indicates that an inference as to one’s silence nullifies the reason for taking the silence to begin with.
+
+Dissent
+Justice Stewart, for the dissent, notes that an instruction to the jury does not compel the defendant to testify against himself and, therefore, cannot be considered in violation of one’s Fifth Amendment rights.
+
+Discussion
+While this opinion can come across as complex, it simply stands for the assertion that one cannot be compelled to incriminate themselves, either by being forced to testify, or by having their own silence construed against them.
+

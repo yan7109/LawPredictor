@@ -1,0 +1,21 @@
+Citation
+380 U.S. 460, 85 S. Ct. 1136, 14 L. Ed. 2d 8, 1965 U.S. 1350
+
+Brief Fact Summary
+Plaintiff Hanna, an Ohio resident filed suit in Massachusetts Federal District Court claiming damages for personal injuries resulting from an automobile accident in South Carolina, allegedly caused by the negligence of Defendant Louise Plumer Osgood, a Massachusetts resident deceased at the time of filing. Service was made by leaving copies of the summons and the complaint with Defendant’s wife at his residence, in compliance with Fed. R. Civ. P. 4(d) (1) then in effect.
+
+Synopsis of Rule of Law
+In civil cases in which diversity is the basis of Federal Court jurisdiction, where a situation is governed by a federal rule, it the federal rule, not the state rule, which the court must apply.
+
+Facts
+Plaintiff, an Ohio resident filed suit in Massachusetts Federal District Court claiming damages for personal injuries resulting from an automobile accident in South Carolina, allegedly caused by the negligence of Defendant, a Massachusetts resident deceased at the time of filing. Defendant’s executor, also a Massachusetts citizen, was named as the defendant. Service was made by leaving copies of the summons and the complaint with Defendant’s wife at his residence, in compliance with Fed. R. Civ. P. 4(d) (1) then in effect. Defendant filed an answer stating the action could not be maintained because service was done in accords with the Massachusetts General Laws governing service of process. The District Court granted Defendant’s motion, and the Court of Appeals affirmed.
+
+Issue
+Whether State or Federal rules should apply to service of process in a civil action in federal court on diversity jurisdiction.
+
+Held
+The Supreme Court of the United States reversed the Circuit Court’s decision, holding that the Federal rule regarding service is the standard against which the District Court should have measured the adequacy of the service.   When a situation is governed by the Federal rules, the Court is instructed to apply the Federal rule, and can refuse to do so only if the Advisory Committee, this Court, and Congress erred in their prima facie judgment that the rule in question transgresses neither the terms of the enabling nor constitutional restrictions.   Concurrence. Justice Harlan concurred. His opinion seeks a different determination of when to apply a state or federal rule. The proper inquiry, he suggests, is asking if the choice of rule would substantially affect “those primary decisions respecting human conduct” which is left to state regulation. If so, the state rule must apply, regardless of whether or not it conflicts with a Federal rule.
+
+Discussion
+In this case the Supreme Court is distancing itself from the earlier outcome- determinative test for deciding whether to apply Federal or State law. Instead, the   Supreme Court here is holding that where an existing Federal rule squarely governs the situation that the parties are contesting, the Federal rule is controlling.
+

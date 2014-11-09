@@ -1,0 +1,21 @@
+Citation
+SEC Rel. No. 34-30532 (1992)<br />
+
+Brief Fact Summary
+Administrative proceedings were instituted pursuant to Section 21C of the Securities Exchange Act of 1934 to determine whether Caterpillar Inc., (Caterpillar) has failed to comply with Section 13 (a) of the Act and Rules 13a-1 and 13a-13 promulgated under the Act in connection with reports on Form 10-K and Form 10-Q filed with the Commission. In anticipation of the proceedings, Caterpillar has submitted an Offer of Settlement.
+
+Synopsis of Rule of Law
+Information must be included in the MD & A if failure to include it would leave investors with an incomplete picture of the corporation’s financial condition and results of operations and deny them the opportunity to see the company through the eyes of management.
+
+Facts
+Caterpillar has many divisions and subsidiaries that are viewed and managed on a consolidated basis. Caterpillar’s subsidiary, Caterpillar Brazil, SA, (CBSA), accounted for 23% of Caterpillar’s net profits of $497 million. However, its revenues represented only 5% of the Caterpillar’s revenues. In 1989 CBSA had a greater than usual profit due to currency translation gains, export subsidies, interest income, and Brazilian tax loss carry forwards. CBSA’s financial results were presented on a consolidated basis with the remainder of Caterpillar’s operations. Thus, the impact of CBSA’s operations on Caterpillar’s overall results was not apparent from the face of Caterpillar’s financial statements. At a board meeting in February of 1990, management recognized that Caterpillar’s 1990 forecast depended on CBSA’s 1990 forecast. Further, CBSA’s 1990 forecast was difficult to predict because Brazil was volatile and a new administration would be instituting sweeping economic and monetary
+
+Issue
+Whether Caterpillar’s failure to disclose information about the 1989 earnings of its fully owned subsidiary, CBSA, and uncertainties about its 1990 earnings violate the MD & A Rules.
+
+Held
+Yes. Caterpillar failed to include required information about CBSA in the MD & A leaving investors with an incomplete picture of Caterpillar’s financial condition and results of operations and denied them the opportunity to see the company through the eyes of management.
+
+Discussion
+Caterpillar’s Annual Report on Form 10-k for 1989 should have discussed the impact of CBSA on Caterpillar’s overall results of operations. Given the magnitude of CBSA’s contribution to Caterpillar’s overall earnings, disclosure of the extent of that contribution was required under the MD & A provisions since CBSA’s earnings materially affected Caterpillar’s reported income from continuing operations. Further, the MD & A should have discussed the currency translation gains, export subsidies, interest income, and Brazilian tax loss carry forwards since such items were significant components of CBSA’s revenues that should have been identified in order for a reader to understand Caterpillar’s results of operations. Both the Annual Report Form 10-K for 1989 and the Quarterly Report on Form 10-Q should have discussed the future uncertainties regarding CBSA’s operations, the possible risk of Caterpillar having materially lower earnings as a result of that risk and quantified the impact of such risk to the extent reasonably practicable. At the February 1990 board meeting, management told the directors that the impact of Brazil was so significant to reduced 1990 projected results it was necessary to explain it to them in detail. By the end of the first quarter it became more apparent that management could not conclude that lower earnings form CBSA were not reasonably likely to occur nor could they conclude that a material effect on Caterpillar’s results of operations was not reasonably likely to occur due to CBSA’s lower earnings.
+

@@ -1,0 +1,24 @@
+Citation
+468 U.S. 705, 104 S. Ct. 3296, 82 L. Ed. 2d 530 (1984)
+
+Brief Fact Summary
+The DEA placed a beeper in a can of ether which informant told them was to be used to extract cocaine from clothing imported into the United States.  The beeper lead them to a house which the DEA then obtained a warrant to search.
+
+Synopsis of Rule of Law
+Installing a beeper in a container of chemicals with an original owner’s consent is not a search for Fourth Amendment purposes.   However, if information is obtained through use of a beeper device which could not have been obtained through visual surveillance, that is a search for Fourth Amendment purposes.
+
+Facts
+A government informant told the DEA that Respondents Karo, Horton and Harley had ordered 50 gallons of ether to be used to extract cocaine from clothing imported into the U.S.  With the informant’s consent, they placed a can containing a beeper in one of the cans of the shipment.  The DEA saw Respondent Karo pick up the ether shipment and observed the shipment moving to various places until it reached the home of another respondent, Steele.  Agents used the beeper information in obtaining a warrant to search the house where cocaine was seized, resulting in indictments for various offenses for the Respondents.  The New Mexico District Court granted the pretrial motion to suppress the evidence on grounds that the warrant was invalid and that the seizure was the tainted fruit of the unauthorized installation of the beeper.  The Tenth Circuit Court of Appeals affirmed except as to the monitoring of the beeper in the private dwellings and storage lockers.  The Government was then g
+
+Issue
+Does installation of a beeper in a container of chemicals with the consent of the original owner constitute a search for Fourth Amendment purposes when the container is delivered to a buyer with no knowledge of its presence?
+
+Held
+Reverse the decision of the Court of Appeals.
+
+Dissent
+Justice John Paul Stevens stated that the beeper’s installation was a search and a seizure for Fourth Amendment purposes.  There was an interference with possessory rights, specifically the possessory right to exclude.
+
+Discussion
+This case, when coupled with the result in United States v. Knotts, 460 U.S. 276 (1983), show a strong leaning by the Supreme Court for the use of beepers in many cases not constituting a search for Fourth Amendment purposes.
+

@@ -1,0 +1,24 @@
+Citation
+201 F.2d 265, 1952 U.S. App.
+
+Brief Fact Summary
+The plaintiff, Dyer (the “plaintiff”), accused the defendants, Albert E. MacDougall (”Mr. MacDougall”) and his wife (the “defendants”), of libel and slander regarding several oral and written statements.  Of the two counts at issue, one involved an alleged statement by Mr. MacDougall to a lawyer that the plaintiff sent a blackmailing letter.  The other count alleged Mr. MacDougall’s wife said to another individual that the plaintiff had written and sent out a blackmailing letter.
+
+Synopsis of Rule of Law
+A defendant has the burden to prove that there it no general issue of fact for a trial court to decide when seeking a motion for summary judgment or directed verdict.
+
+Facts
+The defendants were accused of four counts of libel and slander.  The defendants moved for summary judgment on three of the four counts.  The plaintiff accused the defendants of libel and slander regarding four oral or written statements about the plaintiff.  The defendants moved for summary judgment based on the fact that the defendants’ denied the accusations, and the two witnesses to the statements denied hearing the alleged statements.  The plaintiff offered several affidavits as evidence, but they were inadmissible as evidence regarding the issue of utterance.  The trial judge granted the summary judgment motion on two of the four counts based on the ground that the plaintiff would have no evidence to offer.
+
+Issue
+Did the defendants show that there was no genuine issue for trial to support the summary judgment granted for defendants?
+
+Held
+Circuit Judge Learned Hand issued the opinion of the Second Circuit Court of Appeals in affirming the summary judgment granted to the defendants in holding that the plaintiff had no evidence to offer at trial to meet his burden of proof regarding the allegations.
+
+Concurrence
+Circuit Judge Frank issued a concurring opinion to point out that he disagrees with the majority opinion in holding that there is a distinction between whether there is a jury trial request or not, when evaluating a motion for summary judgment.  The concurring judge agreed with the majority’s ultimate holding because, in this case, the plaintiff had no evidence to offer at trial to prove his libel and slander claims, which is his burden.
+
+Discussion
+The plaintiff accused the defendants of slander.  The plaintiff was not present to here the allegedly slanderous communications.  In moving for summary judgment, the defendants had the burden to prove that there was no genuine issue to be decided at trial.  In order to withstand the motion, the plaintiff need only offer conflicting evidence that would be appropriate for the trial court to decide.  However, the plaintiff had no evidence to offer, as the defendants denied the plaintiff’s allegations and the witnesses who allegedly heard the statements would testify on the defendants’ behalf.
+

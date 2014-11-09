@@ -1,0 +1,21 @@
+Citation
+174 F.3d 1308 (Fed. Cir. 1999)
+
+Brief Fact Summary
+Magnavision (Plaintiff) alleged that VSI (Defendant) infringed its patent for technology for displaying eyeglasses on racks.
+
+Synopsis of Rule of Law
+Even though a product may avoid literal infringement when it performs an identical function to a patented invention, it may infringe under the doctrine of equivalents.
+
+Facts
+Plaintiff sold non-prescription eyeglasses and obtained a patent for an eyeglass rack that allows consumers to try glasses on and then return the glasses to the rack without removing their display hangers.  The hanger has an extension that encircles the nose bridge of the glasses.  Defendant, a competitor, began using a similar rack without this type of fastening for the glasses.  Plaintiff sued Defendant for infringement anyway.  A district court jury found literal infringement on one claim and infringement under the doctrine of equivalents on other claims.  However, on the scope of the patent claims and doctrine of equivalents, both parties disagreed with the court's instructions.
+
+Issue
+Even though a product may avoid literal infringement when it performs an identical function to a patented invention, it may infringe under the doctrine of equivalents.
+
+Held
+(Rader, J.)  Yes.  Even though a product may avoid literal infringement when it performs an identical function to a patented invention, it may infringe under the doctrine of equivalents.  Under 35 U.S.C. § 112, the test to determine equivalence is whether there are substantial differences between the structure in the accused product and those written in the specification.  Under § 112, equivalents narrow the application of broad literal claims, meaning a functional claim element is restricted to ways that are equivalent to the actual ways shown in the specification. Therefore, it informs the claim meaning for an analysis of literal infringement.  However, if there is equivalence between the elements of the accused product and the claimed elements of a patented invention, the doctrine of equivalents allows enforcement of claim terms beyond their literal reach.  Although they have different purposes and administrations, under the doctrine of equivalents, a finding of a lack of literal infringement for lack of equivalent structure could come before a finding of equivalence.  So, if an accused product or process performs the identical function and yet avoids literal infringement for lack of a structural equivalent, it may avoid infringing the same element under the doctrine.  In this case, the jury did not find substantial structural differences in the function of Defendant's eyeglass rack which is identical to the function claimed in Plaintiff's patent.  This finding is adequate to support the inference that the jury found infringement even under the most restricted reading of the claims.  Therefore, any mistake in the trial court's determination of the scope of the claim did not affect the final decision.  Affirmed.
+
+Discussion
+In this case, it was found by the jury that a chemical fastener used by Defendant was the equivalent of the mechanical fastener described in the Plaintiff patent claim.  The decision allowed this rather broad interpretation by the jury.  The trial court's mistake was in interpreting some of the claims as means-plus-function elements subject to the limitations of § 112.
+

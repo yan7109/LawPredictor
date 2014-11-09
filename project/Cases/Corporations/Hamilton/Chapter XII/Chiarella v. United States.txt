@@ -1,0 +1,21 @@
+Citation
+445 U.S. 222, 100 S. Ct. 1108, 63 L. Ed. 2d 348 (1980)
+
+Brief Fact Summary
+Petitioner traded on confidential information acquired during his work at a financial printer regarding the possible takeover of a corporation without first disclosing this information to the public.
+
+Synopsis of Rule of Law
+A duty to disclose arises under section 10b under the Securities Exchange Act of 1934 when there is a relationship of trust and confidence between the transacting parties.
+
+Facts
+Petitioner worked for a financial printing company, Pandick Press, as a markup man.  Petitioner handled documents announcing corporate takeover bids.  The names of the acquiring and takeover corporations were disguised, but Petitioner was able to deduce the companies by other information on the documents.  Petitioner purchased stock in the target companies and sold the shares immediately after the takeover attempts were announced to the public, making $30,000 in profit over a 14 month period.
+
+Issue
+Whether a person who learns about a corporation’s plan to takeover a target corporation through confidential papers discovered while working at a financial printer violates Section:10b if he fails to disclose the impending takeover before trading in the target company’s securities?
+
+Held
+No.  Silence does not amount to fraud under Section:10(b) if there is not a duty to disclose based on a confidential relationship between the transacting parties.  The Court of Appeals decision is reversed.
+
+Discussion
+Silence in connection with the purchase or sale of securities is actionable as fraud under Section:10(b) if there is a duty to disclose such information arising from a relationship of trust and confidence between parties to a transaction.  Here, Petitioner did not have a duty to disclose because he had no special confidential relationship with the transacting parties.
+

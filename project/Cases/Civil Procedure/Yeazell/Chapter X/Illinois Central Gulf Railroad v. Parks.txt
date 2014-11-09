@@ -1,0 +1,21 @@
+Citation
+181 Ind. App. 148, 390 N.E.2d 1073, 1979 Ind. App. 1438
+
+Brief Fact Summary
+A man and wife filed suit against a railroad after they were injured when their automobile collided with a train. After the wife prevailed in her claim, but the husband failed in his, the husband re-filed suit against the railroad alleging an alternate version of liability.
+
+Synopsis of Rule of Law
+Issue preclusion, which allows the judgment in the prior action to operate as an estoppel as to those facts or questions actually litigated and determined in the prior action, only applies if the moving party can show that the specific factual issue in question was actually adjudicated on the merits in the prior suit.
+
+Facts
+The Plaintiffs, Jessie Parks and Bertha Parks (Plaintiffs), were injured when a car driven by Jessie in which Bertha was a passenger, collided with a Defendant, Illinois Central Gulf Railroad (Defendant) train. Bertha sought compensation for her injuries and Jessie sought damages for loss of Bertha’s services and consortium. Bertha recovered $30,000 on her claim. Judgment was rendered for Defendant on Jessie’s claim.  Jessie then sued Defendant for his own injuries. The trial court held that Jessie’s claim was not barred by claim preclusion and that the prior action did not preclude Jessie on the issue of contributory negligence. Defendant took an interlocutory appeal.
+
+Issue
+This case concerns a court’s assessment of when an issue has been actually litigated and determined for purposes of determining whether to apply issue preclusive effect to a previous court’s judgment.
+
+Held
+The court held that estoppel by judgment did not apply. However, the court held that issue preclusion did apply.   Estoppel by judgment precludes the relitigation of a cause of action finally determined between the parties and decrees that a judgment rendered is a complete bar to any subsequent action on the same claim or cause of action. Jessie’s cause of action in the case at bar is a different cause of action from the one that he litigated in Bertha’s case, therefore estoppel by judgment does not apply.  If the case at bar were to go to trial on all the issues raised in the pleadings and answer, some facts or questions determined and adjudicated in Bertha’s case would again be put in issue in this subsequent action between the same parties. Issue preclusion allows the judgment in the prior action to operate as an estoppel as to those facts or questions actually litigated and determined in the prior action.  Defendant failed in its burden of showing that the judgment against Jessie in the prior action could not have been rendered without deciding that    Jessie was contributorily negligent in the accident that precipitated the two lawsuits.
+
+Discussion
+Here, the court is saying that unless it is clearly shown by the moving party that a specific factual issue was actually determined on the merits in the previous suit, then that party will not be able to prevent a party from litigating that issue in the present case.
+

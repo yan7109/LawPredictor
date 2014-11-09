@@ -1,0 +1,21 @@
+Citation
+389 U.S. 90, 88 S. Ct. 269, 19 L. Ed. 2d 305, 1967 U.S.
+
+Brief Fact Summary
+Simmie Horwitz, the Defendant in a criminal tax evasion case pending before the United States District Court for the Northern District of Illinois, filed a Motion for a Bill of Particulars, which contained thirty requests for information. Request number twenty-five sought information concerning any oral statements of the Defendant relied upon by the government to support the charge in the indictment.
+
+Synopsis of Rule of Law
+The peremptory writ of mandamus has traditionally been used in the federal courts only to confine an inferior court to a lawful exercise of its prescribed jurisdiction or to compel it to exercise its authority when it has a duty to do so. It is clear that only exceptional circumstances amounting to a judicial usurpation of power will justify the invocation of this extraordinary remedy.
+
+Facts
+The United States District Court Judge ordered the United States Attorney to furnish the information, but he did not comply with the order. The United States Court of Appeals for the Seventh Circuit granted the government’s Writ of Mandamus directing the District Court Judge to vacate his order directing the government to comply with question number twenty-five in the Bill of Particulars.
+
+Issue
+Whether it was proper for the United States Court of Appeals for the Seventh Circuit to issue a Writ of Mandamus to compel the United States District Judge, to vacate a portion of the pre-trial order?
+
+Held
+Neither the record nor the order of the court of appeals justifies the invocation of the extraordinary Writ of Mandamus in this case. As a result, the Writ is vacated and the cause is remanded to the court of appeals.
+
+Discussion
+The Supreme Court of the United States found that the court of appeals had issued the Writ of Mandamus without a reasoned basis for its action. Without a more complete record, and evidence of due inquiry by the court of appeals, the Court was reluctant to let the writ of mandamus stand.
+

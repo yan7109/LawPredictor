@@ -1,0 +1,21 @@
+Citation
+48 N.Y.2d 309, 398 N.E.2d 517, 422 N.Y.S.2d 911, 1979 N.Y.
+
+Brief Fact Summary
+The plaintiff, administratrix of her husband’s estate (the “plaintiff’), filed a wrongful death lawsuit against the owners and architects of her husband’s office building, the defendants, Rockefeller Center Inc. and others (the “defendants”), after plaintiff’s husband fell from the 36th floor.  The defendants sought to introduce evidence of the decedent’s mental capacity in order to show that he may have committed suicide.
+
+Synopsis of Rule of Law
+An evidentiary privilege may not be relied on to exclude evidence when the party seeking the privilege has affirmatively put in issue the mental condition of the deceased in a wrongful death lawsuit.
+
+Facts
+Robert Prink (”Mr. Prink”) was found dead on March 1, 1976 after falling from the 36th floor of his office building.  The window to his office was open, but no one witnessed his death.  His death certificate noted that decedent had reported being depressed to his psychiatrist, Dr. Thomas Doyle (”Dr. Doyle”).  The plaintiff, filed suit against the defendants.  The plaintiff claimed negligence in the design and installation of the window.  She claimed the decedent had to kneel on the desk to open the window because it was jammed, and he must have lost his balance and fallen when he attempted to open it.  The defendants sought to compel the plaintiff to testify regarding the conversations she had with her husband’s psychiatrist after his death.  The trial court ordered the plaintiff to testify.  The Appellate Division affirmed, and certified the question to the New York Court of Appeals.
+
+Issue
+Whether evidentiary privileges prevent disclosure regarding the mental condition of decedent in a wrongful death action?
+
+Held
+Justice Meyer issued the opinion of the New York Court of Appeals in affirming the lower courts and holding that the plaintiff’s affirmative act bringing the lawsuit put decedent’s mental condition at issue, and the evidentiary privilege could not be used.
+
+Discussion
+If mental or physical condition is an issue in a personal injury or a wrongful death lawsuit, a plaintiff may lose the physician patient privilege.  A plaintiff should not be allowed to succeed in a lawsuit by hiding behind the privilege, which might allow the defendant to show his lack of culpability.
+

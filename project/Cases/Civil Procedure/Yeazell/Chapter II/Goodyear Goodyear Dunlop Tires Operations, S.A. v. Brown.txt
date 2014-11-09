@@ -1,0 +1,27 @@
+Citation
+131 S. Ct. 2846 (2011)
+
+Brief Fact Summary
+Two American boys living in North Carolina were killed in a bus accident in France. Their parents filed against the tire company in North Carolina.
+
+Synopsis of Rule of Law
+A state has no general personal jurisdiction over a foreign subsidiary of a U.S. corporation if the subsidiary has no ongoing or organized business relationship with the state.
+
+Facts
+Two American boys were killed in a bus accident in France as the result, so the parents (P) claimed, of a defective tire manufactured at the Turkish subsidiary of Goodyear Tire and Rubber Company (D). The parents (P) sued Goodyear  USA (D) and three of its subsidiaries (D) in Turkey, Luxembourg and France. Goodyear USA (D) is based in North Carolina but the subsidiaries (D) have no direct connection with the state as they have no place of business in North Carolina, no accounts in any bank in the state, nor do they employ any one in North Carolina. They also do not run or manage any advertising there nor do direct business there. Some of their products reach the distribution network through other Goodyear subsidiaries and are sold here. Thus the subsidiaries (D) claimed that the state of North Carolina had no personal jurisdiction in the case, and moved for dismissal of the case on this ground. This was denied by the trial court, and the decision was affirmed by the state Court of Appeals on the basis that the general jurisdiction of the court over the subsidiaries (D) existed because their products were distributed in the state through the stream of commerce.
+
+Issue
+The issue here is whether a foreign subsidiary of a U.S. corporation can be held to be under the general personal jurisdiction of a state when it lacks any organized or continuous business relationship with the state
+
+Held
+(Ginsberg, J.) No.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The issue in this case was the difference to be made between the two kinds of personal jurisdiction, that is, general and specific. General jurisdiction means the state has authority to allow any claim against a defendant provided the defendant has organized and continuous relationship with the state. Specific jurisdiction means the state has authority to hear a claim against a defendant only in a specific instance where the state is connected to the subject of the claim. In the present case, as the accident and the manufacturer of the tire were both out of North Carolina, the state has no connection with the subject of the claim and hence has no specific jurisdiction. General jurisdiction also could not be allowed because of the stream-of-commerce exception.
+

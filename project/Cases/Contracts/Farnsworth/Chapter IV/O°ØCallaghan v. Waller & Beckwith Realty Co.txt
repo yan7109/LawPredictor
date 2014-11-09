@@ -1,0 +1,24 @@
+Citation
+15 Ill. 2d 436, 155 N.E.2d 545, 1958 Ill. 427
+
+Brief Fact Summary
+Plaintiff Ella O’Callaghan, a tenant of a building owned by Defendant Waller & Beckwith Realty Co. fell while crossing the paved courtyard of the apartment building. She sued to recover damages but was denied recovery due to an exculpatory clause in her lease relieving Defendant of liability from personal injuries caused by any act or neglect of Defendant.
+
+Synopsis of Rule of Law
+An exculpatory clause is generally enforced “unless (1) it would be against the settled public policy of the State to do so, or (2) there is something in the social relationship of the parties militating against upholding the agreement.”
+
+Facts
+Plaintiff, a tenant of Defendant’s building, fell while crossing the paved courtyard on the way from the garage to her apartment. She was injured in the fall and alleged the injuries were caused by defective pavement in the courtyard. Plaintiff died before the case came to trial, and her administrator was substituted as Plaintiff. A jury returned a verdict in favor of Plaintiff for $14,000, but the judgment was set aside on appeal for the reason that the action was barred by an exculpatory clause in the lease that Plaintiff signed absolving Defendant of liability for any of his acts or neglect causing personal injury.
+
+Issue
+Is the exculpatory clause valid and enforceable?
+
+Held
+Yes. Exculpatory clauses are generally enforceable provided that they do not violate the settled public policy of the State or something in the social relationship of the parties militates against upholding the agreement. In this case sub judice, Plaintiff argued that the exculpatory clause must be held to be contrary to public policy because a housing shortage caused landlords to have superior bargaining power. However, the Illinois Supreme Court rejected this argument. Plaintiff did not show that she looked for apartments elsewhere or attempted to negotiate with the defendant to modify or eliminate the exculpatory clause. Therefore, the exculpatory clause is enforceable, and Plaintiff’s action is barred.
+
+Dissent
+The majority ignores the facts in evidence, specifically that even though Plaintiff did not negotiate for the removal of the exculpatory clause; Defendant admitted that an apartment would not be rented if a person refused to sign the form lease. The exculpatory clause should not be enforced since the parties occupy vastly different bargaining positions.
+
+Discussion
+Exculpatory clauses absolving a party of liability are generally enforced unless against public policy.
+

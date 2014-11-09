@@ -1,0 +1,24 @@
+Citation
+545 U.S. 119 (2005)
+
+Brief Fact Summary
+A class action which sought declarative and injunctive relief against the Norwegian Cruise Line Ltd (NCL) (D) under the Title III of the ADA, which prohibits discrimination based on disability was filed by disabled individuals (P) and their companions (P) who had bought tickets for round-trip cruises from a U.S. port.
+
+Synopsis of Rule of Law
+The Title III of the Americans with Disabilities Act does not seek to regulate a vessel’s internal affairs but it is applies to foreign-flag ships in U.S. waters.
+
+Facts
+With its principal place of business in Miami, Florida, NCL (D), a Bermuda Corporation, operated cruise ships that departed from and returned to port in the United States. A large chunk of the company’s revenue came from the U.S but almost all of NCL’s (D) vessels were registered in other countries. A class action was brought against the cruise company by disabled individuals (P) and their companions (P) who had purchased tickets for round-trip cruises from a U.S. port.
+
+Issue
+Does the Title III of the Americans with Disabilities Act seek to regulate a vessel’s internal affairs and does it applies to foreign-flag ships in U.S. waters?
+
+Held
+(kennedy, J.) Yes.  The Title III of the Americans with Disabilities Act does not seek to regulate a vessel’s internal affairs but it is applies to foreign-flag ships in U.S. waters. It is only when the of the United States or its citizens  rather than the interest internal to the ship are at stake that the general statutes are presumed to apply to conduct that takes place aboard a foreign-flag vessel in U.S. territory.
+
+Dissent
+(Scalia, J) It is when laws interfere with the regulation of a ship internal order that the clear-statement rule comes into play and this is designed to promote international comity and avoid international discord. It is not applicable in situation whereby the pervasive regulation of the internal order of a ship is not present.
+
+Discussion
+Unlike the statute’s unambiguous general terms, the clear-statement rul is an implied limitation and operates much like other implied rules, which avoid applications of otherwise unambiguous statutes that would intrude on sensitive domains in a way that Congress is unlikely to have intended had it considered the matter.
+

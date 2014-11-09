@@ -1,0 +1,27 @@
+Citation
+130 S. Ct. 2011 (2010)
+
+Brief Fact Summary
+Graham (D), a 17 years old was arrested for a home invasion and attempted robbery while he was on probation for attempted robbery. He was sentenced to life imprison without the possibility of parole after he was found guilty.
+
+Synopsis of Rule of Law
+A sentence of life imprisonment without parole, meted out on a minor for a non-homicidal offense is unconstitutional
+
+Facts
+Graham (D), aged 17, was apprehended for breaking into a house with two accomplices while he was still on parole for attempted robbery. While his accomplices ransacked the house looking for money, they held two men at gunpoint. Luck ran out of Graham (D) when he dropped off one of his accomplices after he sustained a gunshot wound. Among other counts, Graham (D) was charged by the state of Florida (P) with home invasion robbery. Since the state of Florida had previously abolished its parole system at the time the court meted out the maximum sentence of life imprisonment on Graham (D), this sentence constituted a life sentence without the possibility of parole. A petition for habeas corpus for the review of his sentence was filed by Graham (D) in the federal court and his case eventually came before the Supreme Court of the United States.
+
+Issue
+Is a sentence of life imprisonment without parole meted out on a minor for a non-homicidal offense constitutional?
+
+Held
+(Kennedy, J.) Yes. A sentence of life imprisonment without parole, meted out on a minor for a non-homicidal offense is unconstitutional. The Court consider firstly, the objective indicia of society’s standard expressed in legislative enactment and state practice and also determines whether there is a national agreement against the current sentencing norm when adopting a new categorical rule for an entire class of criminal defendants. A determination based upon precedents and its understanding of the Eighth Amendment’s text, history and meaning is made by the court. In this particular case, a life imprisonment sentence without the possibility of parole for juveniles in non-homicidal cases is a disproportionate sentence and it is therefore unconstitutional because life sentence without parole are similar to death sentences.
+
+Dissent
+(Thomas, J.) the branch of government to decide such questions is the central issue in this particular case. The evidence available shows that most states seek to retain the option of punishing juveniles with life without the possibility of parole. This widespread legislative intent  should be deferred by the Court.
+
+Concurrence
+(Roberts, C.J.) The sentence meted out on Graham (D) violated the Eighth Amendments. The criminal justice system requires sentencing judges to use their discretion reasonably in handling each case before them and the lower court must bear it in mind that juveniles are less culpable than adults that commit similar crimes. However, the categorical rule adopted by the court is not justified in this case.
+
+Discussion
+The Court in 2012, prolonged the Graham holding by prohibiting life sentences without parole for juveniles convicted of murder in Miller v. Alabama, 132 S. Ct. 1733 (2012).
+

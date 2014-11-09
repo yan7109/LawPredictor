@@ -1,0 +1,21 @@
+Citation
+607 So. 2d 55, 1992 Miss. 443
+
+Brief Fact Summary
+Credithrift of America, Inc., (Respondent), held a second deed of trust securing future advances on a property owned by Hobart W. Gentry, Jr. and Georgia C. Gentry.  Respondent made an advance after Thomas E. Shutze, (Petitioner), perfected a judgment lien on the same property. Petitioner appeals the Chancery Court decision to enforce the future advance clause and assign its lien a priority relating back to the original deed of trust.
+
+Synopsis of Rule of Law
+The lien securing the future advance takes its date from the recording of the original deed of trust and by operation of law reaches forward to secure the advance made after intervening rights became perfected.
+
+Facts
+Hobart W. Gentry, Jr. and Georgia C. Gentry owned a residence subject to the lien of a deed of trust. Deposit Guaranty Mortgage Company was the beneficiary of this lien. Deposit Guaranty Mortgage Company held a valid and perfected first lien and security interest in the property. The Gentrys negotiated a second mortgage with Respondent. The Gentry’s executed and delivered a second deed of trust conveying a security interest in the property to a trustee for the benefit of Respondent. The deed of trust contained a “dragnet clause” securing future advances. Three years later, Petitioner obtained a judgment against Howard W. Gentry, Jr. Eleven months later, Respondent made a future advance to the Gentrys. The parties dispute their respective rights in terms of priority with regard to Respondent’s future advance made after Petitioner perfected his judgment lien.
+
+Issue
+Whether “dragnet clauses” are valid and enforceable in Mississippi. Whether a lien securing a future advance takes its date from the recording of the original deed.
+
+Held
+Yes. “Dragnet clauses” are valid and enforceable in Mississippi. Yes. The lien securing the future advance takes its date from the recording of the original deed, which in this case occurred three years prior to Petitioner’s perfected judgment lien.
+
+Discussion
+Dragnet clauses are enforceable and valid just like any other provision in a contract and are subject only to conventional contract defenses. Dragnet clauses make available additional funds without having to execute additional security documents saving time and costs.
+

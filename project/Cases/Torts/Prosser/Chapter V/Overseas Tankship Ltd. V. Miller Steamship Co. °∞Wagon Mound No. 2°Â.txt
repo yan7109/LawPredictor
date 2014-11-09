@@ -1,0 +1,21 @@
+Citation
+Privy Council 1966.
+
+Brief Fact Summary
+The defendants negligently caused oil to spill into the Port of Sydney. This spill did minimal damage to the plaintiff’s ships. The oil subsequently caused a fire when molten metal dropped into the water and ignited cotton waste floating in the port. The fire destroyed the ships.
+
+Synopsis of Rule of Law
+If a party did nothing to prevent the injury, he is liable for the foreseeable consequences of his actions, even if the consequences are remote.
+
+Facts
+The defendants are the owners of the vessel Wagon Mound, which was moored 600 feet from a wharf. The plaintiffs are owners of ships docked at the wharf. Due to the defendant’s negligence, furnace oil was discharged into the bay causing minor injury to the plaintiff’s ships. However, the oil was then ignited when molten metal dropped from the wharf and came into contact with cotton waste floating on the water’s surface. The fire that resulted seriously damaged the wharf and two of the plaintiff’s ships.
+
+Issue
+Whether the fire, which was found to be foreseeable to the reasonable man, was reasonably foreseeable to the extent liability attaches.
+
+Held
+If a reasonable man can foresee and prevent the risk, then he is liable for the foreseeable damages.
+
+Discussion
+Based on the trial court’s findings, it is true that the Wagon Mound’s operators would have foreseen that oil spilling into the harbor had a possibility of causing a fire, but would have only a very low probability. A fire could only result under exceptional circumstances. However, because the risk of fire was foreseeable, the defendants bore a duty to prevent the risk, even if the risk was a remote possibility.
+

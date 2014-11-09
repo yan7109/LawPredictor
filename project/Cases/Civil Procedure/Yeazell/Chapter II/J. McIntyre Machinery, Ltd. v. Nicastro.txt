@@ -1,0 +1,27 @@
+Citation
+131 S. Ct.2780 (2011)
+
+Brief Fact Summary
+The case in New Jersey state court was between an injured worker and the foreign company which manufactured the machinery that injured him. The company disputed the state’s right to exercise its jurisdiction over the case.
+
+Synopsis of Rule of Law
+The general principle in products liability cases is that the power of a court is not lawful unless the defendant willfully chooses to conduct its activities in the concerned state, in order to make use of the benefits and protection provided by the state. This rule is not rendered void by the stream-of-course doctrine.
+
+Facts
+A worker named Robert Nicastro (P) was working with a metal-shearing machine manufactured by J. McIntyre Machinery, Ltd. (D) when he injured his hand. The manufacturer is incorporated in England, and operates from there. The machine was also manufactured in England. The injury occurred in New Jersey. Nicastro (P) sued the company in New Jersey. J. McIntyre Machinery, Ltd. (D) was held by the New Jersey Supreme Court to be under its jurisdiction for the following reasons: its machines were sold in New Jersey, its representatives were present in their official capacity at a scrap recycling convention held for advertising purposes in New Jersey, four of the company’s machines were in New Jersey, and the company  was responsible for guiding the local dealer’s sales and advertising efforts.
+
+Issue
+Can the stream-of-commerce principle in products liability cases be held to be more important than the rule that the power exercised by a court is not lawful unless the defendant has willingly chosen to make use of the benefits and protection provided by the concerned state, by locating its activities in that state?
+
+Held
+(Kennedy J.) No. the stream-of-commerce rule in products liability cases does not mean that the rule regarding the exercise of judicial power to be unlawful unless the defendant has chosen on purpose to base his activities in the forum state, in order to avail of the state’s benefits and protection, is to be ignored. The New Jersey Supreme Court held that the manufacturer was under the jurisdiction of the state, since they knew or should have known under existing circumstances that the possibility existed of its products being sold in New Jersey, since the products were distributed through a system extending throughout the country. This principle was held in the case of Asahi Metal Industry Co. v. Superior Court of Cal., Solano County, 480 U.S. 102 (1987). Based on this test the New Jersey Supreme Court decided that the British manufacturer was subject to the state’s jurisdiction, even though it had not purposefully availed itself of the state’s benefits or protection for its business. When an individual or corporation is based outside a state, they have a normal right unless proved to the contrary, to be exempt from being judged by its courts, in general. Unless the individual or jurisdiction expressly agrees to be under the state’s authority, or is a citizen of that state or has a residence there, or has a presence in that state at the time the suit is filed, or is incorporated in that state, there is no indication of any intention to be subject to the laws of that state. This rule has an exception in the stream-of-commerce principle, according to which, the intent of the corporation or individual to submit to and avail themselves of the state’s laws, protection and benefits is sufficiently shown by their placing their goods into the stream of commerce, expecting these products to be purchased by consumers from this state as well. But for this to hold good, it must be proved that the business activities amount to a purposeful intention to be under the state’s sovereignty. In the present case, J. McIntyre (D) had a marketing and sales strategy directed at the United States in general without being directly intended for New Jersey. This means that a federal US court might have jurisdiction over the manufacturer (D), but not so for the New Jersey state court, considering the relevant purposeful contact in this case to be that between J. McIntyre (D) and the state of New Jersey, and not with the United States. Since this type of purposeful contact directed at New Jersey is missing, the state courts of New Jersey had no jurisdiction to hear the case. The decision was reversed.
+
+Dissent
+(Ginsberg J.) The principle of personal jurisdiction has been established in the International Shoe Co.v.Washington, 326 U.S. 310 (1945). The petitioner J.McIntyre (D) took steps to fulfill its aim of building a market for its products in the U.S. market, without regard to the place of domicile or operation of the purchasers. Thus it is subject to the above principle.
+
+Concurrence
+(Breyer, J.) The judgment is a correct one and based on precedent rather than a new general rule to limit jurisdiction. So far no precedent exists to show that a single isolated sale, even if other sales do exist, is enough to prove purposeful conduct aimed at submitting the manufacturer to state laws. There is a failure on the part of Nicastro (P) to provide
+
+Discussion
+In this case three judges voted to reverse the earlier decision on the basis of a new and stricter rule limiting jurisdiction, three others voted on the basis of precedent and three others voted to reverse the earlier decision on the basis of precedent with a new rule as well. It is therefore difficult to identify a reliable rule.
+

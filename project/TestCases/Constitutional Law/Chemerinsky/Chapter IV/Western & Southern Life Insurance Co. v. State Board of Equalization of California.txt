@@ -1,0 +1,21 @@
+Citation
+451 U.S. 648, 101 S. Ct. 2070, 68 L. Ed. 2d 514, 1981 U.S.
+
+Brief Fact Summary
+The Plaintiff, the Western & Southern Life Insurance Company (Plaintiff), challenged a California law that imposed a tax on out of state insurers. The Plaintiff argued that the law violated the United States Constitution’s (Constitution) Commerce Clause.
+
+Synopsis of Rule of Law
+Congress, pursuant to the Constitution, may give States the power to enact laws that restrict the flow of interstate commerce.
+
+Facts
+California, pursuant to a law promulgated by Congress, enacted a law imposing a retaliatory tax on out-of-state insurers. The tax applied when an out-of-state insurer’s state of incorporation imposed higher taxes on California insurers doing business in the state than California would otherwise impose on that state’s insurers doing business in California. The Plaintiff challenged the statute arguing it violated the Constitution’s Commerce Clause. The California Superior Court ruled the tax unconstitutional, but the California Court of Appeals reversed that decision.
+
+Issue
+Can Congress give the States the power to enact laws that restrict the flow of commerce?
+
+Held
+Yes, the one exception to the dormant Commerce Clause is that Congress may authorize certain State laws. “If Congress ordains that the States may freely regulate an aspect of interstate commerce, any action taken by a State within the scope of congressional authorization is rendered invulnerable to a Commerce Clause challenge.”
+
+Discussion
+The Constitution grants Congress the authority to regulate Commerce among the states. Therefore, Congress may confer upon the States the ability to restrict the flow of commerce.
+

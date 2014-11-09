@@ -1,0 +1,18 @@
+Citation
+478 U.S. 1, 106 S. Ct. 2735, 92 L. Ed. 2d 1, 13 Med. L. Rptr. 1001 (1986)
+
+Brief Fact Summary
+Press-Enterprise Co. sought release of a transcript of a murder trial.
+
+Synopsis of Rule of Law
+“If the interest asserted is the right of the accused to a fair trial, the preliminary hearing shall be closed only if specific findings are made demonstrating that first, there is a substantial probability that the defendant’s right to a fair trial will be prejudiced by publicity that closure would prevent and, second, reasonable alternatives to closure cannot adequately protect the defendant’s free trial rights.”
+
+Facts
+Nurse Robert Diaz was charged with 12 counts of murder.  The State of California moved to exclude the public from the proceedings, which was granted.  After the hearing, petitioner Press-Enterprise Company asked that a transcript be released.  Initially, the Magistrate refused.  The State subsequently moved for release of the transcript, and the petitioner joined.  The Superior Court held there was “a reasonable likelihood that release of all or any part of the transcript might prejudice the defendant’s right to a fair and impartial trial.”  Petitioner filed a preemptory writ of mandate.  Diaz waived his right to a jury trial, and the Superior Court released the transcript.
+
+Issue
+“[W]hether petitioner has a First Amendment right of access to transcripts of a preliminary hearing growing out of a criminal prosecution.”
+
+Held
+Yes.  The California Supreme Court had decided that “the primary right [of the defendant] is the right to a fair trial and that the public’s right of access must give way when there is conflict.”  The United States Supreme Court did not agree.  In this case, because the defendant had requested a closed preliminary hearing, “the right asserted
+

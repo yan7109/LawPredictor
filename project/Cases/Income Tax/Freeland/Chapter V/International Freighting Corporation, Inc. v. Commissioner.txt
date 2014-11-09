@@ -1,0 +1,21 @@
+Citation
+135 F.2d 310,1943 U.S. App. 3268, 43-1 U.S. Tax Cas. (CCH) P9334; 30 A.F.T.R. (P-H) 1433
+
+Brief Fact Summary
+Taxpayer paid employees bonuses in the form of stock, and attempted to deduct from income the fair market value of the stock awarded as bonuses.  The fair market value of the stock was $24,858 and the cost to Taxpayer was $16,153.
+
+Synopsis of Rule of Law
+Gain from the sale or other disposition of property shall be the excess of the amount realized over the adjusted basis.
+
+Facts
+Taxpayer had an arrangement to pay certain employees bonuses in the form of common stock of the DuPont company.  Taxpayer paid over and distributed 150 shares of common stock at a cost of $16,153.36.  The market value was $24,858.75.  Each of the employees paid a tax on the stock.  Taxpayer deducted $24,858.75 in its income tax return.  The Commissioner reduced the deduction to $16,153.36 arguing that the basis for determining the amount is the cost of the property and not the fair market value.  Before the Tax Court, the Commissioner argued that if Taxpayer were entitled to a deduction in the amount of $24,858, then Taxpayer realized a gain that should be reported as taxable profit.  The Tax Court held that the Taxpayer was entitled to the full deduction and that the profit should count as gross income.
+
+Issue
+May the fair market value of the stock be deducted and is the gain taxable?
+
+Held
+Circuit Judge Frank issued the opinion for the United States Sixth Court of Appeals in affirming the order of the Tax Court and holding that the market value was the stock was properly deductible and it was taxable gain.
+
+Discussion
+The payment of the stock deleted the Taxpayer’s assets in an amount equal to the fair market value.  There was a taxable gain on the difference between the market value and the cost of the shares.
+

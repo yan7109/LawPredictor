@@ -1,0 +1,21 @@
+Citation
+8 N.Y.2d 165, 168 N.E.2d 520, 203 N.Y.S.2d 74, 1960 N.Y.
+
+Brief Fact Summary
+Ando, a New York City police officer, was injured when a vehicle driven by Nichols struck the officer’s motorcycle, while Nichols was attempting to turn left.
+
+Synopsis of Rule of Law
+Generally, all facts with rational probative value are admissible unless some specific rule prohibits it.
+
+Facts
+Ando, a New York City police officer, was injured when a vehicle owned by Woodberry, and driven by Nichols, struck the officer’s motorcycle.  Nichols was attempting to turn left at the time of the accident.  Nichols was ticketed for failing to make a proper turn and for failing to signal before turning.  Nichols plead guilty and paid fines on both citations.  There were only two witnesses to the accident, Ando and Nichols.  At the negligence trial, after Nichols claimed that he did signal and was not negligent, Ando tried to put on evidence that Nichols’ plea of guilty in traffic court constituted an admission.  The trial court did not allow that evidence, and a jury returned a verdict in favor of Nichols.
+
+Issue
+Whether the court erred in excluding evidence of Nichols’ guilty plea?
+
+Held
+The New York Court of Appeals (”Court of Appeals”) held that a guilty plea to a traffic violation is admissible as proof of negligence in a subsequent civil action.  The Court of Appeals noted that a defendant in a negligence action is entitled to explain the plea, allowing the jury to decide whether to afford any weight to the guilty plea.  The Court of Appeals relied on a well-settled law that, as a general rule, all facts with rational probative value are admissible unless some specific rule prohibits it.  The Court of Appeals addressed Nichols’ claim that the jury would be unduly prejudiced if the evidence of guilty were introduced, by rationalizing that to preclude the evidence would underestimate “the intelligence of jurors and overlook their awareness of those very circumstances said to destroy the meaning and significance of the plea.”
+
+Dissent
+The procedures of the State of New York may not recognize a nolo contendere plea, but most persons who plead guilty to a traffic infraction intend to do
+

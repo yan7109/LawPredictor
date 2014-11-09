@@ -1,0 +1,21 @@
+Citation
+900 F.2d 369, 283 U.S. App. D.C. 385 (D.C. Cir. 1990)
+
+Brief Fact Summary
+The Federal Aviation Administration (FAA) established Penalty Rules that set forth a schedule of civil penalties for violations of the Federal Aviation Act (Act) without first giving notice and an opportunity to comment.
+
+Synopsis of Rule of Law
+Section:553(b)(A) of the Administrative Procedure Act (APA) provides an exception to the notice and opportunity to comment exception for “rules of agency organization, procedure or practice.”
+
+Facts
+The FAA dispensed with notice and comment procedure before promulgating its Penalty Rules, claiming that they fell under the Section:553(b)(A) exception and were exempt from those requirements. Air Transport Association of America (Petitioner) contended that the Penalty Rules were invalid because the FAA failed to comply with the notice and comment requirements of the APA.
+
+Issue
+Was the FAA required to give notice and an opportunity to comment before promulgating its civil penalty rules?
+
+Held
+Yes.   The Penalty Rules fell outside the scope of Section:553(b)(A) because they substantially affected a civil defendant’s right to an administrative adjudication. Under both the APA and the due process clause, a party has a right to notice and a hearing before being forced to pay a monetary penalty.   Dissent. The APA intended to distinguish between substantive and procedural rulemaking, and the majority abandoned that distinction.  Concurrence. None.
+
+Discussion
+To determine whether a particular rule is procedural or substantive under Section:553(b)(A), courts must employ a functional analysis. If a “procedural” rule encodes a substantive value judgment or substantially alters the rights or interests of the regulated parties, the rules must be preceded by notice and an opportunity to comment.
+

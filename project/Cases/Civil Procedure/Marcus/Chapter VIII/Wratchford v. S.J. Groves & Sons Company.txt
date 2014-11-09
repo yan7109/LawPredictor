@@ -1,0 +1,21 @@
+Citation
+405 F.2d 1061, 1969 U.S. App. 12 Fed. R. Serv. 2d (Callaghan) 1; 1969 Neg. Cas. 2d (CCH) P4236
+
+Brief Fact Summary
+This action was initially brought in district court under diversity jurisdiction. Under the Maryland statute, the district court was required to direct a verdict for the defendant when there is insufficient evidence to go to the jury. The evidence showed that the injury could have occurred, with equal probability, in each of two ways, only one of which could be attributed to the Defendant.
+
+Synopsis of Rule of Law
+The federal standard for examining sufficiency of the evidence to go to the jury should be applied in federal diversity actions.
+
+Facts
+After filing a Notice of Appeal, the Plaintiffs filed a motion pursuant to Rule 60(b) of the Federal Rules of Civil Procedure. They contended, for the first time, that the federal statute, as opposed to the Maryland statute should be applied to diversity actions. Although the district court reached the conclusion that in the Fourth Circuit the federal rule, rather than the Maryland state rule, was now to be applied, the court denied the Plaintiff’s motion. In its opinion, the court expressed the appropriateness of this case for clarification on appeal.
+
+Issue
+Whether federal or state statutes should be applied by the court in determining the sufficiency of the evidence to go to the jury?
+
+Held
+The federal standard applies. In this case, there was sufficient evidence on the question of proximate causation to go to the jury.
+
+Discussion
+The federal standard no longer looks to whether the judge believed that it was equally probable that the accident occurred in a way that would make the defendant liable and another that would not. In the case, there was sufficient evidence to permit the jury to find for the plaintiff under the federal statute. The decision of the district court should be reverse
+

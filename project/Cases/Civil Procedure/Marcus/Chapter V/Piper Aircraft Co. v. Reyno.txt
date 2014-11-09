@@ -1,0 +1,21 @@
+Citation
+54 U.S. 235, 102 S. Ct. 252, 70 L. Ed. 2d 419 (1981)
+
+Brief Fact Summary
+In July 1976 a small commercial aircraft crashed in Scotland, killing the pilot and five passengers instantly. The aircraft was manufactured in Pennsylvania by Piper Aircraft Co., and the propellers were manufactured in Ohio by Hartzell Propeller, Inc. The aircraft was registered in Great Britain, owned by Air Navigation and Trading Co., Ltd. (Air Navigation), and operated by McDonald Aviation, Ltd. (McDonald).
+
+Synopsis of Rule of Law
+When an alternative forum has jurisdiction to hear a case, and when trial in the chosen forum would establish oppressiveness and vexation to a defendant out of proportion to the plaintiff’s convenience, or when the chosen forum is inappropriate because of considerations affecting the court’s own administrative and legal problems, the court may, in the exercise of its sound discretion, dismiss the case for forum non conveniens. Gulf Oil Corp. v. Gilbert.
+
+Facts
+After reviewing the crash, the British Department of Trade determined that there was no evidence of defective equipment. In 1977, a California probate court appointed Gaynell Reyno as administratrix of the estates of the five passengers (Plaintiff). Plaintiff filed wrongful death actions against both Piper and Hartzell (Defendants) in the Superior Court of California, claiming negligence and strict liability. Air Navigation, McDonald, and the estate of the pilot were not parties to this case, because Plaintiff had already filed a case against them in the United Kingdom. Plaintiff admitted that this suit was filed in the United States, because its laws regarding liability, capacity to sue, and damages were more favorable to Plaintiff. Scotland did not recognize strict liability actions, and only allowed wrongful death actions to be brought by decedent’s relatives. After the suit was removed to the United States District Court for the Central District of California, Piper filed a Motion to Transfer the action to the United States District Court for the Middle District of Pennsylvania. Hartzel moved to dismiss for lack of personal jurisdiction, or in the alternative, to transfer. The district court quashed service on Hartzel, and transferred the case to Pennsylvania. Service was then properly obtained on Hartzel. In May, 1978, after transfer to Pennsylvania, both Piper and Hartzell moved to dismiss based upon forum non conveniens. The district court granted those motions, but on appeal, based upon the test in Gulf Oil v. Gilbert. The United States Court of Appeals for the Third Circuit reversed and remanded, stating that dismissal is never appropriate when the law of the alternative forum is less favorable to the plaintiff.
+
+Issue
+Did the federal district court err in dismissing the action on the ground of forum non conveniens?
+
+Held
+No. The proper standard for determining whether an action will be dismissed for forum non conveniens was established in Gulf Oil v. Gilbert. Since the decision of the district court complies with the standard established in Gulf Oil v. Gilbert, the decision of the court of appeals shall be reversed. The court of appeals improperly considered the   difference in substantive law between the two forums, when making its decision regarding forum non conveniens.
+
+Discussion
+The court used the private vs. public balancing factor test established in Gulf Oil v. Gilbert. In Piper, the court noted that although, with regard to private interests, the evidence regarding design and manufacture of the plane was present in the United States, however in regard to the public interests, all of the witnesses concerning the maintenance of the aircraft, training of the pilot, investigation of the accident were located in Great Britain, all of the witnesses concerning damages were located in Scotland, the real parties in interest and the decedents were citizens of Scotland. Therefore, the public interests, i.e., the overwhelming majority of the connections were to Scotland, not the United St
+

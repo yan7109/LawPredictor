@@ -1,0 +1,21 @@
+Citation
+253 Fed. Appx. 26 (Fed. Cir. 2007)
+
+Brief Fact Summary
+Par (Plaintiff) asserted broad claims in its patents '318 and '320, the generic version of the BMS Atzinger patent, related to stable flocculated suspension composition.  Plaintiff sued Roxane (Defendant) for infringement, and Defendant argued the claims were not valid due to a lack of enablement.
+
+Synopsis of Rule of Law
+The specifications of a patent application must enable a person skilled in the art to make the invention, and the claims cannot be so broad as to cover unsuccessful examples in an unpredictable field.
+
+Facts
+Bristol-Myers Squibb (BMS) patented a liquid pharmaceutical composition of megestrol acetate (the "Atzinger patent").  The Atzinger patent discloses one stable flocculated suspension composition using megestrol acetate and one particular wetting agent and one particular surfactant.  Pharmaceutical Resources, Inc. and Par Pharmaceuticals, Inc. (collectively, "Par") (Plaintiff) developed a generic version of GMS's product and patented it by using other wetting agents and surfactants.  Par received the '318 and '320 patents.  Based on an alleged infringement of claims of the '318 and '320 patents, Par filed an infringement suit against Defendant.  Defendant argued the claims were invalid because they lacked enablement and moved for summary judgment.  The district court granted summary judgment to Defendant and determined Plaintiff was not entitled to the broad claims asserted.  Plaintiff appealed.
+
+Issue
+Must the specifications of a patent application enable a person skilled in the art to make the invention, excluding claims covering unsuccessful examples in an unpredictable field?
+
+Held
+(Moore, J.)  Yes.  The specifications of a patent application must enable a person skilled in the art to make the invention, and the claims cannot be so broad as to cover unsuccessful examples in an unpredictable field.  The enablement requirements for patents are set forth in 35 U.S.C. § 112.  This court set out the eight factors relevant to the analysis in In re Wands, 858 F.2d 731 (Fed. Cir. 1988): "(1) the quantity of experimentation necessary, (2) the amount of direction or guidance presented, (3) the presence or absence of working examples, (4) the nature of the invention, (5) the state of the prior art, (6) the relative skill of those in the art, (7) the predictability or unpredictability of the art, and (8) the breadth of the claims."  Because of its claims in an admittedly unpredictable field, Plaintiff's specifications must meet a rather high standard.  In this case, all record evidence supports a finding of an unpredictable field including the testimony of Plaintiff's own witness and its argument in its prior litigation with BMS.  The district court's finding that the field was unpredictable is correct.  The district court also concluded Plaintiff's claims were extremely broad.  Hundreds of possible surfactants are included in the claim since it addresses any surfactant in any concentration.  Plaintiff's specifications only include three working examples, which do not provide an enabling disclosure in proportion to these broad claims.  Plaintiff's experts testified that the appropriate surfactant and concentration is critical and does not coincide with the broad specification claims which fail to specify any particular surfactant and no concentration limitation.  Plaintiff's witnesses and the inventor did not provide evidence of enablement because of Plaintiff's unsuccessful attempts to practice the subject matter with the scope of the claims.  Plaintiff put forth only a trace of evidence that the claims were enabled and did not overcome the burden of summary judgment.  Each of the claims asserted in the '318 and '320 patents lack enablement and are therefore invalid.  Affirmed.
+
+Discussion
+Experimentation is a permitted part of a patent specification, but the specification cannot be so extensive as to include any possible variation of the invention, including unsuccessful versions.  The court does not intend to limit the patent to only the working examples shown in the specification, but it also cannot include any possible combination of the invention's limitations.  The invention receives the patent, not all imaginary or impossible versions of the invention.
+

@@ -1,0 +1,21 @@
+Citation
+47 Md. App. 23, 420 A.2d 1285, 1980 Md. App.
+
+Brief Fact Summary
+The Appellants, were high bidders on a piece of property (Appellants). However, the sale of the property failed due to improper procedures by the Appellees, two attorneys (Appellees). The debtor regained the property and Appellants sued the Appellees for losses incurred due to the Appellees’ failure to exercise care and diligence in the sale. The trial court sustained a demurrer by the Appellees, finding that no such duty existed.
+
+Synopsis of Rule of Law
+A plaintiff must be in privity with an attorney or be a third-party beneficiary to a contract in order to maintain an action for professional negligence.
+
+Facts
+The Appellants were the high bidders for property at a foreclosure sale, but both times the Appellees conducting the sale failed to follow proper procedure. Due to this, the sale was set aside. The debtor eventually discharged the loan and Appellants lost the opportunity to acquire the property. They sued the Appellees to recover the loss that resulted from their inability to resell the property at a profit. The action claimed that the Appellees owed the Appellants a duty to use care and diligence and to conduct the sale properly and carefully. The trial court sustained the Appellees’ demurrer without leave, concluding that no such duty existed.
+
+Issue
+Do the attorneys owe the bidders a duty of care when the attorneys were employed by the mortgagee, and not the bidders?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+The privity limitation on negligence suits is still strictly applied for attorneys in most jurisdictions.
+

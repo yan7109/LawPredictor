@@ -1,0 +1,21 @@
+Citation
+408 So. 2d 1095 (Fla.1981)
+
+Brief Fact Summary
+Penthouse, Inc., (Appellant) sued five Sarasota County, Florida county commissioners (Appellee) as individuals over a zoning decision in an action brought under 42 U.S.C.S. Section: 1983. The lower court ruled that Appellees could not be held individually liable for their official acts based upon the facts in the complaint. Appellant sought review.
+
+Synopsis of Rule of Law
+When an official, acting under color of local law, has deprived any person of a right or privilege protected by the United States Constitution or other federal law, he can be held personally liable in damages to the injured party under 42 U.S.C.S. Section: 1983, unless he pleads and establishes, as an affirmative defense, that he acted reasonably and in good faith i.e., with a bona fide and reasonable belief in the constitutional validity of the local law he was enforcing.
+
+Facts
+Appellant brought suit against Appellees alleging that Appellees acted arbitrarily and in violation of county zoning ordinances in withholding approval of Appellant’s plan for a proposed condominium project. The trial court dismissed, holding that Appellees could not be held liable for actions made in their official capacity. The court of appeals affirmed, choosing to clarify the grounds for which they did so.
+
+Issue
+What degree of immunity do government officials have when sued in their official capacity?
+
+Held
+The court affirmed the lower court’s ruling dismissing the Appellant’s action on the ground that the facts in the complaint did not state a cause of action against the Appellees. The alleged acts did not constitute a violation of Fourteenth Amendment rights.
+
+Discussion
+Governmental immunity protects government officials from tort liability. Traditionally, such immunities were absolute and prevented any tort actions against the government. As the court points out in Penthouse, however, “[g]overnment officials no longer enjoy absolute immunity from personal liability for all of their official acts. As the states have gradually withdrawn the sovereign immunity of governmental units, so, too, have Congress and the federal courts narrowed the immunity of individual officials. The degree of immunity varies, depending upon the nature of the act.” The court maintains that there are instances where public officials are not protected absolutely by the cloak of immunity, but rather enjoy a lesser, or a qualified, immunity. Such immunity, the court notes “is a question of fact and, when properly presented, cannot be resolved summarily.” Thus, while affirming the lower court’s conclusion, the court of appeals cautioned that its reasoning was erroneo
+

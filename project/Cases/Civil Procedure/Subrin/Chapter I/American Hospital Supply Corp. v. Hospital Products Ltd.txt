@@ -1,0 +1,24 @@
+Citation
+780 F.2d 589, 1986 U.S. App. 21678
+
+Brief Fact Summary
+Defendant, Hospital Products, Ltd., seeks to overturn a preliminary injunction granted by the district court that forces Defendant to follow their contract with Plaintiffs, American Hospital Supply Corp.
+
+Synopsis of Rule of Law
+When determining whether a preliminary injunction should be granted, a court should follow the formula P x Hp > (1-P) X Hd, wherein the probability of the plaintiff winning is multiplied by their potential hardship, and determining if it is greater than a defendant’s hardship multiplied by their probability of winning.
+
+Facts
+Plaintiff and Defendant had a contract in effect for three years that required Defendant supplier to use Plaintiff as their distributor.  The contract would automatically renew each year, and either party could terminate the agreement by notifying the other party at least 90 days before the contract entered a new year of existence.  Plaintiff contacted Defendant to ensure that the contract would be renewed, and Defendant waited until one day after the 90-day period expired to notify Plaintiff that they wanted to end the contract.  Plaintiff was near bankruptcy and had been reliant on Plaintiff for cash infusion prior to the termination.  Plaintiff brought an action for breach of contract and successfully obtained a preliminary injunction against Defendant to enforce the contract.
+
+Issue
+The issue is whether the preliminary injunction granted to Plaintiff should be upheld.
+
+Held
+The court implemented a formula, P x Hp > (1-P) X Hd, that basically restated the traditional balancing factors in a mathematical format.  The court then affirmed the injunction and supported the decision by noting the high probability of Plaintiff’s success at trial and the lack of significant hardship to Defendant versus the hardship to Plaintiff.  The court still applied hardship to the public (which was considered hardship for Defendant for the sake of the formula) and concluded that the left side of the equation was greater (favored Plaintiff’s side).
+
+Dissent
+The dissenting judge favors the traditional four-prong test for granting preliminary injunctions (irreparable harm and no other remedy as equitable; the irreparable harm outweighs the other party; likelihood of success; and no danger to public interest) rather than the proposed formula.
+
+Discussion
+The court attempts to establish a formulaic approach to weighing the traditional factors.  The same factors still apply, and the end result is not significantly different, but the four-prong test is still the majority view in most jurisdictions.
+

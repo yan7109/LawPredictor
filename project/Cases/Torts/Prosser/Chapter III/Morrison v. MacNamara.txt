@@ -1,0 +1,21 @@
+Citation
+407 A.2d 555, 1979 D.C. App.
+
+Brief Fact Summary
+The Plaintiff, Morrison (Plaintiff), was injured when he fell after undergoing a medical test. The test was administered to the Plaintiff while he was standing.
+
+Synopsis of Rule of Law
+A national standard of care is a more modern method for measuring whether a doctor has committed negligence.
+
+Facts
+The Plaintiff patient was given test for a urinary tract infection. The test was administered while the Plaintiff was standing. The Plaintiff had an adverse reaction to the test and fell, hitting his head. The Patient suffered permanent loss of his senses of smell and taste as a result of his fall. At trial, the Plaintiff provided expert testimony from a doctor practicing in Michigan. The doctor stated that the test is always performed while the patient is sitting or prone. The trial court refused to allow the testimony and held that the expert testimony for medical malpractice cases must come from a doctor who practices in the community where the malpractice is alleged, in this case Washington D.C.
+
+Issue
+Whether to use a community based standard or a national standard when determining a professional standard of care.
+
+Held
+The locality rule for expert testimony in medical malpractice cases is antiquated and unnecessary. The court adopts a national rule.
+
+Discussion
+The locality rule developed to protect rural doctors who lacked means of transportation and communication by which they could acquire the same set of skills as urban doctors. But the policy behind the locality rule does not hold true of doctors in the District of Columbia and the disparity between doctors in urban and rural areas has mostly been eliminated. Furthermore, due to the uniformity of the proficiency certifications that are required by national boards, a national standard is more practical.
+

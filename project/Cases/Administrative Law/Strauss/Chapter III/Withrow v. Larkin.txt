@@ -1,0 +1,21 @@
+Citation
+421 U.S. 35, 95 S. Ct. 1456, 43 L. Ed. 2d 712 (1975)
+
+Brief Fact Summary
+A physician in the State of Wisconsin, Withrow (Appellee), challenged the Wisconsin statutes which authorized the State’s Examining Board (Board) to investigate physicians and temporarily suspend their license.
+
+Synopsis of Rule of Law
+Vesting the authority to investigate and adjudicate in the same agency does not violate due process.
+
+Facts
+The State of Wisconsin authorized its Examining Board (Board) to investigate individuals suspecting of practicing medicine without a license or performing other acts of professional misconduct, and to temporarily suspend a physician’s license if there was probable cause to suspect wrongdoing. The Board sent a notice to a physician (Appellee) that a contested hearing would be held to determine whether he had engaged in the prohibit act of performing abortions at his practice in Milwaukee, and to decide whether his license would be temporarily suspended. Appellee moved for a restraining order against the contested hearing, the District Court granted the motion, and the Board (Appellants) appealed.
+
+Issue
+Did the authority given to Appellants to investigate physicians, present charges, rule on those charges and present punishment (to the extent of reprimanding or temporarily suspending) violate Appellee’s due process rights?
+
+Held
+No. Reversed and remanded. The Board stayed within the accepted bounds of due process.   Having investigated, it issued findings and conclusions asserting the commission of certain acts and ultimately concluding there was probable cause to believe the Appellee had violated the statutes.  The risk of bias and prejudgment was not intolerably high. The initial determination of probably cause and the ultimate adjudication have different purposes; and the fact that same agency makes them in tandem and they relate to the same issues does not result in a procedural due process violation.   Dissent. None.  Concurrence. None.
+
+Discussion
+Both federal and state case law rejects the idea that the combination of investigating and judging functions is a denial of due process, and there are many common examples where this dual role takes place. The Court also pointed out that when the initial decisions of judges and administrators are reversed on appeal, they are directed to confront and decide the same questions a second time on remand. This does not violate due process.
+

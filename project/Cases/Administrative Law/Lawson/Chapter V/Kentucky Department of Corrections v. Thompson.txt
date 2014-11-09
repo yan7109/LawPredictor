@@ -1,0 +1,21 @@
+Citation
+490 U.S. 454, 109 S. Ct. 1904, 104 L. Ed. 2d 506 (1989)
+
+Brief Fact Summary
+Prison inmates challenged their temporary denial of visitation rights by the Kentucky Department of Corrections (Petitioners) in accordance with its “Corrections Policies and Procedures” as unconstitutional.
+
+Synopsis of Rule of Law
+The use of “explicitly mandatory language” in connection with the establishment of “specified substantive predicates” to limit discretion, forces a conclusion that the State has created a liberty interest.
+
+Facts
+The mother of one inmate was denied visitation for six months because she had brought a person with her who had been barred for smuggling contraband. Another inmate’s mother and friend were denied visitation for a limited time when the inmate was found with contraband after their visit. These visitation rights were suspended without a hearing in both instances, which the inmates claimed violated their Fourteenth Amendment liberty interest in receiving visitors.  The Procedures Memorandum on the subject of visiting regulations outlined nine specific reasons for excluding visitors.  The District Court directed Petitioners to develop “minimal due process procedures” for excluding visitors, and the Court of Appeals affirmed.
+
+Issue
+Did the Kentucky prison regulations give state inmates, for purposes of the Fourteenth Amendment, a liberty interest in receiving certain visitors?
+
+Held
+No. Reversed.   The regulations and procedures in this case did provide certain “substantive predicates” to guide the decision-maker, providing that a visitor could be excluded when the officials found reasonable grounds to believe their presence in the institution would “constitute a clear and probable danger to the institution’s security or interfere with its orderly operation.”  However, the regulations stopped short requiring that a particular result be reached upon a finding that the substantive predicates were met. Therefore, the regulations and procedures lacked the requisite relevant mandatory language, and did not establish a liberty interest protected by the Fourteenth Amendment.   Dissent. Mandatory language should not always be an essential element of a state- created liberty interest. This decision would allow correctional authorities to deny visitation for any reason at all.  Concurrence. None.
+
+Discussion
+The Court set forth its guidelines for finding a state-created liberty interest, which were not met in this case.
+

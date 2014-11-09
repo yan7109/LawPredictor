@@ -1,0 +1,21 @@
+Citation
+480 U.S. 102, 107 S. Ct. 1026, 94 L. Ed. 2d 92, 1987 U.S.
+
+Brief Fact Summary
+A person injured in a motorcycle accident sued the manufacturer of the motorcycle’s tire, who then filed a cross-complaint against the manufacturer of one part of the tire.
+
+Synopsis of Rule of Law
+The substantial connection between the Defendant and the forum state necessary for a finding of minimum contacts must come about by an action of the Defendant purposefully directed toward the forum state.
+
+Facts
+Gary Zurcher was severely injured and his wife was killed after he lost control of his Honda motorcycle and collided with a tractor in Solano County, California.  Zurcher filed a products liability in California state court, alleging that the motorcycle tire, tube and sealant were defective.  Zucher’s complaint named Cheng Shin Rubber Industrial, Co., Ltd., the Taiwanese manufacturer of the tube. Cheng Shin then filed a cross-complaint against Asahi Metal Industry Co., Ltd., the manufacturer of the tube’s valve assembly.  Asahi is a Japanese corporation that manufactures tire valve assemblies in Japan and sells them to Cheng Shin and others for use as components in finished tire tubes. Approximately 20 percent of Cheng Shin’s sales in the United States are in California. A manager of Cheng Shin submitted an affidavit alleging that Asahi was aware that parts were sold in the U.S. The president of Asahi submitted an affidavit alleging that Asahi never contemplated that they coul
+
+Issue
+Whether the mere awareness of the part of a foreign Defendant that the components it manufactured, sold, and delivered outside the United States would reach the forum state in the stream of commerce constitutes sufficient minimum contacts rendering jurisdiction appropriate.
+
+Held
+No. The Supreme Court of the United States reversed the Supreme Court of California’s ruling upholding jurisdiction.
+
+Discussion
+In analyzing whether jurisdiction would offend traditional notions of fair play and substantial justice, the court noted that the burden on the Defendant to defend the suit would be severe. Moreover, the court noticed that California’s interest in the suit is slight, since the Plaintiff is not a California resident.
+

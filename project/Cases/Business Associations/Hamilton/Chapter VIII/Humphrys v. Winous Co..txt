@@ -1,0 +1,24 @@
+Citation
+Ohio Sup. Ct., 133 N.E.2d 780 (1956)
+
+Brief Fact Summary
+Winous Co. (D) has separate classifications for each of its three directors, Humphrys (P) alleges that this system deliberately nullifies the effectiveness of cumulative voting.
+
+Synopsis of Rule of Law
+Minority representation on a company’s board of directors is not guaranteed by a statute that prohibits restrictions on the exercise of cumulative voting rights.
+
+Facts
+Winous Co. (D) had three members for its board of directors. There were separate classifications for each directorship so that come reelection, no two would be up for reelection at the same time. Humphrys (P) alleges that this system deliberately nullifies the effectiveness of cumulative voting. State statute guarantees the right to vote cumulatively and prohibits interference of that right. Directorship classification was also authorized in the same statute. The trial court found for Winous Co. (D), but the appellate court reversed. Winous Co. (D) appealed.
+
+Issue
+Does a statute that disallows restrictions on the practice of cumulative voting rights also ensure that minority stockholders are represented on corporation’s board of directors?
+
+Held
+(Bell, J.) No. Minority representation on a company’s board of directors is not guaranteed by a statute that prohibits restrictions on the exercise of cumulative voting rights. The bar association of this state first recognized the power wielded by cumulative voting to restrain oppressive majorities. Cases in other jurisdictions have found cumulative voting may not be negated, but cannot be interpreted as protecting minority representation. Since legislature has chosen to permit directorship classification even though it diminishes the effectiveness of cumulative voting, the court will not prohibit directorship classification. The appellate court erred in finding the classification scheme a breach of statute, but the scheme would be void today due to a code revision that prohibits the creation of classes with fewer than three directors. Reversed.
+
+Dissent
+(Weygandt, C.J.) Legislature could not have intended for weakening of cumulative voting via classification. This is evidenced by the statute’s provision prohibiting interference on the right to vote cumulatively.
+
+Discussion
+Cumulative voting allows the minority shareholders to establish a semblance of representation in a corporation’s board of directors. They permit a shareholder to cast his total number of votes (shares he owns X number of slots to be filled) for one director rather than one vote per share for each vacancy. The formula for election follows, S is the total number of shares voting, D is the number of slots to be filled, and N the number of directors the minority hopes to be able to elect. D + 1 + 1 = number of shares minority shareholders need in order to elect a director.
+

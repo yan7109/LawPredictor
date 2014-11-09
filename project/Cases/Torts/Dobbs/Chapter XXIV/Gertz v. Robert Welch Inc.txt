@@ -1,0 +1,21 @@
+Citation
+459 U.S. 1226, 103 S. Ct. 1233, 75 L. Ed. 2d 467 (1983)
+
+Brief Fact Summary
+The United States Court of Appeals for the Seventh Circuit held that the Petitioner, Elmer Gertz (Petitioner), was a public figure and that the New York Times standard applied in his defamation action. Accordingly, the court of appeals affirmed the district court’s grant of a judgment notwithstanding the verdict in favor of the Respondent publisher, Robert Welch Inc. (Respondent). The Petitioner attorney sought review.
+
+Synopsis of Rule of Law
+Because private individuals have less effective opportunities for rebuttal than do public officials and public figures, they are more vulnerable to injury from defamation. Thus, state interest in compensating injury to the reputation of private individuals is greater than for public officials and public figures, and States may constitutionally allow private individuals to recover damages for defamation on the basis of any standard of care except liability without fault.
+
+Facts
+After a policeman killed a youth, the youth’s family retained the Petitioner an attorney to represent them in a civil action. In a magazine called American Opinion, the John Birch Society accused the Petitioner of being a “Leninist” and a “Communist-fronter” because he chose to represent clients who were suing a law enforcement officer. Because the statements contained serious inaccuracies, the Petitioner filed a libel action against the Respondent. The district court held that the New York Times standard applied, which meant that the Respondent escaped liability unless the Petitioner proved that a defamatory falsehood was published with actual malice. The district court entered judgment for the Respondent and the court of appeals affirmed.
+
+Issue
+Does the standard enunciated in New York Times v. Sullivan requiring a plaintiff to establish actual malice to successfully bring a defamation suit against a public figure extend to private individuals?
+
+Held
+No. The Supreme Court of the United States (Supreme Court) reversed and remanded. Because the Petitioner was not a public figure, the state’s interest in compensating injury to his reputation required a different standard from that formulated in New York Times. The Supreme Court held further that the states could define for themselves the appropriate standard of liability for a publisher or broadcaster of defamatory falsehood injuries to a private individual.
+
+Dissent
+The ruling in Gertz elicited four dissenting opinions – in a 5-4 vote.
+

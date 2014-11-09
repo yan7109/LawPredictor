@@ -1,0 +1,27 @@
+Citation
+Utah Sup. Ct., 588 P.2d 689 (1978)
+
+Brief Fact Summary
+Searle Bros. (P) claimed a half-share in Slaugh House, rights to which had been granted to Searle (D) during divorce proceedings.
+
+Synopsis of Rule of Law
+If two persons share identical interest such that either of them represents the same legal right, they are privies.
+
+Facts
+During the divorce proceeding between Edlean Searle (D) and Woodey Searle, a piece of property called the “Slaugh House” which stood in Woodey’s name was determined in court to be part of the couple’s shared property. The property was awarded in whole to Edlean Searle (D). Woodey pleaded a half interest in the property, while the other half belonged to Searle Bros.(P),  a partnership between Woodey and his sons. Searle Bros.(P) then filed suit against Edlean Searle (D),claiming that it had an undivided half-share in the house. The trial court decided that the matter was res judicata and collateral estoppel meant that the issue of property interest in Slaugh House had already been determined during the divorce litigation, so that no subsequent litigation could be brought by Searle. Bros. (P).
+
+Issue
+If two persons are so identified in interest that either of them represents the same legal right as the other, are they in privity?
+
+Held
+(Ellett, J.) Yes. A divorce decree is a final judgment and thus res judicata applies to all parties to the suit and those in privity to them. A person in privity with another is one who represents the same legal interest and right as the other. As far as property is concerned in this definition, this includes a mutual or successive right to property of the other. In this case, where the interest in Slaugh House is considered, Searle Bros. (P) does not have either mutual or successive right. Searle Bros. (P) does not share the interest owned by Woodey Searle in the house, but claims its own separate and independent partnership interest in an undivided half-share of the property named. Searle Bros. (P) is thus not in privity with Woodey Searle. The rule of collateral estoppel, which means any issue disposed of finally in one suit is binding upon all subsequent litigation between the parties to the suit as far as that issue is concerned, does not apply here as Searle Bros.(P) is not a partner to the first suit, and its property interest in Slaugh House has not yet been determined in any court. The decision was reversed and the case remanded.
+
+Dissent
+(Crockett, J.) The doctrine of collateral estoppel should apply to the suit by Searle Bros. (P) to disallow it. The family were all involved in the divorce case, including any property interest in the family assets. Searle Bros. (P) was also well aware that the claims being asserted to the Slaugh House were adverse to its interests.
+
+Concurrence
+N/A
+
+Discussion
+Both res judicata and collateral estoppel can apply here, if Searle Bros. (P) was in privity with the parties to the divorce suit. In such a case, they would have the same causes of action.
+

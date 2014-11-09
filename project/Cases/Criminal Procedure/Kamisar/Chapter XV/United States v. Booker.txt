@@ -1,0 +1,24 @@
+Citation
+543 U.S. 220, 125 S. Ct. 738, 160 L. Ed. 2d 621 (2005)
+
+Brief Fact Summary
+This opinion comes from the consolidation of two cases dealing with sentencing enhancement.
+
+Synopsis of Rule of Law
+It is in violation of the Sixth Amendment right to a trial by jury to allow a judge to enhance a sentence using facts not reviewed by the jury.
+
+Facts
+Following sentencing guidelines, a federal district court judge enhanced Booker’s sentence based on the facts the judge determined.  Booker appealed the enhancement as in violation of his Sixth Amendment rights.  In another case, according to sentencing guidelines, Fanfan could have been given an enhanced sentence, but the judge decided not to enhance, due to Supreme Court case law tat rules the Sixth Amendment right to trial by jury requires judges to use only the fact proved to a jury to increase a sentence beyond the standard range.  In that case, the government sought an appeal, and both cases were consolidated for decision.
+
+Issue
+This case presents a two pronged issue:
+
+Held
+The court held that where the sentencing guidelines allow judges to enhance sentences using facts not reviewed by juries it is a violation of the Sixth Amendment right to trial by jury.  The guidelines were not altogether unconstitutional, but would be considered advisory as opposed to mandatory.
+
+Dissent
+Justice Stevens dissented, noting that their decision repealed the Sentencing Reform Act and took away the Congressional right to determine sentencing.  Justice Scalia also dissented, noting that by overturning the Sentencing Guidelines, the Court is effectively allowing for a litany of different sentences, all for the same crime.
+
+Discussion
+While there are several opinions to this case, the outcome is simple: a judge cannot use evidence, other than that which is presented to a jury, to enhance sentencing or a defendant’s Sixth Amendment rights will be violated
+

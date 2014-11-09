@@ -1,0 +1,21 @@
+Citation
+129 Ariz. 385, 631 P.2d 540 (Ct. App. 1980)
+
+Brief Fact Summary
+An Arizona trial court granted partial summary judgment to the property owners by quieting title to the property and awarding attorney fees. The developer appealed.
+
+Synopsis of Rule of Law
+The parol evidence rule renders inadmissible any evidence of prior or contemporaneous oral understandings and of prior written understandings, which would contradict, vary or add to a written contract, which was intended as the final and complete statement or integration of the parties’ agreement.
+
+Facts
+TRW purchased 40 acres of property from Pinnacle Peak for residential housing. Their agreement required TRW to make improvements, including the building of roads and utility installation, by a certain date. TRW had an option to purchase additional acreage contingent on the completion of the above-mentioned improvements. The deadline for the option arrived, the improvements having been completed, and Pinnacle considered the option expired. TRW claimed that Pinnacle had fraudulently induced to forego the improvements, and thus the option period was still open. TRW alleged that it was induced to enter into the purchase and option agreement, relying on Pinnacle Peak’s promise that the non-completion of improvements in question would not be an impediment in the exercising of the option if significant progress towards completion had been made. Thus, they argued, Pinnacle had falsely represented their position. The trial court granted partial summary judgment to Pinnacle.
+
+Issue
+Did the parol evidence rule apply, thus barring the admission of alleged oral representations that were made prior to the execution of the option contract?
+
+Held
+Yes. The court held that the parol evidence rule did indeed apply
+
+Discussion
+In Pinnacle, Judge (later Justice) Sandra Day O’Connor, writing for the Arizona Court of Appeals, addresses what she termed “the confusion which exists in the judicial opinions in this state and elsewhere on the question of application of the parol evidence rule to allegations of promissory fraud when it contradicts or varies the terms of the written agreement of the parties.”
+

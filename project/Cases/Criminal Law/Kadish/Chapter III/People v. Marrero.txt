@@ -1,0 +1,24 @@
+Citation
+69 N.Y.2d 382, 515 N.Y.S.2d 212, 507 N.E.2d 1068 (1987)
+
+Brief Fact Summary
+Defendant Marrero was arrested for unlicensed possession of a loaded pistol in violation of a provision of a statute that made such possession a crime but which also exempted “peace officers”. Defendant raised a mistake of law defense but was convicted nonetheless. Defendant contended that he had reasonably believed that the statutory exemption applied to him given the fact that he was a Federal Corrections Officer.
+
+Synopsis of Rule of Law
+Mistake of law regarding a statutory definition is not a valid defense unless the mistaken belief is based on an official statement of the law contained in a statute or issued by a public servant.
+
+Facts
+Defendant, a Federal Corrections Officer, was arrested for unlicensed possession of a loaded pistol in violation of a statute that made such possession a crime but which also exempted “peace officers”. Peace officers were defined in the Statute in question as “correction officers of any state correctional facility or of any penal correctional institution.” Defendant advanced a mistake of law defense. Specifically, he argued that he had reasonably believed himself to have been included in the exemption for peace officers. Defendant was convicted and timely appealed.
+
+Issue
+Does a defendant’s subjective mistake of fact with regard to his/her understanding of a statutory prohibition excuse the criminal conduct?
+
+Held
+No. Conviction affirmed.
+
+Dissent
+The majority reads the statute in question as precluding any defense of mistake of law. The purpose of the criminal justice system is to punish and deter an individual’s choosing freely to do wrong. Therefore, where an individual is mistaken as to the wrongfulness or illegality of an action and therefore did not intend to do a wrong, that individual should not be punished. The dissent objects to punishing an individual who in good-faith reliance on the wording of a statute, believed that the acts committed were lawful. In this case, the defendant’s mistaken belief was made in reliance on a definition contained in the statute itself and therefore the dissent believes that the mistake was in fact founded on an official interpretation.
+
+Discussion
+This case illustrates the courts’ reluctance to allow a mistake of law defense based on its concern that to allow such a defense would encourage ignorance.
+

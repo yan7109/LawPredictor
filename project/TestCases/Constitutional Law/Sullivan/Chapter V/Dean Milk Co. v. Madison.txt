@@ -1,0 +1,24 @@
+Citation
+340 U.S. 349,71 S. Ct. 295,95 L. Ed. 329,1951 U.S.
+
+Brief Fact Summary
+A city ordinance prohibiting the sale of pasteurized milk not processed and bottled in a pasteurization plant within five miles of Madison, Wisconsin is invalid because it imposes an undue burden on interstate commerce.
+
+Synopsis of Rule of Law
+A city ordinance that places a discriminatory burden on interstate commerce that is not essential for the protection of local health interests violates the commerce clause.
+
+Facts
+The city of Madison, Wisconsin enacted an ordinance that barred the sale of pasteurized milk unless it had been pasteurized and bottled at an approved pasteurization plant within five miles of Madison’s central square. Of the five processing plants within the allowed distance, only three of them did business in Madison. Plaintiff, Dean Milk, a processing plant in Illinois, challenged the ordinance, claiming that it violated the commerce clause. The highest state court rejected the commerce clause attack.
+
+Issue
+Whether the discrimination inherent in the Madison, Wisconsin ordinance can be justified in view of the character of the local interest and the available methods of protecting them.
+
+Held
+No. Judgment of the highest state court reversed. The Supreme Court of the United States found that there were reasonable and adequate alternatives available to pasteurize milk other than limiting pasteurization to the local market. The Court found that the effect of the ordinance was to block the free flow of commerce. The Court further found that the ordinance was protectionist in nature and thus, a violation of the commerce clause.
+
+Dissent
+There was no finding in the state courts that Plaintiff, Dean Milk, is unable to have its milk pasteurized within the five-mile radius of the city square. The ordinance is not discriminatory, but rather an attempt to safeguard public health. Such a health regulation should not be invalidated merely because the Court believes that alternative milk-inspection methods might insure cleanliness and healthiness of Plaintiff’s milk. The alternatives suggested by the Court would not assure the people of Madison as pure a supply of milk as they receive under the ordinance.
+
+Discussion
+The majority looked to the purpose of the ordinance, the law’s effect and whether there was a less restrictive alternative available to the city. The Court found that intrastate milk from outside the Madison area was subject to the same prohibition as that moving in interstate commerce.
+

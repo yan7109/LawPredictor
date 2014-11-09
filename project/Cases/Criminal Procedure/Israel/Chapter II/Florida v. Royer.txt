@@ -1,0 +1,24 @@
+Citation
+460 U.S. 491, 103 S. Ct. 1319, 75 L. Ed. 2d 229 (1983)
+
+Brief Fact Summary
+Detectives stopped and questioned respondent Mark Royer after figuring out he fit the profile of a person transporting illegal drugs, and then asked him to accompany them to a small room about 40 feet away.  Fifteen minutes later, he consented to search of his bags.
+
+Synopsis of Rule of Law
+A police officer asking a suspect to accompany them to a small police room, taking their ticket and driver’s license and not mentioning that they are free to leave, has exceeded the scope of a valid stop based on reasonable suspicion under Terry.
+
+Facts
+Police officers determined that a respondent matched the profile of a drug trafficker because he was a 25-35 year old man, casually dressed, pale, nervous, paid for his ticket in cash, and was carrying a certain type of luggage with only his name and destination on its tag.  They then stopped the respondent and asked to see his identification and the name on it did not match his airline ticket.  They took the respondent’s documentation and asked him to go with them into a small room where they asked him if he would consent to a search of his luggage, to which he responded by handing them his key.  He was convicted of felony possession of marijuana with the help of the fruits of this search, and the Florida District Court of Appeal reversed claiming that the respondent had been involuntarily confined within the small room without probable cause and that the subsequent consent was invalid because it was tainted by the unlawful confinement.  The state of Florida was then granted
+
+Issue
+Is the permissible extent under the Fourth Amendment of a temporary Terry stop exceeded when a police officer asks a person suspected of criminal activity to go into a small closed room without telling them they may leave and they end up there for fifteen minutes?
+
+Held
+Affirm the judgment of the lower court that the detention and search was invalid.
+
+Dissent
+Justice Harry Blackmun expressed his view that the police conduct here was not all that intrusive, and given the strength of the public interest in apprehending and prosecuting drug traffickers, probable cause should not have been necessary for the type of stop that these police officers completed.
+
+Discussion
+This case seems to have had the impact of further clarifying what the limits of a Terry stop were.  But there definitely is the argument that it has not been that successful at doing so since it is unclear whether the fifteen minutes he was held in the room can be used as a guideline, or even whether the fact that he was moved to another location was what was fatal under the Fourth Amendment.  The case may arguably leave the system with not much more than one of its only clear statements: that the investigative methods employed should be the least intrusive means reasonably available to verify or dispel an officer’s suspicion.
+

@@ -1,0 +1,21 @@
+Citation
+535 U.S. 625, 122 S. Ct. 1781, 152 L. Ed. 2d 860, 2002 U.S.
+
+Brief Fact Summary
+Defendant’s superseding indictment did not include any specific amount of drugs relevant to sentencing.
+
+Synopsis of Rule of Law
+“Defects in subject-matter jurisdiction require correction regardless of whether the error was raised in district court.”
+
+Facts
+Respondent Hall led a drug organization, aided by six other respondents.  A first grand jury issued an indictment charging the respondents with conspiring to distribute and to posses with intent to distribute 5 kgs of cocaine and 50 grams or more of cocaine base.  A subsequent indictment extended period of conspiracy and more defendants.
+
+Issue
+“[W]hether the omission from a federal indictment of a fact that enhances the statutory maximum sentence justifies a court of appeals’ vacating the enhanced sentence, even though the defendant did not object in the trial court.”
+
+Held
+The Supreme Court first outlined and then overruled Ex parte Bain.  In that case, the Court concluded that an amendment to an indictment was improper and that “the jurisdiction of the offence [was] gone.”  In the present matter, the Court instead held, because the course of history has “led to a somewhat expansive notion of ‘jurisdicition’,” with subject-matter defects requiring correction.  After holding that Bain was overruled as to the defective indictment depriving jurisdiction, the Court went on to analyize the present matter under the plain error test “of Federal Rule of Criminal Procedure 52(b) to respondents’ forfeited claim.”  Under that standard, the Court held that “the failure to include the amount of drugs in the indictment was not plain error.”
+
+Discussion
+“Insofar as it held that a defective indictment deprives a court of jurisdiction, Bain is overrule
+

@@ -1,0 +1,21 @@
+Citation
+896 F.2d 380 (9th Cir. 1990)
+
+Brief Fact Summary
+Confronted with accusations of churning, McNeil (Defendant) argued that trading gains should cancel out the volume of extra commissions.
+
+Synopsis of Rule of Law
+Trading gains do not cancel out extra commissions produced by churning.
+
+Facts
+Nesbit (Plaintiff), as a trustee and individually, opened trading accounts, investing roughly $210,000 at the brokerage house Black & Company with stockbroker McNeil. Over time, the equity appreciated to about $400,000 but during that time McNeil effected over 1000 transactions, valued at $4.4 million with commissions totaling $250,000. Nesbit closed the account and sued McNeil for “churning”. The trial court held McNeil to have unreasonably traded, and granted damages in the sum of the surplus. McNeil appealed, arguing that damages should be canceled out by trading gains.
+
+Issue
+Will trading gains cancel out extra commissions produced by churning?
+
+Held
+(Fernandez, J.) No. Trading gains will not cancel out extra commissions produced by churning. [The court initially held that there was ample evidence to tolerate the jury’s verdict and that the statute of limitations was not violated. Then the court discussed the offset issue.]Deliberatelymishandling a client’s portfolio in order to produce extra commission violates not only fiduciary obligations but also federal securities laws. Stating that an increase in a portfolio’s value will lessen monetary damages would allow for a situation to develop where an increase that might be serendipitous, having absolutely nothing to do with the broker’s activities, would allow the broker to be free of offense. This conclusion is not sensible and fails to fit with the restrictive commitments of federal securities laws. Courts dealing with valuation issues would have trouble doing so if a rule like that existed. Ergo, trading gains will not cancel out the extra gains produced by churning. Affirmed.
+
+Discussion
+Churning is a nonspecific term used to describe any activity intended to produce extra commissions by the method of needless trading. Seeing as churning is banned by the SEC, a plaintiff has the option to sue under SEC Rule 1501-7 or the vaguer 10b-5.
+

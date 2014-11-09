@@ -1,0 +1,21 @@
+Citation
+77 N.Y.2d 157, 566 N.E.2d 639, 565 N.Y.S.2d 440, 1990 N.Y.
+
+Brief Fact Summary
+Plaintiff contracted with Defendants to purchase a parcel of land. Contained in the contract is a “reciprocal cancellation provision” permitting either party to cancel the agreement if litigation against the sellers is not concluded before June 1, 1987. On June 2, 1987, while the litigation was still pending, Defendants cancelled the contract pursuant to the cancellation clause, and Plaintiff initiated this action for specific performance.
+
+Synopsis of Rule of Law
+Extrinsic evidence may not be introduced to explain an unambiguous contract provision.
+
+Facts
+Plaintiff began to negotiate with Defendants for the purchase of a parcel of real estate. During negotiations, Plaintiff learned that litigation was pending against Defendants. Despite reassurances from Defendants that the litigation was meritless, Plaintiff anticipated difficulties in obtaining financing, and so it was agreed that the contract would contain a cancellation clause solely for Plaintiff’s benefit. Said clause, however, was memorialized in the written contract as a reciprocal cancellation clause that permitted either party to cancel the contract in the event that the pending litigation was not resolved by June 1, 1987. Plaintiff avers that this action was begun because Plaintiff learned that Defendants were not defending the litigation, but rather, they were awaiting June 2, 1987 to cancel the contract in order to get a higher price for the land.
+
+Issue
+Can an unambiguous contract clause be read in light of extrinsic evidence?
+
+Held
+No. Extrinsic evidence as to what the parties to a contract intended but did not state or misstated is generally inadmissible to add to or vary the terms of the agreement. However, if the terms of a contract are ambiguous, extrinsic evidence may be used to interpret the agreement. The ambiguity of the contract is a question of law. Here, there is no ambiguity in the cancellation clause at issue. Hence, even if true, Plaintiff’s averments concerning the purpose of the cancellation clause cannot be considered. Further, extrinsic evidence also cannot be introduced to create an ambiguity. Therefore, Plaintiff’s evidence is inadmissible, and no order of specific performance is warranted.
+
+Discussion
+Extrinsic evidence cannot be introduced to explain a contract clause unless there is an ambiguity in said clause. Further, while extrinsic evidence can be used to resolve an ambiguity, it cannot be introduced to create an ambiguity.
+

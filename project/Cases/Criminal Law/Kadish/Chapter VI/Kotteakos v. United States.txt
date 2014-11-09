@@ -1,0 +1,21 @@
+Citation
+22 Ill.328 U.S. 750, 66 S. Ct. 1239, 90 L. Ed. 1557 (1946)
+
+Brief Fact Summary
+The Government charged the Defendants, Gus Kotteakos, Michael Lekacos and Nathan Regenbogen (Defendants), as part of a single general conspiracy to obtain loans on false pretenses, even though they had no contact or knowledge of co-conspirators and were only connected to them through their use of a common individual to secure the fraudulently-induced loans.
+
+Synopsis of Rule of Law
+The Defendants’ use of an individual to secure fraudulent government loans constituted a distinct conspiracy and could not be grouped as a component in a larger general conspiracy solely on account of the fact that others also used the same individual for the same purposes.
+
+Facts
+The Defendants were convicted of a single conspiracy arising out of an unlawful transaction brought about by another individual to secure a bank loan under false pretenses. The theory of a single conspiracy advanced by the Petitioner, the United States (Petitioner), had the effect of imputing to the Defendants liability for any and all acts in furtherance of the conspiracy by other persons who had separately secured loans on false pretenses from the same person used by the Defendants.
+
+Issue
+Can separate and distinct conspiracies among different groups of people be joined under a charge of one general conspiracy solely on the basis that each conspiring group resorted to use of the services of the same individual to assist them in their unlawful activity?
+
+Held
+No. Reversed. The Petitioner erroneously charged at least eight separate and distinct conspiracies to defraud the Federal Housing Administration as a single common conspiracy on the basis of the fact that each conspiring group used the same individual to fraudulently obtain government loans. Outside of using the same agent, none of these groups had any connection to each other at all and cannot therefore be charged under an indictment alleging a single common conspiracy.
+
+Discussion
+This case illustrates that more must be proven to establish a common conspiracy than the mere use of the same agent in pursuing an unlawful enterprise.
+

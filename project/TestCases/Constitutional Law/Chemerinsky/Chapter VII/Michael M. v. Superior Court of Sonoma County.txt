@@ -1,0 +1,24 @@
+Citation
+450 U.S. 464, 101 S. Ct. 1200, 67 L. Ed. 2d 437, 1981 U.S.
+
+Brief Fact Summary
+The Petitioner, Michael M. (Petitioner), was charged with statutory rape in California and now alleges that the State’s statute discriminates unconstitutionally against men only.
+
+Synopsis of Rule of Law
+A state may provide for punishment only for males to equalize deterrents to teenage pregnancy.
+
+Facts
+The Petitioner, at the time of the complaint, was a 17-year-old male who had sexual intercourse with a 16-year-old female. Because California’s statute only criminalized such behavior in males, the female involved was not charged with any crime. The Petitioner now alleges that this disparity in the statutory rape laws is in violation of the Equal Protection Clause of the Fourteenth Amendment of the United States Constitution (Constitution).
+
+Issue
+Does the California statutory rape statute violate principles of Equal Protection?
+
+Held
+No. Appeals Court ruling affirmed.
+
+Dissent
+Justice William Brennan (J. Brennan) applies intermediate scrutiny to achieve the opposite result from the majority. J. Brennan concedes that preventing teenage pregnancy is an important objective.<br />	However, J. Brennan argues that California still bears the burden of demonstrating that the gender-based statute is more effective at decreasing teenage pregnancies than a gender-neutral statute. More importantly, the State cannot show that a gender-neutral statute would be less effective than the gender-based statute.<br />	Justice John Paul Stevens (J. Stevens) dissents, arguing that since both parties are equally guilty of the conduct, it is perversely partial for the State to only punish a single party.<br />
+
+Discussion
+It is hard to square the majority’s decision with the holding in Orr v. Orr, 440 U.S. 268 (1979), that says where compensatory and ameliorative purposes are “as well served by a gender-neutral classification as one that gender classifies,” the State cannot classify by gender. It is difficult to understand why this should be so in a remedial statute, but not a criminal statute.
+

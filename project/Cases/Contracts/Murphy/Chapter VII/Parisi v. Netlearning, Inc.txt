@@ -1,0 +1,21 @@
+Citation
+139 F. Supp. 1,1956 U.S. Dist.
+
+Brief Fact Summary
+Plaintiff runs a web site called Netlearning.com, which has links to different university web pages. Plaintiff applied to use this domain name to the Internet Corporation for Assigned Names and Numbers (ICANN). ICANN has a policy whereby customers can resolve controversies concerning domain names called the Uniform Domain-Name Dispute Resolution Policy (UDRP). In a suit against Defendant, Defendant has moved to dismiss Plaintiff’s claim, because Defendant claims that the matter has been resolved by arbitration through UDRP.
+
+Synopsis of Rule of Law
+For a policy to be considered arbitration under the Federal Arbitration Act, the process must be a mandatory alternative to litigation and its decisions must be considered final.
+
+Facts
+Plaintiff runs a web site with the domain name, Netlearning.com. Plaintiff applied to Network Solutions Inc. to use the domain-name. The Patent and Trademark Office, denied his request to patent the name because it was too close to another trademark, “LEARN NET”. Plaintiff continued to use the domain-name, Netlearning.com. Defendant, started using the domain name, Net-learning.com. Plaintiff alleged that Defendant tried to buy the domain-name from him for as much as $22,500.00, but he refused. Defendant challenged Plaintiff’s right to use the domain-name, using the UDRP. The UDRP panel issued a split decision in favor of Defendant and ordered Plaintiff to transfer his domain-name to Defendant. Plaintiff sought a declaratory judgment to declare him the rightful user of the domain-name, Netlearning.com. Defendant move to dismiss on the ground that Plaintiff’s complaint constitutes an improper challenge to an arbitration under the Federal Arbitration Act.
+
+Issue
+Should Defendant’s motion to dismiss Plaintiff’s claim under the Federal Arbitration Act be granted because Plaintiff is seeking to challenge the result of an arbitration?
+
+Held
+No. The process, laid out in the Uniform Domain-Name Dispute Resolution Policy is not an arbitration under the FAA.
+
+Discussion
+This case shows that arbitration is usually binding and mandatory. The UDRP’s procedure is not arbitration under the FAA, as such, one need not participate in the UDRP’s process at all and one can challenge the UDRP’s rulings.
+

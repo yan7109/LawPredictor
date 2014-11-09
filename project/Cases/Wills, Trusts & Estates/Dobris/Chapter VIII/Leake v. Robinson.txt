@@ -1,0 +1,21 @@
+Citation
+35 ER 979, Volume 35
+
+Brief Fact Summary
+Testator Grandfather (Testator) created a trust in his will, the income of which was to be paid to his grandson, William Rowe Robinson (Robinson). The will made provisions for Robinson’s issue, but Robinson died without issue. The will also made provisions for Robinson’s brothers and sisters and it was argued that this provision violated the Rule Against Perpetuities.
+
+Synopsis of Rule of Law
+If a Testator’s will violates the Rule Against Perpetuities, it is not for the Court to rewrite the will in a manner that does not violate the Rule Against Perpetuities, because to do so would be to rewrite Testator’s will.
+
+Facts
+Testator established in his will a trust, the income of which was to be paid to Robinson for life. The will made provisions for Robinson’s issue, but Robinson died without issue. The will then made provisions should Robinson die without issue by providing for Robinson’s brothers and sisters to take from the trust upon his or her attaining the age of twenty-five years. At the time of Testator’s death, Robinson had five siblings. Three siblings were born after Testator’s death: Two before Robinson died and one after Robinson died (collectively, “Siblings”). Because of the 25 year age limitation, the will provisions challenge the Rule Against Perpetuities. The siblings advance four principal arguments: (1) Testator intended to include only Robinson’s siblings alive at Testator’s death, (2) Testator intended the interests to vest at the birth of the siblings; only distribution, not vesting, was delayed until 25 years of age was attained, (3) the Court should alternatively reduce t
+
+Issue
+If a Testator’s will violates the Rule Against Perpetuities, is it for the Court to rewrite the will in a manner that does not violate the Rule Against Perpetuities, even if doing so would be to rewrite Testator’s will?
+
+Held
+No. If a Testator’s will violates the Rule Against Perpetuities, it is not for the Court to rewrite the will in a manner that does not violate the Rule Against Perpetuities, because to do so would be to rewrite Testator’s will. The plain language of the will indicates that there is a possibility that the interests might not vest within 21 years of creation determined by some measuring life or lives in existence at the time of the interests’ creation. There is no evidence that Testator intended to distinguish between afterborn siblings and the other siblings. To accede to any of the Siblings’ arguments would be to rewrite the will of Testator. This cannot be done for the intention of Testator would be distorted, and where Testator intended a gift to a class (restricted by a certain age), the Court would be making instead a series of bequests, which Testator did not intend. For these reasons, the will provisions violate the Rule Against Perpetuities.
+
+Discussion
+As the text explains, the issue in this “all or nothing” case is that because Testator required that the siblings reach age 25 in order to take, their interests might not vest within 21 years of the death of their parents; the parents, therefore, would not satisfy the first criterion for measuring lives. Although the interests of the afterborns would certainly vest within their own lifetimes, afterborns are those children not alive during the Testator’s life.
+

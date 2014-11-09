@@ -1,0 +1,21 @@
+Citation
+534 U.S. 112, 122 S. Ct. 587, 151 L. Ed. 2d 497 (2001)
+
+Brief Fact Summary
+Respondent was living under specific probationary restraints that permitted a search of his person with or without warrant by law officers.  Respondent became a suspect in a vandalism spree.  After observation by a detective, respondent was searched and arrested.
+
+Synopsis of Rule of Law
+The balance of protecting citizens and observing probationers “requires no more than reasonable suspicion [under the Fourth Amendment] to conduct a search of this probationer’s house.”
+
+Facts
+Respondent Knights ["the respondent"], was sentenced to summary probation on a drug charge.  The terms of this probation, signed and agreed to by the respondent, would “submit his . . . person, property, place of residence, vehicle, personal effects, to search at anytime, with or without a search warrant, warrant of arrest or reasonable cause by any probation officer or law enforcement officer.”  Subsequently, the respondent became a suspect in a series of 30 acts of vandalism against Pacific Gas & Electric after the company filed a theft-of-services complaint against the respondent and cancelled his service.  Detectives began surveillance, and noted the respondent’s friend, Simoneau, drop what were believed to be pipe bombs into the Napa River.  The detective also spotted explosive materials and other evidence connecting the respondent in Simoneau’s truck.  The detective knew about the terms of probation, and searched the respondent’s house.  More bomb-making materials were f
+
+Issue
+“[W]hether the Fourth Amendment limits searches pursuant to this probation condition to those with a ‘probationary’ purpose.”
+
+Held
+No.  The respondent’s argument, that the “probationary” purpose limitation “follows from our decision in Griffin v. Wisconsin,” . . . which was a “special needs” system, in which, under Wisconsin law, “applied to all Wisconsin probationers.”  In other words, the respondent argued, any search must be a “search conducted by a probation officer monitoring whether the probationer is complying with probation restrictions” to comply with the Fourth Amendment.  The Supreme Court dismissed this, instead focusing on a “reasonableness”, and that a State’s “interest in apprehending violators of the criminal law, thereby protecting potential victims of criminal enterprise, may therefore justifiably focus on probationers in a way that it does not on the ordinary citizen.”
+
+Discussion
+“Inherent in the very nature of probation is that probationers do not enjoy the absolute liberty to which every citizen is entitled.”
+

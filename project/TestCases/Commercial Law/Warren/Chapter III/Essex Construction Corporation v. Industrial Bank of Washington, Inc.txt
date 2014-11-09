@@ -1,0 +1,21 @@
+Citation
+913 F. Supp. 416, 1995 U.S. Dist. 19991, 29 U.C.C. Rep. Serv. 2d (Callaghan) 281
+
+Brief Fact Summary
+Plaintiff claims that the defendant failed to comply with banking laws.  The plaintiff alleges that defendant failed to make a timely return of a check that was dishonored due to a stop payment.  The plaintiff seeks the amount of the check as damages.
+
+Synopsis of Rule of Law
+The UCC, as adopted by the District of Columbia, requires that a bank sends notice of or return a dishonored check by “any commercially reasonable means, including an oral, written, or electronic communication.”
+
+Facts
+On March 31, 1995, plaintiff, Essex Construction Corporation (the “plaintiff”), deposited into its account at the defendant, Industrial Bank of Washington (the “defendant”), a check from East Side Manor Cooperative Association (East Side).  The check was drawn against East Side account at Signet Bank.  At the time plaintiff deposited the check, defendant provisionally credited plaintiff’s account but provided written notice that all but $100 of the funds would not be available for withdraw until April 6, 1995.  On April 6, Signet Bank informed the defendant that East Side stopped payment on the checks.  The defendant put a hold on the money deposited on March 31, thus revoking the provisional credit given to the plaintiff.  On April 7, defendant mailed notice of this to the plaintiff.  In the meantime, on April 7, the plaintiff wrote two checks against the funds it thought were available in its account.  The plaintiff did not receive the written notice of the stop payment on t
+
+Issue
+Did the defendant fail to provide timely notice that the check had been dishonored?
+
+Held
+No.  The District of Columbia adopted the UCC’s system for regulating check processing transactions.  UCC Section: 4-214(a) requires a bank to “send notification of the facts” or “return” the dishonored item.  Section 4-214(b) defines “return” as “when it sent or delivered to the bank’s customer.”  Section 3-503(b) provides that notice of dishonor may be given by “any commercially reasonable means, including an oral, written, or electronic communication.”  The District Court held that there was no undue delay in returning the check.  While the court notes that a phone call would have been better customer service, the defendant complied with the aforementioned requirements.
+
+Discussion
+The court notes that even if it were to find that the defendant failed to provide timely notice, the plaintiff would not be entitled to damages.  The court cites an Illinois case involving the same provisions of the UCC as enacted in Illinois.  The Illinois court held that a “depositor is entitled only to the damages actually resulting from a bank’s failure to provide timely notice of dishonor.”  The D.C. provision contains additional language which limits a depositor’s remedies: “a bank that fails to provide timely notice retains its right to charge back dishonored deposits ‘but is liable for any loss resulting from the delay.’”  The court concludes by stating that, “plaintiff may have been able to make a claim for the bank charges associated with the two checks written on April 7, or other foreseeable damages. Essex, however, has made no showing of damages actually suffered.”
+

@@ -1,0 +1,21 @@
+Citation
+472 U.S. 797, 105 S. Ct. 2965, 86 L. Ed. 2d 628, 1985 U.S. 104
+
+Brief Fact Summary
+The class of plaintiffs in a class action suit provided notice to class members that they could opt-out of the suit via first class mail.
+
+Synopsis of Rule of Law
+A forum state may exercise jurisdiction over the claims of an absent class action plaintiff, even though that plaintiff may not possess the minimum contacts with the forum which would support personal jurisdiction over a defendant.
+
+Facts
+During the 1970s the Petitioner, Phillips Petroleum (Petitioner), acquired natural gas by leasing gas-producing lands from others and paying royalties on the gas it extracted. While regulatory approval was pending regarding prices, Petitioner sold the gas at higher prices, but paid royalties only on the lower approved prices. The Respondent, Irl Shutts on behalf of himself and 33,000 small royalty owners (Respondents), filed suit in Kansas state court, claiming they were entitled to interest on the money during the period when Phillips Petitioner awaiting regulatory approval of price increases.  After the class was certified, Respondents provided each class members with notice through first class mail. The notice informed each member they would be represented by Shutts, the named plaintiff, unless they appeared in person or by counsel. The notice also stated that all class members would be included in the suit and bound by the judgment unless they filed a form to “opt out.”  The final class as certified contained 28,100 members; 3,400 had opted out. Less than 1,000 of the class members resided in Kansas and only one quarter of one percent of the land involved in the leases were on Kansas land. The court entered judgment for Respondents. The Supreme Court of Kansas affirmed.
+
+Issue
+Whether a forum state may exercise jurisdiction over the claims of an absent class action plaintiff, even though that plaintiff may not possess the minimum contacts with the forum which would support personal jurisdiction over a defendant.
+
+Held
+Yes. The judgment of the Supreme Court of Kansas was affirmed.   The burdens placed by a state upon an absent class action plaintiff are not the same order or magnitude as those it places upon an absent defendant. Unlike a defendant in a civil suit, a class-action plaintiff is not required to fend for himself.  A forum state may exercise jurisdiction over the claims of an absent class action plaintiff, even though that plaintiff may not possess the minimum contacts with the forum, which would support personal jurisdiction over a defendant. The interests of the absent plaintiffs are sufficiently protected    by the forum state when those plaintiffs are provided with a request for exclusion that can be returned within a reasonable time to the court.
+
+Discussion
+Essentially, the court is saying that because absent plaintiffs in a class action suit do not have to actually show up in court and defend a complaint that could result in liability, an absent plaintiff is not entitled to the same due process a defendant receives because the risk of harm to the absent plaintiff is slight.
+

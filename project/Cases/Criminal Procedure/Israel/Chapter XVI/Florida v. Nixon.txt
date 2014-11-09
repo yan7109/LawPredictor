@@ -1,0 +1,21 @@
+Citation
+546 U.S. 1153, 126 S. Ct. 1172, 163 L. Ed. 2d 1134 (2006)
+
+Brief Fact Summary
+Substantial evidence indicated respondent Nixon’s guilt.  His counsel settled on a strategy of admitting guilt so as to gain a better position at sentencing.  Respondent was generally unresponsive and unhelpful.
+
+Synopsis of Rule of Law
+“Counsel’s failure to obtain the defendant’s express consent to a strategy of conceding guilt in a capital trial does not automatically render counsel’s performance deficient.”
+
+Facts
+Respondent Nixon kidnapped and murdered a young woman, and then burned her body and her car.  He confessed to his brother what he had done.  His brother informed the police.  When taken into custody, respondent confessed in graphic detail.  The State also gathered substantial evidence against respondent, including a palm print on the car and rings belonging to the victim that respondent had pawned.
+
+Issue
+“[W]hether counsel’s failure to obtain the defendant’s express consent to a strategy of conceding guilt in a capital trial automatically renders counsel’s performance deficient.”
+
+Held
+No.  The Supreme Court of the United States first determined that the proper standard was derived from Strickland v. Washington, which would have required “Nixon to show that counsel’s concession strategy was unreasonable.”  The Supreme Court then turned to the realities facing counsel for defendants in capital cases, noting that, in certain situations, the defendant’s guilt may not be in doubt, and “avoiding execution [may be] the best and only realistic result possible.”  “When counsel informs the defendant of the strategy counsel believes to be in the defendant’s best interest and the defendant is unresponsive, counsel’s strategic choice is not impeded by any blanket rule demanding the defendant’s explicit consent.”
+
+Discussion
+“A presumption of prejudice is not in order based solely on a defendant’s failure to provide express consent to a tenable strategy counsel has adequately disclosed to and discussed with the defendant.”
+

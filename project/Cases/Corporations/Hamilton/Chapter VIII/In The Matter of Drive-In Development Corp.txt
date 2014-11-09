@@ -1,0 +1,21 @@
+Citation
+371 F.2d 215 (7th Cir. 1966)
+
+Brief Fact Summary
+An officer of Drive-In Development Corp., executed a guarantee for the indebtedness of its parent corporation.  Drive-In now seeks to be excused from the guarantee.
+
+Synopsis of Rule of Law
+A corporation is estopped from denying the guaranty made by an officer of the corporation who had express authority to bind the corporation given to him by a corporate resolution granting such authority.
+
+Facts
+National Boulevard Bank of Chicago filed a claim in an arrangement proceeding under chapter XI of the Bankruptcy Act, 11 U.S.C.A. Section:Section: 701-799, in which Drive-In was the guarantor of the debt.
+
+Issue
+Whether Drive-In is obligated to a guaranty it made for its parent corporation when the corporate officer who executed the guaranty was given authority to do so by a resolution that was certified by the corporate secretary, but there is no record of the resolution being formally adopted by the board?
+
+Held
+Yes.  Drive-In is estopped to deny Maranz’ express authority to sign the guaranty binding it’s corporate secretary issued a purported resolution granting Maranz express authority to sign the guaranty.
+
+Discussion
+It is the duty of the corporate secretary to keep corporate records and to make proper entries of corporate action and resolutions of the directors.  As a result, it is within the corporate secretary’s authority to certify that a resolution was adopted, even if there is no record of the board’s formal adoption of it.   Therefore, the resolution granting the express authority to Maranz to sign the guaranty is binding upon Drive-In.
+

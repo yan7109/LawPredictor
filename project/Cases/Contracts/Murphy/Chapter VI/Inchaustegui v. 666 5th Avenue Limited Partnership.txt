@@ -1,0 +1,21 @@
+Citation
+22 Ill.96 N.Y.2d 111, 725 N.Y.S.2d 627, 749 N.E.2d 196
+
+Brief Fact Summary
+Defendant, sub tenant, breached his rental contract with Plaintiff, landlord, to obtain public liability insurance that named Plaintiff as an additional insured. Defendant sued Plaintiff when he was injured on the premise. Plaintiff filed a counterclaim.
+
+Synopsis of Rule of Law
+In a case where one fails in one’s contractual obligation to obtain liability insurance, one is responsible to other party for any expenses they might incur because of that failure.
+
+Facts
+Defendant sublet a property from Plaintiff. As part of the rental agreement, Defendant agreed to get public liability insurance for the property. Defendant failed to list Plaintiff as one of the insured on the policy. Defendant sued Plaintiff after being injured on the rented premise. Defendant counterclaimed for the cost of acquiring new insurance and the cost of defense in the litigation. The trial court granted summary judgment in favor of Plaintiff, but only assigned damages for the cost of new insurance.
+
+Issue
+Should Plaintiff receive more damages than the cost of new insurance?
+
+Held
+Yes.
+
+Discussion
+The court looked at several ways in which a person in the Plaintiff’s position could recover. If someone else had been injured and sued Plaintiff, then Defendant would be responsible for that person’s injuries. If Plaintiff had obtained other insurance and not had the litigation, then Defendant would have been responsible for the cost of the new insurance. Since Plaintiff had litigation costs and the cost of new insurance that he would not have had if Defendant had not breached the contract, he received damages for both.
+

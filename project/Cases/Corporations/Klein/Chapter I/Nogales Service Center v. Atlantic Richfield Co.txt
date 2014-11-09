@@ -1,0 +1,21 @@
+Citation
+439 U.S. 930, 99 S. Ct. 318, 58 L. Ed. 2d 323 (1978)
+
+Brief Fact Summary
+Appellant, Nogales Service Center, filed a breach of contract claim against Appellee, Atlantic Richfield Co., to enforce a one-cent per gallon price reduction promised by Appellee’s agent.
+
+Synopsis of Rule of Law
+Inherent agency is not derived from actual or apparent authority, or estoppel, but solely to protect third persons from agent conduct.
+
+Facts
+Appellant operated an unsuccessful service station in Nogales.  During discussions between Appellant and Appellee regarding making Appellant’s station more competitive, an agent for Appellee promised a loan for additions and improvements, and a flat one cent per gallon reduction on all fuels.  Appellee did not deliver on the agent’s price reduction, and eventually Appellant was forced to foreclose.  Appellee brought a foreclosure suit against Appellant who countered with a breach of contract claim.  The jury, instructed only to find for Appellant if there was actual or apparent authority, found for Appellant.
+
+Issue
+The issue is whether the jury instructions that did not detail inherent agency were in error.
+
+Held
+The Court of Appeals of Arizona, Division Two, agreed that the jury was instructed to find for Appellant only if they found actual or apparent authority which did not encompass inherent agency.  However, the court held that appellant’s proposed jury instructions conflicted with the given instructions, and they did not comport with rules of procedure in properly objecting to the given instructions.
+
+Discussion
+The court recognized the doctrine of inherent agency, but for procedural reasons did not apply it to this case.  Like Judge Learned Hand in Kidd v. Thomas A. Edison, Inc., the court completely distinguished inherent agency from actual or apparent authority as well as estoppel.
+

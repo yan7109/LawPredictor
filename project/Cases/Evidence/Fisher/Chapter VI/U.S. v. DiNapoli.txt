@@ -1,0 +1,24 @@
+Citation
+434 U.S. 858
+
+Brief Fact Summary
+Several Defendants were charged with violations of the Racketeer Influenced and Corrupt Organizations Act (RICO) following an alleged bid-rigging scheme involving the concrete industry and skyscraper construction contracts in Manhattan.  At trial, when the prosecution attempted to introduce evidence of grand jury testimony under Federal Rule of Evidence 804(b)(1), the lower court held that the “similar motive” requirement was not met and disallowed the testimony.  This appeal follows a remand from the United States Supreme Court.
+
+Synopsis of Rule of Law
+Rule 804(b)(1)’s “similar motive” requirement was not met and the witnesses’ grand jury testimony was excluded properly.
+
+Facts
+Several Defendants were charged with violations of the Racketeer Influenced and Corrupt Organizations Act (RICO) following an alleged bid-rigging scheme involving the concrete industry and skyscraper construction contracts in Manhattan.
+
+Issue
+Was the “similar motive to develop” requirement of Federal Rule of Evidence 804(b)(1) met and, if so, was the witnesses’ grand jury testimony therefore improperly excluded?
+
+Held
+No; the evidence was properly excluded, as the “similar motive to develop” requirement of Rule 804(b)(1) was not met
+
+Dissent
+Judges Pratt, Miner, and Altimari dissent, arguing in two separate dissenting opinions that under the reasoning of the majority, a “similar motive” exists only, “when the party against whom the testimony is offered had ‘an interest of substantially similar intensity to prove (or disprove) the same side of a substantially similar issue.’”  The dissent argues that, “[a]s a practical matter, the gloss effectively rewrites the rule from ’similar motive’ to ’same motive.’”
+
+Discussion
+The court reasons that in determining whether the “similar motive” requirement of Rule 804(b)(1) is met, the court must consider:
+

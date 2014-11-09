@@ -1,0 +1,21 @@
+Citation
+784 F.2d 1040 (10th Cir. 1986)
+
+Brief Fact Summary
+Terry Kim Perrin (”Mr. Perrin”) was shot and killed by Oklahoma state troopers.  The troopers had gone to Mr. Perrin’s house to ask him questions about a traffic accident.  At some point during the conversation, an altercation ensued and Mr. Perrin was killed by one of the officers.
+
+Synopsis of Rule of Law
+Under Federal Rules of Evidence (”F.R.E.”) Rule 405, testimony regarding specific instances of conduct may be used only when character is a material fact pursuant to substantive law in determining the rights and liabilities of the parties.
+
+Facts
+Mr. Perrin drove his car into the back of another car on an Oklahoma highway.  Mr. Perrin walked to his home after he realized no one was injured.  Two highway troopers went to his home to discuss the accident, and a fight ensued between the troopers and Mr. Perrin.  Trooper Anderson shot and killed Mr. Perrin because he feared he was about to lose consciousness, and he thought Mr. Perrin was going to kill both troopers.
+
+Issue
+Should the District Court have allowed the evidence establishing Mr. Perrin’s character?
+
+Held
+The defendants were entitled to present evidence of Mr. Perrin’s character from which the jury could infer that Mr. Perrin was the aggressor.
+
+Discussion
+While the Court found character evidence was admissible under F.R.E. Rule 404, the type of evidence offered was not allowed pursuant to F.R.E. Rule 405 because character was not a material fact under the substantive law.  However, the Court affirmed the District Court’s alternative ruling allowing the character evidence to establish habit under F.R.E. Rule 406.  During trial, the defendants were prepared to offer testimony from eight officers, but the Court only allowed four.  Further, the Court explicitly stated that the testimony from four officers was sufficient to establish habit.
+

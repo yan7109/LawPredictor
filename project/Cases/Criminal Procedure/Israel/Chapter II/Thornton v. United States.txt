@@ -1,0 +1,21 @@
+Citation
+541 U.S. 615, 124 S. Ct. 2127, 158 L. Ed. 2d 905 (2004)
+
+Brief Fact Summary
+Petitioner appealed gun charges that were brought against him when his car was searched after he had exited it and had already been arrested.
+
+Synopsis of Rule of Law
+Under the search incident to arrest exception of the Fourth Amendment, an officer may search the vehicle of a person after they have been arrested.
+
+Facts
+After a police officer noticed that the car Petitioner was driving had a stolen license plate, the officer stopped Thornton to question him.  After asking if he could search him, the officer found two bags of drugs on Petitioner’s body.  At that point, he searched his vehicle and found a gun.  Thornton was convicted of drug and firearms offenses and he moved to have the gun dismissed because it was found as the result of an unconstitutional search.  The Fourth Circuit found that the gun fell within the search incident to arrest exception and affirmed the conviction.
+
+Issue
+Whether, under the “search incident to arrest” exception to the Fourth Amendment, it is appropriate to allow evidence obtained when an officer searches the vehicle of a person they have arrested, despite the fact that they did not make contact with the person until after they left the vehicle.
+
+Held
+Affirmed.  In affirming the judgment of the Appellate Court, the officer found that forcing officers to determine whether a suspect had noticed them before exiting the car would be too subjective; additionally, if weapons or contraband were inside a vehicle, these items could still be easily accessed by someone who had just exited it.
+
+Dissent
+Justice Stevens dissents, finding the court’s decision overreaching.
+

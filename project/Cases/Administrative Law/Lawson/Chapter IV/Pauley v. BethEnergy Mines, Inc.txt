@@ -1,0 +1,21 @@
+Citation
+501 U.S. 680, 111 S. Ct. 2524, 115 L. Ed. 2d 604 (1991)
+
+Brief Fact Summary
+Congress created the black lung benefits program, to be administered first by Social Security Administration (SSA), under the then-existing Department of Health, Education and Welfare (HEW), and later by the Department of Labor (DOL). Congress authorized these Departments to adopt interim regulations governing the adjudication of claims, but constrained the DOL from passing more strict regulations than HEW. Two of the DOL’s rebuttal presumptions were challenged in this case.
+
+Synopsis of Rule of Law
+When Congress, through express delegation or the introduction of an interpretive gap in the statutory structure, has delegated policy-making authority to an administrative agency, the extent of judicial review is limited. If deference is thus owed to the agency’s determination, the Court must still decide if the agency’s position is reasonable.
+
+Facts
+The Black Lung Benefits Reform Act (BLBRA) expanded methods by which miners could establish eligibility for benefits for disabilities resulting from pneumoconiosis (black lung disease). The BLBRA authorized DOL to promulgate regulations for processing claims, but they could not be more restrictive than those of the prior agency, HEW.  The Secretary of Labor for the DOL established regulations which made it easier for miners to invoke a presumption of the disease, but it also established two rebuttable presumptions for the SSA which arguably made it easier to challenge the claims. The challenged rebuttable presumptions were if the “evidence established that total disability or death of the miner did not arise in whole or in part out of coal mine employment,” or if “the evidence established that the miner does not, or did not, have pneumoconiosis.”
+
+Issue
+Were the Secretary of Labor’s rebuttable presumptions reasonable?
+
+Held
+Yes. The Court upheld DOL’s rebuttable presumptions (and interpretation of the statute) as reasonable.   The BLBRA was a highly complex and technical regulatory program, under which Congress specifically constrained the Secretary of Labor from making criteria more restrictive than HEW’s.  Since Congress expressly delegated authority to the agencies, the extent of judicial review was limited, and deference was owed to the DOL. The Secretary of Labor’s interpretation of the complex regulatory structure was reasonable.   Dissent. The regulatory language was complex, but not ambiguous, and Chevron deference was not required.   Concurrence. None.
+
+Discussion
+The Court upheld DOL’s presumptions based on its finding that they were “reasonable.”
+

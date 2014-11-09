@@ -1,0 +1,21 @@
+Citation
+41 Del. Ch. 74, 188 A.2d 123 (1963)
+
+Brief Fact Summary
+Plaintiff shareholder, Martin Hariton, sued Defendant corporation, Arco Electronics, to prevent the sale of its assets for shares of acquiring company because it operated as a de facto merger.
+
+Synopsis of Rule of Law
+Asset sales statutes and merger statutes are independent of each other, and a corporation complying with one or the other is complying with the law.
+
+Facts
+Defendant and Loral Electronics Corp., both electronic equipment companies, entered into an agreement wherein Defendant would sell all of its assets to Loral in exchange for shares in Loral.  The agreement was approved by 80% of shareholders.  Plaintiff did not participate in the voting but later filed this action to prevent the transaction because it did not comply with Delaware’s merger statute that required Defendant to notify shareholders of the right to dissent and receive fair value for their shares upon dissent.  Defendant countered that the transaction complied with Delaware’s asset sale statute.  The lower court, agreeing with Defendant, dismissed the complaint.
+
+Issue
+The issue is whether the asset sale agreement between Defendant and Loral is invalid because Defendant did not comply with Delaware’s merger statute.
+
+Held
+The Supreme Court of Delaware held that the agreement was valid because it complied with Delaware’s statute regarding the sale of assets.  The two statute provisions operate independently, and an agreement is valid if it complies with one or the other.
+
+Discussion
+The holding is opposite of Farris v. Glen Alden Corporation which prevented the same type of transaction, except it was a shareholder from the purchasing company that brought the action.  This case did not present the same lopsided effects that the Farris transaction provided.
+

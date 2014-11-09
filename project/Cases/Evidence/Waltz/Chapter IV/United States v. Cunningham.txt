@@ -1,0 +1,15 @@
+Citation
+131 S. Ct. 482
+
+Brief Fact Summary
+The defendant, Cunningham (the “defendant”) was a nurse who removed Demerol from syringes that were intended for patients in pain.  Evidence showed that the defendant was a Demerol addict and she was charged with tampering with a consumer product and reckless disregard for the risk that another person would be placed in danger of bodily harm.<span class='heading'>Synopsis of Rule of Law.</span>  Evidence of prior conduct may be admitted to show motive, but the judge may exclude such evidence if there is a possibility of undue influence or prejudice.]
+
+Facts
+The defendant was a registered nurse at an Indiana hospital.  Employees of the hospital found syringes of Demerol that were tampered with.  The police interviewed nurses who had access to the syringes.  In one of those interviews, the defendant admitted to being a Demerol addict, but denied that she tampered with the syringes.  A blood and urine test was given and the defendant tested positive for the urine test.  The defendant argued that she did not place anyone on danger of bodily harm since she merely failed to relieve pain, not cause it.<span class='heading'>Issue.</span> Whether the defendant placed others in danger of bodily injury by failing to apply Demerol (a pain medication) to patients suffering in pain? Whether evidence of the defendant’s addiction to Demerol and her suspension for stealing Demerol from her former employer was admissible?
+
+Held
+The defendant placed others in danger of bodily injury by her failure to give them pain medication.  The defendant’s argument that failing to relieve pain is not the same as causing pain is not supported.  Conduct that perpetuates an injury by preventing it from being alleviated is the same as creating a new injury upon the person. Evidence of the defendant’s addiction and of her prior suspension for stealing Demerol from her former employer was admissible on the issue of motive.
+
+Discussion
+F.R.E. Rule 404(b) forbids the introduction of evidence of a person’s prior conduct for the purpose of showing a propensity to act in accordance with the character indicated by that conduct.  However, evidence of prior conduct may be introduced for other purposes, such as motive.  Here, prior bad acts were allowed to show that the defendant had a motive to tamper with the Demerol filled syringes since she was addicted to the drug.  In the end, the judge has the power to exclude such evidence if it has a prejudicial effect upon the jury to convince them that the defendant is guilty based on crimes committed in the past.  The defendant’s prior suspension was allowed since it also showed that she had the motive to tamper with the syringes.
+

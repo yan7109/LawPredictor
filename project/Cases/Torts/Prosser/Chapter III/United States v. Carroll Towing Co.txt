@@ -1,0 +1,21 @@
+Citation
+160 F.2d 482 (2d Cir. 1947)
+
+Brief Fact Summary
+A ship owned by the Conner Company had its mooring lines shifted by a tugboat working for Defendant. As a result, the ship broke free from the pier, drifted, collided with a tanker, and sank. The ship’s cargo, flour belonging to the United States, was lost as a result.
+
+Synopsis of Rule of Law
+In the event that a ship breaks its moorings, its owner’s duty is a function of 1) the probability that the ship will break away; 2) the gravity of the injury resulting; and 3) the burden of necessary precautions.
+
+Facts
+A tugboat working for Defendant caused the mooring lines of a ship carrying cargo owned by the United States to shift. Nobody was aboard the ship or the tugboat to stop the lines from shifting. The ship ultimately sunk as a result, and the cargo was lost. The United States sought compensation for the lost cargo. The trial court divided the damages between the Conner Company and Defendant.
+
+Issue
+Was Defendant negligent in failing to have a Bargee aboard the ship to prevent against such injury?
+
+Held
+Yes. To have no Bargee aboard the ship for a period of twenty-one hours was negligent.
+
+Discussion
+This case introduces Learned Hand’s tripartite test for analyzing negligence. The Court explained that liability for negligence in such cases is dependent upon whether the burden of taking adequate precautions is less than the likelihood that an injury will occur multiplied by its gravity. When the burden is less than that product, negligence has been committed.
+

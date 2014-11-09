@@ -1,0 +1,21 @@
+Citation
+89 F.3d 858, 319 U.S. App. D.C. 217, 43 ERC 1137 (D.C. Cir. 1996)
+
+Brief Fact Summary
+The 1990 amendments to the Clean Air Act (Act) created a system under which utilities were given an allocation of pollutants, which they could transfer or sell among themselves. The EPA filled a gap in the Act’s statutory scheme regarding how to define a unit’s actual emission rate, which was challenged in this case.
+
+Synopsis of Rule of Law
+Agencies very rarely lose at Step 2 of the Chevron analysis: Reasonableness. “Reasonableness” is not well articulated.
+
+Facts
+The EPA filled a gap in the Act’s statutory scheme regarding how to define a unit’s actual emission rate in its National Allowance Database (NABD) and “July 1991 Notice.” The Notice allowed a claim for allowances not listed in the database, but required that they also submit the unit’s “actual emission rate” and other supporting information.  AMP-Ohio submitted an allowance request to the EPA for one of its facilities, and the EPA granted it only half the allowances it requested from the data it submitted. The EPA based the allowances on the average emission rate of utilities in Ohio that year, claiming that it did not have supporting data necessary to validate AMP-Ohio’s claimed emission rate.  AMP-Ohio claimed the substitution of a calculated emission rate for the submitted rate was an impermissible construction of the applicable statute.
+
+Issue
+Was the EPA’s substitution of a calculated emission rate permissible?
+
+Held
+The EPA’s actions were a reasonable interpretation of the statute and not otherwise unlawful.  Dissent. None.  Concurrence. None.
+
+Discussion
+The statute did not address the precise issue and the Court found the agency’s interpretation to be reasonable.
+

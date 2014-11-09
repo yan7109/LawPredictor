@@ -1,0 +1,18 @@
+Citation
+2 Leach 835, 168 Eng.Rep. 517 (Central Criminal Court, 1799)..
+
+Synopsis of Rule of Law
+For a charge of embezzlement to stand, there must be an element of entrustment, to an individual in the course of employment, of property held in trust for the entrustor. Moreover, there must be subsequent conversion of that property by the individual embezzler that implicates a breach of that trust between the parties.
+
+Facts
+The Defendant was the principal teller at a bank run by Prosecutors Esdaile and Hammett. The Defendant’s job involved the receipt and payment of money, notes and bills at the bank counter. In January 1799, the Defendant, in his capacity as principal teller, received bank-notes and cash for deposit from William Gilbert (Gilbert), through his servant George Cock (Cock). The Defendant credited Gilbert’s account, but placed a bank-note in his pocket, which he later used for his own purposes.
+
+Issue
+Can a felonious action be found where a defendant converts property that was meant for his employer, but was never in the actual or constructive possession of that employer?
+
+Held
+The court found that the Defendant was guilty of neither larceny nor felonious breach of trust. However, the court noted that a statute had been created to deal with precisely the situation involved in this case. The court found that the Defendant could be subject to this embezzlement statute because the Defendant’s actions were precisely those that the statute sought to prevent.
+
+Discussion
+The court looked at they type of job function that the Defendant performed. The court noted that the statute that was recently enacted was designed to prevent employees in delicate trust situations from misappropriating property that was designed to come into the legal possession of the employer. As a result, although there was no constructive or actual possession of the bank-note by the bank, the fact that the Defendant brought the property in question into his possession is all that is necessary to find embezzlement under the statute. The notes in Dressler support this proposition. Dressler notes that for an embezzlement charge to stand there must be an element of entrustment. In the Bazeley case, the bank entrusted the Defendant with property that was destined, eventually for it. Since the Defendant was entrusted with the delicate matter of collecting property bound for the employer, embezzlement can be found.
+

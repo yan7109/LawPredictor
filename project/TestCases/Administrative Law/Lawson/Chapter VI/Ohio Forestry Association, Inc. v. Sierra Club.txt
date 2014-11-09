@@ -1,0 +1,21 @@
+Citation
+523 U.S. 726, 118 S. Ct. 1665, 140 L. Ed. 2d 921, 46 ERC 1577 (1998)
+
+Brief Fact Summary
+The Sierra Club challenged the lawfulness of a federal land and resource plan adopted by the United States Forest Service on the ground that it permitted too much logging and clearing for Ohio’s Wayne National Forest.
+
+Synopsis of Rule of Law
+The considerations for ripeness are: 1] whether delayed review would cause hardship to the plaintiffs; 2] whether judicial intervention would inappropriately interfere with further administrative action; and 3] whether the courts would benefit from further factual determination of the issues presented.
+
+Facts
+The Plan set logging goals, selected areas of the forest which were suitable for timber production, determined which methods of timber harvest were appropriate, but did not itself authorize the cutting of any trees. Before the Forest Service could permit logging, it would have to go through additional steps, including a notice and comment procedure and an environmental analysis.  The Sierra Club objected when the Forest Service first proposed its plan, and pursued various administrative remedies to have the Plan modified, prior to bringing this action in federal court.  The District Court reviewed the Plan, found the Forest Service had acted lawfully and granted it summary judgment. The Court of Appeals held that the dispute was justiciable.
+
+Issue
+Did the dispute about the Plan create a then justiciable controversy, and if so, did the Plan conform to the statutory and regulatory requirements for a forest plan?
+
+Held
+The suit was not ripe for review.   To withhold judicial consideration at that stage would not cause the parties “significant hardship,” as the Plan did not even confer the right to cut any trees.  From the agency’s perspective, judicial review at that stage would hinder its ability to refine its policies through revision of the Plan or application of the Plan in practice.  Review of Sierra Club’s claims at that stage would have required time- consuming judicial consideration of the details of an elaborate plan, without the benefit that a particular logging proposal could provide.  Congress did not provide for pre-implementation judicial review of forest plans.   Dissent. None.   Concurrence. None.
+
+Discussion
+The type of review sought by the Sierra Club in this case threatened the kind of abstract disagreements over administrative policies that the ripeness doctrine seeks to avoid.
+

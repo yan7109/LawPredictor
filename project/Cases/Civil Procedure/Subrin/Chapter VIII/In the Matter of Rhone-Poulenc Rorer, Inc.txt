@@ -1,0 +1,21 @@
+Citation
+51 F.3d 1293, 1995 U.S. App. 5504
+
+Brief Fact Summary
+Defendants, Thone-Poulenc Rorer, Inc. et al., petitioned for mandamus relief after the district court judge allowed a class certification for Plaintiffs, Wadleigh et al.
+
+Synopsis of Rule of Law
+Class action certification may be unacceptable in situations where a defendant is likely to win, and wherein a plaintiff will be awarded a large sum if they prevail, and irreparable harm would come to the defendant if the plaintiffs won the class action suit.
+
+Facts
+Plaintiffs were hemophiliacs or the heirs to now-deceased hemophiliacs who contracted AIDS from blood transfusions.  Defendants are drug companies that make the blood solids that were allegedly contaminated with the HIV virus.  By the time of this suit, it has been over ten years that the medical community has been using heat-treated blood solids.  There have also been 13 cases between similar plaintiffs and Defendants, and Defendants have won 12 times.  Because the damages would be great for each Plaintiff that was successful, Defendant is now petitioning for mandamus relief for the class certification granted by the district court judge.  Although Defendants have been successful 12 of 13 times, the threat that a class certification consolidating 300 lawsuits and 400 Plaintiffs could set Defendants up for such a large amount of losses and potential bankruptcy led Defendants to the current petition.
+
+Issue
+The issue is whether the mandamus relief should be granted and the class certification be denied.
+
+Held
+The Court held for Defendants and granted the mandamus relief.  The Court believed that the district court judge did not follow Fed. R. Civ. P. 23.  The district court was going to certify a class action with respect to particular issues, but the Court denied the District Court’s baseless procedural construct.  The cases were factually dissimilar, but other factors were just as important.  First, the threat of a class action victory for Plaintiffs means that Defendants have to settle beforehand despite their favorable outcomes in the prior cases.  Although it may be difficult for the parties to hold numerous suits in courts throughout the country, the court reasoned that Plaintiffs would receive an award large enough to merit bringing separate claims.
+
+Discussion
+The Court was certain that Defendant would already lose substantially by the class certification because they would most likely settle rather than risk a favorable outcome for Plaintiffs.  This outcome would have, in the Court’s reasoning, a great amount of injustice.
+

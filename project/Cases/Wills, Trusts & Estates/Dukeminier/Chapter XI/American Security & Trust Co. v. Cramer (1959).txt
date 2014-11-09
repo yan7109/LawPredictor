@@ -1,0 +1,21 @@
+Citation
+175 F. Supp. 367,1959 U.S. Dist.
+
+Brief Fact Summary
+Abraham Hazen created a trust in favor of his great-grandchildren.  Their interests vested when their parent died who was a child of Hazen.  Some of Hazen’s grandchildren were not born until after Hazen died.
+
+Synopsis of Rule of Law
+A subclass exists where the ultimate takers are not described as a single class but rather as a group of subclasses.  Under the rule against perpetuities, an interest must vest within a period measured by a life or lives in being at the testator’s death, plus 21 years.   Where there is a gift to a set of subclasses, the validity of each subclass will be assessed under the rule of perpetuities.  The invalidity of a gift to one subclass does not automatically invalidate a gift to another subclass.
+
+Facts
+Hazen bequeathed property in a trust to his wife for life, then to his “adopted daughter Hannah for life, then to Hannah’s children for their lives.  “Upon the death of each [child] the share of the one so dying shall go absolutely to the persons who shall then be her or his heirs at law.”  At the time the gift was created, Hannah had two children, Mary and Hugh.  After Hazen’s death, Hannah bore Depue and Horace.
+
+Issue
+Whether a subclass exists where a will makes a gift to each child’s heirs upon the death of each child? Whether the gifts over following the life estates to Depue and Horace are valid under the rule of perpetuities? Whether the gifts over following the life estates of Mary and Hugh because the two children were alive when the gift was made?
+
+Held
+Yes.  A subclass exists because the ultimate takers, the heirs of each child of Hannah’s , are not described as a single class but a group of subclasses.  A subclass would not exist if a gift was made to the next generation of all of Hannah’s children.
+
+Discussion
+The testator made a gift Even where a testator makes a gift to a certain class, the validity of the gift will be determined if persons within the class may form a subclass
+

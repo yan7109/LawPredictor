@@ -1,0 +1,21 @@
+Citation
+22 Ill.123 U.S. 552, 8 S. Ct. 217, 31 L. Ed. 202 (1887)
+
+Brief Fact Summary
+Plaintiff sued Defendant in Iowa state court. Plaintiff and Defendant had been involved in a previous lawsuit that started in state court but was later removed to federal court. Plaintiff argues that because Plaintiff and Defendant were both Iowa corporations and consequently citizens of the same state, the federal court had no jurisdiction to render judgment in the previous action, making the previous judgment void.
+
+Synopsis of Rule of Law
+When a federal court finally disposes of a case on the merits and such disposition is upheld on appeal, subject matter jurisdiction is impliedly recognized. The Full Faith and Credit clause requires any court in a subsequent case based on the same facts involving the same parties to be bound by the previous judgment.
+
+Facts
+Iowa Homestead Co. (Plaintiff) sued Des Moines Navigation & R. Co. (Defendant) in Iowa state court. Plaintiff and Defendant had been in a previous lawsuit that started in state court but was later removed to federal court. The previous case had been removed to federal court by residents of the state of New York. The case was appealed to the Supreme Court of the United States and finally disposed on the merits in favor of Defendant. Plaintiff argues that because Plaintiff and Defendant were both Iowa corporations and consequently citizens of the same state, the federal court had no jurisdiction to render judgment in the previous action that would bind Plaintiff. The Supreme Court of Iowa agreed and Defendant appealed from that decision.
+
+Issue
+Does a federal court have the power to determine whether it may entertain a case that is removed to its court based on the federal removal statute of 1867?
+
+Held
+Yes. Error assigned to the Supreme Court of Iowa.
+
+Discussion
+This case demonstrates that jurisdiction can be implied. When a case is removed to federal court, the federal court has the power to determine subject matter jurisdiction. It should be noted that federal courts have subsequently required complete diversity in analogous situati
+

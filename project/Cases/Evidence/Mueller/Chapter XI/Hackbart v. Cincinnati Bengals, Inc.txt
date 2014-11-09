@@ -1,0 +1,21 @@
+Citation
+444 U.S. 931 100 S. Ct. 275 62 L. Ed. 2d 188 1979 U.S.
+
+Brief Fact Summary
+Plaintiff, a professional football player, was injured when one of Defendant’s players intentionally struck him during a game. Both continued to play in the game and did not make any complaints at the time. Plaintiff later sued to recover for his injuries.
+
+Synopsis of Rule of Law
+Even in an inherently violent situation such as a game of professional football, it is possible for one to go beyond its customs and so be liable for injuries in tort.
+
+Facts
+Plaintiff was injured by one of Defendant’s players in a professional football game. Defendant’s player intentionally struck Plaintiff, but was not found to have intended to injure him. Neither of the two complained to officials at the time of the injury, but Plaintiff later sued to collect for his personal injuries. The trial court took judicial notice of the violent nature of professional football and found that the only remedies available to Plaintiff would be those administered within the game.
+
+Issue
+Was the Trial Court correct in finding that Plaintiff had no remedy at law due to the extremely violent nature of professional football?
+
+Held
+No. The judgment was reversed and remanded for a new trial. Despite the generally violent nature of professional football, there are rules prohibiting certain conduct such as the intentional striking of other players. The very existence of such rules demonstrates that there are boundaries to what constitutes acceptable behavior in the sport, and Plaintiff was entitled to a determination of whether his rights were violated.
+
+Discussion
+The Court was called upon to analyze an implied consent defense. The trial court clearly found that one engaging in professional football was aware of its dangers and therefore surrendered his rights to seek redress for injuries sustained in the process. The Court explains here, however, that there is a question of scope to such consent, and the mere understanding of a sport’s generally violent nature does not extinguish all rights to recover for truly egregious conduct that is beyond the pale even of what professional football commonly entails.
+

@@ -1,0 +1,21 @@
+Citation
+420 U.S. 770, 95 S. Ct. 1284, 43 L. Ed. 2d 616, 1975 U.S. 52.
+
+Brief Fact Summary
+The Petitioners were tried under a six-count indictment alleging a variety of federal gambling offenses. Each of the eight Petitioners, along with seven un-indicted co-conspirators and six co-defendants, were charged with conspiring to violate 18 U.S.C. Section:1955, a federal gambling statute making it a crime for five or more persons to conduct, manage, supervise, direct or own a gambling business prohibited by state law.
+
+Synopsis of Rule of Law
+The Wharton Rule only applies to a limited category of offenses, including: adultery, incest, bigamy and dueling and is merely a judicial presumption to be applied in the absence of legislative intent.
+
+Facts
+The Petitioners were tried under a six-count indictment alleging a variety of federal gambling offenses. Each of the eight Petitioners, along with seven un-indicted co-conspirators and six co-defendants, were charged with conspiring to violate 18 U.S.C. Section:1955, a federal gambling statute making it a crime for five or more persons to conduct, manage, supervise, direct or own a gambling business prohibited by state law. Each Petitioner was convicted of both offenses and each was sentenced under both the substantive and conspiracy counts. The Court of Appeals for the Third Circuit affirmed, finding an exception to Wharton’s Rule permitted prosecution and punishment for both the substantive crime and the conspiracy offense.
+
+Issue
+Does the traditional application of Wharton’s Rule, a rule requiring that a conspiracy indictment be dismissed before trial on a substantive, completed offense that was the target of the conspiracy, apply to a charge for conspiracy under Section:1955?
+
+Held
+The history and structure of the Organized Crime Control Act of 1970 (the Act) manifest a clear and unmistakable legislative judgment that more than outweighs any presumption of merger between the conspiracy to violate Section:1955 and the consummation of that substantive offense. As a result, under this exception to the Wharton Rule, punishment and prosecution for both the conspiracy and the completed offense is permitted. The judgment of the Court of Appeals is affirmed.
+
+Discussion
+The Wharton Rule applies to categories of cases where the parties to the agreement are the only persons who participate in the commission of the substantive offense. Alternatively, in the case before the court, the harm attendant upon the commission of the substantive offense is not restricted to the parties to the conspiracy agreement. The large-scale gambling operation that was at issue in this case is the type of operation that sought to elicit the participation of additional persons outside of the conspiracy. As a result, the Wharton Rule has no applicability to the case before the court.
+

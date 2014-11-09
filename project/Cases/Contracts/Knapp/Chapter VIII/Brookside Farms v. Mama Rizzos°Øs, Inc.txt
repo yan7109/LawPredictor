@@ -1,0 +1,21 @@
+Citation
+22 Ill.873 F. Supp. 1029 (S.D. Tex. 1995)
+
+Brief Fact Summary
+This case involves a requirements contract for the shipment and purchase of basil, which was subsequently modified by oral agreement.
+
+Synopsis of Rule of Law
+The Statute of Frauds (SOF) will not bar an oral contract modification where one party reasonably relied upon the modification and where the oral agreement did not materially alter the terms of the original agreement.
+
+Facts
+The Plaintiff, Brookside Farms (Plaintiff), entered into a requirements contract with the Defendant, Mama Rizzo’s Inc (Defendant). Under the terms of the contract, the Defendant agreed to buy a minimum amount of basil from the Plaintiff for a one-year period. The contract contained two price terms, depending on the season. The contract also contained a clause prohibiting oral modifications. After the contract was executed, the Defendant orally requested that the Plaintiff remove the stems from basil leaves. The Plaintiff agreed to this additional duty in exchange for an additional $.50 per pound. The Defendant promised he would make a note of this agreement on the original contract. Shortly after, the Defendant discontinued its order for basil leaves for approximately a two-month period. When the Defendant resumed its purchases, the parties agreed to a higher price per pound and two price modifications were made to the contract. The Plaintiff then issued 21-purchase orders and
+
+Issue
+Can a requirements contract for the sale of goods that prohibits oral modifications be validly modified by an oral agreement?
+
+Held
+Yes. The Plaintiff’s Motion for Summary Judgment is granted with respect to claims that the Defendant breached contract. The Defendant’s Motion for Summary Judgment is denied.
+
+Discussion
+The court first examined the Texas SOF and its exceptions and reasoned that the SOF does not bar oral modifications that do not materially change the terms of a written agreement. The court also looked to the fact that the Defendant promised to reduce the oral modification to writing by noting it on the original contract. This notation constituted a valid writing under the SOF; thus, the SOF was satisfied. Also, as the Plaintiff relied upon the Defendant’s promise to make this writing, the oral modification was also valid by estoppel. The court also looked to the Uniform Commercial Code (UCC), which codifies the duty of good faith and fair dealings in commercial transactions and requires merchants to observe reasonable commercial stan
+

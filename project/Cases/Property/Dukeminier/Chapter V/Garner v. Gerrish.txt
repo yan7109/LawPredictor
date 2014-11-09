@@ -1,0 +1,21 @@
+Citation
+63 N.Y.2d 575, 483 N.Y.S.2d 973, 473 N.E.2d 223 (1984)
+
+Brief Fact Summary
+Executor of landlord’s will filed suit to evict a tenant who was in possession of a lease that gave him the right to end the tenancy on a date of his choice.
+
+Synopsis of Rule of Law
+A lessor can create a lease in which the lessee possesses the sole power to terminate the lease, which creates a life tenancy in the lessee.
+
+Facts
+The Defendant, Mr. Gerrish (Defendant), leased property by a printed form with blanks that were filled in by the landlord, as well as a provision allowing the Defendant to terminate the lease “at a date of his own choice.” The landlord died leaving the Plaintiff, Mr. Garner (Plaintiff), to execute his estate. The Plaintiff served the Defendant with a notice to quit to premises. The Defendant refused and Plaintiff sued to evict him. Both lower courts found for the Plaintiff, stating that the lease was indefinite and uncertain and therefore created a tenancy at will, which the Plaintiff could terminate with proper notice. Defendant appealed.
+
+Issue
+Whether a lease granting the tenant the right to terminate the agreement at a date of his choice creates a determinable life tenancy or merely establishes a tenancy at will.
+
+Held
+Reversed. The lease creates a life tenancy, which can be terminated by the lessee or at the latest, upon his death.
+
+Discussion
+The court discussed and then abandoned the old English notion of livery and seisin. This notion dictated that there was an implied right of the lessor to terminate the lease, even if there were only terms in the lease allowing the lessee to terminate the lease. The reason the court found to abandon this common law was that it frustrated the purpose and intent of the parties and terms of the lease.
+

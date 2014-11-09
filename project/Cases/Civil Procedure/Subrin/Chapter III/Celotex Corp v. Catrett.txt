@@ -1,0 +1,24 @@
+Citation
+477 U.S. 317, 106 S. Ct. 2548, 91 L. Ed. 2d 265, 1986 U.S. 118
+
+Brief Fact Summary
+The Respondent, Catrett (Respondent), filed suit alleging that the death of her husband resulted from his exposure to products containing asbestos manufactured or distributed by 15 named corporations, including the Petitioner, the Celotex Corporation (Petitioner). Petitioner filed a motion for summary judgment, without offering any evidence contradicting Respondent’s claim that Respondent had failed to produce sufficient evidence supporting its claim.
+
+Synopsis of Rule of Law
+To survive a motion for summary judgment under Federal Rule of Civil Procedure (FRCP) Rule 56(c), the party with the burden of proof at trial must make showing sufficient to establish the existence of an element essential to that party’s case.  Moreover, the party moving for summary judgment is not require to support its motion with evidence negating the opponents claim.
+
+Facts
+Respondent filed suit alleging that the death of her husband resulted from his exposure to products containing asbestos manufactured or distributed by 15 name corporations, including Petitioner.  Petitioner’s filed a motion for summary judgment on the grounds that Respondent had failed to produce evidence that any of Petitioner’s products were the proximate cause of the injuries alleged.  In response to the motion, Respondent produced three documents that she claimed demonstrate there is a genuine material factual dispute as to whether the decedent had ever been exposed to Petitioner’s asbestos products.  The district court granted Respondent’s motion. The court of appeals Reversed.
+
+Issue
+This case concerns what a party with the burden of proof at trial must show in order to survive a motion for summary judgment under FRCP Rule 56(c).
+
+Held
+The Supreme Court of the United States (Supreme Court) reversed the court of appeals and remanded the case to the district court with an order to grant the motion for summary judgment.
+
+Dissent
+Justice William J. Brennan (J. Brennan) dissented, in which he was joined by Justice Harry A. Blackmun (J. Blackman).  J. Brennan’s dissent stressed that merely pointing out to the court that the party with the burden of proof at trial lacks sufficient evidence to support its claim is insufficient to warrant granting summary judgment.  Instead, he would have held that the party seeking summary judgment must affirmatively demonstrate that there is no evidence in the record to support a judgment for the nonmoving party.
+
+Discussion
+The Supreme Court based its decision on the fundamental purpose of the summary judgment rule.  That purpose being to dispose of claims or defenses unsupported by evidence before a trial begins and therefore saving the court system a needless trial. Thus, the Supreme Court will grant the motion whenever a party can point out to the court that the other party has no evidence supporting its claim, without requiring the party seeking summary judgment to disprove the opposing party’s claim.
+

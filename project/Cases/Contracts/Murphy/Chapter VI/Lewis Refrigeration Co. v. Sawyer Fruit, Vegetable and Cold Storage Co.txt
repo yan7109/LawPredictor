@@ -1,0 +1,21 @@
+Citation
+22 Ill.709 F.2d 427 (6th Cir. 1983)
+
+Brief Fact Summary
+Plaintiff sold Defendant a cold storage unit. The contract included a provision that provided Plaintiff would repair any malfunctioning part and provided several warranties to the unit’s performance. Another provision provided rescission of the contract was the only remedy for breach of contract.
+
+Synopsis of Rule of Law
+A provision in a contract, controlling damages, fails if it does not fulfill its purpose.
+
+Facts
+Plaintiff sold Defendant a cold storage unit. The contract contained warranties that the unit could process six thousand pounds of fruit per hour and that it would use 1.8 liquid pounds of Freon per one hundred pounds of fruit. The contract also stated that if the unit did not function properly, Plaintiff would repair it. A provision concerning the remedy for breach of contract stated that rescission was the only remedy and did not allow for consequential damages. After some disagreement, Plaintiff sued Defendant for the balance left on the contract. Defendant counterclaimed on the basis that the provision concerning remedy for breach of contract, alleging that the provision did not meet its purpose, was unconscionable. The jury awarded Defendant damages for lost profits and excess Freon.
+
+Issue
+Should the jury have been allowed to determine whether or not the provision against consequential damages meet its central purpose? Should the jury have been instructed that it could award consequential damages?
+
+Held
+The court said yes, on the first question and remanded the second.
+
+Discussion
+The repair or rescind portion of the contract was valid as long as it fulfilled it’s purpose, to keep the parties of the contract in the positions they hoped to achieve by entering into the contract. A determination that it did not would render it v
+

@@ -1,0 +1,21 @@
+Citation
+222 F. Supp. 936 (S.D Iowa 1963)
+
+Brief Fact Summary
+Boss (D) entered a contract with How & Assoc. (P) for architectural services on behalf of a corporation not yet founded.
+
+Synopsis of Rule of Law
+Promoters are liable on contracts they entered into on behalf of a corporation yet formed unless the other party agreed to hold someone else for payment.
+
+Facts
+<p>Boss (D) contracted architectural services from How & Assoc. (P). They were to design a building for Boss’ (D) new corporation. Boss (D) signed the contract as the agent for the corporation to be formed which was the obligor. The corporation was never formed, and the design never constructed. How & Assoc (P) sued for contract price, alleging Boss (D) liable as corporate promoter.
+
+Issue
+Are promoters are liable on contracts they entered into on behalf of a corporation yet formed unless the other party agreed to hold someone else for payment?
+
+Held
+(Hanson, J.) Yes. Promoters are liable for contracts they entered into for corporations to be founded. There are 3 exceptions : (1) the contract is treated as an option for the corporation and can be accepted when it forms, where the promoter agrees to form the corporation to give it the opportunity to pay. (2) a novation where the corporation assumes the promoter’s liability and replaces him in the contract; and (3) the promoter remains liable even after the formation only as security. Boss (D) argues his signature as agent for the corporation that is to be obligor makes only the corporation liable. To determine ambiguous phrases, it is necessary for the court to examine the contract as a whole. Much of the performance due would have been finished before the formation of the new contract. As a general rule, the promoter will be held liable in the prior phrases, unless another agreement nullifies it. Since this was not the case, and no factual evidence points to another conclusion, the promoter is liable. Boss (D) did not plead novation, his only defense would have been claiming that the contract was really a continuing offer and not valid until accepted by the new corporation. With no showing of this, judgment for Stanley J. How & Assoc., Inc. (P).
+
+Discussion
+Policy decides in this case instead of statutory authority. Normally, the law excuses an agent from liability when the agent enters into a contract under agency capacity. The principal’s background is what enticed the other party into agreement. When the principal is not yet formed, it is assumed that the agent’s background enticed the other party into agreement.
+

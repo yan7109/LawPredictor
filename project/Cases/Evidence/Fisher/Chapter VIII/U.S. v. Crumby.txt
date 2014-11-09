@@ -1,0 +1,21 @@
+Citation
+547 U.S. 1087
+
+Brief Fact Summary
+David Crumby (Defendant) was indicted for bank robbery and aid and abet; after the indictment, Defendant took a polygraph test, which he passed.  Defendant seeks to have the results of that test admitted into evidence at his criminal trial.
+
+Synopsis of Rule of Law
+When the prosecution has impeached a criminal Defendant’s credibility and also impeached the criminal Defendant’s testimony by contradiction, the criminal Defendant may introduce, to support his own testimony, evidence that he took and passed a polygraph examination.
+
+Facts
+Defendant worked at a bank in Arizona; after the bank was robbed, police arrested Thomas Riley (Riley), who claimed that Defendant had acted as the “inside man” in the crime.  Defendant, subsequent to the robbery, submitted to a polygraph test and answered questions about his involvement in the robbery.
+
+Issue
+Are the results of the polygraph test to which Defendant submitted admissible at Defendant’s criminal trial for bank robbery and aid and abet?
+
+Held
+Yes; the evidence is admissible under Federal Rule of Evidence 702 as scientific evidence, but the use of the evidence must be narrowly tailored to the circumstances for which it is relevant, and the prosecution must be given sufficient notice of Defendant’s intention to use the test and a reasonable opportunity to administer its own test.
+
+Discussion
+The court notes that its holding (that polygraph evidence is admissible) is limited to impeachment evidence; the court does not address the issue of the general admissibility of all polygraph evidence.  The court further points out that Defendant is only permitted to introduce such evidence if he complies with the court’s conditions (that the prosecution be given notice and an opportunity to administer its own test).  The court summarizes its decision:
+

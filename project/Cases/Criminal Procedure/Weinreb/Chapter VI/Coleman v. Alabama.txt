@@ -1,0 +1,27 @@
+Citation
+399 U.S. 1, 90 S. Ct. 1999, 26 L. Ed. 2d 387 (1970)
+
+Brief Fact Summary
+Petitioners were not allowed counsel at a lineup or at a preliminary hearing, and they were convicted of assault with intent to murder.
+
+Synopsis of Rule of Law
+Failing to provide counsel at a preliminary hearing is an unconstitutional denial of assistance of counsel.
+
+Facts
+In the absence of counsel, petitioners were shown in a police lineup and required to say words used by one of the attackers.  At this lineup, the victim was able to identify them.  The petitioners were not provided counsel at a preliminary hearing that was not required by Alabama law, but the state did not use anything from the preliminary hearing at the trial.  The petitioners were convicted of assault with intent to murder, appealed and were unsuccessful.  The Supreme Court of Alabama denied review of the convictions and the petitioners were granted certiorari.
+
+Issue
+Are a criminal defendant’s rights to counsel denied by their not being presented with the assistance of an attorney at a preliminary hearing?
+
+Held
+Yes.  Vacate the convictions and remand the case for a determination of whether the denial of right to counsel here was either harmless or prejudicial error.
+
+Concurrence
+Justice Hugo Black stated that the right to counsel at the preliminary hearing was guaranteed by the Sixth and Fourteenth Amendments as opposed to any right to a “fair trial.”
+
+Dissent
+Justice Warren Burger dissented in saying that the constitution did not require assistance of counsel at the preliminary hearing, but concurred in saying that the lineup procedure did not give rise to a substantial possibility of misidentification.
+
+Discussion
+This is a very important case in its clear requirement that assistance of counsel must be given to a criminal defendant at a preliminary hearing.  This case, plus other cases such as United States v. Wade, 388 U.S. 218 (1967), and Miranda v. Arizona, 384 U.S. 436 (1966) have created a body of opinions giving some clarity to the question of when the right to counsel attaches.
+

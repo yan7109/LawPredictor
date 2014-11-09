@@ -1,0 +1,21 @@
+Citation
+412 U.S. 918, 93 S. Ct. 2729, 37 L. Ed. 2d 144, 83 LRRM 2276 (1973)
+
+Brief Fact Summary
+In the course of an action equivalent to a derivative suit against a union, appellants request that appellee’s law firm be disqualified on the grounds that it was previously retained as counsel for three of the individual officer-defendants.
+
+Synopsis of Rule of Law
+Attorneys may not represent plaintiffs in a derivative suit against a corporation if they have previously individually represented its officers in related matters.
+
+Facts
+Plaintiff is bringing suit against Defendant under Section:501 of the Labor-Management Reporting and Disclosure Act alleging violation of fiduciary duties and demanding an accounting of disbursed funds and restitution of allegedly misappropriated funds. (This claim of action is basically equivalent to a derivative suit brought by shareholders of a corporation, in that union members are bringing suit on behalf of the organization to enforce the organization’s rights.) Appellants now argue that D.C. law firm Williams and Connolly should be disqualified from further representation due to its prior and contemporary representation of the individual officer-defendants in related matters.
+
+Issue
+Should Williams and Connolly be disqualified from further representation?
+
+Held
+Yes. Having already represented the officer-defendants in previous matters on an individual basis, the firm should not be allowed to continue representation of the union even after withdrawing its representation of the individual officers.
+
+Discussion
+Is it clear that Williams and Connolly have been able to continue representing the union had it not also been representing individual officers in related matters?
+

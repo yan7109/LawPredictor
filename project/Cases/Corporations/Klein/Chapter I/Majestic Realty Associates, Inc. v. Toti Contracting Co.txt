@@ -1,0 +1,21 @@
+Citation
+30 N.J. 425, 153 A.2d 321 (1959)
+
+Brief Fact Summary
+Plaintiffs, building owner Majestic Realty and tenant Bohen’s Inc., brought an action against Defendants, independent-contractor Toti Contracting and the Parking Authority of the city of Patterson, New Jersey, for the damage done to the property while Defendants demolished an adjoining building.
+
+Synopsis of Rule of Law
+Some actions are so inherently dangerous that a party can not delegate their liability for the duty of care to another party.
+
+Facts
+The Parking Authority hired Toti to demolish several buildings near Plaintiffs to make room for a parking structure.  Plaintiffs’ property was damaged when Toti began demolishing the building that adjoined Plaintiffs’ building.  The Parking Authority hired Toti as an independent contractor and did not control the manner in which Toti demolished the buildings.
+
+Issue
+The issue is whether the Parking Authority is liable for damages caused by the negligent actions of an independent contractor.
+
+Held
+The Parking Authority is liable for Toti’s negligence because the demolition work was so inherently dangerous that a party can not delegate the liability.  Public policy dictates that the party hiring the contractor, although innocent of any direct negligence, should bear the burden of damages over a party that is completely innocent.
+
+Discussion
+The demolition work was not classified as ultra-hazardous, which would have made the defendant liable per se for any damages.  By holding the party contracting out the work responsible for the contractor’s negligence, the court hopes to instill better hiring practices by defendants.
+

@@ -1,0 +1,21 @@
+Citation
+28 Mass. App. Ct. 780, 556 N.E.2d 121, 1990 Mass. App.
+
+Brief Fact Summary
+Plaintiff, the administratrix of Janette Christopher, who died from pneumonia stemming from her hospitalization for lead poisoning, moved to amend her complaint to include new Defendants under the original injury action.
+
+Synopsis of Rule of Law
+A court, under Federal Rule of Civil Procedure 15, can deny a plaintiff’s motion for a leave to amend if new defendants would be prejudiced by the delay.
+
+Facts
+Janette Christopher was a child who suffered from lead poisoning.  She was taken to the hospital for chelation treatment and subsequently died from pneumonia.  Plaintiffs initially brought an action against the former and current owners of the apartment and John Duffy who was hired to remove the lead paint.  Plaintiffs settled with everyone but Duffy, and they amended their claim to include five manufacturers of lead paint.  The amendment would be six years after the injury, and after Duffy already died.  The trial court denied the leave to amend because the new Defendants would be prejudiced by the having to respond to the delayed claims.
+
+Issue
+The issue is whether the lower court abused their discretion in denying Plaintiff’s leave to amend her complaint.
+
+Held
+The court held that it was not an abuse of discretion and that the leave should have been denied.  The court cited Massachusetts Rule of Civil Procedure (which parallels Federal Rule 15) as support for a judge to deny a leave for amendment when there is a good reason to deny it.  The prejudice to the new Defendants would be great since it is six years after the fact and the most important witness and co-Defendant, Duffy, passed away.
+
+Discussion
+A plaintiff can leave to amend unless there is a good reason to deny it, and therefore the burden is on the other party to argue against the amendment.
+

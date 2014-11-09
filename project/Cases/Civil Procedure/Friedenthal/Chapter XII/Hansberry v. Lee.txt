@@ -1,0 +1,21 @@
+Citation
+22 Ill.311 U.S. 32, 61 S. Ct. 115, 85 L. Ed. 22 (1940)
+
+Brief Fact Summary
+Plaintiffs, a class of landowners, brought suit in Illinois state court to enforce a restrictive covenant that required 95% of the owners to sign it in order to be effective. Plaintiffs argued that a previous case establishing that 95% of the owners signed the covenant was binding on Plaintiffs and Defendant. The Court agreed with this argument and the Supreme Court of Illinois affirmed.
+
+Synopsis of Rule of Law
+A party is not bound by res judicata from a previous class action if the party was not adequately represented at the prior proceeding. A case cannot be considered a “class action” if a class member’s failure to enforce a right would create a conflict of interest with another class member’s enforcement.
+
+Facts
+Plaintiffs, class of landowners, brought suit in Illinois state court to enforce a restrictive covenant. The covenant provided that it was not effective unless it was signed by 95% of the owners of the frontage. Defendant Hansberry, an African American, purchased some of the land from an owner who had signed the agreement. The suit was brought to enjoin the sale as a breach of the covenant. An earlier Illinois state court action established that 95% of the owners had signed the covenant. Defendant argued that res judicata did not bind Defendant by this judgment because they were not parties to the action nor were they in privity with the parties or successors in interest. Defendant also argued that it would deny them due process if the prior decision was binding. The Circuit Court held that the issue was binding even though they found that only 54% of the owners had actually signed it. Although the stipulation was untrue, it was not fraudulent or collusive. The Supreme Court o
+
+Issue
+Was the previous lawsuit finding that 95% of the owners signed the restrictive covenant a class action? Is Defendant bound by the finding in the previous lawsuit if Defendant was not adequately represented in the previous lawsuit?
+
+Held
+Both issues: No. Reversed.
+
+Discussion
+The Court’s opinion shows a situation where internal conflict in a prospective class does not satisfy a requirement that the class has a common interest. In addition, even if the previous lawsuit were considered a class action, failure to represent a party’s interest prevents any decision in the previous case from being binding on absent parties.
+

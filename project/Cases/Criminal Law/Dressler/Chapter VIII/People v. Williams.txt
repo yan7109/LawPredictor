@@ -1,0 +1,27 @@
+Citation
+Cal. Sup. Ct., 4 Cal. 4th 354, 841 P.2d 961 (1992)
+
+Brief Fact Summary
+In Williams’s (D) forcible rape case, a request was made by both prosecution and defense that the trial court instruct the jury to find that the defendant had reasonable and good faith but mistaken belief as to the victim’s consent. The court refused, and the jury convicted Williams of forcible rape.
+
+Synopsis of Rule of Law
+In a case of forcible rape, the jury may not be given an instruction on the defendant having had reasonable and good faith but mistaken belief as to the victim’s consent unless there is substantial evidence that the victim showed equivocal conduct which could have resulted in a reasonable and good faith though mistaken belief on the defendant’s part as to the victim’s consent.
+
+Facts
+
+
+Issue
+In a case of forcible rape, may the jury be given an instruction on the defendant having had reasonable and good faith but mistaken belief as to the victim’s consent unless there is substantial evidence that the victim showed equivocal conduct which could have resulted in a reasonable and good faith though mistaken belief on the defendant’s part as to the victim’s consent.
+
+Held
+
+
+Dissent
+N/A
+
+Concurrence
+(Mosk, J.) The majority is mistaken in supposing that there is insufficient evidence to support a mistake-in-fact defense. In fact, such evidence is available, so as to allow a jury to reasonably doubt whether Williams had a reasonable and good faith belief in Deborah’s consent. Such evidence is to be found in Williams’s testimony, if found credible. The majority wrongly thinks that any belief the defendant must have had is obviously mistaken, but such a stance has support neither in logical terms nor from precedence. A wrongful intent as is required in such a crime is not proved to be absent by the presence of a mistaken belief but by the belief itself. Another limitation of insisting upon a mistaken belief here is to make it necessary that the defendant automatically take the position that he was mistaken in his belief about the other’s intentions or consent, with the implicit allegation of lack of consent which is unfounded. A reasonable and honest belief in the other party’s consent and consent by the other party are compatible and actually inevitable in all consensual sex acts. Another objection is that this limitation would always place a bar on the jury as to having a reasonable doubt as to the intent of the defendant until the element of lack of consent is decided in the alleged victim’s favor. This is wrong in that the jury is first forced to decide this element beyond any reasonable doubt if it wants to find the defendant innocent because the reasonable doubt about his belief in consent makes for a lack of wrongful intent. Yet another flaw in the majority opinion is the insistence on equivocal conduct as evidence for a mistake-of-fact defense. Consent and belief in that consent by the parties involved are compatible, and therefore such evidence is sufficient to prove a mistake-of-fact defense but not necessary to it. Even with unambiguous conduct, the fact of consent may be missing, as the motive for cooperating in intercourse may be fear, and thus the act is against the victim’s free will, though the defendant may see her conduct as unequivocal. Thus, the majority opinion is also in error as to the insufficient evidence as a matter of law, when the defendant states the presence of consent while the alleged victim negates it. instead of accepting one in full and rejecting the other as a whole, both could have been assessed and accepted to the extent they are credible. Thus it is possible that the jury could have found that Williams did reasonably believe in Deborah’s consent though her cooperation was out of fear. The fear of the majority might have been that a mistake-of-fact defense is too easy to contrive, and therefore it demands corroboration before accepting such a defense. The evidence shows the contrary, since juries are not very inclined to acquit a rape defendant without good proof to the contrary. However, the conviction is justified, though for reasons other than those given by the majority, which are erroneous.
+
+Discussion
+Only states which classify rape under the category of general-intent crimes have mistake-of-fact defenses. Some states have as a requirement for conviction only that the purpose of the defendant is to have non-consenting sex, while others require only negligence in this area of consent, and still others treat the lack of consent as strict liability. These states do not provide any benefit to the defendant even if a mistake-of-fact defense is proved.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.84 F.3d 734 (5th Cir. 1996)
+
+Brief Fact Summary
+The federal court certified a class described as those that were dependant on nicotine and who smoked Defendant’s cigarettes, their estates and derivative claimants. Defendant appealed class certification arguing that the lower court did not conduct the proper analysis.
+
+Synopsis of Rule of Law
+The District Court is required to consider variations in state law, whether common issues of law and fact predominate over individual issues and the nature and novelty of the claim prior to certifying a class.
+
+Facts
+The District Court certified a class of smokers of American Tobacco’s (Defendant’s) cigarettes that were nicotine dependent. Defendant appealed arguing that the District Court did not conduct a proper analysis under Rule 23(b)(3) and Rule 23(c)(4) of the Federal Rules of Civil Procedure.
+
+Issue
+Did the District Court err in granting class certification without analyzing the extent to which state law varies on the issues raised and whether common questions of law and fact predominate over individual issues?  Is the class action the superior method of adjudication for the injuries allegedly sustained by proposed class members?
+
+Held
+First issue: Yes. Second issue: No. Reversed.  The District Court was required to conduct a survey of state law on the issues presented in order to determine whether or not variances of the issues would make individual cases more feasible than a class action. The court cannot assume that a class action would be more manageable than “a million trials” on the issue unless the manageability of both situations is known.  The District Court must look past the pleadings to the potential issues presented at trial and what issues would predominate in order to determine whether there are sufficient common questions over individual questions warranting class certification.  Class certification is not appropriate in this situation because of the nature of mass tort actions as well as the novelty and specificity of the issues involved.  The class certified alleges addiction as the injury. This may or may not be a viable “injury.” It will be necessary for some individual cases to be tried in order to determine whether this claim is worth trying. Therefore, to certify a class alleging addiction as an injury is to waste judicial resources as a potential failing claim.   In addition, claims based on fraud where reliance is an issue requires individual analysis of each class member’s reliance on Defendant’s product. This will require individual analysis of each claim, which is not an appropriate feature of a class action.  Mass torts should usually not be certified because it creates pressure on the defendant to settle claims that are not necessarily meritorious. Therefore, careful scrutiny of all the issues is required in order to properly determine whether certification is proper.
+
+Discussion
+The Court’s analysis of whether class certification was proper identifies problems associated with mass tort actions in numerous jurisdictions. If the laws of the states are not consistent on the issues, the issues are novel, and/or certain elements require individual analysis, such circumstances argue against class certification. All of these factors should be considered when determining if a mass tort action is proper for class certification.
+

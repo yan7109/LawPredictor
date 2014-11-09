@@ -1,0 +1,21 @@
+Citation
+206 Cal. App. 3d 1376, 254 Cal. Rptr. 179, 1988 Cal. App.
+
+Brief Fact Summary
+A lease did not fix the amount of rent to be paid each month, but instead determined it to be based on a percent of deliveries. The lessee stopped operating before the lease ended, and so only paid a minimal amount of rent.
+
+Synopsis of Rule of Law
+A covenant of continued operation in good faith will be implied into commercial leases containing percentage rental provisions if the minimum rent is not substantial.
+
+Facts
+The College Block (Plaintiff) leased real property to Atlantic Richfield Company (Defendant) for 20 years. Defendant agreed to build and operate a gas station on the property. The rent was determined by a percentage of the gasoline delivered, and irrespective of the gallons delivered, Plaintiff was to receive a minimum of $1000 each month. Thirty-nine months before the lease was to expire, Defendant closed the station and paid Plaintiff the $1000.00 each month for the months remaining on the lease. The lease did not contain an express covenant requiring it to operate the station; Plaintiff claims that the covenant is implied.
+
+Issue
+Does an implied covenant of continued operation arise when a lease does not fix rent, but guarantees a percentage based upon deliveries?
+
+Held
+Yes.
+
+Discussion
+If the base rent is small, a court will usually find an implied covenant to operate a business continuously.
+

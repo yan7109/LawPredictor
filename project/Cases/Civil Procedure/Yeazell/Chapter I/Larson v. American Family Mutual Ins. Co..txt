@@ -1,0 +1,21 @@
+Citation
+06-cv-01355-PSF-MEH, 2007 BL 241998 (D. Colo. Mar. 27, 2007)
+
+Brief Fact Summary
+Larson retains attorney Brad Ross-Shannon to pursue a claim against their homeowners’ insurance company, which failed to pay a house fire claim.  The attorney did not pursue the claim and was fired.  Larson seeks to add Ross-Shannon as an additional defendant in the case.
+
+Synopsis of Rule of Law
+Rule 20(a)(2)(A) provides that all persons may be joined in one action as defendants if there is asserted against them “any right to relief… arising out of the same transaction, occurrence, or series of transactions or occurrences.”
+
+Facts
+Larson retains attorney Brad Ross-Shannon to pursue a claim against their homeowners’ insurance company, which failed to pay a house fire claim.  The attorney did not pursue the claim because he was seeking to be hired to represent the same insurance company in other matters.  Larson obtains new counsel and sues the insurance company.  The insurance company removes the case to federal court on the basis of diversity.  Larson later seeks to add Ross-Shannon as an additional defendant in the case for breach of contract and bad faith for delaying payment of the claim.
+
+Issue
+Whether the defendant’s amendment should be allowed because 1) discovery taken since March 27, 2007 reflects that plaintiffs’ motion to amend was not timely filed and that the civil conspiracy claim is unsupportable and therefore arguably futile; and 2) the joinder of the new parties should not be allowed under F.R.Civ.P.20(a) because if the civil conspiracy claim is not allowed, the new claims do not arise out of the same transactions or occurrences as the other claims.
+
+Held
+Joinder is permitted and the case is to be remanded to the State court
+
+Discussion
+Timeliness of the Plaintiffs’ Motion to Amend:  Defendants argument that the plaintiffs knew of the purported claims no later than February 2006 (added February 2007) was rejected, the court found that the Plantiffs did not have sufficient evidence to support their claims until the discovery period had began and waited to file until they believed they had adequate information to assert such claims.
+

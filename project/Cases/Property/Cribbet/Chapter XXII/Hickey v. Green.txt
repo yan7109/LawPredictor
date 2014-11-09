@@ -1,0 +1,21 @@
+Citation
+22 Ill.14 Mass. App. Ct. 671, 442 N.E.2d 37 (App. Ct. 1982)
+
+Brief Fact Summary
+Green (Defendant) orally agreed to sell Plaintiffs a parcel for $15,000.00, and Plaintiffs gave a check for $500.00 as a deposit to Defendant. Then, Defendant told Plaintiffs that she no longer intended to sell her property to Plaintiffs, but that she would sell to another for $16,000.00. Plaintiffs offered to pay the same, but Defendant refused the offer.
+
+Synopsis of Rule of Law
+“A contract for the transfer of an interest in land may be specifically enforced notwithstanding failure to comply with the Statute of Frauds if it is established that the party seeking enforcement, in reasonable reliance on the contract, and on the assent of the party against whom enforcement is sought, has so changed his position that injustice can be avoided only by specific enforcement.” Restatement (Second) of Contracts Section:129 (1981).
+
+Facts
+Defendant orally agreed to sell Plaintiffs a parcel for $15,000, and Plaintiffs gave a check for $500 as a deposit to Defendant, with writing on the back of the check indicating that the check was a deposit on a specified lot. The Defendant did not cash the check, and in the meantime, Plaintiffs agreed to sell their home, taking a $500.00 deposit from someone else. Then, Defendant told Plaintiffs that she no longer intended to sell her property to Plaintiffs, but that she would sell to another for $16,000.00. Plaintiffs second offer to buy the property for the increase sales price was refused. The Plaintiffs then filed a complaint for specific performance. The Defendant claimed that the suit was barred by the statute of frauds.
+
+Issue
+Is the suit barred by the statute of frauds?
+
+Held
+No. The case is remanded to determine the remedy.
+
+Discussion
+Note that the Restatement section referenced above is the doctrine of part performance. The concept is the same, but the analysis is a bit different. Here there was no requirement that the Plaintiffs actually take possession. The court was satisfied that their change in circumstances, together with the writings on the backs of the checks and other circumstances such as the timeline, indicated the existence of a promise.
+

@@ -1,0 +1,21 @@
+Citation
+392 U.S. 273, 88 S. Ct. 1913, 20 L. Ed. 2d 1082 (1968)
+
+Brief Fact Summary
+An individual refused to waive his privilege against self-incrimination and was dismissed from his position as a New York City patrolman.
+
+Synopsis of Rule of Law
+The provision of the New York City charter allowing a police officer to be dismissed if he does not waive his constitutional right against self-incrimination cannot stand.
+
+Facts
+The Appellant appeared in front of a New York County grand jury after receiving a subpoena.  The grand jury was charged to investigate allegations of bribery and corruption of police officers in connection with unlawful gambling operations.  The grand jury was to examine the Appellant about the performance of his official duties.  The Appellant was informed about his privilege against self-incrimination, but was asked to sign a “waiver of immunity”.  If the Appellant did not sign, he would have been fired.  The Appellant refused to sign and was discharged from his position after an administrative hearing.
+
+Issue
+“[W]hether a policeman who refuses to waive the protections which the privilege gives him may be dismissed from office because of that refusal[?]”
+
+Held
+“Here, petitioner was summoned to testify before a grand jury in an investigation of alleged criminal conduct. He was discharged from office, not for failure to answer relevant questions about his official duties, but for refusal to waive a constitutional right. He was dismissed for failure to relinquish the protections of the privilege against self-incrimination. The Constitution of New York State and the City Charter both expressly provided that his failure to do so, as well as his failure to testify, would result in dismissal from his job. He was dismissed solely for his refusal to waive the immunity to which he is entitled if he is required to testify despite his constitutional privilege.”
+
+Discussion
+The court here distinguishes two cases [Garrity v. New Jersey] and [Spevack v. Klein].
+

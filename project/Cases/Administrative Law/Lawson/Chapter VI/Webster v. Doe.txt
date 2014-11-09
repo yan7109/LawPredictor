@@ -1,0 +1,21 @@
+Citation
+486 U.S. 592, 108 S. Ct. 2047, 100 L. Ed. 2d 632, 3 IER Cases 545, 46 FEP Cases 1671 (1988)
+
+Brief Fact Summary
+The Director of the Central Intelligence Agency (CIA) determined that Respondent John Doe’s homosexuality presented a security threat, and terminated his employment pursuant to authority under Section:102(c) of the National Security Act (Act). Respondent filed an action in District Court, and the CIA (Petitioner) moved to dismiss on the ground that Section:102(c) precluded judicial review of the Director’s determination.
+
+Synopsis of Rule of Law
+Under APA Section:701(a)(2), even when Congress has not affirmatively precluded judicial oversight, “review is not to be had if the statute is drawn so that a court would have no meaningful standard against which to judge the agency’s exercise of discretion.” However, there is a heightened standard for congressional intent with respect to precluding constitutional claims: clear congressional intent must be demonstrated.
+
+Facts
+Respondent was an exemplary employee of the CIA for several years, and was promoted from a clerk-typist to a covert electronics technician. He voluntarily told the CIA that he was homosexual, and was almost immediately placed on paid administrative leave. The Director later terminated his employment, finding him to be a security threat.  Respondent filed an action in District Court, and Petitioner moved to dismiss on the ground that Section:102(c) precluded judicial review of the Director’s determination.  Section:102(c) of the Act provided: “The Director of Central Intelligence may, in his discretion, terminate the employment of any officer or employee of the Agency whenever he shall deem such termination necessary or advisable in the interests of the United States.”  The District Court concluded that the APA provided judicial review under the Act, and that Respondent was unlawfully discharged because the CIA had not followed its own procedures described in its own regulations. A divided panel of the Court of Appeals determined that judicial review was not precluded.
+
+Issue
+Were decisions of the Director under Section:102(c) reviewable, and if so, to what extent?
+
+Held
+Affirmed in part, reversed in part, and remanded for further proceedings.   The language and structure of Section:102(c) indicate that Congress meant to commit individual employee discharges to the Director’s discretion, and Section:701(a)(2) accordingly precludes judicial review of those decisions under the APA. Reversed the Court of Appeals to the extent that it found such terminations reviewable by the courts.     However, Section:102(c) cannot be read to preclude constitutional claims. Where Congress intends to preclude judicial review of constitutional claims, its intent to do so must be clear. Petitioner’s colorful constitutional claim was not precluded.   Dissent. Justice Scalia agreed with the Court that the Director’s decision to terminate a CIA employee is “committed to agency discretion by law,” but could not understand how decision could be both unreviewable and yet reviewable for constitutional defect, as the court held.  Concurring in part, Dissenting in Part. Justice O’Connor agreed that the APA does not authorize judicial review of the employment decisions referred to in Section:102(c) because the statute does not provide a meaningful standard for judicial review, but disagreed with the Court’s conclusion that a constitutional claim could nonetheless be brought in a federal district court.
+
+Discussion
+While the Court found Respondent’s claim unreviewable under the APA, it was unwilling to leave Respondent without a judicial remedy. The solution the Court employed was to differentiate between the employment decision, which was unreviewable, and the constitutional claim, which it found to be reviewable.
+

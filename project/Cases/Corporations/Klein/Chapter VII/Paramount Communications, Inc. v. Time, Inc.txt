@@ -1,0 +1,21 @@
+Citation
+571 A.2d 1140, 565 A.2d 280 (Del. 1989)
+
+Brief Fact Summary
+Plaintiffs, Paramount Communications, Inc. et al., sought to enjoin Defendants, Time, Inc. et al., from moving forward with a tender offer for 51% of the shares of Warner Communications, Inc.  Paramount made its own bid to acquire control of Time.
+
+Synopsis of Rule of Law
+Directors are not required to favor a short-term shareholder profit over an ongoing long-term corporate plan as long as there is a reasonable basis to maintain the corporate plan.
+
+Facts
+Time decided to seek a merger or acquire a company to expand their enterprise.  After researching several options, Time decided to combine with Warner.  Time was known for its record of respectable journalism, and Warner was known for its entertainment programming.  Time wanted to partner with a company that would ensure that Time would be able to keep their journalistic integrity post-merger.  The plan called for Time’s president to serve as CEO while Warner shareholders would own 62% of Time’s stock.  Time was concerned that other parties may consider this merger as a sale of Time, and therefore Time’s board enacted several defensive tactics, such as a no-shop clause, that would make them unattractive to a third party.  In response to the merger talks, Paramount made a competing offer of $175 per share which was raised at one point to $200.  Time was concerned that the journalistic integrity would be in jeopardy under Paramount’s ownership, and they believed that shareholder
+
+Issue
+The issue is whether Time’s proposed merger acts as a sale of Time that would trigger a Revlon analysis that would render the merger invalid.
+
+Held
+The Delaware Supreme Court affirmed the lower court’s holding in Defendant’s favor.  The court distinguished the Revlon decision as concerning a company that already was determined to sell itself off to the highest bidder, and therefore the only duty owed at that point was to the shareholders.  In this case, Time only looked as if it were for sale as it moved forward on a long-term expansion plan.  Various facts, such as Time’s insistence on ensuring the journalistic independence and it’s temporary holding of the CEO position, illustrated that the directors were not simply selling off assets.  Once it was determined that the directors’ decision passed the Revlon test, the Unocal test was applied.  The directors also passed the higher standard called for in Unocal to directors who are rebuffing a potential buyer.  The directors reasonably believed, after researching several companies, that a merger with Warner made the most sense as far as future opportunities and maintaining th
+
+Discussion
+The court has now applied a dual Revlon/Unocal test to determine if the directors acted reasonably.  Once it is determined that a company is not simply putting itself up for sale, then the courts will apply the Unocal standard.
+

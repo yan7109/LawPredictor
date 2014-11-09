@@ -1,0 +1,21 @@
+Citation
+22 Ill. 383 U.S. 363, 86 S. Ct. 845, 15 L. Ed. 2d 807 (1966)
+
+Brief Fact Summary
+Plaintiff, one of Defendant’s shareholders, brought a shareholder derivative action against Defendant alleging Defendant’s officers and directors defrauded millions of dollars from the shareholders. Plaintiff submitted an affidavit verifying the allegations of the complaint, which is allegedly required by the federal rule. Defendant moved to dismiss on the grounds that the complaint was a “sham” and Plaintiff was not a proper party because Plaintiff did not understand or know anything about the complaint.
+
+Synopsis of Rule of Law
+In a shareholder derivative action, the Plaintiff need not know every detail about the complaint, nor understand that a lawsuit has been filed alleging certain claims. The good faith allegations made by a lawyer suffice to require the Defendant to respond to the complaint.
+
+Facts
+Surowitz, Plaintiff, bought stock in Hilton Hotels Corp., Defendant, with the aid of her son-in-law, Irving Brilliant. Plaintiff received a notice that Defendant was going to buy a lot of its own stock. Plaintiff sent this notice to Brilliant, who investigated the matter with one Rockler. On the basis of their investigation, they concluded that Defendant was engaged in a fraudulent scheme and explained the situation to Plaintiff. On this basis, Plaintiff agreed that the complaint be filed in her name. The complaint was a shareholders’ derivative action alleging the officers and directors of Defendant had defrauded Defendant of several million dollars. Rockler prepared the complaint and sent it to Brilliant. Brilliant showed Plaintiff an affidavit, took Plaintiff’s testimony and sent the affidavit after Plaintiff verified the complaint. Because Plaintiff had limited English speaking skills and a limited education, Plaintiff did not understand very much about the actual allegati
+
+Issue
+Should Plaintiff’s case been dismissed as frivolous even though lawyers had investigated the allegations in the complaint prior to filing the lawsuit?
+
+Held
+No. Reversed and remanded.
+
+Discussion
+This case demonstrates that evidence of a pre-filing investigation or other evidence demonstrating good faith is relevant in determining whether or not a complaint is “frivolous.” It should be noted that this case is a shareholder derivative action and not an average civil action where there are few plaintiffs. The analysis hinges on whether the Plaintiff is a proper representative, not whether she knew her lawyer would file a lawsuit.
+

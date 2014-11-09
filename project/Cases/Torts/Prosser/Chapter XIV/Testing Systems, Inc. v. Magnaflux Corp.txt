@@ -1,0 +1,21 @@
+Citation
+251 F. Supp. 286, 149 U.S.P.Q. 129 (E.D. Pa. 1966)
+
+Brief Fact Summary
+The Plaintiff, Testing Systems, Inc. (Plaintiff) and the Defendant, Magnaflux Corp. (Defendant), are both engaged in the same trade. The Defendant published statements saying the United States Government had tested the Plaintiff’s product and the Defendant’s product and found the Defendant’s product to be 40% more effective. This statement was untrue.
+
+Synopsis of Rule of Law
+For a party to sustain an action for trade libel, they must show that the defendant made statements that are false and that these statements led to a loss of business.
+
+Facts
+The Plaintiff and the Defendant are both in the business of making products to be used in non-destructive testing.
+
+Issue
+Should the Defendant’s motion to dismiss the Plaintiff’s claim for failure to state a case be upheld?
+
+Held
+Yes, unless the Plaintiff can amend the claim to include specific clients he lost because of the Defendant’s slander, within thirty days.
+
+Discussion
+Here, the court makes it clear that absent a showing of libel per se (The court fails to say what, exactly that is.) one of the elements to sustain a case of trade liable is a showing of damages.
+

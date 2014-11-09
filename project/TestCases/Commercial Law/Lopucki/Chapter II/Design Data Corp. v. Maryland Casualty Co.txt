@@ -1,0 +1,21 @@
+Citation
+243 Neb. 945, 503 N.W.2d 552, 1993 Neb. 206, 21 U.C.C. Rep. Serv. 2d (Callaghan) 230
+
+Brief Fact Summary
+Design Data Corp., (Plaintiff), brought this suit against Maryland Causalty Co., (Defendant), after Defendant denied Plaintiff’s claim made on a commercial insurance policy. Plaintiff seeks to recover for damages caused to its product while in transit from Plaintiff’s place of business to a buyer’s place of business. Defendant denies coverage of the product claiming Plaintiff had no insurable interest in a product that had been sold to and accepted by a purchaser.
+
+Synopsis of Rule of Law
+Where the revocation of acceptance is timely, the risk of loss remains on the seller.
+
+Facts
+Plaintiff sold a “Hewlitt Packard 7586B Roll-Feed 8-Pen Drafting Plotter” to HHB. Plaintiff arranged for shipment of this product to HHB by carrier. When the product arrived it appeared to be damaged. Shortly thereafter, the president of HHB and Plaintiff’s representative tried to get the product to work unsuccessfully. Plaintiff agreed to replace the product. Plaintiff then filed a claim with its insurance company, Defendant. Defendant denied the claim. Defendant stated that it would not cover any equipment that Plaintiff did not own. Because Plaintiff had delivered the product to the buyer who had accepted it, the risk of loss passed to the buyer and Plaintiff had no insurable interest at the time the damage was discovered.
+
+Issue
+Whether Plaintiff had an insurable interest in its product, damaged in transit to HHB, at the time the damage was discovered at the HHB’s place of business.
+
+Held
+Yes. Since HHB’s revocation of its acceptance was timely, the risk of loss remained on the seller, Plaintiff, and Defendant was obligated to provide coverage.
+
+Discussion
+Although HHB had reason to suspect that the product was damaged, the nature of the damage was not known until the package was opened and an inspection was made. It was reasonable under the circumstances for HHB to allow Plaintiff’s representative who was present to install the product and ascertain the extent of the damage. The revocation of acceptance was timely and therefore the risk of loss remained with Plaintiff. Under the terms of its policy, Defendant was to provide coverage for equipment for which Plaintiff was legally responsible. Therefore, Plaintiff had an insurable interest in the product at the time the damage was discovered.
+

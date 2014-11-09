@@ -1,0 +1,24 @@
+Citation
+483 U.S. 825, 107 S. Ct. 3141,97 L. Ed. 2d 677, 1987 U.S.
+
+Brief Fact Summary
+The Appellants, James and Marilyn Nollan (Appellants), submitted a coastal development permit to the Appellee, the California Coastal Commission (Appellee), to demolish a bungalow and replace it with a three bedroom house in conformance with the neighborhood. The Appellee recommended that the permit be granted only if the Appellants would allow a public easement on their property between two public beaches.
+
+Synopsis of Rule of Law
+Conditions can be placed on building permits by the government so long as the condition is rationally related to the harms the government would seek to prevent that might be caused by the construction.
+
+Facts
+Appellants owned a home on the beach front and a seawall divided the residential lot on the property from the beach portion. The beach portion of the Appellants’ property was located between two public beaches and there was no public easement over the Appellants’ beach. The Appellee conditioned the granting of the permit to construct a new residence on a deed restriction granting an easement from the high tide line to the seawall, which separated the beach portion from the lot. The Appellee articulated that the building of a new larger home would burden visual access and psychological access. Also, it would increase demand for beach access, which could be alleviated by requiring the easement.
+
+Issue
+Does conditioning of a permit to rebuild a house upon granting a public easement constitute a taking?
+
+Held
+Denial of a permit would not be a taking, so conditioning of the permit is not a taking unless the condition itself fails to further the end that would justify the prohibition of construction. Thus, the condition had to be related to the harm caused by the new construction. Permit condition has to serve same purpose as a prohibition.
+
+Dissent
+Justice William Brennan (J. Brennan) would not require a precise fit between the forms of burden and conditions on the permit. It would be a narrow conception of rationality to require the condition to be tailored to address the precise reduction in access caused by the building of the larger house. J. Brennan would allow more general and flexible conditions within the police power.
+
+Discussion
+The right to exclude is a key property right. Public use of the easement would constitute permanent physical occupation that would constitute a taking if demanded outright. However, a condition can be okay if it is reasonably related to a harm that a government can seek to prevent. Here, the harm that Appellee stated was to be prevent was ability to see the beach (visual access) or to overcome psychological barriers to the beach. The harm was not related to the condition because people were already on the beach and seeking to move between the beaches. People already had access to the beach on either side of the property. The mere articulation that more visual access would generally serve the public interest was not enough. The condition must mitigate the harm sought to be prevented by the construction.
+

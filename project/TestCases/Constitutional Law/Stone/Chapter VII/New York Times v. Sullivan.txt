@@ -1,0 +1,21 @@
+Citation
+376 U.S. 254, 84 S. Ct. 710, 11 L. Ed. 2d 686, 1964 U.S. 1655.
+
+Brief Fact Summary
+The Respondent, L.B. Sullivan (Respondent), is one of three elected Commissioners of the City of Montgomery, Alabama. The Respondent brought this action against the Petitioners, four individuals who are African-Americans and Alabama clergymen and against the New York Times (Petitioners). The complaint alleged that the Respondent had been libeled by statements in a full-page advertisement that was carried in the New York Times on March 29, 1960.
+
+Synopsis of Rule of Law
+The constitutional guarantees require a federal rule that prohibits a public official from recovering damages for a defamatory falsehood relating to his official conduct unless he proves that the statement was made with “actual malice,” that is, with knowledge that it was false or with reckless disregard of whether it was false or not.
+
+Facts
+The advertisement in question, titled “Heed Their Rising Voices” described the civil rights movement in the South and concluded with an appeal for funds. The advertisement itself described, in part, the abusive actions of the police and their effect on the African-American population in the city. However, some of the statements in the advertisement were not factually accurate. The basis for the Respondent’s complaint involved the fact that, although the Respondent was not named in the advertisement, he was referred to in his capacity as supervisor of the Montgomery police department. The Respondent did not attempt to prove that he suffered any pecuniary loss as a result of the alleged libel. The jury, after receiving a jury instruction on “libel per se,” returned a judgment for the respondent in the amount of $500,000.
+
+Issue
+Did the advertisement forfeit its otherwise constitutional protection because some of its statements were false?
+
+Held
+The United States Constitution (Constitution) delimits a State’s power to award damages for libel in actions brought by public officials against critics of their official conduct. The case before the Supreme Court of the United States (Supreme Court) was such an action. As a result, the rule requiring proof of actual malice is applicable. As there was no evidence of actual malice in this action, the trial court judgment must be vacated and remanded for a new trial. Furthermore, in the name of judicial administration, the Supreme Court found that the evidence on the record could not sustain a verdict in favor of the Respondent, were a new trial to be ordered.
+
+Discussion
+The actual malice requirement is very difficult for a public official to prove. The Supreme Court crafted this difficult burden with an eye toward public policy. The Supreme Court found that this difficult burden should be applied due to our nation’s desire to have uninhibited, robust and wide-open discourse that, sometimes, includes negative commentary on public officials. The Supreme Court eliminated falsity as a bar to further this policy objective.
+

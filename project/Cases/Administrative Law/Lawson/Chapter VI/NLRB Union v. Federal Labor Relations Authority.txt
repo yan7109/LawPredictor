@@ -1,0 +1,21 @@
+Citation
+834 F.2d 191, 266 U.S. App. D.C. 165, 126 LRRM 3290 (D.C. Cir. 1987)
+
+Brief Fact Summary
+The NLRB Union challenged regulations that were promulgated by the Federal Labor Relations Authority on January 17, 1980, nearly seven years prior to the appeal. The FLRA claimed that judicial review was barred by the sixty day statute of limitations.
+
+Synopsis of Rule of Law
+An agency’s regulations may be attacked in two ways after the statute of limitations has expired. First, a party who possesses standing can challenge the regulations directly on the ground that the issuing agency acted in excess of its statutory authority in promulgating them. The second method is to petition the agency for amendment or rescission of the regulations and then to appeal the agency’s action.
+
+Facts
+Final rules or regulations promulgated by the FLRA must be appealed within sixty days under 5 U.S.C. Section:7123(a).  The NLRB challenged regulations adopted by the FLRA that limited the remedies available to unions when agencies violate their statutory duty to bargain with the unions. The NLRB asked the FLRA to amend the regulations on the ground that they were inconsistent with the organic statute, FLRA refused, and NLRB appealed.
+
+Issue
+Was NLRB barred by the statute of limitations?
+
+Held
+No.   The court has distinguished three types of challenges on appeal. An allegation of a procedural infirmity will not be heard outside of the statute of limitations period. A petitioner’s claim that a regulation suffers a substantive deficiency other than lack of statutory authority can be heard on appeal after an agency denies the petition, but the review is limited to the narrow issues defined by the denial of the petition. Finally, a petitioner’s contention that the challenged regulation should be amended or rescinded because it conflicts from the statute from which its authority derives is reviewable outside the statutory limitations period.  NLRB’s challenge fell within the third category and warranted judicial consideration.   Dissent. None.  Concurrence. None.
+
+Discussion
+The Court distinguished between indirect attacks on the substantive validity of regulations initiated over sixty days after their promulgation from attacks on their procedural lineage.
+

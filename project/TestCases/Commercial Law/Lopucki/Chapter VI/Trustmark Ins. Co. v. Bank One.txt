@@ -1,0 +1,21 @@
+Citation
+202 Ariz. 535, 48 P.3d 485,2002 Ariz. App. 91, 376 Ariz. Adv. Rep. 14
+
+Brief Fact Summary
+Bank One, (Appellant), appeals from a jury verdict for Trustmark Insurance Company, (Appellee), on Appellee’s claim under Article 4A of the U.C.C. Appellee brought suit against Appellant after Appellant failed to transfer funds pursuant to a Appellee’s letter of instructions allegedly costing Appellee $500,000 in lost interest.
+
+Synopsis of Rule of Law
+An instruction of a sender to a receiving bank is not a payment order if it states a condition to payment to the beneficiary other than the time of payment.
+
+Facts
+Appellee set up two deposit accounts with Appellant and executed a wire transfer agreement. In a letter of instruction, Appellee instructed Appellant to retain a daily balance of $10,000 in the account and transfer funds automatically to Appellee’s account with another bank if the balance reached $110,000 or more. Over one year later, Appellant automated its wire transfer functions. It sent a letter to all its wire transfer customers notifying them of the automation and requesting they submit new funds transfer agreements for each account in order to ensure uninterrupted wire transfer service. Appellee claims not to have received such a letter. The wire transfers ceased for several months and Appellee’s account balance rose to $19,220,099.80. Appellant brought this balance to the attention of Appellee who instructed Appellant to transfer the remaining funds and closed the account. Appellant then brought this suit alleging a claim under U.C.C. Article 4A, unjust enrichment, and
+
+Issue
+Whether a letter of instructions from an account holder to its bank, requesting automatic wire transfers of funds in excess of a minimum balance whenever the total balance equals or exceeds a specified amount, constitutes a “payment order” governed by U.C.C. Article 4A.
+
+Held
+No. Such a letter is not a payment order because it subjects the bank to a condition to payment other than the time of payment.
+
+Discussion
+These were not conditions merely regarding time of payment. They required Appellant to continuously monitor the account’s balance to determine whether sufficient deposits had been made to enable the bank to make a transfer that satisfied both the deposit and balance conditions. There is a qualitative difference between a condition requiring daily monitoring of the account balance and an instruction to wire funds on a specific day. The fact that these conditions were permissible conditions observed by Appellant in the past does not alter this analysis and is irrelevant to whether the letter of instructions falls within the definition of a “payment order.”
+

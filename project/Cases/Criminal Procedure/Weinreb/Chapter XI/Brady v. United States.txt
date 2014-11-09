@@ -1,0 +1,21 @@
+Citation
+397 U.S. 742, 90 S. Ct. 1463, 25 L. Ed. 2d 747, 1970 U.S.
+
+Brief Fact Summary
+The Petitioner plead guilty to kidnapping after his co-defendant decided to confess and testify against him.  The voluntariness of the Petitioner’s plea was at issue.
+
+Synopsis of Rule of Law
+“[There is] no requirement in the Constitution that a defendant must be permitted to disown his solemn admissions in open court that he committed the act with which he is charged simply because it later develops that the State would have had a weaker case than the defendant had thought or that the maximum penalty then assumed applicable has been held inapplicable in subsequent judicial decisions.”
+
+Facts
+The Petitioner, in 1959, was charged with violating 18 U.S.C. Section: 1201(a), a statute prohibiting kidnapping.  Pursuant to the statute, since the individual the Petitioner kidnapped eventually died, the Petitioner could have received the death penalty.  The petitioner initially plead not guilty.  After learning that his co-defendant confessed to the authorities, would plead guilty and be available to testify against him, the Petitioner decided to plea guilty.  Prior to the Petitioner entering his plea, the trial judge questioned him twice about the voluntariness of his plea.  The Petitioner was sentenced to fifty years in prison and it was later reduced to thirty.
+
+Issue
+Whether “Jackson requires the invalidation of every plea of guilty entered under [Section:1201(a)], at least when the fear of death is shown to have been a factor in the plea[?]”
+
+Held
+The majority first analyzed the United States v. Jackson, which like the instant case dealt with Section:1202(a).  In Jackson, the “[t]he District Court dismissed the 1201(a) count of the indictment, holding the statute unconstitutional because it permitted imposition of the death sentence only upon a jury’s recommendation and thereby made the risk of death the price of a jury trial. This Court held the statute valid, except for the death penalty provision; with respect to the latter, the Court agreed with the trial court ‘that the death penalty provision … imposes an impermissible burden upon the exercise of a constitutional right ….”  Further, the Jackson court observed “[t]he problem was to determine ‘whether the Constitution permits the establishment of such a death penalty, applicable only to those defendants who assert the right to contest their guilt before a jury.’  The inevitable effect of the provision was said to be to discourage assertion of the Fifth Amendment right n
+
+Discussion
+The Supreme Court adopts a standard whereby the totality of the circumstances are examined when ascertaining when a plea was voluntarily, intelligently and knowingly made.
+

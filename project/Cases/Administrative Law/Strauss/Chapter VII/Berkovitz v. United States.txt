@@ -1,0 +1,21 @@
+Citation
+486 U.S. 531, 108 S. Ct. 1954, 100 L. Ed. 2d 531 (1988)
+
+Brief Fact Summary
+Infant who received polio vaccination developed polio.
+
+Synopsis of Rule of Law
+“In examining the nature of the challenged conduct, a court must first consider whether the action is a matter of choice for the acting employee,” and “a court must determine whether that judgment is of the kind that the discretionary function exception was designed to shield.”
+
+Facts
+Berkovitz, a 2-month old, was given a dose of an oral polio vaccine. A month later, he’d developed polio, was completely paralyzed, and breathed via a respirator. He, with his parents, sued the United States under the Federal Torts Claims Act (FTCA), as the government had issued a license to the manufacturer of the vaccine.
+
+Issue
+“[W]hether the discretionary function exception of the Federal Tort Claims Act bars a suit based on the Government’s licensing of an oral polio vaccine and on its subsequent approval of the release of a specific lot of that vaccine to the public.”
+
+Held
+The Supreme Court of the United States (the Supreme Court) examined two arguments. First, “that the Division of Biological Sciences of the National Institutes of Health violated a federal statute and accompanying regulations in issues a license” to the producer of vaccine. The Court found that “the discretionary function exception does not bar a cause of action based on this allegation” as “the DBS has no discretion to issue a license without first receiving the required test data.” On the second allegation, “that the Bureau of Biologics of the [FDA] violated federal regulations and policy in approving the release of the particular lot” of vaccine given to Berkovitz, the Court concluded that there was insufficient detail, and remanded it. However, the claim survived a motion to dismiss.
+
+Discussion
+“The discretionary function exception applies only to conduct involves the permissible exercise of policy judgment.”
+

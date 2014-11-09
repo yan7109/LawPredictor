@@ -1,0 +1,24 @@
+Citation
+529 U.S. 861 (2000).
+
+Brief Fact Summary
+Geier (Plaintiff) was injured in an auto accident. He claimed that his car had a defective design because it was not equipped with an airbag. He brought suit against Defendant, the manufacturer of the car. At issue is federal preemption.
+
+Synopsis of Rule of Law
+The existence of a general preemption provision does not answer the question of whether or not the lawsuit is preempted because the preemption provision may be limited in scope or may be offset by a savings clause.
+
+Facts
+In 1992, Plaintiff, driving a 1987 Honda, collided with a tree and was seriously injured. The car was equipped with manual shoulder and lap belts, which Plaintiff was wearing at the time of the accident. The car was not equipped with airbags or other passive restraints. Plaintiff sued the Defendant and claimed the car was negligently designed because it was not equipped with an airbag or other passive restraint. A statute, Federal Motor Vehicle Safety Standard (Section 208), required auto manufactures to equip some but not all of the 1987 vehicles with passive restraints, such as airbags. Judgment for Defendant. Plaintiff appealed.
+
+Issue
+There are three issues in this case:
+
+Held
+No, section 208 does not preempt this suit. Yes, ordinary pre-emption principles nonetheless apply. Yes, this lawsuit conflicts with section 208.
+
+Dissent
+(J. Stevens) there is now the general agreement that to be safe, a car must have an airbag. The court holds that an interim regulation motivated by the desire to foster gradual development of a variety of passive restraint devices deprives state courts jurisdiction to decide if Defendant has a duty to equip all cars with airbags.
+
+Discussion
+The common law is the law based on the common sense of the people, judges, and juries. In this case, there was an express provision against preemption of common law claims and an express provision against contradiction. The court decided that Congress intended to narrow the common law claims to only those that do not contradict the s
+

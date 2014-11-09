@@ -1,0 +1,24 @@
+Citation
+498 U.S. 1032; 111 S. Ct. 692;112 L. Ed. 2d 682; 1991 U.S.
+
+Brief Fact Summary
+Plaintiffs brought suit claiming that a Nebraska law requiring that a child have some legally established parental connection to the surname on the birth certificate was unconstitutional.
+
+Synopsis of Rule of Law
+The right to choose the surname on a child’s birth certificate is not fundamental.  The Nebraska statute forbidding surnames to which there is no legally established paternal interest bears a rational relationship to a legitimate state interest.
+
+Facts
+Plaintiff Debra Henne gave birth to a daughter while still married to Robert Henne but pursuing a divorce.  She entered the child’s father as Gary Brinton and provided Brinton as her surname on the birth certificate.  Gary Brinton was present and completed a paternity form.  Because of her marital status, hospital personnel informed Henne that the child’s surname could not be Brinton.  She then filled out another birth certificate entering Henne as the surname and leaving the space provided for father’s name blank.  Robert Henne never claimed to be the child’s father and pays no child support.  She later went to the Bureau of Vital Statistics in Nebraska with a signed acknowledgement of paternity from Gary Brinton and a letter requesting the child’s name be changed to his surname.  The request was denied by defendants.
+
+Issue
+Does a parent have a fundamental right to give a child a surname at birth with which the child has not legally established parental connection?
+
+Held
+The trial court erred its determination that the Statute was unconstitutional because Plaintiffs failed to present a fundamental right to place any surname on a child’s birth certificate.
+
+Dissent
+The fundamental right of privacy includes the right of parents to name their own children.  The State has demonstrated no interest sufficiently compelling to override that right.
+
+Discussion
+The majority uses the rational-basis test to determine if the state’s interest is valid because it finds that no fundamental right exists in this subject.  The dissent agrees that under the rational-basis test the Statute should be upheld, but believes that there is a fundamental right and that the Statute fails to pass the compelling interest test.
+

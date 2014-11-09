@@ -1,0 +1,24 @@
+Citation
+395 U.S. 621, 89 S. Ct. 1886, 23 L. Ed. 2d 583, 1969 U.S. 1261.
+
+Brief Fact Summary
+A single man with no children who lived with his parents challenged a law that required voters in certain school board elections to either own or lease taxable property within that school district, or have children enrolled in the local schools.
+
+Synopsis of Rule of Law
+Laws granting the voting franchise to residents on a selective basis always pose the danger of denying some citizens any effective voice in the governmental affairs which substantially affect their lives. Therefore, if a challenged law grants the right to vote to some bona fide residents of the requisite age and citizenship and denies the franchise to others, the Court must determine whether the conclusions are necessary to promote a compelling state interest.
+
+Facts
+Section 2012 of the New York Education Law provides that in certain New York school districts, residents may vote in the school district election only if they own or lease taxable property within that school district, or have children (or have custody of children) enrolled in the local schools. Appellant, Mr. Kramer, was “a thirty-one year old college-educated stockbroker who lives in his parents’ home.” Since Appellant “neither owns nor leases taxable real property” in the school district, he was denied the right to vote in the school board elections. Appellant was unsuccessful in his constitutional attack on the law in the lower courts.
+
+Issue
+Whether the New York Education Law’s exclusion is necessary to promote a compelling state interest.
+
+Held
+No. Judgment of the lower state courts revered. Assuming that New York might legitimately limit the franchise in these school board elections to those “primarily interested in school affairs,” close scrutiny of the section 2012 classifications demonstrates that they do not accomplish this purpose with sufficient precision to justify denying Appellant the franchise. Its classifications permit inclusions of many persons who have remote and indirect interest in school affairs and exclude others who have a direct and distinct interest in school meeting decisions. Therefore, this law is not necessary to promote a compelling state interest, and thus violates equal protection
+
+Dissent
+States may reasonably assume that its residents have a greater stake in the outcome of elections held within its boundaries that other persons and residents, because residents are generally better informed regarding state affairs than non-residents, and will be more likely to vote responsibly.
+
+Discussion
+Kramer sought to explain more clearly than Harper had about why “equal” participation in the electoral process is a “fundamental interest” triggering equal protection strict scrutiny, even though there is no constitutional “right to vote.”
+

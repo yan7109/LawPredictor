@@ -1,0 +1,21 @@
+Citation
+528 U.S. 1080 120 S. Ct. 799 145 L. Ed. 2d 673 2000 U.S.
+
+Brief Fact Summary
+Plaintiffs sued Defendant, a tobacco company, for misleading and concealing the dangers of smoking. Defendant submitted a motion to dismiss. At issue is proximate cause.
+
+Synopsis of Rule of Law
+Proximate cause is an elusive concept, one always to be determined on the facts of each case upon mixed considerations of logic, common sense, justice, policy and precedent. One notion traditionally included in the concept of proximate causation is the requirement that there be some direct relation between the injury asserted and the injurious conduct alleged. A plaintiff who complains of harm flowing merely from the misfortunes visited upon a third person by the defendant’s acts is generally said to stand at too remote a distance to recover.
+
+Facts
+Plaintiffs are responsible to provide health care to their union members. Plaintiffs alleged: (1) Defendant tobacco companies engaged in an advertising campaign designed to mislead the public, and Plaintiffs specifically, as to the true extend of the dangers that smoking poses to good health; (2) that Defendant actively concealed information that would have demonstrated the actual health risks, the addictiveness of nicotine, the effectiveness of various treatments for smoking addiction, and Defendant’s own ability to manufacture less addictive products; and, (3) Plaintiffs spent tens of millions of dollars to provide medical services for participants suffering form cigarette smoking-related diseases. Plaintiffs alleged RICO violations and common law fraud, both of which held the same requirement for proof of proximate cause. Defendant submitted a motion to dismiss.
+
+Issue
+Is the chain of causation linking Defendant’s alleged wrongdoing to Plaintiff’s alleged injuries too remote to permit recovery as a matter of law?
+
+Held
+Yes. Defendant’s motion for summary judgment is granted.
+
+Discussion
+In order to maintain an action in fraud, the Plaintiff must prove that Defendant’s wrongdoing was the actually and proximate cause of Plaintiff’s damages. In this case, Plaintiffs failed to prove proximate causation.
+

@@ -1,0 +1,21 @@
+Citation
+116 N.J. 517, 562 A.2d 208, 1989 N.J.
+
+Brief Fact Summary
+The Plaintiff, Walker Rogges, Inc. (Plaintiff), retained the Defendant, Chelsea Title & Guaranty Co. (Defendant), to insure the tract of land in question. Although known to the Defendant, which was not told to Plaintiff, there was a discrepancy in the acreage of the land.
+
+Synopsis of Rule of Law
+A title company could be subject to a negligence action if the act complained of was the direct result of duties voluntarily assumed by the insurer in addition to the mere contract to insure title.
+
+Facts
+Plaintiff purchased a tract of land, of which the actual area encompassed in the tract was in dispute. The deed recorded mentioned a survey, but not the conclusion as to the acreage of the tract of land. Defendant was retained to be Plaintiff’s title insurer. Defendant had in its files a title that indicated that the tract could be much smaller than what the Plaintiff had contracted to buy. Plaintiff instituted this action after discovery of this discrepancy, as an insurable event that Defendant must compensate Plaintiff for as a loss. The trial court found for the Plaintiff, the appellate court affirmed, but remanded for a determination of damages.
+
+Issue
+Whether a title company should be exposed to liability:
+
+Held
+Affirmed, reversed in part and remanded for a determination of whether the Defendant assumed a duty to assure the quantity of acreage and whether there was a breach of this duty.
+
+Discussion
+The majority of the court’s analysis focused on whether the Plaintiff could maintain an action both on the title insurance contract as well as a tort action for negligence. The court analyzed several different approaches taken by different jurisdictions. In the end, it recognized that a tort action for negligence could only be sustained if the title company had voluntarily assumed a duty to guaranty quantity. The court noted that the Plaintiff in this case had provided evidence of Defendant’s actions that could be construed as such and then remanded for a finding from the trial court on this claim.
+

@@ -1,0 +1,21 @@
+Citation
+157 F.3d 29, 1998 U.S. App. 25730
+
+Brief Fact Summary
+Plaintiff, David Hoult, brought a defamation action against his daughter, Defendant Jennifer Hoult, told third parties that her father raped her.  Defendant asserts that the action is precluded by collateral estoppel.
+
+Synopsis of Rule of Law
+An issue is considered decided under collateral estoppel if the issue is an integral part of a prior final judgment.
+
+Facts
+Defendant brought a set of claims against her father for assault and battery, intentional infliction of emotional distress and breach of fiduciary duty.  The claims stem from assertion by Defendant that Plaintiff raped her as a child.  Defendant won at trial, and subsequent appeals were dismissed.  Defendant then sent several letters to professional associations that discussed her rape, and Plaintiff then brought this defamatory action.  Defendant sought to dismiss the claim because it is an attempt to relitigate the rape accusations, and this was settled in the prior trial.  Plaintiff claimed that the jury in the prior trial may have awarded Defendant judgment for reasons other than the rape, such as simple assault.
+
+Issue
+The issue is whether Plaintiff’s defamation action should be dismissed under collateral estoppel.
+
+Held
+The court dismissed the action because the issue has been precluded through the prior trial.  Although Plaintiff argues that rape may not have been the claim that the jury awarded damages for, the court reviewed the trial transcripts and concluded that it had to be the issue that was determined by the jury.
+
+Discussion
+There is no need to prove that the issue is the same one being litigated, but rather need to proved that the prior litigated claim is an integral part of the subsequent claim.
+

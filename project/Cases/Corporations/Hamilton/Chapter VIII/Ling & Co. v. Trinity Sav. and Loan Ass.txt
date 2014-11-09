@@ -1,0 +1,21 @@
+Citation
+482 S.W.2d 841 (Tex. 1972)<br />
+
+Brief Fact Summary
+Trinity Savings and Loan Association, (Appellee), brought suit to foreclose on a certificate of 1500 shares of Class A Common Stock in Ling & Co, (Appellant). Appellant objected to the sale claiming that transfer of the stock is restricted by certain unsatisfied conditions. Appellant appeals the Court of Appeals decision affirming the Trial Court’s grant of summary judgment in favor of Appellee.
+
+Synopsis of Rule of Law
+A restriction is noted conspicuously on a security if something appears on the face of the certificate to attract the attention of a reasonable person when he looks at it.
+
+Facts
+Appellee brought suit against Bruce W. Bowman for the outstanding balance due on a promissory note and to foreclose on a certificate for 1500 shares of Class A Common Stock in Appellant used to secure the note. Appellant was made a party to the lawsuit because of its assertion that the transfer of its stock was subject to conditions that had not been satisfied. In order to transfer the stock, the holder must obtain written approval from New York Stock Exchange for the transfer and the holder must give options to purchase the shares first to the corporation and then pro rata to the other holders of the Class A Common Stock. Neither condition was fulfilled. The Trial Court granted summary judgment in favor of Appellee and ordered the stock sold holding the restrictions invalid and of no effect. The Court of Appeals affirmed.
+
+Issue
+Whether the content of the certificate complies with the requirements of the Texas Business Corporations Act. Whether the restrictions on transferability are noted conspicuously on the security. Whether the restrictions on the transferability of the stock are unreasonable.
+
+Held
+Yes. The content of the certificate complies with the requirements of the Texas Business Corporations Act. No. The restrictions on transferability are not noted conspicuously on the certificate because the notations do not stand out. No. There is no proof in the record supporting the conclusion that the restrictions on the transferability of the stock are unreasonable.
+
+Discussion
+The Texas Business Corporations Act requires that restrictions on the transfer of stock be expressly set forth in the articles of incorporation and copied at length or in summary form on the face or if copied on the back, referred to on the face of each certificate. Incorporation by reference on the face or back of the certificate of the provisions of the articles of incorporation that restrict the transfer of stock is also permissible. Here, reference is made on the face of the certificate to the reverse side. The reverse side refers to the particular article of incorporation as requiring the holder to grant options to purchase the shares first to the corporation and then pro rata to the other holders of the Class A Common Stock. Therefore the certificate complies with the requirements of the Texas Business Corporations Act. The print on the certificate that refers to the restrictions does not stand out and cannot be considered conspicuous. There is nothing to attract the attention of a reasonable person when he looks at it. There is no proof in the record to support the conclusion that either of the restrictions is unreasonable. Rule 315 of the New York Stock Exchange requires approval of any sale or pledge of the stock. Further there is nothing unusual or oppressive about the successive options to purchase and no proof given to dispel any justification for contending that there is a reasonable corporate purpose in restricting the ownership.
+

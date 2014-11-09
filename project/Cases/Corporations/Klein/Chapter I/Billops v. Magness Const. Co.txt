@@ -1,0 +1,21 @@
+Citation
+391 A.2d 196 (Del. 1978)
+
+Brief Fact Summary
+Plaintiffs, led by Ronald Billops, paid for the use of a ballroom in a hotel owned by one of the Defendants, Magness Construction Co.  When employees of the hotel harassed Plaintiffs, they brought suit against Magness as a franchisee as well as the franchisor Defendants, Hilton Inns et al.
+
+Synopsis of Rule of Law
+Apparent authority is a question of fact that established when a principal creates a reasonable belief by a third party that the agent is authorized to bind the principal.
+
+Facts
+Plaintiffs reserved a hotel ballroom for an event and paid for the rental beforehand.  Once the event began, hotel employees harassed Plaintiffs for additional money, confiscated artwork and intimidated the people at the event.  Plaintiffs brought this action against the hotel franchisee and the franchisors.  The franchisors argued that there was no agency relationship, and that they were entitled to a summary judgment because no agency relationship could be established by the franchise agreement.
+
+Issue
+The issues is whether apparent authority existed to establish a master-servant relationship between the hotel owner and the franchisor.
+
+Held
+The Supreme Court of Delaware held that there were sufficient facts to establish an apparent authority, and therefore the summary judgment motion was reversed.  When reading the facts most favorable to Plaintiff, the control that the franchisors exerted could establish an agency relationship.  Testimony by witnesses supported the assertion that they believed the principal controlled the hotel’s operations. The agreement controlled the appearance of staff, the purchase of supplies, the appearance of the building, and it contained a termination clause if the requirements were not followed.
+
+Discussion
+As the court notes, the franchisor’s goal is to control as much as possible without being held responsible for the conduct of the franchisee.  In this case, the agreement was far more restrictive than the franchise agreement in Murphy v. Holiday Inns.
+

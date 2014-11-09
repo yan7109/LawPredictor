@@ -1,0 +1,24 @@
+Citation
+981 F.2d 305 (8th Cir. 1992)
+
+Brief Fact Summary
+A truck driver of a wholly owned subsidiary of Telecom Corp (D) struck Radaszewski (P) while he was riding his motorcycle.
+
+Synopsis of Rule of Law
+To pierce the corporate veil, it must be found that total control of a subsidiary amounting to complete domination was used for an improper motive, leading to injury.
+
+Facts
+Radasazewski (P) was severally injured in an auto-accident with an employee of Contrux, Inc. A wholly owned subsidiary of Telecom (D). Radaszewski (P) seeks to pierce the corporate veil for Telecom Corp (D), by claiming Contrux was under capitalized. Contrux originally had enough basic and excess liability insurance to cover Radaszewski’s (P) damages, but two years after the accident, the excess liability insurance carrier became insolvent. The district court dismissed the complaint, claiming it lacked jurisdiction. Plaintiff appealed.
+
+Issue
+To pierce the corporate veil, must it be found that total control of a subsidiary amounting to complete domination was used for an improper motive, leading to injury?
+
+Held
+(Arnold, C.J.) Yes. To pierce the corporate veil, it must be found that total control of a subsidiary amounting to complete domination was used for an improper motive, leading to injury. A cooperation run under insufficient funds to meet its obligations shows a possible breach of duty of care. Here, the subsidiary was under capitalized in the accounting sense, but did carry $11 million dollars in liability insurance. Insurance proves sufficient capitalization, just as well as a good balance sheet. There is no evidence of prior knowledge of the insurance company going insolvent. It would go against limited liability doctrine to hold a parent company liable for errors in business judgment. Affirmed, but modified to dismiss with prejudice.
+
+Dissent
+(Heaney, J.) A fact finder may uncover more variables to be considered.
+
+Discussion
+State courts have developed indicators to determine when the corporate  veil should be pierced. All indicators revolve around domination of the  subsidiary, abuse, and requirements of proof that injustice would occur  if limited corporate liability be permitted. In forty years, courts have  pierced the corporate veil in 40% of reported cases.
+

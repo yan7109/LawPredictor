@@ -1,0 +1,24 @@
+Citation
+22 Ill.473 U.S. 432, 105 S. Ct. 3249, 87 L. Ed. 2d 313 (1985)
+
+Brief Fact Summary
+A group home was denied a special permit to operate its facility pursuant to a city ordinance.
+
+Synopsis of Rule of Law
+Classifications based on mental retardation require the rational-basis standard of review.
+
+Facts
+The Cleburne Living Center, a group home for the mentally retarded in a Texas city, was denied a special use permit for operation of the group home pursuant to a municipal zoning ordinance. The group home sued the city on the basis that the ordinance discriminated against the mentally retarded. The district court determined that the ordinance was rationally related to a legitimate interest held by the city. The Court of Appeals reversed the district court ruling that the ordinance was invalid because it failed the intermediate level of scrutiny.
+
+Issue
+Whether classifications based on mental retardation should be examined under an intermediate standard of review.
+
+Held
+Justice Byron White. (J. White). No. Mental retardation classifications should be reviewed under a rational basis standard, not an intermediate standard. The Texas city ordinance fails under a rational basis test. The city suggests that group homes containing individuals with mental retardation should be treated differently than other types of group homes. The city’s belief that group homes for the mentally retarded presents different or special hazards and therefore, must operate under a special permit was not rationally related to any legitimate state objective. Instead, the ordinance more likely “rest[s] on an irrational prejudice against the mentally retarded.” The judgment is affirmed insofar as it invalidates the zoning ordinance as applied to the group home and is otherwise vacated.
+
+Dissent
+Justice Thurgood Marshall (J. Marshall). “When a zoning ordinance works to exclude the retarded from all residential districts in a community, these . . . considerations require that the ordinance be convincingly justified as substantially furthering legitimate and important purposes . . .”
+
+Discussion
+The Supreme Court of the United States (Supreme Court) seems hesitant in its desire to add additional categories under the intermediate-level of review. The Supreme Court instead leaves areas such as ‘the aging, the disabled, the mentally ill, and the infirm,” to the rational basis level of review.
+

@@ -1,0 +1,18 @@
+Brief Fact Summary
+Jorge Ramirez (Plaintiff) was injured as a result of his Spanish-speaking mother being unable to read a warning label on a drug, which was written entirely in English.
+
+Synopsis of Rule of Law
+Tort liability is not incurred when drug manufacturers meet federal standards, in the distribution of its drug, even though the federal standard may fail to include consideration of all the potential risks posed to the customers of the manufacturers.
+
+Facts
+Plaintiff, a minor, sued Plough, Inc. (Defendant), alleging that he contracted Reye’s Syndrome as a result of ingesting a nonprescription drug that was manufactured and distributed by Defendant. Plaintiff argues that the warning on the drug’s label about the syndrome should have been printed in languages other than English because Plaintiff’s mother could speak and understand Spanish. Plaintiff sought damages under the theories of negligence, products liability, and fraud. The trial court granted summary judgment for Defendant. The court of appeals reversed the decision.
+
+Issue
+Whether a manufacturer of nonprescription drugs may incur tort liability for distributing its product, according to federal standards, which only required warnings to be written in English?
+
+Held
+(Justice Kennard). No. A manufacturer may not incur liability. The controlling federal law in this area requires that manufacturers provide full English labeling for all nonprescription drugs except those distributed solely in the Commonwealth of Puerto Rico or in other areas not having English as the predominant language. The federal government has concluded that despite the obvious advantages of multi-lingual package warnings, the problems and costs associated with this are excessive. Therefore, warnings should be mandated only in English. The judgment of the court of appeals is reversed.
+
+Discussion
+Even though this case does not require nonprescription drug labels to be in languages other than English, it points out that the court did not eliminate the possibility of tort liability premised upon the content of foreign-language advertising. The court states that it does not decide whether a manufacturer would be liable to a consumer who detrimentally relied upon foreign-language advertising that was materially misleading as to product risks and who was unable to read English language package warnings that accurately described the risk.
+

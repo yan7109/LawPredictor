@@ -1,0 +1,21 @@
+Citation
+414 Mass. 172,606 N.E.2d 901,1993 Mass.
+
+Brief Fact Summary
+Frieda Drapkin created a will that disposed the residuary of her estate to her revocable intervivos trust.  She devised a specific item of real property but sold it before her death.  The Probate Court denied a request by the beneficiary to receive the proceeds from the sale of the building.
+
+Synopsis of Rule of Law
+If a will and trust are executed as a part of one testamentary plan, the law of wills applies to the trust.  If a specific devise in a will is not in existence and owned by the testator at the time of the testator’s death, the devise is adeemed.
+
+Facts
+Drapkin created a revocable intervivos trust that conveyed an apartment building located at 12-14 Newton Street, Waltham, Massachusetts to the plaintiff, Elaine Wasserman.  She also created a will that devised all the property in her residuary estate to the trust, to be disposed of in accordance with its provisions.  Before Drapkin’s death, she sold the apartment building.  When Drapkin died, Wasserman requested that the trustee turn over to her the proceeds of the apartment building.  The Probate Court dismissed her action and Wasserman appealed.
+
+Issue
+Whether the doctrine of ademption should be discontinued because it ignores the testator’s intent, is overly formalistic,  produces harsh and inequitable results and fosters litigation that the rule was intended to preclude, and thereby should be discontinued. Whether the doctrine of ademption should be applied to a trust that was created along with a will in one testamentary estate plan. Whether the Court must consider the intent of the testator in order to determine the validity of a trust in making a specific devise, if the devise is not in existence a the time of the testator’s death
+
+Held
+No.  The doctrine of ademption gives effect to the probable intent of the testator that he intended to extinguish a certain gift of property that he disposed of prior to his death.  The doctrine is easily understood and applied by testator, draftsmen, and fiduciaries.  Harsh results may be prevented by careful draftsmanship.  Many people have already and are currently drafting documents in reliance on thee doctrine.  Courts have not moved away from making such classifications. Therefore the Court will continue applying the doctrine of ademption. Yes.  When a will and trust are created together as a part of one testamentary plan, the trust should be analyzed using the traditional rules of wills.  Here the will and trust were executed as a part of one testamentary plan because the testator disposed of a majority of her estate to her trustee who then was to dispose of the property according to the terms of the trust. No.  A specific legacy or devise is not effective if the item is not in existence and owned by the testator at the time of his death.  When a testator disposes during his lifetime, a legacy or dives in hi will, the legacy or devise is adeemed, despite the intent or motive of the testator.
+
+Discussion
+The Court views the doctrine of ademption as easy to be applied.  In cases of pour-over wills, the doctrine will apply to trust whose property consists of gifts from a will.
+

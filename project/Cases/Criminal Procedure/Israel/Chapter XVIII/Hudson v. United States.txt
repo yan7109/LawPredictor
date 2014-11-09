@@ -1,0 +1,18 @@
+Citation
+131 S. Ct. 345, 178 L. Ed. 2d 224 (2010) [2010 BL 236201]
+
+Brief Fact Summary
+Certain banks were found to have loaned money in violation of federal banking statutes and regulations, and were civilly punished.  Subsequently, they were indicted on criminal charges.
+
+Synopsis of Rule of Law
+The Double Jeopardy Clause “protects only against the imposition of multiple criminal punishments for the same offense, and then only when such occurs in successive proceedings.”
+
+Facts
+The Office of the Comptroller of the Currency concluded “several bank officers had used their positions to arrange loans to third parties and violation of federal banking statutes and regulations.  The OCC took action to assess penalties against the bank officers, resulting in a consent order by which they would pay assessments [of several thousand dollars each] and agree not” to participate in bank affairs.  “A few years later, they were indicted on several criminal charges because of the same lending transactions.”  These were dismissed for violating double jeopardy.”
+
+Issue
+Whether Double Jeopardy applies in criminal matters when a defendant has already faced civil proceedings.
+
+Held
+No.  The Supreme Court of the United States first considered the seven factors outlined in Kennedy v. Mendoza-Martinez.  It then further considered U.S. v. Halper, which “elevated a single Kennedy factor-whether the sanction appeared excessive in relation to its nonpunitive purposes-to dispositive status.”  The Court overturned Halper, and refocused on the Kennedy test.  The Supreme Court found that Congress had intended the sanctions “to be civil in nature.”  Second, the OCC’s actions were not “so punitive in form and effect as to render them criminal despite Congress’ intent to the contrary.”  Third, the sanctions were not an “affirmative disability or restraint.”  Fourth, while “the conduct for which OCC sanctions are imposed may also be criminal
+

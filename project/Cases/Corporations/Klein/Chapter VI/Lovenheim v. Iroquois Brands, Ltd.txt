@@ -1,0 +1,21 @@
+Citation
+618 F. Supp. 554 (D.D.C. 1985)
+
+Brief Fact Summary
+Plaintiff, Peter Lovenheim, sought a preliminary injunction against Defendant, Iriquois Brands, Ltd., in order to insert information in a proxy statement.
+
+Synopsis of Rule of Law
+Under Rule 14a-8(c)(5), a shareholder proposed resolution for a proxy statement can only be turned down when the proposal both concerns less than 5% of total earnings or assets, and when it is not significantly related to the business.
+
+Facts
+Plaintiff wanted to insert a proposal to determine whether a supplier of pate de fois gras force-fed the geese n order to enlarge the livers.  The pate represented less than .05 percent of Defendants sales, and the product operated at a loss.  Therefore Defendants wanted to omit the proposal.  Defendants believed that only a proposal related to economic purposes are required to be accepted per Rule 14a-8(c)(5), and that the 5% threshold was not exceeded.  Plaintiff argued that material social issues that were relevant to the business would not fit under the Rule’s exception.
+
+Issue
+The issue is whether a company could refuse a shareholder proposal for a proxy statement if the proposal concerned less than 5% of the business sales, and the proposal was not economically based.
+
+Held
+The court held that precedent demonstrated that Rule 14a-8(c)(5) would only omit proposals that were less than the minimum 5% of sales and not significantly related to the business.  In this case, the pate issue was significant to its pate business regardless that it did not comprise greater than 5% of sales.  Prior cases also demonstrated that Congress wanted to ensure that non-economic factors could be considered as relevant to the business.
+
+Discussion
+The court holds that both sections of Rule 14a-8(c)(5) need to be met.  The ruling is consistent with the idea that not all decisions made by a corporation will be made solely along economic lines.
+

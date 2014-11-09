@@ -1,0 +1,21 @@
+Citation
+996 P.2d 784, 2000 Colo. App. 26, 43 U.C.C. Rep. Serv. 2d (Callaghan) 941; 2000 Colo. J. C.A.R. 599
+
+Brief Fact Summary
+A thief forged checks issued by Decibel Credit Union, (Respondent), and deposited them through accounts with Pueblo Bank & Trust Company, (Petitioner). Respondent paid Petitioner on these checks before discovering the forgeries and has brought suit to recover the amount paid. Petitioner appeals summary judgment in favor of Respondent.
+
+Synopsis of Rule of Law
+Generally, a drawee bank is liable to its checking account customer for payment of a check on which the customer’s signature has been forged. Further, the payment is deemed final for a person or entity that takes the instrument in good faith and for value.
+
+Facts
+A thief stole blank checks furnished by Respondent to its customer. The thief forged the customer’s signature and cashed several checks totaling $2,350. At no time did either the thief’s checking account or his ready reserve account have sufficient funds to cover the checks being cashed. Petitioner processed all the checks to Respondent who timely paid. Respondent’s customer discovered the forgeries and immediately notified Respondent who demanded reimbursement from Petitioner. Petitioner refused and Respondent filed this suit.
+
+Issue
+Whether any presentment or transfer warranties made to Respondent. Whether Petitioner acted without diligence in cashing the checks because the thief’s accounts did not have sufficient funds to cover each of the items.
+
+Held
+No. Petitioner did not extend any warranty to Respondent by processing the checks. This is a question of fact to be resolved by a trial on the merits.
+
+Discussion
+There were no presentment or transfer warranties made to Respondent. U.C.C. Section:4-208 discusses when presentment warranties are extended. Subsection (a)(1) is only a warranty that there are no unauthorized or missing endorsements on the checks. Subsection (a)(2) does not apply because the checks were not altered. Subsection (a)(3) does not apply because Respondent does not claim that Petitioner had actual knowledge of the forged signatures. In fact, Section:3-418(c) prevents a payor bank from recovering from parties that took the instrument in good faith and for value. The court summarily rejected Respondent’s claim based on transfer warranties.
+

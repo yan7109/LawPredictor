@@ -1,0 +1,24 @@
+Citation
+519 U.S. 234, 117 S. Ct. 727, 136 L. Ed. 2d 696, 1997 U.S.
+
+Brief Fact Summary
+A federal statute attempted to control the fragmenting of Native American land by stating that small parcels of land could not be devised or descend through intestacy, but would instead escheat to the tribe.
+
+Synopsis of Rule of Law
+When the government restricts a person’s ability to direct the descent of his land, the restriction amounts to an impermissible taking in violation of the just compensation clause.
+
+Facts
+In the nineteenth century, Congress allotted communal tribal property to individual tribe members. This resulted in an extreme fractionation problem which only got worse as time went on. In 1983, Congress created the Indian Land Consolidation Act (Act) in an attempt to solve the problem. An escheat provision in the Act, Section:207, provided that certain small interests in land would revert to the tribe upon the death of the owner, but did not compensate the owner for the loss of land. Section 207 was held unconstitutional, so Congress amended the provision, which differs from the original in three ways: it looks back five years instead of one to determine the income produced from a small interest, and creates a rebuttable presumption that this income stream will continue; it permits devise of otherwise escheatable interests to persons who already own an interest in the same parcel; and it authorizes tribes to develop their own codes governing the disposition of fractional interests.
+
+Issue
+When the government severely limits the right of an individual in the descent or devise of his property without offering compensation, will that be a taking in violation of Fifth Amendment?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+The government has a strong interest in removing legal impediments to the most productive development of real estate. Minimizing the fractioning of Native American lands will lead to the productive development of their property, and the government has a strong interest in this, so Section: 207 is justified. The affected owners should have notice and an opportunity to adjust their affairs in order to protect against loss.
+
+Discussion
+Restricting the right to pass on fee simple property at death is a taking of property, and if there is no compensation, the restriction is unconstitutional.
+

@@ -1,0 +1,21 @@
+Citation
+716 F. Supp. 1504 (S.D.N.Y. 1989)
+
+Brief Fact Summary
+Plaintiffs, Metropolitan Life Ins. Co. and Jefferson-Pilot Life Ins. Co., claimed that Defendants, RJR Nabisco (”RJR”) and their CEO, F. Ross Johnson, breached an implied covenant of good faith and fair dealing when Defendants attempted a leveraged buyout (”LBO”) of their shareholders.
+
+Synopsis of Rule of Law
+A court will not add any additional benefits for the parties in an indenture agreement when the benefits were not bargained for.
+
+Facts
+Defendants were at the center of several mergers and acquisitions in the 1980’s, and the current proposed LBO brought forth at least eight lawsuits against Defendants for numerous causes of action.  Plaintiffs’ causes of action stem from the consequences of the proposed LBO, namely that shareholders of RJR would receive a windfall at the expense of Defendant lenders.  Defendants offered an initial $75 per share buyout, and after a bidding war, the offer was eventually raised to $109.  Defendants were going to finance the buyout with little equity and a lot of debt.  The financing of the LBO through junk bonds would lower RJR’s credit rating, which in turn lessened the value of the bonds held by Plaintiff lenders.  Although the agreement between Defendants and Plaintiffs did not expressly prohibit such a buyout, Plaintiffs maintain that the buyout involved such an egregious amount of additional debt that it breached an implied covenant of good faith and fair dealing.  Defendant
+
+Issue
+The issue is whether Defendants breached an implied covenant of good faith and fair dealing by attempting an LBO.
+
+Held
+The court held that they would not award Plaintiffs with a benefit that was not bargained for during the formation of their agreements with Defendant.  Plaintiffs were sophisticated parties who contemplated the possibility of inserting a provision that would have protected them from such a possibility, but they declined out of fear of losing the business.  Defendants were living up to their end of the bargain, but they were under no duty to ensure that Plaintiffs reaped any more benefits from the contract than what was expressly promised in the agreement.  Any future concerns that Plaintiffs have can be avoided by demanding protection in future transactions.
+
+Discussion
+Plaintiffs were institutional investors who obviously were concerned with more than this investment.  Plaintiffs were likely concerned with the increase in such buyouts and wanted to protect their investments.  But as with Sharon Steel Corp. v. Chase Manhattan Bank, N.A., the court will not add terms to a contract.
+

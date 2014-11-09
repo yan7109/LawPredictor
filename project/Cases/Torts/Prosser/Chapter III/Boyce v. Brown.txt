@@ -1,0 +1,21 @@
+Citation
+140 Fed. Appx. 266
+
+Brief Fact Summary
+Nannie Boyce (Ms. Boyce) suffered pain and disability seven years after the Defendant, Brown (Defendant), placed a metal screw in her ankle. The Plaintiffs, Nannie and Berlie Boyce (Plaintiffs), sued the Defendant.
+
+Synopsis of Rule of Law
+Medical malpractice can only be shown where, by expert testimony, it is established that the doctor acted outside of the community norms in their treatment of the patient.
+
+Facts
+Ms. Boyce sought the services of the Defendant, a medical doctor, to reduce a fracture of her ankle. The Defendant performed the operation, using a metal screw to keep the bones in place. Seven years latter, the Ms. Boyce returned to the defendant complaining of pain in her ankle. The Defendant examined the ankle and wrapped it before sending her home. For the next two years, the ankle continued to worsen and Ms. Boyce eventually saw a second doctor who surgically removed the screw, offering Ms. Boyce a full recovery. The Plaintiffs sued the Defendant for malpractice, claiming he was negligent in not removing the screw when Ms. Boyce returned to his office seven years after surgery. At trial, the second doctor testified to the condition of Ms. Boyce’s ankle at the time she was seen by him, but could not say if the Defendant acted outside the scope of proper medical standards when the Plaintiff was seen two years prior.
+
+Issue
+Whether the Defendant was negligent when he failed to remove the screw from the Ms. Boyce’s ankle.
+
+Held
+The expert testimony could not establish that the Defendant acted outside of the community standards and therefore the Defendant did not commit malpractice.
+
+Discussion
+Medical doctors are required to possess the degree of skill and learning possessed by an average member of the medical profession in good standing in the community in which they practice and apply that skill and knowledge with reasonable care. To be liable for malpractice, a doctor must have used a treatment that the medical community where the doctor practices forbids, or have neglected to do something that community standards would require. To successfully allege malpractice, a plaintiff must offer expert testimony on the community standards of medical care. In this case, because the expert testimony could not establish that the Defendant acted outside of the community medical standards when the Ms. Boyce returned seven years after surgery, the Defendant cannot be found guilty of malpractice.
+

@@ -1,0 +1,21 @@
+Citation
+131 S. Ct. 434
+
+Brief Fact Summary
+Johanna Hines (Defendant) was charged with robbing a bank in Massachusetts.  At trial, the prosecution sought to have admitted into evidence the expert testimony of Diana Harrison (Harrison), a handwriting expert, to analyze the robbery note; Defendant sought to have the same excluded.  Defendant sought to introduce expert testimony of Dr. Saul Kassin (Dr. Kassin), a psychologist who is qualified as an eyewitness identification expert; the prosecution sought to have Dr. Kassin’s testimony excluded.
+
+Synopsis of Rule of Law
+Under Federal Rule of Evidence 702, a handwriting expert’s testimony is admissible to the extent that it is limited to testimony regarding the similarities or dissimilarities between known writing and the writing at issue; it is inadmissible when it attempts to give an ultimate conclusion as to authorship.  Also, when expert testimony regarding cross-racial eyewitness identifications merely provides the jury with more information with which to make a decision, it is admissible.
+
+Facts
+Defendant was charged with an alleged bank robbery in Massachusetts.  At trial, the prosecution’s main proposed item of evidence was the eyewitness identification of the bank teller who was robbed, and an expert witness analysis of the handwriting contained in the note used in the robbery.
+
+Issues
+Is the handwriting analysis evidence offered by the prosecution properly admissible against Defendant? Is the expert testimony on cross-racial identification offered by Defendant properly admissible at Defendant’s trial?
+
+Held
+Yes; the evidence is admissible, but only for the limited purpose of assisting the jury in identifying similarities in the handwriting; it is inadmissible to the extent the expert makes any ultimate conclusions on the authorship of the writing at issue. Yes; the evidence provides relevant and useful information to the jury regarding scientific studies of the decreased accuracy of cross-racial identifications, and is therefore admissible.
+
+Discussion
+The court pointed out that the, “rules of admissibility of expert testimony, even with respect to scientific fields, are flexible.”  The court went on to address each item of evidence in dispute separately.
+

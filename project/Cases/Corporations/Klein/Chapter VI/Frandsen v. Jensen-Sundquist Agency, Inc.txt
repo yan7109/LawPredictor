@@ -1,0 +1,21 @@
+Citation
+802 F.2d 941 (7th Cir. 1986)
+
+Brief Fact Summary
+Plaintiff, Dennis Frandsen, brought this action against Defendant Jenesen-Sundquist Agency, Inc., for the breach of a shareholder agreement, and against Defendant First Wisconsin Corp. for tortious interference with the agreement.
+
+Synopsis of Rule of Law
+An agreement that gives a shareholder the right of first refusal does not convey the right to control the sale of assets or the liquidation of the company.
+
+Facts
+Jensen-Sundquist was a holding company comprised of the First Bank of Grantsburg and a small insurance company.  In 1975, Walter Jensen owned all of the stock of Jensen-Sundquist, but gave 52% to family and sold 8% to Plaintiff.  Plaintiff also received a right of first refusal to purchase the majority block of shares, and also had the right to have his shares purchased by the majority if they were to be sold to a third party.  In 1984, Jensen-Sundquist entered discussions with First Wisconsin, wherein First Wisconsin would purchase Jensen-Sundquist for $62 per share.  Plaintiff refused to go along, and the agreement between Defendants was modified to allow Jensen-Sundquist to treat the First Bank of Grantsburg as an asset that would be sold off to First Wisconsin for $88 per share.  Plaintiff protested, arguing that he had the right of first refusal and that the only reason they avoided offering that right to Plaintiff was to make sure the president of Jensen-Sundquist did no
+
+Issue
+The issue is whether Defendants breached or tortiously interfered with the agreement between Plaintiff and Jensen-Sundquist that provided him with the right of first refusal on the sale of the majority shares.
+
+Held
+The court held that the agreement was not breached because there was never a sale of the majority’s shares to First Wisconsin.  The court read the terms of the agreement literally to include only what the agreement allowed for, which is the sale of the majority’s shares.  And absent a breach of the agreement, or unfair competition, First Wisconsin can not be liable for tortious interference.
+
+Discussion
+The narrow interpretation of the shareholder agreement, as Plaintiff notes, offers Plaintiff very little rights since there are several ways to avoid the actual sale of the majority’s shares while still allowing the significant assets to change hands.
+

@@ -1,0 +1,21 @@
+Citation
+729 So. 2d 1165, 1999 La. App. 1083, 39 U.C.C. Rep. Serv. 2d (Callaghan) 159
+
+Brief Fact Summary
+Telemedia Publications, Inc and Cable Cast Magazine, (Respondents) brought suit against Premier Bank, (Petitioner) for the improper payment of a number of checks indorsed by one of its employees and deposited into her personal account. Petitioner appeals the trail court judgment in favor of Respondent in the amount of $7,913.04.
+
+Synopsis of Rule of Law
+The risk of loss for fraudulent indorsements by employees who are entrusted with responsibility with respect to checks should fall on the employer rather than the bank that takes the check if the bank was not negligent in the transaction. However, a bank may still be held liable if it acts in bad faith or fails to exercise ordinary care in handling the fraudulent indorsements.
+
+Facts
+Telemedia Publications, Inc. publishes a weekly cable television programming guide, Cablecast Magazine. Cablecast Magazine hired Jennifer Pennington as a temporary employee and authorized her to use its indorsement stamp to prepare incoming subscription checks for deposit into its account. Jennifer Pennington represented to Petitioner that she was Cablecast Magazine. Petitioner’s teller taught Jennifer Pennington how to indorse checks made payable to Cablecast Magazine so they could be deposited into Jennifer Pennington’s personal account. Shortly thereafter, Respondents became aware that Jennifer Pennington had taken checks payable to Cablecast Magazine and deposited them into her personal account with Petitioner. Respondents then filed suit against Petitioner.
+
+Issue
+Whether U.C.C. Section:3-405 operates in this case to shift the risk of loss for money paid on a forged check to Respondents. Whether Petitioner was in good faith. Whether Petitioner failed to exercise ordinary care in taking the checks payable to Cablecast Magazine and depositing them in Jennifer Pennington’s account.
+
+Held
+Yes. Respondents bear the risk of loss for fraudulent indorsements made by their employee Jennifer Pennington. Yes. Petitioners were in good faith. No. Respondents did not prove that Petitioner failed to exercise ordinary care.
+
+Discussion
+The evidence establishes that Jennifer Pennington committed fraudulent indorsements on checks payable to Cablecast Magazine when she represented her signature as that of her employer and deposited Cablecast Magazine’s checks into her own account. Respondents had entrusted her with the responsibility of using Respondent’s indorsement stamp to prepare subscription checks for deposit into the Telemedia Publications, Inc. account used by Cablecast. Therefore Respondents must bear the loss under U.C.C. Section:3-405.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.382 S.W.2d 198 (Ky. 1964)
+
+Brief Fact Summary
+Plaintiff lessee, entered into a 10 year lease agreement with the Defendant lessor. The lease agreement included an option to renew the lease for an additional ten years, but did not set the rent amount for the additional ten years.
+
+Synopsis of Rule of Law
+Under the traditional approach, there must be substantial certainty as to the material terms for an agreement to be enforceable. Courts using the traditional approach will not enforce an agreement if a material term is indefinite or ambiguous.
+
+Facts
+Plaintiff leased a small lot from Defendant for a ten year term. The lease agreement between the parties provided an option to renew for an additional ten years. The option included the same terms as the original lease, but did not set an amount for rent. The lease option provided that the rent would be set “in such amount as shall actually be agreed upon by the lessors and the lessee with the monthly rental fixed on the comparative basis of rental values as of the date of renewal with rental values at this time reflected by the comparative business conditions of the two periods.”
+
+Issue
+Can Plaintiff enforce the option to renew the lease?
+
+Held
+No. The option is unenforceable because the provision for setting the rent is indefinite and ambiguous.
+
+Discussion
+Under the traditional approach, courts will not complete an incomplete agreement or agreement to agree. For an option to renew a lease to be enforceable under the traditional approach, the parties must agree to the amount of rent or clearly establish a method for determining the rent.
+

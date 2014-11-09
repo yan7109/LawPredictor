@@ -1,0 +1,24 @@
+Citation
+165 Ohio St. 45, 133 N.E.2d 780 (1956)
+
+Brief Fact Summary
+Winous Co., (Appellant), appeals the decision of the Ohio Court of Appeals in favor of Humphrys, (Appellees), holding that Appellant’s classification of its directors was invalid because it operated to restrict the right of shareholders to vote cumulatively.
+
+Synopsis of Rule of Law
+Minority shareholders are granted only the right of cumulative voting but are not necessarily guaranteed the effectiveness of the exercise of that right to elect minority representation on the board of directors.
+
+Facts
+Appellant has the minimum number of three directors and their terms of office are for three years, one to be elected each year. This classification of three directors into three classes each containing one director effectively divests the minority shareholders of the ability to elect one member of the board through cumulative voting. Appellees brought suit claiming that this classification restricted the right their right to vote cumulatively as specifically guaranteed by Section 1701.58 and therefore the classification was invalid.
+
+Issue
+Whether the classification of three directors into three classes each containing one director is invalid because it restricts the right to vote cumulatively.
+
+Held
+No. This classification is not invalid because Section 1701.58 grants a right that may not be restricted or qualified rather than one ensuring minority representation on the board of directors.
+
+Dissent
+The legislature showed clearly that it intended to strengthen the cumulative voting provision by adding the provision that prevents corporations from restricting cumulative voting. In the same act the legislature provides for classification of directors. It could not have been intended that the exercise of such a right could be so used as to nullify the right of cumulative voting as has been done in this case.
+
+Discussion
+Section 1701.58 guarantees to minority shareholders only the right of cumulative voting and does not necessarily guarantee the effectiveness of the exercise of that right to elect minority representation on the board of directors. To hold otherwise would annihilate the provision for classification because any such classification would necessarily be a restriction or qualification on the effectiveness of cumulative voting.
+

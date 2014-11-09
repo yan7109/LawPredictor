@@ -1,0 +1,24 @@
+Citation
+549 U.S. 877 127 S. Ct. 360 166 L. Ed. 2d 134 2006 U.S.
+
+Brief Fact Summary
+The petitioner, Rock (the “petitioner”), was charged with manslaughter for shooting her husband, and sought to introduce her own testimony that had been refreshed by hypnosis.  An expert witness corroborated the petitioner’s refreshed testimony that the gun was defective.  The trial court ruled that hypnotically refreshed testimony was inadmissible per se and the Arkansas Supreme Court affirmed.
+
+Synopsis of Rule of Law
+The state’s legitimate interest in barring unreliable evidence does not justify a per se exclusion because the evidence may be reliable in an individual case.
+
+Facts
+During a domestic dispute, the petitioner shot her husband. Because she could not remember the precise details of the incident she submitted to hypnosis by a licensed hypnotherapist.  After the hypnosis, the petitioner recalled that she did not have her finger on the trigger when the gun fired during a scuffle.  An inspection by an expert revealed that the gun was defective.  The trial court ruled that no hypnotically refreshed testimony would be admitted.  The Supreme Court of Arkansas upheld the conviction, ruling that hypnotically refreshed testimony was inadmissible per se.
+
+Issue
+Does an evidentiary rule prohibiting the admission of hypnotically refreshed testimony per se violate a defendant’s right to testify on her own behalf?
+
+Held
+Criminal defendants have a right to testify in their own behalf under the Due Process Clause of the Fourteenth Amendment of the United States Constitution (”Constitution”), the Compulsory Clause of the Sixth Amendment of the Constitution, and the Fifth Amendment constitutional privilege against self incrimination.
+
+Dissent
+An individual’s right to present evidence is always subject to reasonable restrictions.  Traditionally the Supreme Court of the United States (”Supreme Court”) accords the respect to the states in the establishment of their own evidentiary rules and procedures.  The Arkansas Supreme Court’s decision was a permissible response to a novel and difficult question.
+
+Discussion
+A defendant in a criminal case has the right to take the witness stand and testify in his own defense.  This right can be found in several places in the Constitution. A state may not apply a rule of evidence that permits a witness to take the stand, but arbitrarily excludes material portions of his testimony.  The right to present relevant testimony is not without limitation, but a state must evaluate whether the interests served justify the limitation imposed on the defendant’s constitutional right to testify.  The Arkansas Supreme Court failed to perform the constitutional analysis necessary when a defendant’s right to testify is at stake.  More traditional means of assessing information such as cross-examination are effective tools for revealing inconsistencies.  A state’s legitimate interest in barring unreliable evidence does not extend to per se exclusions that may be unreliable in the individual case.
+

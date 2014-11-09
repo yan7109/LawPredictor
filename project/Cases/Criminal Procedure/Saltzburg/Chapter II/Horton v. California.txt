@@ -1,0 +1,24 @@
+Citation
+496 U.S. 128, 110 S. Ct. 2301, 110 L. Ed. 2d 112 (1990)
+
+Brief Fact Summary
+A police officer initiated a warranted search of a robbery suspect’s home.  The warrant specified only the proceeds of the robbery, and not the weapons, even though a description of the weapons was available.
+
+Synopsis of Rule of Law
+Inadvertence “is not a necessary condition” to plain view seizures.  As long as a “police officer . . . had a prior justification for an intrusion in the course of which he came . . .across a piece of evidence incriminating the accused” and so long as the scope of the search is not “enlarged in the slightest,” it is constitutional.
+
+Facts
+A police sergeant investigating a robbery had a warrant to search petitioner Hor-ton’s home.  The warrant issued specified a search for the proceeds of the robbery, spe-cifically, three rings.  However, while weapons had been described in the police report, the warrant did not include them.  The sergeant entered the petitioner’s home.  He did not find the three rings, but he did find weapons in plain view and seized them.
+
+Issue
+“[W]hether the warrantless seizure of evidence of crime in plain view is prohibited by the Fourth Amendment if the discovery of the evidence was not inadvertent.”
+
+Held
+No.  The court first described the “plain view” doctrine as “an exception to the general rule that warrantless searches are presumptively unreasonable,” but that the doctrine implicates a seizure of an article as an “invasion of privacy.”  A search is not implicated, as the article is already in plain view.  Quoting from Coolidge v. New Hampshire, the court affirmed the basic doctrine that “the police officer . . . had a prior justification for an intrusion in the course of which he came inadvertently across a piece of evidence incriminating the accused.”  However, the court took issue two limitations:  “that plain view alone is never enough to justify the warrantless seizure of evidence,” and “that the discovery of evidence in plain view must be inadvertent.”  The court dismissed the underlying concern that the doctrine might be used to “turn an initially valid . . . limited . . . search into a” general one on two grounds.  First, it seems unlikely that the police officer woul
+
+Dissent
+The dissent argued that the “inadvertent discovery requirement . . . does protect possessory interests.”
+
+Discussion
+“Reliance on privacy concerns . . . is misplaced when the inquiry concerns the scope of an exception that merely authorizes an officer a lawful right of access to an item to seize it without a warrant.”
+

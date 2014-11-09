@@ -1,0 +1,21 @@
+Citation
+479 F.2d 638, 1973 U.S. App. 9399, 26 A.L.R. Fed. 741
+
+Brief Fact Summary
+Plaintiff Coastal Steel Erectors, Inc. (who brought this action under the Miller Act in the name of the United States), was a subcontractor hired by Defendant general contractor Algernon Blair, Inc. After Plaintiff completed approximately 28% of the work it contracted to do, Plaintiff terminated its performance over a dispute regarding crane rental. Plaintiff then sued to recover in quantum meruit the value of labor and equipment already furnished.
+
+Synopsis of Rule of Law
+Recovery for quantum meruit is equal to the reasonable value of performance and is not diminished by any loss that would have been sustained by complete performance.
+
+Facts
+Defendant entered into a contract with the United States to construct a naval hospital. Defendant then contracted with Plaintiff to perform steel erection and supply equipment. Plaintiff began its performance, utilizing its own cranes for handling and placing steel. Defendant refused to pay for crane rental. Plaintiff therefore terminated its performance after completing approximately 28% of the subcontract. Defendant completed the job with another subcontractor, and Plaintiff sued to recover for labor and equipment furnished.
+
+Issue
+Can Plaintiff recover in quantum meruit even though it would have lost money if it had completed performance?
+
+Held
+Yes. A promisee, upon breach, has the option to forego any suit on the contract and claim only the reasonable value of his performance. In other words, a plaintiff has the option of recovering damages for a breach of contract (which is a losing proposition here since completion of performance would have resulted in a loss) or in quantum meruit for the value of the performance already completed. Hence, the case was remanded for computation of damages in quantum meruit, which are not to be reduced by the loss Plaintiff would have incurred by complete performance.
+
+Discussion
+Recovery in quantum meruit is an equitable alternative to actual damages (which may end up as zero or a loss) to prevent unjust enrichment for the breaching party.
+

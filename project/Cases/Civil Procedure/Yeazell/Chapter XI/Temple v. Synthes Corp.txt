@@ -1,0 +1,21 @@
+Citation
+498 U.S. 5, 111 S. Ct. 315, 112 L. Ed. 2d 263, 1990 U.S. 5672
+
+Brief Fact Summary
+Plaintiff Temple filed a suit against the Defendant Synthes Corp., alleging defective design and manufacture of a plate and screw device implanted in his spine. Plaintiff later filed suit in State court against the doctor who installed the device and the hospital in which the procedure took place. Rather than attempt to bring the doctor and hospital into the federal action by means of a third party complaint, Defendant filed a motion to dismiss Plaintiff’s Federal suit for failure to join necessary parties pursuant to Federal Rule of Civil Procedure 19.
+
+Synopsis of Rule of Law
+It is not necessary for all potential joint tortfeasors to be named as defendants in a single lawsuit.
+
+Facts
+Plaintiff filed a suit against the Defendant, alleging defective design and manufacture of a plate and screw device implanted in his spine. Plaintiff later filed suit in State court against the doctor who installed the device and the hospital in which the procedure took place. Rather than attempt to bring the doctor and hospital into the Federal action by means of a third party complaint, Defendant filed a motion to dismiss Plaintiff’s Federal suit for failure to join necessary parties pursuant to Federal Rule of Civil Procedure 19. Following a hearing, the District Court ordered Plaintiff to join the doctor and the hospital as defendants within twenty days or risk dismissal of the lawsuit. Plaintiff appealed, and the United States Court of Appeals for the Fifth Circuit affirmed.
+
+Issue
+Whether potential joint tortfeasors are permissive parties or indispensable parties who must be joined under Rule 19(b).
+
+Held
+Potential jointfeasors are merely permissive parties and do not have to be joined in one lawsuit. The Court of Appeals erred by failing to hold that the District Court abused its discretion in ordering the joinder of all possible defendants and in dismissing the action when Plaintiff failed to comply with the order. The Supreme Court granted the petition for certiorari, reversed the judgment of the Court of Appeals for the Fifth Circuit, and remanded the case to the District Court.
+
+Discussion
+The advisory committee notes to Rule 19 explicitly state that a tortfeasor with the usual joint and several liability is merely a permissive party to an action against another with like liability.
+

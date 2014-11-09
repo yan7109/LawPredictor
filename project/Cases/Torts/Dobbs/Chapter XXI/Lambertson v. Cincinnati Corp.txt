@@ -1,0 +1,21 @@
+Citation
+312 Minn. 114, 257 N.W.2d 679 (1977)
+
+Brief Fact Summary
+The Ramsey County District Court (Minnesota) granted judgment in favor of the Plaintiff employee, Lynder Lambertson (Plaintiff) in the employee’s personal injury action initiated against the Appellant manufacturer, Cincinnati Corp. (Appellant). The trial court denied the Appellant manufacturer’s request for contribution from Third-Party Defendant employer, Hutchinson Manufacturing and Sales Inc. (Third-Party Defendant).
+
+Synopsis of Rule of Law
+An employee and in some instances an employer, is allowed to bring an action against a third party who is legally responsible for the employee’s injury. Such an action accomplishes two beneficial results for the workers’ compensation system: (1) The at-fault third party is made to reimburse the employer who has been forced to bear the cost of the third party’s activity and (2) the employee obtains a full common-law recovery against the third party, who is not subject to the benefits and burdens of the workers’ compensation system.
+
+Facts
+The Appellant sold a press brake to the Plaintiff’s employer, the Third-Party Defendant. In April 1972, the Plaintiff was assisting another employee in the operation of the brake when, in attempting reach an errant strip of metal, the Plaintiff reached through the apparatus, crushing his arm in the process. The Plaintiff filed a worker’s compensation claim and recovered from the Third-Party Defendant. The Plaintiff then filed an action against the Appellant and the Appellant sought contribution from the Third-Party Defendant. The trial court granted judgment in favor of the Plaintiff and denied the Appellant’s request for contribution. The Appellant appealed.
+
+Issue
+Should contribution or indemnity be allowed where the result may be an employer’s paying an amount in excess of the statutorily prescribed proportion per worker’s compensation law?
+
+Held
+No. The manufacturer was entitled to contribution from the employer, but not to exceed the total workers’ compensation liability to the employee.
+
+Discussion
+The principal aim of the court in Lambertson was to achieve a sort of Solomonic balance between recoveries pursuant to workers’ compensation liability and third-party liability. The court hope to avoid two pitfalls, either of which would have created an inequity: 1) an employer being forced to bear the cost of the third party’s activity; or 2) a third party’s being forced to subsidize the workers’ compensation system by bearing full burden of a judgment despite possibly greater fault of an employer. The solution the court reached was one that merely allowed contribution from the employer up to the amount of the employee’s worker’s compensation benefits.
+

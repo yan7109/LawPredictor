@@ -1,0 +1,24 @@
+Citation
+532 U.S. 67, 121 S. Ct. 1281, 149 L. Ed. 2d 205 (2001)
+
+Brief Fact Summary
+A hospital developed a policy in conjunction with law enforcement officials for dealing with pregnant drug addicts.
+
+Synopsis of Rule of Law
+A policy that permits searches where the purpose served is “ultimately indistinguishable form the general interest in crime control” does not comport with the Fourth Amendment.
+
+Facts
+In response to an apparent increase use of cocaine among prenatal patients, the Medical University of South Carolina (MUSC) began to order drugs screens.  Those testing positive were referred for treatment.  Subsequently, MUSC began a relationship with Solicitor of Charleston, which led to a policy outlining legal action to be taken against pregnant addicts, including protocols for arrest, with the hope that the threat of the law would get women into treatment.  No consent was given by the women for the drug screening.
+
+Issue
+“[W]hether a state hospital’s performance of a diagnostic test to obtain evidence of a patient’s criminal conduct for law enforcement purposes is an unreasonable search if the patient had not consented to the procedure.”
+
+Held
+Yes.  Using the “special needs” test, the court noted that “in this case . . . the central and indispensable feature of the policy from its inception was the use of law enforcement to coerce the patients into substance abuse treatment.”  Further, there policy did not “discuss different courses of medical treatment for either mother or infant.”  The involvement of law-enforcement officials throughout the development of the policy showed that the ultimate interest was “crime control.”
+
+Dissent
+The dissenting justices felt that the Court was incorrect to focus on the reporting of test results by the hospital to the authorities as the “search.”  Rather, the search was the taking of urine, which is not an “effect” for Fourth Amendment purposes.
+
+Discussion
+A benign motive “cannot justify a departure from Fourth Amendment protections, given the pervasive involvement of law enforcement with the development and application of the MUSC policy.”
+

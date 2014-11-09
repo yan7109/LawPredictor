@@ -1,0 +1,24 @@
+Brief Fact Summary
+Kahn (P) was a widower in Florida who sued the state of Florida (D) on the grounds that the statute enabling widows but not widowers to claim a property tax exemption was arbitrary.
+
+Synopsis of Rule of Law
+A state tax law cannot be held to be arbitrary if it discriminates in favor of a certain class because of certain differences in the class or the state policy which do not clash with the federal constitution.
+
+Facts
+Kahn (P) is a widower in Florida, which has a property tax exemption for widows. The application of the statute to widowers was denied by the tax assessor’s office. Kahn (P) filed a case against Shevin (D) who is the tax assessor, asking the court to declare the Florida judgment a violation of the Equal Protection Clause in the Fourteenth Amendment, which guarantees the same protections under law to all people in like circumstances. The ground of his objection was the word “widow” in the tax classification, which is purely gender-based. The Florida Supreme Court declared the classification to be a valid one insomuch as the purpose of the statute under which the classification came was to reduce the gulf between a man and a woman in terms of their economic capabilities.
+
+Issue
+Is a state law arbitrary or unfounded upon fact if it discriminates in favor of a certain class of people in order to underplay a certain difference between them or to promote a certain difference of state policy, as long as such a difference does not clash with their constitutional rights?
+
+Held
+(Douglas, J.) No. A  state law is not arbitrary if it is in favor of a certain class as long as the difference it makes is based upon a reasonable premise or difference in the state policy which is not against the federal constitution. In ths case the tax exemption is founded on a reasonable premise, that the financial impact of losing a spouse is disproportionately higher for the female sex, and that the exemption of this class from tax will reduce the financial burden. The exemption does not infringe upon any federal right other than equal protection, and involves only taxation. In such cases, the states have a lot of freedom to make classifications which would lead to reasonable taxation systems. The court declared in favor of Shevin (D).
+
+Dissent
+(Brennan, J.) Any system of classification upheld by law which makes distinctions between the beneficiaries solely on the basis of gender, like those based upon race or national origin, needs to be looked into by the court. The object of the legislation could be achieved with other non-discriminatory means or by using a more precise set of parameters.
+
+Concurrence
+N/A
+
+Discussion
+The classification of people for benefits on the basis of sex alone is a subject with legal opinion. In 1971, Title VII of the Civil Rights Act of 1964 sought to prevent the discrimination between the sexes in the matter of employment opportunities, unless the occupation is such as to make such a distinction reasonably needful for its normal operation. In 1972, a state law which gave preference to men over women for employment even if their qualifications were equal was declared
+

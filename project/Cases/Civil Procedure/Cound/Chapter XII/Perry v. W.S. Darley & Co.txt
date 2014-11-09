@@ -1,0 +1,21 @@
+Citation
+22 Ill.54 F.R.D. 278 (E.D. Wis. 1971)
+
+Brief Fact Summary
+The Plaintiff, Perry (Plaintiff), a volunteer fireman, was injured by a fire truck while attempting to activate a pump manufactured and installed by the Defendant, W.S. Darley & Co. (Defendant), and sued. During discovery, Defendant sought the names of experts who examined the truck and pump shortly after the accident. Plaintiff claimed the names were protected by attorney-client privilege and were work product.
+
+Synopsis of Rule of Law
+Pursuant to Federal Rules of Civil Procedure (FRCP) Rule 28(b)(4)(B), any party who retains expert witnesses for the purpose of anticipated litigation and will not call them as witnesses at trial, do not have to turn over any facts or opinions held by those experts during discovery. Such information is undiscoverable absent a showing of exceptional circumstances, which would make it impossible for the party seeking the facts and opinions to obtain them by other means or absent production of evidence that the experts were actors or viewers with respect to the transactions or occurrences that were part of the subject matter of the lawsuit.
+
+Facts
+Plaintiff, a volunteer fireman, was injured when hit by a fire truck while attempting to activate a pump manufactured and installed on the truck by the Defendant. The Defendant moved for an order to have the names of the experts who examined the truck and pump shortly after the accident. The refusal to such information was made during the deposition of Ward Johnson, an employee of the workmen’s compensation carrier for the fire department for whom Plaintiff worked. Plaintiff argued the names of the experts were information that constituted both privileged communication and work product. Defendant claimed that the experts were potential witnesses who had knowledge of relevant facts and that pursuant to FRCP Rule 26(b)(1), Defendant was entitled to the identity and location of persons having knowledge of any discoverable matter.
+
+Issue
+Whether Plaintiff has to turn over facts and opinions made by expert witnesses, who he retained for the purpose of anticipated litigation and did not intend to use as trial witnesses, absent a showing by Defendant that exceptional circumstances existed or that the experts were actors or viewers with respect to the transactions or occurrences that were part of the subject matter of the lawsuit.
+
+Held
+No. Defendant did not show exceptional circumstances nor offer any evidence that the experts were central to any transactions of occurrences stemming from the subject matter of the action.
+
+Discussion
+Absent a showing of exceptional circumstances where it would become impossible for the Defendant to obtain the facts and opinions through some other means, the names of the experts and their findings, which plaintiffs do not intend to call at trial remain undiscoverable. Further, the expert names and their findings are also   undiscoverable absent any evidence to show that the experts were key players with regard to any transactions or occurrences that were part of the subject-matter of the lawsuit.
+

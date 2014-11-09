@@ -1,0 +1,15 @@
+Citation
+488 U.S. 919
+
+Brief Fact Summary
+The plaintiff gave birth to a child in 1982.  The defendant denies he is the father since relations with the plaintiff ended 15 months before the birth.  The court admitted blood tests over the defendant’s objections and ruled in favor of the plaintiff.<span class='heading'>Synopsis of Rule of Law.</span>  Scientific methods which incorporate a factor in formulating a  probability percentage of paternity from a paternity index do not deprive a putative father of due process rights.
+
+Facts
+The plaintiff alleges that the defendant is the father of her child.  The defendant denies he is the father and files a motion to exclude the blood test.  The court sides with the plaintiff and allows the tests under laws governing blood tests.<span class='heading'>Issue.</span> Whether admission of a blood test is a violation of due process in terms of a right to a fair and impartial jury? Whether testimony of another man regarding relations he had with the plaintiff during the conception should be admitted as a statement against interest (an exception to the hearsay rule)?
+
+Held
+The right to a fair and impartial jury is not violated by a blood test that establishes paternity at 99.78%.  The fact that 99.78% may be overwhelming to a jury does not prevent the defendant from receiving a fair trial.  The statistical probability of paternity required by the statute comprises only one part of the evidence that is put before the jury. The statement was hearsay and not against interest since a paternity suit that would affect his pecuniary interest was already underway.  Further, there is no other evidence that a sexual relationship took place between plaintiff and the other man.
+
+Discussion
+The fact that the probability of paternity was at 99.78% did not mean that the father’s due process rights were violated.  In other words, an irrabuttable presumption of paternity was not created and the jury was instructed to give testimony the weight and value they believed it should have.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.534 U.S. 506, 122 S. Ct. 992, 152 L. Ed. 2d 1, 88 FEP Cases 1 (2002)
+
+Brief Fact Summary
+Petitioner, Akos Swierkiewicz, brought a discrimination action against Respondent, Sorema N.A., after he was demoted and ultimately fired.  The lower courts dismissed his claims.
+
+Synopsis of Rule of Law
+Under Rule 8(a)(2) of the Federal Rules of Civil Procedure, a complaint does not have to allege facts that establish a prima facie case, but rather just needs a short and plain statement of the claims showing why they are entitled to relief.
+
+Facts
+Petitioner began working for Respondent in 1989.  After six years of holding the position of Chief Underwriting Officer, he was demoted by the French CEO and replaced by a French National with only one year of underwriting experience.  At the time of the demotion, the Hungarian Petitioner had 26 years of underwriting experience, and he was 53 compared to his replacement’s age of 32.  After feeling isolated from the CEO, Petitioner requested a severance package.  Respondent dismissed him without the package.  Petitioner then filed this suit, alleging Respondent violated Title VII of the Civil Rights Act of 1964 (for discriminating against is national origin) and violated the Age Discrimination in Employment Act of 1967.  The lower courts dismissed the claims for failing to allege facts that would establish a prima facie case of discrimination as explained in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 36 L. Ed. 2d 668, 93 S. Ct. 1817 (1973).
+
+Issue
+The issue is whether Petitioner’s claims should be dismissed for failing to establish a prima facie case of discrimination.
+
+Held
+A unanimous United States Supreme Court held that the district and appellate courts were incorrectly relying on precedent that concerned an evidentiary standard rather than a pleading requirement to survive a motion to dismiss.  The prima facie standard is too high of a standard, and it conflicts with Rule 8(a)(2) which only requires a short and plain statement of the claim showing that Petitioner is entitled to relief.  Petitioner has established facts to satisfy the Rule 8 standard, and therefore the lower court is reversed.
+
+Discussion
+The Court emphasizes the importance of having a standard consistent with Rule 8 since many of the other procedural rules stem from Rule 8.  The standard the Court uses also is more flexible than the evidentiary standard.
+

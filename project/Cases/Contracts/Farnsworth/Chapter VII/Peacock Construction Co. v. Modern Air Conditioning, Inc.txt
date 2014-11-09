@@ -1,0 +1,21 @@
+Citation
+353 So.2d 840 (Fl. 1977).
+
+Brief Fact Summary
+In this consolidated appeal, the Respondents, Modern Air Conditioning, Inc. (Modern) and Overly Manufacturing (Overly) (Respondents) each subcontracted with the Petitioner, Peacock Construction Co. (Petitioner), to perform work on a condominium project. When the owners of the condominium did not pay the Petitioner, it did not pay the subcontractors.
+
+Synopsis of Rule of Law
+The interpretation of a contract is a question of law, not fact.
+
+Facts
+The Petitioner was the general contractor of a condominium project. Modern subcontracted with the Petitioner to do heating and air conditioning work and Overly subcontracted with the Petitioner to do the rooftop swimming pool work. Both subcontracts promised payment within 30 days of completion of the subcontract work. The Respondents completed their work, but the Petitioner refused to pay. The owners of the condominium, having filed bankruptcy, did not pay the Petitioner, so the Petitioner asserted that it was not obligated to pay the subcontractors. The trial court granted summary judgment against the Petitioner.
+
+Issue
+Are ambiguous provisions in a contract to be interpreted as a matter of law by the court?
+
+Held
+Yes. The meaning of language is a factual question, but the interpretation of a document is a question of law rather than of fact. Turning to the interpretation of the contractual payment provision in the present case, it is not generally intended that payment by the owner of a building to the general contractor be a condition precedent to the general contractor’s duty to pay subcontractors. This is because small subcontractors cannot afford to assume the risk of nonpayment by the owners to the general contractor. Therefore, summary judgment was appropriate in these cases.
+
+Discussion
+A court shall interpret contracts as a matter of law rather than a finder of fact interpreting the contract.
+

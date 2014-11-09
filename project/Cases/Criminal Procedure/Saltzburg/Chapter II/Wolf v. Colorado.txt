@@ -1,0 +1,21 @@
+Citation
+338 U.S. 25, 69 S. Ct. 1359, 93 L. Ed. 1782 (1949)
+
+Brief Fact Summary
+The petitioner, Julius Wolf (the “petitioner”) was convicted by a State court of conspiring to commit abortions based upon evidence allegedly obtained in violation of the Fourth Amendment’s search and seizure clause.
+
+Synopsis of Rule of Law
+The Fourteenth Amendment’s Due Process Clause does not prohibit the admission of evidence obtained during an apparently illegal search and seizure in State courts.
+
+Facts
+The petitioner was convicted of conspiring to commit abortions in a State court and appealed.  He alleged that his Fourth Amendment constitutional right to be free from illegal searches and seizures had been violated and that any evidence obtained as a result of the illegal search and seizure should have been excluded from trial as a matter of due process.  The conviction was affirmed by the Colorado Supreme Court, and certiorari was granted by the United States Supreme Court (”Supreme Court”).
+
+Issue
+Whether a State court conviction for a State offense denies due process protection under the Fourteenth Amendment of the Constitution because evidence that would have been excluded in a federal court under the Fourth Amendment of the United States Constitution (”Constitution”) was admitted?
+
+Held
+Justice Felix Frankfurter (”J. Frankfurter”) filed a majority opinion.  No, due process is not denied when evidence obtained through an illegal search and seizure is admitted by a State court for a State offense.  Unlike the requirements and restrictions placed by the Bill of Rights upon federal authorities, the Fourteenth Amendment of the Constitution does not subject criminal justice in the States to certain limitations.  In Weeks v. United States, 232 U.S. 383 (1914), the Supreme Court held that in a federal prosecution, evidence obtained in violation of the Fourth Amendment of the Constitution was barred from use.  As of the Weeks decision, twenty-seven states had passed on the Weeks doctrine, but had not left other means of protection which would be as effective as the federal exclusionary rule.  The common law provides for an action for damages, the officer may have been resisted, and the officer may have been prosecuted for oppression.  Additionally, the Weeks exclusiona
+
+Dissent
+Justice Wiley Rutledge (”J. Rutledge”) filed a dissenting opinion.  He rejected the Supreme Court’s conclusion that the mandate embodied in the Fourth Amendment of the Constitution, although binding on the States, does not carry with it the one sanction, exclusion of evidence.  Failure to observe this means that the protection of the Fourth Amendment might as well be stricken from the Constitution.  The Amendment without the sanction is a dead letter. Justice Frank Murphy (”J. Murphy”) also filed a dissenting opinion.  He observed, we are limited to three devices for the enforcement of the Fourth Amendment
+

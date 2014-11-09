@@ -1,0 +1,21 @@
+Citation
+301 U.S. 548, 57 S. Ct. 883, 81 L. Ed. 1279, 1937 U.S. 1199.
+
+Brief Fact Summary
+The federal unemployment system provided a scheme whereby employers paid a tax to the federal government, but they could deduct the same tax if they made a contribution to a state employment fund.
+
+Synopsis of Rule of Law
+For a tax and credit scheme to be unconstitutional as against the Fifth Amendment or of principles of federalism, there must be a showing that the tax and credit used together are coercive and/or that they impair the autonomy of the States.
+
+Facts
+Under the federal unemployment compensation system employers were required to pay a certain tax to the United States Treasury. But if they made a contribution to a “certified” state unemployment fund, they could deduct up to 90 percent of the same tax liability. The Plaintiff, the Steward Machine Company (Plaintiff), challenged the validity of the tax system on constitutional grounds.
+
+Issue
+Was the federal unemployment tax system in violation of the Fifth Amendment or of principles of federalism?
+
+Held
+No. The lower court’s decision is affirmed. The tax system was constitutional.
+
+Discussion
+With respect to the federal government’s ability to enact federal regulation pursuant to its power to spend, this case gives back to Congress a little of the power that United States v. Butler took away. The Supreme Court here draws a distinction between federal regulation that encourage (i.e., pressure) the States and those that coerce them. The former is permissible, the latter is not. The precise point at which the line from encouragement to coercion is crossed remains an open question.
+

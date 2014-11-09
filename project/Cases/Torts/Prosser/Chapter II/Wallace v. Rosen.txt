@@ -1,0 +1,21 @@
+Citation
+765 N.E.2d 192 (Ind. Ct. App. 2002)
+
+Brief Fact Summary
+During a fire drill, a teacher touched a parent on the shoulder to get her attention to stop blocking a stairway. The parent testified that she was pushed down the stairs, and the teacher claimed that she only touched the parent on the back. The parent sued for battery and on a negligence theory; the jury found in favor of the teacher on the negligence theory and the judge refused to give a jury instruction regarding battery because no intent was present.
+
+Synopsis of Rule of Law
+Consent to ordinary personal contact is assumed for all contacts that are customary and reasonably necessary to the common intercourse of life, and in such circumstances, no intent to unlawfully invade another’s interest will be found.
+
+Facts
+Appellant/Defendant Rosen was a high school teacher in the Indianapolis Public School system. During a fire drill, Defendant Rosen had to touch a student’s mother, Plaintiff Wallace, on the back in order to get her attention to unblock a stairway exit. Plaintiff testified at trial that Defendant pushed her and she slipped and fell down the stairs; Defendant denied pushing (but did admit to touching Plaintiff’s back). The trial court jury found in favor of Defendant on a negligence theory, but the judge refused to give a civil battery instruction as requested by Plaintiff because no intent to touch in a rude or angry manner was present. Plaintiff appealed contending that the trial court erred in not allowing the jury instructi
+
+Issue
+Whether the unwanted touching of a person blocking a stairway during a fire drill constitutes a battery (an intentional tort)?
+
+Held
+Whether the unwanted touching of a person blocking a stairway during a fire drill constitutes a battery (an intentional tort)?
+
+Discussion
+The court looked to the Indiana Pattern Jury Instruction which provided that “a battery is the knowing or intentional touching of a person against his or her will in a rude, insolent, or angry manner.” Focusing on intent, the court reasoned that in order to separate negligence from intent, a line must be drawn where the known danger to another ceases to be only a foreseeable risk which a reasonable person would avoid, but becomes a substantial certainty in the mind of the tortious actor. Referencing the Prosser and Keaton treatise on tort law, the court cited to the observation that in some circumstances, a certain amount of personal contact is inevitable and must be accepted by an individual, such that consent to the contact must be assumed. The circumstances of the scenario of this case (person standing in the middle of a stairway during a school fire drill) would certainly cause an expectation of a certain amount of unavoidable personal contact.
+

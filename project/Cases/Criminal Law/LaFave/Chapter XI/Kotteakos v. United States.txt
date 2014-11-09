@@ -1,0 +1,21 @@
+Citation
+328 U.S. 750,66 S. Ct. 1239, 90 L. Ed. 1557,1946 U.S..
+
+Brief Fact Summary
+Defendants were tried together each being charged with a count of conspiracy. The Government presented evidence that demonstrated several conspiracies involving a common individual. Defendant alleged they were prejudiced by this approach.
+
+Synopsis of Rule of Law
+There can be a common scheme or purpose that is embodied in several separate distinct conspiracies.
+
+Facts
+Defendants were charged with conspiracy. The conspiracy involved Defendants and others who sought to induce various financial institutions to grant them credit. The credit was then presented to the Federal Housing Administration for insurance upon applications containing false and fraudulent information. Defendants were convicted of conspiracy, but the Government by proving this single conspiracy demonstrated the existence of several others, all executed through one common individual. The Trial Court convicted Defendants of one count of conspiracy; the Appellate Court affirmed, and Defendants timely appealed.
+
+Issue
+Whether the Government’s demonstration of several conspiracies was prejudicial to Defendant.
+
+Held
+Reversed, Defendants should be tried separately in order to avoid confusion.
+
+Discussion
+The Court ruled that the jury instruction was wrong. The jury instruction told the jury they could find each Defendant guilty if they found that each Defendant participated in the single conspiracy. The Court noted that the Government admits that several separate conspiracies took place, all involving one common individual but not all with the participation of each Defendant. The Court hypothesized that because of the wrong instruction, although the Government presented sufficient evidence to show a conspiracy, the outcome could have been different.
+

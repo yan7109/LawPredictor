@@ -1,0 +1,24 @@
+Citation
+144 N.J. 269, 676 A.2d 1036 (1996)
+
+Brief Fact Summary
+The Superior Court, Appellate Division (New Jersey) affirmed judgment of the trial court when a jury found the American Association of Blood Banks (AABB) negligent. Specifically, the jury found AABB thirty percent liable for damages to Mr. and Mrs. Snyder (Plaintiffs). Mr. Snyder received AIDS tainted blood by transfusion. AABB appealed.
+
+Synopsis of Rule of Law
+Public entity is defined to include the state, and any county, municipality, district, public authority, public agency, and any other political subdivision or public body in the state. A public entity is not liable for an injury, whether such injury arises out of an act or omission of the public entity.
+
+Facts
+In 1984, Mr. Snyder underwent open-heart surgery at a Paterson, New Jersey hospital. He received blood transfusions during the operation, and it was later determined that the blood carried the Human Immunodeficiency Virus (HIV). The blood had not been tested for possible taint. Mr. Snyder later contracted AIDS, and brought suit against a number of defendants, including the AABB, the national trade association for blood banks. A jury found that the AABB had been negligent in not recommending testing, and that this failure was a substantial factor that led to the contraction of HIV. The Appellate Division affirmed.
+
+Issue
+Was the AABB, a private association, entitled to qualified immunity as a quasi-governmental entity, and thus excused from owing Plaintiff a duty of care?
+
+Held
+No. The court held that the AABB, in seeking and cultivating the responsibility of safeguarding the nation’s blood supply, could not then be granted the shield of qualified immunity. The decision of the lower court was affirmed.
+
+Dissent
+The dissent takes the view that it would be unfair to charge the AABB with public accountability (as with a government agency), while at the same time denying it the immunity that would be afforded a government entity. “The majority seeks to have it both ways: by finding a duty of care and liability because of the government authority delegated to the AABB, but then denying immunity because of a perceived lack of government authority.”
+
+Discussion
+Discretionary immunity of the kind at issue in Snyder protects government officials from tort liability when, in their official capacity, they make decisions founded on planning or policy considerations. An immunity, unlike a defense, is not dependent on the plaintiff’s conduct, but on the defendant’s status or relationship to the plaintiff. Such a relationship determines the duty owed the plaintiff, and in many jurisdictions that duty is heightened where it has been determined that a “special relationship” exists between plaintiff and defendant.
+

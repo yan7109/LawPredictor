@@ -1,0 +1,24 @@
+Citation
+532 U.S. 162, 121 S. Ct. 1335, 149 L. Ed. 2d 321 (2001)
+
+Brief Fact Summary
+The Respondent, Raymond Levi Cobb (the “Respondent”), was indicted for a burglary he confessed to.  While in police custody for the burglary charge, he confessed to the murder of the two missing persons from the house he robbed.
+
+Synopsis of Rule of Law
+The Sixth Amendment to the United States Constitution (”Constitution”) right to counsel is offense-specific and will not transfer to another offense regardless of the close factual relationship.
+
+Facts
+The Respondent admitted to committing a burglary of a home, but he did not admit to knowing the whereabouts of the two people missing from the home.  He was indicted for the burglary and was in police custody awaiting trial.  The Respondent then confessed the murders to his father, who disclosed this information to the police.  The Respondent then waived his Miranda rights and confessed directly to police before any charges were brought against him for the murders.
+
+Issue
+Whether the Respondent’s right to counsel for the charges of burglary extend to the factually related murder charges and therefore render the police confession inadmissible?
+
+Held
+The confession is admissible because the Respondent waived his Miranda rights, and his right to counsel for the burglary charge would not transfer to the murder charge.
+
+Dissent
+The dissent argues that the spirit of the Sixth Amendment of the Constitution would require factually similar offenses to be grouped together for purposes of right to counsel.  The concern then is that police could badger a suspect in custody on non-specific offense-related matters.
+
+Discussion
+The Supreme Court of the United States (”Supreme Court”) draws a bright line by not extending the Sixth Amendment right to counsel to other offenses, regardless of how interwoven the offenses may
+

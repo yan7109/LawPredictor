@@ -1,0 +1,24 @@
+Citation
+248 N.Y. 339, 162 N.E. 99 (1928)
+
+Brief Fact Summary
+Defendant helped to push a man aboard a train. The man’s package fell. Inside were firecrackers, which exploded causing some scales to fall and injure Plaintiff
+
+Synopsis of Rule of Law
+Chief Justice Cardozo, writing for the majority held that negligence is based on the foreseeability of the harm between the parties. Justice Andrews, writing for the minority stated that each person owes an absolute duty of care; i.e. each person must refrain from acts (foreseeable or not) that unreasonably threaten the safety of others.
+
+Facts
+Mrs. Palsgraf (Plaintiff) was standing on a platform after she bought a ticket from Long Island R.R. (Defendant). Two men ran to catch a train that was pulling out from the platform. The first man jumped aboard. The second man, who was carrying a package, attempted to jump aboard the car, however he was unsteady. A guard on the train, who had held the door open, reached forward to help him in, and another guard on the platform pushed him from behind at the same time. In this act, the package the man was carrying was dislodged and fell upon the rails. The package contained fireworks, but there was nothing from its appearance to give notice of its contents. The fireworks exploded when they fell. The shock of the explosion threw down some scales at the other end of the platform, many feet away. The stales struck Plaintiff, causing injuries for which she sues. Plaintiff sued Defendant. Plaintiff was awarded damages. Defendant appealed.
+
+Issue
+Does a Defendant owe a duty of care to Plaintiff who is outside the reasonably foreseeable zone of danger?
+
+Held
+No. Judgment reversed.
+
+Dissent
+(Justice Andrews) Everyone owes the world at large the duty of refraining from those acts that may unreasonably threaten the safety of others. In determining proximate cause the court must ask itself whether there was a natural and continuous sequence between the cause and effect, and not whether the act would reasonably be expected to injure another. If not for the explosion, she would not have been injured.
+
+Discussion
+This case identifies two ways to determine if a duty is owed to Plaintiff: (1) the Cardozo method; and (2) the Andrews method:
+

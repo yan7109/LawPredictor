@@ -1,0 +1,21 @@
+Citation
+179 N.W. 45 (Minn. 1920).
+
+Brief Fact Summary
+Plaintiff’s property was burned when a windswept fire traveled east to his land.  Plaintiff alleged that the fire was caused by Defendant’s engine that burned in August then the fire traveled east to consume Plaintiff’s property by October.  Defendant argued that there were other fires sweeping east with unknown origins, so Plaintiff’s damage could not be attributed solely to Defendant.  The jury found for Plaintiff, finding that the Defendant’s fire was a material and substantial cause of the fire.   The higher court affirmed.
+
+Synopsis of Rule of Law
+In cases where multiple causes concur to bring about an injury and it is difficult to attribute the harm solely to any one source, instead of the “but-for” test many courts will apply the “substantial factor” test, which looks to see whether a party’s actions were a material or substantial element in the harm done.
+
+Facts
+Plaintiff’s property was burned by a fire in October 1918.  Plaintiff alleged that his property was damaged because Defendant’s engine caught fire in August, smoldered until October, then swept east and reached the Plaintiff’s property.  The Defendant offered proof that there were other fires sweeping east toward Plaintiff’s property that originated from other causes.  The trial judge instructed the jury that if it found that Defendant’s fire was a “material or substantial element in causing plaintiff’s damage” then the Defendant is liable.  So charged, the jury found for the Plaintiff, Defendant appealed and the higher court affirmed.
+
+Issue
+Where it is impossible to determine which of several actors actually caused an injury, whether negligence can be attributed to one of the actors involved if such actor could have independently caused the injury.
+
+Held
+Yes.  The court reasoned that where a fire combines with another fire of no known origin, and after the union of the two fires they destroy property, and either fire independently of the other would have destroyed it, then either cause may be held responsible.  This concept is joint and several liability, meaning that either cause can be held responsible individually for the damage.  The court agreed with the trial court’s instruction that the jury must find that the Defendant’s actions were a “material and substantial element” in causing the injury.  This is also known as the “substantial factor” test, an alterative to the “but-for” test when there are multiple causes of harm.
+
+Discussion
+Yes.  The court reasoned that where a fire combines with another fire of no known origin, and after the union of the two fires they destroy property, and either fire independently of the other would have destroyed it, then either cause may be held responsible.  This concept is joint and several liability, meaning that either cause can be held responsible individually for the damage.  The court agreed with the trial court’s instruction that the jury must find that the Defendant’s actions were a “material and substantial element” in causing the injury.  This is also known as the “substantial factor” test, an alterative to the “but-for” test when there are multiple causes of harm.
+

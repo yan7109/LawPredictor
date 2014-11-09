@@ -1,0 +1,21 @@
+Citation
+65 N.Y.2d 536, 493 N.Y.S.2d 435, 483 N.E.2d 110 (1985)<br />
+
+Brief Fact Summary
+This is an appeal to the Court of Appeals of New York from two cases which both took on the issue of accountant liability to third parties for disclosures made in financial reporting.
+
+Synopsis of Rule of Law
+Accountants will not be held liable to third parties who rely on their financial statements absent privity, or a showing that the accounting firm knew or should have known that the party would rely on their statements in extending credit.
+
+Facts
+The facts of both cases are as follows:
+
+Issue
+Whether an accountant may be held liable, absent privity, to a third party who relies to his detriment on a negligently prepared financial statement?
+
+Held
+The holdings of the two cases differ:
+
+Discussion
+In analyzing the holding of these cases, it is important to see the distinction. The Defendant in European Am. was aware that their financial statements would be used by outside creditors. In Credit Alliance, Defendant prepared form reports, which it gave to its clients. It did not reasonably know that those reports would be given to another party.
+

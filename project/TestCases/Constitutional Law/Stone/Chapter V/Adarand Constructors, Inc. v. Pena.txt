@@ -1,0 +1,24 @@
+Citation
+515 U.S. 200, 115 S. Ct. 2097, 132 L. Ed. 2d 158, 1995 U.S. 4037.
+
+Brief Fact Summary
+A federal policy offered contractors working for the government extra compensation for hiring minority businesses. A construction company awarded a subcontract to a minority owned business, despite the fact that a non-minority owned business offered to do the work for less money.
+
+Synopsis of Rule of Law
+Federal racial classifications must serve a compelling governmental interest and must be narrowly tailored to further that interest.
+
+Facts
+The United States Department of Transportation awarded a prime contract to Mountain Gravel & Construction Company (Mountain Gravel). Mountain Gravel then solicited bids from subcontractors for the guardrail portion of the prime contract. The Petitioner, Adarand Constructors, Inc. (Petitioner) submitted the low bid. But, Gonzalez Construction Company (Gonzalez) was awarded the subcontract. Mount Gravel’s prime contract provided that Mount Gravel would receive extra compensation if it hired subcontractors qualified as small “socially and economically disadvantaged” businesses. Federal law presumed that Blacks, Hispanics, Native Americans and Asian Pacific Americans ran socially and economically disadvantaged businesses. Gonzalez had qualified as a small socially and economically disadvantaged business. The Petitioner had not.
+
+Issue
+What standard of review applies to the federal program, to the extent that it defined disadvantage by race?<br />	Did the presumption defining disadvantage partly by race violate the Fifth Amendment constitutional obligation not to deny anyone the equal protection of the laws?
+
+Held
+Strict Scrutiny and maybe. The case is remanded to the lower courts for determination of whether the program passes the test of strict scrutiny.
+
+Dissent
+Justice John Paul Stevens (J. Stevens) states the Supreme Court of the United States (Supreme Court) assumes there is no difference between a decision by the majority to impose a burden on the minority and a decision by the majority to provide a benefit to the minority notwithstanding the incidental burden certain members of the majority will incur. The Supreme Court would disregard the difference between a “No Trespassing” sign and a welcome mat.<br />	Justice Ruth Bader Ginsburg (J. Ginsburg) stated that given this Country’s racial history and its consequences, Congress should be able to carefully design remedial programs to help us finally realize the “equal protection of the laws” the Fourteenth Amendment of the United States Constitution (Constitution) has promised since 1868.<br />Concurrence.<br />	Justice Antonin Scalia (J. Scalia) stated that the government could never have a compelling interest for discriminating on the basis of race in order to “make up” for past discrimination. There is no such thing under the Constitution of the United States as a debtor or creditor race.<br />	Justice Clarence Thomas (J. Thomas) stated government programs based on benign racial classifications are just as noxious as those inspired by malicious prejudice.<br />
+
+Discussion
+In City of Richmond v. J.A. Croson Co., the Supreme Court held that the Fourteenth Amendment of the Constitution requires strict scrutiny of all race-based programs adopted by state or local governments. In this case, the Supreme Court brings the standard of judicial review for state and local governments into harmony with that for the federal government. The Supreme Court says that there should be no different treatment between claims brought under the Fourteenth Amendment Equal Protection Clause and those brought under the Equal Protection component of the Fifth Amendment due process clause.
+

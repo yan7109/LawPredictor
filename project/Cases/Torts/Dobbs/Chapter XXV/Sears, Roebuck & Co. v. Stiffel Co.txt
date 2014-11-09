@@ -1,0 +1,21 @@
+Citation
+376 U.S. 225, 84 S. Ct. 784, 11 L. Ed. 2d 661, 140 U.S.P.Q. 524 (1964)
+
+Brief Fact Summary
+The United States Court of Appeals for the Seventh Circuit affirmed an order enjoining the Petitioner, Sears, Roebuck & Co. (Petitioner) from selling lamps similar to those designed by the Respondent manufacturer, Stiffel Co. (Respondent). The retailer was also ordered to pay damages for its violation of the state’s unfair competition law and the Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Synopsis of Rule of Law
+A State may not, consistently with the Supremacy Clause of the United States Constitution (Constitution), extend the life of a patent beyond its expiration date or give a patent on an article that lacked the level of invention required for federal patents.
+
+Facts
+The Respondent secured design patents on a “pole lamp”, a vertical tube with light fixtures attached, that runs from floor to ceiling. The lamp enjoyed strong commercial success, and shortly after its manufacture the Petitioner retailer began marketing a lamp of almost identical design. Given its size and national retail operation, the Petitioner was able to sell the item at a significantly lower price than the Respondent. The latter brought an action against the Petitioner alleging patent infringement and confusion of trade. Although the lamps were not patented under federal law, the district court enjoined the Petitioner from selling the lamps and ordered it to pay damages to the Respondent.
+
+Issue
+May a state’s unfair competition law, consistently with federal patent laws, impose liability for or prohibit the copying of an article that is protected by neither a federal patent nor a copyright?
+
+Held
+No. Reversing the appellate court, the Supreme Court held that because federal law was supreme with regard to copyrights and patents, the states were precluded from providing more protection to unpatented articles.
+
+Discussion
+The court in Sears held that a manufacturer could not use a state unfair competition law to obtain an injunction against copying its product or an award of damages for such copying, as such use of state law conflicts with the exclusive power of the Federal Government to grant patents only to true inventions and then only for a limited time. The Supreme Court noted that an unpatented article, being in the public domain, might be freely copied, though state law may require labeling or other precautions where appropriate to prevent deception as to source.
+

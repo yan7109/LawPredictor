@@ -1,0 +1,21 @@
+Citation
+198 F.3d 62 (2d Cir. 1999); cert denied, 530 U.S. 1276 (2000)
+
+Brief Fact Summary
+The SEC (Plaintiff) utilized multiple administrative enforcement devices in determining a fraud violation under the Investment Adviser's Act (IAA).
+
+Synopsis of Rule of Law
+There is a vast array of administrativeenforcement options available to the SEC.
+
+Facts
+A registered investment adviser, Valicenti Advisory Services, Inc. (VAS) (Defendant ), a registered investment adviser, arranged materials for dispersal to potential clients promoting VAS's past performance. Pieces of sales literature, prepared under the close supervision of VAS’ CEO Valicenti, by VAS’s marketing manager, were incorporated in those materials. The 1991 Chart, the first piece of sales literature, allegedly shows the rates of return realized by a merging of VAS discretionary accounts over the course of five years, from 1987-1991.  Although, the 1991 Chart was based on between a mere 13-19 out of the 74 to 120 accounts that, during the years in question, fall under Valicenti’s definition.  The marketing manager at VAS suggested multiple changes to apply to the 1991 Chart so that it reflects a more honest merging of VAS accounts with Valicentirefusing all recommendations.  VAS was investigated by the SEC for fraud under the IAA and discovered the anti-fraud provisions of the IAA had been purposefully violated by both petitioners. So, petitioners with censure were sanctioned by the SEC, fines, a cease and desist order, and a condition that petitioners send copies of the SEC’s opinion and order to every current client.
+
+Issue
+If an investment adviser’s prior record is clean and the purported fraud harmed no one, are sanctions appropriate?
+
+Held
+(Per curiam) Yes. Fiduciaries whose actions are ruled by the highest standards of conduct are known as investment advisers. In this case, by producing deceiving advertising materials the advisers disregarded the standards and affected a fraud on the potential clients. It is in the public interest and suitable to censure VAS, have a cease and desist order issued and finedValicenti $25,000 and VAS $50,000. Affirmed.
+
+Discussion
+The SEC did not enjoy the wide range of administrative enforcement options it currently has previous to 1990. The array of sanctions for securities law violations was expanded by theSecurities Enforcement Remedies and Penny Stock Reform Act of 1990.
+

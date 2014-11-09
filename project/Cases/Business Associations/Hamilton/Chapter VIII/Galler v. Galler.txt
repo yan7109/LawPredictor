@@ -1,0 +1,21 @@
+Citation
+Ill. Sup. Ct., 203 N.E.2d 577 (1964)
+
+Brief Fact Summary
+Emma Galler (P) filed suit to compel specific performance of a shareholder agreement that bounds shareholders to vote for specific individuals and directors and call for mandatory dividends made between her deceased husband, and his brother, business partner Isadore Galler (D).
+
+Synopsis of Rule of Law
+Closely held corporations are not held to the same standards of corporate conduct as publicly held corporations if there is an absence of evidence of fraud or prejudice towards minority shareholders or creditors.
+
+Facts
+Isadore (D) and Benjamin, two brothers of a corporation, drew up a shareholder’s agreement to benefit their respective families in case of either of their death. This agreement secured salary continuation payments towards surviving widows. It also allowed the widow a position on the board of directors and to choose a successor for her husband. Specific dollar amounts of dividends were dictated in the agreement. These payments were also qualified so as not to encumber the resources of the business. Emma (P) sought enforcement of the agreement after Benjamin’s death, but Isadore (D) repudiated the agreement, claiming it violated Corporations Code and public policy of Illinois.
+
+Issue
+Are shareholder agreements related to dividend policy and voting of directors enforceable in closely held corporations when it would otherwise be unenforceable in publicly held corporations?
+
+Held
+(Underwood, J.) Yes. Shareholder agreements related to dividend policy and voting of directors are enforceable in closely held corporations when it would otherwise be unenforceable in publicly held corporations. Deviations from publicly held corporation practice in a closely held one are only permitted so long as they do not defraud or prejudice the interests of creditors or the minority shareholders. Usually, principals in a close corporation have a close relationship, and their agreements should be enforceable when statutes are silent on the matter. This agreement did not imperil creditors and did not involve minority shareholders, therefore, the agreement is valid and enforceable. Affirmed in part, reversed in part, and remanded.
+
+Discussion
+This case is an example of the basic differences between publicly held and closely held corporations that the jurisdictions have become accustomed towards. In close corporations, it is recognized that parties regard themselves almost like partners. This perspective allows for flexibility in the enforcement of shareholder’s agreements unseen in publicly held corporations. A significant number of statutes were designed to protect shareholder and creditor interest. Where the shareholders are few, and are mostly partner-like, the need for strict enforcement of protection is unnecessary. Close corporations can be allowed to do as they wish in regards to internal structure and operation so long as the interests of minority shareholders and creditors are not infringed upon.
+

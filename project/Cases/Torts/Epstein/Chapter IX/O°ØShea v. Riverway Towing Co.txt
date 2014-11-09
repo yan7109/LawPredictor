@@ -1,0 +1,21 @@
+Citation
+677 F.2d 1194 (7th Cir. 1982).
+
+Brief Fact Summary
+O’Shea (Plaintiff) was injured when she fell getting off a boat operated by Defendant. Plaintiff was awarded money damages, which included a sum for inflation of lost future wages.
+
+Synopsis of Rule of Law
+It is appropriate to take inflation into account when determining damages for lost future wages.
+
+Facts
+Plaintiff was a cook on a towboat. She was coming off duty, and was brought to shore by a harbor boat operated by Riverway Towing Co. (Defendant). While getting off the boat, Plaintiff fell, suffering injuries. Plaintiff sued Defendant for damages. The district judge found Defendant negligent and Plaintiff free from contributory negligence, and awarded Plaintiff damages in excess of $150,000.00. Defendant appealed; disputing the amount awarded Plaintiff for lost future wages. The amount awarded Plaintiff took inflation into account, assuming an annual increase. An economist totaled up Plaintiff’s future earnings, including inflation, up to the end of Plaintiff’s estimated working career, then discounted it to reflect the present value of the award. Defendant claimed that inflation should not have been used in this calculation.
+
+Issue
+In determining damages for lost future wages, is it appropriate to adjust for inflation?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+Awards of future wages must be discounted to reflect their present value. The present value amount will always be a number smaller than the total of the sum of future wages. Present value is basically the current value of a payment or payments to be made in the future. The courts must also consider inflation when awarding money damages. Inflation means that it will take more dollars tomorrow to purchase goods than it would take to purchase the same goods today. Inflation will increase Plaintiff’s award to offset the decreased future spending power of the award of money damages she receives today.
+

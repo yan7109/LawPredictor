@@ -1,0 +1,24 @@
+Citation
+119 F.3d 148 (2d Cir. 1997)
+
+Brief Fact Summary
+The United States District Court for the Southern District of New York dismissed Plaintiffs’ negligence suit against Olin Corp. (Defendant), a bullet manufacturer, for failure to state a claim upon which relief could be granted under Rule 12(b)(6) of the Federal Rules of Civil Procedure. Plaintiffs argued that the issue of whether they would ultimately prevail was a question for the trier of fact and should not have been decided merely on the pleadings, challenged the decision.
+
+Synopsis of Rule of Law
+As a matter of law, a product’s defect is related to its condition, not its intrinsic function.
+
+Facts
+In December 1993, Colin Ferguson boarded a Long Island Railroad commuter train during evening rush hour and opened fire on several passengers, killing six and wounding nineteen. The bullets used in the shooting, 9mm “Black Talons”, were designed by their manufacturer, Olin Corporation, to enhance the injuries of their victims. The bullets performed as designed, that is, they bent upon impact into “six ninety-degree angle razor-sharp petals” that tear through tissue and bone thus increasing the severity of the victims’ injuries. Plaintiffs brought an action against Defendant, alleging strict liability and negligence. The lower court ultimately dismissed appellants’ complaint for failure to state a claim upon which relief could be granted. With specific regard to Plaintiff’s action for negligent marketing and manufacture, the appeals court affirmed the lower court’s dismissal because Defendant did not have a legal duty to control the distribution of the ammunition nor did it owe
+
+Issue
+Did the lower court err in dismissing Plaintiff’s case based solely on the pleadings?
+
+Held
+No. Defendant could not be held strictly liable on the grounds that the ammunition was defectively designed and the design and manufacture of the bullets were inherently dangerous. The bullets were not in defective condition nor were they unreasonably dangerous for their intended use; they were purposely designed to expand on impact and cause severe wounding.
+
+Dissent
+The dissent took issue with the dismissal of plaintiffs’ negligence claim in that he viewed the issues surrounding the manufacturer’s marketing of the bullets as possibly an issue for a jury.
+
+Discussion
+In New York, there are three distinct claims for strict products liability: (1) a manufacturing defect, which results when a mistake in manufacturing renders a product that is ordinarily safe dangerous so that it causes harm; (2) a warning defect, which occurs when the inadequacy or failure to warn of a reasonably foreseeable risk accompanying a product causes harm; and (3) a design defect, which results when the product as designed is unreasonably dangerous for its intended use. In the instant case, the latter point is critical. The ironic problem here is that the product in question performed exactly as designed; by definition, then, the product at issue was not defective. As the court explained, “[a] defectively designed product is one which, at the time it leaves the seller’s hands, is in a condition not reasonably contemplated by the ultimate consumer. This rule, however, is tempered by the realization that some products, for example knives, must by their very nature
+

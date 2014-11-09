@@ -1,0 +1,21 @@
+Citation
+22 Ill.300 U.S. 506, 57 S. Ct. 554, 81 L. Ed. 772 (1937)
+
+Brief Fact Summary
+Defendant was convicted under Section: 2 of the National Firearms Act because he did not pay the annual license tax on dealers in firearms.
+
+Synopsis of Rule of Law
+The annual tax imposed under the National Firearms Act does produce some revenue and is thus a permissible use of Congress’ general taxing power. Courts should not speculate as to Congressional motives in imposing a law or the extent to which it imposes restrictions as long as it serves a revenue-producing purpose.
+
+Facts
+Defendant is a dealer in firearms. He did not pay the $200.00 tax required annually by Section: 2 of the National Firearms Act. He sought a writ of certiorari claiming that the tax was unconstitutional.
+
+Issue
+Does Congress have the power to tax for revenue interests, and is the tax imposed by the National Firearms Act constitutional?
+
+Held
+Yes, the tax is constitutional and Congress has this power under the taxing power granted to it in the Constitution. The tax did produce some revenue, and the Court will not analyze Congressional motives for imposing it. Further, the tax was within the national taxing power. Congress, the Court reasoned, could determine the subjects of taxation, and could choose some while omitting others. The Court also explained that the tax in question was not a penalty imposed for the purpose of enforcing regulations, which would be beyond the scope of the taxing power.
+
+Discussion
+Congress has the power to impose taxes reasonably related to its taxing power. More importantly, if Congress acts pursuant to a power granted to it by the Constitution, the Court will not analyze the motives behind the regulation.
+

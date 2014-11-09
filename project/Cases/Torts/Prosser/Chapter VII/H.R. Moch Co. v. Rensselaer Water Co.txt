@@ -1,0 +1,21 @@
+Citation
+247 N.Y. 160, 159 N.E. 896 (N.Y.App.1928).
+
+Brief Fact Summary
+The Plaintiff, H.R. Moch Co.’s (Plaintiff) warehouse was damaged by a fire. Plaintiff sued the Defendant, Rensselaer Water Co. (Defendant), for failing to provide sufficient water to extinguish the fire, as Defendant had contracted to do with the city. Defendant filed a demurrer to dismiss the complaint.
+
+Synopsis of Rule of Law
+A defendant’s failure to act is not actionable under tort law unless the defendant has a duty to act as to the plaintiff.
+
+Facts
+The Defendant entered into a contract with the city of Rensselaer to supply water for a number of years. While the contract was in force Plaintiff’s warehouse caught fire. The Defendant was notified of the fire, but according to the complaint, failed to supply a sufficient quantity of water with adequate pressure to extinguish the fire. It was also claimed that Defendant was equipped to do so and had agreed in contract with the city that it would. The Plaintiff brought suit as one for the breach of a statutory duty. The Defendant made a motion in the nature of a demurrer to dismiss the complaint, which was denied at Special Term. The Appellate Division reversed by a divided court.
+
+Issue
+Is the Defendant liable for damages to the Plaintiff for failing to supply sufficient water during a fire as required by a contract with a separate entity?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+The Court’s discussion hinges on the difference between an act and an omission in tort law. An act of negligence is generally actionable so long as a duty of care is present and damages occur. A failure to act, or an omission, is rarely actionable in tort law.
+

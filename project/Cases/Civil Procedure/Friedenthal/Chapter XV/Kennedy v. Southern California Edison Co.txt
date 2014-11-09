@@ -1,0 +1,21 @@
+Citation
+22 Ill.219 F.3d 988 (9th Cir. 2000)
+
+Brief Fact Summary
+Plaintiffs brought suit against Defendant for the wrongful death of decedent. They asked the District Court for jury instructions to be given which were consistent with a precedential case. The judge refused and the jury found for Defendant. Plaintiff appealed.
+
+Synopsis of Rule of Law
+District Courts are not relieved from the responsibility of giving a proper instruction when presented with an applicable instruction that raises an important issue of law or directs the court’s attention to a point upon which an instruction to the jury would be important, simply because the party making the request has proposed an instruction that does not completely comply with the relevant law.
+
+Facts
+Ellen Kennedy died in 1996 of chronic myelogenous leukemia (”CML”), a rare form of cancer at the age of 43. The Plaintiffs were her husband, Joe, and their four children (Plaintiffs). From 1982 to 1990, Mr. Kennedy worked as machinist for Southern California Edison Company (Defendant) at the company’s San Onofre Nuclear Generating Station (SONGS). The Plaintiffs brought suit against Defendant in federal court, asserting jurisdiction pursuant to the Price-Anderson Act. They sought damages for Ellen Kennedy’s wrongful death. The action alleged that her terminal CML resulted from negligence on the part of the Defendant that resulted in her exposure to radiation from SONGS. Further, Plaintiffs sued another Defendant, Combustion Engineering, Inc. (Defendant), under a products liability cause of action, for the alleged faulty production of nuclear fuel rods. The theory of the case was that Joe Kennedy inadvertently brought home microscopic particles of radioactive material, known as
+
+Issue
+Whether the District Court erred in refusing to give a jury instruction in a case involving a single defendant who raised alternative possible sources of his injury as a defense to claims under California products liability law.
+
+Held
+We reverse and remand the case for a new trial.
+
+Discussion
+The lower court reasoned that because Ellen Kennedy was not a user or consumer of the nuclear fuel rods produced by the Defendant, the Defendant could not have reasonably foreseen that its product would injure Ellen Kennedy.
+

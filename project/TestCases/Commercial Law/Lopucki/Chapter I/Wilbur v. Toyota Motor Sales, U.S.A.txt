@@ -1,0 +1,21 @@
+Citation
+86 F.3d 23, 1996 U.S. App. 14134,1996-1 Trade Cas. (CCH) P71,435
+
+Brief Fact Summary
+Nicolyn S. Wilber, (Appellant), sued Toyota Motor Sales, U.S.A., (Appellee) for refusing to honor its new car warranty on her Toyota Camry purchase. Appellant appeals a district court ruling granting summary judgment to Appellee.
+
+Synopsis of Rule of Law
+When drafting a written warranty, the seller must fully and conspicuously disclose in simple and readily understood language its terms and conditions or have such ambiguities strictly construed against it.
+
+Facts
+Appellant purchased a Toyota Camry from Tri-Nordic Toyota. Prior to purchase Tri-Nordic informed Appellant that the car in question was used as a demonstrator and had been involved in an accident. Tri-Nordic assured Appellant that the damage had been fixed and the car retained no structural damage. When Appellant purchased the car she received a copy of Appellee’s “New Vehicle Limited Warranty” which stated that the warranty went into effect on the date the car was put “in service.” The warranty also stated that any repairs and adjustments required as a result of an accident are excluded. After purchase Appellant discovered that the bars ABS braking system did not work among other problems. Appellant took the car to several dealerships for repairs. Each time the dealership refused to honor the warranty because the car had sustained structural damage in an accident. Appellant filed suit. The district court held that because the damage from the accident was excluded form covera
+
+Issue
+Whether damage caused to Appellant’s car before it was listed as “in service” was excluded from the warranty.
+
+Held
+No. The damage occurring prior to the date the dealer listed the car as “in service” was not excluded from warranty coverage.
+
+Discussion
+Appellee’s warranty seems to be clear and unambiguous. The warranty commences on the “in service” date that is filled in by the dealer when the car is sold. However, it is ambiguous as to whether the in service date refers to the date the car is put into use by the dealer or by the buyer. If the warranty is taken on its face, then the warranty did not begin until after the accident occurred and Appellee’s refusal to repair the car is a breach of warranty. If the warranty is read to have started the day the dealer put it into use, then the warranty language itself must be deemed cryptic and unclear. It was the actions of Tri-Nordic, not Appellee, which resulted in the damage to the car that led to this lawsuit. But Appellee provided Appellant with a new car warranty and gave its dealer the authority to fill in the service date. Appellee then must be prepared to have ambiguities construed against it. The court therefore finds that Appelant’s claim cannot be defeated on Appel
+

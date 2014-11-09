@@ -1,0 +1,24 @@
+Brief Fact Summary
+A fire broke out at one of Paragon Molding’s (P) facilities. The insurer deposited funds to cover claims against Paragon Molding (P) with the court. All claimants, individual or corporate, were required to interplead as joined defendants.
+
+Synopsis of Rule of Law
+When interpleaded funds are to be distributed, the district court functions as a court of equity to determine the distribution of such funds, and having the flexibility to offer completely equitable remedies to each party.
+
+Facts
+There was a fire at Paragon Molding, Ltd. (Paragon) (P) which damaged both real estate and inventory for its business. Paragon (P) sued American Economy Insurance Company (AEIC) for wrongfully withholding payment of the fire insurance policy from Paragon (P). AEIC was willing to pay but put the condition that all those who owed sums to Paragon (P) should first state their claims in an official forum. AEIC put $ 1,334,812.98, being proceeds from the fire insurance policy in court funds, so that the various claims could be settled. The list of claimants to the insurance proceeds were Paragon (P), Miller Industries who owned the real estate on which the Paragon (P) plant stood, the Alex N.Sill Company which helped the Paragon management to prepare the claim for fire insurance, the two Rhodes brothers who held non-realty assets in Paragon (P) which were consumed in the fire, and JP Morgan Chase Bank, which had advanced loans to Paragon (P).
+
+Issue
+Is the district court functioning as a court of equity when deciding how to distribute interpleaded funds, with the flexibility of remedy to provide complete fairness to all parties?
+
+Held
+(Rice, J.) Yes. In this case the district court is sitting as a court of equity with flexibility to apply the right remedy to different cases and give all claimants complete equity. Under the Federal Rules of Civil Procedure, persons who put forward claims of the kind which can put the plaintiff at risk of facing multiple liability, can be joined together as defendants and required to litigate the matter for resolution. In this case, the defendants were the multiple claimants to the fire insurance proceeds. The property subject to claim was the fire insurance proceeds, which were deposited with the court, and the case was of the type known as interpleader since no objection was raised by any of the parties. In such a situation AEIC can now be released from the case since it has resolved its dispute with Paragon (P) by depositing the funds with the court. The plaintiff in an interpleader case is the person who holds title to the funds disputed, in this case Paragon (P), the stakeholder. All other parties are claimants to the stake. They are considered party defendants. In distributing the funds in an interpleader, the highest priority is for those who specifically claim a part of the stake, the funds deposited with the court, over those who have other kinds of claim against the stakeholder, that is, Paragon (P). Each party defendant must specifically state their claim to the funds disputed. If they have no such stake, they need to state in what they deserve a higher priority of payment, citing relevant authority. A final point is that 28 U.S.C. S 1335 makes it a requirement that at least two claimants adverse to each other should be of different citizenship if a court is to exercise its judicial authority over an interpleader. Here Paragon (P) is a citizen of Ohio State. The other parties need to file a modification to their pleadings ( but not a modified pleading) in which they state how they come under this court’s jurisdiction.
+
+Dissent
+N/A
+
+Concurrence
+<p>N/A
+
+Discussion
+This is a typical interpleader case, in which the judge will be responsible for the deposited funds and their distribution, with prior agreement of all parties that such distribution will be a final judgment on the matter and will preclude any additional liability on the part of the plaintiff.
+

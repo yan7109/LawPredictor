@@ -1,0 +1,21 @@
+Citation
+916 F.2d 1174 (7th Cir. 1990).
+
+Brief Fact Summary
+The Defendant, American Cyanamid Co. (Defendant) manufactured a dangerous chemical, which was spilled during transportation. The Plaintiff, Indiana Harbor Belt R.R. Co. (Plaintiff) sued the Defendant, claiming that the transportation of the chemical was an abnormally dangerous activity.
+
+Synopsis of Rule of Law
+The determination of whether an activity is abnormally dangerous depends on the application of several factors, including if accidents cannot be prevented by the exercise of ordinary due care.
+
+Facts
+Defendant was a major manufacturer of chemicals, including acrylonitrile. Acrylonitrile is flammable at temperatures above 30 degrees Fahrenheit, is highly toxic, and possibly carcinogenic. Defendant leased railroad cars to transport acrylonitrile to purchasers. When one of these cars arrived at the Blue Island yard just south of Chicago, it was noticed that acrylonitrile was gushing out of a bottom outlet on the car. Although only about of a quarter of the acrylonitrile escaped, the Illinois Department of Environmental Protection ordered the Plaintiff switching line to take decontamination measures costing $981,022.75. One count of the complaint asserted that the transportation of acrylonitrile in bulk through the Chicago metropolitan area is an abnormally dangerous activity. The trial court found that strict liability applied and granting summary judgment in favor of Plaintiff on that count.
+
+Issue
+Is the shipper of a hazardous chemical by rail strictly liable for the consequences of a spill or other accident to the shipment?
+
+Held
+No. Judgment reversed and remanded.
+
+Discussion
+Courts have ruled numerous activities abnormally dangerous in various cases, including: pile driving, crop dusting, rocket testing, fireworks displays, hazardous waste disposal, and oil wells.
+

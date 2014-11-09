@@ -1,0 +1,21 @@
+Citation
+544 F.2d 1, 178 U.S. App. D.C. 78 1976 U.S. App.
+
+Brief Fact Summary
+The Appellee applied for four patents by sending the patent applications through the mail to the Patent Office.  While mail from Connecticut to Washington, D.C. normally took two days, the patent applications were date-stamped seven days after they were mailed.  The later date meant that the Appellee’s patents failed because they were received later than similar patents.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E”) Rule 301 provides that a presumption imposes on one party the burden to go forward with evidence to rebut or meet the presumption, but does not shift the burden of proof.
+
+Facts
+The Appellee’s attorney mailed a package of four patent applications on March 1, 1973, to the Patent Office in Washington D.C. from Connecticut.  The package was sent airmail, which normally took two days.  The applications were date-stamped March 8, 1973 by the Patent Office, and the four applications were assigned that filing date.  Three of the Appellee’s patents will fail if the date is correct because of previous filings.  The Appellee petitioned the Commissioner of Patents (the “Commissioner”) to reassign the filing date, and was denied.  The Appellee sued in District Court seeking a judgment directing the Commissioner to give the application a filing date of March 6, 1973.  Both parties moved for summary judgment based on pleadings and affidavits submitted.  The trial court found that there is a presumption of the regularity of the mail and the presumption that the Patent Office followed its custom, habit, and procedure is not enough to overcome the presumption.
+
+Issue
+Is there a genuine issue of fact as to when the applications were received by the Patent Office?
+
+Held
+Circuit Judge Spottswood W. Robinson, III, issued the opinion of the District of Columbia Circuit Court of Appeals and held that the District Court should not have issued summary judgment.
+
+Discussion
+Proof that mail is properly addressed, stamped, and deposited appropriately is evidence of delivery to the addressee.  If the basic facts are presented, a presumption is inferred, but it is a rebuttable presumption.  The evidence offered by the Patent Office should be given the same respect as given any proven fact.  It would have probative value on the issue of the dates of receipt of the applications.  A fact-finder could decide that the integrity of the Patent Office’s mail handling procedures lead to the conclusion that the applications did not arrive until the date stamped.
+

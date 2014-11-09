@@ -1,0 +1,24 @@
+Citation
+99 Wn.2d 609, 664 P.2d 474, 1983 Wash. 1564.
+
+Brief Fact Summary
+Group Health Cooperative’s (Defendant’s) failure to diagnosis Herskovits (Plaintiff) with cancer caused a 14% reduction in Plaintiff’s chance for survival. Plaintiff, at all times, had less than a 50% chance of survival. Plaintiff sought damages from Defendant.
+
+Synopsis of Rule of Law
+Medical testimony of a reduction of the chance of survival from 39 % to 25% is sufficient evidence to allow the issue of proximate cause to go to the jury.
+
+Facts
+For the purposes of this case, the court assumed that Defendant failed to diagnose Plaintiff’s cancer, and proximately caused a 14% reduction in his chance of survival. Before the alleged negligence, Plaintiff’s chance of survival was less than 50%. The trial court found that Defendant was not liable for Plaintiff’s 14% reduction in his chance for survival, because prior to the incident, Plaintiff had less than a 50% chance of survival. The trial court granted Defendant’s Motion for Summary Judgment. Plaintiff appealed.
+
+Issue
+Does a patient that has less than a 50% chance of survival, have a cause of action against the hospital and its employees if they are negligent in diagnosing lung cancer, which reduces the chance of survival by 14%?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+(Justice Brachtenberg) The dissent supported the traditional proximate cause standard.
+
+Discussion
+In this case, the court holds Defendant liable for all tortious injures sustained by Plaintiff. The court does not consider it relevant that Plaintiff did not have a likely chance of survival despite Defendant’s negligence. The court reasoned that the jury should determine the extent of that damage. Defendant is liable for the decrease of Plaintiff’s chance of recovery, even when recovery is unlikely.
+

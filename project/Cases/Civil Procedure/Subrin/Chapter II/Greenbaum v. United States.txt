@@ -1,0 +1,21 @@
+Citation
+360 F. Supp. 784, 1973 U.S. Dist. 13849
+
+Brief Fact Summary
+Plaintiff, Morey Greenbaum, brought this action against Defendant, the United States, under the Federal Tort Claims Act (”FTCA”).  Defendant challenged the jurisdiction.
+
+Synopsis of Rule of Law
+An answer that claims a lack of knowledge or information will not be considered a denial if the party did not exert a reasonable effort to discover the facts.
+
+Facts
+Plaintiff sued under the FTCA after he fell in a Philadelphia post office.  He worked for the post office, but on that day was only picking up his paycheck.  Although Plaintiff filed under the FTCA as a business invitee, the Federal Employees Compensation Act (”FECA”) provided for paying compensation to employees while performing their duties.  The accident occurred on March 1, 1968 and he filed on May 17, 1968.  The suit began on May 9, 1969.  Defendant waited more than five years to now assert that the federal court did not have jurisdiction because FECA provided for an exclusive remedy for employee compensation through the Secretary of Labor.  During that time, Defendant never objected or raised the issue when Plaintiff asserted his status as a business invitee.
+
+Issue
+The issue is whether the court lacks jurisdiction to hear a dispute about compensation for a federal employee.
+
+Held
+The court held that, although a defense of jurisdiction is not waived when it is delayed, this case presented an exceptional problem in the five years-plus delay between the accident and the challenge of jurisdiction.  Defendant possessed the information, such as a superintendent’s report documenting that the injury occurred while Plaintiff was picking up his check, but neglected to use a reasonable effort to examine their files.  Only after Plaintiff increased his damages amount did they perform a more diligent search.  Therefore, Defendant’s prior assertion that they had no knowledge will not act as a should actually act as an admission that Plaintiff was a business invitee.
+
+Discussion
+Defendant’s lack of diligence in reviewing their files supersedes the importance of granting jurisdiction to the Secretary of Labor as a FECA claim.
+

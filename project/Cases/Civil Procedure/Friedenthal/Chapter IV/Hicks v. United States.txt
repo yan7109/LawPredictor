@@ -1,0 +1,21 @@
+Citation
+22 Ill.368 F.2d 626 (4th Cir. 1966)
+
+Brief Fact Summary
+Plaintiff, administrator of Carol Greitens’ estate, sued the United States Government under the Federal Torts Claims Act (Act) for a naval doctor’s alleged medical malpractice, arguing that the doctor negligently failed to diagnose Greitens’ ailment, causing her death. The lower court found the evidence insufficient to establish negligence on the part of the doctor and dismissed the complaint from which Plaintiff appealed.
+
+Synopsis of Rule of Law
+A District Court judge’s application of law to facts is to be reviewed de novo by the appellate court. Rule 52(a), stating that a trial court’s findings of fact are only to be overturned unless clearly erroneous, refers to the trial courts findings of disputed facts or other questions pertaining to purely questions of fact.
+
+Facts
+Greitens, the decedent, went to an infirmary located on a naval base after she had been vomiting for an hour. The doctor that examined her, felt her abdomen and looked at her medical records. He noted that she had gastroenteritis, told Greitens she had a “bug” and told her to go home and come back in 8 hours. The next morning, Greitens drank a glass of water and then passed out. She died later on at the hospital due to an obstruction that ruptured her intestine. Plaintiff, the administrator of Greitens’ estate, sued the Government based on the alleged negligence of the doctor. Under Virginia law, the standard applicable to this case, if a doctor used ordinary care in reaching the diagnosis, then the doctor was not negligent even if it is later found that the diagnosis was a mistake. The Plaintiff’s experts testified that the standard practice in this situation is to conduct more than a mere cursory examination. An obstruction can be fatal and tests are usually done in order to
+
+Issue
+Is a trial court judge’s decision as to whether undisputed facts constitute negligence reviewed under a clearly erroneous standard as stated in Rule 52(a) of the Federal Rules of Civil Procedure?
+
+Held
+No, whether certain undisputed facts constitute negligence is reviewed de novo by the appellate court. Applying this standard, the trial court judge’s conclusion is erroneous. Reversed and remanded.
+
+Discussion
+The case demonstrates that a district court judge’s application of the law to the facts can be reviewed in its entirety by the appellate court. This should be distinguished from conclusions a district court judge makes regarding disputed issues of fact. Here it was necessary for the appellate court to decide if the correct standard of care was applied, as opposed to whether there were facts supporting that conclusion.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill. 851 F.2d 920 (7th Cir. 1988)
+
+Brief Fact Summary
+The Plaintiff-Appellant, DF Activities Corp. (Plaintiff), claimed they had an oral contract with the Defendant-Appellee, Brown (Defendant), to buy a chair for $60,000. The Plaintiff agrees that such a contract would be governed by the statute of frauds (SOF) and admits that the Defendant has denied the existence of the contract.
+
+Synopsis of Rule of Law
+The statute of frauds prevents a party from conducting additional discovery once the defense is raised.
+
+Facts
+In November, Plaintiff’s agent negotiated with Defendant buy a Frank Lloyd Wright chair. During that conversation, Plaintiff alleges Defendant agreed to sell the chair to Plaintiff for $60K in two equal installments. In early December, Plaintiff sent Defendant a letter confirming the agreement. Shortly thereafter, Plaintiff sent a check. Two weeks later Defendant returned the letter and the check, with the following note: “Since I did not hear from you until December and I spoke with you the middle of November I have made other arrangements.” Defendant later sold the chair for $198K. Plaintiff sued for the difference. Defendant moved to dismiss under the Section:2-201 of the Uniform Commercial Code (UCC). Attached to the motion to dismiss was an affidavit by Defendant that she had never agreed to sell the chair to Plaintiff and the she did not recollect the conversation with Plaintiff. In addition to the affidavit, there was a letter from Defendant to Plaintiff withdrawing the offer
+
+Issue
+Whether additional discovery is permitted whenever a Defendant raises a SOF defense and submits an affidavit denying that she formed an oral contract with Plaintiff?
+
+Held
+No. Affirmed. Without the affidavit, then discovery would be permitted. However, the chance that the Defendant will make an admission during a deposition is too small to allow further discovery.
+
+Dissent
+Courts should have discretion to determine the limits of permissible discovery.
+
+Discussion
+The court is concerned with the possibility that intense deposition would cause the witness to commit perjury and allow the opposing party to continue this course of action in order to force a change in testimony. Thus the SOF would become weak and of little v
+

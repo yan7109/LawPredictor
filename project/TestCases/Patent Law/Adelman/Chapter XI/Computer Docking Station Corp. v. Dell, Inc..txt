@@ -1,0 +1,21 @@
+Citation
+519 F.3d 1366 (Fed. Cir. 2008)
+
+Brief Fact Summary
+Computer Docking Station Corp. (CDSC) (Plaintiff) clearly relinquished   computers with built-in keyboards or displays when distinguishing its "portable computer" from laptops. Plaintiff then sued various manufacturers of laptop computers claiming patent infringement.
+
+Synopsis of Rule of Law
+A patentee cannot later argue infringement when the allegedly infringing invention claim was clearly disclaimed during prosecution.
+
+Facts
+Plaintiff submitted a patent application for a "portable computer microprocessing system" or "portable computer" that had keyboard and display options that could be joined to it.  Initially the examiner rejected the claims as anticipated and obvious because of the '128 patent to Herron disclosing a laptop computer and docking component.  Plaintiff repeatedly disclaimed computers with built-in keyboards or displays while appealing the rejection and amending its claims.  Plaintiff then received the assigned '645 patent and filed suit against Dell, Inc. (Defendant) and other computer manufacturers claiming infringement, arguing that Defendant's laptops and docking stations infringed upon the '645 patent.  Defendant moved for summary judgment which was granted by the district court.  Plaintiff appealed.
+
+Issue
+Can a patentee later argue infringement when the allegedly infringing invention claim was clearly disclaimed during prosecution?
+
+Held
+(Rader, J.)  No.  A patentee cannot later argue infringement when the allegedly infringing invention claim was clearly relinquished during prosecution.  The court should consider the claim itself and interpret the claim language which defines the patented invention, the specification, and prosecution history.  In addition, prosecution disclaimer may limit the claim but only if the disclaimer is clear.  In this case, Plaintiff repeatedly and clearly disclaimed laptops, or any computers with built-in keyboards or displays, when it fought to distinguish its invention from the prior art.  Plaintiff cannot now argue that its patent claim covers laptops in a claim of infringement against Defendant.  The prosecution history clearly shows that Plaintiff does not intend its patent to cover Defendant's machines.  Affirmed.
+
+Discussion
+Claim interpretation is complicated, detailed, and technical, therefore all available information should help a judge without expertise to evaluate the invention claims on his or her own.  However, discerning a prosecution disclaimer can be equally complicated and technical because of the detailed history of prosecution that goes along with cases of patent infringement.  Finding a prosecution disclaimer allows for a narrower reading of a claim but if the appellate court determines the disclaimer was not "unambiguous," also serves as grounds for reversal.
+

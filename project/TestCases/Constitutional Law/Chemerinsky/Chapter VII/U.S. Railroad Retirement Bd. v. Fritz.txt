@@ -1,0 +1,24 @@
+Citation
+449 U.S. 166, 101 S. Ct. 453, 66 L. Ed. 2d 368, 1980 U.S.
+
+Brief Fact Summary
+In order to prevent the railroad retirement system from falling into bankruptcy, Congress passed, and the Supreme Court of the United States upheld, a law ending windfall benefits that drew a distinction between employees who could continue to receive dual benefits and employees who were denied dual benefits.
+
+Synopsis of Rule of Law
+Depriving one set of unretired workers of dual benefits while continuing to give dual benefits to those who satisfied certain criteria did not violate equal protection.
+
+Facts
+Prior to 1974, federal law permitted persons who had worked in both railroad jobs and non-railroad jobs to receive dual benefits, under both Social Security and the railroad retirement system. The windfall benefits threatened the railroad retirement system with bankruptcy. In order to avoid bankruptcy, Congress passed a law that ended the dual benefits, but included a grandfather clause that preserved dual benefits for some classes of employees. Specifically, those employees who had already retired and were receiving dual benefits would continue to receive them. Workers who had not yet retired, but who qualified for dual benefits could only receive them if: 1) they performed some railroad work in 1974; or 2) they had a current connection with the railroad industry; or 3) they had completed twenty-five years of railroad service. Appellee, Mr. Fritz, sued, claiming that depriving one set of unretired workers of dual benefits while continuing to give dual benefits to those who sa
+
+Issue
+Whether depriving one set of unretired workers of dual benefits while continuing to give dual benefits to those who satisfied certain criteria violates equal protection.
+
+Held
+No. Judgment of the lower court reversed. Because Congress could have eliminated windfall benefits for all classes of employees, it is constitutionally permissible for Congress to have drawn lines between groups of employees for the purpose of phasing out those benefits. The classification here is not arbitrary because it is an attempt to protect the relative equities of employees and to provide benefits to career railroad employees. Where, as here, there are plausible reasons for Congress’ actions, the Supreme Court of the United State’s inquiry is at an end. It is constitutionally irrelevant whether this reasoning underlies the legislative decision because the Court has never insisted that a legislative body articulate its reasons for enacting a statute.
+
+Dissent
+The Court adopts a tautological approach to statutory purpose. It disregards the actual stated purpose of Congress in favor of a justification which was never suggested by any legislator, and which in fact conflicts with the stated congressional purpose. Further, the Court upholds the classification without any analysis of its rational relationship to the identified purpose.
+
+Discussion
+The majority uses minimal “bite” to find that the classifications in this case are constitutional.
+

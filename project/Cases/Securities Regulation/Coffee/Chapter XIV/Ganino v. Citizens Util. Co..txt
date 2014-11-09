@@ -1,0 +1,21 @@
+Citation
+228 F.3d 154 (2d Cir. 2000)
+
+Brief Fact Summary
+Buyers (Plaintiff) of Citizens Utilities Company (Defendant) common stock claimed Citizens provided substantial inaccuracies by deceitfully acknowledging profits while lacking appropriate admission.
+
+Synopsis of Rule of Law
+For a court to depend on only a solitary statistic or percentage standard to decide the relevance of a purported inaccuracy is erroneous.
+
+Facts
+A publically traded company, Citizens Utility Company, made and obtained about $10 million in dues from Hungarian Telephone & Cable Corp (HTCC) in 1995 for loans Citizens made to it. This amount was documented in 1996 as first and second quarter revenues but due to Citizens’ 1995 annual fiscal statement (1995 Form 10-K) reported that Citizens had been paid by HTCC, buyers of Citizens stock filed suit under 10b-5 claiming they had been deceived into trusting the $10.1 million booked in 1996 as new earnings. In particular, Citizens reported a 15% rise for the first quarter of 1996 (when compared with the same time the previous year) failing to mention that a majority of this rise was attributed to HTCC in 95, instead stated in its First Quarter 10-Q.  Comparably, Citizens announced a 10% rise for the second quarter and again failed to mention that most of the increase was due to HTCC fees. Ensuing press releases and in Citzens’ Third Quarter 1996 Form 10-Q and the 1996 Form 10-K contained the statement of these fees. The HTCC fees totaled 1.7% of Citizens entire 1996 profits or, about $22 million. Citizens reported less than anticipated income for the first quarter of 1997 but stated it was not related to a decline in HTCC fees. The district court held that the purported distortions were immaterial as a matter of law as a result of the total amounting to only 1.7% of Citzens income in 1996. The court of appeals granted review.
+
+Issue
+Is a court depending on only a solitary statistic or percentage to decide relevance of a purported inaccuracy erroneous?
+
+Held
+(Katzmann, J.) Yes. A court depending on only a solitary statistic or percentage to decide relevance of a purported inaccuracy is erroneous. With regard to financial statements, the SEC has stated that a multitude of qualitative aspects may result in inaccuracies of measurably minute quantities to be relevant, where the inaccuracy hides an alteration in income or a failure to sustain specialists’ estimations for the company. This is very influential when determining the relevance of a purported inaccuracy and other court of appeals cases follow this method as well.
+
+Discussion
+For reasons of pragmatism, authorities implicated with securities transactions apply a general rule in circumstances like this, that there is an assumption that information that is reason behinda 10% increase in stock price movement, or all of an issuers assets, total sales, net income and the like is relevant while information accounting for 5% or less is assumed to not be. Measurable relevance is only one way to determine relevance and it must also be taken into account in particular cases, but it all boils down to all material conditions must be contemplated, irrespective of completelymeasurablevalues.
+

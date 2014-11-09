@@ -1,0 +1,21 @@
+Citation
+301 III. App. 3d 128
+
+Brief Fact Summary
+The Mengs, (Plaintiffs), brought suit against Maywood Proviso State Bank, First Security Trust & Savings Bank, and Greater Illinois Title Insurance Company, (Defendants) for breach of contract, failure to exercise ordinary care in accepting cashier’s checks under U.C.C. Section:3-404, negligence. Plaintiffs appeal summary judgment in favor of Defendants.
+
+Synopsis of Rule of Law
+Banks do not have a duty to question customers about the payees in transactions involving cashier’s checks.
+
+Facts
+Plaintiffs wanted to purchase a building in foreclosure. The United States Department of Housing and Urban Development, (HUD), held the mortgage. Plaintiffs retained John Parolin, an attorney to accomplish the purchase. John Parolin told Plaintiffs to obtain three cashier’s checks payable to himself and David L. Kelly and alleged HUD employee who was authorized to make the sale. David L. Kelly is a fictitious person. Plaintiffs purchased the cashier’s checks from Allbank. John Parolin cashed all three checks bearing his and David L. Kelly’s signatures with Defendants and Allbank made payment on the checks.
+
+Issue
+Whether the fictitious payee provision in the U.C.C. bars plaintiffs’ breach of contract claim against the bank that issued and subsequently paid the cashier’s checks upon presentment. Where there was ambiguity to invoke the alternate payee method of payment in the cashier’s check that was made payable to Klaus Wieske who, in turn, specially indorsed the back of the check. Whether a duty should be imposed on banks to question customers about the payees in transactions involving cashier’s checks.
+
+Held
+Yes. The statutory fictitious payee rule relieves a bank from liability for honoring a check bearing the forged indorsement of a fictional payee by deeming the forged indorsement to be effective. Yes. The designation of two payees on a cashier’s check is ambiguous where no directives are stated on the checks to determine the manner of payment and therefore, one named payee was sufficient to negotiate the check.  No. Such a duty is not required under the U.C.C.
+
+Discussion
+An enforceable contract arises when a cashier’s check is purchased calling for the issuing bank to pay the instrument to the named payee only. The cashier’s check bore the name of a fictitious payee. Under U.C.C. Section:3-404(b)(ii) a forged indorsement of a fictitious payee is effective. This puts the risk of loss on the drawer of the check because the drawer is in the best position to avoid the loss. U.C.C. Section:3-110 shifts the presumption to pay on an instrument in the alternative rather than jointly. Here, the cashier’s check named two payees but did not include any directions regarding whether the check is payable to the named persons alternatively or jointly. Therefore one named payee was sufficient to negotiate the check. Imposing a duty on banks to question customers about the payees in transactions involving cashier’s checks is not mandated by the U.C.C. Doing so contravenes the purpose of a cashier’s check which is meant to operate as cash. It would also infringe on the rights of a customer to access his or her own funds for the purpose of distributing them to his or her own designated payees
+

@@ -1,0 +1,21 @@
+Citation
+105 F.3d 841, 1997 U.S. App.
+
+Brief Fact Summary
+Defendant sent NBA scores and information to subscribers via a handheld pager. Plaintiff, the NBA, sued Defendant for misappropriation.
+
+Synopsis of Rule of Law
+Only a narrow “hot-news” misappropriation claim survives preemption for actions concerning material within the realm of copyright. Elements that allow a “hot-news” claim to survive preemption are: (1) the time-sensitive value of factual information; (2) the free riding by a defendant; and (3) the threat to the very existence of the product or service provided by the plaintiff.
+
+Facts
+Motorola (Defendant) had a service for its pagers that allowed parties to get the scores of NBA games sent to them while the games were in progress. There was a lag of 2-3 minutes between the events of the games and when the information appeared on the pager screen. A permanent injunction was issued against Defendant under a claim of hot news appropriation under International News Service v. Associated Press, 248 U.S. 215 (1918). Defendant appealed.
+
+Issue
+Does a hot news claim have to take into account the free riding of the defendant, the time sensitive value of the information, and the threat to the very existence of the product or service provided by the plaintiff?
+
+Held
+Yes. Judgment reversed. Injunction denied.
+
+Discussion
+INS was one of the first cases to address the issues raised by technological advances, although the technology involved in that case was primitive by contemporary standards. The broadcast of live events does not fit into the rational of misappropriation as outlined in INS.
+

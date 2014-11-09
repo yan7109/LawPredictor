@@ -1,0 +1,21 @@
+Citation
+148 F.2d 703 (4th Cir. 1945)
+
+Brief Fact Summary
+Trustees (D) of a corporation approved an amendment diverting power of preferred stock to privately owned debentures.
+
+Synopsis of Rule of Law
+Under corporate voting trust agreements, trustees may not exercise power to the detriment of the actual owner of the voting share, nor may the trustees of different classes favor one class over the expense of another class.
+
+Facts
+In 1935, debentures and preferred stock of the corporation were issued to lenders during the corporation’s bankruptcy. Only the preferred and common stock had voting power during this reorganization. These shares were then placed in a 10 year voting trust and the trustees (D) given the right to vote on amendments to the articles of incorporation and just about, “every other right of an absolute owner of said shares”. At the time of the reorganization, debenture holders and preferred stockholders were the same, later transfers of the preferred stock made them into two separate classes. The trustees (D) held substantial amounts of debentures and were also a majority of the corporation’s directors after having voted themselves in. Afraid of losing power with the termination of the trust, the trustees (D) voted to amend the corporate charter. The amendment granted debentures voting power and diverted control from the preferred shareholders. A holder (P) representing 500 preferred shares brought forth a class action to dismiss the amendment. The district court dismissed the holder’s (P) action. An appeal followed.
+
+Issue
+May trustees under a corporate voting trust agreement exercise their voting rights to the detriment of the actual owners of the shares held in trust?
+
+Held
+(Dobie, J.) No. Under corporate voting trust agreements, trustees may not exercise power to the detriment of the actual owner of the voting share, nor may the trustees of different classes favor one class over the expense of another class. “The voting strength attaching to shares of stock is equivalent to a property right as any element of dominion possessed by owners of realty” through this rationale, a trustee should be allowed to divert strength of the voting share. Here, the trustees (D) diluted the voting power of preferred shares toward their own debentures in order to maintain control of the corporation. This action was beyond their authority, the amendment is void. Reversed and remanded.
+
+Discussion
+This case demonstrates a general finding in regards to voting trusts. Most states now recognize the validity of voting trusts. Still, most states require the trust to be written and filed with the corporation and usually with a duration of 21 years. Though the shareholder give his right to vote to the trustee, the shareholder still has right to dividends, inspect corporate records with cause, and to launch derivative suits. As this case shows, the shareholder may also bring an action against the trustee if use of the share results in a determinant to the shareholder.
+

@@ -1,0 +1,24 @@
+Citation
+444 U.S. 286, 100 S. Ct. 559, 100 S. Ct. 580, 62 L. Ed. 2d 490 (1980).
+
+Brief Fact Summary
+Plaintiffs purchased a car in New York and were subsequently involved in a car accident in Oklahoma. Plaintiffs sued the distributor and retailer of the car (Defendants) in Oklahoma state court for injuries suffered in the car accident. Defendants moved to dismiss arguing Oklahoma did not have personal jurisdiction.
+
+Synopsis of Rule of Law
+A non-resident defendant must purposely avail himself of the forum state’s privileges and protections for that state to have personal jurisdiction over him unless the case pertains to a product connected with defendant’s business that was brought into the forum state by the plaintiff. Foreseeability that the product might eventually enter the state is irrelevant if there is no purposeful availment of that state’s privileges and protections.
+
+Facts
+The Robinsons, Plaintiffs, bought a car in New York from Seaway, Defendant. Plaintiffs drove the car to Oklahoma where they were in a car accident and injured.  Plaintiffs sued Seaway, Audi (the manufacturer), Volkswagen of America (the importer) and World-Wide Volkswagen (Worldwide; the regional distributor) as Defendants in a strict liability action in Oklahoma state court claiming the gas tank and fuel system were defective. There was no evidence that the retailers and distributors had ever made any transactions in Oklahoma. The trial court held that it had jurisdiction over Defendants in Oklahoma and denied World-Wide’s motion for reconsideration. World-Wide sought a writ of prohibition from the Supreme Court of Oklahoma. The writ was denied on the grounds that jurisdiction was authorized by the Oklahoma long arm statute. World-Wide appealed.
+
+Issue
+Can a state exercise in personam jurisdiction on the distributor and retailer of a product when the distributor and retailer do not utilize the privileges of conducting activities within that state, and do not distribute their product with the expectation that it will be purchased by consumers within the state?
+
+Held
+No. Reversed.
+
+Dissent
+Justice Brennan: The analysis should be focused on fairness and reasonableness. The constitutional consideration is not what the best forum is but whether the defendant is linked to that forum and the burden is not unreasonable.  The focus is on the relation among the parties, the transaction, and the forum state.
+
+Discussion
+The majority opinion shows that a state does not necessarily have personal jurisdiction over a corporate defendant simply because its product was brought into the forum state. There defendant must still have voluntarily connected himself or herself with the forum state via the notion that it purposely availed itself of the forum state’s laws.
+

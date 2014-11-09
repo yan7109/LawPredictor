@@ -1,0 +1,24 @@
+Citation
+384 U.S. 757, 86 S. Ct. 1826, 16 L. Ed. 2d 908 (1966)
+
+Brief Fact Summary
+DUI suspect had a blood sample taken.  Analysis was used against him.
+
+Synopsis of Rule of Law
+The Fifth Amendment privilege against self-incrimination “protects an accused only from being compelled to testify against himself, or otherwise provide the State with evidence of a testimonial or communicative nature, and that the withdrawal of blood and use of . . . analysis . . . did not involve compulsion.”
+
+Facts
+Petitioner Schmerber was convicted of DWI of alcohol based on a chemical analysis that revealed his intoxication.  The blood was taken at the direction of a police officer at the hospital where the petitioner had been taken following an accident, over the petitioner’s refusal.
+
+Issue
+Whether blood taken despite a suspect’s refusal “and the admission of the analysis in evidence denied him his privilege against self-incrimination under the Fifth Amendment.”
+
+Held
+No.  The Supreme Court based its finding on precedent.  While acknowledging that the State “compelled [petitioner] to submit to an attempt to discover evidence that might used to prosecute him,” it did no mean that he had been compelled “to be a witness against himself.”  The Court concluded that the privilege is “a bar against compelling ‘communications’ or ‘testimony,’ but that compulsion which makes a suspect or accused the source of ‘real or physical evidence’ does not violate it.”  The Court also listed fingerprints, photographs, measurements, writing or speaking samples, and the like as not being privileged.
+
+Dissent
+The dissent argued that the blood sample was “so that a person who analyzed it could give evidence to convict him had both a ‘testimonial’ and a ‘communicative nature.”
+
+Discussion
+“Since the blood test evidence . . . was neither petitioner’s testimony nor evidence relation to some communicative act or writing by the petitioner, it was not inadmissible on privilege grounds.”
+

@@ -1,0 +1,21 @@
+Citation
+68 F.3d 1027 (7th Cir. 1995)
+
+Brief Fact Summary
+Ethel H. Kurz was the beneficiary over two trusts.  Kurz was not allowed to access the second trust until the first trust was exhausted. After Kurz died, the Tax Court held that she had a general power of appointment over the second trust; even she never had access to the second trust because the first trust had not been exhausted.
+
+Synopsis of Rule of Law
+The power over a trust to make a withdrawal that is conditioned upon the occurrence of a certain event, does not exist with the decedent at his or her death if the occurrence of the event was out of the decedent’s control.
+
+Facts
+Kurz was the beneficiary of two trusts.  Under first trust, (hereinafter “The Marital Trust”), Kurz was entitled to as much of the principal as she desired.   Under the second trust, (hereinafter “The Family Trust”), Kurz could take only 5 percent of the principal in any one year if the Martial Trust was exhausted.  The Tax Court held that 5 percent of the Family Trust be included in her estate for federal estate tax purposes because when she died, she held a general power of appointment over 5 percent of the Family Trust.  Kurz’s estate argued that the decedent did not have a power when she died because she was not entitled to the Family Trust unless she first exhausted the Marital Trust.  Because the condition was never fulfilled, Kurz did not have a property interest in the trust.
+
+Issue
+Whether the Family Trust must be included in the decedent’s estate for tax purposes where the decedent (1) could not make a withdrawal from the Family Trust unless the Marital trust was exhausted, and (2) the decedent had the power to exhaust the Marital Trust?
+
+Held
+Yes.  The Family Trust must be included in the decedent’s estate for tax purposes because the conditional event was within the decedent’s control.  The decedent could have exhausted the Marital Trust and taken a withdrawal from the Family Trust.  The power over the Family Trust exists with the decedent upon her death despite the fact that she never chose to exercise the power.
+
+Discussion
+The decedent’s power to make a withdrawal from the trust only if she exhausted another trust was a power that she held at her death, even though she never exercised the power. Powers that are not exercised during the holder’s lifetime do not exist with the holder when they die only if was impossible to exercise the power because of the nature of the condition.
+

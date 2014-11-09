@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 1161
+
+Brief Fact Summary
+After being charged with kidnapping, James Dale Brewer (Defendant) filed a motion to suppress the prosecution’s introduction of past criminal convictions, which would be used to impeach Defendant if he takes the stand at trial.  Four total convictions, and the admissibility of each into evidence, are at issue here.
+
+Synopsis of Rule of Law
+Under Federal Rule of Evidence 609, evidence of past criminal convictions are allowed when used to attack the credibility of a witness, but only when the probative value of the conviction supported by specific facts and circumstances substantially outweighs its prejudicial effect.
+
+Facts
+Defendant was charged with kidnapping in the present case, and moved to suppress evidence of past criminal convictions.  Defendant was previously convicted of four crimes that are at issue here; three State convictions, which occurred less than ten years prior to the current case, and one federal kidnapping conviction, which occurred over seventeen years ago.  As to the federal kidnapping conviction, Defendant was released within the past ten years.  Defendant’s past kidnapping conviction was for the same crime with which he is currently charged.
+
+Issue
+Under Federal rule of Evidence 609, should Defendant’s four past convictions be admissible in Defendant’s current trial for kidnapping?
+
+Held
+Motion to suppress denied as to three of the four past convictions and granted as to the prior kidnapping conviction.
+
+Discussion
+The court points out that the burden is on the government to show that any past convictions are admissible under Federal Rule of Evidence 609.  As all four past convictions satisfy the requirement that past convictions be punishable by death or imprisonment in excess of one year in order to be admissible, the court focuses its discussion on the final consideration: whether the probative value of admitting evidence outweighs its prejudicial effect.  The court points to five factors to be examined, namely (1) the nature of the crime; (2) the time of conviction and the witness’ subsequent history; (3) similarity between the past crime and the charged crime; (4) importance of defendant’s testimony; and (5) the centrality of the credibility issue.  In determining that Defendant’s past criminal conviction for kidnapping should be excluded, the court relies on past precedent, in which it was held that, “[w]here multiple convictions of various kinds can be shown, strong reasons ar
+

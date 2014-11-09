@@ -1,0 +1,21 @@
+Citation
+274 U.S. 352, 47 S. Ct. 632, 71 L. Ed. 1091, 1927 U.S. 34
+
+Brief Fact Summary
+Plaintiff in error, Hess, challenged Massachusetts’ assertion of jurisdiction based upon his accident with Defendant in error, Pawloski, on a Massachusetts road.
+
+Synopsis of Rule of Law
+A state can enact and enforce regulations designed to protect an important public interest, even against non-residents, as long as the regulations treat residents and non-residents equally.
+
+Facts
+Plaintiff in error allegedly was negligent in driving a motor vehicle on a Massachusetts road, and he injured Defendant in error.  Defendant in error sought to recover damages, and personal service was completed per Massachusetts law.  Plaintiff in error, a Pennsylvania resident who had no contact with Massachusetts other than the accident, appeared to contest jurisdiction, claiming that Massachusetts’ law violated his due process rights under the Fourth Amendment of the United States Constitution.  The Massachusetts state courts denied Plaintiff in error’s challenge.
+
+Issue
+The issue is whether Massachusetts’ assertion of jurisdiction over Plaintiff in error is valid.
+
+Held
+The United States Supreme Court affirmed Massachusetts’ jurisdiction over Plaintiff in error.  Massachusetts is entitled to protect residents and nonresidents within their borders, and is entitled to enact and enforce regulations that would support that purpose.  The state’s statute regarding notice of service nonresidents ensures that nonresidents are treated equally to residents.
+
+Discussion
+The Court notes that Pennoyer v. Neff, 95 U.S. 741 holds that notice sent outside the state does not satisfy jurisdiction requirements, but they distinguish this case because a nonresident’s use of a state road acts as an implied consent to suit.
+

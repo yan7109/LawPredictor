@@ -1,0 +1,24 @@
+Citation
+471 U.S. 453, 105 S. Ct. 2103, 85 L. Ed. 2d 462 (1985)
+
+Brief Fact Summary
+The Respondent, Benchimol (Respondent), a criminal defendant, alleges that the Government breached its plea bargain when during his sentencing hearing the Government did not make an “enthusiastic” support for the agreement and did not explain the reasons for the agreement to the court.
+
+Synopsis of Rule of Law
+The Government does not breach its plea bargain with a criminal defendant when at the sentencing hearing of a criminal defendant with whom it entered a plea bargain, the Government does not go beyond the agreed-to terms of the plea bargain.
+
+Facts
+The Respondent pleaded guilty, pursuant to a plea bargain with the Government, in District Court, to one count of mail fraud.  The Government agreed to recommend probation on condition that Respondent make restitution.  The pre-sentence report incorrectly stated that the Government would stand silent at the Respondent’s sentencing hearing.  At the sentencing hearing, Respondent’s counsel informed the court that the Government instead recommended probation with restitution, and the Government attorney stated that that was an accurate representation.  The court disregarded the recommendation and sentenced Respondent to six years of treatment and supervision.  After serving some of his sentence, Respondent was released on parole.  More than five years following the original guilty plea, a warrant for Respondent’s arrest was issued due to a parole violation, and Respondent was taken into custody.  A few days before he was arrested, Respondent filed a motion to withdraw his guilty
+
+Issue
+Whether, during a sentencing hearing, the Government’s failure to explain reasons for agreeing to recommend a sentence in a plea bargain and to enthusiastically support the agreement breached the plea bargaining agreement?
+
+Held
+No.  The Supreme Court of the United States (Supreme Court) held that the Government did not breach the plea bargain agreement, and that it was error for the Court of Appeals for the Ninth Circuit to imply an un-agreed to term as a matter of law.  The Federal Rule of Criminal Procedure 11(e) provides that the Government attorney is authorized to make a recommendation for a sentence, or agree not to oppose the defendant’s request for such a sentence, with the understanding that such recommendation or request shall not be binding upon the court.  Here, the Government did not undertake to commit itself to “enthusiastically” make a particular recommendation to the court, and it did not commit itself to explain to the court the reasons for the Government’s making a particular recommendation.  The relevant determination is what the parties in fact agreed to, and not implied-in-law terms to be read into the plea agreement.
+
+Dissent
+The Supreme Court today has continued its unsettling and inappropriate practice of summarily reversing decisions rendered in favor of criminal defendants, based not on broad principle but on idiosyncratic facts and without full briefing or oral argument.
+
+Discussion
+During a sentencing hearing, the Government is not obligated to make an “enthusiastic” sentencing recommendation nor to explain the reasons for the recommendation, when the Government has not committed itself in so doing in its plea bargain.
+

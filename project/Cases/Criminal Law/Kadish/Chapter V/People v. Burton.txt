@@ -1,0 +1,21 @@
+Citation
+Cal. Sup. Ct., 491 P.2d 793 (1971)
+
+Brief Fact Summary
+A person was killed during a robbery by the armed robber.
+
+Synopsis of Rule of Law
+Armed robbery cannot serve as the predicate felony for felony murder because it is not included within the offense of murder.
+
+Facts
+while he was on a robbery operation, Burton (D) killed a man. The court convicted him of first-degree murder for the charges brought against him but he appealed.
+
+Issue
+Can armed robbery serve as the predicate felony for felony murder that is not included within the offense of murder?
+
+Held
+(Sullivan, J) No. Armed robbery cannot serve as the predicate felony for felony murder because it is not included within the offense of murder. The rule that was established in the cases People v. Ireland, 450 P.2d 580 (Cal. 1960) and People v. Wilson, 462 P.2d 22 (Cal. 1969), does not imply that armed robbery is an offense included with murder. However, the armed robbery of Burton’s (D) brought him within the category of persons who may face criminal charges for felony murder. (Reversed on other grounds)
+
+Discussion
+A distinction was made between included and independent felonious purpose by the California Supreme Court in Burton. Crimes factually included within the actual causation of death can be “merged” with the resulting death such that there is no predicate felony supporting felony murder as required by the merger doctrine, but a conviction on a lesser charge must be sought by the State.
+

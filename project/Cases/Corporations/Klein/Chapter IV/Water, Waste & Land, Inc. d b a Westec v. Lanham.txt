@@ -1,0 +1,21 @@
+Citation
+955 P.2d 997 (Colo. 1998)
+
+Brief Fact Summary
+Plaintiff company, Water, Waste & Land, Inc., brought this action to collect from Defendant individuals, Donald Lanham and Larry Clark, for work performed by Plaintiff.  Defendants claimed that they could not be held personally liable as agents of a limited Liability Corporation (LLC).
+
+Synopsis of Rule of Law
+State statutes providing constructive notice to third parties when an LLC has been incorporated do not extend to agency law.
+
+Facts
+Clark contacted Plaintiff to have Plaintiff perform some engineering work.  Although a written agreement never emerged, both sides made an oral agreement regarding the work eventually performed by Plaintiff.  During the negotiations, Defendants never notified Plaintiff that they were acting as agents on behalf of their LLC, Preferred Income Investors (P.I.I.).  The only reference to P.I.I. available to Plaintiff was the initials “P.I.I.” on Defendants’ business cards.  When Plaintiff tried to collect for the work performed, Defendants could not pay.  Clark and Lanham asserted that they were not liable because Colorado’s statutes regarding LLC’s provided constructive notice to third parties by the act of incorporation.  Defendants further argued that the Plaintiff should have inquired into the LLC status, and the business card sufficed to give some warning as to the possible existence of an LLC.  Although the county court found for Plaintiff, the district court overturned, agre
+
+Issue
+The issue is whether state statutes providing constructive notice of LLC’s to third parties were intended to cover agency law claims wherein the agents never fully disclosed the principle to the outside party.
+
+Held
+The court reversed the district court and reinstated the findings for Plaintiff.  The LLC statutes never intended on being read so broadly as to absolve agents from deceptively withholding the existence or name of the principle.  Common law agency principles still apply regardless of the statute.  Colorado’s agency law holds agents responsible when they do not fully disclose the principle, and the notation of “P.I.I.” on Defendants’ business cards does not fully disclose the principle.
+
+Discussion
+The court’s decision upholds public policy
+

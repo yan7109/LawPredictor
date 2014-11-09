@@ -1,0 +1,21 @@
+Citation
+37 F.3d 282, 1994 U.S. App.
+
+Brief Fact Summary
+The United States District Court for the Northern District of Illinois held that Yang (Defendant) was not liable for violating 42 U.S.C.S. Section:1983. Plaintiff appealed, alleging that the Defendant’s failure to intervene in his beating by a fellow police officer, thus depriving him of fundamental rights under the Fourth Amendment, incorporated to the states in the Fourteenth Amendment of the United States Constitution.
+
+Synopsis of Rule of Law
+One who is given a badge of authority as a police officer may not ignore the duty imposed by his office and fail to stop other officers who summarily punish a third person in his presence or otherwise within his knowledge. This responsibility to intervene applies equally to supervisory and non-supervisory officers. An officer who is present and fails to intervene to prevent other law enforcement officers from infringing the constitutional rights of citizens is liable under Section 1983, if that officer had reason to know: (1) that excessive force was being used; (2) that a citizen has been unjustifiably arrested; or (3) that any constitutional violation has been committed by a law enforcement official; and the officer had a realistic opportunity to intervene to prevent the harm from occurring.
+
+Facts
+In January 1991, Plaintiff, co-owner of a shoe store, received a call from his alarm company notifying him that the store had been burglarized. He called the police and Defendants. Chicago police officers had already arrived at the store when Plaintiff got there. Plaintiff’s employee and brother were repairing the shattered front display window, while Defendant prepared a police report by the front door of the store, adjacent to the broken window. Officer Brown entered the store to investigate. As Officers Brown and Hardin were about to leave, Plaintiff noticed a bulge in Officer Brown’s jacket. Believing that Officer Brown had stolen some merchandise, Yang approached the officer and asked him to return the merchandise. Officer Brown denied having taken anything. The discussion then escalated into an argument, Officer Brown reached into his jacket, and pulled out a pair of “L.A. Raiders” shorts and threw them at Plaintiff. The officers then went to their car. Plaintiff followe
+
+Issue
+Did the officer’s failure to intervene deprived him of his liberty rights under the Due Process Clause of the Fourth Amendment and his Fourteenth Amendment rights to be free from unreasonable seizure.
+
+Held
+The court reversed the judgment that held that Defendant did not violate Plaintiff’s civil rights by failing to intervene in a police beating by another officer. The court ruled that Defendant’s omission constituted a civil rights violation since he had a duty to prevent the other officer from infringing on Plaintiff’s constitutional rights and he had a realistic opportunity to intervene to prevent the harm from occurring.
+
+Discussion
+Liability under 42 U.S.C.S. Section: 1983 requires proof of two essential elements: that the conduct complained of (1) was committed by a person acting under color of state law; and (2) deprived a person of rights, privileges, or immunities secured by the Constitution or laws of the United States. The statue essentially secured fundamental liberty interests, and as such is directed at state actors. In Yang, the Seventh Circuit defines some basic parameters of that protection, i.e., the degree of duty owed by a peace officer when another officer restrains a citizen’s liberty by means of physical force or color of authority. In making its determination, the court considered whether the officer in question was required to intervene and whether he had sufficient opportunity to do so. The court answered both questions in the affirm
+

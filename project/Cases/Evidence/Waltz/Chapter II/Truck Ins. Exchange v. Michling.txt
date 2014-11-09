@@ -1,0 +1,21 @@
+Citation
+364 S.W.2d 172, 1963 Tex. 6 Tex. Sup. J. 238
+
+Brief Fact Summary
+The plaintiff sought to recover death benefits after her husband allegedly had an accident at work.  Her testimony was the only evidence of such, and benefits rested on the admissibility of her testimony.
+
+Synopsis of Rule of Law
+In order for a statement to qualify under the excited utterance exception to the hearsay rule, it must be made in conjunction with an occurrence that can be independently proven by some means other than the statement itself.
+
+Facts
+The deceased left for work at the regular time, and when he arrived home, he told his wife that he had a terrible headache.  He also told her that he had sustained injuries as a result of an accident at work.  He later died.  His wife sought death benefits, which the trial court and appeals court affirmed. The deceased’s employer appealed on the grounds that the testimony of the deceased’s wife had constituted inadmissible hearsay.
+
+Issue
+Whether the testimony by the plaintiff that her husband had told her that his head hurt terribly and that he had suffered an accident at work before dying was admissible under the excited utterance exception to the hearsay rule?
+
+Held
+No.  In order for a statement to qualify as an excited utterance, the occurrence that caused the excitement must be provable independently of the hearsay statement itself.
+
+Discussion
+In this case, the excited utterance that the wife was attempting to testify to was caused by the very occurrence that she was seeking to prove.  The occurrence was not provable in any other way, and thus the statement sought to prove too much.
+

@@ -1,0 +1,24 @@
+Brief Fact Summary
+Mort’s (P) wharf was damaged by fire due to negligence. Overseas had a ship called the Wagon Mound, which negligently spilled oil over the water. When molten metal dropped by Mort’s workmen later set floating cotton waste on fire, the oil caught fire and the wharf was badly damaged.
+
+Synopsis of Rule of Law
+A negligent act can be held liable only for such injury as could be reasonably expected to happen as a consequence, and not for all injury which does happen even if as a direct consequence of the act.
+
+Facts
+Morts (P) owned and operated a wharf in Port of Sydney, Australia. Overseas (D) owned a ship, Wagon Mound, which was anchored about 600 feet away. It discharged furnace oil carelessly resulting in a large oil spill which spread to the wharf. By itself it caused no major damage. However, floating cotton waste was accidentally set afire by molten metal dropped by Morts’ workmen. This caused a serious fire by igniting the furnace oil, with substantial damage to the wharf. The court found that the ignition of the oil was not a fact which could be reasonably known by Overseas. Morts was awarded damages. Overseas appealed to the Privy Council, which is the court of appeals for all nations of the Commonwealth except England.
+
+Issue
+Should a defendant be held to be responsible to pay damages for all injury which resulted as a direct issue of his negligent act?
+
+Held
+(Viscount Simonds) No. Current notions of what is just and morally right do not allow the idea that some slight or forgivable act of negligence, which by itself would be expected to cause trivial and negligible damage, but insteaddirectly results in unexpected and unforeseeable consequences, of great import, should be held as the cause of all these consequences and the wrongdoer should be liable for them all. The doer of a negligent act should be held liable for all reasonably foreseeable consequences and not the improbable ones as well. This viewpoint mitigates undue harshness in applying the rule while ensuring that reasonable standards are upheld in avoiding negligence. In other words, the criterion for awarding damages should be whether the actual damage was that which could be reasonably foreseen as a result of the negligent act, rather than whether it was directly caused by the negligent act (which only results in tangles of causation).
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+This case overruled the decision in Polemis, Ct. of Appeals, 3 K.B. 560 (1921). The doer of a negligent act is responsible for the consequences which are reasonably expected or probable, and not for all possible parameters of his act, irrespective of foreseeability. The old doctrine of responsibility for all consequences, probable or not, as long as some damage was foreseeable, was decided to be unfair and harsh. This rule excludes the eggshell skull doctrine, which deals with the effect of negligence on an already injured plaintiff, whereas the present rule deals with how much damage can be justly deemed to be the foreseeable consequence of the negligent act.
+

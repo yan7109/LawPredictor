@@ -1,0 +1,21 @@
+Citation
+128 Wn.2d 366, 907 P.2d 290 (1995)
+
+Brief Fact Summary
+The testator’s children contend that their father transferred all of his property to their grandmother to hold in trust until they were responsible enough to manage it.  The testator’s mother claims that no such trust was intended and that the children’s claim is bared by the statute of limitations.
+
+Synopsis of Rule of Law
+A trust can arise from implied circumstances as a result of the presumed intention of the parties.  It is repudiated when the trustee makes claims or other conduct that denies there is a trust and claims the trust property as his or her own.
+
+Facts
+Clive Goodman died in 1983 survived by four children ages: 13, 16, 17, and 21.  Five year before his death Clive gave his mother, Gladys Goodman, a general power of attorney.  A year before his death he transferred his major asset, Ozzie’s East Tavern, to his mother.  Gladys sold the tavern and deposited the proceeds in her bank account.  Eight years after Clive’s death his son Scott, then 25, asked Gladys for money from the sale of the tavern.  Gladys refused reporting that she had taken care of Clive and felt she deserved to keep the money.  Clive’s children contend that their father transferred all of his property to Gladys with the intention of the property to go to them when they were old enough to responsibly manage it.  The trial court granted Gladys motion for JNOV having found the children’s claim was bared by the statute of limitations.
+
+Issue
+Whether Clive transferred his property to Gladys as a gift or to hold in trust for the benefit of his children? Whether a claim under the trust was bared by the statute of limitations and JNOV was proper?
+
+Held
+Affirmed.  The jury found and the testimony is consistent with their finding that Gladys was to hold the property in trust for the benefit of the children. No.  Reversed.  An action based on an express trust is subject to a three year statute of limitations, however such period does not begin until the beneficiary of the trust discover or should have discovered that the trust has been terminated or repudiated by the trustee.  Here the jury must determine these underlying facts and therefore the grant of JNOV was improper.
+
+Discussion
+A trust is a right of property, real or personal, held by one party for the benefit of another.  It can arise or be implied from circumstances as a result of the presumed intention of the parties.  Repudiation of a trust occurs when the trustee by words or other conduct denies there is a trust and claims the trust property as his or her own.  It must be plain, strong, and unequivocal.  The grant of JNOV was improper because there is more than one reasonable interpretation of when such repudiation occurred.
+

@@ -1,0 +1,24 @@
+Citation
+131 S. Ct. 273, 178 L. Ed. 2d 180 (2010) [2010 BL 235842]
+
+Brief Fact Summary
+Armstrong was among a group of respondents who sought to challenge the fact that they were being federally prosecuted along racial lines.
+
+Synopsis of Rule of Law
+In order to prevail in a defense for selective prosecution, it is incumbent upon the defendant to prove that persons of a different race were not also prosecuted.
+
+Facts
+The respondents in this matter responded to their indictment on charges of conspiring to possess with intent to distribute more than fifty grams of crack by filing a Discovery Motion and an Affidavit alleging that the defendants were being selectively prosecuted because they were black.  When the government failed to provide proof of its prosecutions, which would indicate the race of all individuals indicted within a certain timeframe, the District Court dismissed the case.  On Appeal, the Court of Appeals for the Ninth Circuit also held that “a defendant is not required to demonstrate that the government ahs failed to prosecute others who are similarly situated.”  The Supreme Court granted cert, to determine who has the burden of proving the selective prosecution.
+
+Issue
+Whether criminal defendants who pursue selective prosecution claims demonstrate people of other races were not prosecuted for similar crimes.
+
+Held
+Chief Justice Rehnquist, on behalf of the court, wrote the majority opinion which held that it is incumbent upon defendants to demonstrate that people of other races have not been similarly prosecuted.
+
+Dissent
+Justice Stevens dissented noting a great disparity between defendants who are accused of crimes involving crack cocaine and those who are accused of other drug-related crimes.
+
+Discussion
+A selective prosecution claim is not a defense against a crime but an independent assertion that the prosecutor has brought the charge for reasons forbidden by the constitution.  Thus, when a defendant makes such a harsh assertion, he should be prepared to prove
+

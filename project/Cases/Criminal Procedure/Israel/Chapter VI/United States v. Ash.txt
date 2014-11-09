@@ -1,0 +1,24 @@
+Citation
+413 U.S. 300, 93 S. Ct. 2568, 37 L. Ed. 2d 619 (1973)
+
+Brief Fact Summary
+A number of informants were asked to identify a number of suspects in connection with a bank robbery.  The respondent, Ash (the “respondent”), challenged the identification because counsel was not present at what was arguably a critical stage of the prosecution.
+
+Synopsis of Rule of Law
+An accused does not have the right to counsel at a post indictment photographic lineup
+
+Facts
+The Supreme Court of the United States (”Supreme Court”) granted certiorari to resolve the split in the circuits as to the issue of whether an accused has the right to counsel at a post indictment photographic lineup.  The Supreme Court held that the right to counsel at a display at which the defendant himself was not entitled to be present was not embodied in the Sixth Amendment of the United States Constitution (”Constitution”). The Court of Appeals reversed.
+
+Issue
+Whether the Sixth Amendment of the Constitution grants an accused the right to have counsel present at a post indictment photographic identification procedure?
+
+Held
+The Sixth Amendment of the Constitution does not grant an accused the right to counsel during a post indictment photographic identification procedure because the accused himself is not entitled to be present, rendering it impossible that the accused will be confused or overpowered by the proceedings.
+
+Dissent
+The dissent writes to emphasize that the photographic lineup is indeed a critical stage of the proceedings.
+
+Discussion
+The Sixth Amendment of the Constitution guarantees the assistance of counsel during stages of the proceeding at which a defendant is faced with either the intricacies of the law, or a zealous prosecutor.  Neither of these situations exist at a photographic display.  The historical test to be applied to the Sixth Amendment issues indicates that the right has only been expanded when new facts have demanded it for the protection of the defendant.
+

@@ -1,0 +1,24 @@
+Citation
+412 U.S. 837,93 S. Ct. 357,37 L. Ed. 2d 380,1973 U.S.
+
+Brief Fact Summary
+Defendant argued that his conviction for possession stolen United States Treasury checks, forging checks and depositing forged checks should be overturned because he lacked knowledge the endorsements were forged.
+
+Synopsis of Rule of Law
+The fact that the Defendant should have known or been aware of the high probability that the checks were stolen was sufficient knowledge under the statute.
+
+Facts
+Defendant opened a checking account under a false name. Defendant used this account to deposit checks from the United States Government to four individuals that were signed over to his pseudonym. At the trial, the payees of the checks testified that they had never received the checks nor endorsed them to the pseudonym. Defendant was charged with two counts of possessing stolen United States Treasury checks, two counts of forging checks and two counts of depositing the checks knowing the endorsements to be forged.
+
+Issue
+Whether the inference of knowledge could be drawn from surrounding circumstances and if this inference was appropriate under the Due Process Clause of the Constitution.
+
+Held
+Affirmed.
+
+Dissent
+The dissent focused on the lack of evidence that the checks were stolen from the mail. The theft from the mail charge is what made this case a Federal one.
+
+Discussion
+The Court ruled that the evidence established that Defendant possessed recently stolen checks payable to persons he did not know and that Defendant provided no plausible explanation for such possession that would make him innocent. This was sufficient evidence to find Defendant guilty. The Court did note that long time used jury instructions which allowed for inferences must be reexamined periodically to conform with modern Constitutional interpretations.
+

@@ -1,0 +1,21 @@
+Citation
+534 U.S. 1151
+
+Brief Fact Summary
+James M. Laster and Jerry Lear (Defendant-Appellants) were convicted of drug offenses after the company for which Mr. Laster worked reported that an employee had ordered an ingredient used to make an illegal street drug from a supplier, under the company name and without permission.  At trial, the records showing the orders from the supplier of the ingredient were offered and admitted into evidence, the foundation being laid by an employee of the company.  Defendant-Appellants appeal their convictions, challenging the admission of the evidence.
+
+Synopsis of Rule of Law
+Although Federal Rule of Evidence 807 is a “residual” hearsay exception and should not be relied on if a statement is admissible under another hearsay exception, in the absence of any other applicable exceptions, Rule 807 may be properly relied on.
+
+Facts
+Defendant-Appellants were convicted of drug offenses after the company for which Mr. Laster worked reported that an employee had ordered an ingredient used to make an illegal street drug from a supplier, under the company name and without permission.
+
+Issue
+Did the district court error in admitting into evidence the purchase records under the business records exception of Federal Rule of Evidence 803(6), and if so, was the evidence nevertheless properly admissible under Federal Rule of Evidence 807, the residual hearsay exception?
+
+Held
+Yes; it was error for the evidence to be admitted under Rule 803(6), as it did not qualify for the business records exception, but the evidence is properly admissible under Rule 807, the residual hearsay exception.<span class='heading'>Dissent.</span> Judge Moore dissents, criticizing the majority’s application of the residual hearsay exception as too broad, and concludes that the holding of the majority, “the residual exception swallows all the other exceptions.”  Judge Moore argues that the business records exception of Rule 803(6) was the only possible method whereby the evidence offered could have been admitted, and that the inquiry should have ended upon that determination.<br />
+
+Discussion
+The court rejects the narrow application of Rule 807 applied by some other courts, which have held that, “if proffered evidence fails to meet the requirements of [a Rule 803 hearsay exception], it cannot qualify for admission under the residual exception,” and instead adopts the broad construction of Rule 807, holding, “if a statement is admissible under one of the hearsay exceptions, that exception should be relied on instead of the residual exception.”  The court concludes that, “the analysis of a hearsay statement should not end when a statement fails to qualify as [a hearsay exception other than that found in Rule 807], but should be evaluated under the residual hearsay exception.
+

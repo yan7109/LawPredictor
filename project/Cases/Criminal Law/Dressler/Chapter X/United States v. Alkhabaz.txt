@@ -1,0 +1,24 @@
+Citation
+104 F.3d 1492, 1997 U.S. App. 1353.
+
+Brief Fact Summary
+The Defendant, Abraham Jacob Alkhabaz, a.k.a. Jake Baker (Defendant), posted a story on a Usenet news group, “alt.sex.stories,” detailing the torture, rape, and murder of a young woman possessing the same name as one of the Defendant’s classmates at the University of Michigan.
+
+Synopsis of Rule of Law
+A “communication containing a threat” must be such that a reasonable person (1) would view the communication as expressing the intent to inflict bodily harm and (2) would view the communication as an attempt to effect change or achieve some goal through intimidation.
+
+Facts
+The Defendant and Arthur Gonda had exchanged emails expressing a sexual interest in violence against females. The Defendant sent and received the messages in Ann Arbor, Michigan and Gonda sent and received messages in Ontario, Canada. The Defendant had previously posted stories on a Usenet news group, “alt.sex.stories.” The stories mainly told of the abduction, rape, torture, mutilation and murder of women and young girls. The story for which the Defendant was arrested described the torture, rape, and murder of a girl sharing a name with one of the defendant’s classmates.
+
+Issue
+Is the Defendant’s posted story a “communication containing a threat?”
+
+Held
+No. Under federal law, it is illegal to transmit in interstate commerce a communication containing a threat to injure or kidnap another person. The government was able to easily prove that the story was transmitted in interstate commerce and the threat-if it were a threat-was to injure or kidnap another person. The difficulty is in defining a communication containing a threat. The Sixth Circuit Court of Appeals opined that a “communication containing a threat” must be such that a reasonable person (1) would view the communication as expressing the intent to inflict bodily harm, and (2) would view the communication as an attempt to effect change or achieve some goal through intimidation. Under this definition, the Defendant’s story did not constitute a threat, as it was not directed to the young woman whose name he used.
+
+Dissent
+A “threat” does not have to be directed at someone, but rather, the communication would lead a reasonable, objective recipient to believe that the writer was serious about the threat.
+
+Discussion
+A threat must lead a reasonable person to believe that the person making the threat seriously intends to carry it out and said threat serves some purpose, i.e. to effect change or achieve some goal.
+

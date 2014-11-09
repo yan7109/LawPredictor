@@ -1,0 +1,21 @@
+Citation
+384 Pa. Super. 503, 559 A.2d 550, 1989 Pa. Super.
+
+Brief Fact Summary
+While the plaintiff, Bonnie Lira (the “plaintiff”), was at the defendant hospital, Albert Einstein Medical Center (the “defendant”), to receive services associated with symptoms she had presented with, in conjunction with her diagnosis as having Crohn’s Disease, two doctors improperly inserted a suction tube into her trachea, causing permanent injury.  During trial, statements by the plaintiff’s husband that a non-testifying doctor had asked the plaintiff “who had butchered her” resulted in a successful motion by defense for a new trial.  Plaintiffs appealed.
+
+Synopsis of Rule of Law
+Expressions of medical opinion are not generally admissible under an exception to the hearsay rule because the doctor needs to be available for cross examination as to that opinion.
+
+Facts
+The plaintiff arrived at the emergency room because of symptoms associated with her diagnosis of Crohn’s Disease.  Two doctors attended to her, and one of them improperly inserted a suction tube through her nose into her trachea, resulting in discomfort and permanent injury.  She and her husband sued the two doctors and the hospital.  During a subsequent examination, an independent non-party doctor asked Ms. Lira who had been the “butcher” who had injured her.  The doctor was not available to testify at trial, but Ms. Lira’s husband, who had been in the room at the time, testified to the comments over defense objection.  At the close of trial, defense successfully moved for a new trial.  Plaintiff appealed.
+
+Issue
+Whether the doctor that testified as to the standard of care in the community was qualified to do so?
+
+Held
+Yes.  While the doctor was a neurologist, he did have some training and experience in throat related issues, and was qualified to testify to the standard of care in the medical community regarding them.
+
+Discussion
+Medical opinion may not be admitted under either an excited utterance or present sense impression to the hearsay rule, because the statements would have been made as a result of medical training and expertise. A doctor who is trained in throat ailments will not be overcome with emotion when he comes across one.  Moreover, medical opinion is of special importance, and the doctor giving it must be available for cross examination regarding it.
+

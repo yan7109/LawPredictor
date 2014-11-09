@@ -1,0 +1,24 @@
+Citation
+22 Ill. 419 U.S. 345, 95 S. Ct. 449, 42 L. Ed. 2d 477 (1974)
+
+Brief Fact Summary
+Petitioner Jackson had her electricity service terminated by Respondent Metropolitan Edison Co. for alleged non-payment of her electric bill. Petitioner sued Respondent stating that she was entitled to reasonably continuous service, and should be afforded notice, a hearing and opportunity to pay all amounts due before her electric service is terminated. In her lawsuit Petitioner claims that the action of the Respondent is state action because the power company performs a public function.
+
+Synopsis of Rule of Law
+Governmental of a private entity that provides a public service does not sufficiently satisfy the required nexus for state action under the Fourteenth Amendment, there must be something more than mere regulation for the actions of a private entity to be attributable to the state.
+
+Facts
+Respondent Power Company turned off Petitioner’s electricity for alleged no-payment of her electric bill. Petitioner claims that she should have been afforded, notice, a hearing, and an opportunity to pay any amounts due before she had her electricity turned off. She further claimed that under state law hat she was entitled to reasonably continuous electric service and that Respondent’s termination for alleged non-payment, permitted by a provision of its general tariff filed with the Commission, was state action depriving her property without due process of law.
+
+Issue
+Whether there is a sufficiently close nexus between the state and the challenged action of the regulated entity?
+
+Held
+No. The State of Pennsylvania is not sufficiently connected with Respondent’s action in terminating Petitioner’s service so as to make Respondent’s conduct attributable to the state for purposes of the Fourteenth Amendment. All of Petitioner’s arguments show no more than that Respondent is a highly regulated private utility enjoying at least a partial monopoly in providing electricity service within its territory. Respondent’s action to terminate the electricity service of the Petitioner was done in a manner that the Pennsylvania Utilities Commission found permissible under state law. This is not sufficient to connect the State of Pennsylvania with Respondent’s action as to make the Respondent’s conduct attributable to the state for the purposes of the Fourteenth Amendment.
+
+Dissent
+Feels that the fact that Respondent supplies an essential public service that is in many communities supplied by to government should have been given more weight. Wants a standard that state action occurs whenever private parties perform functions affecting the public interest, therefore requiring constitutional requirements to be met by these private parties. But, finds most troubling the fact that the power company could refuse to serve anyone for any reasons that they wished.
+
+Discussion
+This case, similar to Moose Lodge No. 107, provides a synopsis view of the state action requirement for a Fourteenth Amendment analysis. This case similar to Moose Lodge No. 107 stands for the idea that regulation of a private entity is not enough to give rise to a state action under the Fourteenth Amendment. This case in fact expands upon Moose Lodge No. 107 as it pushes the line determining state action a bit farther as a power company provides a public service, is a government regulated monopoly in many cases, and even though it is as regulated as any industry in the United States, the State’s overbearing regulation of this private enterprise is not enough to rise to the level of state action. This case stands for the idea that more than regulation must exist for state action to be found.
+

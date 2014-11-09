@@ -1,0 +1,30 @@
+Brief Fact Summary
+Plaintiff Michael A. Haddle appealed a District Court’s dismissal of his suit for failure to state a claim upon which relief could be granted under Federal Rule of Civil Procedure 12(b)(6).
+
+Synopsis of Rule of Law
+Appeals from FRCP 12(b) (6) motions are not reviewable where binding precedent renders the complaint without legal recourse.
+
+Facts
+Plaintiff had filed a 42 USC Section: 1985(2) claim against his former employer for allegedly firing him in an attempt to prevent him from testifying in a Federal criminal trial. Defendant Garrison, Plaintiff’s former employer, filed a motion to dismiss under 12(b) (6) on grounds that Plaintiff was entitled to no protection under Section: 1985(2) because he was an at-will employee. The District Court granted the motion, which Plaintiff then appealed.
+
+Issue
+Whether Plaintiff’s arguments on appeal were foreclosed by the 11th Circuit Court’s earlier decision in Morast v. Lance, 807 F.2d 926 (11th Cir. 1987).
+
+Held
+Yes. The Court issued a per curiam opinion affirming the decision of the district court.
+
+Discussion
+The Court concluded that because Plaintiff himself admitted in his pleadings that he was an at-will employee, that the binding case law holding at-will employees are not entitled to any Constitutional protections, prevented the Court’s consideration of whether the 12(b) (6) standard had been properly applied.   Haddle v. Garrison  <b>Citation.</b> 119 S. Ct. 489 (1998).
+
+Brief Fact Summary
+Plaintiff Michael A. Haddle, an at-will employee, alleged that the Defendants conspired to have him fired from his job in retaliation for obeying a Federal grand jury subpoena and to deter him from testifying at a Federal criminal trial.
+
+Synopsis of Rule of Law
+Third-party interference with at-will employment relationships states a claim for relief under 42 USC Section: 1985(2).
+
+Facts
+A Federal grand jury indictment in March 1995 charged Plaintiff’s employer, Healthmaster, Inc., and its officers, Defendant Jeanette Garrison and Jeanette Kelly, with Medicare fraud. Plaintiff cooperated with the Federal agents in the investigation that preceded the indictment. He was also expected to appear as a witness in the criminal trial resulting from the indictment. Defendant and Kelly conspired to bring about Plaintiff’s termination. Plaintiff sued for damages asserting a Federal claim under 42 USC Section: 1985(2). The District Court granted Defendant’s motion to dismiss for failure to state a claim upon which relief could be granted because, upon Plaintiff’s own admission, he was an at-will employee. The 11th Circuit Court affirmed the District Court’s decision holding that an at-will employee who is dismissed pursuant to a conspiracy proscribed by 42 USC Section: 1985(2) has no cause of action. This appeal followed and the Supreme Court of the United States granted certiorari.
+
+Issue
+Whether an at-will employee can state a claim for damages by alleging that a conspiracy proscribed by 42 USC Section: 1985(2). induced his employer to terminate his employment.
+

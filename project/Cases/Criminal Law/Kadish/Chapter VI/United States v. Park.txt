@@ -1,0 +1,24 @@
+Citation
+22 Ill.131 S. Ct. 296, 178 L. Ed. 2d 194 (2010) [2010 BL 235947]
+
+Brief Fact Summary
+The Defendants, a food corporation and its CEO (Defendants), were convicted of keeping food sold in interstate commerce in a rodent-infested warehouse, in violation of federal regulations.
+
+Synopsis of Rule of Law
+A CEO is liable as the responsible corporate officer for violations of law committed by the corporation, which he either had the ability to prevent before the fact, or the opportunity to promptly correct after the fact.
+
+Facts
+The defendant CEO of food corporation contested his conviction for violating federal regulations regarding unsanitary conditions in which the corporation warehoused its goods. After inspecting the corporation’s warehouses, federal inspectors notified the defendant CEO by letter of the rodent infestation at the warehouses. Two years later, they returned and noticed that the warehouses continued to be occupied by rodents.
+
+Issue
+Is CEO of corporation criminally responsible for unlawful actions of the corporation?
+
+Held
+Yes. Reversed. The Government established a prima facie case against the defendant CEO with evidence that the defendant was put on notice of a violation of law committed by the corporation and that he both failed to prevent the violation of law in the first place and subsequently failed to promptly correct the unlawful activity. The defendant could only have avoided liability by demonstrating that he was powerless to prevent or correct the violation of law, but he failed to do so.
+
+Dissent
+The standard for conviction articulated by the majority is that of negligence – that defendant had a duty to maintain the sanitary quality of the food warehoused by the corporation and that, in light of evidence that the food was in unsanitary conditions, the duty was breached and defendant was criminally responsible. However, the instructions to the jury were much broader and permitted a verdict of guilty upon a finding that defendant was “responsible” for the condition of the food insomuch as he was the CEO of the corporation, while cautioning that that fact alone did not require a finding of guilt. In the end, the instructions failed to counsel jurors with respect to negligence, but instead left it to them to determine under what rationale defendant might be “responsible.”
+
+Discussion
+The theory of liability announced by the majority in this case is known as the “responsible corporate officer” doctrine. Under the doctrine, there must be evidence that defendant had, by virtue of his position in the corporation, the responsibility and authority to prevent a corporate violation of law, or to promptly correct a violation.
+

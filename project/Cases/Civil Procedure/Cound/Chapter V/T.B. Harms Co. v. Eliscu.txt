@@ -1,0 +1,21 @@
+Citation
+22 Ill.339 F.2d 823, 144 U.S.P.Q. 46 (2d Cir. 1964)
+
+Brief Fact Summary
+Defendant sued Plaintiff in New York state court seeking a declaratory judgment that Defendant owned a one third interest in the copyrights of certain music. Plaintiff then instituted an action against Defendant in federal court in New York seeking declaratory relief pertaining to the exact same issue. Plaintiff argued that jurisdiction for the New York case was based on 28 U.S.C. Section: 1338. The district court dismissed the complaint for lack of jurisdiction.
+
+Synopsis of Rule of Law
+Federal question jurisdiction pursuant to 28 U.S.C. Section: 1331 exists only if the claim arises under a federal law creating the cause of action. If the law creating the cause of action is not federal, then there is no federal question jurisdiction.
+
+Facts
+Eliscu, Defendant had interests in copyrighted music. T.B. Harms Co., Plaintiff, alleged that Defendant signed a contract that assigned the rights to the music back to Dreyfus, Plaintiff’s principal stockholder. When the copyrights were about to expire, Defendant entered into an agreement to assign the renewal rights to another individual, Jungnickel, pending determination of Defendant’s ownership. Defendant advised Plaintiff that he had assigned the renewal rights and then filed suit against Plaintiff seeking a declaration that he owned a one third interest in the renewal rights and an accounting. Plaintiff responded by suing Defendant in federal court, seeking declaratory relief against Defendant and Jungnickel. All parties were concededly citizens of New York. Jurisdiction was predicated on the Copyright Act (Act), a federal law. The district court dismissed for lack of jurisdiction and Plaintiff appealed.
+
+Issue
+Is Plaintiff’s claim against Defendants created by the Copyright Act so as to confer jurisdiction pursuant to 28 U.S.C. Section: 1331?
+
+Held
+No. Affirmed.  The test to determine federal jurisdiction is whether the suit arises under a law that creates the cause of action.  Another test to determine whether there is federal jurisdiction is whether there is a remedy available under the federal law on which jurisdiction is based.  Because the issue in the case is whether Defendant assigned his rights to the music to Plaintiff, it does not arise from the Act because the Act only permits the assignment of such rights.  The case does not require interpretation of any language of the Act nor is there a request for statutory relief under the Act.
+
+Discussion
+This case demonstrates that although federal law calls for federal jurisdiction over causes of action that “arise under” federal law, this language is often   interpreted to mean that federal question jurisdiction is only appropriate when a cause of action is “created by” federal law.
+

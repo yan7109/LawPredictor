@@ -1,0 +1,21 @@
+Citation
+248 A.D.2d 982, 670 N.Y.S.2d 272 (App Div, 4th Dept 1998)
+
+Brief Fact Summary
+Plaintiff, Kyran Murphy, slipped and injured herself at a hotel operated that was franchised by Defendant, Holiday Inns, Inc., to a third party.
+
+Synopsis of Rule of Law
+When establishing an agency relationship through a contract, the nature and extent of the control agreed upon will determine whether the agency exists.
+
+Facts
+Plaintiff slipped and fell on a puddle of water that was dripping from an air conditioning unit at the hotel.  Plaintiff wanted to hold Defendant accountable for her injuries.  A third party owned the hotel, but they agreed to a franchise agreement with Defendant that dictated the name and look of the building and fixtures.  The agreement also required the third party to submit reports and pay Defendant a certain amount per room per day.
+
+Issue
+The issue is whether the franchise contract established a master-servant relationship.
+
+Held
+The contract did not establish a master-servant relationship.  Many of the provisions of the contract were in place to protect Defendant’s trademark.  However, normal day-to-day operations, such as hiring, price structure and business expenditures were still controlled by the third party hotel owner.
+
+Discussion
+The court allowed a summary judgment because the issue before the court was a question of law since it was interpreting terms of a contract. The court noted that franchise agreements can still establish a master-servant relationship, but the agreement here did not meet the burden.  However, the court seems to raise the bar for proving an agency relationship when the master-principal is obligated to exert further control to protect a trademark.
+

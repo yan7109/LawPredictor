@@ -1,0 +1,21 @@
+Citation
+249 Or. App. 248, 274 P.3d 893 (Ct. App. 2012) [2012 BL 83291]
+
+Brief Fact Summary
+Defendant, Wilcox was involved in a burglary where the victim was shot and killed. He was charged with and convicted of aggravated felony murder. Wilcox sought to use psychiatric testimony to support his insanity defense.
+
+Synopsis of Rule of Law
+A defendant may not offer expert psychiatric testimony, unrelated to the insanity defense, to show the defendant lacked the mens rea to form the specific mental state required for a particular crime or degree of crime.
+
+Facts
+Defendant, was charged with aggravated felony murder, a charge requiring a purpose to kill and a purpose to commit a felony. Wilcox was involved in a burglary where the victim was shot and killed. Prior to trial, a court-appointed psychiatrist found that Wilcox was borderline retarded, schizophrenic, dyslexic, and suffered from organic brain syndrome. At trial, Wilcox was allowed to introduce some medical testimony to support his insanity defense, but the judge disallowed other medical testimony and refused to instruct the jury that his mental condition could negate the mens rea required for the crimes. Defendant was convicted on both counts and sentenced to life in prison.
+
+Issue
+Should a defendant be able to use the concept of diminished capacity in order to allege an incapacity to form the requisite specific intent to commit a crime?
+
+Held
+No. Defendant’s conviction is affirmed.
+
+Discussion
+Furthermore, the concepts of diminished capacity and voluntary intoxication should not be treated as functional equivalents for the purpose of partial exculpation from criminal responsibility. It does not take great expertise for jurors to establish whether an accused was “so intoxicated as to be mentally unable to lack intent” (i.e., unconscious). Whereas, the ability to decipher specific technical terms associated with the medical concepts of diminished capacity is seemingly much more difficult.
+

@@ -1,0 +1,21 @@
+Citation
+694 F.2d 505 (7th Cir. 1982)
+
+Brief Fact Summary
+SPS (Defendant) allowed USM (Plaintiff) to license out its patented product, but charged a higher fee if Plaintiff sublicensed with certain companies.
+
+Synopsis of Rule of Law
+Patent misuse charges should be evaluated under antitrust principles, and there is no antitrust prohibition against a patent owner's use of price discrimination to maximize his income.
+
+Facts
+Defendant manufactured industrial fasteners and owned a patent on a patch-type self-locking industrial fastener.  Plaintiff sold a similar product.  As part of a settlement of a prior case, Defendant granted Plaintiff a license allowing Plaintiff to continue using the patent, but required Plaintiff to pay royalties to Defendant.  The agreement required Plaintiff to pay Defendant 25% of royalties it received from sublicensing the patent.  However, if Plaintiff were to sublicense to any one of four companies that Defendant had previously licensed directly, Plaintiff had to pay 75% of the royalties received.  In 1974, three years after the settlement, Plaintiff filed suit in an effort to invalidate Defendant's patent and get back the royalties paid.  On summary judgment the district court dismissed the charge of patent misuse.  Plaintiff appealed.
+
+Issue
+Should patent misuse charges be evaluated under antitrust principles?
+
+Held
+(Posner, J.)  Yes.  Patent misuse charges should be evaluated under antitrust principles and there is no antitrust prohibition against a patent owner's use of price discrimination to maximize his income.  Patent misuse has been described as an equitable concept designed to prevent use of a patent in opposition to public policy.  However, this definition is too formal.  There is an overlap between misuse and antitrust principles, as revealed by examination of prior patent misuse cases.  Besides the conventional applications of patent misuse (such as tying in unpatented products or resale price maintenance), there are no cases where standards different from those of antitrust law were actually applied to obtain different results.  Therefore, antitrust principles are applied.  The price discrimination practice complained of here is not prohibited by antitrust law, and Plaintiff presented no evidence of anticompetitive effect as required to satisfy a rule of reason antitrust determination.  Reversed in part and affirmed in part.
+
+Discussion
+The line between patent misuse and antitrust law is blurry at best, as Judge Posner indicated in USM.  Notably, the Federal Circuit does not have exclusive jurisdiction over patent-antitrust cases, but recall that patent misuse only arises as an equitable defense to a charge of patent infringement.  Therefore, the standards determining patent misuse are a matter controlled solely by the Federal Circuit.
+

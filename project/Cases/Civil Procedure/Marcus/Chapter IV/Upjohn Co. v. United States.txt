@@ -1,0 +1,21 @@
+Citation
+449 U.S. 383, 101 S. Ct. 677, 66 L. Ed. 2d 584 (1981)
+
+Brief Fact Summary
+Upjohn Company (Petitioner) contended that certain questionnaires prepared as part of an internal company investigation were protected from disclosure by the attorney-client privilege.
+
+Synopsis of Rule of Law
+The attorney-client privilege may be applied to communications between all corporate employees and corporate counsel.
+
+Facts
+Respondent, manufacturers and sells pharmaceuticals. Independent accountants discovered that one of Respondent’s foreign subsidiaries made payments to or for the benefit of foreign government officials in order to secure governmental business. After in-house counsel had discussions with outside counsel, it was decided that an internal investigation would be conducted to determine the terms of the payments. Respondent voluntarily submitted a preliminary report to the Securities and Exchange Commission on Form 8-K disclosing certain questionable payments. A subsequent report was filed with the Internal Revenue Service (IRS), which conducted an investigation. The IRS issued a summons demanding the production of files used in the company’s internal investigation. The Respondent declined to produce the documents on the grounds that they were protected from disclosure by the attorney-client privilege and it constituted work product of attorneys prepared in anticipation of litigation. The United States then filed a petition seeking enforcement of the summons and the district court held that the summons should be enforced. Respondents appealed and the court of appeals rejected the district court’s finding that a waiver of the attorney-client privilege occurred, but agreed that the privilege did not apply to the extent the communications were made by officers and employees not responsible for directing the company’s actions in response to legal actions.
+
+Issue
+Whether the attorney-client privilege is applicable to communications between corporate employees and corporate counsel?
+
+Held
+Yes.   Communications by Respondent’s employees to counsel are covered by the attorney-client privilege. The attorney-client privilege applies when the client is a corporation. The privilege must extend beyond those employees who are in the control group because they may possess information needed by the corporation’s lawyers. Thus, the court rejects the control group test as it frustrates the purpose by discouraging the communication of relevant information by employees of the client to the attorney seeing legal advice for the client corporation. The control group test also makes it more difficult to convey full and frank legal advice to the employees who put the corporation’s policy into effect.     The Government fails to demonstrate a sufficient showing of necessity and unavailability by other means in order to justify the production of materials protected by the work product doctrine. No showing of necessity can overcome protection of work product, which is based on oral statement of witnesses. Here, the Government needed to prove a far stronger showing of necessity to overcome the work product doctrine.
+
+Discussion
+The purpose of the attorney-client privilege is to encourage full and frank communication between attorneys and their client. It therefore promotes broader public interests in the observance of law and administration of justice.
+

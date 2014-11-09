@@ -1,0 +1,21 @@
+Citation
+504 U.S. 689,112 S. Ct. 2206,119 L. Ed. 2d 468,1992 U.S.
+
+Brief Fact Summary
+Petitioner sought to bring a federal tortious action against respondents for the abuse of her children based on diversity-of-citizenship.  The district court dismissed the action based on the domestic relations exception to diversity jurisdiction.
+
+Synopsis of Rule of Law
+The domestic relations exception to diversity jurisdiction applies only to the power of the federal courts to issue divorce, alimony, or child custody decrees.
+
+Facts
+Petitioner Carol Ankenbrandt brought suit on behalf of her daughters against respondents Jon Richards and Debra Kesler seeking monetary damages for alleged sexual and physical abuse of the daughters.  Petitioner, a citizen of Missouri brought suit in federal court against respondents, citizens of Louisiana, based on the diversity-of-citizenship provision of Section: 1332.  Richards was the divorced father of the children and Kesler his female companion.  The District Court granted respondents’ motion to dismiss based on the “domestic relations” exception to diversity jurisdiction.
+
+Issue
+Is there a domestic relations exception to federal jurisdiction, and if such an exception exists, does it permit a district court to abstain from exercising diversity jurisdiction in a tort action for damages?
+
+Held
+Federal subject-matter jurisdiction is proper in this case pursuant to Section:1332 because the domestic relations exception encompasses only cases involving the issuance of a divorce, alimony, or child custody decree.
+
+Discussion
+The domestic relations exception applies even in cases where the plaintiffs establish the requisite diversity of citizenship and amount in controversy.
+

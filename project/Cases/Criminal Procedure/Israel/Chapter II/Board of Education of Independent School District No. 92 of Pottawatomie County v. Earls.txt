@@ -1,0 +1,24 @@
+Citation
+536 U.S. 822, 122 S. Ct. 2559, 153 L. Ed. 2d 735 (2002)
+
+Brief Fact Summary
+A school district mandated urinalysis drug tests for students in extracurricular activities.
+
+Synopsis of Rule of Law
+“In the context of safety and administrative regulations, a search unsupported by probable cause may be reasonable” if there are “special needs” that “make the warrant and probable-cause requirement impracticable.”
+
+Facts
+The Tecumseh School District adopted a policy which required all middle and high school students to consent to drug testing in order to participate in any extracurricular activity.  It has only been applied to competitive activities.  Two students challenged the policy.
+
+Issue
+Whether a school policy that requires drug testing for extracurricular activities is constitutional.
+
+Held
+Yes.  Based on the Vernonia standard of special needs, the court found that the students were voluntarily participating in the activities that the urinalysis was insufficiently intrusive and the results sufficiently private, and the concerns about student drug use were sufficiently “immediate” enough to hold the policy constitutional.
+
+Dissent
+The dissenting justices argued that drug “risks . . . are present for all schoolchildren,” and so the limit to testing of student in extracurricular activities was counter to the “concern for student health and safety.”  Moreover, the extracurricular activities, while voluntary, “are part of the school’s educational program.”  Finally, the School had not demonstrated any immediacy of the drug threat.
+
+Discussion
+“Schoolchildren do not shed their constitutional rights when they enter the schoolhouse,” their Fourth Amendment rights are different as “the ‘reasonableness’ inquiry cannot disregard the schools custodial and tutelary responsibility for children.”
+

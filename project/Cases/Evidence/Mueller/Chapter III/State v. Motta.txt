@@ -1,0 +1,21 @@
+Citation
+300 Fed. Appx. 106, 2008 U.S. App.
+
+Brief Fact Summary
+Wendy Iwashita was robbed at gunpoint while working as a coffee house cashier.  A police artist composite sketch was drawn from her description.  The prosecution had the sketch admitted and Defendant appealed arguing inadmissible hearsay.
+
+Synopsis of Rule of Law
+A composite sketch is admissible hearsay because it is an exception of prior identification as long as the declarant testifies at trial and is available for cross examination.
+
+Facts
+Wendy Iwashita was robbed at gunpoint while working as a cashier at a coffee house on April 29, 1980.  She gave a description of the robber to police, and met with a police sketch artist who drew a composite.  Iwashita also picked the robber from photographs and identified him at a preliminary hearing.  Defendant claims that the composite sketch should not have been admitted as it was inadmissible hearsay.
+
+Issue
+Did the trial court improperly allow the admission of the sketch?
+
+Held
+Chief Justice Lum issued the opinion for the Hawaii Supreme Court in affirming the conviction and holding that the sketch was properly allowed.
+
+Discussion
+The primary reason for excluding hearsay is the danger of declarant not being available to testify.  Both the eye witness and the police artist who made the sketch were available to testify, and the jury was allowed to judge their credibility.
+

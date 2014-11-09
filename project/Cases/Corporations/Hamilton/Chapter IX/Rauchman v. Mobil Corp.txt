@@ -1,0 +1,21 @@
+Citation
+739 F.2d 205 (6th Cir. 1984)
+
+Brief Fact Summary
+Irvin Rauchman, (Petitioner), brought suit against Mobil Corporation, (Respondent), to compel Respondent to include his proposal to amend the bylaws in the corporation’s proxy statement. Petitioner appeals the District Court grant of Respondent’s motion for summary judgment.
+
+Synopsis of Rule of Law
+A proposal that calls into question the qualification of a board member for reelection is an effort to oppose management’s solicitation on behalf of the reelection process and may be excluded from the corporation’s proxy statement.
+
+Facts
+On October 31, 1980 Respondent appointed a Saudi Arabian citizen, Suliman S. Olayan, to its Board of Directors. Shortly thereafter Petitioner, who owns 64 voting shares of Mobil stock, submitted a proposed amendment to Mobil’s bylaws for inclusion in Mobil’s proxy statement for the 1982 annual meeting. The proposed amendment would prevent a citizen of an OPEC country from sitting on Respondent’s board of directors. Respondent wrote to the SEC staff requesting that they recommend to the Commission that no action be taken if Respondent were not to include Petitioner’s proposal in the proxy statement. The SEC staff agreed. The staff noted that in its view, the proposal called into question the qualifications of Olayan for reelection and thus was an effort to oppose management’s solicitation on behalf of his reelection. Following the staff’s decision, Petitioner brought suit to force Respondent to include the proposal in its proxy statement. The District Court granted Mobil’s moti
+
+Issue
+Whether Mobil properly excluded a proposal from its proxy statement that would amend Mobil’s bylaws to prevent a citizen of an OPEC country from sitting on Mobil’s board of directors. .
+
+Held
+Yes. Mobil properly excluded the proposal from its proxy statement because the proposal is an effort to oppose management’s solicitation on behalf of the reelection process.
+
+Discussion
+The election of Olayan to the board would have been forbidden by the proposed bylaw amendment since the amendment would have made him ineligible to sit on the board. The proposed comment unmistakably refers to Olayan. A Mobil stockholder could not vote for Petitioner’s proposal and at the same time ratify the nomination of Mr. Olayan. Therefore the proposal could be viewed as an effort to oppose management’s solicitation on behalf of Olayan’s reelection.
+

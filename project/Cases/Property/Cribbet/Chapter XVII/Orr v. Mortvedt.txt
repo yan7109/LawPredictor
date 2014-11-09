@@ -1,0 +1,18 @@
+Citation
+22 Ill.735 N.W.2d 610 (Iowa 2007) [2007 BL 61507]
+
+Synopsis of Rule of Law
+In determining rights to use a body of water, the threshold question is whether the watercourse is considered “navigable”, because owners cannot prohibit free access to “navigable” watercourses.  The determination of whether a watercourse is navigable depends on the presence or absence of tidal ebb and flow of water and whether the water is used like a public highway of commerce.  If a watercourse is deemed non-navigable, courts may adopt either the restrictive “common law” (aka “exclusive dominion”) rule, which provides that an owner can only enjoy the portion of water he owns, or the “civil law” (aka “free access”) rule, which provides that an owner may enjoy the entire body of water.
+
+Facts
+Plaintiffs the Orr family and Defendants the Mortvedt family each owned a parcel of land abutting a land-locked lake.  Their respective deeds also included rights to a portion of the lake bed adjacent to their properties.  A boundary dispute arose between the parties concerning boundary lines and their respective rights to enjoy and use the lake.  The Orrs objected when the Mortvedts used, for fishing and boating, parts of the lake beyond the boundaries of the lake bed owned by the Mortvedts.  The Orrs filed an actions seeking a resolution of the boundary dispute, and adjudication of whether the owners of a portion of the lake bed have a legal right to access and enjoy the entire lake, an declaration that they have the right to place a fence in the lake to enclose their property, and a determination that they exclusively possess the minerals on their land, inter alia.  The trial court held for plaintiffs on all issues, the Mortvedts appealed, and the Iowa Supreme Court affirmed.
+
+Issue
+Does the owner of a part of the bed of a non-navigable lake have the legal right to use and enjoy the entire lake under Iowa law?
+
+Held
+No.  The Iowa Supreme Court held that an owner of a part of a bed of a non-navigable lake may only use and enjoy the part of the lake covering the lake bed described in his deed.  The threshold question was whether the lake was considered “navigable”, because owners cannot prohibit free access to “navigable” watercourses.  The determination of whether a watercourse is navigable depends on the presence or absence of tidal ebb and flow of water and whether the water is used like a public highway of commerce.  Because the lake at issue was landlocked and used primarily for recreational purpose, not for travel, the court found it was non-navigable.  The court then adopted the “common law rule” in holding that owners of part of a bed under a non-navigable body of water are limited to using only that part of the lake above their deeded property.  The court reasoned that the common law rule recognizes the legal significance of property boundaries and protects interests of owners when neighbors are unable to coexist cooperatively.  Judge Cady dissented, rejecting the common law rule and favoring instead the “civil law rule” also known as the “free access rule”, which recognizes that it can be very difficult and impractical to establish and obey definite property lines in bodies of water.
+
+Discussion
+This case points out the difference between the “common law rule” and the “civil law rule” for determining water use issues for non-navigable bodies of water.
+

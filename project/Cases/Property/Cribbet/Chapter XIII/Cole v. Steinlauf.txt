@@ -1,0 +1,21 @@
+Citation
+22 Ill.144 Conn. 629, 136 A.2d 744 (1957)
+
+Brief Fact Summary
+The Plaintiffs and the Defendant entered into a contract for the sale of real estate, for which the Plaintiffs made a deposit of $420 and spent $50 to hire an attorney to make a title search prior to the closing date. The title search found a defect in title and Plaintiffs refused to buy the property, after which Defendants refused to return the deposit.
+
+Synopsis of Rule of Law
+The defect in title alleged herein by Plaintiffs is sufficient to raise a reasonable doubt as to the soundness of the title, and the Plaintiffs should not be forced to buy a potential lawsuit due to the alleged defect.
+
+Facts
+The Plaintiffs and the Defendant entered into a contract for the sale of real estate, for which the Plaintiffs made a deposit of $420 and spent $50 to hire an attorney to make a title search prior to the closing date of July 1, 1955. The title search found a defect in title and Plaintiffs refused to buy the property, after which Defendants refused to return the deposit. The attorney found that a deed to a predecessor in title to the Defendant made in 1945 had ran to the grantee “and assigns forever.” No mention of “heirs” was made as would be customary and necessary in a fee simple conveyance made in Connecticut. The Plaintiffs, on the basis that the prior deed failed to mention “heirs,” refused to close the deal with Defendant and demanded that Defendant return the deposit of $420 plus expenses for the title search, which the parties agreed had cost $50. The Plaintiffs sued to recover the deposit and the cost of the title search. The trial court found the issues for the Defen
+
+Issue
+Does the 1945 deed convey the totality of the fee to the grantee without a defect which would render the title offered to the Plaintiffs unmarketable?
+
+Held
+No. Judgment reversed and set aside, remanded with instructions to find for Plaintiff and award $470.
+
+Discussion
+Consider the effects of the lack of the word “heirs” in the deed. It is important to have a working knowledge of the operation of all the terms in this case, such as, fee, life estate, heirs and assigns. Also, the concurrence was doubtless referring to a suit in equity to quiet title, in which a judge can reform a deed by decree.
+

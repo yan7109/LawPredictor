@@ -1,0 +1,21 @@
+Citation
+22 Ill.35 Cal.3d 798, 201 Cal.Rptr. 311, 678 P.2d 886 (1984)
+
+Brief Fact Summary
+Defendant Smith beat her child who, as a result, went into respiratory arrest and died. Defendant was convicted of second degree murder, felony child abuse and child beating and appeals the felony-murder jury instruction given.
+
+Synopsis of Rule of Law
+The merger doctrine bars the felony-murder rule in cases where the underlying felony is an integral part of the homicide, such as is the case with felony child abuse.
+
+Facts
+Defendant beat her child, who as a result went into respiratory arrest and died. Defendant brought Victim to the hospital and admitted that she had beaten her too hard. Victim died that evening and Defendant was convicted of second-degree murder, felony child abuse and child beating. At trial, an instruction was given to the jury that an unlawful killing, whether intentional, unintentional, or accidental, is second-degree murder if it occurs during the commission of a dangerous felony such as child abuse. Defendant appealed the felony-murder jury instruction based on the fact that child abuse cannot serve as the underlying felony to a felony-murder charge because the child abuse was an integral part of, and not separate from, the resulting death.
+
+Issue
+Can felony child abuse serve as the underlying felony to support a conviction of second-degree murder on a felony-murder theory?
+
+Held
+No. Judgment reversed.
+
+Discussion
+The reason given by the Court is that if it were to allow the use of the felony-murder rule in cases where the felonies were an integral part of the homicide, it would be precluding the jury from considering the element of malice in all cases where the homicide is committed as a result of a felonious assault. In effect it would be eliminating the element of malice for most homicides.
+

@@ -1,0 +1,21 @@
+Citation
+41 ER 1143, Volume 41
+
+Brief Fact Summary
+The Plaintiff, Tulk (Plaintiff), had sold Leicester Square by deed containing. The Defendant, Moxhay (Defendant), a subsequent purchaser sought to build upon the land. Plaintiff brought a bill for injunction.
+
+Synopsis of Rule of Law
+Since a covenant is a contract between the vendor and the vendee, it may be enforced against a subsequent purchaser who has notice of the contractual obligation of his vendor, even though it does not run with the land.
+
+Facts
+The Plaintiff sold Leicester Square with the restriction that it be maintained in a certain form as a public “pleasure ground”. The deed restriction was covenant for heirs and assigns requiring that the land be maintained as a square garden. The Plaintiff continued to own homes and live around the square after its sale. In 1808, the person who originally purchased Leicester Square from the plaintiff had notice of the covenant contained in the deed. Forty years later, the property was sold to the Defendant, Moxhay. Moxhal sought to build upon the land on the square. Plaintiff brought a bill for injunction to stop any construction.
+
+Issue
+Can a covenant restricting a property to a specific use be enforced against a subsequent purchaser?
+
+Held
+Whether or not the covenant runs with the land, such an agreement could properly be enforced in equity because the one who purchases the land from Tulk had notice of that covenant. Defendant, Moxhal could not stand in a different situation from the owner from whom he purchased the property.
+
+Discussion
+An equitable servitude is enforceable by injunction with no regard to privity, so long as the promise is intended to run and the subsequent purchaser has actual or constructive knowledge of the covenant.
+

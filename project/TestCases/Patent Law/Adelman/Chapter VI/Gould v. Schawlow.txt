@@ -1,0 +1,21 @@
+Citation
+363 F.2d 908 (C.C.P.A. 1966)
+
+Brief Fact Summary
+Gould (Plaintiff) conceived of a laser, but did not have the resources to reduce it to practice before Schawlow (Defendant).
+
+Synopsis of Rule of Law
+A party chargeable with diligence must account for the entire period during which diligence is required and prove reasonable diligence during that time.
+
+Facts
+On July 30, 1958, Defendant applied for a patent on a "laser."  On April 6, 1959, Plaintiff applied for a patent for the same invention.  Plaintiff challenged Defendant's patent, and both applicants claimed their filing dates were reduction-to-practice dates.  The burden was on Plaintiff to prove reasonable diligence from prior to July 30, 1958, to April 6, 1959.  Even though Plaintiff proved conception of the laser as early as November 1957, he did not begin building the laser as he wanted to find variations that were easier to construct.  The Board of Patent Interferences did not find sufficient evidence from Plaintiff of corroboration for the work done in the critical period.
+
+Issue
+Does a party chargeable with diligence have to account for the entire period during which diligence is required and prove reasonable diligence during that time?
+
+Held
+(Worley, C.J.)  Yes.  If a party is chargeable with diligence, the party must account for the entire period during which diligence is required and prove reasonable diligence during that time.  During the critical period of July to December 1958, Plaintiff made little attempt to identify particular activity at particular times.  He also did not prove how such activity related to a reduction to practice.  Plaintiff must provide facts proving exactly what he did and exactly when he did it.  Plaintiff also argued that the Board used a "formalistic approach" which created a higher standard.  The correct standard is "reasonable diligence."  If an inventor has limited resources, he will not be penalized if he devotes those resources with reasonable and continuous diligence.  Plaintiff failed to show evidence to meet this standard.  Affirmed.
+
+Discussion
+Creating a form of equality is one policy underlying the diligence requirement.  A person may have a good idea but not have the resources to reduce it to practice.  Therefore, if she is diligent in trying to obtain resources or work with a patent attorney, she will not lose her privileged status.  It may have appeared that this policy goal was not met by Plaintiff, but Chief Justice Worley's lengthy discussion of the facts, in addition to his emphasis on protecting inventors with limited resources, indicate that Plaintiff lost because of a lack of evidence.
+

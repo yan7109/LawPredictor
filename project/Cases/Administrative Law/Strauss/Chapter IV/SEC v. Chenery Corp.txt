@@ -1,0 +1,21 @@
+Citation
+332 U.S. 194, 67 S. Ct. 1575, 91 L. Ed. 1995 (1947)
+
+Brief Fact Summary
+This case was before the Court a second time. The first time, the Court held that a reorganization order of the Securities and Exchange Commission (SEC) could not be sustained on the grounds on which the agency acted. On remand, the SEC reexamined the problem and reached the same result. This case examined whether the Commission’s action was proper in light of the principles established in the Court’s prior decision.
+
+Synopsis of Rule of Law
+Chenery I strongly suggested that the SEC could only create a new principle of law through rulemaking, and this case (Chenery II) flatly rejected that suggestion, holding, “the choice made between proceeding by general rule of by individual, ad hoc litigation is one that lies primarily in the informed discretion of the administrative agency.”
+
+Facts
+The first time the case was here, the Court emphasized a fundamental rule of administrative law-that a reviewing court may judge the propriety of an agency action solely based upon the grounds invoked by the agency. The first time, the Commission had relied solely on judicial authority which was insufficient to support its decision. This time, the Commission thoroughly reexamined the problem in light of the Holding Company Act (Act), and concluded that the proposed transaction was inconsistent with the standards of the Act. Chenery Corporation argued that the Commission was precluded from doing this in the absence of findings of conscious wrongdoing on the part of the management.
+
+Issue
+Was the Commission, which had not previously been confronted with the problem of management trading during reorganization, precluded from utilizing this particular proceeding to announce and apply a new standard of conduct?
+
+Held
+No. Reversed.   The absence of a general rule or regulation regarding management trading did not affect the Commission’s duties in relation to the particular proposal before it.  The Commission, unlike a court, does have the ability to make new law prospectively through the exercise of its rule-making powers, it has less reason to rely on ad hoc adjudication to formulate new standards of conduct. The function of filling in the gaps of the Act should be performed through quasi-legislative promulgation of rules as much as possible. However, any rigid requirement to that affect would make the administrative process inflexible and incapable of dealing with the many specialized problems which arise.    Dissent.   The Court by this decision sustained the identical administrative order which it recently held invalid. Since there was no change in the order, no additional evidence in the record, and no amendment of relevant legislation, it was clear there was a change in the attitude of the controlling membership of the Court since the last time the case appeared.  Both the Commission and the Court agreed that the purchases at issue were not forbidden by any law, judicial precedent or regulation or rule of the Commission; yet the Court approved the Commission’s order that the individuals surrender their shares to the corporation at cost plus 4% interest.  The reversal of the position of the Court was due to a fundamental change in its prevailing philosophy to provide deference to administrative authority when confronted with an unfamiliar matter it hadn’t dealt with before.   Concurrence. None printed.
+
+Discussion
+The Commission’s conclusion rested squarely in the area where administrative law judges are entitled to the greatest amount of weight by appellate courts, and it was an allowable judgment the Court declined to disturb. The deference given to agency discretion in this case remains a bedrock principle of federal administrative law.
+

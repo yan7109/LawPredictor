@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 2353 176 L. Ed. 2d 570 2010 U.S.
+
+Brief Fact Summary
+Defendant, Michael Lipscomb, was convicted of heroin possession and intent to distribute in a second trial.  The prosecution used prior convictions to impeach him and three defense witnesses.  The district court did not extensively look into the facts and circumstances surrounding the prior convictions of the three defense witnesses.
+
+Synopsis of Rule of Law
+Evidence of prior felony convictions may be admitted only if the court determines that the probative value outweighs the prejudicial effect to the defendant.
+
+Facts
+Michael Lipscomb, Defendant, was convicted by a jury for possession of heroin with intent to distribute.   Defendant was convicted in a second trial as the first ended in a hung jury.  During the first trial Defendant was impeached on cross-examination for a previous robbery conviction.  Defendant attempted to prevent the cross-examination on re-trial but the trial judge ruled that it would be allowed.  Thus, Defendant did not testify in his second trial.  The judge also allowed the prosecution to admit prior convictions of three of the defense witnesses.
+
+Issue
+To what extent must a district court seek additional information regarding the facts and circumstances surrounding prior convictions used to impeach?
+
+Held
+Justice Wald issued the opinion for the United States Court of Appeals for the District of Columbia in holding that it is in the district court’s discretion in determining when to inquire into the facts and circumstances and to what extent regarding a prior conviction.
+
+Discussion
+The Court of Appeals finds that looking into facts and circumstances surrounding prior convictions can only help a court weigh the probative value versus prejudicial effect.  The Court of Appeals declines to say exactly to what extent a court should inquire and granting courts substantial discretion.
+

@@ -1,0 +1,21 @@
+Citation
+607 F.2d 545, 1979 U.S. App. Fed. Sec. L. Rep. (CCH) P97,115; 28 Fed. R. Serv. 2d (Callaghan) 25
+
+Brief Fact Summary
+Kalman and Anita Ross (Plaintiffs), appeal from an order dismissing their proposed class action, which alleged fraud by A.H. Robins Company (Defendant). Plaintiffs alleged that Defendant engaged in a scheme and plan to deceive the public as to the true financial condition of the company regarding Dalkon Shield.
+
+Synopsis of Rule of Law
+A complaint alleging fraud must contain specific factual allegations.
+
+Facts
+Plaintiffs purchased 100 shares of common stock of Defendant’s company, a manufacturer and distributor of pharmaceutical products. They instituted this proceeding under Section 10b-5 of the Securities and Exchange Act of 1934 on behalf of all persons who purchased stock from April, 1972 through July, 1974. Plaintiffs also named seven individuals who are directors and officers of Defendant. Plaintiffs’ claim alleges that Defendant engaged in a scheme and continuous course of conduct to deceive the investing public as to the true financial condition of the company with matters concerning Dalkon Shield. They also alleged that Defendants concealed from the investing public, facts concerning the safety and efficiency of Dalkon Shield. They also alleged that Defendants released false statements and recklessly disregarded serious issues regarding the safety and efficiency of Dalkon Shield. The information was subsequently released to the public and the stock price dropped from $19 a share to $13 a share. district court granted Defendant’s Motion to Dismiss on the ground that the complaint did not comply with Rule 9(b) of the Federal Rules of Civil Procedure. Plaintiffs appeal.
+
+Issue
+Whether the Plaintiffs’ complaint alleged specific facts to prove fraud?
+
+Held
+No. Judgment is affirmed, however Plaintiffs should be given a chance to replead.   A plaintiff alleging fraud in connection with a securities transaction must allege specific facts upon which his claim is founded, in other words, they must do more than track the language of Rule 10b-5. Here, the Plaintiffs alleged misrepresentations made by the Defendant. However, the complaint failed to show a connection between the Defendants and the individual who made the misrepresentations in the report. Plaintiffs also failed to indicate when they obtained the information and when the crucial events occurred. Further, the complaint also fails to specify the time period during which the stock fell from $19 a share to $13 a share.
+
+Discussion
+The purpose of Rule 9(b) is to diminish the possibility that a plaintiff will file a groundless or frivolous claim. This exhibits an attempt to increase the efficiency of the judicial system by eliminating frivolous claims.
+

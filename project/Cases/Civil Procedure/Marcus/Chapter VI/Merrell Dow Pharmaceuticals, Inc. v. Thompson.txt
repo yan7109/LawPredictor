@@ -1,0 +1,21 @@
+Citation
+478 U.S. 804, 106 S. Ct. 3229, 92 L. Ed. 2d 650,  1986 U.S.
+
+Brief Fact Summary
+Action filed by multiple Respondents against Merrell Dow Pharmaceuticals, Inc. (Petitioner), a corporation, that manufactures and distributes the drug Bendectin. Complaints filed in the Court of Common Pleas in Hamilton County, Ohio alleged that a child was born with multiple deformities as a result of a mother’s ingestion of Bendectin during pregnancy.
+
+Synopsis of Rule of Law
+A complaint alleging a violation of a federal statute as an element of a state cause of action, when Congress has determined that there should be no private, federal cause of action for the violation, does not state a claim arising under the Constitution, laws or treaties of the United States.
+
+Facts
+In the complaints, five of the six counts alleged common-law theories of negligence, breach of warranty, strict liability, fraud and gross negligence. However, in count four, Respondents alleged that the drug Bendectin was misbranded in violation of the Federal Food, Drug and Cosmetic Act (Act) because its labeling did not provide adequate warning that its use was potentially dangerous. The Petitioner sought removal to federal district court, in part, upon the ground that the claims arose under the federal laws of the United States. After removal, the cases were consolidated. The district court found a cause of action arising under the federal laws, but the United States Court of Appeals for the Sixth Circuit reversed, noting that the Act does not create or imply a private right of action for individuals injured as a result of violations of the act.
+
+Issue
+Whether the incorporation of a federal standard in a state-law private action, when Congress has intended that there not be a federal private action for violations of that federal standard, makes the action one arising under the Constitution, laws or treaties of the United States?
+
+Held
+No federal question is raised because the Petitioners’ claim did not arise under federal law. The Supreme Court of the United States affirmed the court of appeal’s decision.  <br/><br/><span class='heading'>Dissent.</span> There is federal jurisdiction whenever a federal question is an ingredient of the action. Furthermore, there may be federal question jurisdiction even though both the right asserted and the remedy sought by a plaintiff are state created. Additionally, federal courts are much more adept at interpreting and applying federal law, and more likely to correctly understand Congress’ intent in enacting legislation than are state courts.
+
+Discussion
+Congress did not intend to grant a private federal remedy for violations of the Act. Because the federal law in question did not create a remedy, no federal question jurisdiction can be found in this case.
+

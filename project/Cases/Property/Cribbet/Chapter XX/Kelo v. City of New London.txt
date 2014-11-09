@@ -1,0 +1,18 @@
+Citation
+545 U.S. 469, 125 S. Ct. 2655, 162 L. Ed. 2d 439, 60 ERC 1769 (2005)
+
+Synopsis of Rule of Law
+A taking by eminent domain will be upheld as long as it is “rationally related to a conceivable public purpose” and “just compensation” is paid to the owner.  A valid public purpose can be found in a plan for economic rejuvenation of an overall condemned community, even though some individual properties within that community may not be blighted.
+
+Facts
+The City of New London had experienced decades of economic decline, which prompted state officials to target the Fort Trumbull area of New London for a revitalization plan.  As part of the revitalization, the state planned to take, by eminent domain, the properties of Plaintiff Kelo, as well as 9 other plaintiffs.  The City then planned to give that property to a private developer to turn into, inter alia, research and development office space and parking and retail space to support a new state park, which the City believed would jump-start the area’s rejuvenation.  The plaintiffs brought this action in Connecticut Superior Court, alleging that the takings would violate the “public use” restriction of the Fifth Amendment.  The trial court granted a permanent restraining order prohibiting the taking of some of the properties but not all.  Both sides appealed to the Connecticut Supreme Court, which held that all of the City’s proposed takings were valid.  The U.S. Supreme Court granted certiorari to determine whether the takings would satisfy the “public use” requirement of the Fifth Amendment.  The U.S. Supreme Court held that the takings were valid, and affirmed the judgment of the Connecticut Supreme Court.
+
+Issue
+Does a City’s decision to take property for the purpose of economic development satisfy the “public use” requirement of the Fifth Amendment?
+
+Held
+Yes.  Under the Fifth Amendment, a State may transfer property from one private party to another if future “use by the public” is the purpose of the taking.  Moreover, a City is not required to open the property for use by the general public, but must have a “public purpose” for the land.  In its reasoning, the Court referenced other cases where individual properties were not in and of themselves blighted, but were validly taken as part of community redevelopment plans.  The court pointed out that states have broad latitude in determining what constitutes a public purpose, particularly where community redevelopment “must be planned as a whole” to be successful.  The Court, in the present case, gave deference to the Defendant’s determination that the Fort Trumbull area was sufficiently distressed to justify a program of economic rejuvenation.  Accordingly, the Court determined that the plan unquestionably served a public purpose and that the takings were valid.  Four justices dissented, arguing that the majority had washed out any distinction between private and public use of property.  Moreover, the dissent argued that taking for the sole purpose of economic development is unconstitutional.
+
+Discussion
+Kelo invites legislatures to become involved in defining public use and takings.  Accordingly, Kelo received significant adverse publicity in the general public and many politicians used it to garner public support against governmental takings for eventual private redevelopment.  The public outcry against government taking private property to be turned over to developers stems from the feeling that citizens should have the right to decline to sell their homes to another private party.
+

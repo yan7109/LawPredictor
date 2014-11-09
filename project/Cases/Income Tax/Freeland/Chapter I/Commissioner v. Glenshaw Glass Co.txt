@@ -1,0 +1,24 @@
+Citation
+348 U.S. 426
+
+Brief Fact Summary
+The Supreme Court consolidated two cases with a similar issue.  In both cases, the taxpayers did not report money received as punitive damages as income.
+
+Synopsis of Rule of Law
+Gross income includes gains or profits and income derived from any source whatsoever.
+
+Facts
+Glenshaw Glass manufactures glass bottles and containers and was in litigation with the Hartford-Empire Company, which manufactures machinery used by Glenshaw.  Glenshaw made demands for exemplary damages for fraud and treble damages for injury to its business for Hartford’s violations of antitrust laws.  The parties settled and Glenshaw received $800,000.  Of that, $324,529.94 represented punitive damages.  Glenshaw did not report that amount as income.
+
+Issue
+Whether money received as exemplary damages for fraud or as punitive damages of an antitrust recovery must be considered gross income?
+
+Held
+Chief Justice Warren issued the opinion for the Supreme Court of the United States in holding that the amounts should be considered gross income.
+
+Dissent
+Justice Douglass dissented but did not issue a separate opinion.
+
+Discussion
+The Supreme Court found no exception applicable to punitive damages.  Further, the Court could not ignore the plain language of the statute that gross includes any income from any source.
+

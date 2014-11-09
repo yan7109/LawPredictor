@@ -1,0 +1,24 @@
+Citation
+981 F.2d 305 (8th Cir. 1992)
+
+Brief Fact Summary
+Konrad Radaszewski, (Plaintiff), was seriously injured when a truck driven by an employee of Contrux, Inc. struck him while riding his motorcycle. Plaintiff seeks to hold Telecom Corporation, (Defendant), liable for the conduct of an employee of its wholly owned subsidiary, Contrux Inc. Plaintiff appeals the district court ruling in favor of Defendant.
+
+Synopsis of Rule of Law
+If a subsidiary is financially responsible, whether by means of insurance or otherwise, the policy behind the second part of the Collet test is met.
+
+Facts
+This personal injury suit was brought on behalf of Plaintiff who was injured in an automobile accident by an employee of Contrux, Inc., a subsidiary of Defendant. The district court held that Contrux, Inc. was under capitalized in the accounting sense. Most of the money contributed to it was in the form of loans and Defendant did not pay for all of the stock that was issued to it. However, Contrux, Inc., had $1,000,000 in basic liability coverage plus $10,000,000 in excess coverage. Unfortunately, Contrux, Inc.’s excess liability insurance carrier became insolvent two years after the accident and is now in receivership.
+
+Issue
+Whether the corporate veil of Contrux, Inc. can be pierced to bring Defendant into the case.
+
+Held
+No. Contrux, Inc. had $1,000,000 in basic liability coverage plus $10,000,000 in excess coverage that was sufficient to satisfy federal financial-responsibility requirements and the second element of the Collet test.
+
+Dissent
+Liability insurance is only a relevant factor to be considered but does not alone require a verdict for the defendant.
+
+Discussion
+Under capitalization of a subsidiary is a proxy under Missouri law for the second element of the tripartite test for piercing the corporate veil first set forth in Collet v. American National Stores, Inc., 708 S.W.2d 273 (Mo.App.1986). The purpose of inquiring as to whether a subsidiary is “properly capitalized,” is to determine its financial responsibility. Insurance meets this policy just as well if not better than a healthy balance sheet.
+

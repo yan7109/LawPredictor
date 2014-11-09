@@ -1,0 +1,21 @@
+Citation
+326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)
+
+Brief Fact Summary
+Suit brought within the State of Washington against International Shoe Company (Appellant), a Delaware corporation. Appellant had a principal place of business in St. Louis, Missouri and engaged in the manufacture and sale of shoes and other footwear. The suit sought to recover unpaid contributions to the state unemployment compensation fund.
+
+Synopsis of Rule of Law
+In order to subject a defendant to a judgment in personam, if he is not present within the territory of the forum, he must have certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice.
+
+Facts
+Appellant did not maintain an office within the State of Washington. The corporation employed between eleven and thirteen salespersons in the state, under the direct supervision and control of managers located in St. Louis. The salespeople resided in Washington and their principal activities were confined to that state. The salespeople received commissions from their sales with Washington. Appellant filed a Motion to Set Aside the Order and Notice of Assessment of Unemployment because service on Appellant’s salesman was not proper. It also contended that it was not a corporation in Washington, it was not doing business in that state, and it had no agent in that state to accept service, nor did it furnish employment within the meaning of the statute. The motion was denied, and both the Superior Court and the Supreme Court of Washington affirmed the decision.
+
+Issue
+Whether a foreign actor or corporation has, by its merely conducting business within a forum state, availed itself to suit within that forum state?
+
+Held
+Yes. Solicitation within a state by the agents of a foreign corporation plus some additional activities render a foreign corporation amenable to suit within the forum state to enforce an obligation arising out of its activities within the forum state. In this case, Appellant’s activities within Washington were systematic and continuous within the years in question. These activities resulted in a large volume of business. Further, Appellant received the benefits and protections of the laws of Washington. As a result, the suit against Appellant within the state does not involve an unreasonable or undue procedure.
+
+Discussion
+In determining whether such minimum contacts exist, a court will look at two factors: sufficient minimum contacts and notice.   International Shoe requires that a defendant have such minimum contacts with the forum state that exercise of jurisdiction over the defendant would be fair and reasonable. Under this analysis, a court will look to whether both purposeful availment and foreseeability exist. Under the foreseeability prong of the minimum contacts analysis, it must be    foreseeable that the defendant’s business within the forum makes it amenable to suit within that forum. In addition, under the purposeful availment prong, the defendant’s minimum contacts with the forum state must arise from non-accidental contact.  In addition to the minimum contacts analysis, due process also requires that a reasonable effort be used to notify the defendant of a pending lawsuit so that it has an opportunity to appear and be heard.
+

@@ -1,0 +1,21 @@
+Citation
+501 U.S. 1030,111 S. Ct. 2720,115 L. Ed. 2d 888,1991 U.S.
+
+Brief Fact Summary
+Defense attorney was disciplined for a public statement made at a press conference in which he maintained his client’s innocence and implicated one of the government’s witnesses as the perpetrator.
+
+Synopsis of Rule of Law
+Attorneys may not make public statements that present a “substantial likelihood of material prejudice” to a fair trial.
+
+Facts
+Petitioner, attorney Dominic Gentile, was representing a defendant in a highly publicized case. In response to a wave of adverse publicity about his client, Gary Sanders, Petitioner called a press conference in which he defended his Sanders’s innocence and stated that the man who had actually “stolen the drugs and the money” was one of the investigating detectives who would be testifying as a witness for the prosecution. He also suggested that this detective was a drug user and that several of the other witnesses were known criminals. The court succeeded in empaneling a jury that it believed to be unaffected by these statements, and Sanders was acquitted of all charges. Petitioner was later disciplined by the Nevada state bar for violation of its Rule 177 prohibiting public statements that the attorney should reasonably know have a “substantial likelihood of materially prejudicing” legal proceedings, and now appeals.
+
+Issue
+The main issue here is not Petitioner’s statements, but the rule under which he was disciplined and its application.
+
+Held
+Yes, and no. States may restrict this kind of speech, but as applied here the rule was unconstitutionally vague. Reversed.
+
+Discussion
+Almost every state has now adopted some version of this ru
+

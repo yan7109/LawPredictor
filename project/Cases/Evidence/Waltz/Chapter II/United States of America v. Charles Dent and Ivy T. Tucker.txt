@@ -1,0 +1,24 @@
+Citation
+984 F.2d 1453 (7th Cir. 1993)
+
+Brief Fact Summary
+Defendants, Charles Dent and Ivy Tucker, were stopped by an officer for failing to stop at a stop sign.  The officer maintained that he saw a gun in plain view during the stop.  The gun was later used to convict Defendants under 18 U.S.C. Section: 922(g) for being felons in knowing possession of a firearm.
+
+Synopsis of Rule of Law
+Evidence that is more probative than prejudicial will be admissible, but a party will have to provide considerable evidence of trustworthiness before they can admit grand jury testimony under Rule 804(b)(5) of the Federal Rules of Evidence.
+
+Facts
+Defendants were pulled over for failing to stop at a stop sign.  Defendants gave false names and were unable to produce a license to the officer.  The officer maintained that as he was writing down vehicle identification numbers he noticed a gun sticking out from underneath the front seat.  The officer then searched the entire vehicle and found trench coats, a nylon stocking and a black mask.  The officer also found $1,700 on Tucker.  At trial, the prosecution presented the gun and grand jury testimony, and they recalled a witness to clarify questions from the jury.
+
+Issue
+There were multiple evidentiary issues in this case.
+
+Held
+There were several holdings in response to the multiple issues presented.
+
+Concurrence
+The concurring opinion emphasized the need for the United States Supreme Court to review whether grand jury testimony can be found admissible.  The concurring judge makes a plea to disallow the admission of grand jury testimony.
+
+Discussion
+The court again balanced some evidence on its probative value versus its prejudicial value.  The trial court was not willing to extend admissibility to the grand jury testimony.  But as illustrated here, sometimes the wrongfully admitted evidence will be harmless error and is not automatic grounds for a retrial.
+

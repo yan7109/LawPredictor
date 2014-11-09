@@ -1,0 +1,18 @@
+Citation
+385 U.S. 293, 87 S. Ct. 408, 17 L. Ed. 2d 374 (1966)
+
+Brief Fact Summary
+A government informant was in a hotel room with a criminal defendant during a trial.  The defendant often conferred with his attorneys in the room.  The informant was there in order to obtain information from the defendant to be used during a second trial for witness tampering.
+
+Synopsis of Rule of Law
+The conduct “by the Government by means of deceptively placing a secret informer in the quarters and councils of a defendant during one criminal trial [does not] violate the defendant’s Fourth, Fifth and Sixth Amendment rights that suppression of such evidence is required in a subsequent trial of the same defendant on a different charge.”
+
+Facts
+James Hoffa (”Hoffa”) was charged with violating a provision of the Taft-Hartley Act.  He was tried in the autumn of 1962 (”the Test Fleet trial”).  The Test Fleet trial ended with a hung jury.  Hoffa and various others were convicted in 1964 of bribing members of the jury during the Test Fleet trial.  The Court of Appeals affirmed the convictions.  One of the government’s witnesses, Edward Partin (”Partin”), testified to various statements made to him by Hoffa and another convicted individual named King.
+
+Issue
+“Whether evidence obtained by the Government by means of deceptively placing a secret informer in the quarters and councils of a defendant during one criminal trial so violates the defendant’s Fourth, Fifth and Sixth Amendment rights that suppression of such evidence is required in a subsequent trial of the same defendant on a different charge[?]”
+
+Held
+The majority first observed that Partin was a government informant as soon as he arrived in Nashville and that the government compensated him for his services as such.
+

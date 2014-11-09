@@ -1,0 +1,21 @@
+Citation
+179 F.3d 956; 1999 U.S. App.
+
+Brief Fact Summary
+Defendants’ software product, designed to assist users in filling out basic legal forms, is challenged as an unauthorized practice of law in Texas.
+
+Synopsis of Rule of Law
+Software products that actively assist users in filling out simple legal forms may constitute an unauthorized practice of law.
+
+Facts
+Plaintiffs, the Unauthorized Practice of Law Committee (a Texas committee formed to enforce that state’s unauthorized practice of law rules), allege that Defendant software manufacturer’s product constitutes an unauthorized practice of law under Texas law. This software, “Quicken Family Lawyer,” “interviews” users to determine which of about 100 included legal forms would be right for them for a variety of simple legal tasks such as testamentary and divorce documents. It then assists the user in filling out the appropriate forms, even going as far as to tailor the form to the law of the user’s jurisdiction.
+
+Issue
+Can the development and sale of interactive software designed to help people with generalized legal problems constitute “the unauthorized practice of law”?
+
+Held
+Yes. Texas courts had previously held that even advising someone as to which legal form should be filled out could constitute the practice of law, and the court had little trouble here determining that this interactive software-which did everything but hold itself out as being a virtual lawyer-was in violation of Texas unlawful practice rules.
+
+Discussion
+Texas currently has the strictest unauthorized practice rules, while states such as New York and Massachusetts (which allow non-lawyers to assist others in filling out simple forms with legal consequences) have the most liberal. As it is, most software of this kind offering anything more than “static” legal forms may risk being banned in many states. Is Texas merely catering to a protectionist state bar attempting to shield its members from competition, or is there a serious policy concern raised by the kind of software at issue in this case?
+

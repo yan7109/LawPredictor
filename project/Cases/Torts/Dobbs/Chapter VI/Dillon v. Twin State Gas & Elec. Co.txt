@@ -1,0 +1,21 @@
+Citation
+85 N.H. 449, 163 A. 111, 1932 N.H.
+
+Brief Fact Summary
+In a negligence action arising from a minor’s death by electrocution after falling from a bridge and grabbing Twin State Gas & Electric Company’s (Defendant) live wires, Defendant appealed New Hampshire trial court’s entry of judgment for Henry Dillon (Plaintiff), administrator of decedent’s estate.
+
+Synopsis of Rule of Law
+In any action for negligence, the plaintiff must establish that (1) the defendant had a duty to the plaintiff; (2) the defendant failed to perform that duty; and (3) the defendant’s breach was the proximate cause of the plaintiff’s injury. Liability is the conclusion when there is a duty, breach, and causal connection between the conduct of the defendant and the resulting injury to the plaintiff. The third element is frequently referred to as “actual damages”. The plaintiff, who proves that the defendant’s conduct was negligent but fails to show what actual damage resulted from it, will lose the case.
+
+Facts
+In reference to Defendant’s wires, its foreman complained to the city about the public bridge’s use as a playground by trespassing boys. After falling from the bridge, decedent minor was electrocuted upon grabbing Defendant’s live wires.
+
+Issue
+Did the trial court err when it found Defendant liable for decedent’s death, which resulted from his contact with live wires?
+
+Held
+The Supreme Court of New Hampshire overruled Defendant’s exception to trial court’s entry of judgment for Plaintiff, finding evidence sufficient to hold Defendant liable for exposing decedent to dangerously charged wires because Defendant had a duty to insulate wires where it was reasonable to anticipate known trespassers might come in contact therewith.
+
+Discussion
+In a negligence action, Defendant appealed the trial court’s entry of judgment for Plaintiff.
+

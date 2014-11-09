@@ -1,0 +1,18 @@
+Citation
+241 Conn. 57, 698 A.2d 739 (1997)
+
+Brief Fact Summary
+The defendant, Christian Porter’s (the “defendant”), home was destroyed by a fire on July 20, 1992.  The defendant was subsequently charged with and convicted of two counts of arson.
+
+Synopsis of Rule of Law
+Scientific evidence must be reliable and relevant before it will be admissible.
+
+Facts
+The defendant’s home was destroyed by a fire on July 20, 1992.  He was subsequently charged with and convicted of two counts of arson.  The defendant retained Leighton Hammond (”Mr. Hammond”), a polygraph examiner, to conduct a polygraph examination to determine whether the defendant was telling the truth when he claimed that he had no knowledge of, and had not participated in, the burning of his home. The examination results were in the defendant’s favor, and he moved that the trial court admit the results of the polygraph examination.  The trial court denied the motion, stating that it was not the place of a trial court to reconsider Connecticut’s traditional per se ban on the admissibility of polygraph evidence.<span class='heading'>Issue.</span>  Whether Connecticut should adopt the Daubert v. Merrell Dow Pharmaceuticals, Inc. standard for the admissibility of scientific evidence?
+
+Held
+Justice Borden issued the opinion of the Supreme Court of Connecticut which did adopt the Daubert standard.
+
+Discussion
+The Court extensively examined the elements of a polygraph examination and noted that the accuracy of the test is open to debate.  Further, the value of the test as indicative of guilt or innocent is questionable.  The test is too unreliable.  Thus, even if the polygraph satisfies the Daubert standard for admission, the trial judge should continue to exclude evidence if its probative value is outweighed by its prejudicial effect.
+

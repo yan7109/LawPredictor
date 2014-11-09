@@ -1,0 +1,21 @@
+Citation
+228 Conn. 441, 636 A.2d 1335 (1994)
+
+Brief Fact Summary
+Plaintiff, the elevator operator filed a negligence action against the elevator installer to recover injuries he sustained when the elevator fell. The trial court granted a Motion for Summary Judgment and directed a verdict in favor of the elevator installer. The appellate court (Connecticut) reversed and remanded the case for a new trial. The elevator operator sought review.
+
+Synopsis of Rule of Law
+To avail herself of the inference afforded by the res ipsa loquitur doctrine, a plaintiff must demonstrate that a defendant was responsible for the specific instrumentality that caused the event.
+
+Facts
+The Plaintiff was injured when an elevator he was operating fell. The facts indicated that the elevator installer installed the elevator sixty-one years prior to the accident. The trial court directed a verdict in favor of the elevator installer. The appellate court concluded that the Plaintiff had presented sufficient evidence to warrant presentation of the question of negligence under the doctrine of res ipsa loquitur to the jury.
+
+Issue
+Did the Appellate Court properly apply the doctrine of res ipsa loquitur?
+
+Held
+The court affirmed the order that reversed a directed verdict in favor of the elevator installer and remanded the case for a new trial on the issue of whether the elevator installer was liable under the theory of negligence for the injuries the Plaintiff sustained when an elevator he was operating fell. With respect to the doctrine of res ipsa loquitur (as clarified in the court’s opinion), the Plaintiff was entitled to have a jury consider her claim that the Defendant’s negligence was the cause of her personal injuries.
+
+Discussion
+The Giles case further clarifies the doctrine of res ipsa loquitur, which, as the court enunciated, “applies when three conditions are satisfied: the situation, condition, or apparatus causing the injury must be such that in the ordinary course of events no injury would result unless from a careless construction, inspection or user; both inspection and user must have been at the time of the injury in the control of the party charged with neglect; the injurious occurrence or condition must have happened irrespective of any voluntary action at the time by the party injured. Whether the doctrine applies in a given case is a question of law for the court.” In essence, upon the showing that the product or apparatus was one over which the defendant had complete control, and that the accident resulting in injury was of such a nature that it ordinarily would not occur in the absence of negligence, the doctrine of res ipsa loquitur permits the plaintiff to shift to the defendant t
+

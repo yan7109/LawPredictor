@@ -1,0 +1,21 @@
+Citation
+308 U.S. 295, 60 S. Ct. 238, 84 L. Ed. 281 (1939)
+
+Brief Fact Summary
+Litton, the sole shareholder of the Dixie Splint Coal Company, filed a claim in the bankruptcy court to recover the balance of a judgment obtained for back salary. The District Court disallowed the claim and directed that the trustee should recover for the benefit of the bankrupt’s estate the property purchased by Litton at the execution sale.
+
+Synopsis of Rule of Law
+Subordination may be necessitated by certain cardinal principles of equity jurisprudence. A director or stockholder is a fiduciary and carries the burden to prove that under all the circumstance the transaction carries the earmarks of an arm’s length bargain. If it does not equity will set it aside.
+
+Facts
+Pepper sued the Dixie Splint Coal Company, (Dixie), for royalties due under a lease and obtained a judgment. Meanwhile, Litton, the sole shareholder of Dixie, obtained a judgment against it for back salary. Litton then caused an execution to be issued on his judgment and at the resulting sale, purchased all the corporate assets. Litton then caused Dixie to file a voluntary petition in bankruptcy. The trustee brought suit to have the judgment set aside and the execution sale quashed but was unsuccessful. Litton then filed a claim in the bankruptcy court to recover the balance of the judgment. The district court disallowed Litton’s claim and held that the trustee should recover the assets purchased by Litton at the execution sale. The Court of Appeals reversed on the grounds of res judicata.
+
+Issue
+Whether res judicata prevents the District Court from examining into the Litton judgment and disallowing or subordinating it a claim. Whether the District Court may properly disallow or subordinate a stockholder’s judgment.
+
+Held
+No. Res Judicata does not prevent the District court from disallowing or subordinating the Litton judgment. Yes. In this case, equity demands disallowance or subordination of Litton’s claims because of the existence of a planned and fraudulent scheme to impair the rights of other creditors.
+
+Discussion
+Litton allowed his salary claims to lie dormant and only sought to enforce them when his debtor corporation was in financial difficulty. Litton managed to acquire most of the assets of the bankrupt corporation to satisfy his appraisal of the worth of his services over the years. He did so in such a manner as to impair the rights of Pepper. Further, the District Court found there existed a planned and fraudulent scheme. Equity therefore demands disallowance or subordination of Litton’s claims.
+

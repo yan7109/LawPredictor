@@ -1,0 +1,21 @@
+Citation
+160 Misc. 2d 950, 612 N.Y.S.2d 540, 1994 N.Y. Misc. 180, 24 U.C.C. Rep. Serv. 2d(Callaghan) 164
+
+Brief Fact Summary
+Aleo International, Ltd., (Plaintiff), brought this suit against Citibank, N.A., (Defendant) after Citibank failed to stop an electronic transfer at the instruction of Plaintiff’s vice president.
+
+Synopsis of Rule of Law
+A communication by the sender canceling or amending a payment order is effective to cancel or amend the order if notice of the communication is received at a time and in a manner affording the receiving bank a reasonable opportunity to act on the communication before the bank accepts the payment order.
+
+Facts
+Plaintiff’s vice president instructed Defendant to make an electronic transfer of $284,563 to Behzad Hermatjou’s account with Dresdner Bank in Berlin. Defendant did so. At 3:59 am on October 15, 1992 Dresdner Bank confirmed the transfer and stated it had credited Behzad Hermatjou’s account in that amount. At 9:00 am that same day, Plaintiff’s vice president instructed Defendant to stop the transfer. Defendant did not.
+
+Issue
+Whether the stop transfer order was effective to cancel the electronic funds transfer.
+
+Held
+The stop transfer order was ineffective to cancel the electronic funds transfer because the receiving bank had already accepted it.
+
+Discussion
+Dresdner Bank accepted the funds by crediting Hermatjou’s account. Dresdner’s acceptance occurred prior to Plaintiff’s request to stop the electronic transfer. Therefore the attempt to cancel the transfer was ineffective and Defendant cannot be held liable for failing to honor it.
+

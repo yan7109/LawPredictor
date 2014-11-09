@@ -1,0 +1,21 @@
+Citation
+129 S. Ct. 2070 173 L. Ed. 2d 1146 2009 U.S.
+
+Brief Fact Summary
+Respondent, John Abel, was charged with robbing a bank with two other men.  In order to discredit Respondent’s witness, the prosecution offered testimony that he and the witness were part of a prison gang that promoted perjury on the behalf of fellow gang members.
+
+Synopsis of Rule of Law
+Evidence that is probative to the bias of a witness can be admissible even if it is prejudicial.
+
+Facts
+Respondent was charged with robbing a bank with two other men.  One of the men, Ehle, testified at Respondent’s trial to implicate him in the robbery.  Respondent then called Mills to testify that while in prison, Ehle confided to him that he would falsely implicate Respondent in order to receive favorable treatment.  To rebut the credibility of Mills, Ehle was called back to the stand to testify that he, Mills and Respondent belonged to an Aryan gang that swore to perjure themselves to help a fellow gang member.  The trial court allowed the testimony, and Respondent was convicted.  The Ninth Circuit Court of Appeals reversed, citing the prejudicial nature of the testimony.
+
+Issue
+The issue is whether prejudicial testimony that implicates Respondent with a prison gang is admissible because it is probative to the bias of a witness.
+
+Held
+The prejudicial testimony is admissible because it is highly probative of the bias of Respondent’s witness.  The Federal Rules of Evidence do not directly address impeachment for bias, but the history of the Rules’ Advisory Committee mention bias as a concern that is encompassed by the Rules.
+
+Discussion
+Whether evidence is too prejudicial or not relevant enough varies case-by-case.  In this instance the testimony was considered very relevant and was able to override the prejudicial tone that implicated Respondent with a prison gang.  The Court will often refer to common-law prior to the adoption of the Federal Rules in order to justify the scope of their interpretations, as they did here to allow impeachment for bi
+

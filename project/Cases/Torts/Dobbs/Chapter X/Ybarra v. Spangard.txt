@@ -1,0 +1,21 @@
+Citation
+25 Cal.2d 486, 154 P.2d 687 (1944)
+
+Brief Fact Summary
+In a personal injury action, the Superior Court of Los Angeles County (California) entered judgments of nonsuit as to all Defendants in an action for damages for personal injuries. Plaintiff appealed.
+
+Synopsis of Rule of Law
+The doctrine of res ipsa loquitur applies with equal force in cases wherein medical and nursing staffs take the place of machinery and may, through carelessness or lack of skill, inflict, or permit the infliction of, injury upon a patient who is thereafter in no position to say how he received his injuries.
+
+Facts
+Plaintiff was diagnosed with appendicitis and was scheduled for surgery. After being given an injection, and in the course of preparation for surgery members of the surgical team adjusted Plaintiff, so that his back rested against two hard objects. After surgery, Plaintiff complained of neck and back pain. He testified that prior to the operation he had never had any such pain, nor had he suffered any injury that might have been the cause. His condition worsened, eventually resulting in paralysis. The evidence established that his condition was the result of trauma. He brought suit.
+
+Issue
+Would the application of the doctrine of res ipsa loquitur have been appropriate in this case, thus rendering the trial court’s judgment of nonsuit improper?
+
+Held
+Yes. The Supreme Court of California reversed the lower court’s ruling because the res ipsa loquitur doctrine applied to Defendants, because they had control over Plaintiff’s body and instrumentalities that might have caused the injuries which Plaintiff sustained.
+
+Discussion
+In explaining the applicability of res ipsa loquitur, the Supreme Court of California provided a very broad interpretation of res ipsa loquitur, stating: “[t]he doctrine of res ipsa loquitur has three conditions: (1) the accident must be of a kind which ordinarily does not occur in the absence of someone’s negligence; (2) it must be caused by an agency or instrumentality within the exclusive control of the defendant; (3) it must not have been due to any voluntary action or contribution on the part of the plaintiff. It is applied in a wide variety of situations, including cases of medical or dental treatment and hospital care.” The court’s application of the doctrine carries particular significance within the parameters of medical malpractice claims: “[w]here a plaintiff receives unusual injuries while unconscious and in the course of medical treatment, all those defendants who had any control over his body or the instrumentalities which might have caused the injuries may
+

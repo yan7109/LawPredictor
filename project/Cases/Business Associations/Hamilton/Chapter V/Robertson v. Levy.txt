@@ -1,0 +1,21 @@
+Citation
+D.C. Ct. App., 197 A.2d 443 (1964)
+
+Brief Fact Summary
+Robertson’s (P) business was bought by a corporation formed by Levy (D) at a time when the Articles of Incorporation were being dismissed by the Corporations Commissioner.
+
+Synopsis of Rule of Law
+Officers and directors are severally liable for acting as agents of a defectively formed corporation including prior to its formation.
+
+Facts
+Levy (D) attempted to form a corporation, but the Articles of Incorporation were rejected by the Corporation Commission. Levy (D) entered into a contract to purchase Robertsons’ (P) business in exchange for the corporation, prior to the acceptance of the corrected Articles of Incorporation. The corporation was validated, and Levy (D) signed as President. After one payment to Robertson (P), the corporation became insolvent. Robertson (P) sued Levy (D) on the incomplete payments claiming Levy personally liable for signing the contract before incorporation. The trial court found Robertson’s claim invalid for accepting payment on the note of the corporation when he knew the corporation had not been validly formed at the signing of the contract.
+
+Issue
+Does knowledge of the lack of corporate status plus acceptance of payments from same corporation estop a creditor from denying corporate form?
+
+Held
+(Hood, C.J.) No. knowledge of the lack of corporate status plus acceptance of payments from same corporation estop a creditor from denying corporate form. The related statute states that person attempting to act as a corporation without authority to do so are jointly and severally liable for the acts. The legislation’s intent is to destroy the common law concepts of de facto corporations and corporations by estoppels. Equity no longer provides relief for lack of or improper formation. A creditor is not stopped from seeking payment, even with knowledge of defective formation. Part payment or partial performance is immaterial. Levy (D) is liable on the contract. The decision is reversed with instructions.
+
+Discussion
+Legislative intent decides corporate form and protection. Failure to comply with legislative formalities results in incorporators becoming subject to personal liability. It is not a matter of protecting innocent creditors, Levy (D) is judged guilty of acting as an individual since the corporation was not in existence. IT is the same as an agent entering into a contract for a corporation yet-to-be-formed. Unless there is novation or another agreement the creditor agreed to, the promoter cannot escape liability. E. g. Stanley J. How & Assoc., Inc. v. Boss, 222. F. Supp. 936 (S.D. Iowa 1963).
+

@@ -1,0 +1,21 @@
+Citation
+132 Ohio App. 3d 657, 725 N.E.2d 1193 (Ct. App. 1999)
+
+Brief Fact Summary
+Appellants, Hunt Sports Enterprises et al., and Appellees, John McConnell et al., were part of an LLC that was bidding for a professional hockey franchise.  The principal of one of Appellees, John McConnell, personally made a bid for a franchise after the principal of one of the Appellants, Lamar Hunt, rejected numerous lease agreements and stalled the application for the franchise.
+
+Synopsis of Rule of Law
+Members of an LLC can agree to limit the scope of the fiduciary duty they owe to the LLC.
+
+Facts
+In 1996,the National Hockey League notified leaders of various cities that the league would be adding several franchises.  When the mayor of Columbus was contacted, he in turn contacted McConnell and Ronald Pizzuti.  Pizzuti contacted several other people, including Hunt, and a consortium of groups formed an LLC, Columbus Hockey Limited (CHL) for the purpose of obtaining a franchise for Columbus.  Each member of CHL contributed part of the $100,000 application fee for the franchise.  A referendum to finance a facility for the team failed to pass, and another party, Nationwide Insurance, worked with Hunt, who was very visible in the negotiations and had prior experience as a sports franchise owner, on obtaining a facility through private financing.  The commissioner of the NHL began giving Columbus deadlines to have a proposal, but Hunt started rejected several leasing proposals for the new facility.  When a deal seemed to be in jeopardy,  Nationwide contacted McConnell, and Mc
+
+Issue
+The issue is whether the operating agreement of the CHL LLC can define the scope of the fiduciary duties owed by the members to the LLC.
+
+Held
+The members of an LLC can define the scope of their fiduciary duty.  Therefore, Appellees did not violate their fiduciary duty owed to CHL when they made a bid for the NHL franchise, because each member of CHL agreed that members could compete against the LLC.
+
+Discussion
+The court relied on general contract law to justify LLC members to define their fiduciary duties.  If parties agree to be held to a certain set of conditions, courts try not to disturb the agreement unless there are statutory or strong public policy concerns.
+

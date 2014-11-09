@@ -1,0 +1,21 @@
+Citation
+83 N.J. 478, 416 A.2d 862, 1980 N.J.
+
+Brief Fact Summary
+This is an appeal from an order of the Appellate Division by the Plaintiff, Georgia O’keefe (Plaintiff), against the Defendant, Barry Snyder, d/b/a Princeton Gallery of Fine Art (Defendant) for replevin of three pictures painted by the Plaintiff.
+
+Synopsis of Rule of Law
+The statute of limitations for replevin will begin when the owner of the chattel should have through due diligence discovered facts that form the basis for a cause of action.
+
+Facts
+The Plaintiff filed a complaint alleging she was the owner of three small paintings that had been stolen from an art gallery. The Defendant asserted he was a purchaser for value of the painting, he had title by adverse possession and Plaintiff’s action was barred by a statute of limitations pertaining to an action in replevin. The trial court granted summary judgment for the Defendant on the grounds that complaint was not filed within the statute of limitations. The Appellate Division reversed and entered judgment for the Plaintiff, concluding (i) that the paintings were stolen; (ii) the defenses of expiration of the statute of limitations and title by adverse possession were identical and (iii) the Defendant had not proven the elements of adverse possession. On appeal, the Supreme Court of New Jersey determined there were to many factual issues to decide the case and remanded the case to the trial court to determine these factual issues. The Supreme Court ruled on some issues
+
+Issue
+If chattels are stolen can title be acquired and later transferred to others regardless of their good faith purchase?<br />	Did the statute of limitations for replevin bar this cause of action?<br />	Whether the Defendant acquired adverse possession of the chattels?
+
+Held
+No, a thief cannot acquire title to a stolen chattel and cannot transfer good title to others, regardless of their good faith and ignorance of the theft.<br />	Remanded. The discovery rule applies so the Plaintiff’s cause of action accrued when she first knew or should have know though the exercise of due diligence, of the cause of action. In determining whether the Plaintiff is entitled to the discovery rule the trial court should determine (1) whether the Plaintiff used due diligence to recover the paintings at the time of the alleged theft; (2) whether at the time of the alleged theft there was an effective method of for the Plaintiff to alert the art world of the theft and (3) whether registering the painting with an art organization would have put a reasonably prudent purchaser of art on constructive notice that someone other the possessor was the true owner.<br />	No, title to chattels cannot be acquired through adverse possession and the appropriate test is whether the owner of the chattels has acted with due diligence in pursuing his personal property.<br />
+
+Discussion
+This case is significant because the rule of discovery, rather than adverse possession, is the significant consideration in determining title to chattels. Statute of limitations for replevin will not accrue unless the injured party in question fails to exercise reasonable and due diligence in discovering facts which form the basis for the cause of action. If the owner of the chattel unreasonably fails to discover facts leading to a cause of action then the statute of limitations will commence. At the end of the statute of limitations, if no cause of action has been filed, then the possessor of the chattel can acquire title by adverse possession. The principal question no longer is based upon the fact that the possessor has title by adverse possession, as it is difficult to establish whether possession of personal property has been open, notorious, hostile, exclusive and continuous.
+

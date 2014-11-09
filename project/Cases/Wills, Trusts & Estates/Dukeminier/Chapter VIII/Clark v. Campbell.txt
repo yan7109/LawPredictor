@@ -1,0 +1,21 @@
+Citation
+82 N.H. 281,133 A. 166,1926 N.H.45 A.L.R. 1433
+
+Brief Fact Summary
+A settlor created a trust of personal property for the benefit of his friends.  The settlor directed the trustee to select those friends whom he or she should be aware of by reason of his familiarity with the trustee.
+
+Synopsis of Rule of Law
+A power differs from a trust in that it is not imperative and leaves the act to be done at the will of the donee of the power.  A private trust, unlike a public trust, must have an identifiable beneficiary or class of beneficiaries indicated in the will who are capable of coming into court and claiming the benefit of the bequest.
+
+Facts
+A settlor left certain property in trust to “my friends, as they, my trustees, shall select.”  He also wrote, “Each of my trustees is competent by reason of familiarity with the property, my wishes and friendships, to wisely distribute some portion at least of said property.  The court determines whether the trust must and does sufficiently identify the beneficiaries of the trust.
+
+Issue
+Whether a document purporting to create a trust to a settlor’s friends creates a private trust, a public trust, or a power? Whether a document creates a private trust if the only beneficiaries identified are the “settlor’s friends”?
+
+Held
+The document is a private trust and not a power because it imposes upon the trustee the imperative duty to dispose of items among the testator’s friends.  The duty is not optional nor may it be altered. The document does not create a private trust because it does not clearly identify the identity of the testator’s friends.  The settlor states that the trustee will know which persons are the settlor’s friends; however this is not a sufficient description of a class of persons.  The term “friends” is broad and can include persons related by kinship or marriage or strangers in blood.  The document fails as a private trust because the description of the beneficiaries gives the trustee wide discretion in choosing the beneficiaries.
+
+Discussion
+Even though the settlor described the class of beneficiaries as his friends and stated the trustee would know who they were, there were no guidelines to eliminate separate who might be beneficiaries from those that the settlor intended except what the trustee believed.  Therefore the trustee was given wide discretion and the beneficiaries were not identifiable.
+

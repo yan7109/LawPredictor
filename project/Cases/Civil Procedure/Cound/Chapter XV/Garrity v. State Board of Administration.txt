@@ -1,0 +1,21 @@
+Citation
+162 P. 1167 (Kan. 1917)
+
+Brief Fact Summary
+Plaintiff sued Defendant State Board of Administration, claiming that state the University Board of Regents entered onto Plaintiff’s property and took a fossil worth $2,500 without giving Plaintiff any compensation. Plaintiff further alleged that the Board of Administration was the successor to the Board of Regents and should be held responsible for the Board of Regents’ action in taking the property.
+
+Synopsis of Rule of Law
+For purposes of statute of limitations, a complaint that alleges both tort and contract can be construed as a contract claim so as not to be barred by the statute of limitations in tort. However, in order to impose successor liability, there must be language clearly identifying the defendant’s liability for its predecessor’s tort. Waiving a tort claim does not create a cause of action against the successor under a contract.
+
+Facts
+Plaintiff Garrity sued Defendant Kansas Board of Administration. Plaintiff alleged in his complaint that the Kansas State Board of Regents, by the curator of mammals, entered onto Plaintiff’s property and removed a fossil worth $2,500. Plaintiff alleged that he did not receive compensation for the fossil. Plaintiff further alleged that Defendant is the successor to the now extinct Board of Regents and is responsible for the Board of Regents and curators’ obligations in tort and contract. Defendant argued that the complaint was for conversion and the two year statute of limitations ran on Plaintiff’s claim.
+
+Issue
+Can Plaintiff waive his tort claim and consider the complaint an action on an implied promise by the University to pay Plaintiff the value of the fossil?  Can Defendant be held liable for the obligations of the now extinct Board of Regents?
+
+Held
+First issue: Yes. Second issue: No.  The allegations of the complaint allege both tort and an implied promise. Because the petition alleges sufficient facts for both causes of action, Plaintiff can waive the tort claim and pursue his claim on implied promise. Therefore, the two year statute of limitations as applied to torts does not bar Plaintiff’s cause of action.  Defendant was created by a Kansas statute and not made a corporate body. The powers of Defendant were to execute trusts and obligations “now or hereafter” committed by the educational institutions listed, including the State University. The creation of the Defendant by statute cannot make Defendant liable for a tort committed by the Board of Regents.   Waiver of the tort based cause of action cannot make Defendant liable on a theory of implied promise where there would be no liability of the Defendant for actions of its predecessor.
+
+Discussion
+The majority’s opinion illustrates that identifying the cause of action is not crucial to the complaint surviving a motion to dismiss provided all of the elements are pled and Plaintiff waives one of the causes of action. In order for a successor defendant to be liable, the instrument specifying liability must clearly hold the defendant liable for its predecessor’s actions. The plaintiff cannot “waive” a cause of action to create another when the defendant was not liable for the first cause of actio
+

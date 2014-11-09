@@ -1,0 +1,21 @@
+Citation
+439 U.S. 322, 99 S. Ct. 645, 58 L. Ed. 2d 552, 1979 U.S.
+
+Brief Fact Summary
+Shore (Respondent), brought a shareholder’s class action against the Parklane Hosiery Company (Petitioner), in the federal district court, alleging that Petitioner and its thirteen officers, directors and stockholders had issued a materially false and misleading proxy statement in connection with a merger.
+
+Synopsis of Rule of Law
+In cases when a plaintiff could easily have joined in an earlier action or when the application of offensive estoppel would be unfair to the defendant, a trial judge should not allow the use of offensive collateral estoppel.
+
+Facts
+Before this action was filed, the Securities Exchange Commission (SEC) filed suit against the same Defendant in the federal district court, alleging that the proxy statement that had been filed was materially false and misleading in essentially the same fashion as was alleged by Respondent in the present case. After trial, the district court found that the proxy was materially false and misleading. The United States Court of Appeals for the Second Circuit affirmed. As a result, the Respondent in this matter moved for partial summary judgment, alleging that the Petitioner should be collaterally estopped from relitigating the issues that had been resolved against it in the first action. The district court denied the motion but the court of appeals reversed, finding that the Petitioner was collaterally estopped from obtaining a jury trial on the same issues of fact.
+
+Issue
+Whether a party, who has had issues of fact adjudicated adversely to it in an equitable action, may be collaterally estopped from relitigating the same issues before a jury in a subsequent legal action brought against it by a new party?
+
+Held
+In the present case, none of the circumstances that might justify reluctance to allow the offensive use of collateral estoppel is present. As a result, the judgment of the court of appeals is affirmed.  <br/><br/><span class='heading'>Dissent.</span> Justice Rehnquist stated that the Petitioners were denied their rights under the Seventh Amendment to a jury trial. Justice Rehnquist argues that, even assuming there is no Seventh Amendment problem, there is a general problem with allowing the use of offensive collateral estoppel in this case. As rationale, Justice Rehnquist argues that the use of offensive estoppel runs counter to the strong federal policy favoring jury trials. Furthermore, Justice Rehnquist believes that the use of a jury in the second action could result in a different verdict than was reached in the first action.
+
+Discussion
+In the present case, the application of offensive collateral estoppel will not reward a private plaintiff who could have joined in the previous action. Presumably, the respondent could not have joined in an action brought by the SEC on behalf of the government. Further, there is no unfairness in allowing use of offensive estoppel in this case. In the SEC action, the petitioner had every incentive and opportunity to litigate fully and vigorously as a result of the serious nature of the charges.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.174 Kan. 357, 255 P.2d 658 (1953)
+
+Brief Fact Summary
+Plaintiff recovered from its insurance company based on a claim for damage due to Defendant’s negligence. Plaintiff then sued Defendant for negligence and for recovery for Defendant’s damage on behalf of the insurer. Defendant moved to dismiss on the grounds that because Plaintiff had already been paid, it was not the real party in interest and could not sue Defendant.
+
+Synopsis of Rule of Law
+Only a party that is directly interested in the subject matter of the litigation may bring suit against another party.
+
+Facts
+Plaintiff Ellis Canning Company was insured by its insurance company under a policy containing a subrogation clause. Plaintiff alleged that Defendant International Harvester Company negligently started a fire and damaged Plaintiff’s tractor that was insured under the policy. Plaintiff recovered for the loss under the policy from its own insurance company. Plaintiff then sued Defendant on behalf of the insurer alleging negligence. Defendant denied the allegations and moved to dismiss on the grounds that Plaintiff was not a real party in interest. The trial court dismissed the case.
+
+Issue
+Can Plaintiff maintain an action against Defendant for the benefit of its insurer even though Plaintiff has already been reimbursed for the loss?
+
+Held
+No. Judgment affirmed.  Under Kansas law, an action can only be maintained by a “real party in interest,” i.e. a party directly interested in the subject matter of the litigation.  Because Plaintiff has already been compensated for its loss, it is not directly interested in the litigation and is therefore not a real party in interest.  The insurer’s remedy is to maintain the action itself to recover for the amount paid to Plaintiff.
+
+Discussion
+The court focuses on whether Plaintiff is pursuing a claim on its behalf or for a third party, not on the allegations against Defendant, to determine whether Plaintiff is a real party in interest.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.452 F.2d 182 (7th Cir. 1971)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court based on diversity for personal injuries and requesting damages not to exceed $100,000. On the day of trial, Plaintiff moved to amend the ad damnum clause to request $250,000 in damages, which was denied. The jury returned a verdict in the amount of $150,000 offset by a previous payment to yield $135,000 and the court allowed the ad damnum to be amended post-verdict to request $150,000.
+
+Synopsis of Rule of Law
+An amendment to the ad damnum clause should be allowed unless it changes the required “quantum” of proving a material fact or there is a good reason shown why it should not be amended.
+
+Facts
+Bail, Plaintiff, sued Cunningham Brothers, Inc., Defendant for damages not to exceed $100,000. On the day of trial, Plaintiff moved to amend the ad damnum clause to request $250,000, which the trial court denied. The jury returned a verdict for $150,000, which was offset by a payment received from a previous defendant, to yield $135,000. Plaintiff moved to amend the ad damnum clause to request $150,000, which the trial court permitted. Defendant appealed, arguing the verdict should be remitted to $85,000.
+
+Issue
+Did the trial court commit error in allowing the ad damnum clause to be amended post-verdict if the amendment did not change the burden of proof nor the facts presented and Defendant has not shown any other prejudice?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+The Court’s opinion demonstrates the necessity for Plaintiff’s attorneys, in pleading their client’s case, to be careful to request an amount of compensation which is commensurate with the proof of facts in the case. The theme of the court’s opinion is to freely amend pleadings to conform to a jury’s verdict unless one party would be significantly prejudiced.
+

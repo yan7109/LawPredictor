@@ -1,0 +1,24 @@
+Citation
+481 U.S. 69 (1987)
+
+Brief Fact Summary
+Indiana enacted a law that permitted independent shareholders confronted with a tender offer to vote as a group to reject the offer and stipulated that the voting rights of shares were not discussed until fifty days after beginning of the offer.
+
+Synopsis of Rule of Law
+The Williams Act fails to forestall state antitakeover legislation that positions investors equal with the takeover bidder.
+
+Facts
+Indiana passed a control share acquisition statute that revoked voting rights of shares toprocuring bidders lest the independent shareholders of the target company held a meeting within fifty days of the tender offer where they voted together to concede those rights.Individuals who were uninvolved with the target company or the bidder constituted independent shareholders.  The Indiana Act applied to target companies that were locally incorporated, their principal place of business local as well as had several shareholders local. The Indiana Act was intended to prohibit intimidating tender offers, where once the bidder is fruitful, the other option available to tendering the shares is a compulsory sale at a lesser price. The Williams Act, the federal legislative scheme for corporate takeovers, forestalled the Indiana Act, bidders stated. The court of appeals ruled that in fact the Indiana Act was forestalled by the Williams Act.
+
+Issue
+Is state antitakeover legislation, which positions investors and the takeover bidder equally, deterred by the Williams Act?
+
+Held
+(Powell, J.) No.The Williams Act does not forestall state antitakeover legislation that positions investors and the takeover bidder equally. The Williams Act generated a cautious balance between the interests of offerors and target companies as decided by a majority of the Court in Edgar v. MITE Corp., 457 U.S. 624 (1982). So, state legislation that disturbed this balance was forestalled. It is also of note that the Williams Act indicated that precise time frames for tender offers are not to be changed. In MITE, an Illinois antitakeover statute allowed for the possibility of an indeterminatesuspension while the offer was underexecutive review.A stipulation of this kind is forestalled by the Williams Act. The Indiana Act, on the other hand, promotes the fundamental idea of the Williams Act by positioning investors and the takeover bidders equally. The Indiana Act does not give either party an advantage. The Indiana Act fails to enforce an unconditional fifty day suspension on tender offers. An offeror, fearingan undesirable shareholder vote, can accept shares on the provision that the shares get voting rights within a definite time frame, referred to as a conditional tender offer. Also, the Williams Act only deters unreasonable suspensions, like the indefinite suspension in the Illinois law, not any state enforced suspensions. The suspension in the entrusting of voting rights for fifty days is not unreasonable due to it falling within the sixty day longest period allowed by the Williams Act for a tender offer. Therefore, the Indiana Act is not forestalled. Reversed.
+
+Dissent
+(White, J.) Indiana’s Control Share Acquisitions Chapter is deterred by the William’s Act and fails to clash with the Commerce Clause. The policy of the Williams Act is weakened by the Chapter due to it prohibiting the minority shareholders from making decisions that would benefit them the most. The issue with the majority’s method is that it links security of individual investors with the security of shareholders as a group. While the Chapter may safeguard a group of shareholders in a corporation, it also prohibits individual investors from selling stocks at a premium; as a result, this statuefails to promote the federal policy of investor security. The statute is transactional and it is this influence of the Chapter that causes it to be forestalled by the Williams Act. The Chapter also unequivocallycontrols the buying and selling of shares of stock in interstate business, such as those transacted on domestic exchanges. The transferability of voting rights in tender offer transactions are limited by the Chapter, and so is a restriction on the transfer of shares by stockholders, therefore doing more than just defining “the attributes of shares in its corporations.”
+
+Discussion
+Once this case was decided, states began to implement various procedures in order to deter hostile takeovers. A law was passed in New York preventing New York businesses from participating in specificcommercial combination transactions for five years once an individual has procured over 20% of the outstanding stock, although an exception was made if the board consented. Postponement of the bidder’s ownership of the assets of the target company was the functional consequence of this law, which would vex the bidder’s capacity to rapidly sell off the assets in a “bust-up” deal.
+

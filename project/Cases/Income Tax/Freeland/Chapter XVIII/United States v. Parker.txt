@@ -1,0 +1,21 @@
+Citation
+376 F.2d 402, 1967 U.S. App. 67-1 U.S. Tax Cas. (CCH) P9380; 19 A.F.T.R.2d (RIA) 1281
+
+Brief Fact Summary
+Respondents formed their business into a corporation with B.K. Eaves, a longtime friend.  Respondents owned 80% of the stock and Eaves owned 20%.  Respondent sold various items to the corporation.
+
+Synopsis of Rule of Law
+A sale or exchange of depreciable property to a controlled corporation or a spouse may not be given capital gain treatment.
+
+Facts
+Respondents, Curtis Parker and his as wife, owned a wholesale and retail oil and gasoline business.  Respondents and a longtime friend, B.K. Eaves, formed a Louisiana corporation incorporating his business.  Respondent owned 80% of the stock.  Respondents sold motor vehicles, furniture and fixtures, and other equipment to the corporation.  The corporation was to pay for it in ten annual installments with 5% interest.  Respondents treated the sale as long term capital gain.  The IRS treated it ordinary income.  The District Court held for the Respondents.
+
+Issue
+May the sale to the corporation controlled by Respondents be given capital gains treatment?
+
+Held
+Circuit Judge Goldberg issued the opinion for the United States Fifth Circuit Court of Appeals in reversing the District Court and holding that the sale may not be given capital gains treatment.
+
+Discussion
+The Court of Appeals found that Respondents owned more than 80% in value of the corporation’s outstanding stock.  Further, the Court found that the stock owned by Eaves was less valuable than that owned by Respondents because it was encumbered by restrictions on the transfer of the stock and by the lack of control of the corporation by Eaves.  Thus, Respondents had more than 80% value which for purposes of the rule is enough to consider that they controlled the corporation.
+

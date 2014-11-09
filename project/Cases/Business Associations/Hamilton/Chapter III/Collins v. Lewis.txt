@@ -1,0 +1,21 @@
+Citation
+Tex. Ct. Civ. App., 283 S.W. 2d 258, (1955)
+
+Brief Fact Summary
+Lewis (D) persuaded Collins (P) to enter into a partnership operating a cafeteria, but the venture failed to make money allegedly due to Collin’s (P) lack of cooperation.
+
+Synopsis of Rule of Law
+If a partner has not fully performed the obligations imposed on him by the partnership agreement, then that partner may not obtain an order to dissolve the partnership.
+
+Facts
+Collins (P) and Lewis (D) established a partnership after entering into a long-term lease for space in a building under construction. Collins (P) agreed to contribute money towards a cafeteria while Lewis (D) agreed to manage it. Collins (P) was to be repaid out of the profits. The project required a larger investment than the parties anticipated, and Collins (P) eventually threatened to back out unless it started generating a profit. Collins (P) ended up suing Lewis (D), seeking dissolution of the partnership, the appointment of a receiver, and also a foreclosure of the mortgage upon Lewis’s (D) interest of the assets. Lewis (D) filed a cross-claim alleging that Collins (P) breached contractual obligation to provide funding. The trial court denied Collins’ (P) petition for a receiver. A jury denied the other relief Collins’ (P) sought, attributing the enterprises lack of success to Collins’ (P) conduct. Collins (P) appealed the verdict.
+
+Issue
+Do partners always hold the right to dissolve a partnership?
+
+Held
+(Hamblen, C.J.) No. A partner my not obtain a dissolution of the partnership if he or she has not fully performed obligations imposed upon him by the partnership agreement. The jury specifically found that Collins (P) was his own obstacle to allowing the venture to succeed. Because Collins (P) withheld funds to cover expenses, Lewis (D) was forced to invest any profits into covering the expenses. Collins (P) breach of contractual obligations precludes him from obtaining dissolution or foreclosure. Should Collins (P) strongly desire to be released from the partnership, his only option it to take unilateral action to end the partnership and make himself liable to a suit for recovery of damages Lewis (D) may have sustained. Affirmed.
+
+Discussion
+Partnerships can be created for a specific period of time, or for an indefinite but determinable period of time, such as in the case of partnerships that continue after the death of one partner. Partnerships may be dissolved by judicial decree if it has good cause. This method is fairly rare however. Usually, partners who are locked in irreconcilable differences manage to find a way for one or all of them to exit the partnership. Settlement this way is much cheaper than forcing a court-ordered dissolution for all parties involved as the procedure usually disposes of partnership property at considerable loss.
+

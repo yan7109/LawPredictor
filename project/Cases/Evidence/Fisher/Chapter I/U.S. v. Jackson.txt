@@ -1,0 +1,21 @@
+Citation
+405 F. Supp. 938, 1975 U.S. Dist. 1 Fed. R. Evid. Serv. (Callaghan) 56
+
+Brief Fact Summary
+Andrew Jackson (Defendant) was accused of robbing a bank and made several pretrial motions.  At issue here are Defendant’s motions to exclude evidence of another recent conviction for assault and to exclude evidence of his use of false name after being arrested.
+
+Synopsis of Rule of Law
+Defendant’s recent state felony conviction for assault could not be used to impeach Defendant under Federal Rule of Evidence 609(a) because Defendant’s conduct in the commission of that assault did not tend to show whether Defendant would tell the truth if he took the stand in the present trial; however, the evidence was not allowed was conditioned on Defendant not portraying to the jury that he had a “pristine background.”  Also, evidence that Defendant’s used a false name, and that Defendant was in another state after the crime, was inadmissible under Federal Rule of Evidence 403, because its probative value was outweighed by possible prejudice.
+
+Facts
+Defendant was charged with bank robbery and, prior to the start of his trial, filed motions to exclude evidence the prosecution planned to offer.  First, Defendant objected to the admission of evidence that Defendant had been previously convicted of an assault.  Next, Defendant asserted that evidence of his having used a false name when arrested in Georgia should be excluded because the probative value of that evidence was outweighed by the risk of unfair prejudice.
+
+Issues
+If Defendant takes the stand in his own defense at his trial for the bank robbery, should Defendant’s state felony conviction for assault be admissible to impeach Defendant? Is evidence that Defendant was located in Georgia and used a false name when arrested inadmissible because the danger of unfair prejudice outweighs the probative value of the evidence?
+
+Held
+Both motions of Defendant are granted.
+
+Discussion
+The court examines the motion made by Defendant to exclude the evidence of his prior assault conviction in light of the legislative history of Federal Rule of Evidence 609(a), and states that the Rule, “necessarily embodies both the policy of encouraging defendants to testify by protecting them against unfair prejudice and the policy of protecting the government’s case against unfair misrepresentation of an accused’s non-criminality.”  The court reasons that because, “[t]he government’s case . . . will not necessarily hinge on its ability to destroy the defendant’s credibility,” the evidence should be excluded, subject to two conditions.  First, if Defendant takes the stand and implies that he has a “pristine” criminal past, his credibility will be a controlling issue, and the evidence will be allowed, to, “nullify an erroneous hypothesis [that Defendant has a clean record] and thereby attain a probative significance on the issue of credibility sufficient to outweigh any prejudice to<br />the defendant.”  Second, if the government’s witnesses were to be impeached with evidence of assault convictions, then the evidence of Defendant’s own conviction would be allowed<br />The motion to exclude the evidence of Defendant’s presence in Georgia and use of a false name there is examined under the rationale for Rule, and decided based on the balancing test found within that Rule.
+

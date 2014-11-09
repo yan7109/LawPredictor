@@ -1,0 +1,21 @@
+Citation
+22 Ill.398 U.S. 144, 90 S. Ct. 1598, 26 L. Ed. 2d 142 (1970)
+
+Brief Fact Summary
+In a civil rights action in which a conspiracy between the police and S.H. Kress & Company (Defendant) was alleged, summary judgment was granted when Adickes (Plaintiff) could not produce any evidence to support a conspiracy.
+
+Synopsis of Rule of Law
+In an action based on conspiracy, summary judgment may not be granted unless the nonmoving party can show that there is no genuine issue of fact.
+
+Facts
+Plaintiff sued the Defendant in federal court alleging that there was a conspiracy between the Defendant and the police to arrest the Plaintiff when she entered Defendant’s store because she was in the company of African Americans. Defendant moved for summary judgment on the grounds that Plaintiff could not produce any evidence in support of a conspiracy. The district court granted summary judgment ruling that Plaintiff failed to produce any facts to allege that a conspiracy might be inferred. The Court of Appeals affirmed. On appeal, the Supreme Court held that Plaintiff had to prove state action by showing that Defendant’s employee and a policeman reached an understanding to cause her arrest because she was a white person in the company of African Americans.
+
+Issue
+Whether a moving party has the burden of showing the absence of any genuine issue of fact in a motion for summary judgment?
+
+Held
+Yes.   Summary judgment was improper here because the moving party, the Defendant failed to carry its burden of showing the absence of any genuine issue of fact. Here, the Defendant failed to negate the possibility that there was a policeman in Defendant’s restaurant while Plaintiff was awaiting service. Further, the Defendant failed to submit affidavits of the waitress in the restaurant. These gaps in the evidence demonstrate that Defendant failed to fulfill its initial burden of demonstrating that there were no police officers in the store at the time of the incident.  Rule 56 of the Federal Rules of Civil Procedure was not intended to modify the burden of the moving party to initially show the absence of a genuine issue of material fact. Furthermore, the rule requires that Defendant do more than simply rely on contrary allegations in its complaint. Thus, in order to concede this fact, Plaintiff would have to file an affidavit explaining why it was impractical to file an affidavit stating that someone saw a policeman in the store.   Concurrence. The existence of a conspiracy is a factual issue for the jury, not the judge to decide.
+
+Discussion
+Please note that this decision was subsequently overruled by Celotex v. Catrett, 477 U.S. 317 (1986). That decision held that the moving party has the initial responsibility of informing the court of the basis for its motion, and that party must recognize those portions of the record that demonstrate the absence of a genuine issue of fact.
+

@@ -1,0 +1,21 @@
+Citation
+254 N.W.2d 382 (Minn. 1977)
+
+Brief Fact Summary
+The Village of Hancock, Minnesota appealed after dismissal of its third-party complaint against Floyd Ascheman for contribution in connection with an action brought by Ascheman’s wife for damages in which she alleged that the Village served liquor to her husband while he was intoxicated.
+
+Synopsis of Rule of Law
+Common liability is a necessary prerequisite to contribution among joint tortfeasors.
+
+Facts
+Floyd Ascheman was injured after being served liquor at a bar, which was owned by the village, when he was already intoxicated. He then sustained injuries in a one-car accident. The wife and daughter brought an action against the Village under state statute the Civil Damage Act, seeking to recover damages for loss of means of support. The Village then brought a third-party action seeking contribution from Mr. Ascheman on the grounds that he was jointly responsible for damages incurred by his wife and daughter. Floyd Ascheman made a pre-trial motion for summary judgment, which the trial court sustained. The Village appealed.
+
+Issue
+Should the requirement of common liability between joint tortfeasors as a prerequisite to maintaining an action for contribution be relaxed to allow contribution between a liquor vendor and vendee, even though the vendee’s family could not bring a direct action in negligence against him for the loss of their means of support?
+
+Held
+No. Summary judgment affirmed. The court affirmed dismissal of the village’s third party claim on the reasoning that to allow contribution from the husband would diminish his ability to support his wife and family and thereby frustrate the remedial purpose of the statute.
+
+Discussion
+The Court focuses on the determination of whether common liability existed at the time a tort is committed. The Court concluded that common liability did not exist as his wife and daughter could not bring a negligence action against Floyd Ascheman as it would place them in the untenable position of suing the source of their support for the very means of that support. Quoting Minnesota statutes, the court noted, “A husband is legally responsible for the support of his wife while they are married. In the context of divorce proceedings, a father has the primary responsibility for the support of his minor children.” In short, “[A] parent . . .remains immune from suit by his child when the alleged negligent act involves an exercise of ordinary parental discretion.”
+

@@ -1,0 +1,21 @@
+Citation
+200 Ariz. 146,24 P.3d 593,2001 Ariz.349 Ariz. Adv. Rep. 11
+
+Brief Fact Summary
+Defendant, an attorney retained to represent one of Plaintiff’s policyholders in a medical malpractice action, failed to advise Plaintiff that it was not the doctor’s primary insurer. Although Defendant was later replaced as counsel for unrelated reasons, Plaintiff now alleges that this negligence was in breach of Defendant’s duty of care to them.
+
+Synopsis of Rule of Law
+Attorneys have a duty of care-and may be liable to-both an insurer and the insured party that the insurer has retained them to represent.
+
+Facts
+Plaintiff, Paradigm Insurance Company, retained Defendant law firm to represent one of their policyholders, a doctor being sued for malpractice. Defendant’s representation was later terminated when Plaintiff learned that he was in allegedly in violation of an oral agreement between the parties not to represent any claimants bringing suit against Plaintiff’s policyholders. Replacement counsel soon learned that Defendant had failed to learn that another insurer (SIF) actually should have been acted as the primary coverage for the claim, but not in time to properly tender the claim with SIF. Plaintiff now alleges that this negligence on Defendant’s part was in breach of his duty of care to them.
+
+Issue
+May an attorney be liable to an insurer who has retained him to represent an insured when his negligence damages only the insurer?
+
+Held
+Yes. An attorney may be liable to both an insurer and the insured when, as here, “their interests coincide.” There was not enough evidence on the record here to determine if Defendant actually breached his duty, however, and the case is remanded to the lower court for this determination.
+
+Discussion
+This decision is a logical extension of Fickett.
+

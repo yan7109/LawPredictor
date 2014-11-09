@@ -1,0 +1,24 @@
+Citation
+22 Ill.931 F.2d 1112 (6th Cir. 1991)
+
+Brief Fact Summary
+This case involves the breach of a franchise agreement due to the downturn of the farm market.
+
+Synopsis of Rule of Law
+Mere economic loss is not sufficient to excuse performance on grounds of impracticability or frustration of purpose.
+
+Facts
+The Plaintiff, Karl Wendt Farm Equipment Co. (Plaintiff), entered into a franchise agreement with the Defendant, International Harvester (Defendant), establishing Plaintiff as a dealer of Defendant’s farm equipment. The agreement specified the terms under which the contract could be terminated. Thereafter, the farm equipment market suffered a recession and the Defendant suffered substantial losses. The Defendant decided to sell its farm equipment division to J.I. Case Co. (Case) and Tenneco Co. (Tenneco). Case and Tenneco did not acquire Defendant’s franchise network, but it did receive access to the dealers, most of whom received a franchise from Case. Plaintiff did not receive a franchise from Case and therefore sued Defendant, claiming breach of contract for loss of his franchise. Defendant argued impracticability and frustration of purpose. A directed verdict was found for Plaintiff.
+
+Issue
+Does a change in economic circumstances, such as loss of profit or a downturn in the market, excuse performance on the grounds of impracticability or frustration of purpose?
+
+Held
+No. Judgment reversed and remanded to determine the question of damages.
+
+Dissent
+The collapse of the farm market may have been such a severe and unforeseen disaster that performance should have been excused and the jury’s verdict should have been affirmed.
+
+Discussion
+The court examined Michigan case law and the Restatement to define the doctrines of impracticability and frustration of purpose. “Impracticability means more than impracticality. A mere change in the degree of difficulty or expense due to such causes as increased wages, prices of raw materials or costs of construction, unless well beyond the normal range, does not amount to impracticability.” Regarding frustration of purpose, “it is not enough that the transaction has become less profitable” and the “frustration must be so severe that it is not fairly regarded as within the risks assumed under the contract.” The court then applied these doctrines to the instant case and found that they should not be used to excuse Defendant’s performance of his contractual obligations. The court also reasoned that Defendant had alternatives, such as terminating its Dealer Agreements under the termination provisions of the contract, which could have precluded his unilaterally terminating t
+

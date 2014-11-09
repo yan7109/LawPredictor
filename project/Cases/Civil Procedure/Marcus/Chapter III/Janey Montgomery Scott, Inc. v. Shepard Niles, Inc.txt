@@ -1,0 +1,21 @@
+Citation
+11 F.3d 399, 1993 U.S. App. 27 Fed. R. Serv. 3d (Callaghan) 652
+
+Brief Fact Summary
+Janey Montgomery Scott, Inc. (Appellant), appeals from an order granting Shepard Niles, Inc. (Appellee’s), Motion for Judgment on Pleadings for failure to join an indispensable party in Appellant’s breach of contract action.
+
+Synopsis of Rule of Law
+If complete relief can be granted to the individual party in the lawsuit without prejudicing an absent co-obligor in a contract suit, the absent party is not a necessary party.
+
+Facts
+Plaintiff, a Pennsylvania investment banking corporation, brought a breach of contract action against Defendant. The Underwood Group (Underwood) is a Pennsylvania corporation and Defendant is a New York corporation. Plaintiff and Underwood executed an Investment Banking Agreement in which Plaintiff agreed to be an advisor to Underwood and its subsidiaries, including Defendant corporation, and to assist them in obtaining private placement financing to refinance Defendant’s debt. When Plaintiff’s actions did not show results, Underwood entered into negotiations with Unibank to provide private placement funding. Plaintiff contends that under the Investment Banking Agreement, the advice Plaintiff gave to Underwood entitles Plaintiff to a contingency fee from Underwood. Plaintiff now tries to recover this fee. First, Plaintiff filed a suit against Unibank for tortious interference with contract, but when Plaintiff tried to amend the complaint to add Defendant, the court denied the motion. Thus, Plaintiff filed a suit in district court against Defendant for breach of contract. Defendant then filed a Motion to Dismiss, which was denied. However, Appellee’s subsequent Motion for Judgment on the Pleadings was granted for failure to join an indispensable party. The indispensable party was Appellee’s parent corporation, the Underwood Group. The district court had to make a determination that Underwood was a necessary party before it could hold that Underwood was an indispensable party whose nonjoinder required dismissal because joinder would deprive the court of diversity jurisdiction.
+
+Issue
+Whether complete relief to the parties could be granted without prejudice to them in a breach of contract action against only one of the parties that may be liable to Plaintiff?
+
+Held
+Yes. Judgment of the district court is reversed.   Rule 19(a) of the Federal Rules of Civil Procedure defines parties that are necessary as those whose joinder is compulsory if feasible. A party must be joined if in the person’s absence complete relief cannot be granted or the person claims an interest in the action. A party must also be joined if an absent party’s claims relate to the subject of the action and it is situated that the disposition of the action in the person’s absence may impair the person’s ability to protect the interest or leave any of the parties subject to    substantial risk of incurring double or inconsistent obligations. A determination under Rule 19(a) is necessary to the determination under Rule 19(b) that the case must be dismissed because joinder of the party is not possible and the party is indispensable to the resolution of the case.  In the instant case, complete relief can be afforded to the Plaintiff and Defendant in the absence of Underwood. The district court erred in its holding that the possibility of a decision in the present action would be “persuasive precedent” in subsequent actions against Underwood, and would impair or impede Underwood’s interests. Thus, Underwood is not an absent party whose joinder is compulsory. Furthermore, the continuation of the case in the absence of Underwood does not subject Defendant to double or inconstant liabilities. The possibility that the continuation of this case would have some effect on a subsequent litigation between Plaintiff and Underwood is speculative. Since Underwood is not a necessary party to the litigation, it is therefore unnecessary to determine whether Underwood is an indispensable party.
+
+Discussion
+Initially, the district court retained subject matter jurisdiction by diversity, because Plaintiff is a citizen of Pennsylvania and the Defendant is a citizen of New York. However, Underwood is a Pennsylvania corporation, which would destroy diversity.
+

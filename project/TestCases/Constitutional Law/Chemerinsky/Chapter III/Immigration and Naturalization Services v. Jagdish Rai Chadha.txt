@@ -1,0 +1,24 @@
+Citation
+462 U.S. 919, 103 S. Ct. 2764, 77 L. Ed. 2d 317, 1983 U.S.
+
+Brief Fact Summary
+The Plaintiffs, Chadha and others (Plaintiffs), challenged a federal statute, which purported to authorize one House of Congress, by resolution, to invalidate the decision of the Attorney General of the United States (Attorney General) to allow a specific deportable illegal immigrant to remain in the United States.
+
+Synopsis of Rule of Law
+Legislative action is not legitimate unless there is bicameral approval and presentment to the President of the United States.
+
+Facts
+Chadha was an alien who was lawfully admitted into the United States on a non-immigrant student visa. Chadha overstayed his visa and the Defendant, the Immigration and Naturalization Service (Defendant), began deportation proceedings. The Immigration judge found that Chadha met the requirements set out in the Immigration and Nationality Act (the Act) for suspension of deportation. Under the Act, the Attorney General reported the suspension of deportation to Congress. However, the House of Representatives passed a resolution that Chadha did not meet the statutory requirements for suspension of deportation. Neither the Senate nor the President reviewed the decision. Chadha filed a petition with the Defendant and the Defendant agreed that the statute was unconstitutional. The court of appeals held that the separation of powers doctrine was violated by the
+
+Issue
+Is the one-house “legislative veto” unconstitutional, even when authorized by a properly enacted statute?
+
+Held
+Yes, the legislative veto is unconstitutional. Congress delegated the Attorney general the power to determine, whether a particular deportable alien could remain in the United States. The United States Constitution (Constitution) does not permit Congress to then delegate the same authority to one House of Congress. Since the action of deciding whether to deport a given alien is legislative, it is subject to both the bicameralism and presentment requirements of Article 1 of the Constitution. Bicameralism and presentment were built into the Constitution to act as a check on each branch and to protect the people from the improvident exercise of power by mandating certain prescribed steps.
+
+Dissent
+Justice Byron White (J. White) found that the legislative veto in the Act is one of approximately 200 statutes, in which Congress has reserved a “legislative veto” to ensure accountability of the executive and independent agencies. J. White also argues that the concept of a “legislative veto,” is not the type of action that bicameralism and presentment applies. Only bills and their equivalent are subject to bicameralism and presentment. Here, Congress’s initial delegation to the Attorney General of the deportation decision was done with bicameralism and presentment. Thus, since Congress did not write a new law when allowing one House of Congress to override the Attorney General’s decision, then bicameralism and presentment were not necessary. Concurrence. Justice Lewis Powell (J. Powell) thought the case should have been decided on a narrower separation of powers ground. The House impermissibly assumed a judicial function when reviewing the INS’s decision over Chadha’s depor
+
+Discussion
+Nearly every legislative act, in order to have force and effect must be considered and passed by both houses of Congress and then presented to the President for his signature. The framers of the Constitution found bicameralism and presentment to be essential.
+

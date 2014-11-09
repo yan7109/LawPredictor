@@ -1,0 +1,21 @@
+Citation
+Lofft 194
+
+Brief Fact Summary
+The Plaintiff sued the Defendant after the Defendant refused to sell his business without the Plaintiff providing security.
+
+Synopsis of Rule of Law
+There are three types of covenants: (1) mutual and independent – each party can sue the other for breach, but one party cannot cite a breach of the other party’s covenant as an excuse for his own breach; (2) conditions and dependent – the performance of one depends on the performance of another and the duty to perform does not arise until the prior condition is performed; (3) mutual conditions – the conditions must be performed at the same time and the failure of one party to perform is a ground for alleging breach.
+
+Facts
+The Defendant was a silk mercer and the Plaintiff was his apprentice. Their agreement provided that after a year and a quarter, the Defendant would retire from the business. The Plaintiff and a partner were to carry on the business. The Plaintiff would buy out the Defendant’s share of the business in monthly installments and to assure these payments, the Plaintiff agreed to provide security to the Defendant at and before the sealing and delivery of the deeds conveying the business. The Plaintiff subsequently sued, averring that the Defendant had not surrendered the business at the appointed time, and the Defendant claimed that the Plaintiff had not provided sufficient security.
+
+Issue
+Did the Defendant breach the agreement?
+
+Held
+No. There are three types of covenants: (1) mutual and independent – each party can sue the other for breach, but one party cannot cite a breach of the other party’s covenant as an excuse for his own breach; (2) conditions and dependent – the performance of one depends on the performance of another and the duty to perform does not arise until the prior condition is performed; (3) mutual conditions – the conditions must be performed at the same time and the failure of one party to perform is a ground for alleging breach. The dependence and independence of these covenants must be determined from the “evident sense and meaning” of the parties. The important factor to consider is when in the order of time the covenants should be performed. Here, the agreement essentially dictates that the Defendant would not entrust his business to the Plaintiff without sufficient security. Therefore, the giving of security is a condition precedent. Thus, the Defendant did not breach the agreement
+
+Discussion
+The timing of the performance of covenants is extremely important, as it dictates if and when a breach has occurred.
+

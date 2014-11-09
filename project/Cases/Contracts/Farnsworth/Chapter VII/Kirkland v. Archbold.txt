@@ -1,0 +1,21 @@
+Citation
+113 N.E.2d 496; 1953 Ohio App. 950, 68 Ohio L. Abs. 481
+
+Brief Fact Summary
+Kirkland (Plaintiff) contracted to make repairs on Archbold’s (Defendant’s) home. After two months, Defendant stopped Plaintiff from doing further work, and Plaintiff sued for the difference between his expenses and the amount already paid by Plaintiff. The trial court found that Plaintiff defaulted on the contract and denied recovery, and the Court of Appeals of Ohio reversed.
+
+Synopsis of Rule of Law
+A plaintiff who has defaulted on a building contract may recover in quantum meruit for the value of work done, less the damages the default has caused to the other party.
+
+Facts
+Plaintiff, a building contractor, contracted to make repairs on Defendant’s house. The contract provided that payment would be made in installments based on the Plaintiff’s progress. The contract also provided that exterior walls would be done with specific materials. Defendant made a partial payment on one installment. Plaintiff used different materials on the exterior wall, and after two months, Defendant prevented him from performing further work. Plaintiff sued for the difference between his expenses and the partial payment. Although the trial court considered the partial payment an admission by Plaintiff that the first installment was earned, it denied further recovery due to Plaintiff’s default and the fact that he had not substantially performed. The Court of Appeals of Ohio reversed.
+
+Issue
+Can a party in default nevertheless recover for part performance of the contract, even if he has not substantially performed?
+
+Held
+Yes. Even if a defaulting party has not substantially performed the contract, he may still incur hardship. Therefore, if the defaulting party has done work that has benefited the other party, he is entitled to recover the cost of labor and materials in quantum meruit, less damages caused by the default, unless: (1) no benefit has been conferred to the other party by the work; (2) the work done is not the work contracted for; or (3) he has abandoned the job.
+
+Discussion
+Contract law frowns on unjust enrichment. Under the theory of quantum meruit, a party is entitled to the value of the work he has performed for the benefit of another, even if he has defaulted on the entire contract.
+

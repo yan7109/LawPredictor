@@ -1,0 +1,21 @@
+Citation
+360 Mass. 188, 275 N.E.2d 33 (1971)
+
+Brief Fact Summary
+The Defendant, Beneficial Finance Co. (Defendant), was convicted of bribing state banking officials in order to get preferential treatment from the Small Loans Regulatory Board, a state agency. The Defendant’s conviction was based upon acts taken by employees of the corporation who were neither officers nor directors within the corporation.
+
+Synopsis of Rule of Law
+A corporation is criminally responsible for the unlawful actions of its employees acting within the scope of their authority in the particular business transaction determined to be illegal.
+
+Facts
+Employees of two separate subsidiary companies of the Defendant corporation, conspired to bribe state banking officials to gain favor for the corporation before the state loan regulatory agency. Neither employee was an officer or direction of the Defendant corporation.
+
+Issue
+Is a corporation criminally liable for the unlawful actions of its employees acting within the scope of authority delegated to them by the corporation?
+
+Held
+Yes. Where a corporation has placed an employee in a position where he has authority to act for the corporation in the particular corporate business that is the subject of criminal prosecution, the corporation is itself liable for the violation of law. The title of an individual within a corporation should not be determinative of criminal responsibility. In fact, many low-level employees are entrusted with the responsibility of the everyday operations of the corporation. In this particular case, the disbursal of funds from the corporation to a state banking officials can be presumed to be a corporate act, as the individuals employees themselves could not be expected to bribe the officials out of their own pocket.
+
+Discussion
+This case broadens the ambit of criminal responsibility for corporations to include liability for actions taken by non-managerial agents within the corporation. It recognizes the reality that many low-level employees have broad responsibilities to act on behalf of the corporation on a daily basis, while officers and directors are frequently less engaged in the corporation’s day-to-day activities.
+

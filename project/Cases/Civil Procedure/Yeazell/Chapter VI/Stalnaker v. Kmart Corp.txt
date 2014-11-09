@@ -1,0 +1,21 @@
+Citation
+1996 U.S. Dist. 10013
+
+Brief Fact Summary
+The Defendant, Kmart Corp. (Defendant), in a sexual harassment claim sought a protective order under Federal Rule of Civil Procedure (FRCP) Rule 26(c), protecting non-party witnesses from discovery concerning their sexually related activities.
+
+Synopsis of Rule of Law
+The party requesting a discovery order has the burden of showing good cause for it by submitting a particular and specific demonstration of fact as distinguished from stereotyped and conclusory statements.
+
+Facts
+The Plaintiff, Stalnaker (Plaintiff), brought a sexual harassment claim against the Defendant. Plaintiff alleged that Donald Graves, an employee in Defendant’s receiving department, created a hostile working environment and sexually harassed her by inappropriate touching. Plaintiff served notice of depositions for several non-party witnesses regarding their sexually related activities. Plaintiff believed Graves may have harassed one of those witnesses as well and that other witnesses could provide relevant information regarding sexual harassment at the Defendant’s store. Defendant sought a protective order protecting those non-party witnesses from discovery into their sexually related activities, alleging that such evidence was irrelevant and would violate the privacy of those witnesses.
+
+Issue
+Whether a plaintiff may seek discovery involving the sexual activities of non- party witnesses.
+
+Held
+Yes, but only to the extent that it involves sexual conduct involving either the defendant or the plaintiff. Thus the court sustained Defendant’s motion in part and denied the motion in part. The court precluded discovery related to voluntary and sexual activities by the non-party witnesses and only permitted discovery regarding incidents of sexual harassment by Graves involving the non-party witnesses.   FRCP Rule 26(b) permits a broad scope of discovery. The information sought need not be admissible at trial if it appears reasonably calculated to lead to the discovery of admissible evidence.  Despite the broad scope of discovery, the court may enter protective orders totally prohibiting certain discovery or limiting the scope of discovery to certain matters under FRCP Rule 26(c)(1) and (4). Whether to enter a protective order is within the sound discretion of the court.  A party is entitled to a protective order of discovery to preclude any inquiry into areas that are clearly outside the scope of appropriate discovery. The party seeking a protective order has the burden to show good cause for it. To establish good cause, the parties must submit a    particular and specific demonstration of fact as distinguished from stereotyped and conclusory statements.
+
+Discussion
+Essentially, this case explores the limits of discovery and the trial court’s discretion in making protective orders limiting discovery. Students should bear in mind that discovery is subject to the Federal Rules of Evidence (FRE) regarding privacy and privilege, which often precludes the introduction of evidence which would otherwise be discoverable.
+

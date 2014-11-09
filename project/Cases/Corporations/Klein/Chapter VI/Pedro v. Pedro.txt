@@ -1,0 +1,21 @@
+Citation
+489 N.W.2d 798 (Minn. 1992)
+
+Brief Fact Summary
+Appellants, Carl Pedro et al., appealed a lower court judgment that awarded Respondent, Alfred Pedro, damages stemming from a breach of Appellants’ fiduciary duty towards Respondent.
+
+Synopsis of Rule of Law
+Majority shareholders who buy back shares from another shareholder are obligated to pay fair market value if they have breached a fiduciary duty owed to the shareholder.
+
+Facts
+Respondent and Appellants were three brothers with equal ownership in The Pedro Companies.  The brothers entered into a stock retirement agreement that allowed them to buy back shares of a deceased brother at 75% of net book value.  Several years afterward, Respondent, after noticing a discrepancy of $330,000 in the accounting records, demanded an independent accountant to investigate.  After the missing funds could not be located by two accountants who were frustrated in their investigation by Appellants,  Appellants fired Respondent and took away all of his benefits.  Respondent then brought this action, claiming Appellants breached their fiduciary duty owed to him, that he had a contract for lifetime employment and that he suffered numerous injuries resulting from the termination.  Appellants responded that they did not breach a duty because the stock value did not diminish
+
+Issue
+The issue is whether Appellants violated a fiduciary duty owed to Respondent by the termination of Respondent and the subsequent buyout of his shares below market value.
+
+Held
+The court affirmed the trial court, holding that Appellants did breach their duty to Respondent.  The duty can be breached in more ways than just a diminishing of the stock value, such as by terminating Respondent and forcing a share sale at the agreement’s stated price of 75% market value.  There was also evidence that, in the facts surrounding the structure of this close corporation, that there was an expectation of lifetime employment for the shareholders.
+
+Discussion
+The facts of the case at issue demonstrated a compelling case for the appraisal and sale of shares back to the corporation from a shareholder who was treated unfairly.
+

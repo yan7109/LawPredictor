@@ -1,0 +1,21 @@
+Citation
+833 F.2d 1172, 1987 U.S. App. 1987-2 Trade Cas. (CCH) P67,800
+
+Brief Fact Summary
+This action stems from a prior case brought by Shelby L.P. Gas Company (Shelby) against Wanda Petroleum Company and others (Defendants) alleging various antitrust claims. Shelby alleged that defendants retaliated against it because it refused to join a price fixing conspiracy in Louisiana.
+
+Synopsis of Rule of Law
+The conclusive effect of a prior judgment may only be invoked against a party or someone in privity. A non-party will be considered in privity, or sufficiently close to a party in the prior suit, so as to justify preclusion in three situations: 1) a non-party, who has succeeded to a party’s interest in property is bound by any prior judgments against that party; 2) a non-party who controlled the original suit will be bound by the resulting judgment; and 3) federal courts will bind a non-party whose interests were represented adequately by a party in the original suit.
+
+Facts
+During the pendency of the Shelby litigation, Benson and Ford filed a separate suit alleging the same antitrust violations against Defendants. David Ford voluntarily appeared to testify as a witness for Shelby. The jury returned a verdict for the defendants. The jury found for the Defendants on all of Shelby’s theories. After the Shelby judgment, the Defendants moved for summary judgment against Ford. The Defendant argued that Ford should be barred from relitigating the issues because he had voluntarily appeared at the first trial as a witness, and retained the same lawyer as Shelby. The district court granted the Motion for Summary Judgment and issued a Rule 54(b) certificate.
+
+Issue
+Should a lawsuit by Ford be precluded due to his voluntary appearance as a witness in the previous matter, and the fact that he retained Shelby’s attorney?
+
+Held
+Ford is not precluded from relitigating the same issues that were decided in the Shelby case.
+
+Discussion
+There is no evidence that Ford had control of the Shelby litigation. A plaintiff cannot be precluded from bringing his own suit because he chose the same attorney who participated in a prior suit. Furthermore, Ford’s suit is not barred by reason of adequate representation. The court noted that Ford did not seek to relitigate Shelby’s rights but, rather, sought to pursue its own cause of action. Therefore, Ford was not barred from later suit.
+

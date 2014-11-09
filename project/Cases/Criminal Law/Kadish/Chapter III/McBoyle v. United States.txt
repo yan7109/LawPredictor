@@ -1,0 +1,21 @@
+Citation
+283 U.S. 25
+
+Brief Fact Summary
+the defendant was convicted of violating the National Motor Vehicle theft Act because he intentionally conveyed a stolen airplane from Illinois to Oklahoma.
+
+Synopsis of Rule of Law
+An airplane is not defined as a ‘vehicle” within the meaning of the National Motor Vehicle Theft Act.
+
+Facts
+Despite the fact that McBoyle (D) knew the airplane was stolen, he transported it from Illinois to Oklahoma. Motor vehicle is defined by The National Motor Vehicle Theft Act as an “automobile, automobile truck, automobile wagon, motor cycle, or any other self-propelled vehicle not designed for running on rails…” The Act also prohibits the interstate transportation of stolen vehicles. McBoyle (D) was charged and convicted of violating the Act, but he appealed this ruling.
+
+Issue
+Is an airplane defined as a “vehicle” within the meaning of the National Motor Vehicle Theft Act?
+
+Held
+(Holms, J.) No. an airplane is not defined as a vehicle within the meaning of the National Motor Vehicle Theft Act. There is a high probability that “a self-propelled vehicle not designed for running on rails” may be read to include any conveyance which works on road, water or air. Ordinarily, a “vehicle” implies a machine that runs on land. Looking carefully at this case, the term in the statutory definition which comes immediately before “vehicle” confirms the reading which denotes conveyances that runs only on land. Hence, McBoyle (D) was not warned by the statute that his conduct would violate the National Motor Vehicle Theft Act. Reversed.
+
+Discussion
+According to the Justice Holmes’s primer in statutory construction, before a person can be convicted of violating the law, a government must have a clear law in place. Justice Holmes also submits that the notice requirement often amounts to little more than a legal fiction, and before they violate the law, criminals often consult current statutes. Furthermore, the notice requirement promotes the salutary purpose of compelling government to govern through clear enactments that the executive branch then can enforce.
+

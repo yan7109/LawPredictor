@@ -1,0 +1,24 @@
+Citation
+529 U.S. 334, 120 S. Ct. 1462, 146 L. Ed. 2d 365 (2000)
+
+Brief Fact Summary
+A passenger on board a bus had his luggage squeezed by a border agent.  The boarder agent felt a “brick-like” object that was discovered to be a brick of methamphetamine.
+
+Synopsis of Rule of Law
+“[P]hysical manipulation of [a] carry-on bag violate[s] the Fourth Amendment’s proscription against unreasonable searches.”
+
+Facts
+Steven Dewayne Bond (”The Petitioner”) was on board a Greyhound bus that was stopped at a permanent Border Patrol checkpoint.  A border patrol agent came aboard to check the immigration status of the riders.  Determining that all were legally in the U.S., the agent made his way off the bus, squeezing the luggage of the passengers in the over-head rack as he went.  In the Petitioner’s bag, the agent felt a “brick-like” object.  After obtaining the Petitioner’s permission to search the bag, the agent found a brick of methamphetamine.  Petitioner was convicted of conspiracy to possess, and possession with intent to distribute, methamphetamine over his effort’s to suppress the drugs.
+
+Issue
+“[W]hether a law enforcement officer’s physical manipulation of a bus passenger’s carry-on luggage violated the Fourth Amendment’s proscription against unreasonable searches.”
+
+Held
+Yes, it did.  The Supreme Court followed a two-part Fourth Amendment analysis:  first, “whether the individual, by his conduct, has exhibited an actual expectation of privacy; that is, whether he has shown that ‘he [sought] to preserve [something] as private’”; and second, “whether the individual’s expectation of privacy is “one that society is prepared to recognize as reasonable.  The Petitioner argued that while “other passengers had access to his bag, [the agent] manipulated the bag in a way that other passengers would not.”  As such, the Petitioner still held a reasonable expectation of privacy.  The Government countered that “by exposing his bag to the public, petitioner lost a reasonable expectation that his bag would not be physically manipulated.”  The court distinguished this case from California v. Ciraolo, 476 U. S. 207 (1986) and Florida v. Riley, 488 U. S. 445 (1989), as “they involved only visual, as opposed to tactile, observation,” harkening back to Terry v. Ohi
+
+Dissent
+Justice Breyer, joined by Justice Scalia, argued against he felt was “a decision [that] will lead to a constitutional jurisprudence of ’squeezes’.” Under circumstances in which “strangers will . . .push, pull, prod, squeeze, or otherwise manipulate . . . luggage,” the Petitioner had no reasonable expectation of privacy.  The majority focused too much on intent of the searcher, and while “the agent’s purpose here–searching for drugs–differs dramatically from the intention of a driver or fellow passenger who squeezes a bag in the process of making more room for another . . . it is the effect, not the purpose, that matters.”
+
+Discussion
+“Physically invasive inspection is simply more intrusive than purely visual inspection.”
+

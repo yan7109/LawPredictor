@@ -1,0 +1,21 @@
+Citation
+6 U.S. 126, 2 Cranch 126, 2 L. Ed. 229 (1804)
+
+Brief Fact Summary
+Plaintiff sued Defendant for trespass on the case in federal court in North Carolina. Judgment was found for Defendant. Plaintiff appealed arguing the federal court lacked jurisdiction.
+
+Synopsis of Rule of Law
+A judgment rendered by a court created pursuant to Article III of the U.S. Constitution is ineffective unless said court has subject matter jurisdiction over the case.
+
+Facts
+Capron (Plaintiff) sued Van Noorden (Defendant) for trespass on the case in federal court in North Carolina. The lower court found for Defendant. Plaintiff appealed, arguing that neither party nor the court alleged any facts that would give the court jurisdiction over the case.
+
+Issue
+In cases brought in courts created pursuant to Article III, Section 1 of the United States Constitution, is judgment rendered in said court effective if there is no clear statement alleging subject matter jurisdiction?
+
+Held
+No. The judgment is reversed.   Courts created pursuant to Article III of the U.S. Constitution are courts of limited jurisdiction.  In order for the court to have jurisdiction based on diversity of citizenship, then both parties must be citizens of different states.  Because the court did not establish this fact, its judgment is jurisdictionally defective.
+
+Discussion
+Complaints must always allege and “Article III” courts must always find that they have subject matter jurisdiction. Lack of subject matter jurisdiction invalidates a decision regardless of the procedural stage at which such issue is raised. Courts have an obligation to raise this issue sua sponte.
+

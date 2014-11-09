@@ -1,0 +1,24 @@
+Citation
+527 U.S. 116, 119 S. Ct. 1887, 144 L. Ed. 2d 117, 1999 U.S.
+
+Brief Fact Summary
+Benjamin Lee Lilly (Petitioner) was convicted for murder, robbery, and abduction, and sentenced to death.  Petitioner appealed to the state Supreme Court, arguing that the admission by the trial court of hearsay statements made by a co-defendant violated Petitioner’s rights under the Confrontation Clause of the 6th amendment.  The state Supreme Court affirmed his conviction, and Petitioner appeals that decision here.
+
+Synopsis of Rule of Law
+A criminal defendant’s 6th amendment Confrontation Clause rights are violated when, at the criminal defendant’s trial, a non-testifying co-defendant’s statements, which contain both admissions of guilt on the part of the co-defendant and statements that incriminate the criminal defendant, are admitted against the criminal defendant.
+
+Facts
+Petitioner, along with his brother and his brother’s roommate, allegedly broke into a home and stole numerous items, including liquor, guns, and a safe.  The next day the car the three were traveling in broke down, and they abducted Alex DeFilippis (DeFilippis), stole his car, and one of the three shot and killed him.
+
+Issue
+Did the admission of Petitioner’s brother’s (a co-defendant’s) statements, under the hearsay exception for declarations against interest, violate Petitioner’s Confrontation Clause rights?
+
+Held
+Reversed and remanded.  Yes; the admission by the trial court into evidence of the nontestifying co-defendant’s confession violated Petitioner’s Confrontation Clause rights, as such evidence did not fall within a firmly rooted exception to the hearsay rule.
+
+Concurrence
+Justice Breyer concurred separately to convey his belief that the Supreme Court did not need to undertake its examination of the Confrontation Clauses’ relation to the hearsay rule. Justice Scalia concurred in part and concurred in the judgment, stating that the admission of Petitioner’s brother’s tape recorded statement was a clear violation of the Confrontation Clause and, as such, the only issue on remand was whether the error made by the lower court in admitting the statement constituted reversible or harmless error. Justice Thomas concurred in part and concurred in the judgment, stating that the Confrontation Clause is applicable to witnesses that testify at trial and are implicated by extrajudicial statements, but only when those statements are found in formal testimony.  Justice Thomas also pointed out his belief that, in some situations, the prosecution may use an accomplice’s statements that incriminate a defendant without violating the Confrontation Clause. Justices Rehnquist (writing), O’Connor, and Kennedy concurred in the judgment, stating that the statements of Petitioner’s brother that incriminated Petitioner were not declarations against penal interest and therefore did not fall within a firmly rooted hearsay exception.  Their concurring opinion went on to argue that the case should be remanded to determine whether the confession had particularized guarantees of trustworthiness and to determine, in the event an error was committed, whether the error was reversible or harmless.
+
+Discussion
+In making its decision, the Court looked to past precedent, specifically the Court’s decision in Ohio v. Roberts.  In Ohio, it was held that the truth or falseness of hearsay statements determines whether a Confrontation Clause violation has occurred; when the evidence either falls within a firmly-rooted hearsay exception, Ohio holds, the introduction of the evidence against a criminal defendant does not violate the Confrontation Clause rights of that defendant.  The rule of Ohio, the Court stated, was too broad.  Specifically, the Court quotes another past decision, and states, “due to the sweeping scope of the label,  the simple categorization of a statement as a ‘declaration against penal interest’ . . . defines too large a class for meaningful Confrontation Clause analysis.”  Finally, the Court concluded that, “accomplices’ confessions that inculpate a criminal defendant are not within a firmly rooted exception to the hearsay rule as that concept has been defined in ou
+

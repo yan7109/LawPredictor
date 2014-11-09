@@ -1,0 +1,21 @@
+Citation
+359 F.2d 859 (C.C.P.A. 1966)
+
+Brief Fact Summary
+The decision to affirm a rejection of Hilmer's patent claims involved a determination that a United States patent used as a prior art reference is considered effective as of its foreign "convention" filing date rather than the date that the United States patent application was filed.
+
+Synopsis of Rule of Law
+The effective date of a United States patent used as a prior art reference is the date the application was filed in the United States rather than a foreign "convention" filing date to which the patentee of the reference is entitled by statute.
+
+Facts
+Hilmer's patent claims were rejected based on the disclosure of the invention in an existing United States patent.  The primary question on appeal was whether the effective date of a reference patent is the filing date of the United States application or a foreign "convention" filing date to which the patentee is clearly entitled by statute.  The Patent Office Board of Appeals held that the effective date was the foreign "convention" filing date and affirmed the decision rejecting Hilmer's claims.
+
+Issue
+Is the effective date of a United States patent used as a prior art reference the date the application was filed in the United States rather than a foreign "convention" filing date?
+
+Held
+(Rich, J.)  Yes.  The effective date of a United States patent used as a prior art reference is the date the application was filed in the United States rather than a foreign "convention" filing date to which the patentee of the reference is entitled by statute.  The Milburn case granted a United States patent effect as a reference as of its United States filing date, but it did not involve a foreign "convention" filing date.  Regardless, the doctrine was codified in Section 102(e) of the 1952 Patent Act and should be considered in deciding this case.  Over and above this, for over 26 years the Patent Office pursued a uniform policy which regarded the effective date of a United States reference patent as the date the United States application was filed.  The Board's holding was improper for these reasons.  Reversed and remanded.
+
+Discussion
+The Patent Act Section 102(a) provides that a patent will not issue where the invention was patented in this or any foreign country before the applicant's patent.  Use of the words "in this country" seems to indicate that the United States filing date would be the one used and not a foreign "convention" date to which the United States patentee was entitled.
+

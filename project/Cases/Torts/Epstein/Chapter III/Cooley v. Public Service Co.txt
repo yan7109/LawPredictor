@@ -1,0 +1,21 @@
+Citation
+90 N.H. 460, 10 A.2d 673 (1940)<br />
+
+Brief Fact Summary
+In a severe storm, Public Service Co.’s (Defendant’s) electric lines fell, which caused a loud noise in Cooley’s (Plaintiff’s) phone line. In hearing the noise, Plaintiff suffered a very rare neurosis. Plaintiff sued Defendant for negligence.
+
+Synopsis of Rule of Law
+The law could not tolerate the theory of “be liable if you do and be liable if you don’t.” Defendant is not liable to Plaintiff when there is no way to prevent Plaintiff’s rare and remote injury without exposing the public to an obvious and immediate injury.
+
+Facts
+Defendant maintained un-insulated electric lines above telephone lines. During a severe winter storm, Defendant’s power line broke and hit a telephone line. At that moment, Plaintiff was using the telephone when suddenly a loud noise came through. Plaintiff fainted and fell to the floor. She suffered a very rare neurosis with severe physical consequences. Plaintiff sued the telephone company and Defendant for negligence. The jury found for the telephone company but against the Defendant. The Defendant appealed.
+
+Issue
+Is Defendant liable to Plaintiff for negligence when Plaintiff is not capable of suggesting a safer possible precaution Defendant could have undertaken without entailing a greater risk to the lives of others?
+
+Held
+No. Judgment for Defendant affirmed.
+
+Discussion
+As a practical matter, the court was unwilling to impose liability on Defendant, when to do so would be to punish Defendant for preventing live wires from coming into contact with the public. Defendant’s duty to Plaintiff is outweighed by the duty Defendant owes to the public at large. If Plaintiff can present evidence of means where Defendant could have reasonably and concurrently protected the public from live wires and Plaintiff from emotional distress, then Defendant would be liable for the breach of duty to Plaintiff.
+

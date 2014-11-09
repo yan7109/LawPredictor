@@ -1,0 +1,24 @@
+Citation
+69 Ohio St. 2d 460, 432 N.E.2d 814 (1982)<br />
+
+Brief Fact Summary
+The Court of Appeals for Lucas County (Ohio) affirmed the trial court’s grant of summary judgment to the manufacturer of a punch press. Appellant, a machine operator, had filed a products liability action against Minster Machine Co. (Appellee) after her fingers were amputated. Appellant sought review.
+
+Synopsis of Rule of Law
+A product design is in a defective condition to the user or consumer if (1) it is more dangerous than an ordinary consumer would expect when used in an intended or reasonably foreseeable manner; or (2) if the benefits of the challenged design do not outweigh the risk inherent in such design.
+
+Facts
+Appellant, using the punch press, leaned on the bolster plate in order to move the foot pedal back in place with her foot. In so doing, she activated the foot pedal, and the machine came down on her hand, and amputated two fingers. A button-tripping device, which required two hands, had been disconnected, and the operator did not have a pullback guard attached to her wrists. Plaintiff claimed that the press was inherently defective, and thus dangerous to any user.
+
+Issue
+Did the lower court err in granting summary judgment?
+
+Held
+Yes. The court reversed the summary judgment that was granted in favor of the Appellee and remanded the case. The court applied the risk-benefit test and held that Appellee presented genuine issues of fact, based on expert opinions, as to whether the press design was defective by allowing accidental tripping of the foot pedal control and in failing to provide a point of operation guard when the foot pedal was operative.
+
+Dissent
+The dissent succinctly states: “[t]he majority opinion would render the manufacturer of any machinery absolutely liable for any and all injuries received by the user however careful the company may be in the design of the product and however careless the individual might be in the use thereof. This should not be the law.” The dissent takes the view that personal responsibility should complement corporate responsibility, placing the onus on the individual: “[h]ad appellant followed the instructions and warnings, this unfortunate accident would not have occurred.”
+
+Discussion
+An action for product liability will invariably rest upon one of four theories of tort law: (1) negligence; (2) breach of one or more warranties; (3) strict products liability; or (4) misrepresentation. With regard to the third, examined here, the court explained: “[t]he policy underlying strict liability in tort requires that a product may be found defective in design, even if it satisfies ordinary consumer expectations, if through hindsight the jury determines that the product’s design embodies excessive preventable danger, or, in other words, if the jury finds that the risk of danger inherent in the challenged design outweighs the benefits of such design.”
+

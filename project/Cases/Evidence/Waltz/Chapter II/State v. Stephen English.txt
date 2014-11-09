@@ -1,0 +1,21 @@
+Citation
+201 N.C. 295, 159 S.E. 318, 1931 N.C.
+
+Brief Fact Summary
+Defendant, Stephen English was convicted for the murder of his wife.  Defendant appealed the decision by the trial court to not allow the admission of a confession given by a third party who has since disappeared.
+
+Synopsis of Rule of Law
+A confession by a third party who is unavailable for trial is inadmissible as hearsay.
+
+Facts
+Defendant ran from his home and shouted to his neighbors that his wife had been murdered.  An African-American male suspect was detained the next day and confessed to the murder.  The confession included specific details of the murder scene.  The suspect disappeared after the confession.  A doctor examined the body and declared that the wife had been dead for at least six hours prior to Defendant’s notification to the neighbors.  A key witness stepped forward and informed authorities that Defendant offered a truck and money if the witness would kill his wife for him.  When the witness refused, Defendant got a shovel, went into the home where the witness heard the sound of the shovel hitting against something, and then left the home with the witness.
+
+Issue
+The issue is whether the confession given by a third party unavailable for trial is admissible as evidence.
+
+Held
+The Supreme Court of North Carolina held that the state followed the majority rule wherein a confession by a third party is inadmissible hearsay.  The reasoning behind the majority rule is that the parties are unable to cross-examine, and the confession is not given under oath.
+
+Discussion
+The judge that wrote the opinion, J. Brogden, noted that he was hesitant to follow the majority rule but did so for the sake of precedent.  However, the facts of the case, that the confession was given by an African-American in 1930’s North Carolina and then disappeared soon thereafter, indicate that the confession may not have had the safeguards that modern day confessions would typically have.
+

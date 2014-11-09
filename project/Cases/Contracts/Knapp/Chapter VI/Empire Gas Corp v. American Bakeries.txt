@@ -1,0 +1,24 @@
+Citation
+22 Ill.840 F.2d 1333 (7th Cir. 1988)
+
+Brief Fact Summary
+Defendant American Bakeries entered into a requirements contract to purchase three thousand gas conversion units from Plaintiff Empire Gas Corp. Defendant failed to order any units from Plaintiff, and Plaintiff sued to recover the estimated purchase price of the units.
+
+Synopsis of Rule of Law
+U.C.C. Section: 2-306(1) only prevents a buyer from requesting an unreasonably disproportionate amount more than was originally contracted for. A buyer may request less than what was originally contracted for, or even none at all, so long as the buyer’s change in requirements is not done in bad faith.
+
+Facts
+Due to increased prices in petroleum, Defendants entered into a requirements contracts to purchase three thousand gas conversion units, which would have allowed Defendant’s fleet of trucks to operate on less expensive propane gas. For reasons unexplained, Defendant decided not to purchase any units at all, from either Plaintiff or any other manufacturer. Plaintiff sued Defendant for the estimated cost of the purchase price of the units. The Trial Court awarded judgment in favor of Plaintiff, holding that U.C.C. Section: 2-306(1) prevented Defendant from requesting an amount unreasonably disproportionate to the original request of three thousand units. In an opinion by Judge Posner, the Seventh Circuit overruled, holding that U.C.C. Section: 2-306(1) only prevented a buyer from demanding more units than the buyer had originally sought. This was to prevent the buyer from going into competition from the seller by taking advantage of a favorable price. The Court of Appeals held that if a buyer
+
+Issue
+Whether U.C.C. Section: 2-306(1) allowed the buyer to cancel its purchase entirely and if so, did Defendant buyer violate the implied obligation of good faith by not buying any units?
+
+Held
+In an opinion by Judge Posner, the Seventh Circuit overruled the trial court, holding that U.C.C. Section: 2-306(1) only prevented a buyer from demanding disproportionately more units than the buyer had originally sought. This was to prevent the buyer from going into competition from the seller by taking advantage of a favorable price. The Court held nonetheless that Defendant buyer violated the implied obligation of good faith by failing to purchase any units, because Defendant failed to give the Court any reason at all why they decided not to purchase any units.
+
+Dissent
+The dissent held that requiring Defendants to give a legitimate business reason for why they failed to purchase any units places the burden of proving good faith on the defendant, rather than on the plaintiff. The dissent found that there was no evidence of good faith or bad faith in the case at hand, because neither party introduced evidence on the subject. The dissent would have remanded back to the trial court and place the duty on Plaintiff to show bad faith.
+
+Discussion
+This case illustrates that in a requirements contract, a buyer will be prohibited from demanding disproportionately more than what the original terms of the contract spelled out. When ordering less, or ordering nothing at all, the buyer need only show that they have a good faith, legitimate business reason, for the decrease in demand.
+

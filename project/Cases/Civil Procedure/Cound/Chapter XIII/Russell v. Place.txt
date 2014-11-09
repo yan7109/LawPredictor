@@ -1,0 +1,18 @@
+Citation
+22 Ill.94 U.S. 606, 4 Otto 606, 24 L. Ed. 214 (1877)
+
+Brief Fact Summary
+The Plaintiff originally brought a patent infringement suit and won. The Defendant below brought suit on issues that the Plaintiff below claimed estopped because of the prior litigation and judgment.
+
+Synopsis of Rule of Law
+Where uncertainty exists as to several distinct matters that may have been litigated, without indication of which specific matters were decided upon, the whole subject matter of the action is open for re-trial unless the uncertainty is removed with regard to extrinsic evidence showing the precise point determined.
+
+Issue
+Whether the Defendant was precluded from raising the issues of novelty and prior use in the case at bar.
+
+Held
+No. A recovery for infringement of one claim of the patent is not itself conclusive of an infringement of the other claim and there was no extrinsic evidence offered to remove the uncertainty in the record. The verdict may have been for an infringement on the first claim, the second claim, or even both claims.
+
+Discussion
+The general rule is that an issue raised in one case is conclusive as to that question in another suit between the same parties. However, certainty is essential to the operation of estoppel. Where uncertainty exists as to whether a claim has been decided upon in a prior case between the same parties, the claim in the present case cannot be precluded unless some evidence is shown that it was adjudged in the prior case.
+

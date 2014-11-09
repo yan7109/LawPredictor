@@ -1,0 +1,24 @@
+Citation
+475 U.S. 157,106 S. Ct. 988,89 L. Ed. 2d 123,1986 U.S.
+
+Brief Fact Summary
+Appellee claims ineffective assistance of counsel following a trial in which his attorney refused to allow him to lie on the stand.
+
+Synopsis of Rule of Law
+The limits of the Sixth Amendment right to “effective counsel.”
+
+Facts
+Appellee Whiteside was on trial for murder and informed his attorney of his intention to testify that he had seen “something metallic” in the victim’s hand before killing him, in direct contradiction to his earlier sworn statements that the victim had been unarmed. Respondent Nix, his attorney, warned him that he would have an ethical obligation to report any perjured testimony to the court. Appellee then testified that he had believed the victim had a gun but did not see it, and was convicted for murder. He now appeals his conviction, arguing ineffective assistance of counsel based upon the fact that his lawyer’s warning forced him to change his testimony.
+
+Issue
+Is a criminal defendant’s Sixth Amendment right to effective assistance of counsel violated when an attorney refuses to allow defendant to present perjured testimony at trial?
+
+Held
+No. In this unanimous opinion, Justice Burger writes that a defendant’s Sixth Amendment rights do not include “the right to have a lawyer who will cooperate with planned perjury.” A client’s expression of his intention to commit a crime is not a protected communication.
+
+Concurrence
+Brennan: This case could have been decided without the Court’s “essay” on this subject, and the majority of this opinion should be treated as dicta. Blackmun: Appellee has completely failed to demonstrate any “actual prejudice” to his case as a result of his lawyer’s actions as per the Strickland standard, and the case could have just as easily been disposed of on these grounds.
+
+Discussion
+This fairly straightforward holding suggests that an attorney should withdraw representation and report a client’s intent to perjure himself whenever such a course of action is insisted upon.
+

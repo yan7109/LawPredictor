@@ -1,0 +1,21 @@
+Citation
+304 U.S. 64
+
+Brief Fact Summary
+Defendant Harry Tompkins, was injured by a freight car of Plaintiff Erie Railroad while in Hughestown, Pennsylvania. Defendant brought suit in federal district court in New York, asking the judge to apply “general law” regarding negligence, rather than Pennsylvania law, which required a greater degree of negligence.
+
+Synopsis of Rule of Law
+Except in matters governed by the United States Constitution or Act of Congress, the law that is to be applied in any case is the law of the state.
+
+Facts
+In July of 1934 Defendant visited his mother-in-law’s house in Pennsylvania. He walked part of the distance along the railroad tracks of the Plaintiff. A train passed, and an open door on a refrigerator car struck him and knocked him partially under the train. His right arm was severed. Defendant then brought suit against the railroad in the Federal District Court for the Southern District of New York. Under Pennsylvania law the railroad would have been liable only for “wanton” negligence. However, rather than apply Pennsylvania law, the District Judge, at Defendant’s urging, applied the “general law” that the railroad was liable even if it was guilty only of “ordinary negligence. The jury returned a verdict for Defendant. Plaintiff appealed, but the Second Circuit upheld Defendant’s verdict. The railroad then sought certiorari from the Supreme Court of the United States.
+
+Issue
+Whether a Federal court sitting in diversity jurisdiction, should apply the substantive law of the state the activities leading to the suit arose in, or the law of the Federal court in the forum state.
+
+Held
+The Supreme Court reversed the decision of the court of appeals, holding that except in matters governed by the United States Constitution or Act of Congress, the law that is to be applied in any case is the law of the state. There is no Federal common law.  <br/><br/><span class='heading'>Dissent.</span> The dissenting opinions of Justices Butler and McReynolds are omitted by the casebook.  Concurrence. Justice Reed concurred. Justice Reed agreed with the majority to the extent that he thought where Congress has not spoken, then a Federal court should apply the law of the state in which the activities arose. However, he disagreed that there could be no such thing as “federal common law,” finding instead that Congress has the power to declare what rules of substantive law the federal courts shall use.
+
+Discussion
+The primary rationale for the Supreme Court’s decision here was the prevention of forum shopping, whereby, under the old policy of allowing a federal court to ignore the state’s substantive law and instead apply “general law” made it so that the substantive law that was applied in each case varied according to enforcement was sought in the state or federal court. Moreover, in asserting that there is no such thing as federal common law, the court is probably referring to judicial common law. Common law,   Congress implicitly retained the right to pass rules governing the federal courts, e.g. the Federal Rules of Civil Procedure, etc.
+

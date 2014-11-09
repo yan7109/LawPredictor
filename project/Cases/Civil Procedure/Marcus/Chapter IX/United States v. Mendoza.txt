@@ -1,0 +1,21 @@
+Citation
+464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379, 1984 U.S.
+
+Brief Fact Summary
+A Filipino national residing in the United States petitioned for naturalization in 1978 under a World War II statute that granted foreigners who served honorably in the United States military during the war the right to apply for and receive citizenship. The act was repealed after the war and only applicants applying for citizenship prior to December 31, 1946, were entitled to naturalization.
+
+Synopsis of Rule of Law
+Non-mutual offensive collateral estoppel cannot be applied against the government when the party seeking to stop the government from relitigating is a different party than was present in a prior action, or when the subject matter is not the same as was present in the first action.
+
+Facts
+Mendoza (Respondent) argued that the United States immigration office in the Philippines was closed between October 1945 and August 1946, which excused his delay in filing. In his argument, Respondent relied on a 1975 district court holding that sixty- eight Filipino war veterans were entitled to naturalization despite delay due to the closure of the immigration office in the Philippines. The court of appeals held that the government was estopped to relitigate the issue.
+
+Issue
+Does the doctrine of collateral estoppel apply when used against the government?
+
+Held
+The court of appeals was wrong in applying non-mutual collateral estoppel against the government in this matter. However, in other situations, the government can be estopped from relitigating a question when the government is litigating the same issue with the same party.
+
+Discussion
+The Supreme Court of the United States uses this case to differentiate between the role of private citizen as a litigant and the role of government as a party to an action. The court notes that if offensive collateral estoppel were allowed under the facts in this matter, the development of important questions of law would be halted due to effectively freezing the first final decision rendered on a particular legal issue. The effect of allowing non-mutual collateral estoppel would be quite wide-ranging and could, as the court suggests, force the government to change its procedural operation.       Civil Procedure Keyed to Yeazell (Sixth Edition)   CHAPTER I.
+

@@ -1,0 +1,21 @@
+Citation
+538 U.S. 216
+
+Synopsis of Rule of Law
+A requirement that interest from an IOLTA account be given to the government to be used for legal services for the needy is not a taking.
+
+Facts
+The State of Washington, and most other states, uses interest on lawyer’s trust accounts (IOLTA) to pay for legal services for the needy. This program was established by the Washington State Supreme Court pursuant to its authority to regulate the practice of law. In the course of legal practice, attorneys are required to hold any client funds in an separate account, as it is unethical to pool funds. However, they may pool several client’s funds together without comingling. Every state in the nation adopted an IOLTA program, requiring that attorneys put client funds in interest bearing accounts, or IOLTA accounts. In addition, every state provides that the interest from these accounts be used for charitable purposes.  It should be noted that there is a requirement that any funds that would generate a net income should be deposited into a separate interest bearing account for that client. Petitioners are clients that assert that the taking of their interest amounts to a taking under the constitution, and they are entitled to compensation.
+
+Issue
+Does the requirement that the interest from an IOLTA account be used for charitable purposes amount to a government taking requiring just compensation?
+
+Held
+No. Since the owner of the property has lost nothing, there is nothing to compensate.
+
+Dissent
+Scalia: The dissent argues that the only reason that there is on net loss is due to the fact that the court mandates that the client funds may be put in one account, and mandates that the interest be paid, thus the clients never lose anything. They find this to be an incorrect standard, and a dangerous one, preferring to look at the “fair market value” which the majority opinion ignores.
+
+Discussion
+The Constitution does not prohibit the taking of property, only the taking of property without just compensation.  This just compensation is measured by the property owner’s loss rather than the government’s gain. Since the petitioners, the clients, have lost nothing, the compensation due to them is also zero, regardless of the fact that the government earns roughly $200 million off of IOLTA accounts. In addition, since the rules require the lawyer to create a separate account for any client whose funds could generate net earnings for the client, if lawyer’s deposited the money in IOLTA when it could have generated income, they violated the rules. Therefore, anything deposited in an IOLTA account would not generate income for the owner, and thus nothing is lost.
+

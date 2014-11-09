@@ -1,0 +1,24 @@
+Citation
+22 Ill.524 U.S. 417, 118 S. Ct. 2091, 141 L. Ed. 2d 393 (1998)
+
+Brief Fact Summary
+The Appellees brought an action in the Supreme Court of United States (Supreme Court) against the President of the United States William Clinton (President Clinton). The Appellees argued that President Clinton’s use of the Line Item Veto Act of 1996 (the Act) to void a part of Title XIX of the Social Security Act and a part of Taxpayer Relief Act of 1997 is an unconstitutional use of legislative power.
+
+Synopsis of Rule of Law
+The cancellation procedures set forth in the Act violate the Presentment Clause, Art. I, Section:7, cl.2, of the United States Constitution (Constitution).
+
+Facts
+President Clinton exercised his authority under the Act to cancel one provision in the Balanced Budget Act of 1997 and two provisions in the Taxpayer Relief Act of 1997. Two separate actions were filed in District Court against President Clinton and other federal officials challenging these cancellations. The plaintiffs in the first case are the City of New York, two hospital associations, one hospital, and two unions representing health care employees. The plaintiffs in the second are a farmer’s cooperative and an individual farmer. The District Court consolidated the two cases and held the Act was unconstitutional and the Supreme Court expedited review of the case. The Act gave the President the power to cancel in whole three types of provisions that have been signed into law: (1) any dollar amount of discretionary budget authority; (2) any item of new direct spending and (3) any limited tax benefit. In this case, it is undisputed that the cases involve an item of new direct
+
+Issue
+Is it a constitutional use of powers to permit the President to veto a portion of a statute under the Act that has been signed into law by Congress?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+The Act does not violate any specific textual constitutional command, nor does it violate any implicit Separation of Powers principle.
+
+Discussion
+The majority holds the Act violates the separation of powers as it gives the President the legislative power to enact, amend or repeal statutes already signed into law.
+

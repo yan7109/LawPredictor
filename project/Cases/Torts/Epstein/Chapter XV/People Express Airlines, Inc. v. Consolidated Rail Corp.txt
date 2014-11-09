@@ -1,0 +1,21 @@
+Citation
+100 N.J. 246, 495 A.2d 107, 1985 N.J.
+
+Brief Fact Summary
+Plaintiff suffered business interruption losses because Defendant negligently started a fire. No physical damage and no personal injury resulted from the fire. Plaintiff sued Defendant in negligence for the economic harm it sustained.
+
+Synopsis of Rule of Law
+A defendant who has breached his duty of care to avoid risk of economic injury to particularly foreseeable plaintiffs may be held liable for actual economic losses that are proximately caused by its breach of duty.
+
+Facts
+A tank car was punctured during a “coupling” operation, which ignited in the freight yard of Consolidated Rail Corporation (Defendant). Consequently, the evacuation area included the North Terminal building of the Newark International Airport, where People’s Express Airline’s (Plaintiff) was based. Plaintiff’s employees were prohibited from using the terminal for twelve hours. Plaintiff contends that it suffered business-interruption losses as a result of the evacuation. Loses were incurred from canceled scheduled flights, lost reservations, and certain fixed operating expenses. No physical damage and no personal injury resulted from the fire. Plaintiff asserted that at least some of the defendants were aware form prior experiences that ethylene oxide is a highly volatile substance and that emergency response plans in case of an accident had been prepared. The trial court granted summary judgment for D. The Appellate Division reversed.
+
+Issue
+Is recovery for negligently caused economic loss barred by the absence of any property damage or personal injury?
+
+Held
+No. The judgment of The Appellate Division is modified, and, as modified, affirmed. The case is remanded for proceedings consistent with this opinion.
+
+Discussion
+The common law judges were historically reluctant to allow any recovery for pure economic losses attributable only to the defendant’s negligence. In this case, the Court permitted Plaintiff to recover because Plaintiff was foreseeable and the damage sustained was proximately caused by Defendant’s breach.
+

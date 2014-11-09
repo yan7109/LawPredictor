@@ -1,0 +1,24 @@
+Citation
+376 U.S. 398 (1964)
+
+Brief Fact Summary
+The bills of lading for a shipment of sugar contracted between Farr, Whitlock & Co an American commodities broker was assigned by Banco Nacional de Cuba (P), but another Cuban bank instituted this action alleging conversion of the bills of lading and sought to recover the proceeds thereof from Farr and to enjoin Sabbatino (D), a court-appointed receiver from exercising control over such proceeds.
+
+Synopsis of Rule of Law
+The judiciary, in line with the Act of State Doctrine will not examine the validity of a taking of property within its own territory by a foreign sovereign government recognized by this country in the absence of international agreements to the contrary, even if the taking violates customary international law.
+
+Facts
+A contract to purchase Cuban sugar from a wholly owned subsidaiary of Compania Azucarera Vertientes-Camaquey de Cuba (CAV) a corporation organized under Cuban law was made by Farr, Whitlock & Co. (Farr) an American commodities broker. The CAV stock was principally owned by United States residents. The agreement was for Farr to pay for the sugar in New York upon the presentation of the shipping documents. After this deal, a law was enacted in Cuba which empowered the government to nationalize forcefully, expropriation of property or enterprise in which American nationals had an interest.
+
+Issue
+Does the judiciary have the authority to examine the validity of a taking of property within its own territory by a foreign sovereign even if the taking violated international law?
+
+Held
+(Harlan, J). No. The judiciary, in line with the Act of State Doctrine will not examine the validity of a taking of property within its own territory by a foreign sovereign government recognized by this country in the absence of international agreements to the contrary, even if the taking violates customary international law. Even in a situation whereby international law has been violated, the clear implication of past cases is that the Act of State Doctrine is applicable because the Act of State doctrine does not deprive the courts of jurisdiction once acquire over a case. The damages of adjudicating the propriety of such expropriation acts, regardless of whether the State Department has it did in this case, asserted that the act violated international law are too far-reaching for the judicial branch to attempt. Hence the judgment of the court of appeals is reverse and the case remanded back to the district court.
+
+Dissent
+(White, J). American courts are not required by the Act of State Doctrine to decide cases in disregard of international law and of the rights of litigants to a full determination on the merits.
+
+Discussion
+Even in the diversity of citizenship cases, the Court concluded that the Act of State Doctrine must be determined according to federal rather than state law. The court also made it clear that it is constrained to make it clear that an issue concerned with a basic choice regarding the competence and function of the judiciary and national executive in ordering our relationships with other members of the international community must be treated exclusively as an aspect of federal law.
+

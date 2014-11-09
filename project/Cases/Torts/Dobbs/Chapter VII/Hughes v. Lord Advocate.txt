@@ -1,0 +1,18 @@
+Brief Fact Summary
+Post Office workers were working underground and left the manhole unattended surrounded with kerosene lamps while on break.  Plaintiff Hughes, an 8 year old boy, was playing at the unattended site and knocked over a kerosene lamp, which resulted in a huge explosion that threw him down the manhole.  He suffered severe burns and sued Defendant. Defendant argued it was not the proximate cause of the injuries.  The higher court disagreed and found for Plaintiff on appeal.
+
+Synopsis of Rule of Law
+Where a plaintiff’s injury is foreseeable, but the injury is caused in a unique way or manner which could not have been foreseen, the result is within the chain of proximate causation and that element of negligence is satisfied.
+
+Facts
+Post Office employees were working on an underground telephone cable in Edinburgh, Scotland.  At 5:00 they took a tea break, leaving unguarded an open manhole, covered with a tent and surrounded by kerosene lanterns.  Two boys, 8 and 10 years old, found the site, descended in the hole then came back up without mishap.  But once back on top, they knocked or dropped a lantern into the hole.  The accepted reconstruction of what happened was that the lantern broke and some of the kerosene vaporized.  This gaseous form of kerosene came into contact with the lantern’s flame and created a large explosion, causing Hughes, the 8 year old, to fall into the manhole and suffer severe burns.  He sued the Lord Advocate of Scotland as the representative of the Post Office.  The courts of Scotland held in favor of Lord Advocate on the grounds that though burns were foreseeable, the vaporization of the kerosene and the explosion were not.
+
+Issue
+Whether Defendant can be found liable for negligence where the manner or cause of the injury was unforeseeable, but the injury is the type that was foreseeable.
+
+Held
+Yes.  Three different judges agreed that the Plaintiff’s burns were foreseeable, even though the manner in which they occurred was not.  Where the cause of an accident was a known source of danger, namely the kerosene lamp, but injury is caused in a unique way which could not have been foreseen, there is no defense to negligence.  The explosion did not create an accident or damage of a different type than what could have been foreseen by the danger of fire.  Thus, it would be too narrow a view to hold that those who created the risk of fire are excused from liability for the damage simply because it came about in an unforeseeable way, namely an explosion, as opposed to, for example, a spill of the kerosene which would have produced a more normal conflagration.
+
+Discussion
+This case stands for the proposition that foreseeable injuries or harm that are caused in a unique, unforeseeable manner are still considered within the scope of risk a defendant has a duty to protect plaintiffs from.
+

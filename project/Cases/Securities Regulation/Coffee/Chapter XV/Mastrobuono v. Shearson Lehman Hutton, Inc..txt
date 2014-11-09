@@ -1,0 +1,21 @@
+Citation
+514 U.S. 52 (1995)
+
+Brief Fact Summary
+Shearson’s (Defendant) standard form client contract contained arbitration and choice-of-law provisions, although neither are explicitly stated, which they allege refused arbitrators the ability to award punitive damages.
+
+Synopsis of Rule of Law
+An arbitral award of punitive damages that otherwise would be appropriate may not be impeded by a contractual choice-of-law provision.
+
+Facts
+A professional couple, the Mastrobuonos (Plaintiff), invested with respondent Shearson from 1985-87. Two years later, petitioners brought suit in district court alleging that Shearson had mishandled their funds. Following the rules of the National Association of Securities Dealers, the client contract contained provisions for arbitration, and Shearson petitioned to stay the proceedings. The court granted the motion, and in arbitration Shearson was held liable for a few hundred thousand in punitive damages. Shearson alleged that the client contract had a choice of law provision for New York that only allowed punitive damage awards in judicial tribunals, not arbitration, and so arbiters had no power to award punitive damages. The award was vacated by the district court for this reason, and the Seventh Circuit affirmed. The Supreme Court granted certiorari to rectify conflicts within those circuits.
+
+Issue
+Is an arbitral award of punitive damages that otherwise would be appropriate be impeded by a contractual choice-of-law provision?
+
+Held
+(Stevens, J.) No. An arbitral award of punitive damages that otherwise would be appropriate may not be impeded by a contractual choice-of-law provision. The Federal Arbitration Act maintains a national policy preferring arbitration, although parties may stipulate by contract the rules under which the arbitration will be led. If the parties concur to contain claims for punitive damages under the scope of the arbitration, the FAA guarantees that their contract will be imposed as per its terms, even when the law dismisses similar arbitration claims. The client contract concerned here reads that the whole contract shall be regulated by the laws of New York, and “any controversy…shall be settled by arbitration.” It fails to explicitly refer to claims for punitive damages. Separately considered, neither provision, expresses an objective to impede awarding of punitive damages. The choice-of-law provision, while vague, is best understood to mean that applicable state law in connection with the contractual rights and duties of the parties should be application, but not special state rules restricting the authority of arbitrators, as seen here, the power to grant punitive damages. Furthermore, the vague language should be seen in opposition of the interest of the party that created it, in this case, Shearson. The punitive damages award should have been enforced. Reversed.
+
+Discussion
+The NASD’s Code of Arbitration Procedure specifies that arbitrators are capable of awarding “damages and other relief.” While agreeing that this did not demonstrate a blatant right to award punitive damages, the majority found this stipulation expansive enough to consider a remedy like that.
+

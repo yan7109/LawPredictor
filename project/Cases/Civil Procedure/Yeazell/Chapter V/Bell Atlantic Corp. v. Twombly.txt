@@ -1,0 +1,21 @@
+Citation
+127 S. Ct. 1955 (2007)
+
+Brief Fact Summary
+Plaintiffs, subscribers to local phone and internet services, sue Bell Atlantic and local telephone companies alleging violations of anti-trust laws, allowing each local phone company to monopolize its own market.
+
+Synopsis of Rule of Law
+Under § 1 of the Sherman Act, stating a claim requires a complaint with enough factual matter (taken as true) to suggest that a valid claim arises.
+
+Facts
+Plaintiffs were subscribers to local phone and internet services.  They alleged that Bell Atlantic and local telephone companies violated that anti-trust laws by agreeing not to compete with each other and by agreeing to exclude other potential competitors, allowing each local phone company to monopolize its own market.
+
+Issue
+What a plaintiff must plead in order to state a claim under § 1 of the Sherman Act.
+
+Held
+Applying the general standards to a §1 claim, the court held that stating such a claim requires a complaint with enough factual matter (taken as true) to suggest that an agreement was made.  Here, the antitrust conspiracy was not suggested by the facts, which thus fails to state a valid §1 claim.
+
+Discussion
+Federal Rule of Civil Procedure 8(a)(2) requires only “a short and plain statement of the claim showing that the pleader is entitled to relief,” in order to “give the defendant fair notice of what the… claim is and the grounds upon which it rests,” Conley v. Gibson.  This required more than labels and conclusions, and a formulaic recitation of the elements of a cause of action are not sufficient.
+

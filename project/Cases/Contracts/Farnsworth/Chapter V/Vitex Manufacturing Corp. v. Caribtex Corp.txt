@@ -1,0 +1,21 @@
+Citation
+377 F.2d 795, 1967 U.S. App. 6611, 4 U.C.C. Rep. Serv. (Callaghan) 182; 6 V.I. 166
+
+Brief Fact Summary
+Plaintiff Vitex Manufacturing Corp. and Defendant Caribtex Corp. entered into a legally binding contract that Defendant breached. Plaintiff sued for the breach and claimed damages for loss of profits, which Defendant argues should be reduced by Plaintiff’s overhead expenses.
+
+Synopsis of Rule of Law
+Overhead should be treated as part of gross profits and recoverable as damages rather than considered part of the seller’s costs.
+
+Facts
+Plaintiff engaged in the business of chemically shower-proofing imported cloth so that it could be imported duty-free into the United States. Defendant engaged in the business of importing cloth to the Virgin Islands, securing its processing, and exporting to the United States. Plaintiff had closed its plant in the Virgin Islands but reopened it after securing a contract from Defendant. Said contract was found to be legally binding. Plaintiff therefore expended costs to reopen its plant and order chemicals. However, Defendant breached the contract. The trial court found that Plaintiff’s gross profits from the sale would have been $31,250, and its costs would have been $10,136, which left Plaintiff with damages from lost profits of $21,114. Defendant argues that Plaintiff’s overhead expenses should be added to its costs, thereby reducing Plaintiff’s lost profits recovery.
+
+Issue
+Should overhead expenses be considered part of Plaintiff’s costs and therefore deducted from Plaintiff’s lost profits?
+
+Held
+No. Since overhead is a fixed cost and nonperformance of a particular contract produces no cost savings, no deduction from lost profits is warranted. In short, overhead expenses do not bear a direct relationship to any single transaction to be considered a cost in ascertaining lost profits. Further, even if overhead expenses were considered, they would have to be considered a loss incurred, not a cost that would reduce lost profits. As an example, if the fixed overhead is $10,000 and the company engages in five transactions, the profit on each transaction would be reduced by $2,000. However, if one transaction is not completed, the profit on each remaining transaction is reduced by $2,500. Hence, repudiation of a single contract reduces the profitability of all other transactions. Therefore, if overhead expenses were considered, Defendant would still lose out.
+
+Discussion
+Overhead expenses must not be deducted from gross profits.
+

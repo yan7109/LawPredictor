@@ -1,0 +1,21 @@
+Citation
+182 F.3d 799 (11th Cir. 1999)
+
+Brief Fact Summary
+Ivax Corp. (Defendant) issued multiple press releases including forward-looking statements.
+
+Synopsis of Rule of Law
+When the elements underlying a prediction or economic estimate include both suppositions and declarations of known fact, the complete list is regarded as a forward-looking statement.
+
+Facts
+In early August, Ivax Corp. issued a press release that mirrored optimism about the future while also recognizing business problems. On September 30, the final day of the quarter, in a press release Ivax broadcast that it anticipated a $43 billion loss. This press release included a list of elements that related to Ivax business affecting third quarter outcomes. The statement included forward looking statements and also factual ones. In early Novemeber, Ivax broadcast a multi-million dollar loss in the third quarter, over one hundred million of which was a decrease in the carrying value of the goodwill attributed to specific Ivax businesses. Neither of the previous press releases cited the probability of a goodwill meltdown. The price of Ivax stock plunged. Investors (Plaintiff) brought suit claiming Ivax press releases included deceitful statements. Investors representative of a class of recent buyers of Ivax stock sued for fraud and negligent misrepresentation. The district court dismissed the complaint.
+
+Issue
+Are mixed statements protected under the safe harbor provision for forward-looking statements?
+
+Held
+(Cox, J.) Yes. Forward-looking statements are usually comprised of historical observation and assumptions regarding the future. Therefore, treating the mixed statement in the September 30 press release as a forward-statement is consistent with congressional objective to relax the “muzzling effect” of possible liability for forward-looking statements. This objective is at the core of the safe harbor stipulation. Affirmed.
+
+Discussion
+The Private Securities Litigation Reform Act of 1995(PSLRA) attached the safe harbor stipulation for forward-looking statements to the Securities Exchange Act of 1934. The year after the PSLRA’s creation, there was a noticeable upsurge in the quantity of firms proffering financial predictions, with the largest increase among the chancier firms.
+

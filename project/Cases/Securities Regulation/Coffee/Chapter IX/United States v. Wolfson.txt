@@ -1,0 +1,21 @@
+Citation
+45 F.2d 779 (2d Cir. 1968); cert denied, 394 U.S. 946 (1969)
+
+Brief Fact Summary
+Controlling shareholders in a corporation, Wolfson (Defendant) and his associates, used brokers to execute the sale of unregistered shares.
+
+Synopsis of Rule of Law
+When controlling shareholders use brokers to implement the sale of unregistered stocks they are in violation of the Securities Act.
+
+Facts
+Wolfson owned a de facto controlling block of shares of Continental Enterprises, Inc. Huge blocks of unregistered stock were sold byWolfson and his associates using several brokers. A criminal action was filed against Wolfson and his associates by the Justice Department, alleging violations of registrations requirements of the Securities Act. They were convicted and appealed.
+
+Issue
+Is the Securities Act violated when controlling shareholders use brokers to implement sales of unregistered shares?
+
+Held
+(Woodbury, J.) Yes. The Securities Act is violated when controlling shareholders use broker’s to execute the sale of unregistered shares. § 5(a) of the Act makes it illegal to implement the sale of unregistered securities in transactions involving issuers, dealers or underwriters. Anyone who buys from an issuer with understanding to distribute is defined as an “underwriter”, while § 2(11) defines “issuer” to include individuals controlling the issuer. In this case, the brokers who purchased from Wolfson were underwriters because Wolfson controlled Continental and the transaction falls within the domain of the Act. Affirmed.
+
+Discussion
+The Securities Act fails to offer a broker’s immunity to liability, and so the opinion here doesn’t mention it either, although as underwriters they could be held criminally liable. The facts stated in this opinion do not clearly state whether the brokers took advantage of this narrow exception.
+

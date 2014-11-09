@@ -1,0 +1,18 @@
+Citation
+552 U.S. 1216
+
+Brief Fact Summary
+Plaintiffs, Leopoldo Ramos et al., brought this action to enforce provisions of a shareholder agreement that required Defendants, Angel Estrada et al., to sell their shares of company stock if they did not vote as required per the agreement.<span class="heading">Synopsis of Rule of Law.</span> Shareholder agreements, whether or not it is a close corporation, that require shareholders to vote according to the will of the majority are valid.
+
+Facts
+Ramos owned 50% of the shares of Broadcast Corporation, a company formed by Ramos to start a Spanish-speaking television station in Ventura, CA.  The other shares were distributed to five other couples.  Broadcast Corp. merged with another company, Ventura 41 Television Associates, to form Coasta del Oro Television, Inc.  The Ventura 41 group would receive 5,000 shares, and the Broadcast Corp. group would initially receive 5,000 shares with another two shares after six months of operation.  This allowed for each side to pick four directors and for Broadcast Corp. to elect a fifth director once the board expanded to nine directors.  Each member of the Broadcast group entered into a shareholder agreement that required everyone to vote according to the will of the majority, thereby assuring that the group would maintain a director majority.  If a member of the group did not vote according to the majority, then they were required to offer their shares for sale to the other members
+
+Issue
+The issue is whether the shareholder agreement between the members of the Broadcast Corp. was valid and enforceable.
+
+Held
+The agreement was valid despite the fact that the corporation at issue was not a close corporation.  California close corporation laws allow for such a shareholder’s voting agreement.  The legislative comments concerning the California statute governing close corporations, Section 706, indicate that legislators did not intend the law to invalidate pooling agreements in instances where they were not close corporations.  There was consideration provided for each member (to preserve their power in controlling the board of directors), and the provision here is especially necessary because the stock is not easily marketable, i.e. it has the characteristics of shares in a close corporation.
+
+Discussion
+The court emphasizes that the statute’s concern was to provide parties an opportunity to reach an agreement in cases where, absent the agreement, the parties may be damaged by an unforeseen event, such as a change in the majority voting block.
+

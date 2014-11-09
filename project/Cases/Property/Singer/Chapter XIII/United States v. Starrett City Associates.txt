@@ -1,0 +1,27 @@
+Citation
+840 F.2d 1096 (2d Cir. 1988)
+
+Brief Fact Summary
+Starrett City Associates (P) was sued by the United States which sought summary judgment and permanent injunction preventing Starrett from discriminating against racial minorities in apartment rental. Starrett appealed on the ground that its tenant selection procedures were meant to achieve racial integration and were in accordance with the Fair Housing Act.
+
+Synopsis of Rule of Law
+The Fair Housing Act may operate to prevent rigid racial reservation systems from being maintained indefinitely to perpetuate a fixed level of integration in public housing, if such systems fail to provide adequate access to public housing for the minority.
+
+Facts
+Starrett City Associates (D) owned and operated the largest public housing complex in the U.S. It had a unique tenant rental system which provided for a permanent mix of 64 percent white tenants, 22 percent black and 8 percent Hispanic. This was intended to prevent the mass exodus of white tenants and to achieve racial integration. Its tenant selection process was intended to perpetuate this ratio, each departing tenant being replaced by a new one of similar race or national origin. It is undisputed that this practice prevented minority communities from having increased access to the complex. The Government (P) sued Starrett on the ground of minority discrimination on the basis of race, in violation of the Fair Housing Act. Both parties moved for summary judgment in their favor. The court granted summary judgment to the Government, permanently enjoining Starrett to abandon its selection process which prevented adequate minority access to the complex on account of their race. Starrett appealed.
+
+Issue
+Does the Fair Housing Act operate to prevent rigid racial reservation systems from being maintained indefinitely to perpetuate a fixed level of integration in public housing, if such systems fail to provide adequate access to public housing for the minority?
+
+Held
+(Miner, J.) Yes. The Fair Housing Act may operate to prevent rigid racial reservation systems from being maintained indefinitely to perpetuate a fixed level of integration in public housing, if such systems fail to provide adequate access to public housing for the minority. A housing practice may fall foul of the FHA not only for being racially discriminatory but for affecting minorities out of proportion to the majority community. Quota systems, as a rule, work against the dual aims of the FHA, integration and anti-discrimination. Any system which makes classifications purely on the basis of race is presumed to be discriminatory. However, an affirmative action which takes account of race need not be in conflict with constitutional or statutory law. However, such actions should be intended to be for only a short time and to end on attaining a specific goal. Such actions usually result in increasing or ensuring minority participation and are upheld. On the other hand, plans to maintain a fixed level of integration usually restrict minority participation and are not usually valid. A last point is that quotas are meant to redress past minority discrimination or imbalance. In this case, Starrett’s only rationale for its quota system is maintaining a fixed level of integration. It has been maintained for more than fifteen years. It has no redressal goals in view. It prevents any increase in the minority participation in the complex. Fear of the whites leaving en masse cannot justify restriction of minority access. In this case the use of a racial quota is not inappropriate. The verdict is affirmed.
+
+Dissent
+(Newman, J.) The FHA was meant to prevent segregation from being a permanent phenomenon, and not to prohibit fixed racial quotas meant to achieve and maintain racial integration as Starrett was trying to do.
+
+Concurrence
+N/A
+
+Discussion
+A housing practice need not be racially discriminatory to violate the FHA. It can also violate this law by having some effect on the minorities which is out of proportion to their number. All racial classifications are not discriminatory, even if they adversely affect minorities,  unless their motive is such as to depress the minority races. For instance, a justifiable increase in the rental may cause a drop in the percentage of minority tenants, but may not be racially motivated and so may not violate the FHA.
+

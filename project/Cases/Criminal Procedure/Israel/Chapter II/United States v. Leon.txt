@@ -1,0 +1,15 @@
+Synopsis of Rule of Law
+Reasonable reliance upon an otherwise invalid search warrant does not render evidence obtained during the search inadmissible.
+
+Issue
+Whether evidence obtained under a search warrant issued by a neutral and detached judge, but ultimately found to be unsupported by probable cause shall be excluded?
+
+Held
+Justice Byron White (”J. White”) filed the majority opinion.  No, only when a warrant is grounded upon an affidavit knowingly or recklessly false has the Supreme Court of the United States (”Supreme Court”) suppressed the evidence obtained as a result.  First, the exclusionary rule is designed to deter police misconduct rather to punish magistrates and judges for their errors.  Second, there exists no evidence that judges and magistrates are inclined to ignore the Fourth Amendment of the Constitution (”Constitution”) and that their actions would require the ultimate sanction of exclusion.  Third, there is no evidence that suppression of evidence obtained under a search warrant will have any deterrent effect upon judges and magistrates.  Judges and magistrates are not adjuncts to law enforcement officials and as such are neutral and have no stake in the outcome of criminal prosecutions.  The suppression of evidence obtained pursuant to a search warrant should be ordered only on
+
+Dissent
+Justice William Brennan (”J. Brennan”) filed a dissenting opinion joined by Justice Thurgood Marshall (”J. Marshall”).  The Fourth Amendment of the Constitution must be read to condemn not only the initial unconstitutional invasion of privacy, but also the subsequent use of any illegally obtained evidence.  The exclusionary rule was part and parcel of the Fourth Amendment’s limitation upon governmental encroachment of individual privacy.  The Court’s only support for its decision is that even though the costs of exclusion are not very substantial, the potential deterrent effect in these circumstances is so marginal that exclusion cannot be justified.  The chief deterrent function of the rule is its tendency to promote institutional compliance with the Fourth Amendment of the Constitution.  The good faith exception will encourage police to provide only the bare minimum necessary for securing a search warrant.
+
+Discussion
+This case presents the good faith exception provided to law enforcement officials in reliance upon search warrants issued by neutral and detached judges that later are revealed to be lacking in probable cause.  The officer must reasonably rely upon the search warrant while obtaining the evidence.  The judge must be neutral and detached.  The affiant must not have provided false information.
+

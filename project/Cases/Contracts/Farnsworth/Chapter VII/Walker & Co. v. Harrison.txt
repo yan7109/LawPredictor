@@ -1,0 +1,21 @@
+Citation
+347 Mich. 630, 81 N.W.2d 352, 1957 Mich.
+
+Brief Fact Summary
+Walker & Co. (Plaintiff) leased a sign to Herbert Harrison (Defendant) under a written contract, with payment to be made monthly. Plaintiff did not maintain the sign to Defendant’s satisfaction, and Defendant ceased payments on the lease. The trial court awarded Plaintiff the value of the entire lease, and the Supreme Court of Michigan affirmed.
+
+Synopsis of Rule of Law
+A party who wrongfully repudiates an agreement will be found to be in material breach of the contract.
+
+Facts
+Defendant entered into a written contract with Plaintiff for the construction, installation, and maintenance of an advertising sign. Payment was to be made in installments. Plaintiff installed the sign, and Defendant made one payment. Defendant complained of damage to the sign, and requested maintenance from the Plaintiff under the written agreement. When the Plaintiff did not respond, Defendant notified Plaintiff that he would make no further payments on the contract. Plaintiff sued on the contract. The trial court held that Defendant wrongfully repudiated the agreement, and awarded damages to the Plaintiff. The Supreme Court of Michigan affirmed.
+
+Issue
+Whether a party may repudiate an agreement for any breach of that agreement by the other party?
+
+Held
+No. A party may only repudiate an agreement when there has been a material breach of the contract by the other party.
+
+Discussion
+A party who believes that his contract has been breached by the other party sufficient to justify repudiation of the agreement must proceed with caution, as courts are reluctant to find a material breach sufficient to warrant repudiation. Compare with the different approach in the Uniform Commercial Code, which provides for cure, suspension of performance, and damages for partial breach.
+

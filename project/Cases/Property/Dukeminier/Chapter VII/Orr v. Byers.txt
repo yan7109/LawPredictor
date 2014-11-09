@@ -1,0 +1,21 @@
+Citation
+198 Cal. App. 3d 666, 244 Cal. Rptr. 13, 1988 Cal. App.
+
+Brief Fact Summary
+The Plaintiff, Orr (Plaintiff), was in possession of a judgment lien against an Elliot, which he recorded. However, Elliot’s name on the lien was misspelled. The individual sold property to the Defendant, Byers (Defendant) and the lien did not show by a title search. Plaintiff sued to foreclose on the lien.
+
+Synopsis of Rule of Law
+A misspelling of a name is a material issue and thus the doctrine of idem sonans cannot be applied to give constructive notice to good faith purchasers for value of real property.
+
+Facts
+In 1978 the Plaintiff obtained a judgment against Elliott. However when the judgment was recorded, Plaintiff’s attorney identified Elliott wrong. Elliott obtained title to land and sold it to the Defendant. When Defendant ran a title report, the Plaintiff’s judgment failed to show up on it. Plaintiff filed an action against the Defendant and Elliott, essentially to foreclose on his judgment lien. The trial judge found for the Defendant and Plaintiff appealed.
+
+Issue
+Whether the Defendant had constructive notice of Plaintiff’s judgment lien.
+
+Held
+Affirmed. The doctrine of idem sonans cannot be applied to give constructive notice to good faith purchasers for value of real property.
+
+Discussion
+The court focused on why a misspelling with respect to recording a judgment lien is material. The court ruled that to allow the judgment lien holder to prevail would place an undue burden on good faith purchasers for value of real property. These individuals would in reality never be sure if the property they intend to purchase was free of liens.
+

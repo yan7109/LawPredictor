@@ -1,0 +1,21 @@
+Brief Fact Summary
+The Superior Court of Alameda County (California) granted the County of Alameda’s (Appellees) general demurrer in Appellants’ claims for damages in connection with the murder of their son. Appellants sought review.
+
+Synopsis of Rule of Law
+The determination of whether or not to release an offender was a discretionary decision, which is entitled to immunity under Cal. Gov’t Code Section: 820.2, when made by the appropriate authorities. The decision to parole someone, comprises the resolution of policy considerations, entrusted by statute to a coordinate branch of government, that compels immunity from judicial reexamination.
+
+Facts
+A juvenile offender, James F., was in the custody of Appellee. The complaint in the instant case alleged that James F. knew he had “latent, extremely dangerous and violent propensities regarding young children and that sexual assaults upon young children and violence connected therewith were a likely result of releasing [him] into the community.” It was further alleged that James F. had stated that if released he would kill a neighborhood child. The county nevertheless released him, temporarily, into his mother’s custody, without warning local police or nearby families. Almost immediately, James F. sexually assaulted and murdered a five year-old boy, Appellants’ son. Appellants brought a wrongful death action against Appellees. The trial court sustained Appellee’s demurrer.
+
+Issue
+Whether any action or inaction by Appellee in releasing a known dangerous juvenile offender on temporary release had led to the death of Appellants’ son; and
+
+Held
+The Supreme Court of California held that the county “had no affirmative duty to warn Plaintiffs, the police, the mother of the juvenile offender, or other local parents.” With regard to the question of immunity, the county was protected under Cal. Gov’t Code Section: 820.2, because the decision not to warn was a matter of discretion. Further, pursuant to Cal. Gov’t Code Section: 845.8(a), immunity was granted specifically to decisions regarding the release of a prisoner.
+
+Dissent
+Justice Tobriner in his dissent launches his argument in two prongs: 1) the propriety of the granting of demurrer; and 2) a challenge to the Appellee’s immunity.
+
+Discussion
+Many jurisdictions confer immunity on local officials, and the California statutes upon which the court in Thompson relied, are fairly representative of those in many jurisdictions. The determination of whether or not to release someone from custody is discretionary under Cal. Gov’t Code Section: 820.2 when made by the appropriate authorities. Further, this decision necessarily relies on policy considerations, which has been entrusted by statute, to a coordinate branch of government. Therefore, Appellee is granted immunity in this action. The court further amplified its reasoning with respect to the practical and policy considerations behind its decision, noting, “The legislature has concluded that the benefits to society from rehabilitative release programs mandate their continuance. Within this context and for policy reasons the duty to warn depends upon and arises from the existence of a prior threat to a specific identifiable victim.”
+

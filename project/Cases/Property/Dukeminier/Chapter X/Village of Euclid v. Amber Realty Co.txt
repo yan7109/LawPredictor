@@ -1,0 +1,21 @@
+Citation
+272 U.S. 365, 47 S. Ct. 114, 71 L. Ed. 303, 1926 U.S. )
+
+Brief Fact Summary
+The Appellee was the owner of a tract of land re-zoned under a city ordinance. The Appelle brought action against the Village of Euclid (Appellant) seeking to prohibit enforcement of the ordinance because it greatly reduced the value of the owner’s land by restricting its use.
+
+Synopsis of Rule of Law
+Zoning in general is Constitutional unless arbitrary or unreasonable.
+
+Facts
+The owner alleges the tract is vacant, but was being held for the purpose of selling and developing it for industrial uses. The value of the land for industrial use was $10,000 per acre and the value for residential use was no more than $2500 per acre. A portion of the plot was classified for only single and two-family residences. No apartment houses. Another part would encompass apartment houses, but not industrial or commercial uses. Euclidian zoning ordinances had divided the city into six classes of use districts. Some restricted use to single or two family dwellings. Such use districts were alleged to generally interfere with property values and market opportunities associated with a particular lot.
+
+Issue
+Whether the zoning ordinance violated the constitutional protection of property, (substantive due process) because it was an unreasonable and confiscatory regulation under the police power?
+
+Held
+To be unconstitutional, the regulation set forth must be clearly arbitrary and unreasonable. The Supreme Court of the United States (Supreme Court) found that the zoning plan was reasonably related to public safety, health, morals and public welfare and were thus in general constitutional. The Supreme Court explained why a state might find that uses might need to be restricted from certain areas. For example, apartment houses might be nuisances by blocking light, bringing more traffic and disturbing noise and could potentially destroy the residential character of the neighborhood. The state could regulate these problems by restricting the use of certain zones of property. The general features of the ordinance, thus, were a valid exercise of authority, but the court acknowledged that more specific considerations of the provisions might reveal pieces that are unreasonable.
+
+Discussion
+Adoption of similar use districts or use restrictions has become referred to popularly as “Euclidian” zoning. The relief sought, an injunction required a careful scrutiny of two factors. First, whether some parts might be arbitrary and unreasonable. Second, whether there was irreparable injury. The court found that it was generally reasonable but did not examine specific applications of the zoning plan. The court did not consider the “takings” implication.
+

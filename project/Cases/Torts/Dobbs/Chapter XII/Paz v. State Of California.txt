@@ -1,0 +1,24 @@
+Citation
+4th 550, 93 Cal.Rptr.2d 703, 994 P.2d 975 (2000)
+
+Brief Fact Summary
+The Court of Appeal of California, Second Appellate District, Division Three reversed the Superior Court, Los Angeles County, grant of summary judgment to defendants and imposed tort liability. Appellant sought review.
+
+Synopsis of Rule of Law
+A negligent undertaking claim of liability to third parties requires evidence that: (1) the actor undertook, gratuitously or for consideration, to render services to another; (2) the services rendered were of a kind the actor should have recognized as necessary for the protection of third persons; (3) the actor failed to exercise reasonable care in the performance of the undertaking; (4) the actor’s failure to exercise reasonable care resulted in physical harm to the third persons; and (5) either (a) the actor’s carelessness increased the risk of such harm, or (b) the actor undertook to perform a duty that the other owed to the third persons, or (c) the harm was suffered because either the other or the third persons relied on the actor’s undertaking. Restatement Torts, 2d Section:324.
+
+Facts
+The city, as a condition of granting a permit, required a development company to install traffic signals and road markings. The developer subcontracted an engineering firm that, in turn, subcontracted another firm to design and install the signals. Nearly two years went by, and the signals had not been installed (partially due to delay in the subcontractor’s obtaining permits from the state). Plaintiff was riding his motorcycle and crashed into a car at an intersection in the residential neighborhood under development. Plaintiff sued several defendants, including the state and its transportation department, claiming negligence in their failure to install traffic signals. The Superior Court granted defendants’ motion for summary judgment. The Court of Appeal reversed.
+
+Issue
+Was Plaintiff owed a duty pursuant to the “negligent undertaking” statute?
+
+Held
+No. The court held that under the negligent undertaking theory, three conditions were required none of which was present in the case at bar.
+
+Dissent
+The dissent takes the view that a relationship of reliance existed between Plaintiff and the State as a result of the contract with the developer, thus the State owed a duty and the third condition of the statute was met. “Once a developer has made a commitment to install a needed safety measure as a condition of obtaining a development permit and goes ahead with work under the permit . . . the local entity and the public reasonably anticipate that the safety measure in question will be provided within a reasonable period of time.”
+
+Discussion
+The primary consideration with regard to negligence actions and tort law generally is whether Defendant owed a duty of care to Plaintiff. As the court explained, “The general rule is that a person who has not created a peril is not liable in tort for failing to take affirmative action to protect another unless they have some relationship that gives rise to a duty to act. However, one who undertakes to aid another is under a duty to exercise due care in acting and is liable if the failure to do so increases the risk of harm or if the harm is suffered because the other relied on the undertaking.” The California statute upon which the court relied (see above) generally reflects the principle employed in most jurisdictions, i.e., a person (or in this case, an entity) typically has no legal obligation to control the conduct of another or to take steps to protect another from harm absent a special relationship.
+

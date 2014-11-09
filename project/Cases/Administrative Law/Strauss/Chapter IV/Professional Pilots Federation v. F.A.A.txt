@@ -1,0 +1,21 @@
+Citation
+118 F.3d 758, 326 U.S. App. D.C. 157, 74 FEP Cases 345 (D.C. Cir. 1997)
+
+Brief Fact Summary
+Pilots sought new rulemaking from the F.A.A. to the Age 60 Rule.
+
+Synopsis of Rule of Law
+The standard of “arbitrary and capricious” applies to an agency’s decision to initiate rulemaking as well as to actual rulings.
+
+Facts
+In 1993, the Professional Pilots Federation (PPA) petitioned the FAA to repeal the Age 60 Rule. The FAA denied the motion in 1995, opting to retain the Rule as-is.
+
+Issue
+Whether the FAA violated the APA by “1) not affording adequate consideration to the reasonable alternatives proposed by various commenters [sic]; (2) reaching a decision that is against the weight of the evidence; and (3) failing to provide any reasoned basis for treating older pilots differently than other groups of pilots who create as great or greater a safety risk.”
+
+Held
+No to all. The Court of Appeals for the D.C. Circuit first decided that the “arbitrary and capricious standard” was sufficient in this case. The Court first found that the PAA’s argument that the FAA had ignored the option of alternative testing insufficient, as the FAA had definitively shown that no scientific testing can “adequately determine which individual pilots are subject to incapacitation.” Second, the Court found that the FAA had adequately explained “the difference in treatment it affords to pilots over the age of 60.” Older pilots, the FAA reasoned, are subject to greater health risks than younger pilots.
+
+Discussion
+“If the FAA was justified in imposing the Rule in the first place then we cannot say that, simply because it is the Rule itself that blocks the generation of data necessary to reconsider the Rule, it was unreasonable for the FAA to find that it lacks those data.”
+

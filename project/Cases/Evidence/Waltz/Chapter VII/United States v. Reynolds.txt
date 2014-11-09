@@ -1,0 +1,15 @@
+Citation
+178 L. Ed. 2d 583
+
+Brief Fact Summary
+Defending against a wrongful death claim arising out of a test flight, the Air Force refused to turn over documents from the flight citing national security privilege.  The Supreme Court of the United States (”Supreme Court”) upheld the Air Force’s right to claim privilege.<span class="heading">Synopsis of Rule of Law.</span> The government can assert privileges against discovery on the basis of national security if the privilege claim is appropriate under the circumstances.
+
+Facts
+A test flight carrying both civilians and military took place, the purpose of which was to test secret equipment.  The plane caught fire and crashed, killing all but three of the occupants.  Survivors of the dead brought a wrongful death claim against the Air Force.  During the discovery process, the plaintiffs sought all the flight records, as well as testimony from the surviving crew members.  The Air Force, citing national security privileges, refused the trial court’s and appellate court’s orders to turn over that information.  The Supreme Court upheld the government’s right to claim national security privileges where appropriate.<span class="heading">Issue.</span> Does the government have absolute privilege to deny discovery because of national security privilege?
+
+Held
+No.  Mere government assertion of privilege is not enough to bar discovery, but the government can assert such privileges if it can show its assertion is appropriate under the circumstances.<span class="heading">Dissent.</span> The minority cited the Third Circuit opinion of the case, which argued that a sweeping government privilege was contrary to public policy.  That appellate court added that the executive branch cannot decide to which cases such privilege applies and that the Tort Claims Act (the “Act”) had stripped the military of its ability to claim privileges in tort cases.
+
+Discussion
+This case created what is now known as the state security privilege. This privilege, however, must be balanced against the circumstances on which it is based and the effect on the opposing party’s ability to receive a fair trial.  The Supreme Court sided with the government in part because of the times
+

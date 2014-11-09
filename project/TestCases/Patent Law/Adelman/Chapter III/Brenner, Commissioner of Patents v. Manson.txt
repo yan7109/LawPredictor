@@ -1,0 +1,24 @@
+Citation
+383 U.S. 519 (1966)
+
+Brief Fact Summary
+The Patent Office (Defendant) found Manson's (Plaintiff) process for making certain steroids unpatentable because it did not disclose a utility for the steroids.
+
+Synopsis of Rule of Law
+A process or a product which has no known use or is only useful as an object of scientific research is not eligible for patent because it is not "useful."
+
+Facts
+Plaintiff wanted to patent a process to produce certain known steroids and requested "interference" be declared to find that his patent application had priority over one filed earlier by Ringold and Rosenkranz that allegedly covered the process.  An "interference" proceeding is used to settle the priority of patent applications filed close in time on basically the same invention.  Plaintiff's patent application was rejected for "failure to disclose any utility for" the chemical compound produced by the process.  Plaintiff appealed the decision stating that steroids of a class which included the compound his product produced were undergoing screening for possibly reducing tumors in mice, and that a homologue close to his steroid had proven effective in doing so.  He also argued that his process would be a useful step in further research which might develop other useful processes and compounds.  The Court of Customs and Patent Appeals held for Plaintiff.
+
+Issue
+Is a process or a product which has no known use or is only useful as an object of scientific research eligible for patent?
+
+Held
+(Fortas, J.)  No.  A process or a product which has no known use or is only useful as an object of scientific research is not eligible for patent because it is not "useful."  If it was shown that the steroid produced by this process was likely to reduce tumors in mice it would be sufficient to establish "utility," but Defendant determined that was not shown.  There for the process was not eligible for patent.  Reversed.
+
+Dissent
+(Harlan, J.)  In chemistry, one discovery builds upon the next and new processes and products without "utility," which was too narrowly defined by the majority, may permit someone else to take a further step leading to a commercially useful item.  One job of the patent laws is to encourage this activity.
+
+Discussion
+Before 1950, the question of whether the chemical compound produced by a process which was the subject of a patent application was "useful" was not addressed.  Prior to that time, Defendant seemed to assume that chemical compounds were necessarily useful and failed to make any specific inquiries other than determining that the process did indeed produce the designated chemical compound.
+

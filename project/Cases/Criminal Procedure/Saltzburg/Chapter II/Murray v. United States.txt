@@ -1,0 +1,24 @@
+Citation
+487 U.S. 533, 108 S. Ct. 2529, 101 L. Ed. 2d 472 (1988)
+
+Brief Fact Summary
+Two agents trailing the petitioner forced entry into a warehouse containing the petitioner’s vehicle.  They discovered marijuana.  Subsequently, they returned with a warrant.
+
+Synopsis of Rule of Law
+The independent source doctrine “applies . . . to evidence initially discovered during, or as a consequence of, an unlawful search, but later obtained independently from activities untainted by the initial illegality.”
+
+Facts
+Petitioner Murray was under surveillance by federal agents.  They observed Murray and a co-conspirator drive separate vehicles to a warehouse.  Inside, the two agents saw two more individuals and a tractor-trailer.  The petitioner and his co-conspirator turned their respective vehicles over to other persons.  Based on this, agents forced entry into the warehouse without a warrant.  Observing bales of marijuana, the agents left, and kept watching the warehouse until they had a warrant.
+
+Issue
+“Whether, . . . assuming evidence obtained pursuant to an independently obtained search warrant, the portion of such evidence that been observed in plain view at the time of a prior illegal entry must be suppressed.”
+
+Held
+No.  The court applied the “independent source” rule formulated in Segura, permitting evidence found “independently”, despite an improper search.  In the present case, “knowledge that the marijuana was in the warehouse was assuredly acquired at the time of the unlawful entry.  But it was also acquired at the time of entry pursuant to the warrant, and if the later acquisition was not the result of the earlier entry, there is no reason why the independent source doctrine should not apply.”  This was applied to the “tangible evidence”:  the bales.  However, the court was uncertain as to whether “the search pursuant to the warrant was in fact a genuinely independent source of the information and tangible evidence at issue here.”  The agents did not reveal the original search to the magistrate issuing the warrant.  Thus, they remanded to the Court of Appeals “with instructions that it remand to the District Court for determination whether the warrant-authorized search of the warehou
+
+Dissent
+The dissenting justices were concerned that by applying the independent source rule to the facts of this case, the court “loses sight of the practical moorings of the independent source exception and creates an affirmative incentive for unconstitutional searches.”
+
+Discussion
+“The independent source doctrine . . . rest[s] upon the policy that, while the government should not profit from its illegal activity, neither should it be placed in a worse position than it would otherwise have occupied.”
+

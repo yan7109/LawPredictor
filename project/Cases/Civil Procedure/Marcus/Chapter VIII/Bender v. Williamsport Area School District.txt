@@ -1,0 +1,21 @@
+Citation
+475 U.S. 534, 106 S. Ct. 1326, 89 L. Ed. 2d 501, 1986 U.S.
+
+Brief Fact Summary
+A group of students in Williamsport, Pennsylvania formed a club called “Petros” for the purpose of promoting spiritual growth and positive attitudes in the lives of its members. Initially, the principal allowed the group to hold an organizational meeting but, as a result of a legal opinion from the school district’s solicitor, both the principal and the school superintendent refused to allow the students to hold further meetings on school premises. Subsequently, the school board denied the group’s appeal of the superintendent’s decision.
+
+Synopsis of Rule of Law
+Article III of the United States Constitution requires a party who invokes the court’s authority to show that he personally suffered some actual or threatened injury as a result of the putatively illegal conduct of the defendant, that the injury is fairly traceable to the challenged action, and that the injury is likely to be redressed by a favorable decision.
+
+Facts
+As a result of the school board decision, ten of the students (Plaintiffs) filed suit in the United States District Court against the Williamsport Area School District, the nine members of the school board, the superintendent and the school principal (Defendants). After discovery, the parties filed cross-motions for summary judgment. The final order entered by the district court was a ruling in favor of the Plaintiffs, but did not allow for injunctive or other relief. After the decision, the school board decided to allow the students to conduct the requested meetings. However, John C. Youngerman (Youngerman), a lone member of the school board, filed a Notice of Appeal.
+
+Issue
+Whether one member of a school board has standing to appeal from a declaratory judgment against the entire board?
+
+Held
+Although the school board, itself, had a sufficient stake in the outcome of the litigation to appeal, an individual board member cannot invoke the board’s interest in the case to confer standing upon himself. Further, because Youngerman did not invoke standing as a parent in the district court action, the dissent’s rationale should not apply.  <br/><br/><span class='heading'>Dissent.</span> Youngerman had standing to appeal as a parent of a student at Williamsport High School. Parents have standing to challenge conditions in public schools that their children attend.  Concurrence. The lawsuit before the court is one between the student group and the school board, not between the group and Youngerman, as a parent. However, Youngerman could have pursued this appeal had he intervened in the lawsuit in his capacity as a parent.
+
+Discussion
+There is little in the complaint to suggest that relief was sought against any individual school board member in his or her individual capacity. Further, the district court’s judgment did not grant relief against any individual school board member. The   court found that since the judgment against Youngerman was not in his individual capacity, he had no standing to appeal in that capacity.
+

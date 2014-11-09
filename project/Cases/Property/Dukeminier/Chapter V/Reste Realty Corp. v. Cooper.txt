@@ -1,0 +1,21 @@
+Citation
+53 N.J. 444, 251 A.2d 268, 1969 N.J. 33 A.L.R.3d 1341
+
+Brief Fact Summary
+Tenant’s office space was periodically flooded due to a faulty driveway, which was not part of the lease. After requesting and waiting for relief, tenant vacated the premises and the landlord sued for rent.
+
+Synopsis of Rule of Law
+Constructive eviction occurs when an act by the landlord render the premises substantially unsuitable for the purposes for which they are lease and seriously interferes with the beneficial enjoyment of the property.
+
+Facts
+The Defendant, Cooper (Defendant), leased from the Plaintiff, Reste Realty Corporation (Plaintiff), the bottom floor of a building for commercial use, for a term of five years. One year after signing the first lease, the Defendant signed a second lease giving her more of the bottom floor. The driveway was not part of the Defendant’s leasehold. Whenever it rained, the water ran off into the Defendant’s office space. Plaintiff’s management was aware of the problem and promised to fix it. When the manager died, the new management paid no attention to Defendant’s request. Defendant sent a notice of vacation and Plaintiff sued to recover rent for the unexpired term of the lease. The trial court found constructive eviction and found for the Defendant. The appellate court reversed and Defendant appealed.
+
+Issue
+Whether the covenant of quiet enjoyment was breached by the landlord and thus gave the tenant the remedy of constructive eviction.
+
+Held
+Reversed. Periodic flooding of tenant’s office space after landlord promised to fix the problem and tenants repeated requests for relief, constituted a constructive eviction.
+
+Discussion
+The court discussed the standard for constructive eviction and various factors the court would analyze as to whether the landlord did in fact interfere with the covenant of quiet enjoyment to allow the court to impose this remedy. The court also noted that the landlord must have notice and that the tenant cannot consent to the defect that makes the property unsuitable. Here, although the tenant signed a second lease with the knowledge that the office space flooded periodically, they signed the lease under the belief that the landlord would soon remedy the problem.
+

@@ -1,0 +1,24 @@
+Citation
+491 U.S. 617, 109 S. Ct. 2667, 109 S. Ct. 2646, 105 L. Ed. 2d 528 (1989)
+
+Brief Fact Summary
+Petitioners brought suit to clarify their alleged right to attorney’s fees under the drug forfeiture statute that their client was being tried under.
+
+Synopsis of Rule of Law
+When a defendant is under an Order of Forfeiture, he may not use those assets, even to pay for his defense.
+
+Facts
+Petitioners, Caplin & Drysdale, Chartered, were retained by Chrisotpher Reckmeyer who was charged with running a massive drug importation and distribution scheme.  Reckmeyer was given a restraining order, which forbade him from distributing any of his assets; however, notwithstanding that order, he distributed $25,000.00 to petitioners for pre-indictment costs and at the time of his plea, petitioners assert they were owed another $107,000.00 in fees.  Petitioners filed a claim to have their fees recognized (claiming that their client had a 6th amendment right to choose his counsel) which was recognized by the District Court; however, the Court of appeals reversed, finding that the statute contained no exemption for assets which were to be used for private counsel of defendant’s choice.
+
+Issue
+Whether attorney’s fees are exempt from forfeiture under the drug forfeiture statute that the attorney’s client is being tried.
+
+Held
+While there is a sixth amendment right to counsel, it does not abrogate a restraining and forfeiture order.  Affirmed.
+
+Dissent
+For the Dissent, Justice Blackmun, maintained that the holding of this case would directly affect an accused’s Sixth Amendment right to counsel, because an accused has the right to choose his counsel.
+
+Discussion
+The Sixth Amendment right to counsel is a constitutional guarantee; however, there is not always a right to choose counsel.  Consider the case of the indigent defendant who cannot afford and therefore cannot choose his own counsel.  That defendant must take whatever counsel he is given.  Once the defendant obeys a forfeiture order, as in this case, he is on equal footing with the indigent and, while his counsel may have performed the work, they cannot later argue they have a right to fees that were not his to pay.
+

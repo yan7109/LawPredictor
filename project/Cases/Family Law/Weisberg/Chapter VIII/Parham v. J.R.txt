@@ -1,0 +1,21 @@
+Citation
+442 U.S. 584,99 S. Ct. 2493,61 L. Ed. 2d 101,1979 U.S.
+
+Brief Fact Summary
+Appellees, juveniles committed to state mental hospitals, brought a class action suit claiming that Georgia’s voluntary commitment procedures for children under 18 violated the Due Process Clause of the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+A factfinding hearing prior to commitment is not required because it is unlikely that such a hearing would be more reliable than the findings of a mental health professional.
+
+Facts
+Appellee J.R., a plaintiff in this class action suit, was a child being treated in a Georgia state mental hospital.  Appellants are the State’s Commissioner of the Department of Human Resources, the Director of the Mental Health Division of the Department of Human Resources, and the Chief Medical Officer at the hospital where appellee was being treated.  Appellee sought a declaratory judgment that Georgia’s voluntary commitment procedures for children under 18 violated the Due Process Clause of the Fourteenth Amendment.  Two other plaintiffs included J.L., whose mother requested his indefinite commitment at the hospital and J.R., a neglected child who was removed from his parents by the state and eventually admitted to the hospital.
+
+Issue
+What process is constitutionally due a minor child whose parents or guardian seek state administered institutional health care?
+
+Held
+Periodic review is required for continued commitment, but an initial factfinding hearing is not required.
+
+Discussion
+The Court found that a factfinding hearing prior to commitment was constitutionally unrequired, but that periodic review was necessary.  The Court remanded for the District Court tot determine if the periodic review was sufficient, suggesting that more rigorous review may be necessary for wards of the state.
+

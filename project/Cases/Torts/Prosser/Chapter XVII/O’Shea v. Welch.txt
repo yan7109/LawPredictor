@@ -1,0 +1,18 @@
+Citation
+350 F.3d 1101 (10th Cir. 2003)
+
+Synopsis of Rule of Law
+When determining whether an employee has embarked on a slight or substantial deviation, courts must examine various factors including: 1) the employee’s intent; 2) the nature, time, and place of the deviation; 3) the time consumed in the deviation; 4) the work for which the employee was hired; 5) the incidental acts reasonably expected by the employer; and 6) the freedom allowed to the employee in performing his job responsibilities.
+
+Facts
+Defendant Welch was a manager of an Osco store. While driving to the district office of Osco to deliver football tickets obtained from a vendor for distribution to Osco managers, Defendant stopped at a service station to get a cost estimate, and while turning into the station, Defendant hit Plaintiff O’Shea. Plaintiff sued Osco for vicarious liability and Defendant for negligence. The District Court held that no jury could conclude that Defendant was acting within the scope of his employment when he stopped at the service station.
+
+Issue
+Whether a jury could determine that the employee’s conduct was within the scope of his employment (i.e. was there a triable issue of fact to determine whether employee’s deviation from his work errand was slight or substantial)?
+
+Held
+Yes, a reasonable jury could conclude that Defendant Welch was acting within the scope of his employment when he attempted to turn into the service station.
+
+Discussion
+“An employee is acting within the scope of his employment when he is performing services for which he has been employed, or when he is doing anything which is reasonably incidental to his employment. The test is not necessarily whether this specific conduct was expressly authorized or forbidden by the employer, but whether such conduct should have been fairly foreseen from the nature of the employment and the duties relating to it.”Applying various factors (the rule of law above) to determine whether the Defendant Welch made only a slight deviation, the court noted that the station was right off the main road on the route to Defendant Osco’s district office. The court also determined that Defendant’s purpose was to get an estimate for a vehicle regularly used in his job duties. Consequently, his stop for routine maintenance used for business purposes could be considered enough of a mixed purpose by a jury to keep him within his scope of employment. A jury could also find that because the accident occurred on the road, not at the station, Defendant was still on his errand route on behalf of his employer. Moreover, a manager may be given latitude to conduct personal errands incidental to the duties of driving from store to store during the day, such that the employer expected the incidental acts to take place.
+

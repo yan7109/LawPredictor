@@ -1,0 +1,21 @@
+Citation
+94-2101, 1994 BL 610, 3 AD Cases 914 (E.D. Pa. July 13, 1994)
+
+Brief Fact Summary
+Plaintiff James Bridges commenced an action against Defendant Diesel Service Inc. under the Americans with Disabilities Act, but failed to exhaust administrative remedies prior to the start of litigation.
+
+Synopsis of Rule of Law
+Rule 11 sanctions should be reserved for those exceptional circumstances where the claim asserted is patently unmeritorious or frivolous.
+
+Facts
+Plaintiff filed an action against the Defendant under the Americans with Disabilities Act, alleging that he was dismissed from his job as a result of a disability. Plaintiff’s complaint was dismissed without prejudice for failing to exhaust administrative remedies. In particular, Plaintiff did not file a charge with the Equal Employment Opportunities Commission until after litigation began. Defendant moved for sanctions pursuant to Fed. R. Civ. P. 11.
+
+Issue
+Is the failure to exhaust required administrative remedies before filing litigation, sufficient to warrant sanctions under Rule 11?
+
+Held
+Although not without precedent, sanctions were not issued in this case. Sanctions were denied and the plaintiff’s case was dismissed without prejudice.   Rule 11 is not intended as a general fee-shifting device; instead its primary goal is deterrence of improper conduct.  Rule 11 sanctions should be reserved for those exceptional circumstances where the claim asserted is patently unmeritorious or frivolous.
+
+Discussion
+Although Rule 11 requires that an attorney display a competent level of legal research before filing papers either to initiate a suit or conduct the litigation, the failure to do so should not necessarily result in monetary sanctions where the mistake is procedural rather than substantive, and where not necessary to deter future misconduct.
+

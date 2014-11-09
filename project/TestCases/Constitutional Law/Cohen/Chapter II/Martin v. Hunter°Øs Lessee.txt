@@ -1,0 +1,21 @@
+Citation
+22 Ill.14 U.S. 304, 1 Wheat. 304, 4 L. Ed. 97 (1816)
+
+Brief Fact Summary
+Under state statute, Virginia confiscated property belonging to British subjects. Virginia conveyed some of this property to other people, and a complaint arose between heirs of the British subjects and the new owners of the property as to who owned the land.
+
+Synopsis of Rule of Law
+If there is an issue as to the constitutionality of a state or federal statute, act, or any other type of law, the Supreme Court has the power to determine whether or not the law is constitutional under the U.S. Constitution.
+
+Facts
+Lord Fairfax of England acquired property in Virginia before his death in 1781. This property descended to his relative, Thomas Martin. In 1777, Virginia passed a statute, which allowed the state to confiscate property owned by loyalist British subjects. In 1789, Virginia conveyed the land, confiscated from Lord Fairfax, to David Hunter. Hunter, in turn, leased it to a third party. Lord Fairfax’s heirs remained on the property and Hunter’s Lessee brought an action for ejectment. The Virginia Court of Appeals sustained Hunter’s Lessee’s claim. The U.S. Supreme Court reversed the Court of Appeal’s decision holding that the Treaty of 1794, between the U.S. and England, authorized Lord Fairfax’s heirs to maintain ownership of the land. The Treaty of 1794 set certain guidelines whereby the United States and England could resume their relations and allowed English subjects to reclaim property confiscated in this manner. The Supreme Court remanded the case. The Court of Appeals refus
+
+Issue
+Does the Supreme Court have the power to determine the constitutionality of state court decisions?
+
+Held
+The Supreme Court held that it was unconstitutional for Virginia to apply the state statute authorizing confiscation of property when the Treaty of 1794 between England and the United States addressed property ownership among each country’s subjects, and allowed these subjects to keep the property they had acquired.
+
+Discussion
+This case dealt with a conflict between a state statute and a federal treaty. Although Virginia argued that its sovereignty as a state allowed it to determine whether a state court decision was unconstitutional, the Supreme Court held that the Constitution limits state sovereignty in many ways. Furthermore, the Court held that interpretations of the Constitution need to be uniform throughout the states.
+

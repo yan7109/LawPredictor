@@ -1,0 +1,24 @@
+Citation
+444 U.S. 11, 100 S. Ct. 242, 62 L. Ed. 2d 146 (1979)
+
+Brief Fact Summary
+A statute established to address the abuses of Congress was used to support Petitioner’s private cause of action.
+
+Synopsis of Rule of Law
+If a statute does not express a private cause of action, then, that cause of action cannot be granted.
+
+Facts
+The Investment Advisers Act of 1940 (Act) was enacted to deal with abuses in the investment advisers industry. A shareholder of Petitioner, Mortgage Trust of America (Petitioner), brought this action in a federal district court as a derivative action on behalf of Petitioner, several individual trustees, the Trust investment adviser, Transamerica Mortgage Advisors, Inc. (TAMA), and two of its affiliated corporations. The Respondent’s complaint alleged that Petitioner in the course of advising or managing the Trust had been guilty of various frauds and breaches of fiduciary duty. The complaint outlined three cause of action including that the advisory contract provided for grossly excessive compensation and was not properly registered. It also alleged that Petitioners breached their fiduciary duty to Petitioner by causing it to purchase securities of inferior quality, and that the Petitioner had misappropriated profitable investment opportunities for the benefit of other compani
+
+Issue
+Whether the Act creates a private cause of action for damages or other relief in favor of persons aggrieved by those who allegedly have violated it?
+
+Held
+(Justice Stewart). No. The Act does not create a private right of action for damages or other relief in favor of persons aggrieved by those who allegedly have violated it. Although the Act does not expressly provide for a private cause of action, Congress’ declaration that some contracts were void indicates that a suit for rescission would follow to end the contractual obligations, and an action for restitution may follow. There is a limited private remedy provided by the Act to void a contract of an investment adviser. The Act does not outline a private cause of action. “[t]he mere fact that the statute was designed to protect advisers’ clients does not require the implication of a private cause of action for damages on their behalf.” The judgment of the court of appeals is affirmed in part and reversed in part, and the case is remanded for further proceedings consistent with this opinion.
+
+Dissent
+(Justice White). The majority opinion departs from established principles governing the implication of private rights of action by confusing the inquiry into the existence of a right of action with the question of available relief.
+
+Discussion
+The ruling of this case seems to be inconsistent. The Court affirms the opinion of the court of appeals, which suggests that implying a private right of action is “necessary to achieve the goals of Congress in enacting the legislation,” but reverses because no private right of action for damages can be granted because there is no mention of damages in the Act.
+

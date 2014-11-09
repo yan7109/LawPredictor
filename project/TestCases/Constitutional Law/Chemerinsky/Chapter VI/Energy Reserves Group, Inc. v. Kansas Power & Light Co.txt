@@ -1,0 +1,21 @@
+Citation
+459 U.S. 400, 103 S. Ct. 697, 74 L. Ed. 2d 569, 1983 U.S.
+
+Brief Fact Summary
+The state of Kansas regulated the price of natural gas sold in the intrastate market. It prohibited natural gas producers from charging higher prices even if the federal government set higher prices.
+
+Synopsis of Rule of Law
+A state law restricting ones profit expectations is not a substantial impairment of a contractual obligation.
+
+Facts
+The Petitioner, Energy Reserves Group (Petitioner), had a contract with the Respondent, Kansas Power & Light (Respondent) that allowed the price paid for the gas to increase if federal regulators increased the price to an amount greater than the contract amount.
+
+Issue
+Is this provision a violation of the Contracts Clause of the United States Constitution (Constitution)?
+
+Held
+No. Price regulation existed and was foreseeable at the time of contracting. Therefore, the Kansas law did not impair Petitioner’s contractual expectations. Also, the state has a legitimate interest in correcting any discrepancy between the interstate and intrastate markets.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) articulates a three-part test for determining when a state government interferes with private contracts: (1) is there a substantial impairment of the contractual provisions; (2) does the impairment serve a significant and legitimate interest and (3) is the law reasonably related to the legitimate state purpose.
+

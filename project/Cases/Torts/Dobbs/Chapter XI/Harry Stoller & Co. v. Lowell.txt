@@ -1,0 +1,21 @@
+Citation
+412 Mass. 139, 587 N.E.2d 780 (1992)
+
+Brief Fact Summary
+The Superior Court (Massachusetts) entered a judgment notwithstanding the verdict in Appellant’s action against Appellee based upon the alleged negligence of city firefighters in fighting fires in the owner’s buildings. The court concluded that the city was exempt from liability under the discretionary function exception of Section 10 (b) of the Massachusetts Tort Claims Act. The Appellant appealed.
+
+Synopsis of Rule of Law
+Discretionary immunity protects government officials from tort liability when, in their official capacity, they make decisions founded on planning or policy considerations.
+
+Facts
+Appellee’s property, which consisted of five brick buildings, was destroyed in a fire that began on the sixth floor of one of the buildings. A sprinkler system, that had been tested just days before, was available, but firefighters, departing from accepted practice, opted not to use it. They unsuccessfully fought the fire with hoses, and the buildings were destroyed. A jury awarded Appellee damages in the amount of $785,000.00, but the trial judge granted a judgment not withstanding the verdict for the Appellant pursuant to the state discretionary immunity statute.
+
+Issue
+Was the means employed by the firefighters the subject of discretionary choice therefore granting them immunity from liability?
+
+Held
+No. The conduct that caused the fire to engulf all the owner’s buildings was not founded on planning or policy considerations, and was negligent. The firefighters therefore had no discretionary immunity. The court reversed the trial court’s entry of a judgment notwithstanding the jury.
+
+Discussion
+Governmental immunity protects the government from tort liability.
+

@@ -1,0 +1,21 @@
+Citation
+11 Cal.4th 85, 44 Cal.Rptr.2d 420, 900 P.2d 669 (1995)
+
+Brief Fact Summary
+Freeman & Mills (Plaintiff) is awarded a tort remedy under its breach of contract claim.
+
+Synopsis of Rule of Law
+Tort and breach of contract remedies should not be awarded under the same claim unless the claim contains independent issues that support a claim for each type of remedy.
+
+Facts
+A jury verdict was granted in favor of Plaintiff in its breach of contract action against Belcher Oil Company (Defendant) for failing to pay accounting fees to Plaintiff as part of a service agreement between the two parties. The jury awarded the Plaintiff compensatory and punitive damages. The punitive damages were awarded as a remedy under tort law since Defendant denied the existence of the contract and acted with oppression, fraud, or malice. The court of appeals did not find a special relationship between the parties, which would justify a tort theory, and therefore, reversed and remanded the case on the issue of the Plaintiff’s breach of contract claim. The court reexamined the ruling in Seaman’s Direct Buying Service, Inc. v. Standard Oil Co., 36 Cal. 3d 752 (1984), which allowed, in breach of contract case, a tort cause of action for bad faith denial of contract.
+
+Issue
+Whether a party to a contract may recover in tort for another party’s bad faith denial of the contract’s existence?
+
+Held
+(Justice Lucas). No. A party to a contract may not recover in tort for another party’s bad faith denial of the contract’s existence. The holding in Seaman’s Direct Buying Service, Inc. v. Standard Oil Co. is overruled. Seaman’s Direct Buying Service has left many courts confused as to the scope and application of its holding. If there is no independent duty arising from principles of tort law, then tort recovery should not be considered an added remedy under breach of contract cases. If bad faith denials of liability within the scope of Seaman were included in breach of contract cases, then potentially every contract breach could also include a tort remedy. The judgment of the court of appeals is affirmed.
+
+Discussion
+Even though the court decides not to include tort remedies with breach of contract remedies, it does reserve tort remedies in implied covenant in insurance cases and civil remedies created by legislation.
+

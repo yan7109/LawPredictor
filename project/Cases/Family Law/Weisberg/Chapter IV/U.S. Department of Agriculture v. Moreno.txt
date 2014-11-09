@@ -1,0 +1,27 @@
+Citation
+413 U.S. 528,93 S. Ct. 2821,37 L. Ed. 2d 782,1973 U.S.
+
+Brief Fact Summary
+An amendment to the Food Stamp Act prevented households made up of unrelated individuals from participating in the program.  A class action suit was brought, and the District Court found a Due Process violation.
+
+Synopsis of Rule of Law
+The amendment was not rationally related to a legitimate governmental interest, therefore it violated the Due Process Clause.
+
+Facts
+The Food Stamp Act of 1964 (Act) was established to alleviate hunger and malnutrition among the more needy segments of society.  Eligibility was determined on a household rather than individual basis.  The household pays for stamps to provide an adequate diet at a reduced rate based upon its size and cumulative income.  The Government redeems the stamps at face value from stores, thereby paying the difference.  The Act initially defined household as group of related or non-related individuals, who are not residents of an institution or boarding house, but living as one economic unit sharing common cooking facilities for whom food is customarily purchased in common.  In 1971 Congress redefined the term household to include only related individuals.  The Secretary of Agriculture subsequently promulgated regulations rendering households whose members are not all related ineligible.  Appellees consist of several groups of individuals who allege that they have been excluded solely
+
+Issue
+Did the District Court err in finding the Act’s amendment that households be related unconstitutional?
+
+Held
+The amendment to the Act violates the Due Process clause of the Fifth Amendment.
+
+Dissent
+This Court’s role should be limited to rational basis analysis.  Related households provide a guarantee that unrelated households do not, that the household exists for some purpose other than to collect federal food stamps.
+
+Concurrence
+Many peripheral rights associated with freedom of association are exercised not necessarily in assemblies that congregate in halls or auditoriums but in discrete individual actions such as parents placing a child in the school of their choice.  The unrelated person provision was not aimed at the maintenance of normal family ties.  It penalizes persons or families who have brought under their roof an unrelated needy person.  I cannot say the provision has no rational relation to the prevention of fraud, but because we deal with the right of association, the Act must be narrowly drawn.
+
+Discussion
+The majority finds the amendment to violate the Due Process clause, while the concurrence finds a constitutional violation based upon freedom of association.  The dissent would find a rational relation to a legitimate state interest in the amendment.
+

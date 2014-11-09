@@ -1,0 +1,24 @@
+Citation
+447 U.S. 557, 100 S. Ct. 2343, 65 L. Ed. 2d 341, 1980 U.S.
+
+Brief Fact Summary
+A ban prohibiting electrical utilities from engaging in promotional advertising was invalidated by the Supreme Court of the United States (Supreme Court) after failing to satisfy a four-part test.
+
+Synopsis of Rule of Law
+In commercial speech restriction cases, the Supreme Court must determine whether the expression is protected by the First Amendment of the United States Constitution (Constitution). First, for commercial speech to come within that provision, it at least must concern lawful activity and not be misleading. Second, the Supreme Court must ask whether the asserted governmental interest is substantial. If both inquiries yield positive answers, the Supreme Court must determine, third, whether the regulation directly advances the governmental interest asserted and fourth, whether it is not more extensive than is necessary to serve that interest.
+
+Facts
+The Appellee, New York Public Service Commission (Appellee), prohibited electrical utilities from engaging in promotional advertising designed to stimulate demand for electricity. The Appellee permitted “institutional and informational” advertising not intended to promote sales.
+
+Issue
+Whether the Appellee ban prohibiting electrical utilities from engaging in promotional advertising is more extensive than necessary to further the state’s interest in energy conservation?
+
+Held
+Yes. Judgment of the lower court reversed. The Appellee’s order restricts only commercial speech. Here there is a substantial state interest in conserving energy. Moreover, the state’s interest in energy conservation is directly advanced by the order at issue. There is an immediate connection between advertising and the demand for electricity. The Appellee’s order prevents the Appellant, Central Hudson Gas (Appellant), from promoting heat services that would reduce energy by diverting demand from less efficient sources. The Appellee also has not demonstrated that its interest in energy conservation cannot be protected adequately by more restrictive regulations of Appellant’s commercial expression. In an absence of a showing that more limited speech regulation would be ineffective, the complete suppression of Appellant’s advertising cannot be approved. Therefore, the Appellee ban prohibiting electrical utilities from engaging in promotional advertising is more extensive than nec
+
+Dissent
+Speech of a state-created monopoly is not protected by the First Amendment of the Constitution. This ban on advertising is permissible state regulation of an economic activity.
+
+Discussion
+This case set forth a new four-part test to be applied where there are challenges to commercial speech regulations.
+

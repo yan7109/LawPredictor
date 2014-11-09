@@ -1,0 +1,21 @@
+Citation
+370 Mass. 303,346 N.E.2d 879,1976 Mass.
+
+Brief Fact Summary
+Florence R. Troland was the beneficiary of a trust created by her husband.  Under the trust, If Troland remarried, she was to stop receiving payments.  When Troland remarried, she continued to receive payments and did not notify the trustee that she had remarried.
+
+Synopsis of Rule of Law
+If a person makes a representation of a fact, as of his own knowledge, in relation to a subject matter susceptible of knowledge, and such representation is not true; if the party to whom it is made relies and acts upon it, as true, and sustains damage by it, it is fraud and deceit, for which the party making it is responsible.  This standard is included in cases involving misrepresentations in the accounts of fiduciaries.  Fraud will exist where the fiduciary has made no reasonable efforts to ascertain the true state of the facts it has misrepresented in the accounts.  If a trustee makes a payment to a person other than the beneficiary entitled to receive the money, he is liable to the property beneficiary to make restitution unless the payment was authorized by a proper court.
+
+Facts
+Troland was the widow of Leonard T. Troland.   He left all of his real and personal property in trust with the Cambridge Trust Company bank with the net income of the trust, after expenses to be paid to or deposited to the account of his wife, Troland.  He also provided that on his wife’s death or second marriage, the bank would transfer the trusteeship to the National Research Council of Washington, D.C. to constitute a trust to be known as the Troland Foundation for Research in Psychophysics.  Troland remarried on February 13, 1945 and became Florence R. Flynn.  She continued to receive disbursements from the bank.  She instructed the bank to mail the payments in her same name to her brother-in-law (who was married to her sister.)  Her sister would endorse them and forward them to Troland who bore a different name.  Troland would endorse the checks as “Florence Troland” and return them to her sister who would deposit them in the bank.  The bank did not learn of her remarriag
+
+Issue
+Whether the bank committed technical fraud when it issued checks to Florence R. Troland, even though she was not entitled to receive payments because she had remarried? Whether the bank was properly charged by the Probate Court judge for the amounts erroneously disbursed and the simple interest on the payments
+
+Held
+Yes.  The bank issued checks to a “Florence R. Troland” and the bank was susceptible to the knowledge that Troland had remarried and the academy relied to its detriment on these representations.  Furthermore, the bank never took any efforts in the twenty-two years that it covered the disputed accounts to ascertain if Troland had remarried, even to the extent of annually requesting a statement or certificate from her to that effect Yes.  Because the bank made a payment to Troland and she was not entitled to receive the payment, it is liable to the academy to make restitution.
+
+Discussion
+The trustees had a duty to ensure that they were following the rules of the trust.  Because they were to transfer the trust upon the beneficiary’s remarriage or death, they had a duty to take reasonable steps to ascertain whether the beneficiary had remarried or died.
+

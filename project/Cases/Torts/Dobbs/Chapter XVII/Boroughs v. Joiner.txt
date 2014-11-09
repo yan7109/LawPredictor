@@ -1,0 +1,21 @@
+Citation
+337 So. 2d 340 (Ala. 1976)
+
+Brief Fact Summary
+An Alabama trial court entered summary judgment in favor of Joiner (Defendant), a landowner, in an action over damages to another’s property allegedly sustained during crop spraying. Boroughs’ (Plaintiff’s) neighbor appealed.
+
+Synopsis of Rule of Law
+One who employs an independent contractor to do work involving a special danger to others which the employer knows or has reason to know to be inherent in or normal to the work, or which he contemplates or has reason to contemplate when making the contract, is subject to liability for physical harm caused to such others by the contractor’s failure to take reasonable precautions against such danger.
+
+Facts
+Plaintiff alleged that Defendant subcontracted a third party, Carter, to spray Joiner’s crops with insecticide. Boroughs contended that Carter used an intrinsically dangerous chemical, which he sprayed from an aircraft, which contaminated his pond, killing the fish and depreciating the value of his property. The trial judge granted Defendant’s Motion for Summary Judgment on the ground that Carter was an independent contractor. Boroughs appealed.
+
+Issue
+Is one responsible for the negligent acts of his independent contractor when such acts are inherently or intrinsically dangerous?
+
+Held
+The court reversed the grant of summary judgment, holding that the aerial application of insecticides and pesticides fell into the intrinsically or inherently dangerous category, so the landowner could not insulate himself from liability simply because the activity in question was performed by an independent contractor.
+
+Discussion
+Certain activities create such serious risks that the defendant may be vicariously liable (in this case when the activity in question was performed by an independent contractor). As the court explained, while “[o]ne is not ordinarily responsible for the negligent acts of his independent contractor,” there are exceptions. “One is that a person is responsible for the manner of the performance of his nondelegable duties, though done by an independent contractor, and therefore, that one who by his contract or by law is due certain obligations to another cannot divest himself of liability for a negligent performance by reason of the employment of such contractor.” Thus the court stated, “[i]t is generally recognized that one who employs a contractor to carry on an inherently or intrinsically dangerous activity cannot thereby insulate himself from liability.” The court then described such dangerous activity: “[a]n intrinsic danger in an undertaking is one which inheres in the p
+

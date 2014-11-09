@@ -1,0 +1,21 @@
+Citation
+110 F. Supp. 801, 1953 U.S. Dist. 3163
+
+Brief Fact Summary
+Plaintiff Black Industries, Inc., contracted with Defendant, George F. Bush, for Defendant to provide certain components at a specified price, which Plaintiff then resold at a significant profit.
+
+Synopsis of Rule of Law
+A contract is void as against public policy if: (1) it is a contract by the defendant to pay the plaintiff for inducing a public official to act in a certain manner; (2) it is a contract to do an illegal act; or (3) it is a contract that contemplates collusive bidding on a public contract.
+
+Facts
+Plaintiff, a company manufacturing drills, machine parts and components thereof and a purchaser of subcontract work from other suppliers, won the bid from the Hoover Company to supply certain parts to it at a specified price. Plaintiff then contracted with Defendant to supply the parts under the contract for a much lower price. Plaintiff then intended to keep the difference between the amount it billed the Hoover Company and the amount Defendant charged for the parts. Plaintiff initiated this action when Defendant failed to complete the order. In its defense, Defendant asserts that the contract is void as against public policy because Defendant turned a profit of 84.09% on anvils, 39.13% on holder primers and 68.33% on plunger supports. Since the end products containing these components were to be used in “the defense effort,” i.e. the Korean War, Defendant claims that these “profits” would be passed on to the government and the public.
+
+Issue
+Is this contract void as against public policy?
+
+Held
+No. A contract is void as against public policy if: (1) it is a contract by the defendant to pay the plaintiff for inducing a public official to act in a certain manner; (2) it is a contract to do an illegal act; or (3) it is a contract that contemplates collusive bidding on a public contract. Certainly, none of these situations are present here. Further, the contract was entered into between businessmen dealing at arm’s length without any evidence of fraud. Hence, the contract is not void.
+
+Discussion
+Voiding a contract on public policy grounds is very difficult. The situations calling for the voiding of a contract are rare. A court is unlikely to intervene in a contract between businessmen dealing at arm’s length.
+

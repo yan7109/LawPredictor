@@ -1,0 +1,24 @@
+Citation
+326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)
+
+Brief Fact Summary
+A sales solicitor employed by the International Shoe Company, a non-resident corporation, was served with process in Washington in an effort to obtain unemployment contributions from International Shoe in Washington state court.
+
+Synopsis of Rule of Law
+
+
+Facts
+Appellant, International Shoe, was a Delaware corporation with its principal place of business in Missouri. It was engaged in the manufacture and sale of shoes and other footwear. Appellant had no office in Washington and made no contracts for sale of purchase of merchandise there. It maintained no stock of merchandise in that state and made no deliveries of goods there. During the years 1937 to 1940, Appellant employed 11 to 13 salespeople who resided in Washington, and whose principal activities occurred in Washington. The authority of the salesmen was limited to exhibiting their samples and soliciting orders from prospective buyers. The salesmen sent the orders to Appellant’s headquarters in Missouri, and merchandise was shipped from points outside Washington to the purchasers within the state. Pursuant to the Washington Unemployment Compensation Act, the state of Washington attempted to obtain funds from Appellant. The notice of assessment was personally served in the state of Washington upon a sales agent of the Appellant Corporation. Appellant made a special  appearance to oppose jurisdiction, which was denied by the Appeal Tribunal. After the Washington Supreme Court upheld the order making Appellant subject to suits in its state courts, this appeal followed.
+
+Issue
+Whether a non-resident corporation with no offices within a state, and making no contracts there, is subject to jurisdiction in the state by virtue of soliciting sales orders within the state and shipping merchandise to the state.
+
+Held
+Yes. The majority held that in order to subject a Defendant to a suit in personam, due process only requires that the Defendant maintain certain minimum contacts with the state.  An estimate of the inconveniences which would result to the corporation from a trial away from its “home” or principal place of business is relevant
+
+Concurrence
+Justice Black concurred. His opinion stresses that the United States Constitution leaves to each state, a power to tax and open the doors of its courts for  its citizens to sue corporations whose agents do business in those states, without exception.
+
+Discussion
+In determining whether a court can properly exert jurisdiction over a Defendant, the court will look to whether the Defendant maintains sufficient minimum contacts with the forum state.  Due process is satisfied where the Defendant has such minimum contacts with a given state such the maintenance of the suit does not offend traditional notions of fair play and substantial justice. Presence in a state, giving rise to sufficient minimum contacts to maintain a suit against a Defendant corporation, exists when the activities of the corporation have been continuous and systematic. Conversely, it is generally recognized that the casual presence of a corporate agent or conduct of single or isolated activities within a state are not sufficient to subject the Defendant corporation to jurisdiction in that state if the suit is not connected with those single or  isolated activities.  Activities, like those of Appellant, which are neither irregular nor casual, and result in a large volume of interstate business, satisfy the minimum contacts test. Generally, where a corporation exercises the privilege of conducting activities within a state, it enjoys the benefits and protections of the laws of that state, such that it is subject to defending a suit in that state.
+

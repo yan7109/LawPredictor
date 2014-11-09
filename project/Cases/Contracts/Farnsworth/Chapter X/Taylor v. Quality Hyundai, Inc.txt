@@ -1,0 +1,21 @@
+Citation
+150 F.3d 689, 1998 U.S. App.
+
+Brief Fact Summary
+The Plaintiffs, Jerry and Mary Taylor (Plaintiffs), sued the Defendants, Quality Hyundai, Inc. (Quality) and Bank One (Defendants), for violations of the Truth in Lending Act (TILA).
+
+Synopsis of Rule of Law
+Any civil action brought for a violation of the TILA that may be brought against a creditor, may be maintained against any assignee of the creditor, but only if the violation of the TILA is apparent on the face of the disclosure statement.
+
+Facts
+The Plaintiffs purchased a new car with an extended warranty from Quality, a dealer. The Plaintiffs signed an installment contract committing $12,081 for the car and $1,395 for the warranty. Quality gave them a TILA disclosure form that contained the heading “Amounts Paid to Others for You.” Underneath this heading was the amount paid to the warranty provider. Quality assigned the entire installment contract to Bank One. In addition to this case, another case, brought by Davita Smith, was consolidated with it for appeal. The Plaintiffs in each case allege that the statements indicating that extended warranty charges were “Amounts Paid to Others for You” were false, in that the creditors did not pay the full amount to the warranty provider.
+
+Issue
+Are these actions maintainable against the assignees of the creditors?
+
+Held
+No. Any civil action brought for a violation of the TILA that may be brought against a creditor may be maintained against any assignee of the creditor, but only if the violation of the TILA is apparent on the face of the disclosure statement. An apparent violation includes, but is not limited to, a disclosure that can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned or a disclosure that does not use the terms required to be used by the TILA. In the present cases, the Plaintiffs argued that the assignees, as active participants in the lending market, knew of lending practices in the industry. The court rejected this by stating that the awareness of the practices of some creditors is not the same as knowledge of an inaccurate or incomplete disclosure. Since no violation of the TILA was apparent on the face of the disclosure, the actions cannot be maintained against the assignees.
+
+Discussion
+Any civil action brought for a violation of the TILA that may be brought against a creditor, may be maintained against any assignee of the creditor, but only if the violation of the TILA is apparent on the face of the disclosure statement.
+

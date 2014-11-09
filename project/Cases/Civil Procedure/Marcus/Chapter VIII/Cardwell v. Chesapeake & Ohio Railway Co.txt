@@ -1,0 +1,21 @@
+Citation
+504 F.2d 444, 1974 U.S. App.
+
+Brief Fact Summary
+This case resulted from an appeal of an order overruling a Reserved Motion for a Directed Verdict in a Federal Employers’ Liability Act (FELA) action to recover damages for injury and for wrongful death. The jury awarded $10,500.00 for injuries sustained, but was unable to decide whether the death was caused by the injury suffered.
+
+Synopsis of Rule of Law
+28 U.S.C. Section: 1292(b) was not intended to authorize interlocutory appeals in ordinary suits for personal injuries or wrongful death, which can be tried on their merits and decided within a few days.
+
+Facts
+On August 14, 1969, Winfred M. Cardwell (Plaintiff) filed a complaint under the FELA alleging that her husband, Mr. Cardwell, sustained a back injury while he was employed at Chesapeake & Ohio Railway Co. (Defendant) in Huntington, West Virginia. The injury occurred when he attempted to close a locomotive cab door that had been left hanging on its right upper hinge. After his death, Plaintiff, as administratrix of the estate, filed an Amended Complaint, which alleged that her husband’s death was the result of the accident. A jury found that the accident resulted from the combined negligence of Mr. Cardwell and Defendant. It returned a verdict of $10,500.00. From this verdict, interlocutory appeal was sought as to the question of whether Mr. Cardwell’s death resulted from Defendant’s negligence.
+
+Issue
+Whether there was sufficient competent evidence of the causal relationship between the injury and death for the submission of this claim to the jury?
+
+Held
+The court declined to decide this issue because it appeared to be precisely the kind of ordinary suit for personal injuries or wrongful death that can be tried on its merits and decided within a few days. Therefore, it should not be considered on interlocutory appeal.
+
+Discussion
+The court based its decision upon the extraordinary nature of the interlocutory appeal. In the decision, the court noted that Congress intended that the interlocutory appeal should be used sparingly, i.e., only in exceptional cases. This was an ordinary suit for injury and wrongful, which can be tried and decided within a few days. Therefore, there was no need for an interlocutory appeal.
+

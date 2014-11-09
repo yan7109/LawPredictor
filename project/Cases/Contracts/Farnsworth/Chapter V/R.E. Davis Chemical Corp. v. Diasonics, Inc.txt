@@ -1,0 +1,21 @@
+Citation
+826 F.2d 678, 1987 U.S. App. 10996, 4 U.C.C. Rep. Serv. 2d (Callaghan) 369
+
+Brief Fact Summary
+Plaintiff R.E. Davis Chemical Corp. contracted with Defendant Diasonics, Inc. for the purchase of a piece of medical diagnostic equipment. Plaintiff paid a $300,000 deposit but then breached the contract. This dispute then arose over the proper amount of damages, specifically whether Defendant was a “lost volume seller.”
+
+Synopsis of Rule of Law
+A lost volume seller may recover for lost profits if it can prove not only that it had both the capacity to make the sale on the contract and to the resale buyer but also that it would have been profitable to make both sales.
+
+Facts
+Plaintiff and Defendant entered into a contract that Plaintiff subsequently breached. Before breach, Plaintiff had paid a deposit of $300,000 to Defendant. Plaintiff thereafter sued to recover its deposit. Defendant counterclaimed. While it acknowledged that Plaintiff is entitled to recover its $300,000 deposit minus $500 as provided under U.C.C. Section: 2-718(3), Defendant claimed it was a “lost volume seller” entitled to recover its lost profit on the contract.
+
+Issue
+Is Defendant a “lost volume seller” entitled to damages equal to lost profits due to the breach?
+
+Held
+Yes, provided it can prove that it had the capacity to produce both the device it contracted to produce and the device it would have produced for the resale buyer and that it would have been profitable to produce both. Unquestionably, the U.C.C. permits a seller to recover damages equal to the contract price minus the resale price. Here, Defendant resold the device for the same price that it would have sold the device to Plaintiff. Hence, it appears that there are no damages. However, a seller may elect to proceed under U.C.C. Section: 2-708, which permits a lost volume seller, defined as one that has a predictable and finite number of customers and that has the capacity either to sell to all new buyers or to make the one additional sale represented by the resale after the breach and such additional sale is profitable, to recover its lost profit on the sale. The case was therefore remanded to the district court for computation of lost profits.
+
+Discussion
+A “lost volume seller” is entitled to lost profits if it can prove that it is able and profitable to produce at least one more unit of the item sold.
+

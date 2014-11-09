@@ -1,0 +1,21 @@
+Citation
+435 U.S. 247, 98 S. Ct. 1042, 55 L. Ed. 2d 252, 1978 U.S. 69
+
+Brief Fact Summary
+The Supreme Court of the United States considered the elements and prerequisites for the recovery of damages of students who were suspended from public elementary and secondary schools without procedural due process.
+
+Synopsis of Rule of Law
+In absence of any proof of actual injury only nominal damages may be recovered.
+
+Facts
+Jariuss Piphus (Plaintiff) was caught smoking on school property by the school principal smoking.  The principal thought that Plaintiff was smoking marijuana.  The assistant principal imposed the usual twenty-day suspension for violation of the school rule against the use of drugs.  The Plaintiff argued that he had not been smoking marijuana.  A suspension notice was sent to the Plaintiff’s mother. A few days later, a meeting was held to discuss the reasons for the suspension, but not to determine whether the Plaintiff had actually been smoking marijuana.  Plaintiff and his mother filed suit against Defendants in Federal District Court under 42 U.S.C. Section: 1983 and 28 U.S.C. Section: 1343, alleging that the Plaintiff had been suspended without due process of law in violation of the Fourteenth Amendment.  Plaintiff sought declaratory and injunctive relief, along with actual and punitive damages in the amount of $3,000.  Plaintiff was readmitted to school under a temporary restraining ord
+
+Issue
+Whether a Plaintiff must prove actual injury by a deprivation of due process before he may recover substantial non-punitive damages?
+
+Held
+Yes.  The judgment is reversed and remanded.
+
+Discussion
+The Supreme Court of the United States draws on the general law of tort remedies to determine a constitutional tort.  The concept of tort remedies is that money damages should be sufficient to compensate the plaintiff for the harm caused by the defendant’s actions.
+

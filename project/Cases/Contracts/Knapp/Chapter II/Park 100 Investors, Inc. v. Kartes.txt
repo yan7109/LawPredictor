@@ -1,0 +1,21 @@
+Citation
+22 Ill.650 N.E.2d 347 (Ind. Ct. App. 1995)
+
+Brief Fact Summary
+Plaintiff, Park 100 Investors, Inc., entered into an agreement to lease facilities to Defendant Kartes. Defendant signed a personal guaranty of the lease after being told by Plaintiff that it was the lease agreement. After Defendant failed to make rent payments under the agreement, Plaintiff initiated this cause of action to hold Defendant personally liable for the unpaid rent.
+
+Synopsis of Rule of Law
+Fraud is an exception to the general rule that a party is held to their signature. Where the party’s signature is procured through fraud, the defrauded party is not held to the agreement.
+
+Facts
+Defendant entered in to an agreement to lease facilities from Plaintiff. Defendant provided a lease form to Plaintiff. The lease form did not include a personal guaranty of the lease. Additionally a personal guaranty was never discussed during the lease agreement negotiations. On the evening before Defendant was to move into the facility, Plaintiff presented Defendant with “lease papers” that needed to be signed that evening. Defendant called his attorney to confirm that the lease agreement had been approved before signing the “lease papers.” Plaintiff overheard Defendant’s call to the attorney and remained silent. Defendant signed the “lease papers” entitled “Lease Agreement.” Plaintiff never informed Defendant that the “Lease Agreement” was actually a personal guaranty of the lease.
+
+Issue
+Is the personal guaranty enforceable?
+
+Held
+No. The personal guaranty is not enforceable because Defendant’s signature on the guaranty was induced by fraud.
+
+Discussion
+In the present case, Defendant’s signature on the guaranty was obtained by fraud and misrepresentation. While the general rule is that a person is bound by their signature, where the signature is procured by fraud, the defrauded party will not be bound.
+

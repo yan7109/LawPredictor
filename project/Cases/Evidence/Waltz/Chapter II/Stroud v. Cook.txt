@@ -1,0 +1,21 @@
+Citation
+931 F. Supp. 733 (D. Nev. 1996)
+
+Brief Fact Summary
+The plaintiff and defendant were in a traffic accident.  The plaintiff admitted a record of the defendant’s misdemeanor conviction for failure to use due care in operation of his vehicle.
+
+Synopsis of Rule of Law
+A record of a misdemeanor conviction is not admissible under the Federal Rule of Evidence (”FRE”) Rule 802 because it is not a felony, but it could still be admitted under FRE Rule 803(8) as a public record.
+
+Facts
+The defendant was cited for failure to use due care in operating his vehicle right before he was in a traffic accident with the plaintiff.  The plaintiff wanted to introduce the conviction record to prove the defendant’s negligence.
+
+Issue
+Whether a misdemeanor conviction can be admitted as evidence?
+
+Held
+The misdemeanor conviction can be admitted as evidence as a public record.  In this case, it is admissible under FRE Rule 803(8) as a public record, or it is admissible under state law evidentiary rules.
+
+Discussion
+FRE Rule 802 restricts non-felony convictions because they are less reliable.  Parties are not as motivated to prove their innocence to the extent they would if it was a felony.  The point is moot if the court allows the misdemeanor under the public records exception.
+

@@ -1,0 +1,21 @@
+Citation
+313 U.S. 28, 61 S. Ct. 757, 85 L. Ed. 1168,  1941 U.S.
+
+Brief Fact Summary
+Petitioner inherited a lot and office building upon his father’s death.  The building came encumbered with a lease.  The tenant wanted out of the lease and Petitioner negotiated a buyout.
+
+Synopsis of Rule of Law
+Gross income includes gains, profits, and income derived from rent, or from any source whatsoever.
+
+Facts
+Petitioner acquired a lot and ten story office building from his father after he died in 1928.  When he became owner, the building was leased to a firm which sublet the main floor to the Irving Trust Co.  Petitioner’s father and Irving Trust Co. entered into an agreement wherein Petitioner’s father agreed to lease the main floor and basement to Irving Trust Co. for a fifteen year term.  Petitioner and Irving Trust Co. agreed to terminate the lease in consideration for a payment of $140,000 to Petitioner.  He did not include this in his gross income but reported a loss of $21,494.75.  His theory was that the amount he received for canceling the lease was less than the present value of the unmatured rental payments and the fair rental value of the main floor and basement for the unexpired term of the lease.  The Commissioner included the entire amount in Petitioner’s gross income.  The Board of Tax Appeals and the Circuit Court of Appeals affirmed.
+
+Issue
+May a taxpayer offset the value of the lease canceled against the consideration received for the cancellation in computing net gain or loss for income tax purposes?
+
+Held
+Justice Murphy issued the opinion for the Supreme Court of the United States in affirming the lower court and holding that Petitioner must report the entire amount as gross income.
+
+Discussion
+The Supreme Court found that the cancellation of the lease was a relinquishment of the right to future rental payments.  It may have diminished the total amount of income Petitioner would have received, but he is not required to pay income tax on those amounts.
+

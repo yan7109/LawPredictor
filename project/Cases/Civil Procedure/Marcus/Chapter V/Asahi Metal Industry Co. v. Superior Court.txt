@@ -1,0 +1,21 @@
+Citation
+480 U.S. 102, 107 S. Ct. 1026, 94 L. Ed. 2d 92, 1987 U.S.
+
+Brief Fact Summary
+In 1978, Gary Zurcher, a resident of the State of California, was injured when the rear tire of his Honda motorcycle exploded while he was driving on the freeway in California.
+
+Synopsis of Rule of Law
+Normally, if a non-resident defendant manufactures a product that it knows will be eventually sold in the forum state, this fact alone will be enough to satisfy minimum contacts under International Shoe. However, if this is the only contact that exists, it might be unreasonable to make the defendant manufacturer defend in the forum state. To hold otherwise would violate the Fourteenth Amendment’s due process guarantees.
+
+Facts
+Zurcher filed suit in California state court against Cheng Shin Rubber Company, a Taiwanese company that manufactured the tube used in the tire. Consequently, Cheng Shin filed a cross-complaint against Asahi Metal Industry Company, a Japanese company that supplied tube valve assemblies to Cheng Shin. Cheng Shin submitted an affidavit of its purchasing manager, which asserted that Asahi was aware that its valve assemblies would, ultimately, be used in products that were sold in California.
+
+Issue
+Whether knowledge by a defendant of the fact that a product manufactured by it will be eventually sold in a forum state might not be enough to satisfy minimum contacts analysis?
+
+Held
+In the case before the court, because of the heavy burden on the alien Defendant and the relatively small interests of the Plaintiff and the forum state, any exercise of jurisdiction by the California courts over Defendant would be unreasonable and unfair.  Concurrence. Two concurrences are offered. First, Justice Brennan, Justice White, Justice Marshall and Justice Blackmun concur in part and in the judgment (”Brennan Concurrence”). Justice Stevens, Justice White and Justice Blackmun also concur in part and in the judgment (”Stewart Concurrence”).   Brennan: The court should have followed the distinction created in World- Wide Volkswagen between a case involving goods, which reach a distant state through a chain of distribution and a case involving goods, which reach the same state because of a consumer.  Stevens: A distinction should not be drawn between the accepted standard of “purposeful availment” and the majority’s new test regarding “mere awareness.”
+
+Discussion
+Although the court found that the affidavit produced by Cheng Shin reliably showed that Asahi knew that its products would be used in products ultimately sold in California, this was not enough to satisfy minimum contacts. The burden on the   Defendant, as noted by the court, was simply too severe to impose minimum contacts in this case. Furthermore, the court focused on the unique burdens that would otherwise be placed on a truly foreign corporation having to defend its actions in a foreign legal system.
+

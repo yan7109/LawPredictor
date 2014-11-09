@@ -1,0 +1,21 @@
+Citation
+39 F.2d 209,1991 U.S. App.
+
+Brief Fact Summary
+Plaintiff, Kinney Shoe Corp., subleased a building to a corporation owned by Defendant, Lincoln Polan.  Plaintiff brought this action to hold Defendant personally liable for the money not paid on a sublease.
+
+Synopsis of Rule of Law
+A plaintiff can pierce the corporate veil if they demonstrated that the totality of the circumstances evidence that their was a unity of interest between the individual and the corporation, and that an inequitable result would occur if the individual was not held personally liable.
+
+Facts
+Plaintiff had a lease on a building that they were no longer using.  Plaintiff set up a sublease with Industrial Realty Company, which Defendant was the sole shareholder.  Defendant was also the sole shareholder of Polan Industries, and after Industrial subleased Plaintiff’s building they turned around and leased out a portion of the building to Polan Industries.  Industrial’s only asset was the sublease with Plaintiff.  There was no evidence of any corporate formalities such as the keeping of minutes or holding meetings.  Industrial only made one lease payment.  Plaintiff obtained a judgment for $166,400 but Industrial claimed bankruptcy.  Plaintiff then went after Defendant, claiming Industrial was an undercapitalized shell corporation to shield Plaintiff from liability.  The trial court agreed that Plaintiff demonstrated that there was a unity of interest between Defendant and Industrial, and that an inequitable result would result if the corporate liability was to stand.
+
+Issue
+The issue is whether Plaintiff can pierce the corporate veil and hold Defendant personally liable.
+
+Held
+Plaintiff can pierce the corporate veil and hold Defendant liable for the unpaid sublease.  The lower court was incorrect when they tried to impose a duty upon Plaintiff to check the credit and background of Industrial prior to the agreement to ensure they were capitalized to perform their obligations.  Defendant can not be relieved from his obligations by saying Plaintiff should have known better.
+
+Discussion
+This court generally follows the same two-step test as in Sea-Land Services, Inc. v. Pepper Source, but here they expressly decline to add the additional burden upon a plaintiff to perform background checks.
+

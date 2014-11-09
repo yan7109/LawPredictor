@@ -1,0 +1,21 @@
+Citation
+22 Ill.71 Cal.2d 342, 78 Cal.Rptr. 196, 455 P.2d 132 (1969)
+
+Brief Fact Summary
+Hutchinson (Defendant) was convicted of possession of marijuana for sale. On appeal, Defendant argued that the trial court committed prejudicial error in refusing to consider a juror affidavit detailing misconduct on the part of the court’s bailiff.
+
+Synopsis of Rule of Law
+Jurors are competent witnesses to prove objective facts to impeach a verdict under Section 1150 of the Evidence Code.
+
+Facts
+Within the affidavit, the juror certified that on multiple occasions, members of the jury felt rushed by the bailiff into reaching a verdict. The members of the jury were subject to both an angry tone and angry words from the bailiff concerning the length of time the jury was taking to deliberate. The juror also certified that, in his opinion, he agreed to a compromise verdict in order to prevent keeping the jury in deliberations overnight.
+
+Issue
+Can members of a jury be allowed to impeach their own verdict?
+
+Held
+The remarks that were made by the bailiff, combined with their tone and delivery constitute statements and conduct that are likely to have influenced the verdict improperly. As a result, the affidavit of the juror is admissible to prove the statements and conduct of the bailiff. Furthermore, the lower court’s order denying the Motion for New Trial is vacated.
+
+Discussion
+The scope of Section 1150 is quite limited. The only improper influences that may be proved under this section to impeach a verdict are those open to sight, hearing, and the other senses, and thus open to corroboration. In this case, because the bailiff’s tone and delivery can be found to adhere to these limited categories, the juror affidavit is admissi
+

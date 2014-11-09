@@ -1,0 +1,21 @@
+Citation
+22 Ill.64 Cal.2d 574, 51 Cal.Rptr. 225, 414 P.2d 353 (1966)
+
+Brief Fact Summary
+The defendant is a chiropractor who was convicted of second degree felony-murder in connection with the death of one of his patients. The underlying felony was grand theft and the defendant appeals the felony-murder charge.
+
+Synopsis of Rule of Law
+The strict liability of the felony-murder rule is limited to those felonies that are inherently dangerous.
+
+Facts
+The defendant, a chiropractor, was convicted of second degree murder in connection with the death of one of his patients. The deceased was a child with eye cancer and the defendant induced the child’s parents not to have the eye removed. The defendant represented that he could cure the child without surgery even though the parents had been advised that removing the eye was the only was to prolong the child’s life. The defendant charged the parents $700 for his alternative treatment and the child died within six months. The defendant was charged with grand theft and felony-murder. At trial, the jury received an instruction that rested on the felony-murder rule, the underlying felony being grand theft. The defendant appeals the jury instruction, arguing that the felony-murder rule does not apply to grand theft.
+
+Issue
+Does the felony-murder rule apply to grand theft? In other words, is grand theft an inherently dangerous felony such that it would support a felony-murder conviction?
+
+Held
+No. Judgment reversed.
+
+Discussion
+This case introduces the Inherently Dangerous Felony Limitation to the felony-murder doctrine. The Supreme Court of California adheres to the position that in determining whether a felony is inherently dangerous and therefore an appropriate basis for application of the felony-murder rule, we should not look at the specific facts of the case. For example, grand theft in the abstract is not an inherently dangerous crime. We do not care whether the way in which the defendant committed grand theft made it inherently dangerous. Compare this approach to that taken by the Supreme Court of Rhode Island in
+

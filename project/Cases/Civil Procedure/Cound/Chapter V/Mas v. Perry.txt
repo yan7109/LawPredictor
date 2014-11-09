@@ -1,0 +1,21 @@
+Citation
+22 Ill.489 F.2d 1396 (5th Cir. 1974)
+
+Brief Fact Summary
+Plaintiffs, one being a citizen of France and the other originally from Mississippi, were married in Mississippi. Plaintiffs moved to Illinois and then returned to Louisiana to allow Plaintiff to finish school. Plaintiffs sued Defendant in federal court in Louisiana and Defendant argued the federal court did not have jurisdiction because one Plaintiff and Defendant were both citizens of Louisiana.
+
+Synopsis of Rule of Law
+In order to be a “citizen” of a state for purposes of diversity jurisdiction under 28 U.S.C. Section: 1332, an individual must be domiciled in that state. An individual must reside in the state with the intent to remain within the state in order to be considered a domiciliary of the state. Citizenship is determined at the time the complaint is filed.
+
+Facts
+Jean Paul Mas, a citizen of France, and Judy Mas, the Plaintiffs, were a married couple. Judy was from Mississippi. The Mas’ were living in Illinois and intended to return to Louisiana, where they had lived before, to allow Judy to finish school. At this time, Plaintiffs sued Perry, Defendant and a citizen of Louisiana, in Federal Court. At the close of Defendant’s case at trail, Defendant made an oral motion to dismiss for lack of jurisdiction, claiming Judy Mas was a citizen of Louisiana. The motion was denied and judgment was entered against Defendant. Defendant appealed.
+
+Issue
+Does diversity of citizenship exist where Plaintiff Judy Mas was residing in as a student in Louisiana and consequently had no “intention” to remain there?
+
+Held
+Yes.   The general rule is that complete diversity of parties is required in order to obtain diversity of citizenship. No party on one side may be a citizen of the same state as any party on the other side. The diversity must be present at the time the complaint is filed. The burden of pleading diversity is on the party invoking federal jurisdiction.  The individual must be a citizen of the United States and domiciliary of the state, not just a resident of the state. “Citizenship” means domicile. Domicile is defined as an established home combined with an intent to remain indefinitely.  In order to change domicile, you have to take up residence in a different domicile. While Jean Paul Mas’ domicile is in a foreign country, it does not follow that Plaintiff’s domicile is in that country as well.  Judy’s status as a domiciliary in Mississippi was not altered by her living in Louisiana. Although she said she would not return to Mississippi, as a    student in Louisianshe lacked the “requisite intention” to remain in Louisiana. She was therefore still a domiciliary and citizen of Mississippi.
+
+Discussion
+The Court’s opinion holds that the individual’s state of residence is not necessarily their state of citizenship for purposes of diversity of citizenship. If facts exist showing that an individual does not intend to remain indefinitely in a state, such as Plaintiff’s status as a student here, then the plaintiff is not considered a “citizen” of that state.   Complete diversity must exist; meaning all parties on one side must reside in different states from all parties on the other side.
+

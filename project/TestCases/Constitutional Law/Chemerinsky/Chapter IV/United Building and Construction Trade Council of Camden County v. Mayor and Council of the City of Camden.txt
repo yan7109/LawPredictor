@@ -1,0 +1,21 @@
+Citation
+465 U.S. 208, 104 S. Ct. 1020, 79 L. Ed. 2d 249, 1984 U.S.
+
+Brief Fact Summary
+A municipal ordinance requiring that 40% of employees working on city-funded projects be residents of the city, was challenged under the Fourteenth Amendment of the United States Constitution’s (Constitutions) Privileges and Immunities Clause.
+
+Synopsis of Rule of Law
+The Privileges and Immunities Clause prevents states (and cities in this case) from discriminating against non-residents if two elements are met. First, the discrimination burdens a “fundamental” privilege. Here the fundamental privilege was employment. Second, there is no “substantial reason” for the discriminating treatment.
+
+Facts
+The Defendant, the City of Camden, New Jersey (Defendant) passed an ordinance that all city projects needed at least 40% of Camden residents. The Plaintiff, United Building and Construction Trade Council of Camden County (Plaintiff) challenged the ordinance under the Privileges and Immunities Clause, asserting that it discriminated against non-Camden residents. However, the Defendant contends that the Privileges and Immunities Clause (i) applies to states and not cities (ii) does not prohibit discriminatory laws based on municipal residency and (iii) does prohibit laws which also discriminate against in-state residents as well as out-of-state residents.
+
+Issue
+Does this law violate the Fourteenth Amendment of the Constitution’s Privileges and Immunities Clause?
+
+Held
+Yes, the Privileges and Immunities Clause prevents states and cities from discriminating against non-residents if (1) the discrimination burdens a “fundamental” privilege (here it was employment) and (2) there is no “substantial reason” for the discriminating treatment.
+
+Discussion
+There is a two-part analysis in determining whether a local ordinance violates the Privileges and Immunities Clause. First, a court must determine whether the discrimination burdens the “fundamental” privilege (here it was employment). Second, a court must determine whether there is no “substantial reason” for the discriminating treatment.
+

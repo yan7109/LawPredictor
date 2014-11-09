@@ -1,0 +1,21 @@
+Citation
+136 Wn.2d 350, 961 P.2d 952, 1998 Wash.
+
+Brief Fact Summary
+The Plaintiff, McCoy (Plaintiff), was injured when he was attempting to help at an accident sight and was hit by a car.
+
+Synopsis of Rule of Law
+The rescue doctrine may apply in products liability cases.
+
+Facts
+The Plaintiff was struck by a car while offering assistance at the scene of a car accident. The Plaintiff was following behind the driver of a Suzuki motor vehicle when it crashed. A state trooper arrived at the scene soon after and asked the Plaintiff to put flares on the road, which the Plaintiff did. After the accident scene and the injured parties were removed, the Plaintiff headed back to his car along the shoulder of the road carrying a lit flare in his roadside hand. He was then struck from behind by a passing car. The state trooper had pulled away and left the scene when the hit and run occurred. The Plaintiff sued various Defendants including the driver and the passenger of the Suzuki, the State for the negligence of the trooper and American Suzuki Motor Company along with its parent Suzuki Motor Company (Defendants).
+
+Issue
+Whether the rescue doctrine protects the Defendant from claims brought under a theory of products liability.
+
+Held
+Products liability, like any other tort, is subject to the rescue doctrine.
+
+Discussion
+* The rescue doctrine allows an injured rescuer to sue the party that caused the danger. The tortfeasor owes a duty to the rescuer that is similar to the duty they owed to the party injured in the first place. The doctrine also negates the presumption that the rescuer assumes risk of injury when undertaking a dangerous rescue as long as the rescuer does not act recklessly.<br />* The rescue doctrine requires that:<br />i.	The defendant acted negligently towards the person rescued and the negligence caused the danger to the rescuer,<br />ii.	The danger was imminent,<br />iii.	A reasonably prudent person would have concluded that the danger existed and<br />iv.	The rescuer acted with reasonable care.<br />* In this case, the court found that the Plaintiff met the requirements to achieve rescuer status.<br />* The rescuer doctrine was developed for public policy reasons because rescuers should be anticipated and should not be barred from bringing suit. There is no reason that this policy should not apply to situations where a manufacturer causes the danger. Therefore, for the rescuer to show causation, they only need to show that the defendant proximately caused the danger and that they were injured as a result of their actions as rescuer.<br />* It is a possibility that Suzuki’s negligence caused the Defendant driver’s accident and therefore they should not be protected from liability to the Plaintiff.
+

@@ -1,0 +1,21 @@
+Citation
+304 U.S. 64, 58 S. Ct. 817, 82 L. Ed. 1188, 1938 U.S.
+
+Brief Fact Summary
+Harry J. Tompkins (Plaintiff), a citizen of Pennsylvania, was injured while walking on a well-worn footpath that runs along the railroad tracks. A train operated by the Erie Railroad Company (Defendant) was passing along the railroad tracks, when an open door on the train hit Plaintiff and injured him. Defendant is a New York company.
+
+Synopsis of Rule of Law
+A federal court, in the exercise of its diversity jurisdiction, is required to apply the substantive law of the state in which it is sitting, including that state’s conflict of law rules. However, the federal courts should apply federal procedural law in diversity cases.
+
+Facts
+If Plaintiff had filed a negligence action in Pennsylvania, he probably would have lost because he was a trespasser and, as a result, the Defendant would have been liable only for gross, as opposed to ordinary negligence. However, Plaintiff filed his suit in the Southern New York federal court. By filing in federal district court, Plaintiff hoped that the court would follow the prior decision in Swift v. Tyson, ignoring the state common law and requiring him to establish ordinary negligence, as opposed to gross negligence by the Defendant. The district court applied “general law” and awarded Plaintiff $30,000.00 in damages. The court of appeals affirmed this decision on the same grounds.
+
+Issue
+Whether the decision, rendered in Swift v. Tyson, that allows federal judges to ignore state common law in diversity actions, should be overturned?
+
+Held
+Swift established that, absent state statutory law, federal courts should apply general law. The Supreme Court of the United States found that in applying this rule, there were many political and social defects. The intended benefits of this rule were never realized. Specifically, the rule prevented the uniform application of law throughout the United States. The Court concluded that the application of the rule in Swift had invaded rights, which were specifically reserved for the states by the United States Constitution. The effect of the decision in Erie is to require federal courts to apply state law on substantive issues, which includes judge-made common law as well as state statutes. As a result, Pennsylvania law must be followed in this case, which required that Defendant refrain from willful or wanton injury. This case was remanded for further proceedings in conformance with this opinion.  <br/><br/><span class='heading'>Dissent.</span> Justice Butler stated that no constitutional question was raised either in the proceedings below or in this action. As a result, Justice Butler believed that the Court should not consider any question not raised below and presented by the petition.  Concurrence. Justice Reed asserted that the majority reasoning was correct except insofar as it relied upon the “unconstitutionality” argument. All that was necessary was to say that the Swift construction of Section 34 of the Federal Judiciary Act of 1789 was   erroneous and reinterpret the words “the laws” to include the decisions of local state courts.
+
+Discussion
+The Court’s decision in Erie effectively overturned the ruling in Swift. Note that Erie only says that the substantive state common law shall apply to diversity actions. However, federal rules and policies shall govern litigation for any procedural issue that arises. Therefore, in any given case, it is possible for a federal court, sitting with diversity jurisdiction, to apply both state and federal law.
+

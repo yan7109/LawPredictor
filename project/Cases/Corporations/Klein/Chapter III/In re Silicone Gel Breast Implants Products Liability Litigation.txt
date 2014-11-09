@@ -1,0 +1,21 @@
+Citation
+887 F. Supp. 1447 (N.D. Ala. 1995)
+
+Brief Fact Summary
+Defendant, Bristol-Myers Squibb Co., moved for summary judgment after discovery, claiming that evidence has not been presented to justify piercing the corporate veil of a subsidiary company, Medical Engineering Corporation (”MEC”) and holding Defendant liable.
+
+Synopsis of Rule of Law
+In tort actions against corporations, a plaintiff needs to show that the corporation is an instrument of the stockholder, but there is no burden to prove fraud.
+
+Facts
+Defendant purchased the shares of MEC, a maker of silicone breast implants.  MEC was a wholly-owned subsidiary of Defendant, and Defendant exerted a significant amount of control over many MEC activities.  A Vice President of Defendant held a position on the board of directors of MEC, and he could not be outvoted.  MEC used Defendant’s publicity departments, legal department, research department, sales staff, and regulatory groups.  MEC needed budget approval from Defendant, and Defendant set salaries for MEC employees (which sometimes included Defendant’s own stock).  Defendant also listed their name on MEC products to offer a higher degree of creditability.
+
+Issue
+The issue is whether Defendant’s motion of summary judgment, arguing that evidence was not provided to justify piercing the corporate veil, should be granted.
+
+Held
+Defendant’s summary judgment motion should be denied.  The court argued that in cases where a plaintiff is arguing to pierce the corporate veil, a decision based upon a totality of the circumstances, summary judgments will rarely be applicable because the decision is so fact-based.  In this case, the evidence accumulated during discovery demonstrate a significant amount of facts that, if read most favorable to the non-moving party, demonstrate a good case for piercing the corporate veil and holding Defendant liable for their subsidiary’s product liability.  Since the cause of action is a tort action, product liability, there is no burden on the plaintiffs to establish fraud because there was no element of a mutual bargaining position and therefore no consent by the plaintiffs to the corporate structure of Defendant and it’s subsidiary.
+
+Discussion
+The burden of proof is lower in this case due to its nature in tort law.  The cause of action did not arise in any contractual obligation, so it was not a mere reliance upon an agreement that was violated.
+

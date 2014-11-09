@@ -1,0 +1,21 @@
+Citation
+941 F.2d 519 (7th Cir. 1991)
+
+Brief Fact Summary
+Plaintiff corporation, Sea-Land Services, Inc., delivered a shipment of peppers for Defendant, Pepper Source, but was never paid.  Plaintiff wanted to hold Pepper Source and the other Defendants, Gerald Marchese and other corporations he controlled, liable.
+
+Synopsis of Rule of Law
+The veil of limited corporate liability will be pierced when the plaintiff proves that 1) there is a unity of interest between the individual and the corporation, and 2) to allow the limited liability would promote an injustice or sanction a fraud.
+
+Facts
+Plaintiff delivered a shipment of peppers for Pepper Source, but they were not paid.  Marchese was the sole shareholder of Pepper Source. Marchese was also the sole shareholder of several other corporations, and he was a co-owner of an additional corporation.  Plaintiff asserted that the corporations were shells wherein Marchese shifted money around the different entities to avoid creditors collecting from the corporations.  Evidence was presented that showed Marchese treated the corporate accounts as his own personal account, and he frequently shifted money around.
+
+Issue
+The issue is whether Plaintiff can hold Marchese and each of his corporations liable for the uncollected debt.
+
+Held
+Plaintiff may be able to hold Marchese and his corporations jointly liable for the uncollected debt, but Plaintiff has yet to offer evidence to completely demonstrate that the corporate veil should be pierced.  The court applied the two-part “Van Dorn” test (from Van Dorn v. Future Chemical and Oil Corp., 753 F.2d 565 (7th Cir. 1985)) which required a plaintiff to not only prove that there is a unity of interest between the individual and the corporation, but the plaintiff must also establish that the allowance of a limited liability would sanction a fraud or promote an injustice.  In this case Plaintiff did not adequately offer evidence on the second point to be awarded a motion for summary judgment.
+
+Discussion
+The court sympathized with Plaintiff, and they questioned Marchese’s corporate doings, but the court stressed that Plaintiff needed to prove more than an injustice of an uncollected debt.
+

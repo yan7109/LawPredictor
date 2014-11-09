@@ -1,0 +1,21 @@
+Citation
+410 U.S. 224, 93 S. Ct. 810, 35 L. Ed. 2d 223 (1973)
+
+Brief Fact Summary
+Two railroad companies (Appellees) brought this action in the District Court for the Middle District of Florida to set aside the incentive per diem rates established by the Interstate Commerce Commission (Appellant) in a rulemaking proceeding.
+
+Synopsis of Rule of Law
+The Administrative Procedure Act (APA) states that none of its provisions limit or repeal additional requirements imposed by other statutes or law. Even though the Commission was not required to comply with Section:Section:556 and 557 of the APA, it was required to comply with the “hearing” requirement of the Interstate Commerce Act (Act).
+
+Facts
+There was a chronic freight-car shortage on the Nation’s railroads, and Congress responded by amending Section:1(14)(1) of the Act to expand the Commission’s authority to prescribe per diem charges for use by one railroad of freight cars owned by another. After an investigation, a notice of proposed rulemaking, and an informal conference at which Appellees voiced concerns, the Commission concluded that Section:1(14)(1) authorized it to impose additional “incentive” per diem charges. In December, 1969, the Commission issued a proposed rule with a notice to railroads to file statements of position within 60 days. Both Appellees filed statements objecting to the proposal and requesting an oral hearing, but the Commission overruled their requests. Appellees brought this action in the District Court to set aside the incentive per diem rates established by the Commission in a rulemaking proceeding. The District Court sustained Appellee’s position that the Commission had failed to comply with Section:553 and Section:556 of the APA; held that the language of Section:1(14)(a) of the Act required the Commission to act in accordance with the APA Section:556(d) in a proceeding such as this; and the Commission’s determination to receive submission from the Appellees only in written form violated Section:556(d) because Appellees were “prejudiced” by that determination.
+
+Issue
+Was the Commission’s proceeding governed by APA Section:553 or by Section:Section:556 and 557?
+
+Held
+Reversed the judgment of the District Court and remanded to that court for consideration of Appellee’s other contentions.   The Commission’s proceeding was governed only by Section:553 of the APA, and Appellees received the “hearing” required by Section:1(14)(a) of the Act.  The phrase “after hearing” did not trigger the provisions of Section:Section: 556 and 557 of the APA requiring a formal hearing.  Further, even where a statute does trigger that the rulemaking procedure take place “on the record after opportunity for an agency hearing,” thus triggering    Section:556, subsection (d) allows the agency to proceed by submission of all or part of the evidence in written form if a party will not be “prejudiced thereby.”  The incentive payments proposed by the Commission were applicable to all railroads across the board, so the action was of a legislative, prospective type, rather than adjudicative. The Commission’s procedure satisfied Section:1(14)(a) and the APA.   Dissent. A hearing under Section:1(14)(a) fixing rates, charges and fees is adjudicatory, not legislative. The Appellees were not afforded the hearing guaranteed by Section:1(14)(a) of the Act and APA Section:Section: 553, 556 and 557.  Concurrence. None.
+
+Discussion
+The Court interpreted the “hearing” requirement under the Act loosely, as not requiring the Commission to either hear oral testimony, permit cross-examination of the Commission witnesses, or to hear oral argument.
+

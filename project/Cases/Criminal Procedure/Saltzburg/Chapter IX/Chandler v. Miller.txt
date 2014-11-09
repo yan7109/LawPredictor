@@ -1,0 +1,24 @@
+Citation
+520 U.S. 548
+
+Brief Fact Summary
+Libertarian Party nominees challenged a Georgia statute requiring proof of urinalysis drug test to qualify for nomination to election.
+
+Synopsis of Rule of Law
+“Special need for drug testing must be substantial-important enough to override the individual’s acknowledged privacy interest, sufficiently vital to suppress the Fourth Amendment’s normal requirement of individualized suspicion.
+
+Facts
+Under a Georgia statute, a candidate must present a certificate from a state-approved laboratory showing that the candidate had a negative urinalysis drug test within 30 days prior to qualifying for nomination.  Petitioners were candidates from the Libertarian Party, seeking injunctive and declaratory relief.
+
+Issue
+“[W]hether [a Georgia] requirement [that candidates take a drug test] ranks among the limited circumstances in which suspicionless searches are warranted.”
+
+Held
+No.  The court acknowledged that Georgia “has effectively limited the invasiveness of the testing procedure,” and concentrated on the question as to whether the testing was a special need.  While the State argued that “the use of illegal drugs draws into question an official’s judgments and integrity,” etc., the court dismissed that logic noting “nothing in the record hints that the hazards respondents broadly describe are real and not simply hypothetical for Georgia’s polity.”  Moreover, the Georgia law “is not well designed to identify candidates who violate anti-drug laws” nor is it a “credible means to deter illicit drug users from seeking election to state office.”   The State “offered no reason why ordinary law enforcement methods would not suffice to apprehend” addicts attempting to enter politics.  In conclusion, the court held, “the need revealed . . . is symbolic, not ’special’.”
+
+Dissent
+The Chief Justice dissented on the grounds that Georgia need not wait for an addict to get into office to justify its law.
+
+Discussion
+“Where the risk to public safety is substantial and real, blanket suspicionless searched calibrated to the risk may rank as ‘reasonable’
+

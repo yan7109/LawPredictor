@@ -1,0 +1,21 @@
+Citation
+22 Ill.120 Cal.App.3d 827, 174 Cal.Rptr. 806 (Ct. App. 1981)
+
+Brief Fact Summary
+Tenants sued landlords for damages for charging rents in excess of those permitted by the landlords’ agreement with the Department of Housing and Urban Development (HUD).
+
+Synopsis of Rule of Law
+Tenants of federally funded housing are entitled to initiate a third-party suit against their landlords when the landlords violate their agreement with HUD.
+
+Facts
+Appellants are tenants of an apartment building, which was financed with a federally insured mortgage pursuant to the National Housing Act. Under the conditions of the mortgage, Appellee landlords must contract with HUD to file a maximum rental schedule. Under this contract, Appellees are not permitted to charge rents higher than those authorized by HUD. Petitioners contend that their landlords are charging rents in excess of the approved schedule, amounting to over $2 million. The trial court granted demurrer as to the third-party cause of action.
+
+Issue
+Can tenants of a federally funded housing complex file suit against their landlord on the ground that the landlord violated its contract with HUD?
+
+Held
+Yes. Judgment for demurrer reversed. The court that held Appellants were direct beneficiaries of the contract between Appellees and HUD and therefore have standing under Shell.
+
+Discussion
+In determining whether the Appellants had standing, the court examined California law to determine, which standard ought to apply. Under the Shell standard, “a contract, made expressly for the benefit of a third person, may be enforced by him at any time before there parties thereto rescind it.” The court reasoned that the terms of the contract between Appellees and HUD were for the express benefit of Appellants, as tenants, which was supported by the purpose stated in the United States Code. The court then applied the instant case to the more limited Martinez standard, under which the manifested intent of the parties determine whether a third-party beneficiary to a government contract has standing. The court reasoned that the instant case is similar to Shell as the renters suffered the pecuniary loss, no governmental administrative procedure was provided for the resolution of the disputes, the parties were liable under the agreement without limitation and the contract wa
+

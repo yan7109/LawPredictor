@@ -1,0 +1,21 @@
+Citation
+283 F.3d 282
+
+Brief Fact Summary
+Defendants, a health care consortium previously forced to settle with the Department of Justice in a health care fraud investigation, are challenging Plaintiffs’ attempt to obtain internal audits that Defendant had previously shared with the government in the course of its investigation, arguing that these documents are still privileged.
+
+Synopsis of Rule of Law
+Any disclosure of privileged information will constitute a waiver of the applicable privileges, despite any outstanding confidentiality or nondisclosure agreements.
+
+Facts
+Anticipating an investigation by the U.S. Department of Justice as to possible Medicare and Medicaid fraud, Defendant Columbia/HCA Healthcare Corp. conducted several internal audits of its Medicare patient records in an effort to determine if any “miscoding” of these records had occurred.
+
+Issue
+Does a cooperative disclosure to a governmental agency such as Defendant’s in this case constitute a waiver of attorney-client privilege?
+
+Held
+Yes. Under the Court’s “bright-line” test, waivers are absolute despite any confidentiality or nondisclosure agreements that the parties may make. Although the work-product privilege is somewhat broader than the attorney-client privilege, that privilege has little to do with the issue here: a party’s desire to cooperate with a government investigation.
+
+Discussion
+This bright-line test is not necessarily the standard. Many jurisdictions still recognize a “selective waiver” in cases such as this in which a defendant wished to cooperate with a government investigation without waiving future privileges.
+

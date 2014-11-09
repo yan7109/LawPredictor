@@ -1,0 +1,21 @@
+Citation
+668 F. Supp. 2d 362 (E.D.N.Y 2009)
+
+Brief Fact Summary
+a class action was purportedly brought against Overstock.com, Inc. (Overstock) (D) for charging a restocking fee by Hines (P), a consumer, contending that the fee had never been disclosed. But Overstock affirmed that arbitration of all issues, including the transfer to a different forum was backed by the contract governing the transaction. Hines (P) alleged that the terms were unenforceable on the ground that she had no notice of the terms and conditions and that any reasonable user would have seen the seen the terms if it had been on the website.
+
+Synopsis of Rule of Law
+a user is not bound to the terms and conditions of an online contract he/she had not been notified of, and this also includes a reasonable user of the website who have not seen the terms and conditions.
+
+Facts
+Hines (P) returned a vacuum cleaner she had bought from an on-line “closeout” retailer named Overstock.com, Inc. (Overstock) (D) and was given back the amount in which she bought the vacuum cleaner with after a $30 restocking fee was effected. Due to this, Hines (P) brought a purported class action against Overstock (D) in the federal district court in New York for breach of contract, fraud, and other grounds, challenging the restocking fee. Her reason for returning the vacuum was based on the advice which she received that she would suffer no cost upon the return of the vacuum cleaner and that the fee that was deducted by Overstock (D) was never disclosed.
+
+Issue
+is a user bound to the terms and conditions of an online contract he/she had not been notified of including a reasonable user of the website that have not seen the terms and conditions?
+
+Held
+(Johnson, J.) No. A user is not bound to the terms and conditions of an online contract he/she had not been notified of and this also includes a reasonable user of the website who had not seen the terms and conditions. Determining as a matter of state law whether the underlying arbitration agreement is valid is the first step in determining the enforceability of the arbitration terms. Overstock (D) failure to meet its burden showed that regardless of the law controlling, either New York or Utah, there was a valid arbitration agreement under state’s law because it had shown neither that the plaintiff was aware of the terms and conditions, not that a reasonable user of the website would have. There must be “mutual assent” and a “meeting of mind” before a contract can become binding on the parties. In this case, “browsewrap agreement” is the type of agreement at issue and it is an agreement which is typically at the bottom of the screen. It is here that the terms and conditions are pasted and assenting to the terms and conditions is not expressly required by the user but the user assents to the terms and conditions by using the website.
+
+Discussion
+this case clearly shows the principles of contracts are not fundamentally changed by the making of contracts over the internet but are in fact applicable to online contracts as well. The “clickwrap” (or “click-through”) agreement are the primary means of forming a contract now on the internet in which the website users click on an “I agree” box after they have been presented with the terms and conditions of use, including the “browsewrap” agreement which was at issue in this case, where website posts terms and conditions typically as a hyperlink at the bottom of the screen. Traditional contract principles such as “meeting of the minds” and “manifestation of mutual assent” have been used by the court as the starting point for determining whether such contracts formed online are enforceable.
+

@@ -1,0 +1,21 @@
+Citation
+129 S. Ct. 471
+
+Brief Fact Summary
+The Hogan brothers were arrested and charged with importing marijuana and possession with intent to distribute.  Their pilot, Mark Carpenter (”Mr. Carpenter”), was arrested in Mexico and taken into custody in Mexico.  A few days after Carpenter’s arrest, he gave statements to a Drug Enforcement Agency (”DEA”) official that implicated the Hogan brothers and himself in a conspiracy to import drugs.
+
+Synopsis of Rule of Law
+A witness cannot be called to testify if the party calling him knows he will testify to something that will have to be impeached.
+
+Facts
+The Hogan brothers were arrested of and subsequently convicted of importing marijuana and possession of marijuana with intent to distribute.  Their pilot, Mr. Carpenter, was arrested in Mexico, at a landing strip, where a drug transfer was to occur.  The authorities found fifteen thousand dollars on the airplane and six thousand pounds of marijuana in a truck parked near the landing strip.  Mr. Carpenter was taken into custody by Mexican officials.  Shortly after his arrest, Mr. Carpenter gave statements that implicated himself and the Hogan brothers in a conspiracy.  Mr. Carpenter was subsequently released and returned to the United States.  He was called to testify in a related case and denied that there was any drug conspiracy involving himself or the Hogan brothers.  He also testified that the statements he gave while he was imprisoned in Mexico were not true.
+
+Issue
+Did the trial court err in allowing testimony from a witness who was called to testify when the party calling him knew he would testify to something that would have to be impeached?
+
+Held
+It was plain error for the court to allow testimony from Mr. Carpenter, when the government called Mr. Carpenter solely to present testimony to the jury under the guise of impeachment.
+
+Discussion
+The Hogan brothers received a new trial because the government used Mr. Carpenter’s testimony for the primary purpose of introducing evidence which would otherwise be admissible.  The trial court could have avoided this error by giving the jury a precautionary instruction.
+

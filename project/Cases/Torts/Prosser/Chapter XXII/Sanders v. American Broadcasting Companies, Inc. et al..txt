@@ -1,0 +1,21 @@
+Citation
+20 Cal.4th 907, 85 Cal.Rptr.2d 909, 978 P.2d 67, 15 IER Cases 385, 27 Med. L. Rptr. 2025 (1999)
+
+Brief Fact Summary
+Reporter went undercover at a telepsychic company and videotaped interactions she had with an employee of the company, who sued the reporter and her employer for invasion of privacy.
+
+Synopsis of Rule of Law
+The intrusion of privacy has two elements: 1) intrusion into a private place, conversation or matter, and 2) in a manner highly offensive to a reasonable person. Based thereon, an employee has a legitimate expectation that his conversations will not be secretly videotaped even though such conversations may not have been completely private, assuming the invasion is highly offensive and taking into account the nature of the conduct and surrounding circumstances (i.e., there may be scenarios where covert taping by a reporter does not constitute a tort, as a legitimate means to conduct investigative journalism).
+
+Facts
+Defendant Lescht, a reporter for Defendant ABC, went undercover, obtaining employment as a telepsychic with the Psychic Marketing Group (PMG). Plaintiff Sanders was an employee of PMG. While working for PMG, Defendant Lescht wore a wire and videotaped with a hat camera various conversations with PMG coworkers, including Plaintiff. Plaintiff sued Defendants for invasion of privacy by intrusion. A jury found in favor of Plaintiff, but the appellate court reversed, finding that because the jury found for the defense on another cause of action (violation of Penal Code s.632), Plaintiff could have no reasonable expectation of privacy in his workplace conversations because they could be overheard by coworkers in shared office space.
+
+Issue
+Whether an employee who lacks a reasonable expectation of privacy in a conversation that can be overhead by coworkers may maintain a claim for invasion of privacy by intrusion based on covert taping of that conversation?
+
+Held
+Yes, an employee has a legitimate expectation that his conversations will not be secretly videotaped even though such conversations may not have been completely private, assuming the invasion is highly offensive and taking into account the nature of the conduct and surrounding circumstances.
+
+Discussion
+Citing a recent decision in Schulman, the court notes that the intrusion tort has two elements: 1) intrusion into a private place, conversation or matter, and 2) in a manner highly offensive to a reasonable person. The tort is only proven if plaintiff had an objectively reasonable expectation of seclusion or solitude in the place, conversation or data source, but the expectation does not need to be one of complete privacy. Privacy for purposes of the intrusion tort must be evaluated with respect to the identity of the alleged intruder and the nature of the intrusion. Given that, Plaintiff’s privacy was still violated here despite the fact that his conversations could be overheard by his coworkers, because he still had a legitimate expectation that his conversation would not be covertly recorded by an outsider. The court makes it clear that it is not adopting a per se rule, but just holding that as a matter of law, the possibility of being overheard by workers does not render unreasonable an employee’s expectation that his nonpublic workplace interactions will not be covertly videotaped. A journalist in a similar situation will still have the opportunity to show that there was a legitimate motive of gathering the news, but in this case, no constitutional 1st Amendment issues were analyzed.
+

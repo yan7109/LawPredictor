@@ -1,0 +1,21 @@
+Citation
+279 F.2d 485 (2d Cir. 1960)
+
+Brief Fact Summary
+Santa Monica Bank pledged stock as a security for a loan and tried to transfer the stock to it when the loan was in default.
+
+Synopsis of Rule of Law
+Banks that accept unregistered securities as collateral for loans are considered underwriters when the bank attempts to sell these securities at a later time.
+
+Facts
+In order to obtain a loan from two Inglewood banks, Roach pledged shares of F.L. Jacobs Co. stock; however, more security was necessitated when the Securities and Exchange Commission (SEC) (Plaintiff) suspended Jacobs Co. from trading. Roach transferred 50,000 shares of Guild Films (Defendant) stock to the banks, although the stocks were unregistered which was indicated on the certificates. This inscription stated that the stocks were exclusive to investing and could not be sold until properly registered. When the loan defaulted and the banks tried to sell the Guild Film shares, the transfer agent refused to register the shares in the banks name due to the inscription on the shares.  A successful action to compel the transfer was brought by the bank, and the bank sold 10,500 shares, even after the SEC stated that the registration be acquired first.  The SEC brought an action to stop delivery. The district court found that as defined by § 5 of the Securities Act of 1933 Act, the bank acted as an underwriter. § 5 makes it illegal to use any type of interstate communication, including mails, as a way to sell or deliver unregistered securities. The bank contended it is not an underwriter, and appealed claiming exemption under § 4(1), the provision which exempts transactions by any parties other than issuers, underwriters or dealers.
+
+Issue
+Would a bank accepting unregistered securities as collateral, then selling those securities at a later time, be considered an underwriter?
+
+Held
+(Moore, J.) Yes. A bank that accepts unregistered securities as collateral then attempts to sell those securities at a later date is considered an underwriter. An underwriter being “any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security.” No secrecy is necessary between the parties, with participation being direct or indirect. Guild Films issued unregistered stock to Roach who used it as security with a bank. Allowing banks to sell unregistered stock would establish a loophole in the Act, bypassing registration and consenting to possible stock disposal by permitting the debtor to default or authorizing the bank to dispose of the shares. Congress refused to exempt banks that allow unregistered shares as collateral, defeating the proposed provision. Seeing as the Act was created to protect buyers, and registration was essential for buyers to make informed decisions by having access to pertinent information about the shares. As a result of the bank indirectly selling unregistered shares issued by Guild Films (an issuer) the bank is assuredly an underwriter.
+
+Discussion
+This case would not apply to non-issuer transactions, meaning if Roach did not hold a controlling interest in the companies involved that the bank may have not been considered an underwriter. The sale would have then been between two private parties, rendering it exempt.
+

@@ -1,0 +1,27 @@
+Citation
+466 U.S. 485
+
+Brief Fact Summary
+The defendant printed an unfavorable story about Boss systems, and Boss brought a libelous action against the defendant.
+
+Synopsis of Rule of Law
+When reviewing factual findings of a district court, the Court of Appeals must use the clearly erroneous review.
+
+Facts
+The defendant prints a magazine called Consumer Reports. In May of 1970, they had an article discussing numerous loud speakers. One of those speakers was the Bose 901 system. The critical statement at issue is that individual instruments seem to grow to gigantic proportions and tend to wander about the room. Bose brought suit against Consumer. At trial the court agreed that the statements were false, and that the person who made the article knew they were false. However the court concluded that Boss was a public figure, and the only way to prevail on a slander action is to show actual malice was used when making the statements. The engineer that supervised the testing of Boss equipment was brought on the witness stand and from that testimony the court concluded that the editors who printed the story did not have knowledge of the falsity. On Appeal the court decided that they would expand the level or review to a de-novo-review standard.
+
+Issue
+Whether a Court of Appeals can use a de novo review of the factual findings of a District Court when the case concerns First Amendment issues.
+
+Held
+No. Federal Rule of Civil Procedure 52(a) states that findings of fact shall not be set aside unless clearly erroneous and due regard shall be given to the trial courts determination of witness creditability. The Court of appeals does acknowledge that they can not question the Trial Judges determination of creditability of the witness in this case; however they incorrectly conclude that because this case deals with findings of actual malice in statements made, it deserved a de-novo review of the record. Respondent states that this Court has held that in First Amendment cases the Court of Appeals judges should make an independent examination of the entire record to insure the judgment does not constitute a forbidden intrusion of First Amendment rights. In order to balance these principles this Court distinguishes the Court of Appeals ability to review ultimate facts, versus findings of law. The more independent review is to insure the law was followed, not that a fact was incorrectly interrupted.
+
+Dissent
+Justice White believes the court should allow the de novo standard of review for first amendment cases. A court of appeals with only the record before them can not make a better determination as to finding of malice and mens rea than the judge that was present when the witness was actually examined.
+
+Concurrence
+
+
+Discussion
+One reason the court states it is important to have an independent review of the record in Freedom of Speech cases is to make sure the speech was correctly characterized as unprotected speech allowing punishment. Libelous speech is not protected speech.
+

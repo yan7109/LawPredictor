@@ -1,0 +1,24 @@
+Citation
+541 U.S. 652, 124 S. Ct. 2140, 158 L. Ed. 2d 938 (2004)
+
+Brief Fact Summary
+Respondent appealed from a conviction of second-degree murder and attempted robbery when he was Mirandized after confessing, purportedly in violation of his Fifth Amendment Rights.
+
+Synopsis of Rule of Law
+W
+
+Facts
+Michael Alvarado, 17, was interviewed without his parents about his involvement in a crime.  He was not arrested, not Mirandized.  During the interview, respondent confessed involvement.  Based on those statements, Alvaredo was convicted of second-degree murder and attempted robbery.  The Ninth Circuit Court of Appeals reversed the conviction, finding that because defendant was a juvenile and likely felt intimidated he was “in custody” under the terms of Miranda and should have been read his rights.  Appeal was brought to the Supreme Court.
+
+Issue
+Whether a police officer should consider the age and history of a suspect when determining whether he is “in custody” and therefore entitled to his Miranda warnings under the Fifth Amendment.
+
+Held
+Reversed.  Whether a defendant is “in custody,” and therefore entitled to his Miranda rights, should be determined by objective criterion and not subjective criteria such as age and criminal history.
+
+Dissent
+Justice Breyer dissents, noting that case law makes it clear that in determining whether a defendant is “in custody” for Miranda purposes, the court should consider freedom of movement.  In the present case, the dissent argues, respondent was not given freedom of movement.
+
+Discussion
+Under the terms of Miranda, a suspect is “in custody” when their freedom of movement is restricted.  When a suspect is “in custody,” they must be read their rights.  In this case, the majority holds that an interview is not “in custody,” in terms of Miranda, and that a defendant should not be treated any differently if they are a juvenile because freedom of movement is objective, rather than subjective.
+

@@ -1,0 +1,24 @@
+Brief Fact Summary
+The ship Polemis was being unloaded of its cargo of petrol and benzine when a plank was negligently dropped by a servant of Furness. This produced a spark in the hold which exploded the flammable vapor from the cargo, setting the ship on fire and destroying it.
+
+Synopsis of Rule of Law
+The act in question can be directly traced to the resulting damage, and whether the damage anticipated was the damage which actually happened is insignificant in view of there being no other independent cause contributing to the damage.
+
+Facts
+Furness chartered the ship Polemis from its owners to carry a cargo of petrol and benzine. It was being unloaded in Casablanca when a heavy plank was accidentally let fall into the hold, igniting the petrol vapor and setting the whole ship on fire. The ship was destroyed in the explosion. The arbitrators decided that the dropping of the plank was a negligent act on the part of Furness. While the spark was not a reasonably foreseeable consequence of the act, some damage could be reasonably expected to result. Damages were therefore fixed at 196 1s. 11d.
+
+Issue
+Were the costs expected to be recovered due to damage non-recoverable due to the effect being too remote from the cause?
+
+Held
+(Bankes, L.J.) No. The arbitors were correct. Even if the spark was not a reasonably anticipated consequence of the dropping of the plank, the act itself was negligent. This being so, the fact remains that some damage is anticipated, and the damage which occurred not being the exact kind reasonably expected is not material. It is enough that damage occurred, and the damage which occurred can be traced back in direct fashion to the negligent act, without any intervening or contributory independent causes being connected with it.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+In this case, the rule is on the lines of Christianson v. Chicago, St. P., M.G.O.Ry. Co.,69 N.W. 640 (1896). This is a minority rule in the U.S. The rule is wooden. If a negligent act X can be reasonably foreseen to terminate in Y, but instead causes Z to happen, the doer of X is liable for damages arising from Z though the scale of Z is not at all in accordance with X. The only reason is that X is the nearest cause to Z and so is the ground for liability. The decision is considered to be absurd by Prosser, among others, since the damages are out of proportion to the negligence involved. This case was a source of dispute for the next forty years and was finally overruled in 1961.
+

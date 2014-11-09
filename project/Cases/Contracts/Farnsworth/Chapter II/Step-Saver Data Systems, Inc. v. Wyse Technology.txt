@@ -1,0 +1,18 @@
+Citation
+939 F.2d 91, 1991 U.S. App. 16526
+
+Brief Fact Summary
+Defendant sold computer programs to Plaintiff and all the programs had box top license terms which stated that opening the package was acceptance of certain terms, including a disclaimer of warranties. Plaintiff would resell the software to various customers. Plaintiff started getting sued because of problems with the software and sought to get indemnity from Defendant and enforce breach of warranties against Defendant.
+
+Synopsis of Rule of Law
+Under 2-207, an additional term detailed in a box top license will not become incorporated into the parties agreement if the term would materially alter the agreement.
+
+Facts
+Plaintiff would call Defendant to order programs and Defendant would accept over the phone and ship the goods promptly.<br />	The phone calls never discussed the disclaimer of warranties. The invoice would only discuss price, quantity and shipment terms.<br />	The License specifically states that opening the package would indicate acceptance of the terms, including the disclaimer, and if a person did not agree then they could return the package unopened for a refund.<br /><br /><span class='heading'>Issue.</span><br />	Whether the box-top license should be considered a conditional acceptance<br />	Whether the course of dealing established that the disclaimer became incorporated in the contract.<br />	Whether the box-top license was a material alteration to the parties contract which could not become part of the contract under UCC 2-207.
+
+Held
+The box-top license would not be considered a conditional acceptance because the software producer did not clearly express an unwillingness to proceed unless the additional terms were incorporated into the agreement.<br />	The actions of the software producer in repeatedly sending the writing of terms that could be otherwise excluded did not result in a course of conduct that adopted the terms of the writing.<br />	As a matter of law, if the original contract included warranty, the addition of the disclaimer of the warranties by the box-top license would substantially alter the distribution of risk relating to the product between the two parties. Therefore, under 2-207 the disclaimer would materially alter the agreement between the parties and could not become a part of the agreement.<br />
+
+Discussion
+The box top license statement that opening the program was an acceptance was not a clear enough indication that the deal would not go forward without assent to the additional terms. A disclaimer of warranties would change the distribution of risk relating to the product such that it was a material change form what the agreement would be if normal warranties applied to the seller under the UCC.
+

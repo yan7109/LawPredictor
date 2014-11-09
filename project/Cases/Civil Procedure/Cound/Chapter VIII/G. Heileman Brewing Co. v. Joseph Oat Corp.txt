@@ -1,0 +1,21 @@
+Citation
+22 Ill.871 F.2d 648 (7th Cir. 1989)
+
+Brief Fact Summary
+The Defendant, Joseph Oat Corp. (Defendant), failed to send corporate representatives to a pretrial conference after their presence was requested in an order by a federal Magistrate. Defendants challenged the sanctions imposed on it for its failure to comply with the order.
+
+Synopsis of Rule of Law
+Federal district courts have an inherent authority to manage and control the litigation before it. Though they are bound by them, courts are not strictly limited by the Federal Rules of Civil Procedure (FRCP).
+
+Facts
+A federal Magistrate ordered that a corporate representative of the Defendant appear at a pre-trial conference to discuss disputed factual and legal issues and the possibility of settlement. The Defendant’s counsel and another attorney who was authorized to speak for the principals appeared, though no corporate representative was present. The Magistrate fined Defendant $5,860.01 pursuant to FRCP 16(f) to cover the Plaintiff’s attorney fees in traveling to the conference. Defendant claimed the court had no authority to order its corporate representatives to the conference, and if it did, that it abused its discretion in this case and also did so with respect to the sanctions.
+
+Issue
+Whether a federal district court may order litigants, including those represented by counsel, to appear before it in person, at a pre-trial conference for the purpose of discussing the posture and settlement of litigants’ case.
+
+Held
+Yes. A district court may sanction a litigant for failing to comply with such an order. Order of the district court affirmed.  <br/><br/><span class='heading'>Dissent.</span> Circuit Judge Posner stated that the district court judge had no authority to order the corporate representatives to the settlement conference because of Defendant’s prior statement that it did not wish to settle this case. Once this was said, the Magistrate’s insistence on the Defendant sending an executive to Madison, Wisconsin from New Jersey was arbitrary, unreasonable, willful, and petulant.  Circuit Court Judges Coffey, Easterbrook, Ripple and Manion dissented and thought FRCP Rule 16 did not authorize a trial judge to require a represented party litigant to attend a pretrial conference together with its attorney. This was because the rule mandated in clear terms that only an unrepresented party litigant and attorneys could be ordered to appear. The newly created “inherent authority” to require represented litigants to appear at pretrial conferences will invite judicial abuse.  Circuit Judges Easterbrook, Posner, Coffey and Manion dissented. They thought there were 3 issues present in this case: (1) whether the district court could demand someone other than a party’s attorney of record to attend a pretrial conference; (2) whether the court could insist that this person be an employee rather than an agent and (3) whether the court could insist that the person have “full settlement authority.” The first issue the   majority sought to resolve, but the judges dissented that the second or third powers existed.
+
+Discussion
+The concept that district courts exercise procedural authority outside the explicit language of the FRCP is not frequently documented, but still valid. The United States Supreme Court (Supreme Court) has acknowledged that the provisions of the FRCP are not intended to be the exclusive authority for actions to be taken by district courts. Rule 16 was not designed as a device to restrict or limit the authority of the district judge in the conduct of pretrial conferences; rather, it urged judges to make more use of their powers and to manage their dockets from an early stage.  Courts have the authority to have litigants come in to discuss settlement, but not the authority to coerce them to reach settlement.
+

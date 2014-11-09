@@ -1,0 +1,21 @@
+Citation
+86 Wis. 2d 129, 271 N.W.2d 676 (1978)
+
+Brief Fact Summary
+The Circuit Court for Washburn County (Wisconsin) directed a verdict for Hartford Casualty Ins. Co. (Defendant) in the patient’s medical malpractice action. Plaintiff appealed.
+
+Synopsis of Rule of Law
+An application of the res ipsa loquitur doctrine based on common knowledge is allowed only when the occurrence clearly speaks for itself.
+
+Facts
+Kelly (Plaintiff), a seventy-five year-old woman, entered a Wisconsin hospital in July, 1975, complaining of lower back pain. The attending physician ordered a series of lower GI exams, including an examination of the lower intestinal tract. An enema was required, and Plaintiff alleged that a nurse, who was in a hurry, erred in the administration of the procedure. Plaintiff claims she suffered a series of injuries as a result and brought suit.
+
+Issue
+Should the trial court have submitted a res ipsa loquitur instruction to the jury?
+
+Held
+The court held that the expert medical testimony introduced at trial lead it to conclude that the facts of the case did not warrant the application of res ipsa loquitur. The court affirmed the trial court’s judgment, directing a verdict for the Defendant.
+
+Discussion
+In medical malpractice cases, expert testimony is not required where a physician’s negligence is so egregious that laypersons are able to determine breach themselves. The doctrine of res ipsa loquitur may be applicable in malpractice cases that do not fall within the “common knowledge” exception. In these cases, the plaintiff will usually need expert testimony to help establish that the harm she suffered does not ordinarily occur in the absence of the lack of due care. As the Kelly majority explained, “[b]efore a res ipsa loquitur instruction can be given to a jury, the evidence must conform to these requirements: (1) The event in question must be of the kind which does not ordinarily occur in the absence of negligence; and (2) the agency or instrumentality causing the harm must have been within the exclusive control of defendant.” Further, the court clarified the standard by which to judge if a res ipsa loquitur instruction is properly given a jury: “[t]he res ipsa loqui
+

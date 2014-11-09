@@ -1,0 +1,21 @@
+Citation
+528 U.S. 890
+
+Brief Fact Summary
+The defendant, Oates (the “defendant”), in a criminal case was charged with possession of heroin with the intent to distribute.  The defendant argued that evidence should be suppressed, and that a chemist report should not have been admitted into evidence.
+
+Synopsis of Rule of Law
+Records prepared by law enforcement personnel are not only not admissible under Federal Rule of Evidence (”FRE”) Rule 803(8)(B), but they also are not admissible under alternative hearsay exception FRE Rule 803(6).
+
+Facts
+The defendant was arrested with another man who possessed heroin.  The arresting officers did not have a warrant, but they initiated a Terry stop.  One of the officers was familiar with the defendant through his work as an undercover narcotics agent.  The defendant argued that the evidence found at the stop should be suppressed.  The defendant also argued that the chemist report that was admitted at trial should be excluded.  The chemist who prepared the report was unavailable, supposedly due to illness, therefore the state wanted to admit the chemist’s report that identified the substance found on the gentleman arrested with the defendant as heroin.
+
+Issue
+Whether the evidence should be suppressed due to an illegal search? Whether a record prepared by a chemist is admissible under a hearsay exception rule?
+
+Held
+The court affirmed that the acquisition of the heroin was not illegal and should not be suppressed. The court reversed the lower court’s decision to admit the chemist report as evidence under Federal hearsay exceptions.  The chemist is law enforcement personnel as envisioned by the legislature and expressed in F.R.E. Rule 803(8)(B), and therefore the report cannot be considered a public record admissible under this rule.  Additionally, the heightened concern for a defendant’s rights under the Confrontation Clause (the “Clause”), and the legislature’s concern over the admittance of law enforcement records under a hearsay exception, prohibit the report to be admissible under another Federal hearsay exception.
+
+Discussion
+The court did not address the implications of the Clause directly, and instead simply stressed that the Clause was a consideration for the legislature when, in their opinion, opposed the admittance of law enforcement records of this nature. Typically, the rule of thumb for hearsay exceptions is to try several exceptions to admit your evidence because several exception rules could possibly work.  In the case of criminal cases where the evidence falls under FRE Rule 803(8)(B), the alternatives are limited, at least to FRE Rule 803(6).
+

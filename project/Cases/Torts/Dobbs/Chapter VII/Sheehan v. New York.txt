@@ -1,0 +1,18 @@
+Brief Fact Summary
+The Appellate Division of the Supreme Court in the First Judicial Department (New York) held the Manhattan and Bronx Surface Transit Authority (Transit Authority), the bus driver, Sheehan, the truck driver, and the owner (Defendants) for damages in connection with a New York City traffic accident. Defendants appealed.
+
+Synopsis of Rule of Law
+Evidence of negligence is not enough by itself to establish liability. The plaintiff must also prove that the negligence was the cause of the event that produced the harm.
+
+Facts
+Sheehan stopped his bus at an intersection for passengers and to allow others to disembark. He did not pull over completely to the right, but stopped in the right traffic lane. A New York City sanitation truck careened into the bus, due to the failure of the truck’s brakes. An injured passenger brought suit. A jury found for Plaintiff, assigning liability to both the Transit Authority and New York City. The judge set aside the verdict against the Transit Authority, assigning sole liability to New York City and to the truck driver. The Appellate Division reinstated the verdicts. The bus driver and the Transit Authority appealed.
+
+Issue
+The issue for the appellate court was whether the truck driver and owner were solely liable because, as a matter of law, there was no proof that the conduct of the bus driver was causally connected with the collision.
+
+Held
+The court concluded that negligence on the part of the truck driver was the sole proximate or legal cause of the accident and thus Appellants, bus driver and owner, were not liable.
+
+Discussion
+The court in Sheehan examines two fundamental factors with regard to causation: foreseebility and the absence of an intervening cause. In short, the defendant’s culpable conduct must be the actual cause of the plaintiff’s injury. Thus, the primary test for proximate cause focuses on whether the defendant should have reasonably foreseen, as a risk of her conduct: 1) the type of harm suffered by the plaintiff; or 2) the manner in which the harm occurred. The second prong of the test requires that no superseding intervening force existed. As the Sheehan court articulated, this recovery is precluded when such force “interrupts the natural sequence of events, turns aside their course, prevents the natural and probable result of the original act or omission, and produces a different result that could not have been reasonably anticipated.”
+

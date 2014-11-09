@@ -1,0 +1,24 @@
+Citation
+535 U.S. 654, 122 S. Ct. 1764, 152 L. Ed. 2d 888 (2002)
+
+Brief Fact Summary
+After not being offered counsel at state expense, indigent defendant represented himself in a state court assault trial that resulted in his receiving a thirty-day suspended sentence.
+
+Synopsis of Rule of Law
+Under the Sixth Amendment, a suspended sentence that may result in an actual deprivation of a defendant’s liberty may not be imposed unless defendant was accorded guiding hand of counsel in the prosecution for the crime charged.
+
+Facts
+Defendant represented himself in a state court assault trial.  Although the court warned defendant repeatedly of the disadvantages of this strategy, they did not offer him assistance of counsel at state expense.  After conviction, he was given two years unsupervised probation and a thirty-day suspended sentence that he did not serve.  After the lower appeals court affirmed, the Alabama Supreme Court reversed the defendant’s suspended sentence and vacated the probation.  The State of Alabama then sought certiorari.
+
+Issue
+Does the Sixth Amendment right to counsel permit a state to impose a suspended sentence even though the ineffectively-assisted defendant was not actually incarcerated?
+
+Held
+No.  The Alabama Supreme Court’s vacation of the suspended sentence was affirmed.
+
+Dissent
+J. Scalia.  The established “Actual Imprisonment” rule requires that absent a knowing and intelligent waiver, a defendant may not merely have faced the possibility of imprisonment, but have actually been imprisoned to be able to bring a Sixth Amendment claim of ineffective assistance of counsel.
+
+Discussion
+This decision results in courts having to offer to appoint counsel at state expense to indigents whenever there is a possibility that the offense with which they are charged may result in prison time.  This is the case even if they are not sent directly to prison.
+

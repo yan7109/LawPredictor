@@ -1,0 +1,24 @@
+Citation
+446 U.S. 291, 100 S. Ct. 1682, 64 L. Ed. 2d 297 (1980)
+
+Brief Fact Summary
+The respondent, Thomas Innis (the “respondent”), was arrested, read his Miranda rights, and put into the backseat of a patrol car.  The police discussed that the gun used for the crime might be found by a child, and the respondent disclosed the location of the weapon to avoid an accident.
+
+Synopsis of Rule of Law
+An interrogation, for Fifth Amendment constitutional purposes, should be defined to include only words or conduct that the police should have known would reasonably influence an individual to respond.
+
+Facts
+The respondent was arrested for a robbery of a cab driver that led to the murder of the driver.  The driver was shot in the head with a shotgun, but the weapon was not found with the respondent at the time of the arrest.  The respondent was placed in the back seat of the patrol car, and he rode back with three officers.  The officers, one sitting in the back seat with the respondent, remarked what a tragedy it would be if a child were to stumble upon the weapon before they found it.  The discussion moved the respondent enough to disclose the location of the weapon in order to avoid an accident.
+
+Issue
+The issue is whether the conversation between the officers in front of the respondent constituted an interrogation as defined in Miranda v. Arizona?
+
+Held
+The conversation was not an interrogation, and therefore the respondent’s rights under the Fifth Amendment of the United States Constitution (”Constitution”) were not violated.  Interrogations should not be so broadly defined to include such a wide range of conduct by officers post-arrest, but rather should only include conduct that police should know would illicit a response.
+
+Dissent
+The dissent written by Justice Thurgood Marshall (”J. Marshall”) agreed with the majority’s definition of interrogation, but they did not agree with how the majority applied the facts of this case.  They believed the conduct did reach the level of an interrogation. Justice John Paul Stevens (”J. Stevens”) dissented, reasoning that if the conduct in question was put in the form of a direct question to the respondent then it would be considered an interrogation.  Therefore, police should not be able to avoid an individual’s rights by changing the form of the conduct.Concurrence.  Justice Warren Burger (”J. Burger”) concurred, adding that he was concerned that police officers, under the current definition of interrogation, would have to make split-second decisions on what would be too suggestive to someone in custody.<br />
+
+Discussion
+The opinion reaffirms Miranda, but the majority does not want to broaden the type of conduct that is prohibited under Miranda.
+

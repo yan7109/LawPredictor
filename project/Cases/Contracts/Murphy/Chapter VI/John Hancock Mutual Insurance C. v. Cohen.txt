@@ -1,0 +1,21 @@
+Citation
+22 Ill.254 F.2d 417 (9th Cir. 1958)
+
+Brief Fact Summary
+Plaintiff was the beneficiary of an insurance policy issued by John Hancock Mutual Insurance Co. (Defendant). The policy was such that Plaintiff received payments from the time the policy was issued for the next twenty years, with a final payment of $5000.00. Defendant stopped payments and paid the $5000.00 after fifteen years, because, Defendant claimed, that there was a mistake and both insured and Defendant intended the policy to be for fifteen years.
+
+Synopsis of Rule of Law
+The doctrine of anticipatory breach does not apply to a unilateral contract by an insurance company to pay a specified amount of money at a specified time
+
+Facts
+The insured had a policy with Defendant where, instead of paying a lump sum, Defendant would make payments, starting at the time the policy was created, for the next twenty years, ending with a final payment. After payment for fifteen years, to Plaintiff-beneficiary, Defendant paid the final $5000.00 and then ceased payments, claiming that there was a mistake and both Defendant and insured intended the contract to be for fifteen years. Plaintiff sued Defendant. On the issue of mistake, the lower court found for the Plaintiff. The lower court also held that Defendant had breached the contract by anticipatory repudiation. The court awarded Plaintiff an $8,000.00 award that included all the installments due under the policy and the final payment.
+
+Issue
+May Plaintiff sue Defendant for anticipatory repudiation?
+
+Held
+Yes.
+
+Discussion
+The court said that rather than trying to categorize contracts by those parties that enter into them, one should look at the actual agreement.
+

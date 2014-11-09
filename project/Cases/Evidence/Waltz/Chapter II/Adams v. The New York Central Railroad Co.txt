@@ -1,0 +1,21 @@
+Citation
+Court of Common Pleas, Cuyahoga County, Cleveland, Ohio, 1961.
+
+Brief Fact Summary
+Certain portions of a trial transcript in a personal injury matter concerned the past recollection recorded exception of the hearsay rule.
+
+Synopsis of Rule of Law
+The document at issue here was not admissible under the past recollection recorded exception to the hearsay rule, because it was not a business record.
+
+Facts
+This case was a personal injury matter.  The defendant argued that plaintiff’s claimed injury never occurred and that the plaintiff’s quadriplegia occurred prior to the claimed injury.  One way the defendant sought to prove its theory was to introduce, as a past recollection recorded, a memorandum drafted by an insurance company employee after interviewing the plaintiff.  The memorandum arguably demonstrated that plaintiff had prior injuries, not brought up at trial.
+
+Issue
+In order for a document to be admitted under the past recollection recorded exception to the hearsay rule, does it need to be a business record?
+
+Held
+Yes.  Since the document here, handwritten notes on a piece of paper were not a formal business record, they are not admissible under this exception to the hearsay rule.
+
+Discussion
+If a witness cannot remember certain information when testifying, the witness can either be shown a document to refresh his memory and testify upon the basis of his recollection, or, if this is not helpful and the witness still does not remember, the document can be admitted into evidence, if the witness knew at the time the record was made the record was accurate.  The judge in this matter holds that the document sought to be admitted into evidence, must be a business record in the strictest sense of the term.
+

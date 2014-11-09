@@ -1,0 +1,21 @@
+Citation
+442 F.3d 939, 2006 U.S. App.
+
+Brief Fact Summary
+A witness testified that, in an incident prior to the bank robbery that was the subject of the prosecution, that he had seen the accused and his girlfriend, and that the accused was dressed nicely and wearing diamond rings.
+
+Synopsis of Rule of Law
+When a party acquiesces by saying nothing to a statement made in his presence, that statement may be admissible as an admission by a party opponent under Federal Rule of Evidence (”F.R.E”) Rule 80a(d)(2)(B).
+
+Facts
+A witness testified that, in an incident prior to the bank robbery that was the subject of the prosecution, that he had seen the accused and his girlfriend, and that the accused was dressed nicely and wearing diamond rings.  He testified that the accused’s girlfriend then made statements about the fact that there were sacks of money in the hotel room.
+
+Issue
+Whether a statement made in the presence of a party, which the party does not comment on or deny, may be admitted as the admission of a party opponent, indicating that the party had adopted belief in the truth of the statement?
+
+Held
+Yes.  If the party did not agree with the statement it is reasonable to believe that he would have said something to deny the truth of the statement. As he did not, it is admissible as the admission of a party opponent.
+
+Discussion
+The three people present when the accused’s girlfriend made the statements about there being sacks of money in the hotel room were only herself, the accused, and a party with whom the accused had confided his plans to rob a bank in the future.  For this reason, the fact of the accused’s silence would not have been explainable by the advice of his counsel or his desire not to have the statements used against him in a court of law.
+

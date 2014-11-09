@@ -1,0 +1,21 @@
+Citation
+990 F.2d 578,1993 U.S. App.93-1 U.S. Tax Cas. (CCH) P60,133; 71 A.F.T.R.2d (RIA) 2190
+
+Brief Fact Summary
+Norman H. Vissering’s mother created a trust and named the decedent, Norman Vissering, and the Bank as trustees.  Under the trust, the decedent had the power to invade the principal to make payments that were required for the support of the beneficiary.  The Tax Court determined that the trust principal was a part of the decedent’s estate for federal estate tax purposes.
+
+Synopsis of Rule of Law
+State law determines the legal interest and rights created by the trust instrument while federal law determines the tax consequences of those interest and rights.  A trust that gives the trustee the power to invade the trust corpus to make payments that are required for the support of the beneficiary does not created an unlimited to power to invade the trust corpus.
+
+Facts
+The decedent received a power of appointment from a trust created by his mother.  The trust became irrevocable on his mother’s death.  The decedent and the bank served as co-trustees.  Upon the decedent’s death, the trusts were to be divided into two equal parts and passed to decedent’s two children or were held for their benefit.  The decedent developed Alzheimer’s disease and entered a nursing home in 1984, but tendered no resignation as trustee, nor did nor did his guardian or conservator do so on his behalf after he was found to be incapacitated.  The court assumed that the decedent was fully competent up until his death for the purposes of deciding the issues in this case.  The terms of the trust granted the trustee the power to pay over or use or expend for the direct or indirect benefit of any of the beneficiaries whatever amount or amounts of the principal of the Trust as may, in the discretion of the trustees, be required for the continued comfort, support, maintenanc
+
+Issue
+Whether the trustee’s right to invade the principal to provide the required support, maintenance, comfort, or education of the beneficiary created an unlimited general power of appointment equivalent to ownership?
+
+Held
+No.  The trustee did not have an unlimited power to invade the trust corpus.  The trustee had the authority to pay the amount that was “required” for the continued comfort, support, maintenance, or education of the beneficiary. The use of the phrase “required” for the continued comfort in context does not differ from the Treasury Regulations which use phrases such as “support in reasonable comfort.”   Such a phrase bears the meaning that that an amount must be paid that is no more than that which is reasonably necessary to maintain the beneficiary in his accustomed manner of living.  The beneficiaries may have successfully portioned the court to disallow any expenditures that were more than what was reasonably necessary for the beneficiary’s continued support.
+
+Discussion
+The general power of appointment is not includable in the decedent’s estate because the power was limited by the used of the phrase, “required for the beneficiary’s continued comfort,” instead of as determined or desired by the trustee.
+

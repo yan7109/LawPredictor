@@ -1,0 +1,24 @@
+Citation
+406 U.S. 682, 92 S. Ct. 1877, 32 L. Ed. 2d 411, 1972 U.S.
+
+Brief Fact Summary
+Willie Shard (”Mr. Shard”) had his wallet stolen while on the street in Chicago. Police arrested two men in connection with a separate offense and brought them to the police station.  The police learned of the offense against Mr. Shard only upon arriving at the station.  Whereupon, Mr. Shard was called to come down to the police station, and upon walking into the building, immediately identified the two men, without counsel present, and before any formal charges had been levied.
+
+Synopsis of Rule of Law
+The Sixth and Fourteenth Amendment rights to counsel do not apply to pre indictment identification procedures.
+
+Facts
+Mr. Shard had his wallet stolen while walking down the street in Chicago. Three traveler’s checks and a Social Security Card were stolen.  Kirby and another man, (”the petitioners”), were picked up in connection with another offense, but the property taken from Mr. Shard was subsequently found on their persons.  They were brought to the police station and Mr. Shard was called to come to the station to identify the perpetrators.  Upon entering the building, he immediately identified the two men as the same men that had stolen his property earlier.  The petitioners did not have counsel present, nor had they been formally charged.  A motion to suppress the identification was denied at trial, and the two men were subsequently convicted for the robbery.  The Appellate Court affirmed, holding that pre indictment confrontations were not subject to an exclusionary rule as set out in the Wade and Gilbert cases.  State courts of last resort were divided as to this issue.
+
+Issue
+Whether a per se exclusionary rule grounded in the Sixth and Fourteenth Amendment rights to counsel should be applied to identification testimony based upon a police station show up that took place before the defendant had been indicted or otherwise formally charged with any criminal offense?
+
+Held
+No. The right to counsel attaches only at the initiation of formal adversarial proceedings, which have not begun prior to an indictment or formal charge.
+
+Dissent
+Justice William Brennan (”J. Brennan”) dissented, arguing instead that the per se exclusionary rule from Wade should be applied to pre indictment identification procedures because a person should be afforded counsel at any pretrial confrontation where counsel is necessary to preserve the defendant’s right to a fair trial.  J. Brennan would hold that the same dangers that exist in post indictment identification procedures exist in pre indictment identification procedures, and as a result the Wade exclusionary rule should apply.
+
+Discussion
+A line of cases has held that the constitutional right to counsel only attaches once adversary proceedings have begun. The Due Process clause of the Fifth and Fourteenth Amendments of the United States Constitution (”Constitution”) adequately protect against unduly suggestive identification procedures, and as a result the per se exclusionary rule need not be imported into events taking place before the initiation of any formal prosecutorial conduct.
+

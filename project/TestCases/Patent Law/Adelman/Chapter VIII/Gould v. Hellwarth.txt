@@ -1,0 +1,21 @@
+Citation
+472 F.2d 1383 (C.C.P.A. 1973)
+
+Brief Fact Summary
+Gould (Plaintiff) applied for a patent on a Q-switch for a laser even though lasers themselves were still theoretical.
+
+Synopsis of Rule of Law
+A patent application must have enough disclosure to enable one skilled in the art to make a device that is operable.
+
+Facts
+Both Gould (Plaintiff) and Hellwarth (Defendant) applied for patents on a Q-switch for a laser.  Plaintiff filed on April 6, 1959, and Hellwarth filed on August 1, 1961.  However, Defendant claimed Plaintiff's patent was invalid under 35 U.S.C. § 112, which requires the application to provide sufficient instructions for a person skilled in the field to make a device that is operable.  Plaintiff's application sufficiently described a Q-switch, but did not include instructions on how to make an operative laser.  It was understood that lasers were theoretically possible because Masers, using microwaves instead of light waves, were well known.  However, a working laser was not developed until 1960 at the earliest.  The Board ordered a priority hearing and Defendant won.  Plaintiff appealed.
+
+Issue
+Must a patent application have enough disclosure to enable one skilled in the art to make a device that is operable?
+
+Held
+(Lane, J.)  Yes.  A patent application must have enough disclosure to enable one skilled in the art to make a device that is operable.  In this case, several expert witnesses testified that the application did not disclose a complete set of parameters for a laser and also did not reveal the knowledge needed to produce a laser that was operable.  Plaintiff asserts that the parameters needed were in a portion of the application and suggested use of a sodium and mercury gaseous atmosphere.  Although the idea of a laser was understood, a working medium was not discovered until a scientist used pink ruby in April of 1960.  As of 1968, no lasers were known to have operated using sodium-mercury.  Plaintiff's application fails to provide sufficient disclosure on how to make the subject matter of the application.  Affirmed.
+
+Discussion
+This decision may not seem fair to Plaintiff.  For instance, since his idea was not patented, workers in the field could discover how to make a laser and then freely borrow the Q-switch idea.  However, there were several other cases in which creative patent attorneys were able to argue successfully on Plaintiff's behalf regarding his application.  In Gould v. Control Laser Corp., 866 F. 2d 1391 (Fed. Cir. 1989), a jury found laser devices infringed upon the "optical amplifier" outlined in Plaintiff's claim, and Plaintiff was awarded considerable royalties.
+

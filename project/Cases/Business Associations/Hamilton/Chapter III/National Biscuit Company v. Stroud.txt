@@ -1,0 +1,21 @@
+Citation
+N.C. Sup. Ct, 106 S.E.2d 692 (1959)
+
+Brief Fact Summary
+National Biscuit Company (P) (a.k.a. National) sold bread to Stroud’s (D) partner. Stroud (D) advised National (P) beforehand that he would not be responsible for this delivery. Regardless, National (P) still made delivery.
+
+Synopsis of Rule of Law
+If performed on behalf of a partnership and within the scope of the partnership’s business, the acts of a partner are binding upon the co-partners.
+
+Facts
+Stroud (D) and Freeman sold groceries together under a partnership called Stroud’s Food Center of which they apparently had equal right to manage. The National Biscuit Company (P) occasionally sold bread to the partnership. National (P) eventually received notification that Stroud (D) would not be responsible for any more bread sold to the food center. At Freeman’s request however, National (P) delivered an additional $171.04 worth of bread. Stroud (D) and Freeman dissolved their partnership the day of this last delivery. Stroud (D) received most of the partnership’s assets which he liquidated to discharge its liabilities. National (P) never received payment for the bread and sued Stroud (D). Stroud (D) contended that he should have no liability, as his notice denying responsibility for further deliveries relieves him of obligation to pay. The trial court found in favor of National (P). Stroud (D) appealed.
+
+Issue
+Can a partner avoid liability by sending notice to a creditor, in advance, that he will not be responsible for debts incurred by a co-partner?
+
+Held
+(Parker, J.) No. If performed for a partnership and within the scope of the partnership’s business, the acts of a partner are binding upon the co-partners. The Uniform Partnership Act finds all partners jointly and severally liable for all obligations incurred during the partnership. If a majority of partners disapprove a transaction before en-action, then the partners may avoid liability. Freeman and Stroud (D) however, were equal partners, unable to exercise majority veto over one another. Freeman’s acts were on behalf of the partnership, within its ordinary business, and meant to confer a benefit upon both partners. With circumstances like these, Stroud (D) should be liable for the delivery despite his advance notice. Affirmed.
+
+Discussion
+Traditional principles of agency law can be found in the rule adopted by the Uniform Partnership Act. Each partner acts as an agent to the whole partnership and of the other partners, unless a provision in the partnership agreement states otherwise. Only acts performed on behalf of the partnership and in the scope of regular business are binding on all other partners. An exception is if the co-partners ratify an act that was outside the scope of the en-acting partner’s duties.
+

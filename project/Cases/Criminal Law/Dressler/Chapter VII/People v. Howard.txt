@@ -1,0 +1,27 @@
+Citation
+Cal. Sup. Ct., 34 Cal. 4th 1129, 104 P.3d 107 (2005) (1998)
+
+Brief Fact Summary
+Howard (D) was involved in fleeing from the police in a high-speed chase when he ran into and killed another motorist. He was convicted of felony murder.
+
+Synopsis of Rule of Law
+Driving with deliberate or gross lack of regard for the safety of persons or property while fleeing from a police officer who is chasing one is not an inherently dangerous felony under the felony-murder rule.
+
+Facts
+Howard (D) was pulled over for not having a rear license plate. When the police officers left their car to walk over, Howard restarted his car and a high speed chase ensued. After turning off the freeway, he continued to flee on dirt roads, but the officers decided to stop the pursuit for fear of an accident resulting from the high speeds. Soon after they gave up the chase, they saw Howard ram a car after running a red light. The driver of the other car, Jeanette Rodriguez, was killed. Howard was convicted for second-degree murder, but after the verdict was affirmed, he appealed.
+
+Issue
+Is driving with deliberate and reckless disregard for human safety or property while fleeing from a pursuing police officer an inherently dangerous crime under the felony-murder rule?
+
+Held
+(Kennard, J.) No. Driving with deliberate or gross lack of regard for the safety of persons or property while pursued by a police officer is not an inherently dangerous felony under the felony-murder rule. This decision is not meant to mean in any way that a motorist who kills aan unrelated person by his high-speed dangerous driving while fleeing from police is not to be convicted of murder, but to point out that the felony-murder rule should not be used to remove the issue of whether the killing done by a violation of the felony-murder statute was done with malice. The issue is to be looked at in the abstract to determine the degree of inherent danger in the felony itself, rather than the particular facts of the case under consideration. If the felony can be committed without causing substantial risk to human life, it is not inherently dangerous. In this case, the statutory violation is escaping from a pursuing police officer, and is not in itself inherently dangerous, and so the occurrence of a killing during this felony is not a second-degree murder under the felony-murder rule. The verdict is reversed.
+
+Dissent
+(Baxter, J.) The statute in this case is clear that reckless driving ignoring safety claims while eluding police pursuit is inherently dangerous and renders the driver guilty of felony, since it creates a substantial risk of human death.
+
+Concurrence
+(Brown, J.) The majority opinion in reversing the verdict is correct, but the felony-murder rule should be disposed of since it is debatable at best. Its application is purely arbitrary and will remain so, and hence it deserves to be declared void.
+
+Discussion
+In this case the California Supreme Court held that the felony-murder rule being a court-made one and not statutory, it has no definition under constitutional or state law, and is artificial in its concept of criminal liability, as most legal experts have opined. Hence most courts have emphasized its limitation and restricted its application to cases where it is tailor-made for the crime.
+

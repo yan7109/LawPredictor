@@ -1,0 +1,21 @@
+Citation
+255 N.Y. 170, 174 N.E. 441, 1931 N.Y.
+
+Brief Fact Summary
+Ultramares (Plaintiff) made loans to accountant’s (Defendant’s) clients after relying on Defendant’s financial statements. Defendant’s client went bankrupt and plaintiff brought suit seeking to extend liability to the accountant for negligence in financial reporting and, alternatively, seeking recovery on a fraud theory.
+
+Synopsis of Rule of Law
+An accountant may be liable to a third party who relies on his financial reporting, if that third party can prove that the reports were confected by fraudulent means.
+
+Facts
+Defendant prepared certified balance sheets for its clients that disbursed them to several companies, including the Plaintiff. Relying on the certification of the financial statements, Plaintiff extended credit to Defendant’s client that went bankrupt one month later. Plaintiff brought suit based on a third party theory of liability, which was struck down by the Court of Appeals of New York, which noted that under such circumstances, permitting recovery by parties such as the Plaintiff would have been to impose a duty upon accountants that would be enforceable by an indeterminate class of potential plaintiffs. The court of appeals determined whether the defendant was liable, in tort, for fraudulent misrepresentation.
+
+Issue
+Whether fraud in inducement or misrepresentation can be extended to an accountant by a third party who relies on the accountant’s reporting to extend credit.
+
+Held
+Reversed.
+
+Discussion
+This case presents the seminal opinion regarding accountant liability. A third party, not in privity, may not sue an accountant for damages sustained by negligent reporting, but it may bring suit for damages, if it can prove fraudulent reporting.
+

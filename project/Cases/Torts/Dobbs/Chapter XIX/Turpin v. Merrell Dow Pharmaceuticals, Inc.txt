@@ -1,0 +1,21 @@
+Citation
+506 U.S. 826, 113 S. Ct. 84, 121 L. Ed. 2d 47 (1992)
+
+Brief Fact Summary
+In a personal injury action, Plaintiffs allege that harm resulted from use of a drug manufactured by Merrell Dow Pharmaceuticals, Inc. (Defendant). The United States District Court for the Eastern District of Kentucky granted Defendant’s Motion for Summary Judgment. Plaintiffs challenged the decision.
+
+Synopsis of Rule of Law
+In determining and applying the correct standards of proof on summary judgment in scientific cases, the court looks to the rules of sufficiency of the evidence to decide whether juries should be allowed to hear the evidence as well as the rules of admissibility of expert testimony that shape the facts and opinions to be considered.
+
+Facts
+About seven weeks into her pregnancy, Betty Turpin began using Bendectin, a drug manufactured by Defendant, to combat morning sickness. Seven months later, her daughter was born with “limb reduction defects”, severely deformed hands and feet, fused joints, and missing fingers and toes. Turpin had taken no other drugs during her pregnancy and there was no evidence of a genetic cause for the child’s condition. Plaintiffs, parents and daughter, brought an action alleging defendant’s drug caused plaintiff daughter’s birth defects. The trial court determined that expert testimony offered by Plaintiffs was insufficient, and granted summary judgment for Defendant. Plaintiffs sought review.
+
+Issue
+* How hard should judges look at the reasonableness of scientific theories and inferences before they decide whether there is enough to the case for it to go before a jury?<br />* What exactly are the general scientific experiments and studies capable of showing about whether Bendectin causes birth defects in a particular case?
+
+Held
+The court of appeals affirmed the lower court’s judgment, stating that Plaintiffs’ evidence was insufficient, as their experts testified only that defendant’s drug Bendectin was capable of causing or could have caused Plaintiffs’ daughter’s birth defects, not that it probably caused them. The court also distinguished between an individual expert’s opinion and the collective view of his particular scientific discipline. Plaintiffs’ expert offered only the former, which the court concluded was only a personal belief as it was based on the same animal studies as Plaintiffs’ other experts yet only he reached such a conclusion.
+
+Discussion
+The central issue the court addresses in Turpin is the degree to which judges should defer to technical experts and the manner in which judges should evaluate the reasonableness of such experts’ theories. The court advises a course of prudent caution: “[a]lthough judges should respect scientific opinion and recognize their own limited scientific knowledge, nevertheless courts have a duty to inspect the reasoning of qualified scientific experts to determine whether a case should go to the jury.” Nevertheless, this on occasion requires an assertive approach on the part of the court: “[i]n some circumstances there exists a combination of danger signals requiring enhanced judicial vigilance to enforce the Rule of Law. In such situations, a court does not depart from its proper function when it undertakes a study of the record, hopefully perceptive, even as to evidence on technical and specialized matters.” The court then states the primary requirement that would lend credence
+

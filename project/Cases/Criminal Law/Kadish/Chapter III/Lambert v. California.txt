@@ -1,0 +1,24 @@
+Citation
+22 Ill.355 U.S. 225, 78 S. Ct. 240, 2 L. Ed. 2d 228 (1957)
+
+Brief Fact Summary
+Defendant Lambert was convicted for violating a California ordinance that requires any convicted person who remains in California for the specified period to register with the State. Defendant offered proof that she had no actual knowledge of the ordinance, however the proof was refused.
+
+Synopsis of Rule of Law
+In order for a conviction to stand for failure to register under this ordinance, a defendant must have actual knowledge of the duty to register or proof of the probability of such knowledge.
+
+Facts
+Defendant was charged with violating California’s registration law which required any person convicted of a felony in California or convicted in another State where, had the offense been committed in California, it would have been a felony. The registration law had no element of willfulness. Defendant offered proof that she had no actual knowledge of the ordinance, however the proof was refused. Defendant was found guilty at the jury trial and appeals.
+
+Issue
+Are an individual’s Due Process rights violated where a registration act is applied to a person who has no actual knowledge of his duty to register and where no showing is made of the probability of such knowledge?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+The majority draws a line between the requirement of doing and not doing. The dissenting opinion sees no reason to distinguish violation of a registration law where the individual was unaware of the registration requirement from those cases where an individual acted without awareness that the action was illegal.
+
+Discussion
+The majority opinion in this case carves out an exception to the general rule that ignorance of law is not a viable defense.
+

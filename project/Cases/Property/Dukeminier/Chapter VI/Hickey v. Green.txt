@@ -1,0 +1,21 @@
+Citation
+388 Mass. 1102; 445 N.E.2d 156; 1983 Mass.
+
+Brief Fact Summary
+The Plaintiffs, Mr. and Mrs. Hickey (Plaintiffs), bring an action for enforcement of an oral contract for the sale of real property.
+
+Synopsis of Rule of Law
+The Statute of Frauds (SOF) requires a contract for the sale of real property to be in writing. An exception to the requirement is when a party to the oral contract partially performed in reliance on the oral contract. Part performance allows the specific enforcement of an oral contract when particular acts, such as paying part of the purchase price or making improvements on the property, have been performed by one of the parties to the agreement.
+
+Facts
+The Plaintiffs entered an oral contract to purchase the Defendant, Green’s (Defendant) lot, for 15,000 dollars. The Plaintiffs gave the Defendant a deposit of 500 dollars that was accepted. On the back of the deposit check, the Plaintiffs had written a clause which stipulated the check was a deposit for the lot subject to a condition that a zoning variance was approved by the town. A few days after writing this check, the Plaintiffs learned they would not need a zoning variance to build on the lot. The payee line of the check was left blank, as the Plaintiffs were not certain whether the Defendant or her brother was to receive the check with the understanding that the Defendant would fill in the appropriate name on the check. In reliance on their arrangements, the Plaintiffs sold their house. A few days later, the Defendant told the Plaintiffs that she no longer intended to sell her property to them and she was selling her property to another buyer for 16,000 dollars. The Plai
+
+Issue
+Whether a party’s part performance in reliance on an oral contract to purchase real property makes the contract enforceable?
+
+Held
+Remanded. The reliance of the Plaintiffs on their oral contract with the Defendant created an enforceable contract for the sale of real property. The case is remanded back to the trial court to amend the judgment to require conveyance of the property only on payment to her of the agreed price of 15,000 dollars.
+
+Discussion
+The SOF requires an action for the sale of real property to be in writing and signed by the purchaser. If an action for the sale of real property is not in writing and signed by the purchaser the sale if void. An exception to this rule is part performance by one of the parties to the contract. If one of the parties to the contract has substantially performed in reliance on the contract, such to make it unjust to void the contract because of lack of writing, the contract will be upheld.
+

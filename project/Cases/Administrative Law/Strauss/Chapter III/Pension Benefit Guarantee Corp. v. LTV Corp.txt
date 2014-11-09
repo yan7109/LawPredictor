@@ -1,0 +1,21 @@
+Citation
+496 U.S. 633, 110 S. Ct. 2668, 110 L. Ed. 2d 579, 12 EBC 1593 (1990)
+
+Brief Fact Summary
+Pension Benefit Guarantee Corporation (PBGC) is a wholly owned United States Government Corporation, modeled after the Federal Deposit Insurance Corporation. PBGC administers and enforces Title IV of the Employee Retirement Income Security Act (ERISA), including a mandatory Government insurance program that protects the pension benefits of American workers. PBGC issued a Notice of Restoration to LTV Corporation’s plan, and LTV refused to comply.
+
+Synopsis of Rule of Law
+The APA Section:706 prohibition against arbitrary and capricious decision-making by agencies should not be applied too broadly.
+
+Facts
+Section:4042 of ERISA authorized PBGC to terminate pension plans “involuntarily;” and Section:1347 authorized PBGC to “undo” termination and restore a pension plan “in any such case in which it determines such action to be appropriate.” When a plan is restored, full benefits are reinstated, and the employer, rather than the PBGC, is again responsible for the plan’s unfunded liabilities. LTV filed for reorganization under Chapter 11 of the Bankruptcy Code, and sought to have PBGC terminate its pension plans due to financial difficulty. After the plans were terminated, PBGC determined that LTV’s financial situation had improved significantly, and issued a Notice of Restoration to make LTV again responsible for its plans. LTV refused to comply, and PBGC initiated an enforcement action in the District Court. The court vacated PBGC’s restoration decision, and the Court of Appeals for the Second Circuit affirmed, holding that PBGC’s decision was arbitrary and capricious because the decision-making process of informal adjudication lacked adequate procedural safeguards.
+
+Issue
+Was the decision of the PBGC to restore certain pension plans under Section:4047 of ERISA arbitrary and capricious, or contrary to law, within the meaning of APA Section:706?
+
+Held
+No. The determination was lawfully made by informal adjudication, the minimal requirements for which are set forth under APA Section:555.   The lower courts misconstrued the meaning of APA Section:706. At most, Overton Park suggested that the requirement that agency action not be “arbitrary and capricious” imposes a general “procedural” requirement by mandating that an agency take whatever steps it needs to provide an explanation that will enable courts to evaluate the agency’s rationale at the time of the decision.  In this case, unlike in Overton Park, the court did not suggest that the administrative record was inadequate to enable the court to fulfill its duties under Section:706.   Dissent. None.  Concurrence. None.
+
+Discussion
+The procedural inadequacies cited by the Court of Appeals all related to LTV’s role in the decision-making process, but did not point to any provision in ERISA or the APA which gave LTV the purported procedural rights.
+

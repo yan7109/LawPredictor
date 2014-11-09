@@ -1,0 +1,18 @@
+Citation
+54 Cal. 2d 380, 353 P.2d 713,6 Cal. Rptr. 1, 1960 Cal.
+
+Brief Fact Summary
+Defendant, a contractor, submitted a low bid to make certain editions to Plaintiff’s school. Due to a clerical error made on bid worksheet, the bid was $9500 less than he could have truly offered based on subcontracting cost. He was awarded the contract at an evening school board session and realized the mistake and promptly rescinded the offer the following morning.
+
+Synopsis of Rule of Law
+Rescission is allowed based on mistake of fact if 1) material to the contract, 2) mistake was not result of neglect of legal duty and 3) would be unconscionable to enforce.
+
+Facts
+The court found Defendant had made an “honest clerical mistake” wherein he thought he had entered the $9,285 amount for plumbing. He had not.<br />	Later in the day he got a $6500 bid from a subcontractor for plumbing and so he reduced his total, which he thought included $9,285, by $3000.<br />	Testimony indicated that Defendant was receiving bids at the last minute and was in a hurry to get to the board meeting.<br />	The Board had inquired if he was sure about the amount and asked him to check his bid and he stated that it was upon checking with his assistant, although he did not have the paperwork with him to properly check his figures.<br /><br /><span class='heading'>Issue.</span>  Whether a contractor may rescind a mistaken bid based on a clerical error.
+
+Held
+The Contract could rescind the bid. The fact that he had ample time to check work did not mean the mistake was a neglect of legal duty which would deny him the ability to rescind the bid. The Contractor should not be denied relief from an inequitable and unintended bargain.
+
+Discussion
+The Bid should include plumbing costs and if that charge was accidentally left out of the bid, it was unintended by the bidder to the point that the bargain is lost. Further, it would be unconscionable to make bidder pay the difference between the bid that eventually was awarded the project upon his rescission. The Court looked at intent and reasonable expectation of the parties that plumbing cost would be included.
+

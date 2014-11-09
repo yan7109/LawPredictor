@@ -1,0 +1,24 @@
+Citation
+547 U.S. 388 (2006)
+
+Brief Fact Summary
+eBay (Defendant) and MercExchange (Plaintiff) could not agree on a license for Plaintiff's patent.  When Defendant proceeded with its website, Plaintiff brought suit for patent infringement and won damages due to Defendant's liability.  Plaintiff also sought a permanent injunction.
+
+Synopsis of Rule of Law
+The traditional four-part equitable test for injunctive relief applies to Patent Act cases.
+
+Facts
+Plaintiff held a business method patent for an electronic sales market using a central authority.  Plaintiff tried to license its patent to Defendant, but they could not reach an agreement.  Defendant proceeded with its website which allowed private sellers to list goods for sale at auction or at a fixed price.  Plaintiff filed suit for patent infringement.  A jury found the patent valid and awarded damages to Plaintiff for Defendant's infringement.  Plaintiff filed a motion for a permanent injunction and it was denied by the district court.  Plaintiff appealed and the Federal Circuit reversed based on the general rule that courts will grant permanent injunctions in patent infringement "absent exceptional circumstances."  Defendant filed its petition for a writ of certiorari, which the Supreme Court granted to determine the appropriateness of the general rule on permanent injunctions in patent infringement cases.
+
+Issue
+Does the traditional four-part equitable test for injunctive relief apply to Patent Act cases?
+
+Held
+(Thomas, J.)  Yes.  The traditional four-part equitable test for injunctive relief applies to Patent Act cases.  Four elements must be established by the party seeking an injunction:  (1) it has suffered an irreparable injury; (2) it does not have adequate remedy at law; (3) an equitable remedy is warranted after balancing the hardships between plaintiff and defendant; and (4) a permanent injunction serves the public interest.  These principles also apply to the Patent Act.  In this case, the district court and the court of appeals failed to apply these principles when deciding the appropriateness of a permanent injunction.  The district court wrongly broadened the scope of the elements while the court of appeals applied a "general rule" for patent infringement cases.  The district court is required to apply the four-part test in patent cases along with other equitable cases.  Vacated.
+
+Concurrence
+(Roberts, C.J.)  Although historically courts have granted injunctive relief in patent cases, history does not guarantee a right to injunctive relief.  The appropriateness of relief must still be determined by applying the four-part test. (Kennedy, J.)  The four-part test is appropriate.  Many companies now use patent protection to secure licensing fees and the threat of injunctive relief as a way to secure exorbitant licensing fees.   Whether money damages are available should be taken into account by the courts when considering injunctive relief.
+
+Discussion
+Plaintiff's history of licensing the patent was considered by the court in determining that money damages were appropriate as opposed to injunctive relief.  In 2008, after several years of litigation, the parties reached a settlement that included Plaintiff assigning its patents to Defendant.
+

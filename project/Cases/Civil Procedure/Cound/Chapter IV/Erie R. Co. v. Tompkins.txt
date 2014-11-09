@@ -1,0 +1,21 @@
+Citation
+304 U.S. 64, 58 S. Ct. 817, 82 L. Ed. 1188 (1938)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court for negligence for an accident that occurred in Pennsylvania. Under Pennsylvania law, Plaintiff was a trespasser and would have to prove Defendant was wantonly negligent. Under the general rule, however, Defendant only owed a duty of ordinary care to Plaintiff. The District Court applied the general rule and the jury returned a verdict for Plaintiff that was upheld by the Court of Appeals.
+
+Synopsis of Rule of Law
+The term “laws” in Section 34 in the Judiciary Act of 1789 (the “Rules of Decision Act”) refers to the decisions of local tribunals as well as state statutes, their interpretations by the courts, and the rights and titles to things having a permanent locality.
+
+Facts
+Tompkins (Plaintiff) was walking along a path next to railroad tracks in Pennsylvania when an object protruding from a train struck him. Plaintiff sued Erie Railroad Company (Defendant), the owner of the property, for negligence in federal court. Defendant is based in New York. Under Pennsylvania law, Plaintiff was a trespasser and Defendant only owed a duty to avoid wanton negligence. The majority rule, however, is that a railroad owes a duty of ordinary care to a traveler on a footpath. The District Court applied the general law and found for Plaintiff. The Court of Appeals affirmed.
+
+Issue
+Under Section 34 of the federal Judiciary Act of 1789, should Pennsylvania law apply to Plaintiff’s case?
+
+Held
+Yes.   [Swift v. Tyson, 41 U.S. (16 Pet.) 1, 10 L.Ed. 865 (1842)], is overruled. The doctrine irrationally favored state statutory law over state common law. Thus, Swift favored out-of-state litigants over in-state litigants because the out-of-state litigant could ensure that a case would be heard in federal court if it did not like the common law applicable in state court.  Federal courts are courts of limited jurisdiction and thus cannot “supervise” the decisions of the state courts unless such authority is specifically delegated to them in the constitution. Thus, there is no federal common law. State common law and statutes should be given equal force in the federal courts deciding state law.  Section 34 is not unconstitutional, just the doctrine of Swift v. Tyson.   <br/><br/><span class='heading'>Dissent.</span> Justice Butler: The Court considered a question that was not raised. Furthermore, the case cited as grounds for overruling Swift v. Tyson was a single dissent authored 50 years after the Tyson decision was announced. The Court does find Section   34 unconstitutional, and it did not give counsel a chance to argue the constitutional question. Finally, the constitutionality of Section 34 need not have been considered because the evidence shows that Plaintiff was guilty of contributory negligence. Therefore, the judgment should be reversed.  Concurrence. Justice Reed: The rule in Swift was not unconstitutional, it was just erroneous. The Court’s opinion here implies that the federal courts must follow state decisions involving substantive law, whether Congress legislates or not, because to not follow state decisions would violate the constitutional autonomy of the states. This implication is questionable, because under Article III and the necessary and proper clause, Congress can restrict federal courts’ adherence to state common law.
+
+Discussion
+This case articulates what is known as the “Erie doctrine”: a federal court sitting in diversity applies substantive state law. Erie expanded the definition of Section 34 of the Judiciary Act of 1789 to include state court decisions. The two policies emphasized in Erie: uniformity of state court decisions and prevention of discrimination between residents and non-residents, are mentioned frequently in subsequent decisions that support and refine Erie.   Only the concurring opinion of Justice Reed explicitly states that a federal court should apply state substantive law and federal procedural law.
+

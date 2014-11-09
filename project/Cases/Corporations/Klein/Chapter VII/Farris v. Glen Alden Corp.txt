@@ -1,0 +1,21 @@
+Citation
+393 Pa. 427, 143 A.2d 25 (1958)
+
+Brief Fact Summary
+Plaintiff, Stephen Farris, brought this action to prevent Defendant, Glen Alden Corporation, from executing a reorganization agreement that operates as a de facto merger with another company.
+
+Synopsis of Rule of Law
+A reorganization by a corporation to acquire the assets of another organization operates as a de facto merger if the nature of the corporation is significantly changed and the shareholder’s interest is significantly altered.
+
+Facts
+Defendant is a coal-mining company wherein Plaintiff is a shareholder.  In 1957 a second company, List, purchased 38.5% of Defendant’s stock.  List is a holding company that owns interest in real estate, motion pictures, textile companies, but no coal companies until the 1957 stock purchase.  The purchase allowed List to put three members on the board, and in 1958 Defendant entered an agreement with List to purchase List’s assets and liabilities in return for Defendant stock.  The name of the company would change, directors from both companies would run the new company and List would be dissolved.  A majority of the shareholders agreed to the reorganization at a shareholders meeting.  Plaintiff filed suit because the reorganization plan did not conform to Pennsylvania Business Corporation Law that applied to the plan.  Plaintiff argued that the reorganization was a de facto merger, and as such the dissenting shareholders should have been notified that they could claim fair val
+
+Issue
+The issue is whether the reorganization plan between Defendant and List operates as a de facto merger.
+
+Held
+The court held that the plan was a de facto merger.  Instead of looking at just the nature of the corporate transaction, the court looked at the consequences.  If the plan did go through, Plaintiff would own shares in an entity that is very different than the original Defendant corporation, and the directorship would be completely revamped.  Plaintiff’s percent ownership and the value of the shares themselves would be diminished by the transaction.  Therefore Defendant should have notified shareholders of their right to dissent and appraisal.
+
+Discussion
+Defendant acknowledged that if the transaction was considered a merger and shareholders were given the right to dissent, then they would not have the resources to go through with the plan.  If it did go through, List shareholders would have received a significant boost in share value.
+

@@ -1,0 +1,21 @@
+Citation
+69 N.J. 123, 351 A.2d 349, 1976 N.J.
+
+Brief Fact Summary
+The Plaintiff, Bak-A-Lum Corp. of America (Plaintiff), sued the Defendant, Alcoa Building Products, Inc. (Defendant), for damages resulting from the Defendant terminating its exclusive distributor agreement with the Plaintiff.
+
+Synopsis of Rule of Law
+In every contract, there is an “implied covenant of good faith and fair dealing,” which requires that neither party do anything to destroy or limit the right of the other party to collect under the contract.
+
+Facts
+In 1962 or 1963, the Plaintiff entered into an agreement with the Defendant to be the exclusive distributor in Northern New Jersey of aluminum siding and related products. In 1969, the Defendant decided to terminate its agreement with Plaintiff, but withheld from Plaintiff its intention to do so until 1970, all the while knowing the Plaintiff was expanding its warehouse facilities to maintain its exclusive distributorship. The trial court determined that the agreement was binding and could be terminated “only after a reasonable period of time and on reasonable notice.” Plaintiff appealed, questioning the adequacy of the trial court’s damage award. Defendant cross-appealed, questioning the trial court’s ruling that its conduct was actionable.
+
+Issue
+Does keeping secret the pending termination of an exclusive contract, while the other party enters into a long-term lease to maintain the contract, constitute a breach of the implied covenant of good faith and fair dealing?
+
+Held
+Yes. Judgment affirmed with modified damages.
+
+Discussion
+Defendant’s withholding of information from Plaintiff (i.e., that Defendant would be substantially limiting Plaintiff’s distributorship) was in bad faith and constituted a breach of the implied covenant of good faith. Accordingly, Defendant’s actions “must be given substantial weight in determining the reasonableness of notice of termination.”
+

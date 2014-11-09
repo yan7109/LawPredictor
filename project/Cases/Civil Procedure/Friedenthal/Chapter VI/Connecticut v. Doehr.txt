@@ -1,0 +1,21 @@
+Citation
+22 Ill.501 U.S. 1, 111 S. Ct. 2105, 115 L. Ed. 2d 1 (1991)
+
+Brief Fact Summary
+John DiGiovanni applied for attachment of real estate owned by Respondent in connection with a complaint filed by DiGiovanni against Respondent for assault. The attachment was made pursuant to a Connecticut statute. Respondent filed suit in federal court claiming the statute was unconstitutional.
+
+Synopsis of Rule of Law
+A statute that allows for a prejudgment remedy via attachment of property in connection with a lawsuit upon a showing of probable cause that the applicant will prevail in the lawsuit is unconstitutional in that it deprives the property owner of his property without due process of law.
+
+Facts
+DiGiovanni applied for attachment of property owned by Respondent Doehr in connection with a complaint DiGiovanni instituted against Respondent alleging assault and battery. A Connecticut statute allowed for such attachment prior to a hearing so long as there was probable cause for the basis of attachment. In addition, the statute provided that the property owner be notified, that he had a right to a hearing, and that the probable cause decision was subject to judicial review. Respondent filed a petition in federal court claiming that the Connecticut statute violated the due process clause of the 14th amendment. The District Court upheld the statute. On appeal, the Second Circuit reversed. Connecticut appealed from that ruling.
+
+Issue
+Does the Connecticut statute that allows a person to attach the property of another prior to a hearing based on a civil lawsuit that does not relate to the property violate the due process clause of the Fourteenth Amendment?
+
+Held
+Yes. The Second Circuit’s decision is upheld and the case remanded for further proceedings.
+
+Discussion
+The majority’s opinion demonstrates that statutes allowing for the taking of property by a private citizen from another prior to a hearing have significant due process implications. Such statutes are unlikely to be upheld if the reason for the attachment does not pertain to the property attac
+

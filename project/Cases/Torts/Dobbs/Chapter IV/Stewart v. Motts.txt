@@ -1,0 +1,15 @@
+Citation
+539 Pa. 596, 654 A.2d 535
+
+Brief Fact Summary
+John Stewart (Appellant) suffered burns after an accident in Motts’ (Appellee) auto body shop after the automobile on which they were jointly working ignited. The Superior Court of Pennsylvania affirmed a judgment in favor of Appellee in Appellant’s negligence action seeking damages for personal injuries. Appellant sought review.<span class="heading">Synopsis of Rule of Law.</span> The standard of reasonable care applies to all negligence actions, i.e., the reasonable person must exercise care in proportion to the danger involved in his act, and that he or she must exercise such care not only for his own safety and the protection of his property but also to avoid serious injury to others.
+
+Facts
+Plaintiff stopped at Defendant’s auto repair shop to assist in repairing a car’s fuel tank. The tank was unattached, and Plaintiff suggested pouring gasoline into the carburetor in an attempt to start the vehicle. The car backfired, and in the ensuing explosion Plaintiff suffered severe burns. At trial, Plaintiff requested a jury instruction directing the application of a standard of a “high degree” of care in instances of elevated danger. The judge declined, the jury found for Defendant and Plaintiff appealed.<span class="heading">Issue.</span> Does there exist a higher standard of “extraordinary care” for the use of dangerous instrumentalities over and above the usual standard of “reasonable care” to be applied in negligence actions?
+
+Held
+No. The court reaffirmed the principle that that there is only one standard, that of “reasonable care” to be applied uniformly in negligence actions.
+
+Discussion
+In any action for negligence, a plaintiff must establish that four elements are met: duty, breach, causation, and harm. The Defendant must owe a duty to plaintiff, breach that duty and, as a result, the plaintiff must suffer harm. The defendant’s actions must be the proximate, or legal, cause of the injury suffered.
+

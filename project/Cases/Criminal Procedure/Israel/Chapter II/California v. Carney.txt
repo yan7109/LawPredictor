@@ -1,0 +1,24 @@
+Citation
+471 U.S. 386, 105 S. Ct. 2066, 85 L. Ed. 2d 406 (1985)
+
+Brief Fact Summary
+The defendant, Charles Carney (the “defendant”), was arrested for possession of marijuana for sale, after police surveyed the defendant’s parked motor home.  The police did not obtain a warrant for the arrest and subsequent search.
+
+Synopsis of Rule of Law
+There is no search warrant requirement for a motor vehicle as there would be for a more permanent structure such as a home or building, due to the inherent lower expectation of privacy for a motor vehicle.
+
+Facts
+The arresting officer noticed the defendant escorting a youth into the defendant’s parked motor home and drawing the shades.  The officer stopped the youth after he left the vehicle, and the youth admitted that he received marijuana in exchange for sexual contact.  The youth, per the officer’s request, knocked on the motor home, wherein one officer entered the vehicle without a warrant and found marijuana and related paraphernalia.
+
+Issue
+Whether the police needed a search warrant to search the parked mobile home?
+
+Held
+The Supreme Court of the United States (”Supreme Court”) held that the police did not need a search warrant before searching the motor home.  The Supreme Court referred to their ruling as the “automobile exception,” which states that there is a lesser degree of protection for motor vehicles because they can be quickly moved out of the area.  The Supreme Court added that the open nature of vehicles as compared with a permanent structure would warrant a lesser expectation of privacy.  Government regulation of vehicles would also suggest that there is a lower expectation of privacy for a vehicle as compared to a fixed structure.
+
+Dissent
+The dissenting justices distinguished the specific facts of this case from the more general considerations of the automobile exception.  The dissent reasoned that the automobile exception is normally applicable because there is the exigent circumstance of the vehicle leaving.  In this case, the vehicle was parked only blocks away from a courthouse where a warrant could have been had, and the police had the element of surprise, so no exigency existed in the circumstances that existed.
+
+Discussion
+The dissent reasons that the automobile exception exists because typically a motor vehicle was the exigent circumstance.  In this case, it is the ability to remove the vehicle from the location quickly.  The majority is drawing a brighter line between fixed structures and vehicles.  There is no mention of a lesser standard for probable cause.
+

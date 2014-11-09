@@ -1,0 +1,24 @@
+Citation
+543 U.S. 1043 125 S. Ct. 891 160 L. Ed. 2d 764 2005 U.S.
+
+Brief Fact Summary
+Kevin D. Gray (Petitioner) was tried with Anthony Bell (codefendant) and convicted by a jury of murder.  On appeal, Petitioner’s conviction was set aside, but then reinstated by the state Supreme Court.  Petitioner appeals the reinstatement of his conviction here.
+
+Synopsis of Rule of Law
+The admission into evidence, at a criminal defendant’s trial, of a non-testifying codefendant’s confession that implicates the criminal defendant, but replaces the criminal defendant’s name with a word such as “deleted” or a blank space, violates the criminal defendant’s 6th amendment Confrontation Clause rights.
+
+Facts
+Stacy Williams (Victim) was severely beaten, and eventually died as a result of her injuries.
+
+Issue
+Did the trial court’s admission of codefendant’s confession at Petitioner’s trial, with the substitution of blanks and the word “delete” for Petitioner’s name, violate Petitioner’s 6th amendment Confrontation Clause rights?
+
+Held
+Yes; a confession that substitutes blanks or the word “delete” for the criminal defendant’s name falls under the class of statements held by Bruton to be a violation, when admitted at trial, of the criminal defendant’s 6th amendment Confrontation clause rights; accordingly, Petitioner’s rights were violated by the admission of codefendant’s confession here.
+
+Dissent
+Justices Scalia (writing), Chief Justice Rehnquist, Kennedy, and Thomas dissented, arguing that the codefendant’s confession could have been admitted, with Petitioner’s name removed and together with a limiting instruction from the Court, without violating Petitioner’s 6th amendment Confrontation Clause rights.
+
+Discussion
+The Court looked to its decision in Bruton v. U.S., 391 U.S. 123 (1968), which held that using a codefendant’s confession against a criminal defendant was a violation of the criminal defendant’s rights under the Confrontation Clause of the 6th amendment.  The Court reasoned that merely replacing Petitioner’s name with a blank space or a word such as “delete” was insufficient to protect Petitioner from an unfair inference that he was guilty based on the codefendant’s confession.  The Court stated, “this confession refers directly to the ‘existence’ of the nonconfessing defendant. The State has simply replaced the nonconfessing defendant’s name with a kind of symbol, namely the word “deleted” or a blank space set off by commas . . . We therefore must decide . . . whether redaction that replaces a defendant’s name with an obvious indication of deletion, such as a blank space, the word ‘deleted,’ or a similar symbol, still falls within Bruton’s protective rule. We hold that it
+

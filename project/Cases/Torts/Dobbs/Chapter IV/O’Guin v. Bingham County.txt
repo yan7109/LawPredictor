@@ -1,0 +1,21 @@
+Citation
+122 P.3d 308 (Idaho 2005).
+
+Brief Fact Summary
+Plaintiff’s children were playing in the Bingham County landfill when a wall collapsed and killed them.  Plaintiffs sued the County under a negligence per se theory, arguing that the County’s failure to fence the boundaries of the landfill, as required by state statutes and federal regulations, caused the children’s deaths.
+
+Synopsis of Rule of Law
+To make a prima facie claim for negligence per se, the following elements must be met: (1) the statute must clearly define the required standard of conduct; (2) the statute must have been intended to prevent the type of harm the defendant’s acts or omissions caused; (3) the plaintiff must be a member of the class of persons the statute was designed to protect; and (4) the violation must have been the proximate cause of the injury.
+
+Facts
+Shaun, Alex, and Frank Jr. O’Guin ate lunch at a summer school program then proceeded to walk home.  The children went through an unlocked gate at the back of the schoolyard, through a privately owned empty field, and into an unobstructed landfill pit to play.  A section of the pit wall collapsed and crushed Shaun and Alex, killing them.  Their bodies were initially discovered by Frank Jr.  Their parents sued the County for negligence per se, relying on Idaho statutes and federal regulations which require the County to fence or block access to the landfill when an attendant is not on duty.  The trial court granted summary judgment for the County, the O’Guins appealed and won, resulting in a reversal of the trial court’s judgment.
+
+Issue
+
+
+Held
+Yes.  In order to replace the common law duty of care with that imposed by a statute, the following elements must be met: (1) the statute must clearly define the required standard of conduct; (2) the statute must have been intended to prevent the type of harm the defendant’s acts or omissions caused; (3) the plaintiff must be a member of the class of persons the statute was designed to protect; and (4) the violation must have been the proximate cause of the injury.  In analyzing these requirements, the court held that the applicable statutes and regulations (1) clearly required boundaries on the landfill and that the County failed to meet that standard; (2) were intended to protect health and human safety; (3) were intended to protect against entry of unauthorized person such as the O’Guin children; and (4) that there was a disputed issue of fact as to whether the County’s violation proximately caused the children’s deaths.  Accordingly the court reversed the trial court’s grant of summary judgment to the County.
+
+Discussion
+This decision introduces the theory of negligence per se.  The effect of establishing negligence per se through a violation of a statute is to conclusively establish the first two elements of a cause of action in negligence: duty and breach.  Negligence per se lessens the plaintiff’s burden only on the issue of the actor’s departure from the standard of conduct required of a reasonable person.
+

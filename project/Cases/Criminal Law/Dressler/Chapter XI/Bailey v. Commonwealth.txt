@@ -1,0 +1,21 @@
+Citation
+229 Va. 258, 329 S.E.2d 37, 1985 Va. 201.
+
+Brief Fact Summary
+This Case stems from an argument between the Defendant, Bailey (Defendant), and Murdock after an extended, angry conversation between the two through their citizens band radios. Through an interesting course of events, Murdock eventually was shot by police officers who were responding to a call from the Defendant concerning Murdock’s actions.
+
+Synopsis of Rule of Law
+One who affects a criminal act through an innocent or unwitting agent is a principal in the first degree.
+
+Facts
+The Defendant and Murdock often had argumentative conversations over their citizens band radios. However, during the night of May 21, 1983, both the Defendant and Murdock were heavily intoxicated. Murdock was also legally blind. During the course of their conversation, the Defendant told Murdock to wait on Murdock’s porch for him to come over and injure or kill him. The Defendant then made a series of telephone calls to the Roanoke Police Department. Eventually, the police went to Murdock’s home and witnessed him with a gun. The police approached Murdock and told him to put down his weapon. However, Murdock did not realize that it was the police who were approaching, instead believing it to be the Defendant. Murdock opened fire on one of the approaching police officers. As a result, all of the police officers on the scene opened fire upon Murdock. Murdock eventually died from a gunshot wound to the left side of the chest.
+
+Issue
+Whether it was proper to convict the Defendant of involuntary manslaughter when, in his absence, the victim was killed by police officers responding to reports from the Defendant concerning the victim’s conduct?
+
+Held
+The intervening acts of the police officers, which, given the Defendant’s conduct, were reasonably foreseeable, cannot be relied upon as breaking the chain of causal connection between the original act of negligence and subsequent injury. The jury found that because the Defendant’s actions were reasonably foreseeable and because the Defendant acted through an innocent agent, conviction upon a charge of involuntary manslaughter can be upheld.
+
+Discussion
+The Defendant attempted to distinguish between principals in the first and second degree and accomplices. The Defendant asserted that because he was not the one who directly injured Murdock, he could not be held as a principal in the first degree. However, as the court noted, the Defendant undertook to cause harm to Murdock and because he used an agent to accomplish those means, the Defendant could be held as a principal in this action. The doctrine that was created by the Bailey decision has become commonly known as the “innocent agency doctrine.”
+

@@ -1,0 +1,21 @@
+Citation
+58 Del. 553, 8 Storey 553, 212 A.2d 214 (Super. Ct. 1965)
+
+Brief Fact Summary
+Plaintiffs, Gerald and Julie Hoover, brought an action against Defendants, Sun Oil Co., station operator James Barone and employee John Smilyk, after Smilyk’s negligence caused Plaintiffs’ car to catch fire.
+
+Synopsis of Rule of Law
+A master-servant relationship does not exist when an independent contractor controls the day-to-day operations of the entity that is responsible for damages suffered by a plaintiff.
+
+Facts
+Plaintiffs entered Barone’s service station to fill their vehicle with gas.  Smilyk, and employee of Barone, negligently started a fire while filling Plaintiffs’ car.  Plaintiffs brought an action against the three defendants to recover damages from the fire.  Sun Oil contended that the facts of the case indicate that Barone operated the station independently from Sun Oil, and consequently Sun Oil was not responsible for his actions.
+
+Issue
+The issue is whether Barone is a servant of Sun Oil or whether Barone operated his station as an independent contractor.
+
+Held
+Sun Oil is not responsible for the negligence of Smilyk because he is an employee of Barone, who in turn is an independent contractor.  The Superior Court of Delaware, New Castle, did not find any evidence to support a master-servant relationship and therefore allowed Sun Oil’s summary judgment.  Barone controlled all day-to-day operations of the station.  Although Sun Oil worked closely with Barone in several day-to-day operations, Barone was not required to follow Sun Oil’s advice.  Barone was also able to sell competing products even if he elected not to do so.
+
+Discussion
+The case is very similar to Humble Oil & Refining Co. v. Martin, except the station owner in this case was considered to have more day-to-day control, such as setting station hours, and had the option to sell other products.  Most assistance offered by Sun Oil was voluntary.  The court emphasized that there was no evidence of a master-servant relationship in the signed agreement between Barone and Sun Oil.
+

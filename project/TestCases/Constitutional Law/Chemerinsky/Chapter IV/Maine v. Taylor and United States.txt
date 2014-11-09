@@ -1,0 +1,24 @@
+Citation
+477 U.S. 131, 106 S. Ct. 2440, 91 L. Ed. 2d 110, 1986 U.S.
+
+Brief Fact Summary
+The Defendant, Taylor (Defendant), in defense of criminal charges, challenged Maine’s law prohibiting the importation of live baitfish on the ground it violated the Commerce Clause of the United States Constitution (Constitution).
+
+Synopsis of Rule of Law
+A state statute that affirmatively discriminates against interstate commerce passes vigorous a strict scrutiny test where it attempts to prohibit significant damage to the State’s environmental well-being.
+
+Facts
+A law in Maine, enacted to protect the State’s fisheries from parasites and non-native species, prohibited the importation of live baitfish. The Defendant operated a bait business in Maine and imported live bait called “golden shiners” against federal law. The federal law made it a crime to import, receive or purchase in interstate commerce any fish possessed in violation of State law. The Defendant moved to dismiss the indictment on the ground that Maine’s statute was an unconstitutional burden on interstate commerce. The District Court dismissed the Defendant’s motion and the Court of Appeals reversed.
+
+Issue
+Does a state statute that affirmatively discriminates against interstate commerce pass the strict scrutiny test where it attempts to prohibit significant damage to the State’s environmental well being?
+
+Held
+Yes, the Supreme Court of the United States (Supreme Court) upholds this patently discriminatory law. State may regulate matters of legitimate public concern even though interstate commerce may be effected. Where a law is discriminatory on its face, the state must show that the law both serves a legitimate local purpose and that the purpose cannot be achieve by available nondiscriminatory means. Here, the Supreme Court determines that Maine chose the least discriminatory means to establish their legitimate objective.
+
+Dissent
+Justice John Paul Stevens (J. Stevens) does not like the fact that Maine is the only State that can blatantly discriminate against out of state baitfish. He feels that Maine should have the heavy burden of showing there are no other alternatives.
+
+Discussion
+Maine’s statute directly restricts interstate trade by blocking all inward shipments of live baitfish, but this alone does not render it unconstitutional. The environment is a legitimate concern for Maine because importing minnows could ruin Maine’s fragile fisheries. Therefore, Maine cannot be expected to sit idly by and wait until potentially irreversible environmental damage has occurred or until the scientific community agrees, on what disease organisms are or are not dangerous, before it acts to avoid such consequences.
+

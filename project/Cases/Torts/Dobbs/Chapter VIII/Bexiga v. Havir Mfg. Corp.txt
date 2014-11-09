@@ -1,0 +1,21 @@
+Citation
+60 N.J. 402; 290 A.2d 281.
+
+Brief Fact Summary
+In a products liability action, John Bexiga, Sr., (Plaintiff) brought an action on behalf of his son, who was injured on the job. The lower court dismissed the action and the appellate court affirmed. The Supreme Court of New Jersey overturned the appellate court ruling and remanded for a new trial.
+
+Synopsis of Rule of Law
+Strict liability applies to anyone “who sells a product in a defective condition unreasonably dangerous to the user or consumer or his property.” Restatement (Third) of Torts.
+
+Facts
+John Bexiga, Jr., a minor, was injured while operating a power punch for his employer, Havir Manufacturing Corporation (Defendant). His right hand was crushed during the operation of the machine, resulting in loss of fingers and deformity of the hand. At trial, an expert for the Plaintiff testified as to the fundamentally flawed design of the machine in question. The defense raised the issue of contributory negligence, which the Supreme Court of New Jersey rejected, citing considerations of justice and public policy.
+
+Issue
+Was Defendant strictly liable for the damages resulting from the allegedly defective design of the apparatus that injured Plaintiff?
+
+Held
+Yes. The court held that Defendant was strictly liable. It reversed the superior court’s dismissal of Plaintiff’s negligence action. The court concluded that the evidence presented was sufficient to withstand a motion for dismissal on the theory of either negligence or strict liability.
+
+Discussion
+The doctrine of strict liability encompasses that area of tort law when a defendant will be responsible for damages without consideration of due care or fault. There are a number of discrete areas in which the doctrine applies, and in Bexiga the Supreme Court of New Jersey addresses product liability. With regard to the latter, the Restatement (Third) of Torts: Products Liability (1997) takes a functional approach to classification of such cases. Specifically, the Restatement outlines three types of claims 1) manufacturing defects; 2) design defects; or 3) defects by reason of inadequate warnings or instructions. In considering, the first type, the Bexiga court explains: “Where there is an unreasonable risk of harm to the user of a machine which has no protective safety device, the jury may infer that the machine was defective in design unless it finds that the incorporation by the manufacturer of a safety device would render the machine unusable for its intended purposes
+

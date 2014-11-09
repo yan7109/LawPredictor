@@ -1,0 +1,18 @@
+Citation
+451 F.2d 267 (2d Cir. 1971)
+
+Brief Fact Summary
+Plaintiff, Max Eisenberg, as a stockholder of Defendant corporation, Flying Tiger Line, Inc., brought a suit against Defendant to enjoin a reorganization.  Defendant moved for Plaintiff to post security per New York State Law.
+
+Synopsis of Rule of Law
+When the injury suffered was personal, rather than an injury of the corporation, the suit should not be considered derivative for the purposes of requiring a posting of security for opposing legal expenses.
+
+Facts
+In July of 1969, Defendant, a Delaware corporation, organized a wholly owned subsidiary.  In August that wholly subsidiary in turn organized its own wholly own Delaware subsidiary.  The three corporations then reorganized and merged with the August subsidiary being the only surviving corporation.  The stockholders approved of this organization in September 1969.  Plaintiff asserts that this reorganization diluted his, and similar minority shareholders, voting rights.  Plaintiff brought suit to enjoin the reorganization.  Defendant had the suit removed to the District Court for the Eastern District of New York, and they asserted that under New York state law, shareholders with less than 5% share or $50,000 of stock who file derivative suits must post security to pay for the opposing legal expenses in the event of an unsuccessful suit.  Plaintiff argued that his suit was not a derivative suit as contemplated by the statute, but rather a suit for personal damages.
+
+Issue
+The issue is whether Plaintiff must post security before proceeding with his suit.
+
+Held
+The United States Court of Appeals for the Second Circuit held that Plaintiff does not have to post security because the suit is not a derivative cause of action.  Plaintiff’s suit is to prohibit the loss of voting rights in Defendant corporation.  His cause of action is not on behalf of the corporation or on behalf of all shareholders
+

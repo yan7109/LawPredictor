@@ -1,0 +1,18 @@
+Citation
+825 N.E.2d 554 (Mass. App. Ct. 2005).
+
+Brief Fact Summary
+Plaintiff lived with Defendant police officer who owned a gun and stored it loaded and unlocked in the bedroom.  One night after consuming drugs and being asked by Defendant to move out, Plaintiff took the gun from the bedroom and shot at Defendant twice but the gun did not fire.  Plaintiff then shot herself and the gun did fire, seriously injuring her.  She sued Defendant for negligence.
+
+Synopsis of Rule of Law
+In most states, suicide is considered an intervening cause which breaks the chain of causation, relieving a defendant from liability.  A few states, however, including Massachusetts, do not follow this traditional rule and will allow a plaintiff the chance to show that the risk of suicide was foreseeable and that defendant proximately caused it.
+
+Facts
+Plaintiff Delaney began living with Defendant Reynolds, a police officer.  Reynolds routinely stored his gun, loaded and unlocked in the bedroom.  Reynolds knew that Delaney knew where he kept his gun.  Reynolds also knew that Delaney was depressed and had substance abuse problems.  One night Delaney smoked crack cocaine and was drinking heavily.  Reynolds urged her to move out of his house.  While packing her things, Delaney took the gun, went downstairs and aimed the gun at Reynolds, pulling the trigger twice.  The gun did not fire.  Delaney then ran back up stairs, pursued by Reynolds.  When they reached the bedroom, Delaney put the gun under her chin, fired, and this time the gun went off, seriously injuring her.  Delaney sued Reynolds for negligence.  Reynolds claimed that Delaney’s intentional act of attempting suicide was a superseding cause of her injuries.  The trial judge granted summary judgment for Reynolds and the court of appeals reversed
+
+Issue
+Whether suicide is such an extraordinary event as not to be reasonably foreseeable, but an intervening cause of injury which breaks the chain of causation.No, under Massachusetts law.  Historically, a purposeful act of suicide, rather than any antecedent negligence, will be deemed the legal cause of a decedent’s injury unless the defendant’s negligence rendered the decedent unable to appreciate the self-destructive nature of the suicidal act or unable to resist the suicidal impulse.  Massachusetts, however, does not adopt an ironclad rule that suicide constitutes an intervening cause.  The court held that Delaney should have the chance to show that the risk that she would handle Reynolds’ gun in a manner so as to cause intentional injury to herself was foreseeable and that his failure to secure his gun was a proximate cause of her injury.  Accordingly, the appeals court revered the summary judgment ruling.
+
+Discussion
+Most states continue to follow the traditional rule that suicide is a superseding cause of plaintiff’s harm, freeing the defendant from liability for negligence.  Like Massachusetts, however, other jurisdictions have recently gone beyond the categorical basis for treating suicide as an intervening cause of injury and have considered various nontraditional circumstances as relevant to the issue of foreseeability.
+

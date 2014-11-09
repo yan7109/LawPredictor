@@ -1,0 +1,21 @@
+Citation
+506 U.S. 994 113 S. Ct. 589 121 L. Ed. 2d 527 1992 U.S.
+
+Brief Fact Summary
+The Internal Revenue Service (”I.R.S.”) was investigating the tax returns of L. Ron Hubbard (”Mr. Hubbard”), and sought various materials from the Church of Scientology (the “Church”) in the possession of a District Court.  The Church sought continued protection of the documents based on the attorney client privilege, and the IRS claimed they should be given access to the tapes because they fell under the crime-fraud exception to attorney-client privilege.
+
+Synopsis of Rule of Law
+Neither the Federal Rules of Evidence (”F.R.E.”) or the federal common law prohibit in camera review of alleged privileged material.
+
+Facts
+The Criminal Investigation Division of the I.R.S. sought access to 51 documents as part of its investigation into the tax returns of Mr. Hubbard, founder of the Church of Scientology.  The documents were filed with the Los Angeles County Superior Court in connection with a case involving the Church of Scientology of California v. Armstrong.  The Armstrong case involved an allegation by the Church, that one of its former members had unlawfully obtained materials relating to Church activities, including two tapes.  The I.R.S. served a summons on the Clerk of the Court and was granted permission to inspect and copy some of the materials, including the tapes.  The Church secured a restraining order requiring the I.R.S. to return all materials to the District Court.  The I.R.S. sought to enforce its summons and the Respondents objected on the grounds of lack of evidence and attorney-client privilege.  The Petitioner argued that the tapes fell within the crime-fraud exception to the
+
+Issue
+Whether a district court, at the request of the party opposing the privilege, may review the allegedly privileged communications in-camera, to determine if the crime-fraud exception applies? Whether some threshold evidentiary showing is needed before the district court may review the communications? If a threshold showing is required, whether the partial transcripts the I.R.S. possessed may be used to oppose the privilege?
+
+Held
+Justice Harry Blackmun (”J. Blackmun”) delivered the opinion of the United States Supreme Court (”Supreme Court”) and held that in-camera review of allegedly privileged attorney-client communications may be used to determine whether the communications fall within the crime-fraud exception, in appropriate circumstances.
+
+Discussion
+In-camera review is a minor intrusion on the attorney client privilege, and a lesser evidentiary showing is needed to have an in-camera review, than would be needed to overcome the privilege itself.
+

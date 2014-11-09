@@ -1,0 +1,24 @@
+Citation
+523 U.S. 185, 118 S. Ct. 1151, 140 L. Ed. 2d 294 (1998)
+
+Brief Fact Summary
+Petitioner, Gray, was arrested and tried jointly with Anthony Bell for the murder of Stacey Williams.  His conviction was obtained when a confession, by Bell, was used against Gray at trial.  Gray sought to have his conviction overturned on the basis of improper admission of evidence.
+
+Synopsis of Rule of Law
+A Confession of one defendant, in a joined case, cannot be used against another.
+
+Facts
+In 1993, Bell and Gray were tried jointly for the murder of Stacey Williams.  Bell refused to testify and his confession was entered against him at trial.  According to the Judge’s Order, when the confession was read, the name of Gray was to be deleted and, instead the word “deleted” was to be used.  The jury convicted both parties and Gray appealed.  The intermediate appellate court applied Bruton v. United States (391 U.S. 23), which held that a jury should consider a confession only against the confessing codefendant and the introduction of such a confession at a joint trial is a violation of the nonconfessing defendant’s sixth amendment right to cross-examine witnesses.  The conviction was later reinstated by the Maryland Supreme Court, and cert was taken to the United States Supreme Court.
+
+Issue
+Whether the confession of one defendant, whether or not it has been redacted to remove the mention of another defendant, can be used at a trial where both defendants are being tried.
+
+Held
+In an opinion written by Justice Breyer, the Court held that such a confession was damaging to a defendant and would still lead a jury to suspect that “deleted” actually meant the other defendant who had not confessed.
+
+Dissent
+Justice Scalia, for the dissent, maintained that extending Bruton to name-redacted confessions will compromise societal interest in convicting those who are guilty.
+
+Discussion
+The crux of the argument between the majority and the dissent on this opinion is the manner in which the confession should be admitted.  In Bruton’s original form, the case only determined that a confession ought not be used against one defendant when his codefendant has confessed; however, Richardson later carved out an exception that said a confession could be used if there was no mention whatsoever of a codefendant.  In this case, the confession lies somewhat in the middle and, what the majority rests upon, is that a confession which has been only partially redacted (to remove just the name of the defendant) is just as damning because any reasonable juror would only have to look up to realize what “deleted” me
+

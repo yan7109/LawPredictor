@@ -1,0 +1,24 @@
+Citation
+178 L. Ed. 2d 471
+
+Brief Fact Summary
+Following a severe beating suffered by John Foster (Victim), a correctional counselor at a prison, Owens (Respondent) was convicted of assault with intent to commit murder in the lower court.  The Court of Appeals reversed the conviction on hearsay grounds, and certiorari was granted here to consider whether the Confrontation Clause of the Sixth Amendment and/or Rule 802 of the Federal Rules of Evidence is violated by the admission into evidence of a prior, out-of-court statement of identification when the witness is unable to recall the basis for the identification.
+
+Synopsis of Rule of Law
+Neither Rule 802 of the Federal Rules of Evidence nor the Confrontation Clause of the Sixth Amendment bar the admission into evidence of testimony concerning a prior, out-of-court identification when the witness suffers from memory loss and cannot recall or explain the basis for the identification.
+
+Facts
+Victim was beaten with a metal pipe and suffered a fractured skull and, as a result, was hospitalized for nearly a month.
+
+Issues
+Does the Confrontation Clause of the Sixth Amendment to the United States Constitution bar testimony concerning a prior, out-of-court identification when the identifying witness is unable, because of memory loss, to explain the basis for the identification? Does Rule 802 of the Federal Rules of Evidence bar testimony concerning a prior, out-of-court identification when the identifying witness is unable, because of memory loss, to explain the basis for the identification?
+
+Held
+Reversed and remanded.
+
+Dissent
+Justices Brennan and Marshall dissent, writing, “Because . . . the Sixth Amendment guarantees criminal defendants the right to engage in cross-examination sufficient to ‘affor[d] the trier of fact a satisfactory basis for evaluating the truth of [a] prior statement,’ . . . and because respondent clearly was not afforded such an opportunity here, I dissent.” (citations omitted).
+
+Discussion
+As to the Confrontation Clause question, the majority cites its own precedent, stating, “the Confrontation Clause guarantees only ‘an opportunity for effective cross-examination, not cross-examination that is effective in whatever way, and to whatever extent, the defense might wish.’”<br />As to the Federal Rule of Evidence issue, the majority reasons that the provisions of Rule 801(d)(1)(C), which provide that a prior identification statement is not hearsay if the declarant is, “subject to cross-examination concerning the statement,” applies to the identification at issue here, and the fact of Victim’s memory loss does not render it inapplicable.  The court writes:<br />Meaningful cross-examination within the Rule’s intent is not destroyed by the witness’ assertion of memory loss, which is often the very result sought to be produced by cross-examination, and which can be effective in destroying the force of the prior statement. Moreover, the Rule does not, on its face, require more than that the cross-examination “concer[n] the statement.”<br />The majority also relies on the legislative history of the Rules in reaching its conclusion:<br />The Advisory Committee’s notes on the Rule, the Rule’s legislative history, and the language of Rule 804(a)(3) — which, in defining “unavailability as a witness” to include memory-loss situations, demonstrates Congress’ awareness of the recurrent evidentiary problem of witness forgetfulness — all support this reading of the Rule.
+

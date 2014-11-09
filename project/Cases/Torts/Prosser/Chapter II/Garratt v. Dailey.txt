@@ -1,0 +1,21 @@
+Citation
+46 Wn.2d 197, 279 P.2d 1091, 1955 Wash.
+
+Brief Fact Summary
+Plaintiff brought suit for assault and battery against Defendant, a five year-old boy. Plaintiff alleged that Defendant intentionally moved a chair as she was about to sit down so as to injure Plaintiff, but the trial court found he was instead trying to prevent injury and had no intention of injuring or embarrassing her.
+
+Synopsis of Rule of Law
+The relevant intent for the purposes of assault and battery may be found from evidence establishing that Defendant knew to a substantial certainty that contact or apprehension of contact would result from his actions. Knowledge of a grave risk that such contact or apprehension could occur is insufficient. A Defendant’s age in such a case is relevant only insofar as it demonstrates Defendant’s likely degree of knowledge based upon his experience and understanding.
+
+Facts
+Plaintiff alleged that Defendant, a five year-old boy, moved a chair away just as she was about to sit down in it, causing her to be injured. At trial, the judge believed the testimony of Defendant, finding that he did not act with any intent to cause offensive contact, injury, or embarrassment to Plaintiff. The Trial Judge dismissed the case on the strength of these findings, and Plaintiff appealed.
+
+Issue
+Does the finding that a Defendant did not intend to cause offensive contact, injury, or embarrassment to a Plaintiff warrant dismissal of the Plaintiff’s claim for assault and battery?
+
+Held
+The Court reversed the trial court’s dismissal of the case and remanded the case for a determination of the extent to which Defendant knew, based upon his experience and understanding, that the injury would result from his actions.
+
+Discussion
+This case introduces some of the many critical distinctions at play in analyzing intent. The Court discusses at least three discernible classes of intent: 1) the intent to commit the act of moving the chair; 2) the intent to injure, embarrass, or cause apprehension; and 3) the intent that may be inferred from what the Defendant knew was substantially certain to result. In this case, it appears that the trial court focused exclusively upon the second category, and dismissed the case when it could not be found. This Court, however, placed greater emphasis upon the third category, which would clearly allow liability in a far greater array of situations.
+

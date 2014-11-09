@@ -1,0 +1,21 @@
+Citation
+59 F. Supp. 2d 562, 1999 U.S. Dist. 11827, Copy. L. Rep. (CCH) P27,964
+
+Brief Fact Summary
+Plaintiff sought a declaratory judgment that a book published by them did not infringe upon the copyright of a rival company’s book.
+
+Synopsis of Rule of Law
+Specific jurisdiction exists where the suit arises over the defendant’s activities in the forum state. General jurisdiction arises when a Defendant’s contacts with the state are so continuous and systematic that the Defendant may be subject to suit for causes of action unrelated to its in-state activities.
+
+Facts
+Plaintiff Coastal Video Communications was a Virginia corporation engaged in the business of producing employee handbooks and video training programs. Plaintiff sold those products to companies throughout the United States. One of Plaintiff’s products was an employee handbook titled: Defending your Safety Zone: Back Protection. Defendant Staywell Corporation is a Delaware corporation with its principal place of business in California. Defendant produces patient education and injury prevention training materials. Defendant sent Plaintiff a cease and desist letter, alleging that Plaintiff’s book Defending your Safety Zone, was an infringement on a Defendant book entitled Safety Zone, for which it held a U.S. Copyright. Plaintiff filed an action seeking a declaration that its handbook did not infringe upon Defendant’s. Defendant filed a motion to dismiss for lack of personal jurisdiction pursuant to Rule 12(b) (2) and Plaintiff filed a motion seeking discovery on the issue of personal jurisdiction.
+
+Issue
+Whether a state’s long-arm statute permits jurisdiction over a non-resident corporation whose only business within the state is advertising and soliciting business on its internet website.
+
+Held
+Plaintiff’s motion for discovery related to personal jurisdiction was granted, while the Defendant’s motion to dismiss was taken under advisement pending the outcome of the discovery.   Without proof that a non-resident company transacted business relevant to the cause of action in Virginia, there is no specific jurisdiction over the Defendant.
+
+Discussion
+The key to understanding the court’s decision here is recognizing the distinction between specific and general jurisdiction. Specific jurisdiction exists where the suit arises over the Defendant’s activities in the forum state. General jurisdiction arises when a Defendant’s contacts with the state are so continuous and systematic that the defendant may be subject to suit for causes of action unrelated to its in-state activities. Thus in denying specific jurisdiction the court noted that Defendant had never sold any copies of their Safety Zone publication in Florida. More importantly, the Plaintiff’s action did not arise from the sale of Defendant’s publication. Thus, there was no legal arrangement that bound Defendant to the forum state.
+

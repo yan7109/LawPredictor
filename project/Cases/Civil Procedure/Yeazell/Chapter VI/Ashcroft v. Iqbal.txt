@@ -1,0 +1,27 @@
+Citation
+556 U.S. 662 (2009)
+
+Brief Fact Summary
+JavaidIqbal (P) was a Pakistani citizen who was arrested on criminal charges and detained by federal officials following the terrorist attack on 9/11. He filed suit against federal officials on the ground that his imprisonment was under conditions that infringed on his constitutional rights. The defendants moved the court to dismiss the complaint on grounds of facial insufficiency.
+
+Synopsis of Rule of Law
+A complaint must be non-conclusory,ie, base allegations on facts and be believable under the rules of logic and circumstances to be considered well-pleaded.
+
+Facts
+JavaidIqbal (P) who is a Muslim and a Pakistani citizen was arrested by federal officials on charges of criminal activity, and detained after the terrorist attack on 9/11. He filed a case against them in a federal court on the ground that he was not allowed to exercise his constitutional rights during his confinement, because of his race, religion and country of origin. The complaint specifically named the former U.S. Attorney General John Ashcroft (D) and FBI Director Robert Mueller (D) as well as others. Ashcroft (D) and Mueller (D) moved court to throw out the case as facially insufficient, and also defended their  actions on the ground of qualified immunity since they were holding office at the time of the incident. The motion was not granted by the district court, and they filed an interlocutory appeal in the Second Circuit Court of Appeals. This was affirmed, and the U.S. Supreme Court granted a writ for judicial review of the lower court’s decision.
+
+Issue
+Does a complaint need to be non-conclusory, that is irrefutably supported by facts, plausible under the circumstances of the case and factually true, to be well-argued?
+
+Held
+(Kennedy, J.) Yes. A well-pleaded complaint requires to be supported by allegations containing factual content which leads to the conclusion given, and have factual and plausible arguments which cannot be easily disproved. In this case, Iqbal (P) pleaded that the federal government had adopted a policy detaining all Arab Muslims after the terrorist attack of 9/11, until they were individually declared non-criminal by the FBI. It was claimed that this policy owed its origin to Ashcroft (D) and its adoption and widespread usage to Mueller (D). This allegation did not have factual content that would enable the court to come to the reasonable conclusion that the defendant actually is liable for the alleged misconduct. Moreover, the complaints were not plausible enough to raise the claim above the speculative level, but were mere conclusions. Even if an allegation is not supported by facts to the point of probability, the court requires more than conclusory statements. The facts which were required to support the complaints were not sufficiently provided. Thus the standards of pleading required in a complaint to avoid its dismissal, as set by this Court in the case of Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007), were not met. The conclusory allegations against Ashcroft (D)  and Mueller (D) were not such as would meet with instant belief nor were they supported by facts. Instead, the grounds for detention were plausible and did not violate the constitution. In his complaint, Iqbal (P) argued that Twombly set the standard only for cases of antitrust pleadings, but this argument is unsupported because Twombly sets the standard of good pleading for all civil cases. Iqbal’s (P) argument that Fed. R. Civ. P. 9(b) allows him to bring in general arguments rather than specific ones for an alleged violation of the constitution does not hold good, since the stated rule gives more flexibility to the pleading but does not take priority over Rule 8 which requires factual pleading; instead Rule 9 (b) requires very specific factual support for the listed claims. The decision was reversed and the case remanded.
+
+Dissent
+(Souter, J.) In accordance with the judgment in Twombly, non-conclusory allegations should be accepted as true unless they are so incredible as to be obviously untrue. The main points of the complaint are non-conclusory and the complaint was therefore sufficiently supported by facts to be facially sufficient.
+
+Concurrence
+N/A
+
+Discussion
+
+

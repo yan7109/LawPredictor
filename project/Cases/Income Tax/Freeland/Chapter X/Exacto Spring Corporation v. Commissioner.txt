@@ -1,0 +1,21 @@
+Citation
+196 F.3d 833, 1999 U.S. App. 99-2 U.S. Tax Cas. (CCH) P50,964; 84 A.F.T.R.2d (RIA) 6977
+
+Brief Fact Summary
+William Heitz was the cofounder, chief executive officer, and principal owner of the Exacto Spring Corporation.  The corporation paid him $1.3 million and $1.0 million for tax years 1993 and 1994 as compensation.  The corporation sought to deduct this from its income.
+
+Synopsis of Rule of Law
+A business may deduct from its income ordinary and necessary business expenses  including a reasonable allowance for salaries or other compensation for personal services.
+
+Facts
+William Heitz was cofounder, chief executive officer, and principal owner of Exacto Spring Corporation.  He was paid $1.3 million and $1.0 million in salary in 1993 and 1994.  The IRS found this excessive and thought he should not have been paid more than $381,000 in 1993 or $400,000 in 1994.  The difference was added to the corporation’s income and a deficiency assessed.  The Tax Court found that the maximum reasonable compensation should have been $900,000 and $700,000.
+
+Issue
+Was the salary paid to Heitz excessive and should the excess be included on the corporation’s income?
+
+Held
+Chief Judge Posner issued the opinion for the United States Seventh Circuit Court of Appeals in reversing the Tax Court and holding that the salary was not excessive.
+
+Discussion
+The Court of Appeals overruled the seven factor test applied by the Tax Court.  The Court wanted to craft a simple test that would allow for a definitive and reasonable conclusion.  The Court said it should determine whether investors are obtaining a higher return than should be expected.   In this case, investors could have expected a return of 13% but they were getting are return of 20%.  This creates a presumption of reasonableness for the salary paid.   However, the Court left open exceptions to this presumption such as a salary concealed as a dividend.
+

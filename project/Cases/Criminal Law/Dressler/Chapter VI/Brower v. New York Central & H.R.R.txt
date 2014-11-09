@@ -1,0 +1,24 @@
+Citation
+91 N.J.L. 190, 103 A. 166, 1918 N.J. 155, 1 A.L.R. 734.
+
+Brief Fact Summary
+New York Central & R.R.’s (Defendant’s) train hit Browe’s (Plaintiff’s) wagon. Plaintiff was still confused from the accident, while third parties stole his goods. Plaintiff sued Defendant for damages resulting from the accident and sought recovery for the stolen goods.
+
+Synopsis of Rule of Law
+The acts of a third party do not affect the liability of the original wrongdoer if the act should have been reasonably foreseen.
+
+Facts
+New York Central & R.R. (Defendant) owned and operated a train. Brower (Plaintiff) was riding in a wagon loaded with goods. Defendant’s train hit Plaintiff’s wagon. The accident killed Plaintiff’s horse, destroyed his wagon, and spilled the goods. While Plaintiff was still confused from the accident, third parties stole his goods. Defendant had two railroad detectives on the train to protect Defendant’s belongings from thieves. The detectives did not assist Plaintiff. Plaintiff sued Defendant for damages resulting from the accident and sought recovery for the stolen goods. Defendant denied liability for the stolen goods because it was a result of third party intervention, which broke the causal chain. The trial court ruled for Plaintiff. Defendant appealed.
+
+Issue
+Was the accident the proximate cause of the theft?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+(Justice Garrison) The collision afforded an opportunity for theft, but the dissent could not agree that the collision was the proximate cause of the theft. Proximate cause is the unbroken continuity between cause and effect. An independent criminal actor breaks the causal link. The majority holding that criminal intervention should be foreseen implies that crime is to be presumed.
+
+Discussion
+The court described the accident and loss of goods as two simultaneous and concurrent causes of Plaintiff’s damage, not an intervening cause.
+

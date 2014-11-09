@@ -1,0 +1,24 @@
+Citation
+22 Ill.882 F.2d 411 (9th Cir. 1989)
+
+Brief Fact Summary
+Plaintiff contracted with Portland General Electric Co. (Defendant) to inquire about the possibility of buying stock in the Defendant’s subsidiary, Bear Tooth Coal Company for $2,000,000.00. After some correspondence between the two parties and a change in the agreed price, Defendant decided not to go through with the contract.
+
+Synopsis of Rule of Law
+Whether or not a document or documents creates a contract, is determined by whether or not the recipient would reasonably believe he had a contract after seeing it in the context of prior negotiations.
+
+Facts
+Plaintiff contacted Defendant, expressing interest in buying the stocks of Defendant’s subsidiary, Bear Tooth Coal Company. Plaintiff wrote Defendant a letter with the offer, terms and conditions, and an elaborate acceptance procedure for the Defendant. Defendant returned the letter with changes to some of the terms and conditions. Defendant wrote Plaintiff a letter, saying the offer, 2,000,000.00 for the stocks was inadequate and asked if Plaintiff would consider paying 2,750,000.00 for the stocks, and inviting Plaintiff to “resubmit” his offer. Plaintiff wrote Defendant a letter, signed by Plaintiff, captioned “Acceptance of Offer”. Plaintiff entered into a contract with a third party to sell coal from Bear Tooth. Defendant decided not to go through with the deal. Plaintiff sued Defendant on the basis of breach of contract, and alternatively on the grounds of equitable estoppel.
+
+Issue
+Does the correspondences between Plaintiff and Defendant constitute an offer and acceptance? May Plaintiff recover under the principles of equitable estoppel?
+
+Held
+No, on both counts.
+
+Dissent
+Questions of fact concerning the existence of evidence and the estoppel claim remain unresolved.
+
+Discussion
+The fact that parties use the words offer and acceptance, does not mean that a contract was formed.
+

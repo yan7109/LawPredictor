@@ -1,0 +1,18 @@
+Citation
+18 App. Div. 381, 46 N.Y.S. 407 (App Div, 2d Dept 1897)
+
+Brief Fact Summary
+The defendant in a medical negligence case testified as to some of the circumstances surrounding the accident.  The coroner then got on the stand and testified as to some of the things that the defendant had said, over objection by the defendant.
+
+Synopsis of Rule of Law
+A statement made by a party against a party’s own interest is not hearsay, and may be admitted substantively.
+
+Issue
+Whether the statements by the coroner as to the statements made by defendant before him were inadmissible because they were hearsay?
+
+Held
+No.  The statements were admissions by a party opponent, and were admissible as such.
+
+Discussion
+The rationale behind this rule is that a defendant is not likely to make statements against his own interest unless they are true, obviating the need for the hearsay rule to protect against the veracity of those statements. As a result, they may be admitted substantively, as they are not hearsay.
+

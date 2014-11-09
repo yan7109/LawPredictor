@@ -1,0 +1,21 @@
+Citation
+458 F.2d 1082 (2d Cir. 1972)
+
+Brief Fact Summary
+An offering of 450,000 shares on an all or nothing basis, Manor Nursing Centers (Defendant) were to hold the funds on escrow and not utilized until all terms of offering were fulfilled.  Manor was unable to sell all shares yet did not return funds to investors as per the terms of the offering.
+
+Synopsis of Rule of Law
+If factual developments occur after the effective date of registration, the registrant must divulge said developments if they make the registration significantly misleading.
+
+Facts
+Manor Nursing Centers, Inc. administered a primary and secondary offering of 450,000 shares, funds from sold shares were to be held in escrow until terms of offerings were satisfied. If all offered shares were not sold within 60 days, the offering would be void and the funds reimbursed with interest.  Selling stockholders and Manor did not fulfill the requirements set by offering, nor did they receive anticipated proceeds. Prerequisites for utilizing proceeds were known (or should have been known) to Manor and stockholders, however, the funds were not returned to public investors. A suit was brought against Manor by the Securities Exchange Commission (Plaintiff) alleging violations of the antifraud provisions of the 1933 Act and §17(a) and 10(b) of the 1934 Act declaring that Manor did not open an escrow account, that unsold funds were not disclosed, that shares were not sold solely for cash, that funds were never returned to investors, and that specific individuals were further compensated for participating in sales of said shares.
+
+Issue
+Must the registrant reveal developments occurring after effective registration date if those developments make the initial disclosures disingenuous?
+
+Held
+(Timbers, J.) Yes. If an occurrence develops following the effective registration date, the prospectus must be amended when said occurrences make precedingprospectus information deceiving. § 10(a) states that a prospectus must disclose information to public investors that is substantial and true.  Manor and selling stockholderswere in violation of § 10(a) because their prospectus failed to meet the requirements set forth by § 10(a).To abide by § 10(a), the following must be included in the prospectus: use of proceeds, estimated net profits, price of the public offering (and any variations from set price), and all paid discounts and commissions to underwriters. Manor failed to inform the public that some shares were being sold for other than cash and that certain individuals were being paid extra for participating in the sale. The aforementioned rendered the prospectus misleading. Manor was also obligated to disclose to the public investors that an escrow account was not opened, that the funds were not returned and the issue was not fully subscribed. These developments occurred after the effective registration date, yet the prospectus was never amended. The SEC held the decision that the prospectus must be amended to include such changes. Finally, misuse of proceeds created a fraud on public investors in violation of S 17(a) of the 1933 Act. Manor violated Rule 10b-9 as a result of (1) failing to sell all the offered shares within specified time frame and failing to return funds to investors when (1) was not met. Judgment affirmed. Disgorgement of income and profits, reversed and remanded.
+
+Discussion
+This case showcases the obligation placed upon issuers of stock to update material to prevent misleading public investors. While information listed in the original filing may accurate, events may take place at a later date that render it misleading. The issuer is obligated to amend or supplement the prospectus to reflect those subsequent events. Correction of prospectus may be made by placing a sticker on the cover and supplementing the information and/or amending original prospectus. The SEC does not need to process these revisions; however, the supplement prospectus must be filed with the SEC upon its first use.
+

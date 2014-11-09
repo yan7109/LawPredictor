@@ -1,0 +1,21 @@
+Citation
+22 Ill.808 F.2d 1075 (5th Cir. 1987)
+
+Brief Fact Summary
+Plaintiffs sued Defendant for medical malpractice. The jury returned verdicts in favor of Plaintiffs and Defendant moved for a reduction of damages based on a state’s statutory damage cap in medical malpractice actions. The District Court held that Defendant waived the right to raise that argument because it should have been brought up in the answer to the complaint.
+
+Synopsis of Rule of Law
+Under Rule 8(c) of the Federal Rules of Civil Procedure, affirmative defenses listed in the rule or “any other matter constituting an avoidance or affirmative defense” that are not raised in the answer are waived. The major consideration behind the rule is preventing unfair surprise.
+
+Facts
+The Texas Medical Liability and Improvement Act caps non-economic damages (i.e., pain and suffering) at $500,000 for medical malpractice. Plaintiff Ingraham was operated on by an Air Force surgeon and was injured. He sued the United States under the Federal Tort Claims Act and recovered $1.2 million, which was $364,000 in lost wages, and $900,000 for pain, suffering, and disability. The Bond family, additional Plaintiffs, sued the United States for an Air Force physician’s negligence. Jocelyn Bond was awarded $4 million for medical expenses and other losses, and David Bond was awarded $750,000 for loss of society. In both cases, after pleadings, trial, and judgment, the United States filed motions claiming that the damages were excessive because they were limited by the Texas Act. Both motions were denied.
+
+Issue
+Must enforcement of the Texas Act be timely made by Defendant as an affirmative defense in order to prevent “unfair surprise” under Rule 8(c) of the Federal Rules of Civil Procedure?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+This case articulates the definition of what an affirmative defense and avoidance are under the Federal Rules of Civil Procedure. In addition, it illustrates a situation in which the residual clause of Rule 8(c) of the Federal Rules of Civil Procedure is applicable to statutory limitations on damages.
+

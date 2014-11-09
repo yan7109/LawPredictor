@@ -1,0 +1,24 @@
+Citation
+22 Ill.449 U.S. 90, 101 S. Ct. 411, 66 L. Ed. 2d 308 (1980)
+
+Brief Fact Summary
+McCurry was arrested and charged under state law with possession of heroin. He sought to have evidence excluded in the state criminal proceedings under the Fourth Amendment unreasonable search and seizure provisions. He lost on this issue, but after he was convicted, McCurry attempted to bring this federal civil rights action against the police officers conducting the search.
+
+Synopsis of Rule of Law
+Collateral estoppel does not apply where the party against whom an earlier court decision is asserted did not have a full and fair opportunity to litigate the claim or issue decided by the first court.
+
+Facts
+McCurry was charged and convicted with possession of heroin under state law. During the criminal proceedings, he challenged the legality of the police search of his home under the Fourth Amendment of the United States Constitution. The state court held that the search did not violate the Fourth Amendment prohibition against unreasonable searches and seizures. McCurry subsequently filed this federal civil rights action under 42 U.S.C. Section: 1983, asserting that police officers unconstitutionally searched his house and seized property used to convict him. The district court granted summary judgment against McCurry on the ground that he had already litigated and lost this Fourth Amendment issue during the state criminal law proceedings. The Court of Appeals for the Eighth Circuit reversed, and the defendants instituted this appeal to the United States Supreme Court.
+
+Issue
+Did the Court of Appeals for the Eighth Circuit properly permit McCurry to relitigate his federal claim in federal court even though it had already been litigated in state court?
+
+Held
+No. The doctrine of collateral estoppel prevents the relitigation of an issue that has already been decided in an earlier proceeding. However, collateral estoppel does not apply unless the party against whom the earlier decision was rendered had a full and fair opportunity to litigate the claim or issue decided by the first court. The United States Supreme Court, in the present case, rejected the notion that one has the unencumbered right to have a federal court hear a federal claim regardless of whether the claim has already been litigated in state court. Hence, since McCurry’s Fourth Amendment claim was already fully and fairly litigated, yet unsuccessfully asserted, in the state court proceedings, his claim was barred from assertion in the federal courts.
+
+Dissent
+Justice Blackmun, with whom Justices Brennan and Marshall join, dissents. McCurry’s claim should not be precluded. When 42 U.S.C. Section: 1983 was passed, collateral estoppel did not exist. Further, since the issue was first decided in a criminal proceeding, civil litigation should not be barred. The process of deciding whether to admit or exclude evidence in a criminal proceeding is not the equivalent of a federal civil rights proceeding. Therefore, McCurry should be permitted to pursue his claim.
+
+Discussion
+Collateral estoppel may act to bar federal civil claims that have already been decided in state criminal proceedings provided that the party against whom the issue was decided had a full and fair opportunity to litigate the claim in the first proceeding.
+

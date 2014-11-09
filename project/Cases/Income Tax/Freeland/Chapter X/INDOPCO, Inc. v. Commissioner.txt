@@ -1,0 +1,21 @@
+Citation
+503 U.S. 79,112 S. Ct. 1039, 117 L. Ed. 2d 226, 1992 U.S.
+
+Brief Fact Summary
+Taxpayer was involved in a friendly take over with another company.  As part of the acquisition, Taxpayer spent millions of dollars in fees and expenses for the takeover to occur.
+
+Synopsis of Rule of Law
+A taxpayer may deduct all the ordinary and necessary business expenses paid or occurred during the taxable year in carrying on any trade or business.
+
+Facts
+Taxpayer is the National Starch and Chemical Corporation that changed its name to INDOPCO.  Unilever United States, Inc. expressed an interest in acquiring Taxpayer, which was one of its suppliers.  Taxpayer hired bankers and legal counsel to handle the acquisition.  Taxpayer claimed a deduction for $2,225,586 paid to the banker, but did not deduct $505,069 in legal fees.  The Commissioner of Internal Revenue did not allow the deduction.  The Tax Court did not allow the deductions of either expense, and the Court of Appeals affirmed.
+
+Issue
+Are the expenses deductible as ordinary and necessary business expenses?
+
+Held
+Justice Blackmun issued the opinion for the Supreme Court of the United States in affirming the lower court and holding that the expenses are not deductible business expenses.
+
+Discussion
+The transaction provided significant benefits to Taxpayer beyond the tax year.  The transaction changed the corporate structure for the benefit of future operations which is not an ordinary and necessary expense.  The acquisition related expenses are more like capital expenditures.
+

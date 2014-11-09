@@ -1,0 +1,21 @@
+Citation
+770 A.2d 1103 (N.H. 2001).
+
+Brief Fact Summary
+Plaintiff broke her neck in an auto accident and claimed that the hospital staff negligently misdiagnosed her injury, causing her to lose the opportunity for a substantially better recovery.  She sued Defendants for medical malpractice, the trial court dismissed her action, and the higher court reversed and remanded.
+
+Synopsis of Rule of Law
+A plaintiff may recover for a loss of opportunity for a better recovery in a medical malpractice case when the defendant’s negligence aggravates the plaintiff’s preexisting injury such that it deprives the plaintiff of a substantially better outcome.
+
+Facts
+Plaintiff suffered a broken neck in an auto accident and was treated at the hospital by Defendants.  She sued Defendants, alleging that they negligently misdiagnosed her spinal cord injury, then failed to both immobilize her properly and to administer steroid therapy, causing her to lose the opportunity for a substantially better recovery.  Upon learning that the Defendants intended to move to dismiss at the close of her case, Plaintiff proffered that her expert would testify that the Defendant’s negligence deprived her of the opportunity for a substantially better recovery, but conceded that her expert could not quantify the degree to which she was deprived of a better recovery by their negligence.  The trial court dismissed the action on the ground that lost opportunity was not a recognized theory.  The New Hampshire Supreme Court reversed and remanded.
+
+Issue
+Whether Plaintiff can recover under the loss of opportunity doctrine.
+
+Held
+Yes.  The loss the opportunity doctrine is a medical malpractice form of recovery which allows a plaintiff, whose preexisting injury or illness is aggravated by the alleged negligence of a physician or health care worker, to recover for her lost opportunity to obtain a better degree of recovery.  The court explained three different approaches to loss of opportunity claims generally taken: (1) if a plaintiff proves that she was deprived of at least a 51% chance of a more favorable outcome than she received, she may recover damages for the entire preexisting condition; (2) if a plaintiff proves that the defendant’s negligence more likely than not increased the harm to the plaintiff, she may recover damages for the entire preexisting condition; (3) if a plaintiff can prove that she was deprived of at least a 51% chance of a more favorable outcome than she received, she may recover damages only for the lost opportunity for a better outcome, not for the entire preexisting condition.  The court adopted the third approach, reversed the trial court’s dismissal, and remanded.
+
+Discussion
+This decision explains that a minority of jurisdictions approach this theory according to the standards explained in (1) & (2) above, which allow a plaintiff to recover for the entire preexisting injury upon proving causation by the specified standard.  Many jurisdictions, however, as in the above case, only permit a plaintiff to recover damages for loss of opportunity itself, which can be difficult to calculate, but can be quantified through expe
+

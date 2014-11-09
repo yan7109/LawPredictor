@@ -1,0 +1,21 @@
+Citation
+22 Ill.467 U.S. 691, 104 S. Ct. 2694, 81 L. Ed. 2d 580, 10 Med. L. Rptr. 1873 (1984)
+
+Brief Fact Summary
+Oklahoma passed a statute that would require cable television operators in the State to delete out-of-state signals that advertised alcoholic beverages.
+
+Synopsis of Rule of Law
+The Twenty-first Amendment does not entirely remove state regulation of alcoholic beverages from the ambit of the Commerce Clause. The State’s interest is measured against any significant interference with the federal objective. The central question is whether the interests implicated by the state regulation are so closely related to the powers reserved by the Twenty-first Amendment that the regulation may prevail, regardless of whether they directly conflict with express federal policies.
+
+Facts
+Oklahoma passed a statute that would require cable television operators in the State to delete all advertisements for alcoholic beverages contained in the out-of-state signals that they retransmitted to their subscribers. Cable operators sued under the First and Fourteenth Amendments and said that the statue was pre-empted by a federal regulatory scheme promoting the widespread development of cable communication. The Court reversed the judgment of the Court of Appeals for the Tenth Circuit and did not reach the First Amendment question. The State The case went on to discuss the impact of the Twenty-first Amendment on what would otherwise be an invalid statute.
+
+Issue
+Did the Twenty-first Amendment rescue the statute from pre-emption?
+
+Held
+Justice Brennan. No. The judgment of the Court of Appeals is reversed.
+
+Discussion
+In passing regulations pursuant to the Twenty-First Amendment, the state must ensure that the regulations do not interfere with interstate commerce and plausibly further their expressed goal.
+

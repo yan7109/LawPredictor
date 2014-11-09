@@ -1,0 +1,24 @@
+Citation
+23 N.Y.2d 714, 296 N.Y.S.2d 362, 244 N.E.2d 55 (1968)
+
+Brief Fact Summary
+Plaintiff, John Walkovszky, was injured by a taxi owned by a corporation owned by Defendant, William Carlton.  Plaintiff sought to hold Defendant personally liable for his injuries.
+
+Synopsis of Rule of Law
+An individual can be held liable for the acts of a corporation through the doctrine of respondeat superior if it can be shown that the individual used his control of the corporation for personal gain.
+
+Facts
+Defendant was a shareholder in ten separate corporations wherein each corporation has two cabs registered in its name.  A single shareholder for multiple corporations is a common practice for the cab industry.  A cab from one of Defendant’s corporations hit Plaintiff, and Plaintiff brought this cause of action to recover.  Each cab has only $10,000 worth of insurance coverage, which is the statutory minimum.  Plaintiff contends that Defendant was fraudulently holding out the corporations as separate entities when they actually work as one large corporation.
+
+Issue
+The issue is whether Defendant can be held personally liable for the injuries suffered by Plaintiff.
+
+Held
+The Plaintiff did not state a correct cause of action to recover from Defendant.  Defendant would be held liable under the respondeat superior doctrine if he controlled the corporation for his personal benefit at the expense of the corporations benefit.  Plaintiff did not offer proof to make that claim, and instead offered proof that the ten corporations operated as one large corporation.  The fact that the corporations may have been one large corporation, however, does not prove that Defendant was controlling the corporations for his own behalf.
+
+Dissent
+The dissent argued that the corporations were undercapitalized and the corporate entity was clearly used to simply escape liability.  Although Defendant carried the statutory minimum amount of insurance, the intent of the legislature was not to use the insurance coverage as a means for justifying Defendant’s use of corporate entities.
+
+Discussion
+The dissent wanted to pierce the corporate veil to achieve a more equitable result, but the majority believed that it was the legislature’s responsibility to raise the mandatory insurance coverage.  The majority and the dissent both regard the series of corporate entities set up by Defendant as a method of limiting Defendant’s liability, but the majority reasons that the legislature should be the one to correct the abuse.
+

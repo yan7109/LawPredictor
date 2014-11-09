@@ -1,0 +1,21 @@
+Citation
+402 U.S. 535, 91 S. Ct. 1586, 29 L. Ed. 2d 90 (1971)
+
+Brief Fact Summary
+A clergyman in Georgia was involved in an accident when a child rode her bike into the side of his car. He challenged the constitutionality of the Georgia Motor Vehicle Safety Responsibility Act (Act), which prevented him from submitting evidence regarding his lack of fault prior to the suspension of his driver’s license.
+
+Synopsis of Rule of Law
+Once licenses are issued, they cannot be revoked without procedural due process required by the Fourteenth Amendment.
+
+Facts
+The Act provided that the registration and license of an uninsured motorist involved in an accident should be suspended unless he posted a security to cover the damages claimed in the accident reports. The administrative hearing to be conducted prior to the suspension excluded any evidence of fault or liability for the accident.  Petitioner was a clergyman who was involved in an accident when a five-year-old child rode her bike into the side of his car. In the administrative hearing, Petitioner was not permitted to present any evidence that he was not at fault for the accident, or that his ministry would be severely handicapped if he lost his license. Petitioner appealed to Superior Court, which found him free from fault for the accident and ordered that his license not be suspended.  The Georgia Court of Appeals reversed, rejecting Petitioner’s contention that the State’s statutory scheme denied him due process of law.
+
+Issue
+Did the revocation of Petitioner’s license without affording him an opportunity to contest liability violate due process?
+
+Held
+Yes. Reversed.   Once issued, licenses may become essential in the pursuit of a livelihood, as in the Petitioner’s case. Suspension of issued licenses involves state action that adjudicates important interests of licensees, and due process is required.  The procedure set forth by the Act violated due process.   Dissent. None.  Concurrence. None.
+
+Discussion
+It is fundamental that, except for in emergency situations, States afford notice and opportunity for hearing appropriate to the nature of a case before terminating an interest. This case did not involve an emergency situation, and due process was violated.
+

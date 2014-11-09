@@ -1,0 +1,21 @@
+Citation
+61 B.R. 484, 1986 Bankr. 5979, Bankr. L. Rep. (CCH) P71,183; 15 Collier Bankr. Cas. 2d (MB) 746
+
+Brief Fact Summary
+Production Credit Association of Mid-Michigan, (Petitioner) has perfected a pre-petition lien on Delbridge’s cows and their milk. Delbridge, (Respondent), contends that the lien is limited to the milk in being at the time the bankruptcy was filed.
+
+Synopsis of Rule of Law
+The lender is entitled to the same percentage of the proceeds of the post-petition milk as its capital contribution to the production of the milk bears to the total of the capital and direct operating expenses incurred in producing the milk
+
+Facts
+Respondent claims that under Section:11 U.S.C. 552(a) Petitioner’s pre-petition lien is limited to the milk in being at the time the bankruptcy was filed. Respondent, in essence, argues that milk is not the product of the cow but of the farmer. Petitioner maintains that milk is indeed the product of a cow and relies on U.C.C. Section:9-102(a)(34)(D), which defines farm products as including milk.
+
+Issue
+Whether under Section:11 U.S.C. 552(b) milk is the product of a cow or a farmer.
+
+Held
+Yes. Since it is established that the farmer’s labor, post-petition raw materials and the cow a all integral components of a commercial dairy farming operation, the owners of those commodities are in essence, joint ventures in the process of the commercial production and sale of milk.
+
+Discussion
+Section:552(b) allows the court to exercise discretion in creating an appropriate equitable remedy. The court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party.  The purpose of this section is to enable those who contribute to the production of proceeds during Chapter 11 to share jointly with pre-petition creditors secured by the proceeds. It is unfair to let the creditor with a pre-petition lien on milk walk away with the entire cash proceeds of milk produced largely as a result of the farmer’s post-petition time, labor and inputs. Therefore the lender shall be entitled to the same percentage of the post-petition milk as its capital and direct operating expenses incurred in producing the milk.
+

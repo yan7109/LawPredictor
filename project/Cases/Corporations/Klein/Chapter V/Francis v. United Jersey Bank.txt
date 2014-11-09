@@ -1,0 +1,21 @@
+Citation
+87 N.J. 15, 432 A.2d 814 (1981)
+
+Brief Fact Summary
+Plaintiffs, the trustees in bankruptcy of Pritchard & Baird Intermediaries Corporation (”P&B”), filed suit against Defendant, the executrix of the estate of Lillian Pritchard, for a breach of fiduciary duty as a director of P&B.  Lillian Pritchard did not exercise ordinary care in monitoring the finances of P&B when her sons, other members of P&B management, misappropriated funds.
+
+Synopsis of Rule of Law
+A director can be personally liable, even to third parties, if they neglect to provide the ordinary care of staying current with corporate affairs as one would normally do in that position, and that neglect is the proximate cause of the damages.
+
+Facts
+P&B was a broker between ceding insurance companies and reinsurance companies.  They earned a commission on the transactions between the two entities.  Typically, brokers in the reinsurance business hold funds from the ceding and reinsuring companies in a separate account and pay each party from that account.  The former CEO of P&B, Charles Pritchard, Sr. (the husband of Lillian Pritchard) did not practice this method, but he still ensured that the funds deposited by third parties were never used as personal funds.  Charles Pritchard, Sr., eventually stepped down and his two sons controlled the business.  Once the sons had control they took out personal loans from the account but never paid back the loans or any interest.  This practice of misappropriating funds continued until P&B could no longer meet their obligations, and they went into bankruptcy.  During the entire period that the sons controlled P&B, Lillian was the majority shareholder and sat on the Board as a director
+
+Issue
+The issue is whether Lillian Pritchard is personally liable for negligently failing to prevent the misappropriation of P&B funds by her sons.
+
+Held
+Lillian Pritchard, as a director on the Board, had a duty of care in managing the business.  She did not have to know every detail of day-to-day operations, but she needed to have a baseline understanding of the finances and important activities.  If she did not understand the activities, then she was obligated to consult counsel for advice.  Her absence from the business did not excuse her duties.  The court determined that if she did intervene in the dubious financial decisions of her sons, or at least consulted an attorney or expert, it may have prevented her sons from fleecing the company.  Therefore, her lack of care was a proximate cause of the damages to the company and the third parties who relied upon the company.  Because of the nature of the business (holding assets of third parties), she was liable to the third parties for any damages.
+
+Discussion
+The decision makes it impossible for directors to hide their head in the sand to avoid liability.  The amount of oversight required will depend on the nature of the business, so it will be very fact-specific.
+

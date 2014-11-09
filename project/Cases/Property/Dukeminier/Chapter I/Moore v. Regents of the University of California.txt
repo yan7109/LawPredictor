@@ -1,0 +1,21 @@
+Citation
+229 F.3d 831, 84 FEP Cases 129 (9th Cir. 2000)
+
+Brief Fact Summary
+P brought several actions against Ds including conversion and breach of fiduciary duty when his cells were used in medical research without his permission.
+
+Synopsis of Rule of Law
+Failure of a physician to disclose his personal interest unrelated to the patient’s health constitutes a breach of fiduciary duty. A person does not retain ownership interest in cells after they have left their body.
+
+Facts
+Moore (P) sought treatment for hairy-cell leukemia at the Medical Center of the University of California. (Center and Regents of the University are collectively referred to as “defendants.”) D told P that his condition was life threatening and his spleen should be removed, but failed to inform P that his cells were unique and that access to them was of great scientific and commercial value. Although P’s spleen was removed and retained for research purposes without his consent, at some point P was informed that his cells were being used for research but was not told of the commercial value of the research. D established a cell line from P’s cells, received a patent for it, and entered into several commercial agreements with a potential market for products estimated to run into the billions of dollars. P sued for damages on several theories including conversion alleging that his blood and bodily substances, and the cell line derived from them were his tangible personal property.
+
+Issue
+Whether a person retains ownership interest in his cells after they have left their body constituting a cause of action for conversion?
+
+Held
+Yes. Judgment affirmed in part, reversed and remanded in part.
+
+Dissent
+There will be equitable sharing if the courts recognize that the patient has a legally protected property interest in his own body and its product: “property rights in one’s own tissue would provide a morally acceptable result by giving effect to notions of fairness and preventing unjust enrichment
+

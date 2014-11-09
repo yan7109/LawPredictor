@@ -1,0 +1,24 @@
+Citation
+467 U.S. 82, 104 S. Ct. 2237, 81 L. Ed. 2d 71, 1984 U.S.
+
+Brief Fact Summary
+The State of Alaska requires buyers of Alaskan timber to process it in Alaska before they export.
+
+Synopsis of Rule of Law
+Although state-owned businesses may favor in-state purchasers, they may not attach conditions to the sale of products that will burden interstate commerce.
+
+Facts
+As a condition of Alaskan timber purchasing, the buyer had to get it processed in the State. The purpose of the requirement was to protect Alaska timber processors, develop new industries and make a larger profit on their timber resources.
+
+Issue
+May a State, acting as a market participant, impose a requirement on “down-stream” market participants without violating the dormant Commerce Clause?
+
+Held
+No, the market participant exception is limited to the particular market in which the State is a participant. If the state acts as a “market participant” a state can impose burdens on interstate commerce within the market it is a participant, but allows it to go no further. The Supreme Court of the United States (Supreme Court), for Commerce Clause purposes, defines “Market” narrowly and precludes a states’s exercise of leverage in the market in which it is directly participating in order to regulate a “downstream” market. Here, the Supreme Court found Alaska to be a direct participant in the timber market, but not in the processing market. Thus, Alaska could not legitimately prefer its own residents in the processing market only in the initial timber market.
+
+Dissent
+Justice William Rehnquist (J. Rehnquist) dissents because he thinks the line between participant and regulator is a fine line. He felt Alaska was indirectly paying buyers to use Alaskan processors and that there were other ways to accomplish that same result. He therefore, felt it was unfair for the Supreme Court to decide that the Constitution’s Commerce Clause barred their chosen path.
+
+Discussion
+Alaska is more than merely a “market participant” because they are imposing a requirement on their timber after the sale. A seller, “usually has no say over, and no interest in, how the product is to be used after sale.” The State may not impose conditions that have a substantial regulatory effect outside of a particular market.
+

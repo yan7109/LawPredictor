@@ -1,0 +1,21 @@
+Citation
+525 U.S. 55 (1998)
+
+Brief Fact Summary
+Pfaff (Plaintiff) invented a computer chip socket and filed for a patent over a year after offering it for sale.
+
+Synopsis of Rule of Law
+An invention that is the subject of a commercial offer for sale may not be patented a year after it was ready for patenting.
+
+Facts
+Plaintiff began work on a computer chip socket in November 1980.  In March1981 he prepared detailed engineering drawers describing the design, dimensions, and materials.  In April 1981, Texas Instruments ordered 30,100 of the sockets from Plaintiff even though there was no prototype yet.  Plaintiff did not fill the order until July 1981.  Plaintiff was issued a patent later, on January 1, 1985, and brought a patent infringement action against Wells (Defendant), who made a competing socket.  The court of appeals ruled that Plaintiff's claims were not valid because he had filed for the patent more than a year after the sale to Texas Instruments.  Plaintiff argued that his invention was not "on sale" for this purpose until it had actually been reduced to practice.
+
+Issue
+May an invention that is the subject of a commercial offer for sale be patented a year after it was ready for patenting?
+
+Held
+(Stevens, J.)  No.  An invention that is the subject of a commercial offer for sale may not be patented a year after it was ready for patenting and was the subject of a commercial offer for sale.  An invention is not required to be reduced to practice before it can be patented, according to the Patent Act of 1952.  It is normally the first inventor to conceive who establishes the right to patent, assuming the applicant is diligent, rather than the first inventor to reduce to practice.  It is evident in the present case that Plaintiff could have obtained a patent on his socket when he accepted the purchase order from Texas Instruments.  Section 102 of the Patent Act limits patents on ideas that are in the public domain.  Therefore, if an inventor puts the invention into public use before filing an application, the inventor loses patent rights, although private testing is permitted.  Two conditions cause the one-year filing period to begin.  When the invention is the subject of a commercial offer for sale and is qualified for a patent, the inventor has one year to file an application.  This standard is perfectly clear and allows the inventor control over the timing of the public use of an invention.  In the present case, Plaintiff's invention was ready for patenting because prior to manufacturing he had detailed drawings of the socket.  Therefore, the one-year period started when it was offered to Texas Instruments for sale.  Because Plaintiff did not file a patent application with a year, the patent is invalid.  Affirmed
+
+Discussion
+Prior to this decision, courts often used a totality of the circumstances test for the on-sale and public use limitations.  Following the Court's ruling in this case, this test may still play a role in determining whether a use was experimental or commercial, even though this test seems to be completely outdated.
+

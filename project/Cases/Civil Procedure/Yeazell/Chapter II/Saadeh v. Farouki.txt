@@ -1,0 +1,21 @@
+Citation
+107 F.3d 52, 323 U.S. App. D.C. 239; 1997 U.S. App. 3754
+
+Brief Fact Summary
+Defendant Farouki, a Jordanian resident residing in Maryland with “permanent resident” immigration status in the U.S. borrowed funds from Plaintiff Saadeh, a Greek citizen, and defaulted on the loan. Plaintiff sued to recover on the loans in Federal court invoking diversity jurisdiction.
+
+Synopsis of Rule of Law
+Citizenship at the time the suit is filed is the proper determination of citizenship for diversity purposes, while diversity is destroyed in a suit between two aliens.
+
+Facts
+Defendant, a Jordanian resident residing in Maryland with “permanent resident” immigration status in the U.S. borrowed funds from Plaintiff, a Greek citizen, and defaulted on the loan. Plaintiff brought suit invoking diversity jurisdiction. The District Court rendered a judgment for Plaintiff, and Defendant appealed on the merits. The Court of Appeals asked that the parties brief on the matter of jurisdiction.
+
+Issue
+How is citizenship determined for purposes of diversity jurisdiction?   Can diversity exist in a lawsuit between two aliens?
+
+Held
+In holding that Defendant’s later acquisition of U.S. citizenship did not create diversity, the Circuit Court affirmed the principle that citizenship at the time the suit is filed is the relevant test.   No. Complete diversity is destroyed in lawsuits between aliens.
+
+Discussion
+In reaching its decision, the Circuit Court ultimately relied on its belief that congress did not intend to expand diversity jurisdiction through the 1998 amendment to Section: 1332(a) (the diversity statute), but rather intended to contract it. Therefore, they were inclined to construe the statute narrowly.
+

@@ -1,0 +1,24 @@
+Citation
+473 U.S. 1, 105 S. Ct. 3012, 87 L. Ed. 2d 1, 1985 U.S. 81
+
+Brief Fact Summary
+The Supreme Court of the United States granted certiorari to determine resolve a dispute whether a prevailing plaintiff can recover attorney’s fees incurred after the settlement offer.
+
+Synopsis of Rule of Law
+A prevailing party may not recover attorney’s fees incurred from the losing party subsequent to an offer of settlement.
+
+Facts
+Alfred Chesney (Plaintiff) on his own behalf and as administrator of his son’s estate, filed suit under 42 U.S.C. Section: 1983 and state tort law against three police officers (Defendants) for killing his adult son.  Defendants made a timely offer to settle for $100,000, but Plaintiff did not accept the offer.  The case went to trial and Plaintiff was awarded $5,000 on the state law wrongful death claim, $52,000 for the Section: 1983 violation and $3,000 in punitive damages.  Plaintiff filed a Request for $171,692.47 in costs, including attorney’s fees.  This request for attorney’s fees included costs incurred after the settlement offer.  Defendant opposed the claim relying on Rule 68 of the Federal Rules of Civil Procedure, which shifts the post-offer costs to the Plaintiff.  Post-offer costs are all costs incurred subsequent to an offer of judgment when not exceeded by the recovery amount.  The district court agreed with Defendants and declined to award Plaintiffs costs incurred after th
+
+Issue
+Whether attorney’s fees incurred by a plaintiff subsequent to an offer of settlement must be paid by the defendant when the plaintiff receives a monetary judgment, which is less than the settlement offer?
+
+Held
+No.
+
+Dissent
+The majority’s reasoning is inconsistent with the history and structure of the Federal Rules of Civil Procedure.  The term costs should be interpreted narrowly in accordance with the definition in 28 U.S.C. Section: 1920.  It is not suggested in the limited history of the provision that costs include attorney’s fees.   The Rules provide that costs may automatically be taxed, which leads one to believe that costs are everyday charges, and that when the Federal Rules of Civil Procedure’s intent costs to encompass attorney’s fee they do so explicitly.  Also, the court can point to no authority suggesting that courts have even viewed the cost shifting provisions of Rule 68 as including attorney’s fees.  The dissent also argues that the words and phrases of the Federal Rules must be given consistent usage and the drafters of the Federal Rules intended Rule 68 to have a uniform application in all proceedings.  The following concerns demonstrate that the term costs should not include atto
+
+Discussion
+This case should be read against the rule that the prevailing party is not entitled to recover attorney’s fees from the losing party.
+

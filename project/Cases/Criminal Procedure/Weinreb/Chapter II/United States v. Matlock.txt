@@ -1,0 +1,21 @@
+Citation
+415 U.S. 164, 94 S. Ct. 988, 39 L. Ed. 2d 242 (1974)
+
+Brief Fact Summary
+The home that a robbery suspect was leasing was searched by the police after obtaining the consent to enter the home from somebody who lived with the suspect.
+
+Synopsis of Rule of Law
+Voluntary consent was not present because the state did not show actual authority to consent to the search.
+
+Facts
+The Respondent, Matlock (the “Respondent”), was arrested for robbing a federally insured bank.  The Respondent filed a motion to suppress evidence seized at a home in which he was living.  The Respondent leased the home from the Graff family.  The Respondent lived in the home with various other people.  Three police officers went to the Respondent’s home and were allowed into the home by Ms. Graff who also lived there.  The police were admitted to enter the home.  The officers told Ms. Graff that they were looking for money and a gun and asked if they could search the home.  The trial court found at the suppression hearing that there was consent to search the home although Ms. Graff denied consenting.  The officers found money in a bag in the closet of the Respondent’s bedroom who he shared with the individual that answered the door.
+
+Issue
+“[W]hether the evidence presented by the United States with respect to the voluntary consent of a third party to search the living quarters of the respondent was legally sufficient to render the seized materials admissible in evidence at the respondent’s criminal trial[?]”
+
+Held
+The court first observed that recent decisions “clearly indicate that the consent of one who possesses common authority over premises or effects is valid as against the absent, nonconsenting person with whom that authority is shared.”
+
+Discussion
+This case elaborates on the Supreme Court’s consent to search doctrine.
+

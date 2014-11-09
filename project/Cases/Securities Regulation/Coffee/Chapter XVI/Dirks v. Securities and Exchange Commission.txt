@@ -1,0 +1,21 @@
+Citation
+463 U.S. 646 (1983)
+
+Brief Fact Summary
+A tippee, Dirks (Defendant), using inside information obtained from tippers not operating for personal benefit, provided investment advice.
+
+Synopsis of Rule of Law
+By trading on inside information, a “tippee” does not violate securities laws if his sources did not disclose the information for personal benefit.
+
+Facts
+A stock market analyst, Dirks, was made aware of accusations that Equity Funding of America was in a dangerous financial state due to immense fraud. He began an investigation and using the information he had acquired from specific insiders, Dirks decided that Equity Funding was in pathetic financial condition, and that its worth would drop significantly once the facts became public. He suggested multiple clients to sell.  Afterwards, Equity Funding’s situation became public information and its worth plunged. The SEC (Plaintiff) performed an investigation causing Dirks to be held by the SEC to be in violation of Rule 10b-5 by trading inside information. He was censured as punishment. The Court of Appeals for the District of Columbia affirmed, and the Supreme Court granted review.
+
+Issue
+By trading on inside information, does a “tippee” violate securities laws if his sources did not disclose the information for personal benefit?
+
+Held
+(Powell, J.) No. By trading on inside information, a “tippee” does not violate securities laws if his sources did not disclose the information for personal benefit. Assured equal access to information is not why the securities laws exist, they exist to prohibit those that have access to inside information from utilizing their privileged titles for personal benefit. Therefore, those who are not insiders cannot violate Rule 10b-5 using inside information because no violations exist for using your title of trust to do so. The only exception is when the tipper/insider uses the tippee as a channel for trading on behalf of himself. This will occur when the tipper achieves a personal gain by offering the information in question.  In this instance, Dirks was not an insider and there was no proof that gains were received by his sources by giving him information with regard to Equity Funding. Seeing as this is factual, Dirks did not violate Rule 10b-5. Reversed.
+
+Discussion
+Chiarella v. United States, 445 U.S. 222 (1980) was a logical follow-up to the current case, and in it an employee of a financial documents printer, Chiarella, found an upcoming transaction due to the him printing memorialization documents. He traded on the information. The court held that Chiarella had failed to violate Rule 10b-5 due to him not being a fiduciary.
+

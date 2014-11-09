@@ -1,0 +1,21 @@
+Citation
+360 Mass. 188,275 N.E.2d 33, 1971 Mass.52 A.L.R.3d 1143
+
+Brief Fact Summary
+Defendants appealed from a conviction to conspire for bribery arguing that the appropriate vicarious criminal liability standard was not applied.
+
+Synopsis of Rule of Law
+The state has met its burden of proof if it can demonstrate that the corporation has placed the agent in a position where he has enough authority and responsibility to act for and on behalf of the corporation.
+
+Facts
+Defendants are various individuals and corporate entities convicted of conspiracy to engage in bribery. One Defendant was held criminally responsible for the actions of two employees who were not officers/directors. Another Defendant was held responsible for the actions of employees of a wholly owned subsidiary.
+
+Issue
+Whether the proper standard for vicarious corporate criminal liability was applied in the case at bar.
+
+Held
+Affirmed
+
+Discussion
+The Court started by reviewing the statute and applicable case law in other jurisdictions. It found that the judge had issued a correct jury instruction with respect to corporate vicarious criminal liability. The Court noted that this particular crime involved the disbursal of corporate funds, which is an activity that is solely within the corporate realm. Factors the court found relevant are (1) the extent of control and authority exercised by the individual within the corporation; (2) the amount of corporate funds involved in the criminal endeavor; and (3) the repeated pattern of criminal conduct by the agent.
+

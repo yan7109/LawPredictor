@@ -1,0 +1,21 @@
+Citation
+22 Ill.174 F.3d 862 (7th Cir. 1999)
+
+Brief Fact Summary
+All-Tech Telecom, Inc. (Plaintiff), sued Amway Corporation (Defendant) for damages sustained due to a botched transaction. The court granted summary judgment in favor of Defendant on the counts of intentional and negligent misrepresentation and promissory estoppel. Plaintiff appealed.
+
+Synopsis of Rule of Law
+A party may not use the doctrine of promissory estoppel to get a judgment for actions that would lead to a judgment for breach of warranty but cannot be proven.
+
+Facts
+Plaintiff sued Defendant for intentional and negligent misrepresentation, promissory estoppel, and breach of warranty. The court granted summary judgment in favor of Defendant for the claims of misrepresentation and promissory estoppel. The jury heard the claim for breach of warranty and found for Plaintiff, but did not grant damages. Plaintiff appeals the court’s summary judgment decision on the counts of misrepresentation and promissory estoppel.
+
+Issue
+Should the trial court have granted Defendant summary judgment on the claims of misrepresentation and promissory estoppel?
+
+Held
+Yes. The court was correct to grant summary judgment on both counts.
+
+Discussion
+In this case, the appropriate cause of action is breach of warranty. The Uniform Commercial Code provides what is necessary for a buyer to make a successful claim for breach of warranty. For example, the buyer should obtain seller’s representations in writing.
+

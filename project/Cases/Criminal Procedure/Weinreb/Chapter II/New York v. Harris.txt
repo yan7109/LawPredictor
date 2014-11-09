@@ -1,0 +1,21 @@
+Citation
+495 U.S. 14, 110 S. Ct. 1640, 109 L. Ed. 2d 13 (1990)
+
+Brief Fact Summary
+The police arrested an individual in his home without a warrant and he made various incriminating statements.
+
+Synopsis of Rule of Law
+“[W]here the police have probable cause to arrest a suspect, the exclusionary rule does not bar the State’s use of a statement made by the defendant outside of his home, even though the statement is taken after an arrest made in the home in violation of Payton.”
+
+Facts
+The police found the body of a murder victim in an apartment.  The officers had probable cause that the Respondent, Bernard Harris (the “Respondent”), killed the victim.  Three police officers went to the Respondent’s home to arrest him, but they did not have an arrest warrant.  The police knocked on the Respondent’s door and he let them in.  They read him his Miranda Rights for a first time.  The Respondent agreed to answer questions and admitted to killing the victim.  The Respondent was arrested, taken to the police station and read his Miranda rights again.  He then signed a written inculpatory statement.  The Respondent was then read his Miranda rights a third time and the interviewed on videotape by the district attorney.  This took place even though the Respondent said he wanted to end the interrogation.
+
+Issue
+“[W]hether [the Respondent's] second statement – the written statement made at the station house – should have been suppressed because the police, by entering Harris’ home without a warrant and without his consent, violated [Payton v. New York], which held that the Fourth Amendment prohibits the police from effecting a warrantless and nonconsensual entry into a suspect’s home in order to make a routine felony arrest[?]”
+
+Held
+The majority observed, “[f]or present purposes, we accept the finding below that [the Respondent] did not consent to the police officers’ entry into his home and the conclusion that the police had probable cause to arrest him.”  Further, “[i]t is also evident, in light of Payton, that arresting [the Respondent] in his home without an arrest warrant violated the Fourth Amendment. But, as emphasized in earlier cases, ‘we have declined to adopt a `per se or ‘but for’ rule’ that would make inadmissible any evidence, whether tangible or live-witness testimony, which somehow came to light through a chain of causation that began with an illegal arrest.’ “Instead, “in this context, [the court has] stated that ‘[t]he penalties visited upon the Government, and in turn upon the public, because its officers have violated the law must bear some relation to the purposes which the law is to serve.  In light of these principles, [the court] decline[d] to apply the exclusionary rule in this con
+
+Discussion
+This case should be read alongside [Payton v. New York] to show how the United States Supreme Court expanded on its Payton holding.
+

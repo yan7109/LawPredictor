@@ -1,0 +1,21 @@
+Citation
+22 Ill.288 U.S. 333, 53 S. Ct. 391, 77 L. Ed. 819 (1933)
+
+Brief Fact Summary
+The Plaintiff-Respondent, Margaret Chamberlain, on behalf of a deceased railroad employee Frederick Chamberlain (Mr. Chamberlain) (Respondent), brought suit against the Defendant-Petitioner, Pennsylvania Railroad (Petitioner), alleging that Petitioner’s negligence had caused Mr. Chamberlain’s death. Petitioner was granted a directed verdict by the district judge.
+
+Synopsis of Rule of Law
+A defendant is entitled to a directed verdict in a case where the proven facts give equal support to each of two inconsistent inferences, where the plaintiff has the burden of proof.
+
+Facts
+The Respondent filed a complaint which alleged that the deceased, at the time of the accident resulting in his death, was assisting in the yard work of breaking up and making up trains and in the classifying and assorting of cars operating in interstate commerce. Specifically, the complaint alleged that other cars ridden by fellow employees of Petitioner were negligently caused to be brought into violent contact with those upon which the deceased was riding, with the result that he was thrown from a car to the railroad track and run over by a car, killing him. At the conclusion of evidence, the trial court directed the jury to return a verdict in favor of Petitioner. The court of appeals reversed.
+
+Issue
+Whether a defendant is entitled to a directed verdict where the plaintiff with the burden of proof alleges facts supporting two inconsistent theories, only one of which would impose liability against the defendant.
+
+Held
+Yes. The Judgment of the circuit court of appeals was reversed and that of the district court affirmed.   Where there is a direct conflict of testimony upon a matter of fact, the question must be left to the jury to determine, without regard to the number of witnesses on either side. But here there really is no conflict in the testimony as to the facts, as the witnesses for the Petitioner flatly testified that there was no collision between the cars.  Where proven facts give equal support to each of two inconsistent inferences, in which event neither of them are established, judgment as a matter of law must go against the party upon whom rests the necessity of sustaining one of these inferences as against the other, before he is entitled to recover.
+
+Discussion
+Essentially the court is saying that when the evidence tends to equally support two divergent possibilities, neither is said to be established by legitimate proof. Thus, a verdict in favor of the party with the burden of proof is clearly inappropriate.
+

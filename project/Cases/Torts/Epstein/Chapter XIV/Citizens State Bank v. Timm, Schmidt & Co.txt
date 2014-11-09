@@ -1,0 +1,21 @@
+Citation
+113 Wis. 2d 376, 335 N.W.2d 361, 1983 Wisc.
+
+Brief Fact Summary
+Plaintiff brought suit against Defendant after it relied on Defendant’s financial statements in extending cash to a company, which later went bankrupt.
+
+Synopsis of Rule of Law
+Accountants may be held liable to third parties when it is foreseeable that they will rely on the accountant’s reporting.
+
+Facts
+Defendant prepared the financial statements of Clintonville Fire Apparatus, Inc. (CFA), and certified that it prepared its statements in accordance with generally accepted accounting principals. CFA obtained loans from Plaintiff, relying on Defendant’s statements. Defendant later discovered mistakes, totaling $400,000.00, in Plaintiff’s statements and notified creditors that called all of their loans due. CFA went into receivership and was later liquidated and dissolved. Plaintiff brought suit against Defendant for amounts still owed on loans they made in reliance of their statements. The trial court granted summary judgment and the court of appeals affirmed.
+
+Issue
+Whether an accountant can be held liable to a creditor when that creditor relies on the accountant’s financial reporting in extending credit to a company that is later found to be insolvent?
+
+Held
+Reversed and remanded.
+
+Discussion
+The holding in this case is in line with other case law. While an accountant may not be held liable when damages are unforeseen to another party, he may be held liable when it is foreseeable that another party will rely on his reports.
+

@@ -1,0 +1,21 @@
+Citation
+383 U.S. 715, 86 S. Ct. 1130, 16 L. Ed. 2d 218, 1966 U.S.
+
+Brief Fact Summary
+This case arises from a dispute between the United Mine Workers and the Southern Labor Union over representation of workers in the southern Appalachian coal fields. Gibbs (Respondent) was awarded compensatory and punitive damages in this action against the United Mine Workers (Petitioner) for violations of Section 303 of the Labor Management Relations Act and the common law of Tennessee.
+
+Synopsis of Rule of Law
+In cases where a plaintiff has both federal and state claims against the defendant, although there may be no diversity jurisdiction, the federal court has discretion to exercise pendent jurisdiction over the state claim based upon state law if the state-created claim and the federal claim derive from a common nucleus of operative fact, and are such that a plaintiff would ordinarily be expected to try them all in one judicial proceeding.
+
+Facts
+Respondent was employed as a mine superintendent in the Grundy Company. However, miners, who were represented by a local union affiliate of Petitioner, inflicted physical injuries upon Respondent after learning that Respondent had employed laborers represented by a rival union. At trial in the United States District Court for the Eastern District of Tennessee, the jury returned a verdict in favor of Respondent on both the federal and state law claims. However, the court set aside the federal law award based upon the ground that damages were not proven. The United States Court of Appeals for the Sixth Circuit affirmed.
+
+Issue
+Whether the relationship between the existing state-created claim and the federal claim were close enough to permit the conclusion that the entire action before the court comprises but one constitutional case?
+
+Held
+Yes. Pendent jurisdiction of a court is discretionary; it is not a right of the plaintiff. In determining whether pendent jurisdiction is appropriate, the court should consider judicial economy, convenience, and fairness to the litigants. Although it is possible in this case, that the court could have decided to dismiss the state claim, the circumstances show no error in refusing to do so. Therefore, the Supreme Court of the United States reversed the decision of the court of appeals.
+
+Discussion
+The court focused on the rule that both the state and federal claims derive from a common nucleus of operative fact. The court noted that although the federal law claims were ultimately dismissed, it was certainly not true that the federal issues were so remote or played such a minor role at trial that in effect only the state claims were litigated. Furthermore, the court noted that due to the nature of supplemental jurisdiction, it is not always apparent at the time of filing the complaint that the federal issues will be dismissed. The court stated that it often occurs at different stages in the litigation process.
+

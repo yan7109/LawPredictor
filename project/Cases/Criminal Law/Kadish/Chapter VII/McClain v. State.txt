@@ -1,0 +1,21 @@
+Citation
+22 Ill.556 U.S. 1161, 129 S. Ct. 1693, 173 L. Ed. 2d 1053 (2009) [2009 BL 65836]
+
+Brief Fact Summary
+The Defendant, David McClain, filed this interlocutory appeal (appeal from an order that is not final) to challenge the trial court’s grant of the state’s motion in limine excluding expert testimony on the defense of automatism.
+
+Synopsis of Rule of Law
+Automatism and insanity are separate defenses. Evidence of automatism bears on the voluntariness of the Defendant’s actions and is admissible without pleading an insanity defense.
+
+Facts
+The Defendant was on trial for aggravated battery of a police officer. The trial court granted the state’s motion in limine excluding expert testimony on the defense of automatism, and the Defendant immediately filed this interlocutory appeal to review the decision. The Court of Appeals held that automatism is a species of the insanity defense and is therefore subject to the notice requirements that preclude the introduction of evidence on insanity if the Defendant has not given notice of his intention to use the defense. The Defendant gave no such notice. However, the Defendant argues that automatism and insanity are different defenses.
+
+Issue
+Did the trial court err in excluding expert testimony on sleep disorders and dissociative states after the Defendant withdrew his insanity defense?
+
+Held
+Yes. A person commits a crime if he voluntarily engages in conduct violating the statute defining the offense. Automatism bears on the voluntariness of one’s actions. The Defendant claimed that he was unable to from criminal intent due to an automatistic state of mind from sleep deprivation precluding voluntary behavior. Importantly, this claim does not state or imply that automatism is a mental disease or defect, thereby invoking the insanity defense. Thus, automatism and insanity are separate defenses. The Defendant may present evidence of automatism despite not giving notice of the defense.
+
+Discussion
+Automatism is a partial defense to criminal liability. Asserting the defense can only negate the voluntariness element of the offense.
+

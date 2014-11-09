@@ -1,0 +1,21 @@
+Citation
+146 Minn. 430; 179 N.W. 45 (1920).
+
+Brief Fact Summary
+Anderson (Plaintiff) property near Minneapolis, S.P. & S.S.M.R. Company’s (Defendant) railroad tracks. Plaintiff sued the railroad company and the Director General of Railroads (Defendants) for damages resulting from a fire that was allegedly caused by sparks from one of Defendant’s locomotive engines that spread until it reached Plaintiff’s land, where it destroyed some of his property.
+
+Synopsis of Rule of Law
+In Anderson, the court approved a jury instruction that allowed the jury to find actual causation if the Defendant’s fire was a “material or substantial element” in the harm done. When the “but-for” test seems to produce clearly wrong results, as in the duplicative cause cases, the “substantial factor” test has been widely accepted. If two or more causes concur to bring about an event, then the cause-in-fact is established by the “substantial factor” test. When either the “but-for” or “substantial factor” test is satisfied, a party has established that the other party’s conduct was the cause in fact of an injury.
+
+Facts
+Plaintiff owned property near railroad company’s tracks. Plaintiff sued Defendants for damages resulting from a fire that was allegedly caused by sparks from one of Defendant’s locomotives that spread until it reached Plaintiff’s land, where it destroyed some of his property.
+
+Issue
+Did the trial court err when it instructed the jury to apply the rule in the Cook v. M., St. P. & S.S.M. Ry. Co. case?
+
+Held
+No.
+
+Discussion
+If two or more causes concur to bring about an event, then the cause-in-fact of an injury is established by the “substantial factor” test. The court applied the “substantial factor” test imported from the rule in the Cook case, 98 Wis. 624, 74 N.W. 561, 40 L.R.A. 457, 68 Am. St. Rep. 830, which exempted Defendant from liability since there were other fires sweeping east towards Plaintiff’s property, and any one of those fires could have been the actual cause of Plaintiff’s loss. The narrow rule in this case states that if a fire combines with another of no responsible origin, and after the union of the two fires, they destroy the property, and either fire independently of the other would have destroyed it, then, irrespective of whether the first fire was or was not a material factor in the destruction of the property, there is no liability.
+

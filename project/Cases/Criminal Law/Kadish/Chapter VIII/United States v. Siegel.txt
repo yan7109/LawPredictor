@@ -1,0 +1,24 @@
+Citation
+22 Ill.555 U.S. 1087, 129 S. Ct. 770, 172 L. Ed. 2d 760 (2008) [2008 BL 276780]
+
+Brief Fact Summary
+Defendants were officers and directors of an international distributor of toys and games. They were convicted of violating the wire fraud statute by orchestrating a scheme to defraud the corporation and its stockholders. The issue before the Court of Appeals is whether there was any evidence the defendants diverted the money for personal use.
+
+Synopsis of Rule of Law
+Under the federal wire fraud statute, corporate officers and directors have a fiduciary obligation to disclose their off-book transactions to shareholders.
+
+Facts
+Defendants, Abrams and Siegel, were officers and directors of Mego International, a distributor of toys and games. They were convicted of violating the wire fraud statute by orchestrating a scheme to defraud Mego and its stockholders. In doing so, defendants created a hidden cash fund derived from cash sales of merchandise and ultimately did not account for these sales. The sales generated cash in excess of $100,000. Evidence at trial showed that defendants used some of the cash for pay-offs to union officials and other persons involved with the corporation. The issue before the Second Circuit Court of Appeals is whether there was evidence of self-enrichment. This issue was investigated in conjunction with the sufficiency of evidence to prove violations of the wire fraud statute.
+
+Issue
+Did the defendants use the “off the books” cash sales for self-enrichment?
+
+Held
+Yes. The convictions are affirmed.
+
+Dissent
+Judge Winter dissenting. Today the court has set the stage for the development of criminal laws which regulate corporate affairs. The majority’s legal theory is that wire fraud occurred because some of the corporation’s funds were diverted for non-corporate purposes in breach of the defendants’ fiduciary duties. The evidence shoes there were off-book transactions averaging a little over $11,000 a year. There is no evidence, however, that any of the money was diverted to either of the defendants’ personal use. The prima facie case is made out strictly on a showing of improper recordkeeping. Despite a lack of Congressional intent in enacting the wire fraud laws and a repeated rejection by Congress to strengthen the fiduciary obligations imposed on corporate directors under state law, this court deciphers the wire fraud statute as encompassing a federal law of fiduciary obligations. Later juries will have to determine what actions by corporate officers are not in the best inter
+
+Discussion
+It appears as though the prosecutor in this case should have charged the defendants with other violations of the law such as embezzlement, tax evasion, or securities law violations. Perhaps there was not enough evidence to do so. The dissent points out that ill-defined crimes such as this one which are prosecuted on a selective basis have little deterrent value.
+

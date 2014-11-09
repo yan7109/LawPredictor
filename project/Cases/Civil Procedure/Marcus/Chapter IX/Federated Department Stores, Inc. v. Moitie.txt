@@ -1,0 +1,21 @@
+Citation
+452 U.S. 394, 101 S. Ct. 2424, 69 L. Ed. 2d 103,  1981 U.S.
+
+Brief Fact Summary
+In 1976, seven consumers, including Moitie and Brown (Plaintiffs), filed class action lawsuits against Federated Department Stores, Inc. (Defendant), alleging that the Defendant illegally fixed the retail prices of women’s clothing in Northern California.
+
+Synopsis of Rule of Law
+This court recognizes no general equitable doctrine, such as suggested by the court of appeals, which countenances an exception to the finality of a party’s failure to appeal merely because his rights are closely interwoven with those of another party.
+
+Facts
+The district court dismissed all seven suits in their entirety because they had not suffered harm to their business or property within the meaning of the federal antitrust statute. The dismissal is referred to as Moitie I and Brown I. Five of the seven appealed. Moite and Brown did not appeal, but refiled their case in state court, Moite II and Brown II. Their actions were removed to federal court and then dismissed on res judicata grounds. The original action involving the other five Plaintiffs was reversed and remanded to the district court to be reconsidered in light of the recent decision in Reiter v. Sonotone. Moite II and Brown II was eventually appealed to the United States Court of Appeals for the Ninth Circuit. The court of appeals held that the application of res judicata would normally preclude the second action, however, an exception should be made when the original dismissal was based on a case that had been overruled. Essentially, the court reversed, refusing to apply res judicata based on grounds of “simple justice” and public policy.
+
+Issue
+Whether the Court of Appeals for the Ninth Circuit validly created an exception to the doctrine of res judicata when the court found that res judicata does not bar relitigation of an unappealed adverse judgment, when other Plaintiffs in similar actions against common Defendants successfully appealed the judgments against them?
+
+Held
+There are some instances when considerations of justice and fairness dictate that prior judgments should be given preclusive effect. However, the Supreme Court of the United States did not find that there was any injustice in this case. The court of appeal’s reliance on public policy is misplaced, as it has long been the public policy that there be an end to litigation, and that those who were involved in the litigation be bound by the judgment. Accordingly, the judgment of the court of appeals is reversed, and the case is remanded.  <br/><br/><span class='heading'>Dissent.</span> Justice Brennan felt that the case should have been remanded due to his conclusion that Moite II and Brown II was not properly removed.  Concurrence. Justices Blackmun and Marshall focused on the notions of public policy and “simple justice” that were articulated by the court of appeals as rationales for   ignoring the traditional rule of res judicata. Further, the concurrence noted that there was a need to discourage the “break-away” litigation that will, allegedly, occur as a result of the majority decision.
+
+Discussion
+The court noted that they had addressed this same issue in Reed v. Allen. However, the court stated that the present case presented even more compelling reasons for applying res judicata than did Reed. In the present case, the respondents sought to be windfall beneficiaries of an appellate reversal procured by other independent parties who had no interest in the respondents’ case. Further, the court noted that in the present case, it was clear that the respondents made a calculated decision to forgo the appellate process.
+

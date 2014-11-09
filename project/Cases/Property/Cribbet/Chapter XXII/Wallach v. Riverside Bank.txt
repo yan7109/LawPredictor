@@ -1,0 +1,21 @@
+Citation
+22 Ill.206 N.Y. 434, 100 N.E. 50 (1912)
+
+Brief Fact Summary
+Plaintiff contracted with Defendant to purchase certain property, subject to existing leases and existing restrictions on record. The Defendant offered Plaintiff a quitclaim deed, which Plaintiff refused to accept. Plaintiff contended that a previous conveyance of the property was not joined by the wife of the grantor, and that such failure rendered the title unmerchantible. The Defendant refused to return a down payment to Plaintiff.
+
+Synopsis of Rule of Law
+In every executory contract for the sale of lands there is an implied warranty on the part of the vendor that he has good title, which continues until merged in the deed of conveyance. This is an implied warranty of merchantible title.
+
+Facts
+Plaintiff contracted with Defendant to purchase certain property, subject to existing leases and existing restrictions on record, if any, for the purchase price was to be $22,000. At closing, the Defendant offered Plaintiff a quitclaim deed, which Plaintiff refused to accept on the grounds that a previous conveyance in the chain of title was not joined by the wife of the grantor, and that such failure rendered the title unmerchantible. The Defendant refused to return a down payment to Plaintiff and Plaintiff thereafter sued for return of the down payment and incidental damage, such as the title search. The trial court concluded that Plaintiff was entitled to a judgment for the amounts claimed and the intermediate appellate court affirmed. The Defendant appealed.
+
+Issue
+Did the Defendant meet his covenant to convey the premises by tendering a quitclaim deed under the circumstances found by the trial court?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+This case contains basis black letter law. The vendee of a contract to sell lands does not give up the right to receive merchantible title from the vendor, unless specifically provided otherwise.
+

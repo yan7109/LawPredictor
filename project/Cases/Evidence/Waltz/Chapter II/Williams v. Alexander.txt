@@ -1,0 +1,24 @@
+Citation
+548 U.S. 912 126 S. Ct. 2940 165 L. Ed. 2d 965 2006 U.S.
+
+Brief Fact Summary
+The defendant, a driver, struck the pedestrian plaintiff as the plaintiff crossed an intersection.  The medical records produced from the plaintiff’s injury contained a statement allegedly made by the plaintiff that would have placed the cause of the accident on a second car that rear-ended the defendant’s car into the plaintiff.
+
+Synopsis of Rule of Law
+Admissible information in a business record is limited to information that is produced in the regular course of business for the purpose of carrying out that business.
+
+Facts
+The plaintiff was struck by the defendant’s vehicle as the plaintiff crossed an intersection.  The doctor transcribed details of the accident during the treatment of the plaintiff, including a statement purportedly made by the plaintiff that placed the blame on a third party.  The statement asserted that a second driver hit the defendant’s car from behind, which in turn pushed the defendant’s car into the plaintiff.  The plaintiff appealed the lower court decision to allow the statement into evidence.
+
+Issue
+Whether a statement from a party, recorded in a business record, but tangential to the purpose of the business record, is admissible evidence?
+
+Held
+The court reversed the decision to allow the admissibility of the evidence and declared a new trial.  The court reasoned that the statement regarding the circumstances of the accident were immaterial to the purpose of the business record.
+
+Dissent
+The dissenting judge would have affirmed the lower court’s decision because the statement was admissible under two different exceptions to the hearsay rules.  The statement was an admission against interest, and the nature of the record (the doctor has no motivation to falsify the statements made by the patient) made the information credible.  It is the discretion of the trial judge to weigh the credibility of the statement.
+
+Discussion
+Some information contained in a business record can be excluded if the information is not material to the purpose of the business record.  According to the dissenting opinion, an analysis of the credibility of the statement could potentially override a slight degree of immateriality.  However, information that does not fall under one hearsay exception could be admitted under another hearsay exception, such as a statement against a party’s own interests.
+

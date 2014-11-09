@@ -1,0 +1,21 @@
+Citation
+80 A.D.2d 318, 439 N.Y.S.2d 529 (App Div, 4th Dept 1981)
+
+Brief Fact Summary
+A demolition and excavating contractor agreed to perform certain duties and then failed to perform them as specified in the contract.
+
+Synopsis of Rule of Law
+Where a breach of contract is not incidental to the main purpose of the contract and the contract was not completed, the proper measure of damages is the cost of completion.
+
+Facts
+The Plaintiff, American Standard, Inc. (Plaintiff) and the Defendant, Schectman (Defendant), entered into a contract whereby the Plaintiff agreed to convey its buildings and equipment to Defendant. In return, the Defendant was to render payment and remove the equipment, demolish the structures and grade the land as specified. The Defendant failed to grade the property as agreed upon in the contract. The cost to complete the grading was estimated by the Plaintiff’s expert as $110,500. The Defendant argued that this amounted to a windfall and that the correct measure of damages ought to be the diminution in value of the property, resulting from his lack of performance. The lower court rendered a jury verdict for the Plaintiff, in the amount of $90,000, based on the cost of completing the grading.
+
+Issue
+Is the cost of completion the proper measure of damages where a contractor failed to complete the contract as specified and such failure was not incidental to the purpose of the contract?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+The court distinguished this case from Jacob and Youngs, Inc. v. Kent, 129 N.E. 889 (N.Y. 1921), where it was found that a contractor’s use of the wrong brand of pipe amounted to substantial performance, when the pipe was of similar quality to that specified in the contract and the cost of replacing it would have been grossly out of proportion to the difference in property value resulting from the error. In contrast, in the instant case, the Defendant did not make such a minor error. In fact, he failed to complete the contract to which he agreed. Thus, this is not a case of substantial performance. The court also reasoned that the high price of completion supports the fact that the Defendant did not complete the contract in good faith, as the damages were not nominal. Also, the court stated that it is reasonable to expect that the damages resulting from the failure to complete the contract would be the cost of completion.
+

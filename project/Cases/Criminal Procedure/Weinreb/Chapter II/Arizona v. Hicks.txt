@@ -1,0 +1,24 @@
+Citation
+480 U.S. 321, 107 S. Ct. 1149, 94 L. Ed. 2d 347 (1987)
+
+Brief Fact Summary
+When investigating a shooting in an apartment, a police officer moved certain stereo equipment, which was very fancy and looked out of place, and learned that it had been taken during an armed robbery.
+
+Synopsis of Rule of Law
+Only when a police officer had probable cause, not reasonable suspicion, could they invoke the “plain view” doctrine.
+
+Facts
+A bullet was fired through the floor of the Respondent’s apartment, hitting an individual in the apartment below.  In response to the shooting, the police entered the Respondent’s apartment and found three weapons and a stoking-cap mask.  One of the officer’s who entered the Respondent’s apartment noticed expensive stereo equipment that looked out of place and he moved the components to check their serial numbers.  After phoning the police station, the officer learned that the equipment was taken during a recent armed robbery.  The officer seized some of the equipment immediately and obtained a warrant to seize the rest of it, which was determined to have been taken during the same armed robbery.
+
+Issue
+Did the officer’s conduct constitute a seizure?
+
+Held
+No.  The majority first observed “the mere recording of the serial numbers did not constitute a seizure.”
+
+Dissent
+Justice Powell, the Chief Justice and Justice Sandra Day O’Connor drafted a dissenting opinion pointing out how the court “holds for the first time that the requirement of probable cause operates as a separate limitation on the application of the plain-view doctrine.”  “The [dissent observes how the majority] holds that ‘merely looking at’ an object in plain view is lawful, but ‘moving’ or ‘disturbing’ the object to investigate a reasonable suspicion is not.”  In other words, “this distinction between ‘looking’ at a suspicious object in plain view and ‘moving’ it even a few inches trivializes the Fourth Amendment.”
+
+Discussion
+It is interesting to recognize how the different opinions treat the movement of an individual’s property a few inches.
+

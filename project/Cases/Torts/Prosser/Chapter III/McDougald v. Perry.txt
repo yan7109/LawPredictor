@@ -1,0 +1,15 @@
+Citation
+736 F.2d 992
+
+Brief Fact Summary
+The Plaintiff, McDougald (Plaintiff), was injured when the spare tire flew off of the Defendant, Perry’s (Defendant) trailer and hit the Plaintiff’s windshield.<span class="heading">Synopsis of Rule of Law.</span> Res Ipsa Loquitur applies to rare occurrences where the accident itself is evidence upon which to base an inference of negligence.
+
+Facts
+The Plaintiff was injured when the spare tire on the Defendant’s truck fell out of its carrier, was run over by the rear wheels of the Defendant’s truck and then collided with the Plaintiff’s windshield. The Defendant testified that the tire was held in place by its own weight and by a chain that was usually attached to the trailer of the truck with a latch. The defendant also testified that on the day of the accident the chain was attached with only a nut and bolt, but that he did a pre-trip inspection on the trailer and found no problems. However, the chain did have a loose link that lead to the release of the tire. At trial, the jury was instructed on Res Ipsa Loquitur, but on appeal the court found error in this instruction and held that the jury should not have been allowed to consider the doctrine.<span class="heading">Issue.</span> Whether the doctrine of Res Ipsa Loquitur applies to the accident.
+
+Held
+The doctrine of Res Ipsa Loquitur applies.
+
+Discussion
+The mere fact that the accident occurred does not always warrant the application of the doctrine. But in rare instances the fact that the accident occurred, along with a showing of an immediate precipitating cause, permits the inference of negligence. In this case, the spare tire would not have come loose had the Defendant exercised reasonable care when inspecting his vehicle and therefore Res Ipsa Loquitur applies and the Defendant is liable
+

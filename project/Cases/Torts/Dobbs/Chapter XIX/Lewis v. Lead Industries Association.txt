@@ -1,0 +1,15 @@
+Citation
+342 Ill. App. 3d 95, 335 Ill. Dec. 802, 793 N.E.2d 869 (App. Ct. 2003)
+
+Synopsis of Rule of Law
+Civil conspiracy is the combination of two or more persons or entities for the purpose of accomplishing by concerted action either an unlawful purpose or a lawful purpose by unlawful means.  A cause of action for civil conspiracy exists only if one of the parties to the agreement commits some act in furtherance of the agreement which is itself a tort.
+
+Facts
+The plaintiffs are parents of children who may have been exposed to lead and may develop serious medical conditions as a result.  They sued and proposed a class action against (1) a trade association that promoted the use of lead pigments and (2) defendants who manufactured and marketed lead pigment for use in its paint.  The plaintiffs alleged that of the defendants warned consumers of the danger of lead in paint for children.  Moreover, the plaintiffs brought a civil conspiracy claim against the manufacturing defendants, alleging that they conspired to market, produce and promote the use of lead pigment in paint.  The trial court dismissed the civil conspiracy count but the appeals court reversed.
+
+Issue
+Whether Plaintiffs sufficiently pled a claim for civil conspiracy even thought they could not identify which particular defendant actually supplied the lead pigment used in the paint to which any given child might have been exposed.
+
+Held
+Yes.  Civil conspiracy is the combination of two or more persons or entities for the purpose of accomplishing by concerted action either an unlawful purpose or a lawful purpose by unlawful means.  A cause of action for civil conspiracy exists only if one of the parties to the agreement commits some act in furtherance of the agreement which is itself a tort.  Thus, the gist of a conspiracy claim is not the agreement itself, but the tortious acts performed in furtherance of the agreement.  The court found that the plaintiffs had met the requirements for a civil conspiracy claim (an agreement and tortious conduct).  Specifically, the plaintiffs identified the defendants as the sole producers and promoters of lead pigment used in paint and alleged that each was a party to the conspiratorial agreement.  The fact that the plaintiffs could not identify which of the defendants was the active tortfeasor that supplied the lead pigment to any given child was not fatal to their civil conspiracy claim.
+

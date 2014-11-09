@@ -1,0 +1,18 @@
+Brief Fact Summary
+Defendant moved with their child to Maryland.  Plaintiff brought the child (his son) to Connecticut where he commenced a custody action.  Defendant responded with a motion to dismiss based on lack of jurisdiction.
+
+Synopsis of Rule of Law
+Under the Uniform Child Custody Jurisdiction and Enforcement Act, the court cannot assert jurisdiction unless the child has resided with parent in the state for six months prior to the commencement of the action.  The Act also permits an exercise of jurisdiction if another state does not have jurisdiction under the first part of the Act and the child and at least one parent have a significant connection with the state other than mere physical presence, and there is substantial evidence available in the state concerning the child’s care, protection, training and personal relationships.
+
+Facts
+The parties married in 1997 in Maryland, with the marriage producing a child, Austin Gilman.  Austin was born in Connecticut.  Around September of 1998 the parties moved to Maryland, where they lived into the year 2000.  The parties moved back to Connecticut in June of 2000, where the child stayed until mid-July, when he went to visit his maternal grandmother in Maryland.  On July 20, 2000 defendant mother returned to Maryland.  According to defendant, she never promised to return to Connecticut.  According to plaintiff, she indicated she was unsure of her feelings and was in Maryland temporarily.  She stayed in Maryland with the child of this marriage and another child of hers.  She lived with her mother and the child in Maryland from July 20, 2000 forward.  There was contact between plaintiff and defendant during the time, and plaintiff traveled to Maryland to discuss the status of their relationship.  The defendant commenced an action in Maryland circuit court, serving the
+
+Issue
+Does the Connecticut court have jurisdiction to make an initial child custody determination?
+
+Held
+The court lacked jurisdiction over the matter pursuant to UCCJEA, therefore the defendant’s motion to dismiss is granted.
+
+Discussion
+The Court basis its determination that Connecticut does not have jurisdiction over this matter based upon the new UCCJEA governing jurisdiction to make an initial child custody determination.  The court dismisses the motion without prejudice because if the state of Maryland declined jurisdiction, the court may be able to assert jurisdiction under the second section of the act permitting jurisdiction when the court of another state does not have jurisdiction.
+

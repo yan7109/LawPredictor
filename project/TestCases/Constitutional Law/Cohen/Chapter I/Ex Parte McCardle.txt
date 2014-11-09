@@ -1,0 +1,21 @@
+Citation
+74 U.S. 506, 7 Wall. 506, 19 L. Ed. 264 (1869)
+
+Brief Fact Summary
+McCardle was held in military custody for trial before a military commission. A statute in force provided that judicial courts of the United States had the power to grant writs of habeas corpus. The statute also stated that a person could appeal to the circuit court, and then to the U.S. Supreme Court. This statute was later repealed.
+
+Synopsis of Rule of Law
+The appellate jurisdiction of the U. S. Supreme Court is not derived from Congressional acts, but instead is conferred by the Constitution. However, it is conferred with such exceptions and under such regulations as Congress shall make.
+
+Facts
+During the Reconstruction period after the Civil War, Congress created a military government under which McCardle was imprisoned. McCardle, who was an editor, was charged with libel and placed in military custody. McCardle alleged unlawful restraint by military force. He sought a writ of habeas corpus in the circuit court for the Southern District of Mississippi. When the circuit court rejected the claim, McCardle appealed to the U.S. Supreme Court. A Congressional statute enacted in 1867 authorized the appeal to the Supreme Court and also authorized the grant of habeas corpus by federal circuit courts. Fearful the Supreme Court would rule the statute of 1867 unconstitutional; Congress passed another statute in March of 1868, repealing the portion of the 1867 statute allowing appeals to the Supreme Court in habeas corpus proceedings originating in the lower federal courts. Congress repealed this section before the Supreme Court reached a decision, but after it heard arguments
+
+Issue
+How much power does Congress have to limit the jurisdiction of the Supreme Court?
+
+Held
+The Supreme Court reviewed Article III, Section: 2 of the U.S. Constitution, which states that the Supreme Court shall have, “appellate Jurisdiction both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.” The Supreme Court interpreted this section to mean Congress had the power to determine the Supreme Court’s jurisdiction and upheld the restriction on its jurisdiction in this case.
+
+Discussion
+The Constitution gives Congress the power to both create the lower federal courts and determine their jurisdiction. By repealing a portion of the 1867 statute, Congress only limited the Supreme Court’s right to hear a habeas corpus proceeding brought on appeal from a lower federal court. The decision did not affect the Supreme Court’s right to hear a habeas corpus proceeding brought initially in the Supreme Court. Additionally, Congress applied the restriction in the statute of 1868 equally so that neither McCardle nor the governmental entity could bring a habeas corpus proceeding to the Court on app
+

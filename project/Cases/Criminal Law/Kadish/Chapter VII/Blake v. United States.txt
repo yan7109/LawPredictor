@@ -1,0 +1,21 @@
+Citation
+119789
+
+Brief Fact Summary
+The Defendant was convicted of robbery after his defense of insanity was rejected. He appeals the conviction on the ground that the definition of insanity is outdated and prejudicial.
+
+Synopsis of Rule of Law
+The Fifth Circuit Court of Appeals has adopted the Model Penal Code test for insanity, which states “A person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality (wrongfulness) of his conduct or to conform his conduct to the requirements of the law.”
+
+Facts
+The Defendant was charged with robbery. The evidence overwhelmingly proved his guilt, but he offered the defense of insanity. He was convicted, and his motion for a new trial was denied. He then initiated this appeal for the reason that the insanity definition was outmoded and prejudicial. The defendant had a long history of erratic behavior and mental problems. He spent time in therapy and in mental hospitals. He shot his second wife and committed aggravated assault. On the date in question, the Defendant told a waitress that he was possibly going to rob a bank. He then simply walked in the bank and robbed it. The Defendant was arrested when he actually returned to court with his lawyer on a petition for writ of habeas corpus. At trial, the psychiatric testimony showed that the Defendant may have been suffering from schizophrenia, and he was having a psychotic episode at the time of the robbery. The testimony showed both that there were times he was unable to control his will
+
+Issue
+Was the district court’s jury instruction on insanity outdated and prejudicial?
+
+Held
+Yes. Under the case of Davis v. United States, 165 U.S. 373 (1897), the insanity charge to the jury was: “The term ‘insanity’ as used in this defense means such a perverted and deranged condition of the mental and moral faculties as to render a person incapable of distinguishing between right and wrong, or unconscious at the time of the nature of the act he is committing, or where, though conscious of it and able to distinguish between right and wrong and know the act is wrong, yet his will, by which I mean the governing power of his mind, has been otherwise than voluntarily so completely destroyed that his actions are not subject to it, but are beyond his control.” By contrast, the Model Penal Code test for insanity, which the Defendant urged the court to adopt, states, “A person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality (wrongfulness) of his
+
+Discussion
+Following the trend among the United States Circuit Courts of Appeal, the Fifth Circuit adopted the Model Penal Code test for insanity, which essentially says that a person is insane if he does not know right from wrong or is unable to control his conduct to conform with the law.
+

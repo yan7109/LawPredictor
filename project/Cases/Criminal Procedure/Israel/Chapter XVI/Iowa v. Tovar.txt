@@ -1,0 +1,21 @@
+Citation
+541 U.S. 77, 124 S. Ct. 1379, 123 S. Ct. 671, 158 L. Ed. 2d 209 (2004)
+
+Brief Fact Summary
+After being charged with successive drunk-driving, Tovar argued that his first conviction was invalid because he had pled guilty and had invalidly waived his Sixth Amendment right to counsel.
+
+Synopsis of Rule of Law
+A defendant’s Sixth Amendment right to counsel is not violated if he agrees to a guilty plea.
+
+Facts
+Tovar was charged with drunk-driving three times in four years.  Tovar pleaded guilty to his first two convictions, the first time waiving his right to counsel.  The third time, Tovar faced a harsher sentence for successive drunk driving.  He argued that his first conviction should not be used against him because he invalidly waived his Sixth Amendment right to counsel.  He was convicted and sentenced to thirty days in jail.  The appeals court affirmed and the Iowa Supreme Court reversed.  The state brought appeal.
+
+Issue
+In light of the Sixth Amendment right to counsel, this case considers whether that right is waived when a defendant takes a guilty plea without counsel and later argues that he was not informed of the consequences of waiving his right to counsel and what his plea meant.
+
+Held
+The Sixth Amendment requires a judge to inform the accused of the charges against him, of his right to counsel when invoking a plea and of the range of punishments he pleads.  Because the trial judge did these things, Tovar’s waiver of the right to counsel was not in violation of his Sixth Amendment rights to counsel.
+
+Discussion
+When a defendant makes a voluntary waiver of the right to counsel, he cannot later claim that he was denied his Sixth Amendment right to counsel because he has pled guilty and that plea serves to enhance his new sentence.
+

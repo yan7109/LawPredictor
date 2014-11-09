@@ -1,0 +1,21 @@
+Citation
+105 Cal. 66, 38 P. 518, 1894 Cal. 1111.
+
+Brief Fact Summary
+The Appellant, Brown (Appellant), was charged with the crime of burglary after taking the bicycle of a young boy. This appeal to the Supreme Court of California involves a jury charge concerning the elements of larceny that must be proven in order for a conviction to occur.
+
+Synopsis of Rule of Law
+In order to find a defendant guilty of the crime of larceny, it must be proven that the intent of the defendant was to permanently deprive the owner of possession of the property that was taken. An intent merely to take the property temporarily will not be sufficient to support a conviction on a charge of larceny.
+
+Facts
+The Appellant testified that he intended to take the bicycle of a young boy who had previously been harassing the Appellant. However, the Appellant mistakenly took a bicycle belonging to Frank. The Appellant testified that he intended only to take the bicycle for a short period of time and that he intended to bring it back to the owner the next evening. However, before the Appellant was able to return the bicycle, both the Appellant and the bicycle were discovered by Frank.
+
+Issue
+Can the trial court jury charge involving an instruction that larceny may be found even through a temporary taking stand?
+
+Held
+Since the Appellant only intended to remove the bicycle for a short period of time, rather than keeping it permanently, the conviction as to the larceny charge shall not stand because the jury instruction in the lower court was erroneous.
+
+Discussion
+The court did find that although the larceny charge could not stand because the intent of the Appellant was merely to deprive the bicycle owner of possession temporarily, the Appellant could be convicted of trespass. What is important in this case is determining the mens rea of the accused. The mens rea for larceny involves an intent to wholly and permanently deprive an owner of property. Anything less than permanent intent will not provide the mens rea necessary for a larceny conviction.
+

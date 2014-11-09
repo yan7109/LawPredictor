@@ -1,0 +1,24 @@
+Citation
+475 U.S. 1134 106 S. Ct. 1784 90 L. Ed. 2d 330 1986 U.S.
+
+Brief Fact Summary
+Hepps (Plaintiff) brought suit against Philadelphia Newspapers, Inc. (Defendant), after it published a series of articles alleging that Plaintiff had links to organized crime, and had used their position to exercise influence over the government.
+
+Synopsis of Rule of Law
+A private party cannot bring suit against a newspaper for slander or libel, without bearing the burden of showing falsity and fault, before recovering damages.
+
+Facts
+Plaintiff was the principal stockholder of General Programming, Inc. (GPI), a corporation engaged in franchising convenience stores. Defendant published a series of articles, alleging that Plaintiff had exercised undue influence over the governmental using its ties to organized crime. Plaintiff brought suit based on slander. At the jury trial of the matter, a verdict was found for the Defendant. The Supreme Court of Pennsylvania remanded the case, holding that it was not unconstitutional to hold that the Defendant must bear the burden of showing the truth of the statements. The Supreme Court granted certiorari.
+
+Issue
+This case considers whether a media defendant must bear the burden of proving the truth of statements it publishes, when they are attacked as libel by a private Plaintiff.
+
+Held
+Reversed.
+
+Dissent
+The dissent held that a private-party plaintiff should not have to bear the burden of showing certain statements to be false, in order to recover damages based in slander. According to Justice Stevens, “deliberate, malicious character assassination is not protected by the First Amendment to the United States Constitution.” The First Amendment does not require the target of defamation to prove his assailant was at fault.
+
+Discussion
+The First Amendment affords a newspaper great leniency in what it publishes. In this case, the Plaintiff could not prove that the Defendant had knowingly printed false statements, and thus, the Defendant could not be held liable for slander.
+

@@ -1,0 +1,24 @@
+Citation
+1483 F.2d 88,1973 U.S. App.
+
+Brief Fact Summary
+The Defendant, Bryan (Defendant), was convicted of aiding and abetting in stealing liquor, while his companion was acquitted of all charges. The Defendant alleged that because the principal he was charged with aiding was acquitted, he cannot be found guilty of aiding and abetting.
+
+Synopsis of Rule of Law
+The distinction between aiders and abettors and principals in cases such as this is semantic and thus allows for a conviction for aiding and abetting even when the principal is found not guilty.
+
+Facts
+The Defendant was jointly indicted and tried with Echols. Echols was charged with having stolen liquor from a pier and the Defendant was charged with having aided and abetted him. Echols was convicted by a judge and found to have been duped into driving the truck and presenting false documents. The Defendant was convicted. The Defendant argued that because Echols, the principal was acquitted, the Defendant could not have aided/abetted him.
+
+Issue
+Whether the Defendant’s conviction could stand when the principal was acquitted.
+
+Held
+Affirmed.
+
+Dissent
+The Dissent focused on the argument that the Fifth Amendment of the United States Constitution (Constitution) requires that the grand jury indictment be the same indictment that goes before the jury. In addition, the Dissent stated that now, the Defendant has lost the opportunity to testify and that the conviction would rest on a charge that the grand jury did not consider.
+
+Discussion
+The court found that the Defendant was essentially the principal even though he was indicted as an aider/abettor. Although Echols physically presented the false papers to steal the alcohol, the Defendant engineered the scheme. In addition, the elements of both crimes are the same and thus this variance in the charge allows for the Defendant’s conviction.
+

@@ -1,0 +1,21 @@
+Citation
+520 U.S. 385, 117 S. Ct. 1416, 137 L. Ed. 2d 615 (1997)
+
+Brief Fact Summary
+Police, suspecting a felony drug violation, executed a search warrant at petitioner Richards’ hotel room while failing to “knock and announce.”
+
+Synopsis of Rule of Law
+Not knocking and announcing is allowable under the Fourth Amendment as long as the decision to do so is reasonable under the circumstances.
+
+Facts
+Police obtained a warrant to search petitioner’s hotel room on suspicion that he had committed felonious crime of possession with intent to deliver a controlled substance.  The officers did not knock and announce prior to entering the room, and searched and ended up seizing drugs.  They knocked on the door claiming to be a maintenance man, and then kicked in the door when the petitioner tried to slam it upon seeing that they were police.  The Wisconsin State Supreme Court held for the state, expressing their view that there is no knock and announce requirement when they are executing a search warrant in a felony drug investigation because there is reasonable cause to believe exigent circumstances exist.  Petitioner then sought certiorari.
+
+Issue
+Is knocking and announcing your presence ever required under the Fourth Amendment for police officers executing a search warrant in a felony drug investigation?
+
+Held
+Yes, in some situations.  The Supreme Court affirmed the judgment in this case because it was not required under these circumstances.
+
+Discussion
+This result eschews the idea of a blanket rejection of the “knock and announce” rule in certain circumstances to favor the more vague standard of examining what is reasonable under the circumstances.  This puts a lot of discretion in the hands of the judges looking retroactively at a situation and gives little guidance to legislatures on when it must or may not be used.
+

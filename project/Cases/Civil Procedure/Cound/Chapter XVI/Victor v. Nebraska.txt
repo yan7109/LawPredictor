@@ -1,0 +1,21 @@
+Citation
+22 Ill.511 U.S. 1, 114 S. Ct. 1239, 127 L. Ed. 2d 583 (1994)
+
+Brief Fact Summary
+The constitutionality of two jury instructions defining “reasonable doubt” in two cases was at issue.
+
+Synopsis of Rule of Law
+“The Due Process Clause requires the government to prove a criminal defendant’s guilt beyond a reasonable doubt, and trial courts must avoid defining reasonable doubt so as to lead the jury to convict on a lesser showing than due process requires. In these cases, [the court] conclude[d] that, ‘taken as a whole, the instructions correctly conveyed the concept of reasonable doubt to the jury.’ ”
+
+Facts
+This case concerns two separation actions.  The Petitioner in the first, Sandoval (the “Petitioner”) shot three men, two of them fatally during a gang-related shooting.  About two weeks after the shooting, the Petitioner killed an individual who gave the police information about the initial shootings. The Petitioner also killed the individual’s wife.  The Petitioner was convicted on four counts of first degree murder.  The Petitioner was sentenced to death for the murder of the wife and life in prison for the murder of the other three individuals.  The California Supreme Court affirmed the convictions and the sentences.
+
+Issue
+“[W]hether there is a reasonable likelihood that the jury understood the instructions to allow conviction based on proof insufficient to meet the [Winship] standard[?]”
+
+Held
+“[S]o long as the court instructs the jury on the necessity that the defendant’s guilt be proven beyond a reasonable doubt, the Constitution does not require that any particular form of words be used in advising the jury of the government’s burden of proof.  Rather, ‘taken as a whole, the instructions [must] correctly conve[y] the concept of reasonable doubt to the jury.’ ”
+
+Discussion
+This case provides an interesting example of how the standard of beyond a reasonable doubt is construed by the courts.
+

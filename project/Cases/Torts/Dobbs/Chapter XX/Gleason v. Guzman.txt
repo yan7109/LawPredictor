@@ -1,0 +1,24 @@
+Citation
+234 F. Supp. 145 (D.D.C. 1964)
+
+Brief Fact Summary
+The Court of Appeals (Colorado), in a personal injuries action, reversed a grant of summary judgment in favor of Defendants based on a release executed by the guardian of Plaintiff, who was struck on the head by a vending machine that fell from a truck when she was a minor. Defendants, truck driver and his employer, appealed.
+
+Synopsis of Rule of Law
+Rescission of a settlement of a personal injury claim is available for mistakes relating to the nature of known injuries but not for mistakes as to the future course and effects of those injuries.
+
+Facts
+Plaintiff was struck on the head by a vending machine that fell from a truck when she was a minor. She sued Defendants, a truck driver and his employer, seeking to recover for personal injuries. Defendants offered as an affirmative defense a release, executed by Plaintiff’s guardian, and moved for summary judgment. It was later determined, approximately four years after the accident when the minor had been emancipated, that the severity of her injuries was greater than was known at the time of settlement. She began having epileptic seizures, and retained counsel and filed for rescission of the original judgment. The trial court found for Defendants. Plaintiff appealed, contending that summary judgment was improper because the minor’s guardian was mistaken concerning the true nature of the minor’s injuries; there thus remained a genuine material issue of fact.
+
+Issue
+May a mistake on the part of a minor plaintiff’s guardian in connection with a settlement and an attendant release negate such settlement agreements and permit a successful on to set aside a judgment?
+
+Held
+Yes. The court affirmed the judgment of the appellate court, holding that summary judgment was precluded because there was a genuine factual issue as to whether plaintiff’s guardian was mistaken about the nature of her injuries when he executed a release.
+
+Dissent
+While the majority, in weighing policy considerations favoring finality of settlements agreements against the effects errors may have on the outcome of such settlements, chose to mitigate the effects of the latter scenario, the dissent sees a greater danger in permitting a plaintiff to relitigate what it views as settled issues: “If an injured party can set aside a release contract simply because he was not specifically aware of a consequence of his injury which subsequently developed, any incentive for a defendant to enter into such a release transaction would be nullified. The only safe release from a defendant’s viewpoint would be one listing every possible consequence of the known injury. As a practical matter, such an all-inclusive list is an impossibility.” The dissent points out, “Having chosen to settle the case for an agreed amount which in this case included a substantial percentage for possible future damages, the plaintiff must be held to that election.” Thus, in
+
+Discussion
+The court in Gleason begins by addressing the preliminary issue of when summary judgment is proper, i.e, where there exists a material issue of fact that would be correctly submitted to a jury, cautioning, “Summary judgment is a drastic remedy and should be granted only where the evidential and legal prerequisites are clearly established.” More central, however, is the question of what effect, if any, a factual mistake on the part of a party should have on a settlement reached in a civil action. The court points out, “Rescission of a settlement of a personal injury claim is available for mistakes relating to the nature of known injuries but not for mistakes as to the future course and effects of those injuries.” Thus, it is necessary for the court to define mistake generally, stating: “Mistake involves an erroneous state of mind about an external fact. It may stem from a tacit presupposition of an untrue fact or from ignorance of an existing fact. An inquiry into its exis
+

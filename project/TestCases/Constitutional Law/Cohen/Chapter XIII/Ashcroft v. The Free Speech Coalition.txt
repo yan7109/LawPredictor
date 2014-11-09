@@ -1,0 +1,27 @@
+Citation
+535 U.S. 234 (2002)
+
+Brief Fact Summary
+The Child Pornography Prevention Act (CPPA) defined prohibited child pornography to include explicit sexual images which were meant to represent minors but did not use any real children as subjects, being produced by other means such as computer imaging. The Free Speech Coalition (P) argued that this federal law violated the First Amendment.
+
+Synopsis of Rule of Law
+The Child Pornography Prevention Act (CPPA) of 1996 prevents speech which is not obscene or child pornography, and so impinges on the freedom of speech and violates the constitution.
+
+Facts
+The Congress enacted the CPPA in 1996 to prohibit the use of images which appear to show minors engaged in sexual acts but which were, however, produced without the use of real children. The possession or distribution of images so produced, whether by virtual technology methods or by using adults who look childish or are made to look so, was prohibited in specific conditions by this Act. This was challenged by the Free Speech Coalition (P), which is a trade union for the adult-entertainment industry, and other parties. They challenged the Act in federal district court on the grounds that the terms “appear to be” and “conveys the impression that” as used in the impugned statute are too vague and broad to prevent the Act from being improperlyused to prevent them from producing works under their constitutional rights guaranteed in the First Amendment. The district court granted summary judgment for the Government (D). The decision was reversed by the federal court of appeals, and the Government (D) appealed.
+
+Issue
+Does the Child Pornography Prevention Act (CPPA) of 1996 cut down freedom of speech, by preventing speech which is neither obscene nor child pornography, and does it so violate the constitution?
+
+Held
+(Kennedy, J.) Yes. The CPPA violates the right to free speech and is therefore unconstitutional, insofar as it holds speech which is neither obscene nor child pornography to be proscribed under law. When the child pornography does not show an actual child, the government’s interest in preventing harm to the children involved in the production of child pornography cannot be said to be served by the application of the Act. In such a case, the CPPA goes beyond the Supreme Court’s decision making a distinction between child pornography and other forms of sexually explicit speech. The Act reaches beyond obscenity to include all depictions of minors or even the appearance of minors engaged in what would appear to be sexual acts, from Hollywood film (filmed without the actual use of children) to Renaissance paintings, regardless of whether the production process used children to obtain the images. Similarly the Act cracks down on all such depictions irrespective of context, whether they are educational or not, as in a psychology manual or in a documentary movie meant to impress viewers with the negative impact of child abuse. The Court held the CPPA prohibitions to be too broad and violatory of the constitutional freedoms. The judgment was reversed.
+
+Dissent
+(O’Connor, J.) The CPPA ought not to have banned pornography made using youthful-looking adults but the ban on child pornography made using virtual means was justified. A statute should be declared unconstitutional on account of over-broad provisions only as an extreme remedy in last-resort circumstances.
+
+Concurrence
+(Thomas, J.) If technology makes it possible to get away with child pornography under existing laws on the grounds that the images acted against are not those of real children, the government has the right to enact new laws which includes the facts of virtual technology aiding child pornography as an affirmative defense or another restriction to cover this or some other vital aspect of the matter.
+
+Discussion
+In this case, the Court found it important enough to note that the CPPA made it possible to prosecute a film for violation of child pornography statutes even if the film contained no footage of minors engaged in sexually explicit scenes, but if the title or the trailers misleadingly conveyed this impression. This means that the issue of child pornography was now dependent on how the speech under debate was presented, rather than the matter of the depiction itself.
+

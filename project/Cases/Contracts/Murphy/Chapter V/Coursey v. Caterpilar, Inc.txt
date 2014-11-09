@@ -1,0 +1,21 @@
+Citation
+22 Ill.64 F.3d 662 (6th Cir. 1995)
+
+Brief Fact Summary
+Floyd E. Coursey and Michael B. Coursey (Plaintiffs) brought this action against Caterpillar, Inc. (Defendant) for breach of warranty. Plaintiffs appeal from a judgment of the district court granting Defendant’s Motion for Summary Judgment.
+
+Synopsis of Rule of Law
+In order for a disclaimer of consequential damages to be valid and effective, it must be both conspicuous and conscionable.
+
+Facts
+Plaintiffs purchased a new Peterbilt truck, which had an engine made by the Defendant. It was shipped from Defendant to Peterbilt. Peterbilt subsequently installed the engine in the tractor. The engine had an operations manual and a warranty, which was placed in the tractor’s glove compartment and was there when Plaintiffs purchased the truck. Plaintiff testified that the manual and warranty were in the truck and that he had looked over them. The warranty contained a section, which explained that the Defendant would provide new or repaired parts and the labor hours to fix the product. The limitations section of the warranty stated that this warranty was in lieu of any other warranties express or implied, including the warranty of merchantability or fitness for a particular purpose. Further, Defendant was not responsible for incidental or consequential damages. After Plaintiffs’ purchased the engine and its cooling system malfunctioned. Defendant’s agent attempted to repair at
+
+Issue
+Whether the disclaimer of consequential damages was conspicuous and unconscionable?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+Michigan Compiled Laws Annotated Section 440.1201 defined conspicuous as a term that is “so written that a reasonable person against whom it is to operate ought to have noticed it.” The statute explained further that a printed heading in capitals is conspicuous and language in the body is conspicuous if it is larger or contrasting type of color. Michigan Comp. Laws Ann. Section 440.2719 states that consequential damages may be excluded or limited unless it is unconscionable to do so. It is per se unconscionable if the consequential damages limitations affects a consumer good, but is not where the goods are commercial.
+

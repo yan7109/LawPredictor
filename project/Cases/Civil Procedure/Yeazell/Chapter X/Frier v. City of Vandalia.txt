@@ -1,0 +1,18 @@
+Citation
+770 F.2d 699, 1985 U.S. App. 22639
+
+Brief Fact Summary
+The Plaintiff, Charles Frier (Plaintiff), had his cars towed without being issued a ticket or given a hearing. He first filed suit in state court seeking replevin. He later filed suit in federal court alleging a Due Process violation.  <br/><br/><span class='heading'>Synopsis of Rule of Law.</span> One suit precludes a second where the parties and the cause of action are based upon a common core of operative facts.
+
+Facts
+When Plaintiff parked one of his cars on a narrow street located in the Defendant, City of Vandalia (Defendant), which forced others to drive on someone else’s lawn to get around Plaintiff’s car, the police left two notes at Plaintiff’s house asking him to move the car. The police then towed the car back to a local garage and left a note for Plaintiff, telling him where he could find the car. The officer did not issue a citation for illegal parking.  Plaintiff refused to pay the ten-dollar fee the garage wanted. Plaintiff also refused to keep his cars out of the street. The police had four of Plaintiff’s cars towed to the garage. Instead of paying the garage, Plaintiff filed suits in the courts of Illinois seeking replevin. Each suit named Defendant and the garage that towed the car.  After losing in state court, Plaintiff turned to federal court. His complaint alleged that Defendant violated the Due Process Clause of the Fourteenth Amendment of the United States Constitution (Constitution) by not granting him a hearing before or after it took his cars. The district court dismissed the complaint for failure to state a claim on which relief may be granted.
+
+Issue
+Whether a litigant’s state court traffic law claim precludes a second suit alleging a Due Process violation.
+
+Held
+No. The court held that Plaintiff’s substantive traffic law claim does not preclude this subsequent procedural Due Process claim.   A month is a long wait for a hearing when the subject is an automobile. The automobile is property within the meaning of the Due Process Clause and the city must therefore furnish appropriate process.  Defendant is entitled to prevail on the ground of claim preclusion, even though the district court did not decide the case on that ground. One suit precludes a second where the parties and the cause of action are identical. Causes of action are identical where the evidence necessary to sustain a second verdict would sustain the first, i.e. where the causes of action are based upon a common core of operative facts.    Concurrence. Senior Circuit Judge Swygert concurred in the result. His concurrence differed to the extent that he would have decided the case on an analysis of whether Plaintiff’s Due Process claim would have survived a motion for summary judgment.
+
+Discussion
+In reaching its decision, the court relied on its belief that two of the goals of clam preclusion are efficiency and judicial economy. It held that claim preclusion is designed to impel parties to consolidate all closely related matters into one suit. Thus, when the facts and issues of all theories of liability are closely related, one case is enough. However, here, because Plaintiff’s procedural due process claim required an entirely different showing than his suit to recover his cars from the garage without paying a fee, the court held that Plaintiff’s second suit was not barred because of claim preclusion.
+

@@ -1,0 +1,21 @@
+Citation
+308 U.S. 295 (1939)
+
+Brief Fact Summary
+Litton (P) the sole shareholder and the head of a bankrupt corporation filed a wage claim while in bankruptcy.
+
+Synopsis of Rule of Law
+If a claimant in bankruptcy is shown to have dominated over a corporation, his claim may be diminished or dismissed if it is shown that enforcing the claim would create unfair consequences for other creditors.
+
+Facts
+Litton (P), the sole owner of a small corporation that became insolvent brought suit and received a judgment against it for “wage” claims. When it was declared bankrupt, Litton (P) made a priority claim for wages with the trustee, Pepper (D). Pepper (D) dismissed the claim and Litton brought suit in the district court. The court found that Litton was defrauding creditors and dismissed the claim under its broad equity powers. The court found that Litton’s (P) total control of the corporation resulted in unfair conduct. In addition, enforcing his claim would be unfair to the other creditors.
+
+Issue
+If a claimant in bankruptcy is shown to have dominated over a corporation, will his claim be diminished or dismissed if it is shown that enforcing the claim would create unfair consequences for other creditors?
+
+Held
+(Douglas, J.) Yes. If a claimant in bankruptcy is shown to have dominated over a corporation, his claim may be diminished or dismissed if it is shown that enforcing the claim would create unfair consequences for other creditors. In a bankruptcy proceeding, if the creditors are innocent, they must be protected. Parties who own and control the corporation that file a claim must have that claim thoroughly examined. Unfairness and fraud will diminish or dismiss the claim. In a one-man or family corporation, such claims would normally be diminished. Here the court found that Litton (P) was trying to defraud creditors. His claim being reduced to judgment is irrelevant. The bankruptcy court has the broad equity power to dismiss unfair claims to creditors. The district court’s decision is affirmed and the court of appeals decision reversed.
+
+Discussion
+Self explanatory here is the fact that wage claims usually take precedence over creditor claims during bankruptcy. By filing a wage claim, the plaintiff here tried to put himself first to be paid before the creditors, this is also known as “Deep Rock” doctrine. The doctrine applies to corporations dominated by their stockholder or stockholders. Southern Pacific Company v. Bogert,  250 U.S. 483 (1919).
+

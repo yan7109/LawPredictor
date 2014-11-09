@@ -1,0 +1,21 @@
+Citation
+22 Ill.484 U.S. 174, 108 S. Ct. 513, 98 L. Ed. 2d 512 (1988)
+
+Brief Fact Summary
+The petitioner-father sought to have the federal district court decide which of two conflicting child custody determinations is valid, and the district court refused to exercise jurisdiction. This appeal ensued.
+
+Synopsis of Rule of Law
+The PKPA requires that a state give full faith and credit to a sister state’s child custody determination, provided it is rendered in compliance with the provisions of the PKPA. However, there is no implied federal cause of action to determine which of two conflicting state child custody determinations is valid.
+
+Facts
+The petitioner-father and respondent-mother became divorced in California, and a California court issued a child custody determination awarding joint custody to the parents. When the respondent decided to move to Louisiana, the California court entered an order granting full custody to the respondent pending the submission of a report from the court investigator, after which the court would make a more studied custody determination. Shortly after the respondent and the child moved to Louisiana, the respondent filed a petition in Louisiana state court for enforcement of the California custody decree. The Louisiana court granted the petition and awarded sole custody to the respondent. Two months later, the California court, upon receiving and reviewing the investigator’s report, entered an order awarding sole custody to the petitioner. The petitioner then brought this action in federal court requesting a decree invalidating the Louisiana order and upholding the California decree
+
+Issue
+Does the federal Parental Kidnapping Prevention Act (PKPA) furnish an implied cause of action in federal court to determine which of two conflicting state custody decisions is valid?
+
+Held
+No. The PKPA is an extension of the Full Faith and Credit Clause to custody determinations. In other words, the PKPA requires that a state court enforce a child custody determination of another state if that determination is consistent with the PKPA. In short, a determination is consistent with the PKPA if the issuing state has jurisdiction under local law and one of five conditions, not relevant to the rule of this case, is met. The PKPA only imposes a federal duty on a state court to give full faith and credit to a sister state’s custody determination. However, there is no implied federal cause of action to determine which of two conflicting state custody decrees is valid. Thus, the district court did not err in refusing to exercise jurisdiction over this cause of action.
+
+Discussion
+The PKPA does not authorize a federal cause of action but rather acts to impose a federal duty on state courts to enforce their sister states’ child custody determinations.
+

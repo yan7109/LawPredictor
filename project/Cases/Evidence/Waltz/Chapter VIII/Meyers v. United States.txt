@@ -1,0 +1,15 @@
+Citation
+178 L. Ed. 2d 436 2010 U.S
+
+Brief Fact Summary
+The defendant, Meyers (the “defendant”), convicted of three counts of suborning perjury regarding his testimony to a Senate subcommittee, challenged his conviction by arguing the trial court used evidence that should have been excluded by the best evidence rule.<span class="heading">Synopsis of Rule of Law.</span> In federal courts, the best evidence rule is limited to cases where the contents of a writing are to be proved; such writings are not the only evidence to be used in determining perjury.
+
+Facts
+The defendant was convicted of suborning perjury when he testified before a Senate subcommittee investigating fraud and war profiteering.  A key question in the defendant’s conviction was what exactly he and his co-defendant testified to during the subcommittee hearings.  The defendant, through counsel, argued that the best evidence rule required that only the transcript of the subcommittee hearing be used to determine what was said during the hearing.  Because the trial court used witness testimony and shorthand notes from a witness present at the hearing, the defendant argued his conviction should be overturned.<span class="heading">Issue.</span> Does the best evidence rule require official transcripts to be the only source of evidence as to what a person said during a trial or hearing?
+
+Held
+No.  In federal courts, the best evidence rule is limited to cases where the contents of a writing are to be proved.Perjurious statements may be proved by others who heard them, or by notes recorded in shorthand, or by other means and not exclusively by an official transcript.<span class="heading">Dissent.</span> The dissent in this case does not argue whether the best evidence rule was used properly.  Rather, the dissent argues that (1) the evidence of the co-defendant’s perjury was presented too prejudicially to the jury and (2) that the proof at trial did not support the charges made in the underlying indictment.<br />
+
+Discussion
+Official transcripts are made of criminal proceedings and of sworn testimony before Congress, which is what the defendant and his co-defendant participated in.  These transcripts were the basis for their later perjury convictions. The defendant argued that, because what he and his co-defendant said during the Senate hearing was crucial to determining his guilt, the best evidence rule required only the official transcript could be used to determine what he and his co-defendant said.  The appellate court ruled that other methods of recording what was said
+

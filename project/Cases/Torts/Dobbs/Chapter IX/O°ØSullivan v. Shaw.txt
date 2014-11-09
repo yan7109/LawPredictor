@@ -1,0 +1,15 @@
+Citation
+431 Mass. 201, 726 N.E.2d 95
+
+Brief Fact Summary
+In an action for negligence, the Superior Court, Essex (Massachusetts) granted Defendants’ Motion for Summary Judgment. The court reasoned that diving into the shallow end of Defendants’ pool presented an open and obvious danger that was known to the Plaintiff, therefore Defendants did not owe a duty of care to Plaintiff. Plaintiff appealed.<span class="heading">Synopsis of Rule of Law.</span> A landowner’s duty to protect lawful visitors against dangerous conditions on his property ordinarily does not extend to dangers that would be obvious to persons of average intelligence.
+
+Facts
+Plaintiff brought an action to recover damages for injuries incurred after he dove headfirst into the shallow end of the Defendant’s swimming pool. He contended that Defendants had a duty to warn visitors of the danger of diving into the pool. The Plaintiff suffered injuries to his neck and back after diving into the shallow end of the pool. He struck the bottom of the pool at an odd angle and sustained a fracture to the cervical vertebrae resulting in temporary paralysis. The Superior Court granted Defendants’ Motion for Summary Judgment. Plaintiff appealed, arguing that the Massachusetts statute, which expressly abolished the defense of assumption of risk, implicitly abolished the open and obvious danger defense.<span class="heading">Issue.</span> Did Defendants owe a duty to Plaintiff to warn him of the danger of diving into the shallow end of Defendants’ swimming pool?
+
+Held
+The appellate court affirmed the lower court’s judgment, concluding that the statute in question did not relieve Plaintiff of the burden of proving Defendant owed him a duty of care that superceded the “open and obvious danger” rule. The standard of care owed by a defendant presumes that a plaintiff is required to exercise reasonable care for his own safety.
+
+Discussion
+Along with contributory negligence, the court explains, assumption of risk is traditionally the second complete defense to a negligence claim. The assumption of risk defense contains three basic elements. A plaintiff must 1) know a particular risk; and 2) voluntarily; 3) assume the risk. In seeking to avoid the confusion and potential for arbitrariness for juries, many jurisdictions have opted for a more generalized reasonable person standard with respect to the degree of reasonable care a land possessor must exercise with regard to safety of those entering upon his or her property. This approach presumes a duty of reasonable care is owed to any land entrant regardless of his or her status.
+

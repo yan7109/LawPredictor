@@ -1,0 +1,21 @@
+Citation
+4 Johns. 84 (N.Y. Sup. Ct. 1809)
+
+Brief Fact Summary
+Plaintiffs filed an action for nonfeasance. Judgment was granted to the Plaintiffs. Defendant appealed.
+
+Synopsis of Rule of Law
+One who takes on a responsibility gratuitously is not responsible for consequences if he fails to act; he is only responsible when he attempts to act and performs incorrectly.
+
+Facts
+Plaintiffs brought an action against Defendant for failure in his promise to insure a boat that they jointly and equally owned. Prior to a planned sailing from New York to North Carolina, Defendant promised Plaintiffs that he would insure the vessel. He failed to do so, and the vessel was wrecked near the Carolina coast. Plaintiffs brought suit for “nonfeasance” alleging that Defendant was liable for having failed to insure the vessel.
+
+Issue
+In tort law, can a defendant be held liable for failing to act when he has promised to do so gratuitously?
+
+Held
+No. The court held that only when a party engages in a course of action on behalf of another, and does so incorrectly is he held liable.
+
+Discussion
+The primary distinction is between the laws of torts and contracts. At issue was whether there existed grounds for an action in tort. The court asserts that only when one begins a job and he does so incorrectly can damages be assessed. He would be responsible for a misfeasance, but not for a nonfeasance. The court further stated that one cannot sue in tort for broken promises. As the court notes, “[t]here are many rights of moral obligation which civil laws do not enforce, and are, therefore, left to the conscience of the individual, as rights of imperfect obligation.”
+

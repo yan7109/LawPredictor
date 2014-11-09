@@ -1,0 +1,21 @@
+Citation
+188 Mich. App. 461, 470 N.W.2d 447, 1991 Mich. App. 157.
+
+Brief Fact Summary
+The prosecution appeals a lower court order dismissing a charge against the Defendant, Genoa (Defendant), for attempted possession with intent to deliver 650 grams or more of cocaine. The district court judge dismissed the charge against the Defendant on the ground that because the police agent never intended to commit the contemplated crime and never completed that crime, the Defendant, though he believed he was giving money for an illegal enterprise, financed nothing.
+
+Synopsis of Rule of Law
+While conviction of the principal is not necessary to a conviction of an accessory, the prosecution must prove that the underlying crime was committed by someone and that the Defendant either committed or aided and abetted the commission of that crime.
+
+Facts
+The charge against the Defendant stemmed from a transaction on June 6, 1988 between the Defendant and a State of Michigan undercover agent. The undercover agent of the State Police met with the Defendant at a hotel and proposed that if the Defendant gave him $10,000 toward the purchase of cocaine, for which the agent would sell, that the agent would repay the Defendant $10,000, plus $3,500 in profits and a client list. After the Defendant accepted the offer and gave the money to the agent, the agent notified the Michigan State Police and the Defendant was subsequently arrested.
+
+Issue
+Can attempting to aid constitute a crime in itself?
+
+Held
+The underlying crime in this case was never committed by anyone. The absence of this element makes it impossible for the Defendant to have committed any offense.
+
+Discussion
+The Court of Appeals of Michigan noted a multi-part test to determine whether someone aided and abetted the commission of a crime. Those elements are: (1) the underlying crime was committed by either the defendant or some other person; (2) the defendant performed acts or gave encouragement which aided and assisted the commission of the crime and (3) the defendant intended the commission of the crime or had knowledge that the principal intended its commission at the time of giving aid or encouragement. In Genoa, none of these three elements are present. Today, Genoa might have an affirmative defense based upon entrapment. Entrapment is generally proved if a government agent induces an innocent person to violate the law. An innocent person is one who is not predisposed to commit the type of offense charged. Entrapment only applies where the entrapper is a governmental party.
+

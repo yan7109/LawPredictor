@@ -1,0 +1,21 @@
+Citation
+22 Ill.309 Ky. 143, 216 S.W.2d 930 (1949)
+
+Brief Fact Summary
+Plaintiff entered into a contract with the Defendant to buy land. The Defendant offered to consummate the deal by offering the title to the Plaintiff with a certified check to cover a lien. Defendant disputed the existence of the lien. Plaintiff refused to accept the title on those terms and sued Defendant.
+
+Synopsis of Rule of Law
+If the sale fails by reason of a defect in the vendor’s title and the vendor is guilty of no bad faith or fraud, the measure of the vendee’s damage is substantially the same as in the case of an executed sale; that is, the vendee may recover any consideration he has paid, with interest, and any legitimate expense incurred by him, but he can recover nothing for the loss of his bargain.
+
+Facts
+Plaintiff entered into a contract with the Defendant to buy land at $65.00 per acre, but the title examination revealed that the Defendant owed a lien in the amount of $2,138.00 to Gordon. The Defendant offered to consummate the deal by offering the title to the Plaintiff along with a certified check for $3,000.00 to cover the lien. Defendant stated that he would institute an action against Gordon disputing the validity of the lien. The Plaintiff refused to accept the title on those terms and then sued after finding out that, according to the Plaintiff, the land was worth $10.00 per acre more than the contract price. The lower court found that the land was only worth $2.00 per acre more than the contract price and entered judgment for Plaintiff on that amount plus additional incidental damages suffered by Plaintiff as the result of Defendant’s breach. Defendant appealed.
+
+Issue
+What are the rights of the purchaser of real estate under an executory contract when the sale fails by reason of a defect in title, or what is the proper measure of damages?
+
+Held
+The Plaintiff is not entitled to damages resulting from the loss of his bargain when there was no fraud on the part of the Defendant. Reversed.
+
+Discussion
+In this case the absence of fraud is easily spotted. The vendor and the vendee negotiated about how to handle the lien. The lien was known to all parties to the transaction. Consider however, that instead of paying the lien, the Defendant apparently would have rather paid more money to the Plaintiff. Why could the Plaintiff not satisfy the lien by paying Gordon and retain the surplus?
+

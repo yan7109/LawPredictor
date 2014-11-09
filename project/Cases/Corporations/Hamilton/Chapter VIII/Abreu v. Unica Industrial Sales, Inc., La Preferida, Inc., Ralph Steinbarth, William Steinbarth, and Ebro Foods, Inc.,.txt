@@ -1,0 +1,21 @@
+Citation
+224 Ill. App. 3d 439, 166 Ill. Dec. 703, 586 N.E.2d 661 (App. Ct. 1991)
+
+Brief Fact Summary
+Plaintiff Shareholder brings a derivative suit against Defendant Directors Ralph and William Steinbarth for misappropriation of Plaintiff’s corporation, Ebro Food Inc.’s, trade secrets to benefit Defendant Directors.
+
+Synopsis of Rule of Law
+The trial court has the discretion to appoint a provisional director that will serve the best interest of the corporation, to oversee such an appointment, to award attorney fees if a party acts in bad faith during litigation, to issue a narrowly tailored injunction to protect the corporation’s interest and to award appropriate damages.
+
+Facts
+Plaintiff is the president and 50% shareholder of Ebro Foods.  Defendant Directors are the only directors of Defendant La Preferida, Inc., the other 50% shareholder in Ebro Foods and a company that distributes Ebro Food’s products.  Plaintiff brings a derivative suit against Defendant Directors for breaching their fiduciary obligations to Ebro Foods.  Plaintiff alleges that Defendant Directors attempted to procure trade secrets so that products utilizing them could be produced without going through Ebro Foods.  The trial court held that Defendant Directors engaged in self dealing transactions and usurped the corporate opportunity.  It awarded Plaintiff injunctive and monetary relief, attorney fees, and appointed Silvio Vega, plaintiff’s son-in-law, as a provisional director to oversee the new board of directors and break any director deadlock.  Defendants appeal.
+
+Issue
+Whether section 12.55(b) of the Illinois Business Corporation Act (IBCA) implicitly requires the appointment of an impartial director and if so, did Vega’s appointment violate this section? Assuming the appointment was appropriate, whether the trial court erred in refusing to remove Vega for allegedly failing to carry out the trial court’s instructions and follow statutory guidelines? Whether the trial court properly awarded attorney fees to Plaintiff separate from the damages award? Whether the trial court’s injunction protecting the company’s product formulas is too broad? Whether the trial court used the correct standard to award damages?
+
+Held
+No.  There is no strict impartiality requirement under section 12.55(b).  The trial court need only consider the corporation’s best interest.  Vega’s appointment as provisional director was in the corporation’s best interest because his experience, knowledge and involvement in the company made him the best candidate.  Furthermore, the appointment did not oppress Defendant Director’s rights to vote, manage or participate in Ebro Food’s affairs. No.  The trial court did not err in finding Vega’s oversights insufficient to warrant removal.  However, the trial court erred when it upheld Vega’s unilateral appointment of a new auditor for Ebro and the board of director’s decision to approve attorney fees because these actions are inconsistent with the duties of a provisional director. No.  The award of attorney fees to plaintiff were improper because the trial court did not find that Defendants acted “arbitrarily, vexatiously or not in good faith” during litigation as required under section 12.55(h) of IBCA. Yes.  Although the injunction itself is proper, the language of the injunction is overbroad because it can be interpreted to preclude any person from legally reverse engineering the product using publicly disseminated information.  Thus, the court remands this issue back to the trial court to delete the following language from the injunction:  “or from disseminating any data from which the formula may be ascertained.” Yes.  Because the parties failed to raise an objection to the “gross profit standard” used by the trial court, the parties cannot now assert a new “net profit” standard to determine damages.
+
+Discussion
+In a derivative suit, the trial court will consider the interests of the corporation first and foremost to formulate its decisions regarding issues such as appointing a provisional director, issuing an injunction and awarding damages.
+

@@ -1,0 +1,18 @@
+Brief Fact Summary
+Plaintiff corporation, VGS, Inc., brought this action to validate its merger with Virtual Geosatellite LLC (”LLC”) after two of the three managers of the LLC, without notifying the third majority shareholder, voted for the merger.
+
+Synopsis of Rule of Law
+Minority shareholders owe the majority shareholders a duty of loyalty to inform them in advance of any plans for a merger or the structure of a merger.
+
+Facts
+Defendant, David Castiel, formed LLC to pursue an FCC license to build and operate satellites.  The members of LLC included Virtual Geosatellite Holdings, Inc. (”Holdings”) which controlled 660 units of LLC; Ellipso, Inc. (”Ellipso”) which controlled 120 units; and Sahagen Satellite Technology Group LLC (”Sahagen Satellite”) which controlled 260 units.  Castiel had controlling ownership of Holdings and Ellipso, and Peter Sahagan controlled Sahagan Satellite.  Castiel was able to appoint two of the three managers (Castiel and Tom Quinn) and Sahagan was the third manager.  Sahagan and others associated with LLC believed that Castiel’s management of LLC was subpar.  Sahagan was able to convince Quinn to vote with him to merge LLC into VGS, a move which would change Castiel’s majority status into a minority status.  Because Castiel would remove Quinn and make sure his majority standing remained if he knew of the merger vote, Quinn and Sahagan voted without Castiel’s knowledge.  Af
+
+Issue
+The issue is whether a clandestine vote between Sahagan and Quinn to merge LLC into VGS without notifying the controlling shareholder renders the merger invalid.
+
+Held
+The court held that the merger is invalid.  Although Plaintiff is correct that there was only a requirement of the majority of LLC managers to vote for the merger, Sahagan and Quinn violated their fiduciary duty to Castiel by not informing him of the vote.  A minority interest has a duty of loyalty to the majority interest, even if it means that the majority interest will thwart the vote by removing Quinn.  The fact that Castiel may have been a poor performer does not exempt the other members of their duty to inform him in advance of the meeting.
+
+Discussion
+The court treats the majority shareholder’s incompetence as a separate issue from the minority shareholder’s duty of loyalty regarding board meeting notifications.
+

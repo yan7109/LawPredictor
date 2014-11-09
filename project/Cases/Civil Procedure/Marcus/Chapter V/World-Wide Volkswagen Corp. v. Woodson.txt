@@ -1,0 +1,21 @@
+Citation
+444 U.S. 286, 100 S. Ct. 559, 100 S. Ct. 580, 62 L. Ed. 2d 490 (1980)
+
+Brief Fact Summary
+Harry and Kay Robinson (Respondents) brought an action in Oklahoma against the World-Wide Volkswagen Corporation (World-Wide) and Seaway under a product liability theory.
+
+Synopsis of Rule of Law
+Under the minimum contacts analysis provided by International Shoe, foreseeability, without notice and purposeful availment, is not a sufficient benchmark for personal jurisdiction.
+
+Facts
+The Respondents purchased a new Audi from Seaway Volkswagen in Massena, New York, in 1976. They moved from New York, where they had resided at the time of purchasing their automobile, to Arizona. As they traveled through Oklahoma, another vehicle struck the Respondents’ car in the rear, causing a fire, which severely burned Kay Robinson and her two children. The Respondents subsequently brought a product liability action in the District Court for Creek County, Oklahoma against Audi, World-Wide Volkswagen and Seaway (Petitioners). World-Wide is incorporated in New York and has its principal office there. Seaway is a retail distributor for World-Wide, which is incorporated in New York, and has its principal office there. Neither World-Wide nor Seaway sold any vehicles in Oklahoma.
+
+Issue
+Whether the Due Process Clause of the Fourteenth Amendment is violated when an Oklahoma court exercises in personam jurisdiction over a nonresident automobile retailer and its wholesale distributor in a products liability action, when the Defendant’s only connection with Oklahoma is the fact that an automobile sold in New York to New York residents became involved in an accident in Oklahoma?
+
+Held
+An action against both Petitioners cannot be maintained in Oklahoma. Petitioners do not conduct business in Oklahoma, and they do not avail themselves of the privileges and benefits of Oklahoma law. Also, neither Petitioner solicits any business within the state. Any connection between Petitioners’ product and the forum state was merely an isolated occurrence, due to the unilateral activity of the Respondents.  <br/><br/><span class='heading'>Dissent.</span> Dissents were offered by Justice Marshall and Justice Brennan.   Justice Marshall: Certain industries, such as the automotive industry, do not lend themselves to being structures as to avoid suit in foreign jurisdictions.  Justice Brennan: The majority accepts the fact that states may exercise jurisdiction over a distributor that indirectly delivers its products into the stream of commerce knowing that the goods will be used in the forum state. Justice Brennan does not understand how the majority differentiates    that situation from this case. In this case, Respondents used the automobile as it was meant to be used, and drove it out of the state.
+
+Discussion
+This case highlights the fact that securing personal jurisdiction over any defendant will be difficult when there are no facts pointing to an effort by the Defendant to purposefully avail itself of the benefits of the laws of the forum state.
+

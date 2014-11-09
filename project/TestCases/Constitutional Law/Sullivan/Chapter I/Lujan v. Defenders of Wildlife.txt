@@ -1,0 +1,24 @@
+Citation
+504 U.S. 555, 112 S. Ct. 2130, 119 L. Ed. 2d 351,1992 U.S.
+
+Brief Fact Summary
+Plaintiffs brought suit requesting an injunction requiring the Secretary of the Interior (Secretary) to reinstate an initial interpretation of the Endangered Species Act of 1973 (ESA). The initial interpretation applied the Act to actions taken in foreign nations. The Secretary claimed that the Plaintiffs lacked standing.
+
+Synopsis of Rule of Law
+Congress cannot create standing when an injury in fact, a causal connection and redressability are not present.
+
+Facts
+The ESA was promulgated to protect endangered and threatened animals. Under the authority of the ESA, the Secretary declared that the ESA applied to actions outside of the United States. Upon further review, the Secretary reinterpreted the ESA to be applicable to actions only within the United States or the high seas. The Plaintiffs, organizations dedicated to wildlife conservation, filed an action against the Secretary seeking an injunction requiring the Secretary to reinstate the initial interpretation of the ESA. The Secretary moved for summary judgment due to a lack of standing and the Plaintiffs moved for summary judgment on the merits. The District Court denied the Secretary’s motion and affirmed the Plaintiffs motion. The Court of Appeals Affirmed the District Court.
+
+Issue
+Plaintiffs have standing to challenge the Secretary’s interpretation of the ESA under either traditional rules of standing or the individual cause of action created within the ESA?
+
+Held
+No. Judgment reversed.
+
+Dissent
+The Plaintiffs have raised genuine issues of fact as to both injury and redressability. Additionally, the court’s enforcement of Congressional Acts through the citizen-suit provision do not violate separation of powers
+
+Discussion
+Congress’s citizen-suit provision in the ESA was unconstitutional because it created a law where federal courts would be forced to recognize suits where no real world harm had occurred.
+

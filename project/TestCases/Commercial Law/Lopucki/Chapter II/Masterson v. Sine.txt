@@ -1,0 +1,24 @@
+Citation
+68 Cal. 2d 222, 436 P.2d 561, 65 Cal. Rptr. 545,  1968 Cal. 157
+
+Brief Fact Summary
+Dallas Masterson and his wife (Plaintiffs) brought an action for declaratory relief to establish their right to enforce a contract option against Medora and Lu Sine (Defendants). Defendants appeal from a judgment in favor of the Plaintiffs.
+
+Synopsis of Rule of Law
+When only part of an agreement is integrated parol evidence may be used to prove elements of the agreement not in the writing.
+
+Facts
+Plaintiffs owned a ranch as tenants in common which they conveyed to Defendants by a grant deed reserving the right to purchase the property for the same consideration as being paid plus depreciation value of any improvements grantee made. Plaintiffs went bankrupt and his trustee in bankruptcy and his wife brought this declaratory relief action to establish their right to enforce the option. The case was tried without a jury. Over the Defendants’ objection the court admitted extrinsic evidence that by the same consideration as being paid both the grantors and grantee meant the sum of $50,000.00 and by depreciation value they meant the depreciation value of improvements to be computed by deducting from the total amount of any capital expenditures made by Defendants the amount of depreciation allowable under United States income tax regulations as the time of exercising the option. The court also precluded that the parol evidence rule precluded admission of extrinsic evidence of
+
+Issue
+Whether the parties intended their writing to serve as the exclusive embodiment of their agreement?
+
+Held
+No. Judgment reversed.
+
+Dissent
+The majority opinion undermined the parol evidence rule, rendered suspect instruments of conveyance absolute on their face, materially lessened the reliance which might be placed upon written instruments, and opened the door to new technique of defrauding creditors.
+
+Discussion
+The parol evidence rule applies only to documents, which are integrations, final expressions of the agreement. A written document does not always represent a deal that the parties consider final. If the parties do intend a document to represent the final expression of their agreement, the document is said to be an integration of their agreement. A partial integration occurs when the document is not intended by the parties to include all the details of their agreement.
+

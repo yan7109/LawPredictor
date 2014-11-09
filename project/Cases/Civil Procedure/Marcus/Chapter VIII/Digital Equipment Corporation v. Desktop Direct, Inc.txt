@@ -1,0 +1,21 @@
+Citation
+511 U.S. 863, 114 S. Ct. 1992, 128 L. Ed. 2d 842, 1994 U.S.
+
+Brief Fact Summary
+Desktop Direct, Inc. (Respondent) sells computers and like equipment under the trade name “Desktop Direct.” Digital Equipment Corporation (Petitioner) is engaged in a similar business and in late 1991 began using that trade name to market a new service it called “Desktop Direct from Digital.” In response, Respondent filed an action with the United States District Court for the District of Utah, charging Petitioner with the unlawful use of the Desktop Direct name.
+
+Synopsis of Rule of Law
+A refusal to enforce a settlement agreement claimed to shelter a party from suit altogether does not supply the basis for immediate appeal under Section 1291.
+
+Facts
+Confidential settlement of the matter was reached on March 25, 1992. That same day, Respondent filed a Notice of Dismissal in the district court. Several months later, Respondent moved to vacate the dismissal and rescind the settlement agreement, alleging misrepresentation of material facts during settlement negotiations. The district court granted the motion and Respondent appealed. The United States Court of Appeals for the Tenth Circuit dismissed the appeal for lack of jurisdiction, holding that the district court order was not appealable under Section 1291 because it neither ended the litigation on the merits nor fell within the long recognized collateral order exception to the final judgment requirement.
+
+Issue
+Whether an order vacating a dismissal predicated on the parties’ settlement agreement is final as a collateral order even without a district court’s resolution of the underlying cause of action?
+
+Held
+An order denying effect to a settlement agreement does not come within the narrow ambit of collateral orders. The Supreme Court of the United States affirmed the decision of the court of appeals.
+
+Discussion
+The collateral order doctrine entitles a party to appeal from a narrow class of decisions that do not terminate the litigation, but must, in the interest of achieving a healthy legal system, nonetheless be treated as final. The conditions for collateral order appeal are stringent to satisfy. Respondent’s contention that it holds a “right not to stand trial” is insufficient to satisfy the scrutiny to which Section 1291 claims must be subjected. The court’s rationale for this decision is based upon the nature of the argument. In the case before the court, the rights at issue are privately conferred rights as opposed to those originating in the Constitution of the United States or in statute.
+

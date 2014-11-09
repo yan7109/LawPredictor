@@ -1,0 +1,21 @@
+Citation
+978 F. Supp. 1342 (D. Nev. 1997)
+
+Brief Fact Summary
+Plaintiffs, Hilton Hotels Corp. et al., sought to enjoin Defendant, ITT Corp., from enacting a “Comprehensive Plan” that was designed to frustrate Plaintiffs’ hostile takeover.
+
+Synopsis of Rule of Law
+A plan by a target corporation’s directors that purposefully disenfranchises the shareholders’ voting of the directors in lieu of a takeover is invalid.
+
+Facts
+Plaintiff simultaneously put in a tender offer of $55 per share for Defendant’s stock while announcing a proxy contest at the next shareholders meeting.  Defendant responded by refusing the offer, selling assets, and opposed the takeover in front of state gaming regulatory bodies.  Defendant also announced a “Comprehensive Plan” that split Defendant into three entities, with 94% of the assets in the ITT Destinations entity.  Defendant’s board also voted in a staggered board with three classes, wherein each class would be elected every three years, and an 80% majority would be required to remove a director without cause.  An 80% majority would also be required to remove the 80% majority requirement.  Another part of the plan was a poison pill that would force Plaintiff to pay 90% of a $1.4 billion tax liability.  This was all done prior to the shareholder’s meeting, and therefore shareholders did not vote on these changes.  Plaintiffs increased their offer to $70 per share and
+
+Issue
+The issue is whether Defendant, under a hostile takeover bid, can entrench itself by defensive measures that are not voted in by shareholders.
+
+Held
+The United States District Court for the District of Nevada, in the absence of relevant Nevada law, applied Delaware state law and held that the Comprehensive Plan violates the shareholders’ rights to vote on the board of directors, regardless of good faith on the directors’ part, unless the Unocal standard of higher scrutiny is met.  The Unocal standard would require that Defendant demonstrate that the acquiring company will pursue a different corporate policy (Defendant did not demonstrate this here) and requires a good faith reasonable investigation into any perceived threat (Defendant did not even meet with Plaintiff and simply asserted that the offer was too low despite contrary evidence).  The court found that the classified board structure and subsequent voting precluded shareholders and intentionally disenfranchise shareholders prior to a proxy contest.  Although the court looked favorable at the fact that a majority of directors were outside directors, the plan further
+
+Discussion
+The court notes that the business judgment rule exists to insulate the decisions of directors in management issues, but it should not apply when the decision is to adversely affect the rights of shareholders to vote for the board.  There is a heightened scrutiny that clearly was not met in this case.
+

@@ -1,0 +1,27 @@
+Citation
+22 Ill.380 U.S. 400, 85 S. Ct. 1065, 13 L. Ed. 2d 923 (1965)
+
+Brief Fact Summary
+Members of the media sought access to a courtroom during a murder trial.
+
+Synopsis of Rule of Law
+“[T]he right to attend criminal trials is implicit in the guarantees of the First Amendment; without the freedom to attend such trials, which people have exercised for centuries, important aspects of freedom of speech and ‘of the press could be eviscerated.’ ”
+
+Facts
+An individual named Stevenson was indicted for murdering a hotel manager.  He was convicted of second degree murder shortly thereafter.  The Virginia Supreme Court reversed Stevenson’s conviction finding that a bloodstained shirt admitted into evidence that allegedly belonged to Stevenson was inadmissible.  Stevenson was tried again, but that trial ended in a mistrial.  A third trial also ended in a mistrial.  A fourth trial was conducted and the Appellants, Wheeler and McCarthy reporters for Richmond Newspapers, Inc. (the “Appellants”), were in attendance.  The defendant moved for the trial to be closed to the public.  The prosecution did not have an objection to the courtroom being closed, so the trial judge cleared the court room.
+
+Issue
+“[W]hether a criminal trial itself may be closed to the public upon the unopposed request of a defendant, without any demonstration that closure is required to protect the defendant’s superior right to a fair trial, or that some other overriding consideration requires closure[?]”
+
+Held
+The majority first observed “the historical evidence demonstrates conclusively that at the time when our organic laws were adopted, criminal trials both here and in England had long been presumptively open. This is no quirk of history; rather, it has long been recognized as an indispensable attribute of an Anglo-American trial.”  Further, “[t]he early history of open trials in part reflects the widespread acknowledgment, long before there were behavioral scientists, that public trials had significant community therapeutic value.”
+
+Discussion
+This case demonstrates the interaction between the all forms of the press and criminal trial.
+
+Facts
+The Petitioner, Pointer (the “Petitioner”) and another individual, were arrested in Texas for robbery.  A preliminary hearing was held during which neither the Petitioner nor the other individual had an attorney.  The alleged victim testified about what happened during the robbery and identified the Petitioner as the individual who robbed him.  The Petitioner did not try to cross examine the victim, but the other individual did.  Thereafter, the Petitioner was charged with robbery.  Prior to the trial, the victim moved to California and during the trial the state tried to enter into evidence the victim’s testimony taken during the preliminary hearing.  The Petitioner’s counsel objected to the entry of the transcript from the preliminary conference.  The trial court overruled this objection and various others.  The Texas Court of Criminal Appeals affirmed the District Court’s opinion.
+
+Issue
+“[W]hether the [Fourteenth] Amendment’s guarantee of a defendant’s right ‘to be confronted with the witnesses against him,’ which has been held to include the right to cross-examine those witnesses, is also made applicable to the States by the Fourteenth Amendment[?]”
+

@@ -1,0 +1,21 @@
+Citation
+194 F.3d 72, 338 U.S. App. D.C. 282, 49 ERC 1513 (D.C. Cir. 1999)
+
+Brief Fact Summary
+A waste disposal company sought to prevent the licensing of two other such companies.
+
+Synopsis of Rule of Law
+“[C]ompetitors asserting economic injury do not demonstrate the type of interest necessary under” federal law.
+
+Facts
+Envirocare of Utah was the first commercial facility authorized by the NRC to dispose of radioactive waste from off-site sources. Subsequently, the NRC permitted two other companies to dispose of waste. Envirocare sought review of this decision on grounds of negative impact to economic interest. The NRC denied on the grounds that Envirocare did not have standing.
+
+Issue
+Whether “an agency refuse to grant a hearing to persons who would satisfy the criteria for judicial standing and refuse to allow them to intervene in administrative proceedings.”
+
+Held
+No. While the Court of Appeals for the District of Columbia Circuit acknowledged that Envirocare’s “zone of interest” argument did not sufficiently justify its standing. Moreover, the Court agreed that the NRC is not an “Art. III court,” and so the rules and standards used by such courts does not necessarily apply. The Court also conceded the NRC’s legitimate concerns about the potential burden claims like Envirocare’s would place on the NRC.
+
+Discussion
+“Competitors, though, whose only ‘interest’ is lost business opportunities, could readily burden our adjudicatory process with open-ended allegations de- signed not to advance public health and safety but as a dilatory tactic to interfere with and impose costs upon a competitor.”
+

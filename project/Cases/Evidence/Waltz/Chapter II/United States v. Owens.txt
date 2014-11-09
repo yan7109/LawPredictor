@@ -1,0 +1,24 @@
+Citation
+178 L. Ed. 2d 471
+
+Brief Fact Summary
+John Foster (”Mr. Foster”), a correctional guard, was attacked and beaten. This attack required him to spend one month in the hospital to heal from a head injury and resulted in a severely impaired memory.  The first interview with him was unsuccessful, but a subsequent interview found him much improved and able to pick respondent as his attacker out of an array of photographs.
+
+Synopsis of Rule of Law
+The Confrontation Clause of the Sixth Amendment of the United States Constitution (”Constitution”) secures to an accused the opportunity to cross examine witnesses against him, not the opportunity to cross examine witnesses in a way that the defense agrees was effective, or productive.  For this reason, memory loss of a witness does not violate an accused’s right to cross examine witnesses against him. Second, Federal Rules of Evidence (F.R.E.) Rule 801(d)(1)(C) allows into evidence identifications made by a person after perceiving the person, when that person is available to testify at trial and there is an opportunity to cross examine that witness. For the same reason the Confrontation Clause is not violated, F.R.E. Rule 801(d)(1)(C) is applicable as an exception to F.R.E. Rule 802 in this case.
+
+Facts
+After Mr. Foster was beaten and hospitalized, his memory was impaired. The first interview that law enforcement attempted was unsuccessful. During the second, Mr. Foster was able to describe the attack and pick the respondent out of a photo array.  When Mr. Foster testified at trial, Mr. Foster testified about his memory loss.  Defense counsel pointed out that he had attributed the assault to someone else while in the hospital, but Mr. Foster’s memory could not be refreshed.  The respondent was convicted, and appealed to the Ninth Circuit Court of Appeals (the “Ninth Circuit”) based on the Sixth Amendment of the Constitution and F.R.E. Rule 802. The Ninth Circuit reversed, holding that the F.R.E. Rule 802 error had been harmless, but reversing based on the confrontation clause argument. The State appealed to the Supreme Court of the United States (”Supreme Court”).
+
+Issue
+Whether either the Confrontation Clause of the Sixth Amendment of the Constitution, or F.R.E. Rule 802 bars testimony concerning a prior, out of court identification when the identifying witness is unable, because of memory loss, to explain the basis of the identification?
+
+Held
+No.  The Supreme Court agrees with Justice John Harlan’s (”J. Harlan”) concurrence from California v. Green.  The Sixth Amendment of the Constitution requires only that the opportunity for effective cross examination be given, not the opportunity for effective in the way that opposing counsel might like – cross-examination.
+
+Dissent
+Justice William Brennan (”J. Brennan”) dissents, reasoning that the majority’s opinion reduces the Constitution’s Confrontation Clause to a hollow procedural protection devoid of substance.  J. Brennan goes on to argue that the Sixth Amendment requires effective cross examination, and that profound memory loss makes it impossible to engage in the cross examination necessary to show the trier of fact why the testimony is not as probative as other, more reliable, evidence.
+
+Discussion
+The majority finds that F.R.E. Rule 801(d)(1)(C) is generally recognized as propping up the belief that out of court identifications are better than in court identifications because they are less suggestive.  Even in this case, where the witness suffers from memory loss and did at the time of the out of court identification, the opportunity to cross examine affords defense counsel the opportunity to highlight this loss of memory and argue to the jury that the testimony should be given little weight as a result. It does not rise to the level, however, of requiring exclusion.
+

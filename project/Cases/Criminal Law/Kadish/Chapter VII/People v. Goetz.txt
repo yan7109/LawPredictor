@@ -1,0 +1,21 @@
+Citation
+73 N.Y.2d 751, 536 N.Y.S.2d 45, 532 N.E.2d 1273 (1988)
+
+Brief Fact Summary
+The Defendant, Goetz (Defendant), a passenger on a New York subway, fired his gun at a group of youths who approached him and asked him for money, believing they intended to rob him.
+
+Synopsis of Rule of Law
+New York’s defense of justification to a charge of attempted murder requires a showing that defendant reasonably believed the use of deadly force was necessary to protect himself. The belief must not be merely reasonable to defendant himself; rather, it must be an objectively reasonable belief
+
+Facts
+The Defendant carried a gun on his person because he had been mugged previously. While the Defendant was riding a downtown subway a group of youths who were in the same car as him approached. One of the youths demanded five dollars of the Defendant. When the youth demanded money a second time, the Defendant stood up and began shooting at the group.
+
+Issue
+Does New York’s defense of justification to a charge of attempted murder require that defendant’s belief that he was threatened by death or serious bodily injury be objectively reasonable?
+
+Held
+Yes. Reversed. The penal law requires that a person “reasonably believes” deadly physical force to be necessary to defend himself from another person. The statute defines necessity as an instance where a person “reasonably believes” another is about to use deadly force against himself or where a person “reasonably believes” another is attempting to commit a robbery. This language in the statute does not mean “reasonable to him”, but rather creates a standard of objective reasonableness. An interpretation that required only that the Defendant’s belief was reasonable to himself makes the word “reasonable” in the statute unnecessary. The same could be accomplished by requiring only that the Defendant have a genuine belief that he was threatened. Unless an objective reasonableness standard is read into the language of the statute, the Defendant may evade conviction so long as he himself believed his actions were reasonable, no matter how aberrational or bizarre his thought patterns
+
+Discussion
+Here, the court performs a close textual analysis of the language of the statute to determine the intent of the drafters. They conclude that the drafters must have intended to establish a test by which someone claiming justification would have their actions open to scrutiny for reasonableness in the circumstances.
+

@@ -1,0 +1,27 @@
+Citation
+467 U.S. 431, 104 S. Ct. 2501, 81 L. Ed. 2d 377 (1984)
+
+Brief Fact Summary
+Williams was arrested for the murder of a 10 year old girl whose body he disposed of along a gravel road.  State law enforcement officials engaged in a search for the child’s body.  During the search, in response to an officer’s appeal for assistance, Williams made statements to the police (without an attorney present) which helped lead them to the body.  Williams was only read his Miranda rights after he was arrested.
+
+Synopsis of Rule of Law
+This case introduces the inevitable discovery doctrine, which postulates that if evidence will be inevitably discovered, the method in which it is obtained is not important.
+
+Facts
+Defendant, Williams was arrested and read his rights for the murder of a child after he led law enforcement officials to the body of the child by making statements, in passing, to officials who were conducting the search.  While the statements Williams made were not allowed as evidence against him at trial, the body of the child, as well as photographic and medical and chemical test information were admitted.  At trial of the matter, the court concluded that, even if Williams had not made the statements to police, the body of the child would have been found within a reasonable time, and that evidence could still be used.
+
+Issue
+Whether evidence, which ultimately results in arrest, should be excluded from trial because it was improperly obtained.
+
+Held
+Under the inevitable discovery doctrine, because the evidence would have been discovered within a short period of time, the method in which it was obtained became irrelevant and it was still allowed against the defendant.
+
+Dissent
+Justice Brennan dissented, noting that the inevitable discovery rule relies on a hypothetical scenario in which the evidence may or may not have been found and, because it was not found by legal means, it was still unconstitutionally obtained.
+
+Concurrence
+Justices Stevens and White Concurred, maintaining the same holding.
+
+Discussion
+When evidence will inevitably be found in the course of an investigation, it is not unconstitutionally obtained if it is found sooner by other means.
+

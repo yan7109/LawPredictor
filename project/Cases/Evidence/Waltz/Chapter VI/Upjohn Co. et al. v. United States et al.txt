@@ -1,0 +1,24 @@
+Citation
+449 U.S. 383, 101 S. Ct. 677, 66 L. Ed. 2d 584 (1981)
+
+Brief Fact Summary
+Defendant company sent out questionnaires and conducted interviews to determine the extent of questionable payments by foreign subsidiaries to foreign officials.  The Internal Revenue Service (IRS) submitted a summons for that work product.
+
+Synopsis of Rule of Law
+Work product prepared by lower and middle managers in preparation of litigation is protected by the attorney-client privilege, even in instances of tax summonses.
+
+Facts
+Petitioner company, Upjohn, was notified that a foreign subsidiary made questionable payments to a foreign government official in order to obtain government contracts.  Petitioner’s general counsel responded by forwarding questionnaires to management throughout the company in order to identify the extent of the practice.  The Internal Revenue Service issued a summons for the questionnaires and follow-up interviews to determine the tax implications, but Defendant would not comply, citing attorney-client privilege.  The trial court Magistrate ordered Defendant to comply with the summons because Defendant waived the privilege and the government successfully argued for the necessity of the documents.  The United States Court of Appeals for the Sixth Circuit reversed the waiver of the privilege, but still ordered the compliance to the summons because the work was not prepared by officers responsible for legal advice.
+
+Issue
+The issue is whether the work prepared by lower and middle management in response to general counsel’s queries into illicit dealings is protected under the attorney-client privilege when the work is summoned by the IRS.
+
+Held
+The work is protected by the attorney-client privilege.  There is no exception for tax summonses, the work is still protected.  Further, the work was performed under the general counsel’s direction for the purpose of potential litigation.  The Court of Appeals wanted to narrow the definition of the “control group”, the people that control the legal decisions.  The Untied States Supreme Court did not want to restrict the scope of the privilege to only top management.
+
+Concurrence
+Chief Justice Warren Burger agrees with the majority’s application of the law, but he wanted to formally articulate a standard to help guide future conduct.
+
+Discussion
+The attorney-client privilege will extend to lower levels of management when the purpose of the discussions between counsel and the lower levels was to gather work product that could not be gathered from the traditional control group.
+

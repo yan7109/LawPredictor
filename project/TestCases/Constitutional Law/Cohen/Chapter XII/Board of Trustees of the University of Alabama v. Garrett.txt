@@ -1,0 +1,27 @@
+Citation
+531 U.S. 356 (2001)
+
+Brief Fact Summary
+Garrett (P) and Ash (P) were both partially disabled state employees who requested the ADA for reasonable accommodation, but were refused. They sued for monetary damages.
+
+Synopsis of Rule of Law
+The ADA provision which makes it mandatory for employers to provide reasonable accommodation for disabled workers violates the constitutional rights of state employers.
+
+Facts
+Garrett (P) and Ash (P) who were employed by the state of Alabama in its departments, the former as a registered nurse and the latter as a security officer, were refused reasonable accommodations as per their request under the Americans with Disabilities Act (ADA) for their disabilities. They were transferred to posts carrying lower salaries because of their disabilities. They sued the state (D) for money damages on the ground that the state had violated the ADA provision for reasonable accommodation.
+
+Issue
+Does the ADA provision which makes it mandatory for employers to provide reasonable accommodations for workers with disabilities violate the constitution in the case of state employers?
+
+Held
+(Rehnquist, C.J.) Yes. The ADA provision which makes it binding on employers to provide reasonable accommodation for workers with disability is violatory of the constitution when applied to state employers. If the case is rationally viewed, the state here makes distinctions between individual employees on the basis of certain differences in their characteristics, when these differences are relevant to interests which the state needs to implement. The decisions and actions of the state based on such differences are not unconstitutional. The Fourteenth Amendment does not oblige states to make special provisions to employ the disabled, but only to act in a reasonable manner toward the disabled, without abridging their immunities and privileges on account of disability. If such accommodation is to be made mandatory it must be through a separate law. The ADA’s record shows that in passing this law Congress failed to identify a systematic and nation-wide pattern of discrimination against the employment of disabled people. The existence of such cases individually does not justify passing a measure like the ADA directed against the states. Even if such a pattern were established, however, the rights and remedies prescribed under the ADA  would not be congruent to the wrong, nor proportional to the magnitude of the wrong. The lower court decision is reversed.
+
+Dissent
+(Breyer, J.) Congress clearly possesses power to enforce the right to Equal Protection under the Fourteenth Amendment by passing appropriate laws. In this case it is reasonably possible that the Congress envisaged the remedy for violation of the ADA to lie in money damages, as an appropriate method to enforce this equal protection requirement under law. The decision of the majority of the Supreme Court does not protect any requirement of federalism under the constitution.
+
+Concurrence
+(Kennedy, J.) In this case no clear violation of the Equal Protection clause has been shown as regards the state’s action. The issue here is therefore not one of whether Congress has the power to compel the states to follow its directive, but rather of whether a private party, as contrasted with the federal government, can compel a state to pay damages from the state treasury without its consent, by bringing a liability claim against it.
+
+Discussion
+The Court decision in the Garrett case shows that it is Congress which finally decides on what is desirable public policy. However, for a private individual to be able to sue the states for money damages, there must be a systematic discriminatory practice violating the Fourteenth Amendment by the states, and there must be a proportional and congruent remedy for the violation in the congressional statute.
+

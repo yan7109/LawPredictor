@@ -1,0 +1,24 @@
+Citation
+498 U.S. 146, 111 S. Ct. 486, 112 L. Ed. 2d 489 (1990)
+
+Brief Fact Summary
+The petitioner, Robert Minnick (the “petitioner”), escaped from prison with another inmate, and they allegedly killed two people during their escape.  The petitioner asked for counsel and was granted counsel.  The authorities continued their interrogation afterward, and it led to incriminating evidence.
+
+Synopsis of Rule of Law
+When the accused asks for counsel, interrogation must cease and cannot begin again once counsel is not present.
+
+Facts
+The petitioner and another inmate escaped from prison in Mississippi.  During their escape, they killed two people as they searched for weapons.  The two fled to Mexico, but the petitioner returned to San Diego where he was caught.  He decided not to sign a waiver of his rights and asked for counsel.  After the petitioner met with counsel, the authorities subjected him to more interrogation.  He continued to refuse to sign a waiver, but he disclosed incriminating evidence in the follow-up interrogations.
+
+Issue
+Whether interrogations can continue after counsel is requested, regardless of whether counsel was consulted or not?
+
+Held
+The United States Supreme Court (”Supreme Court”) held that interrogations can not continue after the suspect requests counsel, whether or not he actually consulted with counsel.  The Supreme Court followed the irrebuttable presumption reasoning in Edwards v. Arizona (451 U.S. 477 (1981)), which prohibited the badgering of a detainee until he waives his rights.  The court noted that the petitioner did not seem to understand his rights as he refused to sign waivers and requested counsel, but still acquiesced to the interrogations.
+
+Dissent
+The dissenting opinion believed that the Edwards should not be extended to the point after the suspect has met with counsel.  The dissent believed this put the suspect into a position where he could never waive his rights after his initial meeting with counsel.
+
+Discussion
+The decision affirms Edwards and extends a suspect’s Fifth Amendment constitutional rights throughout his detention.  The Supreme Court assumes that a suspect, when left alone, may not be able to withstand the same pressures he would face before meeting with counsel.
+

@@ -1,0 +1,15 @@
+Citation
+925 F.2d 1474 1991 U.S. App.
+
+Brief Fact Summary
+The defendant, Julio Piccinonna (the “defendant”), worked in the waste disposal business in South Florida.  He agreed to testify in front of a Grand Jury investigating anti-trust allegations against waste disposal businesses.  Before the Grand Jury, he denied knowing anything about illegal agreements between individuals involved in the business, but others would testify that the defendant did know, which led to perjury charges.<span class="heading">Synopsis of Rule of Law.</span> Relevant and reliable evidence should only be admitted if it outweighs the danger that admitting the evidence will be unfairly prejudicial.
+
+Facts
+The defendant was in the waste disposal business in South Florida.  A Grand Jury investigated antitrust violations in the garbage business, because the government believed the waste disposal business had agreed not to compete with one another.  The defendant testified before the Grand Jury in exchange for immunity from prosecution.  Other testimony exposed that the defendant lied in his testimony in front of the grand jury about his knowledge of the alleged garbage business agreements.  He was indicted on four counts of perjury and was convicted on two counts.  The defendant sought to have polygraph testimony admitted, but the district court refused because such evidence is not admissible.<span class="heading">Issue.</span> Should the per se rule excluding the admission all polygraph evidence be modified?
+
+Held
+Circuit Judge Fay issued the opinion of the Eleventh Circuit Court of Appeals (”Eleventh Circuit”), in holding that the per se rule should be modified to allow two instances where polygraph evidence may be admitted during trial.  The case was remanded to the trial court to reconsider the polygraph evidence in light this opinion.<span class="heading">Dissent.</span> Circuit Judge Johnson issued an opinion dissenting and concurring in part, joined by Chief Judge Roney and Circuit Judges Hill and Clark.  Circuit Judge Johnson dissented in regards to finding the polygraph to be generally accepted in the scientific community.<span class="heading">Concurrence.</span> Circuit Judge Johnson concurred with regards to allowing polygraph evidence when stipulated by both parties.
+
+Discussion
+The Eleventh Circuit found that polygraph evidence may be allowed in the following two instances: 1) when both parties stipulate in advance as to the circumstances and scope of its admissibility, or 2) when used to impeach or corroborate the testimony of a witness at trial when the party planning to use the evidence provides the other party with adequate notice and the other party has a reasonable opportunity to have its own polygraph expert administer a test.  However, the Eleventh Circuit also noted that a trial judge continues to have wide discretion and may exclude polygraph testimony if the examiner’s qualifications are unacceptable, the test procedure was unfairly prejudicial or poorly administered, or the questioning was not relevant or proper.
+

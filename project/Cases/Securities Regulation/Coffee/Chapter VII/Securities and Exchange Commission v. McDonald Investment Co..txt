@@ -1,0 +1,21 @@
+Citation
+343 F Supp. 343 (D. Minn. 1972)
+
+Brief Fact Summary
+A Minnesota corporation wanted to offer and sell securities to Minnesota residentswithout registering the securities under the 1933 Act.
+
+Synopsis of Rule of Law
+To qualify for the intrastate exemption of § 3(a)(11), the issuer must offer and sell securities to residents within his state and most of the profitable business must be performed in that same state.
+
+Facts
+As president and treasurer of McDonald Investment Company, McDonald also owned all of the Minnesota corporations stock. The corporation had its only business office in Minnesota, where all the company records and books are kept. McDonald registered an offering of $4 million of installment notes with the securities division of the State of Minnesota, with the sales of the notes made available to Minnesotans exclusively. The buyers of the notes had an unsecured debt responsibility to the company and profits from said note sales went to developers outside of Minnesota, with security taken from them in terms of mortgages or other liens favorable to the company.  The company felt that while they never filed with the SEC, the interstate mails would be utilized as part of the offering.  Prior registration by McDonald involved the sale of notes protected by lien land contracts in Arizona, without SEC registration, where McDonald was prohibited from continuing.
+
+Issue
+Must the issuer offer and sell securities to residents within his state while also doing a majority of income producing business  in that same state in order to qualify for intrastate exemption of § 3(a)(11)?
+
+Held
+(Neville, J.) Yes. To seek its injunction, the SEC depends on SEC v. Truckee Showboat, 17 F. Supp. 924 (S.D. Cal. 1957) and Chapman v. Dunn, 414 F.2d 153 (6th Cir. 1969), which state that McDonald is not privy to the exemption of § 3(a)(11) due to the majority of his profits coming from outside the state where securities are to be bought and sold. In Trukeethe exemption was void due to the profits of the offering being used outside of the state, and a similar situation existed in Dunn, but in that case, the court stated that to qualify for the §3(a)(11) exemption the issuer must buy and sell shares within the state that the buyer resides in and also profit from business conducted there. The same rule applies in this case, seeing as the income producing business of McDonald consisted of earning interest on loans made to non-Minnesotans. Loan strength is centered on the success of failure of businesses outside of the state. Though the contract with developers is interpreted under Minnesota law and the profitable activities will earn interest in Minnesota, the injunction issues here. Summary judgment in favor of all defendants prohibited.
+
+Discussion
+Security under the preemptive doctrine that is registered with a state division does not necessarily clear that security from federal scrutiny. With intrastate exemption, however, certain securities would only be liable to state guidelines. This case represents an attempt to define the line of action which causes an issuer to be subject to SEC regulation. When the total conduct of the issuer is intrastate, one could contend that some of the properties of the issuer are interstate, and therefore subject to federal jurisdiction.
+

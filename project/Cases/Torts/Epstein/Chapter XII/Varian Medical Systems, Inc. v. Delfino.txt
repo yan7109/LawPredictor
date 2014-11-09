@@ -1,0 +1,27 @@
+Citation
+Cal. App. Ct., 113 Cal. App. 4th 273 (2003)
+
+Brief Fact Summary
+Delfino (D) and Day (D) were former employees of Varian Associates, Inc. (P). They were found to have defamed Varian and two of its officers by thousands of insulting postings on Internet bulletin boards. The employees argued, among other things, that internet speech is not to be taken literally, and as such is to be considered hyperbole rather than literal speech. Thus even if it is defamatory, it would come under the class of slander and not libel.
+
+Synopsis of Rule of Law
+If a communication published via Internet is written and if it denigrates another, it is properly considered to be libelous.
+
+Facts
+Delfino and Day were former Varian employees who were sued by Varian Associates, Inc., and two of its officers, for defamation, invasion of privacy, breach of contract and conspiracy. This followed the posting of more than 13,000 derogatory messages about the company and the two executives by the former employees. The employees argued that the First Amendment gave them the right to free speech. They also vowed to continue the posting of such messages till their death. The trial court therefore issued injunctive orders to prevent any more injury to the company, and the jury found them liable to pay damages on all counts. They appealed, arguing that, among other things, exaggerated speech on the internet is not defamatory. If internet speech is defamatory, it comes under the category of slander, rather than libel. The distinction is important since slander requires specific damages to be proved for recoverable liability, whereas libel presumes damages per se. The intermediate court of appeals granted review.
+
+Issue
+Are written defamatory messages posted to others by the internet rightfully classified as libel?
+
+Held
+(Premo, J.) Yes. Written communications of a nature which defames the good name of the plaintiff are properly called libelous if published on the internet. The first guideline is that all internet postings cannot be automatically considered non-defamatory, despite the known latitude of expression allowed on internet bulletin boards. This is because these boards are still controlled by legal and social principles of right and wrong. Here, the employees posted messages which were substantially defamatory, encroaching on the good name and character of their employer, rather than being just opinions, exaggeration or truth. At this point the employees’ argument that their messages are to be classed as slander and not libel also breaks down. Since Varian did not prove any special damages, they cannot recover compensation for defamation. This argument ignores the time-honored distinction between slander as spoken defamation and libel as written defamation. It concentrates on the practical aspect which is that libel involves the need to prove the existence of damages. Libel is today thought of rather as a defamatory or insulting expression communicated to others, whether by written, pictorial, printed, effigy or other means presented to the eye. Slander is communication which is oral, whether uttered by the mouth or by mechanical, radio or other means of communication. The history of the statute shows that the lawmakers did not mean to include computer or any other electronic means of communication within the scope of oral communication. The statute declares in plain terms that the messages posted in this case were regarded as written publications. They used written words in the same way as a newspaper or bulletin board does. They are intended to inform the eye. These should not be regarded as non-fixed words comparable to the spoken word, even though they can be added to, deleted or modified and so to that extent are not as fixed as the printed word. The ease of modification is comparable to the ease of preservation in the original form by printing them out. The only difference between ordinary libel and the publications in this case is that the means used here was electronic. The damages were affirmed. The injunctive relief was overruled as to future postings, as presenting an unconstitutional restraint on expression prior to the fact.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+The development of new electronic media for social communication has made broadcasting of one’s views possible for an unprecedented number of people. The injury and scorn that such a broadcast may subject the person who is defamed is therefore much more serious and widespread when using electronic media. In contrast to print, these media are extremely fast in their dissemination of views, to the point of going “viral” or duplicating themselves millions of times in a few minutes. The court made reference to the fact that many newer forms of publication are not readily analyzed by the traditional definitions of libel and slander, simply because advanced technology has made these definitions obsolete. However, this does not mean that these newer technologies will help wrongdoers to escape the consequences of defaming others, whether by print, oral or electronic media. Conversely, users of the internet need to exercise extreme caution in the statements they make lest they become subjects of defamation suits with the potential of high damages.
+

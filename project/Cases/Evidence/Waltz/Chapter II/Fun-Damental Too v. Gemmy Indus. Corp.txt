@@ -1,0 +1,21 @@
+Citation
+111 F.3d 993, 1997 U.S. App. 42 U.S.P.Q.2D (BNA) 1348
+
+Brief Fact Summary
+Fun-Damental Too (”Fun-Damental”) manufactured a toy bank shaped like a toilet that made a flushing sound when the handle was depressed, allowing coins to drop into the bank.  Gemmy Industrial Corporation (”Gemmy”) manufactured a similar bank and sold it to a large retail store for less money.  Fun-Damental sued for trade dress infringement.
+
+Synopsis of Rule of Law
+Statements are only hearsay when they are offered to prove the truth of the matter asserted; when offered for some other reason, such as to show that the statements were made, the statements are not hearsay at all.
+
+Facts
+Fun-Damental’s toilet-shaped toy bank made a real flushing sound, and was sold in a number of large and small retail outlets across the country.  After a large retailer expressed interest, but ultimately declined to purchase the item because of its relatively high wholesale price in the “impulse product” market, a sales agent for Fun-Damental happened to see a similar product on a visit to the store.  Repeated requests to view the product were denied. A similar product had, in fact, been manufactured in order to compete with the toilet bank, and Fun-Damental filed suit for trade dress infringement. The trial judge granted an injunction forbidding continued marketing of the item. Gemmy appealed.
+
+Issue
+Whether statements made by Fun-Damental’s sales manager that other clients had complained that they thought Fun-Damental was selling its toilet bank to other retailers for less money were hearsay and thus improperly admitted?
+
+Held
+No.  The statements were not offered to prove the truth of the matter asserted, but rather were admitted to show actual confusion on the part of Fun-Damental’s clients regarding the two competing products.  Moreover, under Federal Rule of Evidence (”F.R.E.”) Rule 803(3), the statements were admissible to show the declarant’s then existing state of mind.
+
+Discussion
+In a trade dress infringement case, it would be very difficult to show actual confusion if the statements of others could never be admitted.  In this case, statements were admitted to show confusion, not to show the truth of the statements, namely that the product was being offered at a reduced price to some retailers and not to others.
+

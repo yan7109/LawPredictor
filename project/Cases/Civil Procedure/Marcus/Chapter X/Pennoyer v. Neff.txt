@@ -1,0 +1,21 @@
+Citation
+95 U.S. 714, 5 Otto 714, 24 L. Ed. 565 (1878)
+
+Brief Fact Summary
+Defendant Neff was being sued by Mitchell in Oregon for unpaid legal fees. A default judgment was entered against Defendant for his failure to come to court or otherwise resist the lawsuit, despite the fact that he was not personally served with process, nor was a resident of Oregon. Later, in an attempt to collect upon his judgment, Mitchell attached land located in Oregon belonging to Defendant, and had it sold to Plaintiff Pennoyer through a Sheriff’s sale.
+
+Synopsis of Rule of Law
+Proceedings in a court of law to determine the personal rights and obligations of parties over whom the court has not jurisdiction are invalid for want of due process of law.
+
+Facts
+Mitchell, a lawyer, sued Defendant, his client, in Oregon state court for unpaid legal fees. At the time Defendant was a non-resident of the state who was not personally served with process. Constructive service was issued upon Defendant by publication. Defendant did not come to court or otherwise resist the lawsuit, and default judgment was entered against him. After the default judgment, Defendant acquired 300 acres of land in Oregon. To satisfy his judgment against Defendant, Mitchell had the sheriff seize and sell Defendant’s land. The land was purchased by Plaintiff, who received a sheriff’s deed as evidence of title. The sheriff then turned the sale proceeds over to Mitchell. Shortly after the sheriff’s sale, Defendant discovered what had happened to his land and brought suit against Plaintiff to recover the land. This appeal followed after Defendant lost his suit against Plaintiff.
+
+Issue
+Can judgments obtained against non-residents who fail to appear in court be sustained by default judgments where service of process is accomplished solely through publication (i.e. constructive service)?   Is constructive service sufficient notice to attach property within the forum state owned by a non-resident?
+
+Held
+No. The personal judgment recovered in the state court of Oregon against Plaintiff was without validity, and the decision of the Court of Appeals overturning that judgment was affirmed.   When a suit is merely in personam (i.e. against a person), constructive service through publication upon a non-resident is ineffective.  No state can exercise direct jurisdiction and authority over persons or property without its territory. However, a state may subject property within its boundaries to the payments of its citizens, even when the land is owned by a non-resident, without infringing upon the sovereignty of the state of residency of the landowner.
+
+Discussion
+Here the Supreme Court of the United States is distinguishing between suits in personam, and in rem. An in personam suit is a suit against a person, whose purpose is to determine the personal rights and obligations of the defendant. An in rem action, meanwhile, is an action where jurisdiction pertains to property. Thus the court reasoned that constructive service is sufficient to inform parties of action taken against any properties owned by them within the forum state, because property is always in possession of the owner, and seizure of the property will inform the owner of legal action taken against him.
+

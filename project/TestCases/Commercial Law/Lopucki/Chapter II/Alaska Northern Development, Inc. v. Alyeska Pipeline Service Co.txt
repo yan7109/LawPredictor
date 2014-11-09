@@ -1,0 +1,21 @@
+Citation
+666 P.2d 33, 1983 Alas. 441,36 U.C.C. Rep. Serv. (Callaghan) 1527
+
+Brief Fact Summary
+Alaska Northern Development, Inc. (Plaintiff) appeals from a judgment in favor of Alyeska Pipeline Service Co. (Defendant) in a contract formation and interpretation dispute.
+
+Synopsis of Rule of Law
+Parol evidence restricts external evidence that contradicts the integrated terms of a written contract.
+
+Facts
+David Reed (Reed), a shareholder of Plaintiff, initiated discussions with Defendant regarding the purchase of surplus parts. A letter of intent was prepared by Reed, in which Plaintiff proposed to purchase Defendant’s entire inventory of Caterpillar parts. The place for purchase price was left blank. Defendant responded with its own letter, also leaving the purchase price blank, but added that the sale was subject to the final approval of the owner committee. The price was subsequently decided upon. The owner’s committee rejected the agreement. Plaintiff contends that it was said that the owner’s committee’s approval was necessary for the price term only, and not the entire contract. Plaintiff filed a complaint alleging that there was a contract between Plaintiff and Defendant, which Defendant breached. Defendant moved for summary judgment and the superior court granted summary judgment in favor of Defendant on the punitive damages count. The court initially denied Defendant’s
+
+Issue
+Whether the writing was integrated, and if so whether the evidence of a prior or contemporaneous agreement contradicts or is inconsistent with the integrated portion?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+This court adopts the Corbin view, which states looks at all available evidence to determine the actual intention of the parties.
+

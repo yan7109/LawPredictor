@@ -1,0 +1,18 @@
+Citation
+429 U.S. 810, 97 S. Ct. 48, 50 L. Ed. 2d 70 (1976)
+
+Brief Fact Summary
+Respondent Northway, under certiorari to the Supreme Court of the United States, requested restitution and money damages for  Petitioner TSC Industries, Inc.’s and Petitioner National Industries, Inc.’s violation of the Securities Exchange Act of 1934 prohibiting the use of misleading or false proxy statements regarding material facts.
+
+Synopsis of Rule of Law
+The standard for an omission under the Act is if there is a substantial likelihood a reasonable shareholder would have relied on the fact, and summary is not appropriate if the omission is not misleading as a matter of law.
+
+Facts
+Petitioners issued a joint proxy statement to their shareholders proposing the liquidation of Petitioner TSC’s assets and their sale to Petitioner National.  The proposal was accepted and Petitioner TSC was dissolved.  Respondent, a shareholder of Petitioner TSC, brought suit against Petitioners for violating Rule 14a-3 of the Act by omitting from the proxy statement that Petitioner National would gain control of Petitioner TSC by the transfer of Respondent’s shares to Petitioner National.  Respondent also stated that Petitioners violated Rule 14a-9 of the Act by omitting the material facts of Petitioner National’s control of Petitioner TSC and how favorable the terms of the proposed dissolution of Petitioner TSC would be to the shareholders. The Court of Appeals for the Seventh Circuit upheld the denial of summary judgment for the alleged violation of Rule 14a-3 of the Act, but reversed the denial of summary judgment for the alleged violation of Rule 14a-3 of the Act because the omissions by Petitioners, as a matter of law, were material.<span class='heading'>Issue.</span><br /> Do the omissions in the proxy statement meet the definition of material fact under the rules of the Act? Is it appropriate to resolve this issue under summary judgment?
+
+Held
+No.  J. Marshall stated the omission of a possible lower market price of Petitioner National’s stock after the dissolution of Petitioner TSC was not an omission of material fact since it was merely an explanation of how the favorable terms of the proposal were calculated.  As a matter of law it could not be stated that referring to the calculated premiums of stock in the proxy statement was misleading.  Also, the omission that Petitioner National purchased large amounts of Petitioner National’s common stock and that this could manipulate the market price of Petitioner National’s stock after the dissolution of Petitioner TSC could not be decided as a matter of law.  Requiring this disclosure as a material fact would impose civil liability when stock manipulation is suggested in summary judgment.  But since a motion for summary judgment in this case requires the assumption that there was no manipulation, there could be no material fact of misleading. No.  First, the disclosures made in the proxy statement would allow reasonable minds to disagree as to whether Petitioner National had control of Petitioner TSC.  Second, there was a genuine issue of fact as to whether Petitioner TSC was controlled by Petitioner National when the proxy statement was issued to the shareholders.
+
+Discussion
+Omitted facts are only material under rule 14a-9 of the Act if it can be shown that there is a substantial likelihood for a shareholder to consider the fact important when deciding how to vote. In order to decide if summary judgment should apply, the court must focus on the inference that a reasonable shareholder would draw from the facts and ts weight in the shareholder’s decision.
+

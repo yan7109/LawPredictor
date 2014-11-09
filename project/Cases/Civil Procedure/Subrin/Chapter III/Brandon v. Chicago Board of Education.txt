@@ -1,0 +1,21 @@
+Citation
+143 F.3d 293
+
+Brief Fact Summary
+Both the neglect of the clerk’s office and Brandon’s attorney caused Brandon’s case to be dismissed.
+
+Synopsis of Rule of Law
+In order to find relief from judgment under Federal Rule of Civil Procedure 60 your factual case must fit exactly within an enumerated section of the rule. The court will not pile discretion upon discretion in applying this rule.
+
+Facts
+Brandon filed an action against the Chicago Board of Education under the Americans with Disabilities Act. He hired attorney Paul E. Peters. The Clerk of the United States District Court entered the name Paul F. Peters. All motions and paper worked were sent to Attorney Paul F. instead. Attorney Paul F being considerate even filed paper work that they had the wrong attorney and that he was not part of that particular case. The Clerk still mailed all filings there. A year later Paul E, Brandon’s attorney went to the Clerk wondering what was going on with the case. He found out about the wrong attorney and wrong address and filed a Rule 60 motion to seek relief from judgment. Unfortunately Peter E put the wrong docket number. When Peter E showed up at court to argue the motion the clerk realize the second mistake and stated the motion would not be heard that day and it needed to be refilled under the correct docket number. Defendant came on the date of the originally scheduled hearing even after the Clerk stated it would not be heard that day, argued with the court and the court decided to deny relief under Rule 60. Brandon appealed that judgment.
+
+Issue
+Whether the lower court abused its discretion in refusing to grant FRCP 60 relief from Judgment.
+
+Held
+District Courts are granted discretion to grant motions all through out trial. After trial is over and judgment has been found the last avenue of relief besides an appeal is FRCP 60. The court will only grant relief under certain circumstances specified in the rule. The court was asked to analyze subsection b which requires the court to find an abuse of discretion in order to reverse the judgment. Under that section a person may find relief from judgment if there is a 1: mistake or neglect, 2: new evidence, 3: fraud, 4: judgment is void, 5: judgment is satisfied, or 6: any other reason to justify relief. In order to obtain relief under subsection 1 through 3 you must do so with in the statute of limitation of 1 year. Defendant argues that since this motion was filed 1 year and 3 days after judgment that relief under 1 through 3 is not allowed. In return plaintiff argues that subsection 6 is relevant to this case since there was such a strange factual scenario. This court states that if your case fits under 1-3 than the catch all provision in 6 is not applicable. Here section 1 is exactly what occurred. Due to mistake and neglect of the clerk and Brandon’s attorney judgment against Brandon was entered and since subsection 1 applies this court can not even evaluate subsection 6 application. Affirmed lower courts judgment.
+
+Discussion
+The first Rule 60 motion was filed under subsection a. That only applies clerical mistakes on the record. This motion was for lack of prosecution, relief not allowed under subsection a, so Brandon was correct in changing his motion under subsection b.
+

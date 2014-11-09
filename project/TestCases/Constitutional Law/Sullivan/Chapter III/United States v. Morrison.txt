@@ -1,0 +1,24 @@
+Citation
+12-4020, 2012 BL 198659 (4th Cir. Aug. 06, 2012)
+
+Brief Fact Summary
+A female rape victim sued her attackers under the Violence Against Women Act (the Act). Her alleged attackers claim the Act violates the commerce power of Congress.
+
+Synopsis of Rule of Law
+Congress cannot use the Commerce Clause to regulate a local non-economic activity, even if the national aggregate of the activity substantially affects interstate commerce.
+
+Facts
+Congress passed the Act, which provided all people “shall have the right to be free from crimes of violence motivated by gender.” A female victim of gender-motivated violence could bring a civil suit in federal court against her attacker. A female college student sued two of her classmates under the Act. The accused defended by challenging the constitutionality of the Act.
+
+Issue
+Can Congress regulate local non-economic activities by way of the Commerce Clause?
+
+Held
+No. Gender motivated violent crimes are not economic in nature. Congress presented detailed findings the activity being regulated had an effect on interstate commerce. However, the Supreme Court of the United States (Supreme Court) found those findings were too attenuated to be given any deference. If the findings were accepted, Congress could regulate any crime as long as the crime had a nationwide impact. A distinction between local and national activities must be respected when dealing with the Commerce Clause. Regulating and punishing violence not directed at the instrumentalities, channels or goods of interstate commerce is reserved for the states.
+
+Dissent
+(Souter, J) Congress has presented strong evidence violence against women affects interstate commerce. The victims are barred from full participation in the national economy, just like victims of racial discrimination.
+
+Discussion
+The Supreme Court reaffirms Lopez with this ruling. Now, when Congress tries to regulate a noncommercial activity, a higher level of scrutiny will be used. Congress cannot try to expand its authority at the expense of state sovereignty.
+

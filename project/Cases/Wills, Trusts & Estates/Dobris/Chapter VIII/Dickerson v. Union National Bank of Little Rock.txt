@@ -1,0 +1,21 @@
+Citation
+268 Ark. 292,595 S.W.2d 677,1980 Ark.
+
+Brief Fact Summary
+Nina Martin Dickerson created a testamentary trust that was to terminate on the death of her son’s widow.  However, Dickerson did not specify the identity of the widow.
+
+Synopsis of Rule of Law
+Under the rule against perpetuities, an interest must vest within a period measured by a life or lives in being at the testator’s death, plus 21 years.   If there is any possibility that the contingent event may happen beyond the limits of the rule, the transaction is void.
+
+Facts
+Dickerson created a testamentary trust that did not terminate until after the deaths of his sons Cecil and Martin, Martin’s widow, and when the youngest child of either Cecil or Martin reached twenty-five years of age.  At the time that Dickerson created the trust, Cecil was single and Martin was married.
+
+Issue
+Whether a trust is void under the rule against perpetuities because it is possible that the beneficiaries’ interest may not vest beyond a period measured by a life or lives in being at the testator’s death, plus 21 years.
+
+Held
+Yes.  The trust is void because the interest in the trust may not vest until a person dies who might not  be born until after the testator death.  Since Cecil and Martin were lives in being, it is possible that Martin may marry a woman who will not be born until after the settlor’s death, and may live longer than the life of Cecil plus 21 years.
+
+Discussion
+The law invalidates any gift that may still be in existence beyond the amount of time that anyone who was living at the time of the testator’s death, plus 21 years.
+

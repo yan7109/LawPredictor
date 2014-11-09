@@ -1,0 +1,24 @@
+Citation
+22 Ill.541 U.S. 36, 124 S. Ct. 1354, 158 L. Ed. 2d 177 (2004)
+
+Brief Fact Summary
+Petitioner’s wife gave a tape-recorded description of the stabbing her husband was involved in.  The tape was played at trial, but she did not testify.
+
+Synopsis of Rule of Law
+“[W]here testimonial statements are at issue, the only indicium of reliability sufficient to satisfy constitutional demands is confrontation.”
+
+Facts
+Petitioner stabbed a man who allegedly tried to rape his wife.  He and his wife, Sylvia, were arrested and interrogated.  Sylvia’s statement cast doubt on her husband’s assertion of self-defense.  At petitioner’s trial, Sylvia’s tape was used at trial, although she herself did not testify due to Washington’s martial privilege rule.  Petitioner objected.  Prosecutor invoked a hearsay exception.  The Washington Court of Appeals, after applying a nine-part test, it upheld the conviction.
+
+Issue
+“[W]hether the State’s use of Sylvia’s statement violated the Confrontation Clause.”
+
+Held
+Yes.  After examine the history behind the Confrontation Clause, the Supreme Court arrived at two conclusions about it.  “First, the principal evil at which the Confrontation Clause was directed was the civil-law mode of criminal procedure, and particularly its use of ex parte examinations as evidence against the accused.”  Based on this, the Court rejected “the view that the Confrontation Clause applies of its own force only to in-court testimony, and that its application to out-of-court statements introduced at trial depends upon “the law of Evidence for the time being.”
+
+Concurrence
+Justice Rehnquist, joined by Justice O’Connor, disagreed with the Court’s decision to overturn Roberts.
+
+Discussion
+“Where testimonial evidence is at issue, however, the Sixth Amendment demands what the common law required: unavailability and a prior opportunity for cross-examination.”
+

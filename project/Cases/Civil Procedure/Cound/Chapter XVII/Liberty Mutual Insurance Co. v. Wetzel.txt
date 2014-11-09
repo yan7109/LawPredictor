@@ -1,0 +1,21 @@
+Citation
+22 Ill.424 U.S. 737, 96 S. Ct. 1202, 47 L. Ed. 2d 435, 12 FEP Cases 545 (1976)
+
+Brief Fact Summary
+The Petitioner, Liberty Mutual Insurance Co. (Petitioner), appealed a District Court’s holding to the United States Court of Appeals without the appeal being procedurally sound.
+
+Synopsis of Rule of Law
+Appeals to courts must be procedurally and substantively valid.
+
+Facts
+The Respondents, Mr. & Mr. Wetzel (Respondents), claimed that the Petitioner’s employee insurance benefits and maternity leave regulations discriminated against women in violation of the Act. The Respondents moved for partial summary judgment only on the issue of liability and the United States District Court of Western Pennsylvania ruled in favor of the Respondents. The Petitioner appealed to the Court of Appeals for the Third Circuit and the court held that it had jurisdiction over the Petitioner’s appeal and affirmed the District Court’s holding. The United States Supreme Court (Supreme Court) granted certiorari.
+
+Issue
+Whether Petitioner’s appeal to the Court of Appeals was procedurally valid.
+
+Held
+No. Were the Supreme Court to sustain the procedure followed in this case, it would be condoning a practice where a district court in virtually any case might enter an interlocutory appeal on the question of a defendant’s liability and the defendant in turn, would be permitted to appeal to the court of appeals without satisfying any of the Congressional requirements required of him. The judgment of the Court of Appeals was vacated and the case remanded with instructions to dismiss the Petitioner’s appeal.
+
+Discussion
+The Supreme Court attempted to understand the lower courts’ rationale as to allowing the appeal in the first instance. It reasoned three theories:   The Supreme Court noted that the Respondents had asked for damages in the form of injunctions and monetary damages, but were not awarded them by the District Court. The District Court and the Court of Appeals had taken the view that because the District Court entered a final judgment under the Federal Rule of Civil Procedure (FRCP) Rule 54(b) on the issue of liability and that there was no just reason for delay, the orders therefore became appealable as a final decision pursuant to 28 U.S.C. Section:1291. This reasoning was incorrect because FRCP 54(b) only applies to multiple claim actions. The Respondents had brought forth a single claim: Petitioner’s violations under the Act – they brought forth multiple prayers for relief. Because FRCP Rule 54(b) was applied incorrectly, the case did not become appealable under 28 U.S.C. Section:1291.     The Supreme Court attempted to see whether the District Court’s decision could have been appealable by the Petitioner by any other means. The order was a partial summary judgment only ruling as to the liability of the Petitioner thereby making it interlocutory. Under 28 U.S.C. Section:1291, where judgments are interlocutory and assessment of damages or awarding of other relief remain to be resolved, these judgments are not final, therefore, unappealable.  Further, even if the Court of Appeals had had jurisdiction to hear the appeal under 28 U.S.C. Section:1291, there was no showing in the record that the Petitioner made an application to the Court of Appeals within the 10 days specified under 28 U.S.C. Section:1292(b). There could be no assurances that had the other requirements of 28 U.S.C. Section:1292(b) been complied with, the Court of Appeals would have exercised its discretion to hear the interlocutory appeal.
+

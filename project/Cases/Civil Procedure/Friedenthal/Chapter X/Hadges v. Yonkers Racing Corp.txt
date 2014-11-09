@@ -1,0 +1,21 @@
+Citation
+22 Ill.48 F.3d 1320 (2d Cir. 1995)
+
+Brief Fact Summary
+Plaintiff sought post-trial relief from Defendant in federal court arising from litigation that was pending in state court which had been resolved in another action. Plaintiff represented to the Court that he had not worked in four years, and that an agency in collaboration with Defendant had barred him from work. Plaintiff failed to disclose the pending state court action. The District Court imposed sanctions against Plaintiff and Plaintiff’s attorney for these incidents from which Plaintiff appealed.
+
+Synopsis of Rule of Law
+Under Rule 11 of the Federal Rules of Civil Procedure, sanctions cannot be imposed on a party before the 20 day “safe harbor” period expires because the point of the period is to give the accused party time to correct the mistakes. In addition, sanctions should only be imposed on a party’s attorney for failure to investigate his/her client’s statements if the attorney did not conduct a reasonable inquiry under the circumstances as to whether the statements have evidentiary support. If the record shows evidence supporting the client’s assertions, sanctions should not be imposed on the attorney.
+
+Facts
+Plaintiff Hadges sued Defendant Yonkers Racing Corp. in both state and federal court for barring Plaintiff from working at Defendant’s racetracks. The federal claim was based on violation of due process and was dismissed for lack of state action. There was also an affidavit filed by Defendant that the court understood to mean that Plaintiff could work at other tracks. The Court noted that if a racetrack in New Jersey followed Defendant’s decision, Plaintiff could establish state action. In the state suit, where Plaintiff claimed he was “blackballed” from working at all New York racetracks, all counts were dismissed.
+
+Issue
+Is Plaintiff entitled to Rule 60(b) of the Federal Rules of Civil Procedure relief?
+
+Held
+No as to all issues. The District Court’s ruling on Rule 60(b) relief is affirmed. The District Court’s imposition of sanctions is reversed.
+
+Discussion
+The “safe harbor” provision of Rule 11 gives a party or an attorney a chance to rectify errors that are alleged to be sanctionable. This case illustrates a court’s strict interpretation of Rule 11 and reluctance to impose sanctions.<br />An attorney’s investigation of his/her client’s statements must only be reasonable. In this case, it shows that evidence supporting the client’s statements is “evidentiary support” notwithstanding that evidence clearly controverts such statements and the attorney later admits the er
+

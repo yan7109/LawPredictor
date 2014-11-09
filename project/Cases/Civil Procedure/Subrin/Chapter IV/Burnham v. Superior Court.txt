@@ -1,0 +1,21 @@
+Citation
+495 U.S. 604, 110 S. Ct. 2105, 109 L. Ed. 2d 631, 1990 U.S.
+
+Brief Fact Summary
+Plaintiff Dennis Burnham, a New Jersey resident, was served with process for divorce by his wife in California, while he was visiting California on business.
+
+Synopsis of Rule of Law
+Jurisdiction based on physical presence alone constitutes due process because it is one of the continuing traditions of our legal system that define the due process standard.
+
+Facts
+Plaintiff a New Jersey resident, visited Southern California on business, after which he went to visit his children in the San Francisco Bay area, where his wife resided. Upon returning the children to his wife’s home, Plaintiff was served with a California court summons and a copy of his wife’s divorce petition.  Plaintiff made a special appearance in California for the purpose of filing a motion to dismiss on the ground that the court lacked personal jurisdiction over him. The Superior Court denied the motion, and the California Court of Appeal denied mandamus relief. The Supreme Court of the United States then granted certiorari.
+
+Issue
+Whether the Due Process clause denies a state court jurisdiction over a non-resident who was personally served with process while temporarily in that state, in a suit unrelated to his activities in that state.
+
+Held
+No. The Supreme Court upheld the ruling of the California Superior Court.
+
+Discussion
+An individual’s physical presence in a state at the time process is served upon them satisfies traditional notions of fair play and substantial justice. Thus the Court rejected the argument that a state lacks jurisdiction unless the litigation arises out of his activities in the state.
+

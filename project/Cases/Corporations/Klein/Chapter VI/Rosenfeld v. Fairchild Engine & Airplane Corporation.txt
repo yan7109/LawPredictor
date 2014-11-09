@@ -1,0 +1,24 @@
+Citation
+309 N.Y. 807, 130 N.E.2d 610 (1955)
+
+Brief Fact Summary
+Plaintiff, William Rosenfeld, filed a shareholder’s derivative action against Defendant corporation, Fairchild Engine & Airplane Corp. and its directors, after Defendants spent Fairchild’s funds on proxy solicitation.
+
+Synopsis of Rule of Law
+A corporation’s directors may spend the corporation’s money for proxy solicitation in a bona fide policy contest provided that the amount is reasonable.
+
+Facts
+The old board of directors and the new board spent over $120,000 each in soliciting proxies for a shareholder vote for new directors.  After the new board won, they authorized Fairchild to reimburse the old board for most of their expenses, and they voted to have Fairchild reimburse their own expenses.  Plaintiff did not allege any fraudulent behavior, and agreed that the expenses were reasonable, but nonetheless not legal.
+
+Issue
+The issue is whether directors can use the company treasury to fund the solicitation of proxies.
+
+Held
+The Court of Appeals of New York held that when there is a good faith dispute concerning a significant policy, the directors should be able to use corporate resources to fund proxy solicitations to ensure that the upcoming vote receives the attention that it is due.  In a situation such as the case at bar, the expenses were reasonable and did go to a reasonable dispute between to factions.
+
+Dissent
+The dissent believed that the burden should be on Defendants to prove that their expenses were legitimate.
+
+Discussion
+A majority supported Defendants, but there was no majority as far as the reasoning behind that holding.  The dissent does believe, like the majority opinion, that the expenses should be reasonable, but they came to a different conclusion when they applied it to the facts of the case.  The dissent certainly differs from the concurring opinion that put the onus on Plaintiff to prove the unreasonableness of the expenses.
+

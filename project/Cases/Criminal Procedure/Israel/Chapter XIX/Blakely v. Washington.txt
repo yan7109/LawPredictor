@@ -1,0 +1,24 @@
+Citation
+542 U.S. 296, 124 S. Ct. 2531, 159 L. Ed. 2d 403 (2004)
+
+Brief Fact Summary
+The Petitioner, Ralph Howard Blakely, Jr. (Petitioner), a criminal defendant that pleaded guilty to a crime, alleges that he has a Sixth Amendment constitutional right to a trial by jury before the judge can increase his penalty for a crime beyond the prescribed statutory maximum.
+
+Synopsis of Rule of Law
+Criminal defendants have a Sixth Amendment constitutional right to have a jury, prior to sentencing, determine all punishment-increasing facts about the way in which he carried out that crime, before the judge can increase his penalty for a crime beyond the prescribed statutory maximum.
+
+Facts
+The Petitioner pleaded guilty to second-degree kidnapping involving domestic violence and use of a firearm.  In the state where Petitioner was before the court, second-degree kidnapping is classified as a crime that carries a maximum sentence of ten years.  A state law, however, limits the range of sentences that a judge may impose for this crime; the law specifies a “standard range” of 49 to 53 months for second-degree kidnapping.  If a judge finds “substantial and compelling reasons justifying an exceptional sentence,” the judge may impose a sentence above that standard range.  The facts admitted in Petitioner’s plea, standing alone, supported a maximum sentence of 53 months.  At sentencing, the judge, upon learning of the facts of the kidnapping, imposed an “exceptional” sentence of 90 months onto the Petitioner.  The judge justified the sentence on the ground that the Petitioner acted with “deliberate cruelty,” a statutorily enumerated ground for departure from the permitt
+
+Issue
+Whether a criminal defendant’s Sixth Amendment constitutional right to trial by jury is violated when during sentencing, a judge rather than a jury decides whether there are reasons justifying a sentence beyond the statutory maximum?
+
+Held
+Yes.  The Supreme Court of the United States (Supreme Court) held that the judge’s imposition of the 90-month sentence violated the Petitioner’s right to a jury trial under the Sixth Amendment.  The judge could not have imposed the 90-month sentence solely on the basis of the facts admitted in the guilty plea.  The right to a jury trial is a fundamental reservation to the people of control over the judiciary in the nation’s constitutional structure which ensures that a judge’s authority to sentence derives wholly from a jury’s verdict.  Other than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum has to be submitted to a jury and proved beyond a reasonable doubt.  The Sixth Amendment is not a limitation on judicial power, but a reservation of jury power.  It limits judicial power only to the extent that the claimed judicial power infringes on the province of the jury.
+
+Dissent
+Justices O’Connor, Kennedy, and Breyer.  The effect of the Supreme Court’s decision will be greater judicial discretion and less uniformity in sentencing.  Sentencing power would be consolidated in the state and federal judiciaries, and Congress and the states would either trim or eliminate their sentencing guidelines schemes along with 20 years of sentencing reform.  It was of little moment that the Supreme Court did not here expressly declare guidelines schemes unconstitutional.  The sentencing guidelines in this case brought uniformity, transparency, and accountability to a sentencing and corrections system that lacked any principle except unguided discretion.
+
+Discussion
+During sentencing, if additional facts of a crime are to be determined, the Sixth Amendment requires that a jury rather than a judge determine those facts.  Only then can a judge prescribe a sentence that is above the statutorily authorized maximum.
+

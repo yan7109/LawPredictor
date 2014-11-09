@@ -1,0 +1,21 @@
+Citation
+526 U.S. 314, 119 S. Ct. 1307, 143 L. Ed. 2d 424 (1999)
+
+Brief Fact Summary
+Petitioner Mitchell was indicted on several charges of drug trafficking and conspiracy, but participated in only some of them.  She was told that by pleading guilty, she would waive the right to remain silent.
+
+Synopsis of Rule of Law
+“Any effort by the State to compel [the defendant] to testify against his will at the sentencing hearing clearly would contravene the Fifth Amendment.”  “The normal rule in a criminal case is that no negative inference from the defendant’s failure to testify is permitted.”
+
+Facts
+Petitioner Mitchell was among 22 codefendants indicted for offenses of conspiracy to distribute cocaine.  Despite advice from the District Judge that the government was uncertain about the petitioner’s involvement, as well as a warning that she would petitioner admitted some culpability, and that she would waive her right to remain silent, she pled guilty.  The trial court stated that it relied in part on petitioner’s refusal to rebut testimony of her codefendants.
+
+Issue
+“[W]hether, in the federal criminal system, a guilty plea waives the privilege [against self-incrimination] in the sentencing phase of the case, either as a result of the colloquy preceding the plea or by operation of law when the plea is entered.” “[W]hether, in determining facts about the crime which bear upon the severity of the sentence, a trial court may draw an adverse inference from the defendant’s silence.”
+
+Held
+No.  The Supreme Court of the United States found that because the petitioner had not actually testified on the stand, she had not waived her right to remain silent, although it did acknowledge that had she begun testimony on the stand, then she would have waived that privilege.  “If no adverse consequences can be visited upon the convicted person by reason of further testimony, then there is no further incrimination to be feared.” No.  The Court distinguished the criminal rule from the civil rule.  The Court held that “[t]he rule against adverse inferences is a vital interest for teaching the question in a criminal case is not whether the defendant committed the acts of which he is accused.  The question is whether the Government has carried its burden to prove its allegations while respecting the defendant’s individual rights.”<span class='heading'>Dissent.</span> The dissent disagreed that the petitioner had the right to “have the sentencer abstain from making the adverse inferences that reasonably flow from her failure to testify.”  He also took issue with the precedence upon which the case was built.<br />
+
+Discussion
+“By holding petitioner’s silence against her in determining the facts of the offense at the sentencing hearing the District Court imposed an impermissible burden on the exercise of the constitutional right against compelled self-incrimination.”
+

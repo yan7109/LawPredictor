@@ -1,0 +1,24 @@
+Citation
+322 U.S. 143, 64 S. Ct. 921, 88 L. Ed. 1192 (1944)
+
+Brief Fact Summary
+Petitioner was questioned for more than 36 hours without a break for sleep or rest by a chain of experienced officers, resulting in a confession and conviction of murder and accessory before the fact.
+
+Synopsis of Rule of Law
+A confession obtained after interrogating a subject for 36 straight hours without rest will be held to have been made involuntarily, and thus a denial of due process of law under the Fourteenth Amendment.
+
+Facts
+Victim Zelma Ashcraft was found dead on the side of the road and later that night, officers talked to the petitioner husband.  On a Saturday nine days later, the petitioner was taken by police to an office at their jail where they sat him at a table with a light overhead, and proceeded to question him in relays until the following Monday morning.  The petitioner was never given the opportunity to rest during this interrogation and claimed that after much suggestion that he was to confess, the state ended up admitting into evidence a statement by Ashcraft that he had paid the other petitioner Ware to murder his wife.  The petitioners were convicted of murder and accessory before the fact and the Supreme Court of Tennessee affirmed.  The petitioners were granted certiorari claiming that their confessions had been extorted from them in violation of the Fourteenth Amendment.
+
+Issue
+Are confessions obtained after police question a subject for more than 36 hours straight without rest violative of the Fourteenth Amendment as made involuntarily, and thus inadmissible?
+
+Held
+Yes.  Reverse and remand the Tennessee Supreme Court’s judgment.
+
+Dissent
+Justice Robert H. Jackson wished that the majority would give more respect to the state courts’ determination that on all the facts this confession did not result from coercion.  He also stated that if this case was coming from a lower federal court, the role that the majority seemed to be taking, that of supervisor, would be more appropriate.
+
+Discussion
+There are clearly scholars that have viewed this case more as a disapproval with the questionable police methods used than an evaluation of the reliability of the confession.  It has also been viewed as a precursor to the recognition in Miranda that the mere inherent nature of interrogation is coercive.
+

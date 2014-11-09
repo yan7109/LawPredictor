@@ -1,0 +1,21 @@
+Citation
+168 Conn. 329, 362 A.2d 798, 1975 Conn.
+
+Brief Fact Summary
+The Plaintiffs, Alteiri and his mother Ms. Alteiri (Plaintiffs) brought an action seeking damages and expenses in connection with injuries sustained when Colasso (Defendant), hurled a projectile that struck Alteiri in the eye. The Superior Court in Fairfield County at Stamford, Connecticut rendered judgment, following a jury trial, in favor of the Plaintiffs. The Defendant appealed.
+
+Synopsis of Rule of Law
+A willful and malicious injury is one inflicted intentionally without just cause or excuse. It is not essential that the precise injury which was done be the one intended. Both the action producing the injury and the resulting injury must be intentional.
+
+Facts
+Alteiri was injured when the Defendant threw an object that struck him in the eye. The Plaintiffs instituted an action alleging battery. The court entered judgment in favor of the Plaintiffs. On appeal, the court found no error. The statute of limitations relied upon by the Defendant, by its terms, did not apply to the action. Also, the court found no error in the trial court’s denial of (i) the friend’s motions to set aside the verdict and (ii) for a judgment notwithstanding the verdict. The court found that the jury could have logically and legally returned a verdict in favor of Plaintiffs for willful battery, even when it found that the friend threw the object with the intent to scare someone other than the minor.
+
+Issue
+May a jury, upon finding that the defendant committed the harmful act without the specific intent to injure, legally return a verdict for the Plaintiffs for a willful battery?
+
+Held
+The jury found that the friend’s actions were neither negligent nor reckless and wanton, but intentional. As a result, the court held that the trial court did not err in refusing to charge the jury with the one-year statute of limitations imposed on actions involving negligence.
+
+Discussion
+In reviewing the jury’s finding that the defendant in Alteiri v. Colasso acted in a manner neither negligent nor reckless and wanton, but intentional, it was necessary to illuminate the doctrine of transferred intent. The doctrine of transferred intent applies when one commits a tortuous act intended for one victim, but the result is harm to another. The original intent is then transferred to the individual suffering actual harm and the latter may recover against the defendant as though he were the target of the original act.
+

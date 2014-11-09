@@ -1,0 +1,21 @@
+Citation
+22 Ill.352 U.S. 249, 77 S. Ct. 309, 1 L. Ed. 2d 290 (1957)
+
+Brief Fact Summary
+The Petitioner, La Buy (Petitioner), a District Judge, referred two cases to be heard by a Master. The Court of Appeals issued a writ of mandamus to order the judge to vacate the references. The judge refused and the United States Supreme Court (Supreme Court) granted certiorari.
+
+Synopsis of Rule of Law
+Common-law writs of mandamus, like equitable remedies, may be granted or withheld in the sound discretion of the court.
+
+Facts
+This certiorari to the Supreme Court consolidated two cases. The Petitioner, a United States District Judge asserted that the two cases had been burdensome, in that many hearings were conducted on preliminary pleas and motions. The cases were called on February 23, 1955, on a motion to reset them for trial. The Petitioner asserted that it had taken a long time for the case to get to trial and asked the litigants if they could agree to have a Master hear the case. In chambers the next day, the District Judge made the decision himself that the case would be referred to a Master. The orders declared that the court had a heavily congested calendar and that exceptional circumstances existed to warrant the references to the Master. The Master was to take the evidence and report it to the Court along with his findings of fact and conclusions of law. When the Petitioner refused to vacate the references, the mandamus actions were filed in the Court of Appeals seeking issuance of the writs ordering the Petitioner to vacate. The Court of Appeals held that the judge refused to try the cases in due course and that the orders were beyond the court’s authority under 28 U.S.C. Section: 1651(a).<br/><span class='heading'>Issue.</span>  Whether the Court of Appeals has the power to issue writs of mandamus to compel a district Judge to vacate his orders entered under Federal Rule of Procedure (FRCP) Rule 53(b), which refer antitrust cases for trial before a Master.
+
+Held
+Writs of mandamus should be resorted to only in extreme cases. In this case, the District Judge was well informed to the nature of antitrust litigation – his excuse of court docket congestion in itself was not an exceptional circumstance to warrant reference to a Master. Common-law writs, like equitable remedies, may be granted or withheld in the sound discretion of the court. Affirmed.
+
+Dissent
+The Court seriously undermined the long-standing statutory policy against piecemeal appeals. The All Writs Act does not confer an independent appellate power in the Courts of Appeals to review interlocutory orders.
+
+Discussion
+The use of Masters is to aid judges in the performance of specific judicial duties as they may arise in the progress of a cause. The Supreme Court noted that the judge was very well informed as to the nature of the antitrust litigation. Despite this, he referred both the suits to a master on the general issue. The Court of Appeals was justified in finding that the orders of reference were an abuse of the Petitioner’s power under FRCP Rule 53(b). The references abdicated the judicial function, depriving the parties of a trial before the court on the basic issues in the litigation.
+

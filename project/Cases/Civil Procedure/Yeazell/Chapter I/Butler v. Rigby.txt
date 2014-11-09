@@ -1,0 +1,21 @@
+Citation
+1998 U.S. Dist. 4618.
+
+Brief Fact Summary
+Defendant Rigby, in litigation rising out of an automobile accident, made certain discovery requests from two medical groups of the doctors that provided medical treatment to the Plaintiffs in the accident. In response, both medical groups sought a protective order ruling that the information was not discoverable
+
+Synopsis of Rule of Law
+The rules of discovery are to be construed liberally, such that discovery reasonably calculated to lead to evidence relevant to trial is discoverable.
+
+Facts
+Defendant involved in an automobile accident, made certain discovery requests from two medical groups of the doctors that provided medical treatment to the plaintiffs in the accident. He asked for numerous documents, essentially every record they doctors had of their involvement in litigation since 1992. Both medical groups moved the court for a protective order prohibiting the defendant from discovering the information requested pertaining to their involvement in litigation on grounds that it was not relevant to the lawsuit, is privileged, and that the request was overly burdensome. The Magistrate ruled that most of the information was discoverable, and this appeal followed.
+
+Issue
+What is the scope of discovery in a civil proceeding?
+
+Held
+Despite finding that the matter requested was discoverable, the time and expense involved in producing it convinced the court to order the defendant to pay one-half the cost of producing the information.   The Federal Rules of Evidence contemplate liberal discovery and provide for a flexible treatment of relevance. Under Rule 26(b) (1), the scope of discovery includes any matter, not privileged, that is relevant to the subject matter involved in the pending action. The information need not be admissible at trial in order to be discoverable if the information sought appears reasonably calculated to lead to the discovery of admissible evidence. However, discovery may be limited if the court determines that the discovery sought is unreasonably cumulative or duplicative.
+
+Discussion
+Essentially this case is an illustration of the broad range of discovery powers granted parties under the Federal Rules, even when it concerns non-parties. Students should keep in mind that even where costs of discovery outweighs the benefits, discovery may still be granted, although reduced in scope from the amount requested.
+

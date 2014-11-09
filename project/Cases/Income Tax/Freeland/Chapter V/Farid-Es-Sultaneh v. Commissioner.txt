@@ -1,0 +1,24 @@
+Citation
+160 F.2d 812, 1947 U.S. App. 3403, 47-1 U.S. Tax Cas. (CCH) P9218; 35 A.F.T.R. (P-H) 1049
+
+Brief Fact Summary
+Petitioner received stock as part of a marriage agreement.  Kresge promised to marry and Petitioner promised to relinquish rights to any of his property.
+
+Synopsis of Rule of Law
+The basis of the item gifted is the basis in the hands of the donor and not the recipient.
+
+Facts
+Petitioner sold 12,000 shares of common stock of S.S. Kresge Company for $230,802.36.  As part of an agreement with Sebastian S. Kresge, Petitioner received the right to the stock in exchange for a promise to marry.  Petitioner and Kresge were eventually divorced.  The Commissioner of Internal Revenue sought to count Kresge’s basis for determining the gains and not Petitioner’s basis on the day she obtained ownership because it was a gift.
+
+Issue
+Should the basis of the stock when acquired by Kresge apply or should the basis when Petitioner acquired it apply?
+
+Held
+Circuit Judge Chase issued the opinion for the United States Second Circuit Court of Appeals in reversing the Tax Court and holding that the stock exchange was not a gift and thus, the basis at the time acquired by Petitioner should be used.
+
+Dissent
+Circuit Judge Clark issued a dissenting opinion that is omitted from the text.
+
+Discussion
+The Court of Appeals found that the stock was not a gift because it was taken in consideration of a promise to marry, and coupled with her promise to relinquish all rights to his property.
+

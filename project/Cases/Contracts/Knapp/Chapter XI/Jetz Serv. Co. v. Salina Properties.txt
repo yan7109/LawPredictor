@@ -1,0 +1,21 @@
+Citation
+22 Ill.19 Kan. App. 2d 144, 865 P.2d 1051 (Ct. App. 1993)
+
+Brief Fact Summary
+A property company breached a contract with a lost volume supplier of coin-operated laundry equipment.
+
+Synopsis of Rule of Law
+The duty to mitigate damages does not apply to lost volume sellers.
+
+Facts
+The Appellant, Salina Properties (Appellant), leased space to the Appellee, Jetz Service Co. (Appellee), for the installation of coin-operated laundry equipment in an apartment complex. The lease was for a term of six years. However, the Appellant disconnected the laundry equipment with sixteen months remaining on the lease. The Appellee re-leased some of the laundry machines. However, it had enough machines to enter into both transactions. The Appellee then sued for lost profits. The lower court found that the Appellee was a lost volume lessee and it awarded lost profits accordingly. On appeal, the Appellant argues that the Appellee failed to mitigate its damages.
+
+Issue
+Does a lost volume lessee have a duty to mitigate its damages?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+The court first examined whether the Appellee was a lost volume lessee. It reasoned that it was a lost volume lessee because it had enough equipment to enter into multiple contracts at once and it was continually seeking new business. The court noted that there was no Kansas law on point, but it examined cases in other jurisdictions that supported the conclusion that lost volume sellers should not be required to mitigate where the contract does not “preclude plaintiff from undertaking and being engaged in the performance contemporaneously of other contracts.” The court also noted that the concept of lost volume seller should be applied to service suppliers as well as providers of goods because the concept is analogous.
+

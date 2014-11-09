@@ -1,0 +1,21 @@
+Citation
+540 F.2d 681 (4th Cir. 1976)
+
+Brief Fact Summary
+DeWitt Truck Brokers (P) sought to impose individual liability on Flemming (D) by piercing the corporate veil of his company, Ray Flemming Fruit Co. (D).
+
+Synopsis of Rule of Law
+A court will pierce the corporate veil to eliminate injustices or inequitable consequences.
+
+Facts
+Ray Flemming Fruit (D) was run by Flemming (D), it acted as a commission paid agent selling produce for growers. Corporate protocols went unobserved, the corporation was under capitalized, and no other management level personnel or stockholder received money except Flemming (D). DeWitt (P) filed sought for transportation bills owed. DeWitt (P) sought to hold Flemming (D) personally liable for withdrawing funds from the corporation that could have been used to pay the bill. Flemming (D) was held personally liable when the lower court “pierced the corporate veil”. Flemming (D) appealed.
+
+Issue
+Will a court “pierce the corporate veil” to eliminate injustices or inequitable consequences?
+
+Held
+(Russell, J.) Yes. A court will pierce the corporate veil to eliminate injustices or inequitable consequences. Significant to the decision (particularly in the case of a one-man or closely held corporation) is whether the corporation was grossly undercapitalized in corporate operation. Here, the combination of factors diminishing the corporate image of the entity allowed it be dismissed as a separate legal entity. Affirmed.
+
+Discussion
+Courts will enthusiastically “pierce the corporate veil” to hold a parent corporation responsible for the debt of a subsidiary it holds stock in, more so than holding the individual responsible when piercing the veil. Not creating a separation between the business of parent and subsidiary is a definitive way to ensure the veil will be pierced.
+

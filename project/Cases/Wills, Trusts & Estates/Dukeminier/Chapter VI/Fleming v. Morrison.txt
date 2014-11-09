@@ -1,0 +1,21 @@
+Citation
+187 Mass. 120,72 N.E. 499,1904 Mass.
+
+Brief Fact Summary
+Francis M. Butterfield created a will disposing of all of his real and personal property to Mary Fleming.  Butterfield told Sidney Goodridge, one of the witnesses to the will, that the will was a fake created solely to induce Fleming to sleep with him.  The Probate Court admitted the will to probate.
+
+Synopsis of Rule of Law
+Extrinsic evidence is admissible to contradict the statements in a will that it is a will, that it had been signed by a person named as the testator, and attested and subscribed by persons signing as witnesses.
+
+Facts
+Butterfield created a will that disposed all of his personal and real property to Mary Fleming.  Before Sidney S. Goodridge signed his will as a witness, Butterfield told him that the will was fake, and that he only created the instrument to undue Fleming to “sleep” with him.  Under statutory law, a will must be attested by three witnesses.  Two other witnesses attested the will.  The Probate Court admitted the will to probate.
+
+Issue
+Whether extrinsic evidence may be admitted to contradict that the will has been signed by persons signing as witnesses
+
+Held
+Yes.  Extrinsic evidence is admissible to prove that one witness was not truly signing as a witness to a will.   The testator told a witness that the will was fake and composed for another motive.  Because a will in this jurisdiction requires three witnesses and one of them did not truly believe that the testator was signing his will, the will is not valid.
+
+Discussion
+The Court admitted the evidence because it related to the belief of one of the witnesses, not the validity of the provision to the beneficiary.  Therefore the will was not admitted to probate.  The issue was not on concerning the testator’s intent to make a gift to a beneficiary.
+

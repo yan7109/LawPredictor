@@ -1,0 +1,21 @@
+Citation
+495 U.S. 82, 110 S. Ct. 1679, 109 L. Ed. 2d 74,  1990 U.S.
+
+Brief Fact Summary
+Prevailing petitioner, Venegas (Petitioner) was required to pay his attorney based on a contingency contract more than statutory award against respondent, Mitchell (Respondent). Petitioner appeals.
+
+Synopsis of Rule of Law
+A statutory award of attorney’s fees does not invalidate a plaintiff’s ability to become bound by a private agreement, even if the private fee is larger than the statutory award.
+
+Facts
+The current dispute arises out of an action under 42 U.S. C. Section: 1983 brought by Petitioner alleging that police officers of Long Beach, California falsely arrested Petitioner and conspired to deny him a fair trial through the presentation of perjured testimony. The district court dismissed Petitioner’s complaint as time barred by statute of limitations, which was subsequently reversed by the court of appeals. During this appeal, Petitioner retained Respondent as his attorney. Petitioner and Respondent signed a contingency contract for a fee of 40% of the gross amount of any recovery. The contract prohibited Petitioner from waiving Respondent’s right to court-awarded attorney’s fees. Petitioner obtained a judgment of $2.08 million. Respondent moved for attorney’s fees and the District Court entered an order awarding Petitioner $117,000 in attorney’s fees, of which $75,000 was attributable to work performed by Respondent. The award was calculated by multiplying a reasonable hourly rate by the number of hours the respondent expended on the case, and then doubling this lodestar figure to reflect respondent’s competent performance. Petitioner and Respondent had a disagreement about representation on appeal and Petitioner obtained different counsel for appeal. Respondent then asserted a $406,000 attorney’s lien against the judgment proceeds, his half of the 40% fee. Petitioner objected because the fee was excessive and should be limited to the $75,000 found to be reasonable on the Motion for Attorney’s Fees. The District Court refused to disallow or reduce the fee and the Court of Appeals affirmed the District Court’s decision.
+
+Issue
+Whether 42 U.S.C. Section: 1988, which states that a court may award a reasonable attorney’s fee to the prevailing party in a civil rights case, invalidates contingent-fee contracts that require prevailing civil rights plaintiff to pay his attorney more than the statutory award against the defendant?
+
+Held
+No. Judgment affirmed.   42 U.S.C. Section: 1988 does not restrict a plaintiff’s right to become contractually and personally bound to pay an attorney, a percentage of the recovery even if such a fee is larger that the statutory fee the defendant must pay to the plaintiff. The purpose of Section: 1988 is to enable civil rights plaintiffs to employ reasonably competent lawyers without costs to themselves if they prevail. However, nothing in the section regulates what    plaintiffs may or may not promise to pay their attorneys if they lose or win. An attorney can collect both a statutory award of fees and fees that are derived from a private agreement.  Petitioner also argued that the contingent fees in this case were unreasonable under federal and state law. However, the courts rejected this argument.
+
+Discussion
+The fee award in this case was calculated by what is called the lodestar method, multiply the hours worked by the lawyer by the lawyer’s hourly rate. The court may disallow hours that were spent on unsuccessful claims or inefficiently us
+

@@ -1,0 +1,21 @@
+Citation
+454 N.W.2d 361, 1990 Iowa Sup.
+
+Brief Fact Summary
+Two brothers conveyed their interest in land to another brother for him to use as security for a loan. He did not re-convey their interest when the loan was denied.
+
+Synopsis of Rule of Law
+When a party partially performs under an oral agreement, the statute of frauds will not be a valid defense. Parol evidence may be used to establish the agreement.
+
+Facts
+Harry Gardner (Defendant) was in debt and needed security for a loan. His brothers, Mark and James Gardner (Plaintiffs) conveyed their interest in real estate to him by quitclaim deed, which did not mention an agreement to re-convey. According to Plaintiffs, Defendant told them he would re-convey the interest if the refinancing fell through. The loan was denied, and when Plaintiffs asked for the interest, Defendant refused to return it.
+
+Issue
+When a party partially performs under an oral agreement, will the statute of frauds bar the introduction of evidence of an oral contract?
+
+Held
+No.
+
+Discussion
+The statute of frauds will not apply when there has been part performance on the oral contract because of the performing parties’ reliance.
+

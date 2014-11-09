@@ -1,0 +1,21 @@
+Citation
+1 Wms. Saund. 323, 85 Eng. Rep. 463, 468 (King’s Bench, 1670).
+
+Brief Fact Summary
+Plaintiff sued Defendant for 2000 pounds, allegedly owed to Plaintiff. Defendant responded by stating Plaintiff should be barred from the present action because an arbitration panel awarded Plaintiff 3169 pounds, which Defendant paid Plaintiff. Plaintiff denied that Defendant paid Plaintiff and moved for judgment. Defendant responded by arguing the arbitrator’s award was void.
+
+Synopsis of Rule of Law
+A party cannot plead certain facts are true and then later deny those facts in a subsequent pleading. Doing so will prevent judgment being rendered in favor of that party even if both parties stipulate that such judgment should be rendered.
+
+Facts
+Veale, Plaintiff, sued Warner, Defendant, for 2000 pounds. Plaintiff lent to Defendant. Defendant responded by introducing an arbitrator’s decision and award. The award showed that Plaintiff was awarded 3169 pounds and Defendant paid the award after Plaintiff signed a release of all liability from the debt. Defendant demurred. Plaintiff responded by denying that Defendant paid the award. Defendant responded by stating that Plaintiff cannot deny that Defendant paid Plaintiff because Plaintiff signed a release stating Defendant did pay Plaintiff. Plaintiff moved for judgment and Defendant’s counsel responded by arguing that Plaintiff could not have judgment because the arbitrator’s award was void due to the fact that it did not require Plaintiff to do anything.
+
+Issue
+Can Defendant later argue that the arbitrator’s award was void after introducing it as a defense to judgment for Plaintiff?
+
+Held
+No.
+
+Discussion
+This case illustrates that in the English common law, pleadings must be consistent. Requests for alternative relief were not permitted if such requests required denial of a fact already alleged to be true.
+

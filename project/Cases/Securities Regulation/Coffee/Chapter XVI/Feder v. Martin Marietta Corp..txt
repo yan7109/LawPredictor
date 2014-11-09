@@ -1,0 +1,21 @@
+Citation
+406 F.2d 260 (2d Cir. 1969)
+
+Brief Fact Summary
+Bunker, the president of Martin Marietta Corp. (Defendant) also served as director of Sperry Rand. Marietta (Defendant), and during the span of six months bought and sold shares of Sperry Rand, but resigned before the sales were transacted.
+
+Synopsis of Rule of Law
+Directors of an issuer corporation who bought and sold an issuer security for profit during a six month time frame are held liable as per Section 16(b) of the 1934 Securities ExchangeAct, as is a corporation that is deemed a “director” when it deputizes a person closely identified with the interests to serve as director of the issuer corporation. Even if the “deputy” transitioned into a director during the buying of the issuer shares and resigned prior to the selling of said shares by the deputizing corporation, with the purchases and sales falling under a six month time frame, the corporation will sustain a § 16(b) liability.
+
+Facts
+As chief executive and president of Martin Marietta Corp, Bunker was responsible for approving all of Marietta’s stock transactions. When Marietta’s directors learned that Marietta had a $10 million investment in Sperry Rand they permitted Bunker to become a director there.
+
+Issue
+(1) Is a corporation deemed a "director" as defined by § 16(b) where it appoints its chief executive to act as a director of a different corporation when the executive has the duty of personally approving all stock transactions for the corporation and where the taking the of the directorship by the chief executive is approved by the corporation knowing that it owns a considerable amount of that other corporation’s stock?
+
+Held
+(Waterman, J.) (1) Yes. A corporation can become a "director" as defined by § 16(b) when it “deputizes” a person to serve on the board of an issuer corporation.  “Deputization” is decided on a case-by-case basis and is determined. When viewed objectively, the question is if the director was self-serving or served the interests of the corporation. In this case, Bunker personally approved all of Marietta’s stock trading and was appointed to the Sperry directorship
+
+Discussion
+Section l6(b) is a prophylactic statute and in enacting it, Congress planned for it to be interpreted in a all-encompassing manner in hopes of creating a deterrent for persons who could be swayed to use their position to obtain information to reap profits on the stock market, which is why most courts interpret it very broadly.
+

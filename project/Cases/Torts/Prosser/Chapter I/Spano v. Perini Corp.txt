@@ -1,0 +1,21 @@
+Citation
+25 N.Y.2d 11, 250 N.E.2d 31, 302 N.Y.S.2d 527, 1969 N.Y.
+
+Brief Fact Summary
+In the course of constructing a tunnel, Defendants set off a large quantity of dynamite that allegedly damaged Plaintiffs’ property. Plaintiffs brought suit, claiming negligence but failing to offer any evidence that Defendants failed to exercise reasonable care. Plaintiffs relied instead upon a theory of absolute liability for blasting operations and received a favorable verdict, but Defendants won reversal of the verdict on appeal.
+
+Synopsis of Rule of Law
+In the case blasting operations, failure to prove negligence will not bar recovery when damage to an innocent party results from the blasting. Because blasting is an abnormally dangerous activity, public policy requires that the costs of the damage resulting to innocent parties be borne by those undertaking the blasting, even when they have not behaved negligently.
+
+Facts
+Plaintiffs’ property was allegedly damaged as a result of blasting operations undertaken by Defendants. Plaintiffs brought suit to recover for these damages, but were unable to show that Defendants had acted negligently. Plaintiffs thus sought to recover on the theory that those engaged in blasting are subject to liability for damages resulting from the blasting even in the absence of a showing of negligence. This was the rule in the majority of jurisdictions at the time, but not in New York. Plaintiffs were awarded a verdict at trial, but that verdict was reversed on appeal.
+
+Issue
+Was the Appellate Division correct in upholding the appellate term’s reversal of the verdict in favor of the Plaintiff because there was no evidence of negligence on the part of the Defendant?
+
+Held
+No. The Appellate Division’s decision was reversed and the cause was remanded to the Appellate Division for an inquiry into the weight of the evidence with respect to the cause of the damages.
+
+Discussion
+This case helps reintroduce concepts of no-fault liability to the law of torts. These notions of strict or absolute liability for blasting and other “ultra hazardous” or “abnormally dangerous” activity would seem to buck the trend toward requiring fault or wrongdoing as a prerequisite to recovery.
+

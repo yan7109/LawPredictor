@@ -1,0 +1,20 @@
+Brief Fact Summary
+Plaintiff Iseberg and defendants were in a partnership that eventually dissolved.  One of the partners, Mr. Slavin, lost his entire investment and told two partners that he wanted to harm Iseberg as a result.  A few years later, Slavin rang Iseberg’s doorbell and shot him four times when he answered the door.  The two partners had never warned Iseberg.
+
+Synopsis of Rule of Law
+When a special relationships exists between parties, and an unreasonable risk of harm arises within the scope of that relationship, an obligation may be imposed on the one to exercise reasonable care to protect the other from, or warn him about, such risk, if the risk is reasonably foreseeable, or to render aid when it is known that such aid is needed.
+
+Facts
+Slavin and Mr. Gross formed a business together called Vernonshire Auto Laundry (“VAL”).  They contacted Plaintiff Iseberg, a lawyer and real estate developer, who was in the process of acquiring land to develop into a strip mall.   Iseberg and one Mr. Frank started a corporation, LFD, in order to complete that transaction.  VAL and LFD formed a partnership with each company contributing funds to purchase the land.  A dispute arose among the partners and the partnership was dissolved, leaving VAL with sole ownership of the property.  Much time passed and because the property did not sell, Slavin lost his entire investment.  Slavin became mentally unbalanced and focused his anger on Iseberg.  Slavin told Gross several times that he wanted to harm Iseberg and then commit suicide.  Gross told Frank about these threats, but neither told Iseberg.  In early 2000, Slavin rang the doorbell at Iseberg’s home and shot him four times when he answered the door, killing him.
+
+Issue
+Whether Gross and Frank had a special relationship with Iseberg such that they had a duty to act reasonably to protect him from, or warn him of, Slavin’s attack.
+
+Held
+No.  The law only imposes a duty to act where a “special relationship” exists between the parties.  Historically there have been four such relationships: common carrier/passenger, innkeeper/guest, business invitor/invitee, and voluntary custodian/protectee.  When one of these special relationships exists and an unreasonable risk of harm arises within the scope of that relationship, an obligation may be imposed on the one to exercise reasonable care to protect the other from such risk, if the risk is reasonably foreseeable, or to render aid when it is known that such aid is needed.  Plaintiff argued that Iseberg was an agent of Gross and Frank, giving rise to a duty to warn of Slavin’s threats.  The court, however, did not find a principal/agent relationship between the defendants and Iseberg at the time of the injury.  Moreover, the complaint did not allege that the risk of harm arose from the agency relationship.  Not finding any other special relationship, the court held that defendants had no duty to protect Iseberg.
+
+Discussion
+This case stands for the proposition that an affirmative duty to warn or protect against the criminal conduct of a third party may be imposed on one for the benefit of another only if there exists a special relationship between them.
+
+benefit of another only if there exists a special relationship between them.
+

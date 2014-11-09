@@ -1,0 +1,21 @@
+Citation
+22 Ill.407 U.S. 67, 92 S. Ct. 1983, 32 L. Ed. 2d 556 (1972)
+
+Brief Fact Summary
+Plaintiff financed personal property from the Firestone Tire and Rubber Company but allegedly defaulted on payment. Pursuant to the financing agreement, Firestone could reclaim the property, which it did via a prejudgment replevin statute. Plaintiff sued the Attorney General (Defendant) claiming that a statute allowing prejudgment replevin of her property by Firestone was unconstitutional.
+
+Synopsis of Rule of Law
+A prejudgment replevin statute violates the due process clause of the Fourteenth Amendment unless the risk of erroneous deprivation is low, the state has a strong interest in allowing the replevin prior to a hearing, or the individual clearly waives his or her right to a hearing. The individual need not be the actual owner in order to be deprived of the property but must have a “significant possessory interest” in the property.
+
+Facts
+Fuentes (Plaintiff) defaulted on payments made to Firestone for property financed from Firestone. The applicable agreement stated that Firestone may retake the property in the event of default of payment. Firestone received a writ of replevin and repossessed the property. Other individuals had a similar problem in different jurisdictions. Plaintiff sued the Attorney General challenging the constitutionality of the prejudgment replevin statutes in Florida and Pennsylvania. Plaintiff argued that the statutes violate the Due Process Clause of Fourteenth Amendment. Both statutes give a writ of replevin prior to any hearing. In addition, under the Pennsylvania statute, the person whose property is seized has the burden of bringing lawsuit. Under both statutes, the person seeking repossession must post a security bond. The accused must post a security bond double the value of property seized within three days of repossession in order to get the property back before the proceedings.
+
+Issue
+Does a prejudgment replevin statute that allows a private party to repossess the property of another who has a significant possessory interest in the property, and does not require that the seizure to secure an important governmental or general public interest violate the Due Process Clause of the Fourteenth Amendment unless the debtor specifically waives her right to be heard and notified?
+
+Held
+Yes.   The writ of replevin is not a substitute for a prior hearing because the conclusory allegations required in the writ are based on the applicant’s own belief in entitlement to the property, and not specific facts.  “Deprivation,” as used in the Due Process Clause, is defined not as total deprivation of property one has full ownership in, but also temporary taking of property one has a significant possessory interest in.     While a security bond does provide some protection against improper use of the replevlin remedy, there must be a hearing prior to replevlin nonetheless.  The contract at issue does not waive the right to notice and a hearing because it is not specific enough.   <br/><br/><span class='heading'>Dissent.</span> Justice White: Property is not actually given to the creditor upon replevlin but placed into custody and immobilized. The majority opinion does not really protect the property interests of the debtor: the creditor can just specify in the contract that upon default, the property will be repossessed without notice. If a hearing is required, it will simply become harder for other people to get credit, or more costly for creditors to secure their interests.
+
+Discussion
+This case demonstrates that a clause is a contract that purports to waive an individual’s right to notice and be heard regarding his or her interest in the property must be clear in order to be effective.
+

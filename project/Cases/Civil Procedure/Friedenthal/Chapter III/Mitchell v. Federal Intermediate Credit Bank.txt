@@ -1,0 +1,21 @@
+Citation
+22 Ill.165 S.C. 457, 164 S.E. 136 (1932)
+
+Brief Fact Summary
+The Plaintiff, Mitchell (Plaintiff), brought suit to collect money owed to him by way of a surplus paid on a note. The Defendant, Federal Intermediate Credit Bank (Defendant), had brought suit against the Plaintiff in an earlier case arising out of the same facts in which the Plaintiff won, though he did not seek relief in that case and instead sought it in the case at bar.
+
+Synopsis of Rule of Law
+A Plaintiff is not allowed to split his causes of action by first using it as a defense in one case and as a claim in another.
+
+Facts
+The Plaintiff took out a loan from the Defendant bank in which proceeds from his potato crop were secured as security for two notes due in the amount of $9,000. The crops netted $18,000 and the Plaintiff never received any of the money. The Defendant had brought suit against the Plaintiff in a previous suit, in which the Plaintiff alleged the same facts as in this case, though he never sought relief. Judgment in that case was for the Plaintiff. The Defendant now, claims that the Plaintiff is estopped from bringing forth this claim.
+
+Issue
+Whether the circuit judge erred in sustaining the plea barring the Plaintiff’s action.
+
+Held
+No. The court found that the facts pleaded by the Plaintiff in the previous case as his defense to the Defendant bank’s recovery on its notes are the same as those set out by him in his complaint as the basis of his action in the case at bar. When the Defendant bank sued the Plaintiff on the two notes, he had the option to interpose his claim as a defense to that suit or to demand judgment against the bank through a counterclaim. In that case, had he asked for relief, he would have gotten it. Because he did not do this, and instead chose to attempt to split his cause of action, he is precluded from doing so. Affirmed.
+
+Discussion
+The court took note of a decision in a precious case, which asserted that a party against whom action is brought on a contract has two ways of defending himself. The first, by alleging specific breaches of the contract declared upon and relying on them in defense. But, secondly, if he intends to claim damages for nonperformance of the contract, more than the amount for which he is sued, he must not rely on the contract defense, but on a cross action and ask the court to set off the amounts contested. The Plaintiff is not allowed to use the same defense first as a shield and then a sword.
+

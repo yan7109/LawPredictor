@@ -1,0 +1,21 @@
+Citation
+449 U.S. 383,101 S. Ct. 677,66 L. Ed. 2d 584,1981 U.S.
+
+Brief Fact Summary
+Respondent claims that the results of an investigation carried out by their counsel should be protected by attorney-client privilege.
+
+Synopsis of Rule of Law
+When an attorney is retained to represent a corporation, the attorney-client and work product privileges may extend to every employee in that corporation.
+
+Facts
+Counsel for Respondent, Upjohn Corporation, conducted a confidential investigation of the company’s international offices following reports that some foreign managers were making “questionable payments” to various foreign government officials in violation of U.S. law. When the IRS attempted to obtain copies of questionnaires, memoranda, and interview transcripts from Upjohn relating to this investigation, Respondents’ objection on attorney-client and work product grounds was overruled by the Appeals Court, which held that attorney-client privilege did not apply to communications made by employees not in Upjohn’s “control group”; i.e., not responsible for directing the company’s policies.
+
+Issue
+May attorney-client privilege protect corporate counsel’s communications non-management employees?
+
+Held
+Yes. Corporate counsel represent the corporation, not merely the “control group” of officers and directors. Any employee capable of making a decision that would substantially effect the corporation’s legal position must be granted this privilege so that counsel may properly assess the corporation’s liabilities. Lower court reversed.
+
+Discussion
+If attorneys are to be retained to represent the interests of an entire corporation, it stands to reason that the corporation’s employees should enjoy the full benefits of attorney-client privilege in their communications with counsel. Any other holding would have significantly chilled corporate counsel’s ability to properly investigate possible liabilities and therefore impaired their effectiveness.
+

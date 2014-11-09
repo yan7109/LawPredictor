@@ -1,0 +1,24 @@
+Citation
+549 U.S. 1212 127 S. Ct. 1334 167 L. Ed. 2d 85 2007 U.S.
+
+Brief Fact Summary
+Petitioner was charged with selling heroin on multiple occasions to an undercover police officer.  At trial, Petitioner testified that the bags did not contain heroin, but had baking powder inside.
+
+Synopsis of Rule of Law
+Evidence inadmissible for lack of Miranda warnings does not prevent the admission of the evidence for all purposes if the admission satisfies another legal admission, such as impeachment.
+
+Facts
+Petitioner Harris was charged with selling in heroin to an undercover officer on two occasions.  Petitioner took the stand in his own defense but denied the offense, and he claimed he sold the officer two bags of baking powder.  On cross-examination the prosecution used contradicting statements made by Petitioner to police shortly after his arrest.  The contradicting statements were made before Petitioner received his Miranda warnings.
+
+Issue
+Was the prosecution improperly allowed to use the statements to impeach Petitioner’s testimony since the statements were made without Miranda warnings?
+
+Held
+Chief Justice Burger issued the opinion for the United States Supreme Court in holding that Petitioner was allowed to be impeached using his conflicting statements.
+
+Dissent
+Justice Black dissented without comment.
+
+Discussion
+The Court found that a defendant should not be allowed to commit perjury, and if impeachment evidence is available and admissible for that purpose, then the lack of Miranda warning should not prevent it.  If Petitioner’s statement had been to a third party instead of police, there would have been little question as to the admissibility.
+

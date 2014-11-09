@@ -1,0 +1,21 @@
+Citation
+568 F.2d 240 (2d Cir. 1977)
+
+Brief Fact Summary
+The Food and Drug Administration (FDA) issued a regulation to prevent botulism that applied a uniform time-temperature-salinity (T-T-S) regulation on all species of fish. Nova Scotia Food Products Corp., a seller of smoked whitefish, refused to comply with the regulation, claiming that heating certain types of fish to high temperatures destroys the product.
+
+Synopsis of Rule of Law
+APA Section:553 requires agencies to issue a “concise general statement,” which was inadequate in this case. When the basis for a proposed rule is a scientific decision, the scientific material believed to support the rule should be exposed to the view of interested parties for their comment.
+
+Facts
+When the Commissioner employed notice-and-comment procedures for the proposed T-T-S requirement, the Bureau of Commercial Fisheries (Bureau) objected on the ground that the application of a uniform standard to all species was not commercially feasible, and suggested an alternative using a lower temperature with suitable concentrations of nitrate and salt. The Commissioner did not respond to the Bureau’s suggestion. Nova Scotia wrote a letter to the Commissioner stating that the high temperature would destroy its product. The Commissioner disregarded these comments, and adopted a uniform standard to all species. Nova Scotia refused to comply.
+
+Issue
+Was the T-T-S regulation valid?
+
+Held
+No, the regulation was invalid.   The Commissioner failed to notify the interested parties of the scientific research upon which it was relying in its proposal; failed to address the Bureau’s suggested alternative; and failed to answer the comment that the proposed T-T-S requirements would destroy whitefish.   Dissent. None.  Concurrence. None.
+
+Discussion
+This case involved a scientific decision, and the Commission’s notice-and- comment procedure was insufficiently executed.
+

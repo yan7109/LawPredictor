@@ -1,0 +1,24 @@
+Citation
+452 U.S. 18, 101 S. Ct. 2153, 68 L. Ed. 2d 640, 1981 U.S. 107
+
+Brief Fact Summary
+Petitioner, Abby Gail Lassiter, challenged the state of North Carolina’s decision not to provide her counsel in a custody hearing.
+
+Synopsis of Rule of Law
+The Due Process Clause of the United States Constitution entitles a party to the assistance of counsel when there is a danger to their personal freedom, or when the private and government interests and the risk of erroneous decisions would mandate the assistance of counsel.
+
+Facts
+Petitioner lost custody of her infant son in 1975.  A year later, Petitioner was convicted of second-degree murder of one of her other children.  In 1978, Respondent, the Department of Social Services of Durham County, North Carolina, petitioned to end Petitioner’s parental rights of the infant.  Petitioner had counsel to overturn her murder conviction, but she did not notify him of the hearing.  Instead she remained silent and attended the hearing alone.  After listening to witnesses and to Petitioner, the court terminated her parental rights.  Petitioner appealed the judgment, arguing that as an indigent the state should have provided her assistance of counsel under the Due Process Clause.  The North Carolina Court of Appeals rejected her argument because the invasion of her privacy as not so great as to mandate counsel.
+
+Issue
+The issue is whether the state’s decision not to provide assistance of counsel to indigent Petitioner violated her rights under the Due Process Clause.
+
+Held
+The majority of the United States Supreme Court held that the Due Process Clause guarantees the assistance of counsel when there is a danger that one’s personal liberty will be denied.  Due Process would also require that the three factors outlined in Mathews v. Eldridge, 424 U.S. 319 are weighed, specifically that the private interests, government interests and the risk that the procedures in place may provide erroneous outcomes be weighed to determine whether it would necessitate the assistance of counsel.  But the Court will weight those factors case-by-case, and in this case there was reason to believe that Petitioner would have received little help from counsel and that there was no damage done in her lack of counsel.
+
+Dissent
+The dissenting opinion classified a parent’s interest in the custody of their child to be significant enough to demand the assistance of counsel.  The other instances where the court has declined to force states to provide counsel for a party, such as school disciplinary hearings, had interests at stake that were not nearly as compelling as the termination of custody.
+
+Discussion
+The dissent uses the same three-factor test from Mathews v. Eldridge as the majority did, but they gave a greater weight to private interests with the issue of the termination of custody.
+

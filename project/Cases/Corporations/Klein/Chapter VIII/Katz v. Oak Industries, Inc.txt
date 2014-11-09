@@ -1,0 +1,21 @@
+Citation
+508 A.2d 873 (Del. Ch. 1986)
+
+Brief Fact Summary
+Plaintiff, Moise Katz, brought this action on his own behalf and other securities holders similarly situated, to prevent Defendant, Oak Industries, from completing an exchange offer wherein Defendant offered securities holders cash or stock for the debt securities.
+
+Synopsis of Rule of Law
+The directors of a company owe a fiduciary duty to shareholders and a contractual duty to debt holders, and therefore it is acceptable for them to negotiate a non-breaching offer that puts additional burdens on the debt holders to favor shareholders.
+
+Facts
+Defendant was performing poorly and at its current rate of losses would not be able to continue without drastic changes.  Share prices dropped from $30 per share in 1981 to only $2 in 1985.  Defendant therefore arranged to sell off certain assets to another company, Allied-Signal, Inc. (”Allied”).  Allied was to purchase portions of the business and take on Defendant’s debt, but only if the holders of Defendants debt would agree to an exchange offer for the debt.  The offer would pay out between $655 to $918 per $1000 note accepted.  Although the offer meant a loss to debt holders, it still offered an opportunity to receive some value for the notes instead of watching the value sink along with Defendant’s business.  Allied was required to move ahead with the purchase only if at least 85% of the debt holders agreed to the exchange.  Plaintiffs brought this action, arguing that the offer was coercion because any reasonable debt holder had to take the offer, but the arrangement b
+
+Issue
+The issue is whether the exchange offer violated an implied covenant of good faith due to a coercive exchange offer.
+
+Held
+The court held that the offer was not coercive because it was evidently over market value or no one would accept the offer.  The fact that Defendants gave an exchange offer that was intended to help the shareholders while taking value from the debt holders is acceptable because the directors of Defendant have a fiduciary duty to their shareholders.  The only duties they owe the debt holders are what they contractually agreed to.  The court declined to add any implied covenants when Defendant’s conduct is not contradictory to their duties.
+
+Discussion
+Similar to Metropolitan Life Ins. Co. v. RJR Nabisco, Inc., and Sharon Steel Corp. v. Chase Manhattan Bank, N.A., the court declined to add any requirements or benefits that were not already expressly provided for in the contract.
+

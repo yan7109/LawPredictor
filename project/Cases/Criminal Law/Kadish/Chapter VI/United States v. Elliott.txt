@@ -1,0 +1,21 @@
+Citation
+22 Ill.131 S. Ct. 483, 178 L. Ed. 2d 283 (2010) [2010 BL 240590]
+
+Brief Fact Summary
+The Defendants, Elliot and five other individuals (Defendants), were convicted of violating the Racketeer Influenced and Corrupt Organizations Act (RICO), a law passed specifically to target the complex nature of organized crime.
+
+Synopsis of Rule of Law
+RICO prosecution only requires that there is evidence that conspirators each agreed to participate, directly or indirectly, in advancing the purposes of a criminal enterprise by committing two or more predicate crimes.
+
+Facts
+The Defendants were convicted of conspiring to violate RICO, arising out of an agreement to advance the purposes of a criminal enterprise engaged in theft, the sale of stolen property, drug trafficking and obstruction of justice. The Defendants appealed on the basis that the evidence at trial showed the existence of several different conspiracies and not a single common conspiracy.
+
+Issue
+Do conspiracy convictions in a RICO case require that each conspirator agreed to commit each of the substantive crimes contemplated in the conspiracy indictment?
+
+Held
+No.
+
+Discussion
+As is evident, the RICO statute allows the government to bring together in a single conspiracy prosecution a variety of criminal actors who would have been tried separately under the previous statutory approach for their separate criminal conspiracie
+

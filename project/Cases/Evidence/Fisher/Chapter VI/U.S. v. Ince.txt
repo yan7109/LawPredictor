@@ -1,0 +1,21 @@
+Citation
+21 F.3d 576, 1994 U.S. App.
+
+Brief Fact Summary
+Following a shooting at a rap concert and dance, Nigel Ince (Appellant) was arrested, charged, and convicted by a jury of assault with a dangerous weapon.  The night of the crime, Roger Stevens (Stevens), a Military Policeman, interviewed and took a signed statement from an eyewitness, Angela Neumann (Neumann).  At trial, Neumann testified that she did not remember what she told Stevens that night, but Stevens testified as to what Neumann told him, and ultimately the jury convicted Appellant, who appeals that conviction here.
+
+Synopsis of Rule of Law
+Under Federal Rule of Evidence 607, a witness’s credibility may be attacked through impeachment testimony, but when testimony lacks any probative value and carries a high risk of prejudice, the evidence must be excluded, even when it meets the technical requirements of Rule 607.
+
+Facts
+Appellant was convicted of assault with a dangerous weapon, with the intent to do bodily harm, after a shooting occurred in the parking lot of a rap concert.  On the night of the shooting, Neumann, a companion of Appellant’s, told Stevens in a signed statement that Appellant had fired the shots.  During Appellant’s trial, however, Neumann took the stand and stated that she could not recall what she told Stevens the night of the crime.  The prosecution called Stevens to the stand to impeach Neumann, who testified as to what Neumann had told him on the night in question; the prosecution and also called two other eyewitnesses who identified Appellant as the shooter.
+
+Issue
+Was the testimony of Stevens, which the lower court allowed, offered to prove the truth of the matter asserted in Neumann’s out-of-court statement or offered to impeach Neumann’s credibility, and did the lower court error in admitting the testimony?
+
+Held
+Reversed and remanded: Stevens’ testimony was offered to impeach the prior inconsistent statement of Neumann, but the lower court nonetheless committed error in admitting the evidence because the testimony carried a high risk of prejudice and was lacking in any probative value.
+
+Discussion
+The initial question is whether the testimony of Stevens was offered to prove the truth of the matter asserted in Neumann’s out-of-court statement (which would make the testimony inadmissible hearsay), or offered to impeach Neumann’s credibility (which would normally make the testimony admissible under Rule 607).  However, even after concluding that the evidence fits as impeachment evidence under Rule 607, the court nonetheless holds that the evidence should not have been admitted, and that the court committed reversible error in admitting it.  The court reasons that the prosecution was attempting the evade the Rules of Evidence and get testimony that was inadmissible hearsay into evidence through Rule 607 in contradiction of the Rule’s intended purpose.  The court states that, “Stevens’s so-called ‘impeachment’ testimony was both highly prejudicial and devoid of probative value as impeachment evidence, the trial judge should have recognized the Government’s tactic for wha
+

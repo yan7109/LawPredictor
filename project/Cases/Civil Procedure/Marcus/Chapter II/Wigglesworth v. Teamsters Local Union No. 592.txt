@@ -1,0 +1,21 @@
+Citation
+68 F.R.D. 609, 1975 U.S. Dist. 20 Fed. R. Serv. 2d (Callaghan) 1170; 79 Lab. Cas. (CCH) P11,726
+
+Brief Fact Summary
+Welford Wigglesworth, Jr., (Plaintiff) filed a complaint under the Labor Management Reporting Disclosures Act (Act) alleging that the union and its president violated certain rights protected by the Act. Teamsters Local Union No. 592 (Defendants) filed a counterclaim for libel and slander against the Plaintiff. Plaintiff moved to have the counterclaim dismissed for lack of subject matter jurisdiction.
+
+Synopsis of Rule of Law
+If counterclaims arise out of the same transaction or occurrence of the Plaintiff’s claim then they are compulsory counterclaims and jurisdiction is ancillary to the Plaintiff’s claim.
+
+Facts
+Plaintiff filed a complaint against the Defendant alleging that the union and its president violated certain rights as protected by the Act. Specifically, the complaint alleges that Plaintiff was prevented from exercising his right to freedom of speech and denied his request to have union membership informed of their rights as required by the Act. The Defendants then filed a counterclaim against Plaintiffs, alleging that Plaintiff called a press conference at which he accused the union of being dominated by the mafia, and that past local union elections were fixed. Defendants claim that these actions constituted libel and slander. Plaintiff filed a Motion to Dismiss the counterclaim for lack of subject matter jurisdiction. There is no diversity of citizenship between the parties, and jurisdiction is founded solely on 42 U.S.C. Section: 412.
+
+Issue
+Whether Defendant’s counterclaim arises out of the same transaction or occurrence that is the subject matter of the Plaintiff’s claim?
+
+Held
+No. Plaintiff’s Motion to Dismiss the counterclaims will be granted.   If Defendant’s counterclaim arises out of the same transaction or occurrence that is the subject matter of the Plaintiff’s claim, then it is a compulsory counterclaim and no independent basis for federal jurisdiction is required.  Here, Plaintiff’s claim is that he was denied his right to free speech and expression at union meetings. The claim solely arises from the alleged wrongful conduct on the part of the union. Defendant’s counterclaim for libel and slander is predicated on events, which are in no way part of the transactions or occurrence, which gave rise to the Plaintiff’s claim. Therefore, the counterclaim was permissive and not properly presented to the court. The evidence necessary to prove libel and slander is not relevant to the Plaintiff’s claim.
+
+Discussion
+There are two types of counterclaims: permissive counterclaim and compulsory counterclaim. A permissive counterclaim is any claim against an opposing   party, which is not related to the action and therefore must have its own basis for federal jurisdiction. On the other hard, a compulsory counterclaim is any related claim arising of the same transaction or occurrence, and jurisdiction is ancillary to the claim. No independent basis for federal jurisdiction is required.
+

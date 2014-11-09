@@ -1,0 +1,21 @@
+Citation
+426 U.S. 610, 96 S. Ct. 2240, 49 L. Ed. 2d 91 (1976)
+
+Brief Fact Summary
+Two individuals were convicted of selling marijuana.  During cross examination, the prosecutor asked why they did not tell the police the post-Miranda exculpatory story that they told during trial.
+
+Synopsis of Rule of Law
+“[T]he use for impeachment purposes of petitioners’ silence, at the time of arrest and after receiving Miranda warnings, violated the Due Process Clause of the Fourteenth Amendment.”
+
+Facts
+The Petitioners, Doyle and Wood (the “Petitioners”) were arrested for selling ten pounds of marijuana to an informant.  The Petitioners were convicted in separate trials based on the same evidence.   The Petitioners were arrested and mirandized.
+
+Issue
+“[W]hether a state prosecutor may seek to impeach a defendant’s exculpatory story, told for the first time at trial, by cross-examining the defendant about his failure to have told the story after receiving Miranda warnings at the time of his arrest.?”
+
+Held
+“[U]se of the defendant’s post-arrest silence in this manner violates due process.”  The majority observed, “[s]ilence in the wake of these warnings may be nothing more than the arrestee’s exercise of these Miranda rights. Thus, every post-arrest silence is insolubly ambiguous because of what the State is required to advise the person arrested.”  Further, “while it is true that the Miranda warnings contain no express assurance that silence will carry no penalty, such assurance is implicit to any person who receives the warnings. In such circumstances, it would be fundamentally unfair and a deprivation of due process to allow the arrested person’s silence to be used to impeach an explanation subsequently offered at trial.”
+
+Discussion
+This case demonstrates the interaction between the due process clause and the rules of evidence.
+

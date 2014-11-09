@@ -1,0 +1,21 @@
+Citation
+425 U.S. 391, 96 S. Ct. 1569, 48 L. Ed. 2d 39, 1976 U.S.
+
+Brief Fact Summary
+The Supreme Court of the United States (”Supreme Court”) granted cert in this case to resolve the conflict between the Third and Fifth Circuits regarding the extent to which the Fifth Amendment constitutional privilege of a client extends to an attorney when that attorney has been subpoenaed to produce documents given to him by his client.
+
+Synopsis of Rule of Law
+The Fifth Amendment of the United States Constitution (”Constitution”) protects only a witness from being a witness against himself in a criminal trial, and does not protect those documents that a person has given to his attorney.  Once the attorney has possession of the documents, the threat of compulsion is removed from the witness himself and the Fifth Amendment of the Constitution does not apply.
+
+Facts
+The Supreme Court granted cert to resolve a split in the circuits regarding the extent to which an attorney who has received documents from a client facing potential civil or criminal liability must produce the documents after receiving a subpoena requesting those documents.  In these cases, taxpayers received documents from their accountants used in the preparation of their tax returns, which documents they then passed on to their attorneys for use in assisting them with the events that would transpire from the respective investigations ongoing against them.
+
+Issue
+Whether documents which would have been protected by the Fifth Amendment of the Constitution in the hands of an attorney’s client remain protected when they have been transferred to the attorney.
+
+Held
+Documents which were protected in a client’s hands lose any Fifth Amendment constitutional protection when they have been transferred to an attorney because the potential compulsion to testify against oneself has been removed.
+
+Discussion
+The Fifth Amendment of the Constitution does not protect a general right of privacy, but only the right to give testimony against oneself that may be incriminating. Because the documents in this case could have been obtained through normal process in the hands of the client, the fact that they were turned over to the attorney is inconsequential. The attorney client privilege, as a result, does not apply.
+

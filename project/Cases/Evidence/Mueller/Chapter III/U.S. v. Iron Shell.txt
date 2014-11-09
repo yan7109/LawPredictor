@@ -1,0 +1,21 @@
+Citation
+633 F.2d 77, 1980 U.S. App.
+
+Brief Fact Summary
+John Louis Iron Shell (Appellant) was convicted by a jury of assault with intent to commit rape on a woman named Lucy (Victim).  At trial, various out-of-court statements, made by Victim to a police officer and a physician, were admitted under two exceptions to the hearsay rule.  Based on the admission of the out-of-court statements by the lower court, Appellant appeals his conviction.
+
+Synopsis of Rule of Law
+No per se abuse of discretion occurs when a lower court finds that Federal Rule of Evidence 803(2) applies as a hearsay exception after an hour has passed between the time of the “event or condition” about which the statement is made and the statement itself.
+
+Facts
+Victim was sexually assaulted in some bushes near the side of a road; following the assault, Victim sought help, and was interviewed by police and examined by a physician within hours.  The time of the assault was sometime between 6:00pm and 6:30pm; following the assault, Victim was interviewed by a police officer, Officer Marshall (Marshall), around 7:15pm and by a physician, Dr. Hopkins (Hopkins), around one hour later.  Victim told Marshall she was grabbed, held around the neck, and threatened.  Marshall testified as to these out-of-court statements at trial.  The statements Victim made to Hopkins during the examination were also admitted into evidence at trial.  Appellant was convicted by a jury and appeals here, arguing that the above statements constitute inadmissible hearsay not within any exception, and therefore that their admission justifies reversal of his conviction.
+
+Issues
+Was it prejudicial error for the lower court to admit the hearsay testimony of Officer Marshall under Federal Rule of Evidence 803(2), which allows for hearsay statements to be admitted when the statement is one, “relating to a startling event or condition while the declarant was under the stress of excitement caused by the event or condition?” Were the statements Victim made to Dr. Hopkins properly admitted under Federal Rule of Evidence 803(4), the medical statements exception to the hearsay rule?
+
+Held
+Affirmed.
+
+Discussion
+The court explicitly sets forth its reasoning in reaching its conclusion, stating, “Even if [ ] Marshall’s testimony concerning [Victim's] statement was found to be inadmissible hearsay under 803(2), it is our view that the evidence was at most cumulative and therefore constituted harmless error.”  Therefore, the court explains, whether hearsay within any exception or not, the conviction would be affirmed.
+

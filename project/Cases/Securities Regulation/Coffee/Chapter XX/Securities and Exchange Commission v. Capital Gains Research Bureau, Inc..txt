@@ -1,0 +1,21 @@
+Citation
+375 U.S. 180 (1963)
+
+Brief Fact Summary
+An injunction was sought by the Securities and Exchange Commission (SEC) forcing Capital Gains Research Bureau, Inc. (Defendant) to disclose to clients its practice of only recommending shares after buying them for its own account.
+
+Synopsis of Rule of Law
+A financial adviser may be required by the SEC, without a showing of intent to deceive, to reveal self-dealing that may affect clients.
+
+Facts
+Capital Gains Research Bureau, Inc. (D) was a registered investment adviser who repeatedly engaged in the practice of buying shares of stock it intended to recom­ mend and then selling them after the recommendation caused the stock's value to rise. The SEC (P) filed an action seeking an injunction mandating disclosure of this practice to clients. The district court held that such an injunction could not issue without a showing of intent to deceive and the court of appeals affirmed. The Supreme Court granted review.
+
+Issue
+May a financial adviser be required by the SEC, without a showing of intent to deceive, to reveal self-dealing that may affect clients?
+
+Held
+(Goldberg, J.) Yes. A financial adviser may be required by the SEC, without a showing of intent to deceive, to reveal self-dealing that may affect clients. As proscribed by the 1940 Investment Advisers Act (Advisers Act) "any . . . practice . . . which operates . . . as a fraud or deceit upon any client or prospective client."  Intent to deceive does not appear to be required by the language. Aside from that, prohibiting any kind of manipulation on the part of investment advisers and to make full disclosure of material information a requirement is the obvious intent behind the Advisers Act. Obviously, self-dealing by an investment adviser regarding suggested investments at the very least allows for a strong possibility for conflicts of interest and so should be disclosed. Reversed and remanded.
+
+Discussion
+The last of the Roosevelt-era legislation that dramatically changed the securities market was the 1940 Investment Advisers Act, and similar to the well-known Securities Act and Securities Exchange Act, it was conceived to combat alleged securities market abuses. Intended to stop investment advisers from taking advantage of their superior position vis-à-vis their clients, Congress enacted the Act and like with other acts, disclosure was the vital component for achieving this result.
+

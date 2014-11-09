@@ -1,0 +1,21 @@
+Citation
+148 F.2d 703 (4th Cir. 1945)
+
+Brief Fact Summary
+The voting trustees of a trust agreement amended the charter of the Baltimore Transit Company (Company) to change the voting rights of the preferred stockholders in favor of the debenture holders.
+
+Synopsis of Rule of Law
+Although a voting trustee can change the charter for proper purposes, it is improper to change the charter to affect the voting rights of one class of stockholders to the detriment of another class of stockholders.
+
+Facts
+Plaintiff is the holder of voting trust certificates representing 500 shares of the preferred stock of the Company.  Plaintiff brings a class actions against the voting trustees, the directors of the company, the Company, the indenture trustee for the holder’s of the Company’s debentures, and the debenture holders as a class (Defendants), seeking to set aside an amendment to the Company’s charter as unlawful.
+
+Issue
+Whether it was beyond the powers vested in the trustees to amend the charter to benefit the debenture holders at the expense of the preferred stockholders?
+
+Held
+Yes.  Reverse and remanded.  Relief will be determined by the District Court.
+
+Discussion
+Although the voting trustees have the power to amend the charter for proper purposes, it was improper to exercise their power in such a way that it would result in taking from the certificate holders the very power which they conferred to the trustees for the holders benefit in the first place. The trustee may not exercise powers granted to them in such a way as to favor one class at the expense of another class.
+

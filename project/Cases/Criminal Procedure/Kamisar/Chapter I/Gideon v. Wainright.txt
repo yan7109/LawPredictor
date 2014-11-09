@@ -1,0 +1,21 @@
+Citation
+372 U.S. 335, 83 S. Ct. 792, 9 L. Ed. 2d 799 (1963)
+
+Brief Fact Summary
+Gideon was charged with a felony in Florida state court.  He appeared before the state Court, informing the Court he was indigent and requested that the Court appoint him an attorney.  The Court declined to appoint Gideon an attorney, stating that under Florida law, the only time an indigent defendant is entitled to appointed counsel is when he is charged with a capital offense.
+
+Synopsis of Rule of Law
+This case overruled Betts and held that the right of an indigent defendant to appointed counsel is a fundamental right, essential to a fair trial. Failure to provide an indigent defendant with an attorney is a violation of the Fourteenth Amendment of the United States Constitution (”Constitution”).
+
+Facts
+Gideon was charged in a Florida state court with breaking and entering into a  poolroom with the intent to commit a misdemeanor.  Such an offense was a felony under Florida law.  When Gideon appeared before the state Court he informed the court that he was indigent and requested the Court appoint him an attorney, asserting that “the United States Supreme Court says I am entitled to be represented by counsel.”  The se Court informed Gideon that under Florida law only indigent clients charged with capital offenses are entitled to court appointed counsel.
+
+Issue
+Whether the Sixth Amendment constitutional requirement that indigent defendants be appointed counsel is so fundamental and essential to a fair trial that it is made obligatory on the states by the Fourteenth Amendment of the Constitution?
+
+Held
+The right to counsel is a fundamental right essential to a fair trial and due process of law.
+
+Discussion
+The Supreme Court, in reaching its conclusion that the right to counsel is a fundamental right imposed upon the states pursuant to the Fourteenth Amendment of the Constitution, engages in an analysis of its previous decisions holding that other provisions of the Bill of Rights are fundamental rights made obligatory on the States. The Supreme Court accepts the Betts v. Brady assumption that a provision of the Bill of Rights which is fundamental and essential to a fair trial is made obligatory on the states by the Fourteenth Amendment of the Constitution.  The Supreme Court diverges from Betts in concluding that the right to assistance of counsel is a fundamental right. The Supreme Court found that the Betts Court’s conclusion that assistance of counsel is not a fundamental right was an abrupt break from its own well-considered precedent. The Supreme Court further reasons that the right to be heard at trial would be, in many cases, of little avail without the assistance of
+

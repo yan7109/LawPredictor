@@ -1,0 +1,15 @@
+Citation
+362 Fed. Appx. 212
+
+Brief Fact Summary
+Plaintiff, C.L. Grimes, filed an action against Defendant Board of Directors and CEO James L. Donald to invalidate Donald’s employment agreement which Plaintiff believed effectively abdicated the Board’s management powers to Donald.<span class="heading">Synopsis of Rule of Law.</span> A plaintiff, by making a demand, waives his right to contest the independence of the Board of Directors, and the effect of the demand will apply for all of a plaintiff’s stated claims.
+
+Facts
+Plaintiff filed an action against the Board and Donald in order to invalidate Donald’s employment agreement.  Donald and the Board agreed upon an agreement that would run until Donald’s 75th birthday.  The agreement provided a salary, incentive plans and health insurance.  The agreement vested to Donald the “the general management of the affairs of the Company.”   The agreement further provided that if Donald was “constructively terminated without cause,” (which would be when there is “unreasonable interference, in the good-faith judgment of [Mr. Donald], by the Board or a substantial stockholder of the Company, in [Mr. Donald's] carrying out his duties and responsibilities under the Agreement”), he would be eligible for a generous retirement package.  Plaintiff understood this provision as the Board abdicating their management responsibilities to Donald.  Plaintiff wrote the Board, demanding that they invalidate the agreement.  The Board responded, explaining that a third part helped to develop the agreement, and that the Board was still capable of managing the company with this agreement in place.  Plaintiff then brought suit, and added additional claims against the conduct of the Board.<span class="heading">Issue.</span> The issue is whether Plaintiff’s pre-suit demand waives his right to contest the independence of the Board on all of his claims.
+
+Held
+Plaintiff waived his right to contest the independence of the Board once he demanded that they invalidate the employment contract.  A pre-suit demand is a tool to avoid further litigation, but it would not serve that function effectively if Plaintiff was allowed to bifurcate his claims and claim the demand was excused for one set of claims.
+
+Discussion
+The court reasoned that the demand acted as a concession that demand would be required for all claims that arose from the agreement.
+

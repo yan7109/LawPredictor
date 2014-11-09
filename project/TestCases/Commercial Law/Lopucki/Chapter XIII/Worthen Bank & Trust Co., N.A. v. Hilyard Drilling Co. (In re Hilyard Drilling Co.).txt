@@ -1,0 +1,21 @@
+Citation
+840 F.2d 596, 1988 U.S. App. 2462,5 U.C.C. Rep. Serv. 2d (Callaghan) 871
+
+Brief Fact Summary
+Both Worthen Bank & Trust, (Worthen) and National Bank of Commerce of El Dorado, (NBC), have a security interest in Hilyard Drilling Co.’s, (Hilyard), accounts receivable. Upon Hilyard’s filing for bankruptcy, Worthen filed a motion with the bankruptcy court for the determination of the priority of the security interests in Hilyard’s accounts receivable. NBC appeals the bankruptcy court holding that Worthen’s security interest has first priority.
+
+Synopsis of Rule of Law
+A filing statement that does not refer to the original filing cannot suffice as a continuation statement. A security interest cannot be continuously perfected by consecutively filed financing statements.
+
+Facts
+Hilyard Drilling Co., (Hilyard), granted the National Bank of Commerce of El Dorado, (NBC), a security interest in all existing and future accounts receivable. NBC perfected this interest on April 26, 1979 by filing appropriate financing statements. Hilyard then granted Worthen Bank & Trust Co., (Worthen), a junior lien on the same accounts receivable. No documents stated that the security interest was subordinate to that of NBC; however, Worthen did acknowledge its junior status in two letters to Hilyard. On July 8, 1983 NBC filed a new financing statement giving notice of its security interest in the accounts receivable in connection with the reworking of Hilyard’s loans. Hilyard filed for Chapter 11 bankruptcy and Worthen filed a motion with the bankruptcy court for the determination of the priority of the security interests in Hilyard’s accounts receivable. The bankruptcy court held that Worthen’s security interest was first in priority.
+
+Issue
+Whether NBC’s failure to file a continuation financing statement is harmless error. Whether NBC’s security interest is first in priority because it was continuously perfected from April 26, 1979, pursuant to U.C.C. 9-308(c) and 9-322(a)(1).
+
+Held
+No. NBC’s failure to file a continuation statement cannot be harmless error because the second financing statement gave no indication that it was filed for the purpose of continuing any other financing statement. No. To interpret U.C.C. 9-308 as providing that a security interest can be continuously perfected by consecutive filed financing statements contradicts the express language of U.C.C. 9-515(c).
+
+Discussion
+The July 8, 1983 financing statement does not satisfy the specific statutory requirements for a continuation statement because it was not filed within six months of the expiration of the original statement, did not refer to the file number of the original, and did not state that the original was still effective. The purposes of a financing statement are different than a continuation statement. Because the financing statement did not indicate that it was filed for the purpose of continuing any other financing statement, the failure to file a continuation statement cannot be considered harmless error. U.C.C. 9-308(c) is applicable to security interests that are originally perfected in one way and then subsequently perfected in some other way without an intermediate unperfected period. NBC’s perfected its interest in one way and then perfected its interest again in the same way. Therefore U.C.C. 9-308(c) does not apply.
+

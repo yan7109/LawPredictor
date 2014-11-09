@@ -1,0 +1,21 @@
+Citation
+153 F.3d 691
+
+Brief Fact Summary
+In the course of settlement negotiations, defense counsel elected not to share with minor plaintiff information regarding a potentially life-threatening condition that their doctors had found in discovery. After learning of this condition two years later, Plaintiff moved to vacate the settlement, arguing that he would not have agreed to the same settlement if he had been made aware of this condition.
+
+Synopsis of Rule of Law
+The extent of a lawyer’s duty to disclose.
+
+Facts
+Plaintiff, David Spaulding, was a victim in a serious car accident. Insurance companies for both sides conducted examinations of him to determine the extent of his injuries, but only the defendant’s doctor discovered that his life was at risk from a serious brain aneurysm which may or may not have been caused by the accident. Counsel for Defendant Zimmerman decided not to reveal this information while negotiating settlement. Plaintiff did not become aware of this condition until two years later, and requested that the trial court vacate the prior settlement at that time. Defendant appeals.
+
+Issue
+Can the prior settlement order be vacated on the grounds that Defendant knew of Plaintiff’s condition when Plaintiff did not?
+
+Held
+Yes. The lower court did not abuse its discretion in vacating the settlement.
+
+Discussion
+It is important to note that Plaintiff was a minor at the time of the settlement. Had he been an adult, it is more likely that he would have been bound by it, although he would have had grounds for a claim against both his doctor and his lawyer for malpractice.
+

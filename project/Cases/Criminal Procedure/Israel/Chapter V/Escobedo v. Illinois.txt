@@ -1,0 +1,24 @@
+Citation
+378 U.S. 478, 4 Ohio Misc. 197, 84 S. Ct. 1758, 12 L. Ed. 2d 977 (1964)
+
+Brief Fact Summary
+The petitioner Danny Escobedo asked to speak with his lawyer while in police custody but before being formally charged and was denied.
+
+Synopsis of Rule of Law
+Not allowing someone to speak with an attorney, and not advising them of their right to remain silent after they have been arrested and before they have been interrogated is a denial of assistance of counsel under the Sixth Amendment.
+
+Facts
+After being arrested and taken into police custody as a suspect in the murder of his brother-in-law, the petitioner asked to speak to his attorney.  His attorney arrived at police headquarters soon after the petitioner did and was not allowed to speak to his client as the officers said they had not completed questioning.  The petitioner also was not warned of his right to remain silent before the interrogation.  He was convicted of murder and the Supreme Court of Illinois affirmed.  He was then granted certiorari.
+
+Issue
+If a suspect has been taken into police custody and interrogated by police without their request to see an attorney being honored, nor being advised of their right to remain silent, have they been denied effective assistance of counsel under the Sixth Amendment?
+
+Held
+Yes.  Reverse the petitioner’s conviction and remand the case.
+
+Dissent
+Justice John Marshall Harlan dissented on grounds that this result will place obstacles in the way of legitimate methods of criminal law enforcement.  Also, he thought Cicenia v. Lagay, 357 U.S. 504 (1958) demanded a different result.
+
+Discussion
+This case caused a lot of confusion for scholars, as some believed it had widespread application, and others thought it only applied to the specific facts here.  There is a great deal of language within it that is very hostile to confessions, but at other points it says that “proper investigative efforts are appropriate.”  It mentions that a subject asserting their rights should not be something the system is afraid of, but that it would render interrogation much less effective.  This case is really best understood as the precursor to the warnings that would arise from
+

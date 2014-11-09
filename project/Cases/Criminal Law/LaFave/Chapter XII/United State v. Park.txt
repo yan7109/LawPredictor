@@ -1,0 +1,24 @@
+Citation
+421 U.S. 658,95 S. Ct. 1903, 44 L. Ed. 2d 489,1975 U.S.
+
+Brief Fact Summary
+Defendant charged with a violation of the Federal Food, Drug, and Cosmetic Act for failing to rectify unsanitary conditions in his company’s warehouse.
+
+Synopsis of Rule of Law
+The Act imposes a positive duty to seek out and remedy violations of the act on the corporation.
+
+Facts
+Defendant is the CEO of a large national retail food chain. The Government charged the corporation and Defendant with violations of the Federal Food, Drug and Cosmetic Act. Specifically, that Defendant allowed food to be stored in a building infested with rats and thus contaminating the food in violation of the Act. The Food and Drug Administration (FDA) sent a letter to Defendant advising him of the issues with the particular building. The jury found Defendant guilty. The Appellate Court reversed and the Government timely appealed.
+
+Issue
+Whether the manager of a corporation, as well as the corporation itself may be prosecuted for a violation of the Act.
+
+Held
+Reversed. Defendant had a duty acquired by virtue of his position and by statute to prevent and seek out violations of the statute.
+
+Dissent
+The dissent criticized the jury instruction regarding a lack of direction on the meaning of responsibility and how it would relate to an alleged violation of the act. The dissent stated that the jury must at least be given instruction that they must find beyond a reasonable doubt that Defendant was at least guilty of common law negligence.
+
+Discussion
+The Court focused on the fact that violation under this Act did not require a consciousness of wrongdoing by the agents of the corporation. Rather the purpose of the Act in protecting the public health demanded that corporations and their agents seek out wrongdoing under the Act as well as attempt to put in place procedural safeguards to prevent violations of the Act.
+

@@ -1,0 +1,21 @@
+Citation
+88 F.3d 87 (2d Cir. 1996)
+
+Brief Fact Summary
+Plaintiff, Norman Waltuch, sought indemnification for unreimbursed legal expenses from his former employer, Defendant Contcommodity Services, Inc., after he defended himself from investors and the Commodities Futures Trading Commission (CFTC) for work performed while working for Defendant.
+
+Synopsis of Rule of Law
+A corporation can not agree to indemnify an officer in a manner that is inconsistent with the state statute, but the officer is entitled to indemnification if the charges against him have been dismissed.
+
+Facts
+Plaintiff was a renown silver trader.  In 1979 and 1980, Plaintiff was vice-president and chief metals trader for Defendant when the silver market price went up sharply as several big groups bought large shares of silver futures, and then fell sharply soon afterward.  Investors brought claims against Plaintiff and Defendant, and Plaintiff was dismissed from the suits while Defendant paid out about $35 million.  Plaintiff still spent $1.2 million in legal expenses.  Plaintiff spent another $1 million defending himself against CFTC charges of fraud and market manipulation.  Waltuch brought this action to recover his legal expenses pursuant to Article Ninth of Defendant’s articles of incorporation.  Defendant countered that Section: 145 of Delaware’s General Corporation Law prohibits indemnification when there is no indication of a corporate officer’s good faith.  Plaintiff believed that the statute allowed a company to circumvent the good-faith requirement, which they did under Article
+
+Issue
+The first issue is whether a company can bypass the Section: 145(a) good faith requirement. The second issue is whether Section: 145(c) regardless of good faith requires Defendant to indemnify Plaintiff because he was successful on the merits or otherwise in the private lawsuits.
+
+Held
+The District court held that the good faith requirement could not be waived, and the United States Court of Appeals for the Second Circuit agreed.  The court applied the “consistency” test which determined whether Plaintiff’s reading of the articles were consistent with the statute.  The court held that it was not.  Parties can not agree to circumvent a statute. The Court reversed the District court and held that Plaintiff was successful on the merits.  Section: 145(c) affirmatively requires companies to indemnify officers when the successfully defended themselves.  As long as the charges were dismissed, Plaintiff should be considered vindicated.  Therefore Plaintiff was entitled to the $1.2 million spent on private lawsuits.
+
+Discussion
+The court does not allow corporations to override state statutes regarding indemnification because it would thwart public policy.
+

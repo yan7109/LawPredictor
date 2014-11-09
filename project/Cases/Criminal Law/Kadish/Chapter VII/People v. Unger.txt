@@ -1,0 +1,21 @@
+Citation
+66 III. 2d 333
+
+Brief Fact Summary
+The Defendant, Unger (Defendant), was charged with the crime of escape and convicted following a jury trial. The conviction was reversed by the appellate court and the cause was remanded for a new trial after the court found the jury was given an improper instruction. The principle issue in this case is whether it was error for the court to instruct the jury that it must disregard the reasons given for the Defendant’s escape and to refuse to instruct the jury on the statutory defenses of compulsion and necessity.<span class="heading">Synopsis of Rule of Law.</span> An individual who is charged with escaping from prison is entitled to submit his defense of necessity to the jury in light of testimony that the individual was subjected to physical attacks while in prison and was placed in fear of his life.
+
+Facts
+The Defendant was charged with the crime of escape and convicted following a jury trial. At the time of his escape, he was serving a one to three-year term in Joliet, Illinois for an auto theft conviction. The Defendant was transferred to a minimum security area in the prison when he escaped. At the trial for the escape charge, he testified that before and after his transfer, he had been threatened by fellow inmates, was forced to engage in homosexual activities and his life was threatened. The Defendant is admittedly unable to adequately defend himself due to his stature. None of these incidents were reported to prison authorities. The Defendant said he left the prison to save his life and he planned to return once he found someone to help him. The Defendant was caught two days after the escape in his prison clothes. The Defendant’s first trial ended in a hung jury. The jury in the second trial returned a guilty verdict. An instruction was given to the jury over the Defendant
+
+Issue
+Should the Defendant be allowed to use the statutory defense of necessity?
+
+Held
+Yes. Judge Ryan (J. Ryan) gave the opinion of the Supreme Court. The circuit court was in error with regard to its instructions concerning the reasons for the Defendant’s escape and as to the denial of an instruction on the statutory defense of necessity. The defense of necessity is an appropriate defense in this case. The statute defines necessity as “conduct which would otherwise be an offense is justifiable by reason of necessity if the accused was without blame in occasioning or developing the situation and reasonably believed such conduct was necessary to avoid a public or private injury greater than the injury which might reasonably result from his own conduct.” The Defendant is entitled to have the jury consider this defense based on his testimony. As the State points out, the conditions set out in Lovercamp are relevant, but they are not definitive. These conditions should be used to determine the credibility of the defendant’s testimony and not as an absolute threshold
+
+Dissent
+Judge Underwood (J. Underwood) dissenting. A necessity defense for the crime of escape must be narrowly tailored to avoid encouraging future escapes, disruption in the prison system of authority and possible harm to prison guards, police or citizens. J. Underwood agree that the defense should be recognized, but it should be defined within boundaries such as those in the Lovercamp case where the prisoner is (i) faced with a specific threat of death; (ii) forcible attack or substantial bodily injury in the imminent future; (iii) there is no time to file a complaint to the authorities and no time to resort to the courts; (iv) there is no evidence of violence used towards prison personnel or other persons in the escape and (v) the prisoner turns himself in to the authorities when he is no longer in immediate danger. The Defendant here did not meet the conditions laid out in that case.
+
+Discussion
+Not all of the preconditions set forth in the Lovercamp case need to be met in order to warrant a necessity instruction. The facts of each case should be looked at on an individual basis. It was reversible error to give the People’s instruction to the jury regarding the reason’s given for the Defendant’s escape and not to include an instruction of the necessity defense.
+

@@ -1,0 +1,21 @@
+Citation
+383 U.S. 687, 86 S. Ct. 1118, 16 L. Ed. 2d 185, 1966 U.S.
+
+Brief Fact Summary
+Respondent was in the business of underwriting public stock offerings.  He was charged and convicted of multiple counts of securities fraud and mail fraud.  He expended $22,964 in his criminal defense and deducted these on his tax return.
+
+Synopsis of Rule of Law
+The federal income tax is a tax on net income and not a sanction against wrongdoing.
+
+Facts
+Respondent, Walter Tellier, was in the business of underwriting the public sale of stock offerings and purchasing securities for resale to customers.  In 1956 he was tried on a 36 count indictment for violating the fraud section of the Securities Act of 1933 and with mail fraud.  He was found guilty and sentenced to four and a half years in prison and fined $18,000.  He spent $22,964 on his criminal defense legal expenses, and he claimed a deduction for that amount on his tax return.  The Commissioner did not allow the deduction and the Tax Court affirmed, and the Court of Appeals reversed.
+
+Issue
+Whether the expenses incurred by Respondent in the defense of the criminal prosecution are deductible as ordinary and necessary business expenses.
+
+Held
+Justice Stewart issued the opinion for the Supreme Court of the United States affirming the Court of Appeals and holding that the criminal defense expenses are deductible.
+
+Discussion
+The Supreme Court rejected the public policy argument by the Commissioner that the deduction should not be allowed because he was facing criminal charges.  Rather, the Court noted that it is a constitutional right to be entitled to a criminal defense.  Further, the Court found that Respondent was facing the charges as a result of his business and these expenses qualified as ordinary and necessary.
+

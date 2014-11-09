@@ -1,0 +1,21 @@
+Citation
+88 Wn.2d 400, 562 P.2d 244 (1977)
+
+Brief Fact Summary
+Petitioner, Frigidaire Sales Corporation, entered into a contract with a limited partnership, Commercial Investors (”Commercial”), wherein the sole general partner was another corporation, Respondent corporation Union Properties (”Union”).  Petitioner sought to hold Respondent individuals, Leonard Mannon and Raleigh Baxter, liable for the breach even though they were limited partners.
+
+Synopsis of Rule of Law
+A limited partner will be held liable if, for personal gain, they take control of a business over and above their normal rights as limited partners.
+
+Facts
+Petitioner entered into a contract wit Commercial.  Commercial was a limited partnership wherein Mannon and Baxter were limited partners and a second corporation, Union, was listed as the sole general partner.  Baxter and Mannon were the shareholders of Union.  Baxter and Mannon never held themselves out as general partners of Commercial – Petitioner knew of the relationship between the parties at the time of forming the contract.  Commercial breached their agreement with Petitioner, and since Union was the only liable partner of Commercial, and Commercial was undercapitalized, Petitioner sought damages from Baxter and Mannon, claiming that they manipulated the limited partnership laws of the state by forming a second corporation to be the general partner of the limited partnership.
+
+Issue
+The issue is whether the limited partners Baxter and Mannon can be held liable for Commercial’s breach of contract.
+
+Held
+The individual limited partners can not be held liable for the Limited Partnership’s breach with Petitioner.  Petitioner was aware that Union was the only general partner of Commercial, and if they were uncomfortable with a corporation being named as the sole general partner then they should have requested additional assurances to ensure performance.  Further, evidence demonstrated that Union was not a shell for Baxter and Mannon to operate Commercial – Commercial was only one limited partnership under Union.  The purpose of Union was to build collaborations with other parties, and one of those parties was
+
+Commercial. </span> Therefore Union was not simply in use for individual gain.  If the legislature did not intend this limited partnership structure, they can simply correct it through legislation.<br /><br /><span class='heading'>Discussion
+The court holds the plaintiffs more accountable for the parties they contract with.  There was also no element of fraud, which is the second element detailed in other corporate veil cases.
+

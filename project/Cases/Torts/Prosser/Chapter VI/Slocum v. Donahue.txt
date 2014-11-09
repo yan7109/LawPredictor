@@ -1,0 +1,21 @@
+Citation
+430 Mass. 1108 720 N.E.2d 469 1999
+
+Brief Fact Summary
+The Plaintiffs, the Slocums (Plaintiffs) filed a civil action against the Defendants, Robert F. Donahue and Dolores J. Donahue (Defendants), for negligence resulting in the vehicular death of their son. The Donahues filed a third-party complaint against Ford Motor Company (Ford) claiming Ford was negligent in the car design and requesting contribution or indemnification. The trial court denied the third-party complaint on summary judgment.
+
+Synopsis of Rule of Law
+Indemnification is only allowed when the defendant is vicariously or derivatively liable for the wrongful act of another. Contribution is not allowed under this statute when a settlement agreement is reached in good faith.
+
+Facts
+Robert Donahue pled guilty to a motor vehicle homicide resulting in the death of the Plaintiff’s eighteen-month-old son. The Plaintiffs filed a civil action against the Defendants claiming negligence and gross negligence. The Defendants filed a third-party complaint against Ford, denying negligence and seeking contribution and indemnification based on Ford’s negligence. The Defendants’ expert was prepared to testify that the driver’s side floor mat was defective, allowing it to interfere with the vacuum booster, which caused the power breaks to fail. Prior to trial, Ford and the Plaintiffs signed a settlement agreement releasing Ford from any claim. Ford then moved for summary judgment asserting that all claims for contribution were extinguished by the settlement agreement and that there is no basis for the Defendants’ claims for indemnity. The trial court dismissed the third-party complaint and the Defendants appealed.
+
+Issue
+Was it appropriate for the trial court to dismiss the third-party complaint for contribution and indemnification on a motion for summary judgment?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+This case demonstrates the difference between contribution and indemnification. Indemnification is only available when the defendant is not directly at fault, such as in a respondeat superior case.
+

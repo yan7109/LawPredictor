@@ -1,0 +1,24 @@
+Citation
+505 U.S. 1003, 112 S. Ct. 2886, 120 L. Ed. 2d 798, 34 ERC 1897 (1992)
+
+Brief Fact Summary
+A man bought land near a beach with the intent of constructing residences on the property. A statute was enacted which prevented him from doing so.
+
+Synopsis of Rule of Law
+When a landowner has been deprived by the state of all economically viable use of his property, this constitutes a taking which requires just compensation.
+
+Facts
+David H. Lucas (Petitioner) bought lots near a beach with the intent of erecting single-family residences. The Beachfront Management Act (Act) barred him from erecting any permanent habitable structures on his lots because the Act sought to prevent erosion of the beach. Petitioner contends the Act’s complete extinguishments of his property’s value entitled him to compensation regardless of whether the legislature had acted in furtherance of legitimate police power objectives.
+
+Issue
+If a person had been deprived of all economical use of his property by an act of the state, has a taking occurred?
+
+Held
+Yes.
+
+Dissent
+(Justice Harry A. Blackmun) The finding that the property lost all economic value is erroneous. Petitioner can still enjoy other attributes of ownership, such as the right to exclude others. The government has the ability to regulate property without compensation no matter how adverse the financial effect on the owner may be. The state has full power to prohibit an owner’s use of property if it is harmful to the public.<br />	(Justice John Paul Stevens) The Court’s new categorical rule requiring compensation when an owner is denied economically viable use of his land is wholly arbitrary. The holding freezes the state’s common law, denying the legislature much of its traditional power to revise the law governing the rights and uses of property.<br />Concurrence.  It is curious to find that a beachfront property loses all value because of a development restriction. The finding of no value must be considered under the takings clause by reference to the owner’s reasonable, investment-backed expectations. The takings clause, while conferring substantial protection on property owners, does not eliminate the police power of the state to enact limitations on the use of their property. The state should not be prevented from enacting new regulatory initiative in response to changing conditions, and courts must consider all reasonable expectations whatever their source. The takings clause does not require a static body of state property law.<br />
+
+Discussion
+The court has imposed a bright line rule, which states that a taking is deemed to have occurred when an owner has been deprived of all economically viable use of his land. Banning any building on land is enough to deny an owner all economically viable use of the land.
+

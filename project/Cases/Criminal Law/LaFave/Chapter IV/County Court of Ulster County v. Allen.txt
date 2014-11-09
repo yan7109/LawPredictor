@@ -1,0 +1,27 @@
+Citation
+442 U.S. 140,99 S. Ct. 2213, 60 L. Ed. 2d 777,1979 U.S.
+
+Brief Fact Summary
+Defendants were found guilty of possessing loaded firearms. Defendants argue that a statute allowing a presumption of possession was unconstitutional and in violation of their due process rights.
+
+Synopsis of Rule of Law
+There is a rational connection between the basic facts of the case proved and the ultimate fact presumed, (Defendants’ possession of the guns), then this ultimate fact is more likely than not to flow from the facts proved.
+
+Facts
+Three adult males and one 16 year-old girl (who is not a Defendant), were jointly tried on charges of possession of two loaded handguns, a machine gun and over one pound of heroin. The jury convicted Defendants on possession of the handguns but acquitted them of possession of the contents of the trunk. Defendants argued that the guns were in actually in the possession of the girl and they did not have possession of the guns. Defendants challenged the constitutionality of the New York State statute which allowed a presumption of illegal possession if a gun was found in a car occupied by all individuals charged.
+
+Issue
+Whether the New York State statute allowing a presumption of illegal possession was constitutional.
+
+Held
+Affirmed. The State advanced a permissive presumption that is constitutional and did not deprive Defendants of due process.
+
+Dissent
+The dissent found that the statute ordered the jury to find a key fact regardless of any of the other evidence offered. The dissent noted the dangers associated with allowing these types of inferences, e.g. most decisions regarding inferences required additional evidence as to a defendant’s function at the time. The dissent argued that even if the jury does not believe any other evidence presented by the state and feels forced to find guilt simply because of this statute.
+
+Concurrence
+Justice Burger focused on the facts of the case which he thought sufficient to support the conviction. Specifically, the fact that the guns were in plain view and reachable in the back seat of the car by Defendants was enough for the conviction.
+
+Discussion
+The majority was a slim and only became the controlling opinion because of Justice Burger’s concurrence. The Court ruled that the trial judge had limited the weight of the statute and in effect interpreted the statute as a permissive inference rather than a mandatory inference. Defendants were free to rebut the presumption and the jury was free to reject it.
+

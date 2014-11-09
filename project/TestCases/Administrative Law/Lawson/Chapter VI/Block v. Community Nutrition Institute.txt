@@ -1,0 +1,21 @@
+Citation
+467 U.S. 340, 104 S. Ct. 2450, 81 L. Ed. 2d 270 (1984)
+
+Brief Fact Summary
+Three individual consumers of dairy products, a handler, and a nonprofit organization (Respondents) brought suit in District Court, contending that a particular milk market order issued by the Secretary of Agriculture (Secretary) regulating the price of “reconstituted milk” made it uneconomical for handlers to process.
+
+Synopsis of Rule of Law
+Whether and to what extent a particular statute precludes judicial review is determined not only from its express language, but from the structure of its statutory scheme, its legislative history, and the nature of the administrative action involved.
+
+Facts
+In the early 1900s dairy farmers engaged in an intense competition in the production of milk, and the Agricultural Marketing Act of 1937 (Act) was passed to bring the competition under control. The Act authorized the Secretary to issue milk marketing orders setting the minimum prices that handlers (processors of dairy products) had to pay producers. The purpose of the Act was to raise producer prices to ensure that the benefits and burdens were fairly and proportionately shared by all dairy farmers.  The District Court concluded the consumers and nonprofit organizations lacked standing, and that Congress by the Act intended to preclude them from obtaining judicial review.  The Court of Appeals agreed the milk handler and nonprofit lacked standing, but concluded the consumers had standing, and that the Act did not reveal “the type of clear and convincing evidence of congressional intent needed to overcome the presumption in favor of judicial review.”
+
+Issue
+Could the ultimate consumers of dairy products obtain judicial review of milk market orders issues of the Secretary under the authority of the Act?
+
+Held
+No. Consumers could not obtain judicial review of such orders.   It was clear from the Act that Congress did not intend to strip the judiciary of all of its authority to review the Secretary’s orders; but it was equally clear that Congress did intend to limit the classes entitled to participate in the development of market orders to only handlers and producers.  The Court of Appeals did not take a balances approach to construction.   Dissent. None.  Concurrence. None.
+
+Discussion
+This case was surprising because of the Court’s reliance on and discussion of the “implied preclusion” doctrine.
+

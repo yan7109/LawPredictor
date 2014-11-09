@@ -1,0 +1,15 @@
+Citation
+435 U.S. 519, 98 S. Ct. 1197, 55 L. Ed. 2d 460, 11 ERC 1439 (1978)
+
+Brief Fact Summary
+This case arose from two separate decisions by the Atomic Energy Commission (Commission) 1) to grant a license to Vermont Yankee Nuclear Power Corp. (Petitioner), and 2) to grant a permit to Consumers Power Co. (Petitioner). The Natural Resources Defense Council (Respondent) challenged the Commission in the Court of Appeals for the District of Columbia, claiming it employed insufficient procedure.<span class="heading">Synopsis of Rule of Law.</span> Section:553(b) of the Administrative Procedure Act (APA) requires that agencies publish notice of proposed rulemaking in the Federal Register, and that interested parties be given an opportunity to participate, or comment, before the agency adopts a final rule. This section of the APA imposes the maximum procedural requirements which Congress was willing to have courts impose upon agencies in rulemaking procedures.
+
+Facts
+In the first case, the Court remanded a decision of the Commission to grant a license to Vermont Yankee Nuclear Power Corp. to operate a nuclear power plant, finding the proceedings to be inadequate and overturning the rule. In the second case, the Court remanded the Commission’s to grant a permit to Consumers Power Co. to construct two pressurized water nuclear reactors to generate electricity and steam.<span class="heading">Issue.</span> Were the agency’s rulemaking procedures adequate?
+
+Held
+Yes. Reversed and remanded.   The Court of Appeal improperly required the agency to employ rulemaking procedures in excess of those required under the text of the APA.   Dissent. None.  Concurrence. None.
+
+Discussion
+Agencies are free to grant additional procedural rights in the exercise of their discretion, but reviewing courts are generally not free to impose them if the agencies have not chosen to grant them.
+

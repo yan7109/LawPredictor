@@ -1,0 +1,24 @@
+Citation
+16 T.C. 163, 1951 U.S. Tax Ct.
+
+Brief Fact Summary
+Taxpayer’s brooch was either lost or stolen during a museum visit.
+
+Synopsis of Rule of Law
+Taxpayer must prove be a preponderance of the evidence that an item was stolen in order to deduct the value of the item as a loss under I.R.C. section 23(e)(3)
+
+Facts
+Mary Frances Allen (Plaintiff) visited the Metropolitan Museum of Art on Sunday January 21, 1945. Sometime in the two hours she was there, her brooch valued at $2,400 came detached from her dress. She realized this before leaving the museum and notified a guard and searched the rooms in which she had been. She notified the jewelry store at which the brooch was purchased and they put a notice in the New York Times and the Herald offering a $200 reward. Plaintiff also filed a police report for the missing brooch.
+
+Issue
+Did Plaintiff sustain her burden of proof that the brooch was stolen and not simply lost?
+
+Held
+No. The Respondent’s determination is sustained.
+
+Dissent
+Based on the evidence presented, as the trier of fact, theft is the most probable possibility. The three possible results based on the evidence available are 1) the brooch dropped off and was never found; 2) the brooch was found but not turned in; or 3) the brooch was stolen by someone in the crowd of 5000. The first is not a reasonable possibility.  The second would be impossible if the finder was honest and if the finder was not honest, it is virtual concealment, which in the case of a valuable object amounts to theft. Finally, the third option is theft by definition. As these are the only possibilities, it seems Plaintiff has met her burden of proving theft by a preponderance of the evidence and thus should be allowed the deduction.
+
+Discussion
+To make a deduction for loss by theft, the taxpayer must show by a preponderance of the evidence that the article was stolen.
+

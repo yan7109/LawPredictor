@@ -1,0 +1,21 @@
+Citation
+497 S.W.2d 283, 1973 Tex. 16 Tex. Sup. J. 404.
+
+Brief Fact Summary
+Two men that both worked for the defendant trucking company, Big Mack Trucking Co. (the “defendant”), stopped at a truck stop.  One man left his truck unattended, and it rolled forward crushing the other man between the two trucks.  The deceased’s family sued for damages.
+
+Synopsis of Rule of Law
+In order for hearsay statements to be allowed into evidence, they must fall under some exception to the hearsay rule.  For an exception to apply requiring that the declarant be unavailable to testify, sufficient evidence of that unavailability must appear on the record.
+
+Facts
+Leday and Dickerson, both employees of the defendant trucking company, were driving through Texas to the same destination.  They stopped at the same truck stop. Leday, who had been having problems with the air pressure in his brake system, got out of his truck and went into the truck stop.  Leday’s truck started rolling toward Dickerson’s truck, and Dickerson was caught between the two vehicles, crushed and killed.  At trial, Leday did not testify.
+
+Issue
+Whether any of the statements made by witnesses regarding statements that Leday had made to them were admissible against the defendant trucking company under an exception to the hearsay rule?
+
+Held
+No.  None of the statements fall under any exception to the hearsay rule, and are thus inadmissible against the defendant trucking company?
+
+Discussion
+Hearsay statements may be admissible if a good faith effort is made to show the unavailability of the declarant.  Because that was not done in this case, statements that would have qualified as statements against interest if Leday had been unavailable, were not admissible in this case.  There was not otherwise sufficient indicia of reliability of the statements to warrant allowing them in.
+

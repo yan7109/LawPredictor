@@ -1,0 +1,24 @@
+Citation
+535 U.S. 162, 122 S. Ct. 1237, 152 L. Ed. 2d 291 (2002)
+
+Brief Fact Summary
+Petitioner, Mickens, brought appeal after being sentenced to death when he learned that his trial counsel had previously represented his victim.
+
+Synopsis of Rule of Law
+A defendant must show that a conflict of interest adversely affects his representation in order to demonstrate a Sixth Amendment violation.
+
+Facts
+Petitioner was convicted and sentenced to death for premeditated murder during or following the commission of an attempted forcible sodomy.  Mickens later filed a habeas petition, alleging he was denied his Sixth Amendment right to effective assistance of counsel because his lead attorney had represented the victim on criminal charges at the time of the murder.  Saunders, Mickens’ attorney, never disclosed his representation to Mickens, his co-counsel, or to the court.  Mickens brought appeal and the appellate court found he had not demonstrated adverse impact.
+
+Issue
+Whether an attorney’s conflict of interest necessarily leads to a reversible Sixth Amendment violation.
+
+Held
+Affirmed.  The court held that in order to demonstrate a Sixth Amendment violation, it is imcumbent upon the defendant to prove that he has been prejudiced by his counsel’s performance.
+
+Dissent
+In his dissent, Justice Stevens focused on three factors that should be considered when a defendant, who is accused of a capital offense complains of ineffective assistance of counsel: “The first is whether a capital defendant’s attorney has a duty to disclose that he was representing the defendant’s alleged victim at the time of the murder. Second, is whether, assuming disclosure of the prior representation, the capital defendant has a right to refuse the appointment of the conflicted attorney. Third, is whether the trial judge, who knows or should know of such prior representation, has a duty to obtain the defendant’s consent before appointing that lawyer to represent him.” After considering all three factors, justice stevens found it to be incumbent upon the court to make all inquiries into counsel’s effectiveness, especially when a defendant’s life hangs in the balance.  Justices Souter and Breyer also dissented.
+
+Discussion
+When a defendant contends that his attorney’s conflict of interest adversely affected him, the standard of error is “but for counsel’s unprofessional errors, the result of the proceeding would have been different.
+

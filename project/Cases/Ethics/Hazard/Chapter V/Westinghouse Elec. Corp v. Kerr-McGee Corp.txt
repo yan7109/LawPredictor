@@ -1,0 +1,21 @@
+Citation
+580 F.2d 1311,1978 U.S. App.1978-2 Trade Cas. (CCH) P62,169
+
+Brief Fact Summary
+Major law firm Kirkland and Ellis was simultaneously representing two opposing parties in matters dealing with trade practices in the uranium industry.
+
+Synopsis of Rule of Law
+Conflicts of interest in large law firms, especially regarding firms representing trade associations as well as their opponents.
+
+Facts
+Major law firm Kirkland and Ellis worked with both the American Petroleum Institute (a consortium that included the Appellants, Kerr-McGee Corp.) and Westinghouse. These two interests were put in serious conflict when the firm released a report on behalf of the API finding trade practices to be generally acceptable in the uranium industry on the same day that it filed suit on behalf of Westinghouse alleging an ongoing illegal conspiracy in restraint of trade in the same industry. In the course of preparing this report, Kirkland’s lawyers had sent out a questionnaire to employees of API member companies, including the Appellants, with the understanding that the results would be held in confidence.
+
+Issue
+May an attorney-client relationship arise when a lay party submits confidential information to a law firm under the belief that the firm will be representing him? May a firm representing a trade association also represent interests opposing members of that association?
+
+Held
+The court declined to create a per se rule that representation of a trade association creates an attorney-client relationship with each member of the association, but clearly stated that this may create such a relationship depending on the circumstances. Although this may be more of a problem in other situations, the Court allows this as the representations were taken on ten years apart.
+
+Discussion
+Should the rules be applied any differently to firms of this size?
+

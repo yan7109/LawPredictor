@@ -1,0 +1,21 @@
+Citation
+423 U.S. 411, 96 S. Ct. 820, 46 L. Ed. 2d 598 (1976)
+
+Brief Fact Summary
+Based on an informer’s tip, a police officer was present for a transaction in stolen credit cards, and made an arrest, accordingly.
+
+Synopsis of Rule of Law
+“A peace officer [is] permitted to arrest without a warrant for a misdemeanor or felony committed in his presence as well as for a felony not committed in his presence if there was a reasonable ground for making the arrest.”
+
+Facts
+Respondent Watson was brought to the attention of a police inspector by informant Khoury, who had a reliable history.  Khoury was directed to meet with Watson in a restaurant about buying stolen credit cards.  After the transaction was completed, Khoury gave a signal to the waiting inspector, who arrested Watson.
+
+Issue
+Whether a warrantless arrest is legal under the Fourth Amendment.
+
+Held
+Yes.  The Supreme Court made abundantly clear that previous precedent and ancient common-law did not require a peace officer to obtain a warrant.  Moreover, the Court noted that “this is the rule Congress has long directed its principal law enforcement officers to follow.”  While the Court did note that “law officers may find it wise to seek arrest warrants where practicable to do so, and their judgments about probable cause may be more readily accepted where back by a warrant issued by a magistrate,” the Court “decline[d] to transform this judicial preference into a constitutional rule” counter to Congressional wishes.  In conclusion, the Court did not want to “encumber criminal prosecutions with endless litigation with respect to the existence of exigent circumstances, whether it was practicable to get a warrant, whether the suspect was about to flee, and the like.”
+
+Dissent
+Justice Marshall, joined by Justice Brennan, was concerned that the Court had “reverse[d] the course of
+

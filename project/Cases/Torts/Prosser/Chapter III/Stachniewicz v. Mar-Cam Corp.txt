@@ -1,0 +1,21 @@
+Citation
+259 Ore. 583, 488 P.2d 436, 1971 Ore.
+
+Brief Fact Summary
+The Plaintiff, Stachniewicz (Plaintiff), was injured during a barroom brawl with customers at the Defendant, Mar-Cam Corp’s (Defendant) drinking establishment.
+
+Synopsis of Rule of Law
+Negligence per se results when a statute or regulation has been violated and that violation results in injury to a member of the class that the legislation was meant to protect and the harm is of the kind that the legislation was intended to prevent.
+
+Facts
+The Plaintiff suffered severe head injuries when he was injured during a barroom brawl. The assailants had been at the bar drinking for over two hours when the fight erupted. A state statute forbids people from giving alcoholic beverages to anyone visibly drunk. A state licensing regulation forbids licensed bar owners from permitting disorderly conduct or visibly intoxicated persons upon the licensed premises. The trial court held that the Defendant’s violations of both the statute and the regulation did not constitute negligence per se.
+
+Issue
+Whether the violations of the statute or the regulation constitutes negligence per se.
+
+Held
+* The violation of the statute was not negligence per se.<br />* The violation of the regulation is negligence per se.<br />
+
+Discussion
+* The statute makes it illegal to give an alcoholic beverage to someone already intoxicated. It is impossible to determine whether the injury sustained was the result of the drink given after intoxication occurred, or if the injuries would have occurred without that drink.<br />* The regulation, on the other hand, is drafted to prevent injuries and abuses associated with the types of disturbances connected with bars and intoxication. Because the Plaintiff was within the class of persons the regulation sought to protect and because the injuries he sustained were of the type of harm the regulation sought to avoid, the violation of the regulation can be used as evidence of negligence per se.
+

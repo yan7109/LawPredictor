@@ -1,0 +1,21 @@
+Citation
+493 A.2d 946, 1 EXC 391 (Del. 1985)
+
+Brief Fact Summary
+Defendant, Unocal Corp., appealed the lower court decision that prevented Unocal from excluding Plaintiff, Mesa Petroleum Co., from participating in Defendant’s self-tender for its own shares.
+
+Synopsis of Rule of Law
+Directors have a duty to protect the corporation from injury by third parties and other shareholders, which grants directors the power to exclude some shareholders from a stock repurchase.
+
+Facts
+Plaintiff was a corporation led by a well-known corporate raider.  Plaintiff offered a two-tier tender offer wherein the first tier would allow for shareholders to sell at $54 per share and the second tier would be subsidized by securities that the court equated with “junk bonds”.  The threat therefore was that shareholders would rush to sell their shares for the first tier because they did not want to be subject to the reduced value of the back-end value of the junk securities.  Defendant directors met to discuss their options and came up with an alternative that would have Defendant corporation repurchase their own shares at $72 each.  The Directors decided to exclude Plaintiffs from the tender offer because it was counterintuitive to include the shareholder who initiated the conflict.  The lower court held that Defendant could not exclude a shareholder from a tender offer.
+
+Issue
+The issue is whether Defendant can exclude Plaintiff from participating in Defendant’s self-tender.
+
+Held
+The court held that Defendant could exclude Plaintiff from its repurchase of its own shares.  The directors for Defendant corporation have a duty to protect the shareholders and the corporations, and one of the harms that can befall a company is a takeover by a shareholder who is offering an inadequate offer.  The directors’ decision to prevent an offer such as the one at issue should be subjected to an enhanced scrutiny since there is a natural conflict when the directors are excluding a party from acquiring a majority control.  In this case the directors met the burden.  There was evidence to support that the company was in reasonable danger: the outside directors approved of their self-tender, the offer by Plaintiff included the junk bonds, the value of each share was more than the proposed $54 per share, and Plaintiff was well-known as a corporate raider.
+
+Discussion
+The burden of proof was on the directors to prove that there was a legitimate business interest at stake to rebut the presumption of their conflicting interest in denying the takeover.  This was well-established, but the allowance by the court to allow the directors to deny the plaintiff from participating in the resulting repurchase was new ground.
+

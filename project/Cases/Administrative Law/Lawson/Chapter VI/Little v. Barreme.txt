@@ -1,0 +1,21 @@
+Citation
+6 U.S. 170, 2 Cranch 170, 2 L. Ed. 243 (1804)
+
+Brief Fact Summary
+A Danish vessel, The Flying Fish, with neutral Danish property on board was seized by the United States frigate Boston, commanded by Captain Little (Little), and brought into the port of Boston and libeled as an American vessel that had violated the non-intercourse law.
+
+Synopsis of Rule of Law
+The government itself cannot be sued, but the offending government officials are liable as ordinary tortfeasors in the absence of valid authorization.
+
+Facts
+During hostilities with France, a non-intercourse act was annually passed that allowed the United States President to instruct the commanders of armed vessels to stop and seize ships bound for France. Such ships would forfeit their cargo and face prosecution.  A separate order given by the executive enjoined seizure of American ships sailing from France, but this was not authorized by the Act of Congress.  The Flying Fish was on a voyage from, and not to, a French port when it was seized; and it was Danish and not American.  The judge before whom the case was tried directed a restoration of the vessel and cargo as neutral property, but refused to award damaged because, in his opinion, there was probable cause to suspect the ship was American. The circuit court reversed because the Flying Fish was on a voyage from, not to, a French port, and therefore would not have been liable to capture even if American.
+
+Issue
+Is an officer who obeys orders liable for damages sustained by a misconstruction of an act, or will his orders excuse him?
+
+Held
+Affirmed the circuit court, with costs. The fact that Captain Little was following orders did not change the nature of the transaction, or legalize his action which without those orders would have been a plain trespass. Little was must liable to the owner of the Flying Fish for damages.  Dissent. None.  Concurrence. None.
+
+Discussion
+This case softened the impact of sovereign immunity to allow government officials to be sued as ordinary tortfeasors in the absence of valid legal authorization. There may be sovereign immunity, but there is no official immunity.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.336 U.S. 525, 69 S. Ct. 657, 93 L. Ed. 865 (1949)
+
+Brief Fact Summary
+Hood & Sons (Hood) distributed milk and milk products to the Boston area. They operated three receiving depots in New York State and wanted to open a fourth. They were denied a permit because of a New York statute stating that a license to open the depot should not be given if it would disrupt competition in a market already adequately served.
+
+Synopsis of Rule of Law
+Under the Dormant Commerce Clause, a State may not use its admitted powers to protect the health and safety of its people as a basis for suppressing competition.
+
+Facts
+Hood & Sons bought 90% of the milk they distributed to the Boston area from New York. They had three receiving depots in the state. Hood proposed to open a fourth, which was located in close proximity to two others Hood owned. NY law provided that before issuing the license to open the new depot, the Commission should be satisfied “that the issuance of a license will not tend to a destructive competition in a market already adequately served, and that the issuance of the license is in the public interest.” The Commission refused to issue the license.
+
+Issue
+Did the local legislation restricting the issuance of licenses when a new entity would have a destructive impact on competition violate the Commerce Clause?
+
+Held
+Justice Jackson’s opinion: Yes. Lower court judgment reversed and cause remanded.
+
+Dissent
+Justice Frankfurter, and Justice Rutledge join in dissenting (their dissent does not appear in the book). Justice Black and Justice Murphy dissenting.
+
+Discussion
+State activity that even indirectly impacts interstate commerce can be reviewed by the Court to see whether it is protectionist in nature.
+

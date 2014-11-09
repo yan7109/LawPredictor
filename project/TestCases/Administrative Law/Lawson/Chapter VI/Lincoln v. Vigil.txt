@@ -1,0 +1,21 @@
+Citation
+508 U.S. 182, 113 S. Ct. 2024, 124 L. Ed. 2d 101 (1993)
+
+Brief Fact Summary
+The Indian Health Service (Service) decided to stop funding the Indian Children’s Program (Program) in favor of other services for Indians across the United States. A group of handicapped Indian children (Respondents) eligible to receive services through the Program brought this action for injunctive and declaratory relief against the Director of the Service and the Service, claiming the decision violated the Snyder Act, the APA, and other statutes.
+
+Synopsis of Rule of Law
+While the APA embodies a presumption of judicial review, Section:701(a)(2) precludes judicial review of certain categories of administrative decisions that courts have traditionally regarded as “committed to agency discretion.”
+
+Facts
+The Snyder Act authorized the Service to allocate funds it received from Congress “for the benefit, care and assistance of Indians,” for the “relief of distress and conservation of health.”  The District Court granted summary judgment for Respondents. The Court of Appeals affirmed, rejecting the Service’s argument that the decision was committed to agency discretion under the APA.
+
+Issue
+Was it error for the Court of Appeals to hold the substance of the Service’s decision to terminate the Program unreviewable under the APA?
+
+Held
+No. The Service’s decision to discontinue the Program was “committed to agency discretion by law,” and therefore not subject to judicial review under APA Section:701(a)(2).   The allocation of funds from a lump-sum appropriation is an administrative decision traditionally regarded as committed to agency discretion. The point of a lump-sum appropriation is to give an agency the ability to adapt to changing circumstances as it sees fit.   Dissent. None.  Concurrence. None.
+
+Discussion
+In giving the Service a lump-sum appropriation, Congress provided the Service with flexibility to adapt to changing needs and manage the funds as it saw fit. The Court found this type of discretionary agency action unreviewable under the APA.
+

@@ -1,0 +1,21 @@
+Citation
+349 F.3d 42 (2d Cir. 2003)
+
+Brief Fact Summary
+Osama Awadallah was identified as a material witness during the investigation into the 9/11 terrorist attacks.  He was held for twenty days before being processed.
+
+Synopsis of Rule of Law
+In determining the validity of a statute, the court must consider both “the nature and quality of the intrusion on the individual’s Fourth Amendment interests” and “the importance of the governmental interests alleged to justify the intrusion.”
+
+Facts
+Appellee Awadallah was connected to one of the 9/11 highjackers.  He was taken in for question by the FBI.  He gave signed consent to search his apartment and car, not knowing that he did not have to.  When the agents asked for consent to search a second car, appellee refused to give it, and revoked consent for the first search.  That search had already been completed.  Evidence was found that suggested Awadallah had terrorist-sympathies.  The FBI kept appellee for six hours.  He was given a polygraph, believing he had no choice.  Subsequent requests for a lawyer were refused.  He was booked as a material witness.  He was refused bail twice.  He spent time in four prisons, mostly in solitary confinement.  Twenty days after his arrest, he testified before a grand jury.  Certain statements of his testimony were shown false, and he was charged with making false statements.  He was finally released on bail, and then moved to dismiss the indictment.
+
+Issue
+“[W]hether the federal material witness statute, 18 U.S.C. Section: 3144 ["3144"], allows the arrest and detention of grand jury witnesses.”
+
+Held
+Yes.  Based on the language of the statute, which applied to “criminal proceedings” was ruled to apply to grand jury proceedings.  The legislative history also confirmed this.  As for constitutional matters, previous cases supported that “detention of material witnesses for the purpose of securing grand jury testimony has withstood constitutional challenge.”  The court found several procedural safeguards in Section: 3144:
+
+Discussion
+“It would be improper for the government to use Section: 3144 for other ends.”
+

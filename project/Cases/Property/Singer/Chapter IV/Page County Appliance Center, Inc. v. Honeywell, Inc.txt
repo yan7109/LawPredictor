@@ -1,0 +1,21 @@
+Citation
+347 N.W.2d 171, 1984 Iowa Sup. 45 A.L.R.4th 1191.
+
+Brief Fact Summary
+Radiation leaking from a computer interfered with a store’s TV reception.
+
+Synopsis of Rule of Law
+A person responsible for a nuisance may be liable even though that person has used the highest possible degree of car to prevent or minimize the effect.
+
+Facts
+Appliance Center is an appliance center that originally had no trouble with display televisions. Defendant placed one of its computers in a store near Appliance Center. After the computer was installed, the television reception in Appliance Center went bad. The interference was traced to the computer, and it was determined the problem was caused by radiation leaking from the computer. Repairs were made to the computer, and though the reception improved, it was not returned to its condition prior to this incident. Appliance Center filed a nuisance claim.
+
+Issue
+Does a private nuisance exist when a person has taken a high degree of care to prevent or minimize the occurrence?
+
+Held
+Yes. Judgment reversed and remanded.
+
+Discussion
+The right being protected by a nuisance claim is the right to quiet enjoyment of the land. This is not an absolute protection because the harm must be substantial and the interference must be unreasonable.
+

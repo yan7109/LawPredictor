@@ -1,0 +1,21 @@
+Citation
+509 U.S. 579, 113 S. Ct. 2786, 125 L. Ed. 2d 469, 1993 U.S.
+
+Brief Fact Summary
+The Plaintiffs, Daubert and other minors (Plaintiffs), suffered limb reduction birth defects. They claim the defects were caused when their mothers ingested drugs manufactured by the Defendant, Merrell Dow Pharmaceuticals, Inc. (Defendant), while they were pregnant.
+
+Synopsis of Rule of Law
+To be admissible, expert scientific testimony that is derived from research done for the purpose of litigation must show that the conclusions were reached after following recognized scientific methods of research.
+
+Facts
+The minor Plaintiffs were injured when their mothers ingested drugs manufactured by the Defendant. According to the Plaintiffs’ experts, the drug manufactured by the Defendant caused the deformities. However, the majority of the scientific field does not agree that the drug causes limb deformities and the Federal Drug Authority (FDA) continues to approve of its use in pregnant women.
+
+Issue
+Whether the expert testimony offered by the Plaintiffs is admissible.
+
+Held
+The Plaintiffs’ expert testimony is not admissible.
+
+Discussion
+* When it comes to expert testimony and scientific theory, it is hard for the courts to determine what is a fact and what is a scientific theory admissible in court.<br />* Federal Rule of Evidence 702 (Rule 702) is now the standard for admitting expert scientific testimony. Under Rule 702, there are several factors to consider when determining whether expert testimony is admissible:<br />i.	Whether the theory is generally accepted in the scientific community;<br />ii.	Whether the theory/method has been subjected to peer review and publication;<br />iii.	Whether the theory/method has been tested or can be tested;<br />iv.	Whether the potential or known rate of error is acceptable.<br />* It is the court’s responsibility to resolve disputes among the respected and credentialed scientists about matters within the scientists’ expertise and to reject testimony if it is not obtained by the scientific method.<br />* If expert testimony is shown to be the result of research conducted for the purpose of litigation, the expert must show precisely how they reached their conclusions and point to an objective source to show they followed the scientific method as it is practiced by at least a recognized minority in their field. Because the Plaintiffs’ experts cannot do this, the testimony is not admissible.<br />* The Plaintiffs’ experts did not conduct their research independent of the litigation and the theories have not been published in scientific journals or reviewed by peers, thought there has been ample time to do so because the theories and litigation has been around for a decade.<br />* Furthermore, under Rule 702, the Plaintiffs must show that the evidence they offer would assist the trier of fact in determining a factual issue. The Plaintiffs cannot show causation directly and attempt to show it through circumstantial evidence provided by their experts. The testimony cannot establish that the defects were not caused by an independent cause, since limb reduction defects occur in the babies of mothers who did not take the drug. The Plaintiffs’ experts cannot say that the drug more than doubled their risk of the defect, only that there was a statistical relationship between he drug and the birth defect.
+

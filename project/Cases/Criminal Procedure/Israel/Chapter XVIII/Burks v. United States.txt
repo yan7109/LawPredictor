@@ -1,0 +1,18 @@
+Brief Fact Summary
+Defendant was convicted for robbery had his conviction reverse for insufficient evidence and remanded.
+
+Synopsis of Rule of Law
+“The Double Jeopardy Clause precludes a second trial once the reviewing court has found the evidence legally insufficient.”
+
+Facts
+Petitioner Burks was convicted for armed robbery of a federally insured bank. His principal defense was insanity, and provided witnesses that testified to that fact.  The Government produced other witnesses that rebutted that.  The petitioner moved for acquittal before the case went to jury, and was denied.  Upon conviction, petitioner filed a motion for a new trial, maintaining that the evidence was insufficient to support the verdict.  The District Court denied.  The petitioner appealed, and the Court of Appeals agreed.  It reversed and remanded on the issue of whether there should be a directed verdict of acquittal or a new trial.
+
+Issue
+“[W]hether an accused may be subjected to a second trial when conviction in a prior trial was revered by an appellate court solely for lack of sufficient evidence to sustain the jury’s verdict.”
+
+Held
+No.  The Supreme Court first defined the Double Jeopardy Clause, which “forbids a second trial for the purpose of affording the prosecution another opportunity to supply evidence which it failed to muster in the first proceeding.”  The Court further distinguished between instances of “reversal for trial error” which “does not constitute a decision to the effect that the government has failed to produces a case” from instances “when a defendant’s conviction has been overturned due to a failure of proof at trial.”  In the latter case, the prosecutor “has been given one fair opportunity to offer whatever proof it could assemble.  Moreover, such an appellate reversal means that the government’s case was so lacking that it should not have even been submitted to the jury,” as applies here.  Finally, the Court overruled previous cases, concluding “the only ‘just’ legal remedy available for that court is the direction of a judgment of acquittal.”
+
+Discussion
+“It is difficult to conceive how society has any greater interest in retrying a defendant when, on review, it is decided as a matter of law that the jury could not have properly have returned a verdict of guilty.”
+

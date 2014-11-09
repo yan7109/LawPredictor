@@ -1,0 +1,21 @@
+Citation
+494 U.S. 558, 110 S. Ct. 1339, 108 L. Ed. 2d 519, 1990 U.S. 1530
+
+Brief Fact Summary
+The Petitioner in this matter was the Chauffuers, Teamsters, and Helpers Local Union No. 391 (Petitioner). McLean Trucking Company (McLean) and the Petitioner were parties to a collective bargaining agreement. After the Petitioner failed to prosecute one of McLean’s claims, the Respondents, Terry and other workers (Respondents), sought relief in federal court, insisting on a jury trial.
+
+Synopsis of Rule of Law
+An action for back pay by a party to a collective bargaining agreement alleging unfair representation is entitled to a jury trial under the Seventh Amendment of the United States Constitution (Constitution).
+
+Facts
+Petitioner and McLean were parties to a collective bargaining agreement. The agreement governed the terms and conditions of employment at McLean’s terminals. In 1982, McLean implemented a change in operations that resulted in the elimination of some of its terminals and the reorganization of others. Six weeks after being transferred to McLean’s Winston-Salem terminal, the Petitioners were alternately laid off and recalled several times. Respondents filed several union grievances, the third of which the Petitioner refused to prosecute. Respondents then filed suit against the Petitioner for violating their duty of fair representation.
+
+Issue
+Whether an employee who seeks relief in the form of back pay for a union’s alleged breach of its duty of fair representation has a right to a trial by jury.
+
+Held
+Yes. A majority of the Supreme Court held that the Seventh Amendment of the constitution entitles such a plaintiff to a jury trial.   The court first examines the remedy sought and determines whether it is legal or equitable or nature. The Seventh Amendment constitutional question depends on the nature of the issue to be tried rather than the character of the overall action.  The remedy sought by Respondents is legal. The money damages Respondent seeks are the type of relief traditionally awarded by courts of law.   <br/><br/><span class='heading'>Dissent.</span> Justice Anthony Kennedy (J. Kennedy) dissented, in which he was joined by Justice Sandra Day O’Connor (J. O’Connor), and Justice Antonin Scalia (J. Scalia). J. Kennedy’s dissent focuses on his conclusion that the action is one at equity, not at law, as it resembles an equitable trust action more than a malpractice suit.  Concurrence. Justice William J. Brennan (J. Brennan) concurred. His concurrence agreed that the focus of the inquiry should be on the specific remedy sought in determining whether a jury trial is warranted, however he disagreed with the majority’s reliance on historical English common law.    Justice John Paul Stevens (J. Stevens) also concurred. J. Steven’s concurrence stresses his belief that the suit closely resembles a malpractice suit, which historically is an action at law.
+
+Discussion
+Students must understand the distinction the majority’s opinion makes between actions at equity and actions at law. A jury need not decide actions at equity. To the contrary, actions at law are entitled to a jury trial. Whereas an action at equity is largely restitutionary, the right to a jury trial in a statutory action depends on the presence of legal rights and remedies, i.e. an action at law.
+

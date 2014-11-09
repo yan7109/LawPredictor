@@ -1,0 +1,21 @@
+Citation
+436 Mass. 347,764 N.E.2d 825,2002 Mass.
+
+Brief Fact Summary
+Plaintiffs challenge sanctions imposed on them for ex parte communication with some of Defendant’s employees during the course of a gender discrimination suit.
+
+Synopsis of Rule of Law
+The “no-contact rule” regarding communication with an opposing party’s employees only applies to those employees with “authority to commit the organization regarding the subject matter of representation.”
+
+Facts
+In the course of a gender discrimination suit against the Harvard University police department, Plaintiff law firm communicated with five members of the department-two lieutenants, two patrol officers, and a dispatcher-without notifying Defendant’s counsel or giving them an opportunity to be present for the communication. (None of the individuals contacted were alleged to have engaged in the discriminatory behavior.) Defendant, Harvard University, requested the court to issue sanctions for this behavior as a violation of Massachusetts Rule 4.2, which prohibits ex parte communication with employees of an organization represented by counsel. The lower court, interpreting this rule to apply to any employee whose statements would constitute an “admission” for evidentiary purposes, granted these sanctions, and Plaintiffs now appeal.
+
+Issue
+Was Plaintiff’s communication with Defendant’s employees a violation of Rule 4.2 under these circumstances?
+
+Held
+No. The court offers a new interpretation of the rule such that only ex parte contact with employees with the authority to “commit the organization to a position regarding the subject matter of representation” would constitute a violation of the Rule. These employees did not have that authority, and the contact was not inappropriate. Reversed.
+
+Discussion
+Many jurisdictions still link the “no-contact rule” with the evidentiary principle of party admissions, a theory explicitly rejected by the Supreme Judicial Court in this case
+

@@ -1,0 +1,18 @@
+Citation
+664 F.2d 772, 1981 U.S. App. 15022, 32 U.C.C. Rep. Serv. (Callaghan) 1025
+
+Brief Fact Summary
+Plaintiff, Nanakuli Paving & Rock Co., sued Defendant, Shell Oil Co., for breach of a supply contract when Defendant failed to provide price protection on a delivery of asphalt as it had done in the past. The jury returned a verdict in favor of the Plaintiff, which was set aside by the trial judge. Plaintiff appealed, and the Court of Appeals reversed.
+
+Synopsis of Rule of Law
+Under the Uniform Commercial Code, a trade usage or course of dealing may be used to explain or supplement the express terms of a written contract. A trade usage will be binding on a person who is either a member of the trade or is a person who knows or should know of the trade usage.
+
+Facts
+Plaintiff, a large paving contractor in Hawaii, purchased all of its requirements for asphalt from Defendant under two supply contracts between 1963 and 1974. The written contract provided that the price for the asphalt would be the price posted at the time of delivery. Asphaltic paving contractors in Hawaii bid work at fixed prices and commonly received price protection from their suppliers because government agencies would not accept price escalation clauses in their contracts with the pavers. In 1970 and 1971, Defendant raised its price for asphalt, but protected Plaintiff from the price increase for several months after each announced increase. In 1974, Defendant raised its price for asphalt with one day notice to Plaintiff, and did not offer price protection. Plaintiff sued for breach of its 1969 contract with the Defendant. The jury found in favor of the Plaintiff, but the trial court set aside the verdict. The Court of Appeals reversed and reinstated the jury’s verdict.<span class='heading'>Issue.</span>  Whether a trade usage or course of dealing can be used to modify or supplement the express terms of a written commercial contract?
+
+Held
+Yes. There was sufficient evidence for the jury to find that a usage of the asphaltic trade in Hawaii required Defendant to provide price protection to Plaintiff.
+
+Discussion
+Under the UCC, a commercial contract is much broader in scope than the express written provisions of the agreement. This case demonstrates that courts will look outside the written agreement to industry practices, the parties’ dealings with each other in business, and to how the parties perform their contracts with each other to determine the terms of their agree
+

@@ -1,0 +1,18 @@
+Brief Fact Summary
+A corporation announced its plans to significantly support a museum named after the corporation’s chairman of the board. The stockholders (P) sued, alleging improper gift, waste of assets, and breach of the chairman’s duty of loyalty.
+
+Synopsis of Rule of Law
+Stockholder litigation can be resolved by settlement even when the settlement provides minimal awards to the stockholders.
+
+Facts
+The chairman of Occidental Petroleum Corporation (D), Dr. Armand Hammer (D) informed the stockholders (P) before the 1989 annual meeting about the proposal to make financial donations to the Armand Hammer Museum of Art and Cultural Center in Los Angeles. Specifically, a $50 million dollar fund for construction costs, a 30 year rent free lease in Occidental’s (D) Los Angeles headquarters, a $24 million dollar annuity, and the option to buy back the museum facilities at the end of the 30 year lease for $ 55 million dollars. Further, Occidental (D) would contribute a lump sum to the foundation approximately seven times Dr. Hammer’s (D) compensation in the year before his death. Sullivan (P) and the other stockholders (P) filed suit two weeks after the announcement. The complaint alleged improper gifts, waste of corporate assets, and breach of duty of loyalty on Dr. Hammer’s part.
+
+Issue
+Can stockholder litigation be resolved by settlement even when the settlement provides minimal awards to the stockholders?
+
+Held
+(Hartnett, V. Chan) Yes. Stockholder litigation can be resolved by settlement even when the settlement provides minimal awards to the stockholders. Delaware law limits judicial review of proposed settlements in stockholder litigation. 6 factors determine the reasonableness of a proposed settlement: (1) the strength of the plaintiff’s position, (2) how difficult judicial enforcement of the plaintiff’s claims will be, (3) how collectable any award will be, (4) how onerous litigation will be for the parties, (5) size of settlement vs. size of possible judgment, and (6) opinions of the parties. Here, it is unlikely Sullivan (P) will prevail. In Delaware, business judgment rule can create cover for a corporate board’s decisions from their stockholder’s challenges. A stockholder can overcome this by proving either that the directors entered a transaction for personal gain, were not independent, were grossly negligent of information important to the transaction or that the decision was completely irrational to sound business judgment. Here, the stockholders (P) have not proven any of the exceptions and the board’s contributions are presumed valid. With the weakness of the Stockholder’s (P) case, the proposed settlement offers reasonable consideration, even if it was speculative. Occidental (D) may even enjoy goodwill from the contributions. The settlement, though barely acceptable is adequate compared to the strength of the Stockholder’s (P) position. Settlement approved.
+
+Discussion
+It is safe to assume that heavily funding an art museum is greatly, “Ultra Vires” for a company funded for petroleum-related reasons. Showing how weak “Ultra Vires” doctrine has become, Sullivan also offers glimpses into the benefits of incorporating under Delaware Law. Under Aronson v. Lewis 473 A.2d 805 (1984), overturning presumption is very difficult for stockholder plaintiffs.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.406 F.2d 1315 (3d Cir. 1969)
+
+Brief Fact Summary
+Guenther (Plaintiff) was a mechanic, employed by Sears Roebuck & Company (Sears) in Pittsburgh, Pennsylvania. Plaintiff was injured while installing summer tires on an automobile. The characteristics and identification of the tire that caused the injuries was the subject of an appeal to the Supreme Court of the United States.
+
+Synopsis of Rule of Law
+The fact that there is disagreement between one party and his witnesses concerning an essential element of a case is not enough for directed verdict to issue.
+
+Facts
+After Plaintiff was injured, Mr. Small, the Sears Service Center Manager, had the tire which caused Plaintiff’s injuries removed to his office. Later, at trial, Plaintiff testified that the tire, which caused his injuries was a “black wall” tire. However, Mr. Small testified that the tire he removed and placed in his office was a “white wall” tire. Therefore, the district court granted a directed verdict in favor of Defendant.
+
+Issue
+Should the directed verdict granted by the lower court be allowed to stand?
+
+Held
+The directed verdict issued by the district court should be reversed and the case remanded for a new trial on the merits.
+
+Discussion
+Plaintiff’s contention that the directed verdict should be overturned as a result of evidence that the Defendant made between 75% and 80% of the tires the Sears store had for sale has no merit. However, as a result of the conflicting testimony between the Plaintiff and his witness, it should not be a function of the court to conclude Plaintiff’s cause of action by directing a verdict against him.
+

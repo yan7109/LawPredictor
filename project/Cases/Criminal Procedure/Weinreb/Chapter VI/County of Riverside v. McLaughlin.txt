@@ -1,0 +1,18 @@
+Citation
+500 U.S. 44, 111 S. Ct. 1661, 114 L. Ed. 2d 49 (1991)
+
+Brief Fact Summary
+A class action suit, challenging the county’s procedure of combining probable cause determinations for parties arrested without a warrant and the arraignment process.
+
+Synopsis of Rule of Law
+“Where an arrested individual does not receive a probable cause determination within 48 hours, the burden of proof shifts to the government to demonstrate the existence of a bona fide emergency or other extraordinary circumstance, which cannot include intervening weekends or the fact that, in a particular case, it may take longer to consolidate pretrial proceedings.”
+
+Held
+Under “Gerstein”, the court recognized practical realities of administrative functions, differences among localities in processing arrested individuals, etc.  Thus, the court believes “that a jurisdiction that provides judicial determinations of probable cause within 48 hours of arrest will, as a general matter, comply with the promptness requirement of Gerstein. For this reason, such jurisdictions will be immune from systemic challenges.”  In instances where it takes longer than 48-hours, “the burden shifts to the government to demonstrate the existence of a bona fide emergency or other extraordinary circumstance. . . . A jurisdiction that chooses to offer combined proceedings must do so as soon as is reasonably feasible, but in no event later than 48 hours after arrest.”
+
+Dissent
+J. Marshal, joined by J. Stevens and J. Blackmun, dissent,  on the grounds that “a probable-cause hearing is sufficiently ‘prompt’ under Gerstein only when provided immediately upon completion of the ‘administrative steps incident to arrest.’”
+
+Discussion
+“Only those proceedings that arise very early in the pretrial process – such as bail hearings and arraignments – may be chosen. Even then, every effort must be made to expedite the combined proceedings.”
+

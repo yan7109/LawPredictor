@@ -1,0 +1,21 @@
+Citation
+522 U.S. 1081 118 S. Ct. 864 139 L. Ed. 2d 762 1998
+
+Brief Fact Summary
+The Plaintiff, Watson (Plaintiff), was injured when a third party lit a match and ignited gasoline vapor causing an explosion. The gasoline vapor was the result of the derailing of a rail car owned by the Defendant, Kentucky & Indiana Bridge & R.R. Co. (Defendant).
+
+Synopsis of Rule of Law
+If an intervening act is merely unforeseeable it does not sever the liability of the primary negligent party. However, if the intervening act is so unexpected or extraordinary that the primary tortfeasor could not and ought not to have anticipated it, then liability is severed.
+
+Facts
+The Defendant railroad’s tank car filled with gasoline derailed and spilled its contents into the street where the Plaintiff was a bystander. A third party struck a match igniting the gasoline vapor and causing the explosion, which injured the Plaintiff. There was conflicting testimony at trial over whether the third party started the fire while lighting a cigar, or whether he dropped the match with the intention of igniting the gas.
+
+Issue
+Whether the intervening act of the third party was a contributing cause, or the proximate cause of the Plaintiff’s injury.
+
+Held
+A foreseeable intervening act severs liability only if it is so unexpected or extraordinary that the defendant could not and ought not to have anticipated it.
+
+Discussion
+* If the third party inadvertently lit the match, then the negligence of the Defendant is a proximate cause of the Plaintiff’s injury because it is reasonably foreseeable that someone might light a cigar on the street. In this instance the explosion could not have occurred without the gasoline first having been spilled.<br />* If the act of the third party was intentional and done with the purpose of lighting the gasoline, then the Defendant is not liable because the Defendant could not have foreseen that someone would maliciously light a match with the purpose of causing an explosion. Because such an act is not reasonably foreseeable, the Defendant had no way to guard against it.
+

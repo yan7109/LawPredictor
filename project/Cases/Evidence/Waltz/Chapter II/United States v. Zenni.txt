@@ -1,0 +1,21 @@
+Citation
+492 F. Supp. 464, 1980 U.S. Dist.
+
+Brief Fact Summary
+During a lawful search for evidence of illegal bookmaking activity, conducted pursuant to a valid search warrant, law enforcement answered the phone several times.
+
+Synopsis of Rule of Law
+Implied assertions, though they were considered hearsay at common law, are not considered hearsay under F.R.E 801 because they are not assertions, but non-assertive verbal conduct.
+
+Facts
+During a lawful search for evidence of illegal bookmaking activity, conducted pursuant to a valid search warrant, law enforcement answered the phone several times. They seek to introduce evidence that individuals who called during that time placed bets, and thus believed that the premises was used for such purposes, and was thus likely used for such a purpose.
+
+Issue
+Whether implied assertions are hearsay?
+
+Held
+No.  To be hearsay an assertion must be made, and in this case the statements made by the gamblers on the telephone were non assertive verbal conduct.  They were not made to prove that the place they were calling was a bookmaking establishment, but simply made to place bets.
+
+Discussion
+The dangers inherent in hearsay do not exist in the context of non-assertive verbal conduct, or implied assertions. The declarant’s veracity is not at issue, and so one of the reasons that it is so important to have an out of court declarant available for cross examination is not present. The statement was not made to show the truth or falsity of something, and so the veracity is not in issue.
+

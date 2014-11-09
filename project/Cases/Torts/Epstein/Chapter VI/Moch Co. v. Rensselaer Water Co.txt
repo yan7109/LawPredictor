@@ -1,0 +1,21 @@
+Citation
+247 N.Y. 160, 159 N.E. 896, 1928 N.Y. 62 A.L.R. 1199
+
+Brief Fact Summary
+Moch Co.’s (Plaintiff’s) building was destroyed by fire, due to a lack of water to fight the fire. Plaintiff sued Rensselaer Water Co. (Defendant) for failing to supply the city with sufficient water.
+
+Synopsis of Rule of Law
+One who undertakes to perform a contractual duty for another, and fails to adequately perform this duty, owes no special duty to any third party harmed by his non-performance, unless he specifically agreed to perform for the third party.
+
+Facts
+Defendant supplied the City of Rensselaer with water. This water was used for various things, including fire hydrants. Plaintiff owned a building in Rensselaer, which burned down. The nearest fire hydrants were not able to produce sufficient water at an appropriate pressure to save the building. Defendant was under contract with the city to adequately provide this water. Plaintiff sued for damages caused by the failure of Defendant to “fulfill the provisions of the contract between it and the city of Rensselaer.” Defendant filed a Motion to Dismiss the Complaint. Defendant’s Motion was denied. The appellate court reversed the district court.
+
+Issue
+The court addresses Plaintiff’s three theories of liability:
+
+Held
+No to issues (a), (b), and (c). Judgment affirmed.
+
+Discussion
+Courts are reluctant to turn every contractual breach of contract into a tort. If there is no special relationship or contractual relationship between the parties, there is no tortious liability for withholding benefits under a contract to an incidental beneficiary. This action was not maintainable under tort law either. If the courts were to expand common law liability to Defendant, then there would be a tremendous amount of liability and associated transactional cost. In this case, the court held that Defendant did not undertake a duty to Plaintiff, but rather denied him a benefit.
+

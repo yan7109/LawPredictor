@@ -1,0 +1,21 @@
+Citation
+980 F.2d 865, 1992 U.S. App.
+
+Brief Fact Summary
+This appeal concerns venue in an action brought under the Fair Debt Collection Practices Act, 15 U.S.C. Section:Section: 1692-1692(o).
+
+Synopsis of Rule of Law
+The statutory standard for venue focuses not on whether a defendant (creditor) has made a deliberate contact with the venue, but on the location where the events occurred.
+
+Facts
+Phillip E. Bates (Plaintiff) commenced this action in the District Court for the Western District of New York following receipt of a collection notice from C & S Adjusters, Incorporated (Defendant). Plaintiff alleged a violation of the Fair Debit Collection Practices Act. Plaintiff had incurred the debt in question while he was a resident of the Western District of Pennsylvania. The creditor also had its principal place of business in that district. The creditor referred the matter to Defendant, a local agency, which transacted no business in New York. After Defendant mailed a collection notice to Plaintiff in Pennsylvania, the postal service forwarded the notice to Plaintiff at a new address in New York. Defendant filed a Motion to Dismiss for Improper Venue, which was granted by the District Court for the Western District of New York.
+
+Issue
+Whether venue exists in a district in which a debtor resides and to which a bill collector’s demand for payment was not deliberately forwarded?
+
+Held
+Venue was proper under 28 U.S.C.A. Section: 1391(b)(2) because a substantial part of the events giving rise to Plaintiff’s claim occurred in the Western District of New York. Here, the collection notice is located in New York. Therefore, venue in New York is proper. The United States Court of Appeals for the Second Circuit reversed and remanded the case.
+
+Discussion
+This case involves unique circumstances, because Defendant did not intentionally forward the collection notice to Plaintiff’s new address in New York. Prior cases dealt primarily with the collection agency’s deliberate contact with the debtor. The court decided that under the 1990 venue statute, the fact that a creditor did not intend to have a communication reach a debtor at a new address is inconsequential. Since the focus of the statute is not upon the attempted contacts, but rather where the action occurred, venue is proper in the debtor’s new state if a substantial part of the events giving rise to the claim occur in that new state.
+

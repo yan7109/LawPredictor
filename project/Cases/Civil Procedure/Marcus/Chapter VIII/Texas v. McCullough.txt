@@ -1,0 +1,24 @@
+Citation
+475 U.S. 134, 106 S. Ct. 976, 89 L. Ed. 2d 104; 1986 U.S.
+
+Brief Fact Summary
+The defendant, Sanford James McCullough (the “defendant”), was tried and convicted before a jury, receiving a 20-year sentence.  Upon successfully setting aside the first verdict, the defendant was reconvicted with additional evidence at retrial, leading the judge to impose a 50-year sentence.
+
+Synopsis of Rule of Law
+A sentencing judge may lengthen a sentence upon retrial, absent any proof of vindictiveness, as long as the judge factually supports the increase.
+
+Facts
+The defendant was initially tried for murder before a jury, who found him guilty.  The jury imposed a 20-year sentence, but the defendant had the verdict set aside for prosecutorial misconduct.  During retrial, two additional witnesses testified that it was the defendant rather than his accomplices that actually committed the murder.  The defendant elected the judge to impose the sentence after the second guilty verdict, and the judge cited the additional testimony in imposing a longer sentence of fifty years.
+
+Issue
+Whether a sentencing judge, where there is no evidence of vindictiveness, can justify a longer sentence for a reconviction?
+
+Held
+A sentencing judge can impose a longer sentence provided that the judge can support the decision.  Vindictiveness will not be presumed.
+
+Dissent
+The dissent reaches a different conclusion than the majority and the concurring opinion.  They believe that a trial judge’s granting of a retrial does not eliminate the possibility for vindictiveness.  Moreover, because it is so difficult to prove actual prejudice, the dissent would hold that there should be a presumption of vindictiveness.
+
+Discussion
+This decision answers the hypothetical situation posed by Justice Byron White (”J. White”) in his concurring opinion in North Carolina v. Pearce, when he suggested that if new evidence became available during the retrial it could justify a longer sentence.  The holding here modifies Pearce by not imposing a presumption of vindictiveness.
+

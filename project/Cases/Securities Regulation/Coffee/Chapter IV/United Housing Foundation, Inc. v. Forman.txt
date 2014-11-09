@@ -1,0 +1,18 @@
+Brief Fact Summary
+In order to inhabit an apartment in Co-op City, developed by the United Housing Foundation (Defendant), probable tenants (Plaintiff) had to purchase shares of stock in the company.
+
+Synopsis of Rule of Law
+The Securities Act does not recognize commercial contracts in stock as securities where the transaction’s purpose is not investment for profit.
+
+Facts
+A non-profit organization, United Housing Foundation, Inc. (UHF), developed Co-op City, a low cost housing cooperative. UHF formed Riverbay to own and operate Co-op City. In order for a potential tenant to acquire an apartment, they had to purchase eighteen shares of stock for each requested room; the entire purpose of the share purchase was to move into Co-Op City. The shares were not transferrable, came with no voting rights and upon moving out, the tenant had to sell the shares back at the original price. Originally, UHF wanted to attract occupants in order to cover a portion of the construction costs, but when costs were higher than anticipated, UHF raised the monthly rental charges to cover overrun. Fifty-seven residents claimed that the initial offer stated that residents would not be required to cover construction cost increases and filed suit against UHF and Riverbay. The citizens of Co-op City stated that the alleged distortions were in violation of federal securities laws. UHF stated that the contracts did not involve securities and the district court judge granted a motion to dismiss. The court of appeals reversed, and UHF appealed.
+
+Issue
+If the purpose of the investment is not for profit, are commercial transactions involving stock considered securities?
+
+Held
+(Powell, J.) No. If the purpose of the investment is not for profit, commercial stock transactions are not considered securities. Merely stating a transaction is a sale of “stock” does not make it a security transaction. The Securities Act of 1933 and 1934 main purpose was to end exploitation in the sale of securities to raise capital for profit. Congress intended the application of these laws be based on the economic realities underlying the transactions, because securities transactions are economic in nature. A transaction labeled a stock purchase is not a security transaction unless it (1) provides the right to dividends dependent on receipt of profits, (2) confers voting rights and (3) is negotiable.  Shares in Riverbay are not considered an “investment contract” as defined by the Securities Act, and so, buying an apartment for personal use is not buying investment securities just because a portion of the transaction is labeled “stock”.  Commercial dealings are only investment contracts when there is an anticipated profit from the investment. Seeing as the occupants of Riverbay simply need a place to live and will not procure profits from the shares purchased, this transaction is not considered a security for the purposes of antifraud provisions. Reversed.
+
+Discussion
+Here, the contention that the residents of Co-op City could profit on the transaction due to leasing parking spaces and washing machines was rejected by the Court, stating that the income received was too uncertain. This case does not reference housing cooperatives that allow selling their stock for profit. See Grenader v. Spitz, 537 F.2d 612 (2d Cir. 1976).
+

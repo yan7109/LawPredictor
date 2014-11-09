@@ -1,0 +1,24 @@
+Brief Fact Summary
+Brown (P) and Gobble (D) had a disagreement over the ownership of a two-foot wide strip of land on the boundary of their properties.
+
+Synopsis of Rule of Law
+The doctrine of tacking, or using periods of adverse possession by successive predecessors to make up the time period needed to prove adverse possession, is allowed by parties claiming adverse possession.
+
+Facts
+Gobble (D) purchased real property in 1985. There was a fence running along the back of the property, but this was actually 2 feet outside the true boundary and thus extended onto the adjoining property, which was bought by Brown (P) in 1989. Brown was aware of this fact before buying the land, but did not claim ownership till 1994. In that year he decided to build a road along the strip in question. Gobble then tried to prevent him from doing so, and Brown filed seeking restraint on his interference. Gobble filed a counterclaim alleging adverse possession of the two-foot strip. He showed proof that both Blevins and Fletcher, who were the prior owners of the Gobble property from 1937 till the time of purchase by Gobble in 1985, believed themselves to be the owners of the strip and treated it as part of their own estate. The trial court held that adverse possession had not been proved and decided in favor of Brown. Gobble went in appeal.
+
+Issue
+Is the doctrine of tacking, or using continuous periods of adverse possession by successive predecessors to make up the time period needed to prove adverse possession, allowed by parties claiming adverse possession?
+
+Held
+(Cleckley, J.) Yes. The doctrine of tacking, or using periods of adverse possession by successive predecessors to make up the time period needed to prove adverse possession, is allowed by parties claiming adverse possession. The proving of adverse possession requires the following elements: (1) The adverse holding of the property (2) The actual possession of the property (3) The fact of possession being open and well-known in the locality (4) The possession being exclusively that of the claimant (5) Continuous possession (6) The holding of the property under claim of title to the property. In this case, a period of adverse possession for ten years was required to be proved. This time requirement may be made up using the principle of tacking, or adding up the time periods of adverse possession by different possessors, all connected by privity of title or claim. Gobble had personally been in adverse possession of the land for nine years, but the prior owners who had been connected to him by their prior titles to the property now owned by him, had been in continuous adverse possession before him. Their time period can be tacked on to his, all three being continuous and exclusive, to fulfill the time requirement for adverse possession. The trial court failed to understand this relationship. The verdict is reversed and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+This verdict laid the foundation for the standard of proof in adverse possession claims. The court demanded clear and convincing evidence for proving adverse possession. Some jurisdictions ask only a preponderance standard, but most agree with the Court’s standard.
+

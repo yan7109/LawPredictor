@@ -1,0 +1,21 @@
+Citation
+41 U.S. 1, 10 L. Ed. 865, 1842 U.S.
+
+Brief Fact Summary
+Plaintiff sued in federal district court in New York to enforce a bill of exchange. The issue in the case became whether the federal court needed to apply New York common law or, whether, the court was free to fashion its own determination of the general principles of the law in this area.
+
+Synopsis of Rule of Law
+Federal courts exercising jurisdiction predicated upon the ground of diversity of citizenship need not, in matters of general jurisprudence, apply the unwritten law of the state as declared by its highest court. The federal court is free to exercise an independent judgment as to what the common law of the state is, or should be.
+
+Facts
+Defendant argued that the federal court was required to apply prior New York decisions to the present case. Defendant based his argument on the language behind the Rules of Decision Act.
+
+Issue
+Are federal courts free, in diversity of citizenship cases, to ignore the common law of the state where the federal court sits?
+
+Held
+Yes. Federal judges, sitting in diversity actions, are free to ignore the common law of the state where the federal court is located. Furthermore, those federal judges are able to determine exactly the parameters of the common law of that forum state.
+
+Discussion
+The effect of this ruling is to allow nonresidents of the state where the federal court sits to discriminate against citizens of the forum state. As a result of the decision in this case, plaintiffs were effectively able to “forum shop” between state courts and federal district courts within the same state in order to determine which would be more favorable to their case. This case was overturned by Erie.
+

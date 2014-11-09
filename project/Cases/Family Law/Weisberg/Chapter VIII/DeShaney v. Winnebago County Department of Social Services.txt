@@ -1,0 +1,24 @@
+Citation
+489 U.S. 189,109 S. Ct. 998,103 L. Ed. 2d 249,1989 U.S.
+
+Brief Fact Summary
+Custody of petitioner was given to his father, who was accused of multiple incidents of child abuse.  Respondent child services failed to take custody of petitioner, and petitioner and his mother brought suit against respondents.
+
+Synopsis of Rule of Law
+The affirmative duty to protect arises not from the State’s knowledge of the individual’s predicament or from its expressions of intent to help him, but from the limitation which it has imposed on his freedom to act on his on behalf.
+
+Facts
+Petitioner Joshua DeShaney was born in 1979, and custody of him was awarded to his father in 1980.  In 1982 authorities first learned petitioner might be a victim of child abuse when his second wife complained to police.  The County Department of Social Services (DSS), respondents, interviewed the father, but he denied the accusations and DSS did not pursue it further.  In 1983 petitioner was admitted to a local hospital with multiple bruises and abrasions.  The physician suspected child abuse and notified DSS.  DSS obtained an order placing Joshua in the temporary custody of the hospital.  The county convened an ad hoc Child Protection Team, which decided there was insufficient evidence of child abuse to retain petitioner in the custody of the court.  The Team recommended several measures to help protect petitioner.  A month later emergency room personnel again called the DSS caseworker to report that petitioner had again been treated for suspicious injuries.  The caseworker
+
+Issue
+Did the court correctly grant summary judgment against petitioner in petitioner and his mother’s 42 U.S.C. Section:1983 action alleging that respondents deprived petitioner of his liberty without due process of law by failing to intervene to protect him?
+
+Held
+The court acted correctly because the State had no affirmative duty to protect petitioner under the Due Process Clause.
+
+Dissent
+I would focus first on the action that Wisconsin has taken with respect to Joshua and children like him.  The Court’s initial fixation that the Constitution does not establish positive rights does not hold true in all circumstances.  Precedent has acknowledged that a State’s actions may sometimes impose upon the State certain positive duties.  Wisconsin law directs its citizens to depend on local departments of social services such as respondent to protect children from abuse.  I would allow petitioners the opportunity to show that respondents’ failure to help him arose from the kind of arbitrariness that we have in the past condemned.
+
+Discussion
+The majority found that the State accrued no positive duty under the Due Process Clause to protect petitioner, while the dissent would have not confirmed the summary judgment, permitting petitioners the opportunity to prove that the State had a positive duty to protect.
+

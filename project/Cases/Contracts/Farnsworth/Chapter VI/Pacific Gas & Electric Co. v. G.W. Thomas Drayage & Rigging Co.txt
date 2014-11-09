@@ -1,0 +1,18 @@
+Citation
+69 Cal. 2d 33, 442 P.2d 641, 69 Cal. Rptr. 561, 1968 Cal.
+
+Brief Fact Summary
+Defendant contracted with Plaintiff to remove and replace the upper metal cover of Plaintiff’s steam turbine. Defendant agreed to indemnify Plaintiff against all loss resulting from injury to property. After the cover fell and injured Plaintiff’s turbine, Plaintiff sued to recover damages, and Defendant sought to offer evidence that the indemnity clause was only to cover damages to third parties.
+
+Synopsis of Rule of Law
+Extrinsic evidence is admissible to explain the meaning of a written agreement if the offered evidence is relevant to prove a meaning to which the language of the instrument is reasonably susceptible.
+
+Facts
+Defendant entered into a contract with Plaintiff to remove and replace the upper metal cover of Plaintiff’s steam turbine. Defendant agreed to indemnify Plaintiff “against all loss, damage, expense and liability resulting from…injury to property, arising out of or in any way connected with the performance of this contract.” During the work, the cover fell and injured the rotor of Plaintiff’s turbine. Plaintiff initiated this action to recover $25,144.51, the amount it spent on repairs. At trial, Defendant sought to introduce evidence that indicates that the indemnity clause was only meant to cover injury to property of third parties, not Plaintiff. The trial judge refused to admit the extrinsic evidence. <span class='heading'>Issue.</span>  Is extrinsic evidence admissible to aid in the interpretation of an unambiguous contract term?
+
+Held
+Yes. “The test of admissibility of extrinsic evidence to explain the meaning of a written instrument is not whether it appears to the court to be plain and unambiguous on its face, but whether the offered evidence is relevant to prove a meaning to which the language of the instrument is reasonably susceptible.” Further, excluding parol evidence merely because the words do not appear ambiguous may lead to an interpretation of a written contract that was never intended. Extrinsic evidence may not add to, detract from, or vary the terms of a written contract, but it may be used to interpret the terms of the contract. In the present case, since the contract clause was reasonably susceptible of the meaning Defendant attaches to it, the evidence offered by Defendant is admissible.
+
+Discussion
+Extrinsic evidence is admissible to aid in the interpretation of a contract clause if the clause is reasonably susceptible to the asserted interpretation.
+

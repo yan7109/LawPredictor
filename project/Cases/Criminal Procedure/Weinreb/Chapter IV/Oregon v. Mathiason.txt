@@ -1,0 +1,21 @@
+Citation
+429 U.S. 492, 97 S. Ct. 711, 50 L. Ed. 2d 714 (1977)
+
+Brief Fact Summary
+An individual confessed to the police at a patrol office. after being told he was not under arrest.
+
+Synopsis of Rule of Law
+“[P]olice officers are not required to administer Miranda warnings to everyone whom they question. Nor is the requirement of warnings to be imposed simply because the questioning takes place in the station house, or because the questioned person is one whom the police suspect. Miranda warnings are required only where there has been such a restriction on a person’s freedom as to render him ‘in custody.’ ”
+
+Facts
+The Respondent, Carl Mathiason (the “Respondent”), was convicted of first-degree burglary.  His confession was critical to the case.  A police officer left the Respondent his card after being told by a burglary victim that the Respondent was the only person she could think that would rob her home.  The Respondent came to the police station and was told he was not under arrest.  The officer told the Respondent that he thought he was involved in the burglary and lied to him that his fingerprints were found on the scene.  The defendant then confessed to taking the property.  After the confession, the officer read the Respondent his Miranda rights.  Thereafter, he taped a confession.  The Respondent was then again informed that he was not under arrest at the time and released to go home and to his job.  During trial, the Respondent moved to suppress the confession because it was not preceded by Miranda warnings.  The trial court refused to suppress the confession because it found
+
+Issue
+Whether the Respondent’s Miranda rights were violated?
+
+Held
+No.  “In the present case [ ] there is no indication that the questioning took place in a context where respondent’s freedom to depart was restricted in any way. He came voluntarily to the police station, where he was immediately informed that he was not under arrest. At the close of a 1/2-hour interview respondent did in fact leave the police station without hindrance. It is clear from these facts that Mathiason was not in custody ‘or otherwise deprived of his freedom of action in any significant way.’ ”
+
+Discussion
+This case should be read alongside [Oregon v. Elstad] to better see how Miranda is applied to confessions on a case by case basis.
+

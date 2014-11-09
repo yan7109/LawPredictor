@@ -1,0 +1,21 @@
+Citation
+97 T.C. 74,1991 U.S. Tax Ct.97 T.C. No. 5
+
+Brief Fact Summary
+The decedent, Maria Cristofani claimed estate tax exclusions of $10,000 for seven years based on a transfer to an irrevocable trust in favor of her children and grandchildren.  The Internal Revenue Service invalidated the exclusions that made the gifts in regard to the interest of her grandchildren on grounds that the exclusions were not based on present transfers of property.
+
+Synopsis of Rule of Law
+Whether a gift is a present interest under Section 2503(b) of the Gift Tax is determined by the ability of the beneficiaries to exercise their right to withdraw a trust corpus and the ability of trustee’s legal right to resist a beneficiary’s demand for payment.
+
+Facts
+.
+
+Issue
+Whether the decedent validly claimed a tax exemption in regard to the transfers in trust for the benefit of her grandchildren because their interests did not vest unless their parents predeceased or failed to survive the decedent by 120 days?
+
+Held
+Yes.  The grandchildren received a present transfer of interest that is subject to the tax exemption.  The likelihood that a beneficiary will actually receive present enjoyment of the property is not the test for determining whether a present interest was received.  It is sufficient that the grandchildren were beneficiaries of the trust who had the right to demand payment from the trust during a 15 day period following the contribution to the trust and the trustee would not have the power to resist such a demand. Furthermore, the fact that the trust provisions were made to obtain the benefit of the annual gift tax exclusion does not have change the result in this case.
+
+Discussion
+The gift tax applies to the transfer because the gift was absolute. Whenever the grandchildren chose to exercise their right, even if under limited circumstances, the trustee did not have any power to refuse their request.
+

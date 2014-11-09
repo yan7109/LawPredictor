@@ -1,0 +1,21 @@
+Citation
+796 F.2d 190, 1986 U.S. App. 5 Fed. R. Serv. 3d (Callaghan) 393
+
+Brief Fact Summary
+Shepard Claims Services, Inc. (Plaintiff), filed a contract action in the district court against William Darrah & Associates, alleging that an insurance broker (Defendant), failed to pay Plaintiff for services rendered. Defendant appeals from the district court’s denial of Defendant’s Motion to Set Aside Entry of Default.
+
+Synopsis of Rule of Law
+In order to have an order of default set aside, the defendant must make a motion and show a meritorious defense.
+
+Facts
+Plaintiff filed a contract action against Defendant for failure to pay Plaintiff for services rendered. On February 22, 1985, Defendant’s attorney’s secretary secured by telephone an extension of 45 days for filing an answer. By April 10, 1985, Defendant had not filed an answer, so Plaintiff requested that the clerk enter the Defendant’s Judgment of Default. On April 19, 1985, Defendant filed a “Notice of Retention” with an answer on April 26, 1985, and on April 29, 1985, with a notice of affirmative defenses, a counterclaim, interrogatories and a request for production of documents. On May 1, 1985, Defendant filed a response to Plaintiff’s Motion for Default Judgment and Motion to Set Aside Entry of Default. Plaintiff filed its Motion for Default Judgment on May 8, 1985, and Response to Defendant’s Motion to Set Aside Entry of Default. Defendant also filed two affidavits from his counsel and counsel’s secretary, which stated the agreement that there was to be a 45 day extension from the normal time period of 30 days to file an answer. Under this interpretation, the answer would have been due on April 23, 1985. Defense counsel insists that he did not learn of the April 10, 1985 Entry of Default until April 29, 1985. The district court denied Defendant’s Motion to Set Aside Entry of Default and found that Defendant’s attorney engaged in culpable conduct when he permitted his secretary to make arrangements for the extension, and then failed to review her work.
+
+Issue
+Whether Defendant’s Motion to Set Aside Entry of Default should be granted based on good cause?
+
+Held
+Yes. Judgment is reversed and remanded for further proceedings.   In order to determine whether a motion for default should be entered, the court must determine whether the plaintiff will be prejudiced, whether the defendant has a meritorious defense, and whether defendant’s conduct was culpable. Here, Plaintiff suffered no prejudice, and Defendant presented a meritorious defense in its answer. To prove culpable conduct, the conduct of a defendant must display intent to frustrate judicial proceedings or reckless disregard for the effect of conduct on proceedings. However, when the first two factors militate in favor of setting aside the entry it is an abuse of the district court to deny the motion to set aside the default.    Furthermore, it is not necessary that conduct be excusable to qualify for relief under the good cause standard.  Strong policy exists in favor of deciding cases on their merits and is outweighed by the slight delay experienced by the court. A default judgment deprives the client of his day in court and should not be used as a means to punish attorneys. Therefore, despite evidence of disarray on the part of the Defendant, the Defendant should not be deprived of his opportunity to present his defense at trial.
+
+Discussion
+As a matter of law, a default judgment establishes that defendants are liable to plaintiff for each cause of action alleged in the complaint. Since the effect of a default judgment is so harsh, this court is opposed to denying the party of his day in court. Absent the intent to frustrate the judicial process or reckless disregard for the party’s actions on the court system, the court will generally find good cause to set aside a default judgment.
+

@@ -1,0 +1,21 @@
+Citation
+14 U.S. 304, 4 L. Ed. 97,1816 U.S. 333, 1 Wheat. 304.
+
+Brief Fact Summary
+The state of Virginia granted the same tract of land to the Appellee, Hunter (Appellee), that a federal treaty give to the Appellant, Martin (Appellant). The Supreme Court of the United States (Supreme Court) declared that Appellant was so entitled, but the Virginia Court of Appeals, to which the case was remanded, refused to carryout the Supreme Court’s judgment.
+
+Synopsis of Rule of Law
+The United States Constitution (Constitution) and the laws of the United States made in pursuance thereof shall be the supreme law of the land and the judges in every state shall be bound thereby.
+
+Facts
+Appellee claimed ownership of a tract of land in the state of Virginia that was given to him by the State pursuant to a land confiscation act. Appellant claimed ownership to the same tract of land, arguing that the Act was in violation of a treaty between the United States and Great Britain. The Virginia Court of Appeals, reversing the trial court, found in favor of Appellee. The Supreme Court took jurisdiction over the case, reversed and remanded the case back to the Virginia Court of Appeals and instructed it to enter judgment for Appellant. On remand the Virginia Court of Appeals declined and argued that the law, section 25 of the Judiciary Act (the Act), pursuant to which the Supreme Court took appellate jurisdiction over the Court of Appeals, was unconstitutional.
+
+Issue
+Was section 25 of the Act Constitutional?
+
+Held
+Yes. The appellate power of the United States does extend to cases pending in state courts. Section 25 of the Act is supported by the letter and spirit of the Constitution.
+
+Discussion
+It’s important to recognize that this case pertains to the power of the federal courts to review decisions by state courts. In Marbury v. Madison, at issue was as a federal court’s power to review an act by another branch of the federal government.
+

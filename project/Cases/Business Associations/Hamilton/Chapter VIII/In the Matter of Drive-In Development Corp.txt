@@ -1,0 +1,21 @@
+Citation
+371 F.2d 215 (7th Cir. 1966)
+
+Brief Fact Summary
+Drive-in Development Corp’s (Drive-in) parent company (D) was lent money by National Boulevard Bank (P) after proof was furnished that Drive-in’s directors (D) had guaranteed payment of the loan with Maranz.
+
+Synopsis of Rule of Law
+If made while in the scope of his authority, statements of corporate officers and binding upon the corporations.
+
+Facts
+The parent company of  Drive-in (D), Tastee Freez Industries, Inc. (D) wanted to borrow money the National Boulevard Bank of Chicago (the “Bank”) (P). The Bank (P) agreed on the condition that Drive-in (D) guarantee the loan. Maranz, as chairman of Drive-in (D) was willing to execute a guaranty, but the Bank (P) also requested a copy of resolution which would authorize Maranz to sign on behalf of Drive-in (D). The resolution never appeared in Drive-in’s (D) books leading to doubt whether the Drive-in (D) board ever adopted it. Drive-in (D) eventually filed for bankruptcy, and the Bank (P) made a clam for the amount of its unpaid loan. The referee dismissed the claim, alleging that Maranz lacked binding authority to make the agreement. From judgment confirming the referee’s decision, the Bank (P) appealed.
+
+Issue
+Are parties who enter into transactions with a corporation entitled to rely upon statements made by the officers?
+
+Held
+(Swygert, J.) Yes. If made while in the scope of his authority, statements of corporate officers and binding upon the corporations. It is the secretary’s duty to maintain records, and it was within Dick’s authority to certify adoption of the resolution. The Bank (P) has no further duty of inquiry once Dick stated that Maranz had authority. Drive-in (D) is stopped from denying liability towards the loan. Drive-in (D) argues, inasmuch the Bank’s officer was also a director of Tastee Freez, the Bank (P) is responsible for its own knowledge of the resolution’s adoption. The simple answer is that the director’s contact with Tastee Freez would not put him on notice of the resolution’s non-adoption. The bankruptcy referee erred by dismissing the Bank’s (P) claim. Reversed in part and affirmed in part.
+
+Discussion
+Corporations are bound by officers who act in the scope of their authority. Authority may result from the officer’s conduct himself, or from the corporation’s failure to disclaim his authority. The corporation will not be bound to unauthorized acts of its officers unless the outsider’s belief that the officer had authority was a reasonable one. If the outsider had actual knowledge of the officer’s lack of standing, his agreements would not be binding.
+

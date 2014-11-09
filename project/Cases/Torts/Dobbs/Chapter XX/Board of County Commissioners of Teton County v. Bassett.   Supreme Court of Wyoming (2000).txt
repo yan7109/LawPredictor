@@ -1,0 +1,21 @@
+Citation
+8 P.3d 1079 (Wyo. 2000)
+
+Brief Fact Summary
+The District Court of Teton County (Wyoming) entered a judgment based upon a jury verdict finding that Appellants, law enforcement officers, were negligent when, in pursuing a crime suspect at high speeds, they failed to warn Appellees of the danger, and in operating a roadblock along a highway. Appellants sought review.
+
+Synopsis of Rule of Law
+To exclude a criminal suspect from the apportionment of fault calculation may unfairly expose other actors to the possibility that they would be held to answer for his misconduct and thus runs counter to the public policy, fairness and statutory purpose.
+
+Facts
+An armed and dangerous suspect was fleeing at high speed form the Wyoming Highway Patrol. After swerving and attempting to cause the officers to crash, sheriff’s deputies set up a roadblock employing improvised road spikes. Appellees, Coziah and Bassett, were returning from a fishing trip when they passed several law enforcement officers, none of whom attempted to warn them of the impending danger. The fleeing suspect, traveling at more than 100 m.p.h, collided with Appellees’ vehicle. Both were injured and the suspect was arrested. Coziah and Bassett brought suit against the officers, the National Park Service, alleging negligence in the officers’ failure to warn them of the danger. A jury allocated fault to Defendants Highway Patrol, the Sheriff’s Department, and the National Park Service. The three agencies appealed.
+
+Issue
+Should the willfully tortious conduct of the criminal suspect fleeing from police have been compared with the negligence of appellants officers in calculating the apportionment of liability for Appellees’ injuries?
+
+Held
+Yes. Reversed and remanded. The Wyoming Supreme Court reversed the trial court’s judgment, holding that it improperly left the criminal suspect out of the apportionment of fault calculation. To find otherwise would have unfairly exposed Appellants to the possibility that they would be held to answer for his misconduct.
+
+Discussion
+The Court engages in statutory interpretation so as to achieve equitable apportionment of liability. Specifically, the purpose of the statute in this case, as the Court stated, was “to ameliorate the harshness of the of the doctrine of contributory negligence.” The Court then draws an important distinction: “The comparative negligence statute remedied the injustice of the doctrine of contributory negligence by stating that a plaintiff’s negligence prevents recovery only in proportion as it causes plaintiff’s damages.” In essence, “each defendant is liable only to the extent of that defendant’s proportion of the total fault.” By excluding an intentional tortfeasor, the court concluded, courts run the risk of unfairly and disproportionately holding one actor liable for the tortious acts of another.
+

@@ -1,0 +1,21 @@
+Citation
+471 U.S. 130, 105 S. Ct. 1811, 85 L. Ed. 2d 99 (1985)
+
+Brief Fact Summary
+Miller challenged his conviction which was based on an indictment for a much broader offense.
+
+Synopsis of Rule of Law
+An indictment may charge numerous offenses or the commission of any one offense in several ways.  As long as the crime and the elements of the offense that sustain the conviction are fully and clearly set out in the indictment, the right to a grand jury is not normally violated by the fact that the indictment alleges more crimes or other means of committing the same crime.
+
+Facts
+Miller was indicted for several violates of the mail fraud statute, the indictment alleging that he had defrauded an insurance company by both arranging for a burglary at his place of business sand by lying to the insurer ad to the value of his loss.  When time for trial claim, he was convicted of lying to the insurer, but the information regarding his knowledge was not used.  Miller sought to overturn his conviction on the grounds that it was based on an indictment that was broader than the crime of which he was convicted.
+
+Issue
+Whether an indictment is invalid when a defendant is convicted of a lesser, but included, crime.
+
+Held
+As long as an indictment encompasses the crime of which the defendant is ultimately convicted, the conviction will stand.
+
+Discussion
+While a defendant may not be later convicted of a crime which is greater than that which he was indicted of, he may later be convicted of a lesser crime as long as it was included in the language of the indictment.
+

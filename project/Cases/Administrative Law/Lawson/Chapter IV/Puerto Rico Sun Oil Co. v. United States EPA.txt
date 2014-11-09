@@ -1,0 +1,21 @@
+Citation
+8 F.3d 73, 37 ERC 1729 (1st Cir. 1993)
+
+Brief Fact Summary
+The Clean Water Act (Act) prohibits the discharge of any pollutant into protected waters unless a discharge permit has been secured from the EPA. Under the Act, no EPA can issue a permit without the additional consent of the state in which the discharge will occur gives its own approval (certification). This case examined strange conduct by the EPA in relation to Puerto Rico’s local agency, the Environmental Quality Board (EQB).
+
+Synopsis of Rule of Law
+APA Section:706(2)(A) provides that an agency’s decision must be rational-not “arbitrary or capricious,” and that requirement exists even in technical areas of regulation.
+
+Facts
+The Act prohibits the discharge of any pollutant into protected waters unless a discharge permit has been secured from the EPA, with the additional consent of the state in which the discharge will occur. Puerto Rico is considered a “state” within the Act, and its local agency is the Environmental Quality Board (EQB). The Act allowed states to impose more stringent laws than the federal law requires, which then become incorporated into the federal permit.  Puerto Rico Sun Oil Company (Company) held a discharge permit for its oil refinery in Puerto Rico, and submitted a renewal request to the EPA. The EPA forwarded it to EQB with a 60-day deadline. The EQB released a tentative certification that excluded the “mixing zone” in the company’s earlier permit. Meanwhile, EQB was working on revised mixing zone regulations. Four days after promulgating its final mixing zone regulation, it issued the final certification in this case, sans the mixing zone provision.  The EPA then rushed to issue a final permit before EQB’s certification could be revised, even though both the Company and EQB made it clear that reconsideration was under way. The Company would have been unable to operate its refinery if the permit limitations were applied, without a mixing zone analysis.
+
+Issue
+Did the EPA act arbitrarily and capriciously in issuing the permit without the mixing zone provision?
+
+Held
+Yes.   EPA’s decision to issue a permit adopting EQB’s certification but refusing to await EQB’s decision on reconsideration produced a result that appeared arbitrary and capricious on the record. The EPA offered no explanation for its behavior.  The EPA’s decision made no sense on the record, but if it had legitimate reasons for the outcome, it was free to provide them and re-adopt the present permit.    Dissent. None.  Concurrence. None.
+
+Discussion
+This case involved very odd behavior by the EPA in its interaction with the EQB of Puerto Rico. The arbitrary or capricious requirement is not hard to meet, but the EPA did not meet it in this case because it offered no justification for its actions.
+

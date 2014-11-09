@@ -1,0 +1,21 @@
+Citation
+48 N.Y.2d 684, 421 N.Y.S.2d 877, 397 N.E.2d 387 (1979)
+
+Brief Fact Summary
+Plaintiff, Lev Zetlin, brought this action to receive the premium price for his minority shares that Defendants, Hanson Holdings, Inc. et al., received for their controlling shares.
+
+Synopsis of Rule of Law
+Absent bad faith such as corporate looting of assets or a conversion of a corporate opportunity, a party can purchase a controlling share of a corporation at a premium price without extending a tender offer to all shareholders.
+
+Facts
+Plaintiff owned 2% of Gable Industries, Inc.  Defendants owned 44.4% of the outstanding shares which they sold to Flintkote Co. for $15, giving Flintkote the controlling majority.  The open market value of the shares was $7.38 per share.  Plaintiff brought this action, believing all of the Gable shareholders were entitled to the premium paid by Flintkote.
+
+Issue
+The issue is whether Plaintiff is entitled to the premium share value that Flintkote paid to Defendants for their controlling shares.
+
+Held
+The Court of Appeals of New York declined to adopt Plaintiff rule which would effectively mandate that a purchaser give a tender offer to all shareholders when they are only seeking a controlling interest in a corporation.  The rule change should be provided by the legislature and not the courts, but the current law has never held that such a policy should be in place.
+
+Discussion
+The court realized that the rule advocated by Plaintiff would place a significant burden on parties who are simply trying to get a majority interest in a company rather than complete ownership.
+

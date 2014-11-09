@@ -1,0 +1,21 @@
+Citation
+22 Ill. 92 Idaho 902, 453 P.2d 551 (1969)
+
+Brief Fact Summary
+Clark (Plaintiff) bought a car from Boise Dodge, Inc (Defendant). Defendant claimed that the car was “new” but, in fact, the car was a “demonstration” model and the odometer had been turned back from 6,968 miles. At trial, the jury awarded Plaintiff $350.00 in actual damages and $12, 500.00 in punitative damages
+
+Synopsis of Rule of Law
+Punitive damages are proper in cases of calculated deceit in contract cases.
+
+Facts
+Plaintiff bought a car from Defendant. Defendant represented the car as “new”. In fact the odometer had been turned back to 0. Plaintiff traded in his car, valued at $1,100.00 and wrote two checks for the balance of the price. When Plaintiff discovered the car was used, he stopped payment on the checks. Defendant sued Plaintiff for the balance of the purchase price. Plaintiff counter-claimed for deceit, breach of contract, and punitive damages. The trial court awarded Defendant the value of the checks, and Plaintiff, the difference between the value of the car represented and the actual car, $350.00. The jury was instructed that it could award punitive damages if it found Defendant acted in a “willful, wanton, gross or outrageous” way, but punitive damages must bear a reasonable relation to the actual damages.
+
+Issue
+Was the jury correct in awarding $12, 500.00 in punitive damages?
+
+Held
+Yes
+
+Discussion
+This is a case where, in order to find complete justice, the law allows for element of tort law to enter the realm of contract law. This is due to the fact that Defendant was deceitful, Plaintiff was at the mercy of Defendant in regards to information about t
+

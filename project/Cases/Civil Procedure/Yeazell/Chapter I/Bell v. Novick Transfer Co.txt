@@ -1,0 +1,21 @@
+Citation
+17 F.R.D. 279, 1955 U.S. Dist. 4019
+
+Brief Fact Summary
+Defendant Novick Transfer Co. moved to dismiss a personal injury suit filed by the Plaintiff on grounds that the complaint failed to state a claim against the Defendants on which relief could be granted, and additionally failed to allege the specific acts of negligence by the Defendants of which the Plaintiffs complain.
+
+Synopsis of Rule of Law
+A complaint should not be dismissed for lack of specificity so long as it satisfies Federal Rules of Civil Procedure Rule 8- that a complaint merely consist of a short and plain statement of the claim showing that the pleader is entitled to relief.
+
+Facts
+Plaintiff filed a complaint alleging that the infant Plaintiff, Ronald Bell, was driving in an automobile on Maryland’s public highways, when he was run into and struck by an automobile-tractor owned by the Defendant. The complaint further alleged that the driver of Defendant’s vehicle operated it in a careless, reckless, and negligent manner. The complaint also alleged the injuries and damage, and that they were the direct result of negligence on the part of the Defendant. Defendant moved to dismiss the complaint because (1) it failed to state a claim against the defendants upon which relief could be granted and (2) failed to alleged the specific acts of negligence by the defendants
+
+Issue
+Should a complaint be dismissed for failing to allege the specific acts of negligence upon which relief is requested?
+
+Held
+No. Defendant’s motion to dismiss was overruled.   The Federal Rules of Civil Procedure, specifically Rule 8, only require a “short and plain statement of the claim showing that the pleader is entitled to relief.  Defendant is also not entitled to a “more definite statement by motion under Rule 12(e).
+
+Discussion
+Where a Defendant needs further information to prepare his defense, his appropriate recourse is not to file a motion to dismiss, nor to file a motion under Rule 12(e) for a “more definite statement” but instead to obtain the information by interrogatories under Rule 33.
+

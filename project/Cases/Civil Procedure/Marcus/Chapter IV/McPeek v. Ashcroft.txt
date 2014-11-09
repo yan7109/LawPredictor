@@ -1,0 +1,27 @@
+Citation
+202 F.R.D. 31, 10 ILRD 475 (D.D.C. 2001)
+
+Brief Fact Summary
+Plaintiff seeks backup computer files during a suit alleging retaliation from his filing a harassment suit against his boss.
+
+Synopsis of Rule of Law
+All parties have a duty to produce all discoverable evidence in a case. Courts prefer the marginal utility test is deciding who should bear the burden of the costs of production. The more relevant the material, the more likely the requesting party will not have to pay for that production.
+
+Facts
+McPeek is an employee of the Department of Justice (DOJ). Once he was given a promotion to the assistant director of a bureau under the department of Justice, he claims his boss, the then-director, had sexually harassed him for two years. McPeek filed a formal complaint and a settlement was reached. It required confidentially and McPeek’s transfer to another department. In this case McPeek, states that the agreement was not held confidential and that he received retaliatory actions against him in his new position. During discovery McPeek requested that back up computer files being offered. The Defendants argue this will be too costly to produce. This is because there is no system wide back up system. Each building has storage for files but it is to prevent damage for a system crash, not to preserve or archive these materials. There is no exact way to predict what will be found and what will be, as all emails of any particular employee are not all kept in these back up files. Also to make these files readable they will have to be restored which is where the cost comes from. To date the DOJ has refused to restore these backup files and runs the risk the judge will issue a jury instruction discussing there lack of cooperation.
+
+Issue
+Whether the defendant should be required to produce evidence that it will be costly to procure for the possibility of evidence.
+
+Held
+Yes. The court deals with several issues, first there is no requirement that all data be granted under the discovery request, second who should have to pay for that request. The court states until we know for sure what the evidence will produce the parties can not adequately argue whether the burden of production is worthless. All parties to a civil action are required to produce all discoveries that are requested unless it is protected material. In some cases one party can argue if the cost is too unduly burdensome, that the requesting party be responsible for the production of the evidence. Courts evaluate the cost of the production, the damages that are claimed and the resources available to all parties before sifting any discovery production to the requesting party under what is called the marginal utility test. The test balances how important the requested information is to the case to decide who should bear the burden. This court decided to have a test run. The Government was required to restore emails only for one employee, show how much it cost but also how much relevant evidence is produced.
+
+Dissent
+
+
+Concurrence
+
+
+Discussion
+The court states there are many theories. The market economic theory of document production states that if the requesting party is responsible for the costs, that party will not ask for anything more than it needs and will solve the issue. Many people feel a person will request everything in hopes of getting just what they want. The court does not find this approach fair.
+

@@ -1,0 +1,24 @@
+Citation
+S.D. Sup. Ct., 452 N.W.2d 138 (1990)
+
+Brief Fact Summary
+McBride struck the Baatzes (P) while he was driving intoxicated. The Baatzes (P) hold Arrow Bar (D) and its owners (D) personally liable and negligent in serving McBride Alcohol.
+
+Synopsis of Rule of Law
+The court will not “pierce the corporate veil” if insufficient evidence is given that the corporation is not a separate legal entity.
+
+Facts
+The Baatzes (P) were injured in a collision with McBride. The Baatzes (P) alleged that Arrow Bar (D) was negligent by providing McBride with additional Alcoholic beverages while he was already intoxicated. The Baatzes (P) also sued the Owners (D) as individual defendants. The trial court granted summary judgment in favor of defendants. The Baatzes (P) appealed, and the case was remanded to trial court with the trial court granting defendants’ (D) motion for summary judgment, dismissing them as defendants. The Baatzes (P) made another appeal.
+
+Issue
+Should the court “pierce the corporate veil” if insufficient evidence is given that the corporation is not a separate legal entity?
+
+Held
+(Sabers, J.) The court will not “pierce the corporate veil” if insufficient evidence is given that the corporation is not a separate legal entity. Shareholders must provide a sufficient amount of capital to operate the corporation, they are mandated, failure to observe protocol with such a corporation may also result in individual liability. A corporation used for personal affairs is not protected by the corporate veil. Failure in any of these must be continuous, and not one single failing. The Baatzes (P) offered no evidence of inequitable conduct to impose personal liability on Owners (D). Affirmed
+
+Dissent
+(Henderson, J) Arrow Bar (D) was not a separate legal entity.
+
+Discussion
+To pierce the corporate veil, courts will draw distinctions between contract and tort claims. Contract claims that don’t have the “piercing” are usually found to be voluntarily dealing with the corporation and willingly assuming the risk. The contract creditors even have the alternative of securing a guarantee. In contrast, tort claimants typically are involuntary creditors who had risk of loss thrust upon them.
+

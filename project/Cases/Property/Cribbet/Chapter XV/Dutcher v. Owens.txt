@@ -1,0 +1,21 @@
+Citation
+22 Ill.647 S.W.2d 948 (Tex. 1983)
+
+Brief Fact Summary
+Plaintiffs Ted and Christine Owens leased a condominium from Defendant Dutcher, who owned the condominium and a pro rata portion of the common area of 1.572%. A fire which started in a light fixture in the common area destroyed Plaintiffs’ property and Plaintiffs filed suit against Dutcher, The Eastridge Terrace Condominium Association, Joe Hill Electric Company, HIS-8 Ltd. (developer) and a class of co-owners of condominiums represented by officers of the homeowners’ association.
+
+Synopsis of Rule of Law
+The liability of a condominium owner is limited to his pro rata interest in the regime as a whole, where such liability arises from those areas held in tenancy in common, this is a departure from ordinary tort law.
+
+Facts
+Plaintiffs Ted and Christine Owens leased a condominium from Defendant Dutcher, who owned the condominium and a pro rata portion of the common area of 1.572%. A fire in the common area destroyed Plaintiffs’ property and Plaintiffs filed suit against Dutcher, The Eastridge Terrace Condominium Association, Joe Hill Electric Company, HIS-8 Ltd. (developer) and a class of co-owners of condominiums represented by officers of the homeowners’ association. The case was tried by a jury and the jury found that, 1. The lack of an insulating box behind the light in the exterior wall space was the proximate cause of the fire. 2. The homeowners’ association knew of the defect. 3. The homeowners’ association alone was negligent in failing to install an insulating box with knowledge of the defect. 4. The negligence of the homeowners’ association resulted in damage to the Owens’ property in the amount of $69,150.00. The trial court, pursuant to the jurys’ findings, rendered judgment against Du
+
+Issue
+Is the proper measure for damages arising from negligence in a common area of a condominium to be that each co-tenant is jointly and severally liable or that each co-tenant is responsible for damages commensurate with their respective pro rata share of ownership?
+
+Held
+The proper measure is pro rata share of ownership. Trial court judgment affirmed, intermediate court of appeals reversed.
+
+Discussion
+This case provides an example of the way that common law principles do not always fit the emerging forms of ownership and relations between parties. The doctrine of joint and several liability would have created a harsh result in this case.
+

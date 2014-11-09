@@ -1,0 +1,21 @@
+Citation
+2007 WL 1041191
+
+Brief Fact Summary
+Plaintiff is suing for wrongful termination of employment and this is a motion for dismissal based on spoliation of evidence filed by defendant.
+
+Synopsis of Rule of Law
+Spoliation is the destruction or material alteration of evidence that will be, or most likely be used at trial. Absent bad faith a court will only impose sanctions, not grant a dismissal for such actions.
+
+Facts
+Teague was a former employee of Target. After being fired, she filed for unemployment and she brought suit alleging she was fired based on sexual discrimination. She sued for back pay, benefits, compensatory damages, and punitive damages for emotional distress. While on unemployment she was required to apply for jobs. At home she had a laptop where she had emails from employers and she also applied to jobs on that computer. She claims it crashed and her brother tried to fix it, but that she had never actually brought it to a store to check if it could be fixed.
+
+Issue
+Whether throwing away a laptop with evidence for a trial is considered spoliation of evidence.
+
+Held
+Yes. A court will find someone spoiled evidence when three things occur. First is when the person having control over the evidence also has a duty to preserve it. This was her laptop and she throws it away after brining the suit. The lawsuit should have made her think that she needed such evidence. Next is the destruction or loss is accompanied by a culpable state of mind. Here although she claims she tried to have her brother fix it, she did not bring it to a store to fix. Finally that evidence was relevant to the case or defense to the case, which it clearly was. On the laptop was emails proving her case, and also supposed job applications she was required to make. She did this after she had hired an attorney for her suit. From those facts the court found she had the culpable state of mind and spoliation sanctions are appropriate. However sanctions of dismissal are too harsh absent bad faith. Instead the court chooses, within its discretion, to issue a jury instruction on the issue.
+
+Discussion
+Preserving evidence is an affirmative duty a plaintiff has the second he or she file a complaint against another party.
+

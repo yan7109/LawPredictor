@@ -1,0 +1,21 @@
+Citation
+105 Ill. 2d 215, 473 N.E.2d 930, 1984 Ill. 85 Ill. Dec. 331
+
+Brief Fact Summary
+Surviving joint tenant brought action to determine title and ownership of survivorship property against mortgage holder and executor of decedent’s estate.
+
+Synopsis of Rule of Law
+A mortgage on the joint tenancy property was not a lien after the death of the joint tenant and did not sever the four unities of joint tenancy, thus the surviving tenant became the sole owner of the property.
+
+Facts
+Two brothers, John and William owned a property in joint tenancy. John used the property to secure a promissory note for a close friend’s purchase of a separate piece of land. John died, leaving William unaware of the existence of the mortgage. William brought suit against the mortgage note holders and the executor of John’s estate. The trial court held that the mortgage severed the joint tenancy and survived as a lien against the undivided one half interest that passed to the estate of John. The appellate court reversed holding that the joint tenancy was not severed and that William owned the property without the mortgage note surviving. The defendant mortgage note holders appealed.
+
+Issue
+Does a mortgage note: (1) sever the joint tenancy when less than all joint tenants mortgage their interest in the property? (2) Does this mortgage survive the death of the mortgagor (John) as a lien on the property?
+
+Held
+No, the property remains a joint tenancy property because the four unities are not severed and the mortgage does not survive the death of the mortgagor and become a lien on the property. Affirmed.
+
+Discussion
+The Illinois Supreme Court in this case adopted the lien theory of mortgages. This theory rests on the premise that a mortgage, unrecorded is similar to a judgment lien or another type of lien, which merely establishes an interest but not a transfer of the title. Therefore, if the mortgage is treated as a lien, it does not sever any of the four unities, which need to be present to hold property in joint tenancy.
+

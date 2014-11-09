@@ -1,0 +1,24 @@
+Citation
+27 U.S.P.Q. 2d 1608 (PTO 1993)
+
+Brief Fact Summary
+The Examiner rejected an omnibus claim used by Fressola which referred to specifications and drawings elsewhere in his application.
+
+Synopsis of Rule of Law
+Under U.S.C. § 112 paragraph 2, claims in utility applications can be rejected if the invention is defined entirely by referring to the specification and/or drawings.
+
+Facts
+Fressola applied to patent a method and system of producing stereographic images of celestial objects.  The invention required a digital computer under program control to be used with an input device and display device.  Using distance information, it would take stereographic images and offset one of the two images on a display device.  Fressola's Claim 42 read: "A system for the display of stereographic three-dimensional images of celestial objects as disclosed in the specification and drawings herein."  Fressola's Claim 42 was rejected by the examiner because it did not point out and distinctly claim the subject matter.  Fressola appealed.
+
+Issue
+Under U.S.C. § 112 ¶2, can claims in utility applications be rejected if the invention is defined entirely by referring to the specification and/or drawings?
+
+Held
+(Serota, Chairman)  Yes.  Under U.S.C. § 112 paragraph 2, claims in utility applications can be rejected if the invention is defined entirely by referring to the specification and/or drawings.  They were historically allowed, but that changed after the conversion from central definitions to peripheral definitions.  According to modern claim interpretation, claims must particularly point out and distinctly claim the invention without reading in limitations from the specification.  Fressola fails to particularly point out and distinctly claim what the invention is, leaving Claim 42 unclear.  The statutory requirement of the written description or specification is different than that of the claim.  The claims define the boundaries of the patent, and the invention's beginning and endings must be clear in the claims so the public can evaluate what would be an infringement.  Also in support of the finding against Fressola is the difficulty with interpreting general phrases such as "as disclosed in the drawings herein," and the fact that this application has 19 figures and 147 pages of specification.  Affirmed.
+
+Dissent
+Each patent claim must be written as a single English sentence.  In Fressola v. Manbeck, 36 U.S.P.Q.2d 1211 (D.D.C. 1995), this mandate was challenged as violating the Administrative Procedure Act.  Fressola argued that the one-sentence requirement did not bear a reasonable relationship to the language and policies of 35 U.S.C. § 112, which required that patent applications be completed with one or more claims that particular point out and distinctly claim the invention.  However, the court found that the language in 35 U.S.C. § 112 did not cause tension with the one-sentence rule.  In the United States' multiple claim system, each patent may have multiple claims and claims can be asserted in combination against infringers.  Notably, omnibus claims are accepted in the United Kingdom.
+
+Discussion
+The majority seems to have disregarded equity among joint owners.
+

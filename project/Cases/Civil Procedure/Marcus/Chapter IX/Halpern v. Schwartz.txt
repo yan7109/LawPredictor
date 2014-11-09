@@ -1,0 +1,21 @@
+Citation
+426 F.2d 102, 1970 U.S. App.
+
+Brief Fact Summary
+Evelyn Halpern (Appellant) appeals from an order of the District Court for the Eastern District of New York, Judge John F. Dooling Jr., which affirmed the order of the referee in bankruptcy. The referee in bankruptcy denied on summary judgment Appellant’s discharge because Schwartz’s (Appellee) objections to her discharge were concluded by the prior judgment in which she was involuntarily adjudicated bankrupt.
+
+Synopsis of Rule of Law
+A prior judgment will not foreclose reconsideration of the same issue if that issue was not necessary to the rendering of the prior judgment, and hence was incidental, collateral, or immaterial to that judgment.
+
+Facts
+Appellee opposed Appellant’s discharge from bankruptcy based upon one of the three charges. The Appellee moved for summary judgment denying Appellant a discharge on the ground that there was no defense to the charge, because the issue had previously been concluded in the bankruptcy adjudication and, thus, was res judicata. The referee granted summary judgment for the Appellee and the decision was affirmed on petition to the United States District Court for the Eastern District of New York for review.
+
+Issue
+When the prior judgment rested on three independent, alternative grounds, is that judgment conclusive as to the facts that were necessarily found in order to establish only one separate ground?
+
+Held
+No. When a prior judgment adjudicating one bankrupt rests on two or more independent alternative grounds, it is not conclusive as to the issues in trial of objections to discharge which issues were necessarily found in order to establish only one of those grounds. Since the finding of Appellant’s actual intent to hinder and delay her creditors was found in connection with only one of the independent grounds, thus it cannot be given conclusive effect in this litigation.
+
+Discussion
+The rationale for the court’s ruling in this case was twofold. First, the decision on an issue not essential to the prior judgment may not have been afforded careful deliberation and analysis normally applied to essential issues, since a different disposition of the inessential issue would not effect the judgment. Second, the decision on an inessential issue in the prior judgment was not subject to a contested review on appeal. In this case, both of the two considerations were present. First, a finding of transfer while insolvent was sufficient without inquiry into Evelyn’s intent. Finally, since there are alternative grounds, which could independently support the prior judgment, vigorous review of an asserted error as to one ground probably would not occur.
+

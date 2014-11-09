@@ -1,0 +1,24 @@
+Citation
+22 Ill.232 Cal.App.3d 1375, 284 Cal.Rptr. 117 (Ct. App. 1991)
+
+Brief Fact Summary
+Two police helicopters, assisting in the high-speed pursuit of the Defendant, Acosta’s (Defendant) automobile, collided with each other, resulting in the deaths of three people. Defendant was convicted on three counts of second degree murder on the basis that his actions in evading police caused the helicopter collision.
+
+Synopsis of Rule of Law
+Defendant’s conduct was a proximate cause of the helicopter collision insomuch as it was a foreseeable consequence that he might reasonably have contemplated.
+
+Facts
+Police officers spotted the Defendant driving a stolen vehicle and initiated what would become a 48-mile high-speed pursuit. During the course of the chase, police helicopters from four area towns were mobilized to track the Defendant’s location from the air. Two of these helicopters collided when one of them made a maneuver after having terminated radio communication (an F.A.A. violation). Three people died as a result of the crash.
+
+Issue
+Was the collision of the helicopters a foreseeable consequence of Defendant’s actions in evading police?
+
+Held
+The collision of two police helicopters during the course of a pursuit of a fleeing suspect was not a highly extraordinary outcome. Rather, it was within the realm of likelihood that, in the heat of such a chase, one of the helicopter operators might act in a negligent manner. Defendant could have foreseen such a consequence arising from his own reckless conduct, for which reason his actions were a proximate cause of the collision.
+
+Dissent
+The occupants of the colliding helicopters were not within Defendant’s “range of apprehension” in driving in a reckless manner. The collision was therefore a highly extraordinary result that Defendant could not have foreseen.
+
+Discussion
+This case illustrates the outer limits of the “foreseeability” element in determining the presence of proximate cause for criminal actions. The majority interprets foreseeability broadly, holding that it can include the reasonable anticipation of intervening negligence by other actors. The dissent takes a narrower view of foreseeability, falling back on the “range of apprehension” construct used in civil liability suits.
+

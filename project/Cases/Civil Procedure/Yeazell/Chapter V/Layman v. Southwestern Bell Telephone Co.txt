@@ -1,0 +1,21 @@
+Citation
+554 S.W.2d 477, 1977 Mo. App. 2224
+
+Brief Fact Summary
+A Missouri real estate owner sued a telephone company for entering her land and installing underground telephone wires without her consent.
+
+Synopsis of Rule of Law
+A defendant must assert an affirmative defense under Fed. R. Civ. P. 8(c) in order to introduce extrinsic evidence in his answer to the complaint.
+
+Facts
+Plaintiff Eileen Layman, the owner of real estate in Jefferson County, Missouri, filed suit against Defendants Southwestern Bell Telephone Co. and Wright Tree Service of Iowa, Inc., alleging that the defendants had trespassed upon her land and installed underground telephone wires without her consent. She further alleged that the defendants continued to enter upon her land and maintain the wires. Upon entering their answer to the complaint, the defendants introduced a recorded instrument that was purportedly an easement granting them permission to enter Plaintiff’s land. The trial court entered judgment for the defendants stating that there was insufficient evidence to establish the trespass pleaded and sought to be proved. Plaintiff appealed, objecting to the introduction of the easement document.
+
+Issue
+Whether a defendant may enter evidence outside the pleadings as part of his answer to a complaint where he has not asserted an affirmative defense.
+
+Held
+No. The judgment of the lower court in favor of the defendants was reversed. The introduction of evidence comprising an answer to a complaint can only be raised as part of an affirmative defense.
+
+Discussion
+The distinction between a general denial under 8(b) and an affirmative defense under 8(c) is vital because an affirmative defense transfers the burden of proof to the defendant, who must prove by a preponderance of the evidence the truth of the matter asserted in his answer.
+

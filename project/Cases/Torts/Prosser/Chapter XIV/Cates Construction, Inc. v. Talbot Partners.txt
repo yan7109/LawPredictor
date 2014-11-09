@@ -1,0 +1,21 @@
+Citation
+21 Cal.4th 28, 86 Cal.Rptr.2d 855, 980 P.2d 407 (1999)
+
+Brief Fact Summary
+A jury awarded Plaintiff damages in a breach of implied covenant of good faith and fair dealing action.
+
+Synopsis of Rule of Law
+In an action involving contracts of suretyship, remedies available in tort law are not available.
+
+Facts
+A surety, Transamerica, breached a contractual obligation by failing to investigate a declaration that the insured was in default of an agreement to build a condominium project. A jury determined that the surety breached the implied covenant of good faith and fair dealing. The court concludes that “unlike an insurance policy, the typical performance bond bears no indicia of adhesion or disparate bargaining power that might support tort recovery by an obligee.” Thus, the jury awarded $28 million in punitive damages.
+
+Issue
+Whether a plaintiff may recover under tort law for a breach of an implied covenant of good faith and fair dealing?
+
+Held
+(Justice Baxter). No. A plaintiff may not recover under tort law for a breach of an implied covenant of good faith and fair dealing. This court has never recognized the availability of tort remedies for breaches occurring in the context of a construction performance bond or any other so-called contract of suretyship. If tort recovery was allowed in breach of surety contract cases, then harmful economic effects may occur, such as attorney’s fees and liquidated damages. In addition, sureties may be required to pay more to settle disputes, and this recovery may increase litigation, which in turn may increase the cost of obtaining the bond. The judgment of the court of appeals is reversed insofar as it affirmed the award of tort damages for breach of the implied covenant and permitted an award of punitive damages. The matter is remanded to the court of appeals for further proceedings consistent with this opinion.
+
+Discussion
+The court in dicta states that “tort remedies are appropriate for breaches in the insurance policy context because insureds generally do not seek to obtain commercial advantages by purchasing policies; rather, they seek protection against calamity.”
+

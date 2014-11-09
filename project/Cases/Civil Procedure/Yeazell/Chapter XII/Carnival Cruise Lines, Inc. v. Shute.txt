@@ -1,0 +1,21 @@
+Citation
+499 U.S. 585, 111 S. Ct. 1522, 113 L. Ed. 2d 622 (1991)
+
+Brief Fact Summary
+Plaintiff Carnival Cruise Lines, Inc. opposes a suit by a passenger injured on one of their cruise ships, because the cruise tickets contained an agreement that all matters relating to the cruise would be litigated before a Florida court.
+
+Synopsis of Rule of Law
+Forum-selection clauses forcing individuals to agree to submit to jurisdiction in a particular place are enforceable so long as they pass the test for judicial fairness.
+
+Facts
+Defendant Shute purchased passage for a seven day cruise on the Tropicale, a ship owned by Plaintiff, through a Washington travel agent. The face of each ticket contained terms and conditions of passage, which included an agreement that all matters disputed or litigated subject to the travel agreement, would be before a Florida court. Defendant boarded the ship in California, which then sailed to Puerto Vallarta, Mexico before returning to Los Angeles. While the ship was in international waters, Defendant Eulala Shute was injured from slipping on a deck mat. Defendants filed suit in Federal District Court in Washington. Defendant filed a motion for summary judgment, alleging that the clause in the tickets required Defendants to bring their suit in Florida.
+
+Issue
+Whether the court should enforce a forum-selection clause forcing individuals to submit to jurisdiction in a particular state.
+
+Held
+Yes. The Supreme Court of the United States held that the Court of Appeals erred in refusing to enforce the forum-selection clause.   Forum-selection clauses contained in form passage contracts are subject to judicial scrutiny for fundamental fairness, but where they are not lacking in fairness, they will be enforced.   <br/><br/><span class='heading'>Dissent.</span> Justice Stevens dissented, in which he was joined by Justice Marshall. Essentially Justice Stevens feels that adhesion contracts, particularly forum-selection clauses, are void as contrary to public policy if they were not freely bargained for, create additional expense for one party, or deny one party a remedy.
+
+Discussion
+In reaching its decision, the court noted that there is no evidence that Plaintiff set Florida as the forum as a means of discouraging cruise passengers from pursuing their claims. Such a suggestion is negated by the fact that Plaintiff has its headquarters in Florida, and many of its cruises depart from Florida.
+

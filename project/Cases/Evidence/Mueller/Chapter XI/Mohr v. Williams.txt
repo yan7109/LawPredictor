@@ -1,0 +1,21 @@
+Citation
+130 S. Ct. 56 175 L. Ed. 2d 45 2009 U.S
+
+Brief Fact Summary
+Defendant was performing an operation upon Plaintiff’s right ear when he decided that the condition was not so serious as to warrant the operation. While Plaintiff remained under anesthetic, Defendant discovered a more serious condition in her left ear. Without awakening her to receive consent, he performed the operation on the left ear.
+
+Synopsis of Rule of Law
+While implied consent for a surgeon or doctor to operate in emergency, life-threatening situations may exist; the consent to perform one operation does not automatically operate as consent to perform other, similar operations.
+
+Facts
+Defendant was to operate on Plaintiff’s right ear for a medical condition. During the operation, Defendant determined that the condition did not require the operation. However, Defendant also discovered a more serious condition in Plaintiff’s left ear. Rather than awaken Plaintiff to receive consent, he simply performed the operation while she remained under anesthetic. Plaintiff sued for battery and received a jury verdict. Defendant’s motion for a judgment notwithstanding the verdict was denied.
+
+Issue
+Did the trial court err when it denied Defendant’s motion for judgment notwithstanding the verdict on the basis of consent?
+
+Held
+No. The judgment was affirmed. Reasonable latitude must be afforded a surgeon or physician in the course of medical procedures, but such discretion is not unfettered. In the absence of express consent or implied consent justified by emergency, it is a question for a jury whether one has consented to a medical procedure.
+
+Discussion
+The Court here addresses the scope of consent and the related issue of implied consent in the medical context. In the case of an emergency, life-threatening medical condition, implied consent exists to carry out procedures necessary to alleviate the problem. Such a condition can exist independently, or can be found in the course of performing another procedure. However, whether a situation is sufficiently life threatening so as to warrant such consent is a question of fact for a jury.
+

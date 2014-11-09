@@ -1,0 +1,21 @@
+Citation
+22 Ill.467 U.S. 20, 104 S. Ct. 2199, 81 L. Ed. 2d 17, 10 Med. L. Rptr. 1705 (1984)
+
+Brief Fact Summary
+The Plaintiff, Rhinehart (Plaintiff), leader of a religious organization, brought a defamation and invasion of privacy action against publishers and authors of critical articles. During discovery, the Defendant Seattle Times Co. (Defendant), asked for Plaintiff’s membership lists and the trial court ordered a protective order preventing the Defendant from publishing them.
+
+Synopsis of Rule of Law
+The authorization of protective orders is sufficiently justified by a showing of good cause in order to ensure that discovery procedures are not abused.
+
+Facts
+The Aquarian Foundation and Plaintiff, its spiritual leader, brought an action for defamation and invasion of privacy against authors and publishers of critical articles in state court. The trial court ordered Plaintiff to identify donors and the amount each contributed and to produce a list of the founding members. The trial court also issued a protective order preventing Defendant from publishing the lists or from using it for purposes other than for preparation or use at trial. Plaintiff submitted affidavits showing that releasing such information from the lists would adversely affect the organization and its members. Both sides appealed and the Washington Supreme Court affirmed the orders.
+
+Issue
+Whether the interest of the judiciary to protect the integrity of the discovery process and the orders served to sustain such protections are sufficient to withstand claims of infringement on the First Amendment.
+
+Held
+Yes. A protective order entered on a showing of good cause as required by Washington Civil Rule 26(c) is limited to the context of pretrial civil discovery. It does not restrict the dissemination of the information if gained from other sources, thus does not offend the First Amendment. Judgment of the Washington State Supreme Court affirmed.
+
+Discussion
+Because the rules of discovery are liberal with regard to the information that may be discovered, it is necessary for trial courts to have the authority to issue protective orders to guard against misuse of such information. Even if discovered information is deemed useless for trial preparation, if released publicly, it could be potentially damaging to reputation and privacy. Therefore, the state has a substantial interest in preventing such abuses of its processes.  If the information sought through discovery is not publishable due to a protective order, yet is obtainable through other means, the information does become available for publication because of its public availability.
+

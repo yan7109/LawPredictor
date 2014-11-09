@@ -1,0 +1,21 @@
+Citation
+118 Eng.Rep. 922 (Queen’s Bench, 1853).
+
+Brief Fact Summary
+Hochster (Plaintiff) entered into a contract with De La Tour (Defendant) to accompany and assist Defendant on a three-month trip. Before the trip was scheduled to begin, Defendant informed Plaintiff that he no longer needed him. Plaintiff sued, and the court, Lord Campbell, C.J., ruled in favor of the Plaintiff.
+
+Synopsis of Rule of Law
+A party who receives clear notice of repudiation of a contract before performance is due may bring suit immediately, before the performance is due.
+
+Facts
+Plaintiff was a courier who agreed to accompany Defendant on a three-month tour scheduled to begin on June 1. On May 11, Defendant wrote to Plaintiff that he had changed his mind, and did not need his services. Defendant refused to pay Plaintiff any of the promised wages. On May 22, Plaintiff sued for breach of the contract. Shortly after, Plaintiff found another position, scheduled to begin July 4. Defendant asserted that it was not possible for the contract to be breached before June 1. The court disagreed and held for the Plaintiff.
+
+Issue
+Whether a party who is ready and able to perform an agreement may recover damages for breach before performance is due, when the other party renounces the agreement before performance is due?
+
+Held
+Yes. When parties enter into a contract for future performance, a relationship is established when there is an implied promise that both parties will act consistent with their contract and not interfere with its future performance. In this case, Defendant clearly repudiated his agreement with the Plaintiff, and it is wasteful to require Plaintiff to wait and make preparation for an event that will not occur. Upon receiving clear and firm notice of renunciation, Plaintiff was absolved from his obligation on the contract. The injured party retains the option to sue immediately or to wait until the date performance is due before bringing an action for breach.
+
+Discussion
+This case is an introduction to the concept of “anticipatory repudiation” and remedies available to the injured party. The rule is generally followed in the United States. In this case, Defendant’s repudiation of the contract was clear and absolute, but this is not always the case. As the court noted in dicta, in some cases it might be advantageous for both sides for the injured party to wait until performance is due and not forthcoming before proceeding with a breach of contract action. However, in the case of a clear anticipatory repudiation, the injured party may also have a duty to mitigate the damages caused by the breach.
+

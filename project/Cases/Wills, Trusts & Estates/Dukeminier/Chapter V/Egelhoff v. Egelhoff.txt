@@ -1,0 +1,24 @@
+Citation
+532 U.S. 141,121 S. Ct. 1322,149 L. Ed. 2d 264,2001 U.S.
+
+Brief Fact Summary
+David A. Egelhoff named the petitioner, his wife, Donna Rae Egelhoff, the beneficiary of his life insurance policy and pension plan that he received while working at Boeing.  Both the life insurance policy and the pension plan were governed by the federal Employment Retirement Income Security Act, (ERISA).  Later the couple divorced and Egelhoff’s children from a prior marriage claimed that a state law revoked the petitioner’s interest to the insurance policy and pension plan.
+
+Synopsis of Rule of Law
+ERISA shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan covered by ERISA.  A state law relates to an ERISA plan if it has a connection with or reference to such a plan.
+
+Facts
+The Petitioner was married to David A. Egelhoff.  Egelhoff was employed by Boeing who gave him a life insurance policy and pension plan that were both governed by ERISA.  The Petitioner was designated as a beneficiary under both plans.  Egelhoff died in an automobile accident two months after the couple divorced.   Egelhoff’s children of a previous marriage challenged her status as beneficiary because a state law revokes all nonprobate testamentary gifts to former spouses.
+
+Issue
+Whether ERISA preempts a state statute that revokes the payment of a non probate asset to a former spouse?
+
+Held
+Yes.  The federal Employee Retirement Income Security act preempts a state statute which revokes the payment of a non probate asset to a former spouse because the statute interferes with the statutes goal to administer a nationally uniform plan.  The ERISA statute commands that a plan shall, “specify the basis on which payments are made to and from the plan.”  If administrators are forced to act in accordance with the state statute, they will have to comply with the varying statutes of all 50 states and wait on litigation before processing a payment.  This delay conflicts with the legislature’s goal of minimizing the administrative and financial burdens placed on beneficiaries.
+
+Dissent
+The state law imposes a mere administrative burden on the ERISA statute at the expense of other substantive state goals.  This Court has held that the fact that state law poses some burden on the administration of ERISA plans does not necessarily require pre-emption.  ERISA’s ultimate goal is to protect employee benefits and the state law seeks to transfer an employee’s pension in the manner they wanted to receive them.   In this case the Court permits a divorced wife to receive a windfall at the expense of the testator’s children.  The logic of this Court would also extend to state cases involving slayer statues that prohibit a husband who kills a wife from receiving benefits as a result of a wrongful death.
+
+Discussion
+The state law directly interferes with the purpose of ERISA because it would cause beneficiaries to endure lengthy litigation before receiving their payments and the administrators would have to comply with several states with conflicting laws in order to distribute payments.
+

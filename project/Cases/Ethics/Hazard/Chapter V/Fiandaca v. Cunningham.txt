@@ -1,0 +1,21 @@
+Citation
+827 F.2d 825,1987 U.S. App.8 Fed. R. Serv. 3d (Callaghan) 858
+
+Brief Fact Summary
+Appellants are requesting that a legal services organization be removed from a case in which the interests of two different classes of plaintiffs that it represents are directly opposed.
+
+Synopsis of Rule of Law
+Conflicts of interest so serious as to be deemed “unresolvable.”
+
+Facts
+Two appeals regarding the future of an institution in New Hampshire involving parties represented by New Hampshire Legal Assistance (NHLA) have been consolidated in this opinion. NHLA served as counsel for two class actions: one brought on behalf of female prisoners seeking better facilities, and one involving the residents of an institution for the mentally retarded that was under consideration as a temporary replacement for the women’s prison. (The state had, at one point, offered to use the institution as a replacement for the prison that the women were challenging, but NHLA did not accept this offer.) Appellants argue that these cases placed NHLA in an unresovable conflict of interest and that they should have been removed, an argument dismissed by the district court on the grounds of “necessity.”
+
+Issue
+Should NHLA be disqualified from this litigation due to the inherent conflict of interest that arises from representing these two parties?
+
+Held
+Yes. The district court mistakenly ignored the serious conflict of interests presented in this case. Although this conflict probably didn’t seriously affect the trial proceedings, it undoubtedly affected NHLA’s actions in the remedial stage. As such, the district court’s remedial order is vacated and the case is remanded for a new trial to determine the proper remedy for the prisoner’s Constitutional deprivation.
+
+Discussion
+This is a classic example of a conflict so severe that it is essentially unwaivable. It is particularly unfortunate in this case, however, since NHLA was a legal services organization and neither party is likely to have much luck finding alternate counsel. This was largely the basis of the district court’s necessity finding, but was still not convincing enough for this court.
+

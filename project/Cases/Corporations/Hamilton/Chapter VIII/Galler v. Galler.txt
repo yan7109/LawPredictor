@@ -1,0 +1,15 @@
+Citation
+273 F.3d 1115
+
+Brief Fact Summary
+Plaintiff, Emma Galler, sued Defendants, Isadore Galler et al., for reinstatement as a director of the Galler Drug Company and for money owed to her pursuant to a shareholder agreement between Isadore Galler and Plaintiff’s late husband.<span class="heading">Synopsis of Rule of Law.</span> A shareholder agreement, particularly in closed corporations, that controls the voting for board members and the members’ management decisions, should nevertheless be enforced as long as the agreement is not fraudulent or harmful to the public.
+
+Facts
+Plaintiff’s late husband and his brother, Isadore Galler, owned all but 12 shares of a close corporation, Galler Drug (each of the brothers sold six shares to a third party that was subject to a buyback provision allowing each brother to reclaim their six shares).  The brothers, in an effort to provide for their families if something were to happen to either brother, entered a shareholder agreement that would guarantee that their spouses would be elected to the board and that each would have equal representation on the board.  The agreement also provided an annual payout to the spouses.  There was no set expiration date of the agreement provisions. After Plaintiff’s spouse’s death, Defendants tried to destroy all copies of the agreement.  Plaintiff sued to review the agreement in order to enforce the provisions therein.  Defendant argued that the shareholder agreement was unenforceable because it violated state statutes that render invalid shareholder agreements that seek to control management decisions.<span class="heading">Issue.</span> The issue is whether the shareholder agreement between the majority shareholding brothers was invalid per statute or public policy.
+
+Held
+The agreement was valid and Plaintiff should be entitled to specific performance and money that was owed under the agreement.  Galler Drug was a closely held corporation, and therefore subject to different circumstances than a shareholder of a large corporation.  The court cited a number of prior cases, including Dodge v. Clark, to support the premise that because this agreement did not harm the public and was fair to the parties of the agreement, there is no offense to any public policy concerns.
+
+Discussion
+In a closely held corporation, a minority shareholder does not have the ability to easily unload their shares as someone who held publicly traded shares, and therefore will have to resort to detailed, comprehensive shareholder agreements in order to guarantee their rights.  The court weighs this public policy concern against the public policy concern of independent directors and decided not to follow the statute that prohibits these agreements, reasoning that the state could not have meant for the statute to apply in these cases.
+

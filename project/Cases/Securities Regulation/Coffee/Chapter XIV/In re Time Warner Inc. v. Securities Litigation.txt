@@ -1,0 +1,21 @@
+Citation
+9 F.3d 259 (2d Cir. 1993)
+
+Brief Fact Summary
+Shareholders (Plaintiff) brought an action for securities fraud, claiming that Time Warner (Defendant)  has made substantial distortions and exclusions in the public statements Time Warner issued in connection with various methods it implemented as a way to lessen its debt.
+
+Synopsis of Rule of Law
+Whenever undisclosed information makes public statements substantially deceiving, not only when that information totally contradicts the public statements, a duty to reveal is present.
+
+Facts
+As a result of a merger in which Time procured Warner Communications, Time Warner, the subsequent entity, found itself burdened with over $10 billion in debt. Time Warner then directed a highly publicized promotion to increase capital via “strategic partners”.  Seeing as Time Warner created just two such partnerships, it was required to find an different system to increasing capital via a new stock offering that significantly weakened the rights of the current shareholders. The SEC discarded Time Warner’s variable price offering but accepted a second proposition. Declaration of the two propositionsproduced a significant drop in the price of Time Warner stock. The shareholders securities fraud complaint claimed that Time Warner deceived the investing public by assertions omissions made with scienter. The district court dismissed the complaint with discrimination for not adequately pleading the allegations. The shareholders appealed.
+
+Issue
+Does undisclosed information that makes public statements substantially deceiving, not only when that information totally contradicts the public statements, create a duty to reveal?
+
+Held
+(Newman, C.J.) Yes. Undisclosed information that makes public statements substantially deceiving, not only when that information totally contradicts the public statements, create a duty to reveal. None of the assertions made by Time Warner establishes a positive distortion, although the accusations of nondisclosure are more severe. Whether contemplation of the alternatemethodestablishes substantial information and whether the nondisclosure makes the initial revelations deceitful remainqueries for the trier of fact. An omission is criminal under the securities lawsonly when the corporation is obligated to a duty to reveal the omitted truths.  As in this case, when a corporation chasing a particular business goal declares a proposed tactic for achieving it, the corporation may be compelled to reveal other methods which are under aggressive and severe deliberation. The accusations or nondisclosure and of a motive theory representing scienter are enough to withstand a motion to dismiss. Reversed and remanded.
+
+Discussion
+Scienter is a requisite factor of every Rule 10b-5 action. A plaintiff may plead scienter lacking direct information of a defendant’s state of mind by claiming facts proving a motive to commit fraud and had chance to do so by claiming facts establishing coincidental confirmation of irresponsible or cognizant conduct. Here, the district court determined that the complaint fell short under both methods. Repercussions of any rulings that support the dismissal of a Rule 10b-5 suit, there will be some occasion for unremedied fraud, while the repercussions of all rulings that allow a Rule 10b-5 suit to advancepast a motion to dismiss, there will be some occasion to extricate an unjustified settlement.
+

@@ -1,0 +1,21 @@
+Citation
+293 U.S. 388, 55 S. Ct. 241, 79 L. Ed. 446 (1935)
+
+Brief Fact Summary
+Congress made a delegation of power to the President of the United States under Section:9(c) of the National Industrial Recovery Act which exceeded constitutional limits.
+
+Synopsis of Rule of Law
+There are limits of delegation which there is no constitutional authority to transcend. Although the Constitution has never been regarded as denying to Congress the necessary resources of flexibility and practicality, Congress is forbidden to delegate the essential legislative functions which it is vested by Article I, Section:1 and Article I, Section:8 of the United States Constitution.
+
+Facts
+Section:9(c) of the National Industrial Recovery Act of June 16, 1933 authorized the President of the United States “to prohibit the transportation in interstate and foreign commerce of petroleum and the products thereof produced to withdrawn from storage in excess of the amount permitted to be produced or withdrawn from storage by any state law or valid regulation or order prescribed thereunder, by any board, commission, officer, or other duly authorized agency of a State. Any violation of an order of the President issued under the provisions of this subsection shall be punishable by a fine, not to exceed $1,000, or imprisonment not to exceed six months, or both.”  The President issued the foregoing prohibition by Executive Order, and then authorized the Secretary of Interior to exercise all of the powers vested in the President under Section:9(c). The Secretary of Interior then issued regulations to carry out the President’s orders, which required all petroleum producers to file monthly statements, under oath, with the Division of Investigations of the Department of the Interior. Further, the President approved a “Code of Fair Competition for the Petroleum Industry,” and designated the Secretary of Interior with all of the powers vested in him under the Act and the Code.  Section:9(c) was challenged on the ground that it was an unconstitutional delegation of legislative power by Congress.
+
+Issue
+Was the delegation of power to the President under Section:9(c) of the National Industrial Recovery Act an unconstitutional delegation of legislative power?
+
+Held
+Yes. The attempted delegation was plainly void because the power sought to be delegated was legislative power, but nowhere in the statute did Congress declare or indicate any policy or standard to guide or limit the President when acting under the delegation.  Dissent. Justice Cardozo felt that the “declaration of policy” in Section:1 of the Act, stating that there was a national emergency, was a sufficient definition of a standard to make the statute valid.  Concurrence. None.
+
+Discussion
+The Executive Orders and regulations issued by the Secretary of Interior were void because the delegation of power to the President under Section:9(c) was without constitutional authority.
+

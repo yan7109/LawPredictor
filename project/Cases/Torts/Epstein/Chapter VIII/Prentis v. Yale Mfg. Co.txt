@@ -1,0 +1,21 @@
+Citation
+421 Mich. 670, 365 N.W.2d 176 (1984).
+
+Brief Fact Summary
+The Plaintiff, Prentis (Plaintiff), was injured when the forklift he was operating experienced a power surge, causing Plaintiff to fall to the ground. Plaintiff sued the Defendant, Yale Mfg. Co. (Defendant), claiming a defect in design because the forklift did not provide a seat or platform for the operator.
+
+Synopsis of Rule of Law
+In an action against the manufacturer of a product based upon an alleged design defect, breach of implied warranty and negligence require proof of the same elements and use of identical evidence.
+
+Facts
+Plaintiff was operating a forklift manufactured by the Defendant. The forklift was a stand-up type, rather than a traditional sit down model. The forklift was equipped with a “dead-man” switch, intended to prevent it from moving if the operator let go of the controls. Plaintiff testified that he was aware that the battery was running low on the forklift when the accident occurred. Plaintiff attempted to start the machine on an incline and when the machine experienced a power surge it caused Defendant to fall to the ground. The fall fractured Plaintiff’s hip. Plaintiff brought suit, alleging a defect in design of the forklift because it did not provide a seat or platform for the operator.
+
+Issue
+Did the trial court err by not instructing the jury on a breach of warranty theory in addition to a negligent design theory?
+
+Held
+No. Judgment of the Court of Appeals is reversed and judgment of the trial court is reinstated.
+
+Discussion
+The pure negligence, risk-utility standard adopted by the Court in this case is applicable only to defective design cases and does not apply to defective manufacture cases.
+

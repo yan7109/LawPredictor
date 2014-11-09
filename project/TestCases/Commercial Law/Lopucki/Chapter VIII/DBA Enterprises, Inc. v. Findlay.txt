@@ -1,0 +1,21 @@
+Citation
+923 P.2d 298, 1996 Colo. App. 21,28 U.C.C. Rep. Serv. 2d (Callaghan) 1297; 20 BTR 65
+
+Brief Fact Summary
+Lauretta and James Findlay, (Appellants), appeal the denial of their counterclaim to enforce a promissory note given by DBA Enterprises, (Appellees) in partial payment for the sale of Appellants business.
+
+Synopsis of Rule of Law
+To be a negotiable instrument, a promissory note must be an unconditional promise to pay a sum certain.
+
+Facts
+Appellants sold their franchise to Appellees. As part of the sales contract, Appellants agreed to a covenant not to compete and Appellees agreed to pay $72,500, part of which they paid by a promissory note. The promissory note contained the following statement, “Maker’s obligation under this note is subject to the conditions recited in that Bill of Sale and Covenants not to Compete between the parties of even date.” The contract itself was silent as to the terms of the promissory note. Sometime after the sale, Appellants violated the covenant not to compete and Appellees brought suit requesting among other things, cancellation of the promissory note. Appellants counterclaimed on the promissory note, which had an outstanding balance, accrued interest, and a provision for attorney fees. The trial court found that Appellants had failed to establish the promissory note claim by a preponderance of the evidence.
+
+Issue
+Whether the language on the promissory note makes the note nonnegotiable. Whether the language of the promissory note makes the note unenforceable.
+
+Held
+Yes. The language on the note is conditional making the note nonnegotiable. No. The language of the promissory note does not make the note unenforceable.
+
+Discussion
+The quoted statement in the note renders it conditional and therefore nonnegotiable. But it does not make it unenforceable. The contract referred to by the note is silent as to the terms of the promissory note. Although Appellants have demonstrated a right to recover under the note, the matter must be remanded to the trial court to determine the intent of the parties concerning the effect of the conditional language contained on the note.
+

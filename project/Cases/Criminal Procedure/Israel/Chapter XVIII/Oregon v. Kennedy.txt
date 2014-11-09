@@ -1,0 +1,21 @@
+Citation
+459 U.S. 812, 103 S. Ct. 38, 74 L. Ed. 2d 50 (1982)
+
+Brief Fact Summary
+Kennedy brought appeal, grounded in Double Jeopardy, after being twice tried after an initial mistrial when the prosecutor in the case against him called a “crook.”
+
+Synopsis of Rule of Law
+A defendant may only invoke Double Jeopardy in a subsequent attempt to try him for the same offense when he can demonstrate prosecutorial provocation of a prior mistrial.
+
+Facts
+Respondent, Kennedy, was charged with theft of an oriental rug.  At his trial, the prosecution asked an expert witness if he had done business with the respondent, and when he replied that he had not, the prosecutor asked if that was the case because the respondent was a “crook.”  At that point, a mistrial was granted.  Later the prosecution sought to have another trial and respondent moved to dismiss, based on Double Jeopardy.  While the Oregon court of appeals sustained the dismissal, the state appealed.
+
+Issue
+Whether a prosecutor is banned, by way of Double Jeopardy, from bringing a subsequent prosecution of a defendant when a prior mistrial was awarded due to his mistake.
+
+Held
+Double Jeopardy does not attach to a retrial unless a defendant can show that a prosecutor purposefully provoked a mistrial.
+
+Discussion
+This case serves to show that Double Jeopardy is not always a defense weapon against retrial, particularly when a mistrial is caused only by prosecutorial mistake, as opposed to provocation.
+

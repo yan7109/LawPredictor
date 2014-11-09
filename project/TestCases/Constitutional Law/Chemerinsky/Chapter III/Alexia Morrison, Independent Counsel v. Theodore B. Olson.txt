@@ -1,0 +1,24 @@
+Citation
+487 U.S. 654, 108 S. Ct. 2597, 101 L. Ed. 2d 569, 1988 U.S.
+
+Brief Fact Summary
+An Independent Counsel was appointed by the Special Division of the D.C. Circuit Court of Appeals, to investigate a high-ranking government official. The official responded by claiming that the appointment of an Independent Counsel was unconstitutional.
+
+Synopsis of Rule of Law
+Since the Independent Counsel is an inferior officer, a law giving judges the authority to appoint an Independent Counsel did not violate the United States Constitution (Constitution).
+
+Facts
+The Ethics in Government Act (the Act) created the position of independent counsel to investigate high-ranking officials for federal criminal violations. If the Attorney General receives information that a government official may have violated federal law, he is required by the Act to make a preliminary investigation and report to the Special Division (three judges) of the D.C. Circuit Court of Appeals. If further investigation is needed, the Special Division must appoint an independent counsel to investigate further and prosecute if necessary. The Independent Counsel can only be removed by the Attorney General for “good cause” or it terminates when all investigations and prosecutions are complete. The Appellees, Theodore B. Olson, Edward C. Schmults and Carol E. Dinkins (Defendants), was the subject of an investigation by the Independent Counsel and Appellant, Alexia Morrison (Appellant). The Court of Appeals held the Act was unconstitutional.
+
+Issue
+Does the Constitution require that the President of the United States (President) exercise sole and exclusive control over the appointment of all executive officers?
+
+Held
+No. The President does not have exclusive authority to appoint executive officers. Since the Petitioner is subject to removal by a higher executive branch official and since her office is restricted in jurisdiction, tenure and authorized duties, it is clear that she is an inferior officer and not a principle officer. On its face, the Appointments Clause of the Constitution does not provide a limit on interbranch appointments. To the contrary, Congress is granted great leeway when determining where to vest the power to appoint inferior officials.
+
+Dissent
+Justice Antonin Scalia (J. Scalia) dissents because he feels criminal investigations and prosecutions are executive functions. He feels the decision “deprives the President of a purely executive function, thereby substantially affecting the balance of powers.”
+
+Discussion
+The Appointments Clause, Art II, Section: 2, cl. 2 of the Constitution, divides the executive officers into (1) principle and (2) inferior officers. The President appoints principle officers with advice and consent of the Senate, while the appointment of inferior officers can be done by the heads of departments and the Courts. The Supreme Court of the United States (Supreme Court) decided that the position of Independent Counsel is an inferior officer because (1) he or she is always subject to removal by the President; (2) he or she can only perform certain, limited duties proscribed by the Act; (3) the office is limited in jurisdiction granted by the Special Division and (4) his or her office is limited in tenure.
+

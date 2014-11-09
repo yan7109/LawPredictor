@@ -1,0 +1,24 @@
+Citation
+497 U.S. 805, 110 S. Ct. 3139, 111 L. Ed. 2d 638, 1990 U.S.
+
+Brief Fact Summary
+Laura Lee Wright (Respondent) was convicted by a jury of lewd conduct with her two daughters.  She appealed that decision to the Idaho Supreme Court, asserting that her rights under the Confrontation Clause of the 6th amendment were violated by the trial court’s admission of certain hearsay statements.  The Idaho Supreme Court reversed, agreeing that Respondent’s Confrontation Clause rights were violated, and the state appeals from that reversal here.
+
+Synopsis of Rule of Law
+In order for a hearsay statement to be admissible under the residual hearsay exception and used to convict a criminal defendant, the statement must possess indicia of reliability by virtue of its inherent trustworthiness, not by reference to corroborating evidence at trial; absent indicia of reliability, the admission of such a statement will violate the defendant’s rights guaranteed by the Confrontation Clause.
+
+Facts
+Respondent was charged, under Idaho law, with two counts of lewd conduct with a minor under 16; Respondent’s daughters, aged 5 and 2 at the time of the alleged crimes, were the alleged victims of the lewd conduct.
+
+Issue
+Did the admission of the pediatrician’s testimony under Idaho’s residual hearsay exception violate Respondent’s rights under the Confrontation Clause?
+
+Held
+Affirmed. Yes, the admission was a violation of Respondent’s Confrontation Clause rights, as the statements did not fall under any firmly-rooted hearsay exceptions and lacked the necessary “particularized guarantees of trustworthiness” to be admitted under the residual hearsay exception.
+
+Dissent
+Justices Kennedy (writing), Rehnquist, White, and Blackmun dissent, pointing out that the constitution lacks any prohibition on the use of corroborating evidence in determining whether the indicia of reliability are present.  Justice Kennedy writes:
+
+Discussion
+The majority places its emphasis on the “totality of the circumstances” regarding the statements at issue in determining that Respondent’s Confrontation Clause rights were violated because the statements lacked the necessary “guarantees of trustworthiness.”  Specifically, the Court looks to the Confrontation Clause and Idaho’s residual hearsay exception and states that, “we do not believe the Constitution imposes a fixed set of procedural prerequisites to the admission of [hearsay] statements at trial.”  The Court goes on, “if the declarant’s truthfulness is so clear from the surrounding circumstances that the test of cross-examination would be of marginal utility, then the hearsay rule does not bar admission of the statement at trial.”  However, the Court states, in this case, “[v]iewing the totality of the circumstances surrounding the younger daughter’s responses to Dr. Jambura’s questions, we find no special reason for supposing that the incriminating statements were p
+

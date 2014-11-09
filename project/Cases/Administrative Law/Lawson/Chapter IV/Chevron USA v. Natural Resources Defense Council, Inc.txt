@@ -1,0 +1,21 @@
+Citation
+467 U.S. 837, 104 S. Ct. 2778, 81 L. Ed. 2d 694, 21 ERC 1049 (1984)
+
+Brief Fact Summary
+The Clean Air Act Amendments of 1977 (Amendments) made requirements applicable to states that had not achieved the national air quality standards established by the Environmental Protection Agency (EPA) in earlier legislation. The Amendments required the “nonattainment” States to establish a permit program regulating “new or modified major stationary sources” of air pollution, pursuant to stringent conditions. The EPA’s decision to allow States to treat all pollution-emitting devices within the same industry grouping as though within a single “bubble” was challenged in this case.
+
+Synopsis of Rule of Law
+Policy arguments are more properly addressed to legislators or administrators, not to judges. In these cases, the Administrator’s interpretation represents a reasonable accommodation of manifestly competing interests and is entitled to deference: the regulatory scheme is technical and complex, the agency considered the matter in a detailed and reasonable fashion, and the decision involves reconciling conflicting policies.
+
+Facts
+The EPA promulgated a regulation permitting States to adopt a plant-wide definition of the term “stationary source.” This definition allowed an existing plant that contained several pollution-emitting devices to install or modify one piece of equipment without a permit if the overall plant emissions were not increased by the alteration-a “bubble” concept.  National Resources Defense Council, Inc. (Respondents) petitioned for review in the Court of Appeals for the District of Columbia Circuit, and the Court of Appeals set aside the regulation.  The Amendments were lengthy, detailed and complex. They did not disturb the prior definition of “stationary source;” but did add a new definition for “major stationary source.”  The legislative history of the amendments contained no specific comment on the “bubble concept” or the question of whether a stationary source was permissible under the permit program.
+
+Issue
+Was EPA’s decision to allow States to treat all pollution-emitting devices within the same industry grouping as though within a single “bubble” based on a reasonable construction of the statutory term “stationary source?”
+
+Held
+Yes. Reversed the judgment of the Court of Appeals.   The EPA’s definition of the term “source” is a permissible construction of the statute which seeks to accommodate progress in reducing air pollution with economic growth.     A review of the EPA’s varying interpretations of “source” over time demonstrated that it consistently viewed the term flexibly, in the context of implementing policy decisions in a technical and complex arena.  It was not the agency, but the Court of Appeals, that read the statute inflexibly in 1980 to command a plant-wide definition for plants designed to maintain clean air, and a to forbid such a definition for programs designed to improve air quality.  It was a basic legal error for the Court of Appeals to adopt a static definition of the term “stationary source” when it had decided that Congress itself had not commanded that definition.   Dissent. None.  Concurrence. None.
+
+Discussion
+Chevron was a landmark case that advocated giving agencies deference for their reasonable policy-making decisions.
+

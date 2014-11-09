@@ -1,0 +1,21 @@
+Citation
+890 A.2d 1287 (Conn. 2006).
+
+Brief Fact Summary
+Defendant rear-ended Plaintiff but neither party reported any personal injuries at the scene.  Plaintiff subsequently sued Defendant for negligence but could not prove causation or actual damages and Defendant argued that Plaintiff’s injuries were the result of his prior five auto accidents.  Defendant prevailed.
+
+Synopsis of Rule of Law
+Common law requires proof of causation and actual damages to support a cause of action in negligence.
+
+Facts
+Plaintiff stopped his vehicle at a red traffic light when it was struck from behind by Defendant’s vehicle.  There was minor damage to the Plaintiff’s vehicle, but no physical injuries reported at the accident scene.  Later, Plaintiff sued, alleging that as a result of Defendant’s negligence he had suffered bodily injury.  At trial Plaintiff presented evidence that his injuries resulted from the collision, while Defendant presented evidence that the injuries resulted from Plaintiff’s five previous auto accidents.  The jury returned a verdict of zero damages.  The plaintiff filed a motion to set aside this verdict, arguing that he was entitled to at least nominal damages because he had suffered a technical legal injury that admittedly had been caused by Defendant.  Defendant objected, arguing that although she had admitted to causing the collision, she had denied the causal relationship between the collision and the plaintiff’s alleged injuries.  The trial court nevertheless granted the plaintiff’s motion and awarded nominal damages of $1.  The appellate court affirmed.  The supreme court reversed, finding that nominal damages should not have been awarded.
+
+Issue
+Whether a plaintiff may use the technical legal injury concept to recover damages in a negligence action where defendant has admitted to causing an accident, but where plaintiff cannot prove actual bodily injury.
+
+Held
+No.  Under the technical legal injury concept, where the plaintiff’s right has been intentionally invaded, he can recover nominal and even exemplary damages, to serve as a deterrence to society.  However, the technical legal injury concept does not apply to a negligence action where injury has occurred unintentionally.  Common law requires proof of actual damages to support a cause of action in negligence.
+
+Discussion
+No.  Under the technical legal injury concept, where the plaintiff’s right has been intentionally invaded, he can recover nominal and even exemplary damages, to serve as a deterrence to society.  However, the technical legal injury concept does not apply to a negligence action where injury has occurred unintentionally.  Common law requires proof of actual damages to support a cause of action in negligence.
+

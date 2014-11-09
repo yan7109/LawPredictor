@@ -1,0 +1,21 @@
+Citation
+529 U.S. 266, 120 S. Ct. 1375, 146 L. Ed. 2d 254 (2000)<br />
+
+Brief Fact Summary
+Based on an anonymous tip that a black male in a plaid shirt was standing at a bus stop armed, police stopped and frisked J.L.
+
+Synopsis of Rule of Law
+“An anonymous tip that a person is carrying a gun is not, without more, sufficient to justify a police officer’s stop and frisk of that person.”
+
+Facts
+Miami-Dade police were told by an anonymous caller that an armed black male in a plaid shirt was standing at bus stop.  There was no audio record of the call, no any other specific information.  Two officers were instructed to respond.  Upon arriving at the bus stop, the officers saw three black males, one of whom, respondent J.L., was wearing plaid.  There was nothing else about the situation that suggested to the police that illegal activity was afoot.  The officers could see no firearm, and the respondent did nothing threatening.  The officers approached all three men, and frisked them.  They found a gun on J.L.’s person.
+
+Issue
+“[W]hether an anonymous tip that a person is carrying a gun is, without more, sufficient to justify a police officer’s stop and frisk of that person.”
+
+Held
+No.  The Court initiated their discussion with a review of the essential law of Terry v. Ohio, “where a police officer observes unusual conduct which leads him reasonably to conclude in light of his experience that criminal activity may be afoot and that the persons with whom he is dealing may be armed and presently dangerous . . . he is entitled for the protection of himself and others in the area to conduct a carefully limited search of the outer clothing of such persons in an attempt to discover weapons which might be used to assault him.”  The police could not observe a gun or any other threatening behavior beyond the tip.  Further, the anonymous and uncorroborated tip lacked a “sufficient indicia of reliability to provide reasonable suspicion to make the investigatory stop” per Alabama v. White.  Thus, the Court held that there were insufficient grounds for the police to frisk the respondent.
+
+Discussion
+“An anonymous tip lacking indicia of reliability . . . does not justify a stop and frisk whenever and however it alleges the illegal possession of a firearm.”
+

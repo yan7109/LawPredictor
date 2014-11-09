@@ -1,0 +1,24 @@
+Citation
+95 U.S. 714, 5 Otto 714, 24 L. Ed. 565 (1878)
+
+Brief Fact Summary
+Default judgment was rendered against Plaintiff, a non-resident of Oregon who was not present in that state, in Oregon state court. Plaintiff was served by publication and Plaintiff’s Oregon property was levied in order to satisfy the judgment. The property was subsequently sold to Defendant at a sheriff’s auction. Plaintiff sued Defendant to recover the tract of land, claiming the state court did not have jurisdiction to bind Plaintiff to the judgment in the previous action.
+
+Synopsis of Rule of Law
+A state court must have personal jurisdiction to bind a defendant to a judgment. In a case where property owned within a state is not in controversy, the defendant is not a resident of that state, the defendant is not personally present within the state, and the defendant has not otherwise authorized service, the state does not have personal jurisdiction and any judgment rendered is void.
+
+Facts
+Default judgment was rendered against Plaintiff Neff, a non-resident of Oregon who was not present in that state, in Oregon state court. Plaintiff was not a resident of Oregon and was not personally served with process. Notice was instead attempted through publication alone. Plaintiff’s Oregon property was levied in order to satisfy the judgment and subsequently sold to Defendant, Pennoyer, at a sheriff’s auction. Plaintiff sued Defendant in order to recover the tract of land, claiming the state court did not have jurisdiction to bind Plaintiff to the judgment in the previous action. Defendant claimed to acquire property from sheriff’s deed at an auction. Plaintiff sued Defendant to recover possession of the land. The trial court found in favor of Plaintiff because the affidavit by which Defendant attempted to prove publication was defective. Defendant appealed.
+
+Issue
+Does a state court have personal jurisdiction over a non-resident who owns property in the state in a suit not related to the property if the individual is not present in the state and cannot be personally served within the state?
+
+Held
+No. Judgment affirmed.
+
+Dissent
+Dissent by Justice Hunt omitted from the casebook.
+
+Discussion
+This case essentially holds that the mere presence of property owned by the defendant does not establish personal jurisdiction over the defendant’s person for cases not relating to the property owned. The court also discusses the ways that a state can exercise in personam jurisdiction: (1) if the defendant is a resident of the state, (2) if the defendant is served within the state, or (3) if the defendant has authorized an agent to accept service on his behalf.
+

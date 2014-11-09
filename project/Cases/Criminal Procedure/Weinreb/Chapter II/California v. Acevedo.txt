@@ -1,0 +1,21 @@
+Citation
+500 U.S. 565, 111 S. Ct. 1982, 114 L. Ed. 2d 619 (1991)
+
+Brief Fact Summary
+The Respondent, Acevedo (Respondent), was pulled over because a bag he had put in the trunk of the vehicle he was driving was suspected to contain marijuana. The police searched the bag and found marijuana.
+
+Synopsis of Rule of Law
+If probable cause exists to search a container, and that container sits in a vehicle, the vehicle and all containers within the vehicle can be searched without a warrant.
+
+Facts
+Local police watched the Respondent leave a house that was under surveillance. A known quantity of marijuana had recently been brought into the house. The police saw the Respondent leave the house with a bag similar in size to the marijuana. The Respondent put the bag in a car and proceeded to leave. Fearing the loss of evidence, the police stopped the Respondent as he began to drive. The police searched the bag and found marijuana.
+
+Issue
+Does the Fourth Amendment require police to obtain a warrant to open a container sitting in a vehicle, where probable cause does not exist to search the whole vehicle?
+
+Held
+No. The automobile exception allows police to search a vehicle without a warrant, if probable cause to do so exists. A container sitting in a vehicle is as mobile as the vehicle itself. The same factors underlying the automobile exception exist in this case. Because of these factors, the automobile exception applies to containers in vehicles.
+
+Discussion
+The rule in Chadwick requiring a warrant to search a container does not apply to containers sitting in a vehicle.
+

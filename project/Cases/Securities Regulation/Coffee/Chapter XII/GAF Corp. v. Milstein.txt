@@ -1,0 +1,18 @@
+Brief Fact Summary
+The Milsteins (Defendant) obtained 10.25% of GAF (Plaintiff) stock from a merger.
+
+Synopsis of Rule of Law
+A group desiring to pool their stock ownership must register under § 13(d) if the group owns more than 10% of a certain class.
+
+Facts
+The Milstein family acquired 10.25% of GAF convertible preferred stock through a merger but failed to report it under S 13(d), which necessitates that people owning 10% or more of a particular stock to register with the SEC and the exchanges. §13(d) was created to give investors pertinent information about takeover attempts and mergers. GAF claimed §13(d) was violated, stating that the Milsteins were attempting to takeover GAF, and that Rule 10-b was also violated, claiming that the Milsteins were devaluing its stock and criticizing its directors, and so brought suit against the Milsteins. The statement the Milsteins filed contained false information.  Although the Milsteins claimed they did not plan on taking over GAF they tried to remove the old board at a shareholders meeting and continued to buy common stock. GAF requested an injunction inhibiting them from buying further stock and from voting their stock. The court ruled in favor of the Milsteins stating that individually none of them owned 10% of any class of stock.
+
+Issue
+Does a group controlling more than 10% of a particular class of stock need to register under §13?
+
+Held
+(Kaufman, J.) Yes. A group desiring to pool their stock ownership must register under §13 if the group owns more than 10% of a certain class of stock. Large collections of stock bought within a short time frame are considered pertinent information that must be disclosed to alert the marketplace. How those stocks were obtained is not important. Regardless of how the stock was obtained, the threat of a takeover is just as powerful, meaning that GAF has reason to sue. It is inherent to the Act and in order for the policy to function, multiple plaintiffs must be permitted. Corporations have the money and egocentricity to seek out that type of action and they have the ability to discover violations through examination of stock transfers. We determine that GAF had standing to bring an action under § 13(d) andrequest forinjunctive relief  for said violation, however the right is not inclusive of tender offerors or target corporations under 10b or Rule 10b-5. Reversed in part and affirmed in part.
+
+Discussion
+§§ 13 and 14 are a part of the Williams Act, 15 U.S.C.A., § 78m(d), which was passed to tighten disclosure laws and to protect the investing public. It was believed that the public could better determine the reasons behind stock prices suddenly fluctuating when full disclosures of tender offers and takeover plans became a requirement. Information like that allows the public to make informed decisions with regard tostock ownership.
+

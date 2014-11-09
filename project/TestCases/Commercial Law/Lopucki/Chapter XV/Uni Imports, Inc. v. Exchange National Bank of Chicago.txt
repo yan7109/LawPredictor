@@ -1,0 +1,21 @@
+Citation
+978 F.2d 984, 1992 U.S. App. 28371,18 U.C.C. Rep. Serv. 2d (Callaghan) 993
+
+Brief Fact Summary
+Uni Imports, Inc., (Respondent), obtained a judgment against Aparacor, Inc. Respondent attempted to enforce the judgment against Aparacor Inc.’s assets with Exchange National Bank of Chicago, (Appellant), but Appellant refused to turn over the assets claiming it had priority status. Respondent successfully petitioned the district court for turnover and Appellant appeals.
+
+Synopsis of Rule of Law
+The lender is entitled to priority reimbursement insofar as a prior-perfected security interest secures a non-advance obligation relation to a transaction prior to the levy.
+
+Facts
+Appellant executed a security agreement with Aparacor, Inc, (Aparacor). The two executed a note that incorporated the security agreement and established a revolving line of credit of up to $7.2 million for Aparacor. Subsequently Respondent obtained a $66,000 judgment against Aparacor, which Respondent attempted to enforce against Aparacor’s assets with Appellant. Appellant, however, refused to turn over any of Aparacor’s assets claiming that it had priority status. Appellant continued to advance money to Aparacor. Respondent eventually petitioned the district court for turnover of Aparacor’s assets in the possession of Appellant. The court granted the petition.
+
+Issue
+Whether non-advances qualify for priority over lien creditors under U.C.C. Section:9-323(b).
+
+Held
+Yes. Non-advances are not advances for purposes of U.C.C. Section:9-323(b).
+
+Discussion
+Although protecting non-advances benefits revolving credit lenders and thus, presumably improves debtors’ chances of obtaining such loans, it does so at the cost of squeezing out lien creditors. Ironically, the possibility of squeeze-out posed by future advances is less than for non-advance value. Future advances have the positive value of enlarging the estate while reimbursing the secured creditor for non-advance value only depletes the estate. However, the court has previously held that the lender is entitled to priority reimbursement insofar as a prior-perfected security interest secures a non-advance obligation relating to a transaction prior to the levy. The Permanent Editorial Board for the Uniform Commercial Code endorses this result. Therefore Illinois courts would hold that non-advances are not advances for the purposes of U.C.C. Section:9-323(b).
+

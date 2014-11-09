@@ -1,0 +1,21 @@
+Citation
+180 Cal. 338, 181 P. 223, 1919 Cal.
+
+Brief Fact Summary
+A father, Plaintiff, sued the owner and operator of a car that hit and killed his child.  The jury awarded the Plaintiff $5000, and the Defendant appealed arguing that the court should not have taken judicial notice of whether or not the accident occurred in a business district.
+
+Synopsis of Rule of Law
+A court may take judicial notice of facts that are common and of general knowledge, established and authoritatively settled, and within the limits of the courts jurisdiction.
+
+Facts
+A father, Plaintiff, filed suit to recover damages suffered when his child was killed after being run over by Lee’s automobile driven by chauffer Nichols (collectively referred to as the “Defendants”).  The jury returned a verdict of $5,000 for Plaintiff.  The trial judge instructed the jury that if they found the Defendants were traveling in excess of the speed limit, 15 miles an hour in a business district, then the speeding constituted negligence.  On appeal, the Defendants argued that the trial court should not have taken judicial notice that the location of the accident was in a business district.
+
+Issue
+Was the trial court entitled to take judicial notice of the character of the street at issue?
+
+Held
+Justice Olney issued the opinion of the Supreme Court of California in affirming the lower court and finding that the conclusion of the trial court that the location of the accident was in a business district is not error because it was a proper fact for judicial notice.
+
+Discussion
+If there is any reasonable question as to whether the fact is common and part of everyday knowledge or is certain and undisputable, then proof should be required.  Judicial notice should be used with caution, but courts should not be required to be less knowledgeable than the general public.
+

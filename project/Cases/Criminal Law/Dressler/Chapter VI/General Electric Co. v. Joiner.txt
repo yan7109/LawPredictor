@@ -1,0 +1,21 @@
+Citation
+522 U.S. 136, 118 S. Ct. 512, 139 L. Ed. 2d 508, 1997 U.S. 7503.
+
+Brief Fact Summary
+Joiner (Plaintiff) was exposed to PCBs and diagnosed with cancer. PCBs are dangerous to human health. Plaintiff sued General Electric Co. (Defendant) for “promoting” his cancer.
+
+Synopsis of Rule of Law
+Abuse of discretion is the proper standard of review of a district court’s evidentiary ruling, i.e. did the district court abuse its discretion in granting Defendant’s Motion for Summary Judgment?
+
+Facts
+Plaintiff has worked as an electrician since 1973. This required Plaintiff to work around transformers, and the dielectric fluid used as a coolant got into his eyes and mouth, and stuck to his arms and hands. In 1983, the city discovered that the fluid in some of its transformers contained PCBs, which are hazardous to the health of humans. In 1991, Plaintiff was diagnosed with small cell lung cancer. He sued Defendant because they manufactured transformer and dielectric fluid. Plaintiff had been a smoker for eight years and there was a history of lung cancer in his family. Plaintiff alleged that his exposure to PCBs “promoted” his cancer; had it not been for his exposure to these substances, his cancer would not have developed for many years, if at all. Defendant removed the case to federal court and then moved for summary judgment. Defendant claimed there was no evidence that Plaintiff suffered significant exposure to PCBs and that there was no admissible scientific evidence
+
+Issue
+Was Plaintiff’s case properly dismissed on Defendant’s Motion for Summary judgment?
+
+Held
+Yes. Judgment reversed. The district court’s ruling was affirmed.
+
+Discussion
+Here, the Justices agree that the trial judge is to be the gatekeeper of evidence. The majority opinion states that the District court did not abuse its discretion in granting the summary judgment motion. The majority feels confident that the trial court was capable of determining or dismissing the causal connection between Plaintiff’s claim and the evidence provided.
+

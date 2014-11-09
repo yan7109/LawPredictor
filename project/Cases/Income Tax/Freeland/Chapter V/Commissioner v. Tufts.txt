@@ -1,0 +1,24 @@
+Citation
+461 U.S.300,103 S. Ct.1826,75 L. Ed. 2d 863,1983 U.S. 27
+
+Brief Fact Summary
+Respondent was a part of a general partnership formed to build a 120 unit apartment complex.  A non-recourse loan was received in order to build the complex.  However, the partnership was not able to cover the payment of the mortgage and had to sell of the building.
+
+Synopsis of Rule of Law
+The gain or loss from a sale or other disposition of property is defined as the difference between the amount realized on the disposition and the property’s adjusted basis.
+
+Facts
+Respondent, Clark Pelt, was a builder and owned Clark, Inc.  He  and Clark, Inc. formed a general partnership in 1970 in order to construct 120 unit apartment complex.  The partnership entered into a mortgage loan agreement with the Farm & Home Savings Association for $1,851,500.  It was a non-recourse loan so that neither the partnership nor any of its partners had any personal liability for the loan.  Other general partnerships later joined and are also respondents in this case.  In 1971 each partner made small capital contributions to the partnership.  In 1972 only Respondent made a contribution.  The partnerships rental income was less than expected and they were unable to make the mortgage payments.  Each partner sold his partnership interest to an unrelated third party.  As consideration, the third party assumed the non-recourse mortgage.  The Commissioner of Internal Revenue determined that the sale of the partnership resulted in a capital gain of approximately $400,000
+
+Issue
+Is the amount of the non-recourse mortgage considered gain when it exceeds the fair market value of the property?
+
+Held
+Justice Blackmun issued the opinion for the Supreme Court of the United States in reversing the Court of Appeals and holding that Respondent must account for the proceeds of obligations that he has received tax-free and included in the basis.
+
+Concurrence
+Justice O’Connor issued a concurring opinion concurring with the result but arguing that first the ownership and sale of the property should be considered and then separately considered the arrangement and retirement of the loan.
+
+Discussion
+The Supreme Court found that when a taxpayer sell or disposes of property then he is required to include the outstanding amount of the obligation as an asset realized.  It is not relevant that this was a non-recourse loan or that the loan was in excess of the fair market value of the property at the tim
+

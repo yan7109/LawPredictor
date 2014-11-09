@@ -1,0 +1,24 @@
+Citation
+22 Ill.473 U.S. 432, 105 S. Ct. 3249, 87 L. Ed. 2d 313 (1985)
+
+Brief Fact Summary
+A Texas city, Cleburne (Petitioner) denied a special use permit for the operation of a group home for the mentally retarded. Cleburne Living Center (Respondent) purchased a building with the intention to house thirteen mentally retarded individuals.
+
+Synopsis of Rule of Law
+The general rule is that legislation is presumed valid and will be sustained if the classification drawn by the statute is rationally related to a legitimate state interest.
+
+Facts
+Petitioner denied a special use permit for the operation of a group home for the mentally retarded, acting pursuant to a municipal zoning ordinance that required permits for such homes. Respondent purchased a building at 201 Featherston Street in Cleburne, Texas, with the intention to house thirteen mentally retarded individuals. Respondent submitted a special use permit application to the City, which was denied. Respondent filed suit in federal district court alleging that the ordinance was invalid on its face and as applied to Respondent because it discriminated against the mentally retarded in violation of the Equal Protection Clause of the United States Constitution. The district court found the ordinance to be constitutional. The United States Court of Appeals for the Fifth Circuit reversed and held that mental retardation was a “quasi-suspect” classification, which required intermediate scrutiny. Intermediate scrutiny required that the ordinance substantially further an
+
+Issue
+Was the ordinance on its face and as applied, constitutional?
+
+Held
+No. However, the court of appeals was in error in holding that mental retardation should belong to a “quasi-suspect” classification, and that the rational basis test should apply.
+
+Dissent
+The dissent argued that if the majority were really applying the rational basis test to this case, it would have been decided differently. In other words, the dissent accuses the majority of applying a heightened scrutiny and simply calling it a general scrutiny.
+
+Discussion
+It would seem that the court was trying to avoid calling the mentally retarded a suspect class on the grounds that the delineation between mentally retarded and normal would soon be blurred. The court did not want to embark on an ad hoc determination of what forms of mental retardation would fall into the suspect class and which ones would not.
+

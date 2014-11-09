@@ -1,0 +1,21 @@
+Citation
+380 U.S. 460, 85 S. Ct. 1136, 14 L. Ed. 2d 8 (1965)
+
+Brief Fact Summary
+Hanna (Petitioner), a citizen of Ohio, filed a complaint in District Court for the District of Massachusetts, claiming damages in excess of $10,000 for injuries resulting from an auto accident in South Carolina, allegedly caused by the negligence of Louise Plumer Osgood (Osgood), a resident of Massachusetts. Osgood was deceased at the time of filing, so Osgood’s executor (Respondent), was named as Defendant in the complaint.
+
+Synopsis of Rule of Law
+In a diversity action, federal courts are to determine adequacy of service under Rule 4(d)(1) of the Federal Rules of Civil Procedure.
+
+Facts
+On February 8, 1963, service was made by leaving copies of the summons and complaint with Respondent’s wife at his residence in compliance with Rule 4(d)(1) of the Federal Rules of Civil Procedure. Respondent answered on February 28, 1963, alleging that an action could not be maintained because it was brought in violation of Massachusetts General Laws Chapter 197, Section 9. The district court granted Respondent’s Motion for Summary Judgment and the United States Court of Appeals for the First Circuit affirmed.
+
+Issue
+Whether, in a civil action when the jurisdiction of the district court is based upon diversity of citizenship between the parties, service of process shall be made in the manner prescribed by state law or that set forth in Rule 4(d)(1) of the Federal Rules of Civil Procedure?
+
+Held
+The Supreme Court of the United States reversed the decision of the court of appeals. The Court stated that Rule 4(d)(1) was designed to govern service of process in diversity actions. In addition, Rule 4(d)(1) is in harmony with the Rules Enabling Act, since it is largely procedural in nature. The Rules Enabling Act is constitutional, and is the method by which service is to be conducted in federal court. Further, Rule 4(d)(1) applies to the matter before the court because it specifies the allowable method of service in a federal matter. As a result, the rule shall take precedence over any divergent state statute or rule, even if application of the rule will produce a different outcome than had the state rule been followed in the first instance.  Concurrence. The majority has oversimplified the decision made in Erie. Justice Harlan stats that Erie is more than a forum-shopping deterrent, and notes that the focus should remain on the “outcome-determinative test.”
+
+Discussion
+The “outcome-determinative test” as established in Guaranty Trust Co., was not meant to serve as a talisman. Further, the court notes that any choice between state and federal law shall not be made by an application of an automatic, “litmus paper” test, but rather by reference to policies underlying the Erie decision. As the Court states, Erie’s goals were the deterrence of forum-shopping and the avoidance of inequitable   administration of the laws. In this case, if it had been governed by the state statute, the case would have ended before it began. Alternatively, since the Petitioner won, the litigation was allowed to proceed forward, with both parties having an opportunity to be heard.
+

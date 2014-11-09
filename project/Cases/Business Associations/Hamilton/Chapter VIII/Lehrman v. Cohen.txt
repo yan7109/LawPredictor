@@ -1,0 +1,21 @@
+Citation
+Del. Sup. Ct., 222 A.2d 800 (1966)
+
+Brief Fact Summary
+Lehrman (P) and Cohen (D), rival factions, have dispute over the issuance of Class AD stock and its voting power.
+
+Synopsis of Rule of Law
+Creating a new class of voting stock does not dilute and separate the voting rights, they remain vested in the stockholders who made that class, from other elements in the ownership of said stock.
+
+Facts
+Lehrman and Cohen families stockholders in Giant Food Inc., held equal voting stock in Class AC common (Cohhen’s) and AL common (Lehrman’s). Each of the classes elected two directors for a four member directorship. Jacob Lehrman acquired all the outstanding Class AL stock to settle a dispute among that family. The Cohen’s demanded a fifth director on the board to break deadlocks between the two classes of stocks. A third class of stock was created, AD. AD stock was issued to Joseph Danzansky, the corporate counsel, so that he may have the power to elect the fifth director. Joseph held all other common stock privileges save issuance of dividends. He held one sure with a par value of $10, with the corporation holding redemption rights. Danzansky chose himself to be the fifth director. The current argument arose when Danzansky was given a 15 year executive employment contract of $67,600 annual, and stock options. AC and AD stock voted for the employment, AL stock voted against. On the same day, Danzansky was voted president in a 3 to 2 vote, AL voted against him. He then resigned as director and voted in Millard West to be director from the AL stock and the board ratified these changes. Lehrman (P) filed suit against Cohen (D) the former president of the company alleging that (1) the issuance and voting of the Single AD share was an illegal voting trust under state law and (2) Danzansky’s employment and appointment as president violated the deadlock agreement, breaching contract and fiduciary duty. Court of Chancery granted Cohen’s (D) motion for summary judgment while Lehrman (P) filed for an appeal.
+
+Issue
+In creating a new class of voting stock, does it dilute and separate the voting rights, which normally remain vested in the stockholders who made that class, from other elements in the ownership of said stock?
+
+Held
+(Herrmann, J.) No. AD’s stock does not separate the voting rights of the two other stocks from the other elements of ownership. The other classes each retained complete control over their stock. Even with voting power dispersed, Lehrman’s (P) assertion that the percentage of reduction created a voting trust is still wrong. The first test of a voting trust is the separation element, which has not happened here. The 10 year period contention was not met here since it was never a trust. Lehrman (P) still claims that even if not a voting trust, the AD stock is still illegal because it had only voting rights and no participating ownership interest which goes against Delaware law. This is not a requirement in Delaware law, see Statute 218, and nonvoting stock is directly authorized in Statute 151 (a). The usually purpose of voting trust statutes is to avoid the plotting of stockholders seeking to acquire voting control to the determinant of other stockholders. There is nothing wrong with the intent of the AD agreement to break deadlocks. Affirmed.
+
+Discussion
+Voting trusts or pooling agreements need legitimate purpose to be enforceable. It will not be enforced if used to gain control from minority shareholders, to guarantee employment or salaries for management, or to freeze domination in an incumbent group, or to protect a minority interest in the business.
+

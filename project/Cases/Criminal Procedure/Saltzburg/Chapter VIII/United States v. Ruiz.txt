@@ -1,0 +1,21 @@
+Citation
+536 U.S. 622,  122 S. Ct. 2450,153 L. Ed. 2d 586, 2002 U.S.
+
+Brief Fact Summary
+When Ruiz’s sentence was vacated because she refused to waive her rights to impeachment evidence, the government brought appeal on the grounds that its plea bargaining process was not unconstitutional.
+
+Synopsis of Rule of Law
+While the Fifth and Sixth Amendments require that a defendant receive exculpatory evidence at trial, a defendant may waive their right to this information in a plea agreement.
+
+Facts
+Federal prosecutors offered respondent, Angela Ruiz, a fast track plea bargain, after 30kg of marijuana was found in her luggage by immigration agents.  Per the terms of the bargain, the respondent would have gotten a reduced sentence recommendation, in exchange for waiving the right to receive impeachment information relating to any informants or other witnesses, as well as to information supporting any affirmative defense she may raise if she were to go to trial.  Ruiz rejected the waiver of her rights, the offer was withdrawn and she was indicted for unlawful drug possession.  At sentencing, Ruiz asked the judge to grant her the sentence she would have gotten, had she taken the plea bargain, on the grounds that it was in violation of her Fifth and Sixth Amendment rights to a fair trial.  The Court of Appeals ruled for the respondent, and vacated the sentence, and the government brought appeal.
+
+Issue
+Whether, before entering into a plea agreement, the Fifth and Sixth Amendments require federal prosecutors to disclose impeachment information relating to informants or other witnesses.
+
+Held
+Justice Breyer, for the Court, held that although the Fifth and Sixth Amendments do provide that a defendant be given exculpatory impeachment evidence from prosecutors, a guilty plea under a plea agreement, with a waiver of rights, can be accepted as knowing and voluntary.
+
+Discussion
+While the Fifth and Sixth Amendments are designed to protect the right to a fair trial, a defendant can knowingly and voluntarily waive those rights in a valid plea agree
+

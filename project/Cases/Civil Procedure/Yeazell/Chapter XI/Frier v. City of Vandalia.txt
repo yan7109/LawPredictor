@@ -1,0 +1,27 @@
+Citation
+770 F.2d 699 (7th Cir. 1985)
+
+Brief Fact Summary
+Frier (P) sued Vandalia (D) for the recovery of his car wrongfully possessed by the latter. He lost the suit and then sued Vandalia (D) again in federal court under the Civil Rights Act S. 1983 for depriving him of his car without letting him have due process of law in the matter.
+
+Synopsis of Rule of Law
+The doctrine of claim preclusion prevents a second claim from being filed for a transaction which gave rise to a first suit with the same cause of action and claim.
+
+Facts
+The Vandalia (D) police resorted to having a garage tow Frier’s (P) car which was parked illegally, in traffic. Frier (P) did not get a traffic citation nor was he appointed a hearing before the car was towed or after he refused to pay the needful fee to have it returned. He sued the town and the garage for recovery of his car which had allegedly been wrongfully possessed by them. The trial court ruled that Vandalia (D) exercised a legitimate right in towing Frier’s (P) car which was obstructing traffic, and so did not grant replevin. The plaintiff filed a federal suit under 42 U.S. C.  S 1983, claiming relief and damages as well as compensation from Vandalia (D) on the grounds that it had deprived him of his car without a fair trial or other due process. The suit was dismissed by the district court since it did not state a foundation for the right to relief. Frier (P) appealed arguing that he could still file a federal case using a different theory than the one which gives grounds for his state court suit.
+
+Issue
+When a suit arising out of a transaction has been finally disposed of on its merits by a court having jurisdiction, does the rule of claim preclusion mean that a second suit cannot be filed based on the same transaction?
+
+Held
+(Easterbrook, J.)e of  Yes. Claim preclusion means that a second suit is disallowed where the first suit arose out of the same transaction. This means that a matter once finally disposed of by a court having jurisdiction cannot be litigated again on the same basis. This rule is also called res judicata, or a matter already judged. It aims at making the parties to a suit collect all closely related material for judgment in the same suit, so that the defendants may not be unduly troubled by more than one case on the same issue, and to prevent the cost of litigation from being incurred multiple times for the same set of facts and issues presented under multiple theories of liability. In this instance, Frier (P) could have presented both theories of replevin (claim and delivery) and the violation of civil rights in his suit filed in the state court. Both these theories had the same allegation, that Vandalia (D) towed and detained his car without due process of law by not determining a violation of parking laws. The district court was right to dismiss the federal case but should not have reached the stage of considering the merits. The plaintiff was precluded from filing a federal case. The decision is affirmed
+
+Dissent
+N/A
+
+Concurrence
+(Swygert, J.) The plaintiff’s suit should have been dismissed on summary judgment but not properly on claim preclusion. This is because Illinois law is relevant in this case. Under this standard, claim preclusion is based on the common cause of action based on a common core of operative facts. In such a case, the evidence being the same, one suit finally disposed of bars a second suit based on the same set of facts. In Frier’s (P) case, the first suit hinged on whether his right to possession of the car was valid, which would depend on whether his parking was legal or not. The second suit, however, was based on S 1983, that is, whether he had the benefit of due legal process before he was deprived of property. This turns on whether he had intimation that parking in the spot where he did carried the consequence of being towed, and whether he had a fair hearing on the detention of his car. These two causes of action being different, the traditional rule of claim preclusion does not apply. It is relevant to note that the question of whether he could have brought both causes in the same suit does not matter in this interpretation, unlike the restatement rule of claim preclusion followed by most judges.
+
+Discussion
+Both Judge Easterbrook and Judge Swygertgave as their opinion that Frier’s (P) second suit was not allowable under the “same transaction” or Restatement rule of claim preclusion or  res judicata. Judge Swygert pointed out that if the narrower traditional definition of claim preclusion was used, based on the “common core of operative facts”, claim preclusion was not applicable here. Most state courts and federal courts, unlike Illinois, follow the Restatement rule which has been recorded in the Restatement (Second) of Judgments S 24 (1982).
+

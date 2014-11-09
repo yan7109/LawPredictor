@@ -1,0 +1,21 @@
+Citation
+22 Ill.212 U.S. 481, 29 S. Ct. 304, 53 L. Ed. 613 (1909)
+
+Brief Fact Summary
+A corporation was held criminally liable for unlawful act of its agent in the payment of rebates to another company.
+
+Synopsis of Rule of Law
+A corporations may be held criminally liable for the acts of its agents acting within the scope of their authority.
+
+Facts
+The Defendant corporation, New York Central & Hudson River Railroad Co. (Defendant), together with a managing agent within the corporation, were convicted of violating a federal law prohibiting the payment of rebates. Specifically, the corporation was prosecuted for the payment of rebates to the American Sugar Refining Company arising out of shipments of sugar from New York to Detroit. The Defendant was prosecuted under the “Elkins Act”, 32 Stat. 847, which held a corporation criminally liable for unlawful acts of its agents.
+
+Issue
+Is a corporation criminally responsible for the unlawful acts of its agent acting within the scope of authority conferred upon them by the corporation?
+
+Held
+Yes.
+
+Discussion
+This important case took away the immunity from criminal prosecution that corporations previously enjoyed. The court’s reasoning was that insomuch as the corporation could be imputed with the knowledge of the actions its employees were taking in the course of their employment, any criminal culpability for those actions – should they be in violation of law – could also be imputed to the corporation.
+

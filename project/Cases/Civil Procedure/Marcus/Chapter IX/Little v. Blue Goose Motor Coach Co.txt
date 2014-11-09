@@ -1,0 +1,21 @@
+Citation
+346 Ill. 266, 178 N.E. 496, 1931 Ill.
+
+Brief Fact Summary
+Dr. Robert M. Little (Little), now deceased, collided with a passenger bus, owned and operated by Blue Goose Motor Coach Company (Defendant), in the city of East St. Louis, Missouri. Defendant filed suit with a justice of the peace to recover for damage to the bus caused by the collision. Judgment was entered in favor of Defendant in the amount of $139.35. The case was proceeding before the justice of the peace, while executrix of Little’s estate, Mabel A. Little (Plaintiff) filed suit in the City Court of East St. Louis to recover damages for personal injuries alleged to have been suffered by him in the collision.
+
+Synopsis of Rule of Law
+Estoppel by verdict arises when a material fact in any litigation has been determined in a former suit between the same parties or between parties with whom the parties to the subsequent suit are in privity, when the fact was also material to the issue.
+
+Facts
+Defendant raised the defense of estoppel by verdict in the trial court, but judgment was nevertheless entered in favor of Plaintiff in the amount of $5,000.00. The Illinois Appellate Court reversed the judgment award.
+
+Issue
+Does a previous judgment by a justice court constitute an estoppel by verdict as to a subsequent action involving the same issues, parties and transaction?
+
+Held
+The Plaintiff is precluded from maintaining an action based on the doctrine of estoppel by verdict. Since the verdict award in the case before the justice of the peace was premised upon a theory of negligence, that same issue of negligence cannot be the basis for a subsequent wrongful death action.
+
+Discussion
+The court noted that the issue, negligence, was the same in both of the suits. Additionally, the court found that the cause of action is the wrongful act leading to the death, not the death itself. As a result, the claims that were maintained in the two actions are also the same. Since Plaintiff did not appeal the decision of the justice of the peace, that decision became final and, as a result, subject to estoppel by verdict. Estoppel by verdict is now also termed collateral estoppel.
+

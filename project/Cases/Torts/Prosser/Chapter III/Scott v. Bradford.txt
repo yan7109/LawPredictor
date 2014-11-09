@@ -1,0 +1,21 @@
+Citation
+340 Fed. Appx. 62
+
+Brief Fact Summary
+After suffering from complications of surgery, the Plaintiff, Mss. Scott (Plaintiff), seeks recovery from the Defendant doctor alleging he failed to inform her of the risks.
+
+Synopsis of Rule of Law
+To establish a breach of duty of informed consent, a patient must establish they would not have elected treatment had they been made aware of the risks.
+
+Facts
+The Defendant performed a hysterectomy on the Plaintiff. Before the surgery, the Plaintiff signed a routine consent form. After the hysterectomy, the Plaintiff experienced incontinence as a result a complication of the hysterectomy. The problem was corrected by three subsequent surgeries performed by a different doctor. The Plaintiff alleges that the Defendant failed to inform her of the risks involved or the alternatives to the hysterectomy. The Plaintiff testified that if she had known of the risk of incontinence, she would not have elected the surgery.
+
+Issue
+Whether the Plaintiff must establish that a reasonable person would not have elected treatment if informed of the risks, or if they must merely show that they would not have elected treatment.
+
+Held
+To sustain a cause of action in a theory of informed consent, a patient must show that:
+
+Discussion
+In a departure from the rule established in an earlier case, the court reasoned that if the patient can show they would not have elected the procedure had they been properly informed, then a malpractice case against the doctor can be maintained. The former rule established an objective standard for informed consent that required the patient to establish that a reasonable person in their position would have refused treatment. The court elects to follow a subjective standard in this case to maintain a patient’s right of self-determination.
+

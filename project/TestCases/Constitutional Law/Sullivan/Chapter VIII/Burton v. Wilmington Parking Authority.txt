@@ -1,0 +1,24 @@
+Citation
+365 U.S. 715,81 S. Ct. 856,6 L. Ed. 2d 45,1961 U.S.
+
+Brief Fact Summary
+A restaurant owner who refused to serve the Appellant, Burton (Appellant), food based on his race was held by the Supreme Court of the United States (Supreme Court) to be a state actor because he leased his restaurant space from the state. The building was designed for public use and service and the building had state symbols.
+
+Synopsis of Rule of Law
+It has always been clear that since the [Civil Rights Cases], private conduct abridging individual rights does no violence to equal protection unless to some significant extent, the state in any of its manifestations has been found to be involved in it. The inquiry must be whether there is a sufficiently close nexus between the state and the alleged action of the regulated entity so that the action of the latter may be fairly treated as that of the state itself.
+
+Facts
+A Wilmington, Delaware restaurant in an off-street automobile parking building refused to serve Appellant food because he was black. The parking building was owned by the Appellee, the Wilmington Parking Authority (Appellee), an agency of the state of Delaware and the restaurant is the Appellee’s lessee. The Delaware Supreme Court held that the restaurant was acting in a “purely private capacity” under its lease. It also held that its action was not that of the Appellee and was not, therefore, a state action. Further, it also held pursuant to a Delaware code that the restaurant was not an inn and that as such, it “is not required [under Delaware law] to serve any and all persons entering its place of business.”
+
+Issue
+Whether the restaurant owner is a state actor?
+
+Held
+Yes. Judgment of the Delaware Supreme Court reversed and remanded for further proceedings. The Appellee was created to provide adequate parking facilities for the convenience of the public. Its first project was the erecting of a parking facility. The Appellee was advised by experts that the anticipated revenue from the parking of cars and proceeds from that sale of bonds would not be sufficient to finance the construction and costs of the facility. To secure additional capital, the Appellee entered into long-term leases. Since the restaurant owner here was a lessee of Appellee, his actions constituted that of the state. Therefore, exclusion of the Appellant was discriminatory state action.
+
+Dissent
+It is unclear what is in the record that satisfies the requirement of “state action.” This case should first be sent back to the state court for clarification as to the precise basis of its decision.
+
+Discussion
+This case illustrates that where there is a symbiotic relationship between a private party and the state, the private party’s action may likely be a state action as well.
+

@@ -1,0 +1,24 @@
+Citation
+95 Wn.2d 341,622 P.2d 850, 1980 Wash.
+
+Brief Fact Summary
+A man conducted business and married in one state. The couple moved to another state, and his creditor is looking to collect from both their properties.
+
+Synopsis of Rule of Law
+When a person incurs a debt and then moves to another state with different rules on marital property, the state where the debt was incurred will apply, if the parties believed at the time the transaction was entered into that that law would apply.
+
+Facts
+Conrad C. Lapp (Defendant) acquired all the stock of a fruit company in Colorado. He later married in Colorado, but the stock remained his sole property. In order to assist Defendant and enable the company to stay in business, Pacific Gamble Robinson Company (Petitioner) agreed to continue supplying produce if Defendant agreed to sign a promissory note on which he would be personally liable along with the fruit company. Defendant’s wife did not sign the note, and only his earnings and property were subject to the debt. Defendant defaulted on the note and moved to Washington. Petitioner brought suit to recover against the company, Defendant, and the marital property.
+
+Issue
+Is a creditor of one spouse in a foreign, non-community property state where both spouses are domiciled, limited in recovery to the separate property of the obligor spouse, after the couple moves to Washington?
+
+Held
+Yes.
+
+Dissent
+The effect of the majority’s analysis is to permit out-of-state creditors to collect his debt from assets in this state, which our law would forbid to a local creditor who has no claim to community property.
+
+Discussion
+When a married couple moves to another state, a problem often arises on how their assets should be considered: they are either separate or community property. Here, the court decided that the law to be applied should be the law of the state in which the parties expected it to be governed.
+

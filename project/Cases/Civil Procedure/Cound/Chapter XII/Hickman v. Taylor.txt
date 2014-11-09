@@ -1,0 +1,21 @@
+Citation
+22 Ill.329 U.S. 495, 67 S. Ct. 385, 91 L. Ed. 451 (1947)
+
+Brief Fact Summary
+The Petitioner, Hickman (Petitioner), representative of a deceased crewmember in a fatal tugboat accident, sought oral and written discovery collected by the Defendant’s attorney in anticipation of litigation. The Defendants in this matter were the tug boat operators.
+
+Synopsis of Rule of Law
+Written and oral materials taken by a party’s counsel in the course of preparation for litigation is not considered protected by the attorney-client privilege, but is considered the work product of the attorney. Absent necessity or justification, attorney work product is not discoverable.
+
+Facts
+A tugboat sank while helping to tow a car float operated by the Baltimore & Ohio Railroad across the Delaware River in Philadelphia. Five of the nine crew members drowned. Three days later, the tugboat owners and underwriters hired a law firm in anticipation of litigation, of which Fortenbaugh was a member. A public hearing was held before the United States Steamboat Inspectors at which the 4 surviving crewmembers were examined. The testimony was recorded and made available to all interested parties. Shortly afterwards, Respondent, Fortenbaugh (Respondent), interviewed the surviving crewmembers and had them sign their statements. He also interviewed other people who were involved with or had knowledge of the accident and wrote memoranda of their conversations. Representatives of the five deceased crewmembers brought claims against the tugboat owners and four settled. The Petitioner brought suit in federal court naming as defendants the tugboat owners as joint and severally liable as well as the railroad. Petitioner filed 39 interrogatories directed to the tug owners. The 38th interrogatory asked for copies of any statements of crewmembers relating to the accident. Supplemental interrogatories asked for any written or oral statements, reports, records, or memoranda taken by Defendants. The tugboat owners answered all interrogatories except for number 38 and the supplemental interrogatories. They admitted that statements had been taken, but that they were privileged. The District Court for the Eastern District of Pennsylvania held that the requested matters were not privileged and ordered the production of information asked for in the 38th and supplemental interrogatories. Defendants and Respondent refused to comply and were held in contempt and ordered imprisoned until they did so. The Third Circuit Court of Appeals reversed the lower court’s judgment stating the sought information was the attorney’s work product.
+
+Issue
+To what extent may a party inquire into oral and written statements of witnesses, or other information, secured by an adverse party’s counsel in the course of preparation for possible litigation after a claim has arisen?
+
+Held
+Absent a showing of necessity or justification, attorney work product is undiscoverable. Judgment of the Circuit Court of Appeals affirmed.   Concurrence. United States Supreme Court Justice Jackson (J. Jackson) concurred that a trial is a “battle of wits between counsel.” A common law trial is and always should be an adversary proceeding. Discovery was hardly intended to enable a learned profession to perform its functions either without wits or on wits borrowed from the adversary. “I can conceive of no practice more demoralizing to the Bar than to require a lawyer to write and deliver to his adversary an account of what witnesses have told him.”
+
+Discussion
+Where relevant and non-privileged facts remain hidden in an attorney’s file and where production of those facts is essential to the preparation of one’s case, discovery may properly be had. However, the burden is on the party who wishes to invade the veil of attorney work product to justify production through a subpoena or court order.  The Petitioner in this case made no attempt to show necessity or justification that his case would all apart if adverse counsel did not give up his work product. Absent that showing, courts will not overarch the protections of the Federal Rules of Civil Procedure (FRCP) with regard to the already liberal discovery rules.
+

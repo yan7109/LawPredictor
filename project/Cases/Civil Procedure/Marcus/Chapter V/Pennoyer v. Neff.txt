@@ -1,0 +1,18 @@
+Citation
+95 U.S. 714, 5 Otto 714, 24 L. Ed. 565 (1878)
+
+Brief Fact Summary
+This case arises from the initial action taken by J.H. Mitchell (Plaintiff) against Pennoyer (Defendant) in Oregon, for the alleged nonpayment of legal fees. A default judgment was entered against Pennoyer, a nonresident of Oregon, after notice by publication. The second action is a suit by Pennoyer (Plaintiff) to recover possession of a tract of land, which Neff (Defendant) acquired under a sheriff’s deed, made upon sale of property on execution issued upon a judgment recovered against Pennoyer in the prior action. <span class='heading'>Synopsis of Rule of Law.</span> A court can enter a valid judgment in personam when jurisdiction has been obtained by personal service of process in the state, no matter how briefly the defendant was present within the state.
+
+Facts
+After filing the initial suit, Mitchell submitted an affidavit that stated that Neff was a resident of the State of California. As a result of that affidavit, the Circuit Court of the United States for the District of Oregon allowed Mitchell to serve notice to Neff by publication once a week for six weeks in a paper of general circulation in Multnomah County, Oregon. After publication, Mitchell’s Judgment by Default was entered againt Neff. As a consequence, Pennoyer’s land, which was located in Oregon, was sold to Neff at a sheriff’s sale.
+
+Issue
+Whether a state may properly exercise personal jurisdiction over an individual defendant, who is not present or available within the state to be personally served, if that individual defendant owns property within the boundaries of the forum state?
+
+Held
+No. A state may properly exercise jurisdiction over the property within its borders. However, in this case, the property was foreclosed against in order to satisfy a personal judgment against a nonresident debtor. When the object of an action is to determine the rights of a nonresident debtor in a proceeding in personam, seizure of the property in question does not satisfy the Fourteenth Amendment’s requirement of notice to the defendant.
+
+Discussion
+The Supreme Court of the United States distinguishes in personam jurisdiction from in rem jurisdiction. A judgment is in personam when it makes a defendant personally liable. As such, the judgment is personal to the defendant. Alternatively, in rem jurisdiction focuses on property, and the mere physical presence of property within the state allows the court to adjudicate the rights that any individual holds in the property in question, no matter if those individuals are located within, or ever physically come to, the adjudicating state.
+

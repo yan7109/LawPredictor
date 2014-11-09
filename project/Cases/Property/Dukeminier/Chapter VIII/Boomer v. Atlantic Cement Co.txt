@@ -1,0 +1,24 @@
+Citation
+26 N.Y.2d 219, 257 N.E.2d 870, 309 N.Y.S.2d 312, 1970 N.Y.
+
+Brief Fact Summary
+Neighborhood property owners sued for damages and an injunction against a cement plant they alleged caused a nuisance.
+
+Synopsis of Rule of Law
+When a nuisance is of such a permanent and unabatable nature that a single recovery can be had, there can be only one recovery.
+
+Facts
+The Defendant, Atlantic Cement Co. (Defendant), operated a large cement plant near Albany. The Plaintiffs, neighboring property owners (Plaintiffs) filed suit seeking an injunction and damages for injury to property from smoke, dirt and vibrations from the plant. Both lower courts ruled that the Defendant maintained a nuisance, but found that the value of the Defendant’s operation outweighed the consequences of the injunction. Plaintiffs appealed.
+
+Issue
+Whether against current state policy, could a single recovery be had without the court issuing a permanent injunction?
+
+Held
+Reversed. The trial court will grant the injunction. The injunction will be vacated upon the payment of permanent damages to Plaintiffs, which would compensate them for present and future economic loss to their property.
+
+Dissent
+The dissent agreed with the reversal of the trial court by the majority, but disagreed with the award of damages in lieu of a permanent injunction where substantial property rights have been impaired. The dissent believed that by overruling the long established rule of granting injunctions, the court is allowing ongoing wrongs to be continued via payment of a fee.
+
+Discussion
+The court discussed their relative concerns deciding cases involving companies that pollute the air. This type of decision would essentially result in regulating pollution, a government function and not a court function. The court noted that New York law had been that a nuisance would be enjoined although marked disparity is shown in economic consequences to the parties concerned. The court ruled that application of this rule would impose a drastic remedy inappropriate in this case. The court then analyzed two possible avenues: (1) grant an injunction, but postpone it’s effectiveness to allow for technological advances that would eliminate the nuisance or (2) grant an injunction conditioned on payment of permanent damages to the plaintiffs. The court determined that the best solution was to grant an injunction on the condition of permanent damages so that the plaintiffs would be afforded relief as well as preventing repetitive lawsuits and avoid the appearance of regulati
+

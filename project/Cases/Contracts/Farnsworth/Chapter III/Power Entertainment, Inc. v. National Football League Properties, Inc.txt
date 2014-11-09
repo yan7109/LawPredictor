@@ -1,0 +1,21 @@
+Citation
+151 F.3d 247, 1998 U.S. App. 18733
+
+Brief Fact Summary
+Plaintiff Power Entertainment, Inc., and Defendant, National Football League Properties, Inc., orally agreed that Plaintiff would take over the licensing agreement between Defendant and Pro Set, Inc. in exchange for Plaintiff assuming the debt of Pro Set, Inc. to Defendant in the amount of approximately $800,000.
+
+Synopsis of Rule of Law
+Under the “main purpose doctrine,” the suretyship statute of frauds provision, which requires that any promise to answer for the debt of another must be in writing, does not apply whenever the main purpose for making the promise to answer for the debt of another is to serve oneself and not to answer for another.
+
+Facts
+Defendant agreed to transfer to Plaintiff a license to sell NFL collectible cards in exchange for a promise by Plaintiff to assume the debt of Pro Set, Inc., which filed for bankruptcy. The agreement was not memorialized in writing, and Defendant subsequently refused to transfer the licensing agreement to Plaintiff.
+
+Issue
+Should the case be dismissed for the reason that the oral agreement is unenforceable against the defendant under the suretyship statute of frauds?
+
+Held
+No. The purpose of the suretyship statute of frauds is to protect the person alleged to have guaranteed the debt of another. Here, however, it is the party who has guaranteed the debt of another who wants to have the contract enforced. Under the “main purpose doctrine,” the suretyship statute of frauds does not apply where the main purpose of the surety is not to answer for the debt of another but rather to serve his own purposes. Hence, since Plaintiff wishes to have the contract enforced, the main purpose doctrine applies, and the suretyship statute of frauds does not apply.
+
+Discussion
+Contrary to the requirements of the statute of frauds, a contract wherein one party answers for the debt of another does not have to be in writing provided the party guaranteeing the debt is doing so to serve his own purposes and not to help the one whose debt his is guaranteeing.
+

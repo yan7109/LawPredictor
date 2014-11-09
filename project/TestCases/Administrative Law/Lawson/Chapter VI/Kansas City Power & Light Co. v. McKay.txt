@@ -1,0 +1,21 @@
+Citation
+25 F.2d 924, 96 U.S. App. D.C. 273 (D.C. Cir. 1955)
+
+Brief Fact Summary
+Kansas City Power & Light Company (Plaintiff-Appellants) sought to enjoin several federal agencies from undertaking contractual arrangements on the grounds that they would thwart Plaintiff-Appellants’ plans to expand their facilities.
+
+Synopsis of Rule of Law
+Section:10(a) of the APA provides standing for persons “suffering a legal wrong” or “adversely affected or aggrieved,” but the injury must be real. The sole injury of competitive harm is insufficient.
+
+Facts
+Plaintiff-Appellants were electric power companies who supplied electric service to a large number of customers in Kansas, Missouri and Arkansas, and had plans, in various stages, to expand their facilities. Plaintiff-Appellants sought relief against a federally-supported power program under the Declaratory Judgment Act, as well as Section:10(a) of the APA, claiming the contractual arrangements of the federal agencies would thwart their plans to expand.
+
+Issue
+Could utility companies who claimed they were in competition with a federally- supported power program obtain the aid of courts to challenge the validity of the program?
+
+Held
+No.   The essence of plaintiffs’ complaint was that they would suffer competition if the Government contracts were carried out. The defendants did not attempt to regulate them in any way, nor subject them to any obligation or duty. Therefore, plaintiff-appellants could not claim an interest or injury.  Section:10(a) is for the benefit of “any person suffering a legal wrong,” and plaintiff- appellants could not effectively make that claim; nor claim they were “adversely affected or aggrieved.”   Dissent. Judge Prettyman read the Petitioner’s complaint to allege total destruction from the illegal government contracts, and felt this a sufficient legal wrong within APA Section:702.  Concurrence. None.
+
+Discussion
+The Court’s understanding of Section:702 in this case left a fair number of agency decisions effectively unreviewable. In the absence of a special review statute that expands the permissible class of plaintiffs, the common law legal interest test denies standing for the sole injury of competitive harm, as well as to plaintiffs whose interests are ideological or aesthetic.
+

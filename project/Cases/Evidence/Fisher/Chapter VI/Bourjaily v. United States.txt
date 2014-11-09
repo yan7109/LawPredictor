@@ -1,0 +1,27 @@
+Citation
+483 U.S. 171, 107 S. Ct. 2775, 97 L. Ed. 2d 144, 1987 U.S.
+
+Brief Fact Summary
+Petitioner, Bourjaily, was charged with conspiring to distribute cocaine and possession of cocaine after he attempted to buy cocaine from an FBI informant through his co-conspirator Angelo Lenardo.  Petitioner objected to the admission of taped conversations between Lenardo and the informant.
+
+Synopsis of Rule of Law
+A statement by a co-conspirator is admissible evidence under Rule 801 (d)(2)(E) of the Federal Rules of Evidence.
+
+Facts
+Lenardo mentioned to the informant that he had a potential buyer of cocaine in Petitioner.  The conversations between the informant and Lenardo were taped. Lenardo arranged for the informant and Petitioner to meet him in a parking lot where Petitioner gave Lenardo money in exchange for cocaine that came from the informant.  At trial, Lenardo would not testify against Petitioner, and therefore the prosecution introduced the taped conversations between the informant and Lenardo regarding Petitioner’s cocaine purchase.
+
+Issue
+The issue is whether the statements made by the co-conspirator are admissible hearsay against Petitioner.
+
+Held
+The lower court correctly determined that the requirements for admitting the co-conspirator’s statements have been met.  The standard of review for the initial determination of whether a co-conspiracy exists for the purposes of applying Rule 801 (d)(2)(E) is a preponderance of the evidence, and the evidence available met that threshold.  The court is allowed to look at the hearsay statements in making that determination.  Since the requirements of Rule 801 (d)(2)(E) are the same requirements of the Confrontation Clause of the United States Constitution, the fact that the Rule’s requirements were met indicate that Petitioner’s constitutional rights were protected.
+
+Dissent
+The dissent argues that there must evidence independent of the offered statements to prove the conspiracy.  If the majority is going to transform the co-conspirator exception so much, it should no longer be considered a firmly rooted exception and should go back to the trial judge to find evidence of trustworthiness.
+
+Concurrence
+Justice John Paul Stevens concurs but disagrees with the precedent of allowing statements themselves to be used as the proof of whether a conspiracy exists.
+
+Discussion
+The co-conspirator exception not only allows statements by co-conspirators to come in as a hearsay exception, but the statements themselves can be used to determine if there is a conspiracy for the purposes of letting the statements in.
+

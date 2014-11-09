@@ -1,0 +1,21 @@
+Citation
+36 Cal. App. 4th 1143, 43 Cal. Rptr. 2d 163, 1995 Cal. App. 665, 95 Cal. Daily Op. Service 5606.
+
+Brief Fact Summary
+The Defendant, Theodore Whight (Defendant), discovered that the ATM card connected to his defunct checking account could still be used to obtain cash at four local Safeway stores. For several weeks he used this glitch to withdraw thousands of dollars from the Safeway machines. After this glitch was noticed, the Defendant was convicted by a jury of four counts of grand theft by false pretenses.
+
+Synopsis of Rule of Law
+To support a conviction of theft for obtaining property by false pretenses, it must be shown: (1) that the defendant made a false pretense or representation; (2) that the representation was made with intent to defraud the owner of his property and (3) that the owner was in fact defrauded in that he parted with his property in reliance upon the representation.
+
+Facts
+The Defendant opened a regular checking account at Tri Counties Bank in January of 1991. The Defendant was issued an ATM card with no expiration date. Although the account was opened with $3,750.99 in funds, eventually the account was depleted and became overdrawn by $6.17. As a result, the bank mailed a letter to defendant indicating that deposits sufficient to cover the deficiency needed to be made. When the Defendant failed to make the necessary deposit, the account was closed and the ATM card was viewed, from the bank’s point of view, as canceled. Although the account was canceled, the Defendant was able to use the ATM card at four Safeway stores to obtain more than $19,000 in March and April of 1992. The ATM terminals in the stores were connected to a computer system operated by Wells Fargo Bank. The Defendant was able to receive funds because it was Safeway policy to provide a stand-in approval code if and when Wells Fargo was unable to verify account information in a ti
+
+Issue
+Can the Defendant be acquitted because Safeway relied, in part, on the information provided by Wells Fargo?
+
+Held
+The Defendant should be convicted of the charge of false pretenses. The computer system that Safeway employed never, in fact, approved the defendant’s transactions. As a result, Safeway had nothing to rely upon except for the Defendant’s implicit representation that his ATM card was valid.
+
+Discussion
+The representation element necessary for proof of false pretenses was examined by the court in this case. The court found that the representation element may be satisfied by pure conduct and may either be express or implied. As a result, when the Defendant repeatedly proffered his ATM card he impliedly represented, falsely, that it was valid. The Third District Court of Appeals held that it did not matter that Safeway, through its agents, did a factual investigation through the Wells Fargo system. The fact that the Safeway agents relied, in part, on the Defendant’s conduct was enough to satisfy the requirements for a conviction on the charge of false pretenses.
+

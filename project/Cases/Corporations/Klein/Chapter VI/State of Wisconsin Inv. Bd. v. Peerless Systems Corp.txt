@@ -1,0 +1,21 @@
+Citation
+No. 17637, 2000 BL 668 (Del. Ch. Jan. 05, 2000)<br />
+
+Brief Fact Summary
+Plaintiff, the State of Wisconsin Investment Board, brought this action against Defendants, Peerless Systems Corporation and CEO Edward Gavaldon, for the violation of their fiduciary duties when they adjourned a shareholders meeting without closing the vote on a stock option proposal.
+
+Synopsis of Rule of Law
+Absent proof that the primary purpose of a director’s action was to interfere with the shareholders’ voting rights, courts will apply the business judgment rule test to review the director’s actions.  If there is proof indicating interference of the rights, the court will require a defendant to justify their actions.
+
+Facts
+Plaintiff held 7 to 9 percent of Defendant company’s shares.  Defendants released a proxy statement that notified shareholders that one of the proposals presented at the annual meeting would provide another 1 million stock option shares for the directors of Defendant company.  Plaintiff notified Defendants that they would vote against this proposal because it would dilute the shares available in the option program by 33 percent.  Plaintiff also contacted other owners and requested that they vote against the proposal.  At the annual meeting, Defendants offered three proposals.  Two of the proposals easily passed, but when it became apparent that the stock option proposal would fail, the meeting was adjourned with the polls still open on the stock option proposal.  A shareholder meeting reconvened thirty days later and the proposal passed by a very slim margin.  During the thirty days, Gavaldon actively solicited shareholders yet to vote who he knew were more likely to vote in f
+
+Issue
+The issue is whether Gavaldon’s decision to adjourn the meeting without closing the vote on the stock option proposal, and his subsequent actions before the passage of the proposal, breached a fiduciary duty owed to the shareholders.
+
+Held
+The court held that there was no requirement for a shareholder to be present at a meeting to voice an objection because that would be unduly burdensome to shareholders who may not have the means to get to every shareholder meeting.  The court allowed Defendants’ summary judgment motion as it pertained to false or misleading statements because Plaintiff offered no reasonable proof, but the court denied the remaining summary judgment motions.  Because there was evidence that Defendants interfered with the shareholders’ voting rights, the court applied the rule stated in Blasius Indus. v. Atlas Corp., (Del. Ch., 564 A.2d 651, 659, 669 (1988)) which places the burden upon Defendants to justify their decisions.
+
+Discussion
+The court would have applied the business judgment rule but for the fact that there was evidence that demonstrated that Defendants’ purpose of the adjournment was to frustrate the shareholders’ voting rights.  Affidavits indicated that if the proposal was going to pass at the initial meeting then the voting would have been closed by Defendants.
+

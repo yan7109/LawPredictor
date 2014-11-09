@@ -1,0 +1,24 @@
+Citation
+394 U.S. 618, 89 S. Ct. 1322, 22 L. Ed. 2d 600, 1969 U.S. 3190.
+
+Brief Fact Summary
+Certain states enacted statutes denying welfare assistance to residents who had not lived in their jurisdictions for at least one year. The constitutionality of the statutes is brought into question.
+
+Synopsis of Rule of Law
+One year waiting requirements for eligibility to a State’s welfare benefits violate the Equal Protection Clause of the Fourteenth Amendment inasmuch as they impose upon the fundamental right to travel.
+
+Facts
+Appellants, certain states and the District of Columbia, enacted statutes denying welfare assistance to residents who had not lived resided their jurisdictions for at least one year immediately preceding such residents’ requests for assistance. The primary purpose for the waiting periods was to preserve the fiscal integrity of the Appellants’ public assistance programs (additional purposes are listed were relevant in the reasoning section below). Thus, the programs were targeted at keeping needy newcomers out on the theory that such persons were more likely to become continuing burdens on State welfare programs.
+
+Issue
+Did the laws restricting welfare benefits to those who had lived in a location for at least one year constitute a violation of equal protection?
+
+Held
+Yes. The lower court is affirmed.
+
+Dissent
+Chief Justice Warren: Congress has authorized the States to impose residence requirements. Therefore, the question before us should have been framed in terms of whether Congress may create minimal residence requirements, not whether the states acting alone, may do so. Certainly, Congress, through the states, may impose these residence requirements pursuant to its Commerce Clause powers.
+
+Discussion
+The Supreme Court approaches this case methodologically by declaring (1) that the right to travel is a fundamental right and (2) that a classification is made here on the basis of the same right, thereby requiring the Supreme Court, pursuant to the Fourteenth Amendment, to evaluate the classification with strict scrutiny standard of review.
+

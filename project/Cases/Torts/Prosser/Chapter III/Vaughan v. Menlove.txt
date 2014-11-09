@@ -1,0 +1,18 @@
+Brief Fact Summary
+Defendant paced a stack of hay near cottages owned by Plaintiff. Defendant was warned that there was a substantial possibility that the hay would ignite, and Defendant replied that he would “chance it”. The hay eventually did ignite and burn Plaintiff’s cottages, and Plaintiff sued to recover for their value.
+
+Synopsis of Rule of Law
+The standard for negligence is an objective one. One has behaved negligently if he has acted in a way contrary to how a reasonably prudent person would have acted under similar circumstances.
+
+Facts
+Defendant was warned that his haystacks posed a substantial risk of igniting and damaging Plaintiff’s cottages. He disregarded these warnings and kept the hay in place. The hay did ignite and damage Plaintiff’s cottages, and Plaintiff brought suit for negligence. The trial court instructed the jury that the issue was whether the fire was occasioned by gross negligence, and explained that Defendant was bound to act as a reasonable man would have under the circumstances. The jury found for Plaintiff, but Defendant obtained a ruling on the ground that the jury should have been instructed to find negligence only if it found Defendant had not acted to the best of his own judgment.
+
+Issue
+Was the trial court correct in instructing the jury that whether or not Defendant had been negligent was to be evaluated from an objective standpoint, not taking Defendant’s intellectual limitations into account.
+
+Held
+Yes. The standard of negligence is an objective one. The ruling was discharged.
+
+Discussion
+This case rejects the argument that a Defendant’s particular sensibilities or weaknesses should be taken into account in evaluating negligence claims. Rather, one must look only to whether one has acted as would a reasonably prudent person under similar circumstances.
+

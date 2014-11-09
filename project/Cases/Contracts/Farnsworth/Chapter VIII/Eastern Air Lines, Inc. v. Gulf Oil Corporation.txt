@@ -1,0 +1,21 @@
+Citation
+415 F. Supp. 429 (S.D. Fla. 1975)
+
+Brief Fact Summary
+The Plaintiff, Eastern Air Lines, Inc. (Plaintiff), sued the Defendant, Gulf Oil Corporation (Defendant) for breach of contract. Among other issues, the Defendant defended the action by alleging that the contract was void as commercially impracticable.
+
+Synopsis of Rule of Law
+A mere showing of unprofitability, without more, will not excuse performance under a contract.
+
+Facts
+The parties entered into an agreement for the Defendant to provide the Plaintiff with jet fuel in certain specified cities. To set prices, the parties utilized an “indicator” that is bought and sold in large volume and was therefore a reliable gauge of market value of crude oil. The price of said indicator was determined, according to the contract, by reference to the prices listed in Platts Oilgram Service – Crude Oil Supplement (Platts). Subsequent to the entering into of the agreement, the government implemented certain price controls referred to as “two-tier.” In short, the effect of the “two-tier” controls is that Platts discontinued publishing the posted prices of oil not subject to government controls. Rather, only the “old” oil prices, i.e. prices subject to government controls, were published in Platts. Therefore, in order to comply with the unambiguous terms of the contract, the Defendant was required to sell at the prices published in Platts that were controlled by
+
+Issue
+Was the Defendant’s performance under the contract commercially impracticable?
+
+Held
+No. In order for performance to be commercially impracticable under the Uniform Commercial Code (UCC), the unforeseen cost increase that excuses performance “must be more than merely onerous or expensive. It must be positively unjust to hold the parties bound.” In other words, unprofitability alone will not excuse performance. Here, the Defendant’s argument that the price escalation indicator no longer reflects the intent of the parties is rejected, as the unambiguous terms of the contract clearly evidence an intent to be bound by the specified entries in Platts. Further, the Defendant’s commercial impracticability due to the increase in market price of foreign crude oil and certain domestic crude oils argument also has no merit. Quite simply, the Defendant has not proved the dramatically increased “costs” of production it is alleging. The type of hardship, beyond mere lack of profitability, required to prove commercial impracticability was not established. Therefore, the Defen
+
+Discussion
+Commercial impracticability is defined as economic hardship substantially beyond mere unprofitability.
+

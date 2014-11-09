@@ -1,0 +1,21 @@
+Citation
+2010 U.S. App.<br /><br /><span class='heading'>Brief Fact Summary.</span>  Defendant Libby entered into a written contract to purchase logs from Plaintiff Thompson. Defendant claims that Plaintiff breached an oral warranty as to the quality of the logs.<br /><br /><span class='heading'>Synopsis of Rule of Law.</span>  The parol evidence rule prevents extrinsic evidence from being used to contradict or vary the terms of a written contract that is intended as the full expression of the parties’ agreement.<br />
+
+Brief Fact Summary
+Defendant Libby entered into a written contract to purchase logs from Plaintiff Thompson. Defendant claims that Plaintiff breached an oral warranty as to the quality of the logs.
+
+Synopsis of Rule of Law
+The parol evidence rule prevents extrinsic evidence from being used to contradict or vary the terms of a written contract that is intended as the full expression of the parties’ agreement.
+
+Facts
+Plaintiff entered into a contract with Defendant to sell Defendant logs. The parties put the contract in writing. Defendant alleges that Plaintiff made an oral warranty as to the quality of the logs.
+
+Issue
+Is the evidence of the oral warranty barred by the parol evidence rule?
+
+Held
+Yes. Evidence of the warranty is inadmissible under the parol evidence rule.
+
+Discussion
+In the present case, the Court found that the evidence of a warranty was inadmissible under the parol evidence rule because it added or varied the terms of the parties written contract.
+

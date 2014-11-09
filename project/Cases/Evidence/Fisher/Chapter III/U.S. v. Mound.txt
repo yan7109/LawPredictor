@@ -1,0 +1,21 @@
+Citation
+525 U.S. 1089
+
+Brief Fact Summary
+After his conviction for various sexual abuse crimes involving a minor, Alvin Ralph Mound (Defendant) appeals, challenging the trial court’s decision to allow into evidence a past conviction of Defendant’s for child sexual abuse under Federal Rule of Evidence 413.  After the lower court admitted evidence of the conviction, the jury convicted Defendant and sentenced him to life imprisonment.  Defendant appeal his conviction here.
+
+Synopsis of Rule of Law
+Courts must apply a Rule 403 test to all evidence offered, and Rule 413, so long as it is, “subject to the constraints of Rule 403,” is constitutional.
+
+Facts
+Defendant was accused of sexually abusing his daughter for a period of nearly four years, beginning when she was ten years old.
+
+Issues
+Is Federal Rule of Evidence 413 unconstitutional as applied because it allows punishment for past acts not currently at issue? Is Federal Rule of Evidence 413 unconstitutional as applied because it violates Defendant’s equal protection rights? Was it an abuse of discretion for the lower court to admit Defendant’s prior conviction under Federal Rule of Evidence 413, following a Rule 403 determination? Is it error to admit items into evidence under Rule 413 when the same evidence would be inadmissible under Rule 404(b)?
+
+Held
+Affirmed.
+
+Discussion
+The court reasons that the “cautionary instruction” to the jury guarded against unfair prejudice, and in light of the instruction, the court exercised its discretion in a proper manner.  The cautionary instruction reads:
+

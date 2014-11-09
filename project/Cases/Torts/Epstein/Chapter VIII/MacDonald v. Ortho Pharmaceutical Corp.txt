@@ -1,0 +1,24 @@
+Citation
+474 U.S. 920 106 S. Ct. 250 88 L. Ed. 2d 258 1985 U.S.
+
+Brief Fact Summary
+MacDonald (Plaintiff) suffered a stroke after taking birth control pills manufactured by Ortho Pharmaceutical Corp. (Defendant). Plaintiff sued Defendant for products liability for their failure to warn.
+
+Synopsis of Rule of Law
+The common law duty to warn necessitates a warning comprehensible to the average user, which conveys a fair indication of the nature and extent of the danger to the mind of a reasonably prudent person.
+
+Facts
+Plaintiff received a prescription for contraceptive pills (the pill). Defendant manufactured the pills. The pill dispenser contained a warning required by the United States Food and Drug Administration (FDA), stating that “oral contraceptives are powerful and effective drugs which can cause side effects in some users and should not be used at all by some women, ” and that “the most serious known side effect is abnormal blood clotting which can be fatal.” The word “stroke” did not appear either on the warning or the booklet referred to by the label. As a result of using these pills, Plaintiff suffered a stroke and permanent brain damage. Plaintiff sued Defendant, claiming that Defendant failed to properly warn consumers of the dangers associated with the pills. The jury found that Defendant’s pills caused Plaintiff’s injuries, and that Defendant was liable. However, after the jury verdict, the judge granted Defendant’s Motion for Judgment Notwithstanding the Verdict. The court
+
+Issue
+Must a drug manufacturer of an oral contraceptive directly warn consumers of a drug’s inherent dangers?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+(Justice O’Connor) Defendant adequately warned the consumer by warning the physician.
+
+Discussion
+In this case, the court points out how easy is it to warn Plaintiff of the possible side effects and risks of the pill. The question for the jury is how much warning is enough? Obviously the word “stroke” should not have been omitted. The adequacy of warnings varies from case to case, and from jury to jury.
+

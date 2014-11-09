@@ -1,0 +1,21 @@
+Citation
+898 F. Supp. 1220, 1995 U.S. Dist. 9722, 28 U.C.C. Rep. Serv. 2d (Callaghan) 290
+
+Brief Fact Summary
+First National Bank, (Plaintiff), brought suit against Colonial Bank, (Defendant), contending that Defendant was obligated to honor the checks drawn on its account because it untimely returned the checks.
+
+Synopsis of Rule of Law
+If a payor bank settles for a demand item other than a documentary draft presented otherwise for immediate payment over the counter by midnight of the banking day of receipt the payor may revoke the settlement and recover the settlement if before it has made final payment and before its midnight deadline it returns the item or sends written notice of dishonor or nonpayment if the item is unavailable for return.
+
+Facts
+Both Plaintiff and Defendant were pawns in a check kiting scheme. Shelly International Marketing opened a checking account with Plaintiff. The principals of Shelly International Marketing also opened a checking account with Defendant under the name World Commodities, Inc. The principals then began writing checks on insufficient funds on one account then covering the overdraft by depositing checks drawn on insufficient funds from the other account.
+
+Issue
+Whether Defendant timely returned its checks to Plaintiff two days after the midnight deadline.
+
+Held
+No. In order to protect itself from liability Defendant was required to return its checks by midnight the same day.
+
+Discussion
+Defendant is liable for the full amount Plaintiff lost when Shelly International Marketing absconded with a total of $1,400,00.
+

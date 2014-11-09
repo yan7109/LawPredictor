@@ -1,0 +1,21 @@
+Citation
+148 F.2d 416 (2d Cir. 1945)
+
+Brief Fact Summary
+A suit against the Aluminum Co. of America (D) and Aluminum Limited (D), a Canadian corporation formed to take over the properties of Aluminum Co. of America (D) outside the United States, by the United States (P) on the premise of contravening the Sherman Act by the participation of each company in a foreign cartel called the Alliance.
+
+Synopsis of Rule of Law
+Any state may impose liabilities even upon persons not within its allegiance, for conduct outside its borders that has consequences within its borders that the state reprehends.
+
+Facts
+A Swiss corporation called Alliance, which was a foreign cartel was formed by an agreement entered into in 1931 among a French corporation, two German corporations, one Swiss corporation, one British corporation and Aluminum Limited (D). Aluminum Limited (D) was a Canadian corporation formed to take over properties of the Aluminum Co. of America (D) outside the United States. The agreement in 1932 stipulated for the issuance of shares to signatories and a quota of production for each share, the shareholders to be limited to the quantity measured by the number of shares held by each. Alliance was at liberty to sell at any price it chose. No shareholder was to obtain or sell at any aluminum produced by anyone not a shareholder. The system of unconditional quotas was abandoned in 1936 and this was substituted with a system of royalties. The shareholders agreed that imports into the United States should be included in the quotas. Thereafter, a suit was filed against the Aluminum Co. of America (D) and Aluminum Limited (D) by the United States (P) for the violation of the Sherman Act that prohibits every contract, combination, or other conspiracy in restraint of trade among several states or with foreign nations. The district court found that the 1931 and 1936 agreements did not suppress or restrain the exportation of aluminum to the United States (P) and that America (D) was not a party to the Alliance. The United States (P) appealed.
+
+Issue
+May a state impose liabilities even upon persons not within its allegiance, for the conduct outside its borders that has consequences within its borders?
+
+Held
+(L. Hand, Swan, and A. Hand, J). yes. Any state may impose liabilities even upon persons not within its allegiance, for conduct outside its borders that has consequences within its borders that the state reprehends. Under the Sherman Antitrust Act, the agreements of the Alliance in 1931 and 1936 would clearly have been unlawful had they been made within the United States (P) and though made abroad, both are unlawful if they were intended to affect imports and did affect them. Evidence showed that the shareholders of Alliance intended to restrict imports thus shifting the burden of proof of whether they in fact restricted imports into the United States to Limited (D). Hence, this court must conclude that the 1936 agreement violated the Act since the underlying doctrine of the Sherman Act was that all factors that contribute to determining prices must be kept free to operate unhampered by agreements.
+
+Discussion
+The Sherman Antitrust Act should not be read without due regard to the  limitations customarily observed by nations upon the exercise of their  power. Hence, one must not impute to Congress an intent to punish all  whom its courts can catch, for conduct that has no consequences in the  U.S. when consideration is given to the international complication  likely to arise from an effort in the U.S. to treat such agreements as  unlawful. Then it is safe to assume that Congress certainly did not  intend the Sherman Antitrust Act to cover them.
+

@@ -1,0 +1,24 @@
+Citation
+427 U.S. 97, 96 S. Ct. 2392, 49 L. Ed. 2d 342, 1976 U.S. 72
+
+Brief Fact Summary
+The prosecutor did not disclose that the defendant’s victim had an extensive criminal record.  Counsel for the defendant argued that such information would have bolstered a self-defense argument, and sought a new trial.
+
+Synopsis of Rule of Law
+“The prosector’s failure to tender [evidence] to the defense did not deprive respondent of a fair trial . . ., where it appears the record was not requested by defense counsel” and did not involve perjury, and the trial judge was “convinced of [defendant's] guilt beyond a reasonable doubt” taking the evidence into consideration within the record, and that “the judge’s first hand appraisal of the entire record was thorough and entirely reasonable.”
+
+Facts
+Defendent Agurs ["the Defendant"] was convicted of second-degree murder in the stabbing death of the Victim, James Sewell ["the Victim"].
+
+Issue
+“Whether the prosecutor has any constitutional duty to volunteer exculpatory matter to the defense, and if so, what standard of materiality gives rise to that duty.”
+
+Held
+No.  The Supreme Court distinguished this case from the previous “Brady Rule” upon which the Defendant made its case.  “Brady” applied to three specific situations.  First, the undisclosed information demonstrates that the prosecutor relied on perjured testimony, and the prosecutor “knew or should have known.”  Second, the defense makes a pretrial request for specific evidence.  Neither of these situations were applicable to the present case.  The third situation, however, is a pretrail defense request for any evidence relating to the matter about to be tried.  Because such a request “really gives the prosecutor no better choice than if no request is made,” and because the prosecutor has a duty to disclose truly exculpatory evidence, the court concluded that “there is no significant difference” between cases in which a general request is made, and in cases, such as this one, where there is no request.  With regards to the demands of a fair trial under the Due Process Clause of
+
+Dissent
+The dissent objected to the standard of materiality set forth as it reduces the prosecutor’s obligation “to serve justice” to a status of “no special significance”; that a defendant’s right to a fair trial is violated if all evidence is not aired and “creates little, if any, incentive for the prosecutor to resolve close questions of disclosure in favor of concealment”; and that the rule “usurps the function of the jury as the trier of fact in a criminal case.”
+
+Discussion
+“The proper standard of materiallity [of evidence] must reflect our overriding concern with the justice of the finding of guilt.  Such a finding is permissible only if supported by evidence establishing guilt beyond a reasonable doubt.”
+

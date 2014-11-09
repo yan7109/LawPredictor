@@ -1,0 +1,21 @@
+Citation
+22 Ill.199 F. Supp. 2d 771 (M.D. Tenn. 2002)
+
+Brief Fact Summary
+Plaintiff, an employee of Kentucky Fried Chicken (KFC), brought suit against Defendant, a KFC franchisee, alleging sexual harassment.
+
+Synopsis of Rule of Law
+An arbitration agreement that precludes a cause of action, thereby stripping a plaintiff of certain claims she could otherwise bring, is unconscionable.
+
+Facts
+As part of her employment contract with Defendant, Plaintiff was asked to sign a document entitled “Arbitration of Employee Rights,” which called for submission of employment-related claims to arbitration. After Plaintiff brought her sexual harassment suit in Federal Court, Defendant filed a motion to compel arbitration, seeking to have Plaintiff’s federal claims stayed until the completion of arbitration. Defendant’s main contention is that, because Plaintiff agreed to arbitration as a condition to her employment, she could not otherwise bring federal question claims against Defendant.
+
+Issue
+Does a plaintiff give up her right to bring federal claims against her employer when she signs an arbitration agreement as a condition of employment?
+
+Held
+No. The Defendants’ Motion to Compel Arbitration was denied.
+
+Discussion
+While there is a presumption in favor of arbitration agreements, a plaintiff may not be compelled to arbitrate when she can show a disparity in her position that would render the agreement unconscionable.
+

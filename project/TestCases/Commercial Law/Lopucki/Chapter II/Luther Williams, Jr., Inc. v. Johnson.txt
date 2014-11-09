@@ -1,0 +1,21 @@
+Citation
+229 A.2d 163, 1967 D.C. App. 159
+
+Brief Fact Summary
+Luther Williams, Jr., Inc. (Plaintiff) sought to recover $670.00 as liquidated damages under a contract on Johnson’s (Defendant) home. Plaintiff’s objections to the introduction of evidence concerning a parol agreement were overruled and a verdict was returned for the Defendant. Plaintiff appeals.
+
+Synopsis of Rule of Law
+The parol evidence rule does not bar testimony of an oral agreement as a condition precedent to a final written contract.
+
+Facts
+Plaintiff and Defendant entered into a written agreement to sell and buy real property. Defendant was unable to obtain financing and Plaintiff claimed that the Defendant breached their contract. Defendant testified that they thought the contract was merely an estimate, and that they told Plaintiff the improvements would depend on financing and that they would not become obligated until their procured funds. Plaintiff objected to the introduction of evidence concerning a parol agreement regarding financing. The objections were overruled and the jury returned a verdict for the Defendant. Plaintiff appeals.
+
+Issue
+Whether the admission of testimony regarding the oral condition precedent violated the parol evidence rule?
+
+Held
+Judgment affirmed.
+
+Discussion
+If the parties orally agree on a condition to the enforceability of the contract, but the condition was not included in the writing, courts generally allow proof of condition despite the parol evidence rule as long as it does not contradict the terms of the contract.
+

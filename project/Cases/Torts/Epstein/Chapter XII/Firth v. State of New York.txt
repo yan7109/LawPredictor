@@ -1,0 +1,27 @@
+Citation
+N.Y. Ct. App., 775 N.E. 2d 463 (2002)
+
+Brief Fact Summary
+Firth was an employee of the state of New York, who sued when the state published a critical job performance review online.
+
+Synopsis of Rule of Law
+(1) Under the statute of limitation, the single publication rule can be invoked for alleged defamation posted online on a website.
+
+Facts
+Firth was formerly the Director of the Division of Law Enforcement in the Department of Environmental Conservation.  The State Department of Education posted online an executive summary of a report with links to the full text, prepared by the Office of the Inspector General. The report generally criticized the management style and weapon procurement methodology of Firth. After more than a year had passed, Firth filed against the State of New York on the ground of defamation. The court of claims dismissed the suit on the basis of the statute of limitation, denying his argument that since the report was continuously available on the internet, it was a continuing wrong, or acted as a new publication. The court of appeals affirmed the verdict, and Firth went in appeal.
+
+Issue
+(1) Under the statute of limitation, does the single publication rule cover allegedly defamatory publications available on an internet website?
+
+Held
+(Levine, J.)
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+This case follows the principles set out in the Secondary Restatement of Torts Section 577A
+

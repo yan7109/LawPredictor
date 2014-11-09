@@ -1,0 +1,21 @@
+Citation
+511 U.S. 202, 114 S. Ct. 1461,128 L. Ed. 2d 148, 1994 U.S.
+
+Brief Fact Summary
+Plaintiff was injured in a construction accident. Some of the defendants settled, but two did not. The jury assessed Plaintiff’s loss at $2,100,000, and the court decided how to divide an appropriate damage award against the two non-settling Defendants.
+
+Synopsis of Rule of Law
+The liability of non-settling defendants is calculated by the jury’s determination of proportionate responsibility, not by giving the non-settling defendants a credit for the amount of the settlement.
+
+Facts
+Plaintiff was injured in a construction accident. Plaintiff settled with three of the Defendants for $1,000,000. AmClyde and River Don Castings, Ltd. (Defendants) did not settle. A jury assessed Plaintiff’s loss at $2,100,000 and allocated 32% of the damages to Defendant AmClyde and 38% to Defendant River Don Castings, Ltd.
+
+Issue
+Is the liability of the non-settling defendants calculated with reference to the jury’s allocation of proportionate responsibility?
+
+Held
+Yes. Reversed and remanded for further proceedings.
+
+Discussion
+In this case, Plaintiff is going to recover more that what the jury assessed to be Plaintiff’s damage. Because the proportionate share approach does not deduct money previously received, Plaintiff is basically permitted a double recovery.
+

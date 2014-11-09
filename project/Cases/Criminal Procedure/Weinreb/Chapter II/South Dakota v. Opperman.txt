@@ -1,0 +1,24 @@
+Citation
+428 U.S. 364, 96 S. Ct. 3092, 49 L. Ed. 2d 1000 (1976)
+
+Brief Fact Summary
+Respondent’s, Opperman (Respondent), vehicle was impounded for a traffic violation. Without a warrant, the police inventoried the contents of Respondent’s vehicle and found marijuana in the glove box.
+
+Synopsis of Rule of Law
+The police are allowed to inventory an impounded car if the procedure is designed to protect the vehicle and its contents.
+
+Facts
+Local police impounded the Respondent’s vehicle for a traffic violation. Without a warrant, the police opened Respondent’s unlocked vehicle to inventory its contents. Taking an inventory of impounded vehicle was part of local police procedure. While taking this inventory, police found marijuana in the glove box of Respondent’s vehicle. Respondent was subsequently tried and convicted for possession of marijuana.
+
+Issue
+Without a warrant, are police allowed to inventory a vehicle that is lawfully impounded for a traffic violation?
+
+Held
+Yes. Impounded vehicles can be inventoried where the process is carried out to secure the vehicle and its contents.
+
+Dissent
+The Fourth Amendment applies to vehicles, and a routine inventory search is not an exigent circumstance warranting an exception to the Fourth Amendment.
+
+Discussion
+Administrative procedures, such as inventorying an impounded vehicle, are reasonable under the Fourth Amendment if the procedure is implemented for a non-criminal purpose.
+

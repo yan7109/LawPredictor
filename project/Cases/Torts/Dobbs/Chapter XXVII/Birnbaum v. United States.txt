@@ -1,0 +1,15 @@
+Citation
+588 F.2d 319, 201 U.S.P.Q. 623
+
+Brief Fact Summary
+The United States District Court for the Eastern District of New York awarded damages to the Plaintiffs, Birnbaum and others (Plaintiffs) under the Federal Tort Claims Act (the Act). The Defendant, the United States (Defendant), appealed.<span class="heading">Synopsis of Rule of Law.</span>
+
+Facts
+The CIA and the FBI covertly opened mail addressed to the Plaintiffs. The latter brought an action against the Defendant for intrusion pursuant to the Federal Tort Claims Act. In pleadings, the Plaintiffs alleged and the Defendant admitted that it opened and copied the Plaintiffs’ mail that was sent to and from the U.S.S.R. during a 20-year period. The Defendant argued that there is no right to privacy under New York law. In a court trial, the judge found for the Plaintiffs and granted damages of $1,000.00 each.<span class="heading">Issue.</span> Was the government exempt from liability for intrusion of privacy on the grounds of sovereign immunity?
+
+Held
+No. The court held that the government acted so far beyond its authority that it could not have been exercising a function that could in any proper sense be called discretionary.<span class="heading">Dissent.</span> The dissent takes only minor issue with the majority’s reasoning, noting, “the opening of Soviet Union-U.S.A. correspondence might well be a discretionary function or duty on the part of a federal agency,” as “The CIA is an agency created by Congress to protect our national security in the international field.” However, until Congress expands the agency’s powers, “courts will continue to be plagued with the necessity of evaluating and balancing the basic values to be resolved.”
+
+Discussion
+At core, this is a case about privacy rights and the court elucidates the right of privacy as expressed in the Restatement (Second) of Torts Section: 652A: “There are four types of privacy invasions: (1) unreasonable intrusion upon the seclusion of another, (2) appropriation of another’s name or likeness, (3) unreasonable publicity given to another’s private life, and (4) publicity that unreasonably places another in a false light before the public.” Simply stated, “Violation of the right against intrusion may occur through opening one’s private and personal mail.” The government conceded the agencies had committed the act in question. Thus, the issue becomes twofold: 1) Is the U.S. Government immune from liability? 2) May the government be excused pursuant to New York State law?
+

@@ -1,0 +1,24 @@
+Citation
+483 U.S. 107 (1987)
+
+Brief Fact Summary
+Petitioner No. 1, Conover (”petitioner No. 1″), used his position as Seminole Electric Cooperative’s procurement manager to help his friend, petitioner No. 2, Tanner (”petitioner No. 2″), obtain a bid for a construction project for which a loan had been guaranteed by an agency of the United States.  After petitioner No. 1 and petitioner No. 2 were convicted, two jurors came forward and revealed rampant drug and alcohol use by the jury during the trial and deliberations.
+
+Synopsis of Rule of Law
+Federal Rules of Evidence (”F.R.E.) Rule 606(b), prohibits the impeachment of a verdict with a juror’s testimony except where there is question as to whether any outside influence was brought to bear on any juror.
+
+Facts
+Petitioner No. 1 used his position as Seminole Electric Cooperative’s (”Seminole”) procurement manager to help his friend, petitioner No. 2, obtain a bid for a construction project for which a loan had been guaranteed by an agency of the United States.  Petitioner No. 1’s department had prepared and delivered two contracts favorable to petitioner No. 2’s company.  At about the same time, petitioner No. 2 paid petitioner No. 1 about $30,000. Both were convicted of conspiracy to defraud the United States and committing mail fraud.
+
+Issue
+Was the District Court required to hold an evidentiary hearing including juror testimony on juror drug and alcohol use during the trial?
+
+Held
+The District Court did not err in refusing to hold an evidentiary hearing at which jurors would testify on juror alcohol and drug use during the trial.
+
+Dissent
+If members of the jury were intoxicated by drugs and alcohol to the point of sleeping through material portions of the trial, the verdict must be set aside.  F.R.E. Rule 606(b) is not applicable to juror testimony on matters unrelated to deliberations about the case.  Even if F.R.E. Rule 606(b) was applicable, the testimony of juror intoxication should be admissible as “outside influence”.
+
+Discussion
+There is firmly established common law rule that flatly prohibits admission of juror testimony to impeach a jury verdict except where there has been outside influence.  F.R.E. Rule 606(b) codifies this common law rule.  Full and frank discussion in the deliberation room, jurors’ willingness to return an unpopular verdict, and citizen’s belief in the layperson jury would all be undermined by post-verdict scrutinizing of juror conduct.
+

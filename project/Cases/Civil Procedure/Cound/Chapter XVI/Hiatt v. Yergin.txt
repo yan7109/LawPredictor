@@ -1,0 +1,21 @@
+Citation
+22 Ill.497, 284 N.E.2d 834 (Ct. App. 1972)
+
+Brief Fact Summary
+The Plaintiffs, Lorraine Hiatt in her capacity as the Successor to the Estate of W.H. Hiatt and individually (Plaintiffs), sued for damages and specific performance on breach of two contracts entered into with the Defendant, Yergin (Defendant). Plaintiff requested a jury trial and was denied.
+
+Synopsis of Rule of Law
+A party’s right to trial by jury depends upon the nature of the claims stated and not upon the issues that may arise within such claims.
+
+Facts
+Plaintiffs entered into two simultaneous contracts with Defendant. The first sold to Defendant a one-half interest in Plaintiffs’ beverage company. The second contract was set up for Defendant to re-sell the one-half interest to Plaintiffs in the event Plaintiffs could not obtain a liquor license for another liquor distributorship. Plaintiffs claimed they performed the first contract and conditions precedent to the second, but Defendant refused to sell back the shares. Plaintiffs claimed damages for the withholding of stock and specific performance for return of the stock. Plaintiffs also requested a jury trial, but the trial court denied the motion stating that Plaintiffs did not use due diligence in their efforts to obtain the license, nor did they apply for the necessary permits for the reissuance of the stock.
+
+Issue
+Whether a party’s right to a jury trial depends upon the nature of the claims stated or upon the issues that arise from such claims.
+
+Held
+The trial court did not err in overruling Plaintiff’s request for a trial by jury because the Indiana Rules of Civil Procedure deny a party a jury trial if the cause is of equitable jurisdiction. The main theory of this case is equitable. Decision of the trial court affirmed.
+
+Discussion
+The Indiana Court of Appeals reasoned that consistent with past precedent, this case could be analogous to a parts and whole theory. The court held that if any of the issues, or parts, in the claims were equitable, then the whole case was a suit in equity. The court further reasoned that confusion and injustice would ensue if the causes of action were tried separately. If a jury found that there was no right to recovery on the legal action and the court found recovery was appropriate on the equity issue, then there would be a conflict. The court could possibly grant a new trial, which in the end would put the judge in charge of the case – a place were it should have been initially.   The main theory outlined by the pleadings, the court held, was for specific performance, not the damages. Though the damages were not inconsequential, they were incidental to the main theory of the action, which was an equitable one.     The Indiana Court of Appeals also reasoned that the Seventh Amendment to the United States Constitution (Constitution) applied only to civil trials in federal court, therefore, the states were free to develop their own body of law concerning the right to trial by jury in civil matters.
+

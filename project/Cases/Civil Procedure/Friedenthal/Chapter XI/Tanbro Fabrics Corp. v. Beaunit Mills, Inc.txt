@@ -1,0 +1,21 @@
+Citation
+22 Ill.4 A.D.2d 519, 167 N.Y.S.2d 387 (App Div, 1st Dept 1957)
+
+Brief Fact Summary
+In two separate actions, Seller sued Buyer for recovery of money for goods and Buyer sued Processor in a replevin action to recover the goods. Buyer alleged in both cases that the goods were defective and Seller and Processor blamed each other for the defect. Buyer brought a separate lawsuit for the defective goods, joining Seller and Processor as defendants, and moved to consolidate the other lawsuits into one action.
+
+Synopsis of Rule of Law
+Under New York’s joinder rules, parties may be joined in one cause of action so long as the right to relief arose out of the same transactions or occurrences. Joinder of two parties does not require an identical duty and relationship to the Plaintiff.
+
+Facts
+Beaunit, seller and Plaintiff, sued Defendant, Tanbro, for recovery of money for goods sold and delivered to Tanbro. Tanbro counterclaimed for breach of warranty, claiming the goods were defective because they suffered from “yarn slippage.” Beaunit denied the goods were defective. Tanbro brought an action against Amity, the processor, in replevin to recover a portion of the goods. Amity counterclaimed for money owed and asserted an artisan’s lien on the goods. Amity alleged that the defect in the goods was the fault of Beaunit and Beaunit alleged that the defect was the fault of Amity. Tanbro sued Beaunit and Amity alleging that the goods were defective due to yarn slippage and it was due to the fault of Amity, Beaunit or both. Amity and Beaunit moved to dismiss due to the other pending lawsuits. Tanbro moved to consolidate the proceedings. The motion to consolidate was denied and Beaunit’s cross-motion to dismiss was granted.
+
+Issue
+Did Plaintiff’s dealings with Beaunit and Amity arise out of one series of transactions or occurrences such that Plaintiff can join them both as Defendants in the case in order to determine responsibility for the defective goods in one case?
+
+Held
+Yes. The trial court’s order is modified to deny the cross-motion to dismiss and grant the motion to consolidate.
+
+Discussion
+The opinion illustrates that joinder of defendants does not require each defendant to have the same joint relationship as plaintiffs are required to have under the common law. This case shows a situation where the purpose of avoiding duplicate actions with inconsistent decisions is served.
+

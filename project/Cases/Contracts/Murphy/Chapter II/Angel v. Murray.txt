@@ -1,0 +1,21 @@
+Citation
+591 F.3d 209
+
+Brief Fact Summary
+The Plaintiff, the city of Newport (Plaintiff), agreed to pay more than it was contractually obligated to pay for refuse collection, in modification of the original contract. The trial court held there was no consideration for the increased payments because the Defendant, Maher (Defendant), was already obligated to collect the refuse.
+
+Synopsis of Rule of Law
+The preexisting duty rule will not be applied when there are unforeseen circumstances and the opposing party agrees to compensate for those unforeseen circumstances.
+
+Facts
+The Plaintiff had a series of 5 year agreements with Defendant for collecting and disposing of all waste materials generated within the city. Defendant twice requested additional amounts of $10,000 per year from the city council due to an unanticipated increase in refuse. This increase resulted from an unanticipated increase of 400 new dwelling units as opposed to the assumed 20-25 new units per year. The Trial court found for the Plaintiff and ordered Defendant to repay $20,000 to the city.
+
+Issue
+Is there consideration when a party requests more money due to unforeseen circumstances?
+
+Held
+Yes. The courts will not apply the preexisting duty rule when a party confronts unforeseen circumstances and the other party, not influenced by duress, agrees to pay additional compensation.
+
+Discussion
+The court follows a growing trend to weaken the pre-existing duty rule as seen in Section:2-209 of the Uniform Commercial Code (UCC) and 89D(a) of the Restatement, which considers if the “modification is fair and equitable in view of the circumstances not anticipated by the parties when the contract was made.”
+

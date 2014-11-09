@@ -1,0 +1,21 @@
+Citation
+533 U.S. 218, 121 S. Ct. 2164, 150 L. Ed. 2d 292, 23 ITRD 1129 (2001)
+
+Brief Fact Summary
+The United States Customs Service (Customs) changed its tariff schedule, requiring Mead Corporation to pay a 4% tariff for its day planners which were previously duty-free.
+
+Synopsis of Rule of Law
+Judicial response to administrative action must continue to differentiate between Chevron and Skidmore, and continued recognition of Skidmore is necessary.   “Administrative interpretation of a particular statutory provision qualifies for Chevron deference when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority.”
+
+Facts
+The Harmonized Tariff Schedule of the United States (HTSUS) had two categories for notebooks and related products: one category was subject to a 4% tariff, and the “other” category was free of duty. Customs had treated Mead’s day planners as falling under the duty-free category, but changed its position in a 1993 Headquarter ruling letter.  Mead challenged the ruling and appealed up to the United States Court of Appeals for the Federal Circuit, which held that Customs’ rulings are not subject to notice and comment, do not carry the force of law, and are not entitled to Chevron deference.
+
+Issue
+Did the tariff classification ruling by the United States Customs Service deserve judicial deference?
+
+Held
+No. Affirmed the Court of Appeals.   The Court granted certiorari in order to clarify the Chevron standard, and held: “Administrative interpretation of a particular statutory provision qualifies for Chevron deference when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority.”  The Customs classifications rulings should not get Chevron deference, but are “best treated like interpretation contained in policy statements, agency manuals and enforcement guidelines. They are beyond the Chevron pale.”   Dissent. This opinion amounted to a change in judicial review of federal administrative action from presuming agencies’ authority to resolve ambiguity in statutes to a   presumption of no such authority, which must be overcome by clear evidence of legislative intent to the contrary.  Concurrence. None.
+
+Discussion
+This case dealt with the ongoing issue of how much deference to afford to agency decisions.   The majority felt that Chevron deference wasn’t warranted, but Skidmore deference probably was.
+

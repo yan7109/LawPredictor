@@ -1,0 +1,21 @@
+Citation
+529 U.S. 120, 120 S. Ct. 1291, 146 L. Ed. 2d 121 (2000)
+
+Brief Fact Summary
+The Food and Drug Administration (FDA) asserted authority over tobacco products in 1996, after having previously disavowed such authority, and issued regulations concerning promotion, labeling and marketing to children and adolescents. A group of tobacco manufacturers, retailers and advertisers (Respondents) filed suit, challenging the FDA’s authority under the Food, Drug and Cosmetic Act (Act).
+
+Synopsis of Rule of Law
+Chevron applied.
+
+Facts
+The FDA determined that it had authority to regulate tobacco products as falling within the category of “restrictive devices” under the Act. It promulgated regulations concerned tobacco promotion, labeling and marketing to children and adolescents. Respondents filed suit, challenging the FDA’s authority over tobacco products under the Act.  The United States District Court for the Middle District of North Carolina held that the Act authorized the FDA to regulate tobacco products as customarily marketed, and that its accessing and labeling regulations were permissible, but that agency’s advertising and promotion restrictions exceeded its authority under Section:360(e). The Court of Appeals for the Fourth Circuit reversed, holding that Congress did not grant the FDA jurisdiction to regulate tobacco products.
+
+Issue
+Did the FDA have authority under the Act to regulate tobacco products as customarily marketed?
+
+Held
+Affirmed. The FDA did not have the authority to regulate tobacco products as customarily marketed.   Congress clearly precluded the FDA from asserting jurisdiction over tobacco products, and such authority would have been inconsistent with the FDA’s overall regulatory scheme. Further, later-enacted tobacco-specific legislation did not grant authority to the FDA.  In its rulemaking, the FDA exhaustively documented that tobacco products are unsafe, and pursuant to the Act’s provision concerning the misbranding of drugs and devices, the FDA would have been required to remove them from the market. The FDA’s assertion of authority did not make sense in light of its responsibilities under the Act.   Dissent. The dissent felt that tobacco products fell within the statutory language of the Act.  Concurrence. None.
+
+Discussion
+Considering the Act as a whole, it was clear that Congress intended to exclude tobacco products from the FDA’s jurisdiction, as the FDA’s responsibility is to remove unsafe products from the market entirely.
+

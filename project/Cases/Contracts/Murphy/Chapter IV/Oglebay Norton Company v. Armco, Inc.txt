@@ -1,0 +1,21 @@
+Citation
+22 Ill.52 Ohio St. 3d 232, 556 N.E.2d 515 (1990)
+
+Brief Fact Summary
+The Appellee, Oglebay Norton Company (Appellee), a shipper, and the Appellant, Armco (Appellant), a Steel manufacturer entered into a 1957 long-term agreement whereby Appellee would transport iron ore for the Plaintiff. After 23 years, the contract between the parties was renewed numerous times and often modified. Appellee was required to undergo changes to its ships and ports in order to maintain Appellant’s business. In 1983, the iron and steel industry began to suffer and the parties became unable to reach a mutually satisfactory shipping rate, as the mechanisms encompassed in their original contract failed.
+
+Synopsis of Rule of Law
+When a contract’s operating mechanisms break down, the court will look to the intent of the parties to determine whether an agreement will continue or end.
+
+Facts
+By 1985, Appellant encountered an inability to pay the shipping prices as they were set by Appellee. In 1986, Appellee filed a Declaratory Judgment action, requesting a rate be set for the price of steel. Appellant filed a counterclaim, seeking the contract be voided due to a failure of the rate pricing mechanism. The trial court found that the parties intended to be bound, despite the failure of the pricing mechanisms and fixed a price at which the parties were to operate. The court of appeals affirmed the judgment of the trial court.
+
+Issue
+This case deals with insufficient agreements. The main issue is whether a contract remains enforceable when its mechanisms fail.
+
+Held
+Affirmed.
+
+Discussion
+Whenever a court finds that parties intend to bind themselves to an agreement, the court will err on the side of preserving the agreement, rather than not.
+

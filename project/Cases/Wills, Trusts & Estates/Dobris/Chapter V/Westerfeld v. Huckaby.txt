@@ -1,0 +1,24 @@
+Citation
+474 S.W.2d 189 (Tex. 1971)
+
+Brief Fact Summary
+Settlor executed two trust instruments which the Petitioner claims are not valid because of the powers the Settlor reserved for herself.
+
+Synopsis of Rule of Law
+An instrument will not fail as a trust simply because the Settlor reserves to themselves the right to revoke the trust, the right to control and manage the acts of the trustee, and other broad beneficial rights.
+
+Facts
+Settlor executed two trusts and quitclaim deeds by which she claimed herself as trustee, to the same lots.  Petitioner, administrator of the Settlor’s estate, sought to have the trust instrument and deeds declared not valid.  Petitioner argued that the power the Settlor reserved for herself made the trusts void because they were illusory and no fiduciary duty was owed to anyone.
+
+Issue
+Whether the Settlor could create valid trusts even though she reserved in herself broad beneficial rights as well as the right to revoke the trusts and the right to control or manage the acts of the trustee?
+
+Held
+Yes.  Affirmed.  A valid trust is created even though the Settlor reserves extensive powers for herself.
+
+Dissent
+The instruments are not valid trusts because they were designed to dispose of the Settlor’s proper at death and were not genuinely effective prior to her death.  The trustee only held the properties in name as such and had not responsibilities or acts to perform.  The only thing the Settlor parted with was the remainder of the trust property if there should be any these instruments were ineffective to create a trust.
+
+Discussion
+The Texas Trust Act makes a trust not defective simply because the settlor has the power to revoke them.  The Trust Act also permits a settlor to hold property as trustee for another or for himself and another.  The Court’s decides to follow the majority of cases and holds that a settlor may reserve the powers to alter, revoke, and take capital as well as the powers to direct and manage.
+

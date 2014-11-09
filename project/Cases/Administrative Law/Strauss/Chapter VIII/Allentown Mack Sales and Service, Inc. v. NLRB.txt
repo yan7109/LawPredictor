@@ -1,0 +1,33 @@
+Citation
+522 U.S. 359, 118 S. Ct. 818, 139 L. Ed. 2d 797, 157 LRRM 2257 (1998)
+
+Brief Fact Summary
+A new entity, believing that the local union had lost the support of the majority of its members, refused to negotiate.
+
+Synopsis of Rule of Law
+“Courts must defer to the requirements imposed by the Board if they are ‘rational and consistent with the Act,’ and if the Board’s ‘explication is not inadequate, irrational or arbitrary.’”
+
+Facts
+Allentown Mack Sales and Service, Inc. (Allentown Mack) bought a branch in Allentown, PA. The employees were represented by the AFL-CIO. Allentown Mack was led to believe by certain members that the Local Lodge of the AFL-CIO no longer supported it. Under NLRB rules, “an employer who believes that an incumbent union no longer enjoys the support of a majority of its employees has three options: to request a formal, Board supervised election, to withdraw recognition from the union and refuse to bargain, or to conduct an internal poll of employee support for the union.” In the present case, Allentown Mack rejected to recognize the Local Lodge. The union, after losing a poll, brought a claim of unfair-labor practice to the NLRB. The ALJ held that Allentown Mack was a successor entity, and so bound by previous obligations to recognize and bargain.
+
+Issue
+“[W]hether the [NLRB's] standard for employer polling is rational and consistent with the National Labor Relations Act, and whether the Board’s factual determinations in this case are supported by substantial evidence in the record.”
+
+Held
+Yes, the standard is rational and consistent. While the Supreme Court did find the NLRB’s “adoption of a unitary standard for polling, RM elections, and withdrawals of recognition is in some respects a puzzling policy, we do not find it so irrational as to be ‘arbitrary [or] capricious’” within the meaning of the law.  No, the Supreme Court held that “[g]iving fair weight to Allentown’s circumstantial evidence, we think it quite impossible for a rational factfinder to avoid the conclusion that Allentown had reasonable, good-faith grounds to doubt-to be uncertain about the union’s retention of majority support.” The Supreme Court cited several instances that suggested that the union had little support.   Dissent.   The chief justice led a dissent that found the NLRB’s standard was rational and consistent with the Act, specifically the NLRB’s use of polling.     Justice Breyer led a dissent that argued that the second matter was not brought before it on certiorari, and so it was inappropriate for the Court to decide it.
+
+Discussion
+“The Board’s ‘good-faith reasonable doubt’ test for employer polling is facially rational and consistent with the Act, but its factual finding that Allentown lacked such a doubt is not supported by substantial evidence on the record as a whole.”   Association of Data Processing Service Organizations, Inc. v. Board of Governors of the Federal Reserve System  <b>Citation.</b> 745 F.2d 677 (U.S. Court of Appeals, D.C. Circuit, 1984)
+
+Brief Fact Summary
+The Association of Data Processing Service Organizations, Inc. (ADAPSO) and two of its members (Petitioners) petitioned for review of two orders of the Board of Governors of the Federal Reserve System (Board). One order approved Citicorp’s application to establish a subsidiary, Citishare, to engage in certain data processing and transmission services. The second order amended those portions of Regulation Y which dealt with the performance of data processing activities by bank holding companies. The D.C. Circuit Court of Appeals consolidated the two appeals in this case.
+
+Synopsis of Rule of Law
+“Substantial evidence” is the standard of review for factual findings in both formal and informal proceedings.
+
+Facts
+The Bank Holding Act of 1956 (Act) required all bank holding companies to seek prior regulatory approval before engaging in nonbanking activities. Section:1848 of the Act provided that “the findings of the Board, as to the facts, if supported by substantial evidence, shall be conclusive.” Both of the prior Supreme Court opinions reviewing Board action in amending Regulation Y noted that the Board’s determination is “entitled to the greatest deference.” The courts of appeals, however, have applied the substantial evidence standard of Section:1848 to Board adjudications such as the authorization in the first order here under review, while applying the arbitrary and capricious standard, despite Section:1848, to Board rules. In other words, applying the substantial evidence standard to the adjudicatory authorization while applying the arbitrary and capricious standard to an amendment to the same, as in this case.
+
+Issue
+What is the proper standard of review for on-the-record adjudication and informal notice and comment rulemaking?
+

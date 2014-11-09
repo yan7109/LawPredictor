@@ -1,0 +1,21 @@
+Citation
+266 F.3d 186, 2001 U.S. App. 20724
+
+Brief Fact Summary
+Plaintiff, Dorothy Singletary, appeals a District Court summary judgment for the Defendant, Pennsylvania Department of Corrections (”PADOC”) et al.  Plaintiff also seeks to amend her complaint to add another Defendant, Robert Regan.
+
+Synopsis of Rule of Law
+Under Rule 15(c), a plaintiff can relate an amended claim back to the original if the amended claim arose from the same conduct and the newly added party was sufficiently notified within 120 days after the initial complaint was filed.
+
+Facts
+Plaintiff’s son, Edward Singletary, was a prisoner at Defendant State Correctional Institute at Rockview (”SCI”).  Edward was in maximum security housing after making threats to others.  A number of mental health officials, including Regan, met with Edward and none of them believed that he was suicidal.  Between late 1994 until Edward’s suicide on October 6, 1996, Regan met with him on a weekly basis.  On October 6, 1998, the final date before the statute of limitations expired. Plaintiff filed in District Court a Section:1983 deliberate indifference claim together with state wrongful death claims.  She named PADOC, SCI, the superintendent of SCI, Joseph Mazurkiewicz, and other “Unknown Corrections Officers”.  The lower district court granted Defendant’s summary judgment and dismissed the state claims since no federal claims still existed.  On July 28, 2000 (almost two years after the statute of limitation), Plaintiff asked for leave to amend her claim to include Regan as a Defendant
+
+Issue
+The issue is whether Plaintiff can amend her complaint under Fed. R. Civ. P. 15(c) to substitute Regan as a party instead of “Unknown Corrections Officers”.
+
+Held
+The Court held that Plaintiff should not be allowed to amend her complaint and name Regan as a Defendant.  Under Rule 15(c), a plaintiff can relate an amended claim back to the original if the amended claim arose from the same conduct and the newly added party was sufficiently notified within 120 days after the initial complaint was filed.  The court held that Regan was not sufficiently notified because there was no actual notice, and Plaintiff’s arguments for constructive notice were rejected.  There was no notice via sharing an attorney because Regan did not share the attorney in the first 120 days.  There was no notice via an identity of interest with the original Defendants because Regan was a mid-level employee who would not likely have any idea of litigation against his employer.
+
+Discussion
+Rule 15(c) is designed to ensure that a party would not be prejudiced by the delay in being named to the suit.  In this case, Plaintiff attempted to ad Regan to the suit almost two years after the statute of limitations has run.
+

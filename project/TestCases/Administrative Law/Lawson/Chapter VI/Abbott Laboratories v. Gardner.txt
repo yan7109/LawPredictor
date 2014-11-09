@@ -1,0 +1,21 @@
+Citation
+387 U.S. 136, 87 S. Ct. 1507, 18 L. Ed. 2d 681 (1967)
+
+Brief Fact Summary
+A group of drug manufacturers challenged the authority of the Commissioner of Food and Drugs to make regulations about labeling and advertising prescription drugs under the amended Federal Food, Drug and Cosmetic Act. The challenge was brought prior to enforcement of the regulations.
+
+Synopsis of Rule of Law
+Pre-enforcement review is appropriate where not prohibited by the text of the Act itself, nor inconsistent with the legislative intent behind the Act. There is an actual case or controversy where there has been a “final agency decision” and withholding judicial consideration will result in hardship to the parties.
+
+Facts
+Congress amended the Federal Food, Drug and Cosmetic Act in 1962 to require manufacturers of prescription drugs to print the “established name” (generic name) of the drug prominently and in type at least half as large as the type used for the “proprietary name” (brand name) on labels and other printed material. The purpose was to inform doctors and patients of drugs’ established names so that they could be purchased at lower prices. The Commissioner of Food and Drugs published proposed regulations (in addition to the Act) which required all drug labels and drug advertisements to put the established name next to the proprietary name every time the proprietary name appeared.  A group of 37 drug manufacturers (the Petitioners) challenged the regulations on the grounds that the Commissioner exceeded his authority under the Act in issuing the regulations. The District Court granted injunctive and declaratory relief against the Commissioner. The Court of Appeals for the Third Circuit reversed, holding (1) that pre- enforcement review of the regulations was not permitted by the Act, and (2) that no relief was available under the Administrative Procedure Act because no actual case or controversy existed. The Supreme Court of the United States granted certiorari.
+
+Issues
+Did Congress, by its Federal Food, Drug and Cosmetic Act, intend to forbid pre-enforcement review of the sort of regulations promulgated by the Commissioner?  Were the issues ripe for judicial decision? Would withholding court consideration result in hardship to the parties?
+
+Held
+Reversed and remanded to the Court of Appeals to review the District Court’s decision that the regulation was beyond the power of the commissioner.   No. Nothing in the Act itself precludes pre-enforcement review. A review of the legislative history of the Act reveals that the specific review provisions were designed to provide an additional remedy, and not to cut down more traditional channels of review. The Act itself states, “The remedies provided    for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.”  Yes, the issues presented were ripe for judicial consideration, and withholding judicial consideration would result in hardship to the parties. The parties agreed that the issue tendered was a purely legal one. The regulations in issue were reviewable as a “final agency action” under the Administrative Procedure Act because “when, as here, they are promulgated by order of the Commission and the expected conformity to them causes injury cognizable by a court of equity, they are appropriately the subject of attack.” The regulations would have a direct day-to-day impact on the operation of the companies, who either had to incur huge costs to comply with the regulations’ requirements or risk prosecution.   Dissent. There were two unpublished dissents by Mr. Justice Fortas and Mr. Justice Clark.  Concurrence. None.
+
+Discussion
+Courts should look to the text of the statute itself, along with the legislative history, to determine the intended application and scope. In this case, pre- enforcement review was not precluded by the Federal Food, Drug and Cosmetic Act.  Pursuant to the Constitution of the United States, there must be an actual case or controversy in order for the Supreme Court of the United States to grant certiorari. Under the Administrative Procedure Act, “final agency actions” are considered ripe for judicial review. Here, the Petitioners would have suffered an operational and financial hardship if judicial consideration was withheld.
+

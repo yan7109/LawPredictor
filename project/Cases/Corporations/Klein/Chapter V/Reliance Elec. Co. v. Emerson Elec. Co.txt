@@ -1,0 +1,24 @@
+Citation
+404 U.S. 418, 92 S. Ct. 596, 30 L. Ed. 2d 575 (1972)
+
+Brief Fact Summary
+Respondent, Emerson Electric Co., sold its 13.2% stake in Dodge Manufacturing Co. in two parts within six months of purchasing the shares.  Petitioner, Reliance Electric Co., brought suit to claim the profits under Section:16(b) of the Securities and Exchange Act of 1934.
+
+Synopsis of Rule of Law
+A company can split its sale of shares into more than one part to reduce their holdings under the statutory minimum percentage of shares (10%) to reduce their liability under Section:16(b).
+
+Facts
+Respondent bought 13.2% of Dodge’s shares for the purpose of taking over Dodge.  Dodge shareholders decided to merge with Petitioner instead.  Respondent had little use for maintaining 13.2% of the ownership of a competitor, and therefore decided to sell the shares.  Under Section:16(b), a party that owns more than 10% of the shares of a company will have to forfeit any profits of a sale of the stock to the parent company if the sale is within 6 months of the purchase.  The shares at issue were worth more due to the merger, so the profits were a considerable amount.  Respondent’s attorney recommended that the company sell just enough shares to get under a 10% ownership, and then make a second sale of the remaining shares to avoid liability.  The district court held that Respondent was liable for the profits on both sales because the split of the sale was done solely for the purpose of avoiding the Section:16(b) liability.  The Appellate court reversed the decision regarding the second sale
+
+Issue
+The issue is whether, under Section:16(b), Respondent is liable for surrendering the profits from both sales.
+
+Held
+The United States Supreme Court held that Respondents were not liable for the profits from the second sale of stock.  When Respondent made the second sale, they only owned a 9.96% share of Dodge which was under the statutory threshold for Section:16(b).  The fact that Respondent split the transaction to intentionally avoid liability does not matter.
+
+Dissent
+The dissent believes that Respondent should not be able to avoid liability by splitting the sale into two parts.  The majority’s holding is contrary to the intention of the statute to avoid short-swing profits my parties with substantial stakes in a company.
+
+Discussion
+The Court’s majority left it to the legislature to modify Section:16(b) to avoid the result in this case.  But the holding immunizes the first ten percent of transactions under the Act through clever accounting.
+

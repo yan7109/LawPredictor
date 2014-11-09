@@ -1,0 +1,21 @@
+Citation
+218 F.2d 887,1955 U.S. App.
+
+Brief Fact Summary
+Sarah Louise Wilhoit surrendered an insurance policy created by her late husband where she was the beneficiary.  She kept the funds in deposit with the bank and signed a contract stating that her brother Robert Owens would receive the funds upon her death.  The District Court did not enforce the agreement, holding that it was simply a payable on death clause and did not include an insurance agreement.
+
+Synopsis of Rule of Law
+A payable on death provision that is not a part of an insurance contract is a testamentary provision that must comply with the Statute of Wills.
+
+Facts
+Sarah Louise Wilhoit accepted the proceeds of an insurance policy created by her late husband.  Under the policy, Wilhoit had the option of leaving the insurance benefits in deposit with the bank.  Wilhoit also made an offer to the bank that she has the right to make a withdrawal of any amount on demand in an amount not less than $100.00.  The bank accepted her offer.  The deposit was payable to her brother Robert G. Owens upon her death.  The contract did not adopt any provisions of the insurance policy.  Thomas Owens, Robert Owens’s legatee, attempted to claim as a beneficiary of his brother’s estate.  Owens’s will did not mention the proceeds of the policy.  Thomas Owens claimed the agreement was an insurance contract.  The District Court granted a summary motion judgment against Thomas Owens.  Thereafter, Thomas Owens appealed.
+
+Issue
+Whether a payable on death provision that is not a part of an insurance contract may be enforced if it does not comply with the Statute of Wills
+
+Held
+No.  Here, the deceased made an agreement with the bank that the funds from her husband’s insurance policy would remain in the bank and go to her brother Robert Owens upon her death.  This agreement was separate and independent from an insurance policy.  The deceased’s agreement with the bank did not include any terms of insurance.  Therefore the payable on death provision in deceased’s agreement with the bank was only effective if it complied with the Statute of Wills.
+
+Discussion
+The parties’ intent did not appear to be to give a gift to Owens.  Owens did not make any mention of the gift in his will and Wilhoit’s will did not dispose of a gift to Robert Owens.  The Court will seek to uphold the intent of the testator and protect the expectation of a beneficiary.
+

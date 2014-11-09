@@ -1,0 +1,21 @@
+Citation
+11-4660, 2012 BL 78190 (4th Cir. Apr. 02, 2012)
+
+Brief Fact Summary
+Darby was charged with violating the Fair Labor Standards Act (the Act) by failing to comply with minimum wage and hour requirements for employees. He challenged the violation, claiming the regulation on intrastate wages and hours did not fall within the commerce powers of Congress.
+
+Synopsis of Rule of Law
+If the regulated intrastate activity has a substantial effect on interstate commerce, Congress may regulate the activity regardless of Congress’s motive.
+
+Facts
+Darby, a lumber manufacturer challenged the constitutionality of the Act. Darby paid employees below the prescribed minimum wage and forced employees to work beyond the prescribed maximum weekly hours. The District Court found the Act was beyond the powers of Congress because it attempted to regulate hours and wages of employees in local manufacturing activities. The finding was appealed to the United States Supreme Court (Supreme Court).
+
+Issue
+Do the wages and hours of local employees have such a substantial impact on interstate commerce as to allow Congress to constitutionally regulate them?
+
+Held
+Yes. Judgment Reversed.
+
+Discussion
+The Court in this case relies on the effects of a local economic activity on interstate commerce, establishing a “substantial effect” test.
+

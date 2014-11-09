@@ -1,0 +1,21 @@
+Citation
+22 Ill.382 U.S. 819, 86 S. Ct. 45, 15 L. Ed. 2d 66 (1965)
+
+Brief Fact Summary
+Plaintiff made several contracts with Defendant, the government, to do construction projects. Each contract had a provision for liquidated damages if the projects were not completed on time. All of the projects were late.
+
+Synopsis of Rule of Law
+For liquidated damages to be justified, the amount must be for costs reasonably forecasted as just compensation for the harm cause by the breach and that harm must be difficult to estimate. Reasonableness of liquidated damages is determined from parties state of mind at the time the contract was signed.
+
+Facts
+Plaintiff made several contracts with Defendant to do construction projects. All of the contracts had a liquidated damages clause, which excused Plaintiff if the reason for a delay was beyond plaintiff’s control. All of the projects were late. The Defendant deemed that some delays were beyond Plaintiff’s control and that that some were in Plaintiff’s control. Defendant deducted liquidated damages accordingly for the delays in Plaintiff’s control. Plaintiff sued defendant, alleging that defendant contributed to the lateness of the projects and Defendant had no actual damages.
+
+Issue
+Is Defendant’s liquidated damages clause valid?
+
+Held
+Yes.
+
+Discussion
+The court upheld Defendant’s liquidated damages clauses because if found them to be reasonable estimation of what Defendant’s damages would be at the time of the signing and the mere fact that there was no actual damages was irrelevant.
+

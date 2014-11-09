@@ -1,0 +1,21 @@
+Citation
+274 F.2d 294, 1959 U.S. App. 60-1 U.S. Tax Cas. (CCH) P9191; 5 A.F.T.R.2d (RIA) 572
+
+Brief Fact Summary
+Taxpayer leased a sprinkler system for a term of five years with the option to renew for  an additional five years.  Absence the renewal, lessor had six months to remove the sprinkler system.
+
+Synopsis of Rule of Law
+If rent is paid to produce title eventually then the rental agreement may be treated as a sale.
+
+Facts
+A fire sprinkler system was installed at Taxpayer’s, the estate of Delano Starr, plant in California.  Automatic Sprinklers of the Pacific leased the sprinkler system to Taxpayer.  The lease was for a term of five years with annual rent of $1,240. The lease also allowed lessee to renew for an additional five years at $32 a year if lessee had complied with the terms for the first five years.  If lessee did not elect to renew, then lessor was granted six months to remove the sprinkler system. The Commissioner of Internal Revenue found that the five annual payment of $1,240 were capital expenditures and not deductible rental.  Taxpayer took the deduction as a rental expense
+
+Issue
+Was the rent paid for the sprinkler system deductible as a rental expense?
+
+Held
+Circuit Judge Chambers issued the opinion for the United States Ninth Circuit Court of Appeals in reversing to refer back to the Tax Court to consider interest as a deductible item for Taxpayer.
+
+Discussion
+The contract never clearly gave title to Taxpayer at any point.  The Court of Appeals found that a remand was necessary to take into account depreciation and interest, which may in turn not make it worth while in terms of revenue to attack the lease as a transfer of title.
+

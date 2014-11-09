@@ -1,0 +1,27 @@
+Citation
+553 U.S.723
+
+Brief Fact Summary
+Aliens classified as enemy combatants in custody at Guantanamo Bay request the court to determine whether they have the right to file a writ for habeas corpus, which is a constitutional privilege not revoked except if the Suspension Clause is in effect.
+
+Synopsis of Rule of Law
+Aliens who are enemy combatants have the right to habeas corpus under the constitution, and the alternative procedures substituted by Congress were not sufficient or effective.
+
+Facts
+Boumediene was one of several aliens captured at various battlefields over the world, from Afghanistan to Bosnia or Gambia, who were then held at Guantanamo Bay Naval Station. None of them was a citizen of a nation at war with the U.S. They were separately examined before a Combatant Status Review Tribunal (CSRT), which are military boards set up in accordance with the decision in Rasul, 542 U.S. 466 (2004), to decide whether they could be held in lawful custody. Each was decided by the board to be an enemy combatant, and sought habeas corpus in the District Court for the District of Columbia.
+
+Issue
+Do aliens who are enemy combatants have the right to habeas corpus under the constitution, and do the alternative procedures substituted by Congress not act as sufficient or effective options?
+
+Held
+(Kennedy, J.) Yes. Aliens who are enemy combatants have the right to habeas corpus under the constitution, and the alternative procedures substituted by Congress were not sufficient or effective. The framers of the constitution believed that it was a basic tenet of liberty to enjoy freedom from unlawful restraint, and the writ of habeas corpus was a provision meant to make this freedom secure. The Suspension Clause (Art. I, Section 9, cl. 2) protects this as well, providing that it may be suspended only in cases of a threat to public safety as in rebellion or invasion. While the geographical extent to which the clause covers this writ is not clear, at least it is obvious that the writ as it existed at the time of the original drafting and ratification of the constitution was protected. The Government (P) pleads that the U.S. does not have sovereignty over the place of incarceration, namely, Guantanamo Bay, and therefore the petitioners do not have rights under the Clause. However, it is clear that Guanatanamo Bay has been under U.S. control for more than a hundred years. In order to decide whether it is covered by the Clause, three factors must be considered: (1) the citizenship and status of the detainee, and whether the determination of that status was through a valid and sufficient process; (2)  the type of place where first apprehension and later detention occurred; (3) the practical hindrances in determining whether the prisoner has a right to the writ. In the first place, the petitioners are aliens, arrested outside the U.S. Secondly, the detention center is under the complete control of the U.S. and is under its jurisdiction. Thirdly, the costs involved are not such as to rule out the habeas proceedings automatically. Thus the conclusion is that the Clause is effective at Guantanamo Bay, and Congress must act accordingly. The Military Commission Act of 2006 is not and was not intended to be a substitute of habeas corpus, and thus the petitioners are entitled to dispute the lawfulness of their detention by filing the writ.
+
+Dissent
+
+
+Concurrence
+(Souter, J.) The dissent does not take into consideration the length of the detention period, up to six years in some cases. Thus the claim that the military could dispose of these cases in a reasonable duration of time is hollow, and so is the resulting complaint that the Court is forcing the judicial system to handle these cases unnecessarily.
+
+Discussion
+In this case, the Court effectively conveyed that the writ of habeas corpus could be invoked as a constitutional privilege of petitioners at all times when the Suspension Clause has not been formally invoked to suspend it. The only other alternative is to set up a sufficient alternative. Since the Clause has not been invoked, and no adequate substitute was set up to cover alien petitioners at Guantanamo Bay , the writ was proper.
+

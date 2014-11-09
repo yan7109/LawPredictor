@@ -1,0 +1,21 @@
+Citation
+210 Md. 352, 123 A.2d 316 (1956)
+
+Brief Fact Summary
+P sued D for breach of contract and D asserted that because he was not the father of P’s child, his support agreement lacked a valid consideration.
+
+Synopsis of Rule of Law
+The forbearance from asserting a good faith legal claim constitutes a valid consideration.
+
+Facts
+Fiege (P) was pregnant. P claimed that Boehm (D) was the child’s father. P gave birth to the child and P claims D acknowledged on many occasions that he is the father. P claims that before the child was born, D promised to pay P’s expenses and make $10/week support payments so long as P would not institute legal proceedings. D paid P $480 but stopped payments when blood tests revealed that he was not the father. D prevailed at a subsequent trial on the charges of bastardy by the state. P then sued to enforce the agreement for support in civil court. The jury found a verdict in favor of P for $2,415.80, the full amount of her claim. D appealed.
+
+Issue
+Does the forbearance from asserting a good faith legal claim constitute a valid consideration?
+
+Held
+Yes. Judgment affirmed
+
+Discussion
+Generally, there is a requirement that a claim be asserted in good faith. Forbearance in asserting a good faith claim constitutes a valid consideration. Note however, there is no discussion of P’s possible bad faith by nondisclosure.
+

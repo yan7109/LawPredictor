@@ -1,0 +1,24 @@
+Citation
+411 F.2d 533, 1969 U.S. App.
+
+Brief Fact Summary
+The Plaintiffs, Morton Friedman (Mr. Friedman) and his family (Plaintiffs), were injured when their car, manufactured by the Defendant, General Motors Corp. (Defendant), started with the transmission in the drive position and lurched forward, causing an accident. Defendant claimed that Plaintiffs failed to introduce sufficient evidence to overcome a motion for summary judgment.
+
+Synopsis of Rule of Law
+Plaintiffs may prove a manufacturing defect through the use of circumstantial evidence, so long as a preponderance of the evidence establishes that the accident was caused by the defect rather than other possibilities.
+
+Facts
+Mr. Friedman alleged that he turned the ignition on his seventeen month old Oldsmobile while it was in drive, not expecting it to start. The car did start and leaped forward, and Mr. Friedman was unable to control the car before it crashed. Mr. Friedman and three members of his family were injured in the crash. Plaintiffs brought a claim against the Defendant and the trial court granted Defendant’s motion for summary judgment, finding that Plaintiffs had not proved the car was defective. The appellate court reversed the trial court’s decision and Defendant appealed.
+
+Issue
+Did the Plaintiffs’ introduce evidence of a sufficient quality to overcome Defendant’s motion for a directed verdict?
+
+Held
+Yes. Judgment of the Court of Appeals is affirmed.
+
+Dissent
+Justice Stern stated that the total evidence in this case only demonstrates that something unusual happened and that a possible explanation is that the car had a defect. Plaintiffs failed to submit sufficient evidence to infer that a defect existed at the time the car left the defendant manufacturer.
+
+Discussion
+In a proper case, the principles behind res ipsa loquitur may be applicable to satisfy the requirements of strict liability. However, as the dissent pointed out, the present facts are not appropriate for such an application because other explanations for the accident are available.
+

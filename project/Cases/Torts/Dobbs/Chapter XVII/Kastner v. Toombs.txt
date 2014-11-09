@@ -1,0 +1,21 @@
+Citation
+611 P.2d 62 (Alaska 1980)
+
+Brief Fact Summary
+Plaintiff, an injured pipe layer, sued Defendant, a backhoe company, in the Superior Court of Alaska, alleging vicarious liability for its operator’s negligence. The trial court granted the company’s summary judgment motion on the ground that its operator was a borrowed servant working for the Plaintiff’s employer at the time of the accident. Plaintiff challenged this decision.
+
+Synopsis of Rule of Law
+The borrowed servant rule carves out an exception to the doctrine of respondeat superior. Under the borrowed servant rule a servant who is loaned by one master to another is regarded as acting for the borrowing master, and the loaning master is not held responsible for the servant’s negligent acts.
+
+Facts
+Plaintiff, an employee of a Clearwater Drilling, was laying pipe for a water line project. This entailed use of a backhoe (and its operator) leased to Clearwater by Toombs. The digging of a large ditch was required, and the operator warned of the possibility of a cave-in; Clearwater insisted the work go forward, there was in fact a cave-in, and Kastner was injured. He sued Toombs, the trial court granted Toombs’ summary judgment motion, and Kastner appealed.
+
+Issue
+Does the doctrine of respondeat superior strictly apply in instances when an employee is on “borrow” to another?
+
+Held
+The court reversed the superior court’s summary judgment order, basing its decision on the borrowed servant rule. It remanded the case for further proceedings.
+
+Discussion
+As noted, the borrowed servant rule is an exception to the respondeat superior doctrine. As the court explained, “[a] servant may act for two masters simultaneously. Nevertheless, if the borrowed servant rule applies, only one of them is held vicariously liable for the servant’s tort.” Rejecting the idea of exclusive liability, the court reasoned, “[t]he question of how the loss so caused should be distributed should be determined in accordance with principles of contribution and indemnity. These principles have been devised to answer questions concerning the allocation of losses among potentially responsible parties.” Thus, apportionment of blame, in essence, dual liability, could be quantified for equitable resolution.
+

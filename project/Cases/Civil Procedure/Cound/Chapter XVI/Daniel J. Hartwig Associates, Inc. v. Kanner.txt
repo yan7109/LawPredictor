@@ -1,0 +1,21 @@
+Citation
+22 Ill.913 F.2d 1213 (7th Cir. 1990)
+
+Brief Fact Summary
+The Plaintiff, Daniel J. Hartwig Associates, Inc. (Plaintiff), received a directed verdict against the Defendant, Kenner (Defendant), in a debt collection case. Defendant appealed arguing a material issue of fact existed as to whether there was a valid contract due to Plaintiff’s alleged misrepresentations made prior to entering the contract, and thus, should have been submitted to a jury.
+
+Synopsis of Rule of Law
+A court should direct a verdict only if there is no credible evidence to sustain a verdict in favor of the party against whom the motion was made.
+
+Facts
+Defendant, an environmental and toxic injury lawyer, hired Plaintiff as an expert witness in a number of his trial cases. Pursuant to the contract between them, Defendant did not pay Plaintiff for his firm’s services stating that he did not have the money to pay him. Plaintiff asked Defendant to sign a promissory note for each of the cases he worked on for Defendant with the understanding that interest was to accrue until the due date and that Defendant would pay reasonable attorney costs involved in claiming the funds due. Defendant still did not pay and Plaintiff brought a breach of contract suit. Defendant did not show up to trial or present any witnesses. At the close of evidence, the district court judge directed verdict for Plaintiff – $40,725.04 the amount due in services rendered and interest and $3,500.00 for attorney’ fees in collecting payment. Defendant appealed arguing that the district court was precluded from directing verdict for Plaintiff because there was a material issue of fact as to whether the contract was void due to Plaintiff’s misrepresentations prior to entering the contract. Defendant alleged that Plaintiff misrepresented his educational background and did not disclose the existence of Plaintiff’s second company, an asbestos removal company, which created a conflict of interest with respect to Defendant’s environmental legal work.
+
+Issue
+Whether material issues of fact existed to render the trial court’s directed verdict in favor of the Plaintiff erroneous.
+
+Held
+No. Defendant had the burden of proving a defense to the contract – a task made nearly impossible by his choice not to appear at trial or present any witnesses. Defendant simply failed to present any evidence of reliance on Plaintiff’s misrepresentations or of a causal link between the misrepresentations and a loss he suffered. Accordingly, the district court did not err in directing a verdict in favor of Plaintiff.
+
+Discussion
+The Court of Appeals noted that Defendant was aware of Plaintiff’s misrepresentations regarding his resume when Defendant took Plaintiff’s testimony at one of the trials in which Plaintiff was an expert. Further, Plaintiff at this trial asserted that he notified Defendant of his resume and the existence of the other company. Though Defendant’s only defense to Plaintiff’s suit was the misrepresentation of his resume and a conflict of interest between the two companies, the Defendant did not contest them at the original trial.    Defendant failed to provide the necessary evidence at trial to support a verdict in favor of himself. Misrepresentation alone did not amount to a defense. In Washington, the forum state of this trial, Defendant had to prove by clear and convincing evidence the three elements of a fraudulent misrepresentation defense – (i) the material misrepresentation, (ii) detrimental reliance on it, and (iii) injury caused by the reliance. Defendant failed to present any evidence that he relied on Plaintiff’s misrepresentation. In the Court’s view, this was a simple debt collection case.
+

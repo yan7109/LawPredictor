@@ -1,0 +1,21 @@
+Citation
+357 F.3d 344
+
+Brief Fact Summary
+Plaintiff, Charles Bane, retired and collected a pension from a law firm that was then run by Defendants, Richard Ferguson et al.  Defendants dissolved the firm and the pension.
+
+Synopsis of Rule of Law
+Partners do not owe a duty to partners that retire from the partnership.
+
+Facts
+Plaintiff was a lawyer who retired.  His firm had a pension system that made retirement payments until the partnership dissolved without a successor entity.  Shortly after Plaintiff’s retirement, his prior firm merged with another firm, and the merged firm was unsuccessful and dissolved, leaving Plaintiff without a pension.  Plaintiff brought an action of negligent management against Defendants who were the partners of the now-dissolved firm.  Plaintiff argued that Defendants had a fiduciary duty to him, as a former partner, either through a common law duty, through the pension agreement or through a tort pleading.
+
+Issue
+The issue is whether a retired partner in a firm can claim that the other partners violated a duty to the retired partner by negligent management of the firm.
+
+Held
+There is no common law duty to retired partners.  Further, the pension agreement does not establish a duty, and they would not have breached the duty nonetheless because Defendants never intended to dissolve the firm.  Defendants are also protected under the business judgment rule from claims of negligent management.  Public policy also dictates that members of a firm should not be held liable under a tort claim of negligent mismanagement because the result would enable a multitude of people to state claims against any failing business.
+
+Discussion
+Former partners need to establish a duty through contract if they want to ensure that ongoing partners meet any duty that the retiring partners wants to rely upon, because common law will not protect them.
+

@@ -1,0 +1,21 @@
+Citation
+816 F. Supp. 1070 (D.S.C. 1992)
+
+Brief Fact Summary
+Plaintiffs, Robert Young et al., relied on an unqualified audit letter from one of the Defendants, Price Waterhouse-Bahamas (”PW-Bahamas”), and placed $550,000 with a South Carolina bank.  The investment was not accounted for, and Plaintiffs brought this action against Defendants.
+
+Synopsis of Rule of Law
+Partnership by estoppel creates a liability to third parties who rely upon representations that a partnership exists.
+
+Facts
+Plaintiffs invested $550,000 in a South Carolina bank after they were reassured by Defendants, through an unqualified audit letter, that the investment entity was legitimate.  The audit letter was based upon a falsified financial statement.  Plaintiffs dealt primarily with one Defendant, PW-Bahamas, to obtain the audit letter, but they included the United States Price Waterhouse (”PW-US”) firm as well as individual members of the PW-US firm.  PW-US and its individual members did not directly handle the failed investment, but partners are jointly and severally liable for the actions of one party of a partnership.  Therefore, if Plaintiffs could establish a partnership between PW-Bahamas and PW-US then PW-US could be held liable.  Plaintiffs argued that a partnership by estoppel was established through pamphlets by Defendants that linked the various offices worldwide.
+
+Issue
+The issue is whether a partnership by estoppel was established between PW-Bahamas and PW-US to hold PW-US liable for the missing investment money.
+
+Held
+There was no partnership by estoppel because there was no proof that Plaintiffs relied upon any acts or statements by Defendants that a partnership existed between PW-Bahamas and PW-US.  Plaintiffs never made any assertions that they extended the credit based upon a perceived partnership between Defendants and therefore can not rely upon the doctrine of partnership by estoppel.
+
+Discussion
+Plaintiffs could not prove that an actual partnership existed and alternatively pleaded that a partnership by estoppel existed.  Plaintiffs lacked jurisdiction to directly bring an action against PW-Bahamas so it was critical to establish the partnership.
+

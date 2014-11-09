@@ -1,0 +1,21 @@
+Citation
+22 Ill.354 F.2d 401 (8th Cir. 1966)
+
+Brief Fact Summary
+An action to decide whether summary judgment was appropriate to decide a case seeking the true beneficiaries in a deceased’s insurance policy.
+
+Synopsis of Rule of Law
+Summary judgment is appropriate to decide a case when no triable issues of fact exist.
+
+Facts
+The Plaintiff, Lundeen (Plaintiff), brought suit on behalf of her children against the insurer of her deceased ex-husband’s insurance policy and trustee of his estate. Plaintiff claimed her two children were the sole beneficiaries of the policy. The Defendant, the deceased’s new wife (Defendant), intervened in the action claiming the deceased had changed the beneficiary designations and that she was a claimant of the policy. Defendant brought forth numerous affidavits as to the beneficiary change and the trial court awarded summary judgment to the Defendant. Plaintiff appealed claiming a triable issue of fact remained in that the testimony of a witness at trial could help Plaintiff prove her case.
+
+Issue
+Whether summary judgment was appropriate to decide the case when Plaintiff sought to call a witness to help her prove her case.
+
+Held
+Summary judgment was appropriate in this case. The witness that Plaintiff sought had signed an affidavit that stated he saw the deceased change beneficiaries on the policy – a fact that helped the Defendant’s case, not the Plaintiff’s. Further, the proposed witness was out of the reach of the parties since he was in a foreign country. Judgment affirmed.
+
+Discussion
+Summary judgment is appropriate when no triable issues of fact remain in a case. The purpose is to avoid useless trials. At trial, a jury decides the facts and the judge decides the law, therefore, in summary judgments, a jury is unnecessary because no triable facts exist. As was the case here, the Plaintiff could present no triable fact over which a jury could decide a verdict.
+

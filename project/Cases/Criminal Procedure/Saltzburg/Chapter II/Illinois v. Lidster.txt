@@ -1,0 +1,24 @@
+Citation
+540 U.S. 419, 124 S. Ct. 885, 157 L. Ed. 2d 843 (2004)
+
+Brief Fact Summary
+Police set up a highway checkpoint to ask motorists for information about a hit and run.  Respondent was determined at the checkpoint to be driving under the influence.
+
+Synopsis of Rule of Law
+Where a stop advances a grave public concern to a significant degree, and interferes only minimally with liberty the Fourth Amendment seeks to protect.
+
+Facts
+In response to the hit-and-run death of a bicyclist, police set up a checkpoint to ask occupants if they had any information about the incident, and handed each driver a flyer about the matter.  Respondent Robert Lidster’s vehicle swerved as it approached the checkpoint.  A roadside sobriety test determined that the respondent was driving under the influence of alcohol.
+
+Issue
+Whether a “highway checkpoint where police stopped motorists to ask them for information” about a criminal matter complied with the Fourth Amendment.
+
+Held
+Yes.  First, the Court distinguished this case from Edmond, noting that in this matter, the checkpoint “was not to determine whether a vehicle’s occupants were committing a crime but to ask vehicle occupants . . . for their help in providing information about a crime . . . committed by others.”  The court dismissed the notion that “such stops normally lack individualized suspicion cannot by itself determine the constitutional outcome.”  The court did “not believe that an Edmond-type rule is needed to prevent an unreasonable proliferation of police checkpoints.”  On the merits of the case itself, the police were advancing a “grave” public concern with an “appropriately tailored . . . checkpoint stops to fit important criminal investigatory needs.”  Finally, “the stops interfered only minimally with liberty.”
+
+Dissent
+The dissenting judges noted that “motorists who confront a roadblock are required to stop, and to remain stopped for as long as officers choose to detain them.  Further, it was unlikely that questioning a “random sample of drivers” would gain any real answers.
+
+Discussion
+A checkpoint’s “reasonableness, hence, its constitutionality, [must be judged] on the basis of individual circumstances.”
+

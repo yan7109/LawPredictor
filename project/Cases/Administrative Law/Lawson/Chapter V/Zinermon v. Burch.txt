@@ -1,0 +1,21 @@
+Citation
+494 U.S. 113, 110 S. Ct. 975, 108 L. Ed. 2d 100 (1990)
+
+Brief Fact Summary
+Darrell Burch (Respondent) brought this action under 42 U.S.C. Section:1983 against 11 Florida State Hospital (FSH) physicians, administrators and staff (Petitioners), alleging they deprived him of his liberty without due process of law by admitting him as a “voluntary” mental patient when he was incompetent to give informed consent to his admission.
+
+Synopsis of Rule of Law
+The Parratt test applies to a narrow range of cases where the value of predeprivation safeguards is negligible in preventing the kind of deprivation at issue; and no matter how significant the private interest at stake and the risk of its erroneous deprivation, the State cannot be required constitutionally to do the impossible by providing predeprivation process.
+
+Facts
+Respondent was found wandering along a Florida highway, appearing hurt and disoriented. He was taken into a mental health care facility, where he was diagnosed as paranoid schizophrenic, and then moved to FSH, where he signed forms requesting admission and authorizing treatment.  Respondent later brought this action in District Court alleging that Petitioners deprived him of his liberty without due process of law by admitting him as a “voluntary” mental patient when he was incompetent to give informed consent to his admission.  The District Court reasoned there was no feasible predeprivation remedy, and under Parratt and Hudson, the State’s postdeprivation tort remedies provided Respondent with all the process that was due him. The Eleventh Circuit panel affirmed the dismissal, but the Court of Appeals ordered a rehearing en banc. On rehearing, and the Eleventh Circuit reversed the District Court and remanded the case. The United States Supreme Court granted certiorari to define the proper scope of the Parratt rule.
+
+Issue
+What is the proper scope of the Parratt rule?
+
+Held
+Respondent’s complaint was sufficient to state a claim under Section:1983 for violation of his procedural due process rights.   Parratt and Hudson come into play in special cases of the general Mathews v. Eldridge analysis where postdeprivation are all the process that is due, simply because they are the only remedies the State could be expected to provide.  This case was not controlled by Parratt and Hudson for three basic reasons. First, the deprivation of liberty was not unpredictable, because an error will occur, if at all, in the admission process. Second, a predeprivation process was not impossible here. The Florida statutes did not direct any facility staff to determine whether a person was competent to give consent. Because Petitioners had state authority to deprive persons of liberty, the Constitution    required them to concomitant duty to see that no deprivation occurred without adequate procedural protections. Third, Petitioners’ conduct was not “unauthorized” because the statute delegated broad authority to them to effect the deprivation complained of here.   Dissent. Pratt and Hudson should readily govern procedural due process claims like respondent’s.  Concurrence. None.
+
+Discussion
+Parratt is not an exception to the Mathews balancing test, but an application of that test to the unusual case in which one of the variable in the Mathews equation- the value of predeprivation safeguards- is negligible in preventing the kind of deprivation at issue. Therefore, no matter how significant the private interest at stake and the risk of its erroneous deprivation, the State cannot be required constitutionally to do the impossible by providing predeprivation process.
+

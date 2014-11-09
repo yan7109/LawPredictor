@@ -1,0 +1,24 @@
+Citation
+551 U.S. 701 (2007)
+
+Synopsis of Rule of Law
+Balancing racial composition between local high-school districts is not a strong government interest under the Equal Protection Clause.
+
+Facts
+The Seattle School District (D) put into action a plan to assign students to different schools among its ten public high schools, the aim being to achieve equal ratios of white and black students in each. The district has no history of racial segregation in schools. The Jefferson County Public Schools in Louisville, Kentucky, was under orders to desegregate from 1975 to 2000, at which time a federal court ruled that Louisville had attained unitary status, earlier racial segregation being now mostly absent. After the Louisville district was removed from court supervision, it adopted a plan on its own initiative which assigned specific maximum and minimum percentages for black student enrollment. Parents of students in both districts sued their respective district, citing violation of the Equal Protection Clause. The assignment plan was supported by the intermediate appellate courts in both cases, upon which the Supreme Court was petitioned for review.
+
+Issue
+
+
+Held
+(Roberts, C.J.) No. Balancing racial composition between local high-school districts is not a strong government interest under the Equal Protection Clause. Since both districts have assigned government benefits in the form of education with race as a criterion, strict standard of review is applicable in these cases. Thus it is binding upon the districts to show that their race-based discrimination (1) is to promote a strong government interest (2) use of means which is specifically shaped to the objective. The interest asserted in both districts is to achieve a numerical balance in the number of students of both races. This is not lawful, as this Court has held on a number of occasions. In Grutter v. Bollinger, 539 U.S. 306 (2003) the principle was different in that it involved the state interest of providing higher education, and the law-school admission policy affirmed in that case was based on racial mixture as well as a number of other factors. In this case, only racial balance is sought to be achieved, which has never been a valid interest of government. The other reason for rejecting these plans is that the districts failed to show that other means than race-based splitting would not fulfill the objective. The verdict is reversed.
+
+Dissent
+(Stevens, J.) The Chief Justice demands strict equality before law but forgets that in the days before Brown, only black students were dictated to regarding their school admissions. This decision is in effect completely changing the history of the most outstanding school-desegregation verdict.
+
+Concurrence
+(Thomas, J.) Racial imbalance is not the same as racial segregation, and even without the desire or plan to segregate there may be racial imbalance. Forced mixing of students is a debatable means of promoting educational benefit or of improving the achievement potential for black students in particular. Since the constitution recognizes no color, these plans must be rejected.
+
+Discussion
+The plurality opinion in this case was based mostly upon the hard and fast percentages fixed by the districts. This is as good as a quota-based system, which has never been accepted by the Court under the Equal Protection Clause, though Justice Breyer does not see it that way in his dissent. In Regents of the University v. Bakke, 438 U.S. 265, 307 (1978), where the university’s purpose to provide for a specific percentage of some particular group just because it is of a desired race or people group was declared facially invalid.
+

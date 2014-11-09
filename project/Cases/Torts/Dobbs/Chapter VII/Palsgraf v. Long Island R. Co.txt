@@ -1,0 +1,24 @@
+Citation
+248 N.Y. 339, 162 N.E. 99 (1928)
+
+Brief Fact Summary
+The Appellate Division of the Supreme Court in the Second Judicial Department (New York) affirmed the trial court’s holding that the Long Island R. Co. (Defendant) was responsible for injuries to Plaintiff resulting from an explosion. The Defendant appealed.
+
+Synopsis of Rule of Law
+To recover for negligence, the plaintiff must establish each of the following elements: duty, standard of care, breach of duty, cause-in-fact, proximate cause (scope of liability) and damages.
+
+Facts
+The Plaintiff was standing on a railroad platform purchasing a ticket, when a train stopped and two men ran forward to catch it. One of the men nearly fell, and two railroad employees attempted to help him. In the process, a package containing fireworks fell and the contents exploded. As a result of the explosion some scales at the other end of the platform fell and struck the Plaintiff. Plaintiff sued and a jury found in her favor. The Appellate Division affirmed this decision, but the Court of Appeals of New York reversed.
+
+Issue
+What constitutes negligence?
+
+Held
+The court reversed the appellate court judgment and dismissed the complaint.
+
+Dissent
+The dissent takes the view that, as a matter of law, it could not be determined that the Defendant’s actions were not the proximate cause of the Plaintiff’s injuries. Justice Andrews concluded that the judgment should have been affirmed.
+
+Discussion
+Plaintiff must show that some wrong was done to herself, i.e., that there was a violation of her own rights, not merely a wrong done to someone else. In this case, there was nothing to indicate that the package contained fireworks, and if dropped, would cause an explosion. The guards, who were assisting the passenger on the train, were negligent in doing so, and caused the package to be dislodged, which fell causing an explosion. The explosion caused some scales at the other end of the platform to fall, striking Plaintiff. The guards were not negligent in relation to the Plaintiff, who was standing far away when the package was dropped. If the court had decided that Defendant was negligent in respect to the Plaintiff, then the majority concludes that a defendant would be liable for any and all consequences of its negligence, “however novel or extraordinary.”
+

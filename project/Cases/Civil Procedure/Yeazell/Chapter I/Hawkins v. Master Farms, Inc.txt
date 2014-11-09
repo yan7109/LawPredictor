@@ -1,0 +1,21 @@
+Citation
+2003 U.S. Dist. 11620.
+
+Brief Fact Summary
+Plaintiff Mary Ann Hawkins, brought suit on behalf of the estate of James Creal, who was killed by a tractor driven by the defendant.
+
+Synopsis of Rule of Law
+For purposes of determining whether diversity jurisdiction exists, a person is a “citizen” of the state in which he or she is “domiciled.” For adults, domicile is established by physical presence in a place in connection with a certain state of mind concerning one’s intent to remain there.
+
+Facts
+On December 8, 2000, James Creal was killed while his automobile was struck by a tractor owned by Defendant Master Farms, Inc., on Mineral Point Road, just south of Troy, Kansas. At the time of his death, Mr. Creal was living in Troy, Kansas. His death certificate lists Kansas as his residence. Until his death in December 2000, Mr. Creal retained certain connections with the State of Missouri. In November 1999, he applied for a Missouri title and license for his Chevrolet van using his mother’s St. Joseph address. In December 1999, he applied for automobile insurance on the van using the same address. In March 2000, he listed the address when he took out a loan and applied for a new Missouri title on the van to name a new lien holder. In April 2000, he renewed his Missouri driver’s license for three more years under the address. In May 2000, he filled out a form for life insurance listing the address. Mr. Creal also received mail and his paycheck stubs at his mother’s house, where he stopped by every week to visit. After his death, an estate was opened for Mr. Creal in Buchanan County, Missouri alleging that he resided at his mother’s address at the time of his death. Plaintiff, the executor of Creal’s estate, brought an action against Defendant in Federal district court, alleging diversity jurisdiction. Defendant disputed that there was complete diversity between the parties, and moved to dismiss.
+
+Issue
+What constitutes sufficient diversity of jurisdiction for bringing an action in Federal court based on diversity jurisdiction?
+
+Held
+The Court denied the Plaintiff’s motion to dismiss on the grounds that a person’s domicile is taken from the person’s physical presence in a state coupled with an intention to remain there.   Fed R. Civ. P. 12(b)(1) motions for lack of subject matter jurisdiction generally take one of two forms: (1) a facial attack on the sufficiency of the complaint’s allegations as to subject matter jurisdiction; or (2) a challenge to the actual facts upon which subject matter jurisdiction is based. A court reviewing a facial challenge must accept the plaintiff’s factual allegations regarding jurisdiction as true. As the party seeking to invoke Federal jurisdiction, Plaintiffs bear the burden of proving that jurisdiction is proper.     For purposes of determining whether diversity jurisdiction exists, a person is a “citizen” of the state in which he or she is “domiciled.” For adults, domicile is established by physical presence in a place in connection with a certain state of mind concerning one’s intent to remain there.”
+
+Discussion
+In holding Kansas as Mr. Creal’s domicile, the court focused on his apparent intention to remain there. Specifically the Court referred to the fact that Mr. Creal had had moved his clothes, some furniture, pictures, photo albums, and other memorabilia into the home he shared with Mrs. Creal and her children; he contributed to household costs; and he purchased a new bedroom set with his wife.
+

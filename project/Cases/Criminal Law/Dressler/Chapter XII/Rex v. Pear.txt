@@ -1,0 +1,21 @@
+Citation
+1 Leach 212, 168 Eng.Rep. 208 (Central Criminal Court, 1779).
+
+Brief Fact Summary
+This case focuses on the indictment of Pear for stealing a black horse that was the property of Samuel Finch (Finch).
+
+Synopsis of Rule of Law
+This action is, today, commonly referred to as larceny-by-trick. It arises where a defendant, at the time of acquiring property from a legal owner, knows that the use he communicates to the owner is not the true use to which the property will be put once in his hands.
+
+Facts
+Samuel Finch (Finch) was a stable-keeper in the Borough. On July 2, 1779, Pear hired a horse belonging to Finch to take him to Sutton and back. Pear told Finch that he would return at 8 p.m. on July 2. When asked, Pear told Finch that he lived at 25 King Street. However, Pear did not return the horse and, instead, sold the horse to William Hollist (Hollist) on that same day. Furthermore, upon investigation, it was determined that Pear did not reside at the address provided to Finch.
+
+Issue
+Did Pear have the intention, at the time he rented the horse, to sell the horse that day or did he actually intend to take the journey he described, and only later did decided to sell? Furthermore, does the sale of the horse to an innocent third person buyer change the nature of possession and, thus, render the conduct of Pear not a felony?
+
+Held
+After trial, the jury found that Pear had hired the horse with a fraudulent view and intention of selling it immediately. Further, the judges found that the selling of the horse by Pear had not changed the nature of the possession. As a result, the judges found that Pear was guilty of a felony crime.
+
+Discussion
+In a larceny-by-trick action, the focus should be on the intention of the defendant who acquires possession from the legal owner of property. If the intention at the time of bargaining and communication with the legal owner is not the true use to which the property will be made once in the hands of the defendant, that defendant must be found guilty of the crime. Alternatively, when the defendant takes the property with pure motives and with the knowledge of the legal owner, but only later decides to put the property to a different use, then larceny-by-trick will not be found.
+

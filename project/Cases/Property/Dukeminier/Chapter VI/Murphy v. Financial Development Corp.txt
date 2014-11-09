@@ -1,0 +1,21 @@
+Citation
+126 N.H. 536, 495 A.2d 1245, 1985 N.H.
+
+Brief Fact Summary
+The Plaintiffs, Mr. and Mrs. Murphy (Plaintiffs), defaulted on their loans and the Defendants, Financial Development Corp. and Southern Home Traders (Defendants), a mortgagee put Plaintiffs’ house up for sale. Plaintiffs sued to set aside foreclosure sale of their house alleging that the Defendant failed to exercise good faith and due diligence in the sale of their house.
+
+Synopsis of Rule of Law
+A mortgagee in conducting a foreclosure sale is acting as a fiduciary of the mortgagor and has a duty of good faith and due diligence.
+
+Facts
+The Plaintiffs bought a house in 1966, financing it by means of a mortgage loan. In 1980, they refinanced using the Financial Development Corp. However in 1981, Mr. Murphy became unemployed and the Plaintiffs fell seven months behind in their mortgage payments. Financial Development Corp. sent notice of foreclosure. The Plaintiffs managed to pay the back payments, but failed to pay the legal fees and late fees associated with the seven months. Eventually, the house was sold at a foreclosure sale to the Financial Development Corp., who later resold it Southern Home Traders, which is also a Defendant in this action. The Plaintiffs sued to set aside the sale. The trial court found for the Plaintiffs and awarded them $27,000 against the Defendants as the difference between what the house was sold for and its purported fair market value.
+
+Issue
+Whether the lenders complied with:
+
+Held
+Reversed in part; affirmed in part. The mortgagee dealt in good faith, but failed to exert due diligence in the sale.
+
+Discussion
+The court separated the two fiduciaries duties (good faith and due diligence) and analyzed each separately. The court reversed the lower court on its ruling regarding good faith because the court stated that Financial Development Corp. had tried on numerous occasions to allow Plaintiffs to refinance, as well as gave the Plaintiffs numerous extensions of time in which to pay arrears. This, combined with compliance with procedural foreclosure notices was sufficient to demonstrate good faith. With respect to due diligence, the court found that Financial Development Corp. had failed to uphold this duty with the strongest evidence being the immediate sale of the house for a much higher price a few days later to the Southern Home Traders.
+

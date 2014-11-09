@@ -1,0 +1,21 @@
+Citation
+6 Cox C.C. 559 (Ct. Crim. Law 1855).<br />
+
+Brief Fact Summary
+Defendant was convicted of attempting to obtain money by false pretenses.
+
+Synopsis of Rule of Law
+Acts remotely leading to the commission of the crime are not to be considered as attempts, but acts immediately connected with the crime are attempts.
+
+Facts
+Defendant was a baker who contracted with a Parrish to supply bread weighing a certain amount to the poor. The Parrish in turn would credit his account and pay him per loaf that he supplied to poor customers for free. Before the first payment, the Parrish discovered that Defendant was supplying loaves of bread that weighed less than the agreed contract weight
+
+Issue
+Whether the credit attributed to Defendant’s account can be considered an attempt to obtain money under the false pretenses law.
+
+Held
+Affirmed, the act of receiving credit for distribution of the loaves of bread was the last act necessary on behalf of Defendant and makes him guilty of an attempt to obtain money by false pretenses.
+
+Discussion
+This analysis was called the “last act” test. It did not last long in the courts. However as applied here, the court ruled that Defendant was not obligated to do anything further to receive the money under the contract. It was only the discovery by the Parrish of the fraud that led to Defendant never receiving payment.
+

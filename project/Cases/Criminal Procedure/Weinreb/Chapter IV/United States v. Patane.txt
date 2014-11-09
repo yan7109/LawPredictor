@@ -1,0 +1,21 @@
+Citation
+542 U.S. 630, 124 S. Ct. 2620, 159 L. Ed. 2d 667 (2004)
+
+Brief Fact Summary
+Patane appealed firearm charges when a gun was found as the result of his un-Mirandized statements to police.
+
+Issue
+Whether evidence found as the result of an un-Mirandized confession is admissible.
+
+Held
+Remanded.  The court held such evidence is admissible, so long as the statements have not been coerced; however, the statements, themselves, may not be admissible as un-Mirandized confessions.
+
+Dissent
+Justices Breyer and Souter dissent, maintaining that the fruit of the poisonous tree doctrine should control this case and because the statements leading to the physical evidence were not admissible, neither should be the evidence.
+
+Concurrence
+Justice Kennedy concurred, noting that so long as no un-Mirandized statements are admitted against the defendant at trial, evidence obtained by his voluntary statements should not be inadmissible.
+
+Discussion
+This case straddles the line of what is considered “fruit” in the doctrine of the poisonous tree.  As other cases make clear, any statements obtained as un-Mirandized may not be used, but this case holds that physical evidence, when volunteered, may be.
+

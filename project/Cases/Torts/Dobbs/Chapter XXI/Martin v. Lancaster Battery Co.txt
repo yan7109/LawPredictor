@@ -1,0 +1,24 @@
+Citation
+544 Pa. 633, 675 A.2d 1250 (1996)
+
+Brief Fact Summary
+The Superior Court, Philadelphia (Pennsylvania) reversed a trial court order sustaining the Appellants’, Lancaster Battery Co. Stuart C. Manix, and R.A. Boben, Jr., M.D. and Lancaster Pediatric Associates, Ltd. (Appellants), preliminary objections to an action for fraudulent misrepresentation. The Appellees, Joseph H. Martin, Sr. (Mr. Martin) and Patricia J. Martin (Appellees) alleged that the Appellants (as Appellee husband’s employer) withheld the results of blood tests required by federal safety regulations. The Appellants sought review.
+
+Synopsis of Rule of Law
+The applicable workmen’s compensation statute is not the exclusive remedy for the aggravation of an employee’s work-related injury where the employer’s fraudulent misrepresentation has been alleged.
+
+Facts
+Mr. Martin was an employee of Lancaster Battery, a battery manufacturer, and in the course of employment was exposed to lead dust and fumes. Per federal safety regulations, employees were to be tested regularly to monitor the lead content in their blood. The company supervisor overseeing the testing purposefully withheld Mr. Martin’s results over a period of more than three years. In some cases, the supervisor altered test results. As a result, Mr. Martin developed chronic lead toxicity and severe related conditions. The Appellees sued, alleging intentional and willful misconduct by the Appellants. The trial court sustained the Appellants’ preliminary objections in the nature of a demurrer to the Appellees’ complaint, holding that the exclusivity provision of the Workmen’s Compensation Act (the Act) barred the action. The appellate court reversed.
+
+Issue
+* Did the Act’s “exclusive remedy” provision bar claimants’ action?<br />* Did the Appellants submit facts sufficient to support a cause of action?
+
+Held
+The Pennsylvania Supreme Court affirmed the decision of the appellate court, which reversed and remanded the trial court’s order, holding:
+
+Dissent
+The dissent takes issue with the majority’s interpretation of the plain language of the Act, specifically with regard to the exclusive remedy provision, stating that the case at bar was “clearly within the scope of immunity granted employers under the Workmen’s Compensation Act. The decision of the Superior Court, holding that the present action against the employer can proceed, should be reversed.”
+
+Discussion
+The Pennsylvania Supreme Court in Martin addressed the distinction between claims for injuries in connection with the Act and those aimed at recovery for tortuous conduct, noting that the former “does not preclude an action at common law for intentional wrongs committed by fellow employees.” The court articulates the distinction this way: “The applicable workmen’s compensation statute is not the exclusive remedy for the aggravation of an employee’s work-related injury where the employer’s fraudulent misrepresentation has been alleged.” Thus, in alleging fraudulent misrepresentation, Appellees stated a separate and distinct cause of action, the elements of which the court enunciated in the following manner: “A cause of action for fraudulent misrepresentation is comprised of the following elements: (1) a misrepresentation, (2) a fraudulent utterance thereof, (3) an intention by the maker that the recipient will thereby be induced to act, (4) justifiable reliance by the recipient upon th<br />e misrepresentation and (5) damage to the recipient as the proximate result.”<br />With regard to the Appellants’ demurrer, originally sustained by the trial court and subsequently reversed, the court’s explanation of the relevant procedural consideration is instructive: “Preliminary objections in the nature of a demurrer are reviewed pursuant to the following standard: All material facts set forth in the complaint as well as all inferences reasonably deducible therefrom are admitted as true for the purpose of this review. The question presented by the demurrer is whether on the facts averred the law says with certainty that no recovery is possible. Where a doubt exists as to whether a demurrer should be sustained, this doubt should be resolved in favor of overruling it.” The court disagreed with the trial court’s assessment of the factual case presented by the Appellees and thus ruled in their favor.
+

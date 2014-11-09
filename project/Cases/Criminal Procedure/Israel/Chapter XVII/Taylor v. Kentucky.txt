@@ -1,0 +1,24 @@
+Citation
+130 S. Ct. 175, 175 L. Ed. 2d 110 (2009) [2009 BL 213817]
+
+Brief Fact Summary
+Petitioner, tried for armed robbery, had requested that jury instructions include the presumption of innocence and the indictment’s lack of evidentiary value.  The trial judge denied.
+
+Synopsis of Rule of Law
+“[O]ne accused of a crime is entitled to have his guilt or innocence determined solely on the basis of the evidence introduced at trial, and not on grounds of official suspicion, indictment, continued custody, or other circumstances not adduced as proof at trial.  And it has long been recognized that an instruction on the presumption [of innocence] is one way of impressing upon the jury the importance of that right.”
+
+Facts
+Petitioner Taylor was tried for robbery.  He and an accomplice allegedly forced their way into the home of one Maddox, an acquaintance, after attempting to gain legitimate access 15 minutes prior.  They his Maddox and fled with a house key and billfold.  Maddox was on the only prosecution witness.  Petitioner was the only witness for the defense.  On the stand, he denied participating in the robbery.  Defense counsel requested that the judge instruct the jury on the presumption of innocence, and that the indictment, which had been read to the jury, was not evidence.  The court declined, instructing on the burden of proving petitioner’s guilt beyond a reasonable doubt.  He was found guilty.  The Kentucky Court of Appeals affirmed, and the Kentucky Supreme Court denied review.
+
+Issue
+“[W]hether the Due Process Clause of the Fourteenth Amendment requires that [instructions on the presumption of innocence and the indictment's lack of evidentiary value] be given upon timely defense motions.”
+
+Held
+Yes.  The Supreme Court of the United States first reiterated the principle of Coffin v. United States, which held that the “presumption of innocence in favor of the accused is the undoubted law, axiomatic and elementary, and its enforcement lies at the foundation of the administration of our criminal law.”  The Supreme Court was persuaded by the petitioner’s argument that the instructions requested would have been “purging” and that the actual instructions were “skeletal”.  The Supreme Court noted that under the instructions given, “the prosecutor’s closing argument ranged far and wide, asking the jury to draw inferences about petitioner’s conduct from ‘facts’ not in evidence.”  The prosecutor also drew attention to the indictment, which “permitted” the jury “to draw inferences of guilt from the fact of arrest and indictment.”
+
+Dissent
+Justices Stevens and Rehnquist agreed that “it is reversible error to refuse a request for a proper instruction the presumption of innocence” under Coffin.  However, they argued that there was no “constitutional” error.
+
+Discussion
+“[T]he presumption of innocence
+

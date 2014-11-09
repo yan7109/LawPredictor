@@ -1,0 +1,21 @@
+Citation
+22 Ill.53 F.R.D. 645 (W.D.N.Y. 1971)
+
+Brief Fact Summary
+Plaintiff, Less, (Plaintiff), served a non-party corporation with a subpoena to depose its non-party chairman.
+
+Synopsis of Rule of Law
+The Federal Rules of Civil Procedure (FRCP) do not distinguish nor apply different principles of discovery to non-party corporations.
+
+Facts
+The Plaintiff subpoenaed the chairman of Teledyne, Inc., a non-party corporation to this suit for a deposition. The corporation was served properly, however, Teledyne argued that a different rule should apply to the director of a non-party corporation.
+
+Issue
+Whether a non-party director of a non-party corporation may be required to submit to examination and under what conditions.
+
+Held
+Yes, non-parties are subject to the same discovery rules that apply to parties. The court ordered the deposition of Henry E. Singleton to be taken at the principal place of business of Teledyne, Inc.  The FRCP does not suggest that a different principle apply to discovery from a party corporation than those that apply to discovery from a non-party corporation.  A non-party witness must be further protected against undue burden and expense.
+
+Discussion
+FRCP Rule 30(a), which governs the taking of depositions, does not distinguish between parties and non-parties. Parties to an action may take depositions of any person, including any party. Therefore, this includes non-parties.  The court did not ignore its usual rules of protecting witnesses from undue burden. Therefore, the director did not need to travel from his residence, rather, to Teledyne, Inc.’s principal place of business.
+

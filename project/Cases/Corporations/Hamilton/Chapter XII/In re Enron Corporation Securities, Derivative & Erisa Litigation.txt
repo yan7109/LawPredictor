@@ -1,0 +1,21 @@
+Citation
+235 F. Supp. 2d 549 (S.D. Tex. 2002) [2002 BL 100]
+
+Brief Fact Summary
+This is a putative class action brought on behalf of purchasers of Enron corporation’s publicly traded equity and debt securities, (Plaintiffs), against (1) Canadian Imperial Bank of Commerce, 2) CitiGroup Inc., 3) J.P. Morgan Chase & Co., 4) Vinson  & Elkins LLP, 5) Arthur Andersen LLP, 6) Barclays PLC, 7) Credit Suisse First Boston, 8) Kirkland & Ellis, 9) Bank of America Corporation 10) Merrill Lynch & Co., 11) Lehman Brothers Holdings Inc., and 12) Deutzche Bank AG, and others, (Defendants).
+
+Synopsis of Rule of Law
+Scienter may be inferred through circumstantial evidence.
+
+Facts
+The complaint alleges that Defendants, “are liable for i) making false statements, or failing to disclose adverse facts while selling Enron securities and/or ii) participating in a scheme to defraud and/or a course of business that operated as a fraud or deceit on purchasers of Enron’s public securities during the Class Period.”
+
+Issue
+Whether Plaintiff has alleged that Defendants acted with the requisite scienter.
+
+Held
+Because Lead Plaintiff has alleged numerous violations of GAAP and GAAS and pleaded facts giving rise to a strong inference of scienter, he has pleaded a securities fraud claim against Arthur Andersen.
+
+Discussion
+These transactions were not isolated, but deliberate, repeated actions with shared characteristics that were part of an alleged common scheme through which all Defendants profited exorbitantly. The pattern that is alleged undercuts claims of unintentional or negligent behavior and supports allegations of intent to defraud. Further, Plaintiff has pleaded effectively the common motive of obsession with financial gain. The allegations asserted against most of the secondary actor Defendants such as the long-term, continuous, and intimate relationships with Enron and daily interaction with Enron’s top executives necessarily raise the specter of potential opportunities to learn about and participate in Enron’s financial affairs.
+

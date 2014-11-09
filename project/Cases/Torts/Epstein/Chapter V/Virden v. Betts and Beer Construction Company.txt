@@ -1,0 +1,27 @@
+Citation
+Iowa Sup. Ct., 656 N.W. 2d 805 (2003)
+
+Brief Fact Summary
+Virden sued the construction company alleging that their ceiling construction was defective, and was the immediate cause of his fall from a ladder he was using to repair the ceiling.
+
+Synopsis of Rule of Law
+In law, a proximate or immediate cause cannot be proved if the defendant’s negligence was not in substance responsible for the plaintiff’s injury.
+
+Facts
+Virden was a maintenance worker in a high school. The school had recently installed a new wrestling room, constructed by Betts and Beer Construction and Stroh Corporation (the “construction companies”). An angle iron had fallen from the ceiling of the new room, and he was bolting it back into place when he fell from the 10-foot ladder he was using. He had not got in touch with the construction companies before commencing the work, nor had the school. He did not try to get help in placing or securing the ladder though the spot was cluttered with gym equipment. He brought suit against the construction companies, on the ground that their negligence in construction was an immediate preceding factor in his fall. The trial court granted summary judgment to the construction companies. The intermediate court of appeals reversed the verdict. The state supreme court granted review.
+
+Issue
+As a legal question, in a case where the plaintiff’s injury is not to all effects caused by the negligence of the defendant, is a proximate cause proved?
+
+Held
+(Neuman, J.) No. In law, a proximate cause is not proved to exist if the defendant’s negligence does not substantially operate to bring about the plaintiff’s injury. The construction companies had the duty to see that users of the room built by them were not injured by falling ceiling parts. If such an event had occurred and caused an injury, in that case only would it have become actionable negligence. The criteria for proximate causation are: (1) the defendant’s action must have caused the injury. Another way of looking at this is to state that the damages would have failed to happen if the defendant had not been negligent. (2) the intention of the law must be to make the defendant responsible in law for the damages. In the present case the first criterion is established. If the construction companies had not been negligent, Virden would not have needed to climb the ladder. However, the second criterion is not so clear. It is not evident that the negligence of the construction companies substantially caused his fall. The construction companies had a duty to construct solid ceilings primarily to prevent people below from being hurt by falling parts. It was not its duty to protect repair personnel from having to climb tall ladders. The negligence in welding an angle iron cannot be directly traced to the ladder tipping over, or collapsing, leading to the maintenance man falling off the ladder. This lack of causation determines that the claim is without evidence. The trial court rightly granted summary judgment to the construction companies. The verdict of the appellate court is reversed.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+Summary judgment is rarely given on a question of proximate cause of injury, as the court made clear. Such issues are usually left to the jury to determine the factual issue. In such cases as the present, the question of proximate cause is decided as a purely legal issue on summary judgment because of the lack of any connection between the negligent act and the injury in the context of causation. The only exception would be if all the evidence was viewed in favor of the plaintiff, and all benefit of doubt given to the plaintiff, and yet the cause-effect relationship is so clear and yet patently unrelated to the negligent act that the defendant’s defective act could not be held responsible for the plaintiff’s injury by any reasonable jury.
+

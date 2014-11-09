@@ -1,0 +1,21 @@
+Citation
+488 A.2d 858, 3 EXC 112 (Del. 1985)
+
+Brief Fact Summary
+Plaintiffs, Alden Smith and John Gosselin, brought a class action suit against Defendant corporation, Trans Union, and its directors, after the Board approved a merger proposal submitted by the CEO of Trans Union, fellow Defendant Jerome Van Gorkom.
+
+Synopsis of Rule of Law
+Under the business judgment rule, a business judgment is presumed to be an informed judgment, but the judgment will not be shielded under the rule if the decision was unadvised.
+
+Facts
+Trans Union had large investment tax credits (ITCs) coupled with accelerated depreciation deductions with no offsetting taxable income.  Their short term solution was to acquire companies that would offset the ITCs, but the Chief Financial Officer, Donald Romans, suggested that Trans Union should undergo a leveraged buyout to an entity that could offset the ITCs.  The suggestion came without any substantial research, but Romans thought that a $50-60 share price (on stock currently valued at a high of $39  ½) would be acceptable.  Van Gorkom did not demonstrate any interest in the suggestion, but shortly thereafter pursued the idea with a takeover specialist, Jay Pritzker.  With only Romans’ unresearched numbers at his disposal, Van Gorkom set up an agreement with Pritzker to sell Pritzker Trans Union shares at $55 per share.  Van Gorkom also agreed to sell Pritzker one million shares of Trans Union at $39 per share if Pritzker was outbid.  Van Gorkom also agreed not to solicit other bids and agreed not to provide proprietary information to other bidders.  Van Gorkom only included a couple people in the negotiations with Pritzker, and most of the senior management and the Board of Directors found out about the deal on the day they had to vote to approve the deal.  Van Gorkom did not distribute any information at the voting, so the Board had only the word of Van Gorkom, the word of the President of Trans Union (who was privy to the earlier discussions with Pritzker), advice from an attorney who suggested that the Board might be sued if they voted against the merger, and vague advice from Romans who told them that the $55 was in the beginning end of the range he calculated.  Van Gorkom did not disclose how he came to the $55 amount.  On this advice, the Board approved the merger, and it was also later approved by shareholders.
+
+Issue
+The issue is whether the business judgment by the Board to approve the merger was an informed decision.
+
+Held. </span> The Delaware Supreme Court held the business judgment to be gross negligence, which is the standard for determining whether the judgment was informed.  The Board has a duty to give an informed decision on an important decision such as a merger and can not escape the responsibility by claiming that the shareholders also approved the merger.  The directors are protected if they relied in good faith on reports submitted by officers, but there was no report that would qualify as a report under the statute.  The directors can not rely upon the share price as it contrasted with the market value.  And because the Board did not disclose a lack of valuation information to the shareholders, the Board breached their fiduciary duty to disclose all germane facts. 						<!-- ContentBox-Law -->						<div id="div-gpt-ad-1368647497155-5" style="width:300px; height:250px;" class="floatright textad">						<script type="text/javascript">						googletag.display("div-gpt-ad-1368647497155-5");						</script>						</div>					<br /><br /><span class='heading'>Dissent
+The dissent believed that the majority mischaracterized the ability of the directors to act soundly on the information provided at the meeting wherein the merger vote took place.  The credentials of the directors demonstrated that they gave an intelligent business judgment that should be shielded by the business judgment rule.
+
+Discussion
+The court noted that a director’s duty to exercise an informed business judgment is a duty of care rather than a duty of loyalty.  Therefore, the motive of the director can be irrelevant, so there is no need to prove fraud, conflict of interests or dishonesty.
+

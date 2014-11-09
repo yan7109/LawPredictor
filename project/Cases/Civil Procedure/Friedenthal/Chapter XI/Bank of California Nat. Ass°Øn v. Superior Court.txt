@@ -1,0 +1,21 @@
+Citation
+22 Ill.16 Cal.2d 516, 106 P.2d 879 (1940)
+
+Brief Fact Summary
+The decedent left a will naming Defendants as executors and residuary legatee and named numerous other individuals as beneficiaries. Plaintiff brought suit against Defendants and the beneficiaries named in the will to enforce a contract allegedly bequeathing the entirety of the estate to Plaintiff. Plaintiff served Defendants with summons but not the other beneficiaries and Defendants moved to compel Plaintiff to serve the other beneficiaries.
+
+Synopsis of Rule of Law
+A party is required to join all “necessary and indispensable” parties. A party is considered indispensable only if the party’s rights will definitely be disposed of in the case at issue. It is not enough for the party to only have an interest in the case.
+
+Facts
+Boyd died with a will that was admitted to probate, and Bank of California National Association, Defendant was appointed executor. A number of people were left legacies and bequests and St. Luke’s Hospital, Defendant, was named residuary legatee and devisee. Smedley, niece and legatee of the deceased, brought suit to enforce a contract that allegedly left the entire estate to her. The complaint named the executor and all the beneficiaries of the will, and prayed for a decree naming Smedley the owner of the entire estate after payment of debts and expenses, and that title to the property be quieted. Summons was served on Bank of California and St. Luke’s Hospital but none of the other beneficiaries. Defendants filed a motion for an order to have summons issued and served upon the other named defendants on the grounds that they were “necessary and indispensable parties” to the action. The motion was denied. Defendants appealed for a writ of prohibition to restrain the trial unti
+
+Issue
+Are the other individuals named in the suit required to be served because they are necessary and indispensable parties?
+
+Held
+No. The writ is denied.
+
+Discussion
+Although decided under state law, this case illustrates the analysis employed by courts under Rule 19 of the Federal Rules of Civil Procedure, regarding joinder of parties. Note that the term “indispensable” is a stricter standard than “necessary.” The parties were not indispensable because the disposition was not binding on the rights of the parties and did not directly address the issue of what interests the beneficiaries were entitled to under the contested will.
+

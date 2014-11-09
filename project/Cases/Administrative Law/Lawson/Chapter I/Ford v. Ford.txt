@@ -1,0 +1,24 @@
+Citation
+307 Md. 105, 512 A.2d 389 (1986)
+
+Brief Fact Summary
+Petitioner, George Benjamin Ford, Jr. asserts that Respondent, Pearl Rose Ford is not entitled to obtain property under their mother’s will even though she was insane at the time she murdered her mother.
+
+Synopsis of Rule of Law
+The “slayer’s rule”, which prevents an individual who commits a felonious and intentional homicide from sharing in the distribution of the decedent’s estate, is not applicable when the killer was not criminally responsible for their conduct at the time they committed the homicide.
+
+Facts
+Respondent murdered her mother by stabbing her 40 times.  Under the criminal law she was found guilt of murder in the first degree, however she was also found not criminally responsible by reason of insanity.  The trial court in which the will was admitted to probate ruled that Petitioner be declared the heir of the estate.  On appeal the Circuit Court reversed and decided that Respondent was entitled to the property.  Petitioner now appeals.
+
+Issue
+Can an individual who kills another share in the distribution of the decedent’s estate when the individual was insane at the time of the killing?
+
+Held
+Yes.  Affirmed.  The “slayer’s rule” does not apply in the context of a killing committed by an insane individual because for a homicide to be felonious in the context of the rule it must be one for which the killer is criminally responsible under Maryland’s criminal insanity test.  Even though a killing may be intentional if it is not felonious the rule does not apply and the individual may share in the distribution of the estate.
+
+Dissent
+Respondent should be disqualified as devisee under her mother’s will because an actor’s conduct remains wrongful notwithstanding a finding of insanity.  An insane killer can commit a felonious act since the finding of insanity is not tantamount to an absence of mens rea or lack of intent to commit a crime.  Therefore the slayer’s rule, which bars an individual from profiting from his own wrongs, remains applicable.
+
+Discussion
+The “slayer’s rule” adopted by the Court in a series of cases provides that a person who kills another may not share in the distribution of the decedent’s estate when the homicide is felonious and intentional.  However the individual may share in the distribution when the homicide is unintentional even thought it may be the result of gross negligence.  This rule is a reflection of the common-law principle of equity that no one shall be permitted to profit by his own fraud, to take advantage of his own wrong, to found any claim upon his own iniquity, or to acquire property by his own crime.  The Court finds that this maxim is inapplicable when a person is criminally insane and that allowing the individual to inherit is consistent with principles of equity.
+

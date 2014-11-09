@@ -1,0 +1,15 @@
+Citation
+320 Md. 776, 580 A.2d 206
+
+Brief Fact Summary
+The Circuit Court for Prince George’s County (Maryland) granted summary judgment to defendant hospital, in a medical malpractice action. Plaintiffs appealed.<span class="heading">Synopsis of Rule of Law.</span> In order to recover pursuant to a wrongful death action, the plaintiff must prove, by a preponderance of the evidence, that the death was caused by the wrongful act of the defendant.
+
+Facts
+Cora Fennell, suffering severe headache, was taken by her husband to the emergency room. Doctors suspected intercranial bleed and performed a CT scan. Shortly thereafter she was admitted to the intensive care unit and died a day later. The CT scan results ruled out intercranial bleed, however, and were suggestive of an inflammatory process. An expert on behalf of the decedent determined she was suffering from bacterial meningitis and had a 40 percent chance of survival if she had received appropriate diagnosis and care. (An autopsy revealed Ms. Fennell had in fact suffered from meningitis.)<span class="heading">Issue.</span> Did the conduct of the hospital staff depart from the accepted standard of medical care thus constituting negligence and medical malpractice?
+
+Held
+The court affirmed the judgment of the circuit court, which granted summary judgment to the hospital in the wrongful death and survivor actions brought by the spouse, children, heirs, and personal representative of the decedent based on the hospital’s medical malpractice.<span class="heading">Dissent.</span> Judge Adkins in his dissent argues that a damages-based theory is an incorrect strategy for analysis. Adkins eschews the notion that liability may be arrived at through a calculus of possibilities. Instead, the dissent states, “Tort law is not about mathematical niceties; it has to do with fairness to fault-free victims who have suffered harm by reason of the tortious acts or omissions of others. It is a basic principle of our tort system that those who can prove they have been so harmed should be compensated.”
+
+Discussion
+The standard of care is the degree of conduct required to avoid liability for negligence. The most common benchmark is the “reasonable person” standard, i.e., how a reasonable would respond if faced with a similar set of circumstances. Breach occurs when an individual fails to meet this standard. While the latter is an objective standard, professionals are expected to proceed in the manner of a reasonable professional, that is, a practitioner of good standing within the profession. Thus, the standard of care to which physicians are held is set by the standards and practices of their profession. The physician must possess and use the knowledge and skill common to members of the profession in good standing. This standard demands of the physician minimal competence. In the medical malpractice context, liability attaches when a physician departs from the profession’s standard procedures. Looked at another way, if the physician follows customary practice, no malpractice has be
+

@@ -1,0 +1,21 @@
+Citation
+59 N.Y.2d 1,449 N.E.2d 713,462 N.Y.S.2d 819,1983 N.Y.
+
+Brief Fact Summary
+Respondent claimed fraud and deceit as a defense to child support obligations after petitioner misled him with regard to her use of contraception.
+
+Synopsis of Rule of Law
+The New York statute not permitting consideration of fraud and deceit when determining child support does not violate respondent’s constitutional right to privacy.
+
+Facts
+The family court found that petitioner had purposefully deceived respondent with regard to her use of contraception.  Based on this, the court held inapplicable the general rule that the apportionment of child support obligations is based on the parents’ means.  Instead it held that the support order entered against the father would be the amount by which the mother’s means were insufficient to meet the child’s.  The Appellate Division noted that the only things to be considered are the needs of the child and the means of the parents.  Therefore, it found the defense of fraud and deceit irrelevant and increased the support accordingly.
+
+Issue
+May a father assert the deliberate misrepresentation of the mother concerning her use of contraception as a defense to his support obligation after his paternity has been established?
+
+Held
+The statute does not permit such a defense.  The imposition of support does not violate Respondent’s constitutional right to privacy.
+
+Discussion
+The Court did not rule on the sufficiency of the state action claimed, but rather found that the privacy interest the respondent claimed was not protected by the Constitution.
+

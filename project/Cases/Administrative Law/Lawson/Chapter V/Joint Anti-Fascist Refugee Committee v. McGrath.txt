@@ -1,0 +1,33 @@
+Citation
+341 U.S. 123, 71 S. Ct. 624, 95 L. Ed. 817 (1951)
+
+Brief Fact Summary
+Petitioners were organizations that had been designated “communist” by the Attorney General of the United States (Respondents), and brought complaints that the labeling violated their constitutional due process rights.
+
+Synopsis of Rule of Law
+The court applied the “arbitrary and capricious” standard.
+
+Facts
+Petitioners were organizations that engaged solely in charitable or insurance activities and had been designated “communist” by the Attorney General and included in a list of organizations furnished to the Loyalty Review Board of the United States Civil Service Commission.  The Attorney General derived his authority from Executive Order No. 9835 (Order), issued by the President on March 21, 1951.  Petitioners alleged that their organizations were involved in charitable and civic duties that were helpful to their communities, and not anti-communist. Petitioners claimed their constitutional rights were violated because they received no notice, disclosure of reasons justifying the label, or opportunity to respond and establish their innocence.  The complaints were dismissed for failure to state a claim for which relief could be granted.
+
+Issue
+In the face of the facts alleged in the complaint and therefore admitted by the motion to dismiss, did the Attorney General have authority to include the complaining organization in the list of organizations designated by him as Communist?
+
+Held
+No. Remanded with instructions to deny the Respondents’ motion to dismiss.   The Order contained no express or implied attempt to confer power to act arbitrarily and capriciously, which is what the Attorney General did. The Order was not only to protect against communism, but also to protect employees against untrue accusations. It would be contrary to the purpose of the Order to place on the list an organization that was patently arbitrary and contrary to the undisputed material facts.  The majority did not address the constitutional issues.   Dissent.   The “communist” label did not punish Petitioners in any way that the Fifth Amendment affords protection. Perhaps a remedy would be available in a tort action, but not in a constitutional challenge.    Concurrence.   Justice Frankfurter: This case involved bigger issues than the arbitrary and capricious standard applied by the court. Petitioners’ due process rights were violated.  Justice Douglas: Discussed technical requirements of a Fifth Amendment due process claim, and added that it is the power of the Court to prescribe standards of conduct and procedure for inferior courts and agencies.  Justice Jackson: The fact that one may not have a legal right to get or keep a government job does not mean the can be adjudged ineligible illegally.
+
+Discussion
+The majority seemed to overlook the real constitutional issues in this case and decided it based on the simpler “arbitrary and capricious” standard.   Cafeteria and Restaurant Workers Union, Local 473, AFL-CIO v. McElroy  <b>Citation.</b> 367 U.S. 886 (1961)
+
+Brief Fact Summary
+Rachel Brawner was a short-order cook at a cafeteria on the Naval Gun Factory in the City of Washington. The Superintendent determined that she failed to meet security requirements, and required her to turn in her identification badge. The Cafeteria and Restaurant Workers Union (Petitioner) filed suit on Brawner’s behalf, seeking the return of her badge, re-admittance onto the premises, and her former employment.
+
+Synopsis of Rule of Law
+The Fifth Amendment does not require a trial-type hearing in every conceivable case of government impairment of private interest. Where it is possible to characterize that private interest as mere privilege subject to the Executive’s plenary power, it has been held that notice and hearing are not constitutionally required.
+
+Facts
+Brawner was a short-order cook at a cafeteria on the Naval Gun Factory in the City of Washington. The Superintendent determined that she failed to meet security requirements, and required her to turn in her identification badge.  The Cafeteria and Restaurant Workers Union (Petitioner) requested a hearing regarding Brawner’s denial of admittance, but it was denied. Petitioner then filed suit in District Court against the Secretary of Defense, the Superintendent and the Lieutenant in their individual and official capacities (Respondents).  Brawner was offered employment in another cafeteria in suburban Washington but declined to accept, claiming the location was inconvenient.
+
+Issue
+Did Respondents’ action in denying Brawner access to the Gun Factory deprive her of any right secured by the Constitution?
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.139 F.2d 774 (2d Cir. 1944)
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court on vague allegations that Defendant stole Plaintiff’s merchandise and sold Plaintiff’s merchandise at a prohibited price. The District Court ordered Plaintiff to amend the complaint. Plaintiff alleged more facts and the District Court dismissed Plaintiff’s claim on the grounds that the complaint did not “state facts sufficient to constitute a cause of action.”
+
+Synopsis of Rule of Law
+A complaint need only state a claim upon which relief can be granted. It does not necessarily have to contain facts that can support a cause of action.
+
+Facts
+Plaintiff Dioguardi filed a complaint stating that at an auction Defendant Durning, the Collector of Customs for the Port of New York, sold his merchandise at “public custom” to another bidder at Plaintiff’s price of $110 and not Defendant’s price of $120. In addition, Plaintiff alleged that three weeks before the sale, two cases of the merchandise disappeared. Plaintiff alleged that he filed a claim for the merchandise from Defendant, which Defendant denied. Plaintiff claimed $5,000. The District Court dismissed the complaint with leave for Plaintiff to amend, on the ground that the complaint “fails to state facts sufficient to constitute a cause of action.” Plaintiff added more allegations and filed an amended complaint. The District Court rendered a final judgment for dismissal on the grounds that Plaintiff’s complaint did not state “facts sufficient to constitute a cause of action.” Plaintiff appealed.
+
+Issue
+Did Plaintiff complaint need to contain “facts sufficient to constitute a cause of action”?
+
+Held
+No. Reversed and remanded.  Plaintiff’s complaint need only contain a statement that shows he would be entitled to relief.  The complaint is not clear but it does allege that Defendant took Plaintiff’s tonic and Defendant sold its tonic for less than a price Defendant allegedly was supposed to sell it. If Plaintiff proves these allegations, Plaintiff would be entitled to relief. Therefore, the complaint should not have been dismissed.
+
+Discussion
+This case illustrates the standard for evaluating a complaint against a motion to dismiss under Federal Rules of Civil Procedure 12(b)(6) (failure to state a claim upon which relief can be granted). This standard is known as “notice pleading.” A complaint need only state grounds which would entitle the plaintiff to relief. It need not contain specific allegations of facts that would constitute some specific cause of action. A complaint can be vague and incoherent, but if there is a discernable ground for relief, the complaint should not be dismissed for failure to state a claim.
+

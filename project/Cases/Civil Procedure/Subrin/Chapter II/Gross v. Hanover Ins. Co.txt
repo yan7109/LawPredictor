@@ -1,0 +1,21 @@
+Citation
+138 F.R.D. 53, 1991 U.S. Dist. 11685
+
+Brief Fact Summary
+Plaintiff, Gross, sought payment from Defendant, Hanover Insurance Company, under an insurance policy.  Defendant impleaded third-party defendants, Anthony and Joseph Rizzo.
+
+Synopsis of Rule of Law
+Under Federal Rules of Civil Procedure Rule 14(a), a defendant can implead a party who is or may be liable to the defendant for the damages sought by the plaintiff.
+
+Facts
+Plaintiff suffered a large loss after his jewels were stolen from the Anthony Rizzo’s store.  Plaintiff then made a claim under a policy issued by Defendant for $50,000 for the loss of consignment goods and $25,000 for the loss of jewels left at the store for safekeeping.  Defendant moved to implead the Rizzo brothers because a witness stated that on the night of the theft, Joseph Rizzo was seen talking to a third party at the store wherein he gave them a bag right before he closed the store.  Joseph claimed that the jewels were stolen when he turned his back for a few minutes.  Defendant was also asserting that Joseph had a bad cocaine habit and therefore may have fabricated the theft.  Plaintiff challenged Defendant’s motion as speculative and time-consuming.
+
+Issue
+The issue is whether the court should grant Defendant’s motion to implead the Rizzo brothers under Rule 14(a).
+
+Held
+The court held that the allegations brought by Defendant were sufficient to implead the Rizzos as third-party defendants.  Rule 14(a) only requires a defendant to plead that the third party may have been liable and does not have to meet the burden at this point to firmly establish the Rizzos’ liability.  The court believed that bringing in the parties may also be more efficient for purposes of discovery.
+
+Discussion
+Rule 14(a) is meant to improve the efficiencies of the court system by bringing in parties united under the same core of facts to resolve issues in one trial.  The court therefore, in absence of any significant prejudice to Plaintiff, allowed the motion.
+

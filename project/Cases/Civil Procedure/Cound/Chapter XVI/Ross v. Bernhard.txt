@@ -1,0 +1,18 @@
+Citation
+22 Ill.396 U.S. 531, 90 S. Ct. 733, 24 L. Ed. 2d 729 (1970)
+
+Brief Fact Summary
+Plaintiffs brought this derivative action in federal court against the directors of Lehman Brother (Defendants).  <br/><br/><span class='heading'>Synopsis of Rule of Law.</span> The Seventh Amendment guarantees the right to a jury trial in stockholders’ derivative actions in which the corporation would be entitled to a jury trial.
+
+Facts
+Plaintiff’s complaint contends that Lehman Brothers controlled the corporation through an illegally large representation on the corporation’s board of directors. The corporation’s board of directors was accused of converting corporate assets and of gross abuse of trust, bad faith and negligence. Both individual defendants, including Bernhard, and Lehman Brothers (Defendants) were accused of breaches of fiduciary duty. Plaintiffs requested that Defendants account for losses to the corporation and demanded a jury trial on the corporation’s claims. On the Motion to Strike Plaintiffs’ jury trial demand, the district court held that a shareholder’s right to a jury trial was to be judged as if the corporation were itself the Plaintiff. The district court found that only the shareholder’s initial claim had to be tried by a jury. The court of appeals reversed holding and held that no jury was available to try any part of it.
+
+Issue
+Whether the Seventh Amendment guarantees the right to a jury trial in stockholders’ derivative actions?
+
+Held
+Yes. Judgment is reversed.   Right to a jury trial extends to those issues in derivative actions when the corporation would be entitled to a jury trial. The Seventh Amendment preserves the right to a jury trial in all suits, which had a right to a jury trial at common law. The Seventh Amendment entitled the parties to a jury trial in actions for damages to a person or property, for libel and slander, for recovery of land, and for conversion of personal property. Common law, however, refused to permit stockholders to call corporate managers to account in actions at law.  The Seventh Amendment question of the right to a jury trial depends on the nature of the issue to be tried rather than the character of the overall action. A derivative action has two aspects: the stockholders right to sue on behalf of the corporation, and the claim of the corporation against directors or third parties on which the company could demand a jury trial. The corporation is a necessary party to the action and is the real party in interest. Derivative suits have been described as true class actions. Therefore, the Seventh Amendment preserves the parties’ right to a jury trial in a stockholder derivative suit when the corporations and those    against who a corporation pressed its legal claims have the same Seventh Amendment right.   <br/><br/><span class='heading'>Dissent.</span> The majority relies on an ill-defined combination of the Seventh Amendment and the Federal Rules of Civil Procedure. The Seventh Amendment does not extend the right to a jury trial, but preserves the right. There is no constitutional right to a jury trial even where there might have been one had the corporation brought the suit.
+
+Discussion
+This case demonstrates that procedural innovation can give rise to a right to a jury trial in a case where it would not have been available at common law. The decision in this case cannot be explained by the Federal Rules or the Constitution. According to the Court, this decision can be explained by the overwhelming bias in favor of jury trials in civil actions.
+

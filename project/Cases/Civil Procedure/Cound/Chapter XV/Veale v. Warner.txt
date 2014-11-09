@@ -1,0 +1,21 @@
+Citation
+85 ER 463, Volume 85
+
+Brief Fact Summary
+Plaintiff sued Defendant for 2000 pounds, allegedly owed to Plaintiff. Defendant responded by stating Plaintiff should be barred from the present action because an arbitration panel awarded Plaintiff 3169 pounds, which Defendant paid Plaintiff. Plaintiff denied that Defendant paid Plaintiff and moved for judgment. Defendant responded by arguing the arbitrator’s award was void.
+
+Synopsis of Rule of Law
+A party cannot plead certain facts are true and then later deny those facts in a subsequent pleading. Doing so will prevent judgment being rendered in favor of that party even if both parties stipulate that such judgment should be rendered.
+
+Facts
+Veale, Plaintiff, sued Warner, Defendant, for 2000 pounds. Plaintiff lent to Defendant. Defendant responded by introducing an arbitrator’s decision and award. The award showed that Plaintiff was awarded 3169 pounds and Defendant paid the award after Plaintiff signed a release of all liability from the debt. Defendant demurred. Plaintiff responded by denying that Defendant paid the award. Defendant responded by stating that Plaintiff cannot deny that Defendant paid Plaintiff because Plaintiff signed a release stating Defendant did pay Plaintiff. Plaintiff moved for judgment and Defendant’s counsel responded by arguing that Plaintiff could not have judgment because the arbitrator’s award was void due to the fact that it did not require Plaintiff to do anything.
+
+Issue
+Can Defendant later argue that the arbitrator’s award was void after introducing it as a defense to judgment for Plaintiff?
+
+Held
+No.  The only reason that Defendant’s counsel introduced the arbitrator’s decision was in order to trick Plaintiff into disclosing the award given by the arbitrator and that Plaintiff was attempting to get a windfall against Defendant.  Once Plaintiff responded to Defendant’s answer that an arbitrator awarded Plaintiff 3169 pounds and that Plaintiff had signed a release, Plaintiff could no longer contest the legal sufficiency or existence of the arbitrator’s award and the signed release. Defendant’s plan was for Plaintiff to be barred from arguing he was entitled the initial 2000 pounds because of Plaintiff’s admission of the existence of the arbitrator’s award and also for Plaintiff to not be entitled to 3169 pounds because of the release stating Defendant paid Plaintiff.  Once Defendant admitted the existence and legal sufficiency of the arbitrator’s award, he could not later deny the legitimacy of the award.
+
+Discussion
+This case illustrates that in the English common law, pleadings must be consistent. Requests for alternative relief were not permitted if such requests required denial of a fact already alleged to be true.
+

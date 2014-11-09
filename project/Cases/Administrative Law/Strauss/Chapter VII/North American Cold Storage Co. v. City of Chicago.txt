@@ -1,0 +1,21 @@
+Citation
+211 U.S. 306, 29 S. Ct. 101, 53 L. Ed. 195 (1908)
+
+Brief Fact Summary
+North American Cold Storage Company (Complainant) sought an injunction against the City of Chicago (Defendant), which demanded from Complainant 47 barrels of poultry on the grounds that it was spoiled and unfit for human consumption. Complainant argued that Section:1161 of the Revised Municipal Code of Chicago authorizing such conduct conflicted with the Fourteenth Amendment to the United States Constitution.
+
+Synopsis of Rule of Law
+The Fourteenth Amendment provides: “No State shall deprive any person of life, liberty, or property without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws. In the case of spoiled food, however, a preliminary hearing is not necessary beforehand where there are adequate remedies after-the-fact.
+
+Facts
+The City of Chicago demanded from Complainant turn over 47 barrels of poultry which Complainant held as bailee, on the grounds that it was spoiled and unfit for human consumption. Complainant refused to deliver the poultry, and the City shut down Complainant’s business. Complainant sought an injunction, arguing that Section:1161 of the Code authorizing the seizure of decayed food without a judicial determination that the same was putrid, decayed, poisonous or infected was in violation of the section of the Fourteenth Amendment.
+
+Issue
+Was a judicial hearing required before the seizure and condemnation of unwholesome food?
+
+Held
+No.   Provision for a hearing before seizure and condemnation and destruction of unfit and unwholesome food is not necessary. The right to seize is based on the right and duty of the State to protect and guard its citizens from eating spoiled food, which “is in itself a nuisance.”  A preliminary hearing before taking the food is not necessary, as the owner of the food or its custodian is amply protected against the party seizing the food, who must in a subsequent action show as a fact that it was within the statute.   Dissent. None.  Concurrence. None.
+
+Discussion
+The City’s interest in protecting its citizens from the hazards of spoiled food justified the deprivation without a prior hearing, as an adequate procedure for assessing the legality of the deprivation was available after-the-fact.
+

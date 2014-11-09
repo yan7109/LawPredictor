@@ -1,0 +1,21 @@
+Citation
+466 U.S. 408, 104 S. Ct. 1868,80 L. Ed. 2d 404, 1984 U.S. 68
+
+Brief Fact Summary
+Plaintiffs, representatives of the estates of former employees of Defendant, sued Defendant, a helicopter company, in Texas court after a helicopter crash in Peru killed several employees. Defendant is a Colombia corporation which was engaged in a joint venture based in Texas and had some contacts with Texas pertaining to the purchasing of helicopters and the training of its pilots. Defendant moved to dismiss the case based on lack of personal jurisdiction.
+
+Synopsis of Rule of Law
+For a court to exercise general in personam jurisdiction, the defendant must engage in systematic and continuous contacts with the forum state unless the defendant’s contacts are related to the cause of action.
+
+Facts
+Helicopteros Nacionales de Colombia, S.A., Defendant, a Colombia corporation that provides helicopters for oil and construction companies, was hired by Consorcio, a Peruvian association, and its venture, WSH (a venture based in Texas). The contract between Defendant and the joint venture said that all parties were residents of Peru and controversies arising out of the contract would be subject to jurisdiction in Peruvian courts. In addition, the venture would make payments to Defendant in Defendant’s bank account located in New York City.  Defendant conducted some contract negotiations in Texas, bought 80% of its helicopters for the business in Texas, and received “technical consultation” from a person in Texas. Defendant was paid with checks drawn on a Texas bank.  One of Defendant’s helicopters crashed in Peru, killing four of the venture’s employees. The employees’ representatives, Plaintiffs, brought this wrongful death action against Defendant in Texas.  The trial court d
+
+Issue
+Are purchasing products and training employees in the forum state, even on a regular basis, sufficient contacts to exercise in personam jurisdiction when the action does not arise from the contact with the state?
+
+Held
+No.  Judgment reversed. When a controversy “arises out of” a defendant’s contact with the forum state, there has to be a relationship among the defendant, the forum, and the litigation.  If there are sufficient contacts between the forum state and the defendant, then there may still be in personam jurisdiction even though the action does not arise out of Defendant’s contact with the forum state. This action does not arise out of Defendant’s contact with the forum state. It must be therefore determined whether Defendant’s contacts were systematic and continuous. One trip by Defendant’s Chief Executive Officer is not sufficient in order to confer general personal jurisdiction. Contacts must be continuous and systematic under Perkins v. Benguet Consolidated Mining Co., 342 U.S. 437, 72 S.Ct. 413, 96 L.Ed. 485 (1952). The checks that Defendant received that were drawn on a Texas bank were not appropriate for consideration.  There is no evidence that Defendant requested they be drawn on a Texas bank .  The bank on which a check is drawn is up to the discretion of the drawer. The purchasing of helicopters and training in Texas is not a sufficient contact to justify general in personam jurisdiction under Rosenberg Bros. & Co. v. Curtis Brown Co., 260 U.S. 516 (1923), which held that mere purchases are not sufficient contacts. If the purchase not related to the action, or if it can’t be proved that it enhanced the nature of Defendant’s contacts with Texas, it is not sufficient under the test in Rosenberg.<br/><span class='heading'>Dissent.</span>  J. Brennan: Purposeful availment of the benefits of the laws of the forum state is the test used to determine whether or not exercising jurisdiction offends notions of fair play and substantial justice. Because Defendant bought many items from Texas for many years, they did purposefully avail themselves of the benefits of Texas laws.
+
+Discussion
+In order to assert general jurisdiction, as opposed to specific jurisdiction over the defendant, the conduct need not be related but must be substantial.  In this case, the majority holds that notwithstanding the fact that Defendant had some contact with the forum state, the contacts must be continuous and systematic, i.e., not just numerous.
+

@@ -1,0 +1,21 @@
+Citation
+159 Tex. 552, 324 S.W.2d 201, 1959 Tex.
+
+Brief Fact Summary
+A child, William Charles Rudes suffered injuries when a vehicle struck him while he was crossing the street. Plaintiff brought an action against Bernard A. Gottschalk, (Defendant) to recover damages. The Court of Civil Appeals for the Fourth District (Texas) reversed the judgment from the trial court entered in favor of Defendant and remanded for a new trial. Defendant appealed.
+
+Synopsis of Rule of Law
+When common law negligence as distinguished from negligence per se is involved, the minor is judged by the standard of a child, not that of an adult.
+
+Facts
+Defendant, the driver, struck Plaintiff, an eight year-old boy, with his automobile, as the boy was attempting to push his bicycle across a controlled access expressway. A local statute read: “[e]very pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield the right-of-way to all vehicles upon the highway.” The jury found that Plaintiff was in violation of the statute, and his action “was a proximate cause of the accident.”
+
+Issue
+The court considered two questions: 1) the doctrine of negligence per se as applied to minors, and 2) the proper method and form of submitting the element of “foreseeability” in the proximate cause issue when a party alleges that a minor has been contributorily negligent.
+
+Held
+In considering Plaintiff’s Motion for Rehearing, the Supreme Court of Texas affirmed the judgment of the Court of Civil Appeals for the Fourth Circuit (Texas), reversing the judgment of the trial court, and remanding this case for another trial. Concerning the standard to be applied to minors, the court opined: “The record does not compel the adoption of the adult standard on the theory that reasonable minds cannot differ as to the child’s intelligence and discretion.” Further, “at either end of the age bracket of childhood there exists a zone when under the particular facts of a case, it could well be said that reasonable minds could not differ but that the particular child, as a matter of law, must be held incapable of contributory negligence, or, on the other hand, held to the adult standard of the ordinarily prudent man.” Thus the question was properly one for a jury.
+
+Discussion
+The essence of the “negligence-per-se” doctrine is that in certain instances a criminal statute (or administrative regulation or municipal ordinance) may be used to set the standard of care in a negligence case. As noted above, children are held to a standard that compares their conduct to other children of the same age, experience, and intelligence when dealing with common law negligence
+

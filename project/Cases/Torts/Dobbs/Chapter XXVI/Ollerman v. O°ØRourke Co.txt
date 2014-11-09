@@ -1,0 +1,21 @@
+Citation
+77 Wis. 2d 665, 253 N.W.2d 252 (1977)
+
+Brief Fact Summary
+The Circuit Court for Milwaukee County (Wisconsin) overruled the Appellant, O’Rourke Co’s (Appellant), motion to dismiss the Appellee, Ollerman’s (Appellee) amended complaint for failing to state a claim upon which relief could be granted. The Appellant sought review.
+
+Synopsis of Rule of Law
+The bases of responsibility in the intent, negligence, and strict responsibility classifications of torts have at least three elements in common: (1) The representation must be of a fact and made by the defendant; (2) the representation of fact must be untrue and (3) the plaintiff must believe such representation to be true and rely thereon to his damage.
+
+Facts
+The Appellee purchased a lot from the Appellant and when excavating the property in order to build a house, he discovered an uncovered, uncapped, underground well from which water was released. Modifications in plans and building activity cost the Appellee in excess of $13,000. The Appellee brought an action for misrepresentation claiming the Appellant knew of the well’s existence, but failed to disclose that fact. The Appellant moved to dismiss and the court denied the motion.
+
+Issue
+Was the omission of a known fact where there is a duty to disclose tantamount to material misrepresentation and thus actionable?
+
+Held
+Yes. The Wisconsin Supreme Court affirmed the lower court’s ruling and held that the Appellant’s arguments, that the well was not an omitted material fact to sustain a cause of action for intentional misrepresentation was a matter to be raised at trial, not in a motion to dismiss. The court further held that the Appellee’s complaint was sufficient to state a cause of action for the tort of intentional misrepresentation.
+
+Discussion
+The tort of fraudulent misrepresentation or deceit provides for recovery for pure economic loss. As the court in Ollerman defines it, “Misrepresentation is a generic concept separable into the three familiar tort classifications: intent, negligence, and strict responsibility.” As noted above, the court outlined the elements thusly: “The bases of responsibility in the intent, negligence, and strict responsibility classifications of torts have at least three elements in common: (1) The representation must be of a fact and made by the defendant; (2) the representation of fact must be untrue; and (3) the plaintiff must believe such representation to be true and rely thereon to his damage.” Knowledge is a critical component in the liability equation: “In intentional deceit, the defendant must either know the representation is untrue or the representation was made recklessly without caring whether it was true or false and with intent to deceive and induce the plaintiff to act u
+

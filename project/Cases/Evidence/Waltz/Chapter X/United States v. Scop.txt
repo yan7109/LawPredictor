@@ -1,0 +1,24 @@
+Citation
+940 F.2d 1004 (7th Cir. 1991)
+
+Brief Fact Summary
+The Appellants, Alan Scop, Raphael Bloom (”Mr. Bloom”), Herbert Stone (”Mr. Stone”), and Jack Ringer (the “Appellants”), were involved in the offering and trading of stock of an automobile dealership.  They were indicted for mail fraud, securities fraud, and conspiracy.  Mr. Bloom and Mr. Stone were also charged with perjury before a grand jury.
+
+Synopsis of Rule of Law
+The Federal Rules of Evidence (”F.R.E.”) do not allow experts to offer opinions consisting of legal conclusions.
+
+Facts
+The Appellants were involved in a stock scheme designed to defraud investors.  They were charged with mail and securities fraud, conspiracy, and two were also charged with perjury.  The Appellants were convicted on all counts.  The prosecution’s case relied on the testimony of a co-conspirator and a government investigator who testified as an expert.  The expert was allowed to discuss, over the Appellant’s objection, his opinion whether there was a scheme to defraud investors.  The expert admitted on cross examination that his positive view of the government witness’s testimony was a basis for his opinions.  The Appellants argued that their convictions are time barred and the expert witness should not have been allowed to give opinions regarding legal conclusions which were based on his determination of the credibility of the other witnesses.
+
+Issue
+Was it improper to allow the expert to give his opinion regarding legal conclusions based on his determination of the credibility of the other witnesses?
+
+Held
+Circuit Judge Winter issued the opinion for the Second Circuit Court of Appeals and reversed the convictions on all counts, except the perjury, because the expert’s opinions were inadmissible.
+
+Concurrence
+Circuit Judge Pierce concurred to point out that he believed an expert’s reliance on witness testimony whose credibility is in question, may be raised on cross examination, and may not affect the admission of the opinion itself.
+
+Discussion
+The opinions offered by the expert went beyond his expertise, and instead relied on his beliefs regarding the credibility of certain witnesses, and as such could very likely prejudice a jury.
+

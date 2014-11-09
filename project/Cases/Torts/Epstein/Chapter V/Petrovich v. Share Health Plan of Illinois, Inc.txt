@@ -1,0 +1,21 @@
+Citation
+188 Ill. 2d 17, 719 N.E.2d 756, 1999 Ill.
+
+Brief Fact Summary
+Plaintiff died from tongue cancer. She alleged that Dr. Kowalski, and thus her HMO, Share Health Plan of Illinois, Inc. (Defendant) under the theory of vicarious liability, was negligent and tardy in diagnosing her aliment. However, her doctor is not an employee of Defendant, but rather an independent contractor.
+
+Synopsis of Rule of Law
+As a general rule, no vicarious liability exists for the actions of independent contractors. Vicarious liability may nevertheless be imposed for the actions of independent contractors when an agency relationship is established under either the doctrine of apparent authority, or the doctrine of implied authority.
+
+Facts
+Plaintiff alleged that her treating doctor, Dr. Kowalski and her HMO, Defendant, were responsible for the negligent and tardy diagnosis of her tongue cancer. Plaintiff died during trial. Defendant did not employ Dr. Kowalski but operated as “a financing entity that arranges and pays for health care by contracting with independent medical groups and doctors.” Doctors in Defendant’s network are required to complete an application and meet with Defendant’s approval. Doctors were compensated on a per patient basis. Defendant maintained its quality assurance program. Plaintiff’s handbook does not mention that Dr. Kowalski is an independent contractor but instead refers to him as “your Share physician.” Defendant’s primary care physicians are required to approve patients’ medical requests and make referrals to specialists. Dr. Kowalski did not feel constrained by Defendant in making medicinal decisions. Plaintiff believed that Dr. Kowalski was an employee of Defendant.
+
+Issue
+Is Defendant vicariously liable for the negligence of its independent-contractor physicians?
+
+Held
+Yes. Plaintiff is entitled to a trial to determine whether or not Defendant is vicariously liable under the doctrine of apparent and/or under the doctrine of implied authority.
+
+Discussion
+In its opinion, the court makes clear that the label of “independent contractor” does not always shield an HMO from medical malpractice under the theory of vicarious liability. An HMO may be held vicariously liable for the negligence of its independent-contractor physicians under both the doctrines of apparent authority and implied auth
+

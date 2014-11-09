@@ -1,0 +1,21 @@
+Citation
+512 U.S. 186, 114 S. Ct. 2205, 129 L. Ed. 2d 157, 1994 U.S.
+
+Brief Fact Summary
+A Massachusetts’s law, which imposed a tax on in-state milk sales, with the proceeds paid to local dairy farmers, was challenged on the ground that it violated the United States Constitution’s Commerce Clause.
+
+Synopsis of Rule of Law
+A state pricing order, which imposes a tax on the sale of local products the proceeds of which are distributed as a subsidy to in-state producers of the product, discriminates against interstate commerce and thus is unconstitutional under the Constitution’s Commerce Clause.
+
+Facts
+Massachusetts enacted a pricing order, which taxed all milk sales in the state, regardless of whether it was produced in or out of state. The proceeds from the tax were then disbursed to Massachusetts’ dairy farmers only. The Defendant’s, Healy, Commissioner of Massachusetts Department of Food and Agriculture (Defendant), rationale for this order was to protect local dairy producers. The Plaintiff, West Lynn Creamery (Plaintiff), a milk dealer who purchased out-of-state milk challenged the pricing order. The state courts rejected the challenge.
+
+Issue
+Does the Massachusetts statute violate the Constitution’s Commerce Clause?
+
+Held
+Yes, the state’s milk tax subsidy burdens interstate commerce. An assessment scheme that levies on all distribution of a good, but disburses its assets to local producers of the distributed goods only is unconstitutional. States are not allowed to enact tariff’s on out of state goods. The system at issue here although, although taking two steps to achieve its goal, is a de facto tariff.
+
+Discussion
+The pricing order is funded principally from taxes on the sale of milk produced in other states. Massachusetts’ pricing order does not assist local farmers, but instead burdens interstate commerce. This violates the cardinal principle that a State may not benefit in state economic interests by burdening out-of-state competitors. When a nondiscriminatory tax is coupled with a subsidy to one of the groups hurt by the tax, a State’s political processes can no longer be relied upon to prevent legislative abuse. This is because one of the in-state interests, which would otherwise lobby against the tax, has been mollified by the subsidy. Prevention of local industry by protecting it from the rigors of interstate competition is the hallmark of the economic protectionism that the Constitution’s Commerce Clause prohibits.
+

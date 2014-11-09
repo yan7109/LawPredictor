@@ -1,0 +1,24 @@
+Citation
+108 Idaho 602, 701 P.2d 222 (1985)
+
+Brief Fact Summary
+The Plaintiffs-Appellants, Adrian Carpenter, Ruth Carpenter and others (Plaintiffs), brought suit against the Defendants-Respondents, the Double R. Cattle Company, Inc. and others (Defendants), claiming that the operation of its cattle feedlot constituted a nuisance. Defendants prevailed at the trial level and the Appellate Court reversed based on a new subsection of the Restatement allowing for damages when the harm is serious and payment is feasible.
+
+Synopsis of Rule of Law
+Idaho law does not follow subsection b of the Restatement allowing for the payment of damages when the gravity of the harm is outweighed by the utility of the conduct, yet the harm is serious and the payment is feasible without forcing discontinuation of the business.
+
+Facts
+The Plaintiffs were homeowners living near the Defendants’ cattle feedlot. The Plaintiffs contend that the feedlot had been expanded to accommodate the feeding of 9,000 cattle and that the accumulation of manure, water pollution, odor, insect infestation, dust and noise caused by the feedlot constituted a nuisance. The jury and trial court made findings, concluding that the feedlot did not constitute a nuisance. The Court of Appeals reversed, based on a new subsection of the Restatement [Restatement (Second) of Torts, Section 826(b)] allowing for a nuisance even when the gravity of harm is outweighed by the utility of the conduct, so long as the harm is serious and the payment of damages is feasible, without forcing the business to discontinue.
+
+Issue
+Did the trial court err by not giving a jury instruction based on the new subsection of the Restatement?
+
+Held
+No. Judgment of the District Court is affirmed.
+
+Dissent
+Justice Bistline wrote that the Court of Appeals was correct in attempting to modernize the law of nuisance in Idaho. While it is desirable to allow a serious nuisance to continue when the utility of the operation causing the nuisance is great, those directly effected deserve some compensation. The new subsection of the Restatement adds a method of compensating those who suffer without discontinuing the beneficial business. The majority forgets that the cost of a product includes external costs, including damages done to the environment.
+
+Discussion
+In order to create a nuisance, the harm must be the kind that would be suffered by a normal person in the community. A hypersensitive individual cannot claim a nuisance when the harm done to him would not affect an average person.
+

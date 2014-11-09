@@ -1,0 +1,27 @@
+Citation
+248 F.3d 621 [7th Cir. 2003]
+
+Brief Fact Summary
+The case was one of discrimination in employment. The judge refused to excuse a juror who pleaded that her experience as a business owner would strongly influence her judgment. After the verdict, the losing party argued that the judge made a mistake in retaining the juror.
+
+Synopsis of Rule of Law
+A person who is called to serve on a jury must be excused from serving if any of his beliefs would prevent him from accepting the evidence with the due weight it deserves and from obeying the instructions of the judge.
+
+Facts
+Thompson (P) filed a suit of racial discrimination against her employer,Altheimer& Gray (D) under the Civil Rights Act, Title VII, which deals with racial, national, religious and sexual discrimination in employment. While the prospective jurors were being interviewed, one of them named Leiter expressed doubts as to her qualification, stating that as employer and owner of a business, she would find her experience stand in the way of following the judge’s instructions and of applying the law. However, she remained on the jury. After the case was tried, and the verdict came in favor of  Altheimer& Gray. Thompson (P) appealed on the ground that the judge had erred in leaving Leiter on the jury.
+
+Issue
+Is it necessary that a juror be excused for a specified cause if he holds a belief that would prevent his giving due weight to the evidence or being able to apply the law as instructed by the judge?
+
+Held
+(Posner, J.) Yes. A juror must be excused giving a specific cause if he has a belief that would prevent his giving due weight to the evidence or being able to apply the law as instructed by the judge. Here the juror Leiter held and expressed her belief that some employees sue their employers simply because they have not received some benefit or promotion, she was not showing prejudice but expressing her formed belief. The issue is not whether the belief was false or true (it happens to be true) but whether this belief would hinder her from doing her duty as a juror. The judge failed to obtain an unambiguous answer from her in the negative, so that he was not possessed of the assurance that her judgment would be unimpeded. This makes his ruling to leave her in questionable. Another point is that this is equivalent to denying the right to have one’s cause judged by an unbiased jury, and this is an error on the part of the trial which is not excusable even if found to be harmless. The decision is reversed and the case remanded.
+
+Dissent
+N/A
+
+Concurrence
+(Wood, J.) Sometimes the parties to a suit may not use all their peremptory challenges to exclude jurors. If such is the case, and the plaintiff has failed to persuade the judge to excuse a certain juror for cause, it might be interpreted as meaning that the plaintiff is waiving his right to insist that the juror should not have served.
+
+Discussion
+In this case, the court emphasized that it was not the issue of credibility which was at stake, nor was it the case that Leiter failed to tell the truth. Instead the issue was one of interpretation: did the judge abuse his discretion in not excusing her from jury duty because of the degree of bias inherent in her statement.
+

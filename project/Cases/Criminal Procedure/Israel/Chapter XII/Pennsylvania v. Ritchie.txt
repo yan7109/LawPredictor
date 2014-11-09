@@ -1,0 +1,24 @@
+Citation
+480 U.S. 39, 107 S. Ct. 989, 94 L. Ed. 2d 40 (1987)
+
+Brief Fact Summary
+Prior to his rape and incest trial, a defendant was not allowed access to a file that the Children and Youth Services had accumulated on him in investigating his victim’s complaint because it was deemed confidential under state law.
+
+Synopsis of Rule of Law
+Criminal defendants are allowed pretrial disclosure of confidential information if that information is deemed material to their defense by the trial court.
+
+Facts
+Respondent George F. Ritchie was convicted of rape and incest, among other things, for his assaults on his minor daughter.  At the pretrial stage the defendant had attempted to obtain the contents of his file that the Children and Youth Services had accumulated in its investigation of the victim’s complaint, but was not granted access because it was considered confidential under Pennsylvania law.  The Pennsylvania Supreme Court vacated the conviction and ordered the court to allow the respondent’s attorney access to the files.  The state was then granted certiorari.
+
+Issue
+Is a criminal defendant entitled access to a youth service organization’s file of confidential information on grounds of the due process clause of the Fourteenth Amendment?
+
+Held
+Yes, assuming the court determines the information is material. Affirm the judgment remanding the case for the court to determine if the contents of the file contained material exculpatory evidence.  Reverse the judgment on the remaining parts.
+
+Dissent
+Justice William Brennan expressed his disagreement in saying that the defendant’s rights under the confrontation clause were violated when he was denied access to material that would be integral to impeachment efforts, and that the defense counsel must evaluate material for this purpose.
+
+Discussion
+This case is significant in that it makes clear that it the due process clause requires the only the disclosure of that confidential information that is material to the defendant, not just any whatsoever
+

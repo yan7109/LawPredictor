@@ -1,0 +1,21 @@
+Citation
+524 U.S. 51 (1998)
+
+Brief Fact Summary
+Bestfoods (D) holds that it is not liable for the actions its subsidiary.
+
+Synopsis of Rule of Law
+A corporate parent that actively involved itself in and exercised control over the operations of a polluting facility may be held directly liable in its own right as an operator of the facility.
+
+Facts
+Bestfoods (D) purchased a chemical plant via a subsidiary incorporated for that purchase. The previous operator dumped hazardous substances on the site and polluted the surrounding area, the new company continued the practice. The plant was then sold to another company who filed for bankruptcy. The Michigan Department of Natural Resources eventually found a buyer willing to clean up the site. The Environmental Protection Agency (P) initiated the first phase of cleaning up the site and sued to recover some of its costs. The district court found that operator liability could directly attach to a parent company and indirectly when state law was used to “pierce the corporate veil”. The court of appeals found Bestfoods (D) not liable since it did not use the subsidiary for inappropriate conduct. The Supreme Court granted certiorari to review to what extent parent corporations can be held liable under CERCLA for operating facilities via the control of their subsidiaries.
+
+Issue
+Will a corporate parent that actively involved itself in and exercised control over the operations of a polluting facility be held directly liable in its own right as an operator of the facility?
+
+Held
+(Souter, J.) Yes. A corporate parent that actively involved itself in and exercised control over the operations of a polluting facility may be held directly liable in its own right as an operator of the facility.  A parent company with active participation in the operations of a subsidiary may not be held liable as an operator of a polluting facility without “piercing the corporate veil”. The appeals court erred by limiting direct liability. Evidence an agent of Bestfoods (D) was involved in the environmental decisions was sufficient to raise issue of involvement. The court remands on the theory of direct operation. Vacated and remanded.
+
+Discussion
+Unresolved is the question whether state or federal law applies to  “piercing” in CERCLA cases. In some cases, persons with power over the  subsidiary were held liable even without exercising their power.  Similarly, are issues in employment discrimination cases brought under  title VII of the Civil Rights Act of 1964.
+

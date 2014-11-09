@@ -1,0 +1,21 @@
+Citation
+104 F. Supp. 2d 1332, 6 ILRD 274 (D. Kan. 2000)
+
+Brief Fact Summary
+The underlying facts are similar to those in Hill v. Gateway. Herein, the Plaintiffs, Klocek and others (Plaintiffs), were given five (5) days to return their computer or submit to an arbitration clause, to which they disagreed.
+
+Synopsis of Rule of Law
+This case stands for the proposition that the vendor is not necessarily the master of the offer and that a consumer should not be held to a vendor’s level of knowledge when entering into a contract.
+
+Facts
+In Hill v. Gateway, Plaintiffs bought a Gateway 2000 computer system from the Defendant, Gateway (Defendant). When the Plaintiffs became aware of the computer’s shortcomings, they brought suit in Federal Court under RICO. Defendant appealed on the basis that an arbitration clause was contained in Plaintiffs’ computer box and that they had accepted this agreement when they kept the computer for more than thirty days. In that case, the Court held that the Plaintiffs assented to the arbitration agreement because they knew that additional terms were in their box and, as such, arbitration was the forum for their grievance.
+
+Issue
+The court revisits the issues of consumer fairness and packaged terms, in considering this matter.
+
+Held
+This Court holds that a vendor is not always the master of its offer and that consumers ought to be afforded some degree of protection when dealing with in-the-box contracts. Additionally, the court found that Gateway had a burden of proof, to show evidence that plaintiff agreed to the arbitration provision, and that Gateway had not met its burden. The Court also hints at the notion of unconscionability, maintaining that because Plaintiff is not a merchant, additional terms are not necessarily agreed to under U.C.C. Section:2-207.
+
+Discussion
+Consider these cases carefully because this area is still being highly litigated.
+

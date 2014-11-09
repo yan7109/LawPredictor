@@ -1,0 +1,21 @@
+Citation
+531 U.S. 1051
+
+Brief Fact Summary
+John Houlihan and Mr. Fitzgerald (Defendants) allegedly ran a cocaine distribution ring from a flower shop.  After a former distributor for Defendants’ operation was arrested and made statements to police about Defendants, the distributor was killed, and evidence pointed to Defendants as having conspired to have him killed.  Defendants were indicted on numerous charges, convicted by a jury, and sentenced by the lower court; Defendants appeal their convictions and sentences here.
+
+Synopsis of Rule of Law
+When it is shown by clear and convincing evidence that a criminal defendant, by a wrongful act, causes a witness to be unavailable and does so with the intent of preventing the witness from testifying against that defendant, the defendant’s rights under the Confrontation Clause, including the right to object to the admission of the witness’s hearsay statements, are waived.
+
+Facts
+Defendants Fitzgerald and Houlihan were accused of supplying cocaine from a flower shop in Massachusetts to street-buyers and, along with ten others, were indicted on numerous charges, including racketeering, conspiracy to commit murder in aid of racketeering, and conspiracy to distribute cocaine.
+
+Issue
+When a criminal defendant murders a potential witness to prevent the witness from testifying against the defendant, has the defendant waived the rights granted by the Confrontation Clause to object to a witness’s hearsay statement?
+
+Held
+Yes; the lower court’s decision is affirmed.  Although the statements at issue were hearsay because the declarant was not available for cross-examination, Defendants waived their right to make such an objection.
+
+Discussion
+The court cites previous court decisions and notes that the Confrontation Clause’s guarantees are not absolute:<br />Though the Confrontation Clause is a cornerstone of our adversary system of justice, it is not an absolute; there are circumstances in which the prosecution may introduce an unsworn out-of-court statement without procuring the declarant’s presence at trial.<br />Therefore, the court reasons, “a defendant who wrongfully procures a witness’s absence for the purpose of denying the government that witness’s testimony waives his right under the Confrontation Clause to object to the admission of the absent witness’s hearsay statements.”  Finally, the court concludes that, “courts should not reward parties for their own misdeeds” and that therefore, “a prior out-of-court statement made by a witness whose unavailability stems from the wrongful conduct of a party, aimed at least in part at achieving that result, is admissible against that party as long as the statement would have been admissible had the witness testified.”
+

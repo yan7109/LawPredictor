@@ -1,0 +1,21 @@
+Citation
+159 Cal. 651, 115 P. 313, 1911 Cal.
+
+Brief Fact Summary
+The plaintiff was a landlord suing to recover for damages caused to his tenant’s restaurant by a gas explosion.  The plaintiff contended that the flashlight used by the defendant’s employee caused the explosion, and the defendant argued that the explosion was caused by an oil burning stove being used by the plaintiff’s tenant.
+
+Synopsis of Rule of Law
+A court may allow a jury to take evidence for use in their deliberations, including any exhibit, if the proper precautions and instructions are utilized.
+
+Facts
+The plaintiff sued to recover damages when a gas explosion damaged a restaurant.  The defendant offered evidence showing that there was a gas leak in a dark and obscure place.  And, that when an employee inspected the leak with a flashlight, the explosion occurred.  The defendant introduced a similar flashlight and claimed it was impossible for this model of flashlight to give out any spark which would cause the explosion.  The plaintiff claimed the explosion was caused by a spark from the flashlight and introduced evidence to prove such.  The defendant contended that the plaintiff’s tenant was negligent by continuing to burn an oil stove in the restaurant after the defendant’s employee told him not to.  The jury found for the plaintiff.  The defendant moved for a new trial and the court granted the motion on the ground that the court erred in sending the flash light into the jury room.
+
+Issue
+Was it error to grant a new trial when the jury had the flashlight during their deliberations?
+
+Held
+Justice Henshaw issued the opinion for the Supreme Court of California and reversed the order granting a new trial, and held that the defendant would not be in a better position if the jury found the explosion was caused by the flashlight or if it was caused by the stove, because the tenant’s contributory negligence is not relevant in the landlords’ cause of action.
+
+Discussion
+It is the duty of the court to properly instruct the jury and limit their use of evidence in the deliberation room.  However, cautionary instructions are extremely important when allowing evidence into a jury ro
+

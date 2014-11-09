@@ -1,0 +1,21 @@
+Citation
+490 U.S. 477 (1989)
+
+Brief Fact Summary
+Rodriguez de Quijas (Plaintiff) contended that an arbitration clause in a brokerage contract was annulled conflicting with the Securities Act.
+
+Synopsis of Rule of Law
+Arbitration clauses in brokerage agreements do not become unenforceable by the Securities Act.
+
+Facts
+Pursuant a brokerage contract, several investors signed a standard arbitration clause. The investors sued several parties when the investment proved not profitable, claiming numerous causes of action, containing § 12(2) of the Securities Act violations. Shearson/American Express moved to dismiss the action, pursuant to the clause, but the district court refused to dismiss the § 12(2) cause of action, holding that the Securities Act’s § 14 ban against waiving defenses under the Act prohibitedexecution of the clause. The court of appeals reversed. The Supreme Court accepted review.
+
+Issue
+Do arbitration clauses in brokerage agreements become unenforceable by the Securities Act?
+
+Held
+(Kennedy, J.) No. Arbitration clauses in brokerage agreements do not become unenforceable by the Securities Act. The Court in Wilko v. Swan, 346 U.S. 427 (1953), held to the contrary, with ensuing events making this position unsustainable. Wilkowas decided during a time when arbitration was the least desired method of dispute resolution. The enacting of the Arbitration Act makes it policy to impose contracts like this unless contradictory language is discovered in a pertinent statute. § 14 of the Securities Act prevents waiver of “compliance with any provision”, as showcased here.  This Court considers this reference to the substantive rights under the Act. The Act fails to contain numerous venue portions, part of a technical nature, and they are not considered an exception to the policy favoring arbitration according to the Court.  For the aforementioned reasons, the Court believes that the clause should be enforced. Affirmed.
+
+Discussion
+In 1987, the Court decided Shearson/Anderson Express v. McMahon, 482 U.S. 220 (1987). The concern in that case was the same as it is here, with the exception that it was regarding the Securities Act. In the current case, the court mentioned it would be inconsistent to have contradictory rules involving the 1933 and 1934 Acts, when they should be seen as a cohesive entity.
+

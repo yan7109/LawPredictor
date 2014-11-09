@@ -1,0 +1,18 @@
+Citation
+114 Cal.Rptr.2d 470, 26 Cal.4th 1200, 36 P.3d 11 (Cal. 2001)
+
+Synopsis of Rule of Law
+Plaintiffs may demonstrate the storekeeper had constructive notice of the dangerous condition if they can show that the site had not been inspected within a reasonable period of time so that a person exercising due care would have discovered and corrected the hazard.
+
+Facts
+While shopping at Defendant Kmart, Plaintiff Ortega slipped on a puddle of milk near a refrigerator. As a result, Plaintiff suffered ligament tears in his knee, and Plaintiff sued Defendant for his injuries. Plaintiff testified that he could not remember whether the milk was fresh or odorous, warm or cold, or for how long it was on the floor, however he did argue that Defendant had not inspected the floor in a reasonable amount of time prior to the accident. A former store manager of Defendant testified that the milk would have been mopped up within 15-30 minutes pursuant to store procedure related to aisle inspection, but it was possible the milk was on the floor for up to 2 hours. The jury awarded damages to Plaintiff.
+
+Issue
+Did the store breach its duty to keep its premises safe for its patrons by failing to clean up spilled milk?
+
+Held
+Yes. A storeowner has a general duty to inspect the premises or take proper action to ascertain their condition, and in the course of exercising reasonable care, if the storeowner discovers a hazardous condition, he is liable for failing to correct it.
+
+Discussion
+A storeowner owes its patron a duty to exercise reasonable care in keeping its premises reasonably safe—which involves making reasonable inspections of the premises open to customers and the care required is commensurate with the risks involved. In a self-service grocery store, ordinary care may require the owner to take greater precautions and make more frequent inspections than otherwise would be needed to prevent customers from creating dangerous conditions by moving merchandise. Furthermore, a plaintiff has the burden to prove that the storeowner had notice of the defect and time to correct it, and need not demonstrate actual knowledge where evidence suggests that the condition was present for a sufficient period of time to charge the storeowner with constructive knowledge of its existence. Circumstantial evidence can be used to prove constructive knowledge, if a plaintiff can show that the site of the dangerous condition had not been inspected within a reasonable period of time so that a person exercising due care would have discovered and corrected the hazard. Therefore, it was a proper question for the jury to determine whether Plaintiff met this burden, and the jury decided in the affirmative.
+

@@ -1,0 +1,21 @@
+Citation
+317 U.S. 111, 63 S. Ct. 82, 87 L. Ed. 122 (1942)
+
+Brief Fact Summary
+The Appellee, Filburn (Appellee), produced wheat only for personal and local consumption. He was penalized for growing wheat in excess of his allotment allowed by the Department of Agriculture.
+
+Synopsis of Rule of Law
+Congress may regulate the activities of entities totally apart from interstate commerce, if those activities affect interstate commerce.
+
+Facts
+Appellee was an owner/operator of a small farm in Ohio. He sold milk, poultry, and eggs. He also grew a small crop of winter wheat every year. Appellee sold a portion of the wheat, used some as feed for poultry and livestock, used some to make flour for home consumption, and the kept the rest for the following seeding. Pursuant to the Agricultural Adjustment Act of 1938 (Act), the Appellee’s 1941 wheat allotment was 11.1 acres and a normal yield of 20.1 bushels per acre. In the Fall of 1940, however, he planted 23 acres, which yielded 239 bushels from his excess acreage. He was assessed penalties on this amount of 49 cents a bushel, or $117.11.
+
+Issue
+May Congress regulate purely intrastate activities under the commerce clause?
+
+Held
+Yes. Appeals court ruling reversed and remanded.
+
+Discussion
+Wickard v. Filburn is in some ways the greatest exercise of the commerce power recognized by the Supreme Court. Note that the Supreme Court seems to say Congress can compel an individual to purchase wheat when the individual could grow wheat for personal consumption.
+

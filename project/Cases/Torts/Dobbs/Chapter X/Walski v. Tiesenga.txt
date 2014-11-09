@@ -1,0 +1,21 @@
+Citation
+72 Ill. 2d 249, 21 Ill. Dec. 201, 381 N.E.2d 279 (1978)
+
+Brief Fact Summary
+In a medical malpractice action, the Appellate Court for the First District (Illinois) affirmed a directed verdict entered in favor of Appellees. Appellants sought review.
+
+Synopsis of Rule of Law
+One element of a cause of action for medical malpractice is proof of the standard of care by which the physician’s conduct is to be measured. A physician must exercise that degree of care, skill, and proficiency exercised by reasonably careful, skillful, and prudent practitioners in the same class to which he belongs, acting under the same or similar circumstances.
+
+Facts
+Appellants operated to remove Appellee’s thyroid. A common risk in such a procedure is damage to the patient’s recurrent laryngeal nerves, resulting in a loss of his or her voice. In attempting to segregate the laryngeal nerves in order to avoid damage, the Appellants mistakenly cut them, causing paralysis of the vocal chords. The trial court directed a verdict in favor of the Appellants and the intermediate appellate court affirmed.
+
+Issue
+Did Appellee meet the burden of establishing Appellants’ medical malpractice?
+
+Held
+The Supreme Court of Illinois affirmed the directed verdict entered in favor of the Appellants. The court held that the patient failed to establish a standard that the doctors were bound to follow. The plaintiff in a medical malpractice action must establish the standard of care through expert testimony.
+
+Discussion
+The court recognized the difficulty inherent in requiring a jury to evaluate certain standards of professional conduct. Expert testimony is necessary to establish that a defendant fell below the standard of care. A court could only dispense with such a requirement “where the physician’s conduct is so grossly negligent or the treatment so common that a layman could readily appraise it, no expert testimony is necessary.”
+

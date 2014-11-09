@@ -1,0 +1,27 @@
+Citation
+159 F2d 169 (2d Cir. 1947)
+
+Brief Fact Summary
+The Conners Co. (P) barge was left unwatched for 21 hours by the attendant, during which period it broke loose and sank.
+
+Synopsis of Rule of Law
+A duty of care may be said to exist if the burden of reasonable precautions against harm to others is less than the product of the chances of resulting harm in terms of probability, and the magnitude of the harm.
+
+Facts
+The Conners Co. (P) barge was left unwatched by its attendant for 21 hours, a time when the harbor it was moored in was full of vessels. At this time, a servant of the Carroll Towing Co. (D) negligently shifted its mooring lines, and the barge broke free from the pier and was sunk. Conners Co. sued Carroll Towing Co. for negligence.
+
+Issue
+Is there a breach in the duty of care if the defendant’s actions raised a risk of injury which could be avoided with a low burden of precautions, but which could cause great damage if the risk was incurred?
+
+Held
+(Hand, J.) Yes. If the burden of taking precautions to prevent a probable injury is lower than the product of the probability of harm and the extent of harm which is probable, the duty of care has been breached, and the doer becomes liable for negligence. In the present case, prevention of harm involved only placing a man on guard near the barge, but in the circumstances, with a harbor full of vessels, the probability of injury occurring if the barge became untied and struck another vessel was high. This probability could change, of course, if the situation changed. In the present situation, both the probability of injury and the extent of harm incurred were both high. In the face of the extremely simple precautions necessary to avert such harm, the breach of duty is held to have occurred.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+This case shows an attempt to formulate an algorithm to determine the presence of negligence in an acceptable way. It also recognizes that whatever measure is used, the changing situations in which negligence can happen makes determination of what is a reasonable risk highly dependent on the occasion and the need for care.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.24 Cal.2d 497, 150 P.2d 463 (1944)
+
+Brief Fact Summary
+Plaintiffs, lessees, brought an interpleader action against Defendants, landowners, and against Defendant Independent Distributing Company to have the Defendants determine to whom Plaintiffs owed royalties under the lease. Defendants, landowners, demurred, which the trial court sustained, on the grounds that a tenant cannot question the landlord’s title to the property on the date of the lease. Plaintiffs appealed.
+
+Synopsis of Rule of Law
+The common law elements of interpleader are: (1) That the debt, duty is claimed by all parties against whom relief is demanded; (2) The claims must be dependent or come from a common source; (3) The plaintiff cannot have an interest in the subject matter and (4) The plaintiff cannot have an independent liability to any of the claimants. The purpose of interpleader is to prevent “double vexation” of liability and allow the plaintiff to have claimants resolve disputes in property amongst themselves.
+
+Facts
+Plaintiffs Hancock Oil Co. and R.R. Bush Oil Co. leased land from the Defendants Hopkins. Royalties on the land accrued. Defendant Independent Distributing Co., (”Independent”), a co-partnership, claimed that the Hopkins held the land in trust for it and that royalties should be paid to Independent. The Hopkins claimed the royalties should be paid to them, as landowners. Plaintiffs brought an interpleader action against both Defendants in order to have Defendants determine to whom Plaintiffs owed the royalties. Defendants Hopkins demurred, which the court sustained, on the ground that a tenant may not question the landlord’s title to the land on the date of the lease. Plaintiffs appealed.
+
+Issue
+Is the obligation to pay rent an independent liability to the claimants in the action such that Plaintiffs may not bring an action for interpleader?  May a tenant bring an interpleader action against its landlord notwithstanding the rule that a tenant cannot question the landlord’s title on the date of the lease?
+
+Held
+First issue: No. Second issue: Yes. Judgment reversed.  The common law elements of interpleader are: (1) That the debt, duty is claimed by all parties against whom relief is demanded; (2) The claims must be dependent or come from a common source; (3) The plaintiff cannot have an interest in the subject matter, and; (4) The plaintiff cannot have an independent liability to any of the claimants.  Historical revisions of the common law elements of interpleader demonstrate a trend of making the formal requirements of interpleader actions more lenient.   With the policy of leniency in mind, Defendants Hopkins and Independent need not have identical interests in order to be joined in an interpleader action. Merely because one group alleges that its interest is derived from the other interest does not destroy the requirement that the interest be from a common source. The alleged disputed right is the right to Plaintiffs’ rents and royalties, not Hopkins’ right to Plaintiffs’ rent and royalties versus Independent’s right to use of the property in question.  The lease is not an independent liability to the claimant lessor such to bar Plaintiffs’ interpleader action. The complaint alleges that lessees’ obligations to each Defendant will be decided. Therefore, there is no independent liability between Plaintiffs and Defendant Hopkins.  The purpose of interpleader is to resolve the problem of being twice obligated for one liability. The tenant is only liable once for rent. Therefore, notwithstanding the rule preventing a tenant to contest the landlord’s title on the date of the lease, the tenant should be allowed to pursue an interpleader action against landlords and third parties. This prevents the tenant from having to pay two or more parties twice or more when rent is only due once.
+
+Discussion
+The Court applies the common law elements in a modern context and makes modifications that are more equitable to the individual bringing the interpleader action. The Court emphasizes the policies in resolving property disputes over the formalisms of the common law in interpleader actions.
+

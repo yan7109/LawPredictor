@@ -1,0 +1,24 @@
+Citation
+295 Or. 702, 670 P.2d 137 (1983)
+
+Brief Fact Summary
+An abuse prevention statute created an independent cause of action under tort law that could be raised at the same time as a negligence action.
+
+Synopsis of Rule of Law
+Statutes may create an independent cause of action that would allow a plaintiff to bring an action in negligence as well as other independent tort actions by the statute’s intended beneficiaries who were injured.
+
+Facts
+In 1977, the Legislative Assembly enacted the Abuse Prevention Act (Act) to strengthen legal protection for persons threatened with assault by a present or former spouse or a cohabitant. The means chosen for this purpose included the use of temporary restraining orders, injunctions, and temporary child custody orders, and mandatory provisions for a warrantless arrest upon probable cause of a person believed to have violated such an order. Henrietta Nearing and her two children (Plaintiffs), alleged that Martin Weaver (Weaver), the children’s father and Ms. Nearing’s husband, unlawfully entered their home and assaulted their family. A restraining order was issued against Weaver. After the order was issued, Weaver again illegally entered Plaintiffs’ home, assaulting the Plaintiffs and damaging their home. Plaintiffs state that that police officer called to the home declined to arrest Weaver because he had not seen the husband on the premises. Plaintiff also alleges that Weaver c
+
+Issue
+Whether Defendants can be held liable under the ordinary tort elements of a negligence action and held liable for duties owed to the Act’s intended beneficiaries?
+
+Held
+(Justice Linde). Yes. Defendants can be held liable under the ordinary tort elements of a negligence action and for duties owed to the Act’s intended beneficiaries. Officers who knowingly fail to enforce a judicial order under the Act are potentially liable, under tort law, for resulting harm to the psychiatric and physical health of the intended beneficiaries of the judicial order. The Act imposes a specific duty by statute for the benefit of individuals previously identified by a judicial order. The restraining order clearly established a duty of Defendants toward the Plaintiffs under the Act. “[The Act] prescribes that a peace officer ’shall arrest and take into custody a person without a warrant’ when the officer has probable cause to believe that an order under the statute has been served and filed and that the person has violated the order.” The widespread refusal or failure of police officers to remove persons involved in episodes of domestic violence resulted in the leg
+
+Dissent
+(Justice Peterson). The majority opinion is inconsistent with a number of recent decisions of this court. The court should be slow to hold public bodies and their employees liable for damages arising from the failure to perform the duty imposed by this Act. The majority’s utterance is the first time that any strict liability doctrine has been discussed or considered. On its own, the majority has converted the case to one of strict liability without any argument by the parties.
+
+Discussion
+It is difficult to determine whether the court, in this case, created a strict liability tort, as suggested by the dissenting opinion, for the alleged actions or whether the court is merely using the Act as its iron fist in assessing the facts of this particular case. In its own defense, the court states that the decision did not create strict liability because the liability is not absolute and that there are potential defenses. The court, however, does not provide what kind of defenses could be raised which would provide a clear distinction between this case and other cases dealing with strict liability.
+

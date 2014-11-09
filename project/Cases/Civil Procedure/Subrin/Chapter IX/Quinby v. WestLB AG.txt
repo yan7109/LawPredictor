@@ -1,0 +1,21 @@
+Citation
+245 F.R.D. 94
+
+Brief Fact Summary
+This is case where the plaintiff filed charges against her former employer for gender discrimination and retaliatory firing. Defendant moved to have Plaintiff pay for cost associated with production of electronic discovery.
+
+Synopsis of Rule of Law
+In determining cost-shifting for production of discovery courts may use the marginal-utility test.
+
+Facts
+Over the span of several years, plaintiff claims gender discrimination occurred in her office. She was on a small team, where she felt the men left out the women. They left them out from information, meetings, bonuses and social events. She also alleges she was fired because she filed complaints with her human resource department on several occasions. At trial the plaintiff made a request that nineteen employee’s emails be searched for discriminatory statements against women and to show the men had been paid more. Of those 19, 8 are former employees. West has a practice of removing an employees emails to backup tapes upon an employee leaving. The backup tapes are not accessible. The defendant had to hire an outside vendor, Kroll, to search and restore emails from these tapes. Kroll went through 171 tapes and produced 59,653 documents for defendant. Kroll charged 181,013.28 to search and restore, he then charged 25% percent premium to expedite the process and an additional 5413.76 to format certain files. The defendant filed a motion to shift some of that cost to plaintiff.
+
+Issue
+Whether it is appropriate to shift the cost of electronic document production to the plaintiff.
+
+Held
+Yes in part. Typically a respondent is responsible for the cost of producing all evidence that is requested of him or her. However, under FRCP 26c the court can shift the burden of the cost when the discovery is unduly burdensome or expensive. First the court discussed the duty of preserving evidence. Here the defendant knew or should have know, those emails would be evidence for a trial, except for the former employee Barron who left in 2003 before plaintiff filed any complaint at her office. Also the defendant chooses the vendor to restore his files. While an outside vendor is required, Kroll is shown to charge above industry standards for his work. Also defendant did not show cause to pay an additional premium to expedite the process. For these reasons the court will not find it fair to shift the entire burden of the cost of production to plaintiff. However the court felt the plaintiff should pay some of the cost. In order to determine if this was appropriate the court applied the marginal-utility test which has 7 factors. The court combined the first two factors which are relevancy of evidence and availability. The court found that the plaintiff search was a little broad but that the emails where relevant. However the court did say that such a case is not unique so while the emails helped her case this was not special evidence. The next factor requires the court to compare the total cost compared to damage to plaintiff. Here Plaintiff had a salary of 750,000.00 loss of her job is defiantly worth more than the discovery price. The next factor is cost to the parties and their available resources. This is a billion dollar company that can afford such costs. The next factor is the ability to control cost. The plaintiff could have limited her search; however, the defendant could have more carefully selected a vendor. The court did not find the last two factors had an impact on their decision. Based on their analysis they felt it fair to assess 30 % percent of the cost to the plaintiff, however only to restore Barrens emails, and not for expediting the process.
+
+Discussion
+The court decided it would not be appropriate to sanction defendant for how they choose to store files. For as long as the evidence is producible there is no harm in the way it was store.
+

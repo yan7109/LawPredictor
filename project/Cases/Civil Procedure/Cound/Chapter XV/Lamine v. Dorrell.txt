@@ -1,0 +1,21 @@
+Citation
+92 ER 303, Volume 92
+
+Brief Fact Summary
+The decedent died intestate and Defendant was appointed administrator under false pretenses. Defendant obtained property from the estate and sold it. Defendant’s administration was repealed, Plaintiff was appointed administrator, and Plaintiff sought an indebitatus assumpsit in order to recover money Defendant obtained from selling the estate’s property.
+
+Synopsis of Rule of Law
+An action can lie in indebitatus assumpsit to recover proceeds from a sale of property made under false pretenses if the plaintiff has grounds to allege that the proceeds were intended for the plaintiff. The plaintiff, however, waives any subsequent argument that the sale was unlawful.
+
+Facts
+J.S., the decedent, died intestate. Defendant Dorrell was appointed administrator under false pretenses. Defendant obtained property from J.S.’s estate and sold the property. Defendant’s administration was repealed and Plaintiff Lamine was appointed new administrator. Plaintiff sued Defendant in indebitatus assumpsit to recover money Defendant received from selling property from J.S.’s estate. Defendant demurred on the grounds that Defendant did not receive the money for the use of Plaintiff, which is an element of indebitatus assumpsit, but for the use of Defendant. Defendant argued that because this element was lacking, Plaintiff could not sue Defendant in assumpsit.
+
+Issue
+Need Plaintiff argue that the sale of the estate property was unlawful in order to recover the proceeds from the sale from Defendant?
+
+Held
+No.  Justice Powell: Plaintiff could have brought an action in detinue and trover, arguing the sale was unlawful. However, Plaintiff can argue that the sale of property from the estate is lawful but the proceeds must go to Plaintiff as administrator of the estate. Defendant could only keep the proceeds if he were administrator. Because Defendant is not administrator and Plaintiff is, the proceeds were recovered for Plaintiff’s use.  Chief Justice Holt: In the event that Plaintiff attempts to bring an action in trover against Defendant after this judgment indebitatus assumpsit, Defendant can use this judgment as evidence that Plaintiff has argued the sale was lawful. Therefore, Plaintiff has waived his right to argue the sale is unlawful.
+
+Discussion
+This case illustrates that actions on debts in assumpsit to recover proceeds from a sale required the admission that the sale was lawful. If the sale was unlawful, the action was considered appropriate for detinue or trover.
+

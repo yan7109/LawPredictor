@@ -1,0 +1,21 @@
+Citation
+22 Ill.517 U.S. 370, 116 S. Ct. 1384, 134 L. Ed. 2d 577, 38 U.S.P.Q.2d 1461 (1996)
+
+Brief Fact Summary
+The Petitioner, Markman (Petitioner), brought a patent infringement suit against the Respondent, Westview Instruments, Inc. (Respondent). The jury interpreted expert witness testimony and held for the Petitioner. The Judge directed verdict for the Respondent stating that the jury interpreted the information incorrectly.
+
+Synopsis of Rule of Law
+In some cases where it is unclear as to whether a judge or jury should decide upon terms of art in a case that is traditionally decided by a jury, precedent states that, judges, because of their experience may be more capable to define the terms.
+
+Facts
+The Petitioner in this infringement suit owned a patent for his inventory control and reporting system for dry cleaning stores. The patent described a system that could monitor and report the status, location and movement of clothing in a dry-cleaning establishment. The system consisted of a keyboard and data processor to generate written records for each transaction and included a bar code readable by optical detectors operated by employees who logged the progress of clothing through the dry-cleaning process. The Respondent’s product, the Exponent, also included a keyboard and processor and it listed charges for the dry-cleaning services on bar-coded tickets that could be read by portable optical detectors.
+
+Issue
+Whether the interpretation of a so-called patent claim, the portion of the patent document that defines the scope of the patentee’s rights, is a matter of law reserved entirely for the court, or subject to a Seventh Amendment guarantee that a jury will determine the meaning of any disputed term of art about which expert testimony is offered.
+
+Held
+Construction of a patent, including terms of art within its claim, is exclusively within the province of the court. Accordingly, the court held that the interpretation of the word “inventory” in this case was an issue for the judge, not the jury and affirmed the decision of the Court of Appeals for the Federal Circuit.
+
+Discussion
+Part of the dispute hinged upon the meaning of the word “inventory” and its interpretation by the jury and judge.
+

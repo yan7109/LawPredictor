@@ -1,0 +1,21 @@
+Citation
+22 Ill.293 U.S. 474, 55 S. Ct. 296, 79 L. Ed. 603 (1935)
+
+Brief Fact Summary
+Action brought by Peter Schiedt (Plaintiff) originally in the District Court for the District of Massachusetts to recover damages for personal injuries caused by the alleged negligent operation by David G. Dimick (Defendant) of a motor vehicle upon a highway in Massachusetts.
+
+Synopsis of Rule of Law
+In the case of an excessive verdict, it is within the power of the trial court to grant Defendant’s Motion for a New Trial unless Plaintiff remits the amount deemed to be excessive. However, the trial court is without the power to condition the allowance of Plaintiff’s Motion for a New Trial upon the refusal of Defendant to consent to an increase in the amount of damage.
+
+Facts
+After trial in the district court, the jury returned a verdict in the amount of $500. Respondent moved for a new trial on the grounds that the verdict returned was contrary to the weight of the evidence presented at trial and that the damages awarded were insufficient. The district court ordered a new trial on the grounds that the damages awarded were insufficient. However, in its order, the district court allowed Petitioner the option of paying the increased sum of $1,500 in damages and foregoing a new trial. Petitioner agreed to this increase, but Respondent did not consent to this modification and appealed. The United States Court of Appeals for the First Circuit reversed this decision.
+
+Issue
+Whether the district court could increase, either absolutely or conditionally, an award amount fixed by the verdict of a jury.   Whether a new trial should be granted based upon the increased award given by the court following the jury verdict.
+
+Held
+The decision by the court of appeals reversing the district court is upheld. The action by the district court violated the Plaintiff’s Seventh Amendment right to trial by jury when the district court modified the jury’s award with the consent of the Defendant only.  <br/><br/><span class='heading'>Dissent.</span> The judgment of the court of appeals should be reversed because the district court has an implied authority to establish the upper and lower limits of any award.
+
+Discussion
+The court makes a distinction between additur and remittitur. In remittitur, the trial judge offers a plaintiff who has received an excessive jury award the option of reducing the award or submitting to a new trial. Conversely, additur involves the situation in which a defendant is given the option of adding to the amount that the jury has awarded. In essence, the Supreme Court of the United States allows remittitur because the court is not substituting its judgment for that of the jury’s. However, the Court will not allow additur because an increase by any court of a jury verdict would be allowing the court to perform both the functions of judge and jury.
+

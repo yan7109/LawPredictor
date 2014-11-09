@@ -1,0 +1,21 @@
+Citation
+1993 U.S. Dist.
+
+Brief Fact Summary
+Plaintiff Taylor was in a three-car accident. Defendant State Farm Mutual Automobile Insurance Co. was Plaintiff’s insurance provider. Plaintiff received a verdict against him in excess of his policy limit and is claiming that Defendant acted in bad faith by not settling the claim within the policy limits.
+
+Synopsis of Rule of Law
+Under the Corbin view, a court first looks at all then evidence to determine the intent of the parties’ and the extent of integration in the written document, then the court applies the parol evidence rule to exclude any extrinsic evidence that varies or contradicts the written document.
+
+Facts
+This claim arises from a three-car accident involving Plaintiff. Defendant is Plaintiff’s automobile insurance provider. Plaintiff received a judgment against him in excess of his policy limits. Plaintiff claims that Defendant acted in bad faith by not settling the claim within the policy limits. Defendant argues that the claim is barred by a release Plaintiff signed. Plaintiff signed the release rather than pursuing a claim against Defendant under the uninsured motorist provision of the policy.
+
+Issue
+Was the extrinsic evidence of Plaintiff’s intent regarding the release properly admitted?
+
+Held
+Yes. The extrinsic evidence was properly admitted.
+
+Discussion
+In this case, the Court does not look solely at the “four corners” to determine the extent of integration. Instead the Court applies the Corbin approach and uses extrinsic evidence to determine whether the parties intended the written document to be a complete integration.
+

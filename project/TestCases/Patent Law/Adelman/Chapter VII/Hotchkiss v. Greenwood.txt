@@ -1,0 +1,21 @@
+Citation
+52 U.S. (11 How.) 248 (1850)
+
+Brief Fact Summary
+Hotchkiss (Plaintiff) claimed that Greenwood (Defendant) had infringed upon his patented design for knobs made of clay or porcelain.
+
+Synopsis of Rule of Law
+If a patent only improves an old device by substituting materials better suited to the purpose of the device, it will not be held valid.
+
+Facts
+Plaintiff claimed his invention was an improvement in the manufacture of clay or porcelain knobs, such as doorknobs.  The improvement was accomplished by dovetailing the hole where the screw was to be inserted by making it largest at the bottom and then pouring metal into the hold to form the screw.  Defendant argued that the improvement was obvious and therefore should not be granted a patent in the first place.  The court told the jury that the patent was invalid if it found such knobs had been manufactured in a similar way using metal, wood or some material other than clay or porcelain.  The jury found for Defendant, and Plaintiff then claimed the finding was incorrect and moved for a new trial.
+
+Issue
+If a patent only improves an old device by substituting different materials, is it valid?
+
+Held
+(Nelson, J.)  No.  A patent that only improves an old device by substituting different materials that are better suited to the purpose of the device is not valid.  The clay or porcelain knobs manufactured by Plaintiff may have been more durable by fastening the shank to the knob, but the effect would be the same in knobs made of wood, and the method was already known and used commonly with wooden knobs.  In this case, the improvement is the work of a skillful mechanic, not that of the inventor.  The judgment for Defendant is affirmed.
+
+Discussion
+In Hotchkiss, the inventiveness standard expressed was not new.  However, it was the court's first meaningful effort to define the vague requirement that an invention had to be more than a new idea to be eligible for patent.  More than a century later, Judge Learned Hand stated that invention is "as fugitive, impalpable, wayward and vague a phantom as exists in the whole paraphernalia of legal concepts."  Harries v. King Prods., 183 F.2d 158 (2d Cir. 1950).
+

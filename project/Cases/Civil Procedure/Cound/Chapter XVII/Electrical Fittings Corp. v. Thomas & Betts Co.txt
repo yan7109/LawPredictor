@@ -1,0 +1,21 @@
+Citation
+22 Ill.307 U.S. 241, 59 S. Ct. 860, 83 L. Ed. 1263, 41 U.S.P.Q. 556 (1939)
+
+Brief Fact Summary
+The Petitioner won on judgment below, but sought an appeal to have a portion of the District Court’s decree reformed.
+
+Synopsis of Rule of Law
+A party may not appeal from a judgment or decree in his favor for the purpose of obtaining a review of findings he deems erroneous, which are not necessary to support the decree.
+
+Facts
+The Respondents brought a suit in equity for alleged infringement of a patent. The District Court held that claim one was valid, but not infringed and claim two was invalid. The decree entered stated that claim one was valid, but dismissed it for failure to prove the infringement. The Respondents filed in the Patent Office a disclaimer of claim two, but did not appeal. The Petitioners, however, appealed from the part of the lower court’s decree that claim one was valid. The appeal was dismissed because the Petitioners received all the relief they could get and the litigation was in their favor.
+
+Issue
+Whether the Appeals Court had jurisdiction to hear an appeal by the party who won below.
+
+Held
+Yes. The decree adjudged that claim one was valid and though it was immaterial to the outcome of the case, the Petitioner were entitled to have that part of the holding eliminated. The Circuit Court of Appeals had jurisdiction to entertain the appeal, not for the purpose of passing on the merits, but to direct the reformation of the decree. Reversed and remanded.
+
+Discussion
+The District Court did not think that the decree stating Respondents’ claim 1 to be valid would be binding on the Petitioner with regard to subsequent suits. But the Supreme Court of the United States (Supreme Court) noted that the Petitioner had the right to appeal this decree, not on the merits but to eliminate the part of the judgment that was adverse to him – even though it had no effect on the outcome of the case and he won below.
+

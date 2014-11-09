@@ -1,0 +1,27 @@
+Citation
+535 U.S. 357 (2002)
+
+Brief Fact Summary
+Thompson (P) and other pharmacists sued against an FDA regulation which stated that compounded drugs should not be advertised or promoted if they were to be exempted from the standard requirements for drug approval. They argued that this was a violation of the First Amendment.
+
+Synopsis of Rule of Law
+Section 503A of the FDA Modernization Act exempts certain drugs from standard process for acquiring drug approval under the condition that such drugs are not promoted or advertised, but this is an illegal restriction of the freedom of commercial speech under the First Amendment.
+
+Facts
+Thompson (P) and other pharmacists filed a suit against Section 503A of the FDA Modernization Act of 1997 (FDAMA) as being an illegal restriction of commercial speech, violating the First Amendment. This regulation provides for the exemption of several compounded drugs from the standard requirements which need to be complied with for obtaining FDA approval, with the condition that these drugs are not promoted or advertised. The plaintiffs moved the court for summary judgment and the district court agreed. The decision was affirmed by the district court of appeals, but the government appealed.
+
+Issue
+Section 503A of the FDAMA which exempts compounded drugs from having to meet standard requirements for drug approval on the basis of several restrictions. One of these conditions is that no propagation of the use of the drug should be undertaken by the drug providers. Is this section an illegal restriction on commercial speech under the First Amendment?
+
+Held
+(O’Connor, J.) Yes. Section 503A of the FDAMA which exempts certain compounded drugs from having to meet standard drug approval requirements under certain conditions, one of which is that the said drug be neither advertised nor promoted, is violative of the constitution which guarantees freedom of commercial speech. If the statute history showed that the government found a ban on advertising to be necessary as opposed to convenient in achieving its goals, it might have found merit. The First Amendment means clearly that restricting freedom of speech is the last resort of government and not the first, as in this statute. This means that the restriction must be shown to serve a substantial state interest and to be only so strict as is essential to achieve the state’s interest. This statute does not show this need or this narrowness. The fear of misuse of such compounded drugs by people who do not stand in need of them but are led by advertising to request their prescription by their doctors is not compelling enough to justify such a restriction. In other words, the fear is that people will make faulty decisions if presented with the truth about these compounded drugs, which is obviously not a reason to suppress the truthful information. Another danger is that this restriction will prevent pharmacists who are not motivated by commercial interests but have clients with special medical needs which would be served by certain compounded drugs, from communicating information about these drugs to the doctors treating these clients. The lower court decision is affirmed.
+
+Dissent
+(Breyer, J.) The decision ignores the strong proof that patients often do ask their doctors to prescribe drugs they have seen in advertising, and that doctors do often grant these requests. Thus advertising promotes the unnecessary use of untested and possibly unsafe drugs beyond medical necessity. The restriction on advertising had the object of furthering the state’s substantial interest in confining such sales except to such people as are in need of them.
+
+Concurrence
+(Thomas, J.) I hold to my opinion that cases of this kind should not be analyzed under the Central Hudson test.
+
+Discussion
+
+

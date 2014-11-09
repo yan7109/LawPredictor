@@ -1,0 +1,21 @@
+Citation
+(1973) 2 W.L.R. 201.<br />
+
+Brief Fact Summary
+Defendant was convicted of theft after taking money from his employer’s safe. Defendant claims he is not guilty of theft because he intended to pay the money back. In addition, defendant’s employers owned him money from the amount taken could be deducted.
+
+Synopsis of Rule of Law
+A jury should determine whether or not an individual who takes money from his employer without permission acted dishonestly and is therefore guilty of theft, or should be allowed a defense that he intended to repay the money.
+
+Facts
+Defendant was a branch manager of a firm of bookmakers. The firm sent around a notice to all branch managers that the practice of borrowing from the tills was no longer allowed. Regardless of the notice, defendant took money from the branch safe. Defendant was then transferred to another branch and the cash shortage was discovered. Defendant gave the successor branch manger an IOU for the amount. Defendant told the firm’s security staff that he borrowed the money because he was short on cash and he intended to pay it back. Furthermore, defendant’s employers owed him some money. The trial judge directed the jury that it was no defense for defendant to say he intended to repay the money and that his employers owned him more than enough to cover what he had taken. Defendant was convicted of theft.
+
+Issue
+Was it proper for the judge to instruct the jury it cannot be a defense for a man charged with theft to say that when he took the money he intended to repay it and had reasonable grounds for believing he would be able to?
+
+Held
+No. The appeal is allowed. Judge Lawton delivered the opinion of the court. The judge did not leave the jury to decide whether the prosecution had proved the defendant had taken the money dishonestly. Under the applicable statute, “theft” occurs when a person dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it. The word “dishonestly” relates to the state of mind of the person who does the act which amounts to appropriation. We do not agree that judges should define what “dishonestly” means. The jury should have been left to decide this issue.
+
+Discussion
+The court stated that individuals who take money from their employers without permission are usually thieves. However, if they do not plead guilty to the crime of theft, then it should be up to the jury to decide whether they have acted dishonestly.
+

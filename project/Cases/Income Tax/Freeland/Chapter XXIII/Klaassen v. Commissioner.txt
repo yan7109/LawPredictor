@@ -1,0 +1,21 @@
+Citation
+76 T.C.M. (CCH) 20
+
+Brief Fact Summary
+Petitioner had ten children for tax year 1994.  They properly claimed 12 exemptions counting their children and themselves.  They did not pay any alternative minimum tax.
+
+Synopsis of Rule of Law
+The alternative minimum tax is the difference between the tentative minimum tax and the regular tax.
+
+Facts
+Petitioners had ten children by the 1994 tax year.  Petitioners claimed 12 exemptions and reduced their income by $29,400.  They itemized deductions on Schedule A in the amount of $4,767 for medical and dental expenses, and $3,263 for state and local taxes.  Petitioners did not compute the alternative minimum tax or report any liability for it.  The Commissioner determined there was a deficiency the alternative minimum tax does not allow personal exemptions to be considered in computing the alternative minimum taxable income.  After adjustments, Petitioners alternative minimum tax income was $68,832.44.
+
+Issue
+Are Petitioners liable for the alternative minimum tax?
+
+Held
+The Tax Court found that Petitioners are liable for the alternative minimum tax and affirmed the Commissioner.
+
+Discussion
+The alternative minimum tax is triggered by a number of factors, and in this case, the value of personal exemptions claimed by Petitioners.  The plain language of the law is clear and unambiguous, and personal exemptions that such are excluded in the computation.
+

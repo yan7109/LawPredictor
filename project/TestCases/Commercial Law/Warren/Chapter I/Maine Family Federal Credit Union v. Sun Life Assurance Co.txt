@@ -1,0 +1,21 @@
+Citation
+1999 ME 43, 727 A.2d 335, 1999 Me. 44, 37 U.C.C. Rep. Serv. 2d (Callaghan) 875
+
+Brief Fact Summary
+Three life insurance beneficiaries were fraudulently induced into indorsing their checks to a third party.  After the third party deposited the checks, a stop payment was placed on the checks and the deposited checks were dishonored.  The action is the result of the bank’s attempt to receive payment for the checks.
+
+Synopsis of Rule of Law
+A holder will not be a holder in due course if there is a failure to exercise good faith by acting with honesty in fact and commercial fair dealing.
+
+Facts
+Mr. Elden Guerrette purchased a life insurance policy from the appellee, Sun Life Assurance Co., naming his three children (the “appellees”) as beneficiaries.  Upon Mr. Guerrette’s death, Steven Hall, an agent of Sun Life, was given three checks drawn on a Sun Life banking account to distribute to the appellees. Hall and an associate, Paul Richard, then fraudulently induced the appellees to make a blank indorsement of the checks to Hall and Richard so the money could e invested in a corporation formed by Hall and Richard.  The checks were indorsed and Richard deposited the checks in his account at the appellant bank, Maine Family Federal Credit Union (the “appellant”).  The appellant immediately made the funds available to Richard.
+
+Issue
+Was the lower court correct in its finding that appellant was not a holder in due course on a negotiable instrument because it failed to objectively exercise good faith?
+
+Held
+Yes.  In making its decision, the court turned to the definition of “good faith” contained in Article 3-A of the Maine U.C.C, which required holder to prove that it acted with “honesty in fact,” and the definition provides that “‘good faith’ means honesty in fact and the observance of reasonable commercial standards of fair dealing.” The court first evaluated “honesty in fact” and determined that the appellants “had no knowledge that Richard obtained the Sun Life checks by fraud. Nor was the Credit Union aware that a stop payment order had been placed on the Sun Life checks. The Credit Union expeditiously gave value on the checks, having no knowledge that they would be dishonored. In essence the Credit Union acted as banks have, for years, been allowed to act without risk to holder in due course status. The Credit Union acted with honesty in fact.”  In regards to the second element of good faith, “reasonable commercial standards of fair dealing,” the court found that it must fi
+
+Discussion
+The state of Maine adopted the Uniform Commercial Code.  “Pursuant to Article 4 of the Maine U.C.C., the Credit Union, as a depositary bank, is a “holder” of the instruments, making it a “person entitled to enforce” the instrument under Article 3-A. Upon producing an instrument containing the valid signature of a party liable on the instrument, a person entitled to enforce the instrument is entitled to payment, unless the party liable proves a defense or claim in recoupment or a possessory claim to the instrument itself.”
+

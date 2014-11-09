@@ -1,0 +1,21 @@
+Citation
+669 F.2d 67,1982 U.S. App.
+
+Brief Fact Summary
+Plaintiffs were prevented from entering into marriage because a New York law required minors to obtain parental consent prior to marriage.  Plaintiffs brought suit claiming the law violated the Due Process Clause of the United States Constitution.
+
+Synopsis of Rule of Law
+Because of the unique position between minors and marriage, the law is examined under a rational relationship test rather than strict scrutiny.
+
+Facts
+A New York Domestic Relations Law provided that all male marriage license applicants between 16 and 18 and all female applicants between 14 and 18 must obtain written consent from both parents (that are living).  Section 15.3 of the law requires women between the ages of 14 and 16 to obtain judicial approval of the marriage in addition to parental consent.
+
+Issue
+Does the law requiring parental consent to marry deprive Plaintiffs of the liberty guaranteed them by the Due Process Clause of the Fourteenth Amendment to the Federal Constitution?
+
+Held
+The law is constitutional because the State has a legitimate interest in protecting minors from immature decision making.
+
+Discussion
+The court applied a rational relationship test to the New York law rather than strict scrutiny because the rights involved were those of minors.
+

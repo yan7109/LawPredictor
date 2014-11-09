@@ -1,0 +1,24 @@
+Citation
+326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)
+
+Brief Fact Summary
+Defendant was an out of state company that employed salesmen within the state of Washington. Washington sued Defendant to recover unpaid unemployment taxes and served Defendant in two ways: (1) by mail and (2) by serving one of its salesmen within the state. Defendant appealed from a verdict for Washington, claiming that Washington had no personal jurisdiction over Defendant.
+
+Synopsis of Rule of Law
+In order for a state to exercise personal jurisdiction over a defendant, the defendant must have such minimum contacts with the state so that exercising jurisdiction over the defendant would not offend “traditional notions of fair play and substantial justice.”
+
+Facts
+International Shoe Co., Defendant, was a company based in Delaware with an office in St. Louis, Missouri. Defendant employed salesmen that resided in Washington to sell their product in the state of Washington. Defendant regularly shipped orders to the salesmen who accepted them, the salesmen would display the products at places in Washington, and the salesmen were compensated by commission for sale of the products. The salesmen were also reimbursed for the cost of renting the places of business in Washington. Washington sued Defendant after Defendant failed to make contributions to an unemployment compensation fund exacted by state statutes. The Washington statute said that the commissioner could issue personal service if Defendant was found within the state, or by mailing it to Defendant if Defendant was not in the state. The notice of assessment was served upon Defendant’s salesperson and a copy of the notice was mailed to Defendant. Defendant appeared specially, moving to
+
+Issue
+Is service of process upon Defendant’s agent sufficient notice when the corporation’s activities result in a large volume of interstate business so that the corporation receives the protection of the laws of the state and the suit is related to the activities which make the corporation present?
+
+Held
+Yes. Affirmed.
+
+Dissent
+The state’s power to tax should not be qualified by an ambiguous statement regarding fair play and substantial justice.
+
+Discussion
+This decision articulates the rule for determining whether a state has personal jurisdiction over an absent defendant via the “minimum contacts” test. In general, International Shoe demonstrates that contacts with a state should be evaluated in terms of how “fair” it would be to exercise jurisdiction over an absent defendant.
+

@@ -1,0 +1,21 @@
+Citation
+U.S. 1183 128 S. Ct. 1246 170 L. Ed. 2d 66 2008 U.S.
+
+Brief Fact Summary
+The parents of a boy who died from carbon monoxide poisoning files suit against the owners of the motel where he died.  A chair near the gas heater caught on fire, and Plaintiffs claim the heater was improperly installed and vented.
+
+Synopsis of Rule of Law
+Relevant testimony within the knowledge of declarant of the lack of an act does not necessarily rise to the level of inadmissible hearsay.
+
+Facts
+The parents of a boy who died from carbon monoxide poisoning, Plaintiffs, sued the motel where the death occurred for wrongful death.  A chair adjacent to a heater caught on fire.  Plaintiffs claimed the gas heater in the motel room was improperly installed and vented, and never inspected or cleaned since installation.  The jury found that the death was not proximately caused by Defendant or by the Plaintiffs’ son, but was an unavoidable accident.  The District Court found for the Defendant.  Plaintiffs appealed claiming the trial court erred in allowing testimony of the motel owners regarding the number of people who had occupied the motel room and who had made no complaints.
+
+Issue
+Did the trial court commit error in allowing testimony by the motel owners of the number of people who had occupied the same room and did not complain.
+
+Held
+The United States Court of Appeals for the Fifth Circuit issued a per curiam ruling holding that the trial court did not commit error and the testimony was admissible.
+
+Discussion
+The Court of Appeals found that the testimony by the motel owners was relevant on the issue of where the carbon monoxide originated.  It was not hearsay because its reliability was solely dependent on the witnesses and not on others not available for cross-examination.
+

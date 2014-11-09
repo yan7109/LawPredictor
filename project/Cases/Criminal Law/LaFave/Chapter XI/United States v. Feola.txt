@@ -1,0 +1,24 @@
+Citation
+420 U.S. 671,95 S. Ct. 1255, 43 L. Ed. 2d 541,1975 U.S.
+
+Brief Fact Summary
+Defendant, during a drug deal assaulted an undercover Federal Officer. The Government appealed the reversal of Defendant’s conviction.
+
+Synopsis of Rule of Law
+The act of conspiracy is no less dangerous because of lack of knowledge of fact, thus does not require that Defendant be aware of the body of law they intend to violate.
+
+Facts
+Defendant was charged with conspiracy to commit an assault upon a federal officer. Defendant was alleged to arrange for a sale of heroin to buyers who were undercover agents. However, Defendant planned to substitute sugar for the heroin. An altercation ensued when a federal undercover agent became suspicious. The Trial Court found Defendant guilty, the Appellate Court versed and the Government appeals.
+
+Issue
+Whether knowledge of the intended victim is a Federal Officer is a requisite for the crime of conspiracy.
+
+Held
+The judgment of the Court of Appeals is reversed.
+
+Dissent
+Justices Stewart and Douglas focused on the fact that the statute protects an officer from assault only when the perpetrator knows his victim is a Federal Officer. Absent this knowledge, the protection afforded is under the general crime of assault. The dissent focused on the wording of the statute, which they found to mean that the perpetrator could only be found guilty of this crime when he is aware that his victim has this protection.
+
+Discussion
+The Court revolved the discussion around the theory that when the substantive offense embodies only a requirement of intent (mens rea) as to each element, the general Federal conspiracy statute does not require anything additional. The analogy used was one can be guilty of a running a traffic light without knowing it was there and thus one can be guilty of assaulting a Federal Officer even though one does not know that he is a Federal Officer. All the statute requires is the intent to assault.
+

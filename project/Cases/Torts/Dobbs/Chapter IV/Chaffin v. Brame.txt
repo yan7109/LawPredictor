@@ -1,0 +1,21 @@
+Citation
+233 N.C. 377, 64 S.E.2d 276, 1951 N.C.
+
+Brief Fact Summary
+Brame (Defendant) parked his vehicle on a highway at night without warning lights or signals. Chaffin (Plaintiff) collided with the truck, and the driver filed an action for property damage. The trial court in Lincoln County (North Carolina) entered the jury’s verdict that the Plaintiff was damaged by the truck driver’s negligence and that the Plaintiff driver was not contributorily negligent. Defendant appealed.
+
+Synopsis of Rule of Law
+A person is not bound to anticipate negligent acts or omissions on the part of others; but in the absence of anything which gives or should give notice to the contrary, he is entitled to assume and to act upon the assumption that every other person will perform his duty and obey the law and that he will not be exposed to danger which can come to him only from the violation of duty or law by such other person.
+
+Facts
+Defendant conceded negligence in parking his truck on the traveled portion of the highway at night without displaying lights or warning signals. He asserted, however, that the driver of the other vehicle was guilty of contributory negligence as a matter of law because he did not control his car sufficiently in order to stop within the range of the Plaintiff’s driver’s lights.
+
+Issue
+Was Plaintiff guilty of contributory negligence in his failure to avert collision with the parked vehicle?
+
+Held
+The court ruled that Plaintiff had no reason to anticipate that the Defendant’s truck had been left standing on the traveled portion of the highway ahead of him without lights or warning signals. He did everything possible to avert the collision as soon as the truck became visible, and thus Plaintiff was not guilty of contributory negligence as a matter of law.
+
+Discussion
+According to the Restatement Section 463, contributory negligence is “conduct on the part of the plaintiff which falls below the standard of conduct to which he should conform for his own protection, and which is a legally contributing cause . . . in bringing about the plaintiff’s harm.” Thus, in some instances, assignment of liability is possible when it has been determined as a matter of law that the Plaintiff was contributorily negligent in the damages resulting from the incidents at issue. Contributory negligence is a complete defense to negligence except in those jurisdictions that adhere to comparative negligence jurisprudence.
+

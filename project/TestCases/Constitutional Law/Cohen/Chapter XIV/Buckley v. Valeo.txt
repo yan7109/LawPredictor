@@ -1,0 +1,21 @@
+Citation
+22 Ill.424 U.S. 1, 96 S. Ct. 612, 46 L. Ed. 2d 659 (1976)
+
+Brief Fact Summary
+This is the second part of the opinion in Buckley v. Valeo (Number 1). In this part of the opinion, the Supreme Court of the United States (Supreme Court) considers the effect of disclosure requirements as a provision of the Federal Election Campaign Act of 1971 (the Act).
+
+Synopsis of Rule of Law
+Disclosure of association membership and contribution status are generally protected by the First Amendment. However, when this information is sought to quell potential corruption and misuse of funds, the benefit of discolusre outweighs the harm to the particular individual.
+
+Facts
+The Federal Election Campaign Act of 1971 required each political committee to register with the Election Commission and to keep detailed records of contributions and expenditures. Additionally, each committee and candidate were required to file quarterly reports, which contained detailed financial information, including the personal information of contributors who had contributed of $100.
+
+Issue
+The issue in this portion of the opinion is whether the disclosure requirements, in and of themselves, infringe on the privacy of association as granted through the First Amendment of the United States Constitution (Constitution).
+
+Held
+The Supreme Court held that the disclosure requirements, while a deterrent to some individuals’ privacy rights, were the least restrictive means of curbing campaign corruption. In this case, the court distinguished [NAACP v. Alabama], noting that the substantial public interest in disclosure outweighed the harm alleged.
+
+Discussion
+Disclosure requirements need to be considered in light of the reasons behind the requirements. In this case, the Supreme Court found that the benefit to the Election Commission in knowing the identity and source of contributions and in averting potential corruption, outweighed the harm to the individual.
+

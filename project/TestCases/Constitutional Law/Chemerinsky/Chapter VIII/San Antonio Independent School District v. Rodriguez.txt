@@ -1,0 +1,24 @@
+Citation
+411 U.S. 1, 93 S. Ct. 1278, 36 L. Ed. 2d 16, 1973 U.S.
+
+Brief Fact Summary
+Respondents brought a class action on behalf of parents and students residing in poor school districts in Texas, alleging the State’s system of funding schools based on local property taxes denies equal protection to students in poor districts.
+
+Synopsis of Rule of Law
+Education is not a “fundamental right” for purposes of Equal Protection analysis.
+
+Facts
+The State of Texas provides for free primary and secondary education for the children of the State. The state provides a set amount of funding for each district based on the number of students in the district. The district makes up the difference in operating expense with funds from local property taxes. This reliance on property taxes results in a large disparity in per student spending between property rich and property poor districts. Respondents allege that this denies the children in poor district Equal Protection of the laws in violation of the Fourteenth Amendment.
+
+Issue
+Is education a fundamental right for purposes of the Fourteenth Amendment?
+
+Held
+No. Reversed and remanded.
+
+Dissent
+Justice William Brennan dissents along two arguments: (1) the funding system of the State of Texas lacks a logical basis, and (2) that the explicit or implicit constitutional guarantee analysis advanced by the Court ignores the Court’s previous decisions.<br />	Justice Thurgood Marshall argues that a right’s “fundamentality” depends on the importance of the right in effectuating constitutional guarantees. Justice Marshall argues that education is so important to the exercise of rights protected by the First Amendment and to participation in the political process to create a significant nexus between education and these rights, making it fundamental. “As the nexus between the specific constitutional guarantee and the non-constitutional interest draws closer,” the more appropriate heightened scrutiny becomes. Thus, Justice Marshall would apply a more stringent test than rational basis.<br />
+
+Discussion
+The Court notes that a fundamental right gives rise to strict scrutiny by the Court where legislation creates classifications surrounding the right. This is most easily understood as a policy decision by the Court, with the majority holding that the preferable policy is to limit the amount and type of legislation which is subject to strict scrutiny. The importance of this case lies in an understanding of the different levels of equal protection analysis.
+

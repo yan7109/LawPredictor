@@ -1,0 +1,21 @@
+Citation
+871 F.2d 212 (1st Cir. 1989)
+
+Brief Fact Summary
+While defending a takeover attempt, Prime Computer, Inc. (Defendant) argued that financial emissary and adviser-broker-financier- participant in the takeover plot, Drexel Burnham Lambert, was a bidder for purposes of the Williams Act, even though it would not own a majority interest in the remaining business.
+
+Synopsis of Rule of Law
+In a takeover endeavor, the financial emissary may be a bidder for the purposes of the Williams Act, even if would not own a majority interest in the remaining business.
+
+Facts
+Anassembly of businesses in the computer trade wanted to take control of Prime Computer, Inc. Drexel Burnham Lambert, Inc. was acting as adviser, investor and underwriter when, to finance the deal, it issued $875 million in high yield securities aka “junk bonds”.  After the proposed mergers, Drexel was to still have a minority interest in the remaining business. Soon after, the Massachusetts antitakeover statute was tested when the purchasing companies’ filed suit. Prime computer, in a counterclaim, stated that Drexel was large enough to have it considered a “bidder” under SEC Rule 14d-1(b)(1), which authorized the providing of information concerning the participation and financial situation of Drexel in the purchasing companies’ “Offer to Purchase” (Schedule 14D-1 form) filed compatible to a proposed tender offer. The district court held Drexel to be a bidder and forbid the tender offer. Prime Computer, Inc. appealed.
+
+Issue
+In a takeover endeavor, may a bidder be a financial emissary for reasons of the Williams Act even if it fails to own a majority interest in the remaining business?
+
+Held
+(Coffin, J.) Yes. In a takeover endeavor, a bidder may be a financial emissary for reasons of the Williams Act even if it fails to own a majority interest in the remaining business. A “bidder” as defined by Section 14(d) of the Williams Act and SEC Rule 14d-1(b)(1) is “any person who makes a tender offer or on whose behalf a tender offer is made” and require specific disclosures concerning the participation of and financial situation of the bidder preceding a tender offer. In this case, the purchasing companies contended that for them to fall under that definition and be considered a bidder, that a party must seek majority interest in the remaining business at some point. The Third Circuit has so held. Regardless, this court trusts that the more suitable method is case-by-case analysis of the authenticity of the deal opposed to any abstract lines of demarcation. Only in cases of obvious inaccuracy will a trial court’s findings be reversed. Here, it cannot be said as a matter of law that Drexel’s participation was not so inescapable that it could not be deemed a bidder, so, the district court was correct in forbidding the tender offer until a Schedule 14D-1 is filed on behalf of Drexel. Affirmed.
+
+Discussion
+In a tender offer, a shareholder in a target company must decide to sell early, late, or never. Knowledge of the situation of the offeror is vital to this choice (rendering it significant) and is why SEC rules require that a Schedule 14D-1 form supply substantial information about an acquirer who makes a tender offer.
+

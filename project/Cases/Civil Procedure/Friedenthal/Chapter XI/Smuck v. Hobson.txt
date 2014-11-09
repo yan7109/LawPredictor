@@ -1,0 +1,24 @@
+Citation
+22 Ill.408 F.2d 175, 132 U.S. App. D.C. 372 (D.C. Cir. 1969)
+
+Brief Fact Summary
+In a class action lawsuit, the Court found for Plaintiffs and issued a detailed order that restrained Defendant Board of Education from making certain educational policy decisions. The Board decided not to appeal the District Court’s order. The superintendent, a Board member and parents of certain school children moved to intervene in the case as of right under Rule 24(a) of the Federal Rules of Civil Procedure.
+
+Synopsis of Rule of Law
+In order to intervene under Rule 24(a) of the Federal Rules of Civil Procedure, a party must first have an interest in the case. The interest need not be economic but must affect some recognized concern. If a party has an interest in the litigation, a party may intervene as of right if disposition of the case would impair or impede the party’s ability to protect its interests, and whether the original parties adequately protect the prospective intervenor’s interests.
+
+Facts
+In a related case, Hobson v. Hansen, 269 F.Supp. 401 (D.D.C. 1967), a class action was brought on behalf of poor African American children. In Hansen, the District Court found that the class members were being denied equal educational opportunities from the District of Columbia school system. The defendant, the Board of Education, voted not to appeal, and ordered Hansen, the superintendent, not to appeal. Hansen and another dissenting board member, Smuck, appealed and motions to intervene were filed by Dr. Hansen and twenty parents stating their dissent from the District Court’s opinion. The District Court granted the motions to intervene even though none of them could show a substantial interest to be protected only through intervention so that the Court of Appeals could not decide on the issue of intervention and decide the appeal on the merits.
+
+Issue
+Does Hansen, as superintendent have the right to intervene pursuant to Rule 24(a) of the Federal Rules of Civil Procedure?<br />Does Smuck, as a member of the Board of Education, have the right to intervene pursuant to Rule 24(a) of the Federal Rules of Civil Procedure?<br />Do the parents of other schoolchildren have the right to intervene pursuant to Rule 24(a) of the Federal Rules of Civil Procedure?
+
+Held
+No regarding Hansen and Smuck. Yes regarding the parents only to the extent that the District Court’s order imposes restraints on the Board’s ability to make certain decisions.
+
+Dissent
+Omitted from casebook.
+
+Discussion
+This case illustrates the analysis of whether a party can intervene as of right under Rule 24(a) of the Federal Rules of Civil Procedure. The required interest need not be economic in nature, although this case demonstrates how the nature of an interest can determine what kind of intervention is permitted. In this situation, because the parents did not argue that the Board of Education did not adequately represent them, only that they had a problem with the way the order affected the Board’s decision-making, the parents were limited to that issue.
+

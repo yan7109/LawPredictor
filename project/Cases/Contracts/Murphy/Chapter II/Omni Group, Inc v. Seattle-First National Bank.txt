@@ -1,0 +1,21 @@
+Citation
+22 Ill.32 Wn. App. 22, 645 P.2d 727 (Ct. App. 1982)
+
+Brief Fact Summary
+The purchaser of property waived the requirement of a satisfactory architects report as a condition to the sale of property. Seller later refuses to sell and argues the waiver of the report made the promise illusory.
+
+Synopsis of Rule of Law
+Making a promise dependent upon a condition does not make it illusory.
+
+Facts
+The Plaintiff, Omni Group, Inc. (Plaintiff), sued to enforce an earnest money agreement for the purchase of real estate from the Defendant, Seattle-First National Bank (Defendant). The agreement stated that the final sale was subject to receiving an architect’s report satisfactory to purchaser. If the report was satisfactory the Defendant would give Plaintiff his acceptance within 15 days otherwise if no notice is given the transaction is null and void. Plaintiff decided to forgo the study and the parties entered negotiations of certain terms. Defendant however refused to sale. Defendant argues that the waiver of a satisfactory report to Plaintiff made the promise illusory. Plaintiff argues that the clause only created a condition subsequent that Plaintiff could waive.
+
+Issue
+Was the engineer’s report a necessary precondition for the contract to occur?
+
+Held
+No. Reversed.
+
+Discussion
+The court is maintaining the stance that mutuality of obligation is necessary to the enforceability of a contract. If one party is free to perform or withdraw from the agreement at his own unrestricted desire, then the contract will be illusory. Here, the waiver of the report was not deemed to be an unrestricted way out for the buyer.
+

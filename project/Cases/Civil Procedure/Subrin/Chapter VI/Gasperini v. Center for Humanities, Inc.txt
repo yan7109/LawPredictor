@@ -1,0 +1,18 @@
+Citation
+518 U.S. 415, 116 S. Ct. 2211, 135 L. Ed. 2d 659, 1996 U.S.
+
+Brief Fact Summary
+Plaintiff sued Defendant in federal court in New York and a verdict was rendered for Plaintiff. The District Court denied Defendant’s motion to review the verdict as excessive and Defendant appealed. The Court of Appeals reviewed the jury’s verdict under a standard for review based on New York law, which Plaintiff appealed.
+
+Synopsis of Rule of Law
+In a federal district court sitting under diversity jurisdiction, the standard the judge uses to determine whether a jury’s itemized verdict is excessive is that of state law, and is only subject to appellate review for “abuse of discretion.”
+
+Facts
+Gasperini (Plaintiff) sued Center for Humanities (Defendant) in federal court based on diversity of citizenship. The jury returned a verdict for Plaintiff of $450,000 in compensatory damages. Defendant moved for a new trial, arguing that the verdict was excessive. The District Court denied the motion. The Second Circuit vacated the judgment based on a New York law allowing the New York Appellate Division to determine that an award is excessive or inadequate if it “materially deviates from what is reasonable compensation.” The Second Circuit reasoned that the standard used to determine the verdict was not sufficient, and ordered a new trial unless Plaintiff accepted a lower amount. Plaintiff appealed.<br/><span class='heading'>Issues.</span>  Should the trial court have used the state law standard when reviewing the jury’s verdict for excessiveness?
+
+Held
+First issue: Yes. Second issue: No. Reversed and remanded in order for the District Court to determine if the jury’s verdict was excessive under the “deviates materially” standard as required by state law.
+
+Discussion
+The majority’s analysis focuses on the policies of the Erie doctrine (non-discrimination and uniformity) in order to determine what law to apply.
+

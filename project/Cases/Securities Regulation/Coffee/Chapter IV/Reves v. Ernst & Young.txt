@@ -1,0 +1,27 @@
+Citation
+494 U.S. 56 (1990)
+
+Brief Fact Summary
+On behalf of many buyers of demand notes bought from an agricultural cooperative, Reves (Plaintiff) contended that the notes were securities as defined by the 1934 Securities Exchange Act.
+
+Synopsis of Rule of Law
+The 1934 Securities Exchange Act considers payable on demand notes offered by a business to support its conventional operations as securities.
+
+Facts
+The Farmer’s Cooperative (Coop), as part of an “investment program”, offered high interest, unsecured, not of a fixed term demand notes, selling them to the public and to its members.  The profits gleaned from the sale of notes funded the conventional operations of the Coop, thus, once the Coop went bankrupt, Reves and others that procured notes brought an action against the Coop’s accountant, Ernst & Young (Defendant). The suit alleges that Ernst & Young deliberately raised the value of the assets, stating that Ernst & Young were in violation of state securities laws and the 1934 Securities Exchange Act. Reves triumphed at trial for both federal and state claims, securing a $6.1 million dollar judgment. Ernst & Young appealed, contending that the 1934 Act did not list promissory notes as “securities”. The Eighth Circuit Court of Appeals accepted Ernst & Young’s contention and reversed the district court. The Supreme Court granted certiorari.
+
+Issue
+Does the 1934 Securities Exchange Act consider demand notes offered by a business to finance general operations as securities?
+
+Held
+(Marshall, J.)Yes. The 1934 Securities Exchange Act considers payable on demand notes offered by a business to finance its general operations as securities. § 3(a)(10) of the 1934 Securities Exchange Act defined “securities” to include “notes”, although knowing that not all notes come within the scope of a security, there are judicial exceptions. Notes given to expedite purchases of particular assets, such as homes and vehicles, are not considered securities. Reasonableexpectation of the note holder is also pertinent and in that sense, there is little doubt that the notes at issue are considered securities. These demand notes indicate investments in the operations of the company in question, while the principal and interests are to be repaid out of the business. Even without ownership interest, this is not unlike a stock, the archetype of a security. For the aforementioned reasons, the Eighth Circuit was wrong. Reversed and remanded.
+
+Dissent
+(Rehnquist, C.J.) The less than nine month maturity exclusion available in § 3(a)(10) of the 1934 Act ought to be applicable, seeing as demand notes are able to be redeemed in nine months or less.
+
+Concurrence
+(Stevens, J.)Demand notes can be redeemed in less than nine months. The statute expressly excludes notes that mature in less than nine months, however, this applies only to commercial paper, not investment materials.
+
+Discussion
+§ 3(a)(10) includes “notes” as securities. Notes payable within less than nine months are excluded, and the dissent of the Chief Justice felt this was valid. The majority deduced that because one could pay off the note after nine months, the exclusion was not valid. The Court adopted the Second Circuit’s four-point “family resemblance” test, comprised of the following: (1) the court must assess why the transaction took place, from both the buyer and seller’s point of view (2) the “plan of distribution” of the material must be investigated to determine whether or not there is “common trading for speculation or investment” (3) the court must explore the reasonable expectation of the parties involved (4) make certain there are no additional regulatory systems that may cause the Securities Act pointless.
+

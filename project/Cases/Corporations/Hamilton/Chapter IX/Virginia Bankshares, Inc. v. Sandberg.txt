@@ -1,0 +1,21 @@
+Citation
+501 U.S. 1083, 111 S. Ct. 2749, 115 L. Ed. 2d 929 (1991)
+
+Brief Fact Summary
+Respondent minority shareholder was awarded damages in the following a “freeze-out” merger in which Appellant Bank’s executive committee and board approved a merger. Although not required under state law, Appellant’s directors solicited voting proxies by stating that the board and directors had approved the merger because of the “high” value given for the stock. Respondent challenged this solicitation under SEC Rule 14a-9, claiming this was a materially false or misleading statement.
+
+Synopsis of Rule of Law
+In a securities fraud case, a statement of opinion may be a false factual statement if the statement is false, disbelieved by its maker, and rlated to matter of fact which can be verified by objective evidence.
+
+Facts
+Appellants First American Bankshares, Inc. (”FABI”) began a “freeze-out” merger in which the First American Bank of Virginia merged into Virginia Bankshares, Inc. (”VBI”) (collectively “Appellants”). VBI was a wholly owned subsidiary of FABI and owned 85% of the Bank’s shares. The remaining 15% were owned by the Bank’s minority share holders. The Bank’s executive committee and board approved the merger at $42.00 per share. Although not required under state law, the directors solicited proxies for voting on the proposed merger. In this solicitation, the directors explained that they had approved the merger because of the “high” valuation of the minority holders’ stock. Although most minority shareholders gave their proxies, Respondent did not. Respondent brought suit under SEC Rule 14a-9, which prohibits the solicitation of proxies via materially misleading statements. The trial court instructed the jury that so long as the proxy solicitation involved materially false statement
+
+Issue
+Whether a proxy statement couched in conclusory or qualitative terms, purporting to explain directors’ reasons for recommending a corporate action, be materially misleading within the meaning of Rule 14a-9? Whether causation of damages compensable under Section: 14(a) can be shown by a member of a class of minority shareholders whose votes are not required by law or corporate bylaw to authorize the corporate action subject to the proxy solicitation.
+
+Held
+Reversed. The knowingly false statements might have been actionable even though conclusory in form, but respondents failed to demonstrate the equitable basis required to extend the private action pursuant to 15 U.S.C.S. Section: 78n(a) to them. A proxy statement issued in connection with a cash merger could not be made the basis of a federal claim under the S.E.C. proxy regulations if the votes being solicited by the proxy statement could not affect the outcome of the vote. In other words, a statement couched in terms of opinion may nevertheless be materially misleading, but a false statement in a proxy solicitation does not meet a test of “causal necessity” if it is addressed solely to shareholders whose combined votes are not sufficient to prevent the action from being taken.
+
+Discussion
+The Court here ruled that terms like “high value,” in a commercial context, are reasonably understood to rest on a factual basis. Because of this, these terms could be found misleading by garden variety evidence. In addition, the Court found that such terms can be materially misleading even if other information within the statement enables an expert to deduce that such statements are false. Proxy statements should inform, and not challenge, the reader’s “critical wits.” Despite these conclusions, however, the Court ruled that because the link between the merger and the proxy statement was too speculative, there was no private right of action for the minority shareholders. Minority shareholder’s claim was that the vote was cosmetic, and the minority shareholders’ votes were not required by state law or corporate bylaw.
+

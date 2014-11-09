@@ -1,0 +1,21 @@
+Citation
+22 Ill.142 W. Va. 188, 95 S.E.2d 427 (1956)
+
+Brief Fact Summary
+Plaintiff sued Defendant for trespass on the case in a court that was not located in the jurisdiction of Defendant’s residence. Defendant alleged that Plaintiff’s attorney procured an alias (second) summons and lured Defendant to a certain location under false pretenses, where Defendant was served with the alias summons by the county sheriff. Defendant moved to dismiss on the grounds that service procured by trickery and deceit was ineffective.
+
+Synopsis of Rule of Law
+If a defendant can prove that he was served with a summons and complaint only as a result of fraudulent conduct on the part of the plaintiff or the plaintiff’s agent, the service is ineffective.
+
+Facts
+Tickle, Plaintiff, sued Barton, Defendant, for trespass on the case. Plaintiff made a first attempt to serve Defendant, the validity of which was still pending. Plaintiff’s attorney procured an alias summons. Defendant was indisputably served with this summons by the local sheriff. Defendant, however, filed a plea in abatement, alleging that Plaintiff’s attorney called Defendant and lured him to the location where he was served by informing him that a party would occur there. Defendant alleged that he would not have gone to that location if he knew he was speaking to Plaintiff’s attorney and that the purpose of inviting him to the party was to serve him with process. Plaintiff filed a demurrer to the plea, which the circuit court overruled. Plaintiff appealed.
+
+Issue
+If Plaintiff or Plaintiff’s attorney lied to Defendant in order to have him show up at a certain location for the purpose of serving him with summons for a pending lawsuit, shall the service be effective?
+
+Held
+No. The facts alleged by Defendant’s plea in abatement are sufficient to establish ineffective service.   Service of process procured through deceitful means caused by the plaintiff is improper and the court should not exercise jurisdiction over the party served.  When a party lives outside of the jurisdiction of the court, the plaintiff cannot be permitted to lie, deceive or otherwise entice the defendant through fraud so that he may come into the jurisdiction and be served. To hold otherwise would to sanction fraudulent conduct performed by the plaintiff or his agent.   <br/><br/><span class='heading'>Dissent.</span> The rule of law is correct. However, the facts alleged in Defendant’s plea in abatement do not allege fraud or wrongdoing. Plaintiff’s attorney did not put together the social function, he merely took advantage of the fact that Defendant would probably go   to it if he was aware of the party and that he did not identify himself when asked over the telephone. These facts should not be enough to withstand a demurrer.
+
+Discussion
+If the plaintiff or his attorney used fraudulent and/or deceitful means such as trickery to get the defendant into a jurisdiction he does not reside in or would not otherwise by in, then service of process is ineffective. The defendant bears the burden of proving fraud and/or other dishonest conduct on the part of the plaintiff or the plaintiff’s agent.
+

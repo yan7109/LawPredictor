@@ -1,0 +1,21 @@
+Citation
+22 Ill.97 F. Supp. 5 (D.P.R. 1951)
+
+Brief Fact Summary
+Plaintiff sued Defendant, his former employer, for slander. Defendant moved to dismiss for failure to state a claim upon which relief can be granted on the grounds that Plaintiff failed to allege that the allegedly slanderous statements were published and/or not subject to privilege. In the alternative, Defendant moved to strike certain allegations of Plaintiff’s complaint pertaining to statements subject to an absolute privilege.
+
+Synopsis of Rule of Law
+When considering a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure, all inferences drawn and allegations construed are in the light most favorable to the plaintiff. If there is some basis that the plaintiff can prove at trial that would entitle him/her to relief, then the motion to dismiss must be denied. Alternative relief for the defendant for a vague complaint is to require the plaintiff to make a more definite statement to strike certain allegations that cannot contribute to a cause of action.
+
+Facts
+Plaintiff Garcia filed a complaint against Defendant Hilton Hotels International Inc., alleging that Defendant slandered Plaintiff when Defendant accused Plaintiff of hiring women to engage in prostitution out of the hotel. Plaintiff’s complaint in Paragraph 4 alleges that Plaintiff was “falsely and slanderously” accused of “procuring prostitution.” Paragraphs 5-8 of the complaint allege that Defendant further accused Plaintiff of procuring prostitution during a labor hearing that Plaintiff was required to bring. A statute stated that all statements made at such proceedings were privileged and were not admissible in any proceeding. Defendant moved to dismiss Plaintiff’s complaint under Rule 12(b)(6) of the Federal Rules of Civil Procedure or in the alternative to strike Paragraphs 5-8 of Plaintiff’s complaint.
+
+Issue
+Can Plaintiff’s complaint alleging slander be dismissed for failure to state a claim under Rule 12(b)(6) of the Federal Rules of Civil Procedure when Plaintiff vaguely alleges publication and the alleged statements may be subject to conditional privilege?<br />Can Paragraphs 5-8 of Plaintiff’s complaint be stricken because they pertain to statements made at a hearing when a statute makes statements made at such a hearing absolutely privileged?
+
+Held
+First issue: No. Second issue: Yes. Defendant’s motion to dismiss is denied. Defendant’s motion to strike Paragraphs 5-8, alleging that Defendant further accused Plaintiff of procuring prostitution during a labor hearing, is granted. Defendant’s motion for a more definite statement is granted. Paragraph 9 of Plaintiff’s complaint, the contents of which are not mentioned in the casebook, is stricken.
+
+Discussion
+The court’s analysis shows that dismissal of a case pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure should not be ordered unless there is no basis for relief. Vagueness or superfluous allegations will not defeat a complaint.
+

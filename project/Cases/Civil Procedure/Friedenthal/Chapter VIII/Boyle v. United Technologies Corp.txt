@@ -1,0 +1,24 @@
+Citation
+22 Ill.487 U.S. 500, 108 S. Ct. 2510, 101 L. Ed. 2d 442 (1988)
+
+Brief Fact Summary
+Petitioner appealed the federal appeals court reversal of Petitioner’s state tort claims and allowed Respondent’s federal military contractor defense.
+
+Synopsis of Rule of Law
+A defense in federal law can preempt a state law when there is a unique federal interest and the state law is in direct conflict with the federal law.
+
+Facts
+Petitioner is the personal representative of the estate of David Boyle, a marine helicopter pilot who died when he crashed in a helicopter manufactured by Respondent, United Technologies Corporation.  Petitioner brought a diversity action in federal court against Respondent, but brought Virginia state tort claims against Respondent.  The jury awarded damages to Petitioner, and Respondent moved for a direct verdict notwithstanding the judgment under the federal military contractor defense.  The trial court denied the motion, but the United States Court of Appeals for the Fourth Circuit reversed and allowed Respondent the defense.  Petitioner argued that there was no express statutory authority to immunize Respondent.
+
+Issue
+The issue is whether Respondent can use a federal defense that protects military contractors against state tort law claims.
+
+Held
+The majority of the United States Supreme Court held that there were unique federal interests that require the preemption of state law when a significant conflict exists between federal and state law, even when there is no express legislative authority to do so.  The federal government’s contracting for military equipment would be considered a unique federal interest.  Therefore the case should be remanded to determine whether the helicopter conformed to the federal government’s specifications and the supplier warned the government about dangers known to the contractor and not the government.
+
+Dissent
+Supreme Court Justice William Brennan argued that the Court did not have the authority to create federal common law to allow immunity to government contractors.  The immunity should be granted by the legislature. Supreme Court Justice John Stevens argued that the decision to immunize contractors should be left to Congress.
+
+Discussion
+The majority did not want states to have the power to reach parties that were working with the federal government on issues that are solely in the domain of the U.S. government.  The contractors are acting as an extension of the federal government.
+

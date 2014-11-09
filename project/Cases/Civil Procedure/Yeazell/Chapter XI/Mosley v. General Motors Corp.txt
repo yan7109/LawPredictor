@@ -1,0 +1,21 @@
+Citation
+497 F.2d 1330, 1974 U.S. App. 8388
+
+Brief Fact Summary
+The Plaintiffs, Nathaniel Mosley and nine other persons (Plaintiffs), joined in bringing an action individually and as class representatives alleging that their rights were violated by the Defendants, General Motors and Local 25, United Automobile, Aerospace and Agriculture Implement Workers of American Union (Defendants), on account of their color and race. The district court ordered that the ten counts against Defendants be severed into ten separate causes of action and each plaintiff was directed to bring a separate action based upon his complaint, duly and separately filed.
+
+Synopsis of Rule of Law
+Joinder of parties is appropriate where the claims of each of the plaintiffs are logically related events entitling a person to institute a legal action and some question of law or fact is common to all the parties arises in the action.
+
+Facts
+Plaintiffs joined in bringing an action individually and as class representatives alleging that their rights were violated by Defendants, on account of their color and race. The district court ordered that the ten counts against Defendants be severed into ten separate causes of action and each plaintiff was directed to bring a separate action based upon his complaint, duly and separately filed. The Court of Appeals for the Eighth Circuit granted application for an interlocutory appeal.
+
+Issue
+This case concerns the discretion of a trial court to order separate trials and prevent the joinder of parties filing collectively as part of a class action suit.
+
+Held
+The court of appeals held that the district court abused its discretion in severing the joined actions.   Federal Rule of Civil Procedure (FRCP) Rules 20(b) and 42(b) vest in the district court the discretion to order separate trials or make such orders as will prevent delay or prejudice. The scope of the civil action is made a matter for the discretion of the district court and a determination on the question of joinder of parties will be reversed on appeal only upon a showing of abuse of that discretion.  Permissive joinder is not applicable in all cases. The rule imposes two specific requisites to the joinder of parties: (1) a right to relief must be asserted by each plaintiff relating to or arising out of the same transaction or occurrence, or series of transactions or occurrences, and (2) some question of law or fact common to all the parties must arise in the action. All logically related events entitling a person to institute a legal action against another generally are regarded as comprising a transaction or occurrence. Absolute identity of all events is unnecessary.
+
+Discussion
+In reaching its decision, the court relied heavily on the policy behind FRCP Rule 20. Specifically, it emphasized the rule’s aim to promote trial convenience and preventing multiple lawsuits. Thus, because the Plaintiffs asserted that they had been injured by the same general policy of discrimination on the part of Defendants and the fact that relief depended upon a showing that each Plaintiff was wronged by discriminatory policies practiced by Defendant, the court felt FRCP Rule 20’s goals would be promoted by allowing the joinder of the parties.
+

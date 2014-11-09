@@ -1,0 +1,21 @@
+Citation
+515 U.S. 472, 115 S. Ct. 2293, 132 L. Ed. 2d 418 (1995)
+
+Brief Fact Summary
+DeMont Conner was an inmate in the Halawa Correctional Facility, a maximum security prison in Oahu. When subjected to a strip search, Conner responded with angry and foul language at the officer. Conner was charged with “high misconduct,” the adjustment committee sentenced him to 30 days of segregation, without allowing Conner to present witnesses.
+
+Synopsis of Rule of Law
+The Court returned to the standard set forth in Wolff: State- created liberty interests will be generally limited to freedom from restraint, which, while not exceeding the sentence in such an unexpected manner as to give rise to protection by the Due Process Clause of its own force, nonetheless imposes atypical and significant hardship on the inmate in relation to the ordinary prison life.
+
+Facts
+Conner was charged for his angry response when subjected to a strip search, complete with an inspection of the rectal area, when he was returned from the module program area to his cell. Conner was subjected to 30 days of segregation by the adjustment committee, which, in fact, took place.  Conner sought administrative review, and the Deputy Administrator found the high misconduct charge unsupported and expunged the record.  Conner requested injunctive relief, declaratory relief and damages for a deprivation of procedural due process in connection with the disciplinary hearing, as he was not allowed to present witnesses.  The State District Court for the District of Hawaii granted summary judgment for the prison officials, but the Court of Appeals for the Ninth Circuit reversed, finding that Conner had a liberty interest in remaining free from disciplinary segregation.
+
+Issue
+Under what circumstances do state prison regulations afford inmates a liberty interest under the Due Process Clause?
+
+Held
+Reversed the Court of Appeals. Neither the Hawaii prison regulations nor the Due Process Clause afforded Conner a protected liberty interest that would entitle him to the procedural protections set forth in Wolff.   Conner’s discipline in segregated confinement did not present the type of atypical, significant deprivation in which a state might conceivably create a liberty interest.  Conner’s confinement did not exceed similar but totally discretionary confinement in duration or degree of restriction.   Dissent.    Justice Ginsburg and Justice Stevens: Conner had a liberty interest protected by the Fourteenth Amendment because confinement for “high misconduct” adds a stigma that could diminish parole prospects.  Justice Breyer and Justice Souter: The majority radically changed the standard by setting a minimum standard, namely that a deprivation falls within the definition of a “liberty” only if it “imposes atypical hardship on the inmate in relation to the ordinary incidents of prison life.” Some lower courts may read this as affording much less protection, while others may find it an extension of protection for atypical hardships.   Concurrence. None.
+
+Discussion
+The Court used this case to clarify its standard, reviewing its holdings in Wolff, Meachum, and Wakinekona. Because language in Meachum distinguished Wolff by focusing on whether state action was mandatory or discretionary, the Court in later cases even greater emphasized a mechanical dichotomy.  This approach produced the undesirable effects. It created disincentives for States to codify management procedures in the interest of uniform treatment, curbing the discretion of staff; and also led to the involvement of the federal courts in the day-to-day management of prisons.  In light of the above, the Court found that a search for a negative implication from mandatory language in prisoner regulations strayed from the real concerns underlying the liberty protected by due process. The standard returned to that which was correctly established in Wolff and applied in Meachum: State-created liberty interests will be generally limited to freedom from restraint, which, while not exceeding the sentence in such an unexpected manner as to give rise to protection by the Due Process Clause of its own force, nonetheless imposes atypical and significant hardship on the inmate in relation to the ordinary prison life.
+

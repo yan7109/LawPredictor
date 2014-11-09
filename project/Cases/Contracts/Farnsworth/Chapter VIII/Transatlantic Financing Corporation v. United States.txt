@@ -1,0 +1,21 @@
+Citation
+363 F.2d 312, 124 U.S. App. D.C. 183; 1966 U.S. App. 6004, 3 U.C.C. Rep. Serv. (Callaghan) 401
+
+Brief Fact Summary
+The Plaintiff, Transatlantic Financing Corporation (Plaintiff), sued the Defendant, the United States (Defendant), in quantum meruit after it was forced to take the longer route from Texas to Iran around the Cape of Good Hope rather than the shorter route through the Suez Canal.
+
+Synopsis of Rule of Law
+A legal impossibility, which renders a contract voidable, is defined as a thing that is not practicable or in other words, only done at an excessive and unreasonable cost.
+
+Facts
+The Plaintiff contracted with the Defendant to ship wheat from Texas to Iran. The contract specified the destination, but not the route. The ordinary route would take the Plaintiff through the Suez Canal. However, due to armed conflict, the Suez Canal had been blocked by Egypt. The Plaintiff therefore proceeded along the route around the Cape of Good Hope. The Plaintiff then sued to recover the additional costs of taking the longer route.
+
+Issue
+Were the Plaintiff’s duties impossible to perform, thereby permitting rescission of the agreement?
+
+Held
+No. The D.C. Circuit Court of Appeals sets forth a three-part test for impossibility: (1) something unexpected must have occurred; (2) the risk of the unexpected occurrence must not have been allocated by contract or custom and (3) the unexpected occurrence must have rendered performance commercially impracticable. Here, the first requirement is met. The usual route from Texas to Iran would be through the Suez Canal and its closure would be unexpected. Second, the risk does not appear to have been allocated in the agreement or by custom to one party over the other. Finally, the performance was not rendered commercially impracticable. While the cost of going around the Cape of Good Hope was greater than going through the Suez Canal, there was no increased risk to the crew or goods. It is not always the case that cost alone may never constitute impracticability, but here, the added expense is not significant. The Plaintiff is also in a better position to purchase insurance for th
+
+Discussion
+Performance is impossible if commercially impracticable.
+

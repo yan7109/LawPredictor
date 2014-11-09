@@ -1,0 +1,21 @@
+Citation
+602 F.2d 1062, 1979 U.S. App. 1979-2 Trade Cas. (CCH) P62,778; 27 Fed. R. Serv. 2d (Callaghan) 828
+
+Brief Fact Summary
+Cine Forty-Second Street Theatre Corporation (Appellee) operated a movie theatre in New York City. Appellee failed to comply with numerous court orders regarding the answering of Allied Artists Pictures Corporations (Appellants) interrogatories on the issue of damages.
+
+Synopsis of Rule of Law
+A grossly negligent failure to obey a court order compelling discovery is sufficient to substantiate severe disciplinary measures under Rule 37 of the Federal Rules of Civil Procedure.
+
+Facts
+Appellee alleges that Appellants, who owned neighboring theatres, attempted to prevent the opening of its theatre. When this proved to be unsuccessful, Appellee alleged that Appellants entered into a conspiracy with certain motion picture distributors to eliminate its access to quality films. Appellee claimed $3,000,000 in treble damages under antitrust laws and sought an injunction against the Appellants’ alleged antitrust practices. Appellants then served Appellee with consolidated interrogatories. Appellee secured Appellants’ consent to defer discovery on a crucial issue of damages until it could retain an expert to review Appellants’ box office receipts. Appellee filed a set of answers, which were bare and ambiguous. Appellee filed supplemental answers, which failed to obey two subsequent orders from the magistrate, compelling discovery. Magistrate Gershon found the Appellee’s disobedience to be willful and recommended that $500 in costs be assessed against it. Months later, the Appellee still had not acquired an expert and the magistrate ordered the Appellee to file an answer. When Appellee filed answers, both were deficient. The magistrate reserved on the imposition of sanctions. The Appellants moved for dismissal of the complaint on grounds that Appellee’s failure to obey the order requiring answers on the issue of damages. The Magistrate Gershon found that Appellee had no basis for assuming that the answers were not due on the dates set in the orders. Magistrate Gershon also concluded that Appellee’s noncompliance was willful. The magistrate’s decision was submitted to the district court for approval. The district court judge then found that it might have been “possible that Appellee’s counsel could have thought in good faith that the answers were not due.” The court stated that it lacked the power to find willfulness to impose extreme sanctions and only assessed the costs in the amount of $1,000.
+
+Issue
+Whether a grossly negligent failure to obey a court order compelling discovery may justify the severest disciplinary measures?
+
+Held
+Yes.   Sanctions serve a threefold purpose: 1) ensure that a party will not be able to profit from its own failure to comply; 2) secure compliance with the particular order; and 3) courts are free to consider the general deterrent effect the order may have on instant case and on other litigation.     If a party makes a good faith effort to comply with an order, dismissing the complaint would deprive the party of a property interest without due process of law. Bad faith or gross negligence on the part of a party a default judgment can be imposed. Rule 37 states that negligent wrongs are fit for general deterrence and gross professional incompetence may be responsible for the interminable delays. In this case, Appellee caused this litigation to be frozen and the judge’s order declining to adopt the magistrate’s recommendation that proof of damages be barred is reversed.
+
+Discussion
+Rule 26(g) of the Federal Rules of Civil Procedure states that an attorney’s signature on discovery paper certifies that the papers are supported by good and existing law; proper purpose; and require or response is reasonable given the needs of the case. The rule authorizes the court to impose sanctions on the person signing the paper and the party on whose behalf the paper was submitted, if a paper is signed in violation of this r
+

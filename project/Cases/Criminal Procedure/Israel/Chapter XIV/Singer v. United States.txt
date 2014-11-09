@@ -1,0 +1,21 @@
+Citation
+549 U.S. 871, 127 S. Ct. 175, 166 L. Ed. 2d 124 (2006)
+
+Brief Fact Summary
+Petitioner wished to waive his jury trial, but the Government would not consent to it.
+
+Synopsis of Rule of Law
+“A defendant’s only constitutional right concerning the method of trial is to an impartial trial by jury.”  There is “no constitutional impediment to conditioning a waiver of this right on the consent of the prosecuting and the trail judge.”
+
+Facts
+Petitioner Singer was charged with 30 counts of mail fraud.  He offered in writing to waive a trial by jury, as per Rule 23(a) of the Federal Rules of Criminal Procedure.  While the trial court was willing, the prosecution was not.
+
+Issue
+Whether “the Constitution gives a defendant in a federal criminal case the right to waive a jury trial whenever he believes such action to be in his best interest, regardless of whether the prosecution and the court are willing to acquiesce in the waiver.”
+
+Held
+No.  The Supreme Court of the United States first dismissed the petitioner’s argument that there is a “correlative right” to trial by jury “to have his cased decided by a judge alone if he considers such a trial to be to his advantage.”  The Supreme Court found no evidence of such a right in common law, and so found Rule 23(a) to be valid.  The Supreme Court did concede that under Patton v. United States, a defendant can “in some instances waive his right to a trial by jury.”
+
+Discussion
+“[T]he Government, as a litigant, has a legitimate interest in seeing that cases in which it believes a conviction is warranted are tried before the tribunal which the Constitution regards as most likely to produce a fair result.”
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.24 F.3d 1545, 64 FEP Cases 1420 (9th Cir. 1994)
+
+Brief Fact Summary
+Plaintiff sued Defendant in state court for violations of Title VII (a federal statute), the California Constitution, and a California anti-discrimination statute. Defendant removed the case to federal court. The District Court remanded the supplemental state claims to state court and Defendant petitioned the United States Court of Appeals for the Ninth Circuit for a writ of mandamus ordering the District Court to retain jurisdiction over the state law claims.
+
+Synopsis of Rule of Law
+In order for a court to decline to exercise jurisdiction over supplemental state law claims pursuant to 28 U.S.C. Section: 1367, the district court must find that one of the circumstances under 28 U.S.C. Section: 1367(c) exist and articulate the circumstances in the order declining jurisdiction.
+
+Facts
+Plaintiff sued Defendant in state court for violations of Title VII and state claims for violation of the California Constitution and a California anti-discrimination statute. Defendant removed the case to federal court. The District Court remanded the supplemental state claims to state court, ruling, pursuant to [United Mine Workers v. Gibbs, 383 U.S. 715, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966)], that it had discretion to remand if: the state claims substantially predominate, the state claims involve novel or complex issues of law, consolidating the claims will likely result in jury confusion, or retention of the state claim will involve expending substantial judicial time and effort. Defendant petitioned the Court of Appeals for a writ of mandamus ordering the lower court to retain jurisdiction over the state law claims.<br/><span class='heading'>Issue.</span>  Was the District Court required to evaluate whether the specific circumstances mentioned in 28 U.S.C. Section: 1367(c) authorized it to decline supplemental jurisdiction over the state claims?
+
+Held
+Yes. Writ of mandamus granted.
+
+Dissent
+Judge Leavy: The enactment of 28 U.S.C. Section: 1367 does not restrict the District Court’s discretion in declining to exercise supplemental jurisdiction. The District Court did not commit clear error because it listed reasons for declining jurisdiction that are mentioned in the statute and prior caselaw.
+
+Discussion
+This case illustrates that if a District Court declines to exercise supplemental jurisdiction over state law claims that arise from the common nucleus of operative fact of the federal law claims, there must be articulated reasons that are mentioned in the statute in order to remand to state court.
+

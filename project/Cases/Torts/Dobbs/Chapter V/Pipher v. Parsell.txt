@@ -1,0 +1,21 @@
+Citation
+930 A.2d 890 (Del. 2007).
+
+Brief Fact Summary
+Plaintiff and another were passengers in Defendant’s car.  The other passenger yanked Defendant’s steering wheel causing the car to swerve, but Defendant regained control and did not do anything about it.  The passenger again yanked the wheel, causing the car to veer off the road and hit a tree, resulting in injuries to plaintiff.  Plaintiff sued Defendant for negligence.
+
+Synopsis of Rule of Law
+When actions of a passenger that interfere with the driver’s safe operation of the motor vehicle are foreseeable, the failure to prevent such conduct may be a breach of the driver’s duty to his passengers or the public.
+
+Facts
+Plaintiff Pipher was a passenger in Defendant Parsell’s car along with a third person named Beisel.  All three were 16 years old.  As they were traveling at 55 mph, Beisel unexpectedly grabbed the steering wheel causing the truck to veer off onto the shoulder of the road.  Parsell regained control but did nothing in response to Beisel’s dangerous action other than laugh about it.  Thirty seconds later, Beisel again yanked the steering wheel, causing Parsell’s truck to leave the roadway, slide down the embankment, and strike a tree, injuring Pipher.  She sued Parsell for negligence, the trial court granted summary judgment for Defendant, and the appellate court disagreed, finding that the issue of negligence should have been submitted to the jury.
+
+Issue
+Whether a driver has a duty to prevent unsafe conduct by passengers that could interfere with his safe driving and ultimately harm his passengers.
+
+Held
+Yes.  A driver owes a duty of care to his passengers because it is foreseeable that they may be injured if, through in attention or otherwise, the driver involves the car he is operating in a collision.  Pipher argued that after Beisel grabbed the steering wheel initially, Parsell was on notice that a dangerous situation could reoccur in the truck.  At this point, plaintiff argued that Parsell had the duty to exercise reasonable care to protect his passengers from that harm, and was negligent because he kept driving without attempting to address that risk.  The court held that when actions of a passenger that interfere with the driver’s safe operation of the motor vehicle are foreseeable, the failure to prevent such conduct may be a breach of the driver’s duty to his passengers or the public.
+
+Discussion
+This decision highlights the role of foreseeability in proving negligence.  Foreseeability of harm is central to the issue of whether a person’s conduct fell below the standard of care.
+

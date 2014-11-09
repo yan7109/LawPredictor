@@ -1,0 +1,24 @@
+Citation
+436 U.S. 547, 98 S. Ct. 1970, 56 L. Ed. 2d 525, 3 Med. L. Rptr. 2377 (1978)
+
+Brief Fact Summary
+Police officers searched respondent newspaper the Stanford Daily’s offices looking for photographs of criminals for purposes of identification.
+
+Synopsis of Rule of Law
+Property may be searched even if its occupants are not reasonably suspected of a crime or subject to arrest.
+
+Facts
+Respondent newspaper published a report with photographs about a clash between demonstrators and police at a hospital.  A warrant was issued for petitioner members of law enforcement to search the respondent’s offices for the photographs based on probable cause that they had such photos.  The District Court accepted the respondent’s argument that the Fourth Amendment as applied to states through the Fourteenth Amendment did not allow a warrant to be issued to search for materials in someone’s possession who is not suspected of a crime unless there is probable cause that a subpoena duces tecum would be impracticable.  Also, First Amendment concerns would only make the search permissible if there is a clear showing that important materials might be destroyed or removed from the jurisdiction, and that a restraining order would be futile.  The Ninth Circuit Court of Appeals affirmed and the Petitioner group of police officers was granted certiorari.
+
+Issue
+Is a state prevented by the Fourth and Fourteenth Amendments from issuing a warrant to search for evidence because the owner or possessor of the premises to be searched is not reasonably suspected of criminal conduct?
+
+Held
+Reverse the decision and admit the fruits of the search.
+
+Dissent
+Justice Potter Stewart dissented, saying unannounced police searches of newspaper offices would significantly burden the constitutionally protected function of the press to gather news and report it to the public, therefore a subpoena should be impractical before a warrant is issued.
+
+Discussion
+There is no precedent for affording newspapers a higher standard of probable cause, but the concerns that the dissenters present that the police will make unannounced searches of newspaper offices are real.  The important role of the press in keeping government honest is a role that the courts must be careful in infringing upon.
+

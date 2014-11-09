@@ -1,0 +1,24 @@
+Citation
+46 N.Y.2d 770, 413 N.Y.S.2d 655, 386 N.E.2d 263 (1978) N.Y.
+
+Brief Fact Summary
+Plaintiff brought a personal injury action against Kinney System Rent A Car, Inc. (Kinney) and the automobile owner (Defendants), in connection with a car accident. Plaintiff brought a defective product complaint against the third-party defendant, the car manufacturer. The Supreme Court of New York, Appellate Division, modified the trial court’s order to dismiss the action against Kinney limiting recovery from the automobile owner. Kinney appealed.
+
+Synopsis of Rule of Law
+A plaintiff must demonstrate that the defendant is culpable, i.e., her actions are the legal cause of the plaintiff’s injuries. The corollary is that the defendant should have reasonably foreseen, as a risk of her conduct, the general consequences or type of harm suffered by the plaintiff. The foreseeable harm test has two requirements: (1) a reasonably foreseeable result or type of harm; and (2) the absence of any superseding intervening force.
+
+Facts
+Kinney leased Plaintiff a car with a defective trunk lid. Plaintiff was parked on a New York City street, while Plaintiff and his passenger attempted to shut the defective trunk lid. Another motorist was parked some distance behind Plaintiff when his car suddenly lurched forward striking Plaintiff. Plaintiff brought an action and the jury found in his favor awarding him $550,000.00 in damages. The Appellate Division reversed and dismissed the action against Defendant. Plaintiff sought review.
+
+Issue
+Was Kinney’s negligence in leasing a defective auto to Plaintiff, the proximate cause of the resulting harm?
+
+Held
+No. The court affirmed the judgment of the appellate court in modifying the lower court’s order to dismiss the lessee’s personal injury action against the rental company.
+
+Dissent
+Judge Fuchsberg stated that the issue of proximate cause was better left to the jury. Fuchsberg applies the “but for” test, i.e., were it not for the rental car’s defective trunk lid, the accident could have been avoided. Thus, he maintains, culpability was a matter of fact, and “disputes as to whether conduct is negligent, contributorily negligent or the proximate cause of an injury are usually best left to the fact finder.”
+
+Discussion
+The threshold question with respect to proximate cause focuses on foreseeability, i.e., whether the defendant should have reasonably foreseen, as a risk of her conduct, the general consequences or type of harm suffered by the plaintiff. As tort law is primarily fact-based, the determination of whether there is sufficient evidence to warrant placing the matter before a jury is wholly dependant on a court’s subjective call. The Ventricelli court concedes as much: “[p]roximate cause and foreseeability are relative terms, nothing more than a convenient formula for disposing of the case. The range of reasonable apprehension is at times a question for the court, and at times, if varying inferences are possible, a question for the jury. So it is with proximate cause and foreseeability.” Foreseeability is, by its nature, measured on a continuum. In this instance, the court of appeals was not willing to extend the accident’s foreseeability to the extent that the lower court did. A
+

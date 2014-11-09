@@ -1,0 +1,21 @@
+Citation
+376 U.S. 967, 84 S. Ct. 1130, 12 L. Ed. 2d 83 (1964)
+
+Brief Fact Summary
+The Alabama Supreme Court of upheld a judgment awarding the Respondent, L.B. Sullivan (Respondent), damages in a civil libel action. The Petitioner, the New York Times (Petitioner), appealed.
+
+Synopsis of Rule of Law
+Constitutional guarantees require a federal rule that prohibits a public official from recovering damages for a defamatory falsehood relating to his official conduct unless he proves that the statement was made with actual malice – that is, with knowledge that it was false or with reckless disregard of whether it was false or not.
+
+Facts
+The Petitioner newspaper published a full-page ad that alleged the Rev. Martin Luther King, Jr.’s (King) arrest for perjury in Alabama was part of a campaign to destroy King’s efforts to integrate public facilities and encourage blacks to vote. The Respondent, the Montgomery city commissioner, filed a libel action against the newspaper and four black ministers who were listed as endorsers of the advertisement. The Respondent claimed that the allegations against the Montgomery police defamed him personally. The advertisement included statements, some of which were false, about police action allegedly directed against students who participated in a civil rights demonstration and against a leader of the civil rights movement. The Respondent claimed the statements referred to him because his duties included supervision of the police department. Under Alabama law, the Respondent did not have to prove that he had been harmed. Also, a defense claiming that the advertisement was truth
+
+Issue
+Did Alabama’s libel law, by not requiring the Respondent to prove that the speech in question was motivated by actual malice, unconstitutionally infringe on the First Amendment’s freedom of speech and freedom of press protections?
+
+Held
+Yes. The court ruled that the First Amendment of the United States Constitution (Constitution) protects the publication of all statements, even false ones, about the conduct of public officials except when statements are made with actual malice (with knowledge that they are false or in reckless disregard to truth or falsity). Specifically, the rule of law applied by the Alabama courts was constitutionally deficient for failure to provide the Petitioner the safeguards for freedom of speech and of the press that were guaranteed by the First and Fourteenth Amendments of the Constitution in a libel action brought by a public official against critics of his official conduct.
+
+Discussion
+In its landmark ruling in Sullivan, the United States Supreme Court (Supreme Court) uses the case as an opportunity to examine the parameters of free speech and First and Fourteenth Amendment protections. Until Sullivan, defamation law was entirely defined by the law of the states with no constraints imposed by the Constitution. Since Sullivan defamation law has been “constitutionalized” with the Supreme Court expanding and refining the boundaries of free speech.
+

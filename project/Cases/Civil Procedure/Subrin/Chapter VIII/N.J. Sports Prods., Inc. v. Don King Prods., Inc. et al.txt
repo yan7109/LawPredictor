@@ -1,0 +1,21 @@
+Citation
+15 F. Supp. 2d 534, 1998 U.S. Dist. 20834
+
+Brief Fact Summary
+Plaintiff, N.J. Sports Prods. et al., sought to place the disputed funds into an account and interplead all parties that assert a right to the funds.
+
+Synopsis of Rule of Law
+In order to plead an interpleader, there must be two or more claimants who are adverse, and there must be a limited fund or property that requires a resolution in one lawsuit.
+
+Facts
+Defendants, Oliver McCall and Don King Prods et al., stand to lose a $3,075,500 purse fro McCall’s behavior in a boxing fight with Lennox Lewis.  McCall stopped fighting in the fifth round, and displayed erratic behavior throughout the shortened fight.  Plaintiff promoted the fight and their contract with McCall stated that if he did not put forth an honest effort in the fight then the purse could be taken away.  The Nevada Athletic Commission (”NAC”) let Plaintiff know that they sought to discipline McCall for failing to put forward a legitimate fight, and McCall agreed to pay a $250,000 fine.  Plaintiff did not participate in the settlement.  Plaintiff now seeks to reclaim the purse, that Plaintiff requested to be on deposit with the court, and seeks to interplead all possible claimants to the purse.  This includes not only Plaintiff, but McCall and his managers, the NAC, other Defendants, and Time Warner (they were responsible for the television broadcast).  Defendants asse
+
+Issue
+The issue is whether Plaintiffs have asserted the correct venue in filing the interpleader in a New Jersey federal court.
+
+Held
+The court held that Plaintiff met the requirements for an interpleader against the possible claimants.  There are two types of interpleader: rule interpleader which is governed by Fed. R. Civ. P. 22, and statutory interpleader which is governed by 28 U.S.C. Section:Section:1335, 1397 and 2361.  Plaintiff satisfied rule interpleader since venue is proper in the district where the stakeholder (Plaintiff) resides.  They also satisfy statutory interpleader because venue is where any claimant resides.  Since stakeholder is a claimant, then venue is proper.  Plaintiff also successfully established an adverse claim to the fund through the list of potential claimants.
+
+Discussion
+The court read 28 U.S.C. Section:1397 plainly to include a stakeholder as a claimant as well, since the statutory wording was “any claimant”.
+

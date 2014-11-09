@@ -1,0 +1,24 @@
+Citation
+2 H. & C. 906
+
+Brief Fact Summary
+Plaintiff contracted to sell cotton arriving on a ship called the Peerless to the defendant. As it happened, there were two ships called the Peerless, and the contract did not specify which ship carried the cotton. Defendant refused to accept the cotton when it arrived, and Plaintiff sued.
+
+Synopsis of Rule of Law
+Where a nonmaterial term, such as mode of shipment, is ambiguous, the contract is still enforceable.
+
+Facts
+Plaintiff agreed to sell Defendant 125 bales of Surat cotton to arrive via the ship called the Peerless from Bombay. Defendant believed the shipment would arrive on the Peerless that arrived from Bombay in October. However, Plaintiff was unaware of such a ship, as Plaintiff intended that the cotton would arrive via the Peerless from Bombay in December. When the December Peerless arrived with the cotton, Plaintiff was ready and willing to deliver the cotton to Defendant, but Defendant refused to accept the cotton or pay Plaintiff for it.
+
+Issue
+Is a contract enforceable where the parties are in disagreement as to the terms dictating shipment and delivery?
+
+Held
+Yes. The contract was for the sale of cotton. It was immaterial by what ship the cotton arrived as long as it arrived as contracted, i.e. on a ship called the Peerless. Since the parties did not state an intention at the time of contracting as to which ship should carry the cotton, absent fraud, a written contract, good on its face, shall not be disturbed by parol evidence.
+
+Dissent
+Since there were two ships called the Peerless, the contract contains a latent ambiguity. Therefore, parol evidence may be introduced to prove that the parties meant different ships. This being so renders the contract nonbinding.
+
+Discussion
+Ambiguous terms that are not material to the agreement will not render the contract void.
+

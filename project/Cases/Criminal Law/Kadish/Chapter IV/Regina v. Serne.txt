@@ -1,0 +1,21 @@
+Citation
+16 Cox Crim. Cas. 311 (1887).<br />
+
+Brief Fact Summary
+Co-defendants Leon Serne and John Henry Goldfinch were indicted for the murder of Serne’s sons, caused by a fire allegedly set by the willful acts of the co-defendants.
+
+Synopsis of Rule of Law
+Any act that is known to be dangerous and likely to cause death, if done for the purpose of committing a felony which causes death, amounts to murder.
+
+Facts
+Loen Serne and John Henry Goldfinch, co-defendants, were indicted for the murder of defendant Serne’s sons. The co-defendants allegedly set fire to Serne’s house in order to recover money on the decedent’s life insurance policy as well as for furniture destroyed in the fire. Serne’s wife and daughters, who were in the house at the time of the fire escaped onto the roof of an adjacent building, however both of Serne’s sons died in the fire. At trial the judge directed the jury that if the defendants set fire to the house when Serne’s family was in it, and if that fire caused the death of Serne’s sons, then the defendants are as guilty of murder as if they had actually gone into the house and stabbed the children. The jury found for the defendants and what follows is a discussion of the felony murder rule.
+
+Issue
+If the jury finds the defendants guilty of arson, should they also be found guilty of murder for the deaths caused by that fire?
+
+Held
+Yes.
+
+Discussion
+This case introduces the basic doctrine of the felony-murder rule, which essentially says that if, during the course of committing a felony, the perpetrator takes action that is known to be dangerous (i.e. robs a store with a gun) and someone dies because of that action (i.e. has a heart attack from seeing the gun), the perpetrator can be guilty of murder even though he/she did not intend for anyone to get hurt.
+

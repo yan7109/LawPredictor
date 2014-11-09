@@ -1,0 +1,24 @@
+Citation
+22 Ill.461 U.S. 95, 103 S. Ct. 1660, 75 L. Ed. 2d 675 (1983)
+
+Brief Fact Summary
+Adolph Lyons (Lyons) was pulled over by a Los Angeles police officer for a traffic violation. He offered no resistance, and without provocation, the police officer seized Lyons and placed him in a chokehold, rendering Lyons unconscious.
+
+Synopsis of Rule of Law
+A plaintiff who wants to invoke the jurisdiction of the Supreme Court must allege an “actual case or controversy.” Further, the injury complained of by plaintiff must be immediate. Past exposure to illegal conduct does not, by itself, show a present case or controversy.
+
+Facts
+In 1976, Lyons was pulled over by a Los Angeles police officer for a traffic violation. Although Lyons offered no resistance, the officer asked him to step out of the car, and proceeded to place Lyons in a chokehold, rendering Lyons unconscious. Lyons sued the municipality and sought damages and injunctive relief in District Court for the Central District of California. He asked the court to issue an injunction preventing the police department from using chokeholds in the future unless circumstances were to result in death or serious bodily injury if force was withheld. The District Court entered such an injunction. The Court of Appeals for the Ninth Circuit affirmed. The municipality appealed to the Supreme Court.
+
+Issue
+Does this case present an “actual case or controversy” that can be determined by the Supreme Court?
+
+Held
+This case does not present an “actual case or controversy” as required in the Constitution under Article III. Past illegal conduct, by itself, is insufficient to establish an actual case or controversy for injunctive relief. Even though Lyons was injured by the police in the past, this act alone does not establish that Lyons is threatened with immediate injury or that he will be pulled over and placed in a chokehold again.
+
+Dissent
+Lyons did have standing to bring a claim for injunctive relief against the municipality because he did present an actual case or controversy and had suffered damages relating to the chokehold. Standing has always depended on whether a plaintiff has a “personal stake in the outcome of the controversy”. The Dissent explained that Lyons’ request for injunctive relief was coupled with his claim for damages based on past injury. Because he has an actual claim for damages, he need not rely solely on the threat of future injury to establish his personal stake in the outcome of the controversy.
+
+Discussion
+Past exposure to illegal conduct does not, by itself, establish a present case or controversy, and therefore cannot meet the Article III Constitutional requirement of “actual case or controversy.”
+

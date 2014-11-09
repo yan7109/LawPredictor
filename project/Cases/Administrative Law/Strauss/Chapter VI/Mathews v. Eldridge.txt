@@ -1,0 +1,21 @@
+Citation
+424 U.S. 319, 96 S. Ct. 893, 47 L. Ed. 2d 18 (1976)
+
+Brief Fact Summary
+Respondent Eldridge commenced this action in District Court to challenge the constitutional validity of the administrative procedures established by the Secretary of Health Education and Welfare for establishing whether there exists a continuing disability entitling a recipient to Social Security Disability (SSD) benefits. Eldridge was notified his benefits would terminate without an opportunity for a prior hearing.
+
+Synopsis of Rule of Law
+Due Process does not require a hearing prior to termination of SSD benefits.
+
+Facts
+Eldridge received SSD benefits for nearly four years when he received a questionnaire from the state agency charged with monitoring his medical condition. Eldridge filled it out, indicating that his condition had not improved. The agency then obtained reports from Eldridge’s doctors, and made a tentative determination that his disability had ceased. Eldridge was notified of the proposed termination, and advised that he could request additional time to submit additional information regarding his condition. Eldridge’s written response disputed one characterization of his condition, and indicated that the agency already had enough information to prove his disability. The made its final determination to terminate benefits and notified Eldridge that he could seek reconsideration within six months. Eldridge relied on Goldberg v. Kelly (welfare benefits case) to support his contention that it was unconstitutional to terminate his SSD benefits without a pretermination hearing. The District Court held that Eldridge had to be afforded a pretermination hearing, and the Court of Appeals affirmed.
+
+Issue
+Does due process require a pretermination hearing prior to discontinuing SSD benefits?
+
+Held
+No. Reversed.   The Court distinguished Goldberg, saying the crucial factor there was that welfare recipients are in dire need, and assistance is only given to persons on the very margin of subsistence; whereas eligibility for SSD is not based on financial need.  An additional factor is the fairness and reliability of existing pretermination procedures, and the probable value of additional procedural safeguards. The decision whether to discontinue SSD benefits will turn, in most cases, on routine, unbiased medical reports.  Finally, Goldberg was in part based on the Court’s conclusion that written submissions were an inadequate substitute for oral presentation by welfare recipients; whereas the detailed SSD questionnaires were sufficient.    Dissent. To say that the discontinuance of disability benefits may cause the recipient to suffer only a limited deprivation is speculative and no argument. The very legislative determination to provide SSD benefits, without any predetermination of need, presumes a need which is not this Court’s function to denigrate.  Concurrence. None.
+
+Discussion
+The factors giving rise to due process are: 1] the private interest that will be affected by the official action; the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and 3] the Government’s interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail.
+

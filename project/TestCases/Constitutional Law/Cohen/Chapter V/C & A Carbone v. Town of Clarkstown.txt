@@ -1,0 +1,24 @@
+Citation
+22 Ill.511 U.S. 383, 114 S. Ct. 1677, 128 L. Ed. 2d 399, 38 ERC 1529 (1994)
+
+Brief Fact Summary
+The Town of Clarkstown had a flow control ordinance, which required all solid waste to be processed at a designated transfer station before leaving the municipality. The town wished to retain the processing fees charged at the transfer station to amortize the cost of the facility. Out-of-State firms that were denied access to the local market sued, arguing that the ordinance violated the Dormant Commerce Clause.
+
+Synopsis of Rule of Law
+The Dormant Commerce Clause prohibits economic protectionism in the form of regulatory measures designed to benefit in-state economic interest by burdening out of state competitors. Economic protectionism is per se invalid, unless the municipality can demonstrate, under rigorous scrutiny, that it has no other less restrictive means to advance a legitimate local interest.
+
+Facts
+A solid waste transfer station receives bulk solid waste and separates recyclable from non-recyclable items for shipment and further processing. The Town hired a private contractor to build a transfer station, operate it for five years, and then sell it to the Town for one dollar, in exchange for a guaranteed minimum waste flow and the right to charge haulers an $81 per ton tipping fee. To meet the annual guarantee the Town adopted a flow control ordinance which required all non-hazardous solid waste material within the town to be deposited at the new transfer station. Carbone operated a similar recycling center in Clarkstown. The ordinance permitted him to receive the waste, but required him to bring the non-recyclable residue from that waste to the transfer station. Carbone could not ship the non-recyclable waste himself, and therefore had to pay a tipping fee on trash that he had already sorted.
+
+Issue
+Does the ordinance discriminate against interstate commerce without proper justification?
+
+Held
+Justice Kennedy. Yes.
+
+Dissent
+Justice Souter, The Chief Justice, and Justice Blackmun.
+
+Discussion
+The majority adopted the approach used in New Energy, which asked whether a facially discriminatory law had valid alternatives. In the concurring opinion, J. O’Connor differs and uses a balancing approach because the statute was non-discriminatory.
+

@@ -1,0 +1,21 @@
+Citation
+442 U.S. 200, 99 S. Ct. 2248, 60 L. Ed. 2d 824 (1979)
+
+Brief Fact Summary
+An individual was taken into police custody, but was told he was not under arrest.  However, if he tried to leave, the police would have restrained him.
+
+Synopsis of Rule of Law
+“Rochester police violated the Fourth and Fourteenth Amendments when, without probable cause, they seized petitioner and transported him to the police station for interrogation.”
+
+Facts
+The owner of a pizza parlor was killed during an attempted robbery. A few months later, the police received a tip from an informant implicating the Petitioner, Dunaway (the “Petitioner”).   A detective questioned the informant and did not learn enough to get an arrest warrant, but nonetheless that Petitioner be brought in.  The Petitioner was taken into custody and told he was not under arrest, but he would have been restrained physically if he tried to leave.  He was driven to a police station, put in an interrogation room and then mirandized.  The Petitioner waived his right to counsel and incriminated himself via statements and drawings.
+
+Issue
+“[W]hether the Rochester police violated the Fourth and Fourteenth Amendments when, without probable cause to arrest, they took petitioner into custody, transported    him to the police station, and detained him there for interrogation[?]”
+
+Held
+The Petitioner was “seized” in a Fourth Amendment sense, but the police lacked probable cause to arrest petitioner before his incriminating statement during the interrogation.  “Terry for the first time recognized an exception to the requirement that Fourth Amendment seizures of persons must be based on probable cause.”  “That case involved a brief, on-the-spot stop on the street and a frisk for weapons, a situation that did not fit comfortably within the traditional concept of an ‘arrest.’ Nevertheless, the Court held that even this type of ‘necessarily swift action predicated upon the on-the-spot observations of the officer on the beat’ constituted a ’serious intrusion upon the sanctity of the person, which may inflict great indignity and arouse strong resentment,’ and therefore ‘must be tested by the Fourth Amendment’s general proscription against unreasonable searches and seizures.’  However, since the intrusion involved in a ’stop and frisk’ was so much less severe than th
+
+Discussion
+“A single, familiar standard is essential to guide police officers, who have only limited time and expertise to reflect on and balance the social and individual interests involved in the specific circumstances they confront.  Indeed, our recognition of these dangers, and our consequent reluctance to depart from the proved protections afforded by the general rule, are reflected in the narrow limitations emphasized in the cases employing the balancing test. For all but those narrowly defined intrusions, the requisite ‘balancing’ has been performed in centuries of precedent and is embodied in the principle that seizures are ‘reasonable’ only if supported by probable cause.”
+

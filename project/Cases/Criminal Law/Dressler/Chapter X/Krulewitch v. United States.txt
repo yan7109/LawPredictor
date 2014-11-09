@@ -1,0 +1,24 @@
+Citation
+336 U.S. 440, 69 S. Ct. 716,93 L. Ed. 790, 1949 U.S. 3006.
+
+Brief Fact Summary
+A federal district court indictment charged in three counts that the Petitioner, Krulewitch (Petitioner) and a woman defendant had (1) induced and persuaded another woman to go on October 20, 1941, from New York City to Miami, Florida, for the purpose of prostitution; (2) transported or caused her to be transported from New York to Miami for that purpose and (3) conspired to commit those offenses. Tried alone, the Petitioner was convicted on all three counts of the indictment. The Court of Appeals affirmed.
+
+Synopsis of Rule of Law
+An exception to the hearsay rule is that an out-of-court statement of a conspirator made while participating in the conspiracy may be introduced in evidence against her co-conspirators.
+
+Facts
+This case involves the challenged testimony of the complaining government witness, the person whom the Petitioner and the woman defendant allegedly induced to go to Miami for the purpose of prostitution. At issue, is a telephone conversation between that witness and the woman defendant that occurred more than a month and a half after the witness had gone to Miami. The witness testified that the woman defendant told her, via the telephone, that she should not talk to anyone before she obtained a lawyer and subsequently, that the two women should take the blame for the group’s actions because the Petitioner “couldn’t stand it.”
+
+Issue
+Can the Petitioner be charged and convicted of conspiracy on the basis of a hearsay declaration that occurred well after the target offense had been completed?
+
+Held
+Under the circumstances of this case, the hearsay declaration attributed to the alleged co-conspirator was not admissible on the theory that it was made in furtherance of the alleged criminal transportation undertaking. As a result, the decision of the Court of Appeals is reversed and the conviction of the petitioner as to conspiracy cannot stand.
+
+Concurrence
+There should be no great effort made to uphold any conspiracy conviction where prosecution for the substantive offense is adequate.
+
+Discussion
+As a general rule, hearsay statements made by co-conspirators while participating in the conspiracy can be admissible under an exception to the hearsay rule. However, in this case, the hearsay declarations were made well after the conspiracy had been completed. Further, the statements that were made were not in furtherance of the objectives of the conspiracy.
+

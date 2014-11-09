@@ -1,0 +1,24 @@
+Citation
+470 U.S. 532, 105 S. Ct. 1487, 84 L. Ed. 2d 494, 1985 U.S. 68.
+
+Brief Fact Summary
+A State Board of Education fired an employee, without first giving him a hearing, for lying on a job application. Under Ohio law, the employee could only be terminated for cause. Respondent challenged the constitutionality of the termination procedures.
+
+Synopsis of Rule of Law
+While a State may elect not to confer a property interest in public employment, it may not constitutionally deprive one of such an interest, once conferred, without the appropriate procedural safeguards.
+
+Facts
+The Cleveland Board of Education (the “Board”) hired Respondent, James Loudermill, as a security guard. On his job application to the Board, Respondent stated that he had never been convicted of a felony. In fact, as the Board later discovered, he had been convicted of grand larceny. As a result, the Board informed Respondent by letter that he had been dismissed from his job for lying. Respondent was not given the opportunity to challenge the charge of dishonesty or the dismissal. Under Ohio law, Respondent was a “classified civil servant”, which meant that he could only be terminated for cause and with the opportunity for administrative review. Respondent challenged the Board’s termination procedures under the United States Constitution.
+
+Issue
+Was the pre-termination process afforded Respondent in accordance with Due Process under the Fourteenth Amendment to the United States Constitution?
+
+Held
+No. The lower courts rulings requiring a hearing before termination are affirmed.
+
+Dissent
+Justice Rehnquist: We ought to take into account the totality of a State’s definition of a property right. The employee’s statutorily defined right is not a guarantee against removal without cause in the abstract. Rather, it is a guarantee as enforced by the procedures the Ohio legislature has designated for the determination of cause.
+
+Discussion
+This case provides an example of a common fact pattern wherein the rights and protections accorded a citizen under the United States Constitutions depends on the rights and protections she has been accorded under some other source of law. Ordinarily, the “other source” will be a State law or local ordinance.
+

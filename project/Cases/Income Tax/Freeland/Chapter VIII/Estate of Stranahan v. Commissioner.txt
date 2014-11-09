@@ -1,0 +1,21 @@
+Citation
+472 F.2d 867,1973 U.S. App. 73-1 U.S. Tax Cas. (CCH) P9203; 31 A.F.T.R.2d (RIA) 710
+
+Brief Fact Summary
+Decedent paid a large interest penalty to the I.R.S.  In order to make full use of the deduction available for the interest penalty paid, he assigned rights to dividends to his son and received income of $115,000 for the assignment.
+
+Synopsis of Rule of Law
+A taxpayer may not avoid taxation by legally assigning or giving away a portion of income derived from income producing property that the taxpayer retains.
+
+Facts
+Frank Stranahan, Decedent, entered into a closing agreement with the I.R.S. where he agreed that he owed the I.R.S. $754,815 for interest due to unpaid taxes related to several trusts.  He paid the amount in 1964.  He accelerated his future income to avoid losing the tax benefit of the interest deduction.  In order to do so, he executed an agreement wherein he assigned to his son $122,820 in anticipated stock dividends.   His son paid him $115,000 by check in consideration.  Decedent reported this amount as income.  During the tax year in question, dividends of $40,050 were paid to his son.  Decedent’s son reported this as income but Decedent did not.  The Commissioner of Internal Revenue sent Decedent’s estate, Appellant, a deficiency notice claiming that the dividend was income to the Decedent.  The Tax Court found that the assignment was in reality a loan.
+
+Issue
+Are the dividends paid to Decedent’s son includible in Appellant’s gross income?
+
+Held
+Circuit Judge Peck issued the opinion for the United States Sixth Circuit Court of Appeals in reversing the Tax Court and holding that the assignment was valid and the dividends should not be included in Appellant’s gross income.
+
+Discussion
+This was a transaction for good and sufficient consideration, and was not a gift. The son acquired a right independent of Decedent, and Decedent was completely divested of any interest in the dividends.
+

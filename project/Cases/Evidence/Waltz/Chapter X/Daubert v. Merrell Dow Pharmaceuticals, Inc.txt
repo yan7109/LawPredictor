@@ -1,0 +1,24 @@
+Citation
+509 U.S. 579, 113 S. Ct. 2786, 125 L. Ed. 2d 469, 1993 U.S.
+
+Brief Fact Summary
+The Petitioners, two minor children and their parents (the “Petitioners”), sued the Respondent, Merrell Dow Pharmaceuticals (the “Respondent”), alleging that the children’s serious birth defects were caused by the mother’s prenatal use of Bendectin, a drug manufactured by the Respondent.  Bendectin is a prescription anti-nausea drug.
+
+Synopsis of Rule of Law
+The common law does not trump the legislatively enacted Federal Rules of Evidence (F.R.E.).
+
+Facts
+The Petitioners sued the Respondent alleging that the children’s serious birth defects were caused by the mother’s prenatal use of Bendectin, an anti-nausea drug manufactured by the Respondent.  The District Court granted summary judgment for the Respondent based on a well-credentialed expert’s affidavit.  The expert concluded that the maternal use of Bendectin had not been shown to be a risk factor for birth defects.  The Petitioners responded with the testimony of eight other experts who concluded that Bendectin could cause birth defects on animals.  The District Court held that expert opinion which is not based on epidemiological evidence is not admissible to establish causation.  The District Court determined that the evidence of petitioners did not meet the applicable general acceptance standard for the admission of expert testimony.  The Court of Appeals agreed and affirmed based on Frye v. United States, that an expert opinion based on scientific technique is inadmissib
+
+Issue
+Was the Frye test superseded by the adoption of the F.R.E.?
+
+Held
+Justice Harry Blackmun (”J. Blackmun”) delivered the opinion of the Supreme Court of the United States (”Supreme Court”) holding that the F.R.E. provide the standard for admitting expert scientific testimony, not Frye v. United States.
+
+Dissent
+Chief Justice William Rehnquist (”J. Rehnquist”) dissented in part, and concurred in part, and Justice John Paul Stevens (”J. Stevens”) joined.  J. Rehnquist concurred with the majority’s conclusion that the Frye rule was superseded by the F.R.E.  However, he dissented with regard to whether Frye requires expert scientific testimony to be subjected to a peer review process in order to be admissible, because that question is moot.
+
+Discussion
+The general acceptance test of Frye was superseded by the adoption of the F.R.E.  The F.R.E. place appropriate limits on the admissibility of scientific evidence by assigning the trial judge the task of ensuring that an expert’s testimony is reliable and relevant.  The trial judge is required to make a preliminary assessment of whether the underlying reasoning or methodology of the testimony is scientifically valid and can be properly applied to the facts.  Cross examination, presentation of contrary evidence, and careful instruction on the burden of proof are the appropriate means to challenge evidence based on valid principles, not the general acceptance standard.
+

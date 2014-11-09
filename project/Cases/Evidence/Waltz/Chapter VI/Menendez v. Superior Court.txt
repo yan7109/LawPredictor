@@ -1,0 +1,21 @@
+Citation
+2004 Cal.
+
+Brief Fact Summary
+The defendants, Joseph Lyle and Erik Galen Menendez (the “defendants”), were charged with murdering their parents in their Beverly Hills home in 1989.  The defendant’s sought protection from the psychotherapist-patient privilege regarding taped sessions with their psychologist.  The prosecution sought disclosure based on the dangerous patient exception to the privilege.
+
+Synopsis of Rule of Law
+The dangerous patient exception to the psychotherapist-patient privilege is available when the therapist has reasonable cause to believe disclosure is necessary to prevent harm.
+
+Facts
+Jose and Mary Louise Menendez were killed in their Beverly Hills home on August 20, 1989.  Their sons, the defendants, reported their murders, and would subsequently be arrested.  A search warrant was issued for the office and residence of the psychologist who served as the psychotherapist to the defendants.  The defendants were charged with two counts of murder.  The psychotherapist filed a motion in the trial court claiming the psychotherapist-patient privilege for the defendants, who would later intervene.  The trial court rejected the privilege as to all three audiotapes at issue.  The trial court found that the dangerous patient exception applied to a portion of the tapes
+
+Issue
+Does the psychotherapist-patient privilege apply to the three tapes seized from the psychologist?
+
+Held
+Associate Justice Mosk issued the opinion for the Supreme Court of California in affirming in part and reversing in part, by holding the privilege applies to sessions on November 28 and December 11, but is rejected based on the dangerous patient exception for the October 31 and November 2 sessions.
+
+Discussion
+The psychotherapist-patient privilege is available when there are confidential communications between the therapist and the patient, the information was transmitted in the course of the relationship, and in confidence, in a means that did not knowingly disclose the information to a third party.  However, the dangerous patient exception can overcome the privilege if the therapist has reasonable cause to believe that disclosure was necessary to prevent harm.  The protection afforded by the privilege when members of the public may be in danger.  In the sessions to which the dangerous patient exception was applicable, there was clear evidence that the psychologist had reason to believe that the defendants were dangerous.
+

@@ -1,0 +1,24 @@
+Citation
+20 Cal.3d 578, 146 Cal.Rptr. 182, 578 P.2d 899 (1978)<br />
+
+Brief Fact Summary
+Glen Gregos (Plaintiff) was injured at a motorcycle race, which was operated by American Motorcycle Associations.
+
+Synopsis of Rule of Law
+A concurrent tortfeasor may seek partial indemnity from another concurrent tortfeasor on a comparative fault basis.
+
+Facts
+Defendant sought leave to file a cross-complaint against Plaintiff’s parents, alleging their negligence and improper supervision of their minor son. Defendant also requested that the judgment be reduced by the amount of the “allocable negligence” of the parents. The trial court denied Defendant’s request. Defendant appealed.
+
+Issue
+May a concurrent tortfeasor seek partial indemnity from another concurrent tortfeasor on a comparative fault basis?
+
+Held
+Yes. Judgment reversed.
+
+Dissent
+The majority rejects Li in two ways. First, they adopt a joint and several liability theory, holding that each defendant will be responsible for the loss attributable to his co-defendant’s negligence. Under the majorities holding, a co-defendant who is minimally liable, might have to pay a large portion of the damage award if other defendants are indigent. Second, a settlement releases the settling tortfeasor from further liability and non-settling tortfeasors are left with a diminished recovery but only in the amount actually received, not an amount apportioned to fault. The Legislature, not the court is the proper institution to decide the issues presented in this case.
+
+Discussion
+This case changes joint and several liability, in that it is now apportioned to the co-defendant’s fault. Joint and several liability now reflects the change from the “all or nothing” result in contributory negligence to the apportionment of fault in comparative negligence.
+

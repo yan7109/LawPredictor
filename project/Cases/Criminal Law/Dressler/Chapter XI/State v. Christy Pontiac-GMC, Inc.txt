@@ -1,0 +1,21 @@
+Citation
+354 N.W.2d 17, 1984 Minn. 1448.
+
+Brief Fact Summary
+In a bench trial, the Defendant Christy Pontiac-GMC, Inc. (Defendant) was found guilty of two counts of theft by swindle and two counts of aggravated forgery and was sentenced to a $1,000 fine on each of the two forgery convictions. The Defendant argues that, as a corporation, it cannot be prosecuted for theft or forgery and that the evidence failed to establish that the acts complained of were the acts of the Defendant.
+
+Synopsis of Rule of Law
+A corporation may be guilty of a specific intent crime. Further, a corporation may be found guilty of a specific intent crime committed by its agent if: (1) the agent was acting within the course and scope of his employment, having the authority to act for the corporation with respect to the particular corporate business which was conducted criminally; (2) the agent was acting, at least in part, in furtherance of the corporation’s business interests and (3) the criminal acts were authorized, tolerated or ratified by corporate management.
+
+Facts
+The Defendant is a Minnesota corporation, doing business as a car dealership, and owned by a sole shareholder, James Christy (Christy). In the spring of 1981, General Motors offered a rebate program. When both James Linden (Linden) and Ronald Gores (Gores) purchased new GM vehicles, they were told that the rebate program had recently ended. However, Phil Hesli (Hesli), a Christy Pontiac salesman and fleet manager, subsequently forged the names of both Linden and Gores and backdated the rebate applications in order to receive the rebate to the Defendant and not the buyers.
+
+Issue
+Can the Defendant be held criminally liable for a specific intent crime committed by one of its agents?
+
+Held
+The evidence presented was sufficient to sustain the four convictions against the Defendant, even though the agent, Hesli, was acquitted on three of the four charges.
+
+Discussion
+Each of the elements of corporate vicarious liability were met in this case, including:
+

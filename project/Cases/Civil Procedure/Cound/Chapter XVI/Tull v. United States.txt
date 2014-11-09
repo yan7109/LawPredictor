@@ -1,0 +1,21 @@
+Citation
+22 Ill.481 U.S. 412, 107 S. Ct. 1831, 95 L. Ed. 2d 365, 25 ERC 1857 (1987)
+
+Brief Fact Summary
+The Federal Government sued a real estate developer for a violation of the Clean Water Act (the Act), a law allowing the Government to recover civil penalties and request injunctions. The Petitioner, Tull (Petitioner), asked for a jury trial on the civil penalties issue and was denied.
+
+Synopsis of Rule of Law
+There is a right to a jury trial for actions that determine liability for civil penalties, but a judge may determine such amounts.
+
+Facts
+The Federal Government brought suit against the Petitioner, a real estate developer, for dumping fill material on wetlands in Virginia in violation of the Act. The Government claimed that Petitioner dumped on three sites and a waterway. Section 1319 of the Act listed remedies in the form of injunctions and civil penalties. The Government sought both remedies against the Petitioner; however, when the complaint was filed most of the property had been sold, except for a small portion of land, thereby making imposition of the injunction impractical. The Government sought $22,890,00 in civil penalties. The District Court denied Petitioner’s request for a jury trial and found for the Government, though drastically reduced the amount of the civil penalties. The Court of Appeals affirmed on the issue of Petitioner’s right to a trial by jury.
+
+Issue
+Whether the Seventh Amendment of the United States Constitution (Constitution) guaranteed Petitioner a right to a jury trial on both liability and amount of penalty in an action instituted by the Federal Government seeking civil penalties and injunctive relief under the Act.
+
+Held
+The Seventh Amendment of the Constitution required that the Petitioner’s demand for a jury trial be granted to determine his liability, but that the trial court and not the jury could determine the amount of penalty in any. Court of Appeals judgment reversed and remanded for further proceedings consistent with this opinion.  Concurrence. Supreme Court Justice Antonin Scalia (J. Scalia) and John Paul Stevens (J. Stevens) concurred that in cases where a jury trial determines liability on civil penalties, a jury should also determine the amounts as well.
+
+Discussion
+The Court examined this case in two parts.   The first being to determine whether a statutory action was more similar to cases that were tried in a court of equity or more similar to cases tried in a court of law. In order to do so it had to examine the nature of the action and the remedy sought. The Court reasoned, if a legal claim is joined with an equitable claim, the right to a jury trial on the legal claim, including all the issues common to both claims remains intact and the right cannot be abridged by characterizing the legal claim as “incidental” to the equitable    relief sought. Thus, the Petitioner had a right to a jury trial to determine his liability on the legal issues.  The second part focused on whether Congress, consistent with the Seventh Amendment of the Constitution, could authorize judges to assess civil penalties, thereby determining whether Petitioner had a constitutional right to a jury trial on that issue. In the United States, most actions that deal with civil penalties seek the amounts that are fixed by Congress. Because Congress fixes these amounts, there is no right to ask for a jury to do so. And since Congress, itself may fix the civil penalties, it may delegate that determination to trial judges.
+

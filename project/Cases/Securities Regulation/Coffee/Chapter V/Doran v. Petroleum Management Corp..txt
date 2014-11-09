@@ -1,0 +1,21 @@
+Citation
+545 F.2d 893 (5th Cir. 1977)
+
+Brief Fact Summary
+Sophisticated investor, Doran (Plaintiff) is a lone buyer in a securities offering and is seeking rescission for violation of registration requirements.
+
+Synopsis of Rule of Law
+An offeror must fulfill the registration requirements even if the solitary investor of said offering is a sophisticated investor.
+
+Facts
+Petroleum Management Corp’s marketers offered eight people equity participation in the corporation, only one of which, Doran, accepted. Doran was a sophisticated investor. Petroleum soon went out of business and Petrolem’s creditor took Doran to court, acquiring a judgment of over double Doran’s initial investment.  Doran alleged Petroleum was in violation of the Securities Act’s registration requirements and brought an action against Petroleum and its solicitors. The district court accepted Petroleum’s defense of a private offering found in § 4(2) of the Act, and dismissed the action. The court found that Doran’s position as a sophisticated investor weighed heavily in this determination. Doran appealed.
+
+Issue
+Does having a sophisticated lone investor alleviate the offeror of having to fulfill registration requirements?
+
+Held
+(Goldberg, J.) No. Having a singular investor in an offering, who is also a sophisticated investor, does not alleviate the offeror of the registration requirements. A “private offering” exemption was created in § 4(2) of the Securities Act, bypassing the Act’s registration obligations. To utilize this defense, four elements must exist: number of units offered, number of offerees, the size of the offer, and finally, the manner of the offering. The number of offerees references the quantity of offerees and their sophistication, thus is the most significant element. Here, only Doran was focused on, for the court failed to take into consideration the class of the other offerees. Additionally, sophistication without access to pertinent information is pointless. Subsequently, on remand the district court must both examine the level of sophistication of the other offerees and, whether by disclosure or rank as insiders, determine if they had access to pertinent data. Remanded.
+
+Discussion
+Usually seen as a substitute as opposed to an exception, the private offering exception can be used to alleviate registration requirements. Registration mandates are favored by federal policy to enhance investor awareness, however, when investor awareness occurs without registration, such as with small private offerings, registration may be considered redundant and needless.
+

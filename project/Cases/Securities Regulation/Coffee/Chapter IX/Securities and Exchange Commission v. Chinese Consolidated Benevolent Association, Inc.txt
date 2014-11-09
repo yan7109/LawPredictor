@@ -1,0 +1,21 @@
+Citation
+120 F.2d 738 (2d Cir. 1941)
+
+Brief Fact Summary
+A group (Defendant) was established to petition the Chinese community for funds to buy bonds issued by the Chinese government.
+
+Synopsis of Rule of Law
+Foreign bonds must be registered. Regardless of whether an association is compensated or approved by the issuer, they are still considered an underwriter.
+
+Facts
+A group of Chinese Americans (Chinese Consolidated Benevolent Association, Inc.) solicited funds from the Chinese American community, using the money received to buy bonds from the Chinese government. The Chinese government did not approve the Association to do so and therefore the Association received no payment. The Association did not register the bonds with the Securities and Exchange Commission (Plaintiff) and so the SEC requested the actions of the Association cease. § 5 of the Securities Act of 1933 states that it is unlawful for an issuer, underwriter or dealer to utilize any mode of interstate commerce or communication to participate in selling unregistered securities. Due to the district court finding that the Association was not an underwriter, issuer or dealer, it was exempt from §5.
+
+Issue
+If a group solicits funds to buy unregistered securities, without compensation or authorization by issuer, is said group considered an underwriter?
+
+Held
+(Hand, J.) Yes. Foreign bonds must be registered with the SEC. The Securities Act of 1933 required this in order to protect the bond buyer. It is irrelevant whether the group was authorized to act on behalf of the Chinese government or whether the group was compensated for their undertakings. The bonds the Association solicited funds to buy had value, therefore the Association was participating in the sale of an unregistered security between the issuer and a buyer. According to § 5 of the 1933 Act, which applies to the transaction in the sale of a security in its entirety; the Association falls within the scope of underwriter. Without the actions of the Association, the sale would not have transpired, thus, the Association acted as an underwriter. The order of the district court is reversed and the Association’s actions are prohibited until the bonds are registered.
+
+Discussion
+As witnessed here, a transactional analysis was utilized by the court to hold that the Association was participating in unauthorized activities. Using interstate commerce to petition buying of unregulated securities violates the Securities Act of 1933. Technically, even something as menial as a friend to friend fund solicitation for an unregistered stock purchase would be in violation of the act.
+

@@ -1,0 +1,24 @@
+Citation
+N.Y. App. Div., 376 N.Y.S.2d 147 (1975)
+
+Brief Fact Summary
+The Rapoports (P) assigned their partnership and partnership interest with the Parnes (D) to their adult children which they said could be assigned without Parnes’ (D) consent according to the partnership agreement. The Parnes (D) contend that the partnership agreement did not allow the introduction of new partners without the consent of all the existing partners.
+
+Synopsis of Rule of Law
+The related provision states that “No partner… shall have the authority… to sell, transfer, assign… his or her share in the firm… unless the same is agreed to in writing by a majority of partners… except for members of his immediate family who have attained majority, in which case no such consent shall be required,” and does not allow adult children of partners to enter into the partnership without assent from all partners.
+
+Facts
+The Rapoport (P) family entered into a partnership with the Parnes (D) family, creating 55 Perry Co. One of the provisions stated that, “No partner… shall have the authority… to sell, transfer, assign… his or her share in the firm… unless the same is agreed to in writing by a majority of partners… except for members of his immediate family who have attained majority, in which case no such consent shall be required,”. The Rapoport (P) family assigned a 10% interest to their adult children. The Parnes (D) family was consulted and the certificate of the partnership amended to include the 10% interest assigned. However, when the Rapoport’s (P) wanted to amend the certificate to also include their adult children as partners, the Parnes (D) refused. The Rapoport’s (P) filed suit contending that they had the right to assign interest to and make partners out of their adult children without the Parnes’ (D) consent. Both parties made a motion for summary judgment. The trial court found the agreement ambiguous, denied the motions, and stated that there was a triable issue of fact. The appellate court reviewed.
+
+Issue
+Does the related provision that, “No partner… shall have the authority… to sell, transfer, assign… his or her share in the firm… unless the same is agreed to in writing by a majority of partners… except for members of his immediate family who have attained majority, in which case no such consent shall be required,” allow adult children of partners to enter into the partnership without the assent of all partners?
+
+Held
+(Tilzer, J.) No. The provision that “No partner… shall have the authority… to sell, transfer, assign… his or her share in the firm… unless the same is agreed to in writing by a majority of partners… except for members of his immediate family who have attained majority, in which case no such consent shall be required,” does not allow adult children of partners to enter into the partnership without the assent of all partners. The provision is unambiguous in making a distinction between an assignee and a full partner, it did not intend for an adult child to become a partner without assent from all partners. Partnership law also agrees that there is a distinction between being able to assign interest to immediate family members without consent, and making family members full on partners without consent. The provision does not contain set forth rules about entering in new partners. The Rapports’ (P) children thusly only have an assignee’s interest in the partnership. Judgment is in favor of the Parnes (D). The restated partnership certificate is ruled out and must be amended to remove the children as partners. Reversed and modified.
+
+Dissent
+(Nunez, J.) The trial court was correct about the provision being triable and should be tried at the trial court level.
+
+Discussion
+Under the New York Partnership Law used by the court in this case, partners have rights to specific partnership property, a right to participate in management, and a right to interest in the partnership. By contrast, under the RUPA, property acquired by the partnership is owned by the partnership and not the partners individually. Under this perspective, partners are not co-owners of partnership property and have no interest in partnership property that can be transferred, whether voluntarily or involuntarily.
+

@@ -1,0 +1,21 @@
+Citation
+22 Ill.147 Cal.App.3d 1006, 195 Cal.Rptr. 484 (Ct. App. 1983)
+
+Brief Fact Summary
+Two physicians were charged with murder and conspiracy charges after discontinuing treatment of a comatose patient at the request of the deceased’s family, where there was virtually no chance of recovery.
+
+Synopsis of Rule of Law
+A physician’s failure to continue treatment of a comatose patient at the request of the patient’s family is not an unlawful failure to perform a legal duty and therefore is not punishable under the penal code.
+
+Facts
+The deceased, Mr. Herbert, underwent surgery following a heart attack and suffered severe brain damage. He was subsequently placed on life support equipment and determined to be in a comatose state. Herbert’s family, after being told that there was virtually no chance of recovery, requested that he be taken off of life support. The two physicians discontinued treatment by removing the life support equipment and were subsequently charged with murder and conspiracy to commit murder. After a preliminary hearing, the magistrate dismissed the charges. However the superior court set aside the order and reinstated the complaint. The physicians petitioned the court of appeals for review of the decision of the superior court to dismiss the complaint.
+
+Issue
+Is a physician under a duty to continue treatment of a comatose patient once such treatment has proven to be ineffective such that he/she can be held liable for murder?
+
+Held
+No. Judgment reversed.
+
+Discussion
+Note that the Supreme Court of the United States has endorsed the distinction between the situation where a physician lets a patient die as a result of discontinuing treatment and the situation where the physician administers a lethal injection. The first, as in this case, is evaluated as an omission to act whereas the later is deemed an affirmative act and amounts to murder.
+

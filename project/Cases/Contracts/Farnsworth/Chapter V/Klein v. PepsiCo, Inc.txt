@@ -1,0 +1,21 @@
+Citation
+845 F.2d 76, 1988 U.S. App. 5268, 6 U.C.C. Rep. Serv. 2d (Callaghan) 728
+
+Brief Fact Summary
+Plaintiff Eugene V. Klein sued for specific performance on the sale of a Gulfstream G-II corporate jet that a broker, Universal Jet Sales, Inc. (”UJS”), was to purchase from Defendant PepsiCo, Inc. Defendant claimed not to have formed a contract for the sale of the jet to UJS, a contention with which UJS disagrees.
+
+Synopsis of Rule of Law
+Specific performance of a contract is appropriate only if the goods are unique or “in other proper circumstances.”
+
+Facts
+Plaintiff began searching for a used jet. He contacted Patrick Janas, President of UJS, who informed him of the aircraft owned by Defendant. After inspection by his pilot and mechanic, Plaintiff had the jet flown to Arkansas for personal inspection. Thereafter, Plaintiff gave Janas $200,000 and told Janas to offer $4.4 million for the aircraft. Janas telexed the $4.4 million offer to James Welsch, who served as the broker for Defendant. Welsch counter-offered with $4.7 million. After negotiation, Janas and Welsch settled on $4.6 million, and Janas planned to sell the aircraft to the plaintiff for $4.75 million. The trial judge determined that a contract had been formed at this point. Defendant failed to deliver the aircraft in breach of the contract, and the trial judge ordered specific performance, i.e. the delivery of the jet for the agreed upon price.
+
+Issue
+Is the ordering of specific performance appropriate for this type of contract?
+
+Held
+No. Specific performance is appropriate where the goods are unique “in other proper circumstances.” Given the testimony that there were three comparable G-II’s on the market, the Fourth Circuit Court of Appeals held that the aircraft was not so unique as to merit an order of specific performance. As “other proper circumstances,” Plaintiff cited price increases in G-II’s, which caused him to purchase a G-III. Price increases are no reason to order specific performance. Money damages would clearly be adequate.
+
+Discussion
+Specific performance is an equitable remedy that is only appropriate if money damages are inadequate. Money damages are generally inadequate where the goods are unique and cannot be replaced by other goods.
+

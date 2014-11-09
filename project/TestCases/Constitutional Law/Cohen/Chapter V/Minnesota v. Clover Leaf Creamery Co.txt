@@ -1,0 +1,24 @@
+Citation
+22 Ill.449 U.S. 456, 101 S. Ct. 715, 66 L. Ed. 2d 659, 15 ERC 1473 (1981)
+
+Brief Fact Summary
+Minnesota had a law that banned non-recyclable or reusable milk containers but allowed recyclable and reusable milk containers. The goal was waste management and environmental protection. Various companies including those that manufacture non-returnable plastic milk jugs sued Minnesota.
+
+Synopsis of Rule of Law
+The State’s law that restricted the type of packaging milk companies could use, which affected interstate commerce, was upheld as a valid environmental protection method. The legislation was not facially discriminatory. The Commerce Clause required the state to use the least restrictive restraints on interstate commerce to achieve a legitimate environmental goal. The legislation’s benefits outweighed its discriminatory effects.
+
+Facts
+In 1977 the Minnesota Legislature enacted a statute which prohibited all milk retailers from selling their products in plastic, non-returnable milk containers without regard to whether the milk containers or the sellers were from inside or outside the state. Opponents argued that the Act would not succeed in effecting the Legislature’s published policy goals of promoting resource conservation, easing solid waste disposal problems and conserving energy. Instead opponents argued that the “actual basis” of the Act “was to promote the economic interests of certain segments of the local dairy and pulpwood industries at the expense of the economic interest of other segments of the dairy and plastics industry.” Clover Leaf Creamery and other opponents prevailed in the Minnesota District Court on the Commerce Clause grounds. The Supreme Court of Minnesota did not reach the Commerce Clause issue.
+
+Issue
+Does the Minnesota statute impose an unreasonable burden on interstate commerce?
+
+Held
+Justice Brennan opinion: No. Minnesota District Court judgment is reversed.
+
+Dissent
+Justice Powell dissented in part, saying he would not reach the Commerce Clause issue but would remand it for consideration by the Supreme Court of Minnesota. Justice Stevens dissented because he claimed the Court was not free to reject the factual conclusions reached by the Supreme Court of Minnesota and claimed that those conclusions justified a holding that the statute was in violation of the Equal Protection claim.
+
+Discussion
+This was a non-discriminatory (evenhanded) statute and so the Court balanced any discriminatory motive against the burden on interstate commerce. In this case the state had a valid substantial interest in the environment. There were no hidden protectionist motivations. Furthermore, the burden was not that heavy because companies could easily modify production to include recyclable containers and many states had different laws about what the proper milk containers would be.
+

@@ -1,0 +1,15 @@
+Citation
+502 U.S. 938 112 S. Ct. 371 116 L. Ed. 2d 323 1991 U.S.
+
+Brief Fact Summary
+James Hession brought suit against<span class="heading">Synopsis of Rule of Law.</span> A physicians examination in preparation for a trial is protected under an attorney-client privilege but not a physician-patient privilege.
+
+Facts
+James Hession brought suit against Petitioners, the City and County of San Francisco and Western Pacific Railroad for physical injuries.  Hession’s attorney hired a physician to give Hession an examination in anticipation of a trial.  Petitioners sought a writ of mandamus to compel the Respondent, The Superior Court of the City and County of San Francisco, to force the physician to answer questions regarding Hession’s condition.  The physician claimed there was a physician-patient privilege, and Hession’s attorney claimed that there was an attorney-client privilege.<span class="heading">Issue.</span> The issue is whether the physician’s examination was protected under a physician-patient privilege or an attorney-client privilege.
+
+Held
+The Supreme Court of California held that the physician-patient privilege did not apply because the physician did not examine the patient in an ordinary course of care for the patient, but rather as preparation for a trial. Hession also waives the privilege when he brought a suit for injuries.  However, since the physician acted as an intermediary between Hession and his lawyer, the examination is protected as attorney-client communication.
+
+Discussion
+Just as evidence can come in under more than one hearsay rule, a communication can fall under alternative privileges.  In this case a physician’s exam has no physician-patient privilege, but the nature of the exam still keeps it privileged as an attorney-client communication.
+

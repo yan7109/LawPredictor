@@ -1,0 +1,24 @@
+Citation
+389 U.S. 347, 88 S. Ct. 507, 19 L. Ed. 2d 576 (1967)
+
+Synopsis of Rule of Law
+The protection of the Fourth Amendment of the United States Constitution (”Constitution”), against unreasonable searches and seizures, follows the person and not the place.
+
+Facts
+The petitioner used a public telephone booth to transmit wagering information from Los Angeles to Boston and Miami in violation of federal law.  After extensive surveillance, the FBI placed a listening device to the top of the telephone booth and recorded the petitioner’s end of the telephone conversations which was then used as evidence against him at his trial.  The petitioner moved to have the evidence suppressed under the Fourth Amendment of the Constitution, and that motion was denied.  The Court of Appeals rejected the contention that the evidence is inadmissible.  Certiorari was granted.
+
+Issue
+Whether the Fourth Amendment of the Constitution protects telephone conversations conducted in a phone booth and secretly recorded from introduction as evidence against a person?
+
+Held
+Justice Potter Stewart filed the majority opinion.  The petitioner strenuously asserted that the phone booth was a constitutionally protected area.  However, the Fourth Amendment protects persons and not places from unreasonable intrusion.  Even in a public place, a person may have a reasonable expectation of privacy in his person.  Although the petitioner did not seek to hide his self from public view when he entered the telephone booth, he did seek to keep out the uninvited ear.  He did not relinquish his right to do so simply because he went to a place where he could be seen.  A person who enters into a telephone booth may expect the protection of the Fourth Amendment of the Constitution as he assumes that the words he utters into the telephone will not be broadcast to the world.  Once this is acknowledged, it is clear that the Fourth Amendment of the Constitution protects persons and not areas from unreasonable searches and seizures.  The Government’s activities in electron
+
+Dissent
+Justice Hugo Black (”J. Black”) filed a dissenting opinion.  J. Black observed that eavesdropping was an ancient practice that the Framers were certainly aware of when they drafted the United States Constitution (”Constitution”).  Had they wished to prohibit this activity under the Fourth Amendment of the Constitution they would have added such language that would have effectively done so.  By clever wording, the Supreme Court finds it plausible to argue that language aimed specifically at searches and seizures of things that can be searched and seized may, to protect privacy, be applied to eavesdropped evidence of conversations.
+
+Concurrence
+Justice John Harlan (”J. Harlan”) filed a dissenting opinion.  The Fourth Amendment of the Constitution protects persons, not places.  There is a twofold requirement for what protection is afforded to those people.  First, that a person has exhibited an actual expectation of privacy and, second, that the expectation be one that society is prepared to recognize as reasonable.  The critical fact in this case is that a person who enters a telephone booth shuts the door behind him, pays the toll, and is surely entitled to assume that his conversation is not being intercepted.  On the other hand, conversations out in the open public would not be protected against being overheard as the expectation of privacy would not be reasonable.
+
+Discussion
+The Fourth Amendment of the Constitution provides constitutional protection to individuals and not to particular places.  The two-part test for this protection is introduced by J. Harlan.  First, the person must have exhibited an actual expectation of privacy and, second, that expectation must be reasonable.
+

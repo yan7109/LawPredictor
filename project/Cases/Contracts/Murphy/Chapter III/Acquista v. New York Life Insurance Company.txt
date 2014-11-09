@@ -1,0 +1,24 @@
+Citation
+285 A.D.2d 73, 730 N.Y.S.2d 272 (App Div, 1st Dept 2001)
+
+Brief Fact Summary
+Dr. Acquista (Plaintiff), sued New York Life Insurance Company (Defendant), his insurance company, after Defendant denied his application for disability benefits on the basis that he was not disabled according to the definition in the policy. Plaintiff sued Defendant on breach of contract, bad faith and unfair practices, fraud and fraudulent misrepresentation, and negligent infliction of emotional distress.
+
+Synopsis of Rule of Law
+In a case for wrongful denial to pay an insurance claim, other damages should be available to the plaintiff than the mere face amount of the policy
+
+Facts
+Plaintiff, a doctor who specializes in internal and pulmonary medicine purchased three disability insurance policies from Defendant. Plaintiff became ill with myelodysplasia, a disease that might convert into leukemia. He has been instructed by his physicians to avoid radiation. He also suffers from fatigue, headaches, and muscle and joint pain. Plaintiff made a claim under his disability insurance. Plaintiff alleges that Defendant made it especially difficult for him to file the claim by asking for various documents, then asking for more documents, then transferring his claim to a different employee who, then, asked for more documents. It took over two years for Defendant to finally deny his claim. Defendant alleges that Plaintiff can still perform some of the “material and substantial” duties of his job. The trial court dismissed all of Plaintiff’s claims except the claim based on the policy provision for partial disability benefits.
+
+Issue
+Was the trial court correct in dismissing Plaintiff’s claims involving bad faith conduct?
+
+Held
+No.
+
+Dissent
+Plaintiff alleges that Defendant did not perform Defendant’s duty to investigate and negotiate Plaintiff’s claim. Plaintiff also claims that Defendant concluded wrongly, that Plaintiff is not disabled according to the definition of the policy. A cause of action for acting in bad faith should be dismissed when it is brought with a breach of contract action because it is duplicative.
+
+Discussion
+This case deals with two major questions: first, was Plaintiff, in fact, entitled to the insurance payout and second, is Plaintiff entitled to any compensation to compensate for the way Defendant treated him. The court declined to answer the first question as it is a question of fact and, thus, for a trial court to decide. On the second question, the court offered three possible ways of dealing with such issues. The first is to frame the question of the wrongful denial if coverage only in terms of breach of contract which would entitle the Plaintiff only to the value of the policy. The second is to allow a wrongfully denied Plaintiff a tort action against the insurer. The third is to consider a breach of contract action, but to allow damages above and beyond the value of the policy, if the insurer’s actions are particularly nasty. The court determines that imposing tort liability on an insurance company is for the legislature to do, not the courts, but that the original w
+

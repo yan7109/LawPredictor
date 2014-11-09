@@ -1,0 +1,24 @@
+Citation
+480 U.S. 79, 107 S. Ct. 1013, 94 L. Ed. 2d 72 (1987)
+
+Brief Fact Summary
+Police obtain a search warrant to search “the premises known as 2036 Park Avenue third floor apartment,” but discover after acquiring contraband that they were in defendant Garrison’s separate apartment.
+
+Synopsis of Rule of Law
+The validity of a search warrant must be determined on the basis of the information that the police disclose or have a duty to disclose to a magistrate.
+
+Facts
+A warrant was issued to search “the premises known as 2036 Park Avenue third floor apartment,” with the police reasonably believing that there was only one apartment on the premises.  There were however, two apartments on the third floor, a fact the officers only became aware of after they had discovered the contraband that led to the defendant’s conviction.  The trial court denied defendant’s motion to suppress the seized evidence, and the Maryland Special Court of Appeals affirmed.  The Court of Appeals of Maryland reversed and remanded for a new trial, saying that the warrant was to be construed as authorizing a search of the original suspect’s apartment only.  Certiorari was then granted.
+
+Issue
+Can the fruits of a search pursuant to a warrant not adequately describing the premises be excluded on Fourth Amendment grounds when the police officer who obtained it reasonably believed that the premises were described precisely?
+
+Held
+No.  Reverse and remand.
+
+Dissent
+Justice Harry Blackmun expressed his belief that the search did violate the Fourth Amendment because it was conducted without a warrant and without exigent circumstances, because the errors of the police officers were not reasonable under the circumstances, and because the evidence obtained from the search should have been excluded.
+
+Discussion
+This case shows that the description of premises to be searched within a warrant does not have to be exact but enough that an officer can reasonably identify the place intended.  The lack of Fourth Amendment police misconduct deterrent value present in excluding the fruits of a search pursuant to a warrant with poorly described, though reasonably mistaken premises is a factor in this case’s result.
+

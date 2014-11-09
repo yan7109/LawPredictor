@@ -1,0 +1,21 @@
+Citation
+148 Tex. 485, 226 S.W.2d 622, 1950 Tex.
+
+Brief Fact Summary
+The Plaintiff, Othen (Plaintiff), claims a roadway easement across two tracts of land owned by the Defendant, Rosier (Defendant). The Defendant had constructed a levee which made the lane so muddy that it was impassable and deprived Plaintiff of access to and from his farm.
+
+Synopsis of Rule of Law
+In order to find an implied easement, you must look back to the time of the common owner and determine whether the easement was a necessity and not a mere convenience at the time of the severance of the dominant and servient estate.
+
+Facts
+A common owner (Hill) sold part of the tract where the roadway was built (100 acres) in 1896 (a servient estate), but retained 16 acres to the south, where the remaining part of the roadway was located, until 1899. In 1899, the remaining land where the roadway was situated was sold (the remainder of the servient estate.) The easement across these two properties had been used by the Hill to access adjoining part of the property (the dominant estate) that Hill also owned. Plaintiff lives on the dominant estate that uses the roadway for access to his farm. Defendant lives on the servient estate. Defendant constructed a levee that made the roadway impassable and deprived plaintiff access to his farm. Plaintiff is suing to enforce the same easement across the land of the defendant. No testimony at the trial level to establish whether the roadway was the only outlet to the public road in 1896, the time when the common owner sold the servient estate.
+
+Issue
+Is there an easement by necessity?
+
+Held
+There is no easement by necessity. An implied easement may be shown if (1) originally there existed common ownership of the dominant and servient estate; (2) the easement is a necessity not a mere convenience and (3) the necessity existed at the time of the severance of the two estates. Here, there was a common owner, Hill. However, there was no necessity because the common owner retained the ownership for 3 years of the 16 acres over which he could have accessed the road or could have been able to cross his land to the north to access the road. In addition, it was not shown that necessity existed at the time the dominant and servient estates were severed.
+
+Discussion
+The court in Othen required strict necessity, i.e. there was no other way to access the public road, in order to enforce the easement. Mere convenience would not be enough.
+

@@ -1,0 +1,24 @@
+Citation
+448 U.S. 56, 100 S. Ct. 2531, 65 L. Ed. 2d 597, 1980 U.S.
+
+Brief Fact Summary
+Defendant, Herschel Roberts, was charged with forgery for writing checks in the name of Bernard Isaacs.  Defendant was able to question Isaac’s daughter, Anita Isaacs, at a preliminary hearing, but she failed to appear for the trial.  Therefore the state introduced the record of the preliminary hearing as evidence.
+
+Synopsis of Rule of Law
+Testimony from a preliminary hearing is admissible if the declarant can not be produced for the trial, but the prior testimony should have factors, such as a prior opportunity for questioning by a defendant’s counsel and being under oath, to indicate the testimony is reliable and trustworthy.
+
+Facts
+Defendant stayed at Anita Isaacs apartment for a few days.  During his stay, Defendant used checks and credit cards under Bernard Isaacs’s name.  At a preliminary hearing, Anita was called by Defendant’s counsel and asked at length about granting permission to Defendant.  She denied granting permission.  During the trial, Anita was not available despite an extensive search by the prosecution and her family.  Therefore, the prosecution submitted her preliminary hearing testimony as evidence.  Defendant objected but the trial judge allowed the evidence.  Defendant was convicted, but the appellate court and The Supreme Court of Ohio sided with Defendant in not allowing the evidence.
+
+Issue
+The issue is whether the preliminary hearing testimony by an unavailable witness is admissible.
+
+Held
+The admission of the preliminary hearing testimony does not violate Defendant’s rights under the Confrontation Clause of the United States Constitution.  The witness was unavailable, but the prosecution made a good-faith effort in trying to locate her.  There were also several factors that demonstrated the reliability of her testimony such as  Defendant’s counsel asked her leading questions at length during the preliminary hearing.
+
+Dissent
+The dissent does not believe that the record indicates that the state met its burden in procuring Anita Isaacs.  The only effort in reaching her was sending five subpoenas to her parents’ residence, even though they knew she moved after the second subpoena.  The dissent believes that even if there is a belief that further attempts will be fruitless that they should nonetheless be attempted in order to satisfy the state’s burden.
+
+Discussion
+The court breaks the Confrontation Clause requirements into two parts.  First, the state needs to prove that they made a good-effort attempt to reach the witness.  Second, the state has to prove that the prior testimony carries an indicia of trustworthiness.
+

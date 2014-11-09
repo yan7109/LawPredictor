@@ -1,0 +1,21 @@
+Citation
+22 Ill.105 F.3d 1147, 2 ILRD 695 (7th Cir. 1997)
+
+Brief Fact Summary
+Plaintiff Hill, purchased a computer from Defendant, Gateway 2000, Inc. Included in the box with the computer was a list of terms. The list of terms included a provision requiring that disputes be resolved exclusively through final and binding arbitration.
+
+Synopsis of Rule of Law
+Additional terms included in a box shipped by the seller do become part of the contract between the parties, even if the purchaser is unaware of the additional terms and the purchaser’s acceptance of the terms is by not returning the item purchased.
+
+Facts
+Plaintiff purchased a computer from Defendant by placing an order over the phone. Defendant included a list of terms that become part of the contract if the purchaser does not return the computer within thirty days. The terms were not read to Plaintiff over the phone. The list of terms sent to Plaintiff included an arbitration provision. The arbitration provision required that all disputes be resolved through arbitration.
+
+Issue
+Did the arbitration provision become part of the contract between the parties?
+
+Held
+Yes. The arbitration provision became part of the contract. The Court states that a contract can be effective even if it is not read. Further, the Court warns that those who accept without reading the terms of a contract assume the risk that the terms will be unfavorable. As the master of the offer, the Defendant could limit the actions required for acceptance. Therefore, the Court finds that even though Plaintiff did not read the terms, Plaintiff nonetheless accepted the terms by not returning the computer within thirty days.
+
+Discussion
+In the present case, the arbitration provision included in the list of terms sent with the computer became part of the contract between the parties when Plaintiff did not return the computer within thirty days, even though Plaintiff had not read the provision.
+

@@ -1,0 +1,21 @@
+Citation
+184 F. Supp. 2d 55, 2001 U.S. Dist. 22085
+
+Brief Fact Summary
+Plaintiff, Richard Daynard, seeks to bring an action against only Defendant law firm, Ness, Motley, Loadholdt, Richardson & Poole, after Plaintiff was unable to obtain personal jurisdiction over another group of defendants from Mississippi.  Defendant claimed that the other defendants were indispensable parties.
+
+Synopsis of Rule of Law
+Rule 19 of the Federal Rules of Civil Procedure provides that indispensable parties defined in 19(b) are a subset of necessary parties defined in 19(a), and the factors to consider when determining if a party is indispensable are: 1) how prejudicial is their absence on the other parties; 2) how much can the prejudice be avoided; 3) whether a judgment in their absence would suffice; and 4) whether the plaintiff would be able to obtain relief it the case was dismissed.
+
+Facts
+Plaintiff is a law school professor who advised law firms representing states in litigation against tobacco companies.  Defendant was a South Carolina firm, and another defendant that has since been dismissed was from Mississippi.  Plaintiff claims that he had an agreement with Defendant firms wherein he would receive 5% of attorney’s fees paid to Defendants.  Plaintiff finalized the agreement by shaking on it with a partner from the Mississippi firm.  After the law firms won their cases and received millions of dollars, Plaintiff sought his portion.  Plaintiff brought this action against Defendant and the Mississippi firm, but the Mississippi firm was dismissed for a lack of personal jurisdiction.  Defendant then moved to dismiss the case under Rule 12(b)(7) for failure to join an indispensable party.  Defendant argued that the deal was consummated between Plaintiff and a partner from the Mississippi firm and therefore the other firm was indispensable.
+
+Issue
+The issue is whether the action should be dismissed because the Mississippi firm is an indispensable party.
+
+Held
+The court held that the Mississippi firm was neither necessary under Rule 19(a) nor indispensable under Rule 19(b).  In a contract action, co-obligors may be, but not always, necessary but are typically not indispensable.  Defendant argued that allowing the action would result in additional trials and provide precedent that the other defendants would have to overcome.  Defendant is also disadvantaged because they may be held liable for the entire amount and they have to overcome an empty-chair defense without the party.  The court rejected those arguments because traditionally it is up to defendants that can be held joint and severally liable to resolve allocation of damages.  The court did apply the factors outlined in Rule 19 to determine if the party was necessary or indispensable, and the factors weighed in favor of allowing the action.  Although Plaintiff had an adequate remedy in a Mississippi court, Defendant would not be prejudiced by their absence for the reasons above
+
+Discussion
+The court distinguished precedent cited by Defendant that cited co-obligees as indispensable, and dismissed Defendant’s assertion that they were a co-obligee because they were still owed legal services by Plaintiff.
+

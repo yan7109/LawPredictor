@@ -1,0 +1,21 @@
+Citation
+149 F.3d 659 (7th Cir. 1998)
+
+Brief Fact Summary
+The ambit of statutory protection does not extend to the securities violations, as determined by the district court.
+
+Synopsis of Rule of Law
+When the conduct taking place in the United States blatantly causes the claimed loss of the plaintiff in that that the conduct is an essential portion of the purported fraud and material to its success, there jurisdiction lies.
+
+Facts
+A Malaysian corporation, Kauthar SDN BHD (Plaintiff),made a $38 million investment in Rimsat, Ltd. (Rimsat) (Defendant), a Nevis corporation with Fort Wayne, Indiana as its principal place of business. Rimsat was incorporated for the purpose of offering satellite communication services to its Pacific Rim region customers. Rimsatmade phone calls from its base in Fort Wayne and prepared documents in the United States for transmission to Kauthar in order to secure Kauthar’s investment in this capital-intensive venture.Subsequent these solicitations and meetings in the United States, Kauthardecided to invest and sent installments to Rimsat’s bank; then in January 1995, many of Rimsat’s creditors forced it into bankruptcy.  This fraud suit was filed by Kautharunder the U.S. securities laws. The suit was dismissed by the district court and the Seventh Circuit reversed.
+
+Issue
+Should a U.S. securities fraud regulation be applicable to an extraterritorial investment?
+
+Held
+(Ripple, J.) Yes. When deciding whether to enforce American securities laws extraterritorially, it is vital to make certain that the U.S. is not utilized as a “base of operations” for defrauding foreign securities purchasers and sellers.  Here, the defendants thought of a plan to defraud investors in the United States, compiled information backing that plan in the U.S., sent information via U.S. mail, and received the fraudulently solicited payments in the United States. This transaction is brought within the ambit of U.S. securities laws by this considerable level of activity. Affirmed.
+
+Discussion
+In U.S. courts, in a line of cases dealing with antitrust and securities laws, the jurisprudence of the extraterritorial application of domestic law has developed most fully. Other nations have been silent for the most part regarding the extraterritorial extension of U.S. securities laws mostly because the conduct vital to extraterritorial securities cases is offensive worldwide, in contrast to the antitrust cases
+

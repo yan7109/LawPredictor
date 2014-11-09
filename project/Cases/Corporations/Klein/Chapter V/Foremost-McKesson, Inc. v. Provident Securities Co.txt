@@ -1,0 +1,18 @@
+Citation
+423 U.S. 1077, 96 S. Ct. 865, 47 L. Ed. 2d 89 (1976)
+
+Brief Fact Summary
+Respondent, Provident Securities Co., received debentures from Petitioner, Foremost-McKesson, Inc., that when converted would be greater than ten percent of Petitioner company.  Respondent sought declaratory judgment to ensure that they were not liable to Petitioner for profits under Section: 16(b) of the Securities Exchange Act.
+
+Synopsis of Rule of Law
+Under Section: 16(b), the phrase “at the time of the purchase” in the exemption provision means the time right before a purchase in a purchase-sale, thus exempting a party from being liable to the company for profits realized from a sale.
+
+Facts
+Respondent was a holding company that sought to liquidate its assets for its members.  Respondent agreed to sell assets to Petitioner in return for cash and convertible debentures for Petitioner stock.  The debentures were immediately convertible to Petitioner’s stock, and the total value was greater than 10% of Petitioner’s stock.  Because it was greater than 10%, Respondent was a beneficial owner of Petitioner under Section: 16(b) of the Securities Exchange Act.  The shares were converted and distributed to the members of the Respondent holding company.  Respondent, realizing that the value of their ownership in Petitioner made them a beneficial owner, sought a declaratory judgment to affirm that they would not be liable for profits realized on the shares.
+
+Issue
+The issue is whether Respondent’s immediate conversion and sale of debentures received by Petitioner made them liable under Section: 16(b) to return any profits to Petitioner.
+
+Held
+The Respondent was a beneficial owner under Section: 16(b), but they fall under the exemption which states that the section “shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security involved
+

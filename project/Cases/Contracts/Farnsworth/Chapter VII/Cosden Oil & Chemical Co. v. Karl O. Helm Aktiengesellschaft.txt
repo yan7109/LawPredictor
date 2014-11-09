@@ -1,0 +1,21 @@
+Citation
+736 F.2d 1064, 1984 U.S. App. 20264, 38 U.C.C. Rep. Serv. (Callaghan) 1645; 17 Fed. R. Evid. Serv. (Callaghan) 611
+
+Brief Fact Summary
+The Plaintiff, Cosden Oil & Chemical Co. (Plaintiff), agreed to sell a set amount of polystyrene to the Defendant, Karl O. Helm Aktiengesellschaft (Defendant). When the Plaintiff was unable to provide the contracted amount, it notified the Defendant of this and the Defendant refused payment. The Plaintiff thereafter initiated this suit seeking payment.
+
+Synopsis of Rule of Law
+The measure of damages for an anticipatory repudiation under the Uniform Commercial Code (U.C.C.) equals the difference between the contract price and the market price at a commercially reasonable point after the nonbreaching party learns of the repudiation, plus incidental and consequential damages.
+
+Facts
+The Plaintiff was a manufacturer of polystyrene and the Defendant an international trading company. The parties contracted for the Plaintiff to sell a set amount of polystyrene at a set price to be delivered in four orders. The Plaintiff encountered significant difficulties at its plants and was unable to complete performance. The Plaintiff began performance on the first order by sending a partial shipment, but thereafter notified the Defendant that further shipments may be delayed under this order. The Plaintiff then notified the Defendant that it was canceling the last three orders. The Plaintiff also refused to make the final delivery under the first order. The Defendant refused to pay for the product already delivered and the Plaintiff sued. The Defendant counterclaimed for the Plaintiff’s failure to deliver on the contract as agreed.
+
+Issue
+Did the district court properly assess the damages for the Plaintiff’s anticipatory repudiation?
+
+Held
+Yes. The U.C.C. provides that the measure of damages for repudiation by the seller is the difference between the market price at the time the buyer “learned of the breach” and the contract price, plus incidental and consequential damages. Courts have interpreted “learned of the breach” to mean (1) when the buyer learns of the repudiation; (2) when the buyer learns of the repudiation plus a commercially reasonable time or (3) when performance is due under the contract. Here, the district court chose interpretation number two. The principle behind permitting the buyer a commercially reasonable time after the repudiation is to allow him an opportunity to investigate cover possibilities in a rising market. Therefore, it was not error for the district court to award damages based on a market price determined at a commercially reasonable time after the anticipatory repudiation was communicated to the buyer.
+
+Discussion
+Damages for an anticipatory repudiation can be difficult to determine. The market price may be set at the time the buyer learns of the repudiation; the time the buyer learns of the repudiation plus a commercially reasonable time or the time performance is due under the contract.
+

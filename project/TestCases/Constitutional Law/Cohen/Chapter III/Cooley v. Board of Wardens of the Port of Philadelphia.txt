@@ -1,0 +1,21 @@
+Citation
+22 Ill.53 U.S. 299, 12 Howard 299, 13 L. Ed. 996 (1852)
+
+Brief Fact Summary
+Pennsylvania enacted a statute in 1803 which required vessels to use local pilots when navigating the Delaware River. Cooley was a consignee of a vessel that failed to use local pilots.
+
+Synopsis of Rule of Law
+A state can regulate areas of commerce where Congress is silent when the regulation reflects the particularities of a state and there is no need for a uniform national treatment of that aspect of commerce.
+
+Facts
+Pennsylvania enacted a statute in 1803, which required vessels to use local pilots down the Delaware River. Cooley was a consignee of 2 vessels that did not take a local pilot with them. He was sued because he violated the statute requiring local pilots to be used.
+
+Issue
+Does Congressional power under the Commerce Clause of the Constitution prevent Pennsylvania from enacting legislation that requires local pilots to be used when sailing down the Delaware River?
+
+Held
+No, Pennsylvania can enact legislation as to its local pilots. Some, but not all state regulation is permissible. The use of local pilots was so particular to Pennsylvania that it required local legislation on the issue.
+
+Discussion
+States are free to regulate commerce matters that are local in nature and different from state to state. If there is a need for uniform treatment among the states on a commerce issue, Congress can override state action.
+

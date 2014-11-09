@@ -1,0 +1,21 @@
+Citation
+80 U.S. 128, 20 L. Ed. 519, 1871 U.S. 1319, 13 Wall. 128
+
+Brief Fact Summary
+The Respondent, Klein (Respondent), brought suit in the United States Court of Claims, seeking compensation for property taken during the Civil War. The Respondent now argues for affirmation on appeal.
+
+Synopsis of Rule of Law
+Although Congress has power to limit the appellate jurisdiction of the federal courts, it may not use this power to effectively prescribe a rule for the decision of cases before the courts.
+
+Facts
+The Supreme Court of the United States (Supreme Court) had ruled that a presidential pardon had the effect of proof one did not support the rebellion. This allowed pardoned individuals to petition for return of property or compensation from the federal government. In response to the decision, Congress passed a statute stating that a pardon was inadmissible as evidence in a claim for seized property. Congress went further and required that if a court find that a pardon was secured without an express disclaimer of guilt (of aiding the rebellion), such finding was to act as a bar to jurisdiction. The estate of the Respondent who was pardoned had received a judgment granting recovery from the Court of Claims. The United States now appeals, arguing that the statute requires dismissal of the case for want of jurisdiction.
+
+Issue
+Is the statute in question a valid exercise of congressional authority under the Exceptions and Regulations Clause of the United States Constitution (Constitution)?
+
+Held
+No. Judgment affirmed.
+
+Discussion
+United States v. Klein does not represent Exceptions and Regulations jurisprudence as much as it represents the separation of powers outlined in the United States Constitution. The statute overreached the power of Congress by attempting to exercise authorities constitutionally delegated to the judicial and executive branches.
+

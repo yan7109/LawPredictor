@@ -1,0 +1,21 @@
+Citation
+311 U.S. 32, 61 S. Ct. 115, 85 L. Ed. 22, 1940 U.S.
+
+Brief Fact Summary
+Lee (Plaintiff) sought to enjoin the sale of land to Hansberry (Defendants) on the ground that the sale violated a racially restrictive covenant.
+
+Synopsis of Rule of Law
+There must be adequate representation of the members of a class action in order for the judgment to be binding on the parties not adequately represented.
+
+Facts
+Defendants, who were African Americans, bought and moved into a house in Chicago covered by a racially restrictive covenant. Owners of neighboring homes sued in an Illinois Circuit Court to void the sale of the home to the Defendants. Defendant argued that the covenant never became effective because it was not signed by 95% of the homeowners, as required by its terms. The trial court voided the sale to the Defendants and ordered them to move. It found that they were bound by a decision that the covenant was valid based on Burke v. Kleiman. When the judgment of a state court, based on the decision of another court, is challenged for want of due process, it is the duty of the Supreme Court of the United States to examine the course of procedure in both litigations to determine whether the litigant whose rights have been effected has been afforded notice and opportunity to be heard as required by due process.
+
+Issue
+Whether a party can be bound by an earlier judgment of which they were not a party?
+
+Held
+No. Judgment overturned.   In general, one is not bound by a judgment in litigation in which he is not designated as a party. However, there is a recognized exception to this general rule. The judgment in a class or representative suit in which some members of the class are parties may bind members of the class or those represented who were not made parties to the action. A failure of due process occurs where it cannot be said that the procedure used insures the protection of the interests of the absent parties who are bound by the judgment.  Here, since the parties have dual and potentially conflicting interest to the agreement in compelling and resisting performance, it is hard to say that any of them are of the same class. There was no designation of the Defendants in the suit as a class. When the Burke judgment was enforced, it did not purport to bind others. The Plaintiffs in the Burke case were not representing the petitioners in this case whose interests were in resisting performance. Therefore, the petitioners are not bound by the earlier judgment.
+
+Discussion
+In a class action suit, one or more members of a class of persons similarly situated may sue on behalf of other members of the class. These lawsuits are permitted where considerations of necessity and convenience justify action on behalf of a class of persons.
+

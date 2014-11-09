@@ -1,0 +1,27 @@
+Citation
+489 U.S. 189 (1989)
+
+Brief Fact Summary
+DeShaney was abused by his father. He sued the county officials for constitutional right violation by failing to remove him from his father’s custody despite their knowledge of the abuse.
+
+Synopsis of Rule of Law
+Government officials are not violating a minor’s civil rights if they fail to remove him from the custody of a violent guardian, even if they know about the violence of the guardian.
+
+Facts
+DeShaney (P) was a child of divorced parents. He was given into his father’s custody. The Winnebago County Department of Social Services (D) became aware that the father beat DeShaney. DeShaney was hospitalized and later removed from his father’s custody. Later the county returned him to his father. Afterward, he received a violent beating from his father which led to permanent brain damage. He and his mother filed a civil rights claim against the county Department of Social Services, alleging its failure to remove him from his abusive father’s custody. The district court granted summary judgment in favor of the county, and the verdict was upheld by the appellate court. The Supreme Court granted review.
+
+Issue
+Are government officials violating a minor’s civil rights if they fail to remove him from the custody of a violent guardian, even if they know about the violence of the guardian?
+
+Held
+(Rehnquist, C. J.) No. Government officials are not violating a minor’s civil rights if they fail to remove him from the custody of a violent guardian, even if they know about the violence of the guardian. The Due Process Clause does not call for affirmative action on the state’s part, but imposes a boundary within which the state must act. It cannot be interpreted to mean that the state’s duty is to make one’s life, liberty and property secure from harm by parties other than the state. Here, the injury was not state-inflicted but caused by DeShaney’s father. Even if there was a special relationship between the county and DeShaney, since the boy was under the county’s jurisdiction, it is irrelevant to the question. The point is that even if the state had never acted at all, the boy would have remained in an unaltered position as regards his father. The Due Process Clause is not involved in this case at all. The verdict is affirmed.
+
+Dissent
+(Brennan, J.) The County had taken DeShaney under its custody and was therefore under the necessity of making sure he was safe by appropriate steps.
+
+Concurrence
+N/A
+
+Discussion
+In Youngblood v. Romeo, 457 U.S. 307 (1982) the Court decided that mental patients without the ability to make their own determinations had a right under the due process clause to have safe living conditions. In that case the state was held responsible for not providing for the safety of an individual. In the present case, the difference lies in that the conditions are not altered from what they would have been if the state had not intervened.
+

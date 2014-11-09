@@ -1,0 +1,24 @@
+Citation
+530 U.S. 466, 120 S. Ct. 2348, 147 L. Ed. 2d 435, 2000 U.S.
+
+Brief Fact Summary
+Racially-motivated crime brought a sentence well above what he could have received.
+
+Synopsis of Rule of Law
+“[I]t is unconstitutional for a legislature to remove from the jury the assessment of facts that increase the prescribed range of penalties to which a criminal defendant is exposed.  It is equally clear that such facts must be established by proof beyond a reasonable doubt.”
+
+Facts
+Apprendi pleaded guilty to a shooting.  Evidence suggested that the crime was racially motivated. He was given an enhanced sentence under New Jersey hate crime law that was well above the sentence he could have received for the crime he pled to.
+
+Issue
+“[W]hether the Due Process Clause of the Fourteenth Amendment requires that a factual determination authorizing an increase in the maximum prison sentence for an offense from 10 to 20 years be made by a jury on the basis of proof beyond a reasonable doubt.
+
+Held
+Yes.  The Supreme Court recognized that “at stake in this case are constitutional protections of surpassing importance:  the proscription of any deprivation of liberty without ‘due process of law,’” and the guarantee that “[i]n all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury.”  The Court further discussed the historic “link between verdict and penalty” and the inherent predictability the defendant was protected with.  The Court required the application of the “reasonable doubt” standard to sentencing so as to limit error.
+
+Dissent
+The dissenting justices found that the Court had “embrace[d] a bright-line rule limiting the power of Congress and state legislatures to define criminal offenses and the sentences that follow from convictions thereunder,” and so breaking from tradition. J. Breyer, joined by the Chief Justice, argued that the Court had built its holding on “a procedural ideal-that of juries, not judges, determining the existence of those facts upon which increased punishment turns.”Concurrence.<br /> Justice Scalia concurred, responding to Justice Breyer’s dissent, taking issue with the evident desire to leave sentencing to judges. Justice Thomas, joined J. Scalia, wanted a broader rule
+
+Discussion
+“The ‘reasonable doubt’ requirement ‘has a vital role in our criminal procedure for cogent reasons.’  Prosecution subjects the criminal defendant both to ‘possibility that he may lose his liberty upon conviction and . . . the certainty that he would be stigmatized by the conviction.’”
+

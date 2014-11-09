@@ -1,0 +1,21 @@
+Citation
+747 A.2d 95 (Del. Ch. 1999)
+
+Brief Fact Summary
+Plaintiff, ACE Limited, brought this action to enjoin Defendant, Capital Re Corporation, from terminating their merger agreement after a better offer was presented to Defendant.
+
+Synopsis of Rule of Law
+An acquisition agreement that denies the directors of a company the ability to carry out their fiduciary duty owed to shareholders to obtain the highest value for the shareholders is invalid.
+
+Facts
+In early 1999 Defendant, in need of cash, approached Plaintiff and sold them 12.3% of its outstanding shares for $75 million.  When their credit rating slipped, Defendant looked to merge with a company such as Plaintiff.  The two parties signed a merger agreement in June of 1999 wherein Defendant received .6 shares of Plaintiff for every one share of Defendant’s stock.  The 12.3% holdings, as well as a shareholder agreement with another 33.5% of shareholders, allowed Plaintiff the luxury of having a near guaranty (with 45.8% voting power) of giving shareholder approval to a merger.  The merger agreement contained a no-talk agreement that prevented Defendant directors from soliciting higher bids, but the agreement also allowed Defendant’s directors to terminate the agreement if there was a future superior bid.  When Plaintiff’s share price fell (which in turn lessened the value paid for Defendant’s shares) and a third party made a better offer, the directors cancelled the agree
+
+Issue
+The issue is whether Plaintiff is likely to prevail in proving that Defendant breached their merger agreement with Plaintiff once Defendant entered discussions with a third party for a proposed merger.
+
+Held
+The court held that Defendant would be the one to suffer irreparable harm if a restraining order was granted, and also was more likely to prevail than Plaintiff, and therefore the order was denied.  The court interpreted the provision of the merger agreement that allowed for Defendant’s directors to cancel the agreement to allow for a cancellation in this case where there is a good faith judgment by the directors that they were obligated by their fiduciary duties to weight the other merger proposal.  If the agreement did not allow for the directors to cancel the merger, then the agreement would be invalid as against Delaware law from preventing directors to carry out their duties to the shareholders to find the highest bid for the company’s shares.
+
+Discussion
+The court follows the rule outlined in Paramount Communications, Inc. v. QVC Network, Inc. which disallows an agreement that would contract away a board’s fiduciary duty obligations.
+

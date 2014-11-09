@@ -1,0 +1,21 @@
+Citation
+485 U.S. 80, 108 S. Ct. 896, 99 L. Ed. 2d 75, 1988 U.S. 944
+
+Brief Fact Summary
+A default judgment was entered against the Appellant, Peralta (Appellant), for non-payment of a former employee’s hospital bills. Appellant sought to overturn the judgment on grounds that he was not properly served notice of the initial complaint.
+
+Synopsis of Rule of Law
+A default judgment against a party, entered without sufficient notice, is void for violating due process, even though the party lacked a meritorious defense to the claim upon which the default judgment was based.
+
+Facts
+The Appellee, Heights Medical Center, Inc. (Appellee), sued the Appellant in February 1982, to collect $5600 due under Appellant’s guarantee of a hospital debt incurred by one of his former employees. Appellant did not appear or answer and default judgment was entered.  Two years later, Appellant began a bill of review proceeding in the Texas courts to set aside the default judgment. In his second amended petition, Appellant alleged that he had not been personally served. Thus, the default judgment was void under Texas Law. Appellee filed a motion asserting that in a bill of review proceeding such as Appellant filed, it must be shown the Appellant had a meritorious defense to the action in which the default judgment had been entered. The Texas courts held in favor of Appellee. The Supreme Court of the United States (Supreme Court) granted certiorari.
+
+Issue
+Whether a default judgment is void for defective service, even if the party against whom judgment was entered lacked a meritorious defense to the initial claim.
+
+Held
+Yes. The Supreme Court reversed the judgment below.   State procedures for creating liens are subject to the strictures of due process.  When a person has been deprived of property in a manner contrary to the most basis tenets of due process, it is no answer to say that in his particular case due process of law would have led to the same result because he had no adequate defense upon the merits.
+
+Discussion
+Students should remember that any court proceeding, including a default judgment, is void if it occurs without sufficient notice and personal jurisdiction over the parties.
+

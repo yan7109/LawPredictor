@@ -1,0 +1,21 @@
+Citation
+22 Ill.56 F.R.D. 433 (W.D. Wis. 1972)
+
+Brief Fact Summary
+The Plaintiff, Lindberger (Plaintiff) sued the Defendant, General Motors Corp. (Defendant), for alleged personal injuries suffered by Defendants’ negligence in manufacturing and designing a front loader.
+
+Synopsis of Rule of Law
+At the discovery stage, Plaintiffs need not establish that evidence sought would be admissible at trial, just that it is relevant to the subject-matter of the action.
+
+Facts
+The Plaintiff sued the Defendant and a division of the corporation for alleged personal injuries suffered by the Plaintiff. Plaintiff maintained such injuries were proximately caused by the Defendant’s negligence in manufacturing and designing a front end loader which was sold to Plaintiff’s employer. Defendant refused to answer interrogatories questioning Defendant’s subsequent remedial measures with regard to the manufacturing and design of the loaders subsequent to the loader in question. Defendant argued these interrogatories asked for privileged information. Plaintiff filed a motion to compel Defendant to answer these interrogatories.
+
+Issue
+Whether the subject-matter of the interrogatories, which question subsequent remedial measures sought by Plaintiff is “privileged.”
+
+Held
+No. Defendant was ordered to answer the interrogatories.   Plaintiff does not have to show that the information it seeks relating to subsequent remedial measures would be admissible at trial at this stage of discovery.  Plaintiff only needed to show that the evidence sought was relevant to the subject-matter of the negligence action.
+
+Discussion
+The interrogatories questioning subsequent remedial measures were relevant with respect to Defendant’s liability. Defendant’s knowledge of the adequacy of the design as well as any information on this subject which Defendant may have alerted to Plaintiff’s employer was directly related to the issues of negligence and contributory negligence.
+

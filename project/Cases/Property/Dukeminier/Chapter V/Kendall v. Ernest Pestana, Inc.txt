@@ -1,0 +1,24 @@
+Citation
+40 Cal. 3d 488, 709 P.2d 837, 220 Cal. Rptr. 818, 1985 Cal.
+
+Brief Fact Summary
+The Plaintiffs, Kendall and others (Plaintiffs), wanted to become the assignees of a current interest in land. The Defendant, Ernest Pestana, Inc. (Defendant), withheld consent pursuant to a provision in the lease requiring the corporation’s approval. Plaintiff sued for declaratory relief.
+
+Synopsis of Rule of Law
+Lessor must have a reasonable objection to the assignment, even with a provision in the lease stating consent can be withheld for any reason.
+
+Facts
+The Defendant was the assignee of leased hangar space owned by the City of San Jose. Prior to assigning their interest to the Defendant, the assignors entered into a 25-year sublease with Mr. Bixler. Mr. Bixler in turn wanted to sell his business and assign the lease to the Plaintiffs. When Mr. Bixler requested permission to assign his interest, the Defendant refused. The trial court found for the Defendant and the Plaintiffs appealed.
+
+Issue
+Whether in the absence of a provision that such consent will not be unreasonably withheld, a lessor may unreasonably and arbitrarily withhold his or her consent to an assignment.
+
+Held
+Reversed. The Plaintiffs have stated a cause of action. California will require that a consent provision in a lease be read as requiring a reasonable objection to the assignment to withhold consent.
+
+Dissent
+The dissent argued that the provisions of the agreement between the parties should be respected, especially because the lessor had relied upon the rule existing at the time of the lease.
+
+Discussion
+The court went through a lengthy discussion of the majority rule, which allows for consent to assignment/sublease to be withheld for any reason versus the minority rule it chose to adopt. The discussion focused on public policy favoring alienability of property. Also, included in the analysis was the contractual duty of fair dealing and good faith, which favored adoption of the minority rule to require a reasonable basis to withhold consent to assign.
+

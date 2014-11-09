@@ -1,0 +1,24 @@
+Citation
+178 L. Ed. 2d 569
+
+Brief Fact Summary
+Sanders filed in limine motions to prohibit the government from questioning  him about prior crimes for which he was acquitted and about his prior assault and contraband convictions for those offenses. When the jury in the first trial convicted Sanders of possession of the shank but could not reach a verdict for assault, a second trial was conducted in which Sanders was convicted of assault.  Sanders appealed and argued the court abused its discretion by admitting evidence of prior convictions under Federal Rules of Evidence 609(a) and 404(b), and the decision was affirmed and reversed and remanded in part.
+
+Synopsis of Rule of Law
+Evidence of similar offenses for impeachment should be admitted sparingly, if at all.
+
+Facts
+Carlos Sanders and a co-defendant Ricky Alston were inmates at Lorton Reformatory and were indicted for assaulting fellow inmate Bobby Jenkins with a schank.  Before trial, Sanders filed a motion in limine to exclude evidence of  his prior convictions.  The court granted this motion in part by prohibiting Sanders about a stabbing for which he was acquitted and for an armed robbery for which his conviction was reversed.  However, the court declined to preclude the government from cross-examining Sanders about his prior assault and contraband possession convictions.
+
+Issue
+Were Sanders convictions admissible under the Federal Rules of Evidence 609(a) and 404(b)?
+
+Held
+Affirmed in part; reversed and remanded in part as follows:
+
+Dissent
+(J. Niemeyer)  Although Sanders’ admission he stabbed the inmate is relevant, his admission does not eliminate the need for determining if self-defense provided the motive or whether the stabbing was accompanied by an intent to assault, as the government claims.  Intent was made an issue and therefore is evidence of a prior assault, which is probative of intent and admissible under Rule 404(b).  Admission of evidence is a matter of discretion for the trial court, and so the district court did not abuse its discretion.
+
+Discussion
+Courts recognize the prejudice that results from admitting evidnce of a similar offense under Rule 609(a).  Also, Rule 404(b), which allows admission of evidence of other acts relevant to an issue at trial except that which proves only criminal disposition, is interpreted broadly by courts.  But  the propensity inference is a limiting constraint that Rule 404(b) was designed to prevent when courts consider if evidence is admissible.
+

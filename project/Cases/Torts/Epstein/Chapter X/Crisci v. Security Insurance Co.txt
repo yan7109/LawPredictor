@@ -1,0 +1,21 @@
+Citation
+426 P.2d 173 (Cal. 1967).
+
+Brief Fact Summary
+Mrs. Crisci’s (Plaintiff’s) sued her insurance company for failing to settle a case for the policy limit.
+
+Synopsis of Rule of Law
+In determining whether an insurer has given consideration to the interests of the insured, the test is whether a prudent insurer without policy limits would have accepted the settlement offer.
+
+Facts
+Plaintiff tenants, June Dimare (Dimare) and her husband, brought suit for physical injuries and severe psychosis when DiMare was hurt on the premises after she fell through a broken step and was left hanging fifteen feet above the ground. Plaintiff had an insurance policy with Security (Defendant) for $10,000.00. Security refused to settle the case for the policy limit even though the underlying claim was for $400,000.00. At trial, the jury awarded Dimare $100,000.00 and her husband, $1,000.00. Security paid its $10,000.00 policy limit. Plaintiff could not pay the remaining $91,000.00 in cash. Plaintiff brought suit against Security and was awarded $91,000.00. Security appealed.
+
+Issue
+Must an insurer consider both its own interests and the interests of the insured when deciding whether or not to settle a claim?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+Each contract carries with it an obligation of good faith and fair dealing. In this case, the evidence was clear that Security did not consider the interests of Plaintiff in its decision to go to trial. If Security went to trial, the most it would have to pay would be $10,000.00, the amount of the settlement offer. Security was not exposed to potentially more liability in going to trial. In fact, at trial, there was a chance Security would not have to pay anything at all. Security is liable to Plaintiff because it did not consider Plaintiff’s interest and the jury returned a verdict for more than the policy limit. Security breached the implied covenant of good faith and fair dea
+

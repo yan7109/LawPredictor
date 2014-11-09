@@ -1,0 +1,21 @@
+Citation
+91 Ill. 2d 69, 61 Ill. Dec. 746, 435 N.E.2d 443 (1982)
+
+Brief Fact Summary
+The Appellate Court for the Fourth District (Illinois) reversed the dismissal of Moorman Manufacturing Co.’s (Plaintiff’s) claims of strict liability, misrepresentation, and negligence in an action to recover for a defective feed-storage tank. The appellate court held that the purchaser could recover for economic loss, and National Tank Co. (Defendant) appealed.
+
+Synopsis of Rule of Law
+When a product is sold in a defective condition that is unreasonably dangerous to the user or consumer or to his property, strict liability in tort is applicable to physical injury to plaintiff’s property, as well as to personal injury. When an unreasonably dangerous defect is present, and physical injury does, in fact, result, then physical injury to property is so akin to personal injury that there is no reason to distinguish them.
+
+Facts
+Plaintiff purchased a steel grain storage tank from Defendant to use in Plaintiff’s feed processing plant. After about ten years, the tank developed a crack on one of its steel plates. Plaintiff sued, claiming strict liability, misrepresentation, defective design, and express warranty. The trial court dismissed the first three claims, holding that the purchaser could not recover under the tort theories, but found that the breach of warranty claim was not barred. The appellate court reversed the dismissal and held that Plaintiff could recover for economic loss under his theories.
+
+Issue
+Can a consumer recover, in tort, under strict liability theory solely for economic loss?
+
+Held
+The Supreme Court of Illinois reversed the judgment on the strict liability, misrepresentation, and negligence claims of the purchaser’s complaint and affirmed the trial court’s dismissal because the purchaser could not recover for economic loss under his theories. Regarding the breach of warranty claim, the court reversed the trial court’s denial of the manufacturer’s motion to dismiss.
+
+Discussion
+The concept of “strict liability” (or “liability without fault”) refers to distinct types of conduct for which a defendant will be responsible for damages, regardless of due care or fault. In Moorman, the Supreme Court of Illinois addresses the various considerations that determine when tort law, as opposed to contract law, will govern an action in connection with product liability. When a product is sold in a defective condition that is unreasonably dangerous to the user or consumer or to his property, strict liability in tort is applicable to physical injury to plaintiff’s property, as well as to personal injury.
+

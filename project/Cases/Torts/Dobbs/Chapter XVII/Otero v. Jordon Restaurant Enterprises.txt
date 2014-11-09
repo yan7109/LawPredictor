@@ -1,0 +1,21 @@
+Citation
+119 N.M. 810, 896 P.2d 490 (1995)
+
+Brief Fact Summary
+The District Court of Bernalillo County (New Mexico) granted pre-trial partial summary judgment to Plaintiff in his action for injuries sustained on the premises of a restaurant and refused to give certain comparative negligence instructions to the jury. Jordan Restaurant Enterprises (Defendant) appealed the rulings.
+
+Synopsis of Rule of Law
+A premises owner who entrusts to an independent contractor construction, repair, or other work on the land, or on a building or other structure upon it, is subject to the same liability as though he had retained the work in his own hands to others on or outside of the land for physical harm caused to them by the unsafe condition of the structure after he has resumed possession of the land upon its completion.
+
+Facts
+Defendant subcontracted to expand the premises of its restaurant. The expansion included the installation of metal bleacher-type seating so that patrons could view events on the restaurant’s wide-screen television. After installation, the bleachers collapsed, and Plaintiff was injured. Defendant conceded that Plaintiff’s injuries were the result of the negligent bleacher construction by his subcontractor. Before trial, Plaintiff filed a Motion for Partial Summary Judgment asserting that Defendant was vicariously, or jointly and severally, liable for his injuries. The trial court granted the motion, holding Defendant liable, as a matter of law, for the negligent acts committed by the independent contractor resulting in harm after completion of the work.
+
+Issue
+Did the lower court err in granting summary judgment and not applying the collateral negligence rule?
+
+Held
+The judgment entered against the restaurant owner in the patron’s premises liability action was affirmed, the court held that the restaurant owner was liable for the negligent acts committed by the independent contractor resulting in harm after completion of the work
+
+Discussion
+With regard to vicarious liability within the context of employers and subcontractors, the Otero court explained, “[g]enerally, an employer is not vicariously liable for the negligence of an independent contractor, but this general rule of nonliability has numerous exceptions.” Exceptions, however, have exceptions, and the concept of collateral negligence is one. Under the concept of ‘collateral negligence,’ an employer of an independent contractor, unless he is himself negligent, is not liable for physical harm caused by any negligence of the contractor if (1) the contractor’s negligence consists solely in the improper manner in which he does the work; and (2) it creates a risk of such harm which is not inherent in or normal to the work; and (3) the employer had no reason to contemplate the contractor’s negligence when the contract was made. In this instance, Defendant was not shielded by the doctrine. The concept of collateral negligence is limited to negligence that pr
+

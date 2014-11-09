@@ -1,0 +1,24 @@
+Citation
+22 Ill.339 U.S. 306, 70 S. Ct. 652, 94 L. Ed. 865 (1950)
+
+Brief Fact Summary
+Appellee, a bank located in New York, set up a trust covering 113 participants and sent notice by publication to all known and unknown beneficiaries regarding Appellee’s application for judicial settlement of the trust, as required under a New York statute. Upon first distribution of the trust, Appellee would mail notice to known beneficiaries that could benefit from the interest or principal. Appellant, guardian of the beneficiaries, appealed, arguing that notice by publication alone violated the beneficiaries’ due process rights under the Fourteenth Amendment.
+
+Synopsis of Rule of Law
+Notice must be “reasonably calculated under all the circumstances, to apprise interested parties of the action and give them an opportunity to object.
+
+Facts
+Appellee, Central Hanover Bank & Trust, set up common fund pursuant to a New York statute allowing the creation of common funds for distribution of judicial settlement trusts. There were 113 participating trusts. Appellee petitioned for settlement of its first account as common trustee. Some of the beneficiaries were not residents of New York. “Notice” was by publication for four weeks in a local newspaper. Appellee had notified those people by mail that were of full age and sound mind who would be entitled to share in the principal if the interest they held became distributable. Appellant was appointed as special guardian and attorney for all persons known or unknown not otherwise appearing who had or might thereafter have any interest in the income of the common trust fund. Appellee was appointed to represent those interested in the principal. Appellant appeared specially, objecting that notice by publication, permitted under the applicable statute was inadequate to afford t
+
+Issue
+Is notice by publication of a judicial settlement to unknown beneficiaries of a common trust reasonable notice under the due process requirements of the Fourteenth Amendment?
+
+Held
+First issue: Yyes. Second issue: Nno.
+
+Dissent
+Justice Burton: Omitted from casebook.
+
+Discussion
+The majority’s opinion illustrates that notice by publication will not suffice only because it would be burdensome for the plaintiff to notify all parties involved. If the plaintiff knows of a way to contact the parties, then the plaintiff must bear that expense. Mailing notice to an address, if known, will suffice. Notice by publication will suffice only if there is no practical way of knowing the identity or location of the party.
+

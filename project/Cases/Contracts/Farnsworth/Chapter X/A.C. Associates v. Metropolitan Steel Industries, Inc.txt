@@ -1,0 +1,21 @@
+Citation
+1989 U.S. Dist.
+
+Brief Fact Summary
+Metropolitan Steel Industries, Inc. (Metropolitan) sought to collect money owed to it under a contract that was assigned to Presbyterian Hospital (Presbyterian Hospital) in the City of New York.
+
+Synopsis of Rule of Law
+An assignment of a contract is an assignment of future rights under the agreement, not an assignment of duties and liabilities incurred prior to assignment.
+
+Facts
+Presbyterian Hospital contracted with Walsh Construction Company (Walsh) to build certain new facilities and renovate certain old facilities. Under the contract, Walsh was to pay all subcontractors and nothing in the Walsh-Presbyterian Hospital contract created a contractual relationship between Presbyterian Hospital and any subcontractors. Walsh subcontracted with Metropolitan to perform work on the project. After Walsh defaulted on the agreement, Walsh assigned the subcontract with Metropolitan to Presbyterian Hospital. Metropolitan then sued Presbyterian Hospital to collect money due on the subcontract before the assignment.
+
+Issue
+Did the assignment of the subcontract to Presbyterian Hospital obligate the hospital to pay for work already performed?
+
+Held
+No. An assignment of a contract is an assignment of future rights under the agreement, not of duties and liabilities incurred prior to assignment. Here, the assignment contains no language by which Presbyterian Hospital assumed any of Walsh’s liabilities for work performed prior to the assignment. Dismissal of the breach of contract claim by Metropolitan against Presbyterian Hospital was appropriate.
+
+Discussion
+An assignment only transfers future rights, not past obligations.
+

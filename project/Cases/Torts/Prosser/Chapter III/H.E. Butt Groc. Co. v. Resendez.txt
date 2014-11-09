@@ -1,0 +1,18 @@
+Citation
+988 S.W.2d 218 (Tex. 1999)
+
+Synopsis of Rule of Law
+A plaintiff in a slip and fall case must prove that the condition of the premises posed an unreasonable risk of harm, and the facts and circumstances will determine whether such risk is unreasonable.
+
+Facts
+While shopping at Defendant H.E. Butt Grocery Company, Plaintiff Resendez slipped and fell near a grape display put out for customer sampling. The sampling bowl of grapes was on a table, sitting on ice, recessed five inches below the table’s surface. The table had a three-inch railing around its edges, and the entire floor of the produce section was a non-skid surface and the store put floor mats and warning cones around the display. Plaintiff sued for negligence and the trial court and court of appeals of Texas found in favor of Plaintiff.
+
+Issue
+Whether mere display of produce for customer sampling constitutes an unreasonable risk of harm to customers?
+
+Held
+No. Mere display, without more evidence, cannot be considered a condition on the premises that poses an unreasonable risk of harm.
+
+Discussion
+For a plaintiff to recover in negligence for a slip and fall, she has the burden to prove that the store had actual or constructive knowledge of a condition on the premises, (2) the condition posed an unreasonable risk of harm, (3) the store did not exercise reasonable care to reduce or eliminate the risk, and (4) the store’s failure to use such care proximately caused her injuries. Plaintiff here could not provide evidence that the grape display posed an unreasonable risk to customers of falling on grapes.Cf. Corbin v. Safeway (cited in the opinion), which found an unreasonable risk where the store displayed grapes in a slanted bin over a linoleum tile floor with no protective floor mats.
+

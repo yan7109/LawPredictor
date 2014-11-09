@@ -1,0 +1,21 @@
+Citation
+22 Ill.306 F.3d 17, 11 ILRD 832, 2002 ILRC 2017 (2d Cir. 2002)
+
+Brief Fact Summary
+This case arises from consolidated class-action matters. The Plaintiffs, Specht and others (Plaintiffs), brought suit against the Defendant, Netscape (Defendant). Plaintiffs alleged that because they downloaded Defendant’s SmartDownload program, along with Netscape Communicator, Defendant was able to unlawfully eavesdrop on their internet communications. In this matter, Defendant attempted to stay the court action and initiate an arbitration based on an online contractual agreement.
+
+Synopsis of Rule of Law
+This case stands for the proposition that online contracts must be held to the same standards as other written documents and terms therein must also be conspicuous.
+
+Facts
+Plaintiffs acted upon Defendant’s invitation to download their free software, SmartDownload. Because of the way Netscape had its download setup online, Plaintiffs were not required to read the full terms of the contractual agreement, including an arbitration clause, before they clicked the download button. The District Court found that the downloading of software did not constitute an acceptance of Defendant’s terms because there was no reasonably conspicuous notice and because a reasonable internet user would not expect to submit to an arbitration clause upon installing a free download. Defendant appealed.
+
+Issue
+The issue here is whether Plaintiffs will be held to an arbitration clause and contractual terms that were inconspicuous due to their online placement.
+
+Held
+Affirmed.
+
+Discussion
+Note also the equity afforded in this remedy. The internet, arguably, gives businesses more opportunities to exploit consumers who may or may not read licenses before clicking on a strategically-placed button. If a reasonable consumer is not alerted to contractual terms, he cannot assent to same.
+

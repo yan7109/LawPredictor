@@ -1,0 +1,21 @@
+Citation
+457 U.S. 147, 102 S. Ct. 2364, 72 L. Ed. 2d 740, 1982 U.S.
+
+Brief Fact Summary
+Respondent, Falcon, sought class certification for his claim under Title VII of the Civil Rights Act to include all people who may have been discriminated against in hiring or promotion by Petitioner, General Telephone Co.
+
+Synopsis of Rule of Law
+To certify a class action under Rule 23 of the Federal Rules of Civil Procedure a plaintiff has to not only state his specific claim but also explain why his claim is typical of the class at large.
+
+Facts
+Respondent, a Mexican-American, was hired by Petitioner in 1969.  By the time he applied for a job with Petitioner as a field inspector, Respondent was promoted twice and offered a third.  However, Respondent was turned down in favor of less qualified white applicants.  Respondent then brought this Title VII action and sought to certify it as a class action, claiming that Petitioner maintained a policy and practice of discriminating against minorities during hiring and promotion.  Petitioner challenged the class certification, arguing that Respondent offered no proof other than his particular case that would justify a class action.  The district court allowed the certification which was upheld by the appellate court with modifications.
+
+Issue
+The issue is whether Respondent’s class action certification should be upheld.
+
+Held
+The majority of the United States Supreme Court overturned the class certification and remanded back to the district court because Respondent did not offer the proper support.  Respondent advanced his own specific claim of intentional discrimination and then tried to blanket his claim over a class.  Respondent would be required to allege a pattern in their practices, that their pattern was motivated by discrimination and that the pattern was present in both their hiring and promotion practices.
+
+Discussion
+If Respondent was allowed to certify this as a class action, according to the Court, it would have set a bad precedent for anyone who had a specific grievance to always attempt to obtain class certification.
+

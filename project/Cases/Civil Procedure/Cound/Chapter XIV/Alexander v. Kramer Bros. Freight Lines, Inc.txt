@@ -1,0 +1,21 @@
+Citation
+22 Ill.273 F.2d 373 (2d Cir. 1959)
+
+Brief Fact Summary
+Plaintiff and Defendant employees were injured when Plaintiff’s truck rear ended Defendant’s truck. Plaintiff trucking company sued Defendant trucking company for damage to the truck and personal injuries arising from the collision of the two trucks. At trial, Defendant did not object when the judge charged the jury that Defendant had the burden to prove contributory negligence but argues on appeal from a verdict for Plaintiff that such instruction should not have been given.
+
+Synopsis of Rule of Law
+A party waives its objection to an erroneous instruction to the jury unless such party makes a timely objection as required by Rule 51 of the Federal Rules of Civil Procedure.
+
+Facts
+An accident occurred between two tractor trailers. Alexander (Plaintiff 1) was injured, and his truck, which was owned by his corporation (Plaintiff 2), sustained serious damage. Plaintiff 1 and Plaintiff 2 sued Kramer Bros. Freight Lines, Inc. (Defendant) for injuries and property damage, respectively. The Defendant alleged that Alexander’s truck cut off Defendant 1’s truck, and that the accident that ensued was due to Alexander’s contributory negligence. At trial, the judge stated that he would instruct the jury that Defendant had the burden to prove contributory negligence. Defendant’s attorney stated that he excepted to the charge and the judge noted the exception. Defendants did not object when the jury was charged at trial. The jury returned a verdict for Plaintiffs. Defendant appealed from the verdict arguing that the jury should not have been instructed that Defendant had the burden to prove Plaintiffs’contributory negligence.
+
+Issue
+Under Rule 51, must the defendant have presented its objection to an erroneous jury instruction at the time the instruction is given in order to preserve its right to appeal?
+
+Held
+Yes. Judgment affirmed.   Under Rule 51 of the Federal Rules of Civil Procedure, the defendant must request a charge on the subject or to object to the charge given. The defendant only took exception during colloquy with the judge at the close of plaintiff’s case, which is not in compliance with the language of Rule 51.  It does not matter that the instruction seems to be erroneous. The purpose of an objection is to permit the trial judge to evaluate the objection in light of the circumstances existing at the time of the objection. Had Defendants presented an objection at the appropriate time, the trial judge probably would have changed the instruction.  The objection to the instruction made several days before the instruction was presented to the jury does not meet the literal requirement of Rule 51.
+
+Discussion
+This is not a situation addressing the explicitness of the objection. Nor does this case discuss the rare instances where an appeals court will overturn a trial court even though no objection was made.
+

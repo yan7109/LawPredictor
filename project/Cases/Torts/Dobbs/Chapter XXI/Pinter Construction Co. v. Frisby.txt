@@ -1,0 +1,24 @@
+Citation
+678 P.2d 305 (Utah 1984)
+
+Brief Fact Summary
+The Industrial Commission of Utah ruled that defendant subcontractor was an employee of the contractor and directed the contractor and the Utah State Insurance Fund to pay worker’s compensation benefits to the subcontractor. Plaintiffs, contractor and Utah State Insurance Fund, appealed.
+
+Synopsis of Rule of Law
+If an employer hires a contractor, that contractor, his employees, and all subcontractors under him are “employees” if the employer controls or supervises the contractor’s work, and such work is a part or process in the employer’s trade or business.
+
+Facts
+Pinter contracted to build a maintenance building for a power company and subcontracted some of the operation to Frisby. Frisby was injured severely when he fell from a scaffold while installing metal siding. Frisby applied for Worker’s Compensation, and the Industrial Commission of Utah ruled and granted him the status of “employee” thus entitling him to compensation. Pinter appealed.
+
+Issue
+Was Frisby an “employee” as defined by Utah’s worker’s compensation statute and thus entitled to benefits in connection with injuries sustained in his capacity as a subcontracted worker?
+
+Held
+Yes. Where an employer controls or supervises the contractor’s work and such work is a part or process in the employer’s trade or business, those working under him are considered employees.
+
+Dissent
+The dissent is of the opinion that the majority’s factual analysis is faulty, i.e., the evidence submitted to the commission would lead to the inevitable conclusion that “was treated in all respects as an independent contractor,” and thus not an employee per statutory requirement. The fine point with which the dissent takes issue is whether Appellant retained the degree of supervision as to make him an employer. As the dissent believes Appellee to be an independent contractor, this element was not satisfied and thus the decisions of the Board should have been reversed.
+
+Discussion
+The Utah Supreme Court began by enumerating its powers of review with respect to the state agency: “In reviewing an order of the Industrial Commission of Utah, an appellate court may only set aside an order if the commission acted without or in excess of its powers or the findings of fact do not support the award.” The court then broadly states the public policy fostering autonomy for such agencies: “An appellate court must sustain an order unless it is unsupported by any substantial credible evidence and is, therefore, arbitrary and capricious. Furthermore, as to questions of mixed law and fact, an appellate court will not substitute its judgment for that of the agency as long as the commission’s interpretation has “warrant in the record” and a reasonable basis in the law.”
+

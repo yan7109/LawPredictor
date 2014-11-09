@@ -1,0 +1,21 @@
+Citation
+37 F.3d 442 (9th Cir. 1994)
+
+Brief Fact Summary
+The Department of Housing and Urban Development (HUD) determined that public housing authorities in the State of Washington could evict tenants accused of criminal activity without an informal grievance hearing, based on the premise that state court eviction procedures satisfied the elements of due process. Yesler Terrace Community Council and Marla Davidson (Plaintiffs) brought suit, contending that HUD’s determination was invalid because it was made without giving public housing tenants notice and an opportunity to comment.
+
+Synopsis of Rule of Law
+The Administrative Procedure Act rulemaking requirements do not apply to agency rules relating to public property, loans, grants, benefits or contracts. However, pursuant to 24 C.F.R. Section:10.1, HUD voluntarily adopted requirements for notice-and-comment rulemaking in these situations.   A rule is: “The whole or part of an agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the organization, procedure, or practice requirements of an agency.”  An adjudication (which results in an order) is virtually an agency action that is not rulemaking.”
+
+Facts
+HUD determined that Washington’s state court eviction procedures satisfied the elements of due process, allowing the public housing authorities to evict tenants accused of criminal activity without first affording them an informal grievance hearing. In March, 1992 the Seattle Housing Authority served Davidson with an eviction notice stating she would not be afforded a grievance hearing because her eviction was due to alleged criminal activity. Davidson and Yesler brought suit seeking injunctive and declaratory relief, claiming HUD’s determination was invalid because it was made without giving public housing tenants notice and an opportunity to comment. The district court granted summary judgment for HUD.
+
+Issue
+Did Yesler have standing to bring this action?  Pursuant to Section:10.1, was HUD required to use notice-and-comment rulemaking procedures in making its determination that Washington state-court eviction procedures met HUD’s due process standards?
+
+Held
+Reversed and remanded.   Yes. Plaintiffs had an injury-in-fact, the injury was traceable to HUD’s action, and Plaintiffs’ interests in the terms and conditions of their tenancies    fell within the zone of interests protected by the statutes they alleged HUD violated. Therefore, Plaintiffs had standing.  Yes. When HUD decided that Washington’s state eviction procedures satisfy the basic due process elements, it promulgated a substantive rule. Since it did so without providing notice and an opportunity to comment as required by its own Section:10.1 regulation, the rule thus promulgated was invalid.   Dissent. The Plaintiffs had no standing to challenge HUD’s action because none of them were actually threatened with an eviction stemming from drug-related or other criminal activities, and therefore suffered no injury-in-fact.  Concurrence. None.
+
+Discussion
+Adjudications resolve disputes among specific individuals; rulemaking affects the rights of broad classes of unspecified individuals. HUD’s own requirements under Section:10.1 mandate that HUD proceed by notice and comment rulemaking whenever it promulgates a substantive rule. Here, HUD’s determination had no immediate, concrete effect on anyone, but affected the rights of a broad category of individuals not yet identified. Therefore, HUD’s determination was a rule, subject to the notice and comment requirement.
+

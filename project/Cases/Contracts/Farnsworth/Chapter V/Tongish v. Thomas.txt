@@ -1,0 +1,21 @@
+Citation
+251 Kan. 728, 840 P.2d 471, 1992 Kan. 172, 20 U.C.C. Rep. Serv. 2d (Callaghan) 936
+
+Brief Fact Summary
+Appellee Dennis Tongish, a farmer, contracted with Appellant Decatur Coop Association, to sell his entire crop of sunflower seeds at $13.00 per hundredweight. After the market price rose to about $20.00 per hundredweight, Appellee repudiated his agreement with Appellant and sold his crop to Danny Thomas for the new market price.
+
+Synopsis of Rule of Law
+While contract law generally dictates that a party who is the victim of a breach is simply to be made whole and the breaching party is not to be penalized, in the case of a bad faith breach, U.C.C. Section: 2-713 dictates that damages are equal to market price minus contract price.
+
+Facts
+Appellee is a farmer who contracted with Appellant to sell it 116.8 acres of sunflower seeds at $13 per hundredweight for large seeds and $8 per hundredweight for small seeds. Appellant had a contract to then sell the seeds to Bambino Bean & Seed for the same price plus a 55-cent per hundredweight handling fee. After Appellee had delivered part of the seeds to Appellant, the market price rose to double that in the contract. Appellee therefore sold the balance of his crop to Thomas for $20 per hundredweight or $14,714, which was $5,153 more than the contract price.
+
+Issue
+What is the proper measure of damages for breach of the contract?
+
+Held
+Damages must be computed under U.C.C. Section: 2-713, which states that damages are equal to the market price at the time of breach minus the contract price. The U.C.C. contains two apparently conflicting provisions to be utilized in computing damages. Under U.C.C. Section: 1-106, the nonbreaching party is simply compensated for his actual loss (here, the loss of handling charges, $455). However, under U.C.C. Section: 2-713, the damages equal the market price at breach minus the contract price. It has been said that the latter provision promotes market efficiency by discouraging the breach of contracts. In other words, were it not for U.C.C. Section: 2-713, the contract price would act as a price floor, which allows the selling party to shop around for a higher price knowing that he is guaranteed the contract price if the market price dips below the contract price. This discourages the honoring of contracts and market stability.
+
+Discussion
+A core tenet of contract law is that a breaching party must not be punished for a breach, but rather, the nonbreaching party must simply be made whole. However, where the breach is in bad faith, the Uniform Commercial Code provides for damages that increase market stability.
+

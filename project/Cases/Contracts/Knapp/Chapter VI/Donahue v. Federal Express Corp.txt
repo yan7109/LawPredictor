@@ -1,0 +1,21 @@
+Citation
+22 Ill.2000 PA Super 146, 753 A.2d 238, 16 IER Cases 920
+
+Brief Fact Summary
+Appellant Brian Donahue brought suit against Appellee Federal Express on the grounds that he was wrongfully terminated. Appellant claimed Appellees violated the implied covenant of good faith with respect to employment-at-will contracts.
+
+Synopsis of Rule of Law
+No implied duty of good faith and fair dealing applies to termination of a pure at-will employment contract.
+
+Facts
+Appellant alleged that he was retaliated against for blowing the whistle on his supervisor after he learned that his supervisor had been negligently handling repair orders. After Appellant complained to his supervisor regarding the invoice-discrepancy issue he was accused for gross misconduct. Appellant was eventually discharged after which he appealed his termination through Appellee’s Guaranteed Fair Treatment Program. Appellant appealed his termination three times, each time management upheld his termination. At trial, the Trial Court granted preliminary objections in favor of Appellee. Appellant claimed that by firing him for whistle blowing, and by failing to fairly adhere to company policies for employee grievances, Appellees violated the implied covenant of good faith with respect to employment-at-will contracts.
+
+Issue
+Whether an implied covenant of good faith with respect to at-will contracts exists, and if so, whether Appellees violated it. Appellant also alleged that Appellees failure to fairly adhere to the guidelines of its internal policies was also a violation of the implied duty of good faith and fair dealing.<br />	Whether Appellees violated public policy by firing Appellant for whistle blowing.<br />	Whether Appellant rendered sufficient additional consideration to remove his status from that of an at-will employee.
+
+Held
+The Appellate Court held that there is no implied duty of good faith and fair dealing with respect to employment at-will contracts, except where the termination threatens clear public policy. The Court further held that, except where an employee handbook is explicitly incorporated into the terms of an employment contract, an employer is under no contractual duty to adhere to such guidelines.<br />	The Court held that except for when an employee is under a legal obligation to do so, termination for whistle blowing is not a violation of public policy. Clear examples of public policy violations are (1) requiring employee to commit a crime, (2) preventing an employee from complying with statutorily required duty, and (3) when statute prohibits discharging such employee.<br />	The Court held that Appellant’s bare allegation that he performed superior work for Appellee was insufficient to establish additional consideration. The Court cited Cashdollar v. Mercy Hosp. of Pittsburgh, 406 Pa. Super 606, for an example of when an employee furnishes sufficient additional consideration. There, the employee moved to a new state, selling his house, and giving up his old position, only to be fired 16 days into his new job. The Court held that was sufficient to remove the employment-at will doctrine.<br />
+
+Discussion
+This case illustrates that courts will rarely interpret an at-will employment contract do contain an implied duty of good faith and fair dealing.
+

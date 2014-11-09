@@ -1,0 +1,21 @@
+Citation
+22 Ill.220 Ark. 521, 249 S.W.2d 994 (1952)
+
+Brief Fact Summary
+Planters Flying Service sued Defendant for failure to pay Planters for spraying insecticide on Defendant’s crops located in Missouri. Defendant answered that the insecticide had damaged his crop and by cross-complaint sued Plaintiff, the manufacturer of the insecticide. Plaintiff filed a motion to dismiss the cross-complaint, arguing that it pertained to real property located in Missouri and consequently could not be sustained in Arkansas.
+
+Synopsis of Rule of Law
+A lawsuit is maintainable for injury to real property located outside the forum state as long as the forum state has personal jurisdiction over the defendant.
+
+Facts
+Planters Flying Service sued HM Barton, Defendant, for failure to pay Planters for spraying insecticide on Defendant’s crops located in Missouri. Defendant answered that the insecticide had damaged his crop and by cross-complaint, sued Reason-Hill Corp., Plaintiff, the manufacturer of the insecticide. Plaintiff filed a motion to dismiss the cross-complaint on the grounds that it pertained to real property located in Missouri and consequently could not be sustained in Arkansas. The trial court overruled the motion to dismiss. Plaintiff applied for a writ of prohibition with the Supreme Court of Arkansas.
+
+Issue
+Can Defendant maintain a cross-complaint against Plaintiff even though the cause of action is based on injury to real property located outside of Arkansas?
+
+Held
+Yes. Writ denied.   Although the general rule is that a party cannot sue another party in a state when the suit relates to injury to property outside of the state, this rule is antiquated and should no longer be followed.  The ease of ascertaining foreign jurisdiction’s law of titles, the ability for citizens to freely pass from one state to another and also the danger of providing a haven for Arkansas citizens who have destroyed property in other states show that the old venue law should not be applied here.   <br/><br/><span class='heading'>Dissent.</span> Justice McFadden: It is not simple to decide questions of title from other states. In addition, each state is its own sovereign and there are certain issues that certain states must decide. Finally, providing a haven for delinquent citizens is an issue for the legislature, not the courts.
+
+Discussion
+Although traditionally cases involving real property were considered local actions and could only be brought where the property was located, this case articulates the modern trend. Policies supporting the traditional rule are expressed in the dissenting opinion.
+

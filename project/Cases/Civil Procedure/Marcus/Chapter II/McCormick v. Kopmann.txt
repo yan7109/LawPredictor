@@ -1,0 +1,33 @@
+Citation
+23 Ill. App. 2d 189, 161 N.E.2d 720, 1959 Ill. App.
+
+Brief Fact Summary
+Lewis McCormick (McCormick) was killed in auto accident with a truck operated by Kopmann (Defendant). McCormick’s wife (Plaintiff) sued Kopmann and Huls (Defendants), the owners of the bar where McCormick had drunk beer before the accident. Two counts in Plaintiff’s complaint were alternative pleadings. Defendants moved for a directed verdict, but the motion was denied. Kopmann appealed.
+
+Synopsis of Rule of Law
+A complaint may contain inconsistent allegations, even though the proof of one negates any fault on the foundation of the other.
+
+Facts
+McCormick was killed when a truck operated by Kopmann collided with his car. Plaintiff sued the operator of the car and the Huls, the owners of the bar where McCormick had beer before the accident. Count one of Plaintiff’s complaint alleged that Kopmann, negligently drove his truck across the center-line and collided with McCormick’s car. Count four, brought in the alternative to count one, under the Illinois Dram Shop Act alleged that the Huls, sold alcoholic beverages to McCormick, which rendered him intoxicated. As a result of the intoxication, he drove his car in such a manner as to cause a collision with Kopmann’s truck. Kopmann moved to dismiss the complaint on the grounds that the contradictions between count one and count four were fatal. The trial court denied his motion and the jury returned a verdict against Kopmann for $15,500 under count one and for the Huls under count four. Kopmann appealed.
+
+Issue
+Whether inconsistent allegations can be pleaded simultaneously?
+
+Held
+Yes. Judgment is affirmed.   Plaintiff had the right to go to trial on both counts and to adduce all the proof she had under both counts. Plaintiff could not recover on both counts simultaneously, since the two counts are mutually exclusive. However, the Illinois Civil Practice Act states that claims may be made in the alternative regardless of consistency. In order to ensure that controversies may be settled and justice is accomplished, a Plaintiff may plead in the alternative. Nonetheless, alternative pleading is not permitted when the pleader knows which of the inconsistent statements are true and which are false.  Here, there is nothing that indicates the Plaintiff know that the averments in either court were true. The key witness here to the accident is dead, therefore, pleading alternative sets of facts is often the only feasible way to determine what happened.
+
+Discussion
+Rule 8(e) of the Federal Rules of Civil Procedure allows a Plaintiff to plead alternative allegations. The pleader is also permitted to plead inconsistent versions of the   facts. The purpose in allowing plaintiffs to plead in the alternative is to ensure that controversies may be settled and justice is accomplished.   Zuk v. Eastern Pennsylvania Psychiatric Institute of the Medical College of Pennsylvania  <b>Citation.</b> 103 F.3d 294 (3rd Cir. 1996).
+
+Brief Fact Summary
+Zuk (Plaintiff) alleged that Eastern Pennsylvania Psychiatric Institute of the Medical College of Pennsylvania (Defendant) was infringing on Plaintiff’s copyrights by selling videos that he made while working for them. Defendant moved for dismissal and sanctions under Rule 11 of the Federal Rules of Civil Procedure on the grounds that Plaintiff had failed to conduct an inquiry into the facts and the law. Plaintiff’s attorney, Lipman (Appellant) appeals from an order imposing sanctions against him in the sum of $15,000 and Defendant’s counsel fees.
+
+Synopsis of Rule of Law
+Rule 11 sanctions are proper when counsel fails to make an adequate inquiry into both the facts and the law, which is reasonable under the circumstances.
+
+Facts
+Plaintiff, a psychologist on the Defendant’s faculty, taped two of his therapy sessions. Defendant made them available for rental through its library. Plaintiff also wrote a book, containing transcripts of the therapy sessions. In 1975, Plaintiff registered the book with the United States Copyright Office. Five years later, Plaintiff requested that all copies of the films be returned to him, but Defendant ignored the request. In 1995, Appellant filed suit on Plaintiff’s behalf alleged that Defendant was renting out the films and thereby infringed his copyright. Defendant moved for dismissal under Rule 12(b), and mailed a notice to Appellant of its intention to move for sanctions under Rule 11 on grounds that Appellant filed to conduct an inquiry into the facts and law. The district court granted the Motion to Dismiss and found that the copyright of the book afforded protection to the films. It also found that Defendant’s use thereof was not infringement, and that Plaintiff’s claim was barred by the statute of limitations. The court subsequently entered an order for attorney’s fees and sanctions against Plaintiff and Appellant, who are joint and severally liable to the Defendant for counsel fees in the amount of $15,000. Plaintiff settled his liability with the Defendant in the amount of $6,250, leaving the appellant liable for $8,750. Appellants appealed.
+
+Issue
+Were sanctions under 28 U.S.C.A. Section: 1927 and Rule 11 proper?
+

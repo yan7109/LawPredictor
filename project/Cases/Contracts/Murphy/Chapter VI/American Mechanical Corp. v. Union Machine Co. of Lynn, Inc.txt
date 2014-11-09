@@ -1,0 +1,21 @@
+Citation
+22 Ill.21 Mass. App. Ct. 97, 485 N.E.2d 680 (App. Ct. 1985)
+
+Brief Fact Summary
+American Mechanical Corp. (Plaintiff), made a contract with Union Machine Co. of Lynn, Inc. (Defendant), to sell its real estate and equipment for $135,000.00. Defendant repudiated the contract, knowing the Plaintiff’s mortgage lender, Saugus, would foreclose on Plaintiff. At the foreclosure sale, Plaintiff’s real estate and equipment sold for $90,000.00.
+
+Synopsis of Rule of Law
+In cases where it is clear to both parties, in a sale of real estate, what the actual losses will be, the court may use actual losses of the injured party, when the other repudiates a contract rather than the contract price minus the fair market value of the real estate.
+
+Facts
+Plaintiff and Defended entered into a contract to sell Plaintiff’s equipment and real estate and equipment for $135,000.00. At the time of the contract, Defendant knew that Plaintiff was having financial problems, and that Plaintiff’s mortgager, Saugus, would probably foreclose on them if the sale did not go through. Defendant repudiated the contract. Saugus held a foreclosure sale when Saugus sold the equipment for $35,000.00 and the real estate for $55,000.00. In the suit, following, the trial court entered a judgment for Plaintiff, but only granted nominal damages.
+
+Issue
+Was the trial court correct in assigning only nominal damages?
+
+Held
+No. This court awards Plaintiff $45,000.00 in damages
+
+Discussion
+The fact that Defendant knew the likely result of the breach, led the court to award Plaintiff actual damages, which was the contract price minus the price Plaintiff actually obtained for the real estate and equipment, rather than the fair market value of the real estate and equipment.
+

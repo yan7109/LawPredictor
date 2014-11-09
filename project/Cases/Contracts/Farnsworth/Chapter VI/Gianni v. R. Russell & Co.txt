@@ -1,0 +1,21 @@
+Citation
+281 Pa. 320, 126 A. 791, 1924 Pa. 616
+
+Brief Fact Summary
+Plaintiff Frank Gianni leased a room in an office building owned by Defendant R. Russell & Co., for the purposes of running a store selling fruit, candy, soda water, etc. In negotiating the lease, Plaintiff agreed not to sell tobacco, and he claims that this promise was made in the exchange for the exclusive right to sell soft drinks in the building. No such provision was incorporated in the written lease, and subsequently, Defendant leased space to a drug company that also sold soft drinks.
+
+Synopsis of Rule of Law
+In the absence of fraud or mistake, a written agreement is the only evidence of the agreement between two parties.
+
+Facts
+Plaintiff had rented space in an office building in which he ran a store selling tobacco, fruit, candy and soft drinks. Defendant purchased the office building and its agent negotiated a new lease with Plaintiff. The new lease stated that Plaintiff is to use the premises only for the sale of fruit, candy, and soft drinks, but Plaintiff was expressly not permitted to sell tobacco. Plaintiff argues that in exchange for the promise not to sell tobacco, Defendant granted him the exclusive right to sell soft drinks in the building. This provision was never memorialized in the written lease. Subsequently, Defendant leased the adjoining space to a drug company that began to sell soft drinks. After Plaintiff’s sales of soft drinks were reduced, Plaintiff sued for breach of the oral agreement.
+
+Issue
+Is there an enforceable oral agreement?
+
+Held
+No. Under the parol evidence rule, “Where parties, without any fraud or mistake, have deliberately put their engagements in writing, the law declares the writing to be not only the best, but the only evidence of their agreement.” Any preliminary negotiations and verbal agreements are superseded by the written contract, and no evidence of such other verbal agreements is to be considered by the court. However, in order for parol evidence to be excluded, the written contract must be the entire contract between the parties. In other words, if the contract appears on its face to embody the complete legal obligations of the parties, it is conclusively presumed to be the whole agreement between the parties. In the present case, the lease includes the uses and forbidden use of Plaintiff’s premises. Namely, Plaintiff could sell fruit, candy, soda water, etc. but not tobacco. Since Plaintiff’s promise not to sell tobacco was included in the writing, it would be the natural thing to inclu
+
+Discussion
+The parol evidence rule forbids the admission at trial of any evidence of verbal agreements not formally reduced to writing in the final, written contract.
+

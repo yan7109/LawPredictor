@@ -1,0 +1,24 @@
+Citation
+855 S.W.2d 619 (Tex. 1993)
+
+Brief Fact Summary
+Wife brought suit for divorce, including a claim based no negligent or intentional infliction of emotional distress.  Husband claimed that interspousal tort immunity precluded recovery.
+
+Synopsis of Rule of Law
+Texas courts allowed joinder of a claim for intentional infliction of emotional distress to a divorce proceeding, subject to the principles of res judicata.
+
+Facts
+Sheila and William Twyman married in 1969, with Sheila filing for divorce in 1985.  She amended her divorce claim to add acclaim for emotional harm without specifying whether the claim was based on negligent or intentional infliction of emotional distress.  She alleged that William intentionally and cruelly attempted to engage her in deviate sexual acts.  The trial court awarded damages to Sheila based on her emotional harm, William appealed claiming that interspousal tort immunity precluded her recovery for negligent infliction of emotional distress.  While the case was pending, the Texas Supreme Court refused to recognize the tort of negligent infliction of emotional distress.
+
+Issue
+Can a litigant bring a claim for intentional infliction of emotional distress during a divorce proceeding?
+
+Held
+The joinder of the tort cause of action of intentional infliction of emotional distress should be permitted, but subject to the principles of res judicata.
+
+Dissent
+I would not extend the tort of intentional infliction of emotional distress for conduct occurring during the marriage.  The sexual relationship, like many other aspects of marriage, is extremely sensitive.  For the court to delve into such areas is too great an intrusion upon the marital relationship.
+
+Discussion
+The Court found that joinder of intentional infliction of emotional distress to the divorce claim was appropriate when feasible to avoid multiple trials on related facts.
+

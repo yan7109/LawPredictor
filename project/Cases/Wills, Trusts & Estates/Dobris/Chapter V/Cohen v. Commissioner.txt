@@ -1,0 +1,21 @@
+Citation
+423 Mass. 399, 668 N.E.2d 769 (1996)
+
+Brief Fact Summary
+Beneficiaries of trusts are attempting to claim Medicaid eligibility and argue that the assets held in trust should not be considered when computing their eligibility.  The state argues that the language of the statute and the legislative intent compel a different result.
+
+Synopsis of Rule of Law
+Under the Medicaid statute if there is even a small amount of discretion regarding the availability of funds then whatever the beneficiary could most receive in the full exercise of that discretion is the amount to be counted as available for Medicaid eligibility
+
+Facts
+In several consolidated cases the grantors of irrevocable trusts, of which the grantors or their spouse were beneficiary and to which the grantor had transferred substantial assets, claimed eligibility for Medicaid assistance because the trust denies the trustee any discretion to make sums available to the grantor if such available would render the grantor ineligible for public assistance.  The grantors of these trusts argue that since no funds are available by the terms of the trusts if such would render them ineligible that the grantors’ eligibility is assured.  The state argues that this frustrates the stated purpose of Congress in enacting the MQT statute.  The MQT statute provides that if there are circumstances under which payment from the trust could be made to or for the benefit of the individual then such payment shall be considered as a resource available to the individual.  The trial court held against the beneficiaries of the trusts that under the statute if there
+
+Issue
+Whether or not, and what amount, should be considered when determine Medicaid eligibility for individuals who are the beneficiaries of trusts for which the trustee is denied discretion to make available sums that would disqualify the individuals from Medicaid eligibility?
+
+Held
+Yes.  Affirmed.  Whatever the beneficiary could receive in the full exercise of the trustee’s discretion is to be considered for Medicaid eligibility.
+
+Discussion
+The Court is lead to its conclusion based on the language of the statute and the legislative history.
+

@@ -1,0 +1,21 @@
+Citation
+918 F.2d 658, 1990 U.S. App. 19815
+
+Brief Fact Summary
+A brokerage firm sued a client for failure to pay debts relating to a margin account. After the client filed a counterclaim against the brokerage firm, the presiding court dismissed the counterclaim with prejudice due to the client’s failure to comply with court’s discovery orders.
+
+Synopsis of Rule of Law
+A state court final judgment on the merits has no claim preclusive effect with respect to federal claims not within the jurisdiction of the state court, even though the federal claims arose out of the same transaction as the state court claims.
+
+Facts
+The Defendant, Miguel Gargallo (Defendant), opened a margin brokerage account with the Plaintiff, Merrill, Lynch (Plaintiff), in 1976. Defendant maintained the account until 1980 when he incurred losses resulting in a debt owed to Plaintiff for $17,000. When the obligation was not paid, Plaintiff filed suit for collection in the Franklin County, Ohio, Court of Common Pleas.  In response, Defendant filed a counterclaim against Plaintiff, alleging that Plaintiff caused his losses through negligence, misrepresentations, and churning. Due to a history of discovery difficulties, the state court dismissed Defendant’s counterclaim with prejudice, for refusal to comply with Plaintiff’s discovery requests and the court’s discovery orders.  Defendant then filed a complaint in United States District Court, charging Plaintiff with violating federal securities laws based on the same transactions at issue in the state litigation. The district court dismissed the suit on res judicata grounds. This appeal followed.
+
+Issue
+Whether a court should apply claim preclusive effect to a dismissal based solely on failure to comply with discovery orders.
+
+Held
+No. The Court of Appeals for the Sixth Circuit reversed.   Ohio claim preclusion law determines the outcome of this case. Under Ohio law, the dismissal with prejudice of Defendant’s counterclaim was a final judgment rendered upon the merits.  Whether a final judgment upon one claim precludes the filing of another claim in Ohio depends on whether the second claim embodies the same cause of action as the first. However, we are faced with the more difficult issue of whether a federal district court may give claim preclusive effect to an Ohio judgment regarding federal securities laws that are within the exclusive jurisdiction of the federal courts. The first rule in determining whether a prior state court judgment has preclusive effect in a federal    court is that the full faith and credit statute requires a federal court to give a state court judgment the same preclusive effect such judgment would have in a state court. In Ohio, a final judgment by a court of that state, upon a cause of action over which the adjudicating court had no subject matter jurisdiction, does not have claim preclusive effect in a subsequent proceeding.
+
+Discussion
+Students should keep in mind that had this case been based on diversity grounds, the outcome would have been different, as the court would have been forced to apply Ohio claim preclusive law. Here, because Ohio courts would have lacked jurisdiction over the federal securities laws claims, a final judgment by an Ohio court on federal securities claims does not have claim preclusive effect. Students should also remember that the circuit court implicitly held that claim preclusive effect can apply to a dismissal with prejudice for failure to comply with discovery orders, even though such a dismissal is not within the traditional meaning of a final judgment upon the merits.
+

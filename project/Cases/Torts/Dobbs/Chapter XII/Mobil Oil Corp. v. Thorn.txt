@@ -1,0 +1,21 @@
+Citation
+401 Mich. 306, 258 N.W.2d 30 (1977)
+
+Brief Fact Summary
+The Court of Appeals of Michigan awarded Mobil Oil Corp.’s (Plaintiff) Motion for Summary Judgment in Thorn’s (Defendant) breach of contract action. The court denied Defendant’s personal injury counterclaim on the basis that “an action in tort could not properly be predicated by a lessee upon a breach by a lessor of an agreement to make repairs.” Defendant sought review.
+
+Synopsis of Rule of Law
+A lessor of land is subject to liability for physical harm caused to his lessee and others upon the land with the consent of the lessee or his sublessee by a condition of disrepair existing before or arising after the lessee has taken possession if (a) the lessor, as such, has contracted by a covenant in the lease or otherwise to keep the land in repair; (b) the disrepair creates an unreasonable risk to persons upon the land which the performance of the lessor’s agreement would have prevented; and (c) the lessor fails to exercise reasonable care to perform his contract. Restatement (Second) of Torts Section: 357.
+
+Facts
+Plaintiff sued its lessee service station operator for monies due from the sales. Defendant counterclaimed in connection with an injury that occurred on the premises of the station alleging that the slippery floors were caused by a roof leak that Plaintiff had failed to repair. The service station operator contended that Plaintiff was obligated to do so by contractual provision. The trial court held this was no basis for liability and the court of appeals confirmed.
+
+Issue
+Did the longstanding rule still apply, as the lower courts had confirmed, that an action in tort could not have been predicated, by a lessee, upon a breach by the lessor of an agreement to make repairs?
+
+Held
+No. The court determined that the old principle no longer applied. It held that the lessor could have been properly held liable for personal injuries that resulted from his failure to make repairs pursuant to the lease provision.
+
+Discussion
+The law of property formerly governed most negligence claims within the realm of lease agreements. The traditional view was that a lease invested full control in the tenant during its duration. Thus, the landlord owed no tort duty to the lessee. In the modern view, there exist a number of exceptions: common areas, negligent repairs, undisclosed dangerous conditions known to the lessor, lessor’s covenant to repair, premises leased for admission to the public, and dangerous condition to persons outside the leased premises. All jurisdictions have come to recognize these in one form or another. Most jurisdictions now require a plaintiff’s claim to fall within one of these in order to establish that a landlord owes a particular duty. “If a person lawfully on the premises is injured as a result of the landlord’s negligence in maintaining the premises, he is entitled to recover from the landlord under general negligence principles.” See Pagelsdorf v. Safeco Ins. Co., 91 Wis. 2d
+

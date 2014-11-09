@@ -1,0 +1,21 @@
+Citation
+91 F.R.D. 254, 1981 U.S. Dist.
+
+Brief Fact Summary
+Plaintiffs, a sewing machine retailer, filed suit against sewing machine manufactures alleging price discrimination and conspiracy in violation of anti-trust laws.  The Plaintiffs obtained documents which helped their case by going through Defendant’s dumpster.
+
+Synopsis of Rule of Law
+The attorney-client privilege does not extend to third parties who are not agents of the parties to the original communications.
+
+Facts
+Plaintiff, a sewing machine retailer, sued sewing machine manufacturers alleged anti-trust violation of price discrimination and conspiracy.  Plaintiffs search Defendant’s dumpster over a two-year period and found hundreds of relevant documents, including those that were attorney-client privileged.  The District Court held that the attorney-client privilege was lost because the Defendant’s failed to safeguard the information.
+
+Issue
+Should the attorney-client privilege apply to the documents found by the Plaintiff that were discarded in a dumpster?
+
+Held
+The United States District Court for the Northern District of Illinois held that attorney client privilege did not apply.
+
+Discussion
+In issuing its ruling, the Court considered the effect on attorney client communications if the privilege was not allowed, and the ability of the parties to protect against disclosure.  The Court found that not allowing the privilege to apply to documents discarded in a dumpster would not have an adverse effect on attorney client communications in general, and that the parties can simply destroy the documents to prevent disclosure.
+

@@ -1,0 +1,21 @@
+Citation
+339 U.S. 306, 70 S. Ct. 652, 94 L. Ed. 865, 1950 U.S.
+
+Brief Fact Summary
+The State of New York created a common trust fund scheme that allowed trusts created within the state to be operated together as a unit in order to reduce administration costs. In January, 1946, Central Hanover Bank & Trust Company (Appellee) aggregated 113 trusts under New York’s common trust fund scheme. The assets of the aggregated trust were quite large and the beneficiaries of that trust were not residents of New York.
+
+Synopsis of Rule of Law
+In addition to the Fourteenth Amendment’s requirement prohibiting jurisdiction over any defendant who lacks minimum contacts with the forum state, due process also requires that a reasonable method be used to notify the defendant of a pending lawsuit so that he may have an opportunity to appear and be heard. Due process requires that the notice be reasonably calculated to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections.
+
+Facts
+In March, 1947, Appellee filed a petition for the settlement of its first accounting, thus foreclosing any beneficiary from bringing an action for negligent management of the trust fund for the period covered by the settlement. In compliance with state law, Appellee published notice of the action on four occasions, listing the name and address of the trust company, the name and date of creation of the common trust fund, and a list of all included funds. The names of the beneficiaries were not included in the advertisements. Further, Appellee did not attempt any other method of personal service upon the beneficiaries, either resident or non-resident. Counsel for the beneficiaries (Appellant) made an appearance to object to the lack of personal jurisdiction. The United States Court of Appeals of New York overruled the objections that the statutory notice contravenes the requirements of the Fourteenth Amendment.
+
+Issue
+Can the court have jurisdiction to settle a trust account even when many of the trust’s beneficiaries were not personally served?
+
+Held
+No. The United States Constitution does not, in a situation involving a large class, require that personal service be perfected upon each beneficiary. Such a measure would have been overly cost prohibitive. However, the Constitution, in this situation, requires notice by the best practical means available. As a result, those beneficiaries who have known addresses, or whose addresses could have been reasonably ascertained, had to be notified by ordinary United States Mail. Alternatively, those beneficiaries whose addresses were unknown could be served by mere publication. In this case, the Court held that the notice was incompatible with the requirements of due process. The notice was not reasonably calculated to give notice to those whose whereabouts were easily obtained. The Supreme Court of the United States reversed the decision of the court of appeals.
+
+Discussion
+The court seems to recognize that it is dealing with something like a class action when the interests of the participants are very similar. As a result, the particular method of notice described by the Court in this case is valid only if all of the participating defendants have substantially identical interests. Because the interests of the beneficiaries in this case are quite similar, the court seems less concerned that some will not learn of the proceedings.
+

@@ -1,0 +1,24 @@
+Citation
+22 Ill.283 U.S. 697, 51 S. Ct. 625, 75 L. Ed. 1357, 1 Med. L. Rptr. 1001 (1931)
+
+Brief Fact Summary
+Defendant Near is the publisher of a controversial paper in Minneapolis that charged an individual of being a Jewish Gangster, and named the names of certain complicit public officials and law enforcement that have failed to bring this individual to justice. Defendant was charged under Chapter 285 of the Session Laws of Minnesota of publishing a scandalous newspaper, for which he was later convicted and prohibited from publishing such a periodical in the future.
+
+Synopsis of Rule of Law
+A state law that places prior restraints on publication is equivalent to censorship of the press, and is an unconstitutional exercise of state power to protect the health and welfare of its citizens by infringing on a publisher’s First Amendment right to free press.
+
+Facts
+The Saturday Press, published by Defendants in the city of Minneapolis, wrote an article charging that a Jewish gangster was in charge of gambling, bootlegging, and racketeering in Minneapolis, and that law enforcement was not energetically performing their duties. The article also revealed the names of some public officials it accused of failing to expose and punish the criminals. It also named and connected other public officials to the crimes themselves. Defendant was then charged under Chapter 285 of the Session Laws of Minnesota, which provides for the “abatement as a public nuisance a malicious, scandalous, and defamatory newspaper, magazine or periodical.” A trial court found the Defendant guilty under this law, and enjoined Defendants from further conducting nuisance through these means. The State Supreme Court affirmed the convictions.
+
+Issue
+Whether a statute authorizing such proceedings in restraint of publication is consistent with the conception of the liberty of the press as historically conceived and guaranteed?
+
+Held
+No. The statute, so far as it authorized the proceedings in this action is an infringement of the liberty of the press guaranteed by the Fourteenth Amendment. In determining the extent of the constitutional protection it is generally considered that the chief purpose of the guaranty is to prevent previous restraints upon publication. This decision rests upon the operation and effect of the statute, without regard to the question of the truth of the charges contained in the particular periodical. The fact that the public officers named in this case, and those associated with the charges of official dereliction, may be deemed to be impeccable, and cannot affect the conclusion that the statute imposes an unconstitutional restraint upon publication. This statute is the essence of censorship, prohibited by the First and Fourteenth Amendment of the Constitution. Furthermore, restricting the Defendant from further publication of any periodical lays a permanent restraint on the publish
+
+Dissent
+The Minnesota statute does not operate as a previous restraint on publication within the meaning of that phrase. It does not authorize administrative control in advance such as was formerly exercised by the licensers and censors, but prescribes a remedy to be enforced by a suit in equity. There is no question that the state has the power to denounce transgressions that threatened morals peace and good order, and this restraint only continues to do what it is empowered to do. Therefore, the dissent, feeling that this is not a previous restraint on publication, disagrees with the holding of the Court.
+
+Discussion
+The holding in this case presents two important ideas. First, that the key protection of the First Amendment right to free press is the protection against previous restraint to publication. The Court prefers suits in equity following publication to address regressions for libel against an individual in a publication to a prohibition on publication in the first place. Second, this case stands for the idea that governmental censorship of the press is to be limited as much as possible. The Court in this case says it cannot justify a First Amendment regime by which a publisher must show that the matter is true and published with good motives before he even publishes the material. Having such a regime would erode the First Amendment to a point in which it is ineffective in guaranteeing the liberties upon which this country was founded.
+

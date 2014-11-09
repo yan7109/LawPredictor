@@ -1,0 +1,21 @@
+Citation
+453 F.2d 1161, 1972 U.S. App. 11982
+
+Brief Fact Summary
+The small print on the back of acknowledgement form sent in response to order for carpeting contained arbitration clause. The face of the form specified that acceptance was subject to all the terms on the reverse side. Carpet purchaser sought to avoid application of the arbitration clause in order to sue in Federal court.
+
+Synopsis of Rule of Law
+An acceptance which proposes additional terms in response to an offer will be enforceable an enforceable contract including those terms unless the additional terms materially alter the offer.
+
+Facts
+Plaintiff did business as the Carpet Mart and had over 3 years engaged in 55 transactions wherein he ordered carpets from Collins & Aikman. Plaintiff found out the carpet was lower quality than he was paying for due to some customer complaints and was suing for damages.
+
+Issue
+Whether there was an enforceable agreement to arbitrate based on Plaintiff’s receipt of over 50 acknowledgement forms and subsequent acceptance and purchase of the carpeting.
+
+Held
+UCC 2-207 recognizes that offer and acceptance are not always identical in terms when a battle of the forms goes on. The Court found that Defendant’s acknowledgement form did not expressly condition acceptance on assent to the terms on the back. The form said it was “subject to” the terms but did not expressly say the offeror must assent to those terms. Therefore the court would remand the issue of whether the arbitration materially altered the terms of the Plaintiff’s oral offer to purchase. If it did materially alter the offer, then it could not become part of the contract.
+
+Discussion
+An additional term found in an acceptance will operate as a proposal that becomes binding on the offeror if it does not materially alter the offer. The result would be difficult if the the additional term was conditioned on the assent of the offeror who would then have to express assent regarding the particular term. The UCC recognizes that there are variances frequently in offer an acceptance and that they must be a rule that allows business to go on so long as the two are not materially different.
+

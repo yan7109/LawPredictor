@@ -1,0 +1,21 @@
+Citation
+519 U.S. 61, 117 S. Ct. 467, 136 L. Ed. 2d 437, 1996 U.S. 7643
+
+Brief Fact Summary
+Defendant James David Lewis, a resident of Kentucky, filed a lawsuit in Kentucky state court on June 22, 1989, after sustaining injuries while operating a bulldozer. He named as Defendants both a Delaware and Kentucky corporation.
+
+Synopsis of Rule of Law
+Diversity at the time judgment is entered, rather than at the time the case is removed from state to federal court, is the appropriate time at which to examine whether complete diversity exists permitting federal court jurisdiction.
+
+Facts
+Defendant, a resident of Kentucky, filed a lawsuit in Kentucky state court on June 22, 1989, after sustaining injuries while operating a bulldozer. Defendant named as defendants both Plaintiff Caterpillar, Inc. the manufacturer, a Delaware corporation with its principal place of business in Illinois, and the company that serviced the bulldozer, Whayne Supply Company, a Kentucky Corporation. Defendant later entered into a settlement agreement with Whayne, and shortly thereafter Plaintiff filed for removal to Federal District Court in Kentucky, asserting diversity jurisdiction. Defendant objected to the removal and moved to remand the case to state court.
+
+Issue
+Whether the absence of complete diversity at the time of removal to Federal District Court is fatal to federal court jurisdiction.
+
+Held
+No. The Supreme Court of the United States held that Federal jurisdiction is permissible if Federal jurisdiction requirements are met at the time the judgment is entered.
+
+Discussion
+The Supreme Court relied on the fact that complete diversity existed at the trial commenced. Moreover, the Supreme Court felt that to remand the case to state court now, after a postadjudication judgment has been reached, would impose too great a cost on the court sys
+

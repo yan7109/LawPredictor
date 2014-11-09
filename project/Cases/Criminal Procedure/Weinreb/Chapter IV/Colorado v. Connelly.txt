@@ -1,0 +1,21 @@
+Citation
+479 U.S. 157, 107 S. Ct. 515, 93 L. Ed. 2d 473 (1986)<br />
+
+Brief Fact Summary
+An individual with a history of mental illness approached a police officer and confessed to a murder.
+
+Synopsis of Rule of Law
+“[C]oercive police activity is a necessary predicate to the finding that a confession is not ‘voluntary’ within the meaning of the Due Process Clause of the Fourteenth Amendment.  [A]lso [ ] that the taking of respondent’s statements, and their admission into evidence, constitute no violation of that Clause.”
+
+Facts
+The Respondent, Francis Connelly (the “Respondent”) approached an off duty police officer and without any provocation told the officer he murdered somebody and wanted to talk about it.  The officer advised the Respondent of his Miranda rights.  The Respondent said he understood, but wanted to still talk about the murder.  The Respondent informed the officer he had been in mental hospitals in the past, but that he was not currently under the influence of any substances.  The officer felt that the Respondent understood what he was doing.  A detective arrived shortly thereafter and asked the Respondent “what he had on his mind”.  The Respondent confessed to the officers that he killed a young girl in Colorado in the past.
+
+Issue
+Whether the United States Constitution (”Constitution”) “requires a court to suppress a confession when the mental state of the defendant, at the time he made the confession, interfered with his ‘rational intellect’ and his ‘free will[?]‘ ”
+
+Held
+“[T]he admissibility of this kind of statement is governed by state rules of evidence, rather than by [the Supreme Court's] previous decisions regarding coerced confessions and Miranda waivers.”
+
+Discussion
+In this case, the court refused to expand upon the protections a defendant enjoys under the Constitution because the suppression of this type of confession would not deter law enforcements’ misdeeds.
+

@@ -1,0 +1,15 @@
+Citation
+2002 WL 1759828
+
+Synopsis of Rule of Law
+Discovery that is narrowly tailored to the allegations of a complaint is discoverable, even if it involves the personnel files of employees other than the parties to the suit.
+
+Facts
+Plaintiffs, employees in Defendant’s Chicago plant, filed suit against Defendant alleging that they had been exposed to a hostile working environment, including being subjected to racially insulting and derogatory comments by Defendant’s management- level employees. Plaintiffs filed a motion to compel discovery regarding discrimination complaints made against Defendant by non-clerical/non-administrative employees who worked at the same plant as Plaintiffs and personnel and disciplinary files of non- clerical/non-administrative employees who worked at the Chicago plant. Defendants oppose the motion, arguing that the discovery requests were overbroad in that they improperly sought information regarding all allegedly discriminatory actions by Defendant.<span class="heading">Issue.</span> Whether a plaintiff may seek discovery of a former employer’s personnel files regarding employees other than the plaintiffs.
+
+Held
+Yes. The Court concluded that Plaintiffs’ requests sought discoverable information and that those requests were narrowly tailored to the specific claims of the case. Under Federal Rule of Civil Procedure Rule 26(b)(2) a court can limit discovery if it determines, among other things, that the discovery is unreasonably cumulative or duplicative, obtainable from another source that is more convenient, less burdensome, or less expensive, or the burden or expense of the proposed discovery outweighs its likely benefit. However, other employees’ complaints of discrimination may be relevant to establish pretext.
+
+Discussion
+In ruling that the Plaintiffs’ discovery requests were sufficiently narrowly tailored to warrant granting discovery, the court noted that the Plaintiffs limited their requests to discrimination complaints, charges, and grievances filed by employees who worked at the same plant as the Plaintiffs. Moreover, the court relied on the fact that the Plaintiffs did not seek discovery related to all alleged unequal employment practices by Defendant, but rather limited their discovery requests to complaints alleging race and national origin discrimination filed by other employees who worked at the same plant as the Plaintiffs.
+

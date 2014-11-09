@@ -1,0 +1,21 @@
+Citation
+207 F.3d 803 (5th Cir. 2000)
+
+Brief Fact Summary
+Plaintiffs, Denise Arguello et al., are a group of minorities that were discriminated against by employees of gas stations affiliated with Defendant, Conoco, Inc.
+
+Synopsis of Rule of Law
+Once a master-servant relationship is established, a master is subject to liability for the torts of the servant when the servant is acting within the scope of their employment
+
+Facts
+Plaintiffs all alleged that they were discriminated by employees of Conoco gas stations.  Some of the plaintiffs were accosted at stations owned by Defendant, while another group were accosted at stations not owned by Conoco but were branded as a Conoco station.  The incidents at issue occurred when Plaintiffs were paying for gas, using restrooms or otherwise utilizing typical gas station services.  Employees used racial epithets, treated minority customers differently or refused service.  Plaintiffs asserted that Defendant was not only liable over its employees in the stores it owned, but also a master over the Conoco-branded stores through an ambiguous “Petroleum Marketing Agreement” (”PMA”) between Defendant and the other stores.  The PMA reference the treatment of customers (should be treated fairly, honestly and courteously) and a provision allowed Defendant to terminate the agreement if the franchisees did not follow the agreement.
+
+Issue
+The first issue is whether Defendant established an agency relationship with the independently-owned stations that would make Defendant liable for the employees’ actions. The second issue is whether the employees at Defendant-owned stations acted outside the scope of their employment when they discriminated against Plaintiffs.
+
+Held
+Defendant did not establish a master-servant relationship with the Conoco-branded, independently-owned stations.  The PMA was not ambiguous; there was plain language that described the relationship between Defendant and franchisees as separate and outside of any agency relationship.  Defendant never controlled day-to-day operations of the stores. Employees at the Defendant-owned stores could have been working within the scope of their employment when they discriminated against the customers.  There was evidence that the employees were on the job performing transactions they normally handle, and the extent of the departure from their normal methods is a question of fact that should be presented to the jury.
+
+Discussion
+The court places a lot of value on a clause in the PMA that defines the relationship as not being one of master-servant.  Compare this with other case that put more weight on the factors of the relationship rather than the intent of the parties. This case outlines the factors for determining whether an employee is acting within the scope of their employment: “A master is not subject to liability for the torts of his employees acting outside the scope of their employment, unless: 1) the master intended the conduct or consequences, 2) the master was negligent or reckless, or 3) the conduct violated a non-delegable duty of the master, or 4) the employee purported to speak on behalf of the principal” (Restatement Section:  219(2)).
+

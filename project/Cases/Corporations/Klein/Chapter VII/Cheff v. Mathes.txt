@@ -1,0 +1,21 @@
+Citation
+41 Del. Ch. 494, 199 A.2d 548 (1964)
+
+Brief Fact Summary
+Plaintiffs, Anne Mathis et al., brought a derivative suit against Defendant directors, P.T. Cheff et al., to recover losses that the company, Holland Furnace Company, sustained when the directors purchased a block of Holland shares at a premium price from a third party.
+
+Synopsis of Rule of Law
+Directors have the burden of proof that a buyback of shares by a corporation in an attempt to remove a threat to the current corporate model is in the corporation’s interests.
+
+Facts
+Defendants were directors of Holland, including the CEO.  Holland manufactured furnaces and air conditioners, and it directly hired its retail sales staff (a practice that the directors believed was a key to Holland’s success).  Holland performed well during 1946 to 1948, but sales declined until 1956.  In 1957 the company reorganized and cut some unprofitable stores and it resulted in a healthier bottom line.  At the same time, shares of Holland were being bought on the open market by Arnold Maremont, which increased share price.  Maremont was well-known for taking over companies and then liquidating their assets.  At the very least, Maremont contacted the Holland CEO, P.T. Cheff, to inquire about a merger with his company and altering the sales model to only sell to wholesalers.  Cheff discussed this with other directors, and they agreed to thwart Maremont’s attempts to buy Holland in order to keep Holland running in its current state.  Some directors agreed to personally bu
+
+Issue
+The issue is whether the directors improperly agreed to purchase its own shares in order to keep their positions with the company.
+
+Held
+The Supreme Court of Delaware agreed with the Vice-Chancellor that the burden of proof was on the directors to prove that their conduct in purchasing the shares was proper, but the court here believed that the facts alleged demonstrated that they acted properly.  There was a legitimate threat that Maremont would push to alter the sales strategy of Holland, which the directors believed was an essential component to the company.  There was also a legitimate concern that they would lose quality personnel under Maremont’s control.  The price paid was reasonable considering that there is always a premium for buying a bulk parcel of shares.  In hindsight the decision may not have been the best, but the business judgment rule will not penalize honest mistakes of judgment.
+
+Discussion
+The court notes that the burden of proof is somewhat analogous to the burden on directors who use corporate money to fund proxy statements regarding policy questions wherein there is the danger that a director will use the funds to perpetuate themselves in office.
+

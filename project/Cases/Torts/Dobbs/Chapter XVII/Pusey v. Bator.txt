@@ -1,0 +1,18 @@
+Citation
+94 Ohio St. 3d 275, 762 N.E.2d 968 (2002)
+
+Synopsis of Rule of Law
+Although an employer is generally not liable for the negligent acts of an independent contractor, there is an exception to this rule which stems from the nondelegable duty doctrine.  Nondelegable duties can be imposed on an employer where the performance of the work itself is inherently dangerous.
+
+Facts
+In April 1987, Wilson, on behalf of Grief Brothers, entered into a contract with Youngstown Security Patrol (YSP) to supply a uniformed security guard to deter theft and vandalism on Grief Brothers’ property at night.  Wilson told YSP that he wanted the guard to periodically check the parking lot and inside the building, but did not provide any further instructions, nor discuss whether the guard should be armed.  Bator was the guard assigned to the property.  He was not certified to carry a gun but he kept one in his briefcase.  At 1:00 a.m. on August 12, 1991, Bator looked through a window in the guard office and saw two men.  Bator first went outside without the gun, but when the men were first evasive then became angry and called Bator a “mother fucker” Bator then went in and got the gun.  When he revealed it to the men, Pusey made a quick movement.  Bator thought he was reaching for a gun and Bator fired, striking Pusey in the back of his head.  Pusey died from the wound.
+
+Issue
+Whether Grief Brothers can be held vicariously liable for the actions of an independent contractor.
+
+Held
+Yes.  Although an employer is generally not liable for the negligent acts of an independent contractor, there are exceptions to this rule which stem from the nondelegable duty doctrine.  Nondelegable duties can be imposed on an employer where the performance of the work itself is inherently dangerous.  In such cases, the employer may delegate the work to an independent contractor, but not the duty.  In other words, the employer is not insulated from liability if the independent contractor’s negligence results in a breach of the duty.  To fall within this inherently dangerous work exception, the work must be such that it involves a risk of physical harm to others which is inherent in the work itself.  The court held that the security work that YSP was hired to perform did fall within the inherently dangerous work exception.  Thus, Grief Brothers could be held vicariously liable even though the guard was an employee of an independent contractor.
+
+Discussion
+When courts say a duty is nondelegable, they mean only that the person who hires an independent contractor does not escape liability under the independent contractor rules.  The independent contractor himself is also liable for his own negligence.
+

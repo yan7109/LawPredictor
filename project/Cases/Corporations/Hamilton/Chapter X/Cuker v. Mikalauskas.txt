@@ -1,0 +1,21 @@
+Citation
+547 Pa. 600, 692 A.2d 1042 (1997)
+
+Brief Fact Summary
+Minority shareholders bring a derivative action against PECO Energy Company’s directors and officers.  The board filed a motion to dismiss the derivative action in the best interests of the corporation, which was denied by the court of common pleas.
+
+Synopsis of Rule of Law
+The business judgment rule permits the board of directors to dismiss a derivative action if it is in the best interest of the corporation.
+
+Facts
+PECO is a publicly regulated utility that sells electricity and gas to residential, commercial and industrial customers in Philadelphia and four surrounding counties.  Ernst & Young conducted a comprehensive management audit of PECO and recommended changes in twenty-two areas in the company including the credit and collection function.
+
+Issue
+Whether the business judgment rule permits the board of directors of a corporation the right to terminate derivative lawsuits brought by minority shareholders?
+
+Held
+Yes.  The business judgment rule permits the board to terminate the derivative law suit.  Reverse and remanded.
+
+Discussion
+The business judgment rule insulates “officers and directors from judicial intervention in the absence of fraud or self-dealing, if challenged decisions were within the scope of the directors’ authority, if they exercised reasonable diligence, and if they honestly and rationally believed their decisions were in the best interests of the company.” The court adopts the ALI Principles Section:Section:7.02-7.10 to determine whether the business judgment rule applies to the board’s decision.  These factors are whether: (1) the board or its special litigation committee was disinterested; (2) it was assisted by counsel; (3) it prepared a written report; (4) it was independent; (5) it conducted an adequate investigation; (6) it acted in good faith in the best interests of the corporation. Here, the board exercised sound judgment to dismiss the action upon the recommendation of a disinterested litigation committee that thoroughly investigated the claim.
+

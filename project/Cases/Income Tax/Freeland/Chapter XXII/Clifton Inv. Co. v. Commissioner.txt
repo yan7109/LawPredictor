@@ -1,0 +1,24 @@
+Citation
+312 F.2d 719, 1963 U.S. App. 63-1 U.S. Tax Cas. (CCH) P9246; 11 A.F.T.R.2d (RIA) 649
+
+Brief Fact Summary
+Petitioner was forced to sell an office building that was leased to tenants.  The City of Cincinnati was going to take the property by eminent domain if it was not sold.  Petitioner reinvested the money into stock ownership of a hotel.
+
+Synopsis of Rule of Law
+A taxpayer does not have to include as income funds derived from the sale of property if the funds are reinvested into “similar or related in service.”
+
+Facts
+Petitioner, a real estate investment corporation in Ohio, sold a six-story office building to the City of Cincinnati because they were going to take it by using eminent domain.  Petitioner used the building to rent to commercial tenants.  The funds from the sale were used to purchase eighty-percent of the stock of The Times Square Hotel of New York.  Petitioner claimed that the purchase of the stock was an investment in property similar or related in service or use to the office building it sold.  The Commissioner of Internal Revenue found otherwise and assessed a tax deficiency of $19,057.09.
+
+Issue
+Was it improper for the Tax Court to have assessed a deficiency in Petitioner’s income tax?
+
+Held
+District Judge Boyd issued the opinion for the United States Sixth Circuit Court of Appeals in affirming the decision of the Tax Court and holding the two properties were not similar.
+
+Concurrence
+Circuit Judge Miller issued a concurring opinion noting that such a strict construction should not be adopted because the rule was put in place to protect people who lose property due to condemnation.
+
+Discussion
+The Court of Appeals found that the only similarity between the two properties was that both produced rental income.  Leasing building space to commercial tenants is, for the most part, entirely different from running a hotel.  It is necessary to consider not only what the taxpayer receives from the property, but also what the properties demand of the taxpayer.
+

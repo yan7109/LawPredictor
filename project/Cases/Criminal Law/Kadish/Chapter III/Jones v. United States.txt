@@ -1,0 +1,21 @@
+Citation
+22 Ill.308 F.2d 307, 113 U.S. App. D.C. 352 (D.C. Cir. 1962)
+
+Brief Fact Summary
+Defendant Jones was found guilty of involuntary manslaughter of his friend’s 10-month-old baby where he failed to provide for the child and such failure resulted in the child’s death.
+
+Synopsis of Rule of Law
+Where a penal statute does not impose a legal duty to perform a particular action, criminal liability for the omission of such action only arises where legal duty is imposed by some other law.
+
+Facts
+Defendant’s friend had a 10-month-old illegitimate child who was placed with Defendant. The mother lived in the house with Defendant for some time, however the evidence was conflicting as to how long and as to whether or not Defendant was paid to take care of the child. Defendant failed to provide for the child and such failure resulted in the child’s death. Defendant was charged and convicted with involuntary manslaughter based on his failure to provide for the child. At trial, the court failed to charge the jury that it must find beyond a reasonable doubt that Defendant was under a legal duty to provide for the child. Defendant appeals.
+
+Issue
+Was failure to instruct the jury that it must find beyond a reasonable doubt that Defendant was under a legal duty to provide for the child plain error?
+
+Held
+Yes. Judgment reversed and remanded.
+
+Discussion
+This case reflect the position taken by the Model Penal Code that liability for failure to act may only be imposed where the person who failed to act had a legal duty to perform such act. It also illustrates the difficulty of convicting a person of failure to protect a child where that person is not a child’s parent or guardian
+

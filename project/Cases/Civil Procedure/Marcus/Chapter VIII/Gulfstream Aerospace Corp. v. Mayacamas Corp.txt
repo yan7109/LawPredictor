@@ -1,0 +1,21 @@
+Citation
+485 U.S. 271, 108 S. Ct. 1133, 99 L. Ed. 2d 296,  1988 U.S.
+
+Brief Fact Summary
+Gulfstream Aerospace Corporation (Plaintiff) sued Mayacamas Corporation (Defendant) in Georgia state court for breach of contract stemming from its failure to purchase aircraft as previously agreed upon. Defendant, choosing not to remove the action to federal court, filed an answer and counterclaim. A month after commencement of the state suit, Defendant sued Plaintiff in federal district court in California, alleging breach of the same contract.
+
+Synopsis of Rule of Law
+Orders granting or denying stays of “legal” proceedings on “equitable” grounds are not automatically appealable under Section 1292(a)(1).
+
+Facts
+After Defendant filed suit in federal court, Plaintiff moved for a stay or dismissal. The district court denied the stay, and the United States Court of Appeals for the Ninth Circuit dismissed the appeal for lack of jurisdiction, declining to find a right of appeal under Sections 1291 or 1292(a)(1). The court of appeals also declined to treat Petitioner’s Notice of Appeal as a Petition for Writ of Mandamus.
+
+Issue
+Is Plaintiff’s Motion for Stay appealable pursuant to Section 1292(a)(1)?
+
+Held
+No. The Supreme Court of the United States rejected Petitioner’s claim that the district court’s order in this case is immediately appealable under Section 1292(a)(1), pursuant to the Enelow-Ettelson doctrine. This doctrine provides that certain orders that stay or refuse to stay judicial proceedings are considered injunctions and are immediately appealable. However, the decision in Enelow was made at a time when there were separate systems for legal and equitable claims. The Court concluded that the effect of the Enelow-Ettelson doctrine was arbitrary, since it is based on historical distinctions. Therefore, the Court affirmed the court of appeal’s decision.
+
+Discussion
+In this case, the Court overturned the antiquated Enelow-Ettelson doctrine, which provided that certain orders that stay or refuse to stay judicial proceedings are considered injunctions and, therefore, are immediately appealable. However, the court noted that Section 1291 may still provide for review of orders, previously appealable under Enelow-Ettelson, to be reviewed under the collateral-order doctrine.
+

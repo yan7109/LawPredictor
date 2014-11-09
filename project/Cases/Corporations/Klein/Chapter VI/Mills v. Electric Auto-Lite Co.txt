@@ -1,0 +1,21 @@
+Citation
+434 U.S. 1002, 98 S. Ct. 649, 54 L. Ed. 2d 499 (1977)
+
+Brief Fact Summary
+Petitioners, Mills et al., brought an action under Section: 14(a) of the Securities an Exchange Act in response to misleading proxy solicitation by Respondent, Eclectric Auto-Lite Co.
+
+Synopsis of Rule of Law
+A material misstatement or omission in a proxy statement is all that is required to maintain an action under Section: 14(a).
+
+Facts
+Petitioners were minority shareholders in Respondent corporation.  A shareholder vote was going to decide whether Respondent would merge into another Respondent company, Mergenthaler Linotype.  Mergenthaler already owned over 50% of Respondent, and in turn Mergenthaler was controlled by a third Respondent company, American Manufacturing.  Shareholders were no told that the directors who recommended the merger were all under the control of Mergenthaler.  Therefore the recommendation came from an interested party.  The District court concluded that the misleading proxy solicitation was material and had a causal connection to the vote.  The Appellate court reversed because Petitioners did not demonstrate the causal relationship existed and that the fairness of the merger should be reviewed to determine if there was any merit to the charge.
+
+Issue
+The issue is whether the material misrepresentation in the proxy solicitation is sufficient to establish the cause of action.
+
+Held
+A material misrepresentation or omission is enough to establish a cause of action.  The United States Supreme Court declined to follow the Appellate court’s “fairness of the merger” test because it basically removed the shareholders from the voting process.  A company could release an extremely false proxy statement and justify it as long as they could demonstrate that the merger was fair.  The Court noted that misleading material in a solicitation is in itself a violation of Section: 14(a).  In this case, Petitioner has established facts, namely that shareholders may have been materially affected by the recommendation of an interested board of directors, which would allow for a cause of action.
+
+Discussion
+The Court refused to allow directors to cut out the shareholders of the voting process, and refused to allow a company to rationalize misconduct by declaring that the merger was fair.
+

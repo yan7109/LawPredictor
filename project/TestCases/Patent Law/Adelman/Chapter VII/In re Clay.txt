@@ -1,0 +1,21 @@
+Citation
+966 F.2d 656, 23 U.S.P.Q.2d 1058 (Fed. Cir. 1992)
+
+Brief Fact Summary
+Clay's invention displaced the dead volume at the bottom of a tank with a gel and he argued that the area was technical and too remote from a patented invention involving a similar gel and was therefore not prior art.
+
+Synopsis of Rule of Law
+Prior art is similar if it is the same area of undertaking or if it is still reasonably significant to the particular problem the inventor is involved in.
+
+Facts
+Clay's invention, assigned to Marathon Oil Company, was a process for storing refined liquid hydrocarbon in a storage tank having a dead volume between the tank bottom and outlet port.  The process involved the preparation of a gelatin solution that, after being placed in the tank's dead volume, would gel and raise the level of the liquid to a certain point, usually the outlet port.  The Patent Board rejected the patent as obvious in light of two earlier inventions.  The first, Hetherington, altered the volume in the bottom of a tank with inflexible bladders, or large bags.  The second, Sydansk, used a gel similar to Clay's invention that reduced the permeability of hydrocarbon-bearing formations.  Clay argued that Sydansk's invention was too remote to be treated as prior art as it was not relevant enough to the technical area of the claimed invention.  Clay appealed.
+
+Issue
+Is prior art similar if it is the same area of undertaking or if it is still reasonably significant to the particular problem the inventor is involved in?
+
+Held
+(Lourie, J.)  Yes.  A prior art is similar if it is the same area of undertaking or if it is still reasonably significant to the particular problem the inventor is involved in.  This is the correct two-part test when determining the fact question of whether a reference in the prior art is similar.  Sydansk cannot be considered in Clay's field just because they both relate to the petroleum industry.  Sydansk's invention related to the extraction of crude petroleum, while Clay's related to the storage of refined liquid hydrocarbons.  Therefore, they were not in the same area of undertaking.  In addition, Sydansk's invention addressed the problem of plugging underground formation anomalies which does not relate to the problem addressed by Clay's invention to prevent loss of a stored product.  Therefore, the reference was not reasonably significant.  Clay's invention was not obvious because Sydansk's invention came from prior art that was not similar.
+
+Discussion
+It is interesting to note that only obviousness requires the prior art to be similar.  Novelty-defeating technology can come from a distantly related field.  Some decisions in this area lead to seemingly strange results.  In Sage Products, Inc. v. Devon Industries, Inc., 880 F. Supp. 718, 35 U.S.P.Q.2d 1321 (C.D. Cal. 1994), the court held a patent on a simple and secure street letter box was available as a prior art reference with regard to a disposal container for hazardous medical waste.
+

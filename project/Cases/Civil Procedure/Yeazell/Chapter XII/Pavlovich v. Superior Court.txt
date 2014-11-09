@@ -1,0 +1,21 @@
+Citation
+29 Cal. 4th 262, 58 P.3d 2, 127 Cal. Rptr. 2d 329, 2002 Cal. 7959
+
+Brief Fact Summary
+The defendant posted confidential trade information about the one of the plaintiff’s DVD products on his internet website.
+
+Synopsis of Rule of Law
+A plaintiff asserting a claim based on specific jurisdiction against a non-resident defendant performing no business in the state must point to contacts that demonstrate that the defendant expressly aimed its tortious conduct at the forum state.
+
+Facts
+Plaintiff Matthew Pavlovich is currently a resident of Texas and the president of Media Driver, LLC, a technology consulting company in Texas. Plaintiff does not reside or work in California. He has never had a place of business, telephone listing, or bank account in California and has never owned property in California. Neither Plaintiff nor his company has solicited any business in California or has any business contacts in California. Plaintiff was the founder and project leader of the LiVid video project (LiVid), which operated a Web site located at “livid.on.openprojects.net.” The site consisted of a single page with text and links to other websites. The site only provided information; it did not solicit or transact any business and permitted no interactive exchange of information between its operators and visitors. Consistent with these efforts, LiVid posted the source code of a program named DeCSS on its Web site as early as October 1999. The real party in interest, DVD Copy Control Association, Inc. was the manufacturer of DeCSS. DVD Copy is a nonprofit trade association organized under the laws of the State of Delaware with its principal place of business in California. At the time LiVid posted DeCSS, Plaintiff did not know that the organization manufacturing DeCSS was DVD Copy, or that DVD Copy had its principal place of business in California until after DVD Copy filed this action. In its complaint, DVD Copy alleged that Plaintiff misappropriated its trade secrets by posting the DeCSS program on the LiVid Web site. In response, Plaintiff filed a motion to quash service of process, contending that California lacked jurisdiction over his person. The trial court denied Plaintiff’s motion, and this appeal followed.
+
+Issue
+Whether a state court may exercise jurisdiction over a non-resident whose only connection to the state is an internet posting on the World Wide Web.
+
+Held
+No. The California Supreme Court ruled that jurisdiction was improper.   Courts have identified two ways to establish personal jurisdiction general or specific. When determining whether specific jurisdiction exists, courts consider the relationship among the defendant, the forum, and the litigation.  Merely asserting that a defendant knew or should have known that his intentional acts would cause harm in the forum state is not enough to    establish jurisdiction. Instead, the plaintiff must also point to contacts that demonstrate that the defendant expressly aimed its tortious conduct at the forum.   <br/><br/><span class='heading'>Dissent.</span> Baxter, J. dissented. His dissent focused on the fact that by intentionally posting an unlicensed decryption code of DVD Copy’s product on his website, Plaintiff was not merely aiming his conduct at specific persons or companies, but an entire industry. Thus, Judge Baxter felt, because Plaintiff knew that at least two of the industries companies were located in California, his tortuous conduct could be said to be aimed at the forum state.
+
+Discussion
+The court only looked to specific jurisdiction because DVD Copy failed to allege any general jurisdiction. In deciding specific jurisdiction lacking, the court relied on its holding that specific jurisdiction requires more than a finding that the harm caused by the defendant’s intentional tort is primarily felt within the forum. Thus, by requiring evidence that the defendant expressly aimed its tortuous conduct at the forum, the court is implicitly holding that jurisdiction over a defendant must be both reasonable and foreseeable so that it does not violate substantial notions of justice and fair play.
+

@@ -1,0 +1,21 @@
+Citation
+421 U.S. 684,95 S. Ct. 1881, 44 L. Ed. 2d 508,1975 U.S.
+
+Synopsis of Rule of Law
+It is the prosecution’s duty to prove the absence of the heat of passion beyond a reasonable doubt if it is properly presented.
+
+Facts
+Appellant was convicted of murder. The case against him rested on circumstantial evidence and his own pretrial statement. Appellant argued that in the heat of passion, he killed Victim because Victim had made homosexual advances toward him. Appellant appealed to the Maine Supreme Court arguing that he lacked malice aforethought and therefore he could only be convicted of manslaughter. Maine requires defendants to prove by a preponderance of the evidence that they acted in the heat of passion. Appellant argued that it was incumbent upon the State to prove the absence of the heat of passion.
+
+Issue
+Whether the Maine rule that requires a defendant to prove that he acted in the heat of passion by a preponderance of the evidence is a violation of due process.
+
+Held
+Affirmed. The prosecution must prove beyond a reasonable doubt the absence of the heat of passion on sudden provocation when the issue is properly presented in a homicide case.
+
+Concurrence
+Justice Rehnquist and Chief Justice Burger concurred with the majority’s final ruling. However, these two Justices did not think it was unconstitutional to impose the burden of proving heat of passion on the defendant because the vital elements of the crime had already been proven.
+
+Discussion
+The Court found that the modern trend was to impose the burden on the prosecution to prove beyond a reasonable doubt the absence of heat of passion. The Court analogized this to proving absence of self defense. If the prosecution had to prove beyond a reasonable doubt the absence of self-defense, then they should be required to do it here. Further the Court noted that with murder, the defendant’s liberty for the rest of his life is at stake, thus this burden should be on the State.
+

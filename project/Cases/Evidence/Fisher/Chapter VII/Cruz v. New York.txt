@@ -1,0 +1,24 @@
+Citation
+2010 U.S.
+
+Brief Fact Summary
+Eulogio Cruz (Petitioner) was arrested and, along with his brother Benjamin Cruz (co-defendant), tried and convicted of murder for the shooting of a gas station attendant.   At trial, the prosecution called a witness who testified that Petitioner had confessed to the murder; the prosecution also introduced evidence of a tape-recorded confession that co-defendant had made to police.  Petitioner appealed his conviction to the New York Court of Appeals, which affirmed, and Petitioner, on certiorari, appeals that decision here.
+
+Synopsis of Rule of Law
+When a co-defendant’s confession implicates a criminal defendant, and the co-defendant does not testify at trial, the admission of the confession violates the criminal defendant’s rights under the 6th amendment Confrontation Clause, even when the defendant’s own confession corroborates the co-defendant’s confession and jury instructions are given that instruct the jury to disregard the co-defendant’s confession in deciding the criminal defendant’s guilt.
+
+Facts
+Petitioner and co-defendant were friends with two brothers, Noberto Cruz and Jerry Cruz; Jerry Cruz was murdered prior to the murder for which Petitioner was ultimately convicted.  Following Jerry Cruz’s murder, police questioned Noberto Cruz, who told police of a conversation he had with Petitioner and co-defendant.
+
+Issue
+Was it a violation of Petitioner’s 6th amendment Confrontation Clause rights for the trial court to allow co-defendant’s videotaped confession to be admitted into evidence along with a limiting instruction given to the jury that it was not to use co-defendant’s confession in determining Petitioner’s guilt?
+
+Held
+Reversed and remanded. Yes; Petitioner’s 6th amendment Confrontation Clause rights were violated by the admission of co-defendant’s tape-recorded confession, despite the fact that Petitioner’s own confession “interlocked” with co-defendant’s, and despite the limiting instruction given by the trial judge to the jury.
+
+Dissent
+Justices White (writing), Rehnquist, Powell, and O’Connor dissent, arguing that the Confrontation Clause rights of Petitioner were not violated because his own confession corroborated and “interlocked” with the co-defendant’s confession.  Specifically, the dissent points out that the co-defendant’s confession was consistent with the Petitioner’s confession, “with respect to all elements of the crime,” and that the co-defendant’s confession would not have subjected Petitioner to any further incrimination that was not already present by virtue of Petitioner’s own confession.  In short, the co-defendant’s confession, the dissent argues, was no more incriminating than Petitioner’s own confession, and therefore its admission was not violative of the Confrontation Clause.
+
+Discussion
+In holding that co-defendant’s confession that incriminated Petitioner was not admissible against Petitioner, the Court turned to its past decision in Bruton v. U.S., 391 U.S. 123 (1968), which held that a defendant, “is deprived of his rights under the Confrontation Clause when his codefendant’s incriminating confession is introduced at their joint trial, even if the jury is instructed to consider that confession only against the codefendant.”  The Court reasoned that Petitioner’s own confession did not make Bruton inapplicable, since Petitioner’s confession was introduced to the jury through the testimony of Noberto Cruz, and the jury could choose to believe or not believe that testimony.  Specifically, the Court stated, “the precise content and even the existence of petitioner’s own confession were open to question, since they depended upon acceptance of Norberto’s testimony, whereas the incriminating confession of codefendant . . . was on videotape.”
+

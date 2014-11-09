@@ -1,0 +1,24 @@
+Citation
+22 Ill.375 U.S. 311, 84 S. Ct. 411, 11 L. Ed. 2d 354 (1964)
+
+Brief Fact Summary
+Petitioner, a New York corporation, sued Respondents, residents of Michigan in New York federal court for failure to make payments on equipment Respondents leased from Petitioner. The lease designated one Florence Weinberg to be Respondents agent to accept service of process on their behalf. Petitioner delivered the complaint and summons to Weinberg, who promptly mailed the documents to Respondents.
+
+Synopsis of Rule of Law
+In order to have an “agent authorized by appointment” for purposes of service of process, an individual can contractually designate an agent to accept service of process within a certain state. If said agent promptly delivers the papers served to said individual, then service is effective. It does not matter if the clause requires the agent to deliver the papers or that the agent may have a potential conflict of interest, or that the individual was not acquainted with the particular agent.
+
+Facts
+Respondents, the Szukhents, were residents of Michigan. They rented equipment from National Equipment Rental, Ltd., Petitioner, pursuant to a lease. The lease specified that Florence Weinberg, located in Long Island, New York, would be the designated agent of Respondents for purposes of accepting service of process. The lease was signed by Petitioner and Respondents. Petitioner filed suit against Respondents for failure to make payments under the lease. The complaint and summons were served on Weinberg and Petitioner notified Respondents via certified mail of said service. Weinberg promptly forwarded the complaint and summons to Respondents. Respondents moved to quash service of the summons and complaint on the grounds that service was ineffective. The trial court granted the motion to quash. The Circuit Court upheld, reasoning that the lease term did not create an agency relationship between Respondents and Weinberg. Petitioner appealed and the Supreme Court granted certiorar
+
+Issue
+Did the term in the lease between Petitioner and Respondent create an agency relationship between Respondents and the alleged agent such that the agent could validly accept service of process on behalf of Respondents?
+
+Held
+Yes. Reversed and remanded.
+
+Dissent
+Justice Black: The boilerplate language designating an agent in the lease raises due process questions.
+
+Discussion
+Evidence of a signature consenting to the selection of the designated agent and prompt delivery of the complaint and summons is enough to make service effective.
+

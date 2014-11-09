@@ -1,0 +1,21 @@
+Citation
+934 F. Supp.713 (D. Md. 1996)
+
+Brief Fact Summary
+Owen L. Reed, Jr. and Donna Reed, (Plaintiffs) bring this action individually and on behalf of their child, seeking damages against Sears, Roebuck & Co., (Defendant) for the sale of an allegedly defective storm door that caused injuries to their child. Defendant seeks summary judgment claiming the sealed containers defense.
+
+Synopsis of Rule of Law
+The sealed container defense applies to products liability claims alleging “defective design or manufacture” as well as strict products liability based on “failure to warn,” breach of warranty, or negligence.
+
+Facts
+Plaintiffs purchased a storm door from defendant relying on representations by the salesman and in catalog that the tempered glass in the door was strong and safe. The door was purchased through the catalog and delivered directly to Plaintiffs’ home. The door was installed correctly. After almost a year of ordinary use, Plaintiffs’ daughter fell through the storm door. Plaintiff’s found the child bleeding profusely and balancing at her midsection on the edge of a piece of broken glass remaining in the door.
+
+Issue
+Whether the sealed container defense applies to claims for strict products liability based on “failure to warn” breach of warranty or negligence. Whether the actions of the salesman or the written words in the catalog were the proximate cause of the child’s injuries.
+
+Held
+No. It was beyond Defendant’s ability as a retail seller of the door to avoid the harm that befell Plaintiff’s child. No. Even assuming Defendant’s representations created express warranties, as a matter of law, the injuries sustained by the child were not proximately caused by a breach of the alleged warranties.
+
+Discussion
+It was beyond Defendant’s ability as a retail seller to avoid the harm that befell Plaintiff’s child. The policy behind the sealed container defense is to limit the liability of retailers and distributors who could not have reasonably discovered defects that originated with manufacturers. Limiting the applicability of the defense to product’s liability claims asserting defective design or manufacture would significantly and illogically undercut this policy. Defendant’s words and actions were not the proximate cause of the child’s injuries. Plaintiff’s sole theory is that the child was injured because the glass of the storm door was defective. That theory necessarily precludes a finding that breach of the express warranties made by Defendant, through its salesman and catalog are the “but for” or “substantial causes” of the child’s injuries. As a matter of law, any express warranties arising form the salesman’s demonstrations or the catalog’s representations were limited to circumstances where pressure was applied to properly tempered glass. The proximate cause of the injury should not be confused with the reliance element necessary to create an express warranty under U.C.C. 2-313(1)(a). The latter is not a substitute for the former in a claim for breach of an express warranty alleged to have caused personal injury.
+

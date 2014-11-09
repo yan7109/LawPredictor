@@ -1,0 +1,21 @@
+Citation
+376 Mass. 931, 383 N.E.2d 842 (1978)
+
+Brief Fact Summary
+The Superior Court (Massachusetts) entered the jury’s verdict against Defendants in proportion to the amount of negligence attributable to them in the action by Plaintiff business owner to recover for injuries he sustained in an electrical accident.
+
+Synopsis of Rule of Law
+Contributory negligence shall not bar recovery in any action by any person or legal representative to recover damages for negligence resulting in death or in injury to person or property, if such negligence was not greater than the total amount of negligence attributable to the person or persons against whom recovery is sought, but any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person for whose injury, damage or death recovery is made.
+
+Facts
+Plaintiff Gerald Graci owned a dry cleaning shop in a shopping mall. When work was being done to air conditioning and electrical fixtures, the contractors required access to a large, 8 x 8 foot box where the fixtures were located. The box was locked, and the contractors frequently borrowed the keys from Graci. Despite repeated warnings to keep the box locked, the contractors failed to do so. Graci had been concerned with possible injuries to children as a result of the box being left open. In response, Graci nailed the structure shut, and on one occasion, he slipped, whereby his hammer came in contact with electrical wires and he was severely burned. He brought suit against the shopping center and the contractors, claiming negligence, and a jury found in his favor apportioning liability among the Defendants.
+
+Issue
+Was Defendant Damon absolved from liability, pursuant to the applicable statute, because the jury found his negligence to be less than Graci’s?
+
+Held
+Affirmed.
+
+Discussion
+Comparative negligence is not a complete bar to the Plaintiff’s recovery, but acts only as partial bar resulting in a percentage deduction from damages that would otherwise be recoverable. The Court explained, “In determining by what amount the plaintiff’s damages shall be diminished in such a case, the negligence of each plaintiff shall be compared to the total negligence of all persons against whom recovery is sought. The combined total of the plaintiff’s negligence taken together with all of the negligence of all defendants shall equal one hundred percent.”
+

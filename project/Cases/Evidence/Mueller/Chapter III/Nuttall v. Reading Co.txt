@@ -1,0 +1,21 @@
+Citation
+235 F.2d 546, 1956 U.S. App.
+
+Brief Fact Summary
+Plaintiff, Florence Nuttall, sued her deceased husband’s employer for requiring him to come into work despite being very ill.  She sued as executrix of his estate.  In the first trial Plaintiff won a verdict of $30,000 but it was reversed, and the court directed a verdict against her in the second trial.
+
+Synopsis of Rule of Law
+The present sense impression exception to hearsay allows evidence if made substantially at the time of the event and is otherwise reliable.
+
+Facts
+Florence Nuttall, Plaintiff, sued her late husband’s employer, Reading Railroad, Defendant.  She sued under the Federal Employer’s Liability Act claiming he was required to work despite being ill.  On the morning Plaintiff’s husband went to work ill, she overheard his phone conversation with his employer.  Her testimony indicated that her husband told his employer that he was very ill, but he was required to come into work regardless.  The trial court did not allow this testimony because it was hearsay.
+
+Issue
+Did the trial court commit error by not allowing Plaintiff to testify regarding the conversation she over heard her husband having with his employer?
+
+Held
+Justice Goodrich issued the opinion for the United States Third Circuit Court of Appeals in reversing the lower court and holding the Plaintiff’s testimony should have been allowed.
+
+Discussion
+The Court of Appeals notes that an exception for hearsay exists when the statements made were substantially close the time of the event, and if they are free from “the possibility of lapse of memory on the part of declarant.”  Plaintiff’s statements were being offered to prove that her husband was being forced to come to work are admissible as a present sense impression exception to the hearsay rule.
+

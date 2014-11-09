@@ -1,0 +1,21 @@
+Citation
+472 F.2d 261, 1972 U.S. App. 6575
+
+Brief Fact Summary
+Defendant, Eric Hall, appealed his conviction for contempt for violating an ex parte court order that prohibited Defendant from going near a school.
+
+Synopsis of Rule of Law
+A court has the inherent power to issue an interim ex parte order against an unidentifiable group of people to protect the court’s ability to render a judgment.
+
+Facts
+The district court ordered a predominantly white school and a predominantly African-American school to realign the students to promote desegregation.  Many students, as well as other people in the affected communities, were upset with the judgment, and there were various incidents of civil disobedience.  To promote a peaceful environment for the students, the district court issued an ex parte order to prevent outsiders from causing trouble around the schools.  Defendant was named as one of the parties named in the order, but he never was a party to any of the prior court proceedings.  On the mixed advice of counsel, Defendant went near the school for the purpose of challenging the court order, and was arrested.  He was sentenced to sixty days in jail for contempt.  Defendant challenges the conviction because he was never a party to the prior suits, and per Fed. R. Civ. P. 65(d) the order was not binding on him.
+
+Issue
+The issue is whether Defendant, as a nonparty to prior proceedings, was bound by an ex parte court order.
+
+Held
+The court affirmed Defendant’s conviction.  The court said that courts need to have the power to render a binding judgment, and that includes binding any parties that may affect property within that jurisdiction.  The district court issued an in rem injunction to prevent other parties from interfering with the rights of the parties involved, and this concept was backed by precedent cited by Defendant.  The court noted that Rule 65(d) was written to embody this principle and should not be read too literally or it would never allow in rem injunctions.
+
+Discussion
+Defendant had notice, but he argued that as a nonparty that he could not be held in contempt.  To hold that an order would be limited to only parties of an action can make them nearly useless in cases such as the one at issue.
+

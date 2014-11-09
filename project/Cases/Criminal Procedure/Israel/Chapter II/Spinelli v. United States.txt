@@ -1,0 +1,21 @@
+Citation
+393 U.S. 410, 89 S. Ct. 584, 21 L. Ed. 2d 637 (1969)
+
+Brief Fact Summary
+Defendant was operating an illegal gambling outfit.  The Federal Bureau of Investigation (”FBI”) obtained a search warrant on the basis of observing the defendant, Spinelli (the “defendant”) traveling to and from an apartment, and information supplied by a confidential informant.
+
+Synopsis of Rule of Law
+An affidavit used to support the issuance of a search warrant must set forth sufficient underlying circumstances which would cause a magistrate to judge the informant’s information independently and support a finding that the informant is “reliable/credible”.
+
+Facts
+The defendant was traveling between Illinois and Missouri to conduct an illegal gambling operation in Missouri.  The FBI observed the defendant traveling across state lines and going to and from a specific residence.  The FBI also received information from an informant that the defendant was accepting wagers and operating a handbook by means of a telephone.
+
+Issue
+If an informer’s tip is necessary to support a finding of probable cause, does there have to be independent information to corroborate the information?
+
+Held
+An informant’s tip must include underlying statements which describe the circumstances which give rise to the assertions.
+
+Discussion
+An informant must explain why the information is reliable if the informant came upon the information indirectly.  In order to issue a warrant, a magistrate must rely upon detailed criminal activities which are more substantial than mere allegations of wrongdoing.
+

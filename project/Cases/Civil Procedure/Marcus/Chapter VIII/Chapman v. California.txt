@@ -1,0 +1,21 @@
+Citation
+386 U.S. 18, 87 S. Ct. 824, 17 L. Ed. 2d 705, 1967 U.S.
+
+Brief Fact Summary
+The petitioners, Ruth Elizabeth Chapman and Thomas LeRoy Teale (the “petitioners”), were convicted of robbery, kidnapping and murder.  The petitioners declined to testify at trial, and the prosecution repeatedly referenced this fact to the jury to infer that the petitioners had something to hide.
+
+Synopsis of Rule of Law
+The repeated referencing of a Defendant’s refusal to testify is not harmless error and is grounds for a new trial.
+
+Facts
+The petitioners were tried and convicted for robbery and the kidnapping and murder of a bartender.  At trial, the prosecution referenced the petitioners’ refusal to testify multiple times.  The trial judge also instructed the jury, as state law allowed, that they may draw adverse inferences from the lack of testimony.  That state law was overturned after the trial, but the petitioners’ convictions were affirmed by the California Supreme Court because the references were deemed harmless error.
+
+Issue
+Whether the prosecution and trial judge’s instructions to the jury to inferring the worst from petitioners’ refusal to testify is harmless error?
+
+Held
+The references and instructions to the jury were not harmless error, and the conviction should be set aside.  The Supreme Court of the United States (”Supreme Court”) determined that if a constitutional error could not be proven harmless beyond a reasonable doubt, then it is not harmless error.  There was a reasonable likelihood that the error led to a conviction.
+
+Discussion
+The test for whether a constitutional error is harmless error is whether there is a reasonable likelihood that the error led to the conviction.
+

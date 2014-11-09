@@ -1,0 +1,24 @@
+Citation
+U.S. 358 (1970)
+
+Brief Fact Summary
+A preponderance of evidence found that Winship (D), a 12-year old boy, committed an act that if committed by an adult would have been a crime, thus justifying the juvenile delinquency he was charged with. Winship (D) contended that a finding such as this had to be based on proof beyond a reasonable doubt.
+
+Synopsis of Rule of Law
+Among the essentials of due process and fair treatment required during the adjudicatory stage when a juvenile is charged with an act that would constitute a crime if committed by an adult is proof beyond a reasonable doubt.
+
+Facts
+A New York Family Court judge found Winship (D) by relying on a preponderance of the evidence, the standard of proof required by S 744(b) of the New York Family Court Act, guilty of an act (stealing money from a pocketbook in a locker) that “if done by an adult, would have constituted the crime or crimes of Larceny”. That the proof might not establish guilt beyond a reasonable doubt was accepted by the judge and this finding supported the juvenile delinquency charge against Winship (D). This position of the court was affirmed by the New York Court of Appeals and it also sustained the constitutionality of S744 (b). However, a review was granted by the United States Supreme Court.
+
+Issue
+Is proof beyond a reasonable doubt among the essentials of due process and fair treatment required during the adjudicatory stage when a juvenile is charged during the adjudicatory stage when a juvenile is charged with an act that would constitute a crime if committed by an adult?
+
+Held
+(Brennan, J.) Yes. Among the essentials of due process and fair treatment required during the adjudicatory stage when a juvenile is charged with an act that would constitute a crime if committed by an adult is proof beyond a reasonable doubt. The requirement that guilt of a criminal charge be established by proof beyond a reasonable doubt has a long history and this has been constitutionally required in most of this Court’s opinions. As it is in adult criminal prosecutions, the constitutional safeguard of proof beyond reasonable doubt is of utmost importance during the adjudication stage of a delinquency proceeding. Reversed.
+
+Concurrence
+(Harlan, J.) A judge handling a juvenile proceeding should not water down the factual conclusion that the accused committed the criminal act with which he/she is charged  than be required in a criminal trial. Therefore, the worthy goals which the juvenile justice system seeks to achieve should not be interfered with by the imposition of such a standard of proof.
+
+Discussion
+The response of the majority to Justice Black’s dissent where he said, “The Court has never clearly held, however, that proof beyond a reasonable doubt is either expressly or impliedly commanded by any provision of the Constitution” was “Lest there remain any doubt about the constitutional stature of the reasonable-doubt standard, we explicitly hold that the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged”.
+

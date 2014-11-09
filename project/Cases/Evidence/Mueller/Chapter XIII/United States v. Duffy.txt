@@ -1,0 +1,21 @@
+Citation
+537 U.S. 1013 123 S. Ct. 483 154 L. Ed. 2d 417 2002 U.S
+
+Brief Fact Summary
+Defendant, James H. Duffy, was convicted of transporting a stolen car in violation of interstate commerce from Florida to California.
+
+Synopsis of Rule of Law
+The Best Evidence Rule requires an original writing to be produced if the terms of the writing are material unless the writing is unavailable for a reason that is not the serious fault of one offering the evidence.
+
+Facts
+James H. Duffy, Defendant was convicted of transporting a stolen motor vehicle from Florida to California, and was sentenced to two years and six months in prison. Evidence presented against the Defendant included a witness who claimed he received the car from Defendant, Defendant’s fingerprints, and testimony from an F.B.I. agent claiming a trunk in the stolen car contained a suitcase with a white shirt imprinted with “D-U-F.”  Defendant objected to the admission of the testimony of the F.B.I. agent regarding the shirt and asked that the government be required to produce the shirt.  The trial judge overruled the Defendant and allowed the testimony.
+
+Issue
+Did the admission of the F.B.I. agents testimony regarding the shirt violate the Best Evidence Rule?
+
+Held
+Justice Wisdom in issuing the opinion for the United States Fifth Circuit Court of Appeals held that the admission of the testimony did not violate the Best Evidence Rule because a shirt with a laundry mark would not normally be considered a writing.
+
+Discussion
+An object with a mark or inscription may be considered a chattel or a writing.  In this case, there was not a strong likelihood that the witness would inaccurately recall the writing.  Further, the shirt was not crucial to the case as there was other strong evidence against the Defendant.
+

@@ -1,0 +1,27 @@
+Citation
+439 U.S.322
+
+Brief Fact Summary
+Shore (P) sought to have a merger rescinded on the ground that one party to the merger, Parklane  Hosiery Co. (Parklane) (D), had issued a false and misleading proxy statement. A separate equitable suit on the same issue had been filed by the Securities Exchange Commission (SEC) in the district court. The court found the proxy statement to be false. Shore (P) moved for partial summary judgment in his case as relating to the statement, on the alleged ground that Parklane (D) was stopped from relitigating that issue by collateral estoppel.
+
+Synopsis of Rule of Law
+A judge trying a case has broad powers of discretion to allow collateral estoppel, deriving from another trial on the same issue by another party, to be used to establish the same issue as proved fact, if it is an element of a plaintiff’s case, without having to litigate it again, provided the use of this doctrine is not unfair to the defendant.
+
+Facts
+Shore (P) brought a class action on behalf of the shareholders against Parklane (D) on the alleged ground that Parklane (D) had issued a false and misleading proxy statement relating to a merger, which violated sections 14(a), 10(b), and 20(a) of the Securities Exchange Act. He sought a rescinding order concerning the merger to which Parklane (D) was one party. Before this trial, the SEC filed an injunctive suit on the same issue. The court in the SEC case decided that the proxy statement was false and misleading, and recorded its declaratory judgment on the issue. Shore (P) moved for partial summary judgment of the case as far as the falsity of the proxy statement was concerned. His grounds for the suit were that collateral estoppel stopped Parklane from re-contesting that issue in court. The motion was not granted by the district court. The decision was reversed by the court of appeals. The U.S. Supreme Court granted a writ for judicial review.
+
+Issue
+Does a trial judge have the power to allow the use of collateral estoppel as an offensive weapon to establish the truth of some element in the plaintiff’s case, as long as it is not unfair to the defendant?
+
+Held
+(Stewart,) Yes. The defensive use of collateral estoppel is standard practice allowed by this Court. In this case, collateral estoppel is sought to be used by a plaintiff to prevent the defendant from seeking to re-try issues which have already been finally determined in a different case against another plaintiff. This offensive use may have drawbacks in that some plaintiffs may still seek to re-try the issue determined in another case filed by another party in a manner not to their satisfaction, but may accept the ruling and use it as offensive collateral estoppel if the ruling is in conformity with their wishes. This argument has little weight in this case as the SEC filed a suit praying for an injunction. Another point is that if the defendant does not choose to defend himself in a case involving small or nominal damages, and loses his case, he may have to suffer the use of the ruling as offensive collateral estoppel in an unfair manner in the future, without any means to foresee this kind of use. In this case, Parklane (D) had a strong incentive to establish their innocence in a full and fair trial, and yet lost their case. Therefore collateral estoppel can be used without unfairness in this case to establish the element of falsity in the proxy statement as brought by the plaintiff. Res judicata was not found to violate the Seventh Amendment.
+
+Dissent
+N/A
+
+Concurrence
+N/A
+
+Discussion
+In this case, the Court found in a separate part of the judgment, that using collateral estoppel offensively to prevent relitigation of the same issue would prevent Parklane D) from having a jury trial as was its right, and so would violate its rights. The SEC action was an equitable suit and so Parklane  (D) did not have a jury trial in that case.
+

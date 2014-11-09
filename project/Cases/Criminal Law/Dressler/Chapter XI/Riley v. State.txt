@@ -1,0 +1,21 @@
+Citation
+60 P.3d 204, 2002 Alas. App. 251.
+
+Brief Fact Summary
+The Defendant, Richard Riley, was convicted of first degree assault after he and another man, Edward Portalla, opened fire on a group of people, seriously wounding two individuals. The Defendant appeals on the theory that the state could not prove who actually wounded the individuals.
+
+Synopsis of Rule of Law
+When a defendant solicits, encourages, or assists another to engage in conduct, and does so with the intent to promote or facilitate that conduct, the defendant becomes accountable for that conduct.
+
+Facts
+The Defendant and Portalla opened fire on an unsuspecting crowd, seriously wounding two individuals. The Defendant was charged with and convicted of two counts of first degree assault and six counts of third degree assault. He appeals his convictions of first degree assault for the reason that the state could prove that either the Defendant or Portalla caused the injuries, but the state could not prove which one. The trial court instructed the jury that the Defendant could be convicted either as principal or accomplice. The Defendant argues that the accomplice liability charge was erroneous.
+
+Issue
+Did the trial court erroneously instruct the jury on accomplice liability?
+
+Held
+No. Convictions upheld. Under Alaska law, when two or more people are jointly accountable for criminal conduct constituting an unintended injury or death, the culpable mental state applies to the State’s prosecution of all participants, whether they acted as principals or accomplices, and regardless of whether the resulting injury or death can be linked beyond a reasonable doubt to a particular defendant’s conduct. Here, both the Defendant and Portalla acted with a reckless disregard for human life. Even though only one could have committed the first degree assault, since both had the culpable mental state, both may be convicted of the crime. Therefore, the jury instruction was not erroneous, and the conviction was upheld.
+
+Discussion
+Importantly, under accomplice liability theories, the culpable mental state drives the conviction. In other words, actual causation is irrelevant so long as each defendant acted with the requisite mental state and one of the defendants actually caused the injury or death.
+

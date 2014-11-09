@@ -1,0 +1,27 @@
+Citation
+392 U.S. 514, 88 S. Ct. 2145,20 L. Ed. 2d 1254, 1968 U.S. 1140.
+
+Brief Fact Summary
+The Defendant, Leroy Powell (Defendant), was arrested for violating a Texas statute making it a crime to be drunk in a public place. At trial, he raised the defense that he was “afflicted with the disease of chronic alcoholism,” and therefore, his public drunkenness was not of his own volition. The trial judge ruled that this is not a defense to the statute.
+
+Synopsis of Rule of Law
+Punishing a chronic alcoholic for the offense of being drunk in public does not violate Eighth Amendment of the United States Constitution’s (Constitution) prohibition against cruel and unusual punishment.
+
+Facts
+The Defendant was arrested and charged with being in a state of intoxication in public in violation of Texas law. The Defendant cited as a defense that he was a chronic alcoholic and he could not control his behavior. The trial judge, sitting without a jury rejected this defense. At trial, the only expert witness to testify was that of the Defendant, who stated that the Defendant is a chronic alcoholic, meaning he has an uncontrollable compulsion to drink.
+
+Issue
+Is punishing a chronic alcoholic for violating a statute forbidding a defendant from being intoxicated in public cruel and unusual punishment prohibited by the Eighth Amendment of the Constitution?
+
+Held
+No. The Eighth Amendment prohibits the infliction of cruel and unusual punishment. In the case of Robinson v. California, the United States Supreme Court (Supreme Court) held that a statute making it a criminal offense to be addicted to the use of narcotics was in violation of the Eighth Amendment and therefore unconstitutional. The Supreme Court’s reasoning was that the statute criminalized an illness. No specific act needed to have been committed in the State of California. Rather, a person ran afoul of the law for simply existing with the “status” of being addicted to narcotics. By contrast, the Texas statute here specifically prohibits public intoxication. It, however, does not make the disease itself, i.e. chronic alcoholism, illegal. In this respect, unlike the stricken California statute, one’s “status” is not considered illegal-anyone can commit the crime whether an alcoholic or not-but rather, the illegal act is allegedly uncontrollable due to the disease. In other wor
+
+Dissent
+As in Robinson v. California, the Defendant was accused of being in a condition that he had no capacity to change or avoid. Hence, the Eighth Amendment of the Constitution forbids enforcement of the Texas statute.
+
+Concurrence
+In Robinson v. California, the statute did not criminalize a particular “act,” but rather the “status” of being an addict. Here, the statute certainly criminalizes an act, i.e. being intoxicated in public. Therefore, Robinson v. California does not apply.
+
+Discussion
+Having a disease that makes a person unable to resist doing an act in violation of a law does not render the law unconstitutional as cruel and unusual punishment.
+

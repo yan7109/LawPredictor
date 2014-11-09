@@ -1,0 +1,21 @@
+Citation
+22 Ill.303 N.Y. 446, 103 N.E.2d 891 (1952)
+
+Brief Fact Summary
+Defendant is a general contractor who hired, Kroo Painting Company (Kroo) to work on one of Defendant’s projects. The contract included a clause forbidding Kroo from assigning payment to another party without written permission from Defendant. Kroo assigned payment to Plaintiff without getting permission.
+
+Synopsis of Rule of Law
+When the language is clear, a party can forbid assignment of payment on a contract
+
+Facts
+Defendant hired Kroo to work on a project for the New York City public schools. The contract included a clause forbidding the assignment of the contract or any money paid, to another without written permission from Defendant. Kroo assigned payment from Defendant to Plaintiff, a bank, without getting written permission. Defendant has refused to pay.
+
+Issue
+Is the non-assignment clause in Kroo’s contract enforceable?
+
+Held
+Yes
+
+Discussion
+Clear language is the test in this case. When language is unclear, courts are more likely to construe the language to mean that the contract may not be assigned, but the right to receive payment under the contract can.
+

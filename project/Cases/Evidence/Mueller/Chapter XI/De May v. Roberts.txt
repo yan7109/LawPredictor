@@ -1,0 +1,21 @@
+Citation
+46 Mich. 160, 9 N.W. 146, 1881 Mich.
+
+Brief Fact Summary
+Plaintiff Roberts had requested that Defendant De May, a doctor, visit her house for medical purposes. He arrived along with a second person, Defendant Scattergood, who was not a doctor. Plaintiff allowed both into her home and voiced no objection to Scattergood’s presence, but later sued for deceit.
+
+Synopsis of Rule of Law
+Consent given under false pretenses is not valid consent and will not operate as a defense to a subsequent action.
+
+Facts
+Defendant De May, a doctor, visited the premises of Plaintiff. Because he was sick and the roads were difficult to travel, De May brought Defendant Scattergood along to assist him, even though Scattergood was not a doctor and was not invited to Plaintiff’s premises. When Defendants arrived, De May introduced Scattergood as his assistant, and Plaintiff did not protest or object to his presence. Later, after discovering Scattergood’s identity, Plaintiff brought suit for deceit. Defendants argued she had consented to Scattergood’s presence. Judgment was entered for the Plaintiff.
+
+Issue
+Should judgment have been entered for the Plaintiff even though she did not object to Scattergood’s presence?
+
+Held
+Yes. The judgment was affirmed. The consent to Scattergood’s presence was clearly predicated upon the Plaintiff’s mistaken belief that he was a physician. As the Defendants fostered this belief, it cannot give rise to a valid claim of consent.
+
+Discussion
+This case demonstrates that the mere expression of consent of itself is not necessarily sufficient. The consent must be made with knowledge of the relevant facts to operate as a valid defense in a subsequent tort action. Consent given under a misapprehension of pertinent facts is of no moment.
+

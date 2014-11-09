@@ -1,0 +1,27 @@
+Citation
+538 U.S. 721 (2003)
+
+Brief Fact Summary
+Hibbs (P) was an employee of the Nevada Department of Welfare, and had an ailing wife. When he did not turn up for work for the reason that he was caring for her, his job was terminated. He filed against the department, seeking money damages on the ground that his rights under the Family and Medical Leave Act (FMLA) of 1993 had been violated.
+
+Synopsis of Rule of Law
+Employees who qualify for the provisions of the FMLA may recover money damages if their employer (including a state employer) prevents in any way the exercise of their rights under the family care provision of the FMLA
+
+Facts
+Hibbs (P) was an employee of the Nevada Department of Welfare (D). He requested and got the full 12 weeks of FMLA leave to care for his sick wife, but failed to turn up after that period had expired. He was therefore terminated. He brought a federal case against the Department (D) on the ground that his family care rights under FMLA had been violated, and asked for money damages, injunction and declaration of his rights by the court. The district court granted summary judgment against him on the ground that his claim was not sustainable under the Eleventh Amendment, and that no Fourteenth Amendment rights were violated in this case. The federal court of appeals reversed the decision, and the Department (D) appealed.
+
+Issue
+Does an employee who is eligible for the application of FMLA recover money damages against an employer ( state or otherwise ) if said employer prevents or denies in any way his exercise of his rights provided under the family-care provision of the FMLA?
+
+Held
+(Rehnquist, C.J.) Yes. Eligible employees are free to recover money damages by suit against an employer, including the state employers, who interferes with or prevents or refuses to acknowledge his rights under the family-care provision of the FMLA. When Congress passed the FMLA it had evidence showing that there was a strong gender-based bias in the granting of leave benefits, because of gender stereotyping, which is obviously a faulty basis. State laws and policies were often discriminatory, and even if they were not, they were administered in a gender-biased manner. It was the federal FMLA that first made the states consider enacting measures to grant family leave in eligible cases. The past lengthy record of state discrimination in giving its employees family leave benefits was so strong as to justify the instant enactment of a law to remedy the situation. This law, the FMLA, is both congruent and proportional to its aim. Thus it can be recognized to be a response to constitutional right violation or an acceptable method to prevent such violation. The lower court’s decision is affirmed.
+
+Dissent
+(Scalia, J.) The Act is a congressional attempt to enforce the Fourteenth Amendment if the states are violating it. however, such violation is by the state against which this action is directed, and there is no guilt on the associated parties.
+
+Concurrence
+(Souter, J.) I concur with the Court.
+
+Discussion
+The significance of the Hibbs case is that the FMLA was required to remedy the existing strong gender bias in employment leave benefits, as clearly shown by the evidence before Congress, by making it permissible to sue for money damages against the state in case such benefits were denied.  Its passage was not meant to duplicate Title VII which simply made administrative leave benefits equally available to both sexes.
+

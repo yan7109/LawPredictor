@@ -1,0 +1,24 @@
+Citation
+411 U.S. 582, 93 S. Ct. 1736, 36 L. Ed. 2d 503 (1973)
+
+Brief Fact Summary
+Respondent, Occidental Petroleum Corp., purchased over ten percent of a company in an attempt to acquire the company.  After failing to acquire it, Respondent made a deal with the newly acquired company, Petitioner Kern County Land Co., to sell back the shares after six months.
+
+Synopsis of Rule of Law
+A purchase and sale of shares will not be considered a “sale” under Section: 16(b) of the Securities Exchange Act if there was no indication that there was an abuse of insider information.
+
+Facts
+Respondent made a tender offer to purchase shares of the company that preceded Petitioner company.  Respondent ended up with over 10% of the stock.  The preceding company, in a defensive strategy to avoid Respondent’s takeover, sought another company to overbid Respondent.  Another company, Tenneco, stepped forward, outbid Respondent and made Petitioner company out of the former company.  The shareholders received a share-for-share swap of the old company for Tenneco stock.  To the dissatisfaction of both parties, the transaction made Respondent a minority shareholder in a competitor’s stock.  Respondent then agreed to a binding option sell back the Tenneco shares to Tenneco after six months, and the deal netted Respondent $19 million.  Petitioner brought this action to recover the profit under Section: 16(b) which allows a company to capture from beneficial shareholders (shareholders owning over 10% of the total shares) any profits from a sale that occurs within six months of the pu
+
+Issue
+The issue is whether Respondent’s binding option to sell back shares after a failed takeover bid after the statutory six months is a “sale” for purposes of Section: 16(b).
+
+Held
+The United States Supreme Court held that the sale was not a sale under Section: 16(b) of the Securities Exchange Act because the Act, and this particular section, were designed to prevent insiders from using their access to nonpublic information to profit from quick sells of the company shares.  In this case there was no evidence that Respondent was using any insider information for its own profit; they were looking for a mutually agreeable solution to rid itself of a competitor’s shares.  Therefore Section: 16(b) did not apply.
+
+Dissent
+The dissent believed that as long as all the elements of Section: 16(b) are present, the Act should be applied.  There should be no inquiry as to whether the purpose of the Act, whether insider information was used, should not be the test.
+
+Discussion
+The Court again found a way to look at the specific facts of the case and determine whether or not the overall purpose of the Act is being advanced.  In this case, it seemed unjust to apply it to a company that was merely trying to avail itself of a competitor’s shares after a failed takeover bid.
+

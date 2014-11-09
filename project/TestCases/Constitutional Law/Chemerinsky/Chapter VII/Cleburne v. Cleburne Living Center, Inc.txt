@@ -1,0 +1,24 @@
+Citation
+473 U.S. 432,105 S. Ct. 3249, 87 L. Ed. 2d 313, 1985 U.S.
+
+Brief Fact Summary
+The Supreme Court of the United States used a minimum rationality review standard to strike down a law that discriminated against mentally retarded people that was based primarily on fear rather than safety.
+
+Synopsis of Rule of Law
+Mentally retarded people are not a suspect or quasi-suspect class. Thus, when reviewing a discriminatory classification involving mentally retarded people, the standard of review is minimum rationality. Where, as here, the basis of the discrimination is fear of mentally retarded people, that is enough “bite” to strike down a law under minimum rationality.
+
+Facts
+Respondent, Jan Hannah, purchased a building in Cleburne, Texas with the intention of leasing it to Cleburne Living Centers, Inc. (”CLC”), for the operation of a group home for mentally retarded people. After holding a public hearing on CLC’s application, the city council denied the permit. The Court of Appeals for the Fifth Circuit held that mental retardation is a “quasi-suspect” classification and that the ordinance violated equal protection because it did not substantially further an important governmental purpose.
+
+Issue
+Whether the city ordinance requiring permits only for group homes of mentally retarded people violates equal protection.
+
+Held
+Yes. Judgment of the Court of Appeals affirmed, but on different grounds. The general rule under equal protection is that legislation is presumed to be valid and will be sustained if the classification drawn by the statute is rationally related to a legitimate state interest. When social or economic legislation is at issue, equal protection allows the states wide latitude. The Court of Appeals erred in holding that mental retardation is a quasi-suspect classification. First, it is undeniable that those who are mentally retarded have a reduced ability to function in the everyday world. Their range of disabilities is broad. Second, the federal government has outlawed discrimination against mentally retarded people in federally funded programs while providing such people with the right to receive “appropriate treatment, services, and habitation” in a setting that is “least restrictive of their personal liberty.” To withstand equal protection review, legislation that distinguishes
+
+Dissent
+The ordinance would clearly be upheld under the traditional rational basis test applicable to economic and commercial regulation. Further, the Court fails to articulate the applicable facts and principles that justify subjecting this zoning ordinance to the searching review that actually leads to its invalidation.
+
+Discussion
+This case shows that even under minimum rationality, a law may be invalidated under equal protection.
+

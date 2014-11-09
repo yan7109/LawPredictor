@@ -1,0 +1,21 @@
+Citation
+863 F.2d 867 (Fed. Cir. 1988)
+
+Brief Fact Summary
+Kingsdown (Plaintiff) mistakenly included a claim in its continuation application that had been rejected as indefinite in its original application.  Hollister (Defendant) was prevented by the included claim from marketing Defendant's product and Defendant claimed inequitable conduct as a defense following the patent infringement suit by Plaintiff.
+
+Synopsis of Rule of Law
+Failure to withdraw a patent application is not enough on its own to form intent to deceive when there is a suit for inequitable conduct.
+
+Facts
+Plaintiff mistakenly included a claim in its continuation application that had been rejected in the original application for patent.  The claim was proper subject matter but had been rejected as indefinite.  Plaintiff included the claim in the application after seeing Defendant's device in order to stop him from marketing the product.  Defendant claimed inequitable conduct.  Plaintiff's attorney learned of the mistake when it was pointed out by Defendant.  Each side had experts testify that there was no evidence of deceitful intent.  Based on Plaintiff's inequitable conduct, the district court found the patent unenforceable.  Plaintiff appealed.
+
+Issue
+Is failure to withdraw a patent application enough on its own to form intent to deceive when there is a suit for inequitable conduct?
+
+Held
+(Markey, C.J.)  No.  Failure to withdraw a patent application is not enough on its own to form intent to deceive when there is a suit for inequitable conduct.  The finding of intent by the district court must be upheld unless it is clearly incorrect.  Based on the inclusion of an invalid claim in the continuation application, the district court determined that Plaintiff intended to deceive.  Although including the claim amounts to negligence, it does not rise to the level of gross negligence necessary to find intent to deceive.  It is not illegal to amend an application to exclude the product of a competitor.  Defendant's argument that Plaintiff's failure to withdraw the application constitutes bad faith in and of itself is wrong.  The court should not promote a rule discouraging patentees from defending against claims, and the courts should not adopt a rule that encourages charges of inequitable conduct, as there are far too many of these claims already.  The finding of deceitful intent by the district court was clearly in error.  Reversed and remanded
+
+Discussion
+Despite its conclusion, the court reaffirmed the rule that a patent  application is made unenforceable when inequitable conduct is found  during the prosecution of the patent.  The ultimate question of whether  there has been inequitable conduct is equitable in nature.  As an  equitable issue, it is given to the discretion of the trial court and  therefore is reviewed under an abuse of discretion standard.
+

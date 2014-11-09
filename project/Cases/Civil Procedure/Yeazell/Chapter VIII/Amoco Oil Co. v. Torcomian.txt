@@ -1,0 +1,21 @@
+Citation
+722 F.2d 1099, 1983 U.S. App. 15256
+
+Brief Fact Summary
+The Defendants, John and Albert Torcomian (Defendants), operated an Amoco Oil Co. (Plaintiff) franchise, without ever entering into a franchise agreement. The Plaintiff filed suit seeking an injunction, restraining Defendants from continuing to use or occupy the franchise site.
+
+Synopsis of Rule of Law
+A defendant is entitled to a jury trial based on a counterclaim, even where the plaintiff’s original claim is one in equity, where the counterclaim is compulsory and contains an element that would give rise to a right to a jury trial.
+
+Facts
+Plaintiff owned a service station. The Defendants, a father and son, wanted to take the station over from its previous operators and become Plaintiff’s franchise dealers. The Defendants operated the station for some months but never executed a franchise agreement. The parties disagreed about whether Plaintiff’s representative had ever promised the Defendants they would be accepted as franchisees and whether they met the qualifications for franchisees. Plaintiff originally sought extensive relief amounting to an ejection and permanent injunction restraining the Defendants from use or entry upon the Plaintiff’s gas station. Defendants filed a compulsory counterclaim against Plaintiff, seeking damages as well as an injunction, forcing Plaintiff to comply with the alleged franchise agreement.
+
+Issue
+Whether the district court erred in refusing to afford Defendants a jury trial.
+
+Held
+Yes. The district court’s judgment was vacated and the case remanded.   The Court of Appeals for the Third Circuit held that the district court erred in refusing to grant the Defendants a jury trial. Federal law unequivocally holds actions seeking ejectment to be legal, not equitable. An equitable main claim cannot preclude a jury trial on a legal counterclaim, at least when the counterclaim is compulsory.  Because the district court could not have properly granted Plaintiff a directed verdict against Defendants, the denial of a jury trial was not harmless error.
+
+Discussion
+In this case the circuit court holds that Defendants are entitled to a jury trial, even though under the original complaint filed by the Plaintiff, no right to a jury trial exists. Thus, based on the specific allegations in his counterclaim, Defendants can create their own right to a jury trial in a given case.
+

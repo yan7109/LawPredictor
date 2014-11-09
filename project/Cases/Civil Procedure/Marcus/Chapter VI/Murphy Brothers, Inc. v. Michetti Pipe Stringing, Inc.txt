@@ -1,0 +1,21 @@
+Citation
+526 U.S. 344, 119 S. Ct. 1322, 143 L. Ed. 2d 448, 1999 U.S.
+
+Brief Fact Summary
+On January 26, 1996, Michetti Pipe Stringing, Inc., (Respondent) filed a complaint in Alabama state court seeking damages for an alleged breach of contract and fraud by Murphy Brothers, Inc., (Petitioner).
+
+Synopsis of Rule of Law
+A defendant must file a notice of removal within thirty days after receipt by the defendant, through service or otherwise, of a copy of the initial pleading. 28 U.S.C. Section: 1446(b). Furthermore, an individual or entity named as a defendant is not obligated to engage in litigation unless notified of the action, and brought under a court’s authority, by formal process.
+
+Facts
+Respondent did not serve Petitioner at that time, but three days later it faxed a courtesy copy of the file-stamped complaint to one of Petitioner’s vice presidents. On February 12, 1996, Respondent officially served Petitioner via certified mail. On March 13, 1996, thirty days after service, but forty-four days after receiving the faxed copy of the complaint, Petitioner removed the case to the United States District Court for the Northern District of Alabama. Respondent moved to remand the case to the state court on the ground that Petitioner filed the removal notice fourteen days too late. The district court denied the Motion to Remand on the ground that the thirty day removal period did not begin until Petitioner was officially served with a summons.
+
+Issue
+Whether the named defendant must be officially summoned to appear in the action before the time to remove begins to run? May the thirty-day period start earlier, on the named defendant’s receipt, before service of official process, of a “courtesy copy” of the filed complaint faxed by counsel for the plaintiff?
+
+Held
+A named defendant’s time to remove is triggered by simultaneous service of the summons and complaint, or receipt of the complaint, through service or otherwise, after and apart from service of the summons, but not by mere receipt of the complaint, unattended by any formal service.  <br/><br/><span class='heading'>Dissent.</span> The decision of the United States Court of Appeals for the Eleventh Circuit should be affirmed. The majority does not explain why the plain language of Section 1446(b) should not control and, instead, opts to superimpose a judicially created service of process requirement onto the section.
+
+Discussion
+The timing possibilities were enumerated in Potter v. McCauley, and reiterated by the court in this case. First, if the summons and complaint are served together, the thirty-day period for removal runs at once. Second, if the defendant is served with the summons, but the complaint is furnished to the defendant sometime after, the period for removal runs from the defendant’s receipt of the complaint. Third, if the defendant is served with the summons and the complaint is filed in court, but under local rules, service of the complaint is not required, the removal period runs from the date the   complaint is made available through filing. Finally, if the complaint is filed in court prior to any service, the removal period runs from the service of the summons.   CHAPTER XI. Choosing The Law To Be Applied
+

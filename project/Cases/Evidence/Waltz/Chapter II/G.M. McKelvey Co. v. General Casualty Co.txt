@@ -1,0 +1,21 @@
+Citation
+166 Ohio St. 401, 142 N.E.2d 854, 1957 2 Ohio Op. 2d 345
+
+Brief Fact Summary
+A company sought to collect on a policy insuring it against theft, among other things, when a number of employees were found to have been misappropriating funds.
+
+Synopsis of Rule of Law
+A statement against interest by a person not a party to the proceedings is admissible if the (1) the witness is unavailable to testify, (2) the person had a special way of knowing about the matters involved in the statement, (3) the witness had no motive to falsify the statement, and (4) the statement was against the person’s interest.
+
+Facts
+A number of employees were found to have embezzled funds from the plaintiff store, GM. McKelvey Co. (the “plaintiff”).  The plaintiff then sought to collect on its insurance policy protecting against such theft.  The employees had signed affidavits admitting to the theft, but thereafter fled from the jurisdiction.
+
+Issue
+Whether signed confessions by a company’s employees regarding misappropriation of funds are admissible in an action to prove the amount of the loss for insurance purposes.
+
+Held
+Yes.  The employees were unavailable, having fled the jurisdiction, and had made statements against interest, satisfying the other prongs of the rule’s test.
+
+Discussion
+In order to remain true to the dictates of the hearsay rule, exceptions must contain within them the requisite guarantees of trustworthiness necessary to overcome the problems inherent in hearsay.  A statement against interest does so by relying on the logical assumption that someone does not say something against oneself unless it is true.
+

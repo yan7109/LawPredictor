@@ -1,0 +1,21 @@
+Citation
+442 U.S. 510,99 S. Ct. 450,61 L. Ed. 2d 39,1979 U.S.
+
+Brief Fact Summary
+Appellant was convicted of murder. Appellant contends that the jury instruction offered presented an irrebuttable presumption of guilt.
+
+Synopsis of Rule of Law
+A conclusive presumption of intent in this case would conflict with the overriding presumption of innocence with which the law endows the accused and which extends to every element of the crime
+
+Facts
+Appellant was 18 years old when he was convicted of deliberate homicide for the murder of an individual. Appellant confessed to the killing. Appellant objected to the jury instruction which stated “the law presumes that a person intends the ordinary consequences of his voluntary acts.” Appellant appeals from the Montana Supreme Court ruling that affirmed his conviction.
+
+Issue
+Whether a jury instruction stating that the law presumes intent from the ordinary consequences of voluntary acts is a violation of 14th Amendment of the Constitution of the United States requiring the State to prove every element of an offense beyond a reasonable doubt.
+
+Held
+The instruction in this case is unconstitutional.
+
+Discussion
+The Court ruled that it is the State’s responsibility to prove every element of the offense beyond a reasonable doubt and may not shift the burden of doing so by creating a presumption. The Court viewed the jury instruction as allowing the jury to find Appellant guilty of deliberate murder once they had found that he had caused the death of the victim without the State presenting any evidence of the requisite intent.
+

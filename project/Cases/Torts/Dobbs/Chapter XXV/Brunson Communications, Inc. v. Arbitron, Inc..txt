@@ -1,0 +1,18 @@
+Citation
+266 F. Supp. 2d 377 (E.D. Pa. 2003)
+
+Synopsis of Rule of Law
+To sustain a claim for commercial disparagement, plaintiff must allege (1) that defendant made a false statement, which caused pecuniary loss to the plaintiff, (2) that defendant intended for publication of the statement to result in harm to Plaintiff’s pecuniary interests, or recognized or should have recognized that it was likely to do so, and (3) that defendant knew that the statement was false or acted in reckless disregard of its truth or falsity.
+
+Facts
+The plaintiff owned a small independent television station.  Defendant purported to measure the number of viewers watching each television station in the market area at any given time, but in fact did not measure the viewers watching the plaintiff’s station.  This led to biased or erroneous information.  Defendant published this erroneous information about the number of viewers to advertising agencies, advertisers, television stations and other media sources, representing that the data were incomplete and accurate.  Plaintiff sued for commercial disparagement, alleging that Defendant’s false statements as to the accuracy and completeness of its test surveys caused substantial pecuniary loss to plaintiff, in that prospective advertisers would conclude from the data that plaintiff’s viewership was so insignificant as not to warrant either inclusion in the survey or recognition of the exclusion.  The defendant moved to dismiss and the court granted the motion.
+
+Issue
+Whether Plaintiff alleged sufficient facts to sustain its claim for commercial disparagement.
+
+Held
+No.  To sustain a claim for commercial disparagement, plaintiff must allege (1) that defendant made a false statement, which caused pecuniary loss to the plaintiff, (2) that defendant intended for publication of the statement to result in harm to Plaintiff’s pecuniary interests, or recognized or should have recognized that it was likely to do so, and (3) that defendant knew that the statement was false or acted in reckless disregard of its truth or falsity.  The court found that the plaintiff had not specifically identified a pecuniary loss resulting from the false statements nor a general decline in business, and therefore could not make out a claim for disparagement.   Accordingly, the court dismissed the commercial disparagement count without prejudice to the plaintiff’s right to file an amended complaint alleging facts showing specific types and amounts of damages.
+
+Discussion
+Commercial disparagement is a form of the tort the Restatement (Second) of Torts called injurious falsehood.  The torts in this family involve assertions that disparage the plaintiff’s title or ownership rights or the plaintiff’s product, but do not qualify as ordinary libel or slander.
+

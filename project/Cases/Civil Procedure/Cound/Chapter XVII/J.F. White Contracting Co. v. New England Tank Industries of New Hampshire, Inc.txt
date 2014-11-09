@@ -1,0 +1,33 @@
+Citation
+393 F.2d 449 (1st Cir. 1968)
+
+Brief Fact Summary
+The Respondent, F&M Schaeffer Brewing Co. (Respondent) sued the Petitioner, the United States (Petitioner), for overpayment of federal stamp taxes and interest that accrued from date of payment to date of judgment. The date of the entry of final judgment was unclear. The Petitioner’s attempt at timely appeal depended on the Court’s finding of the final date of judgment.
+
+Synopsis of Rule of Law
+Timely appeals start to run from the date of completely and correctly adjudicated opinions.
+
+Facts
+The Respondent sued the Petitioner for an amount that had been illegally assessed and collected from it as federal stamp taxes and for interest accrued from date of payment. The Respondent moved for summary judgment and the District Judge filed an opinion in which he found the amounts of the Respondent’s overpayment and interest, but failed to include the date or dates of payments. Instead, he referred to an earlier decision on the same legal question by his colleague. The clerk then filed a notation on the civil docket and dated it April 14, 1955.  On May 24, 1955, the Respondent’s counsel presented to the judge, who signed and filed, a formal document which was captioned “Judgment” and referred to the motion and hearing of it as well as the April opinion. The clerk, on the same day stamped the document as judgment rendered.  On July 21, 1955 the Petitioner filed its appeal from the order dated May 24, 1955 and the Respondent moved to dismiss on the ground that the April opinion was the judgment and the appeal was not taken with in 60 days of the judgment. The Court of Appeals held that the April opinion was a complete act of adjudication and the clerk’s notation on that date constituted entry of the judgment with the meaning of Federal Rule of Civil Procedure (FRCP) Rule 58 and adequately disclosed the substance of the judgment as required by FRCP Rule 79(a). It dismissed the appeal as untimely.
+
+Issue
+Whether the language of the opinion embodied the essential elements of a judgment for money and clearly evidenced the judge’s intention that it was his final act n the case.
+
+Held
+The actions of all concerned – of the judge in not stating in his opinion the amount, or means for determining the amount of the judgment; of the clerk in not stating the amount of the judgment in his notation in the civil docket; of counsel for the Petitioner in   not appealing from the “opinion”; of counsel for the Respondent in preparing and presenting to the judge himself in signing and filing the formal “judgment” on the latter date – clearly show that none of them understood the opinion to be the judge’s final act or to constitute his final judgment in the case. Reversed.
+
+Discussion
+The Supreme Court of the United States (Supreme Court) discussed that in actions for money judgments only, if an opinion embodies the essential elements of a judgment for money and clearly shows the judge’s intention in making it the final judgment, it becomes his final judgment. Under FRCP Rule 58, it directs that a party recover an amount of money and upon receipt of the opinion from the clerk the judge is required to enter judgment against the party found liable for the amount awarded. This is to be done by making a brief notation of the judgment in the civil docket as provided by FRCP Rule 79(a). When all these elements are met, the final judgment has been both pronounced and entered and the time to appeal starts to run.  The Supreme Court noted that if the opinion leaves doubt as to whether the judge intended the opinion to be his final act in the case and in an action for money, failure to determine either expressly or by reference the amount to be awarded, would be evidence of lack of such intention. It could not be said that the opinion directed a party to recover a sum of money. The action sought interest on the amount paid by the Respondent from the date of payment to the date of judgment. Because the opinion did not state dates of payment, it did not state facts necessary to compute the amount of interest to be included in the judgment.   J.F. White Contracting Co. v. New England Tank Industries of New Hampshire, Inc.  <b>Citation.</b> 393 F.2d 449. (1968).
+
+Brief Fact Summary
+The Appellant, J.F. White Contracting Company (Appellant), attempted to appeal a lower court decision by citing an error in instructions given to the jury.
+
+Synopsis of Rule of Law
+In order for an appeal to be considered, the error in the lower court must have affected the substantial rights of the parties or the verdict.
+
+Facts
+The Appellant and the Appellee, the New England Tank Industries of New Hampshire, Inc. (Appellee), entered into a contract to build an oil tanker dock facilities on the Piscataqua River. The Appellee, the owner of the premises sued the Appellant for defective workmanship concerning four cylindrical metal cells. A jury trial held for the Appellee in the amount of $20,000.  The Appellant appealed, asserting that the recovery was barred by a contract provision that stipulated the approval of invoices by the Appellee’s engineer was final, conclusive, and binding on both parties. The Appellant further asserted that it was error to have allowed the question of one of the cells being “out of round” to go to the jury. A ship in the process of installation had damaged the cell in question and the Appellant repaired it.
+
+Issue
+Whether a trial court’s action in submitting a questionable issue to the jury was error enough to affect the verdict of the substantial rights of the parties.
+

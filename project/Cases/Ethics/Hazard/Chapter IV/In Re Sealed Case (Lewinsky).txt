@@ -1,0 +1,21 @@
+Citation
+162 F.3d 670,  333 U.S. App. D.C. 245; 1998 U.S. App.
+
+Brief Fact Summary
+Once it became apparent that Monica Lewinsky had perjured herself in her affidavit submitted in response to a subpoena in the Paula Jones sexual harassment case, the district court determined that her communications with her attorney would no longer be privileged. She appeals this finding.
+
+Synopsis of Rule of Law
+The crime-fraud exception to attorney-client privilege does not apply when the client retained the attorney for unlawful or fraudulent purposes.
+
+Facts
+Monica Lewinsky retained attorney Francis Carter to represent her regarding the subpoena she had received to appear in the lawsuit that Paula Jones had brought against then-President Clinton in Arkansas. Lewinsky attempted to have the subpoena quashed by submitting an affidavit under penalty of perjury attesting that she had never had a sexual relationship with the President. Once it became apparent that this was a knowing misrepresentation, the district court deemed that the attorney-client privilege no longer applied and reviewed the relevant information in camera. Lewinsky and her attorney now appeal this decision.
+
+Issue
+Does the crime-fraud exception apply to Lewinksy’s communications with her attorney, or are they still privileged?
+
+Held
+Yes, the crime-fraud exception was properly applied by the district court. Lewinsky’s affidavit was based upon knowing misrepresentation regarding a material fact, suggesting that her entire purpose in retaining counsel was fraudulent.
+
+Discussion
+Clients retaining counsel for criminal or fraudulent purposes should not expect that their communications will be privileged.
+

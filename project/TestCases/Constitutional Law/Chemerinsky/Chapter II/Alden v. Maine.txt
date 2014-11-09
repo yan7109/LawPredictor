@@ -1,0 +1,24 @@
+Citation
+527 U.S. 706, 119 S. Ct. 2240, 144 L. Ed. 2d 636, 1999 U.S.
+
+Brief Fact Summary
+The Petitioners, a group of probation officers (Petitioners), brought suit in Maine State Court, alleging that their employer, the State of Maine (Respondent) violated overtime provisions of the federal Fair Labor Standards Act (”FLSA”).
+
+Synopsis of Rule of Law
+State sovereign immunity prevents a non-consenting state from being sued in state court for violations of federal law.
+
+Facts
+Petitioners had originally brought suit in federal court, but while their suit was pending, the Court decided Seminole Tribe of Florida, 517 U.S. 44 (1996), and the District Court dismissed their claim. Afterward, petitioners brought their suit in state court, where it was again dismissed. The dismissal was upheld by the Maine Supreme Court.
+
+Issue
+May Congress require non-consenting states to submit to private suits in their own courts under Article I?
+
+Held
+No. State Supreme Court ruling affirmed.
+
+Dissent
+The dissent again argues that there is no historical basis for sovereign immunity for the states, and hence, no argument for construing immunity from the Eleventh Amendment.
+
+Discussion
+The Supreme Court again expands the concept of sovereign immunity. There is no Article I power to abrogate sovereign immunity either in state or federal court. There is only Fourteenth Amendment authority, and then, only when no substantive right has been created, and only when the means is congruent and proportional to the remedial or preventative e
+

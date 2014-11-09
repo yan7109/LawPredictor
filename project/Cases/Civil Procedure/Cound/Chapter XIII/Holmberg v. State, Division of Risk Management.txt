@@ -1,0 +1,21 @@
+Citation
+22 Ill.796 P.2d 823 (Alaska 1990)
+
+Brief Fact Summary
+The Plaintiff, Holmberg (Plaintiff), asked for reversal of an Alaska Worker’s Compensation Board (AWCB) decision denying her permanent total disability benefits on the ground that a later decision of the Public Employees Retirement Board (PERB) conclusively determined that she was not physically able to perform her duties as an employee of the State of Alaska.
+
+Synopsis of Rule of Law
+Litigation conducted before one agency or official is generally binding on another agency or official of the same government because the officers of the same government are in privity with each other.
+
+Facts
+The Plaintiff worked for the State of Alaska in the Division of Risk Management and had a long history of injuries. In 1988, the AWCB awarded her temporary total disability benefits, but denied her permanent total disability benefits. She appealed that decision to the superior court.  The Plaintiff also sought disability benefits from the Public Employees Retirement System (PERS). The Division of Retirement and Benefits, which administered PERS, awarded her non-occupational disability benefits and denied her occupational disability benefits claim. However, on appeal of this claim, PERB found that the Plaintiff was permanently and totally disabled as a result of accidents at work and awarded her occupational disability benefits – a decision, which came after she appealed to the superior court on the AWCB decision.  The Plaintiff supplemented the record in her AWCB appeal with the new PERB decision and argued that the AWCB decision be reversed because of the preclusive effect of the later PERB decision. The superior court affirmed the AWCB decision and Plaintiff appealed claiming that the PERB factual determinations should be binding in her appeal of the AWCB decision against her.
+
+Issue
+Whether preclusive effect should be given to PERB determinations in AWCB proceedings.  Whether the necessary elements of collateral estoppel exist in this case.
+
+Held
+It does not appear that PERB has any more expertise than AWCB in making factual determinations of a person’s physical ability to work at a particular job. Therefore, there is no affirmative reason why the PERB decision should be given preclusive effect.   With regard to the essential element of privity to prove collateral estoppel, the state is not in privity with PERS and it sufficiently supports the denial of affording any preclusive effect to the PERB decision as against the state.  Decision of the superior court affirmed.
+
+Discussion
+The Supreme Court’s general rule is that litigation conducted before one agency or official is binding on another agency or official of the same government because the officers of the same government are in privity with each other. Further, the crucial question is whether or not in the earlier litigation the representative of the United States had authority to represent its interests in a final adjudication of the issue in controversy. Having cited a principle in a previous decision, which held that preclusive effect could be defeated by finding an important difference in the functions of different agencies that one does not have authority to represent the interests of the other, the court could not find a reason why the functions of PERB and AWCB were so different.  Collateral estoppel has three elements: (1) it must be asserted against a party or one in privity with a party to the first action; (2) the issues in the litigations must be similar and (3) the issue in the first action had to be resolved by a final judgment on the merits. The problem that the Plaintiff encountered was showing privity between the Division of Retirement and Benefits and Risk Management, the Division for which she worked. She argued that there was privity because the interests of the two agencies were virtually identical for purposes of her claim. The Court disagreed, holding that Retirement and Benefits was charged with administrative responsibility for PERS. When Retirement and Benefits appeared before PERB, it represented the interests of PERS (an independent retirement plan and not a state agency) and not the state.
+

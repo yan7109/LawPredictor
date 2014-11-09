@@ -1,0 +1,21 @@
+Citation
+263 F.3d 795
+
+Brief Fact Summary
+Martin G. Robertson, (Plaintiff), brought suit against Eugene M. Levy, (Defendant), for payment under the terms of a contract for sale and a lease between Plaintiff and Defendant who at the time was acting on behalf of a corporation not yet in existence.
+
+Synopsis of Rule of Law
+The certificate of incorporation will be “conclusive evidence” that all conditions precedent have been performed and eliminates the problems of estoppel and de facto corporations once the certificate has been issued. If an individual or group assumes to act as a corporation before the certificate of incorporation has been issued, joint and several liability attaches.
+
+Facts
+. On December 22, 1961, Defendant and Plaintiff entered into an agreement whereby Defendant was to form a corporation, Penn Ave. Record Shack, Inc., which was to purchase Plaintiff’s business. Pursuant to the contract, an assignment of lease was entered into on December 31, 1961. On January 1, 1962, the articles of incorporation were rejected and Defendant began operating a business under the name Penn Ave. Record Shack, Inc. On January 8, 1962, Plaintiff sold the assets of his business to Defendant’s business in return for a note providing for installment payments. On January 17, 1962 the articles of incorporation were issued. Shortly thereafter, Defendant made one payment on the note. Within 6 months, the corporation ceased doing business with no assets. Plaintiff brought suit to recover on the note and on the lease.
+
+Issue
+Whether the president of an “association” which filed its articles of incorporation, which were first rejected but later accepted, can be held personally liable on an obligation entered into by the “association” before the certificate of incorporation has been issued. Whether the creditor is “estopped” from denying the existence of the “corporation” because, after the certificate of incorporation was issued, he accepted the first installment of payment on the note.
+
+Held
+Yes. The president of an “association” is subject to personal liability because, before the letters of incorporation were issued, he assumed to act as a corporation without any authority to do so. No. The creditor is not estopped from denying the existence of the corporation because after the certificate was issued he accepted one payment on the note.
+
+Discussion
+Defendant is subject to personal liability because he presumed to act as a corporation prior to the issuance of the certificate of incorporation. An individual who incurs liability on an obligation because he has acted without authority is not relieved of that liability where at a later time the corporation does come into existence. Subsequent partial payment by the corporation does not remove this liability.
+

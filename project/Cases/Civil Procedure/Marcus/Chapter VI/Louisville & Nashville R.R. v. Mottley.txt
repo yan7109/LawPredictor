@@ -1,0 +1,21 @@
+Citation
+211 U.S. 149, 29 S. Ct. 42, 53 L. Ed. 126, 1908 U.S.
+
+Brief Fact Summary
+Mr. and Mrs. Mottley (Appellees) are domiciliaries of the State of Kentucky and brought suit in the Circuit Court for the Western District of Kentucky against Louisville & Nashville R.R. (Defendant), a railroad company and citizen of Kentucky. Appellees, while passengers on the railroad, were injured by Defendant’s alleged negligence.
+
+Synopsis of Rule of Law
+The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws or treaties of the United States. The federal question must appear as part of the plaintiff’s cause of action as set out in a well-pleaded complaint.
+
+Facts
+The Appellees sought specific performance of a contract entered into between themselves and Appellant. The contract originally provided that, in consideration for the Appellees releasing the Appellant from all claims resulting from injuries received during an accident, the Appellant would provide free passage for life on its rail lines. Although the contract was honored for approximately thirty-six years, the Appellant, in 1907, refused to issue new tickets. The appellant based its decision upon an act of Congress, which forbid the granting of free passes or transportation.
+
+Issue
+Although there is no diversity of citizenship, can the Appellees bring suit in federal court based upon federal question jurisdiction?
+
+Held
+No. There is no basis for federal question jurisdiction in this case.
+
+Discussion
+It is not enough that the Appellant allege some anticipated defense to his cause of action, and asserts that the defense is invalidated by some provision of the Constitution, or other federal statute. The federal question allegation must be on the face of Appellee’s well-pleaded complaint. In the case before the court, the Appellees attempt to assert that an anticipated defense to their complaint will be barred by the United States Constitution. This, as the court held, is not enough to sustain federal question jurisdiction.
+

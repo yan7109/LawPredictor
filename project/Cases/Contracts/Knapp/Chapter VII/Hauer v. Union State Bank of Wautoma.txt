@@ -1,0 +1,21 @@
+Citation
+22 Ill.192 Wis. 2d 576, 532 N.W.2d 456 (Ct. App. 1995)
+
+Brief Fact Summary
+Plaintiff Kathy Hauer brought suit against Defendant Union State Bank of Wautoma to recover the collateral used to secure the loan agreement with Defendant Bank. Plaintiff sought to rescind the transaction on the basis of being mentally incompetent.
+
+Synopsis of Rule of Law
+A contract entered into by someone who lacks mental capacity is voidable. Further, if one party has knowledge, either actual or constructive of the other parties lack of capacity, the party with such knowledge may not be restored to their previous position if it is impossible to do so.
+
+Facts
+In 1987, Plaintiff suffered a brain injury from a motor cycle accident and was subsequently adjudicated to be incompetent and was appointed a guardian. A year after her accident Plaintiff was declared to be competent and was given the ability to manage her own affairs. She received $900 per month from social security and from interest income from a mutual fund. Plaintiff was introduced to Ben Eilbes through a friend and Eilbes convinced Plaintiff to invest in Eilbes’ business. Eilbes had been seeking funds to assist repayment of a loan that he had defaulted on with Defendant bank. Plaintiff was advised by Eilbes to take out a loan using her mutual fund income as collateral. Eilbes discussed the potential loan agreement with Richard Schroeder, an assistant vice president at Defendant Bank. Schroeder indicated that the Bank would be willing to loan Plaintiff $30,000 on the understanding that the mutual fund would be used for collateral. Schroeder then spoke to Plaintiff’s financ
+
+Issue
+Whether Mental Incompetence is a valid cause of action<br />	Whether sufficient evidence was introduced at trial to show Plaintiff’s mental incompetence<br />	Whether Defendant Bank violated its implied obligation of good faith by entering into a contract knowing, or having a reason to know, that Plaintiff was mentally incompetent, thus relieving Plaintiff of any liability for repayment of the loan.
+
+Held
+The Court held that, under established Wisconsin law, an incompetent person’s transactions are entirely voidable, and such person will have the ability to rescind a contract or conveyance for lack of capacity.<br />	The Court held that Plaintiff introduced sufficient evidence such that a reasonable jury could find Plaintiff incompetent. This was based on Plaintiff being declared incompetent in 1987, her testimony which signaled a complete lack of understanding on her part with respect to the loan, and on the basis of a psychological expert who testified that Plaintiff was malleable, gullible, and people could convince her of anything.<br />	The Court, in interpreting the implied obligation of good faith that is read into all contracts, stated that where a contract is fairly entered into, and neither party knows of the other’s incapacity, the contract is not voidable if the parties cannot be restored to their previous positions. However, if one party knows, or has reason to know of the other party’s incompetence, the contract may be voided and the consideration that was given need not be restored. The Court stated that there was sufficient evidence introduced to give Defendant Bank constructive notice that they should have proceeded more cautiously with Plaintiff. Bank based its findings on the fact that the loan was essentially set-up by Eilbes, that Eilbes was already in default of his loan, that Plaintiff relied on her mutual fund for income, and that it was possible that Plaintiff’s financial advisor told Schroeder that Plaintiff had previously been declared mentally incompetent.<br />
+
+Discussion
+If a party has knowledge, either actual or constructive, that the other party lacks the mental capacity to enter into a contract, that contract is voidable by the party who lacks capacity, and if its not possible, such consideration need not be restored.
+

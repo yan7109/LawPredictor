@@ -1,0 +1,21 @@
+Citation
+395 Mass. 199, 479 N.E.2d 168, 1985 Mass.
+
+Brief Fact Summary
+Kanavos (Plaintiff) and Hancock Bank & Trust (Defendant) had an agreement, which provided Plaintiff with a right of first refusal on shares of stock. Plaintiff sued when Defendant sold the shares to a third party without first offering Plaintiff an opportunity to purchase them. Over objections, the trial court ruled in favor of the Plaintiff. The Supreme Judicial Court of Massachusetts remanded the case to determine whether Plaintiff would have been able to pay for the shares if offered an opportunity to purchase them.
+
+Synopsis of Rule of Law
+The ability of one party to perform under a contract with concurrent obligations is relevant to the question of a repudiating party’s liability for damages in an action for breach of contract.
+
+Facts
+Plaintiff entered into a contract with Defendant for a right of first refusal on shares of stock in a real estate enterprise. Without giving Plaintiff notice and an opportunity to purchase the shares, Defendant sold the shares to a third party. At all relevant times, Plaintiff was experiencing financial difficulty. Plaintiff sued for breach of the agreement. In its defense, Defendant argued that the Plaintiff was not ready, willing, and able to perform (i.e., exercise the option) within the time specified in the contract. The trial court held that Plaintiff’s ability to pay the purchase price for the shares was not material to the question of whether he could recover damages, and the jury rendered a verdict in favor of the Plaintiff. The Supreme Judicial Court of Massachusetts held that Plaintiff’s ability to perform his obligation under the contract was material to the action, and remanded the case for a determination on that issue.
+
+Issue
+Is a party’s ability to perform his side of concurrent obligations relevant to the question of whether he has suffered recoverable damages in a breach of contract action?
+
+Held
+Yes. Under the parties’ agreement, Plaintiff’s obligation to pay for the shares during the option period and Defendant’s obligation to sell him the shares were roughly concurrent duties. Even if one party repudiates the agreement, if neither party is able to perform, neither party is entitled to recover damages. If one party repudiates this kind of an agreement, but the other party was not able to perform its own obligations, the nonrepudiating party has not suffered recoverable damages.
+
+Discussion
+In many instances, the law of contracts strives to put parties in a position equal to the position they would be in if their contract was actually performed, i.e., give them the benefit of their bargain. Unjust enrichment is highly disfavored. As a consequence, a party who has not suffered any damages by even a wrongful repudiation will generally not recover more than nominal damages. Therefore, the question of a party’s ability to perform its own obligations is highly relevant to the question of whether he has suffered recoverable damages because of the other party’s breach.
+

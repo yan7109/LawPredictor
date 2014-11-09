@@ -1,0 +1,21 @@
+Citation
+118 F.3d 735, 1997 U.S. App. 38 Fed. R. Serv. 3d (Callaghan) 387 11 Fla. L. Weekly Fed. C 328
+
+Brief Fact Summary
+Plaintiff sought to certify a class pursuant to Fed. R. Civ. P. 23(a) and (b)(3). Defendant filed two counterclaims. The district court denied certification of the class.
+
+Synopsis of Rule of Law
+A district court’s decision whether to certify a class may only be overturned if it constitutes an abuse of discretion, which in turn is based on whether district court has given due consideration to all the relevant factors within the context of a rigorous analysis and has relied on impermissible factors.
+
+Facts
+Ranae Heaven (Plaintiff) leased a Ford Taurus from Sun Trust (Defendant), signing a preprinted lease form provided by Sun Trust. Later she brought this action alleging that Defendant failed to comply with the Consumer Leasing Act. Plaintiff sued for the statutory penalty and attorney fee but alleged no actual damages. Plaintiff sought to certify a class pursuant to Fed. R. Civ. P. 23(a) and (b)(3).  Defendant filed two counterclaims. The district court denied certification of the class.
+
+Issue
+Whether the fact that the defendant in a class action suit filed counterclaims is sufficient reason to permit to a district court to refuse to grant class certification.
+
+Held
+The Court of Appeals for the Eleventh Circuit affirmed.   The district court’s decision whether to certify a class may only be overturned if it constitutes an abuse of discretion. Where the district court has given due consideration to all the relevant factors within the context of a rigorous analysis and has not relied on impermissible factors, we are unable to find an abuse of discretion.  The presence of counterclaims is a proper basis for denying class certification where the counterclaim defendants would require the court to engage in multiple separate factual determinations.
+
+Discussion
+In so ruling, the Court of Appeals held that the district court had jurisdiction over the compulsory counterclaim, thus making class certification questionable under Rule 23(b)(3), because of the manageability problem posed by the hundreds of leases involved in the counterclaims.
+

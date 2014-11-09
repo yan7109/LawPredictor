@@ -1,0 +1,24 @@
+Citation
+342 U.S. 1, 72 S. Ct. 1, 96 L. Ed. 3 (1951)
+
+Brief Fact Summary
+Petitioners members of the Communist Party were charged with conspiring to teach overthrowing the government, and were unsuccessful in a motion to reduce bail.
+
+Synopsis of Rule of Law
+Bail set an amount higher than that which would be reasonably calculated to assure the presence of the accused individuals at trial is excessive under the Eighth Amendment.
+
+Facts
+The District Court had set bail at the fixed amount of $50,000 for each of the petitioners, members of the Communist Party charged with conspiring to advocate or teach the overthrow of the government by force.  This was an amount greater than that used with certain serious crimes.  In objecting to the petitioners’ motions to reduce bail under the Eighth Amendment, the government only showed evidence that other people convicted on similar charges had forfeited bail.  When the petitioners’ motions were denied, they filed for habeas corpus and were denied by the Ninth Circuit.  They then filed for a writ of certiorari and were successful.
+
+Issue
+Is a court setting bail for multiple defendants at a higher amount than that usually fixed for a crime and not applying the traditional standards of fixing bail to each one a violation of the Eighth Amendment?
+
+Held
+Yes.  Vacate the judgment of the lower court denying habeas corpus.
+
+Concurrence
+Justice Robert H. Jackson wrote that he agreed with the substance of the court’s decision and merely wanted to elaborate on procedural issues.  Namely, that grand juries should not set bail, and that the Supreme Court should only consider cases where the reasonableness of bail is at issue in the rare situation where the problems they present are typical.
+
+Discussion
+As the later case
+

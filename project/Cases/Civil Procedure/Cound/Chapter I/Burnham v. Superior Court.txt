@@ -1,0 +1,21 @@
+Citation
+22 Ill.495 U.S. 604, 110 S. Ct. 2105, 109 L. Ed. 2d 631 (1990)
+
+Brief Fact Summary
+Defendant’s estranged spouse filed for divorce in California. Defendant was a resident of New Jersey. Defendant traveled to California to conduct business and visit his children. While in California, Defendant was served with a divorce summons, which Defendant moved to quash.
+
+Synopsis of Rule of Law
+Physical presence in the forum state is enough to establish personal jurisdiction over the defendant. The minimum contacts test from [International Shoe Co. v. Washington, 326 U.S. 310, 66 S.Ct. 154, 90 L.Ed. 95 (1945),] only applies to non-resident defendants absent from the state.
+
+Facts
+Burnham (Defendant) and his spouse married in New Jersey. The couple decided to separate and his spouse moved to California with their two children. In January 1988, Defendant’s spouse brought suit for divorce in California state court. At that same time, Defendant went to California on business and visited his children. When he went to his spouse’s home, he was served with a California court summons and a copy of the divorce petition. He then went back to New Jersey. He made a special appearance and moved to quash the summons on the grounds that California lacked personal jurisdiction because his only contacts with California consisted of occasional business trips and visits to his children. The motion was denied and the Court of Appeals denied mandamus relief. The Supreme Court of the United States granted certiorari.
+
+Issue
+Is physical presence in the forum state sufficient for the forum state to assert in personam jurisdiction?
+
+Held
+Yes (plurality)   The traditional limitations upon a state’s authority determine whether it may exercise jurisdiction in a specific situation. Generally speaking, these traditional limitations must not violate “notions of fair play and substantial justice.” Longstanding precedent holds that jurisdiction may be exercised when a defendant is physically present in the state, even if his presence is brief and unrelated to the cause of action. The rule in [International Shoe Co. v. Washington, 326 U.S. 310, 66 S.Ct. 154, 90 L.Ed. 95 (1945)] requiring minimum contacts with the forum state was developed as an analogy to, and not a replacement for, the traditional rule invoking jurisdiction based upon physical presence.  [Shaffer v. Heitner, 433 U.S. 186, 97 S.Ct. 2569, 53 L.Ed.2d 683 (1977)] held that quasi in-rem jurisdiction can only be exercised when the defendant’s contacts are related to the cause of action. It did not address situations where in personam jurisdiction is based upon physical presence.     Justice Brennan’s approach (detailed below) departs from precedent and would add subjectivity and uncertainty to this area of the law.   Concurrence.   Justice White: Physical presence is traditionally a basis for personal jurisdiction and there is no reason to change this rule.  Justice Brennan: Whether physical presence is enough to establish personal jurisdiction should not be solely based on tradition. There must be an inquiry into the actual fairness of the situation. The majority opinion is not faithful to Shaffer. The “pedigree” of jurisdictional law did not control the decision in Shaffer, so it should not control the decision here. A transient defendant avails himself of the benefits of the state and should generally beu subject to jurisdiction for this reason.
+
+Discussion
+The majority illustrates that the minimum contacts test only applies if the forum state does not have traditional personal jurisdiction over the defendant. The majority’s opinion should be compared with Justice Brennan’s concurrence, which provides an analysis of Burnham’s contacts and concludes that it satisfies the minimum contacts test of International Shoe.   CHAPTER III. Providing Notice And An Opportu
+

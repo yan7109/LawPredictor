@@ -1,0 +1,24 @@
+Citation
+22 Ill.230 N.Y. 239, 129 N.E. 889 (1921)
+
+Brief Fact Summary
+In this case, pipe of similar quality, but of a different brand name than that specified in the contract, was used in the building of a house.
+
+Synopsis of Rule of Law
+Where a contract has been substantially performed and the cost of replacement would be grossly out of proportion to the difference in value, the correct measure of damages is the difference in value.
+
+Facts
+The Plaintiff, Jacob & Youngs, Inc. (Plaintiff), built a country house for the Defendant, Kent (Defendant). The Plaintiff brought suit to recover the balance due from the Defendant. However, after the Defendant occupied the dwelling, he noticed that the pipe used for the plumbing was not Reading pipe, the brand specified in the contract. The pipe used was of similar quality, but the Defendant directed the Plaintiff to correct the defect. The defect could only be repaired at a substantial expense, as it would require demolition of substantial parts of the home. In the lower court, the Plaintiff was not permitted to present evidence stating that the pipe used was essentially the same thing as that specified in the contract.
+
+Issue
+Is the difference in value the proper measure of damages when there has been substantial performance of a contract?
+
+Held
+Yes. Judgment affirmed.
+
+Dissent
+The dissent argues that the Plaintiff did not perform the contract as specified and the Defendant has a right to have the terms of its contract met.
+
+Discussion
+Justice Cardozo began this opinion by examining the difference between promises and conditions. He reasons that where omissions are trivial and inconsequential they may be considered an independent promise and not a breach of a condition. However, some promises are so integral to the substance of the contract that they must be considered a condition of the contract. Whether something is a condition or a promise must be determined by considerations of justice and the intentions of the parties at the time they formed the contract. Justice Cardozo also recognizes that courts look to considerations of “fairness and equity” in determining whether something is an inconsequential promise or a contractual condition. Further, New York courts follow the liberal view and also consider the surrounding circumstances. Specifically, the courts “weigh the purpose to be served, the desire to be gratified, the excuse for deviation from the letter, the cruelty of enforced adherence.” In the
+

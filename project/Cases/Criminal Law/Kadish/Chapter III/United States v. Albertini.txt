@@ -1,0 +1,21 @@
+Citation
+830 F. 2d 977
+
+Brief Fact Summary
+Albertini, after having engaged in a peace demonstration, was convicted and the conviction was later overturned. In reliance on that favorable ruling and before the Supreme Court granted review, Albertini engaged in several other peace demonstrations. Upon review by the Supreme Court, the favorable ruling for Albertini was reversed and was subsequently prosecuted and convicted for the second set of demonstrations. He appealed arguing that the due process clause “precluded the retroactive application of the Supreme Court’s decision”
+
+Synopsis of Rule of Law
+While the general rule is that mistake of law is never a defense, an exception exists where the mistake is a result of the defendant’s reasonable reliance on an official statement of law even though the statement is later overruled.
+
+Facts
+Albertini was conviction for having engaged in a peace demonstration on a naval base and the conviction, on appeal, was reversed, the court finding that his actions were protected under the First Amendment. Following the reversal but prior to the court granting certiorari, Albertini demonstrated several more times. The Supreme Court eventually granted cert and reversed the Ninth Circuit’s decision, holding that the First Amendment did not preclude the conviction. The government then prosecuted Albertini for the second group of demonstrations and got a conviction. Albertini appeals, arguing that the due process clause precluded the retroactive application of the Supreme Court’s decision with regard to the first set of demonstrations.
+
+Issue
+Can D be convicted for acting in reliance on a judicial opinion instructing that his actions were lawful?
+
+Held
+No. Judgment reversed.
+
+Discussion
+This case illustrates another exception to the general rule that mistake of law is not a defense and emphasizes the importance the court places on society’s ability to rely on official statements of law.
+

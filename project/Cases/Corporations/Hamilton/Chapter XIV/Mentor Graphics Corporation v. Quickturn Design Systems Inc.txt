@@ -1,0 +1,21 @@
+Citation
+728 A.2d 25 (Del. Ch. 1998)
+
+Brief Fact Summary
+Mentor Graphics Corporation, (Plaintiff), challenges the validity of a “no and” rights plan of limited duration that the target company board adopted in response to Plaintiff’s hostile tender offer and proxy contest to replace the board and acquire Quickturn Design Systems, Inc., (Defendant).
+
+Synopsis of Rule of Law
+When a board of a corporation takes action to resist or defend against a hostile bid for control the target company board’s defensive actions will be entitled to business judgment rule protection only if it can establish that 1) it had reasonable grounds to believe that the hostile bid constituted a threat to corporate policy and effectiveness and 2) that the defensive measures adopted were reasonable in relation to the threat that the board reasonably perceived.
+
+Facts
+Plaintiff sold an emulation product to Defendant. Some time later, Plaintiff acquired Meta Systems, a French company involved in the emulation business, and began to market its products in the United States. Defendant reacted by successfully suing for patent infringement. Plaintiff then decided to acquire Defendant. Plaintiff announced an unsolicited cash tender offer for all outstanding common shares of Defendant at a price representing a 50% premium over Defendant’s immediate pre-offer price and a 20% discount from Defendant’s February 1998 stock price levels.
+
+Issue
+Whether the board had reasonable grounds to believe that the hostile bid constituted a threat to corporate policy and effectiveness. Whether the defensive measures adopted were proportionate or reasonable in relation to the threat that the board reasonably perceived.
+
+Held
+Yes. The board reasonably perceived a cognizable threat. No. The defensive measures adopted were not reasonable in relation to the threat the board reasonably perceived.
+
+Discussion
+The evidence shows that the perceived threat was the concern that Defendant shareholders might mistakenly accept Plaintiff’s inadequate offer, and elect a new board that would prematurely sell the company before the new board could adequately inform itself of Defendant’s fair value. The board reasonably perceived a cognizable threat. The board’s justification for adopting the DRP was to force any newly elected board to take sufficient time to become familiar with Defendant and its value and to provide shareholders the opportunity to consider alternatives, before selling. DPR does not operate to delay a sale to any bidder but only an “Interested Person,” Plaintiff. Defendants have also failed to carry their burden by failing to explain why a six-month period is reasonable. Further, the purpose of the DRP is accomplished by the bylaw amendments.
+

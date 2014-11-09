@@ -1,0 +1,21 @@
+Citation
+488 U.S. 428 (1989)
+
+Brief Fact Summary
+A pair of Liberian corporations sought to charge Argentina (D) under the Alien Tort Statute in the U.S. courts.
+
+Synopsis of Rule of Law
+Acts occurring on the high seas is not captured under the Foreign Sovereign Immunities Act’s (FSIA) exception for noncommercial torts.
+
+Facts
+A vessels used to transport fuel was chartered by United Carriers  Inc (P) to Amerada Hess Shipping Corporation (P). Both companies were  Liberian corporation and the ship’s name was Hercules. The ship was  however irreparably damaged when it was off the South American coast in  1983 during the Falkland Islands War. This led both corporations to  press charges against Argentina (D) in the U.S. district court. The  district court however dismissed the case for lacking jurisdiction but  the Second Circuit reversed on the ground that jurisdiction did exist  under the Alien Tort Statute of 1979. A review was subsequently granted  by the U.S. Supreme Court.
+
+Issue
+Are acts occurring on the high seas captured under the Foreign Sovereign Immunities Act’s (FSIA) exception for noncommercial torts?
+
+Held
+(Rehnquist, C.J.) No. Acts occurring on the high seas are not captured under the Foreign Sovereign Immunities Acts (FSIA) exception for noncommercial torts. Jurisdiction over a foreign state draws its source from the FSIA. A noncommercial tort is thus the only exception to immunity, and this is seen in the statute. This exception applies only to torts occurring in the United States. Since the tort in this case happen on the high sea, it means that it is not applicable to this case. Hence, there is no jurisdiction over Argentina (D) since no section of the FSIA is applicable to this case.
+
+Discussion
+commerce is the main focus of the FSIA. Although there are a wide range  of commercial activities which occur outside the U.S that can lead a  foreign state to being charged in a U.S. court, the same is not true in  the tort arena.
+

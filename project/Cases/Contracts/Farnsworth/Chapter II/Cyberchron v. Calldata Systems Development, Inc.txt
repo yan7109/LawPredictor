@@ -1,0 +1,21 @@
+Citation
+47 F.3d 39, 1995 U.S. App. 2134
+
+Brief Fact Summary
+Plaintiff produced equipment for computer stations. Defendant, through its parent Grumman, had a contract with the U.S. Marine Corps to provide a combat command control system. Plaintiff produced some equipment in reliance on representations of Grumman, but none of the equipment was ever delivered and no payment was made.
+
+Synopsis of Rule of Law
+If negotiations are failing to reach an agreement on specific terms and to form a contract, but one party insists that the other commence performance, the party will be able to recover reliance damages for that performance based on the doctrine of promissory estoppel.
+
+Facts
+Grumman sent a purchase order form to Plaintiff that set forth certain weight specifications. Defendant never accepted the purchase order terms but previously commenced constructing some of the equipment prior to any agreement regarding the equipment. Grumman, in June, sent a letter encouraging Plaintiff to continue to perform the production of the equipment to continue its contractually binding obligations under the purchase order. Trial court found that Grumman encouraged Plaintiff to continue even though the weight issue had not been resolved. Around July 30, Plaintiff requested a “progress payment” encompassing costs incurred and overhead incurred up until that point. Grumman did not pay the cost because of a court order against both Grumman and Defendant in another suit that barred payments made between them. No agreement was ever achieved and Defendant terminated the purchase order for default effective immediately.
+
+Issue
+Whether Plaintiff could recover based on promissory estoppel under New York law since no contract existed because of the failure to agree on essential terms.
+
+Held
+Plaintiff had established the three elements necessary for promissory estoppel in NY. There was a clear and unambiguous promise because Defendant pressured Plaintiff to produce as if there were not a problem, reasonable reliance upon the promise and an unconscionable injury and the resulting injustice could only be remedied by invoking promissory estoppel.
+
+Discussion
+Plaintiff was allowed to recover for period in which Grumman had directed Plaintiff to proceed with production as if there had been an agreement on the terms. That was the extent of the promise reasonable to rely on. After it had notice there was still no contract the cost could no longer be a basis for recovery and no lost profits would be awarded based on reliance alone.
+

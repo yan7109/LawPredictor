@@ -1,0 +1,18 @@
+Citation
+505 U.S. 42, 112 S. Ct. 2348, 120 L. Ed. 2d 33 (1992)
+
+Brief Fact Summary
+A prosecutor filed a motion prior to trial of a potential hate crime, to stop defense counsel from exercising peremptory challenges on the basis of race.
+
+Synopsis of Rule of Law
+“[T]he Constitution prohibits a criminal defendant from engaging in purposeful discrimination on the ground of race in the exercise of peremptory challenges. Accordingly, if the State demonstrates a prima facie case of racial discrimination by the defendants, the defendants must articulate a racially neutral explanation for peremptory challenges.”
+
+Facts
+Respondents were charged with aggravated assault and simple battery.  The indictment alleged that the Respondents beat and assaulted two individuals.  The Respondents are white and the victims were African American.  Prior to jury selection, the prosecution moved to prohibit the Respondents from using peremptory challenges in a racial manner.  The trial judge denied the state’s motion.  The Georgia Supreme Court affirmed the trial court’s ruling.
+
+Issue
+“[W]hether the Constitution prohibits a criminal defendant from engaging in purposeful racial discrimination in the exercise of peremptory challenges[?]”
+
+Held
+“In deciding whether the Constitution prohibits criminal defendants from exercising racially discriminatory peremptory challenges, we must answer four questions. First, whether a criminal defendant’s exercise of peremptory challenges in a racially discriminatory manner inflicts the harms addressed by Batson. Second, whether the exercise of peremptory challenges by a criminal defendant constitutes state action. Third, whether prosecutors have standing to raise this constitutional challenge. And fourth, whether the constitutional rights of a criminal defendant nonetheless preclude the extension of our precedents to this case.”
+

@@ -1,0 +1,21 @@
+Citation
+438 Pa.Super. 195, 652 A.2d 331
+
+Brief Fact Summary
+Testatrix Florence Coates (Testatrix) established a trust in her will to pay net income to her daughter for life, and upon her daughter’s death, to the daughter’s children, and upon the death of the last of her grandchildren, to be divided among her great-grandchildren per stirpes. Upon the death of the great-grandchildren, one-half of the principle was to paid to Appellant hospital. Appellant hospital challenged the great-grandchildren’s income interests as invalid against the rule of perpetuities.
+
+Synopsis of Rule of Law
+Valid remainder interests may be separated from possibly void interests under the doctrine of vertical separability.
+
+Facts
+Testatrix Florence Coates (Testatrix) established a trust in her will to pay net income to her daughter for life, and upon her daughter’s death, to the daughter’s children, and upon the death of the last of her grandchildren, to be divided among her great-grandchildren per stirpes. Upon the death of the great-grandchildren, one-half of the principle was to paid to Appellant hospital (Appellant). Appellant challenges the great-grandchildren’s income interests as invalid against the common law rule of perpetuities. The trial court dismissed Appellant’s action. Appellant argues that under the “possibilities test” there is the possibility that the great-grandchildren’s interests will not vest until twenty-one years after the measuring life, which, under the Rule Against Perpetuities, must have been in existence at the time that the interest was created.
+
+Issue
+Can the doctrine of vertical separability apply to valid remainder interests under a will in order to avoid destruction of future interests under the Rule Against Perpetuities?
+
+Held
+Yes. Here, the Doctrine of Vertical Separability is applicable to preserve the remainder interests of Testatrix’s great-grandchildren. The remainder interests to Testatrix’s great-grandchildren became fixed upon the death of each grandchild, and are therefore valid even though those interests did not vest upon the death of each grandchild. Because the remainder interests are valid, these interests can be separated from possibily void interests under the doctrine of vertical separability. By so separating the grandchildren’s interests, the Testatrix’s overall testamentary plan is not disturbed or altered.
+
+Discussion
+The Rule Against Perpetuities is a common law rule that no interest in property is valid unless it vests not later than twenty-one years, plus the period of gestation, after some measuring life of lives in being which exist at the time of the creation of the trust. In order to avoid the harshness of this rule, some states have enacted “Wait and See” statutes, which allow that if the interest does vest within the given time frame, the interest is valid. This is in contrast to the common law rule which voided any interest that might not vest until after the waiting period.
+

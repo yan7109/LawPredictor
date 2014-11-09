@@ -1,0 +1,21 @@
+Citation
+528 U.S. 119, 120 S. Ct. 673, 145 L. Ed. 2d 570 (2000)
+
+Brief Fact Summary
+An individual was arrested after fleeing from police officers in a known narcotics trafficking area.
+
+Synopsis of Rule of Law
+The arresting officer “was justified in suspecting that [the suspect] was involved in criminal activity, and, therefore in investigating further.”
+
+Facts
+The Respondent, Wardlow (the “Respondent”), fled from an area known for heavy narcotics trafficking after seeing police officers.  The Respondent was caught by two officers and they conducted a protective pat down for weapons.  The officers found a 38-caliber handgun and arrested the Respondent.
+
+Issue
+Did the stop by the police officers violate the Constitution?
+
+Held
+No.  The majority first observed that the brief encounter in this case was governed by the analysis in [Terry], which concerned “reasonable suspicion” of criminal activity being “afoot.”  Someone solely being in an area of high crime is not enough standing alone to support a reasonable particularized suspicion that the person is committing a crime.  However, “officers are not required to ignore the relevant characteristics of a location in determining whether the circumstances are sufficiently suspicious to warrant further investigation.”  It is one of the “relevant contextual considerations in a [Terry] analysis.”
+
+Discussion
+This case should be compared and contrasted with [Terry].
+

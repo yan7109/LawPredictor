@@ -1,0 +1,21 @@
+Citation
+489 F.2d 1396, 1974 U.S. App.
+
+Brief Fact Summary
+Jean Paul Mas and Judy Mas (Appellees) were married at her home in Jackson, Mississippi. Mr. Mas was a citizen of France, and Ms. Mas was a citizen of the State of Mississippi. This action resulted from discovery by Plaintiffs that the home they rented in Baton Rouge, Louisiana contained two-way mirrors and that Oliver Perry (Appellant), a citizen of Louisville, had watched the couple through the mirrors during the first few months of marriage. A complaint seeking $100,000.00 was filed in district court in Louisiana.
+
+Synopsis of Rule of Law
+Original jurisdiction is provided by the Constitution in the federal district courts for all actions that are between citizens of different states or citizens of a state and citizens of foreign states, and in which the amount in controversy exceeds $10,000. NOTE: The jurisdictional requirement has now been increased to $75,000.
+
+Facts
+Before and shortly after the couple was married in Mississippi, they resided in Baton Rouge, Louisiana where they were graduate assistants at Louisiana State University. After their marriage they remained in Baton Rouge for approximately two years. The couple then moved to Park Ridge, Illinois. At the time of trial in this matter, the couple intended to return to Baton Rouge, while Mr. Mas concluded his studies for his Doctorate of Philosophy degree. After that, the couple was not sure where they would reside. At the trial, the jury returned a verdict for the Appellees and awarded $5000.00 to Mr. Mas and $15,000.00 to Ms. Mas. At the close of Appellees’ case, Appellant had filed a Motion to Dismiss for lack of jurisdiction, which was subsequently denied by the district court.
+
+Issue
+Was the district court correct in dismissing Appellant’s Motion to Dismiss for lack of jurisdiction based upon diversity of citizenship?
+
+Held
+Yes. The United States Court of Appeals for the Fifth Circuit affirmed the decision of the district court.
+
+Discussion
+The power of the district court to entertain the claims of Appellees in this case stands on two separate legs of diversity jurisdiction: a claim by an alien against a state citizen (Mr. Mas vs. Appellant) and an action between citizens of different states (Ms. Mas v. Appellant). This final leg is satisfied because the court found that Ms. Mas is a domiciliary of the State of Mississippi. A person’s domicile is the place of “his true, fixed, and permanent home and principal establishment, and to which he has the intention of returning whenever he is absent therefrom.” Ms. Mas was only a student in Louisiana, and she lacked the requisite intention to remain there. Furthermore, she did not take any affirmative steps to effect a change in her domiciliary status. Therefore, since Ms. Mas was a domiciliary of Mississippi and the Appellant was a domiciliary of Louisiana, complete diversity existed. In addition to the court finding complete diversity, the court noted that although the Appellees only received $5,000.00 from the district court,   diversity should not be defeated. The amount in controversy requirement is determined by the amount claimed by the plaintiff in good faith. As a result, federal jurisdiction is not lost because a judgment of less than the jurisdictional amount is awarded.
+

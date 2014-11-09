@@ -1,0 +1,21 @@
+Citation
+154 F.3d 1037; 1998 U.S. App. 21597, 41 Fed. R. Serv. 3d (Callaghan) 1037; 98 Cal. Daily Op. Service 6986
+
+Brief Fact Summary
+The Plaintiff, Sanders (Plaintiff) sued his employer, the Defendant, Union Pacific Railroad Co. (Defendant) for work related injuries. Following the failure of Plaintiff’s attorney to comply with the presiding judge’s pretrial orders, the judge dismissed the case with prejudice.
+
+Synopsis of Rule of Law
+Dismissing an action with prejudice as a sanction for failure to comply with a court order is an appropriate response where the party’s failure to comply negatively affected the opposing party’s ability to prepare for trial.
+
+Facts
+In June 1995, the Plaintiff sued his employer, the Defendant, under the Federal Employer’s Liability Act, following a work-related injury. The district judge set a trial date of November 19, 1996. He also issued a form order concerning preparation for a pretrial conference to be held on November 8, 1996, which set forth a schedule for the filing of various motions, oppositions and proposed jury instructions. The order also contained a final paragraph stating that failure to comply with the order could result in dismissal of the action. Plaintiff’s counsel failed to comply with almost all of the requirements of the pretrial order. At the pretrial conference, Plaintiff’s counsel blamed his failures to comply on the fact that he was representing plaintiffs in a lawsuit in Nebraska. A week after the pretrial conference, the district judge dismissed Plaintiff’s action with prejudice as a sanction for failure to comply with the pretrial order.
+
+Issue
+Whether a court may dismiss an action with prejudice for failure to comply with the court’s pretrial preparation order
+
+Held
+Yes. The Court of Appeals for the Ninth Circuit affirmed the decision of the district court.   Before dismissing a case for failure to comply with a court order, the key factors are prejudice and availability of lesser sanctions.  Due Process does not require more notice than that provided under Federal Rule of Civil Procedure, Rule 41(b) informing a party that dismissal is imminent.   <br/><br/><span class='heading'>Dissent.</span> Senior Circuit Judge Canby (J. Canby) dissented. His dissent stressed that dismissal was too steep a sanction compared with the relatively light gravity of the offenses by Plaintiff’s counsel. Additionally J. Canby believed the district court was required to inform Plaintiff that dismissal was imminent.
+
+Discussion
+Finding that the primary factor in dismissing a case for failure to comply with a court order is prejudice to the parties, the court felt comfortable dismissing the case given that Plaintiff’s multiple failures hurt Defendant’s ability to prepare for trial.
+

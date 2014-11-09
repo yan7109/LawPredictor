@@ -1,0 +1,21 @@
+Citation
+22 Ill.320 N.W.2d 608 (Iowa 1982)
+
+Brief Fact Summary
+The Defendant, McFadden (Defendant), was convicted of two counts of involuntary manslaughter arising out of his participation in a drag race. A fatal collision occurred when the individual against whom the Defendant was racing swerved into an oncoming lane of traffic, killing himself and a passenger in another vehicle.
+
+Synopsis of Rule of Law
+A defendant may be held criminally liable for the death of another where there is evidence that defendant’s conduct was a proximate cause of the resulting death.
+
+Facts
+The Defendant and another individual agreed to participate in a drag race on a city street. In the course of the race, the Defendant’s opponent swerved into a lane of oncoming traffic and collided with another car, killing himself and a passenger in the other vehicle. The Defendant’s car did not physically contact either of the vehicles that collided.
+
+Issue
+Is defendant liable for death of another individual even where his reckless conduct was not a direct cause of the resulting death?
+
+Held
+Yes. Judgment affirmed.
+
+Discussion
+In this case, the majority upholds the application of a proximate cause standard to involuntary manslaughter cases, resulting in an opposite ruling than was handed down in the Root case despite similar fact situations. Both cases concerned defendants who had voluntarily agreed to participate in a drag race and whose opponents in the race had become involved in car accidents. The Root court held that the defendant could not be held directly responsible for opponent’s recklessness in swerving into a lane of oncoming traffic. The Root court also held that it would be inappropriate to hold the defendant responsible through a proximate cause standard. Rather than require a showing of direct causation, the court in this case was satisfied that the foreseeability requirement inherent in proximate causation more effectively responded to a defendant’s relative culpability.
+

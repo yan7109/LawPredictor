@@ -1,0 +1,24 @@
+Citation
+406 U.S. 441, 92 S. Ct. 1653, 32 L. Ed. 2d 212 (1972)
+
+Brief Fact Summary
+Petitioners refuse to testify at a grand jury hearing on Fifth Amendment grounds despite their having been granted immunity.
+
+Synopsis of Rule of Law
+The government may compel testimony even though subpoenaed persons have invoked their privilege versus self-incrimination if they have conferred immunity from use on their compelled testimony.
+
+Facts
+Subpoenaed to appear before a federal grand jury, the petitioners refused to answer questions in asserting the Fifth Amendment, despite the government having granted them immunity.  The immunity was based on a part of the Organized Crime Control Act of 1970 stating that neither the testimony nor any other information from the testimony could be used against the witnesses.  Petitioners argued that the scope of the immunity they were given was not as broad as the scope of the privilege against self-incrimination, and were unsuccessful in the District Court. The Ninth Circuit Court of Appeals affirmed the order, and the petitioners were granted certiorari.
+
+Issue
+Can the government compel immunized testimony even if the subpoenaed persons have invoked the privilege versus self-incrimination?
+
+Held
+Yes.  Affirm the lower court’s decision allowing the compulsion of testimony.
+
+Dissent
+Justice William O. Douglas dissented because he believed that if transactional immunity was absent, the grant of immunity was not sufficient under the constitution to compel witness’ testimony.  An immunity grant is only adequate if it operates as a complete pardon for the offense.
+
+Discussion
+The majority in this case foresees enforcement of the grants of immunity through “taint hearings” in which the prosecution has an affirmative duty to show an independent source.  Since this case and Zicarelli v. New Jersey State Comm. Of Investigation, 406 U.S. 472 (1972) were decided, many states have moved to use/derivative use immunity from transactional immunity.
+

@@ -1,0 +1,18 @@
+Citation
+105 Cal.App.4th 798, 129 Cal.Rptr.2d 675 (Ct. App. 2003)
+
+Synopsis of Rule of Law
+Despite the traditional “going-and-coming” rule shielding employer liability for an employee’s actions during his or her commute, where an employee’s job contributes to an accident, and such accident is foreseeable as a result of the circumstances, any resulting losses can be fairly attributable to employer’s business.
+
+Facts
+Defendant Minimed, Inc. hired a pest control company to spray pesticide overnight in its facility in order to get rid of fleas. An employee, Irma Hernandez, arrived early the next morning and within a few hours, felt ill, with a headache, nausea, and tightness in her chest. She told two supervisors that she wished to go home because she did not feel well; one asked if she wanted to see the company doctor (she declined) and the other asked if she felt well enough to drive home (she said yes). One her way home, she rear-ended Plaintiff Bussard who was stopped at a red light. Plaintiff sued Hernandez for negligent driving and sued Defendant in vicarious liability under the respondeat superior doctrine, claiming that Hernandez was acting within the scope of her employment while driving home. The trial court followed the “going-and-coming” rule to find that Hernandez was not acting within the scope of her employment during her commute home.
+
+Issue
+Where an employee is exposed to a harmful chemical at the workplace and subsequently drives home and gets in an accident, is the employer liable under respondeat superior for the employee’s actions?
+
+Held
+Yes. Despite the traditional “going-and-coming” rule shielding employer liability for an employee’s actions during his or her commute, because the consequences of the exposure in this case can foreseeably lead to an accident, and because the employee’s job contributed to the accident, such losses can be fairly attributable to employer’s business.
+
+Discussion
+An employer is ordinarily liable for injuries its employees cause others in the course of their work under the broad reach of the respondeat superior doctrine. Acting within the scope of work includes “acts necessary to the comfort, convenience, health, and welfare of the employee while at work.” Notwithstanding the generality of the doctrine, it does not apply to the employee’s daily commute (the “going-and-coming” rule), because the employment relationship is suspended from the time the employee leaves his job until he returns, and because during the commute, the employee is not rendering services to the employer.Certain exceptions exist to the rule, including when an employee endangers others with a risk arising from or related to work (“in the context of the particular enterprise an employee’s conduct is not so unusual or startling that it would seem unfair to include the loss resulting from it among other costs of the employer’s business”).Consequently, turning to Plaintiff’s claim, Hernandez was essentially an “instrumentality of danger” after suffering pesticide exposure at work, and the fact that she may not be fit to drive was a foreseeable consequence of the use of the pesticide. Defendant is vicariously liable here, regardless of whether Defendant bore any responsibility for Hernandez’s exposure and subsequent negligent driving, and the fact that Defendant asked Hernandez whether she was fit to drive does not shield it from liability. Just like in cases where an employer is liable for actions of a drunken employee, regardless of whether the employer is responsible for the employee’s drinking, Defendant should be liable here.
+

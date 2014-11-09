@@ -1,0 +1,21 @@
+Citation
+22 Ill.93 F.2d 313 (2d Cir. 1937)
+
+Brief Fact Summary
+Plaintiff caused Defendant to enter the state of Florida by deceitfully telling him that her mother was sick and that she was leaving the country to be with her mother but must see Defendant before she left. When Defendant arrived in Florida, he was served with the complaint and summons of a civil suit. Defendant moved to quash the summons and complaint.
+
+Synopsis of Rule of Law
+Service of process made by fraudulently inducing the defendant to enter the jurisdiction so that he may be served is ineffective.
+
+Facts
+Appellee in the present case and Defendant in the state court case, Newhouse (Defendant) was a resident of New York. Appellant in the present case and Plaintiff in the state court case, Wyman (Plaintiff), was a Florida resident. Plaintiff and Defendant were having an extramarital affair. Plaintiff called and telephoned Defendant and falsely told him that her mother was sick and that she was leaving the country. Plaintiff told Defendant to come to Florida before she left the country. When Defendant arrived in Florida, he was served with the complaint and summons of a civil suit. Defendant returned to New York and was advised by New York counsel to ignore the complaint. Default judgment was entered against Defendant. Plaintiff filed a complaint in federal court in New York seeking to enforce the judgment against Defendant. Defendant filed a motion to dismiss the complaint on the grounds that Florida had no jurisdiction to bind Defendant to the judgment. The lower court granted the motion and dismissed the complaint, which Plaintiff appealed.
+
+Issue
+Was the fact that Defendant was served in Florida only because Plaintiff fraudulently induced him to come to Florida grounds to render service ineffective?
+
+Held
+Yes.   Defendant was only in Florida because Plaintiff gave him false information that she knew would compel him to travel to Florida.  A judgment that is procured through fraud is void.  Defendant can attack the judgment through an equitable defense in a suit to enforce the judgment in another state.  The jurisdictional question can be collaterally attacked when the original judgment entered against Defendant was by a court that did not have personal jurisdiction over the Defendant.
+
+Discussion
+This case illustrates how personal jurisdiction procured through the fraud of the plaintiff nullifies any resulting judgment obtained against the plaintiff.
+

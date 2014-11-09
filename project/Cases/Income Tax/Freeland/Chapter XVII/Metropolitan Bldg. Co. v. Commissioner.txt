@@ -1,0 +1,21 @@
+Citation
+282 F.2d 592, 1960 U.S. App. 60-2 U.S. Tax Cas. (CCH) P9686; 6 A.F.T.R.2d (RIA) 5493
+
+Brief Fact Summary
+Petitioner, Metropolitan Building Company, leased property from the University of Washington.  Petitioner sublet the property to Olympic, Inc. and a hotel was built.  The University sought to acquire the leasehold interest and did so through a transaction with Olympic and Petitioner.
+
+Synopsis of Rule of Law
+An amount paid as a substitute for rental payments should be treated as ordinary income.
+
+Facts
+The University of Washington leased property it owned to Metropolitan Building Company, Petitioner.  Petitioner subleased the property and the sublessee was to construct a hotel on the property.  The rent was $25,000 per year.  The Olympic Hotel was constructed on the property and the sublease was acquired by Olympic, Inc.  Petitioner conveyed to the University of Washington its leasehold interest on the property where the Olympic Hotel was located.  Olympic paid Petitioner $137,000 for the assignment and transfer.  The University then leased the property to Olympic.  The Commissioner contends the amount paid by Olympic is taxable as ordinary income.  The Tax Court affirmed the Commissioner.
+
+Issue
+Whether the amount paid to the lessee is the equivalent of rent owed to the lessee and taxable as income or is it a sale of a capital asset and taxable as a capital gain?
+
+Held
+Circuit Judge Merrill issued the opinion for the United States Ninth Court of Appeals in reversing the Tax Court and holding that the payment is a capital gain.
+
+Discussion
+The Court of Appeals notes that the amounts paid to Petitioner was not a discharge of rental obligations, but was for the purchase of a leasehold interest.  It was not relevant that the University did not pay the amount for the transaction because the payor does not control the type of transaction.  In this case, it was a bona fide transfer of the leasehold interest for a business purpose.
+

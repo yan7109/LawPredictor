@@ -1,0 +1,21 @@
+Citation
+498 U.S. 292, 111 S. Ct. 722, 112 L. Ed. 2d 795 (1991)
+
+Brief Fact Summary
+The Court of Appeals held that a three pronged standard for grand jury subpoenas should be applied in the context of a subpoena to produce certain business records of adult entertainment companies in connection with an investigation into the interstate transport of obscene material.
+
+Synopsis of Rule of Law
+The standard that should be applied to motions to quash subpoenas in the grand jury context is found in Federal Rule of Civil Procedure (F.R.C.P.) Rule 17(c), and is whether they are unreasonable or oppressive. Reasonableness is assumed, but may be rebutted by the party seeking to quash with a showing that there is no reasonable possibility that the category of materials the government seeks will produce information relevant to the general subject of the grand jury’s investigation. To this end, the government may be required to reveal the general subject matter of its investigation.
+
+Facts
+Subpoenas were issued to three adult materials distributors in connection with a grand jury investigation into allegations of the interstate transport of obscene materials. The companies moved to quash the subpoenas on the grounds that they were irrelevant and that it was likely that they would infringe on the First Amendment constitutional rights of the companies. The District Court denied those motions. The Court of Appeals remanded the motions to quash certain of the business records, holding that the Nixon test of relevancy, admissibility and specificity established by the Supreme Court of the United States (”Supreme Court”) in the trial context was equally applicable to the grand jury context.
+
+Issue
+What standard should be applied when a party seeks to avoid a subpoena duces tecum issued in connection with a grand jury investigation?
+
+Held
+The Supreme Court reversed, holding that the Nixon standard was inappropriate in the grand jury context, and holding instead that grand jury subpoenas should be subject only to a showing of reasonableness.
+
+Discussion
+A grand jury proceeding is very different from a trial, in that the grand jury may investigate on mere suspicion of wrongdoing, and must necessarily have broad powers to gather and process information.  Because its purpose is to establish probable cause, it may not be required to show probable cause to gather information in the first instance, as that requirement would unduly paralyze the grand jury.
+

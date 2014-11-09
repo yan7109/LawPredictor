@@ -1,0 +1,21 @@
+Citation
+22 Ill.213 Mass. 380, 100 N.E. 622 (1913)
+
+Brief Fact Summary
+The Plaintiffs sued the Defendant to attempt to enforce restrictions of a deed, for the second, third, fourth, and part of the fifth lot of land, which Defendant subdivided. The enforcement sought by the Plaintiffs would be against the sale of the remainder of the fifth lot to Grossman without restrictions.
+
+Synopsis of Rule of Law
+In order to be enforceable, a restrictive covenant must be in writing, signed by the party against whom enforcement is sought, and executed contemporaneously to the sale of the land upon which the restriction is sought to be enforced.
+
+Facts
+The restrictions in question limit the land to residential use and forbid the building of any houses within twenty-three feet of the street.
+
+Issue
+Could the Plaintiffs, themselves, being restrained in the use of their land, enforce the same agreement as against Grossman, who took title from Defendant without the restrictions?
+
+Held
+No. The suit must be dismissed.
+
+Discussion
+The oral contract in question here is that, as an inducement to purchase, the Defendant told the lot buyers of the restrictions, which would limit the subdivision to residential use. The court’s decision allowed the Defendant to avoid its oral promise based on a strict adherence to the statutory rule requiring a writing for a promise such as this to be enforceable.
+

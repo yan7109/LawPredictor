@@ -1,0 +1,21 @@
+Citation
+506 U.S. 224, 113 S. Ct. 732, 122 L. Ed. 2d 1 (1993)
+
+Brief Fact Summary
+The special prosecutor, investigating a break-in of the Watergate Hotel, demanded audiotapes of conversations recorded by President of the United States Richard Nixon (President Nixon) in the Oval Office. President Nixon asserted that he was immune from such a demand on the grounds of “executive privilege.”
+
+Synopsis of Rule of Law
+Neither the doctrine of separation of powers, nor the need for confidentiality of high-level communications, without more, can sustain an absolute, unqualified, presidential privilege of immunity from the judicial process.
+
+Facts
+A Senate committee was set up to investigate a break-in of the Democratic National Committee headquarters at the Watergate Hotel. Under public pressure, President Nixon appointed a special prosecutor to investigate whether the White House was involved in the break-in. Upon motion by the Special Prosecutor, a subpoena was issued to President Nixon by the District Court requiring the production of certain tapes and writings between the President and his aids and advisors. President Nixon brought this action to quash the subpoena, arguing that the court lacked jurisdiction to issue it because the matter involved an “interbranch” dispute between a subordinate (the Independent Counsel) and a superior officer (the President). Alternatively, he argued that the subpoena should be quashed because it demanded confidential conversations between a President and his close advisors that would be against public interest to produce.
+
+Issue
+Does the separation of powers doctrine preclude judicial review of a President’s claim of “executive privilege?”
+
+Held
+No and No. The District Court’s decision is affirmed. The president must produce the tapes.
+
+Discussion
+The student should note that the Court essentially employs a balancing test here and weighs the importance of the general privilege of confidentiality of Presidential communications against the inroads of such a privilege against fair administration of criminal justice.
+

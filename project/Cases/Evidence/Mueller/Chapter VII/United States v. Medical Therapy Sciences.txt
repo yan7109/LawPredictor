@@ -1,0 +1,21 @@
+Citation
+130 439 U.S. 1130 99 S. Ct. 1049 59 L. Ed. 2d 91 1979 U.S.
+
+Brief Fact Summary
+Defendant and his company were convicted of filing false Medicare claims in a double billing and over billing scheme.  The government’s chief witness, Barbara Russell, was an employee and friend of Defendant.  Defendant alleges that the prosecution should not have been allowed to use witnesses to bolster the credibility of Russell.
+
+Synopsis of Rule of Law
+Character evidence may be used to support a witness only after the character of the witness has been attacked by opinion or reputation evidence.
+
+Facts
+Stanley Berman, Defendant, and his company, Medical Therapy Sciences, was convicted of filing false Medicare claims.  Defendant double billed for the same patients and charge for equipment and supplies either not needed or not delivered.  Barbara Russell, a friend and employee of Defendant, testified for the government.  Defendant contends that the prosecution should not have been allowed to call character witnesses for Russell.  The government brought out prior convictions of Russell on direct examination arguing that they were anticipating impeachment by Defendant.
+
+Issue
+Did the trial judge improperly allow the character witnesses to testify to bolster Russell’s credibility?
+
+Held
+Justice Moore issued the opinion for the United States Second Court of Appeals in affirming the conviction and holding it was within the trial court’s discretion to allow the character witnesses testimony.
+
+Discussion
+The Court of Appeals noted that the government is allowed to bring out the impeachment facts when it anticipates the defense will do as well.  Further, it notes that it is important that the trial court maintain discretion to determine whether the witness’s veracity for truthfulness is being attached on cross-examination.
+

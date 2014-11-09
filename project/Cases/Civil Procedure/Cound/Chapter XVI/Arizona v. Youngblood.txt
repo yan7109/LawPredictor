@@ -1,0 +1,21 @@
+Citation
+22 Ill.488 U.S. 51, 109 S. Ct. 333, 102 L. Ed. 2d 281 (1988)
+
+Brief Fact Summary
+An individual convicted of child molestation challenged his conviction based on the state’s failure to preserve certain evidence.
+
+Synopsis of Rule of Law
+“[U]nless a criminal defendant can show bad faith on the part of the police, failure to preserve potentially useful evidence does not constitute a denial of due process of law.”
+
+Facts
+Larry Youngblood (the “Respondent”) was convicted by a jury in Arizona of child molestation, sexual assault and kidnapping.  The Arizona Court of Appeals reversed the Respondent’s conviction because the state did not preserve certain semen samples.  The Respondent’s principal defense at trial was that the boy erred in identifying him as the perpetrator of the crime.  “[B]oth a criminologist for the State and an expert witness for respondent testified as to what might have been shown by tests performed on the samples shortly after they were gathered, or by later tests performed on the samples from the boy’s clothing had the clothing been properly refrigerated. The court instructed the jury that if they found the State had destroyed or lost evidence, they might “infer that the true fact is against the State’s interest.”
+
+Issue
+Does the United States Constitution (the “Constitution”) require the state to preserve evidentiary material that may be useful to a criminal defendant?
+
+Held
+No.  The majority first observed that this case required them to address “what might loosely be called the area of constitutionally guaranteed access to evidence.”  Pursuant to [Brady v. Maryland] the court observed that in the past it held “the suppression by the prosecution of evidence favorable to the accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.”  Further, based on [United States v. Agurs] the court observed that it has been held “the prosecution had a duty to disclose some evidence of this description even though no requests were made for it, but at the same time we rejected the notion that a ‘prosecutor has a constitutional duty routinely to deliver his entire file to defense counsel.’ ”
+
+Discussion
+The court would have disagreed with the Arizona Court of Appeals if they had held “that the Due Process Clause is violated when the police fail to use a particular investigatory tool.”
+

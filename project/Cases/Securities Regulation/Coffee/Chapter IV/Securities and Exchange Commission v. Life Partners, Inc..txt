@@ -1,0 +1,24 @@
+Citation
+87 F.3d 536 (D.C Cir. 1996)
+
+Brief Fact Summary
+When attempting to ascertain whether to grant a preliminary injunction, the district court found that minor interests in life insurance policies promoted by Life Partners, Inc. (Defendant) are considered securities and therefore must comply with Securities and Exchange Commission (Plaintiff) procedures.
+
+Synopsis of Rule of Law
+Based on the parameters set by Howey, viatical settlements are not considered securities.
+
+Facts
+Life Partners, Inc. sells investment contracts where an investor procures an interest in a terminally ill person’s life insurance policy at a discount, the discount being contingent on the insured’s life expectancy. Life Partner organizes these transactions and also executes post-transaction assistance. The SEC asserts that limited interests are considered securities and requested that Life Partners cease making additional sales until after complying with SEC regulations.
+
+Issue
+Do the parameters set by Howey cover viatical settlement securities?
+
+Held
+(Ginsburg, J.) No. Viatical settlements do not meet the third point ofHowey. The most important aspect to the viatical settlements sold by Life Partners is the duration of the insured’s life, as opposed to the seller’s efforts.  The pre and post purchase services completed by Life Partners were generally more clerical than commercial.
+
+Dissent
+(Wald, J.) When deciding if an investment fulfills Howey’s third prong, focus needs to be on the manner and amount of reliance between the investor’s profits and the marketer’s undertakings. In this case, whether or not Life Partners pre-purchase managerial activities were successful determine whether profits are attained.  It can be said that Howey’sthird point is met by Life Partners pre-purchase services.
+
+Discussion
+The majority in Life Partnersstate that pre-purchase services could potentially fulfillHowey’s, 328 U.S. 293 (1946), third prong. As witnessed in this case though, investment profits did not come largely from others labors, meaning that the pre-purchase events were not sufficient.
+

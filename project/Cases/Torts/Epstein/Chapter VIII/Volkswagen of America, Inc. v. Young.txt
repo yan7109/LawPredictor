@@ -1,0 +1,15 @@
+Citation
+966 F.2d 1443
+
+Brief Fact Summary
+Young (Plaintiff) was killed in an automobile manufactured by Volkswagen of America, Inc., (Defendant) because of a negligent driver who rear-ended him. There was a defect in a safety device that attributed to Plaintiff’s death.<span class="heading">Synopsis of Rule of Law.</span> One injured in an automobile accident has an action against the vehicle’s manufacturer if his injuries were the result of the manufacturer’s negligent defective design of the automobile.
+
+Facts
+Plaintiff, the decedent, was stopped at a red light. He was driving a car built by Defendant. A negligent driver hit Plaintiff from behind and his car was pushed forward. The seat bracketing pieces and seat adjustment mechanisms broke away from the body of the car. In the “second collision,” Plaintiff was hurled into the rear of the car, injuring his head and torso. These injuries caused his death. Plaintiff sued Defendant, complaining that the car was “defectively designed, manufactured, and marketed with defects which rendered it structurally hazardous, not merchantable, and not fit for the purpose intended” in that, its entire seat assembly was “unreasonably vulnerable to separation from the floor upon collision.” After Plaintiff filed his complaint, Defendant moved to have the following question certified for decision by the Court of Appeals of Maryland: (1) whether or not the definition of the intended use of a motor vehicle includes the vehicle’s involvement in a collision; and (2) whether a cause of action is stated against the manufacturer in breach of warranty, negligence, or absolute liability that the design and manufacture of the vehicle unreasonably increased the risk of injury to occupants following a collision not caused by any defect of the vehicle.<span class="heading">Issue.</span> Is Defendant, an automobile manufacturer, liable when Plaintiff suffers injuries in an accident due to a defective safety design?
+
+Held
+Yes. Judgment for Plaintiff.
+
+Discussion
+This case holds Defendant liable for their product when the initial cause of the accident was not Defendant’s fault. It is foreseeable and predictable that an automobile will be involved in an accident. Plaintiff expected the seat and seatbelt to help protect him in the event he was to get in an accident. The safety devices malfunctioned and Plaintiff was killed as a result. Defendant is liable to Plaintiff under a theory of strict products liability.
+

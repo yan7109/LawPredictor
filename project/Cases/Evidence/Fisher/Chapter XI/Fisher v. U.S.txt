@@ -1,0 +1,24 @@
+Citation
+131S.Ct.103
+
+Brief Fact Summary
+Two taxpayers, Mr. Kasmir and Mr. Fisher (taxpayers) were visited by two Internal Revenue Service (IRS) agents and interviewed in connection with two separate investigations into possible violations of federal tax laws; following the interviews, each taxpayer obtained documents from his accountant and turned the documents over to his attorney.  When the IRS issued summonses seeking the documents, the attorneys refused to comply, after which a District Court ordered the summonses enforced in each case.  When two different Courts of Appeals came to different conclusions about whether the summonses should be enforced, the United States Supreme Court granted certiorari here to decide the issue and resolve the Circuit Court conflict.
+
+Synopsis of Rule of Law
+A subpoena, served on the attorney of a taxpayer by the IRS, which commands the attorney to produce documents prepared by the taxpayer’s accountant and given to the attorney by the taxpayer, does not violate the taxpayer’s Fifth Amendment right against self-incrimination, as the production of the documents does not compel oral testimony nor does it compel the taxpayer to affirm the authenticity of the documents sought.
+
+Facts
+Two taxpayers, Mr. Kasmir and Mr. Fisher (taxpayers) were visited by two Internal Revenue Service (IRS) agents, and were interviewed in connection with two separate investigations into possible violations of federal tax laws.
+
+Issue
+When the Internal Revenue Service, during the course of a tax investigation, serves summonses on taxpayers’ attorneys commanding the attorneys to produce documents given to the attorneys by their clients and concerning the taxpayers’ accounting, are the Fifth Amendment rights against self-incrimination of the taxpayers violated?
+
+Held
+No; the enforcement of such summonses against the taxpayers’ attorneys does not involve any compelled testimonial self-incrimination, and therefore does not violate the Fifth Amendment rights of the taxpayers.
+
+Concurrence
+Justices Brennan (writing) and Marshall, concurred in the Court’s holding, but did not join in the Court’s opinion because “of the portent of much of what is said of a serious crippling of the protection secured by the privilege against compelled production of one’s private books and papers.”  Specifically, the dissent argued that the Court’s holding, “is but another step in the denigration of privacy principles settled nearly 100 years ago . . . [and that the] implication that the privilege might not protect against compelled production of tax records that are [one's] ‘private papers’ is . . . contrary to settled constitutional jurisprudence . . . .”
+
+Discussion
+The Court first pointed out that, “The Court has held repeatedly that  the Fifth Amendment is limited to prohibiting the use of ‘physical or moral compulsion’ exerted on the person asserting the privilege.” (citations omitted).  The Court then cited its decision in Couch v. United States, 409 U.S. 322 (1973), in which it was held that, “the Fifth Amendment rights of a taxpayer were not violated by the enforcement of a documentary summons directed to her accountant and requiring production of the taxpayer’s own records in the possession of the accountant.”  The Court then applied the decision in Couch to the present case, writing:
+
