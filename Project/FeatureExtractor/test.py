@@ -1,5 +1,6 @@
 import feature_extractor
 
+
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
 
@@ -36,3 +37,7 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_SYNOPSIS, 0.33)
 # count for each word from all sections.
 # If a particular section has weight of 0.0, you are ignoring that section completely.
 
+# Now, finally, to get the feature you want:
+# cases_root_path is the directory containing "Administrative Law", "Business Associations", etc...
+cases_root_path = 'C:\Users\Tianyi\Documents\GitHub\LawPredictor\Project\Cases'
+features = fe.compute_word_weights_to_hold_result(cases_root_path)

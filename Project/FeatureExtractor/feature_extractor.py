@@ -1,3 +1,8 @@
+import utils
+
+import fnmatch
+import os
+
 
 # Global constant values.
 CATEGORY_COUNT              = 20
@@ -38,6 +43,30 @@ SECTION_WEIGHT_MIN = 0.0
 
 class FeatureExtractor:
     
+    def compute_word_weights_to_hold_result_helper(self, file_path, result):
+        return
+        
+    def compute_word_weights_to_hold_result(self, cases_root_path):
+        result = []
+        
+        categories_dir = os.listdir(cases_root_path)
+        
+        for category_dir in categories_dir:
+            category_index = utils.category_dir_to_index(category_dir)
+            
+            # Check if we are ignoring this category.
+            if not self.f_include_categories[category_index]:
+                continue
+            
+            category_path = os.path.join(cases_root_path, category_dir)
+            for root, dirnames, filenames in os.walk(category_path):
+                for filename in fnmatch.filter(filenames, '*.txt'):
+                    file_path = os.path.join(root, filename)
+                    
+                    self.compute_word_weights_to_hold_result_helper(file_path, result)
+                    
+        return result
+    
     def change_section_weight(self, section_index, weight):
         if weight < SECTION_WEIGHT_MIN:
             weight = SECTION_WEIGHT_MIN
@@ -60,6 +89,7 @@ class FeatureExtractor:
     def exclude_all_categories(self):
         for i in range(CATEGORY_COUNT):
             self.f_include_categories[i] = False
+    
     
     # Constructor.
     def __init__(self):
