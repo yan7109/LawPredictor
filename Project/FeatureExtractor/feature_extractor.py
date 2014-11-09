@@ -23,7 +23,29 @@ INDEX_PATENT_LAW            = 18
 INDEX_HEALTH_LAW            = 19
 
 
+SECTION_COUNT           = 7
+INDEX_SEC_TITLE         = 0
+INDEX_SEC_FACT_SUMMARY  = 1
+INDEX_SEC_SYNOPSIS      = 2
+INDEX_SEC_FACTS         = 3
+INDEX_SEC_ISSUE         = 4
+INDEX_SEC_HELD          = 5
+INDEX_SEC_DISCUSSION    = 6
+
+SECTION_WEIGHT_MAX = 1.0
+SECTION_WEIGHT_MIN = 0.0
+
+
 class FeatureExtractor:
+    
+    def change_section_weight(self, section_index, weight):
+        if weight < SECTION_WEIGHT_MIN:
+            weight = SECTION_WEIGHT_MIN
+        if weight > SECTION_WEIGHT_MAX:
+            weight = SECTION_WEIGHT_MAX
+        
+        self.section_weights[section_index] = weight
+    
     
     def include_category(self, category_index):
         self.f_include_categories[category_index] = True
@@ -43,9 +65,15 @@ class FeatureExtractor:
     def __init__(self):
         
         # Instance variables.
-        self.f_include_categories = []
+        self.f_include_categories   = []
+        self.section_weights        = []
         
         # By default, we want to include all the categories in our output.
         for i in range(CATEGORY_COUNT):
             self.f_include_categories.append(True)
+        
+        # By default, all sections have equal weight.
+        for i in range(SECTION_COUNT):
+            self.section_weights.append(SECTION_WEIGHT_MAX)
+        
         
