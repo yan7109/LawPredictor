@@ -44,7 +44,9 @@ features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
 # Now you can feed 'features' into your ML algorithm.
 # Beware of massive output:
-print features
+f = open('features', 'w')
+f.write(str(features))
+f.close()
 
 # This is part of the content of 'features' so you know what format it is in:
 #[({'represent': 1.0, 'negligence': 0.5, 'september': 0.5, 'caused': 0.5, ... ... 'the': 15.66, 'order': 1.0, 'affirmed': 1.0}, 0),
