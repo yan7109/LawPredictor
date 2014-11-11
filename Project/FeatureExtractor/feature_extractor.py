@@ -80,10 +80,10 @@ class FeatureExtractor:
                 
         return (word_to_weight, holding_result)
         
-    def compute_word_weights_to_hold_result(self, cases_root_path):
+    def compute_word_weights_to_hold_result(self, cases_relative_path):
         result = []
-        
-        categories_dir = os.listdir(cases_root_path)
+        cases_full_path = os.path.join(os.path.dirname(__file__), cases_relative_path)
+        categories_dir = os.listdir(cases_full_path)
         
         for category_dir in categories_dir:
             category_index = utils.category_dir_to_index(category_dir)
@@ -92,7 +92,7 @@ class FeatureExtractor:
             if not self.f_include_categories[category_index]:
                 continue
             
-            category_path = os.path.join(cases_root_path, category_dir)
+            category_path = os.path.join(cases_full_path, category_dir)
             for root, dirnames, filenames in os.walk(category_path):
                 for filename in fnmatch.filter(filenames, '*.txt'):
                     file_path = os.path.join(root, filename)
