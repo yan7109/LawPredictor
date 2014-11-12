@@ -93,7 +93,6 @@ class FeatureExtractor:
         #In future, may want to put it in a separate field in tuple   
         case_name = "Title: " + os.path.basename(file_path)
         word_to_weight[case_name] = 0
-        exit(0)        
         return (word_to_weight, holding_result)
         
     def compute_word_weights_to_hold_result(self, cases_relative_path):
