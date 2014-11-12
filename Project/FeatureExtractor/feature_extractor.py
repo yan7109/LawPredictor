@@ -59,6 +59,7 @@ class FeatureExtractor:
                 
                 if cur_section_index != -1:
                     line = re.sub('[^0-9a-zA-Z]+', ' ', line)
+                    line = utils.remove_stop_words(line)
 
                     if cur_section_index == INDEX_SEC_HELD:
                         # Special case, we need to find out the holding result.
@@ -68,7 +69,6 @@ class FeatureExtractor:
                     
                     words = line.split()
                     for word in words:
-                        print word
                         if word in word_to_weight:
                             word_to_weight[word] += word_weight
                         else:
@@ -78,7 +78,6 @@ class FeatureExtractor:
                     continue
                 
                 cur_section_index = utils.section_name_to_index(line)
-        exit(0)
         #Encode the case name into the features for better debugging
         #So far, assign no weight
         #In future, may want to put it in a separate field in tuple   
