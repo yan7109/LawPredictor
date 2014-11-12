@@ -3,6 +3,7 @@ import utils
 import fnmatch
 import os
 import string
+import re
 
 
 # Global constant values.
@@ -41,6 +42,8 @@ INDEX_SEC_DISCUSSION    = 6
 SECTION_WEIGHT_MAX = 1.0
 SECTION_WEIGHT_MIN = 0.0
 
+MAX_WORD_GRAM_SIZE = 3
+
 
 class FeatureExtractor:
     
@@ -57,9 +60,9 @@ class FeatureExtractor:
                     continue
                 
                 if cur_section_index != -1:
-                    for c in string.punctuation:
-                        line = line.replace(c, ' ')
-                        
+                    line = re.sub('[^0-9a-zA-Z]+', ' ', line)
+                    line = utils.remove_stop_words(line)
+
                     if cur_section_index == INDEX_SEC_HELD:
                         # Special case, we need to find out the holding result.
                         holding_result = utils.get_holding_result(line)
@@ -67,17 +70,30 @@ class FeatureExtractor:
                     word_weight = self.section_weights[cur_section_index]
                     
                     words = line.split()
-                    for word in words:
-                        if word in word_to_weight:
-                            word_to_weight[word] += word_weight
-                        else:
-                            word_to_weight[word] = word_weight
+                    # Also add 2 and 3 sized word grams into the features
+                    for index, word in enumerate(words):
+                         for new_index in xrange(index, index+MAX_WORD_GRAM_SIZE):
+                             # Ensure words are not out of range
+                             if (len(words)<=new_index):
+                                 continue
+                             word_gram = words[index:new_index+1]
+                             gram_weight = len(word_gram)
+                             key = ' '.join(word_gram)
+                             if key in word_to_weight:
+                                 word_to_weight[key] += word_weight*gram_weight
+                             else:
+                                 word_to_weight[key] = word_weight*gram_weight
                     
                     cur_section_index = -1
                     continue
                 
                 cur_section_index = utils.section_name_to_index(line)
-                
+        #Encode the case name into the features for better debugging
+        #So far, assign no weight
+        #In future, may want to put it in a separate field in tuple   
+        case_name = "Title: " + os.path.basename(file_path)
+        word_to_weight[case_name] = 0
+        exit(0)        
         return (word_to_weight, holding_result)
         
     def compute_word_weights_to_hold_result(self, cases_relative_path):
