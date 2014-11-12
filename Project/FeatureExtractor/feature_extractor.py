@@ -3,6 +3,7 @@ import utils
 import fnmatch
 import os
 import string
+import re
 
 
 # Global constant values.
@@ -57,9 +58,8 @@ class FeatureExtractor:
                     continue
                 
                 if cur_section_index != -1:
-                    for c in string.punctuation:
-                        line = line.replace(c, ' ')
-                        
+                    line = re.sub('[^0-9a-zA-Z]+', ' ', line)
+
                     if cur_section_index == INDEX_SEC_HELD:
                         # Special case, we need to find out the holding result.
                         holding_result = utils.get_holding_result(line)
@@ -68,6 +68,7 @@ class FeatureExtractor:
                     
                     words = line.split()
                     for word in words:
+                        print word
                         if word in word_to_weight:
                             word_to_weight[word] += word_weight
                         else:
@@ -77,6 +78,12 @@ class FeatureExtractor:
                     continue
                 
                 cur_section_index = utils.section_name_to_index(line)
+        exit(0)
+        #Encode the case name into the features for better debugging
+        #So far, assign no weight
+        #In future, may want to put it in a separate field in tuple   
+        case_name = "Title: " + os.path.basename(file_path)
+        word_to_weight[case_name] = 0
                 
         return (word_to_weight, holding_result)
         
