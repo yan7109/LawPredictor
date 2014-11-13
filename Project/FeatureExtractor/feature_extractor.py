@@ -42,6 +42,7 @@ INDEX_SEC_DISCUSSION    = 6
 SECTION_WEIGHT_MAX = 1.0
 SECTION_WEIGHT_MIN = 0.0
 
+
 MAX_WORD_GRAM_SIZE = 3
 
 
@@ -50,10 +51,11 @@ class FeatureExtractor:
     def compute_word_to_weight_helper(self, word_to_weight, line, section_index):
         line = re.sub('[^0-9a-zA-Z]+', ' ', line)
         line = utils.remove_stop_words(line)
-    
+        
         word_weight = self.section_weights[section_index]
         
         words = line.split()
+        
         # Also add 2 and 3 sized word grams into the features
         for index, word in enumerate(words):
             for new_index in xrange(index, index + MAX_WORD_GRAM_SIZE):
