@@ -47,6 +47,27 @@ MAX_WORD_GRAM_SIZE = 3
 
 class FeatureExtractor:
     
+    def compute_word_to_weight_helper(self, word_to_weight, line, section_index):
+        line = re.sub('[^0-9a-zA-Z]+', ' ', line)
+        line = utils.remove_stop_words(line)
+    
+        word_weight = self.section_weights[section_index]
+        
+        words = line.split()
+        # Also add 2 and 3 sized word grams into the features
+        for index, word in enumerate(words):
+            for new_index in xrange(index, index + MAX_WORD_GRAM_SIZE):
+                # Ensure words are not out of range
+                if (len(words) <= new_index):
+                    continue
+                word_gram = words[index : new_index + 1]
+                gram_weight = len(word_gram)
+                key = ' '.join(word_gram)
+                if key in word_to_weight:
+                    word_to_weight[key] += word_weight * gram_weight
+                else:
+                    word_to_weight[key] = word_weight * gram_weight
+        
     def compute_word_weights_to_hold_result_helper(self, file_path):
         word_to_weight = {}
         holding_result = 0
@@ -60,45 +81,27 @@ class FeatureExtractor:
                     continue
                 
                 if cur_section_index != -1:
-                    line = re.sub('[^0-9a-zA-Z]+', ' ', line)
-                    line = utils.remove_stop_words(line)
                     
                     if cur_section_index == INDEX_SEC_HELD:
                         # Special case, we need to find out the holding result.
                         holding_result = utils.get_holding_result(line)
                         
-                    word_weight = self.section_weights[cur_section_index]
-                    
-                    words = line.split()
-                    # Also add 2 and 3 sized word grams into the features
-                    for index, word in enumerate(words):
-                         for new_index in xrange(index, index+MAX_WORD_GRAM_SIZE):
-                             # Ensure words are not out of range
-                             if (len(words)<=new_index):
-                                 continue
-                             word_gram = words[index:new_index+1]
-                             gram_weight = len(word_gram)
-                             key = ' '.join(word_gram)
-                             if key in word_to_weight:
-                                 word_to_weight[key] += word_weight*gram_weight
-                             else:
-                                 word_to_weight[key] = word_weight*gram_weight
+                    self.compute_word_to_weight_helper(word_to_weight, line, cur_section_index)
                     
                     cur_section_index = -1
                     continue
                 
                 cur_section_index = utils.section_name_to_index(line)
                 
-        # Encode the case name into the features for better debugging
-        # So far, assign no weight
-        # In future, may want to put it in a separate field in tuple
-        case_name = "Title: " + os.path.basename(file_path)
-        word_to_weight[case_name] = 0
+        # Encode the words in case name into the features as well.
+        case_name = os.path.splitext(os.path.basename(file_path))[0]
+        self.compute_word_to_weight_helper(word_to_weight, case_name, INDEX_SEC_TITLE)
+        
         return (word_to_weight, holding_result)
         
     def compute_word_weights_to_hold_result(self, cases_relative_path):
         result = []
-        cases_full_path = os.path.join(os.path.dirname(__file__), cases_relative_path)
+        cases_full_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), cases_relative_path)
         categories_dir = os.listdir(cases_full_path)
         
         for category_dir in categories_dir:
