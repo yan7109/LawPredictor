@@ -23,10 +23,22 @@ class svmModel:
     f = open(file, 'r')
     raw = json.loads(f.read())
     self.y = [0] * len(raw)
-    slef.x = [0] * len(raw)
+    x = [0] * len(raw)
     for i in range(len(raw)):
       self.y[i] = raw[i][1]
-      self.x[i] = raw[i][0]
+      x[i] = raw[i][0]
+    featuresToIndex = {}
+    indexToFeatures = {}
+    count = 0
+    self.x = [0] * len(raw)
+    for i in range(len(x)):
+      self.x[i] = {}
+      for j in x[i]:
+        if j not in featuresToIndex:
+          featuresToIndex[j] = count
+          indexToFeatures[count] = j
+          count += 1
+        self.x[i][featuresToIndex[j]] = x[i][j]
 
   def saveModel(self, file):
     svm_save_model(file, self.model)
@@ -40,11 +52,17 @@ class svmModel:
   def predictProb(self, y, x):
     self.predict(y, x, '-b 1')
 
-  def crossValidation(self):
-    return svm_train(self.y, self.x, '-v')
+  def crossValidation(self, k):
+    return svm_train(self.y, self.x, '-v ' + str(k))
 
   def getX(self):
     return self.x
+  
+  def setX(self, x):
+    self.x = x
+
+  def setY(self, y):
+    self.y = y
 
   def getY(self):
     return self.y

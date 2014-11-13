@@ -1,5 +1,5 @@
 import feature_extractor, os
-
+import json
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
@@ -45,7 +45,7 @@ features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 # Now you can feed 'features' into your ML algorithm.
 # Beware of massive output:
 f = open('features', 'w')
-f.write(str(features))
+f.write(json.dumps(features))
 f.close()
 
 # This is part of the content of 'features' so you know what format it is in:
