@@ -14,10 +14,16 @@ class svmModel:
       self.model = svm_train(self.y, self.x, options)
   
   def predict(self, y, x, options = None):
+    newX = [0] * len(x)
+    for i in range(len(x)):
+      newX[i] = {}
+      for j in x[i]:
+        if j in self.featuresToIndex:
+          newX[i][self.featuresToIndex[j]] = x[i][j]
     if options is None:
-      return svm_predict(y, x, self.model)
+      return svm_predict(y, newX, self.model)
     else:
-      return svm_predict(y, x, self.model, options)
+      return svm_predict(y, newX, self.model, options)
 
   def read(self, file):
     f = open(file, 'r')
@@ -27,18 +33,18 @@ class svmModel:
     for i in range(len(raw)):
       self.y[i] = raw[i][1]
       x[i] = raw[i][0]
-    featuresToIndex = {}
-    indexToFeatures = {}
+    self.featuresToIndex = {}
+    self.indexToFeatures = {}
     count = 0
     self.x = [0] * len(raw)
     for i in range(len(x)):
       self.x[i] = {}
       for j in x[i]:
-        if j not in featuresToIndex:
-          featuresToIndex[j] = count
-          indexToFeatures[count] = j
+        if j not in self.featuresToIndex:
+          self.featuresToIndex[j] = count
+          self.indexToFeatures[count] = j
           count += 1
-        self.x[i][featuresToIndex[j]] = x[i][j]
+        self.x[i][self.featuresToIndex[j]] = x[i][j]
 
   def saveModel(self, file):
     svm_save_model(file, self.model)
