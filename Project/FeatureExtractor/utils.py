@@ -1,5 +1,6 @@
 import feature_extractor
 
+
 def category_dir_to_index(dir_name):
     if dir_name == 'Administrative Law':
         return feature_extractor.INDEX_ADMINISTRATIVE_LAW
@@ -73,12 +74,13 @@ def get_holding_result(held_line):
     
     return 0 if yes_index <= no_index else -1
 
+
 def remove_stop_words(line):
-    stopWords = [ ' i ', ' a ', ' about ', ' an ', ' are ', ' as ', ' at ', ' be ',\
-                ' by ', ' com ', ' for ', ' from', ' how', ' in ', ' is ', ' it ', \
-                ' of ', ' on ', ' or ', ' s ', ' that', ' the ', ' this', ' to ', ' was ',\
-                ' what ', ' when ', ' where', ' who ', ' will ', ' with ', ' www ']
+    stop_words = [ ' i ', ' a ', ' about ', ' an ', ' are ', ' as ', ' at ', ' be ', \
+                   ' by ', ' com ', ' for ', ' from ', ' how ', ' in ', ' is ', ' it ', \
+                   ' of ', ' on ', ' or ', ' s ', ' that ', ' the ', ' this ', ' to ', ' was ', \
+                   ' what ', ' when ', ' where ', ' who ', ' will ', ' with ', ' www ']
     
-    for item in stopWords:
+    for item in stop_words:
         line = line.replace(item, ' ')
     return line
