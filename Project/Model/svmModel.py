@@ -2,11 +2,33 @@ from svmutil import *
 import json
 
 class svmModel:
-  def __init__(self, y = None, x = None):
-    self.y = y
-    self.x = x
+  def __init__(self, features = None):
+    if features is None:
+      self.y = None
+      self.x = None
+    else:
+      self.y = [0] * len(features)
+      x = [0] * len(features)
+      for i in range(len(features)):
+        self.y[i] = features[i][1]
+        x[i] = features[i][0]
+      self.stringToIndex(x)
     self.model = None
   
+  def stringToIndex(self, x):
+    self.featuresToIndex = {}
+    self.indexToFeatures = {}
+    count = 0
+    self.x = [0] * len(x)
+    for i in range(len(x)):
+      self.x[i] = {}
+      for j in x[i]:
+        if j not in self.featuresToIndex:
+          self.featuresToIndex[j] = count
+          self.indexToFeatures[count] = j
+          count += 1
+        self.x[i][self.featuresToIndex[j]] = x[i][j]
+
   def train(self, options = None):
     if options is None:
       self.model = svm_train(self.y, self.x)
@@ -33,18 +55,7 @@ class svmModel:
     for i in range(len(raw)):
       self.y[i] = raw[i][1]
       x[i] = raw[i][0]
-    self.featuresToIndex = {}
-    self.indexToFeatures = {}
-    count = 0
-    self.x = [0] * len(raw)
-    for i in range(len(x)):
-      self.x[i] = {}
-      for j in x[i]:
-        if j not in self.featuresToIndex:
-          self.featuresToIndex[j] = count
-          self.indexToFeatures[count] = j
-          count += 1
-        self.x[i][self.featuresToIndex[j]] = x[i][j]
+    self.stringToIndex(x)
 
   def saveModel(self, file):
     svm_save_model(file, self.model)
