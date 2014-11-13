@@ -1,5 +1,8 @@
-import feature_extractor, os
+import feature_extractor
+
 import json
+import os
+
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
