@@ -75,4 +75,4 @@ for i in range(0, n_samples):
     if actual_y[i] == predicted_y[i]:
         n_correct += 1
 
-print("Accuracy: %f" % (n_correct / n_samples))
+print("Accuracy: %f" % (float(n_correct) / n_samples))
