@@ -7,12 +7,8 @@ from sklearn import linear_model
 
 def transform_features_to_matrix(features, words):
     
-<<<<<<< Updated upstream
     print("Number of samples is %d" % len(features))
     print("Number of features is %d" % len(words))
-=======
-    words = list(words)
->>>>>>> Stashed changes
     
     X = numpy.zeros((len(features), len(words)))    # n_samples X n_features
     y = []
