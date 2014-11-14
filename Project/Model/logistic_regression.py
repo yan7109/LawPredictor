@@ -5,14 +5,8 @@ import feature_extractor
 from sklearn import linear_model
 
 
-def transform_features_to_matrix(features):
-    words = set()
-    for feature in features:
-        X = feature[0]
-        for key in X:
-            words.add(key)
+def transform_features_to_matrix(features, words):
     
-    words = list(words)
     print("Number of samples is %d" % len(features))
     print("Number of features is %d" % len(words))
     
@@ -38,23 +32,39 @@ def transform_features_to_matrix(features):
 fe = feature_extractor.FeatureExtractor()
 fe.change_words_gram_size(1)
 fe.include_all_categories()
-fe.exclude_category(feature_extractor.INDEX_CONTRACTS)
 
 cases_relative_path = 'Cases'
+all_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
+
+words = set()
+for feature in all_features:
+    X = feature[0]
+    for key in X:
+        words.add(key)
+words = list(words)
+
+# Train:
+fe.exclude_all_categories()
+fe.include_category(feature_extractor.INDEX_COMMERCIAL_LAW)
+fe.include_category(feature_extractor.INDEX_CORPORATIONS)
+fe.include_category(feature_extractor.INDEX_EVIDENCE)
+fe.include_category(feature_extractor.INDEX_HEALTH_LAW)
+fe.include_category(feature_extractor.INDEX_PATENT_LAW)
+
 training_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
-(X, y) = transform_features_to_matrix(training_features)
+(X, y) = transform_features_to_matrix(training_features, words)
 
 logreg = linear_model.LogisticRegression()
 logreg.fit(X, y)
 
-# Now do testing:
+# Test:
 fe.exclude_all_categories()
 fe.include_category(feature_extractor.INDEX_CONTRACTS)
 
 testing_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
-(X, actual_y) = transform_features_to_matrix(testing_features)
+(X, actual_y) = transform_features_to_matrix(testing_features, words)
 
 predicted_y = logreg.predict(X)
 
