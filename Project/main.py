@@ -56,6 +56,8 @@ for training_example in training:
 print("Number of negative examples in training: " + str(neg))
 print("Number of positive examples in training: " + str(pos))
 
+pos = 0
+neg = 0
 for testing_example in testing:
 	if(testing_example[1] == 0):
 		pos = pos + 1
