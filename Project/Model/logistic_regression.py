@@ -13,6 +13,8 @@ def transform_features_to_matrix(features):
             words.add(key)
     
     words = list(words)
+    print("Number of samples is %d" % len(features))
+    print("Number of features is %d" % len(words))
     
     X = numpy.zeros((len(features), len(words)))    # n_samples X n_features
     y = []
@@ -34,7 +36,7 @@ def transform_features_to_matrix(features):
 
 # To start, create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
-fe.change_words_gram_size(2)
+fe.change_words_gram_size(1)
 fe.include_all_categories()
 fe.exclude_category(feature_extractor.INDEX_CONTRACTS)
 
