@@ -3,6 +3,7 @@ import os
 import sys
 sys.path.append('FeatureExtractor/')
 sys.path.append('Model/')
+sys.path.append('../lib/libsvm-3.19/python/')
 import feature_extractor
 from svmModel import *
 
