@@ -50,6 +50,7 @@ words = list(words)
 # Train:
 print("Training...")
 fe.include_all_categories()
+fe.exclude_category(feature_extractor.INDEX_CONTRACTS)
 
 training_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
@@ -78,4 +79,4 @@ for i in range(0, n_samples):
 
 print("Accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
 
-# Output: Accuracy: 100.000000%
+# Output: Accuracy: 75.311721%
