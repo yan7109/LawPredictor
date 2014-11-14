@@ -43,9 +43,6 @@ SECTION_WEIGHT_MAX = 1.0
 SECTION_WEIGHT_MIN = 0.0
 
 
-MAX_WORD_GRAM_SIZE = 3
-
-
 class FeatureExtractor:
     
     def compute_word_to_weight_helper(self, word_to_weight, line, section_index):
@@ -58,7 +55,7 @@ class FeatureExtractor:
         
         # Also add 2 and 3 sized word grams into the features
         for index, word in enumerate(words):
-            for new_index in xrange(index, index + MAX_WORD_GRAM_SIZE):
+            for new_index in xrange(index, index + self.max_word_gram_size):
                 # Ensure words are not out of range
                 if (len(words) <= new_index):
                     continue
@@ -147,6 +144,10 @@ class FeatureExtractor:
             self.f_include_categories[i] = False
     
     
+    def change_words_gram_size(self, n):
+        self.max_word_gram_size = n
+    
+    
     # Constructor.
     def __init__(self):
         
@@ -161,4 +162,7 @@ class FeatureExtractor:
         # By default, all sections have equal weight.
         for i in range(SECTION_COUNT):
             self.section_weights.append(SECTION_WEIGHT_MAX)
+        
+        # By default, we use 3-gram features.
+        self.max_word_gram_size = 3
         
