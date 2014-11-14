@@ -77,3 +77,5 @@ for i in range(0, n_samples):
         n_correct += 1
 
 print("Accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
+
+# Output: Accuracy: 100.000000%
