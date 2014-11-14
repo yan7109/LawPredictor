@@ -30,12 +30,16 @@ def transform_features_to_matrix(features, words):
 
 # To start, create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
+
+# If the gram size is too big, logistic regression either runs out
+# of memory or takes a long time to complete.
 fe.change_words_gram_size(1)
 fe.include_all_categories()
 
 cases_relative_path = 'Cases'
 all_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
+# Get all possible words.
 words = set()
 for feature in all_features:
     X = feature[0]
@@ -44,12 +48,8 @@ for feature in all_features:
 words = list(words)
 
 # Train:
-fe.exclude_all_categories()
-fe.include_category(feature_extractor.INDEX_COMMERCIAL_LAW)
-fe.include_category(feature_extractor.INDEX_CORPORATIONS)
-fe.include_category(feature_extractor.INDEX_EVIDENCE)
-fe.include_category(feature_extractor.INDEX_HEALTH_LAW)
-fe.include_category(feature_extractor.INDEX_PATENT_LAW)
+print("Training...")
+fe.include_all_categories()
 
 training_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
@@ -59,6 +59,7 @@ logreg = linear_model.LogisticRegression()
 logreg.fit(X, y)
 
 # Test:
+print("Testing...")
 fe.exclude_all_categories()
 fe.include_category(feature_extractor.INDEX_CONTRACTS)
 
@@ -75,4 +76,4 @@ for i in range(0, n_samples):
     if actual_y[i] == predicted_y[i]:
         n_correct += 1
 
-print("Accuracy: %f" % (float(n_correct) / n_samples))
+print("Accuracy: %f%" % (float(n_correct) / n_samples * 100.0))
