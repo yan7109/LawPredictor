@@ -3,6 +3,10 @@ import sys
 sys.path.append('../FeatureExtractor/')
 import feature_extractor
 from sklearn import linear_model
+import random
+
+TRAINING_SET_SIZE = 4000
+TESTING_SET_SIZE = 500
 
 
 def transform_features_to_matrix(features, words):
@@ -47,24 +51,83 @@ for feature in all_features:
         words.add(key)
 words = list(words)
 
+# Get desired data and split into traing and testing
+fe.include_all_categories()
+
+# Dont count held section because we are predicting it
+fe.change_section_weight(feature_extractor.INDEX_SEC_HELD, 0)
+
+# Not sure what is in this but it is excluded in python section
+fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
+
+feature_vectors = fe.compute_word_weights_to_hold_result(cases_relative_path)
+random.shuffle(feature_vectors)
+
+# Check that there is enough data
+if(TRAINING_SET_SIZE + TESTING_SET_SIZE > len(feature_vectors)):
+    print("ERROR: Not enough data for training and testing set sizes.")
+    exit(0)
+
+# Split into training and testing data
+training_features = feature_vectors[0:TRAINING_SET_SIZE]
+
+testing_features = feature_vectors[TRAINING_SET_SIZE:TRAINING_SET_SIZE + TESTING_SET_SIZE]
+
+# Print number of positive and negative examples in the training set
+pos = 0
+neg = 0
+for training_example in training_features:
+    if(training_example[1] == 0):
+        pos = pos + 1
+    else:
+        neg = neg + 1
+
+print("Number of negative examples in training: " + str(neg))
+print("Number of positive examples in training: " + str(pos))
+
+pos = 0
+neg = 0
+for testing_example in testing_features:
+    if(testing_example[1] == 0):
+        pos = pos + 1
+    else:
+        neg = neg + 1
+
+print("Number of negative examples in testing: " + str(neg))
+print("Number of positive examples in testing: " + str(pos))
+
 # Train:
 print("Training...")
-fe.include_all_categories()
-fe.exclude_category(feature_extractor.INDEX_CONTRACTS)
+#fe.include_all_categories()
+#fe.exclude_category(feature_extractor.INDEX_CONTRACTS)
 
-training_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
+#training_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
 (X, y) = transform_features_to_matrix(training_features, words)
 
 logreg = linear_model.LogisticRegression()
 logreg.fit(X, y)
 
+# Compute training set error:
+
+predicted_y = logreg.predict(X)
+
+# Now calculate accuracy:
+n_samples = len(y)
+n_correct = 0
+for i in range(0, n_samples):
+    if y[i] == predicted_y[i]:
+        n_correct += 1
+
+print("Training set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
+
+
 # Test:
 print("Testing...")
-fe.exclude_all_categories()
-fe.include_category(feature_extractor.INDEX_CONTRACTS)
+# fe.exclude_all_categories()
+# fe.include_category(feature_extractor.INDEX_CONTRACTS)
 
-testing_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
+# testing_features = fe.compute_word_weights_to_hold_result(cases_relative_path)
 
 (X, actual_y) = transform_features_to_matrix(testing_features, words)
 
@@ -77,6 +140,6 @@ for i in range(0, n_samples):
     if actual_y[i] == predicted_y[i]:
         n_correct += 1
 
-print("Accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
+print("Testing set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
 
 # Output: Accuracy: 75.311721%
