@@ -73,23 +73,23 @@ def get_holding_result(held_line):
     
     yes_index = yes_index if yes_index <= affirm_index else affirm_index
 
-    if(yes_index >= 0 and no_index < 0):
+    if yes_index >= 0 and no_index < 0:
         # print(held_line + " 0   \n\n\n\n\n")
         return 0
-    elif(no_index >= 0 and yes_index < 0):
+    elif no_index >= 0 and yes_index < 0:
         # print(held_line + " -1   \n\n\n\n\n")
         return -1
-    elif(no_index >= 0 and yes_index >= 0):
+    elif no_index >= 0 and yes_index >= 0:
         # both appear
         # return whichever one came first
-        if(yes_index <= no_index):
+        if yes_index <= no_index:
             # print(held_line + " 0   \n\n\n\n\n")
             return 0
         else:
             # print(held_line + " -1   \n\n\n\n\n")
             return -1
     else:
-        #neither appear
+        # neither appear
         # default to yes (but could remove in the future)
         # print(held_line + " 0   \n\n\n\n\n")
         return 0
