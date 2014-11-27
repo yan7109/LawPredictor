@@ -82,6 +82,7 @@ print("Number of positive examples in testing: " + str(pos))
 
 a = svmModel(training)
 print a.crossValidation(10)
+a.train()
 
 # Test
 
