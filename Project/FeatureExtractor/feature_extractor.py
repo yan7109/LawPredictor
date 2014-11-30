@@ -4,6 +4,7 @@ import fnmatch
 import os
 import re
 import string
+import nltk
 
 
 # Global constant values.
@@ -49,10 +50,14 @@ class FeatureExtractor:
         line = re.sub('[^0-9a-zA-Z]+', ' ', line)
         line = utils.remove_stop_words(line)
         
-        word_weight = self.section_weights[section_index]
+        word_weight = 1.0 #self.section_weights[section_index]
         
-        words = line.split()
-        
+        tokens = nltk.word_tokenize(line)
+        words = [0]*len(tokens)
+        stemmer = nltk.stem.lancaster.LancasterStemmer()
+        for i in range(len(tokens)):
+            words[i] = stemmer.stem(tokens[i])
+
         # Also add 2 and 3 sized word grams into the features
         for index, word in enumerate(words):
             for new_index in xrange(index, index + self.max_word_gram_size):
@@ -60,12 +65,13 @@ class FeatureExtractor:
                 if (len(words) <= new_index):
                     continue
                 word_gram = words[index : new_index + 1]
-                gram_weight = len(word_gram)
                 key = ' '.join(word_gram)
+                if self.sectionalize:
+                    key = str(section_index) + '_' + key
                 if key in word_to_weight:
-                    word_to_weight[key] += word_weight * gram_weight
+                    word_to_weight[key] += word_weight
                 else:
-                    word_to_weight[key] = word_weight * gram_weight
+                    word_to_weight[key] = word_weight
         
     def compute_word_weights_to_hold_result_helper(self, file_path):
         word_to_weight = {}
@@ -76,6 +82,7 @@ class FeatureExtractor:
             
             for line in f:
                 line = line.strip().lower()
+
                 if len(line) == 0:
                     continue
                 
@@ -154,6 +161,7 @@ class FeatureExtractor:
         # Instance variables.
         self.f_include_categories   = []
         self.section_weights        = []
+        self.sectionalize = True
         
         # By default, we want to include all the categories in our output.
         for i in range(CATEGORY_COUNT):
