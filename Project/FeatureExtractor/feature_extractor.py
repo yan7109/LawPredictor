@@ -1,6 +1,7 @@
 import utils
 
 import fnmatch
+import operator
 import os
 import re
 import string
@@ -105,7 +106,7 @@ class FeatureExtractor:
         
         return (word_to_weight, holding_result)
         
-    def compute_word_weights_to_hold_result(self, cases_relative_path):
+    def compute_word_weights_to_hold_result(self, cases_relative_path, num_hi_freq_words_remove = 20, num_lo_freq_words_remove = 10):
         result = []
         cases_full_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), cases_relative_path)
         categories_dir = os.listdir(cases_full_path)
@@ -124,6 +125,35 @@ class FeatureExtractor:
                     
                     cur_result = self.compute_word_weights_to_hold_result_helper(file_path)
                     result.append(cur_result)
+        
+        # Now we remove the high frequency words and low frequency words.
+        words_to_count = {}
+        for feature in result:
+            X = feature[0]
+            for key in X:
+                if key in words_to_count:
+                    words_to_count[key] += 1
+                else:
+                    words_to_count[key] = 1
+                    
+        sorted_words_to_count = sorted(words_to_count.items(), key=operator.itemgetter(1))
+        num_words = len(words_to_count)
+        print("Total number of words/features is %d" % num_words)
+        
+        print("Removing the least frequent %d words" % num_lo_freq_words_remove)
+        for i in range(0, num_lo_freq_words_remove):
+            word_to_remove = sorted_words_to_count[i][0]
+            for feature in result:
+                X = feature[0]
+                if word_to_remove in X:
+                    del X[word_to_remove]
+        print("Removing the most frequent %d words" % num_hi_freq_words_remove)
+        for i in range(num_words - num_hi_freq_words_remove, num_words):
+            word_to_remove = sorted_words_to_count[i][0]
+            for feature in result:
+                X = feature[0]
+                if word_to_remove in X:
+                    del X[word_to_remove]
                     
         return result
     
