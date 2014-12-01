@@ -50,7 +50,8 @@ class FeatureExtractor:
     def compute_word_to_weight_helper(self, word_to_weight, line, section_index):
         line = re.sub('[^0-9a-zA-Z]+', ' ', line)
         line = utils.remove_stop_words(line)
-        
+        if self.section_weights[section_index] == 0:
+          return
         word_weight = 1.0 #self.section_weights[section_index]
         
         tokens = nltk.word_tokenize(line)

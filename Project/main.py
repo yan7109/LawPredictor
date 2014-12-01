@@ -15,9 +15,9 @@ from sklearn import svm
 
 # Set training set size
 # A random sample of this size will be taken from the data
-TRAINING_SET_SIZE = 500
+TRAINING_SET_SIZE = 5000
 
-TESTING_SET_SIZE = 500
+TESTING_SET_SIZE = 836
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
@@ -29,7 +29,7 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
 
 cases_relative_path = 'Cases'
 
-features = fe.compute_word_weights_to_hold_result(cases_relative_path)
+features = fe.compute_word_weights_to_hold_result(cases_relative_path, 10000, 10000)
 
 # Shuffle works in place
 random.shuffle(features)
