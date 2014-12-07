@@ -55,7 +55,7 @@ class FeatureExtractor:
         word_weight = 1.0 #self.section_weights[section_index]
         
         tokens = nltk.word_tokenize(line)
-        words = [0]*len(tokens)
+        words = [0] * len(tokens)
         stemmer = nltk.stem.lancaster.LancasterStemmer()
         for i in range(len(tokens)):
             words[i] = stemmer.stem(tokens[i])
@@ -192,7 +192,7 @@ class FeatureExtractor:
         # Instance variables.
         self.f_include_categories   = []
         self.section_weights        = []
-        self.sectionalize = True
+        self.sectionalize           = True
         
         # By default, we want to include all the categories in our output.
         for i in range(CATEGORY_COUNT):
