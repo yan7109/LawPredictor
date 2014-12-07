@@ -1,5 +1,3 @@
-import json
-import os
 import sys
 import random
 sys.path.append('FeatureExtractor/')
@@ -8,10 +6,13 @@ sys.path.append('../lib/libsvm-3.19/python/')
 import feature_extractor
 from svmModel import *
 
-import numpy as np
 from sklearn import cross_validation
 from sklearn import datasets
 from sklearn import svm
+from sklearn.metrics import confusion_matrix
+
+import matplotlib.pyplot as plt
+
 
 # Set training set size
 # A random sample of this size will be taken from the data
@@ -35,7 +36,7 @@ features = fe.compute_word_weights_to_hold_result(cases_relative_path, 10000, 10
 random.shuffle(features)
 
 # Check that there is enough data
-if(TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features)):
+if TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features):
 	print("ERROR: Not enough data for training and testing set sizes.")
 	exit(0)
 
@@ -95,6 +96,8 @@ for i in range(len(testing)):
 pred_labels, (ACC, MSE, SCC), pred_values = a.predict(test_y, test_x)
 
 print("The prediction accuracy is %f" % ACC)
+#print("Prediction results:")
+#print pred_labels
 
 #  prob  = svm_problem(y, x)
 # >>> param = svm_parameter('-t 0 -c 4 -b 1')
@@ -102,3 +105,14 @@ print("The prediction accuracy is %f" % ACC)
 
 # p_label, p_acc, p_val = svm_predict(y, x, m, '-b 1')
 # >>> ACC, MSE, SCC = evaluations(y, p_label)
+
+# Compute confusion matrix
+cm = confusion_matrix(test_y, pred_labels)
+
+# Display the confusion matrix
+plt.matshow(cm)
+plt.title('SVM confusion matrix')
+plt.colorbar()
+plt.ylabel('True Holding Result (0: not held, 1: held)')
+plt.xlabel('Predicted Holding Result')
+plt.show()
