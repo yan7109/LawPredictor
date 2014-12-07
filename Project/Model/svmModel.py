@@ -3,7 +3,7 @@ import json
 
 class svmModel:
     
-  def __init__(self, features):
+  def __init__(self, features=None):
     if features is None:
       self.y = None
       self.x = None
@@ -13,7 +13,7 @@ class svmModel:
       for i in range(len(features)):
         self.y[i] = features[i][1]
         x[i] = features[i][0]
-      self.stringToIndex(x, test_data)
+      self.stringToIndex(x)
     self.model = None
   
   def stringToIndex(self, x):
