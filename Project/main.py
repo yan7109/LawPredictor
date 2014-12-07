@@ -16,13 +16,13 @@ import matplotlib.pyplot as plt
 
 # Set training set size
 # A random sample of this size will be taken from the data
-TRAINING_SET_SIZE = 5000
-TRAINING_NEGATIVE_SIZE = 1700
-TRAINING_POSITIVE_SIZE = 1700
+TOTAL_SET_SIZE = 5863
 
-TESTING_SET_SIZE = 836
-TESTING_NEGATIVE_SIZE = 300
-TESTING_POSITIVE_SIZE = 300
+TRAINING_NEGATIVE_SIZE = 1900
+TRAINING_POSITIVE_SIZE = 1900
+
+TESTING_NEGATIVE_SIZE = 199
+TESTING_POSITIVE_SIZE = 199
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
@@ -35,18 +35,22 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
 cases_relative_path = 'Cases'
 
 features = fe.compute_word_weights_to_hold_result(cases_relative_path, 20, 20)
+num_pos = 0
+num_neg = 0
+for feature in features:
+	if feature[1] == 0:
+		num_pos += 1
+	else:
+		num_neg += 1
+print("Total number of positive examples: %d" % num_pos)
+print("Total number of negative examples: %d" % num_neg)
 
 # Shuffle works in place
 random.shuffle(features)
 
-# Check that there is enough data
-if TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features):
-	print("ERROR: Not enough data for training and testing set sizes.")
-	exit(0)
-
 # Split into training and testing data
-training = features[0 : TRAINING_SET_SIZE]
-testing = features[TRAINING_SET_SIZE : TRAINING_SET_SIZE + TESTING_SET_SIZE]
+training = features
+testing = []
 
 # Impose TRAINING_POSITIVE_SIZE and TRAINING_NEGATIVE_SIZE
 cur_num_train_pos = 0
@@ -121,7 +125,7 @@ print("Number of positive examples in testing: %d" % pos)
 
 a = svmModel(training)
 #print a.crossValidation(10)
-a.train('-g 0.5')
+a.train('-g 0.05')
 
 # Test
 
