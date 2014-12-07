@@ -40,32 +40,31 @@ if(TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features)):
 	exit(0)
 
 # Split into training and testing data
-training = features[0:TRAINING_SET_SIZE]
-
-testing = features[TRAINING_SET_SIZE:TRAINING_SET_SIZE + TESTING_SET_SIZE]
+training = features[0 : TRAINING_SET_SIZE]
+testing = features[TRAINING_SET_SIZE : TRAINING_SET_SIZE + TESTING_SET_SIZE]
 
 # Print number of positive and negative examples in the training set
 pos = 0
 neg = 0
 for training_example in training:
-	if(training_example[1] == 0):
-		pos = pos + 1
+	if training_example[1] == 0:
+		pos += 1
 	else:
-		neg = neg + 1
+		neg += 1
 
-print("Number of negative examples in training: " + str(neg))
-print("Number of positive examples in training: " + str(pos))
+print("Number of negative examples in training: %d" % neg)
+print("Number of positive examples in training: %d" % pos)
 
 pos = 0
 neg = 0
 for testing_example in testing:
-	if(testing_example[1] == 0):
-		pos = pos + 1
+	if testing_example[1] == 0:
+		pos += 1
 	else:
-		neg = neg + 1
+		neg += 1
 
-print("Number of negative examples in testing: " + str(neg))
-print("Number of positive examples in testing: " + str(pos))
+print("Number of negative examples in testing: %d" % neg)
+print("Number of positive examples in testing: %d" % pos)
 
 # convert from dictionary to vector
 
@@ -90,10 +89,12 @@ a.train()
 test_y = [0] * len(testing)
 test_x = [0] * len(testing)
 for i in range(len(testing)):
-    test_y[i] = testing[i][1]
-    test_x[i] = testing[i][0]
+	test_y[i] = testing[i][1]
+	test_x[i] = testing[i][0]
 
-print a.predict(test_y, test_x)
+pred_labels, (ACC, MSE, SCC), pred_values = a.predict(test_y, test_x)
+
+print("The prediction accuracy is %f" % ACC)
 
 #  prob  = svm_problem(y, x)
 # >>> param = svm_parameter('-t 0 -c 4 -b 1')
@@ -101,8 +102,3 @@ print a.predict(test_y, test_x)
 
 # p_label, p_acc, p_val = svm_predict(y, x, m, '-b 1')
 # >>> ACC, MSE, SCC = evaluations(y, p_label)
-
-
-
-
-#10-fold Cross Validation Accuracy = 95.1337%
