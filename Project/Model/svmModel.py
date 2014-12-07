@@ -3,7 +3,7 @@ import json
 
 class svmModel:
     
-  def __init__(self, features, test_data):
+  def __init__(self, features):
     if features is None:
       self.y = None
       self.x = None
@@ -16,7 +16,7 @@ class svmModel:
       self.stringToIndex(x, test_data)
     self.model = None
   
-  def stringToIndex(self, x, test_data):
+  def stringToIndex(self, x):
     self.featuresToIndex = {}
     self.indexToFeatures = {}
     count = 0
@@ -29,15 +29,6 @@ class svmModel:
           self.indexToFeatures[count] = j
           count += 1
         self.x[i][self.featuresToIndex[j]] = x[i][j]
-    for i in range(len(test_data)):
-      cur_x = test_data[i][0]
-      for j in cur_x:
-        if j not in self.featuresToIndex:
-          self.featuresToIndex[j] = count
-          self.indexToFeatures[count] = j
-          count += 1
-          for z in range(len(self.x)):
-            self.x[z][self.featuresToIndex[j]] = 0
 
   def train(self, options = None):
     if options is None:
@@ -52,8 +43,7 @@ class svmModel:
       for j in x[i]:
         if j in self.featuresToIndex:
           newX[i][self.featuresToIndex[j]] = x[i][j]
-        else:
-          print("warning: missing feature...")
+        
     if options is None:
       return svm_predict(y, newX, self.model)
     else:

@@ -80,9 +80,9 @@ print("Number of positive examples in testing: %d" % pos)
 # clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
 # clf.score(X_test, y_test) 
 
-a = svmModel(training, testing)
+a = svmModel(training)
 #print a.crossValidation(10)
-a.train()
+a.train('-g 0.01')
 
 # Test
 
