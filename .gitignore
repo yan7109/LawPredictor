@@ -6,3 +6,6 @@ features
 
 # Vim Generated files
 *.swp
+
+# Thumbs.db
+Thumbs.db
