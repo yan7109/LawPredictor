@@ -81,7 +81,7 @@ print("Number of positive examples in testing: %d" % pos)
 # clf.score(X_test, y_test) 
 
 a = svmModel(training)
-print a.crossValidation(10)
+#print a.crossValidation(10)
 a.train()
 
 # Test
@@ -95,9 +95,18 @@ for i in range(len(testing)):
 
 pred_labels, (ACC, MSE, SCC), pred_values = a.predict(test_y, test_x)
 
+# See how many were predicted as 0
+count = 0
+for y in pred_labels:
+    if y == 0:
+        count += 1
+print("%d testing examples were predicted as 0." % count)
+
 print("The prediction accuracy is %f" % ACC)
 #print("Prediction results:")
 #print pred_labels
+#print("Real results:")
+#print test_y
 
 #  prob  = svm_problem(y, x)
 # >>> param = svm_parameter('-t 0 -c 4 -b 1')

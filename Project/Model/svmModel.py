@@ -2,6 +2,7 @@ from svmutil import *
 import json
 
 class svmModel:
+    
   def __init__(self, features = None):
     if features is None:
       self.y = None
@@ -71,15 +72,15 @@ class svmModel:
 
   def crossValidation(self, k):
     return svm_train(self.y, self.x, '-v ' + str(k))
-
-  def getX(self):
-    return self.x
   
   def setX(self, x):
     self.x = x
 
   def setY(self, y):
     self.y = y
+
+  def getX(self):
+    return self.x
 
   def getY(self):
     return self.y

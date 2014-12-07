@@ -3,6 +3,8 @@ import sys
 sys.path.append('../FeatureExtractor/')
 import feature_extractor
 from sklearn import linear_model
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
 import random
 
 TRAINING_SET_SIZE = 5500
@@ -112,6 +114,13 @@ print("Testing...")
 
 predicted_y = logreg.predict(X)
 
+# See how many were predicted as 0
+count = 0
+for y in predicted_y:
+    if y == 0:
+        count += 1
+print("%d testing examples were predicted as 0." % count)
+
 # Now calculate accuracy:
 n_samples = len(actual_y)
 n_correct = 0
@@ -119,3 +128,14 @@ for i in range(0, n_samples):
     if actual_y[i] == predicted_y[i]:
         n_correct += 1
 print("Testing set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
+
+# Compute confusion matrix
+cm = confusion_matrix(actual_y, predicted_y)
+
+# Display the confusion matrix
+plt.matshow(cm)
+plt.title('Logistic Regression confusion matrix')
+plt.colorbar()
+plt.ylabel('True Holding Result (0: not held, 1: held)')
+plt.xlabel('Predicted Holding Result')
+plt.show()
