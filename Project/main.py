@@ -30,7 +30,7 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
 
 cases_relative_path = 'Cases'
 
-features = fe.compute_word_weights_to_hold_result(cases_relative_path, 10000, 10000)
+features = fe.compute_word_weights_to_hold_result(cases_relative_path, 20, 20)
 
 # Shuffle works in place
 random.shuffle(features)

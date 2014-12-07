@@ -52,7 +52,7 @@ class FeatureExtractor:
         line = utils.remove_stop_words(line)
         if self.section_weights[section_index] == 0:
           return
-        word_weight = 1.0 #self.section_weights[section_index]
+        word_weight = self.section_weights[section_index]
         
         tokens = nltk.word_tokenize(line)
         words = [0] * len(tokens)

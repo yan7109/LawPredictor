@@ -96,7 +96,7 @@ def get_holding_result(held_line):
 
 
 def remove_stop_words(line):
-    stop_words = [ ' i ', ' a ', ' about ', ' an ', ' are ', ' as ', ' at ', ' be ', \
+    stop_words = [ ' i ', ' a ', ' about ', ' an ', 'and', ' are ', ' as ', ' at ', ' be ', \
                    ' by ', ' com ', ' for ', ' from ', ' how ', ' in ', ' is ', ' it ', \
                    ' of ', ' on ', ' or ', ' s ', ' that ', ' the ', ' this ', ' to ', ' was ', \
                    ' what ', ' when ', ' where ', ' who ', ' will ', ' with ', ' www ']
