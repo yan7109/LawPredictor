@@ -17,6 +17,8 @@ import matplotlib.pyplot as plt
 # Set training set size
 # A random sample of this size will be taken from the data
 TRAINING_SET_SIZE = 5000
+TRAINING_NEGATIVE_SIZE = 1700
+TRAINING_POSITIVE_SIZE = 1700
 
 TESTING_SET_SIZE = 836
 TESTING_NEGATIVE_SIZE = 300
@@ -46,6 +48,26 @@ if TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features):
 training = features[0 : TRAINING_SET_SIZE]
 testing = features[TRAINING_SET_SIZE : TRAINING_SET_SIZE + TESTING_SET_SIZE]
 
+# Impose TRAINING_POSITIVE_SIZE and TRAINING_NEGATIVE_SIZE
+cur_num_train_pos = 0
+cur_num_train_neg = 0
+real_training = []
+counter = 0
+while counter < len(training):
+	cur_train = training[counter]
+	counter += 1
+	if cur_train[1] == 0 and cur_num_train_pos != TRAINING_POSITIVE_SIZE:
+		real_training.append(cur_train)
+		cur_num_train_pos += 1
+	elif cur_train[1] == -1 and cur_num_train_neg != TRAINING_NEGATIVE_SIZE:
+		real_training.append(cur_train)
+		cur_num_train_neg += 1
+	else:
+		# This example is not used in training, put it in testing
+		testing.append(cur_train)
+training = real_training
+
+# Impose TESTING_POSITIVE_SIZE and TESTING_NEGATIVE_SIZE
 cur_num_test_pos = 0
 cur_num_test_neg = 0
 real_testing = []
@@ -99,7 +121,7 @@ print("Number of positive examples in testing: %d" % pos)
 
 a = svmModel(training)
 #print a.crossValidation(10)
-a.train('-g 0.01')
+a.train('-g 0.5')
 
 # Test
 
@@ -134,6 +156,7 @@ print("The prediction accuracy is %f" % ACC)
 
 # Compute confusion matrix
 cm = confusion_matrix(test_y, pred_labels)
+print(cm)
 
 # Display the confusion matrix
 plt.matshow(cm)
