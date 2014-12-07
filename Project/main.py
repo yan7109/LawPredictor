@@ -19,6 +19,8 @@ import matplotlib.pyplot as plt
 TRAINING_SET_SIZE = 5000
 
 TESTING_SET_SIZE = 836
+TESTING_NEGATIVE_SIZE = 300
+TESTING_POSITIVE_SIZE = 300
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
@@ -43,6 +45,21 @@ if TRAINING_SET_SIZE + TESTING_SET_SIZE > len(features):
 # Split into training and testing data
 training = features[0 : TRAINING_SET_SIZE]
 testing = features[TRAINING_SET_SIZE : TRAINING_SET_SIZE + TESTING_SET_SIZE]
+
+cur_num_test_pos = 0
+cur_num_test_neg = 0
+real_testing = []
+counter = 0
+while (cur_num_test_pos != TESTING_POSITIVE_SIZE or cur_num_test_neg != TESTING_NEGATIVE_SIZE) and counter < len(testing):
+	cur_test = testing[counter]
+	counter += 1
+	if cur_test[1] == 0 and cur_num_test_pos != TESTING_POSITIVE_SIZE:
+		real_testing.append(cur_test)
+		cur_num_test_pos += 1
+	if cur_test[1] == -1 and cur_num_test_neg != TESTING_NEGATIVE_SIZE:
+		real_testing.append(cur_test)
+		cur_num_test_neg += 1
+testing = real_testing
 
 # Print number of positive and negative examples in the training set
 pos = 0
