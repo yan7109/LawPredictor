@@ -192,7 +192,7 @@ class FeatureExtractor:
         # Instance variables.
         self.f_include_categories   = []
         self.section_weights        = []
-        self.sectionalize           = True
+        self.sectionalize           = False
         
         # By default, we want to include all the categories in our output.
         for i in range(CATEGORY_COUNT):
@@ -204,4 +204,4 @@ class FeatureExtractor:
         
         # By default, we use 3-gram features.
         self.max_word_gram_size = 3
-        
+    

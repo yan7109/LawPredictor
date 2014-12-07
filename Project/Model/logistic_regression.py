@@ -46,7 +46,7 @@ fe.include_all_categories()
 fe.change_section_weight(feature_extractor.INDEX_SEC_HELD, 0)
 
 cases_relative_path = 'Cases'
-feature_vectors = fe.compute_word_weights_to_hold_result(cases_relative_path, 10000, 10000)
+feature_vectors = fe.compute_word_weights_to_hold_result(cases_relative_path, 10, 10)
 
 # Get all possible words.
 words = set()

@@ -1,0 +1,13 @@
+Total number of features: 1102658.
+Exclude 100000 most frequent features.
+Exclude 100000 least frequent features.
+We use 902658 features during training and testing.
+
+Total number of training examples: 3800
+(1900 are positively labeled, 1900 are negatively labeled)
+
+Total number of testing examples: 398
+(199 are positively labeled, 199 are negatively labeled)
+
+Gamma = 
+Accuracy ~ %
