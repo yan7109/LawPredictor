@@ -1,0 +1,13 @@
+Logistic Regression results:
+
+Training set accuracy: 67.684211%
+
+Testing set accuracy: 60.804020%
+
+
+[[123  76]
+ [ 80 119]]
+
+ [[123  76]
+ [ 80 119]]
+
