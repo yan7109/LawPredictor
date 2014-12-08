@@ -99,7 +99,7 @@ def remove_stop_words(line):
     stop_words = [ ' i ', ' a ', ' about ', ' an ', 'and', ' are ', ' as ', ' at ', ' be ', \
                    ' by ', ' com ', ' for ', ' from ', ' how ', ' in ', ' is ', ' it ', \
                    ' of ', ' on ', ' or ', ' s ', ' that ', ' the ', ' this ', ' to ', ' was ', \
-                   ' what ', ' when ', ' where ', ' who ', ' will ', ' with ', ' www ']
+                   ' what ', ' when ', ' where ', ' who ', ' will ', ' with ', ' www ' ]
     
     for item in stop_words:
         line = line.replace(item, ' ')
