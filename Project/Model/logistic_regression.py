@@ -7,6 +7,8 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 import random
 
+numpy.set_printoptions(threshold=numpy.nan)
+
 def transform_features_to_matrix(features, words):
     
     print("Number of samples is %d" % len(features))
@@ -34,8 +36,8 @@ def transform_features_to_matrix(features, words):
 # A random sample of this size will be taken from the data
 TOTAL_SET_SIZE = 5863
 
-TRAINING_NEGATIVE_SIZE = 200
-TRAINING_POSITIVE_SIZE = 200
+TRAINING_NEGATIVE_SIZE = 1900
+TRAINING_POSITIVE_SIZE = 1900
 
 TESTING_NEGATIVE_SIZE = 199
 TESTING_POSITIVE_SIZE = 199
@@ -182,9 +184,23 @@ print("Testing set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
 
 # get most indicative features
 coefficients = logreg.coef_
-print(coefficients)
+# print(coefficients[0])
 
+# create map from word to feature coefficient
+words_to_coeff = {}
+words_to_coeff_abs = {}
+for word in words:
+    words_to_coeff[word] = coefficients[0][words.index(word)]
+    words_to_coeff_abs[word] = abs(coefficients[0][words.index(word)])
 
+# print in reverse order
+k = 20
+num_printed = 0
+for word in sorted(words_to_coeff_abs, key=words_to_coeff_abs.get, reverse=True):
+  print word, words_to_coeff[word]
+  num_printed += 1
+  if num_printed > 50:
+    break
 
 # Compute confusion matrix
 cm = confusion_matrix(actual_y, predicted_y)
