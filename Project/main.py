@@ -1,3 +1,4 @@
+import operator
 import sys
 import random
 sys.path.append('FeatureExtractor/')
@@ -86,6 +87,73 @@ while (cur_num_test_pos != TESTING_POSITIVE_SIZE or cur_num_test_neg != TESTING_
 		real_testing.append(cur_test)
 		cur_num_test_neg += 1
 testing = real_testing
+
+# Find out most indicative features for both labels using training data
+token_to_count_positive = {}
+total_positive = 0.0
+token_to_count_negative = {}
+total_negative = 0.0
+for feature in training:
+    label = feature[1]
+    tokens = feature[0]
+    
+    for token in tokens:
+        count = tokens[token]
+        if label == 0:
+            if token in token_to_count_positive:
+                token_to_count_positive[token] += count
+            else:
+                token_to_count_positive[token] = count
+            total_positive += count
+        else:
+            if token in token_to_count_negative:
+                token_to_count_negative[token] += count
+            else:
+                token_to_count_negative[token] = count
+            total_negative += count
+token_to_p_positive = token_to_count_positive
+token_to_p_negative = token_to_count_negative
+for token in token_to_p_positive:
+	token_to_p_positive[token] = token_to_p_positive[token] / total_positive
+for token in token_to_p_negative:
+	token_to_p_negative[token] = token_to_p_negative[token] / total_negative
+
+token_to_score = {}
+for token in token_to_p_positive:
+	p_pos = token_to_p_positive[token]
+	
+	if token in token_to_p_negative:
+		p_neg = token_to_p_negative[token]
+	else:
+		p_neg = 0.000001
+	
+	score = p_pos / p_neg
+	token_to_score[token] = score
+for token in token_to_p_negative:
+	if token in token_to_score:
+		continue
+	
+	p_neg = token_to_p_negative[token]
+	
+	if token in token_to_p_positive:
+		p_pos = token_to_p_positive[token]
+	else:
+		p_pos = 0.000001
+		
+	score = p_pos / p_neg
+	token_to_score[token] = score
+
+# Sort according to scores
+sorted_token_to_score_asc = sorted(token_to_score.items(), key=operator.itemgetter(1))
+sorted_token_to_score_des = sorted(token_to_score.items(), key=operator.itemgetter(1), reverse=True)
+
+print("Most indicative features for positively labeled:")
+for i in range(0, 20):
+	print(sorted_token_to_score_des[i])
+
+print("Most indicative features for negatively labeled:")
+for i in range(0, 20):
+	print(sorted_token_to_score_asc[i])
 
 # Print number of positive and negative examples in the training set
 pos = 0
