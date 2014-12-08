@@ -34,7 +34,7 @@ fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
 
 cases_relative_path = 'Cases'
 
-features = fe.compute_word_weights_to_hold_result(cases_relative_path, 10, 10)
+features = fe.compute_word_weights_to_hold_result(cases_relative_path, 0, 0)
 num_pos = 0
 num_neg = 0
 for feature in features:

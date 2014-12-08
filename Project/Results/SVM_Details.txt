@@ -1,7 +1,4 @@
-Total number of features: 1102658.
-Exclude 100000 most frequent features.
-Exclude 100000 least frequent features.
-We use 902658 features during training and testing.
+We use ~900000 features during training and testing.
 
 Total number of training examples: 3800
 (1900 are positively labeled, 1900 are negatively labeled)
@@ -9,5 +6,10 @@ Total number of training examples: 3800
 Total number of testing examples: 398
 (199 are positively labeled, 199 are negatively labeled)
 
-Gamma = 
-Accuracy ~ %
+Kernel of SVM is radial basis function: exp(-gamma*|u-v|^2)
+Gamma = 0.005
+Accuracy ~ 62%
+
+Confusion matrix:
+[[124   75]
+ [ 78  121]]
