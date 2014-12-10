@@ -7,9 +7,7 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 import random
 
-TRAINING_SET_SIZE = 5500
-TESTING_SET_SIZE = 336
-
+numpy.set_printoptions(threshold=numpy.nan)
 
 def transform_features_to_matrix(features, words):
     
@@ -32,73 +30,125 @@ def transform_features_to_matrix(features, words):
         cur_sample_num += 1
     
     return (X, y)
-    
 
-# To start, create a FeatureExtractor object.
+
+# Set training set size
+# A random sample of this size will be taken from the data
+TOTAL_SET_SIZE = 5863
+
+TRAINING_NEGATIVE_SIZE = 1900
+TRAINING_POSITIVE_SIZE = 1900
+
+TESTING_NEGATIVE_SIZE = 199
+TESTING_POSITIVE_SIZE = 199
+
+# To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
 
-# If the gram size is too big, logistic regression either runs out
-# of memory or takes a long time to complete.
-fe.change_words_gram_size(1)
+# You can pick which categories you want to include in the output.
 fe.include_all_categories()
-
-# Don't count held section because we are predicting it.
 fe.change_section_weight(feature_extractor.INDEX_SEC_HELD, 0)
+fe.change_section_weight(feature_extractor.INDEX_SEC_DISCUSSION, 0)
+
+fe.change_words_gram_size(1)
 
 cases_relative_path = 'Cases'
-feature_vectors = fe.compute_word_weights_to_hold_result(cases_relative_path, 0, 0)
 
-# Get all possible words.
+features = fe.compute_word_weights_to_hold_result(cases_relative_path, 0, 0)
+num_pos = 0
+num_neg = 0
+for feature in features:
+    if feature[1] == 0:
+        num_pos += 1
+    else:
+        num_neg += 1
+print("Total number of positive examples: %d" % num_pos)
+print("Total number of negative examples: %d" % num_neg)
+
+# Build dictionary of words
 words = set()
-for feature in feature_vectors:
+for feature in features:
     X = feature[0]
     for key in X:
         words.add(key)
 words = list(words)
 
-random.shuffle(feature_vectors)
-
-# Check that there is enough data
-print("Total number of samples is %d" % len(feature_vectors))
-if TRAINING_SET_SIZE + TESTING_SET_SIZE > len(feature_vectors):
-    print("ERROR: Not enough data for training and testing set sizes.")
-    exit(0)
+# Shuffle works in place
+random.shuffle(features)
 
 # Split into training and testing data
-training_features = feature_vectors[0 : TRAINING_SET_SIZE]
-testing_features = feature_vectors[TRAINING_SET_SIZE : TRAINING_SET_SIZE + TESTING_SET_SIZE]
+training = features
+testing = []
+
+# Impose TRAINING_POSITIVE_SIZE and TRAINING_NEGATIVE_SIZE
+cur_num_train_pos = 0
+cur_num_train_neg = 0
+real_training = []
+counter = 0
+while counter < len(training):
+    cur_train = training[counter]
+    counter += 1
+    if cur_train[1] == 0 and cur_num_train_pos != TRAINING_POSITIVE_SIZE:
+        real_training.append(cur_train)
+        cur_num_train_pos += 1
+    elif cur_train[1] == -1 and cur_num_train_neg != TRAINING_NEGATIVE_SIZE:
+        real_training.append(cur_train)
+        cur_num_train_neg += 1
+    else:
+        # This example is not used in training, put it in testing
+        testing.append(cur_train)
+training = real_training
+
+# Impose TESTING_POSITIVE_SIZE and TESTING_NEGATIVE_SIZE
+cur_num_test_pos = 0
+cur_num_test_neg = 0
+real_testing = []
+counter = 0
+while (cur_num_test_pos != TESTING_POSITIVE_SIZE or cur_num_test_neg != TESTING_NEGATIVE_SIZE) and counter < len(testing):
+    cur_test = testing[counter]
+    counter += 1
+    if cur_test[1] == 0 and cur_num_test_pos != TESTING_POSITIVE_SIZE:
+        real_testing.append(cur_test)
+        cur_num_test_pos += 1
+    if cur_test[1] == -1 and cur_num_test_neg != TESTING_NEGATIVE_SIZE:
+        real_testing.append(cur_test)
+        cur_num_test_neg += 1
+testing = real_testing
 
 # Print number of positive and negative examples in the training set
 pos = 0
 neg = 0
-for training_example in training_features:
-    if(training_example[1] == 0):
+for training_example in training:
+    if training_example[1] == 0:
         pos += 1
     else:
         neg += 1
+
 print("Number of negative examples in training: %d" % neg)
 print("Number of positive examples in training: %d" % pos)
 
-# Print number of positive and negative examples in the testing set
 pos = 0
 neg = 0
-for testing_example in testing_features:
-    if(testing_example[1] == 0):
+for testing_example in testing:
+    if testing_example[1] == 0:
         pos += 1
     else:
         neg += 1
+
 print("Number of negative examples in testing: %d" % neg)
 print("Number of positive examples in testing: %d" % pos)
 
 # Train:
 print("Training...")
-(X, y) = transform_features_to_matrix(training_features, words)
+(X, y) = transform_features_to_matrix(training, words)
 
-logreg = linear_model.LogisticRegression()
+logreg = linear_model.LogisticRegression(penalty='l2', C=0.0005)
 logreg.fit(X, y)
 
 # Compute training set error:
 predicted_y = logreg.predict(X)
+
+training_decision_confidence = logreg.decision_function(X)
 
 # Now calculate accuracy:
 n_samples = len(y)
@@ -110,9 +160,12 @@ print("Training set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
 
 # Test:
 print("Testing...")
-(X, actual_y) = transform_features_to_matrix(testing_features, words)
+(X, actual_y) = transform_features_to_matrix(testing, words)
 
 predicted_y = logreg.predict(X)
+
+testing_decision_confidence = logreg.decision_function(X)
+print(testing_decision_confidence)
 
 # See how many were predicted as 0
 count = 0
@@ -129,8 +182,29 @@ for i in range(0, n_samples):
         n_correct += 1
 print("Testing set accuracy: %f%%" % (float(n_correct) / n_samples * 100.0))
 
+# get most indicative features
+coefficients = logreg.coef_
+# print(coefficients[0])
+
+# create map from word to feature coefficient
+words_to_coeff = {}
+words_to_coeff_abs = {}
+for word in words:
+    words_to_coeff[word] = coefficients[0][words.index(word)]
+    words_to_coeff_abs[word] = abs(coefficients[0][words.index(word)])
+
+# print in reverse order
+k = 20
+num_printed = 0
+for word in sorted(words_to_coeff_abs, key=words_to_coeff_abs.get, reverse=True):
+  print word, words_to_coeff[word]
+  num_printed += 1
+  if num_printed > 50:
+    break
+
 # Compute confusion matrix
 cm = confusion_matrix(actual_y, predicted_y)
+print(cm)
 
 # Display the confusion matrix
 plt.matshow(cm)
