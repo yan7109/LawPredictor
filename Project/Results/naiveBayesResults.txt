@@ -1,0 +1,20 @@
+Total number of words/features is 15475
+Removing the least frequent 0 words
+Removing the most frequent 0 words
+Total number of positive examples: 2099
+Total number of negative examples: 3737
+Number of negative examples in training: 1900
+Number of positive examples in training: 1900
+Number of negative examples in testing: 199
+Number of positive examples in testing: 199
+Training...
+Number of samples is 3800
+Number of features is 15475
+Training set accuracy: 95.289474%
+Testing...
+Number of samples is 398
+Number of features is 15475
+238 testing examples were predicted as 0.
+Testing set accuracy: 59.045226%
+[[ 98 101]
+ [ 62 137]]
