@@ -97,14 +97,6 @@ Large table of results and confusion matrices.
 
 Important words/phrases
 
-\section{Discussion}
-
-
-
-\section{Conclusions}
-
-Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
-
 \section{Related Work}
 
 Machine Learning in law is relatively an untapped market. There currently is not a predictor based on past legal proceedings. With that being said, there are two existing websites that offer services in law through machine learning:
@@ -114,12 +106,30 @@ Machine Learning in law is relatively an untapped market. There currently is not
 \textit{Judicata}: Mapping unstructured legal data into a generative model to empower lawyers to find the most relevant and convincing past proceedings. This information then can be used to support an argument in court.
 
 
+
+\section{Conclusions}
+
+Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
+
+
+\section{Discussion}
+
+Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%. Feature set can be improved by collaborating with legal professionals to add nuances and hand-select features
+Future work can be done on factor graph to improve correctness. Aspects such as demographics of the jury, state of the trial, time of the proceedings can be used.
+
 \section{Future Work}
 
+\begin{thebibliography}{1}
+
+\bibitem{IEEEhowto:kopka}
+H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+  \bibitem{IEEEhowto:kopka}
+  B. M. McKimmie et al, “Objective and Subjective Comprehensions of Jury Instructions in Criminal Trials” in \textit{New Criminal Law Review}, Vol. 17., Number 2. University of California: pps 163-183. 
 
 
-\bibliographystyle{abbrv}
-\bibliography{cs229report.bib}
+\end{thebibliography}
+
 
 \end{document}
 
