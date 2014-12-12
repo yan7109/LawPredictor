@@ -143,7 +143,7 @@ print("Number of positive examples in testing: %d" % pos)
 print("Training...")
 (X, y) = transform_features_to_matrix(training, words)
 
-clf = RandomForestClassifier(n_estimators=10)
+clf = RandomForestClassifier(n_estimators=10,max_depth=5)
 clf.fit(X, y)
 
 # Compute training set error:
