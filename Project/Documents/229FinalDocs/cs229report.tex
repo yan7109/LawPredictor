@@ -33,6 +33,9 @@ Our dataset was obtained from url{www.casebriefs.com}. It consisted of 5,836 leg
     \label{ExampleCaseBrief}
 \end{figure}
 
+\section{Baseline and Oracle Results}
+Before tackling the actual problem. We first considered taking the baseline and oracle results of the legal case predictor. 
+
 \section{Features and Preprocessing}
 
 First, we parsed the \textit{Verdict} section to obtain the binary labels for the cases. When the \textit{Verdict} was held, meaning the answer to the \textit{Issue of Law} was "yes," we gave a positive label to the example, but when the answer to the \textit{Issue of Law} was "no" we gave a negative label to the example. 
@@ -94,8 +97,19 @@ Important words/phrases
 
 \section{Discussion}
 
+
+
 \section{Conclusions}
 
+Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
+
+\section{Related Work}
+
+Machine Learning in law is relatively an untapped market. There currently is not a predictor based on past legal proceedings. With that being said, there are two existing websites that offer services in law through machine learning:
+
+\textit{FindLaw.com}: A website that allows users to search for relevant lawyers based on legal needs and  provide legal counseling through a forum. A recommendation system is used for picking which lawyer is more relevant for the case at hand.
+
+\textit{Judicata}: Mapping unstructured legal data into a generative model to empower lawyers to find the most relevant and convincing past proceedings. This information then can be used to support an argument in court.
 
 
 \section{Future Work}
