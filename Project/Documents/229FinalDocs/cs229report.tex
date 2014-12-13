@@ -77,15 +77,23 @@ For all the models we used the SciKit-Learn package \cite{scikit-learn} for pyth
 
 \subsection{Naive Bayes}
 
-Details.
+The implementation of Naive Bayes that we used assumed that the likelihood of the features was normally distributed:
+
+\begin{equation}
+\begin{aligned}
+p(x_i | y) = \frac{1}{\sqrt{2 \pi \sigma_y^2}} \exp \left ( - \frac{(x_i - \mu_y)^2}{2\sigma_y^2}\right)
+\end{aligned}
+\end{equation}
+
+There were no other parameters to set for Naive Bayes, so after choosing the distribution to represent the likelihood of the features, we trained our model.
 
 \subsection{Random Forests}
 
-Details.
+When we first ran the out of the box random forest classifier from SciKit-Learn, we got an accuracy on the training set of 97\% and an accuracy on the testing set of around 53\%, illustrating that we were overfitting the training data. To remedy this issue, we set the max depth of the tree to be 7, which greatly improved our model. 
 
 \subsection{Logistic Regression}
 
-Details on regularization.
+When modeling the outcome of a legal case with logistic regression, we had the same issue with the out of the box algorithm. We were drastically overfitting the training data, which led to a poor accuracy on the training set. To fix this issue we used a logistic regression model with L2 regularization. This decreased our training set accuracy from 99\% to 67\%, and improved the performance of the model on the testing dataset. 
 
 \subsection{SVM}
 
@@ -97,13 +105,10 @@ Large table of results and confusion matrices.
 
 Important words/phrases
 
-\section{Related Work}
+\section{Discussion}
 
-Machine Learning in law is relatively an untapped market. There currently is not a predictor based on past legal proceedings. With that being said, there are two existing websites that offer services in law through machine learning:
-
-\textit{FindLaw.com}: A website that allows users to search for relevant lawyers based on legal needs and  provide legal counseling through a forum. A recommendation system is used for picking which lawyer is more relevant for the case at hand.
-
-\textit{Judicata}: Mapping unstructured legal data into a generative model to empower lawyers to find the most relevant and convincing past proceedings. This information then can be used to support an argument in court.
+Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%. Feature set can be improved by collaborating with legal professionals to add nuances and hand-select features
+Future work can be done on factor graph to improve correctness. Aspects such as demographics of the jury, state of the trial, time of the proceedings can be used.
 
 
 
@@ -112,10 +117,15 @@ Machine Learning in law is relatively an untapped market. There currently is not
 Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
 
 
-\section{Discussion}
 
-Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%. Feature set can be improved by collaborating with legal professionals to add nuances and hand-select features
-Future work can be done on factor graph to improve correctness. Aspects such as demographics of the jury, state of the trial, time of the proceedings can be used.
+
+\section{Related Work}
+
+Machine Learning in law is relatively an untapped market. There currently is not a predictor based on past legal proceedings. With that being said, there are two existing websites that offer services in law through machine learning:
+
+\textit{FindLaw.com}: A website that allows users to search for relevant lawyers based on legal needs and  provide legal counseling through a forum. A recommendation system is used for picking which lawyer is more relevant for the case at hand.
+
+\textit{Judicata}: Mapping unstructured legal data into a generative model to empower lawyers to find the most relevant and convincing past proceedings. This information then can be used to support an argument in court.
 
 \section{Future Work}
 
