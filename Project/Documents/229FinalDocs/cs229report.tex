@@ -67,7 +67,7 @@ To create the feature vectors, we used the \textit{Summary of Facts} section and
 
 First, we processed the raw text of the case briefs by transforming each word to its stem using the Lancaster Stemmer from the NLTK, Natural Language ToolKit \cite{Loper:2002:NNL:1118108.1118117}. We then formed a dictionary by scanning through all the words in our dataset. After forming the dictionary, we used the dictionary to represent the case briefs using the bag-of-words representation. In our representation, the $i$th element of the feature vector for an example corresponded to the number of times the $i$th stem occurred in the given case brief.
 
-We also experimented with adding bigrams and trigrams to the feature vectors. For the algorithms that took dense matrices as input, this made the input too large and cause the algorithms to take too long or run out of memory. However, the SVM implementation took in a sparse matrix input and this was able to run with bigrams and trigrams.
+We also experimented with adding bigrams and trigrams to the feature vectors. For Naive Bayes, random forests, and logistic regression the huge increase in the number of features caused the algorithms to take too long or run out of memory. However, the SVM implementation, which took in a sparse matrix input, was able to run with bigrams and trigrams.
 
 (Add part of example feature vector?)
 
