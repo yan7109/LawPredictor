@@ -34,15 +34,15 @@ Any major transaction, legal procedure, or patent dispute always requires an att
 Our dataset was obtained from \url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{fig:ExampleCaseBrief} is  an example of a very short case brief.
 
 \section{Baseline and Oracle Results}
-Before tackling the actual problem. We first considered taking the baseline and oracle results of the legal case predictor. The baseline solution was using linear regression to serve as a predictor of future cases. We used 3-grams from the input text for feature extraction.  When the new input was given, we extracted the features, and then used stochastic gradient descent to come up the learn-predictor to estimate the likelihood of the plaintiff winning the case. For the test data, we had an error rate of around 49\%. Using word features only got us around 51\% of correct prediction.
+Before tackling the actual problem. We first considered taking the baseline and oracle results of the legal case predictor. The baseline solution was using linear regression to serve as a predictor of future cases. We used 3-grams from the input text for feature extraction.  When the new input was given, we extracted the features, and then used stochastic gradient descent to come up the learning-predictor to estimate the likelihood of the plaintiff winning the case. For the test data, we had an error rate of around 49\%. Using word features only got us around 51\% of correct prediction.
 
-The oracle was a manual interpretation of facts and issues given a test case by the group members. We read over the facts of a legal proceeding, the interpretation of law which was under question, and used our common sense to give a probable decision. For legal matters that were not familiar to us, we would research laws of such matter and make human predictions. This would serve as our oracle. The test error would be small but still non- negligible because the group members are not of the legal profession. For our test cases of 20, we had an error rate of 10\%. 
+The oracle was a manual interpretation of facts and issues given a test case by the group members. We read over the facts of a legal proceeding, the interpretation of law which was under question, and used our common sense to give a probable decision. For legal matters that were not familiar to us, we would research laws of such matter and make human predictions. This would serve as our oracle. The test error would be small but still non-negligible because the group members are not of the legal profession. For our test cases of 20, we had an error rate of 10\%. 
 
 \section{Features and Preprocessing}
 
-First, we parsed the \textit{Verdict} section to obtain the binary labels for the cases. When the \textit{Verdict} was held, meaning the answer to the \textit{Issue of Law} was "yes," we gave a positive label to the example, but when the answer to the \textit{Issue of Law} was "no" we gave a negative label to the example. 
+First, we parsed the \textit{Verdict} section to obtain the binary labels for the cases. When the \textit{Verdict} was held, meaning the answer to the \textit{Issue of Law} was ``yes," we gave a positive label to the example, but when the answer to the \textit{Issue of Law} was ``no" we gave a negative label to the example. 
 
-After extracting the labels, we found that there were 2099 positive cases and 3737 negative cases.
+After extracting the labels, we found that there were 2099 positive cases and 3737 negative cases in our entire dataset.
 
 \subsection{Training and Testing Data}
 
@@ -67,9 +67,9 @@ To create the feature vectors, we used the \textit{Summary of Facts} section and
 
 First, we processed the raw text of the case briefs by transforming each word to its stem using the Lancaster Stemmer from the NLTK, Natural Language ToolKit \cite{Loper:2002:NNL:1118108.1118117}. We then formed a dictionary by scanning through all the words in our dataset. After forming the dictionary, we used the dictionary to represent the case briefs using the bag-of-words representation. In our representation, the $i$th element of the feature vector for an example corresponded to the number of times the $i$th stem occurred in the given case brief. In the \{key, value\} pair, key:string equals the stem (resp. n-gram) string, and value equals the count of that stem (resp. n-gram).
 
-We also experimented with adding bigrams and trigrams to the feature vectors. For the algorithms that took dense matrices as input, this made the input too large and cause the algorithms to take too long or run out of memory. However, the SVM implementation took in a sparse matrix input and this was able to run with bigrams and trigrams.
+We also experimented with adding bigrams and trigrams to the feature vectors. For Naive Bayes, random forests, and logistic regression the huge increase in the number of features caused the algorithms to take too long or run out of memory. However, the SVM implementation, which took in a sparse matrix input, was able to run with bigrams and trigrams.
 
-(Add part of example feature vector?)
+For example, if the case description was ``John was owed two weeks of pay for failing to submit his timecard''. After removing stop words and transforming words to their stems, we get \{``john'', ``owe'', ``two'', ``week'', ``pay'', ``fail'', ``submit'', ``timecard''\}. Now we count how many times each word and word gram appeared, and form the dictionary/feature vector we need: \{``john'' : 1, ``john owe'' : 1, ``john owe two'' : 1, ``owe'' : 1, ...\}
 
 \section{Models}
 
@@ -100,7 +100,9 @@ When modeling the outcome of a legal case with logistic regression, we had the s
 SVM model is implemented with the LIBSVM, which support training, predicting, configuring regularization, cross validation and so on. The input feature vector used in LIBSVM is defaultly dictionary, but the keys of the \{key, value\} must be int type.
 So there is a transformer that compress all the keys that appears in the output dictionaries of the feature extractor into a vector, and then use the index of each element in the compressed vector as the key of the input dictionaries of SVM. 
 
-The first try of SVM with features of word-counter gives around 99\% accuracy on the training set but around 50\% accuracy on the testing set, which indicated a overfitting problem. To solve the overfitting problem, we integrated NLTK and changed word to stem, which decreased the feature set. Another way we used is tuning the regularization parameter with 10-fold cross validation. Another technique we used is to remove stop words, such as "to", "and" and "is", from the feature set. We also tried removing the words that have too high or too low appearance frequency from the feature set, considering those words might be meaningless, but this technique did not give quality improvement.  
+At first SVM was heavily favoring negatively labeled examples. i.e. it's more likely to predict new examples as negatively labeled. We fixed this by setting the gamma variable to 0.005.
+
+Then SVM with features of word-counter gives around 99\% accuracy on the training set but around 50\% accuracy on the testing set, which indicated a overfitting problem. To solve the overfitting problem, we integrated NLTK and changed word to stem, which decreased the feature set. Another technique we used is to remove stop words, such as "to", "and" and "is", from the feature set. We also tried removing the words that have too high or too low appearance frequency from the feature set, considering those words might be meaningless, but this technique did not give quality improvement.
 
 Our work decreased the training accuracy to around 60\% and increased the testing accuracy to around 60\%. The fact that the training error was similar to the testing error indicated that the overfitting is fixed. 
 
