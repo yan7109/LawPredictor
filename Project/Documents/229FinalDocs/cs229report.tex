@@ -24,14 +24,14 @@ Any major transaction, legal procedure, or patent dispute always requires an att
 
 \section{Dataset}
 
-Our dataset was obtained from \url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{ExampleCaseBrief} is  an example of a very short case brief.
-
 \begin{figure}
     \centering
     \includegraphics[width=3.5in]{exampleCaseBrief.jpg}
     \caption{Example Case Brief}
-    \label{ExampleCaseBrief}
+    \label{fig:ExampleCaseBrief}
 \end{figure}
+
+Our dataset was obtained from \url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{fig:ExampleCaseBrief} is  an example of a very short case brief.
 
 \section{Baseline and Oracle Results}
 Before tackling the actual problem. We first considered taking the baseline and oracle results of the legal case predictor. The baseline solution was using linear regression to serve as a predictor of future cases. We used 3-grams from the input text for feature extraction.  When the new input was given, we extracted the features, and then used stochastic gradient descent to come up the learn-predictor to estimate the likelihood of the plaintiff winning the case. For the test data, we had an error rate of around 49\%. Using word features only got us around 51\% of correct prediction.
