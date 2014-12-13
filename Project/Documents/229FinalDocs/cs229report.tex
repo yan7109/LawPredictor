@@ -65,7 +65,7 @@ Negative Examples &	1900 &	200 \\
 
 To create the feature vectors, we used the \textit{Summary of Facts} section and \textit{Issue of Law} section. We did not use any of the text from the \textit{Verdict} section because that section was used to determine the positive or negative label.
 
-First, we processed the raw text of the case briefs by transforming each word to its stem using the Lancaster Stemmer from the NLTK, Natural Language ToolKit \cite{Loper:2002:NNL:1118108.1118117}. We then formed a dictionary by scanning through all the words in our dataset. After forming the dictionary, we used the dictionary to represent the case briefs using the bag-of-words representation. In our representation, the $i$th element of the feature vector for an example corresponded to the number of times the $i$th stem occurred in the given case brief.
+First, we processed the raw text of the case briefs by transforming each word to its stem using the Lancaster Stemmer from the NLTK, Natural Language ToolKit \cite{Loper:2002:NNL:1118108.1118117}. We then formed a dictionary by scanning through all the words in our dataset. After forming the dictionary, we used the dictionary to represent the case briefs using the bag-of-words representation. In our representation, the $i$th element of the feature vector for an example corresponded to the number of times the $i$th stem occurred in the given case brief. In the \{key, value\} pair, key:string equals the stem (resp. n-gram) string, and value equals the count of that stem (resp. n-gram).
 
 We also experimented with adding bigrams and trigrams to the feature vectors. For the algorithms that took dense matrices as input, this made the input too large and cause the algorithms to take too long or run out of memory. However, the SVM implementation took in a sparse matrix input and this was able to run with bigrams and trigrams.
 
@@ -97,7 +97,12 @@ When modeling the outcome of a legal case with logistic regression, we had the s
 
 \subsection{SVM}
 
-Details on SVM.
+SVM model is implemented with the LIBSVM, which support training, predicting, configuring regularization, cross validation and so on. The input feature vector used in LIBSVM is defaultly dictionary, but the keys of the \{key, value\} must be int type.
+So there is a transformer that compress all the keys that appears in the output dictionaries of the feature extractor into a vector, and then use the index of each element in the compressed vector as the key of the input dictionaries of SVM. 
+
+The first try of SVM with features of word-counter gives around 99\% accuracy on the training set but around 50\% accuracy on the testing set, which indicated a overfitting problem. To solve the overfitting problem, we integrated NLTK and changed word to stem, which decreased the feature set. Another way we used is tuning the regularization parameter with 10-fold cross validation. Another technique we used is to remove stop words, such as "to", "and" and "is", from the feature set. We also tried removing the words that have too high or too low appearance frequency from the feature set, considering those words might be meaningless, but this technique did not give quality improvement.  
+
+Our work decreased the training accuracy to around 60\% and increased the testing accuracy to around 60\%. The fact that the training error was similar to the testing error indicated that the overfitting is fixed. 
 
 \section{Results}
 
@@ -107,16 +112,18 @@ Important words/phrases
 
 \section{Discussion}
 
-Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%. Feature set can be improved by collaborating with legal professionals to add nuances and hand-select features
-Future work can be done on factor graph to improve correctness. Aspects such as demographics of the jury, state of the trial, time of the proceedings can be used.
+Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%.
 
+The difficulty of this problem is that the legal information in the case brief is sophisticated, with many domain specific knowledge background. And our predicting output is not the normal true or false classification of the text like that in the spam email classifcation. What we are predicting is the relationship between the two entities in the case, the plaintiff and the defendant. The relationship is either the plaintiff defeating the defendant or the defendant defeating the plaintiff.
+
+To address the first problem, feature set can be improved by collaborating with legal professionals to add nuances and hand-select features. With more domain specific knowledge, we can extract much more meaningful features besides the word counter.
+
+We proposed using information extraction techniques to solve the second problem. The factor graph model is a good fit for extracting relationship between the plaintiff and the defendant. Important legal words and dependency paths between the two entities can be added as factors. And we also need entity linking to recognize mentions in the sentences. Since none of us have experience using these techniques, we did not implement these models in the current version given the time limit. 
 
 
 \section{Conclusions}
 
 Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
-
-
 
 
 \section{Related Work}
@@ -128,6 +135,10 @@ Machine Learning in law is relatively an untapped market. There currently is not
 \textit{Judicata}: Mapping unstructured legal data into a generative model to empower lawyers to find the most relevant and convincing past proceedings. This information then can be used to support an argument in court.
 
 \section{Future Work}
+
+As mentioned in the disscussion section, integrating more domain specific knowledge and using relation extraction model together with more sophiscated NLP techniques may result in much better predicting accuracy.
+
+Besides, to help the users interact with our artificial counselor easily, an UI is needed. The UI should have at least two fields for users to input, case facts and issues. And the output is the predicted winning or losing.
 
 \begin{thebibliography}{1}
 
