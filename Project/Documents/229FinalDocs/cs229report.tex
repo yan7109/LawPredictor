@@ -69,7 +69,7 @@ First, we processed the raw text of the case briefs by transforming each word to
 
 We also experimented with adding bigrams and trigrams to the feature vectors. For Naive Bayes, random forests, and logistic regression the huge increase in the number of features caused the algorithms to take too long or run out of memory. However, the SVM implementation, which took in a sparse matrix input, was able to run with bigrams and trigrams.
 
-(Add part of example feature vector?)
+For example, if the case description was ``John was owed two weeks of pay for failing to submit his timecard''. After removing stop words and transforming words to their stems, we get \{``john'', ``owe'', ``two'', ``week'', ``pay'', ``fail'', ``submit'', ``timecard''\}. Now we count how many times each word and word gram appeared, and form the dictionary/feature vector we need: \{``john'' : 1, ``john owe'' : 1, ``john owe two'' : 1, ``owe'' : 1, ...\}
 
 \section{Models}
 
