@@ -1,5 +1,5 @@
 \documentclass[journal]{IEEEtran}
-\usepackage{fullpage,enumitem,amsfonts,amsmath,amssymb,graphicx, cite}
+\usepackage{fullpage,enumitem,amsfonts,amsmath,amssymb,graphicx,cite,hyperref}
 
 \begin{document}
 \title{Personal Legal Counselor and Interpreter of the Law via Machine Learning}
@@ -10,7 +10,7 @@
 \maketitle
 
 \begin{abstract}
-The goal of this project was to predict the likelihood of winning a new legal dispute based on results of past cases. We collected over 5000 legal proceedings in the form of case briefs from the internet and used various language processing techniques to parse the raw text into feature vectors. We then used this feature vectors to train several binary classification algorithms, including Naive Bayes, random forests, logistic regression and an SVM. The SVM model achieved the highest test set accuracy of 62\%, which was an improvement over the random 50\% baseline. In this paper, we explain the details of how we transformed the raw text of the case briefs into feature vectors, and how we used them to build several models. We then discuss the results obtained by each of the models and suggest future work that could be done in the area.
+The goal of this project was to predict the likelihood of winning a new legal dispute based on results of past cases. We collected over 5000 legal proceedings in the form of case briefs from the internet and used various language processing techniques to parse the raw text into feature vectors. We then used this feature vectors to train several binary classification algorithms, including Naive Bayes, random forrests, logistic regression and an SVM. The SVM model achieved the highest test set accuracy of 62\%, which was an improvement over the random 50\% baseline. In this paper, we explain the details of how we transformed the raw text of the case briefs into feature vectors, and how we used them to build several models for prediction. We then discuss the results obtained by each of the models and suggest future work that could be done in the area.
 \end{abstract}
 
 \begin{keywords}
@@ -18,13 +18,13 @@ law, machine learning, case briefs, court cases.
 \end{keywords}
 
 \section{Introduction}
-\IEEEPARstart{``T} he first thing we do, let?s kill all the lawyers'' - William Shakespeare, 2 Henry VI, 4.2.59. 
+\IEEEPARstart{``T} he first thing we do, let's kill all the lawyers'' - William Shakespeare, 2 Henry VI, 4.2.59. 
 
 Any major transaction, legal procedure, or patent dispute always requires an attorney-at-law in the due process. However, paying an attorney, even for a consultation, can be too expensive and out of reach for much of the population. Due to the exorbitant cost of legal action, many cases are unresolved or dropped. Our goal was to create a tool that would provide legal counsel to people who would otherwise not have access to it. In particular, our model would tell someone the probability they have of winning a given case, which would allow them to make the a better decision of whether or not to pursue further legal action. 
 
 \section{Dataset}
 
-Our dataset was obtained from url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{ExampleCaseBrief} is  an example of a very short case brief.
+Our dataset was obtained from \url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{ExampleCaseBrief} is  an example of a very short case brief.
 
 \begin{figure}
     \centering
