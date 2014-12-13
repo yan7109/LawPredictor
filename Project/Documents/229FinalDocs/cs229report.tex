@@ -70,6 +70,8 @@ Negative Examples &	1900 &	200 \\
 \end{tabular}
 \end{table}
 
+Since we had a sufficient amount of positive and negative examples, we chose training and testing datasets with equal number of positive and negative samples to make it easier to analyze and compare the performance of our models.
+
 \subsection{Feature Generation}
 
 To create the feature vectors, we used the \textit{Summary of Facts} section and \textit{Issue of Law} section. We did not use any of the text from the \textit{Verdict} section because that section was used to determine the positive or negative label.
@@ -117,6 +119,8 @@ Our work decreased the training accuracy to around 60\% and increased the testin
 
 \section{Results}
 
+The table below shows the training and testing error for each algorithm. 
+
 \begin{table}[ht]
 \centering
 \begin{tabular}{rrr}
@@ -126,10 +130,14 @@ Model & Training Set Accuracy & Testing Set Accuracy \\
 Naive Bayes &	0.9463 & 0.5879	\\
 Random Forests & 0.6318 &  0.5639	 \\
 L2 Reg. LogReg  &	0.6768 &	0.6080 \\
-SVM & 0.9520 &  0.6210 \\
+SVM & 0.6920 &  0.6210 \\
    \hline
 \end{tabular}
 \end{table}
+
+Here we see that the SVM had the best performance on the testing dataset. It was able to achieve 62.1\% accuracy.
+
+In addition, Fig.  \ref{fig:nb}, Fig.  \ref{fig:rf}, Fig.  \ref{fig:logReg}, Fig.  \ref{fig:SVM}, show the confusion matrices for each classifier. In the discussion section, we compare and contrast these results.
 
 \begin{figure}
     \centering
@@ -142,7 +150,7 @@ SVM & 0.9520 &  0.6210 \\
     \centering
     \includegraphics[width=3in]{rfConfusion.png}
     \caption{Random Forest Confusion Matrix}
-    \label{fig:nb}
+    \label{fig:rf}
 \end{figure}
 
 \begin{figure}
@@ -166,25 +174,33 @@ SVM & 0.9520 &  0.6210 \\
     \label{fig:msf}
 \end{figure}
 
-Large table of results and confusion matrices.
-
-Important words/phrases
-
 \section{Discussion}
+
+\subsection{Most Indicative Features}
+
+To determine the most indicative features, we looked at the top five coefficients of the logistic regression model with the largest positive magnitude and the top five features with the largest negative magnitude. After mapping these stems back to their original words, we created the table illustrated in Fig. \ref{fig:msf}. We do see some interesting domain specific words come up, such as "evidence." It makes sense that the frequency of a word like "evidence" in the case brief would lead to a larger probability of winning the case because there is likely more evidence for the plaintiff. 
+
+\subsection{Comparison of Models}
+
+The confusion matrices give more information about how the binary classifier performed and make it easier to compare the four models. Both the Naive Bayes model and the random forest model have a very large number of false positives. A false positive in this case would be a bad result because you would advise someone to pursue legal action even when they have a large probability of losing the case. So, not only do Naive Bayes and random forests have a lower accuracy than the other two models, but they are worse because of the large number of false positives they have. In fact, the precision of each of these is less than 50\%.
+
+In contrast, the logistic regression model and the SVM have much more balanced confusion matrices. They have about the same false positive and false negative rates. The precision of both of these models is over 62\%, which makes them much more desirable. Since the SVM has the best precision and the best accuracy, this is the best model out of the four. It's accuracy is 62.1\% and its precision is 62.5\%. 
+
+\subsection{Analysis of Accuracy}
+
+We believe that predicting the outcome of a legal case just from the raw text of the case brief 62\% of the time is a reasonable result for the first attempt at a very challenging problem. 
 
 Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%.
 
-The difficulty of this problem is that the legal information in the case brief is sophisticated, with many domain specific knowledge background. And our predicting output is not the normal true or false classification of the text like that in the spam email classifcation. What we are predicting is the relationship between the two entities in the case, the plaintiff and the defendant. The relationship is either the plaintiff defeating the defendant or the defendant defeating the plaintiff.
+The difficulty of this problem is that the legal information in the case brief is sophisticated, with many domain specific knowledge background. And our predicting output is not the normal true or false classification of the text like that in the spam email classification. What we are predicting is the relationship between the two entities in the case, the plaintiff and the defendant. The relationship is either the plaintiff defeating the defendant or the defendant defeating the plaintiff.
 
 To address the first problem, feature set can be improved by collaborating with legal professionals to add nuances and hand-select features. With more domain specific knowledge, we can extract much more meaningful features besides the word counter.
 
 We proposed using information extraction techniques to solve the second problem. The factor graph model is a good fit for extracting relationship between the plaintiff and the defendant. Important legal words and dependency paths between the two entities can be added as factors. And we also need entity linking to recognize mentions in the sentences. Since none of us have experience using these techniques, we did not implement these models in the current version given the time limit. 
 
-
 \section{Conclusions}
 
-Legal dispute outcome was predicted with an accuracy of around 62\% based on past court findings using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3. The labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction. Ten fold cross validation was used for training and testing. Each model had similar accuracy around 62\% while training error was also around 64\%. 
-
+The outcome of a legal dispute was predicted with an accuracy of around 62\% based on just the case brief using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3, and the labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction, and the SVM model achieved the best performance. 
 
 \section{Related Work}
 
@@ -196,9 +212,13 @@ Machine Learning in law is relatively an untapped market. There currently is not
 
 \section{Future Work}
 
-As mentioned in the disscussion section, integrating more domain specific knowledge and using relation extraction model together with more sophiscated NLP techniques may result in much better predicting accuracy.
+As mentioned in the discussion section, integrating more domain specific knowledge and using relation extraction model together with more sophisticated NLP techniques may result in a more accurate model. 
 
 Besides, to help the users interact with our artificial counselor easily, an UI is needed. The UI should have at least two fields for users to input, case facts and issues. And the output is the predicted winning or losing.
+
+Here is the link to the code for this project:
+
+\url{https://github.com/yan7109/LawPredictor}
 
 \begin{thebibliography}{1}
 
