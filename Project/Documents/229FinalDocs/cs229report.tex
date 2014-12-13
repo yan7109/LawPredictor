@@ -97,7 +97,7 @@ When modeling the outcome of a legal case with logistic regression, we had the s
 
 \subsection{SVM}
 
-Details on SVM.
+At first SVM was heavily favoring negatively labeled examples. i.e. it's more likely to predict new examples as negatively labeled. We fixed this by setting the gamma variable to 0.005. This fixed the issue. However, SVM suffers overfitting just like the other models, the training accuracy (95\%) is way higher than the testing accuracy.
 
 \section{Results}
 
