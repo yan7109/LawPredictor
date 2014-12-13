@@ -10,7 +10,7 @@
 \maketitle
 
 \begin{abstract}
-The goal of this project was to predict the likelihood of winning a new legal dispute based on results of past cases. We collected over 5000 legal proceedings in the form of case briefs from the internet and used various language processing techniques to parse the raw text into feature vectors. We then used this feature vectors to train several binary classification algorithms, including Naive Bayes, random forests, logistic regression and an SVM. The SVM model achieved the highest test set accuracy of 62\%, which was an improvement over the random 50\% baseline. In this paper, we explained the details of how we transformed the raw text of the case briefs into feature vectors, and how we used them to build several models for prediction. We then discussed the results obtained by each of the models and suggested future work that could be done in the area.
+The goal of this project was to predict the likelihood of winning a new legal dispute based on results of past cases. We collected over 5000 legal proceedings in the form of case briefs from the internet and used various language processing techniques to parse the raw text into feature vectors. We then used this feature vectors to train several binary classification algorithms, including Naive Bayes, Random Forest, logistic regression and an SVM. The SVM model achieved the highest test set accuracy of 62\%, which was an improvement over the random 50\% baseline. In this paper, we explained the details of how we transformed the raw text of the case briefs into feature vectors, and how we used them to build several models for prediction. We then discussed the results obtained by each of the models and suggested future work that could be done in the area.
 \end{abstract}
 
 \begin{keywords}
@@ -78,7 +78,7 @@ To create the feature vectors, we used the \textit{Summary of Facts} section and
 
 First, we processed the raw text of the case briefs by transforming each word to its stem using the Lancaster Stemmer from the NLTK, Natural Language ToolKit \cite{Loper:2002:NNL:1118108.1118117}. We then formed a dictionary by scanning through all the words in our dataset. After forming the dictionary, we used the dictionary to represent the case briefs using the bag-of-words representation. In our representation, the $i$th element of the feature vector for an example corresponded to the number of times the $i$th stem occurred in the given case brief. In the \{key, value\} pair, key:string equals the stem (resp. n-gram) string, and value equals the count of that stem (resp. n-gram).
 
-We also experimented with adding bigrams and trigrams to the feature vectors. For Naive Bayes, random forests, and logistic regression the huge increase in the number of features caused the algorithms to take too long or run out of memory. However, the SVM implementation, which took in a sparse matrix input, was able to run with bigrams and trigrams.
+We also experimented with adding bigrams and trigrams to the feature vectors. For Naive Bayes, Random Forest, and logistic regression, the huge increase in the number of features caused the algorithms to take too long or run out of memory. However, the SVM implementation, which took in a sparse matrix input, was able to run with bigrams and trigrams.
 
 For example, if the case description was ``John was owed two weeks of pay for failing to submit his timecard''. After removing stop words and transforming words to their stems, we get \{``john'', ``owe'', ``two'', ``week'', ``pay'', ``fail'', ``submit'', ``timecard''\}. Now we count how many times each word and word gram appeared, and form the dictionary/feature vector we need: \{``john'' : 1, ``john owe'' : 1, ``john owe two'' : 1, ``owe'' : 1, ...\}
 
@@ -98,22 +98,22 @@ p(x_i | y) = \frac{1}{\sqrt{2 \pi \sigma_y^2}} \exp \left ( - \frac{(x_i - \mu_y
 
 There were no other parameters to set for Naive Bayes, so after choosing the distribution to represent the likelihood of the features, we trained our model.
 
-\subsection{Random Forests}
+\subsection{Random Forest}
 
-When we first ran the out of the box random forest classifier from SciKit-Learn, we got an accuracy on the training set of 97\% and an accuracy on the testing set of around 53\%, illustrating that we were overfitting the training data. To remedy this issue, we set the max depth of the tree to be 6, which greatly improved our model. 
+When we first ran the out-of-the-box Random Forest classifier from SciKit-Learn, we got an accuracy on the training set of 97\% and an accuracy on the testing set of around 53\%, illustrating that we were overfitting the training data. To remedy this issue, we set the max depth of the tree to be 6, which greatly improved our overfitting problem. 
 
 \subsection{Logistic Regression}
 
-When modeling the outcome of a legal case with logistic regression, we had the same issue with the out of the box algorithm. We were drastically overfitting the training data, which led to a poor accuracy on the training set. To fix this issue we used a logistic regression model with L2 regularization. This decreased our training set accuracy from 99\% to 67\%, and improved the performance of the model on the testing dataset. 
+When modeling the outcome of a legal case with logistic regression, we had the same issue with the out-of-the-box algorithm. We were drastically overfitting the training data, which led to a poor accuracy on the testing set. To fix this issue, we used a logistic regression model with L2 regularization. This decreased our training set accuracy from 99\% to 67\%, and improved the performance of the model on the testing dataset. 
 
 \subsection{SVM}
 
-SVM model is implemented with the LIBSVM, which support training, predicting, configuring regularization, cross validation and so on. The input feature vector used in LIBSVM is defaultly dictionary, but the keys of the \{key, value\} must be int type.
-So there is a transformer that compress all the keys that appears in the output dictionaries of the feature extractor into a vector, and then use the index of each element in the compressed vector as the key of the input dictionaries of SVM. 
+SVM model was implemented with the LIBSVM, which supports training, predicting, configuring regularization, cross validation and so on. The input feature vector used in LIBSVM was defaultly dictionary, but the keys of the \{key, value\} must be int type.
+So there was a transformer that compressed all the keys that appeared in the output dictionaries of the feature extractor into a vector, and then used the index of each element in the compressed vector as the key of the input dictionaries of SVM. 
 
-At first SVM was heavily favoring negatively labeled examples. i.e. it's more likely to predict new examples as negatively labeled. We fixed this by setting the gamma variable to 0.005.
+At first SVM was heavily favoring negatively labeled examples. i.e. it was more likely to predict new examples as negatively labeled. We fixed this by setting the gamma variable of radial basis function kernel to 0.005.
 
-Then SVM with features of word-counter gives around 99\% accuracy on the training set but around 50\% accuracy on the testing set, which indicated a overfitting problem. To solve the overfitting problem, we integrated NLTK and changed word to stem, which decreased the feature set. Another technique we used is to remove stop words, such as "to", "and" and "is", from the feature set. We also tried removing the words that have too high or too low appearance frequency from the feature set, considering those words might be meaningless, but this technique did not give quality improvement.
+Then SVM with features of word-counter gave around 99\% accuracy on the training set but around 50\% accuracy on the testing set, which indicated a overfitting problem. To solve the overfitting problem, we integrated NLTK and changed word to stem, which decreased the feature set. Another technique we used was to remove stop words, such as "to", "and" and "is", from the feature set. We also tried removing the words that have too high or too low appearance frequency from the feature set, considering those words might be meaningless, but this technique did not give quality improvement.
 
 Our work decreased the training accuracy to around 60\% and increased the testing accuracy to around 60\%. The fact that the training error was similar to the testing error indicated that the overfitting is fixed. 
 
@@ -128,7 +128,7 @@ The table below shows the training and testing error for each algorithm.
 Model & Training Set Accuracy & Testing Set Accuracy \\
   \hline
 Naive Bayes &	0.9463 & 0.5879	\\
-Random Forests & 0.6318 &  0.5639	 \\
+Random Forest & 0.6318 &  0.5639	 \\
 L2 Reg. LogReg  &	0.6768 &	0.6080 \\
 SVM & 0.6920 &  0.6210 \\
    \hline
@@ -141,28 +141,28 @@ In addition, Fig.  \ref{fig:nb}, Fig.  \ref{fig:rf}, Fig.  \ref{fig:logReg}, Fig
 
 \begin{figure}
     \centering
-    \includegraphics[width=3in]{nbConfusion.png}
+    \fbox{\includegraphics[width=3in]{nbConfusion.png}}
     \caption{Naive Bayes Confusion Matrix}
     \label{fig:nb}
 \end{figure}
 
 \begin{figure}
     \centering
-    \includegraphics[width=3in]{rfConfusion.png}
+    \fbox{\includegraphics[width=3in]{rfConfusion.png}}
     \caption{Random Forest Confusion Matrix}
     \label{fig:rf}
 \end{figure}
 
 \begin{figure}
     \centering
-    \includegraphics[width=3in]{logregConfusion.png}
+    \fbox{\includegraphics[width=3in]{logregConfusion.png}}
     \caption{L2 Logistic Regression Confusion Matrix}
     \label{fig:logReg}
 \end{figure}
 
 \begin{figure}
     \centering
-    \includegraphics[width=3in]{svmConfusion.png}
+    \fbox{\includegraphics[width=3in]{svmConfusion.png}}
     \caption{SVM Confusion Matrix}
     \label{fig:SVM}
 \end{figure}
@@ -182,13 +182,13 @@ To determine the most indicative features, we looked at the top five coefficient
 
 \subsection{Comparison of Models}
 
-The confusion matrices give more information about how the binary classifier performed and make it easier to compare the four models. Both the Naive Bayes model and the random forest model have a very large number of false positives. A false positive in this case would be a bad result because you would advise someone to pursue legal action even when they have a large probability of losing the case. So, not only do Naive Bayes and random forests have a lower accuracy than the other two models, but they are worse because of the large number of false positives they have. In fact, the precision of each of these is less than 50\%.
+The confusion matrices give more information about how the binary classifier performed and make it easier to compare the four models. Both the Naive Bayes model and the Random Forest model have a very large number of false positives. A false positive in this case would be a bad result because you would advise someone to pursue legal action even when they have a large probability of losing the case. So, not only do Naive Bayes and Random Forest have a lower accuracy than the other two models, but they are worse because of the large number of false positives they have. In fact, the precision of each of these is less than 50\%.
 
 In contrast, the logistic regression model and the SVM have much more balanced confusion matrices. They have about the same false positive and false negative rates. The precision of both of these models is over 62\%, which makes them much more desirable. Since the SVM has the best precision and the best accuracy, this is the best model out of the four. It's accuracy is 62.1\% and its precision is 62.5\%. 
 
 \subsection{Analysis of Accuracy}
 
-We believe that predicting the outcome of a legal case just from the raw text of the case brief 62\% of the time is a reasonable result for the first attempt at a very challenging problem. 
+We believe that predicting the outcome of a legal case just from the raw text of the case brief with an accuracy of 62\% is a reasonable result for the first attempt at a very challenging problem. 
 
 Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs \cite{ObjectiveAndSubjective}. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%.
 
@@ -200,7 +200,7 @@ We proposed using information extraction techniques to solve the second problem.
 
 \section{Conclusions}
 
-The outcome of a legal dispute was predicted with an accuracy of around 62\% based on just the case brief using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3, and the labels were the verdicts of the proceeding. Naive Bayes, Random Forests, Logistic Regression and SVM were the four models used for prediction, and the SVM model achieved the best performance. 
+The outcome of a legal dispute was predicted with an accuracy of around 62\% based on just the case brief using machine learning techniques. Past proceedings in the form of case briefs were used to extract features and labels. Feature extractor used techniques in NLP to remove word stems and map words of similar categories. The features that we used in the end were word grams with length 1, 2 and 3, and the labels were the verdicts of the proceeding. Naive Bayes, Random Forest, Logistic Regression and SVM were the four models used for prediction, and the SVM model achieved the best performance. 
 
 \section{Related Work}
 
