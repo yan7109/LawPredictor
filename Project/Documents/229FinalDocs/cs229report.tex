@@ -190,7 +190,7 @@ In contrast, the logistic regression model and the SVM have much more balanced c
 
 We believe that predicting the outcome of a legal case just from the raw text of the case brief 62\% of the time is a reasonable result for the first attempt at a very challenging problem. 
 
-Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs [2]. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%.
+Legal proceeding labels are subjective in the sense that ruling are influenced by the sentiment of the jury and may not be captured fully in case briefs \cite{ObjectiveAndSubjective}. An oracle of manually studying a dispute and researching online to give a well-informed prediction only results in a correctness of 90\%.
 
 The difficulty of this problem is that the legal information in the case brief is sophisticated, with many domain specific knowledge background. And our predicting output is not the normal true or false classification of the text like that in the spam email classification. What we are predicting is the relationship between the two entities in the case, the plaintiff and the defendant. The relationship is either the plaintiff defeating the defendant or the defendant defeating the plaintiff.
 
@@ -220,16 +220,10 @@ Here is the link to the code for this project:
 
 \url{https://github.com/yan7109/LawPredictor}
 
-\begin{thebibliography}{1}
+\bibliographystyle{abbrv}
 
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-  \bibitem{IEEEhowto:kopka}
-  B. M. McKimmie et al, “Objective and Subjective Comprehensions of Jury Instructions in Criminal Trials” in \textit{New Criminal Law Review}, Vol. 17., Number 2. University of California: pps 163-183. 
+\bibliography{cs229report.bib}
 
-
-\end{thebibliography}
 
 
 \end{document}
