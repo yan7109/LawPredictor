@@ -40,8 +40,8 @@ TOTAL_SET_SIZE = 5863
 TRAINING_NEGATIVE_SIZE = 1900
 TRAINING_POSITIVE_SIZE = 1900
 
-TESTING_NEGATIVE_SIZE = 199
-TESTING_POSITIVE_SIZE = 199
+TESTING_NEGATIVE_SIZE = 200
+TESTING_POSITIVE_SIZE = 200
 
 # To start, must create a FeatureExtractor object.
 fe = feature_extractor.FeatureExtractor()
@@ -143,7 +143,7 @@ print("Number of positive examples in testing: %d" % pos)
 print("Training...")
 (X, y) = transform_features_to_matrix(training, words)
 
-clf = RandomForestClassifier(n_estimators=10,max_depth=5)
+clf = RandomForestClassifier(n_estimators=10,max_depth=6)
 clf.fit(X, y)
 
 # Compute training set error:

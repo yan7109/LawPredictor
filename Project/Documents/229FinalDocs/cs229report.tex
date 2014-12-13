@@ -98,7 +98,7 @@ There were no other parameters to set for Naive Bayes, so after choosing the dis
 
 \subsection{Random Forests}
 
-When we first ran the out of the box random forest classifier from SciKit-Learn, we got an accuracy on the training set of 97\% and an accuracy on the testing set of around 53\%, illustrating that we were overfitting the training data. To remedy this issue, we set the max depth of the tree to be 7, which greatly improved our model. 
+When we first ran the out of the box random forest classifier from SciKit-Learn, we got an accuracy on the training set of 97\% and an accuracy on the testing set of around 53\%, illustrating that we were overfitting the training data. To remedy this issue, we set the max depth of the tree to be 6, which greatly improved our model. 
 
 \subsection{Logistic Regression}
 
@@ -116,6 +116,55 @@ Then SVM with features of word-counter gives around 99\% accuracy on the trainin
 Our work decreased the training accuracy to around 60\% and increased the testing accuracy to around 60\%. The fact that the training error was similar to the testing error indicated that the overfitting is fixed. 
 
 \section{Results}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrr}
+  \hline
+Model & Training Set Accuracy & Testing Set Accuracy \\
+  \hline
+Naive Bayes &	0.9463 & 0.5879	\\
+Random Forests & 0.6318 &  0.5639	 \\
+L2 Reg. LogReg  &	0.6768 &	0.6080 \\
+SVM & 0.9520 &  0.6210 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=3in]{nbConfusion.png}
+    \caption{Naive Bayes Confusion Matrix}
+    \label{fig:nb}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=3in]{rfConfusion.png}
+    \caption{Random Forest Confusion Matrix}
+    \label{fig:nb}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=3in]{logregConfusion.png}
+    \caption{L2 Logistic Regression Confusion Matrix}
+    \label{fig:logReg}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=3in]{svmConfusion.png}
+    \caption{SVM Confusion Matrix}
+    \label{fig:SVM}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=3in]{mostIndicativeFeatures.png}
+    \caption{Most Indicative Features}
+    \label{fig:msf}
+\end{figure}
 
 Large table of results and confusion matrices.
 
