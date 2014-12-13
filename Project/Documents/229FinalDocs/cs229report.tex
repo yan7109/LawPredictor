@@ -22,8 +22,6 @@ law, machine learning, case briefs, court cases.
 
 Any major transaction, legal procedure, or patent dispute always requires an attorney-at-law in the due process. However, paying an attorney, even for a consultation, can be too expensive and out of reach for much of the population. Due to the exorbitant cost of legal action, many cases are unresolved or dropped. Our goal was to create a tool that would provide legal counsel to people who would otherwise not have access to it. In particular, our model would tell someone the probability they have of winning a given case, which would allow them to make the a better decision of whether or not to pursue further legal action. 
 
-The processing flow is shown in the Fig. \ref{fig:ProcessingFlow}
-
 \begin{figure}
     \centering
     \includegraphics[width=3.5in]{flow.png}
@@ -39,6 +37,8 @@ The processing flow is shown in the Fig. \ref{fig:ProcessingFlow}
     \caption{Example Case Brief}
     \label{fig:ExampleCaseBrief}
 \end{figure}
+
+The processing flow is shown in the Fig. \ref{fig:ProcessingFlow}
 
 Our dataset was obtained from \url{www.casebriefs.com}. It consisted of 5,836 legal case briefs, where each case brief was split up into four segments of text, the \textit{Parties in Dispute}, the \textit{Summary of Facts}, the \textit{Issue of Law}, and the \textit{Verdict}. Fig. \ref{fig:ExampleCaseBrief} is  an example of a very short case brief.
 
